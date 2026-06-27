@@ -271,6 +271,1146 @@
           "end": 230.88
         }
       ]
+    },
+    {
+      "id": "358fd78c8147",
+      "title": "Hot weather alert",
+      "date": "2026-06-27",
+      "folder": "BBC",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
+      "sentences": [
+        {
+          "index": 0,
+          "text": "The spell of extreme heat this month has seen the UK record for June broken.",
+          "start": 0.0,
+          "end": 4.792
+        },
+        {
+          "index": 1,
+          "text": "The new top temperature for this month was just over 36 degrees, recorded in Gosport in Hampshire.",
+          "start": 4.792,
+          "end": 11.386
+        },
+        {
+          "index": 2,
+          "text": "The Met Office has extended the current red extreme heat warning, meaning a risk to life, until the end of tomorrow.",
+          "start": 11.586,
+          "end": 18.249
+        },
+        {
+          "index": 3,
+          "text": "It now covers more parts of southern England across Dorset, Hampshire and Sussex.",
+          "start": 18.369,
+          "end": 23.211
+        },
+        {
+          "index": 4,
+          "text": "It's also issued another amber warning for heat for Friday, covering eastern and central England.",
+          "start": 23.452,
+          "end": 29.935
+        },
+        {
+          "index": 5,
+          "text": "People stranded in heavy traffic for hours following a serious crash between a van and lorry on the M25",
+          "start": 30.155,
+          "end": 36.138
+        },
+        {
+          "index": 6,
+          "text": "have been treated for heat -related illnesses.",
+          "start": 36.818,
+          "end": 39.459
+        },
+        {
+          "index": 7,
+          "text": "Rail passengers were told not to travel unless it was completely essential.",
+          "start": 39.74,
+          "end": 44.262
+        },
+        {
+          "index": 8,
+          "text": "More than 1 ,000 schools in England and Wales were shut or closed early because of today's soaring temperatures and there's more on the way.",
+          "start": 44.723,
+          "end": 53.367
+        },
+        {
+          "index": 9,
+          "text": "Helena Wilkinson reports. reports.",
+          "start": 53.467,
+          "end": 55.608
+        },
+        {
+          "index": 10,
+          "text": "Sunrise this morning and many parts of the UK were braced for a day of soaring temperatures.",
+          "start": 56.228,
+          "end": 62.951
+        },
+        {
+          "index": 11,
+          "text": "The impact today across many parts of our lives has been severe.",
+          "start": 63.132,
+          "end": 67.914
+        },
+        {
+          "index": 12,
+          "text": "This morning, commuters struggled with the already uncomfortable heat under the blazing sun.",
+          "start": 68.254,
+          "end": 74.537
+        },
+        {
+          "index": 13,
+          "text": "Rail passengers faced cancellations and delays and were warned not to travel to, from or within the red weather zone unless absolutely necessary.",
+          "start": 74.877,
+          "end": 85.663
+        },
+        {
+          "index": 14,
+          "text": "Tonight, South East Coast Ambulance Service are treating patients stranded on the M25",
+          "start": 86.464,
+          "end": 92.066
+        },
+        {
+          "index": 15,
+          "text": "for heat -related illnesses after an earlier serious crash.",
+          "start": 92.927,
+          "end": 97.429
+        },
+        {
+          "index": 16,
+          "text": "Many have been stuck in long queues for hours.",
+          "start": 97.529,
+          "end": 101.171
+        },
+        {
+          "index": 17,
+          "text": "And Queen Alexandra Hospital in Portsmouth has declared a critical incident after a cooling system supporting critical infrastructure failed during the heatwave.",
+          "start": 101.551,
+          "end": 113.537
+        },
+        {
+          "index": 18,
+          "text": "Many schools have been without pupils today.",
+          "start": 114.817,
+          "end": 117.569
+        },
+        {
+          "index": 19,
+          "text": "In England and Wales more than a thousand were shut or closed early because of the extreme heat.",
+          "start": 117.569,
+          "end": 124.282
+        },
+        {
+          "index": 20,
+          "text": "This school in Cardiff was closed at lunchtime and will be shut tomorrow.",
+          "start": 124.403,
+          "end": 129.745
+        },
+        {
+          "index": 21,
+          "text": "The classrooms on one side of the building are",
+          "start": 130.486,
+          "end": 133.267
+        },
+        {
+          "index": 22,
+          "text": "quite really bad with with temperature at the moment so we decided that it was the safest thing to do because it's not comfortable for the pupils and because of that they don't really learn that much anyway so we decided for everybody's health and well -being to just",
+          "start": 133.667,
+          "end": 147.454
+        },
+        {
+          "index": 23,
+          "text": "close this afternoon and close all day tomorrow",
+          "start": 147.734,
+          "end": 150.095
+        },
+        {
+          "index": 24,
+          "text": "six -year -old Harris's school in West London will also be closed tomorrow his mother understands why but is frustrated",
+          "start": 151.076,
+          "end": 159.32
+        },
+        {
+          "index": 25,
+          "text": "it is really tough I was relatively lucky this This week I didn't have too many fixed meetings, but I need to be in the office most days a week.",
+          "start": 159.781,
+          "end": 166.914
+        },
+        {
+          "index": 26,
+          "text": "The biggest risk here is that this isn't a one -off, I don't think.",
+          "start": 166.914,
+          "end": 170.176
+        },
+        {
+          "index": 27,
+          "text": "It's going to keep occurring, and so we do need some sort of a plan and a strategy around it,",
+          "start": 170.176,
+          "end": 174.828
+        },
+        {
+          "index": 28,
+          "text": "and probably some funding to support the schools, because they just can't cope right now.",
+          "start": 175.248,
+          "end": 179.931
+        },
+        {
+          "index": 29,
+          "text": "Some people have been able to work from home today, but for others, working outside has been unavoidable.",
+          "start": 180.431,
+          "end": 187.164
+        },
+        {
+          "index": 30,
+          "text": "Horrible. It's not very nice, there's no shade, you've got no let -up.",
+          "start": 187.164,
+          "end": 191.356
+        },
+        {
+          "index": 31,
+          "text": "Yeah, you can see it out here, it's baking.",
+          "start": 192.177,
+          "end": 194.738
+        },
+        {
+          "index": 32,
+          "text": "As the high temperatures continue, vulnerable people in particular have been urged to take care.",
+          "start": 195.578,
+          "end": 202.282
+        },
+        {
+          "index": 33,
+          "text": "It's just about making sure that you are staying as cool as you can.",
+          "start": 202.282,
+          "end": 205.464
+        },
+        {
+          "index": 34,
+          "text": "If it's cooler outside, keep your windows open, keep your curtains closed during the day if it's sun facing.",
+          "start": 206.424,
+          "end": 211.156
+        },
+        {
+          "index": 35,
+          "text": "If you've got a fan at home, stick it on, stick an ice bowl in front of it, lots of cool baths.",
+          "start": 211.156,
+          "end": 215.469
+        },
+        {
+          "index": 36,
+          "text": "If you've got young children, get the paddling pool out in the shade and let them play.",
+          "start": 215.469,
+          "end": 219.27
+        },
+        {
+          "index": 37,
+          "text": "just doing fun things, but things that you can to keep yourself cool.",
+          "start": 219.331,
+          "end": 222.512
+        },
+        {
+          "index": 38,
+          "text": "Even the King was feeling the heat today as he attended a London Climate Week reception at St James's Palace.",
+          "start": 223.333,
+          "end": 231.436
+        },
+        {
+          "index": 39,
+          "text": "Luckily, a royal aide was close by with a fan to keep him cool.",
+          "start": 231.517,
+          "end": 236.119
+        },
+        {
+          "index": 40,
+          "text": "The red warning for extreme heat in parts of England and Wales is due to continue until just before midnight on Thursday.",
+          "start": 236.719,
+          "end": 245.084
+        },
+        {
+          "index": 41,
+          "text": "with little respite ahead people have been urged to stay safe in the extreme conditions Helena Wilkinson BBC News",
+          "start": 245.204,
+          "end": 254.808
+        },
+        {
+          "index": 42,
+          "text": "while Europe has also struggled to cope with a record -breaking heat wave so far France Spain and Italy have been hardest hit",
+          "start": 255.869,
+          "end": 264.173
+        },
+        {
+          "index": 43,
+          "text": "today was the hottest June day on record for Spain in one region Cantabria the mercury hit nearly 44 Celsius the highest temperature on record for any month of the year.",
+          "start": 264.273,
+          "end": 275.639
+        },
+        {
+          "index": 44,
+          "text": "France has had its hottest day since records began in 1947.",
+          "start": 275.919,
+          "end": 279.78
+        },
+        {
+          "index": 45,
+          "text": "The temperature reached over 40 Celsius in Paris.",
+          "start": 280.582,
+          "end": 284.003
+        },
+        {
+          "index": 46,
+          "text": "Several landmarks were closed or shut early and thousands of schools were closed across the country for at least part of the day.",
+          "start": 284.003,
+          "end": 290.626
+        },
+        {
+          "index": 47,
+          "text": "Red alerts were in place for 16 cities in Italy, including Rome, Milan, Florence and Turin.",
+          "start": 290.947,
+          "end": 297.19
+        },
+        {
+          "index": 48,
+          "text": "At St Peter's Square in the Vatican, hundreds of people waited in the intense heat to see the Pope using whatever they could, shawls, fans and umbrellas to protect themselves from the heat.",
+          "start": 297.45,
+          "end": 309.195
+        },
+        {
+          "index": 49,
+          "text": "So why are we experiencing such unusually hot weather?",
+          "start": 309.736,
+          "end": 313.327
+        },
+        {
+          "index": 50,
+          "text": "Well, our climate editor Justin Rowlatt is in Gosport, which recorded the hottest temperature in the UK today.",
+          "start": 313.327,
+          "end": 319.731
+        },
+        {
+          "index": 51,
+          "text": "Justin.",
+          "start": 319.731,
+          "end": 322.923
+        },
+        {
+          "index": 52,
+          "text": "It certainly did. It was a brutal 36 .1 degrees Celsius, as you say.",
+          "start": 322.923,
+          "end": 327.165
+        },
+        {
+          "index": 53,
+          "text": "That's the provisional figure, a full half degree hotter than the previous June record.",
+          "start": 327.165,
+          "end": 332.737
+        },
+        {
+          "index": 54,
+          "text": "And people often say, do these tumbling temperature records really matter?",
+          "start": 332.737,
+          "end": 336.139
+        },
+        {
+          "index": 55,
+          "text": "We've always had hot days. We've always had heat waves.",
+          "start": 336.139,
+          "end": 338.37
+        },
+        {
+          "index": 56,
+          "text": "And they are right up to a point.",
+          "start": 338.37,
+          "end": 340.801
+        },
+        {
+          "index": 57,
+          "text": "Yes, we've always had heat waves.",
+          "start": 340.801,
+          "end": 342.112
+        },
+        {
+          "index": 58,
+          "text": "We know why they happen. High pressure, clear skies, light winds, lots of sunshine.",
+          "start": 342.112,
+          "end": 346.594
+        },
+        {
+          "index": 59,
+          "text": "Heat really builds. But take a look at this.",
+          "start": 346.594,
+          "end": 349.315
+        },
+        {
+          "index": 60,
+          "text": "chart shows the rise in global temperatures since the pre -industrial era.",
+          "start": 349.336,
+          "end": 353.638
+        },
+        {
+          "index": 61,
+          "text": "You've probably seen it before.",
+          "start": 353.638,
+          "end": 355.478
+        },
+        {
+          "index": 62,
+          "text": "And look at how the temperatures take off in the",
+          "start": 355.919,
+          "end": 358.741
+        },
+        {
+          "index": 63,
+          "text": "1970s. And so we now get the same weather patterns, but in that warmer world.",
+          "start": 359.401,
+          "end": 364.755
+        },
+        {
+          "index": 64,
+          "text": "And it means the heat waves are hotter.",
+          "start": 364.755,
+          "end": 366.846
+        },
+        {
+          "index": 65,
+          "text": "They last for longer and they're more frequent.",
+          "start": 366.987,
+          "end": 369.468
+        },
+        {
+          "index": 66,
+          "text": "I mean, think about it. In a world without climate change, you wouldn't expect temperature records to be broken.",
+          "start": 369.468,
+          "end": 374.782
+        },
+        {
+          "index": 67,
+          "text": "But every single one of the last four decades has been hotter than the last.",
+          "start": 374.782,
+          "end": 379.335
+        },
+        {
+          "index": 68,
+          "text": "So I've said it before, Rita, and I'm sure I'll say it again.",
+          "start": 379.335,
+          "end": 382.647
+        },
+        {
+          "index": 69,
+          "text": "Yes, this is weather, but this is weather in a warming world.",
+          "start": 382.647,
+          "end": 387.32
+        }
+      ]
+    },
+    {
+      "id": "c943390d2b1a",
+      "title": "Hot weather record of June",
+      "date": "2026-06-27",
+      "folder": "BBC",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
+      "sentences": [
+        {
+          "index": 0,
+          "text": "More temperature records have been broken as much of Europe continues to swelter in a heat wave.",
+          "start": 0.0,
+          "end": 4.992
+        },
+        {
+          "index": 1,
+          "text": "Here in the UK, the hottest temperature of the year was recorded on Thursday afternoon, with 36 .7 degrees recorded at Merrifield in Somerset.",
+          "start": 4.992,
+          "end": 13.226
+        },
+        {
+          "index": 2,
+          "text": "A rare red warning for extreme heat, meaning there's a danger to life, is currently in place in southern, central and western areas of England and parts of Wales.",
+          "start": 13.387,
+          "end": 22.571
+        },
+        {
+          "index": 3,
+          "text": "Some schools have closed, a hosepipe ban has been introduced in Kent and transport services have been disrupted.",
+          "start": 22.611,
+          "end": 28.594
+        },
+        {
+          "index": 4,
+          "text": "In France, authorities say hospitals in Paris are overwhelmed and the government says the health alert has been raised to its highest level.",
+          "start": 28.935,
+          "end": 36.438
+        },
+        {
+          "index": 5,
+          "text": "New data shows Europe is the fastest warming continent in the world.",
+          "start": 36.778,
+          "end": 40.841
+        },
+        {
+          "index": 6,
+          "text": "In fact, Europe is heating up twice as fast as the global average according to the Copernicus Climate Service.",
+          "start": 40.841,
+          "end": 47.684
+        },
+        {
+          "index": 7,
+          "text": "Well, I'm joined now by Dr Chloe Brimacombe, a climate scientist who researches the impact of extreme heat and what policies countries can introduce in response.",
+          "start": 47.684,
+          "end": 55.378
+        },
+        {
+          "index": 8,
+          "text": "Thanks so much for being with us. Can you explain for us why Europe is increasing in its heat more than other parts of the world?",
+          "start": 55.378,
+          "end": 62.311
+        },
+        {
+          "index": 9,
+          "text": "So it's to do with the position of Europe.",
+          "start": 63.232,
+          "end": 66.043
+        },
+        {
+          "index": 10,
+          "text": "So in the Northern Hemisphere,",
+          "start": 66.043,
+          "end": 68.174
+        },
+        {
+          "index": 11,
+          "text": "so how the climate works is that we have three different cells around the world.",
+          "start": 68.835,
+          "end": 73.887
+        },
+        {
+          "index": 12,
+          "text": "And basically the positioning of Europe means that we are more likely to see this faster growing heat on this continent.",
+          "start": 73.887,
+          "end": 82.442
+        },
+        {
+          "index": 13,
+          "text": "But we also do see heat waves across the world.",
+          "start": 83.122,
+          "end": 86.974
+        },
+        {
+          "index": 14,
+          "text": "So there was also a study that showed that nowhere in the world is safe from heat waves.",
+          "start": 86.974,
+          "end": 91.606
+        },
+        {
+          "index": 15,
+          "text": "It's just a matter of time and a question of when a massive heat wave or records will be broken in all parts of the world.",
+          "start": 91.606,
+          "end": 99.66
+        },
+        {
+          "index": 16,
+          "text": "But it's very pertinent in Europe because obviously of the positioning, it's the fastest warming.",
+          "start": 99.66,
+          "end": 105.393
+        },
+        {
+          "index": 17,
+          "text": "Heat waves Those in Europe are also caused by blocking high pressure systems and the jet stream, which is a",
+          "start": 105.993,
+          "end": 111.576
+        },
+        {
+          "index": 18,
+          "text": "fast moving body of air high up in the atmosphere.",
+          "start": 112.116,
+          "end": 115.208
+        },
+        {
+          "index": 19,
+          "text": "And this heat wave was partially caused by a divergent SINAR jet stream slowing down and making sure that this high pressure system could move in over Europe from North Africa.",
+          "start": 115.208,
+          "end": 125.703
+        },
+        {
+          "index": 20,
+          "text": "So, yes. And obviously, there's been a lot of impacts that we've seen over the last week.",
+          "start": 125.924,
+          "end": 131.646
+        },
+        {
+          "index": 21,
+          "text": "and these weather warnings are",
+          "start": 132.027,
+          "end": 134.248
+        },
+        {
+          "index": 22,
+          "text": "continuing over the weekend,",
+          "start": 134.768,
+          "end": 136.749
+        },
+        {
+          "index": 23,
+          "text": "which is obviously concerning for continued impact.",
+          "start": 137.229,
+          "end": 140.451
+        },
+        {
+          "index": 24,
+          "text": "What would you warn people watching about how to look after themselves and the impact on the body?",
+          "start": 141.231,
+          "end": 147.064
+        },
+        {
+          "index": 25,
+          "text": "I was caught out myself with one of my children ending up in a St John's ambulance side room because he'd not drunk enough water and had overdone it in the heat because he just underestimated the impact of it.",
+          "start": 147.064,
+          "end": 158.02
+        },
+        {
+          "index": 26,
+          "text": "I think you put that quite clearly.",
+          "start": 159.441,
+          "end": 161.481
+        },
+        {
+          "index": 27,
+          "text": "I think we can all very much underestimate the impact of heat.",
+          "start": 161.481,
+          "end": 165.683
+        },
+        {
+          "index": 28,
+          "text": "And a lot of the time we have been speaking about very much neededly that heat waves are silent killers.",
+          "start": 165.764,
+          "end": 172.577
+        },
+        {
+          "index": 29,
+          "text": "So they can cause excess mortality in European countries.",
+          "start": 172.577,
+          "end": 177.359
+        },
+        {
+          "index": 30,
+          "text": "And this is particularly true in the over 65s.",
+          "start": 177.359,
+          "end": 179.85
+        },
+        {
+          "index": 31,
+          "text": "But everybody can be impacted and their health can be impacted by extreme heat.",
+          "start": 179.85,
+          "end": 183.922
+        },
+        {
+          "index": 32,
+          "text": "and that's what the red weather warnings across Europe really talk to.",
+          "start": 183.922,
+          "end": 187.934
+        },
+        {
+          "index": 33,
+          "text": "So it's also children, but you yourself if you don't drink enough water, if you don't stay cool, could experience heat stress and in the",
+          "start": 188.155,
+          "end": 197.419
+        },
+        {
+          "index": 34,
+          "text": "most extreme case this can go on to cause a number of heat related illnesses, one of which is heat stroke.",
+          "start": 198.019,
+          "end": 203.783
+        },
+        {
+          "index": 35,
+          "text": "And actually if you do not access cooling as a result of heat stroke, what you might not realise is that you can actually have lasting brain damage as a result of experiencing too high temperatures.",
+          "start": 204.043,
+          "end": 215.438
+        },
+        {
+          "index": 36,
+          "text": "So it's really important to stay cool",
+          "start": 215.438,
+          "end": 217.629
+        },
+        {
+          "index": 37,
+          "text": "and make sure that everybody around you is staying cool and safe as well.",
+          "start": 218.11,
+          "end": 221.851
+        },
+        {
+          "index": 38,
+          "text": "And how much worse is it going to get and at what pace do you think?",
+          "start": 222.592,
+          "end": 227.324
+        },
+        {
+          "index": 39,
+          "text": "I mean, how many more of these heat spikes will we see and how quickly?",
+          "start": 227.324,
+          "end": 231.736
+        },
+        {
+          "index": 40,
+          "text": "The data from the UK Met Office shows that for the UK that within the next 12 years, and this was produced in 2022, which is when we last saw the 40 degrees Celsius record broken in the UK,",
+          "start": 233.017,
+          "end": 245.783
+        },
+        {
+          "index": 41,
+          "text": "that we were likely to see that again within the next 12 years.",
+          "start": 246.104,
+          "end": 249.785
+        },
+        {
+          "index": 42,
+          "text": "And more research that was issued this week showed that we could be experiencing 45 degrees Celsius heat waves by 2056 if we don't reduce carbon emissions.",
+          "start": 249.886,
+          "end": 262.432
+        },
+        {
+          "index": 43,
+          "text": "On Wednesday in the House of Commons, the UK government discussed the seventh carbon budget for the UK.",
+          "start": 262.772,
+          "end": 269.956
+        },
+        {
+          "index": 44,
+          "text": "And luckily that was approved, which means that that legally binds the government to reducing emissions",
+          "start": 270.076,
+          "end": 276.199
+        },
+        {
+          "index": 45,
+          "text": "under a certain timeframe.",
+          "start": 276.719,
+          "end": 278.92
+        },
+        {
+          "index": 46,
+          "text": "So it's really encouraging to see that commitment, but hopefully that means that there will be actions on reducing these emissions so that heat waves don't continue to increase and get to those temperatures by 2056.",
+          "start": 278.92,
+          "end": 290.26
+        },
+        {
+          "index": 47,
+          "text": "Dr Chloe Brimacombe, thank you very much indeed for being with us.",
+          "start": 290.466,
+          "end": 293.848
+        }
+      ]
+    },
+    {
+      "id": "263cafe9d071",
+      "title": "Starmer Resign",
+      "date": "2026-06-27",
+      "folder": "BBC",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
+      "sentences": [
+        {
+          "index": 0,
+          "text": "And here is the Prime Minister, Sukhya Starmer.",
+          "start": 0.22,
+          "end": 3.141
+        },
+        {
+          "index": 1,
+          "text": "you. Thank you.",
+          "start": 23.112,
+          "end": 28.594
+        },
+        {
+          "index": 2,
+          "text": "Walking up this street two years ago was the proudest moment of my life.",
+          "start": 29.915,
+          "end": 35.137
+        },
+        {
+          "index": 3,
+          "text": "A new Labour government, the first in 14 years.",
+          "start": 35.618,
+          "end": 40.36
+        },
+        {
+          "index": 4,
+          "text": "A page in our country's history turned after years of disappointment and despair.",
+          "start": 40.761,
+          "end": 46.763
+        },
+        {
+          "index": 5,
+          "text": "The chance to change the lives of millions of people for the better.",
+          "start": 47.304,
+          "end": 51.846
+        },
+        {
+          "index": 6,
+          "text": "That's what I came into politics for.",
+          "start": 52.506,
+          "end": 55.187
+        },
+        {
+          "index": 7,
+          "text": "The journey to that point was not easy.",
+          "start": 56.428,
+          "end": 59.87
+        },
+        {
+          "index": 8,
+          "text": "Six years ago I inherited a Labour Party that was politically, financially and morally bankrupt.",
+          "start": 60.85,
+          "end": 69.575
+        },
+        {
+          "index": 9,
+          "text": "I was told time and time again",
+          "start": 70.375,
+          "end": 73.557
+        },
+        {
+          "index": 10,
+          "text": "that my party was finished,",
+          "start": 73.977,
+          "end": 76.438
+        },
+        {
+          "index": 11,
+          "text": "that we were consigned to history,",
+          "start": 76.858,
+          "end": 79.099
+        },
+        {
+          "index": 12,
+          "text": "that a majority at the general election,",
+          "start": 79.7,
+          "end": 82.601
+        },
+        {
+          "index": 13,
+          "text": "let alone a landslide majority,",
+          "start": 83.082,
+          "end": 85.183
+        },
+        {
+          "index": 14,
+          "text": "was impossible. But we proved those people wrong",
+          "start": 85.803,
+          "end": 90.225
+        },
+        {
+          "index": 15,
+          "text": "because we changed our party,",
+          "start": 90.866,
+          "end": 92.947
+        },
+        {
+          "index": 16,
+          "text": "ripping out the poison of anti -semitism, restoring trust on the economy, defence and national security,",
+          "start": 93.607,
+          "end": 102.031
+        },
+        {
+          "index": 17,
+          "text": "and becoming a party that once again stood proudly with, not against, our our national flag.",
+          "start": 102.431,
+          "end": 109.655
+        },
+        {
+          "index": 18,
+          "text": "The hard work of change was with a singular purpose,",
+          "start": 110.555,
+          "end": 114.597
+        },
+        {
+          "index": 19,
+          "text": "not power for power's sake, but to change Britain for the better.",
+          "start": 115.198,
+          "end": 120.52
+        },
+        {
+          "index": 20,
+          "text": "To build a fairer country, with dignity and respect,",
+          "start": 121.221,
+          "end": 126.583
+        },
+        {
+          "index": 21,
+          "text": "where everyone is seen,",
+          "start": 127.084,
+          "end": 129.565
+        },
+        {
+          "index": 22,
+          "text": "everyone is valued,",
+          "start": 130.346,
+          "end": 132.586
+        },
+        {
+          "index": 23,
+          "text": "wealth and opportunity for all,",
+          "start": 133.167,
+          "end": 135.668
+        },
+        {
+          "index": 24,
+          "text": "not just the privileged few.",
+          "start": 136.308,
+          "end": 139.17
+        },
+        {
+          "index": 25,
+          "text": "And look at what we've achieved in just two years.",
+          "start": 141.211,
+          "end": 144.712
+        },
+        {
+          "index": 26,
+          "text": "An economy that is stronger, growing faster than our peers.",
+          "start": 145.573,
+          "end": 150.175
+        },
+        {
+          "index": 27,
+          "text": "Wages rising faster than inflation in every single month since we came to power.",
+          "start": 150.696,
+          "end": 156.618
+        },
+        {
+          "index": 28,
+          "text": "Investment secured, infrastructure being built.",
+          "start": 157.279,
+          "end": 160.961
+        },
+        {
+          "index": 29,
+          "text": "An end to austerity, with the fastest fall in NHS waiting lists for 17 years.",
+          "start": 161.541,
+          "end": 168.465
+        },
+        {
+          "index": 30,
+          "text": "The biggest improvement in rights for workers and renters in a generation.",
+          "start": 168.965,
+          "end": 174.127
+        },
+        {
+          "index": 31,
+          "text": "The biggest uplift in defence spending since the Cold War.",
+          "start": 174.508,
+          "end": 178.349
+        },
+        {
+          "index": 32,
+          "text": "Small boat crossings falling.",
+          "start": 178.93,
+          "end": 181.311
+        },
+        {
+          "index": 33,
+          "text": "Asylum hotels closing.",
+          "start": 181.591,
+          "end": 183.872
+        },
+        {
+          "index": 34,
+          "text": "Protecting young people from social media.",
+          "start": 184.312,
+          "end": 187.154
+        },
+        {
+          "index": 35,
+          "text": "and half a million children being lifted out of poverty because of the choices that I made.",
+          "start": 187.414,
+          "end": 194.837
+        },
+        {
+          "index": 36,
+          "text": "Our reputation in the world restored, with Britain once again standing up for decency, respect and the rule of law.",
+          "start": 195.578,
+          "end": 205.623
+        },
+        {
+          "index": 37,
+          "text": "Securing trade deals, standing with Ukraine, standing up for our values and rebuilding our relationship with our allies in Europe.",
+          "start": 206.084,
+          "end": 215.318
+        },
+        {
+          "index": 38,
+          "text": "Change promised by a Labour government.",
+          "start": 215.318,
+          "end": 219.29
+        },
+        {
+          "index": 39,
+          "text": "Change fought for by a Labour government.",
+          "start": 219.53,
+          "end": 222.391
+        },
+        {
+          "index": 40,
+          "text": "Change delivered by a Labour government.",
+          "start": 222.632,
+          "end": 225.613
+        },
+        {
+          "index": 41,
+          "text": "But I know the question being asked now",
+          "start": 228.094,
+          "end": 232.096
+        },
+        {
+          "index": 42,
+          "text": "is not who was best placed to change the Labour Party, to take us into power and to begin the vital work of improving lives for millions of people.",
+          "start": 232.677,
+          "end": 242.642
+        },
+        {
+          "index": 43,
+          "text": "Those questions have been answered.",
+          "start": 243.562,
+          "end": 246.364
+        },
+        {
+          "index": 44,
+          "text": "The question my party is asking now",
+          "start": 247.484,
+          "end": 250.206
+        },
+        {
+          "index": 45,
+          "text": "is whether I am best placed to lead us",
+          "start": 251.206,
+          "end": 254.408
+        },
+        {
+          "index": 46,
+          "text": "into the next general election.",
+          "start": 254.908,
+          "end": 257.309
+        },
+        {
+          "index": 47,
+          "text": "I have heard the answer of my parliamentary parliamentary party to that question.",
+          "start": 258.59,
+          "end": 264.212
+        },
+        {
+          "index": 48,
+          "text": "And I accept that answer",
+          "start": 265.293,
+          "end": 266.994
+        },
+        {
+          "index": 49,
+          "text": "with good grace. Every decision I have taken has been about putting the country I love first.",
+          "start": 267.494,
+          "end": 275.418
+        },
+        {
+          "index": 50,
+          "text": "That is why I will resign as leader of the Labour Party.",
+          "start": 276.218,
+          "end": 280.601
+        },
+        {
+          "index": 51,
+          "text": "I have spoken to His Majesty the King this morning to inform him of my decision.",
+          "start": 281.622,
+          "end": 286.704
+        },
+        {
+          "index": 52,
+          "text": "I will ask the National Executive Committee of the Labour Party to set out a timetable with nominations opening on the 9th of July and completed by the summer recess.",
+          "start": 287.885,
+          "end": 298.29
+        },
+        {
+          "index": 53,
+          "text": "In the case of a contest this will ensure a new leader is in place before Parliament returns in September.",
+          "start": 299.39,
+          "end": 306.934
+        },
+        {
+          "index": 54,
+          "text": "I will remain in post as Prime Minister until the contest is complete complete, and I will do everything I can to ensure an orderly handover of power.",
+          "start": 307.855,
+          "end": 318.7
+        },
+        {
+          "index": 55,
+          "text": "I will also give my successor my full and unequivocal support,",
+          "start": 319.941,
+          "end": 324.223
+        },
+        {
+          "index": 56,
+          "text": "knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago,",
+          "start": 325.043,
+          "end": 331.886
+        },
+        {
+          "index": 57,
+          "text": "better prepared for the challenges ahead, and better able to ensure the Labour Party secures a second term in office.",
+          "start": 332.387,
+          "end": 339.72
+        },
+        {
+          "index": 58,
+          "text": "I want to thank all of those friends and colleagues who have been at my side for these past six years or so for their incredible commitment, service and support.",
+          "start": 341.521,
+          "end": 353.397
+        },
+        {
+          "index": 59,
+          "text": "I want to thank the brilliant Number 10 staff and our country's extraordinary civil service who dedicate their lives to public service.",
+          "start": 354.257,
+          "end": 363.043
+        },
+        {
+          "index": 60,
+          "text": "And when I leave the biggest job in the country,",
+          "start": 364.284,
+          "end": 367.325
+        },
+        {
+          "index": 61,
+          "text": "I shall spend more time on the most important job.",
+          "start": 368.306,
+          "end": 371.648
+        },
+        {
+          "index": 62,
+          "text": "Being the best husband I can",
+          "start": 372.569,
+          "end": 374.409
+        },
+        {
+          "index": 63,
+          "text": "to my fantastic wife, Vic,",
+          "start": 374.83,
+          "end": 376.671
+        },
+        {
+          "index": 64,
+          "text": "who has been a rock by my side through good times and bad.",
+          "start": 377.071,
+          "end": 381.674
+        },
+        {
+          "index": 65,
+          "text": "And being the best dad I can",
+          "start": 382.455,
+          "end": 384.296
+        },
+        {
+          "index": 66,
+          "text": "to my beautiful children, who are my pride and my joy. Thank you very much.",
+          "start": 384.736,
+          "end": 391.22
+        }
+      ]
     }
   ]
 }
