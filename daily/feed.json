@@ -1,6 +1,506 @@
 {
   "lessons": [
     {
+      "id": "2026-07-13",
+      "title": "Health Report # 395",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-2",
+      "title": "Health Report # 396",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-2.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-3",
+      "title": "Health Report # 397",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-3.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-4",
+      "title": "Health Report # 391",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-4.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-5",
+      "title": "Health Report # 392",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-5.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-6",
+      "title": "Health Report # 394",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-6.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-7",
+      "title": "Health Report # 393",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-7.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-8",
+      "title": "Health Risks in a Crowd: Not What You May Think",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-8.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-9",
+      "title": "How a 1959 Discovery Is Saving Premature Babies Today",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-9.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-10",
+      "title": "What Happens When TB Becomes Untreatable?",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-10.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-11",
+      "title": "Want to Lose Weight? Try Counting Calories",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-11.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-11.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-12",
+      "title": "Laying the Roots for Healthy Teeth in Young Children",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-12.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-12.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-13",
+      "title": "Uganda Fights Another Ebola Outbreak",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-13.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-14",
+      "title": "The Long Search for a Malaria Vaccine",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-15",
+      "title": "Agriculture Report # 396",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-15.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-15.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-16",
+      "title": "Agriculture Report # 395",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-16.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-16.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-17",
+      "title": "Agriculture Report # 392",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-17.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-17.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-18",
+      "title": "Agriculture Report # 397",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-18.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-18.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-19",
+      "title": "Agriculture Report # 394",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-19.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-19.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-20",
+      "title": "Agriculture Report # 393",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-20.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-20.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-21",
+      "title": "Farmers Learning Limits of Popular Herbicide",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-21.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-21.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-22",
+      "title": "When Animals Make People Sick",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-22.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-22.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-23",
+      "title": "Steps Toward Drought-Resistant Crops, 'Designer' Rice",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-23.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-24",
+      "title": "Friends With Benefits, in the Plant World",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-24.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-25",
+      "title": "Really, It's OK to Pinch Mums",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-25.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-26",
+      "title": "Seeking a Better Way for African Farmers to Fight a Fever",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-26.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-26.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-27",
+      "title": "Project in DRC Aims to Increase Fertilizer Use",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-27.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-27.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-28",
+      "title": "Death Valley National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-29",
+      "title": "Great Smokies National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-29.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-30",
+      "title": "Glacier National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-30.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-30.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-31",
+      "title": "Big Bend National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-31.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-31.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-32",
+      "title": "Saguaro National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-32.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-32.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-33",
+      "title": "Acadia National Park - An East Coast Treasure",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-33.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-33.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-34",
+      "title": "Badlands National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-34.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-34.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-35",
+      "title": "Grand Teton National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-36",
+      "title": "Canyonlands National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-36.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-36.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-37",
+      "title": "Carlsbad Cavern National Park",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-37.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-37.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-38",
+      "title": "Getting News From Around the World With Today's Front Pages",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-38.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-38.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-39",
+      "title": "IBM Thinks Minds Will Control Machines Within 5 Years",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-39.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-39.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-40",
+      "title": "Some Websites Judge You by the Kind of Computer You Use",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-40.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-40.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-41",
+      "title": "Golden Gate Bridge Still Shines",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-41.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-41.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-42",
+      "title": "Using the Brain to Move a Robotic Arm",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-43",
+      "title": "Event Aims to Build Interest in Science, Engineering",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-43.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-43.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-44",
+      "title": "A Hollywood Movie Producer Helps Develop Mobile Calendar Application",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-44.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-44.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-45",
+      "title": "Dealing With Digital Legacies After Users Die",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-45.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-45.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-46",
+      "title": "Microsoft Competes Against Apple With New Tablet",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-46.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-46.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-47",
+      "title": "Turning Industrial Waste-Heat Into Electricity",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-47.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-47.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-48",
+      "title": "New Research Hopes to Speed Development of HIV Vaccine",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-48.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-48.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-49",
+      "title": "Taking Medicine, With a Microchip Under the Skin",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-49.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-49.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
+      "id": "2026-07-13-50",
+      "title": "The Legal Battle Between Apple and Samsung",
+      "date": "2026-07-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-50.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-50.json",
+      "folder": "VOA",
+      "folderEn": "VOA",
+      "free": true
+    },
+    {
       "id": "2026-06-27",
       "title": "Europe's deadly heatwave",
       "date": "2026-06-27",
