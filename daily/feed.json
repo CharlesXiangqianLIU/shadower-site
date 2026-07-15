@@ -1,6 +1,36 @@
 {
   "lessons": [
     {
+      "id": "2026-07-15",
+      "title": "How the Whale Got His Throat",
+      "date": "2026-07-15",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15.json",
+      "folder": "英音朗读",
+      "folderEn": "British Readings",
+      "free": true
+    },
+    {
+      "id": "2026-07-15-2",
+      "title": "How the Camel Got His Hump",
+      "date": "2026-07-15",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-2.json",
+      "folder": "英音朗读",
+      "folderEn": "British Readings",
+      "free": true
+    },
+    {
+      "id": "2026-07-15-3",
+      "title": "How the Rhinoceros Got His Skin",
+      "date": "2026-07-15",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-3.json",
+      "folder": "英音朗读",
+      "folderEn": "British Readings",
+      "free": true
+    },
+    {
       "id": "2026-07-13",
       "title": "Health Report # 395",
       "date": "2026-07-13",
