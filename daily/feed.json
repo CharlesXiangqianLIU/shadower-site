@@ -1,39 +1,6 @@
 {
   "lessons": [
     {
-      "id": "2026-07-15-3",
-      "title": "How the Rhinoceros Got His Skin",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-3.json",
-      "folder": "英音朗读",
-      "folderEn": "British Readings",
-      "free": true,
-      "level": "advanced"
-    },
-    {
-      "id": "2026-07-15",
-      "title": "How the Whale Got His Throat",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15.json",
-      "folder": "英音朗读",
-      "folderEn": "British Readings",
-      "free": true,
-      "level": "intermediate"
-    },
-    {
-      "id": "2026-07-15-2",
-      "title": "How the Camel Got His Hump",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-2.json",
-      "folder": "英音朗读",
-      "folderEn": "British Readings",
-      "free": true,
-      "level": "intermediate"
-    },
-    {
       "id": "2026-07-15-4",
       "title": "Should we cycle more?",
       "date": "2026-07-15",
@@ -988,15 +955,6 @@
       "folder": "VOA",
       "folderEn": "VOA",
       "free": false,
-      "level": "intermediate"
-    },
-    {
-      "id": "2026-06-27",
-      "title": "Europe's deadly heatwave",
-      "date": "2026-06-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-06-27.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-06-27.json",
-      "folderEn": "Weekly",
       "level": "intermediate"
     },
     {
