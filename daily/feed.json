@@ -8,7 +8,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-3.json",
       "folder": "英音朗读",
       "folderEn": "British Readings",
-      "free": true
+      "free": true,
+      "level": "advanced"
     },
     {
       "id": "2026-07-15",
@@ -18,7 +19,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15.json",
       "folder": "英音朗读",
       "folderEn": "British Readings",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-15-2",
@@ -28,7 +30,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-2.json",
       "folder": "英音朗读",
       "folderEn": "British Readings",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13",
@@ -38,7 +41,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-2",
@@ -48,7 +52,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-2.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-3",
@@ -58,7 +63,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-3.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-4",
@@ -68,7 +74,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-4.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-5",
@@ -78,7 +85,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-5.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-6",
@@ -88,7 +96,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-6.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-7",
@@ -98,7 +107,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-7.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-8",
@@ -108,7 +118,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-8.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-9",
@@ -118,7 +129,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-9.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-10",
@@ -128,7 +140,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-10.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-11",
@@ -138,7 +151,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-11.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-12",
@@ -148,7 +162,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-12.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-13",
@@ -158,7 +173,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-13.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-14",
@@ -168,7 +184,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-15",
@@ -178,7 +195,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-15.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-16",
@@ -188,7 +206,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-16.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-17",
@@ -198,7 +217,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-17.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-06-27",
@@ -206,7 +226,8 @@
       "date": "2026-06-27",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-06-27.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-06-27.json",
-      "folderEn": "Weekly"
+      "folderEn": "Weekly",
+      "level": "intermediate"
     },
     {
       "id": "358fd78c8147",
@@ -216,7 +237,8 @@
       "free": true,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.json",
-      "folderEn": "BBC"
+      "folderEn": "BBC",
+      "level": "intermediate"
     },
     {
       "id": "c943390d2b1a",
@@ -226,7 +248,8 @@
       "free": true,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.json",
-      "folderEn": "BBC"
+      "folderEn": "BBC",
+      "level": "advanced"
     },
     {
       "id": "263cafe9d071",
@@ -236,7 +259,8 @@
       "free": true,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.json",
-      "folderEn": "BBC"
+      "folderEn": "BBC",
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-18",
@@ -246,7 +270,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-18.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-19",
@@ -256,7 +281,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-19.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-20",
@@ -266,7 +292,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-20.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-21",
@@ -276,7 +303,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-21.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-22",
@@ -286,7 +314,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-22.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-23",
@@ -296,7 +325,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-23.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-24",
@@ -306,7 +336,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-24.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-25",
@@ -316,7 +347,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-25.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-26",
@@ -326,7 +358,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-26.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-27",
@@ -336,7 +369,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-27.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-28",
@@ -346,7 +380,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-29",
@@ -356,7 +391,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-29.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-30",
@@ -366,7 +402,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-30.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-31",
@@ -376,7 +413,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-31.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-32",
@@ -386,7 +424,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-32.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-33",
@@ -396,7 +435,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-33.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-34",
@@ -406,7 +446,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-34.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-35",
@@ -416,7 +457,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-36",
@@ -426,7 +468,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-36.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "advanced"
     },
     {
       "id": "2026-07-13-37",
@@ -436,7 +479,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-37.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-38",
@@ -446,7 +490,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-38.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-39",
@@ -456,7 +501,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-39.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-40",
@@ -466,7 +512,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-40.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-41",
@@ -476,7 +523,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-41.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-42",
@@ -486,7 +534,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-43",
@@ -496,7 +545,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-43.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-44",
@@ -506,7 +556,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-44.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-45",
@@ -516,7 +567,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-45.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-46",
@@ -526,7 +578,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-46.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "beginner"
     },
     {
       "id": "2026-07-13-47",
@@ -536,7 +589,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-47.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-48",
@@ -546,7 +600,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-48.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-49",
@@ -556,7 +611,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-49.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-13-50",
@@ -566,7 +622,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-50.json",
       "folder": "VOA",
       "folderEn": "VOA",
-      "free": false
+      "free": false,
+      "level": "intermediate"
     },
     {
       "id": "002c68718458",
@@ -577,7 +634,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/002c68718458.m4a",
       "order": 58,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/002c68718458.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "00e1e4a7b405",
@@ -588,7 +646,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/00e1e4a7b405.m4a",
       "order": 44,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/00e1e4a7b405.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "011b936de104",
@@ -599,7 +658,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/011b936de104.m4a",
       "order": 132,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/011b936de104.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "015bbcd80bcb",
@@ -610,7 +670,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/015bbcd80bcb.m4a",
       "order": 74,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/015bbcd80bcb.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "0252a60ae65d",
@@ -621,7 +682,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/0252a60ae65d.m4a",
       "order": 87,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/0252a60ae65d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "02a7d52f5724",
@@ -632,7 +694,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/02a7d52f5724.m4a",
       "order": 23,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/02a7d52f5724.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "02b6661b355c",
@@ -643,7 +706,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/02b6661b355c.m4a",
       "order": 56,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/02b6661b355c.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "042036e332b4",
@@ -654,7 +718,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/042036e332b4.m4a",
       "order": 82,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/042036e332b4.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "04570dfef9cb",
@@ -665,7 +730,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/04570dfef9cb.m4a",
       "order": 28,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/04570dfef9cb.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "049fe4d37aea",
@@ -676,7 +742,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/049fe4d37aea.m4a",
       "order": 50,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/049fe4d37aea.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "04d784051a1b",
@@ -687,7 +754,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/04d784051a1b.m4a",
       "order": 81,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/04d784051a1b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "059ce0fb0489",
@@ -698,7 +766,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/059ce0fb0489.m4a",
       "order": 1,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/059ce0fb0489.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "05d0a3428bee",
@@ -709,7 +778,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/05d0a3428bee.m4a",
       "order": 6,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/05d0a3428bee.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "06566db0be0d",
@@ -720,7 +790,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/06566db0be0d.m4a",
       "order": 48,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/06566db0be0d.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "06fa5ddd3918",
@@ -731,7 +802,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/06fa5ddd3918.m4a",
       "order": 59,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/06fa5ddd3918.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "0a058913c1e3",
@@ -742,7 +814,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/0a058913c1e3.m4a",
       "order": 52,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/0a058913c1e3.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "0d3b92a8faf4",
@@ -753,7 +826,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/0d3b92a8faf4.m4a",
       "order": 10,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/0d3b92a8faf4.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "0f250a6ce4a7",
@@ -764,7 +838,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/0f250a6ce4a7.m4a",
       "order": 42,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/0f250a6ce4a7.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "122aec045013",
@@ -775,7 +850,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/122aec045013.m4a",
       "order": 58,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/122aec045013.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "13a7d4251eed",
@@ -786,7 +862,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/13a7d4251eed.m4a",
       "order": 76,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/13a7d4251eed.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "1418cb59e7fa",
@@ -797,7 +874,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1418cb59e7fa.m4a",
       "order": 15,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1418cb59e7fa.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "15e522be1e89",
@@ -808,7 +886,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/15e522be1e89.m4a",
       "order": 40,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/15e522be1e89.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "1869490b3c0c",
@@ -819,7 +898,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1869490b3c0c.m4a",
       "order": 47,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1869490b3c0c.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "18d64a44c13e",
@@ -830,7 +910,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/18d64a44c13e.m4a",
       "order": 67,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/18d64a44c13e.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "19941a585c8f",
@@ -841,7 +922,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/19941a585c8f.m4a",
       "order": 73,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/19941a585c8f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "1a349333ebf3",
@@ -852,7 +934,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1a349333ebf3.m4a",
       "order": 16,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1a349333ebf3.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "1a80ea717804",
@@ -863,7 +946,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1a80ea717804.m4a",
       "order": 45,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1a80ea717804.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "1b8f7f7c2ef2",
@@ -874,7 +958,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1b8f7f7c2ef2.m4a",
       "order": 17,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1b8f7f7c2ef2.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "1c0cf7bb5dc5",
@@ -885,7 +970,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1c0cf7bb5dc5.m4a",
       "order": 61,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1c0cf7bb5dc5.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "1d07c40627fc",
@@ -896,7 +982,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1d07c40627fc.m4a",
       "order": 3,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1d07c40627fc.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "1e82f04046d9",
@@ -907,7 +994,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1e82f04046d9.m4a",
       "order": 31,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1e82f04046d9.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "1ecf407dd7f8",
@@ -918,7 +1006,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1ecf407dd7f8.m4a",
       "order": 27,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1ecf407dd7f8.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "1f10ccea8acc",
@@ -929,7 +1018,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/1f10ccea8acc.m4a",
       "order": 78,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/1f10ccea8acc.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "200b4db19dc0",
@@ -940,7 +1030,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/200b4db19dc0.m4a",
       "order": 55,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/200b4db19dc0.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "2123649b9f7b",
@@ -951,7 +1042,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2123649b9f7b.m4a",
       "order": 34,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2123649b9f7b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "21714dc08345",
@@ -962,7 +1054,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/21714dc08345.m4a",
       "order": 64,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/21714dc08345.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "23214a05864e",
@@ -973,7 +1066,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/23214a05864e.m4a",
       "order": 36,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/23214a05864e.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "245d93011554",
@@ -984,7 +1078,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/245d93011554.m4a",
       "order": 126,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/245d93011554.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "24c6262767de",
@@ -995,7 +1090,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/24c6262767de.m4a",
       "order": 93,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/24c6262767de.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "252fecc32494",
@@ -1006,7 +1102,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/252fecc32494.m4a",
       "order": 26,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/252fecc32494.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "26b92c4c11af",
@@ -1017,7 +1114,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/26b92c4c11af.m4a",
       "order": 13,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/26b92c4c11af.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "2764bcfbf072",
@@ -1028,7 +1126,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2764bcfbf072.m4a",
       "order": 90,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2764bcfbf072.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "27df811bdb49",
@@ -1039,7 +1138,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/27df811bdb49.m4a",
       "order": 13,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/27df811bdb49.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "27ffd00c67ca",
@@ -1050,7 +1150,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/27ffd00c67ca.m4a",
       "order": 14,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/27ffd00c67ca.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "282d38a9cb7d",
@@ -1061,7 +1162,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/282d38a9cb7d.m4a",
       "order": 74,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/282d38a9cb7d.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "29d5b9dd1a97",
@@ -1072,7 +1174,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/29d5b9dd1a97.m4a",
       "order": 53,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/29d5b9dd1a97.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "29da058573b0",
@@ -1083,7 +1186,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/29da058573b0.m4a",
       "order": 48,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/29da058573b0.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "2a32b22c9854",
@@ -1094,7 +1198,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2a32b22c9854.m4a",
       "order": 44,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2a32b22c9854.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "2a4c86deb781",
@@ -1105,7 +1210,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2a4c86deb781.m4a",
       "order": 13,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2a4c86deb781.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "2b2d470d5cb2",
@@ -1116,7 +1222,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2b2d470d5cb2.m4a",
       "order": 32,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2b2d470d5cb2.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "2bc5ddbad045",
@@ -1127,7 +1234,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2bc5ddbad045.m4a",
       "order": 25,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2bc5ddbad045.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "2d51b6866e99",
@@ -1138,7 +1246,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2d51b6866e99.m4a",
       "order": 10,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2d51b6866e99.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "2e21b0c1d68f",
@@ -1149,7 +1258,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2e21b0c1d68f.m4a",
       "order": 38,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2e21b0c1d68f.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "2f2b0bf0cf2f",
@@ -1160,7 +1270,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2f2b0bf0cf2f.m4a",
       "order": 28,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2f2b0bf0cf2f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "2f78714eb24b",
@@ -1171,7 +1282,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2f78714eb24b.m4a",
       "order": 128,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2f78714eb24b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "30bea9b6b9f3",
@@ -1182,7 +1294,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/30bea9b6b9f3.m4a",
       "order": 63,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/30bea9b6b9f3.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "32b5ae5d2144",
@@ -1193,7 +1306,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/32b5ae5d2144.m4a",
       "order": 42,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/32b5ae5d2144.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "32d02a366c6b",
@@ -1204,7 +1318,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/32d02a366c6b.m4a",
       "order": 38,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/32d02a366c6b.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "34ecd2a43aff",
@@ -1215,7 +1330,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/34ecd2a43aff.m4a",
       "order": 2,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/34ecd2a43aff.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "3558d093d564",
@@ -1226,7 +1342,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3558d093d564.m4a",
       "order": 45,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3558d093d564.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "3a429e2bf239",
@@ -1237,7 +1354,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3a429e2bf239.m4a",
       "order": 60,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3a429e2bf239.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "3ace902b72ce",
@@ -1248,7 +1366,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3ace902b72ce.m4a",
       "order": 30,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3ace902b72ce.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "3c7d5bc5e0ee",
@@ -1259,7 +1378,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3c7d5bc5e0ee.m4a",
       "order": 60,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3c7d5bc5e0ee.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "3caa8e9731a5",
@@ -1270,7 +1390,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3caa8e9731a5.m4a",
       "order": 38,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3caa8e9731a5.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "3daf4a88c017",
@@ -1281,7 +1402,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/3daf4a88c017.m4a",
       "order": 42,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/3daf4a88c017.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "40622684c2c3",
@@ -1292,7 +1414,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/40622684c2c3.m4a",
       "order": 23,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/40622684c2c3.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "40694732c5a9",
@@ -1303,7 +1426,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/40694732c5a9.m4a",
       "order": 11,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/40694732c5a9.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "4145544beeac",
@@ -1314,7 +1438,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4145544beeac.m4a",
       "order": 20,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4145544beeac.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "423eabe96865",
@@ -1325,7 +1450,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/423eabe96865.m4a",
       "order": 26,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/423eabe96865.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "42bf0134190d",
@@ -1336,7 +1462,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/42bf0134190d.m4a",
       "order": 41,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/42bf0134190d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "45db956f586a",
@@ -1347,7 +1474,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/45db956f586a.m4a",
       "order": 78,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/45db956f586a.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "46e3721f9563",
@@ -1358,7 +1486,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/46e3721f9563.m4a",
       "order": 8,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/46e3721f9563.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "47417ac9913b",
@@ -1369,7 +1498,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/47417ac9913b.m4a",
       "order": 10,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/47417ac9913b.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "49d459102211",
@@ -1380,7 +1510,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/49d459102211.m4a",
       "order": 36,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/49d459102211.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "4a9204a967aa",
@@ -1391,7 +1522,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4a9204a967aa.m4a",
       "order": 4,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4a9204a967aa.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "4a95b5a35074",
@@ -1402,7 +1534,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4a95b5a35074.m4a",
       "order": 60,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4a95b5a35074.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "4b19dc123e1c",
@@ -1413,7 +1546,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b19dc123e1c.m4a",
       "order": 1,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b19dc123e1c.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "4b494b8d722a",
@@ -1424,7 +1558,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b494b8d722a.m4a",
       "order": 3,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b494b8d722a.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "4b988f46b49d",
@@ -1435,7 +1570,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b988f46b49d.m4a",
       "order": 39,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4b988f46b49d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "4bad234da8ea",
@@ -1446,7 +1582,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4bad234da8ea.m4a",
       "order": 26,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4bad234da8ea.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "4c427715901e",
@@ -1457,7 +1594,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4c427715901e.m4a",
       "order": 56,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4c427715901e.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "4db44ece05a6",
@@ -1468,7 +1606,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4db44ece05a6.m4a",
       "order": 34,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4db44ece05a6.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "4fe44cf12f2c",
@@ -1479,7 +1618,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/4fe44cf12f2c.m4a",
       "order": 15,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/4fe44cf12f2c.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "50ff3dadfc2d",
@@ -1490,7 +1630,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/50ff3dadfc2d.m4a",
       "order": 2,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/50ff3dadfc2d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "519f2e8c2f71",
@@ -1501,7 +1642,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/519f2e8c2f71.m4a",
       "order": 26,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/519f2e8c2f71.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "550f31fab1e4",
@@ -1512,7 +1654,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/550f31fab1e4.m4a",
       "order": 16,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/550f31fab1e4.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "56139fc9e33a",
@@ -1523,7 +1666,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/56139fc9e33a.m4a",
       "order": 65,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/56139fc9e33a.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "564f6705ac49",
@@ -1534,7 +1678,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/564f6705ac49.m4a",
       "order": 49,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/564f6705ac49.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "56ff5c06be00",
@@ -1545,7 +1690,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/56ff5c06be00.m4a",
       "order": 14,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/56ff5c06be00.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "587f4a5d1a04",
@@ -1556,7 +1702,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/587f4a5d1a04.m4a",
       "order": 22,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/587f4a5d1a04.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "58dcbb0c6432",
@@ -1567,7 +1714,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/58dcbb0c6432.m4a",
       "order": 55,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/58dcbb0c6432.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "5acd12af2966",
@@ -1578,7 +1726,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5acd12af2966.m4a",
       "order": 82,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5acd12af2966.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "5af21e8b70f6",
@@ -1589,7 +1738,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5af21e8b70f6.m4a",
       "order": 37,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5af21e8b70f6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "5ba421ef5864",
@@ -1600,7 +1750,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5ba421ef5864.m4a",
       "order": 17,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5ba421ef5864.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "5cb11c2c2e21",
@@ -1611,7 +1762,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5cb11c2c2e21.m4a",
       "order": 10,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5cb11c2c2e21.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "5d070389a44d",
@@ -1622,7 +1774,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5d070389a44d.m4a",
       "order": 34,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5d070389a44d.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "5e55fb9505f6",
@@ -1633,7 +1786,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5e55fb9505f6.m4a",
       "order": 130,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5e55fb9505f6.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "5f10fb12bdc8",
@@ -1644,7 +1798,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5f10fb12bdc8.m4a",
       "order": 83,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5f10fb12bdc8.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "5f994d597b0c",
@@ -1655,7 +1810,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/5f994d597b0c.m4a",
       "order": 110,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/5f994d597b0c.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "62b978d1d428",
@@ -1666,7 +1822,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/62b978d1d428.m4a",
       "order": 30,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/62b978d1d428.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "6399b8cc8bb4",
@@ -1677,7 +1834,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6399b8cc8bb4.m4a",
       "order": 29,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6399b8cc8bb4.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "655ebac52c09",
@@ -1688,7 +1846,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/655ebac52c09.m4a",
       "order": 90,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/655ebac52c09.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "66bafb2c2794",
@@ -1699,7 +1858,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/66bafb2c2794.m4a",
       "order": 7,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/66bafb2c2794.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "671fef359975",
@@ -1710,7 +1870,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/671fef359975.m4a",
       "order": 37,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/671fef359975.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "6a59e3583c3e",
@@ -1721,7 +1882,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6a59e3583c3e.m4a",
       "order": 22,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6a59e3583c3e.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "6ad2edd3a9b0",
@@ -1732,7 +1894,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6ad2edd3a9b0.m4a",
       "order": 50,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6ad2edd3a9b0.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "6b03d819ed38",
@@ -1743,7 +1906,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6b03d819ed38.m4a",
       "order": 40,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6b03d819ed38.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "6c64424767d6",
@@ -1754,7 +1918,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6c64424767d6.m4a",
       "order": 19,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6c64424767d6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "6e298ca8115e",
@@ -1765,7 +1930,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6e298ca8115e.m4a",
       "order": 86,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6e298ca8115e.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "6e85b2b9d0cb",
@@ -1776,7 +1942,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/6e85b2b9d0cb.m4a",
       "order": 37,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/6e85b2b9d0cb.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "70498803abff",
@@ -1787,7 +1954,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/70498803abff.m4a",
       "order": 120,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/70498803abff.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "713971adbab7",
@@ -1798,7 +1966,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/713971adbab7.m4a",
       "order": 98,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/713971adbab7.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "752e160e8aa2",
@@ -1809,7 +1978,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/752e160e8aa2.m4a",
       "order": 4,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/752e160e8aa2.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "75586e46010d",
@@ -1820,7 +1990,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/75586e46010d.m4a",
       "order": 7,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/75586e46010d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "78dc00d58b0f",
@@ -1831,7 +2002,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/78dc00d58b0f.m4a",
       "order": 106,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/78dc00d58b0f.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "78eeadcc40c3",
@@ -1842,7 +2014,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/78eeadcc40c3.m4a",
       "order": 69,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/78eeadcc40c3.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "791036645a95",
@@ -1853,7 +2026,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/791036645a95.m4a",
       "order": 66,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/791036645a95.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "7a8413623e4b",
@@ -1864,7 +2038,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7a8413623e4b.m4a",
       "order": 5,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7a8413623e4b.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "7b10523378f1",
@@ -1875,7 +2050,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7b10523378f1.m4a",
       "order": 24,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7b10523378f1.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "7b70cde3b78e",
@@ -1886,7 +2062,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7b70cde3b78e.m4a",
       "order": 18,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7b70cde3b78e.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "7c60c14655f2",
@@ -1897,7 +2074,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7c60c14655f2.m4a",
       "order": 15,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7c60c14655f2.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "7c64e0843182",
@@ -1908,7 +2086,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7c64e0843182.m4a",
       "order": 1,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7c64e0843182.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "7d967ce093f1",
@@ -1919,7 +2098,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7d967ce093f1.m4a",
       "order": 43,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7d967ce093f1.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "7eb77d39028d",
@@ -1930,7 +2110,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7eb77d39028d.m4a",
       "order": 32,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7eb77d39028d.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "7fdda7fb0137",
@@ -1941,7 +2122,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/7fdda7fb0137.m4a",
       "order": 47,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/7fdda7fb0137.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "80600710cc2d",
@@ -1952,7 +2134,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/80600710cc2d.m4a",
       "order": 41,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/80600710cc2d.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "80c1c0a88814",
@@ -1963,7 +2146,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/80c1c0a88814.m4a",
       "order": 72,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/80c1c0a88814.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "8110460b88f6",
@@ -1974,7 +2158,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8110460b88f6.m4a",
       "order": 23,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8110460b88f6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "81bdd691c150",
@@ -1985,7 +2170,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/81bdd691c150.m4a",
       "order": 36,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/81bdd691c150.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "83b632672179",
@@ -1996,7 +2182,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/83b632672179.m4a",
       "order": 8,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/83b632672179.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "849113bd5309",
@@ -2007,7 +2194,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/849113bd5309.m4a",
       "order": 75,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/849113bd5309.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "849336783375",
@@ -2018,7 +2206,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/849336783375.m4a",
       "order": 16,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/849336783375.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "84da149cfb19",
@@ -2029,7 +2218,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/84da149cfb19.m4a",
       "order": 19,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/84da149cfb19.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "853bdc43a05d",
@@ -2040,7 +2230,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/853bdc43a05d.m4a",
       "order": 35,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/853bdc43a05d.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "87f1da765211",
@@ -2051,7 +2242,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/87f1da765211.m4a",
       "order": 32,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/87f1da765211.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "8939212176d7",
@@ -2062,7 +2254,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8939212176d7.m4a",
       "order": 46,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8939212176d7.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "8b1ffd026401",
@@ -2073,7 +2266,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b1ffd026401.m4a",
       "order": 9,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b1ffd026401.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "8b2335cd8a89",
@@ -2084,7 +2278,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b2335cd8a89.m4a",
       "order": 102,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b2335cd8a89.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "8b376d3974c6",
@@ -2095,7 +2290,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b376d3974c6.m4a",
       "order": 17,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8b376d3974c6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "8cca5861fa27",
@@ -2106,7 +2302,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8cca5861fa27.m4a",
       "order": 94,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8cca5861fa27.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "8d0842177de4",
@@ -2117,7 +2314,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8d0842177de4.m4a",
       "order": 80,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8d0842177de4.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "8dd8a372a74d",
@@ -2128,7 +2326,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8dd8a372a74d.m4a",
       "order": 86,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8dd8a372a74d.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "8dd8e3be129b",
@@ -2139,7 +2338,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8dd8e3be129b.m4a",
       "order": 70,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8dd8e3be129b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "8e2a39347bba",
@@ -2150,7 +2350,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8e2a39347bba.m4a",
       "order": 4,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8e2a39347bba.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "8e90fc7f48e8",
@@ -2161,7 +2362,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8e90fc7f48e8.m4a",
       "order": 20,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8e90fc7f48e8.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "8ec5293c164b",
@@ -2172,7 +2374,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/8ec5293c164b.m4a",
       "order": 48,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/8ec5293c164b.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "91183abaef9f",
@@ -2183,7 +2386,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/91183abaef9f.m4a",
       "order": 24,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/91183abaef9f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "949aea07d97b",
@@ -2194,7 +2398,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/949aea07d97b.m4a",
       "order": 100,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/949aea07d97b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "9544b68ee79f",
@@ -2205,7 +2410,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9544b68ee79f.m4a",
       "order": 48,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9544b68ee79f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "97b9cdcf90f4",
@@ -2216,7 +2422,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/97b9cdcf90f4.m4a",
       "order": 112,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/97b9cdcf90f4.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "97ce4ed14b0e",
@@ -2227,7 +2434,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/97ce4ed14b0e.m4a",
       "order": 6,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/97ce4ed14b0e.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "98dcec672405",
@@ -2238,7 +2446,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/98dcec672405.m4a",
       "order": 62,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/98dcec672405.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "9a99bca9e72c",
@@ -2249,7 +2458,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9a99bca9e72c.m4a",
       "order": 29,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9a99bca9e72c.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "9cdc6460eb09",
@@ -2260,7 +2470,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9cdc6460eb09.m4a",
       "order": 38,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9cdc6460eb09.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "9d4e12c5e211",
@@ -2271,7 +2482,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9d4e12c5e211.m4a",
       "order": 3,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9d4e12c5e211.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "9eb35a591bf9",
@@ -2282,7 +2494,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9eb35a591bf9.m4a",
       "order": 8,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9eb35a591bf9.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "9ee6c876cde8",
@@ -2293,7 +2506,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9ee6c876cde8.m4a",
       "order": 118,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9ee6c876cde8.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "9f5bef2baf9f",
@@ -2304,7 +2518,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/9f5bef2baf9f.m4a",
       "order": 80,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/9f5bef2baf9f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "a0f3ba942b0d",
@@ -2315,7 +2530,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a0f3ba942b0d.m4a",
       "order": 18,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a0f3ba942b0d.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "a11a2d4e6668",
@@ -2326,7 +2542,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a11a2d4e6668.m4a",
       "order": 8,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a11a2d4e6668.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "a1a530a7f5e4",
@@ -2337,7 +2554,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a1a530a7f5e4.m4a",
       "order": 4,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a1a530a7f5e4.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "a1f9a74075ec",
@@ -2348,7 +2566,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a1f9a74075ec.m4a",
       "order": 53,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a1f9a74075ec.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "a2e181732dcf",
@@ -2359,7 +2578,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a2e181732dcf.m4a",
       "order": 96,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a2e181732dcf.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "a391e93c6f15",
@@ -2370,7 +2590,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a391e93c6f15.m4a",
       "order": 30,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a391e93c6f15.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "a4d8762ca2b4",
@@ -2381,7 +2602,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a4d8762ca2b4.m4a",
       "order": 95,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a4d8762ca2b4.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "a7b4c62e308a",
@@ -2392,7 +2614,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a7b4c62e308a.m4a",
       "order": 92,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a7b4c62e308a.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "a830c51eb919",
@@ -2403,7 +2626,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a830c51eb919.m4a",
       "order": 20,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a830c51eb919.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "a8b5ffd155f4",
@@ -2414,7 +2638,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a8b5ffd155f4.m4a",
       "order": 29,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a8b5ffd155f4.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "a92137a8cb70",
@@ -2425,7 +2650,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/a92137a8cb70.m4a",
       "order": 43,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/a92137a8cb70.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "aa9867440931",
@@ -2436,7 +2662,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/aa9867440931.m4a",
       "order": 57,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/aa9867440931.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "abd602c19d49",
@@ -2447,7 +2674,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/abd602c19d49.m4a",
       "order": 40,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/abd602c19d49.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "ac0086846941",
@@ -2458,7 +2686,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ac0086846941.m4a",
       "order": 79,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ac0086846941.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "ac834eb7f656",
@@ -2469,7 +2698,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ac834eb7f656.m4a",
       "order": 54,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ac834eb7f656.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "ad4acd46da19",
@@ -2480,7 +2710,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ad4acd46da19.m4a",
       "order": 32,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ad4acd46da19.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "ad73043657b2",
@@ -2491,7 +2722,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ad73043657b2.m4a",
       "order": 31,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ad73043657b2.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "ae3aa602290f",
@@ -2502,7 +2734,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ae3aa602290f.m4a",
       "order": 104,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ae3aa602290f.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "aec899bae6ac",
@@ -2513,7 +2746,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/aec899bae6ac.m4a",
       "order": 43,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/aec899bae6ac.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "aecea46e354b",
@@ -2524,7 +2758,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/aecea46e354b.m4a",
       "order": 88,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/aecea46e354b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "afae7d1bb359",
@@ -2535,7 +2770,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/afae7d1bb359.m4a",
       "order": 66,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/afae7d1bb359.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "afe7d788279b",
@@ -2546,7 +2782,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/afe7d788279b.m4a",
       "order": 50,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/afe7d788279b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "afee97874123",
@@ -2557,7 +2794,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/afee97874123.m4a",
       "order": 33,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/afee97874123.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "b0657bd5c5c1",
@@ -2568,7 +2806,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b0657bd5c5c1.m4a",
       "order": 12,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b0657bd5c5c1.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "b13803005f4e",
@@ -2579,7 +2818,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b13803005f4e.m4a",
       "order": 68,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b13803005f4e.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "b2d8d01ac1b9",
@@ -2590,7 +2830,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b2d8d01ac1b9.m4a",
       "order": 47,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b2d8d01ac1b9.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "b44210b897f2",
@@ -2601,7 +2842,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b44210b897f2.m4a",
       "order": 14,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b44210b897f2.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "b47867318e1b",
@@ -2612,7 +2854,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b47867318e1b.m4a",
       "order": 136,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b47867318e1b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "b4e1297ea688",
@@ -2623,7 +2866,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b4e1297ea688.m4a",
       "order": 5,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b4e1297ea688.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "b57ba9a2d546",
@@ -2634,7 +2878,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b57ba9a2d546.m4a",
       "order": 22,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b57ba9a2d546.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "b7a288d73998",
@@ -2645,7 +2890,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b7a288d73998.m4a",
       "order": 11,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b7a288d73998.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "b7bf6b1fa010",
@@ -2656,7 +2902,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/b7bf6b1fa010.m4a",
       "order": 22,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/b7bf6b1fa010.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "ba7523a833ba",
@@ -2667,7 +2914,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ba7523a833ba.m4a",
       "order": 41,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ba7523a833ba.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "bc54ebafae0f",
@@ -2678,7 +2926,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/bc54ebafae0f.m4a",
       "order": 58,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/bc54ebafae0f.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "be322cfbf1c6",
@@ -2689,7 +2938,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/be322cfbf1c6.m4a",
       "order": 12,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/be322cfbf1c6.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "be91481299a6",
@@ -2700,7 +2950,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/be91481299a6.m4a",
       "order": 6,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/be91481299a6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "bece62a0ddca",
@@ -2711,7 +2962,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/bece62a0ddca.m4a",
       "order": 6,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/bece62a0ddca.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "c0739e5a9ba8",
@@ -2722,7 +2974,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c0739e5a9ba8.m4a",
       "order": 142,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c0739e5a9ba8.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "c0f61c00b90e",
@@ -2733,7 +2986,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c0f61c00b90e.m4a",
       "order": 54,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c0f61c00b90e.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "c1538465c10f",
@@ -2744,7 +2998,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c1538465c10f.m4a",
       "order": 88,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c1538465c10f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "c1971038e94f",
@@ -2755,7 +3010,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c1971038e94f.m4a",
       "order": 44,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c1971038e94f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "c19d17aceb0b",
@@ -2766,7 +3022,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c19d17aceb0b.m4a",
       "order": 36,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c19d17aceb0b.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "c36def169604",
@@ -2777,7 +3034,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c36def169604.m4a",
       "order": 27,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c36def169604.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "c65122d71ded",
@@ -2788,7 +3046,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c65122d71ded.m4a",
       "order": 144,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c65122d71ded.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "intermediate"
     },
     {
       "id": "c860a1189354",
@@ -2799,7 +3058,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c860a1189354.m4a",
       "order": 45,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c860a1189354.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "c866845f67b9",
@@ -2810,7 +3070,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c866845f67b9.m4a",
       "order": 39,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c866845f67b9.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "c86dce40099f",
@@ -2821,7 +3082,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c86dce40099f.m4a",
       "order": 92,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c86dce40099f.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "c8830ce3bfd2",
@@ -2832,7 +3094,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c8830ce3bfd2.m4a",
       "order": 89,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c8830ce3bfd2.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "c90097806959",
@@ -2843,7 +3106,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c90097806959.m4a",
       "order": 46,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c90097806959.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "ca0fc8c5fa68",
@@ -2854,7 +3118,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ca0fc8c5fa68.m4a",
       "order": 19,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ca0fc8c5fa68.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "ca374662fe44",
@@ -2865,7 +3130,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ca374662fe44.m4a",
       "order": 28,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ca374662fe44.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "cb0a0569670e",
@@ -2876,7 +3142,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cb0a0569670e.m4a",
       "order": 24,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cb0a0569670e.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "cba248422939",
@@ -2887,7 +3154,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cba248422939.m4a",
       "order": 24,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cba248422939.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "cd4c5295a481",
@@ -2898,7 +3166,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cd4c5295a481.m4a",
       "order": 28,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cd4c5295a481.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "ce6d225dd54f",
@@ -2909,7 +3178,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ce6d225dd54f.m4a",
       "order": 18,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ce6d225dd54f.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "cf14dd8b5f63",
@@ -2920,7 +3190,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cf14dd8b5f63.m4a",
       "order": 114,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cf14dd8b5f63.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "cf776fc1b3d7",
@@ -2931,7 +3202,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cf776fc1b3d7.m4a",
       "order": 51,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cf776fc1b3d7.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "cfa8b3b3fe44",
@@ -2942,7 +3214,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/cfa8b3b3fe44.m4a",
       "order": 94,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/cfa8b3b3fe44.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "d21fd4f2f8db",
@@ -2953,7 +3226,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d21fd4f2f8db.m4a",
       "order": 30,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d21fd4f2f8db.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "d38776ea2245",
@@ -2964,7 +3238,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d38776ea2245.m4a",
       "order": 52,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d38776ea2245.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "d3f31ffac7b0",
@@ -2975,7 +3250,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d3f31ffac7b0.m4a",
       "order": 70,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d3f31ffac7b0.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "d47f343ef01a",
@@ -2986,7 +3262,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d47f343ef01a.m4a",
       "order": 12,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d47f343ef01a.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "d4cf2238ca8c",
@@ -2997,7 +3274,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d4cf2238ca8c.m4a",
       "order": 124,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d4cf2238ca8c.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "d5ae3612fc48",
@@ -3008,7 +3286,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d5ae3612fc48.m4a",
       "order": 18,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d5ae3612fc48.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "d5bba5ce17ef",
@@ -3019,7 +3298,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d5bba5ce17ef.m4a",
       "order": 7,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d5bba5ce17ef.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "d615e0de1a89",
@@ -3030,7 +3310,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d615e0de1a89.m4a",
       "order": 138,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d615e0de1a89.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "d67c5b27f982",
@@ -3041,7 +3322,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d67c5b27f982.m4a",
       "order": 9,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d67c5b27f982.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "d6ee1f52e7a1",
@@ -3052,7 +3334,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d6ee1f52e7a1.m4a",
       "order": 25,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d6ee1f52e7a1.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "d723a33b7467",
@@ -3063,7 +3346,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d723a33b7467.m4a",
       "order": 33,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d723a33b7467.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "d7ecc21a4823",
@@ -3074,7 +3358,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d7ecc21a4823.m4a",
       "order": 71,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d7ecc21a4823.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "d862d46c2764",
@@ -3085,7 +3370,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d862d46c2764.m4a",
       "order": 16,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d862d46c2764.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "d8fd76dc0ba9",
@@ -3096,7 +3382,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d8fd76dc0ba9.m4a",
       "order": 46,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d8fd76dc0ba9.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "d94b2594dc36",
@@ -3107,7 +3394,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/d94b2594dc36.m4a",
       "order": 12,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/d94b2594dc36.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "db6921adf91b",
@@ -3118,7 +3406,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/db6921adf91b.m4a",
       "order": 64,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/db6921adf91b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "advanced"
     },
     {
       "id": "dd2042cf5fe1",
@@ -3129,7 +3418,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/dd2042cf5fe1.m4a",
       "order": 52,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/dd2042cf5fe1.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "dda2e2534231",
@@ -3140,7 +3430,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/dda2e2534231.m4a",
       "order": 84,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/dda2e2534231.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "df01729f0793",
@@ -3151,7 +3442,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/df01729f0793.m4a",
       "order": 14,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/df01729f0793.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "dfb8b13ccfc6",
@@ -3162,7 +3454,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/dfb8b13ccfc6.m4a",
       "order": 140,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/dfb8b13ccfc6.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "dfd0dd2048c1",
@@ -3173,7 +3466,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/dfd0dd2048c1.m4a",
       "order": 62,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/dfd0dd2048c1.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "e1652a751172",
@@ -3184,7 +3478,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e1652a751172.m4a",
       "order": 20,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e1652a751172.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "e18c7933e909",
@@ -3195,7 +3490,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e18c7933e909.m4a",
       "order": 134,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e18c7933e909.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "e1cd8a957aea",
@@ -3206,7 +3502,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e1cd8a957aea.m4a",
       "order": 122,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e1cd8a957aea.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "e3a9134f273b",
@@ -3217,7 +3514,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e3a9134f273b.m4a",
       "order": 5,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e3a9134f273b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "e3fdca08a77c",
@@ -3228,7 +3526,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e3fdca08a77c.m4a",
       "order": 96,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e3fdca08a77c.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "e42adde5bc75",
@@ -3239,7 +3538,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e42adde5bc75.m4a",
       "order": 39,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e42adde5bc75.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "e4fb19b6634e",
@@ -3250,7 +3550,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e4fb19b6634e.m4a",
       "order": 85,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e4fb19b6634e.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "e983ceb4a381",
@@ -3261,7 +3562,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e983ceb4a381.m4a",
       "order": 72,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e983ceb4a381.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "e9b9eead5da6",
@@ -3272,7 +3574,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/e9b9eead5da6.m4a",
       "order": 2,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/e9b9eead5da6.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "intermediate"
     },
     {
       "id": "ea7e710e41b9",
@@ -3283,7 +3586,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ea7e710e41b9.m4a",
       "order": 42,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ea7e710e41b9.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "ebefae2f8aa2",
@@ -3294,7 +3598,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ebefae2f8aa2.m4a",
       "order": 116,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ebefae2f8aa2.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "ec5fd48352de",
@@ -3305,7 +3610,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ec5fd48352de.m4a",
       "order": 51,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ec5fd48352de.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "ed0a16b73eab",
@@ -3316,7 +3622,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ed0a16b73eab.m4a",
       "order": 25,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ed0a16b73eab.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "beginner"
     },
     {
       "id": "eddcf9a1ddb8",
@@ -3327,7 +3634,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/eddcf9a1ddb8.m4a",
       "order": 108,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/eddcf9a1ddb8.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "edee29aa49d3",
@@ -3338,7 +3646,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/edee29aa49d3.m4a",
       "order": 35,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/edee29aa49d3.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "ee14ced3ebad",
@@ -3349,7 +3658,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ee14ced3ebad.m4a",
       "order": 44,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ee14ced3ebad.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "ee34cfc94b97",
@@ -3360,7 +3670,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ee34cfc94b97.m4a",
       "order": 49,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ee34cfc94b97.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "eeaa9fca66c6",
@@ -3371,7 +3682,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/eeaa9fca66c6.m4a",
       "order": 9,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/eeaa9fca66c6.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "f0c44e39b7cd",
@@ -3382,7 +3694,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f0c44e39b7cd.m4a",
       "order": 21,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f0c44e39b7cd.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f0e28261ac63",
@@ -3393,7 +3706,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f0e28261ac63.m4a",
       "order": 57,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f0e28261ac63.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f1181e6a388b",
@@ -3404,7 +3718,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f1181e6a388b.m4a",
       "order": 54,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f1181e6a388b.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "f225c097f7da",
@@ -3415,7 +3730,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f225c097f7da.m4a",
       "order": 40,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f225c097f7da.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "f2eb602e7688",
@@ -3426,7 +3742,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f2eb602e7688.m4a",
       "order": 56,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f2eb602e7688.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f466da4ee460",
@@ -3437,7 +3754,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f466da4ee460.m4a",
       "order": 77,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f466da4ee460.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f4772bd45f80",
@@ -3448,7 +3766,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f4772bd45f80.m4a",
       "order": 21,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f4772bd45f80.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "f47df5624034",
@@ -3459,7 +3778,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f47df5624034.m4a",
       "order": 34,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f47df5624034.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "f594b643316b",
@@ -3470,7 +3790,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f594b643316b.m4a",
       "order": 27,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f594b643316b.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "f6608ece6b1f",
@@ -3481,7 +3802,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f6608ece6b1f.m4a",
       "order": 68,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f6608ece6b1f.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     },
     {
       "id": "f8255f72cdc2",
@@ -3492,7 +3814,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f8255f72cdc2.m4a",
       "order": 21,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f8255f72cdc2.json",
-      "folderEn": "New Concept English 3"
+      "folderEn": "New Concept English 3",
+      "level": "advanced"
     },
     {
       "id": "f85615857774",
@@ -3503,7 +3826,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f85615857774.m4a",
       "order": 59,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f85615857774.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f940a08f32a5",
@@ -3514,7 +3838,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f940a08f32a5.m4a",
       "order": 91,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f940a08f32a5.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "f9f3a8191cca",
@@ -3525,7 +3850,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/f9f3a8191cca.m4a",
       "order": 31,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/f9f3a8191cca.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "fb50d57cc40c",
@@ -3536,7 +3862,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/fb50d57cc40c.m4a",
       "order": 35,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/fb50d57cc40c.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "fcf524236baa",
@@ -3547,7 +3874,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/fcf524236baa.m4a",
       "order": 76,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/fcf524236baa.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "fd2433c28b77",
@@ -3558,7 +3886,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/fd2433c28b77.m4a",
       "order": 33,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/fd2433c28b77.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "feb57fa30728",
@@ -3569,7 +3898,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/feb57fa30728.m4a",
       "order": 46,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/feb57fa30728.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "ff01b32ca51b",
@@ -3580,7 +3910,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ff01b32ca51b.m4a",
       "order": 84,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ff01b32ca51b.json",
-      "folderEn": "New Concept English 2"
+      "folderEn": "New Concept English 2",
+      "level": "intermediate"
     },
     {
       "id": "ffa2cb3edebf",
@@ -3591,7 +3922,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ffa2cb3edebf.m4a",
       "order": 11,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ffa2cb3edebf.json",
-      "folderEn": "New Concept English 4"
+      "folderEn": "New Concept English 4",
+      "level": "advanced"
     },
     {
       "id": "ffdc520c7cf7",
@@ -3602,7 +3934,8 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/ffdc520c7cf7.m4a",
       "order": 2,
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/ffdc520c7cf7.json",
-      "folderEn": "New Concept English 1"
+      "folderEn": "New Concept English 1",
+      "level": "beginner"
     }
   ]
 }
