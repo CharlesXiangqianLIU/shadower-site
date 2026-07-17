@@ -1068,39 +1068,6 @@
       "level": "intermediate"
     },
     {
-      "id": "358fd78c8147",
-      "title": "Hot weather alert",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.json",
-      "folderEn": "BBC news",
-      "level": "intermediate"
-    },
-    {
-      "id": "c943390d2b1a",
-      "title": "Hot weather record of June",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.json",
-      "folderEn": "BBC news",
-      "level": "advanced"
-    },
-    {
-      "id": "263cafe9d071",
-      "title": "Starmer Resign",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.json",
-      "folderEn": "BBC news",
-      "level": "advanced"
-    },
-    {
       "id": "2026-07-13-18",
       "title": "Agriculture Report # 397",
       "date": "2026-06-26",
