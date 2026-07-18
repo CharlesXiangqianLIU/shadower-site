@@ -1,6 +1,16 @@
 {
   "lessons": [
     {
+      "id": "2026-07-18",
+      "title": "Scientist Translates Zebra Finch Calls",
+      "date": "2026-07-18",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-18.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-18.json",
+      "folder": "Lucas Reading",
+      "folderEn": "Lucas Reading",
+      "free": true
+    },
+    {
       "id": "wu-2026-07-13-28",
       "title": "Death Valley National Park",
       "date": "2026-07-17",
