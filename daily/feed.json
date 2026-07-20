@@ -1,6 +1,248 @@
 {
   "lessons": [
     {
+      "id": "2026-07-21",
+      "title": "Are delivery robots more of a help or hazard?",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-2",
+      "title": "Wimbledon queue: The poshest endurance test in the world",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-2.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-3",
+      "title": "What vaping really does to your body",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-3.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-4",
+      "title": "Heartstopper Forever: Kit Connor and Joe Locke on queer joy, future plans and more",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-4.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-5",
+      "title": "Why does Britain keep changing prime ministers?",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-5.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-21-6",
+      "title": "Adam Ramsay-Peaty on marriage, pregnancy and Commonwealth Games",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-6.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-7",
+      "title": "Aspiring engineers take on Soapbox racing",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-7.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-21-8",
+      "title": "The vaccine preventing the deadly cancer, HPV",
+      "date": "2026-07-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-8.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20",
+      "title": "The nuclear fusion rocket that could take humans to Mars faster",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-20-2",
+      "title": "Bison roam wild in Cumbria for the first time in 6,000 years",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-2.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-3",
+      "title": "The rising cost of beer: What happened?",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-3.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-4",
+      "title": "King Charles and Queen Camilla will not live in Buckingham Palace after renovations",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-4.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-20-5",
+      "title": "Stars of The Office UK reflect on series as it turns 25",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-5.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-6",
+      "title": "Microsoft in the race to build the ultimate supercomputer",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-6.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-20-7",
+      "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-7.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-20-8",
+      "title": "Conjoined twins separated with the help of AI",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-8.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-9",
+      "title": "Spain beat Argentina to win 2026 World Cup",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-9.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-10",
+      "title": "Taylor Swift and Travis Kelce get married in New York City",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-10.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-11",
+      "title": "UK climate extremes becoming 'new normal', says Met Office",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-11.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-11.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
+      "id": "2026-07-20-12",
+      "title": "Remembering Sam Neill, the star from Jurassic Park, Peaky Blinders and The Piano",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-12.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-12.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-13",
+      "title": "UK at 'exceptional' risk of wildfires as two arrested over fires in France",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-13.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "intermediate"
+    },
+    {
+      "id": "2026-07-20-14",
+      "title": "Antarctica’s first dinosaur fossil found in a drawer",
+      "date": "2026-07-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-14.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-14.json",
+      "folder": "BBC news",
+      "free": true,
+      "accent": "british",
+      "level": "advanced"
+    },
+    {
       "id": "2026-07-19",
       "title": "Emily Blunt at the Restaurant",
       "date": "2026-07-19",
@@ -8,7 +250,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-19.json",
       "folder": "脱口秀",
       "folderEn": "Stand-up Comedy",
-      "free": true
+      "free": true,
+      "level": "intermediate"
     },
     {
       "id": "2026-07-18",
@@ -19,7 +262,8 @@
       "folder": "Lucas Reading",
       "folderEn": "Lucas Reading",
       "free": true,
-      "accent": "british"
+      "accent": "british",
+      "level": "intermediate"
     },
     {
       "id": "wu-2026-07-13-28",
@@ -1206,6 +1450,42 @@
       "accent": "american"
     },
     {
+      "id": "358fd78c8147",
+      "title": "Hot weather alert",
+      "date": "2026-06-27",
+      "folder": "BBC news",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.json",
+      "folderEn": "BBC news",
+      "level": "intermediate",
+      "accent": "british"
+    },
+    {
+      "id": "c943390d2b1a",
+      "title": "Hot weather record of June",
+      "date": "2026-06-27",
+      "folder": "BBC news",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.json",
+      "folderEn": "BBC news",
+      "level": "advanced",
+      "accent": "british"
+    },
+    {
+      "id": "263cafe9d071",
+      "title": "Starmer Resign",
+      "date": "2026-06-27",
+      "folder": "BBC news",
+      "free": true,
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.json",
+      "folderEn": "BBC news",
+      "level": "advanced",
+      "accent": "british"
+    },
+    {
       "id": "2026-07-13-18",
       "title": "Agriculture Report # 397",
       "date": "2026-06-26",
@@ -1600,42 +1880,6 @@
       "free": false,
       "level": "intermediate",
       "accent": "american"
-    },
-    {
-      "id": "358fd78c8147",
-      "title": "Hot weather alert",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.json",
-      "folderEn": "BBC news",
-      "level": "intermediate",
-      "accent": "british"
-    },
-    {
-      "id": "c943390d2b1a",
-      "title": "Hot weather record of June",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.json",
-      "folderEn": "BBC news",
-      "level": "advanced",
-      "accent": "british"
-    },
-    {
-      "id": "263cafe9d071",
-      "title": "Starmer Resign",
-      "date": "2026-06-27",
-      "folder": "BBC news",
-      "free": true,
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.json",
-      "folderEn": "BBC news",
-      "level": "advanced",
-      "accent": "british"
     },
     {
       "id": "002c68718458",
