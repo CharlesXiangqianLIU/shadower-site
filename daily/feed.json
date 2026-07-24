@@ -1,6 +1,506 @@
 {
   "lessons": [
     {
+      "id": "2026-07-24",
+      "title": "AI Consciousness and Multi-Agent Minds",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-2",
+      "title": "Predicting the Future as the Essence of Intelligence",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-2.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-3",
+      "title": "Powering AI: The Energy Crisis and Solar in Space",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-3.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-4",
+      "title": "Project Suncatcher: Data Centers in Orbit",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-4.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-5",
+      "title": "From COVID Isolation to Better in Person",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-5.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-6",
+      "title": "Cavett on Conversation, Comedy, and the Dead Guest Story",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-6.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-7",
+      "title": "Mailer vs Vidal Legendary Show",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-7.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-8",
+      "title": "Cavett's Depression and Coping",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-8.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-9",
+      "title": "Free Expression and Campus Protests at Dartmouth",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-9.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-10",
+      "title": "AI on Campus and Mental Health Chatbot",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-10.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-11",
+      "title": "Mental Health Trends and University's Broader Role",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-11.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-11.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-12",
+      "title": "Endowment Tax Battle",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-12.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-12.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-13",
+      "title": "Institutional Neutrality and Ideological Drift",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-13.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-14",
+      "title": "Growing up in Divided Berlin",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-14.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-14.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-15",
+      "title": "Kahneman's Final Decision and Repugnant Transactions",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-15.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-15.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-16",
+      "title": "History and Legal Rise of Assisted Dying",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-16.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-16.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-17",
+      "title": "Governor Hochul on New York's MAID Law",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-17.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-17.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-18",
+      "title": "Religious and Legal Opposition to MAID",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-18.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-18.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-19",
+      "title": "Sulmasy's Ethical Critique of Assisted Dying",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-19.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-19.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-20",
+      "title": "The Doubling Cube Explained",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-20.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-20.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-21",
+      "title": "Backgammon Theory Meets NFL Strategy",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-21.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-21.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-22",
+      "title": "The Wild 1970s Backgammon Gambling Scene",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-22.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-22.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-23",
+      "title": "Trump's Second Term and Iran War",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-23.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-24",
+      "title": "Why Iran Hasn't Buckled",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-24.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-25",
+      "title": "Gulf States and Israel-Palestine Dynamics",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-25.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-26",
+      "title": "US Decline, Corruption and Political Reform",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-26.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-26.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-27",
+      "title": "Post-Premiere Reflections with David Lang",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-27.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-27.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-28",
+      "title": "Rehearsal Magic and Community Building",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-28.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-28.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-29",
+      "title": "Funding the Arts and Wealth Critique",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-29.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-30",
+      "title": "Religion, Judaism, and the Final Movement",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-30.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-30.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-31",
+      "title": "Judy Faulkner and the Tesla Story",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-31.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-31.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-32",
+      "title": "Epic's Origins and Growth",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-32.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-32.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-33",
+      "title": "Profit, Ownership and Ten Commandments",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-33.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-33.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-34",
+      "title": "AI in Healthcare: Risks and Benefits",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-34.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-34.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-35",
+      "title": "The Amyloid Hypothesis Explained",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-35.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-35.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-36",
+      "title": "Cassava Sciences Whistleblower Investigation",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-36.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-36.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-37",
+      "title": "The Lesné Nature Paper Scandal",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-37.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-37.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-38",
+      "title": "Masliah Case and Personal Betrayal",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-38.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-38.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-39",
+      "title": "The Future of Alzheimer's Research",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-39.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-39.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-40",
+      "title": "Honey Fraud and Chinese Dumping",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-40.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-40.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-41",
+      "title": "Olive Oil Fraud and Standards of Identity",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-41.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-41.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-42",
+      "title": "Positive Externalities of Bees and Almond Pollination Economics",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-42.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-42.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-43",
+      "title": "The Bourbon Bust and Changing Consumer Tastes",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-43.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-43.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-44",
+      "title": "Three-Tier Distribution System Inefficiencies",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-44.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-44.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-45",
+      "title": "How Bourbon Is Actually Made",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-45.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-45.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-46",
+      "title": "Testing the Album-Release Effect",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-46.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-46.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-47",
+      "title": "Robustness Checks and Falsification Tests",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-47.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-47.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-48",
+      "title": "Autonomous Cars, Privacy, and Data Policy",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-48.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-48.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-49",
+      "title": "Penicillin Allergy Myth Introduced",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-49.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-49.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
+      "id": "2026-07-24-50",
+      "title": "Testing and Clearing a Penicillin Allergy",
+      "date": "2026-07-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-50.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-24-50.json",
+      "folder": "美音更新",
+      "folderEn": "American English",
+      "level": "C1"
+    },
+    {
       "id": "2026-07-21",
       "title": "Are delivery robots more of a help or hazard?",
       "date": "2026-07-21",
