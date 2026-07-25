@@ -114,6 +114,19 @@
       "folderEn": "BBC Real Easy English",
       "accent": "british",
       "free": false,
+      "level": "A2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-10",
+      "title": "Talking about meetings",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-10.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": false,
       "level": "A2"
     },
     {
@@ -12610,18 +12623,6 @@
       "folderEn": "BBC Learning English",
       "free": false,
       "level": "B2",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-61",
-      "title": "Don't worry! Learn the language you need to talk about your worries",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-61.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-61.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "free": false,
-      "level": "A2",
       "accent": "british"
     },
     {
