@@ -354,17 +354,6 @@
       "level": "C1"
     },
     {
-      "id": "2026-07-25-38",
-      "title": "Social Intelligence and the Nature of Self",
-      "date": "2026-07-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-38.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-38.json",
-      "folder": "美音更新 时长带测试·3-8s",
-      "folderEn": "AmE Band Test 3-8s",
-      "free": true,
-      "level": "C1"
-    },
-    {
       "id": "2026-07-25-39",
       "title": "Campus Protests and Institutional Neutrality",
       "date": "2026-07-25",
@@ -392,28 +381,6 @@
       "date": "2026-07-25",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-32.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-32.json",
-      "folder": "Real Easy 时长带测试·2-6s",
-      "folderEn": "REE Band Test 2-6s",
-      "free": true,
-      "level": "A2"
-    },
-    {
-      "id": "2026-07-25-33",
-      "title": "Talking about creativity",
-      "date": "2026-07-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-33.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-33.json",
-      "folder": "Real Easy 时长带测试·2-6s",
-      "folderEn": "REE Band Test 2-6s",
-      "free": true,
-      "level": "A2"
-    },
-    {
-      "id": "2026-07-25-34",
-      "title": "Talking about socialising",
-      "date": "2026-07-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-34.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-34.json",
       "folder": "Real Easy 时长带测试·2-6s",
       "folderEn": "REE Band Test 2-6s",
       "free": true,
@@ -12302,18 +12269,6 @@
       "accent": "british"
     },
     {
-      "id": "2026-07-15-31",
-      "title": "Finding and eating wild food",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-31.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-31.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "free": false,
-      "level": "B2",
-      "accent": "british"
-    },
-    {
       "id": "2026-07-15-32",
       "title": "How are horses helping to heal humans?",
       "date": "2026-07-15",
@@ -12638,30 +12593,6 @@
       "accent": "british"
     },
     {
-      "id": "2026-07-15-59",
-      "title": "How to talk about your brain",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-59.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-59.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "free": false,
-      "level": "A2",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-60",
-      "title": "Learn the language of secrets",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-60.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-60.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "free": false,
-      "level": "A2",
-      "accent": "british"
-    },
-    {
       "id": "2026-07-15-61",
       "title": "Don't worry! Learn the language you need to talk about your worries",
       "date": "2026-07-15",
@@ -12775,18 +12706,6 @@
       "date": "2026-07-15",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-70.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-70.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "free": false,
-      "level": "A2",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-71",
-      "title": "Talking about games",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-71.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-71.json",
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "free": false,
