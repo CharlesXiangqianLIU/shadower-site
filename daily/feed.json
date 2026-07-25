@@ -23,6 +23,19 @@
       "folderEn": "BBC Real Easy English",
       "accent": "british",
       "free": false,
+      "level": "A2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-3",
+      "title": "Talking about games",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-3.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": false,
       "level": "A2"
     },
     {
@@ -465,18 +478,6 @@
       "folderEn": "AmE Band Test 3-8s",
       "free": true,
       "level": "C1"
-    },
-    {
-      "id": "2026-07-25-45",
-      "title": "Learn the language of secrets",
-      "date": "2026-07-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-45.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-45.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-07-25-46",
