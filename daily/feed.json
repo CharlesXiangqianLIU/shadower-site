@@ -75,6 +75,19 @@
       "folderEn": "BBC Real Easy English",
       "accent": "british",
       "free": true,
+      "level": "A2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-7",
+      "title": "How English speakers talk about brothers and sisters",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
       "level": "A2"
     },
     {
@@ -12571,18 +12584,6 @@
       "folderEn": "BBC Learning English",
       "free": false,
       "level": "B2",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-56",
-      "title": "Are you a tidy or messy person?",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-56.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-56.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "free": true,
-      "level": "A2",
       "accent": "british"
     },
     {
