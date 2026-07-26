@@ -348,6 +348,19 @@
       "folderEn": "BBC Learning English",
       "accent": "british",
       "free": true,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-28",
+      "title": "Making cities feel quieter",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
       "level": "B2"
     },
     {
@@ -12244,18 +12257,6 @@
       "free": true,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-9",
-      "title": "The power of poetry",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-9.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-9.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "free": true,
-      "level": "B2",
       "accent": "british"
     },
     {
