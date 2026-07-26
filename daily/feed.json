@@ -322,6 +322,19 @@
       "folderEn": "BBC Learning English",
       "accent": "british",
       "free": true,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-26",
+      "title": "How advertisers make us spend money",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
       "level": "B2"
     },
     {
@@ -12218,18 +12231,6 @@
       "free": true,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-7",
-      "title": "Limiting screen time for children",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-7.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "free": true,
-      "level": "B2",
       "accent": "british"
     },
     {
