@@ -283,6 +283,19 @@
       "folderEn": "BBC Learning English",
       "accent": "british",
       "free": true,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-23",
+      "title": "Rude emails",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-23.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
       "level": "B2"
     },
     {
@@ -12179,18 +12192,6 @@
       "free": true,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-4",
-      "title": "Should we cycle more?",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-4.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "free": true,
-      "level": "B2",
       "accent": "british"
     },
     {
