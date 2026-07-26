@@ -1,1 +1,306 @@
-[{"index": 0, "text": "And now Words and Their Stories from VOA Learning English.", "start": 6.67, "end": 13.37}, {"index": 1, "text": "Springtime is a time of renewal and growth.", "start": 18.85, "end": 23.49}, {"index": 2, "text": "Many plants end their long winter sleep and form new buds and shoots.", "start": 23.71, "end": 31.17}, {"index": 3, "text": "Beautiful flowers will soon be showing their bright colors.", "start": 32.25, "end": 36.85}, {"index": 4, "text": "And the grass will grow thicker and greener again.", "start": 37.29, "end": 41.79}, {"index": 5, "text": "Some flowers bloom in a very noticeable way but that is not the case with grass.", "start": 42.47, "end": 50.25}, {"index": 6, "text": "Imagine you are sitting in a grassy field.", "start": 51.13, "end": 55.15}, {"index": 7, "text": "And you have only one job – to watch the grass grow.", "start": 54.75, "end": 60.37}, {"index": 8, "text": "That does not sound very interesting.", "start": 60.75, "end": 64.11}, {"index": 9, "text": "In fact, it sounds really boring.", "start": 64.72, "end": 68.31}, {"index": 10, "text": "That idea is what gives us the expression “like watching grass grow.”", "start": 69.21, "end": 75.11}, {"index": 11, "text": "We use this expression to describe an experience that is uninteresting.", "start": 75.63, "end": 81.85}, {"index": 12, "text": "Another good word to describe it is tedious.", "start": 82.39, "end": 86.99}, {"index": 13, "text": "We use this expression in many situations.", "start": 88.5, "end": 91.97}, {"index": 14, "text": "Let’s hear a few examples: After the politician won his campaign,", "start": 91.57, "end": 99.77}, {"index": 15, "text": "he gave a two-hour long acceptance speech.", "start": 99.67, "end": 104.33}, {"index": 16, "text": "Two hours!", "start": 104.912, "end": 106.47}, {"index": 17, "text": "It was as much fun as watching grass grow.", "start": 106.11, "end": 110.31}, {"index": 18, "text": "I really don’t like watching long sports games.", "start": 110.93, "end": 114.97}, {"index": 19, "text": "It’s like watching grass grow.", "start": 114.57, "end": 118.07}, {"index": 20, "text": "Now, grass grows on the ground all the time.", "start": 118.608, "end": 122.45}, {"index": 21, "text": "And usually, we don’t give it much thought.", "start": 122.05, "end": 125.75}, {"index": 22, "text": "If you stand in one place for a long time, the grass will continue to grow under your feet.", "start": 126.17, "end": 133.73}, {"index": 23, "text": "For people who are always active, always moving, always on-the-go, we can say they don't let grass grow under their feet.", "start": 134.39, "end": 145.49}, {"index": 24, "text": "We can also say beneath their feet.", "start": 145.79, "end": 149.23}, {"index": 25, "text": "And sometimes we use this expression as a command.", "start": 149.952, "end": 154.57}, {"index": 26, "text": "Let’s hear some examples: Don’t let the grass grow beneath your feet.", "start": 154.17, "end": 161.31}, {"index": 27, "text": "Get back to work.", "start": 160.99, "end": 162.83}, {"index": 28, "text": "She certainly doesn’t let the grass grow under her feet.", "start": 163.49, "end": 167.41}, {"index": 29, "text": "She’s been traveling non-stop for over a year.", "start": 167.01, "end": 171.63}, {"index": 30, "text": "And that’s all the time we have for this Words and Their Stories.", "start": 173.15, "end": 177.31}, {"index": 31, "text": "Until next time, I’m Anna Matteo.", "start": 177.92, "end": 181.05}, {"index": 32, "text": "bud –n.", "start": 180.65, "end": 182.05}, {"index": 33, "text": "the beginnings of a flower or a leaf on the branch of a plant shoot –n.", "start": 181.65, "end": 190.05}, {"index": 34, "text": "new plant growth, especially from seeds or close to the ground as in the case with grass bloom –v.", "start": 189.65, "end": 199.55}, {"index": 35, "text": "the opening of a flower boring –adj.", "start": 199.15, "end": 203.05}, {"index": 36, "text": "not interesting tedious –adj.", "start": 202.65, "end": 205.05}, {"index": 37, "text": "tiresome because it takes a long time and is repetitive on-the-go –phrase having much high-spirited energy and movement", "start": 204.65, "end": 214.15}]
+[
+  {
+    "index": 0,
+    "text": "And now Words and Their Stories from VOA Learning English.",
+    "start": 6.67,
+    "end": 13.37,
+    "zh": "欢迎收看VOA慢速英语的《词汇掌故》节目。",
+    "zh_hant": "歡迎收看VOA慢速英語的《詞彙掌故》節目。"
+  },
+  {
+    "index": 1,
+    "text": "Springtime is a time of renewal and growth.",
+    "start": 18.85,
+    "end": 23.49,
+    "zh": "春天是万物复苏、生长的季节。",
+    "zh_hant": "春天是萬物復甦、生長的季節。"
+  },
+  {
+    "index": 2,
+    "text": "Many plants end their long winter sleep and form new buds and shoots.",
+    "start": 23.71,
+    "end": 31.17,
+    "zh": "许多植物结束漫长的冬眠，长出新芽和嫩枝。",
+    "zh_hant": "許多植物結束漫長的冬眠，長出新芽和嫩枝。"
+  },
+  {
+    "index": 3,
+    "text": "Beautiful flowers will soon be showing their bright colors.",
+    "start": 32.25,
+    "end": 36.85,
+    "zh": "美丽的花朵很快就会绽放出鲜艳的色彩。",
+    "zh_hant": "美麗的花朵很快就會綻放出鮮豔的色彩。"
+  },
+  {
+    "index": 4,
+    "text": "And the grass will grow thicker and greener again.",
+    "start": 37.29,
+    "end": 41.79,
+    "zh": "青草也会重新变得更浓密、更翠绿。",
+    "zh_hant": "青草也會重新變得更濃密、更翠綠。"
+  },
+  {
+    "index": 5,
+    "text": "Some flowers bloom in a very noticeable way but that is not the case with grass.",
+    "start": 42.47,
+    "end": 50.25,
+    "zh": "有些花开得十分显眼，但草却不是这样。",
+    "zh_hant": "有些花開得十分顯眼，但草卻不是這樣。"
+  },
+  {
+    "index": 6,
+    "text": "Imagine you are sitting in a grassy field.",
+    "start": 51.13,
+    "end": 55.15,
+    "zh": "想象你坐在一片草地上。",
+    "zh_hant": "想象你坐在一片草地上。"
+  },
+  {
+    "index": 7,
+    "text": "And you have only one job – to watch the grass grow.",
+    "start": 54.75,
+    "end": 60.37,
+    "zh": "你唯一的任务就是——看草生长。",
+    "zh_hant": "你唯一的任務就是——看草生長。"
+  },
+  {
+    "index": 8,
+    "text": "That does not sound very interesting.",
+    "start": 60.75,
+    "end": 64.11,
+    "zh": "这听起来一点都不有趣。",
+    "zh_hant": "這聽起來一點都不有趣。"
+  },
+  {
+    "index": 9,
+    "text": "In fact, it sounds really boring.",
+    "start": 64.72,
+    "end": 68.31,
+    "zh": "事实上，听起来非常无聊。",
+    "zh_hant": "事實上，聽起來非常無聊。"
+  },
+  {
+    "index": 10,
+    "text": "That idea is what gives us the expression “like watching grass grow.”",
+    "start": 69.21,
+    "end": 75.11,
+    "zh": "这个想法正是“像看草生长”这个说法的由来。",
+    "zh_hant": "這個想法正是“像看草生長”這個說法的由來。"
+  },
+  {
+    "index": 11,
+    "text": "We use this expression to describe an experience that is uninteresting.",
+    "start": 75.63,
+    "end": 81.85,
+    "zh": "我们用这个表达来形容一件枯燥乏味的事情。",
+    "zh_hant": "我們用這個表達來形容一件枯燥乏味的事情。"
+  },
+  {
+    "index": 12,
+    "text": "Another good word to describe it is tedious.",
+    "start": 82.39,
+    "end": 86.99,
+    "zh": "另一个很贴切的词是tedious（乏味的）。",
+    "zh_hant": "另一個很貼切的詞是tedious（乏味的）。"
+  },
+  {
+    "index": 13,
+    "text": "We use this expression in many situations.",
+    "start": 88.5,
+    "end": 91.97,
+    "zh": "这个表达可以用在很多场合。",
+    "zh_hant": "這個表達可以用在很多場合。"
+  },
+  {
+    "index": 14,
+    "text": "Let’s hear a few examples: After the politician won his campaign,",
+    "start": 91.57,
+    "end": 99.77,
+    "zh": "我们来听几个例子：那位政客赢得竞选后，",
+    "zh_hant": "我們來聽幾個例子：那位政客贏得競選後，"
+  },
+  {
+    "index": 15,
+    "text": "he gave a two-hour long acceptance speech.",
+    "start": 99.67,
+    "end": 104.33,
+    "zh": "发表了一场长达两个小时的胜选演讲。",
+    "zh_hant": "發表了一場長達兩個小時的勝選演講。"
+  },
+  {
+    "index": 16,
+    "text": "Two hours!",
+    "start": 104.912,
+    "end": 106.47,
+    "zh": "整整两个小时！",
+    "zh_hant": "整整兩個小時！"
+  },
+  {
+    "index": 17,
+    "text": "It was as much fun as watching grass grow.",
+    "start": 106.11,
+    "end": 110.31,
+    "zh": "简直和看草生长一样无聊。",
+    "zh_hant": "簡直和看草生長一樣無聊。"
+  },
+  {
+    "index": 18,
+    "text": "I really don’t like watching long sports games.",
+    "start": 110.93,
+    "end": 114.97,
+    "zh": "我真的不喜欢看很长的体育比赛。",
+    "zh_hant": "我真的不喜歡看很長的體育比賽。"
+  },
+  {
+    "index": 19,
+    "text": "It’s like watching grass grow.",
+    "start": 114.57,
+    "end": 118.07,
+    "zh": "那就像看草生长一样无聊。",
+    "zh_hant": "那就像看草生長一樣無聊。"
+  },
+  {
+    "index": 20,
+    "text": "Now, grass grows on the ground all the time.",
+    "start": 118.608,
+    "end": 122.45,
+    "zh": "其实，草一直都在地上生长。",
+    "zh_hant": "其實，草一直都在地上生長。"
+  },
+  {
+    "index": 21,
+    "text": "And usually, we don’t give it much thought.",
+    "start": 122.05,
+    "end": 125.75,
+    "zh": "只是我们通常不太在意。",
+    "zh_hant": "只是我們通常不太在意。"
+  },
+  {
+    "index": 22,
+    "text": "If you stand in one place for a long time, the grass will continue to grow under your feet.",
+    "start": 126.17,
+    "end": 133.73,
+    "zh": "如果你长时间站在一个地方，脚下的草会继续生长。",
+    "zh_hant": "如果你長時間站在一個地方，腳下的草會繼續生長。"
+  },
+  {
+    "index": 23,
+    "text": "For people who are always active, always moving, always on-the-go, we can say they don't let grass grow under their feet.",
+    "start": 134.39,
+    "end": 145.49,
+    "zh": "对于那些总是很活跃、不停奔波的人，我们可以说他们“不让草在脚下生长”。",
+    "zh_hant": "對於那些總是很活躍、不停奔波的人，我們可以說他們“不讓草在腳下生長”。"
+  },
+  {
+    "index": 24,
+    "text": "We can also say beneath their feet.",
+    "start": 145.79,
+    "end": 149.23,
+    "zh": "我们也可以说“脚底下”。",
+    "zh_hant": "我們也可以說“腳底下”。"
+  },
+  {
+    "index": 25,
+    "text": "And sometimes we use this expression as a command.",
+    "start": 149.952,
+    "end": 154.57,
+    "zh": "有时我们也把这个表达用作一种命令。",
+    "zh_hant": "有時我們也把這個表達用作一種命令。"
+  },
+  {
+    "index": 26,
+    "text": "Let’s hear some examples: Don’t let the grass grow beneath your feet.",
+    "start": 154.17,
+    "end": 161.31,
+    "zh": "我们来听几个例子：别让草在你脚下生长。",
+    "zh_hant": "我們來聽幾個例子：別讓草在你腳下生長。"
+  },
+  {
+    "index": 27,
+    "text": "Get back to work.",
+    "start": 160.99,
+    "end": 162.83,
+    "zh": "快回去工作吧。",
+    "zh_hant": "快回去工作吧。"
+  },
+  {
+    "index": 28,
+    "text": "She certainly doesn’t let the grass grow under her feet.",
+    "start": 163.49,
+    "end": 167.41,
+    "zh": "她绝对不会让草在她脚下生长。",
+    "zh_hant": "她絕對不會讓草在她腳下生長。"
+  },
+  {
+    "index": 29,
+    "text": "She’s been traveling non-stop for over a year.",
+    "start": 167.01,
+    "end": 171.63,
+    "zh": "她已经连续旅行一年多了。",
+    "zh_hant": "她已經連續旅行一年多了。"
+  },
+  {
+    "index": 30,
+    "text": "And that’s all the time we have for this Words and Their Stories.",
+    "start": 173.15,
+    "end": 177.31,
+    "zh": "这次的《词汇掌故》节目就到这里。",
+    "zh_hant": "這次的《詞彙掌故》節目就到這裡。"
+  },
+  {
+    "index": 31,
+    "text": "Until next time, I’m Anna Matteo.",
+    "start": 177.92,
+    "end": 181.05,
+    "zh": "下次节目再见，我是安娜·马特奥。",
+    "zh_hant": "下次節目再見，我是安娜·馬特奧。"
+  },
+  {
+    "index": 32,
+    "text": "bud –n.",
+    "start": 180.65,
+    "end": 182.05,
+    "zh": "bud —— 名词",
+    "zh_hant": "bud —— 名詞"
+  },
+  {
+    "index": 33,
+    "text": "the beginnings of a flower or a leaf on the branch of a plant shoot –n.",
+    "start": 181.65,
+    "end": 190.05,
+    "zh": "指植物枝条上花或叶的初生部分；shoot —— 名词",
+    "zh_hant": "指植物枝條上花或葉的初生部分；shoot —— 名詞"
+  },
+  {
+    "index": 34,
+    "text": "new plant growth, especially from seeds or close to the ground as in the case with grass bloom –v.",
+    "start": 189.65,
+    "end": 199.55,
+    "zh": "指新长出的植物部分，尤指从种子或近地面处长出的部分，如草；bloom —— 动词",
+    "zh_hant": "指新長出的植物部分，尤指從種子或近地面處長出的部分，如草；bloom —— 動詞"
+  },
+  {
+    "index": 35,
+    "text": "the opening of a flower boring –adj.",
+    "start": 199.15,
+    "end": 203.05,
+    "zh": "指花朵开放；boring —— 形容词",
+    "zh_hant": "指花朵開放；boring —— 形容詞"
+  },
+  {
+    "index": 36,
+    "text": "not interesting tedious –adj.",
+    "start": 202.65,
+    "end": 205.05,
+    "zh": "意为“不有趣的”；tedious —— 形容词",
+    "zh_hant": "意為“不有趣的”；tedious —— 形容詞"
+  },
+  {
+    "index": 37,
+    "text": "tiresome because it takes a long time and is repetitive on-the-go –phrase having much high-spirited energy and movement",
+    "start": 204.65,
+    "end": 214.15,
+    "zh": "意为因耗时且重复而令人厌烦；on-the-go —— 短语，指精力充沛、忙碌不停",
+    "zh_hant": "意為因耗時且重複而令人厭煩；on-the-go —— 短語，指精力充沛、忙碌不停"
+  }
+]
