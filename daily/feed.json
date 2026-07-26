@@ -1,18 +1,6 @@
 {
   "lessons": [
     {
-      "id": "2026-07-26-5",
-      "title": "The things we throw away",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-5.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": true,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-6",
       "title": "Are you a tidy or messy person?",
       "date": "2026-07-26",
@@ -840,6 +828,19 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-4.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-4.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-5",
+      "title": "Are you a tidy or messy person?",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-5.json",
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
