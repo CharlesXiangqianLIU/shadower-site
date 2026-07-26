@@ -699,6 +699,19 @@
       "folderEn": "BBC Learning English",
       "accent": "british",
       "free": false,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-55",
+      "title": "Are we too fixated on protein?",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-55.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-55.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": false,
       "level": "B2"
     },
     {
@@ -12615,18 +12628,6 @@
       "date": "2026-07-15",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-38.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-38.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "free": false,
-      "level": "B2",
-      "accent": "british"
-    },
-    {
-      "id": "2026-07-15-39",
-      "title": "Did a civilisation exist on Earth before humans?",
-      "date": "2026-07-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-39.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-39.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "free": false,
