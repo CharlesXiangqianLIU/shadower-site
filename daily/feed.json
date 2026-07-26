@@ -1,18 +1,6 @@
 {
   "lessons": [
     {
-      "id": "2026-07-26-26",
-      "title": "How advertisers make us spend money",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": true,
-      "level": "B2"
-    },
-    {
       "id": "2026-07-26-27",
       "title": "The power of poetry",
       "date": "2026-07-26",
@@ -861,6 +849,19 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-25.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-25.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-26",
+      "title": "The power of poetry",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
