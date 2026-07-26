@@ -1,18 +1,6 @@
 {
   "lessons": [
     {
-      "id": "2026-07-26-37",
-      "title": "Should we pay more for chocolate?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-37.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-37.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
       "id": "2026-07-26-38",
       "title": "Why are some animals black and white?",
       "date": "2026-07-26",
@@ -872,6 +860,19 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-36.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-36.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": false,
+      "level": "B2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-37",
+      "title": "Why are some animals black and white?",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-37.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-37.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
