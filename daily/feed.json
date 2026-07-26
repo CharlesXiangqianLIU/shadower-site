@@ -9,7 +9,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": false,
+      "free": true,
       "level": "B2"
     },
     {
@@ -45,7 +45,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": false,
+      "free": true,
       "level": "A2"
     },
     {
@@ -57,7 +57,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": false,
+      "free": true,
       "level": "A2"
     },
     {
@@ -69,7 +69,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": false,
+      "free": true,
       "level": "A2"
     },
     {
@@ -93,7 +93,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -105,7 +105,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -117,7 +117,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -129,7 +129,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -285,7 +285,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": false,
+      "free": true,
       "level": "B2"
     },
     {
@@ -321,7 +321,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -333,7 +333,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -345,7 +345,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -357,7 +357,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -369,7 +369,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -381,7 +381,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -393,7 +393,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -837,7 +837,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -849,7 +849,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": true
     },
     {
       "id": "2026-07-25-2",
@@ -860,7 +861,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": true
     },
     {
       "id": "2026-07-25-3",
@@ -871,7 +873,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": true
     },
     {
       "id": "2026-07-25-4",
@@ -882,7 +885,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": true
     },
     {
       "id": "2026-07-25-5",
@@ -893,7 +897,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": true
     },
     {
       "id": "2026-07-25-6",
@@ -904,7 +909,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-7",
@@ -915,7 +921,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-8",
@@ -926,7 +933,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-9",
@@ -937,7 +945,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-10",
@@ -948,7 +957,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-11",
@@ -959,7 +969,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-12",
@@ -970,7 +981,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-13",
@@ -981,7 +993,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-14",
@@ -992,7 +1005,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-15",
@@ -1003,7 +1017,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-16",
@@ -1014,7 +1029,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-17",
@@ -1025,7 +1041,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-18",
@@ -1036,7 +1053,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-19",
@@ -1047,7 +1065,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-20",
@@ -1058,7 +1077,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-21",
@@ -1069,7 +1089,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-22",
@@ -1080,7 +1101,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-23",
@@ -1091,7 +1113,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-24",
@@ -1102,7 +1125,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-25",
@@ -1113,7 +1137,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-25-26",
@@ -1123,7 +1148,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-26.json",
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -1135,7 +1160,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-27.json",
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
-      "free": false,
+      "free": true,
       "level": "C1",
       "accent": "american"
     },
@@ -1147,7 +1172,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-28.json",
       "folder": "VOA Words and Their Stories",
       "folderEn": "VOA Words and Their Stories",
-      "free": false,
+      "free": true,
       "level": "B2",
       "accent": "american"
     },
@@ -1290,7 +1315,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-2",
@@ -1301,7 +1327,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-3",
@@ -1312,7 +1339,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-4",
@@ -1323,7 +1351,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-5",
@@ -1334,7 +1363,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-6",
@@ -1345,7 +1375,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-7",
@@ -1356,7 +1387,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-8",
@@ -1367,7 +1399,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-9",
@@ -1378,7 +1411,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-10",
@@ -1389,7 +1423,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-11",
@@ -1400,7 +1435,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-12",
@@ -1411,7 +1447,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-13",
@@ -1422,7 +1459,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-14",
@@ -1433,7 +1471,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-15",
@@ -1444,7 +1483,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-16",
@@ -1455,7 +1495,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-17",
@@ -1466,7 +1507,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-18",
@@ -1477,7 +1519,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-19",
@@ -1488,7 +1531,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-20",
@@ -1499,7 +1543,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-21",
@@ -1510,7 +1555,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-22",
@@ -1521,7 +1567,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-23",
@@ -1532,7 +1579,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-24",
@@ -1543,7 +1591,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-25",
@@ -1554,7 +1603,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-26",
@@ -1565,7 +1615,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-27",
@@ -1576,7 +1627,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-28",
@@ -1587,7 +1639,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-29",
@@ -1598,7 +1651,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-30",
@@ -1609,7 +1663,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-31",
@@ -1620,7 +1675,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-32",
@@ -1631,7 +1687,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-33",
@@ -1642,7 +1699,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-34",
@@ -1653,7 +1711,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-24-35",
@@ -1664,7 +1723,8 @@
       "folder": "美音更新",
       "folderEn": "American English",
       "level": "C1",
-      "accent": "american"
+      "accent": "american",
+      "free": false
     },
     {
       "id": "2026-07-21",
@@ -2194,7 +2254,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-6.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-6.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -2284,7 +2344,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-7.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-7.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -2367,7 +2427,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-8.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-8.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -2700,7 +2760,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-14.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-14.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2743,7 +2803,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-15.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-15.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2778,7 +2838,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-16.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-16.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2822,7 +2882,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-17.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-17.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2854,7 +2914,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-18.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-18.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2891,7 +2951,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-19.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-19.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2937,7 +2997,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-20.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-20.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -2980,7 +3040,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-21.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-21.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3024,7 +3084,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-22.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-22.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3064,7 +3124,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-23.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-23.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3094,7 +3154,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-24.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-24.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3143,7 +3203,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-25.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-25.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3187,7 +3247,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-26.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-26.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3235,7 +3295,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-27.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-27.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3277,7 +3337,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-28.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-28.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3314,7 +3374,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-29.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-29.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3349,7 +3409,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-30.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-30.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3392,7 +3452,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-31.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-31.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3430,7 +3490,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-32.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-32.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3471,7 +3531,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-33.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-33.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3508,7 +3568,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-34.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-34.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3555,7 +3615,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-35.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-35.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3598,7 +3658,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-36.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-36.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3645,7 +3705,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-37.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-37.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3681,7 +3741,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-38.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-38.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3709,7 +3769,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-39.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-39.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3751,7 +3811,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-40.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-40.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3782,7 +3842,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-41.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-41.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3819,7 +3879,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-42.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-42.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3854,7 +3914,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-43.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-43.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3895,7 +3955,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-44.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-44.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3939,7 +3999,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-45.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-45.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -3974,7 +4034,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-46.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-46.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4024,7 +4084,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-47.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-47.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4069,7 +4129,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-48.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-48.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4109,7 +4169,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-49.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-49.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4178,7 +4238,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-50.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-50.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4216,7 +4276,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-51.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-51.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4258,7 +4318,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-52.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-52.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4297,7 +4357,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-53.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-53.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4340,7 +4400,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-54.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-54.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4373,7 +4433,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-55.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-55.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4412,7 +4472,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-56.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-56.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -4445,7 +4505,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-57.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-57.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -5992,7 +6052,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-108.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-108.json",
       "folder": "VOA",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american",
       "folderEn": "VOA",
@@ -6581,7 +6641,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-114.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-114.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -6706,7 +6766,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-115.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-115.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -6798,7 +6858,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-116.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-116.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -6910,7 +6970,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-117.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-117.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7016,7 +7076,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-118.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-118.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7134,7 +7194,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-119.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-119.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7233,7 +7293,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-120.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-120.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7335,7 +7395,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-121.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-121.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7448,7 +7508,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-122.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-122.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7543,7 +7603,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-123.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-123.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7657,7 +7717,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-124.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-124.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7775,7 +7835,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-125.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-125.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7883,7 +7943,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-126.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-126.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -7989,7 +8049,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-127.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-127.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8088,7 +8148,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-128.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-128.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8184,7 +8244,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-129.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-129.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8291,7 +8351,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-130.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-130.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8393,7 +8453,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-131.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-131.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8581,7 +8641,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-132.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-132.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8693,7 +8753,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-133.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-133.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8800,7 +8860,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-134.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-134.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -8906,7 +8966,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-135.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-135.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9011,7 +9071,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-136.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-136.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9105,7 +9165,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-137.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-137.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9204,7 +9264,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-138.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-138.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9316,7 +9376,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-139.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-139.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9415,7 +9475,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-140.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-140.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9517,7 +9577,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-141.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-141.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9643,7 +9703,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-142.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-142.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9756,7 +9816,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-143.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-143.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9863,7 +9923,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-144.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-144.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -9968,7 +10028,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-145.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-145.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10084,7 +10144,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-146.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-146.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10206,7 +10266,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-147.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-147.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10319,7 +10379,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-148.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-148.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10421,7 +10481,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-149.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-149.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10529,7 +10589,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-150.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-150.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10637,7 +10697,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-151.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-151.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10750,7 +10810,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-152.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-152.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10852,7 +10912,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-153.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-153.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -10954,7 +11014,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-154.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-154.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -11069,7 +11129,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-155.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-155.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -11187,7 +11247,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-156.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-156.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -11283,7 +11343,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-157.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-157.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -11378,7 +11438,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-158.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-158.json",
       "folder": "BBC Radio 4",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
@@ -11481,7 +11541,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -11550,7 +11610,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-2.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-2.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -11616,7 +11676,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-3.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-3.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -11764,7 +11824,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-4.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-4.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -11880,7 +11940,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-5.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-5.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -11984,7 +12044,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-6.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-6.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12057,7 +12117,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-7.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-7.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12152,7 +12212,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-8.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-8.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12204,7 +12264,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-9.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-9.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12278,7 +12338,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-10.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-10.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12362,7 +12422,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-11.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-11.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12418,7 +12478,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-12.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-12.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12492,7 +12552,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-13.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-13.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12534,7 +12594,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-14.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-20-14.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -12607,136 +12667,6 @@
       "accent": "british"
     },
     {
-      "id": "wu-2026-07-13-28",
-      "title": "Death Valley National Park",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Special English",
-      "origFolderEn": "VOA Special English",
-      "accent": "american"
-    },
-    {
-      "id": "wu-2026-07-13-14",
-      "title": "The Long Search for a Malaria Vaccine",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Special English",
-      "origFolderEn": "VOA Special English",
-      "accent": "american"
-    },
-    {
-      "id": "wu-2026-07-13-42",
-      "title": "Using the Brain to Move a Robotic Arm",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Special English",
-      "origFolderEn": "VOA Special English",
-      "accent": "american"
-    },
-    {
-      "id": "wu-2026-07-13-35",
-      "title": "Grand Teton National Park",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Special English",
-      "origFolderEn": "VOA Special English",
-      "accent": "american"
-    },
-    {
-      "id": "wu-2026-07-15-4",
-      "title": "Should we cycle more?",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
-      "id": "wu-2026-07-15-9",
-      "title": "The power of poetry",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-9.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-9.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
-      "id": "wu-2026-07-15-12",
-      "title": "How reading shapes your brain",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-12.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-12.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
-      "id": "wu-2026-07-15-18",
-      "title": "Are saunas good for you?",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-18.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-18.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
-      "id": "wu-2026-07-15-54",
-      "title": "What's your dream job?",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-54.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-54.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
-      "id": "wu-2026-07-15-56",
-      "title": "Are you a tidy or messy person?",
-      "date": "2026-07-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-56.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-15-56.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-07-15-38",
       "title": "Ghost writers",
       "date": "2026-07-15",
@@ -12768,7 +12698,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -12780,7 +12710,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-2.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -12792,7 +12722,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-3.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -12804,7 +12734,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-4.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -12816,7 +12746,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-5.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": false,
+      "free": true,
       "level": "B1",
       "accent": "american"
     },
@@ -12864,7 +12794,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-9.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -12888,7 +12818,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-11.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -12924,7 +12854,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-14.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -12969,7 +12899,7 @@
       "title": "Hot weather alert",
       "date": "2026-06-27",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/358fd78c8147.json",
       "folderEn": "BBC",
@@ -13059,7 +12989,7 @@
       "title": "Hot weather record of June",
       "date": "2026-06-27",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/c943390d2b1a.json",
       "folderEn": "BBC",
@@ -13116,7 +13046,7 @@
       "title": "Starmer Resign",
       "date": "2026-06-27",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/263cafe9d071.json",
       "folderEn": "BBC",
@@ -13244,7 +13174,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-23.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13256,7 +13186,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-24.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13304,7 +13234,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-28.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13388,7 +13318,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-35.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13460,7 +13390,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-41.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13472,7 +13402,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-42.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
@@ -13556,7 +13486,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-13-49.json",
       "folder": "VOA Special English",
       "folderEn": "VOA Special English",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
