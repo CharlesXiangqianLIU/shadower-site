@@ -866,26 +866,49 @@
     },
     {
       "id": "2026-07-26-72",
-      "title": "Europe's wildfires force over 300,000 people to evacuate as they burn towards cities",
+      "title": "Inside WWE: How tech transforms every show | BBC News",
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.json",
-      "folder": "US News",
-      "accent": "american",
+      "folder": "BBC",
+      "accent": "british",
       "free": true
     },
     {
       "id": "wu-2026-07-26-72",
-      "title": "Europe's wildfires force over 300,000 people to evacuate as they burn towards cities",
+      "title": "Inside WWE: How tech transforms every show | BBC News",
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
       "free": true,
-      "origFolder": "US News",
-      "origFolderEn": "US News",
-      "accent": "american"
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
+      "id": "2026-07-26-73",
+      "title": "Great Apes kiss and cuddle to keep the peace, says study | BBC News",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.json",
+      "folder": "BBC",
+      "accent": "british",
+      "free": true
+    },
+    {
+      "id": "wu-2026-07-26-73",
+      "title": "Great Apes kiss and cuddle to keep the peace, says study | BBC News",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
     },
     {
       "id": "2026-07-25",
@@ -1967,7 +1990,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-4.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-4.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
@@ -2086,7 +2109,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-5.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-5.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
