@@ -1,18 +1,6 @@
 {
   "lessons": [
     {
-      "id": "2026-07-26-7",
-      "title": "How English speakers talk about brothers and sisters",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": true,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-8",
       "title": "What are you doing this summer?",
       "date": "2026-07-26",
@@ -842,6 +830,19 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-6.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-6.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2",
+      "rebuilt": true
+    },
+    {
+      "id": "2026-07-26-7",
+      "title": "What are you doing this summer?",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-7.json",
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
