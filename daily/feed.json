@@ -841,6 +841,30 @@
       "level": "B2"
     },
     {
+      "id": "2026-07-26-71",
+      "title": "Drifting Science Station Sets",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-71.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-71.json",
+      "folder": "Lucas Reading",
+      "folderEn": "Lucas Reading",
+      "accent": "british",
+      "free": true
+    },
+    {
+      "id": "wu-2026-07-26-71",
+      "title": "Drifting Science Station Sets",
+      "date": "2026-07-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-71.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-71.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "Lucas Reading",
+      "origFolderEn": "Lucas Reading",
+      "accent": "british"
+    },
+    {
       "id": "2026-07-25",
       "title": "Money, Enough, and Family Pressure",
       "date": "2026-07-25",
