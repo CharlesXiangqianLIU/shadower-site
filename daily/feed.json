@@ -24,6 +24,31 @@
       "accent": "american"
     },
     {
+      "id": "2026-07-27-2",
+      "title": "Researchers: South Korea’s Birth Rate Increase Last Year Unclear",
+      "date": "2026-07-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-2.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-07-27-2",
+      "title": "Researchers: South Korea’s Birth Rate Increase Last Year Unclear",
+      "date": "2026-07-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-26-46",
       "title": "Is it OK to disagree?",
       "date": "2026-07-26",
