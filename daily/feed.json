@@ -986,21 +986,21 @@
       "accent": "british"
     },
     {
-      "id": "2026-07-26-73",
+      "id": "2026-07-26-74",
       "title": "Great Apes kiss and cuddle to keep the peace, says study | BBC News",
       "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.json",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-74.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-74.json",
       "folder": "BBC",
       "accent": "british",
       "free": true
     },
     {
-      "id": "wu-2026-07-26-73",
+      "id": "wu-2026-07-26-74",
       "title": "Great Apes kiss and cuddle to keep the peace, says study | BBC News",
       "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-73.json",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-74.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-74.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
       "free": true,
@@ -1985,7 +1985,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-3.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-3.json",
       "folder": "BBC",
-      "free": true,
+      "free": false,
       "accent": "british",
       "level": "C1",
       "durations": [
