@@ -101,6 +101,52 @@
       "accent": "american"
     },
     {
+      "id": "2026-07-28-5",
+      "title": "How plants feel",
+      "date": "2026-07-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-5.json",
+      "folder": "US更新",
+      "accent": "american",
+      "free": true
+    },
+    {
+      "id": "wu-2026-07-28-5",
+      "title": "How plants feel",
+      "date": "2026-07-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
+      "id": "2026-07-28-6",
+      "title": "The Barn Attic is a 150-year-old, four-story barn that sells just about anything you can imagine!",
+      "date": "2026-07-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-6.json",
+      "folder": "US更新",
+      "accent": "american",
+      "free": true
+    },
+    {
+      "id": "wu-2026-07-28-6",
+      "title": "The Barn Attic is a 150-year-old, four-story barn that sells just about anything you can imagine!",
+      "date": "2026-07-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-27",
       "title": "Europe's wildfires force over 300,000 people to evacuate as they burn towards cities",
       "date": "2026-07-27",
