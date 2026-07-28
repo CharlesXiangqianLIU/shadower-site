@@ -245,6 +245,30 @@
       "accent": "british"
     },
     {
+      "id": "2026-07-27-6",
+      "title": "'Support A Sport' helps young adults with disabilities achieve their goals",
+      "date": "2026-07-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-6.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-07-27-6",
+      "title": "'Support A Sport' helps young adults with disabilities achieve their goals",
+      "date": "2026-07-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-26-46",
       "title": "Is it OK to disagree?",
       "date": "2026-07-26",
