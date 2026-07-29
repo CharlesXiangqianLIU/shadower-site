@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-07-29",
+      "title": "How Physical Therapists Can Prevent Future Health Problems",
+      "date": "2026-07-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-07-29",
+      "title": "How Physical Therapists Can Prevent Future Health Problems",
+      "date": "2026-07-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-28",
       "title": "'The Open Boat' by Stephen Crane, Part One",
       "date": "2026-07-28",
