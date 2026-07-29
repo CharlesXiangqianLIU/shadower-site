@@ -183,7 +183,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-5.json",
       "folder": "US更新",
       "accent": "american",
-      "free": true
+      "free": true,
+      "level": "C1"
     },
     {
       "id": "wu-2026-07-28-5",
@@ -206,7 +207,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-28-6.json",
       "folder": "US更新",
       "accent": "american",
-      "free": true
+      "free": true,
+      "level": "C1"
     },
     {
       "id": "wu-2026-07-28-6",
@@ -328,7 +330,8 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-5.json",
       "folder": "BBC",
       "accent": "british",
-      "free": true
+      "free": true,
+      "level": "C1"
     },
     {
       "id": "wu-2026-07-27-5",
