@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-07-30",
+      "title": "'Rappaccini’s Daughter' by Nathaniel Hawthorne, Part Two",
+      "date": "2026-07-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-07-30",
+      "title": "'Rappaccini’s Daughter' by Nathaniel Hawthorne, Part Two",
+      "date": "2026-07-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-29",
       "title": "How Physical Therapists Can Prevent Future Health Problems",
       "date": "2026-07-29",
