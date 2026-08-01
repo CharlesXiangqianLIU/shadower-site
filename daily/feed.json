@@ -61,6 +61,54 @@
       "free": true
     },
     {
+      "id": "2026-08-01-6",
+      "title": "SEPTA employee surprises student with graduation card",
+      "date": "2026-08-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-6.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-01-6",
+      "title": "SEPTA employee surprises student with graduation card",
+      "date": "2026-08-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-01-7",
+      "title": "Fishing closures are becoming routine as record heat warms rivers in the US West",
+      "date": "2026-08-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-7.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-01-7",
+      "title": "Fishing closures are becoming routine as record heat warms rivers in the US West",
+      "date": "2026-08-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-7.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
       "id": "2026-07-30",
       "title": "'Rappaccini’s Daughter' by Nathaniel Hawthorne, Part Two",
       "date": "2026-07-30",
@@ -585,7 +633,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-07-27-6",
@@ -595,7 +643,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-6.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新",
       "origFolderEn": "US更新",
       "accent": "american"
