@@ -1,6 +1,18 @@
 {
   "lessons": [
     {
+      "id": "2026-08-01",
+      "title": "The Economics of Historic Observatories",
+      "date": "2026-08-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01.json",
+      "folder": "美音podcast",
+      "folderEn": "American Podcast",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-07-30",
       "title": "'Rappaccini’s Daughter' by Nathaniel Hawthorne, Part Two",
       "date": "2026-07-30",
@@ -1510,7 +1522,7 @@
       "folderEn": "American Podcast",
       "level": "C1",
       "accent": "american",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-07-25-6",
