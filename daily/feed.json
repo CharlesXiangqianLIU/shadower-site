@@ -123,6 +123,78 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-02-6",
+      "title": "How are gaming PCs built? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-6",
+      "title": "How are gaming PCs built? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-02-7",
+      "title": "Can tech help us get a good night's sleep? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-7",
+      "title": "Can tech help us get a good night's sleep? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-02-8",
+      "title": "Meet 'the bra professor' | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-8",
+      "title": "Meet 'the bra professor' | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-01",
       "title": "The Economics of Historic Observatories",
       "date": "2026-08-01",
@@ -239,7 +311,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-01-8",
@@ -249,7 +321,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-01-8.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
@@ -460,7 +532,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-07-29-4",
@@ -470,7 +542,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-4.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
@@ -484,7 +556,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-07-29-5",
@@ -494,7 +566,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-5.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
