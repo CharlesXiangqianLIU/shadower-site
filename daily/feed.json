@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-02",
+      "title": "The Enhanced Games",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-02",
+      "title": "The Enhanced Games",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-01",
       "title": "The Economics of Historic Observatories",
       "date": "2026-08-01",
@@ -681,7 +706,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
