@@ -51,6 +51,78 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-02-3",
+      "title": "Could AI help us smile more? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-3",
+      "title": "Could AI help us smile more? | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-02-4",
+      "title": "The Chinese robot army transforming the UK's retail industry | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-4",
+      "title": "The Chinese robot army transforming the UK's retail industry | BBC News",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-02-5",
+      "title": "Does your phone eavesdrop on you?",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-02-5",
+      "title": "Does your phone eavesdrop on you?",
+      "date": "2026-08-02",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新",
+      "origFolderEn": "US更新",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-01",
       "title": "The Economics of Historic Observatories",
       "date": "2026-08-01",
@@ -583,7 +655,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27.json",
       "folder": "US更新",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -594,7 +666,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新",
       "origFolderEn": "US更新",
       "accent": "american"
@@ -682,7 +754,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-5.json",
       "folder": "BBC",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -693,7 +765,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-27-5.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
@@ -1594,7 +1666,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.json",
       "folder": "BBC",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -1605,7 +1677,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-72.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
