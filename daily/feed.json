@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-03",
+      "title": "Wilbur and Orville Wright: The First Airplane",
+      "date": "2026-08-03",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-03",
+      "title": "Wilbur and Orville Wright: The First Airplane",
+      "date": "2026-08-03",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-02",
       "title": "The Enhanced Games",
       "date": "2026-08-02",
