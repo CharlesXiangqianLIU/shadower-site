@@ -25,6 +25,30 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-04-2",
+      "title": "This satellite can see inside forests | BBC News",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-04-2",
+      "title": "This satellite can see inside forests | BBC News",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC",
+      "origFolderEn": "BBC",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-03",
       "title": "Wilbur and Orville Wright: The First Airplane",
       "date": "2026-08-03",
@@ -278,7 +302,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-02-8",
@@ -288,7 +312,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
