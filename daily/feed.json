@@ -49,6 +49,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-04-3",
+      "title": "Rappaccini’s Daughter by Nathaniel Hawthorne, Part One",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-08-04-3",
+      "title": "Rappaccini’s Daughter by Nathaniel Hawthorne, Part One",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-03",
       "title": "Wilbur and Orville Wright: The First Airplane",
       "date": "2026-08-03",
