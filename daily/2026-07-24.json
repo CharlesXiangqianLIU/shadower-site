@@ -1,1 +1,282 @@
-[{"index": 0, "text": "Examples of some of the more heady problems that we’re looking at now are not just how individual intelligence agents work,", "start": 0.05, "end": 7.91, "zh": "我们现在关注的一些更烧脑的问题,不仅仅是单个智能体是如何工作的,", "zh_hant": "我們現在關注的一些更燒腦的問題,不僅僅是單個智慧體是如何工作的,"}, {"index": 1, "text": "but how multiple agents in interactions with each other lead to larger collective intelligences.", "start": 7.55, "end": 14.11, "zh": "而是多个智能体在相互作用中,如何形成更大的集体智能。", "zh_hant": "而是多個智慧體在相互作用中,如何形成更大的集體智慧。"}, {"index": 2, "text": "And even how, when you look at what we think of as single models, they look internally like societies of sub-agents.", "start": 13.89, "end": 21.55, "zh": "甚至我们所认为的单一模型,内部看起来也像是由多个子智能体组成的社会。", "zh_hant": "甚至我們所認為的單一模型,內部看起來也像是由多個子智慧體組成的社會。"}, {"index": 3, "text": "We think of this as the social intelligence hypothesis, meaning that intelligence is inherently social, whether you think about it at the scale of societies or even at the scale of brains.", "start": 21.15, "end": 32.57, "zh": "我们把这称为“社会智能假说”,意思是智能本质上是社会性的,不管你是从社会的尺度去看,还是从大脑的尺度去看。", "zh_hant": "我們把這稱為“社會智慧假說”,意思是智慧本質上是社會性的,不管你是從社會的尺度去看,還是從大腦的尺度去看。"}, {"index": 4, "text": "So an example of what you might do would be to create a set of five or six different A.I. agents", "start": 32.55, "end": 43.67, "zh": "举个例子,你可能会创建五六个不同的人工智能智能体,", "zh_hant": "舉個例子,你可能會建立五六個不同的人工智慧智慧體,"}, {"index": 5, "text": "who were taking on different roles or personalities.", "start": 43.27, "end": 48.47, "zh": "让它们分别扮演不同的角色或性格。", "zh_hant": "讓它們分別扮演不同的角色或性格。"}, {"index": 6, "text": "One is the skeptic, one is the optimist, or what specifically are you talking about?", "start": 48.21, "end": 52.95, "zh": "一个是怀疑论者,一个是乐观主义者,或者你具体指的是什么?", "zh_hant": "一個是懷疑論者,一個是樂觀主義者,或者你具體指的是什麼?"}, {"index": 7, "text": "Yes, so we can definitely, and we do do those sorts of experiments, where we take agents and we put them in societies or institutions or conversational structures with each other,", "start": 52.71, "end": 62.99, "zh": "是的,我们确实会做这类实验,把多个智能体放进某种社会、机构,或彼此之间的对话结构里,", "zh_hant": "是的,我們確實會做這類實驗,把多個智慧體放進某種社會、機構,或彼此之間的對話結構裡,"}, {"index": 8, "text": "and you can ask questions like if they all are set up to agree with each other versus set up to be misaligned with each other, to disagree with each other,", "start": 62.79, "end": 72.03, "zh": "然后你可以提出这样的问题:如果它们都被设定为彼此认同,和被设定为彼此不一致、互相反对,", "zh_hant": "然後你可以提出這樣的問題:如果它們都被設定為彼此認同,和被設定為彼此不一致、互相反對,"}, {"index": 9, "text": "which of those kinds of setups leads to better problem-solving of the collective, and it turns out there that it’s better if you have them disagreeing with each other than if they’re all preaching to the choir, as it were.", "start": 71.63, "end": 83.73, "zh": "哪种设定能让整体更好地解决问题,结果发现,让它们互相争论,比让它们都在互相附和、自说自话要好得多。", "zh_hant": "哪種設定能讓整體更好地解決問題,結果發現,讓它們互相爭論,比讓它們都在互相附和、自說自話要好得多。"}, {"index": 10, "text": "But then you can also ask the same question of an individual model, and this is a little bit mind-bending, but if you look at the chain of thought, which is to say the inner monologue of an individual reasoning model,", "start": 83.63, "end": 95.61, "zh": "但接下来你也可以对单个模型问同样的问题,这有点烧脑,但如果你去看它的思维链,也就是单个推理模型内部的自言自语,", "zh_hant": "但接下來你也可以對單個模型問同樣的問題,這有點燒腦,但如果你去看它的思維鏈,也就是單個推理模型內部的自言自語,"}, {"index": 11, "text": "then one of the things you find in there is that there are actually voices or characters that have been developed that do exactly the same thing inside those models.", "start": 95.29, "end": 104.47, "zh": "你会发现,里面其实发展出了不同的“声音”或“角色”,做的是完全相同的事情。", "zh_hant": "你會發現,裡面其實發展出了不同的“聲音”或“角色”,做的是完全相同的事情。"}, {"index": 12, "text": "It’s like the model is talking to itself, arguing with itself.", "start": 104.07, "end": 107.49, "zh": "就好像模型在自言自语,自己跟自己争论。", "zh_hant": "就好像模型在自言自語,自己跟自己爭論。"}, {"index": 13, "text": "Kind of like Gollum versus Smeagol in Lord of the Rings or something, but often with more characters.", "start": 107.31, "end": 112.17, "zh": "有点像《指环王》里咕噜和斯米戈的关系,只不过通常角色更多。", "zh_hant": "有點像《指環王》裡咕嚕和斯米戈的關係,只不過通常角色更多。"}, {"index": 14, "text": "And you get that behavior just from training reasoning models to do a good job of reasoning.", "start": 112.29, "end": 118.05, "zh": "而这种行为,仅仅是通过训练推理模型把推理做好,就自然而然地涌现出来了。", "zh_hant": "而這種行為,僅僅是透過訓練推理模型把推理做好,就自然而然地湧現出來了。"}, {"index": 15, "text": "So I think that there is a really profound lesson in this.", "start": 118.11, "end": 122.77, "zh": "所以我觉得这里面藏着一个很深刻的道理。", "zh_hant": "所以我覺得這裡面藏著一個很深刻的道理。"}, {"index": 16, "text": "And it’s a practical one in terms of how to build A.I. models.", "start": 122.37, "end": 125.49, "zh": "从实际操作层面来说,这关系到如何构建人工智能模型。", "zh_hant": "從實際操作層面來說,這關係到如何構建人工智慧模型。"}, {"index": 17, "text": "But it’s also a philosophical one in the sense that it suggests that intelligence is fundamentally social.", "start": 125.09, "end": 130.51, "zh": "但从哲学层面来说,这也意味着智能从根本上就是社会性的。", "zh_hant": "但從哲學層面來說,這也意味著智慧從根本上就是社會性的。"}, {"index": 18, "text": "Both at the scale of brains and societies.", "start": 130.21, "end": 133.87, "zh": "无论是在大脑的尺度上,还是在社会的尺度上都是如此。", "zh_hant": "無論是在大腦的尺度上,還是在社會的尺度上都是如此。"}, {"index": 19, "text": "I don’t know anything about neuroscience, but I know my own experience is that my brain works exactly like you’ve just described.", "start": 133.47, "end": 141.13, "zh": "我对神经科学一无所知,但我知道我自己的体验,正好就像你刚才描述的那样。", "zh_hant": "我對神經科學一無所知,但我知道我自己的體驗,正好就像你剛才描述的那樣。"}, {"index": 20, "text": "I’ve got four or five different parts of my brain that stake out different territory and some are risk-taking and some are cautious and some skeptical.", "start": 140.73, "end": 151.57, "zh": "我大脑里有四五个不同的部分,各自占据不同的地盘,有的爱冒险,有的很谨慎,有的很多疑。", "zh_hant": "我大腦裡有四五個不同的部分,各自佔據不同的地盤,有的愛冒險,有的很謹慎,有的很多疑。"}, {"index": 21, "text": "And so I definitely feel like my own brain is in no sense unified.", "start": 151.17, "end": 157.13, "zh": "所以我确实觉得,我自己的大脑完全谈不上是统一的。", "zh_hant": "所以我確實覺得,我自己的大腦完全談不上是統一的。"}, {"index": 22, "text": "It’s some kind of a competition for, for time on the stage.", "start": 156.73, "end": 161.41, "zh": "更像是某种竞争,争夺“上台发言”的机会。", "zh_hant": "更像是某種競爭,爭奪“上臺發言”的機會。"}, {"index": 23, "text": "What I’ve never been able to figure out at all, though, is who is the “it” that’s behind the scenes, who’s deciding who the winner is among these different voices.", "start": 161.25, "end": 170.15, "zh": "但我一直搞不明白的是,幕后到底是谁,是谁在这些不同的声音里决定谁是赢家。", "zh_hant": "但我一直搞不明白的是,幕後到底是誰,是誰在這些不同的聲音裡決定誰是贏家。"}, {"index": 24, "text": "Well, that is the place where I think a lot of folk psychology and philosophy also goes wrong in assuming that there is a homunculus, you know,", "start": 169.75, "end": 178.65, "zh": "嗯,我觉得很多民间心理学和哲学,恰恰就是在这个地方出了错,它们假设存在一个“小人”,", "zh_hant": "嗯,我覺得很多民間心理學和哲學,恰恰就是在這個地方出了錯,它們假設存在一個“小人”,"}, {"index": 25, "text": "that there’s a mini-Steve, you know, the mini-Blaise you know inside our brains, when in fact, what you are is that collection of voices.", "start": 178.25, "end": 184.59, "zh": "好像在我们脑子里,住着一个迷你版的史蒂夫,或者迷你版的布莱斯,可实际上,你就是那一整群声音的集合。", "zh_hant": "好像在我們腦子裡,住著一個迷你版的史蒂夫,或者迷你版的布萊斯,可實際上,你就是那一整群聲音的集合。"}, {"index": 26, "text": "I’m really excited to hear that that’s how you think of yourself, how you model yourself internally.", "start": 184.19, "end": 189.51, "zh": "听到你也是这样看待自己、这样在内心为自己建模的,我真的很兴奋。", "zh_hant": "聽到你也是這樣看待自己、這樣在內心為自己建模的,我真的很興奮。"}, {"index": 27, "text": "It’s how I think of myself, too, but many people think of themselves as being very unified, as having just one self.", "start": 189.11, "end": 196.07, "zh": "我也是这样看待自己的,但很多人觉得自己是高度统一的,只有单一的一个“自我”。", "zh_hant": "我也是這樣看待自己的,但很多人覺得自己是高度統一的,只有單一的一個“自我”。"}, {"index": 28, "text": "But we know from neuroscience and we know from psychology that your perspective is closer to what is really going on if you,", "start": 195.67, "end": 203.49, "zh": "但从神经科学和心理学的角度我们知道,你的看法其实更接近真实情况,比如说,", "zh_hant": "但從神經科學和心理學的角度我們知道,你的看法其實更接近真實情況,比如說,"}, {"index": 29, "text": "for instance, do radical brain surgery on people and split their brains in half, which used to be done quite a lot as a last-ditch surgery for addressing epilepsy .", "start": 203.09, "end": 211.91, "zh": "对一些人做过激进的脑外科手术,把他们的大脑一分为二,这在过去,作为治疗癫痫的最后手段,曾经相当常见。", "zh_hant": "對一些人做過激進的腦外科手術,把他們的大腦一分為二,這在過去,作為治療癲癇的最後手段,曾經相當常見。"}, {"index": 30, "text": "You can see that the two halves, the two hemispheres of the brain are working independently of each other, and yet people’s sort of impression of themselves remains unified.", "start": 211.51, "end": 222.45, "zh": "你会发现,大脑的两半,也就是左右两个半球,是各自独立运作的,但人们对自己的整体感觉,却依然是统一的。", "zh_hant": "你會發現,大腦的兩半,也就是左右兩個半球,是各自獨立運作的,但人們對自己的整體感覺,卻依然是統一的。"}, {"index": 31, "text": "So, it’s kind of like every part of the brain is working as a member of a team, they all know that they’re on Team You,", "start": 222.05, "end": 228.51, "zh": "所以,这有点像大脑的每个部分都在作为团队的一员在工作,它们都知道自己属于“你”这个团队,", "zh_hant": "所以,這有點像大腦的每個部分都在作為團隊的一員在工作,它們都知道自己屬於“你”這個團隊,"}, {"index": 32, "text": "and they’re modeling themselves as a whole, and yet also, in a kind of competition, as you’re describing, for who says the thing that is going to come out of the mouth.", "start": 228.11, "end": 237.65, "zh": "它们把自己整体建模成一个统一体,但与此同时,又像你说的那样,彼此竞争,争夺“由谁的话说出口”的机会。", "zh_hant": "它們把自己整體建模成一個統一體,但與此同時,又像你說的那樣,彼此競爭,爭奪“由誰的話說出口”的機會。"}, {"index": 33, "text": "And that’s how neural nets work, too.", "start": 237.47, "end": 239.59, "zh": "而这也正是神经网络的运作方式。", "zh_hant": "而這也正是神經網路的運作方式。"}, {"index": 34, "text": "You know, artificial neural nets have these softmax layers, as they’re called, which are essentially an internal competition for which part of the network will get to emit the behavior.", "start": 239.23, "end": 248.33, "zh": "要知道,人工神经网络里有一种叫作“softmax层”的结构,本质上就是网络内部的一种竞争,决定由哪个部分来输出最终的行为。", "zh_hant": "要知道,人工神經網路裡有一種叫作“softmax層”的結構,本質上就是網路內部的一種競爭,決定由哪個部分來輸出最終的行為。"}]
+[
+  {
+    "index": 0,
+    "text": "Examples of some of the more heady problems that we’re looking at now are not just how individual intelligence agents work,",
+    "start": 0.27,
+    "end": 8.114,
+    "zh": "我们现在关注的一些更烧脑的问题,不仅仅是单个智能体是如何工作的,",
+    "zh_hant": "我們現在關注的一些更燒腦的問題,不僅僅是單個智慧體是如何工作的,"
+  },
+  {
+    "index": 1,
+    "text": "but how multiple agents in interactions with each other lead to larger collective intelligences.",
+    "start": 7.764,
+    "end": 14.257,
+    "zh": "而是多个智能体在相互作用中,如何形成更大的集体智能。",
+    "zh_hant": "而是多個智慧體在相互作用中,如何形成更大的集體智慧。"
+  },
+  {
+    "index": 2,
+    "text": "And even how, when you look at what we think of as single models, they look internally like societies of sub-agents.",
+    "start": 14.417,
+    "end": 21.621,
+    "zh": "甚至我们所认为的单一模型,内部看起来也像是由多个子智能体组成的社会。",
+    "zh_hant": "甚至我們所認為的單一模型,內部看起來也像是由多個子智慧體組成的社會。"
+  },
+  {
+    "index": 3,
+    "text": "We think of this as the social intelligence hypothesis, meaning that intelligence is inherently social, whether you think about it at the scale of societies or even at the scale of brains.",
+    "start": 21.661,
+    "end": 32.786,
+    "zh": "我们把这称为“社会智能假说”,意思是智能本质上是社会性的,不管你是从社会的尺度去看,还是从大脑的尺度去看。",
+    "zh_hant": "我們把這稱為“社會智慧假說”,意思是智慧本質上是社會性的,不管你是從社會的尺度去看,還是從大腦的尺度去看。"
+  },
+  {
+    "index": 4,
+    "text": "So an example of what you might do would be to create a set of five or six different A.I. agents",
+    "start": 33.107,
+    "end": 44.092,
+    "zh": "举个例子,你可能会创建五六个不同的人工智能智能体,",
+    "zh_hant": "舉個例子,你可能會建立五六個不同的人工智慧智慧體,"
+  },
+  {
+    "index": 5,
+    "text": "who were taking on different roles or personalities.",
+    "start": 44.213,
+    "end": 48.835,
+    "zh": "让它们分别扮演不同的角色或性格。",
+    "zh_hant": "讓它們分別扮演不同的角色或性格。"
+  },
+  {
+    "index": 6,
+    "text": "One is the skeptic, one is the optimist, or what specifically are you talking about?",
+    "start": 48.485,
+    "end": 53.077,
+    "zh": "一个是怀疑论者,一个是乐观主义者,或者你具体指的是什么?",
+    "zh_hant": "一個是懷疑論者,一個是樂觀主義者,或者你具體指的是什麼?"
+  },
+  {
+    "index": 7,
+    "text": "Yes, so we can definitely, and we do do those sorts of experiments, where we take agents and we put them in societies or institutions or conversational structures with each other,",
+    "start": 52.977,
+    "end": 63.042,
+    "zh": "是的,我们确实会做这类实验,把多个智能体放进某种社会、机构,或彼此之间的对话结构里,",
+    "zh_hant": "是的,我們確實會做這類實驗,把多個智慧體放進某種社會、機構,或彼此之間的對話結構裡,"
+  },
+  {
+    "index": 8,
+    "text": "and you can ask questions like if they all are set up to agree with each other versus set up to be misaligned with each other, to disagree with each other,",
+    "start": 63.262,
+    "end": 72.106,
+    "zh": "然后你可以提出这样的问题:如果它们都被设定为彼此认同,和被设定为彼此不一致、互相反对,",
+    "zh_hant": "然後你可以提出這樣的問題:如果它們都被設定為彼此認同,和被設定為彼此不一致、互相反對,"
+  },
+  {
+    "index": 9,
+    "text": "which of those kinds of setups leads to better problem-solving of the collective, and it turns out there that it’s better if you have them disagreeing with each other than if they’re all preaching to the choir, as it were.",
+    "start": 72.186,
+    "end": 83.852,
+    "zh": "哪种设定能让整体更好地解决问题,结果发现,让它们互相争论,比让它们都在互相附和、自说自话要好得多。",
+    "zh_hant": "哪種設定能讓整體更好地解決問題,結果發現,讓它們互相爭論,比讓它們都在互相附和、自說自話要好得多。"
+  },
+  {
+    "index": 10,
+    "text": "But then you can also ask the same question of an individual model, and this is a little bit mind-bending, but if you look at the chain of thought, which is to say the inner monologue of an individual reasoning model,",
+    "start": 83.993,
+    "end": 95.778,
+    "zh": "但接下来你也可以对单个模型问同样的问题,这有点烧脑,但如果你去看它的思维链,也就是单个推理模型内部的自言自语,",
+    "zh_hant": "但接下來你也可以對單個模型問同樣的問題,這有點燒腦,但如果你去看它的思維鏈,也就是單個推理模型內部的自言自語,"
+  },
+  {
+    "index": 11,
+    "text": "then one of the things you find in there is that there are actually voices or characters that have been developed that do exactly the same thing inside those models.",
+    "start": 95.678,
+    "end": 104.743,
+    "zh": "你会发现,里面其实发展出了不同的“声音”或“角色”,做的是完全相同的事情。",
+    "zh_hant": "你會發現,裡面其實發展出了不同的“聲音”或“角色”,做的是完全相同的事情。"
+  },
+  {
+    "index": 12,
+    "text": "It’s like the model is talking to itself, arguing with itself.",
+    "start": 104.393,
+    "end": 107.764,
+    "zh": "就好像模型在自言自语,自己跟自己争论。",
+    "zh_hant": "就好像模型在自言自語,自己跟自己爭論。"
+  },
+  {
+    "index": 13,
+    "text": "Kind of like Gollum versus Smeagol in Lord of the Rings or something, but often with more characters.",
+    "start": 107.844,
+    "end": 112.426,
+    "zh": "有点像《指环王》里咕噜和斯米戈的关系,只不过通常角色更多。",
+    "zh_hant": "有點像《指環王》裡咕嚕和斯米戈的關係,只不過通常角色更多。"
+  },
+  {
+    "index": 14,
+    "text": "And you get that behavior just from training reasoning models to do a good job of reasoning.",
+    "start": 112.727,
+    "end": 118.249,
+    "zh": "而这种行为,仅仅是通过训练推理模型把推理做好,就自然而然地涌现出来了。",
+    "zh_hant": "而這種行為,僅僅是透過訓練推理模型把推理做好,就自然而然地湧現出來了。"
+  },
+  {
+    "index": 15,
+    "text": "So I think that there is a really profound lesson in this.",
+    "start": 118.41,
+    "end": 122.872,
+    "zh": "所以我觉得这里面藏着一个很深刻的道理。",
+    "zh_hant": "所以我覺得這裡面藏著一個很深刻的道理。"
+  },
+  {
+    "index": 16,
+    "text": "And it’s a practical one in terms of how to build A.I. models.",
+    "start": 122.532,
+    "end": 125.653,
+    "zh": "从实际操作层面来说,这关系到如何构建人工智能模型。",
+    "zh_hant": "從實際操作層面來說,這關係到如何構建人工智慧模型。"
+  },
+  {
+    "index": 17,
+    "text": "But it’s also a philosophical one in the sense that it suggests that intelligence is fundamentally social.",
+    "start": 125.303,
+    "end": 130.736,
+    "zh": "但从哲学层面来说,这也意味着智能从根本上就是社会性的。",
+    "zh_hant": "但從哲學層面來說,這也意味著智慧從根本上就是社會性的。"
+  },
+  {
+    "index": 18,
+    "text": "Both at the scale of brains and societies.",
+    "start": 130.676,
+    "end": 134.378,
+    "zh": "无论是在大脑的尺度上,还是在社会的尺度上都是如此。",
+    "zh_hant": "無論是在大腦的尺度上,還是在社會的尺度上都是如此。"
+  },
+  {
+    "index": 19,
+    "text": "I don’t know anything about neuroscience, but I know my own experience is that my brain works exactly like you’ve just described.",
+    "start": 134.498,
+    "end": 141.481,
+    "zh": "我对神经科学一无所知,但我知道我自己的体验,正好就像你刚才描述的那样。",
+    "zh_hant": "我對神經科學一無所知,但我知道我自己的體驗,正好就像你剛才描述的那樣。"
+  },
+  {
+    "index": 20,
+    "text": "I’ve got four or five different parts of my brain that stake out different territory and some are risk-taking and some are cautious and some skeptical.",
+    "start": 141.131,
+    "end": 151.966,
+    "zh": "我大脑里有四五个不同的部分,各自占据不同的地盘,有的爱冒险,有的很谨慎,有的很多疑。",
+    "zh_hant": "我大腦裡有四五個不同的部分,各自佔據不同的地盤,有的愛冒險,有的很謹慎,有的很多疑。"
+  },
+  {
+    "index": 21,
+    "text": "And so I definitely feel like my own brain is in no sense unified.",
+    "start": 151.616,
+    "end": 157.589,
+    "zh": "所以我确实觉得,我自己的大脑完全谈不上是统一的。",
+    "zh_hant": "所以我確實覺得,我自己的大腦完全談不上是統一的。"
+  },
+  {
+    "index": 22,
+    "text": "It’s some kind of a competition for, for time on the stage.",
+    "start": 157.239,
+    "end": 161.772,
+    "zh": "更像是某种竞争,争夺“上台发言”的机会。",
+    "zh_hant": "更像是某種競爭,爭奪“上臺發言”的機會。"
+  },
+  {
+    "index": 23,
+    "text": "What I’ve never been able to figure out at all, though, is who is the “it” that’s behind the scenes, who’s deciding who the winner is among these different voices.",
+    "start": 161.492,
+    "end": 170.476,
+    "zh": "但我一直搞不明白的是,幕后到底是谁,是谁在这些不同的声音里决定谁是赢家。",
+    "zh_hant": "但我一直搞不明白的是,幕後到底是誰,是誰在這些不同的聲音裡決定誰是贏家。"
+  },
+  {
+    "index": 24,
+    "text": "Well, that is the place where I think a lot of folk psychology and philosophy also goes wrong in assuming that there is a homunculus, you know,",
+    "start": 170.356,
+    "end": 178.78,
+    "zh": "嗯,我觉得很多民间心理学和哲学,恰恰就是在这个地方出了错,它们假设存在一个“小人”,",
+    "zh_hant": "嗯,我覺得很多民間心理學和哲學,恰恰就是在這個地方出了錯,它們假設存在一個“小人”,"
+  },
+  {
+    "index": 25,
+    "text": "that there’s a mini-Steve, you know, the mini-Blaise you know inside our brains, when in fact, what you are is that collection of voices.",
+    "start": 178.43,
+    "end": 185.003,
+    "zh": "好像在我们脑子里,住着一个迷你版的史蒂夫,或者迷你版的布莱斯,可实际上,你就是那一整群声音的集合。",
+    "zh_hant": "好像在我們腦子裡,住著一個迷你版的史蒂夫,或者迷你版的布萊斯,可實際上,你就是那一整群聲音的集合。"
+  },
+  {
+    "index": 26,
+    "text": "I’m really excited to hear that that’s how you think of yourself, how you model yourself internally.",
+    "start": 185.143,
+    "end": 189.805,
+    "zh": "听到你也是这样看待自己、这样在内心为自己建模的,我真的很兴奋。",
+    "zh_hant": "聽到你也是這樣看待自己、這樣在內心為自己建模的,我真的很興奮。"
+  },
+  {
+    "index": 27,
+    "text": "It’s how I think of myself, too, but many people think of themselves as being very unified, as having just one self.",
+    "start": 189.455,
+    "end": 196.369,
+    "zh": "我也是这样看待自己的,但很多人觉得自己是高度统一的,只有单一的一个“自我”。",
+    "zh_hant": "我也是這樣看待自己的,但很多人覺得自己是高度統一的,只有單一的一個“自我”。"
+  },
+  {
+    "index": 28,
+    "text": "But we know from neuroscience and we know from psychology that your perspective is closer to what is really going on if you,",
+    "start": 196.609,
+    "end": 203.673,
+    "zh": "但从神经科学和心理学的角度我们知道,你的看法其实更接近真实情况,比如说,",
+    "zh_hant": "但從神經科學和心理學的角度我們知道,你的看法其實更接近真實情況,比如說,"
+  },
+  {
+    "index": 29,
+    "text": "for instance, do radical brain surgery on people and split their brains in half, which used to be done quite a lot as a last-ditch surgery for addressing epilepsy .",
+    "start": 203.323,
+    "end": 212.01,
+    "zh": "对一些人做过激进的脑外科手术,把他们的大脑一分为二,这在过去,作为治疗癫痫的最后手段,曾经相当常见。",
+    "zh_hant": "對一些人做過激進的腦外科手術,把他們的大腦一分為二,這在過去,作為治療癲癇的最後手段,曾經相當常見。"
+  },
+  {
+    "index": 30,
+    "text": "You can see that the two halves, the two hemispheres of the brain are working independently of each other, and yet people’s sort of impression of themselves remains unified.",
+    "start": 212.617,
+    "end": 222.902,
+    "zh": "你会发现,大脑的两半,也就是左右两个半球,是各自独立运作的,但人们对自己的整体感觉,却依然是统一的。",
+    "zh_hant": "你會發現,大腦的兩半,也就是左右兩個半球,是各自獨立運作的,但人們對自己的整體感覺,卻依然是統一的。"
+  },
+  {
+    "index": 31,
+    "text": "So, it’s kind of like every part of the brain is working as a member of a team, they all know that they’re on Team You,",
+    "start": 222.982,
+    "end": 228.705,
+    "zh": "所以,这有点像大脑的每个部分都在作为团队的一员在工作,它们都知道自己属于“你”这个团队,",
+    "zh_hant": "所以,這有點像大腦的每個部分都在作為團隊的一員在工作,它們都知道自己屬於“你”這個團隊,"
+  },
+  {
+    "index": 32,
+    "text": "and they’re modeling themselves as a whole, and yet also, in a kind of competition, as you’re describing, for who says the thing that is going to come out of the mouth.",
+    "start": 228.805,
+    "end": 237.789,
+    "zh": "它们把自己整体建模成一个统一体,但与此同时,又像你说的那样,彼此竞争,争夺“由谁的话说出口”的机会。",
+    "zh_hant": "它們把自己整體建模成一個統一體,但與此同時,又像你說的那樣,彼此競爭,爭奪“由誰的話說出口”的機會。"
+  },
+  {
+    "index": 33,
+    "text": "And that’s how neural nets work, too.",
+    "start": 237.91,
+    "end": 239.653,
+    "zh": "而这也正是神经网络的运作方式。",
+    "zh_hant": "而這也正是神經網路的運作方式。"
+  },
+  {
+    "index": 34,
+    "text": "You know, artificial neural nets have these softmax layers, as they’re called, which are essentially an internal competition for which part of the network will get to emit the behavior.",
+    "start": 239.373,
+    "end": 248.59,
+    "zh": "要知道,人工神经网络里有一种叫作“softmax层”的结构,本质上就是网络内部的一种竞争,决定由哪个部分来输出最终的行为。",
+    "zh_hant": "要知道,人工神經網路裡有一種叫作“softmax層”的結構,本質上就是網路內部的一種競爭,決定由哪個部分來輸出最終的行為。"
+  }
+]
