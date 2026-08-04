@@ -124,6 +124,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-04-6",
+      "title": "The Importance of Being ‘Dialed In’",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.json",
+      "folder": "VOA Words and Their Stories",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-04-6",
+      "title": "The Importance of Being ‘Dialed In’",
+      "date": "2026-08-04",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-03",
       "title": "Wilbur and Orville Wright: The First Airplane",
       "date": "2026-08-03",
