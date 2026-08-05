@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-05",
+      "title": "The Westminster Kennel Club Dog Show, the ‘Super Bowl’ of Dog Shows",
+      "date": "2026-08-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-05",
+      "title": "The Westminster Kennel Club Dog Show, the ‘Super Bowl’ of Dog Shows",
+      "date": "2026-08-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-04",
       "title": "What will happen during August 2026 solar eclipse",
       "date": "2026-08-04",
