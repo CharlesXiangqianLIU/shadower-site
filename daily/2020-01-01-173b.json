@@ -1,166 +1,174 @@
 [
   {
     "index": 0,
-    "text": "Lesson 5 The facts",
+    "text": "Lesson 5.",
     "start": 4.072,
-    "end": 6.493,
-    "zh": "第五课 事实",
-    "zh_hant": "第五課 事實"
+    "end": 4.23,
+    "zh": "第五课。",
+    "zh_hant": "第五課。"
   },
   {
     "index": 1,
-    "text": "What was the consequence of the editor's insistence on facts and statistics?",
-    "start": 8.654,
-    "end": 14.717,
-    "zh": "编辑坚持事实和数字的后果是什么？",
-    "zh_hant": "編輯堅持事實和數字的後果是什麼？"
+    "text": "The facts.",
+    "start": 4.572,
+    "end": 6.493,
+    "zh": "事实。",
+    "zh_hant": "事實。"
   },
   {
     "index": 2,
-    "text": "Editors of newspapers and magazines often go to extremes",
-    "start": 16.598,
-    "end": 20.88,
-    "zh": "报纸和杂志的编辑常常走极端",
-    "zh_hant": "報紙和雜誌的編輯常常走極端"
+    "text": "What was the consequence of the editor's insistence on facts and statistics?",
+    "start": 8.654,
+    "end": 14.717,
+    "zh": "编辑坚持事实和数据，后果是什么？",
+    "zh_hant": "編輯堅持事實和資料，後果是什麼？"
   },
   {
     "index": 3,
-    "text": "to provide their readers with unimportant facts and statistics.",
-    "start": 20.53,
-    "end": 24.562,
-    "zh": "为了给读者提供不重要的事实和数字。",
-    "zh_hant": "為了給讀者提供不重要的事實和數字。"
+    "text": "Editors of newspapers and magazines often go to extremes",
+    "start": 16.598,
+    "end": 20.88,
+    "zh": "报纸和杂志的编辑常常走极端。",
+    "zh_hant": "報紙和雜誌的編輯常常走極端。"
   },
   {
     "index": 4,
-    "text": "Last year a journalist had been instructed",
-    "start": 25.002,
-    "end": 28.444,
-    "zh": "去年，一名记者曾被指示",
-    "zh_hant": "去年，一名記者曾被指示"
+    "text": "to provide their readers with unimportant facts and statistics.",
+    "start": 20.53,
+    "end": 24.562,
+    "zh": "向读者提供无关紧要的事实和统计数据。",
+    "zh_hant": "向讀者提供無關緊要的事實和統計資料。"
   },
   {
     "index": 5,
-    "text": "by a well-known magazine to write an article on the president's palace in a new African republic.",
-    "start": 28.094,
-    "end": 34.427,
-    "zh": "一家知名杂志让他写一篇关于某个非洲新共和国总统府的文章。",
-    "zh_hant": "一家知名雜誌讓他寫一篇關於某個非洲新共和國總統府的文章。"
+    "text": "Last year a journalist had been instructed by a well-known magazine",
+    "start": 25.002,
+    "end": 30.065,
+    "zh": "去年，一位记者受一家知名杂志的指示。",
+    "zh_hant": "去年，一位記者受一家知名雜誌的指示。"
   },
   {
     "index": 6,
-    "text": "When the article arrived, the editor read the first",
-    "start": 35.007,
-    "end": 38.769,
-    "zh": "文章寄到时，编辑读了第一",
-    "zh_hant": "文章寄到時，編輯讀了第一"
+    "text": "to write an article on the president's palace in a new African republic.",
+    "start": 29.715,
+    "end": 34.427,
+    "zh": "为一个新非洲共和国的总统府写一篇文章。",
+    "zh_hant": "為一個新非洲共和國的總統府寫一篇文章。"
   },
   {
     "index": 7,
-    "text": "sentence and then refused to publish it.",
-    "start": 38.429,
-    "end": 41.531,
-    "zh": "句话，然后拒绝发表。",
-    "zh_hant": "句話，然後拒絕發表。"
+    "text": "When the article arrived, the editor read the first",
+    "start": 35.007,
+    "end": 38.769,
+    "zh": "文章寄到后，编辑读了第一句话。",
+    "zh_hant": "文章寄到後，編輯讀了第一句話。"
   },
   {
     "index": 8,
-    "text": "The article began:'Hundreds",
-    "start": 42.392,
-    "end": 45.413,
-    "zh": "文章开头写道：“数百",
-    "zh_hant": "文章開頭寫道：“數百"
+    "text": "sentence and then refused to publish it.",
+    "start": 38.429,
+    "end": 41.531,
+    "zh": "然后拒绝刊登它。",
+    "zh_hant": "然後拒絕刊登它。"
   },
   {
     "index": 9,
-    "text": "of steps lead to the high wall which surrounds the president's palace.'",
-    "start": 45.063,
-    "end": 50.075,
-    "zh": "级台阶通向环绕总统府的高墙。”",
-    "zh_hant": "級臺階通向環繞總統府的高牆。”"
+    "text": "The article began:'Hundreds",
+    "start": 42.392,
+    "end": 45.413,
+    "zh": "文章开头是：“数百级台阶",
+    "zh_hant": "文章開頭是：“數百級臺階"
   },
   {
     "index": 10,
-    "text": "The editor at once sent the journalist a fax",
-    "start": 50.195,
-    "end": 54.017,
-    "zh": "编辑立刻给记者发了一份传真",
-    "zh_hant": "編輯立刻給記者發了一份傳真"
+    "text": "of steps lead to the high wall which surrounds the president's palace.'",
+    "start": 45.063,
+    "end": 50.075,
+    "zh": "通向环绕总统府的高墙。”",
+    "zh_hant": "通向環繞總統府的高牆。”"
   },
   {
     "index": 11,
-    "text": "instructing him to find out the exact number of steps and the height of the wall.",
-    "start": 53.717,
-    "end": 59.66,
-    "zh": "指示他查明台阶的确切数量和墙的高度。",
-    "zh_hant": "指示他查明臺階的確切數量和牆的高度。"
+    "text": "The editor at once sent the journalist a fax",
+    "start": 50.195,
+    "end": 54.017,
+    "zh": "编辑立刻给记者发了一封传真。",
+    "zh_hant": "編輯立刻給記者發了一封傳真。"
   },
   {
     "index": 12,
-    "text": "The journalist immediately set out to obtain these important facts,",
-    "start": 61.241,
-    "end": 65.823,
-    "zh": "记者立即着手获取这些重要事实，",
-    "zh_hant": "記者立即著手獲取這些重要事實，"
+    "text": "instructing him to find out the exact number of steps and the height of the wall.",
+    "start": 53.717,
+    "end": 59.66,
+    "zh": "指示他查明台阶的准确数量和墙的高度。",
+    "zh_hant": "指示他查明臺階的準確數量和牆的高度。"
   },
   {
     "index": 13,
-    "text": "but he took a long time to send them.",
-    "start": 65.663,
-    "end": 68.124,
-    "zh": "但他花了好长时间才发回来。",
-    "zh_hant": "但他花了好長時間才發回來。"
+    "text": "The journalist immediately set out to obtain",
+    "start": 61.241,
+    "end": 64.442,
+    "zh": "记者立即着手获取这些",
+    "zh_hant": "記者立即著手獲取這些"
   },
   {
     "index": 14,
-    "text": "Meanwhile, the editor was getting impatient, for the magazine would soon go to press.",
-    "start": 68.564,
-    "end": 73.687,
-    "zh": "与此同时，编辑变得不耐烦，因为杂志很快就要付印了。",
-    "zh_hant": "與此同時，編輯變得不耐煩，因為雜誌很快就要付印了。"
+    "text": "these important facts, but he took a long time to send them.",
+    "start": 64.092,
+    "end": 68.124,
+    "zh": "重要事实，但他花了很长时间才发回。",
+    "zh_hant": "重要事實，但他花了很長時間才發回。"
   },
   {
     "index": 15,
-    "text": "He sent the journalist two more faxes, but received no reply.",
-    "start": 74.187,
-    "end": 78.969,
-    "zh": "他又给记者发了两份传真，但没有收到回复。",
-    "zh_hant": "他又給記者發了兩份傳真，但沒有收到回覆。"
+    "text": "Meanwhile, the editor was getting impatient, for the magazine would soon go to press.",
+    "start": 68.564,
+    "end": 73.687,
+    "zh": "与此同时，编辑变得不耐烦，因为杂志很快就要付印。",
+    "zh_hant": "與此同時，編輯變得不耐煩，因為雜誌很快就要付印。"
   },
   {
     "index": 16,
-    "text": "He sent yet another fax informing the journalist that if he did not reply",
-    "start": 79.39,
-    "end": 84.673,
-    "zh": "他又发了一份传真，通知记者如果他不回复",
-    "zh_hant": "他又發了一份傳真，通知記者如果他不回覆"
+    "text": "He sent the journalist two more faxes, but received no reply.",
+    "start": 74.187,
+    "end": 78.969,
+    "zh": "他又给记者发了两封传真，但没有收到回复。",
+    "zh_hant": "他又給記者發了兩封傳真，但沒有收到回覆。"
   },
   {
     "index": 17,
-    "text": "soon he would be fired.",
-    "start": 84.323,
-    "end": 86.193,
-    "zh": "很快就会被解雇。",
-    "zh_hant": "很快就會被解僱。"
+    "text": "He sent yet another fax informing the journalist",
+    "start": 79.39,
+    "end": 83.232,
+    "zh": "他又发了一封传真，告知记者。",
+    "zh_hant": "他又發了一封傳真，告知記者。"
   },
   {
     "index": 18,
-    "text": "When the journalist again failed to reply,",
-    "start": 86.694,
-    "end": 89.535,
-    "zh": "当记者再次没有回复时，",
-    "zh_hant": "當記者再次沒有回覆時，"
+    "text": "that if he did not reply soon he would be fired.",
+    "start": 82.882,
+    "end": 86.193,
+    "zh": "如果他不尽快回复，就会被解雇。",
+    "zh_hant": "如果他不盡快回復，就會被解僱。"
   },
   {
     "index": 19,
-    "text": "the editor reluctantly published the article as it had originally been written.",
-    "start": 90.075,
-    "end": 94.838,
-    "zh": "编辑勉强地按原样发表了这篇文章。",
-    "zh_hant": "編輯勉強地按原樣發表了這篇文章。"
+    "text": "When the journalist again failed to reply,",
+    "start": 86.694,
+    "end": 89.535,
+    "zh": "当记者再次没有回复时。",
+    "zh_hant": "當記者再次沒有回覆時。"
   },
   {
     "index": 20,
+    "text": "the editor reluctantly published the article as it had originally been written.",
+    "start": 90.075,
+    "end": 94.838,
+    "zh": "编辑勉强按原样刊登了那篇文章。",
+    "zh_hant": "編輯勉強按原樣刊登了那篇文章。"
+  },
+  {
+    "index": 21,
     "text": "A week later, the editor at last received a fax from the journalist.",
     "start": 95.558,
     "end": 100.52,
@@ -168,43 +176,43 @@
     "zh_hant": "一週後，編輯終於收到了記者的傳真。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Not only had the poor man been arrested, but he had been sent to prison as well.",
     "start": 100.981,
     "end": 106.723,
-    "zh": "这个可怜人不仅被逮捕了，还被送进了监狱。",
-    "zh_hant": "這個可憐人不僅被逮捕了，還被送進了監獄。"
-  },
-  {
-    "index": 22,
-    "text": "However, he had at last been allowed to send a fax",
-    "start": 107.144,
-    "end": 111.686,
-    "zh": "不过，他最终还是被允许发一份传真，",
-    "zh_hant": "不過，他最終還是被允許發一份傳真，"
+    "zh": "那个可怜的人不仅被逮捕，而且被关进了监狱。",
+    "zh_hant": "那個可憐的人不僅被逮捕，而且被關進了監獄。"
   },
   {
     "index": 23,
-    "text": "in which he informed the editor that he had been arrested",
-    "start": 112.066,
-    "end": 115.928,
-    "zh": "在传真中他告诉编辑，他在数",
-    "zh_hant": "在傳真中他告訴編輯，他在數"
+    "text": "However, he had at last been allowed to send",
+    "start": 107.144,
+    "end": 111.226,
+    "zh": "不过，他终于被允许发送",
+    "zh_hant": "不過，他終於被允許傳送"
   },
   {
     "index": 24,
-    "text": "while counting the 1, 084 steps",
-    "start": 115.928,
-    "end": 119.57,
-    "zh": "通往那面15英尺高墙的1084级台阶时",
-    "zh_hant": "通往那面15英尺高牆的1084級臺階時"
+    "text": "a fax in which he informed the editor that he had been arrested",
+    "start": 110.876,
+    "end": 115.928,
+    "zh": "一封传真，在传真中他告知编辑他被逮捕了。",
+    "zh_hant": "一封傳真，在傳真中他告知編輯他被逮捕了。"
   },
   {
     "index": 25,
-    "text": "leading to the 15th foot wall which surrounded the president's palace.",
-    "start": 119.615,
+    "text": "while counting the 1, 084 steps leading",
+    "start": 115.928,
+    "end": 120.436,
+    "zh": "是在数通往总统府周围的那道15英尺高墙的",
+    "zh_hant": "是在數通往總統府周圍的那道15英尺高牆的"
+  },
+  {
+    "index": 26,
+    "text": "to the 15th foot wall which surrounded the president's palace.",
+    "start": 120.086,
     "end": 124.429,
-    "zh": "被逮捕了，那面墙环绕着总统府。",
-    "zh_hant": "被逮捕了，那面牆環繞著總統府。"
+    "zh": "1，084级台阶时被逮捕的。",
+    "zh_hant": "1，084級臺階時被逮捕的。"
   }
 ]

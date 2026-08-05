@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 15 Your passports",
+    "text": "Lesson 15.",
     "start": 1.591,
-    "end": 5.652,
-    "zh": "第15课 你们的护照",
-    "zh_hant": "第15課 你們的護照"
+    "end": 3.942,
+    "zh": "第十五课。",
+    "zh_hant": "第十五課。"
   },
   {
     "index": 1,
-    "text": "please.",
-    "start": 5.312,
+    "text": "Your passports please.",
+    "start": 3.992,
     "end": 6.273,
-    "zh": "请出示。",
-    "zh_hant": "請出示。"
+    "zh": "请出示你们的护照。",
+    "zh_hant": "請出示你們的護照。"
   },
   {
     "index": 2,
@@ -92,8 +92,8 @@
     "text": "Here they are.",
     "start": 43.852,
     "end": 48.074,
-    "zh": "给您。",
-    "zh_hant": "給您。"
+    "zh": "给你。",
+    "zh_hant": "給你。"
   },
   {
     "index": 12,
@@ -124,8 +124,8 @@
     "text": "Here they are.",
     "start": 57.759,
     "end": 59.42,
-    "zh": "在这儿。",
-    "zh_hant": "在這兒。"
+    "zh": "给你。",
+    "zh_hant": "給你。"
   },
   {
     "index": 16,
@@ -164,8 +164,8 @@
     "text": "That's fine.",
     "start": 74.748,
     "end": 76.168,
-    "zh": "那很好。",
-    "zh_hant": "那很好。"
+    "zh": "那就好。",
+    "zh_hant": "那就好。"
   },
   {
     "index": 21,

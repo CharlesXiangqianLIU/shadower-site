@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 101 A card",
+    "text": "Lesson 101.",
     "start": 1.55,
-    "end": 5.632,
-    "zh": "第101课 一张卡片",
-    "zh_hant": "第101課 一張卡片"
+    "end": 4.402,
+    "zh": "第101课。",
+    "zh_hant": "第101課。"
   },
   {
     "index": 1,
-    "text": "from Jimmy",
-    "start": 5.452,
+    "text": "A card from Jimmy.",
+    "start": 4.452,
     "end": 6.513,
-    "zh": "来自吉米",
-    "zh_hant": "來自吉米"
+    "zh": "吉米寄来的一张明信片。",
+    "zh_hant": "吉米寄來的一張明信片。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "Does grandmother seem pleased to get a card from Jimmy?",
     "start": 14.197,
     "end": 18.278,
-    "zh": "奶奶收到吉米的卡片，似乎很高兴吗？",
-    "zh_hant": "奶奶收到吉米的卡片，似乎很高興嗎？"
+    "zh": "祖母收到吉米的明信片似乎很高兴吗？",
+    "zh_hant": "祖母收到吉米的明信片似乎很高興嗎？"
   },
   {
     "index": 4,
@@ -44,16 +44,16 @@
     "text": "Read Jimmy's card to me please, Penny.",
     "start": 23.721,
     "end": 26.983,
-    "zh": "彭妮，请把吉米的卡片念给我听。",
-    "zh_hant": "彭妮，請把吉米的卡片念給我聽。"
+    "zh": "请给我读一下吉米的明信片，彭妮。",
+    "zh_hant": "請給我讀一下吉米的明信片，彭妮。"
   },
   {
     "index": 6,
     "text": "'I have just",
     "start": 26.633,
     "end": 30.044,
-    "zh": "“我刚刚",
-    "zh_hant": "“我剛剛"
+    "zh": "‘我刚",
+    "zh_hant": "‘我剛"
   },
   {
     "index": 7,
@@ -68,8 +68,8 @@
     "text": "and I'm staying at a Youth Hostel.'",
     "start": 31.465,
     "end": 34.126,
-    "zh": "并且住在一家青年旅社。”",
-    "zh_hant": "並且住在一家青年旅社。”"
+    "zh": "并住在一家青年旅舍。’",
+    "zh_hant": "並住在一家青年旅舍。’"
   },
   {
     "index": 9,
@@ -92,40 +92,40 @@
     "text": "He says he's staying at a Youth Hostel.",
     "start": 40.79,
     "end": 44.312,
-    "zh": "他说他住在一家青年旅社。",
-    "zh_hant": "他說他住在一家青年旅社。"
+    "zh": "他说他住在一家青年旅舍。",
+    "zh_hant": "他說他住在一家青年旅舍。"
   },
   {
     "index": 12,
     "text": "You know he's a member of the Y.H.A.",
     "start": 44.752,
     "end": 49.014,
-    "zh": "你知道他是Y.H.A.的会员。",
-    "zh_hant": "你知道他是Y.H.A.的會員。"
+    "zh": "你知道他是青年旅舍协会的成员。",
+    "zh_hant": "你知道他是青年旅舍協會的成員。"
   },
   {
     "index": 13,
     "text": "The what?",
     "start": 50.295,
     "end": 51.355,
-    "zh": "那是什么？",
-    "zh_hant": "那是什麼？"
+    "zh": "什么协会？",
+    "zh_hant": "什麼協會？"
   },
   {
     "index": 14,
     "text": "The Y.H.A., Mum.",
     "start": 52.396,
     "end": 54.917,
-    "zh": "Y.H.A.，妈妈。",
-    "zh_hant": "Y.H.A.，媽媽。"
+    "zh": "青年旅舍协会，妈妈。",
+    "zh_hant": "青年旅舍協會，媽媽。"
   },
   {
     "index": 15,
     "text": "The Youth Hostels Association.",
     "start": 55.257,
     "end": 58.199,
-    "zh": "青年旅社协会。",
-    "zh_hant": "青年旅社協會。"
+    "zh": "青年旅舍协会。",
+    "zh_hant": "青年旅舍協會。"
   },
   {
     "index": 16,
@@ -140,16 +140,16 @@
     "text": "'I'll write a letter soon.",
     "start": 61.5,
     "end": 65.022,
-    "zh": "“我很快会写信。",
-    "zh_hant": "“我很快會寫信。"
+    "zh": "‘我很快会写信。",
+    "zh_hant": "‘我很快會寫信。"
   },
   {
     "index": 18,
     "text": "I hope you are all well.'",
     "start": 65.582,
     "end": 69.004,
-    "zh": "希望你们都好。”",
-    "zh_hant": "希望你們都好。”"
+    "zh": "希望你们都好。’",
+    "zh_hant": "希望你們都好。’"
   },
   {
     "index": 19,
@@ -172,8 +172,8 @@
     "text": "I'm afraid I can't hear you.",
     "start": 72.306,
     "end": 75.027,
-    "zh": "我怕听不见你说的话。",
-    "zh_hant": "我怕聽不見你說的話。"
+    "zh": "恐怕我听不见你说什么。",
+    "zh_hant": "恐怕我聽不見你說什麼。"
   },
   {
     "index": 22,
@@ -196,8 +196,8 @@
     "text": "'Love, Jimmy.'",
     "start": 82.353,
     "end": 86.038,
-    "zh": "“爱你们的，吉米。”",
-    "zh_hant": "“愛你們的，吉米。”"
+    "zh": "‘爱你们的，吉米。’",
+    "zh_hant": "‘愛你們的，吉米。’"
   },
   {
     "index": 25,
@@ -212,15 +212,15 @@
     "text": "He doesn't say very much, does he?",
     "start": 87.28,
     "end": 91.725,
-    "zh": "他说的不多，是不是？",
-    "zh_hant": "他說的不多，是不是？"
+    "zh": "他没写多少，对吧？",
+    "zh_hant": "他沒寫多少，對吧？"
   },
   {
     "index": 27,
     "text": "can't write very much on a card, Mum.",
     "start": 91.375,
     "end": 94.95,
-    "zh": "在卡片上写不了太多，妈妈。",
-    "zh_hant": "在卡片上寫不了太多，媽媽。"
+    "zh": "在明信片上写不了太多，妈妈。",
+    "zh_hant": "在明信片上寫不了太多，媽媽。"
   }
 ]

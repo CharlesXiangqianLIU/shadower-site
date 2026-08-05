@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 13 A new dress",
+    "text": "Lesson 13.",
     "start": 1.571,
-    "end": 5.752,
-    "zh": "第13课 一件新连衣裙",
-    "zh_hant": "第13課 一件新連衣裙"
+    "end": 4.102,
+    "zh": "第13课。",
+    "zh_hant": "第13課。"
   },
   {
     "index": 1,
+    "text": "A new dress.",
+    "start": 4.152,
+    "end": 5.752,
+    "zh": "一件新连衣裙。",
+    "zh_hant": "一件新連衣裙。"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.253,
     "end": 11.575,
@@ -16,23 +24,23 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "What colour is Anna's hat?",
     "start": 13.797,
     "end": 16.778,
-    "zh": "安娜的帽子是什么颜色的？",
-    "zh_hant": "安娜的帽子是什麼顏色的？"
-  },
-  {
-    "index": 3,
-    "text": "What colour's your new dress?",
-    "start": 19.239,
-    "end": 22.781,
-    "zh": "你的新连衣裙是什么颜色的？",
-    "zh_hant": "你的新連衣裙是什麼顏色的？"
+    "zh": "安娜的帽子是什么颜色？",
+    "zh_hant": "安娜的帽子是什麼顏色？"
   },
   {
     "index": 4,
+    "text": "What colour's your new dress?",
+    "start": 19.239,
+    "end": 22.781,
+    "zh": "你的新连衣裙是什么颜色？",
+    "zh_hant": "你的新連衣裙是什麼顏色？"
+  },
+  {
+    "index": 5,
     "text": "It's green.",
     "start": 23.922,
     "end": 25.102,
@@ -40,15 +48,15 @@
     "zh_hant": "是綠色的。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Come upstairs and see it.",
     "start": 26.003,
     "end": 28.444,
-    "zh": "上楼来看看它吧。",
-    "zh_hant": "上樓來看看它吧。"
+    "zh": "上楼来看看吧。",
+    "zh_hant": "上樓來看看吧。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "Thank you.",
     "start": 29.525,
     "end": 30.545,
@@ -56,7 +64,7 @@
     "zh_hant": "謝謝。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Look!",
     "start": 32.266,
     "end": 33.066,
@@ -64,7 +72,7 @@
     "zh_hant": "看！"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Here it is!",
     "start": 33.466,
     "end": 34.787,
@@ -72,7 +80,7 @@
     "zh_hant": "它在這兒！"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "That's a nice dress.",
     "start": 36.248,
     "end": 38.669,
@@ -80,7 +88,7 @@
     "zh_hant": "那是一件漂亮的連衣裙。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "It's very smart.",
     "start": 38.909,
     "end": 41.01,
@@ -88,7 +96,7 @@
     "zh_hant": "它非常時髦。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "My hat's new too.",
     "start": 42.431,
     "end": 44.653,
@@ -96,15 +104,15 @@
     "zh_hant": "我的帽子也是新的。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "What colour is it?",
     "start": 46.236,
     "end": 47.997,
-    "zh": "它是什么颜色的？",
-    "zh_hant": "它是什麼顏色的？"
+    "zh": "它是什么颜色？",
+    "zh_hant": "它是什麼顏色？"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "It's the same colour.",
     "start": 49.739,
     "end": 51.621,
@@ -112,7 +120,7 @@
     "zh_hant": "是同樣的顏色。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "It's green too.",
     "start": 52.302,
     "end": 54.164,
@@ -120,7 +128,7 @@
     "zh_hant": "也是綠色的。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "That is a lovely hat!",
     "start": 56.367,
     "end": 59.89,

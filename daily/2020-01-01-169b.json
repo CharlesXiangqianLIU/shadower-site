@@ -1,46 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Lesson 1 A puma at large",
+    "text": "Lesson 1.",
     "start": 0.71,
-    "end": 8.274,
-    "zh": "第一课 逃遁的美洲狮",
-    "zh_hant": "第一課 逃遁的美洲獅"
+    "end": 2.281,
+    "zh": "第一课。",
+    "zh_hant": "第一課。"
   },
   {
     "index": 1,
-    "text": "Where must the puma have come from?",
-    "start": 9.815,
-    "end": 12.576,
-    "zh": "这只美洲狮是从哪里来的呢？",
-    "zh_hant": "這隻美洲獅是從哪裡來的呢？"
+    "text": "A puma at large.",
+    "start": 2.331,
+    "end": 8.274,
+    "zh": "一只美洲狮在逃。",
+    "zh_hant": "一隻美洲獅在逃。"
   },
   {
     "index": 2,
-    "text": "Pumas are large, cat-like animals which are found in America.",
-    "start": 14.377,
-    "end": 18.619,
-    "zh": "美洲狮是一种体型大、像猫一样的动物，原产于美洲。",
-    "zh_hant": "美洲獅是一種體型大、像貓一樣的動物，原產於美洲。"
+    "text": "Where must the puma have come from?",
+    "start": 9.815,
+    "end": 12.576,
+    "zh": "这只美洲狮一定是从哪里来的呢？",
+    "zh_hant": "這隻美洲獅一定是從哪裡來的呢？"
   },
   {
     "index": 3,
-    "text": "When reports came into London Zoo that a wild puma had been spotted",
-    "start": 19.12,
-    "end": 23.942,
-    "zh": "当伦敦动物园接到报告，说有人看到一只野生美洲狮",
-    "zh_hant": "當倫敦動物園接到報告，說有人看到一隻野生美洲獅"
+    "text": "Pumas are large, cat-like animals which are found in America.",
+    "start": 14.377,
+    "end": 18.619,
+    "zh": "美洲狮是一种大型猫科动物，产于美洲。",
+    "zh_hant": "美洲獅是一種大型貓科動物，產於美洲。"
   },
   {
     "index": 4,
-    "text": "forty-five miles south of London,",
-    "start": 23.592,
-    "end": 26.123,
-    "zh": "出现在伦敦以南四十五英里处时",
-    "zh_hant": "出現在倫敦以南四十五英里處時"
+    "text": "When reports came into London Zoo that a wild puma had been spotted",
+    "start": 19.12,
+    "end": 23.942,
+    "zh": "当伦敦动物园接到报告说，有人看到一只野生美洲狮",
+    "zh_hant": "當倫敦動物園接到報告說，有人看到一隻野生美洲獅"
   },
   {
     "index": 5,
+    "text": "forty-five miles south of London,",
+    "start": 23.592,
+    "end": 26.123,
+    "zh": "在伦敦以南四十五英里处出现时，",
+    "zh_hant": "在倫敦以南四十五英里處出現時，"
+  },
+  {
+    "index": 6,
     "text": "they were not taken seriously.",
     "start": 26.263,
     "end": 28.584,
@@ -48,151 +56,151 @@
     "zh_hant": "這些報告並未受到重視。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "However, as the evidence began to accumulate,",
     "start": 29.104,
     "end": 33.126,
-    "zh": "然而，随着证据开始积累",
-    "zh_hant": "然而，隨著證據開始積累"
-  },
-  {
-    "index": 7,
-    "text": "experts from the Zoo felt obliged to investigate,",
-    "start": 33.187,
-    "end": 36.888,
-    "zh": "动物园的专家们感到有必要进行调查",
-    "zh_hant": "動物園的專家們感到有必要進行調查"
+    "zh": "然而，随着证据开始积累，",
+    "zh_hant": "然而，隨著證據開始積累，"
   },
   {
     "index": 8,
-    "text": "for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.",
-    "start": 37.068,
-    "end": 43.272,
-    "zh": "因为那些自称见过美洲狮的人所描述的情况出奇地相似。",
-    "zh_hant": "因為那些自稱見過美洲獅的人所描述的情況出奇地相似。"
+    "text": "experts from the Zoo felt obliged to investigate,",
+    "start": 33.187,
+    "end": 36.888,
+    "zh": "动物园的专家们感到有必要进行调查，",
+    "zh_hant": "動物園的專家們感到有必要進行調查，"
   },
   {
     "index": 9,
-    "text": "The hunt for the puma began in a small village where a woman picking blackberries saw",
-    "start": 43.832,
-    "end": 49.195,
-    "zh": "搜捕美洲狮的行动始于一个小村庄，那里一位摘黑莓的妇女看见",
-    "zh_hant": "搜捕美洲獅的行動始於一個小村莊，那裡一位摘黑莓的婦女看見"
+    "text": "for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.",
+    "start": 37.068,
+    "end": 43.272,
+    "zh": "因为声称见过这只美洲狮的人描述惊人地相似。",
+    "zh_hant": "因為聲稱見過這隻美洲獅的人描述驚人地相似。"
   },
   {
     "index": 10,
-    "text": "'a large cat'only five yards away from her.",
-    "start": 49.235,
-    "end": 53.177,
-    "zh": "一只“大猫”离她只有五码远。",
-    "zh_hant": "一隻“大貓”離她只有五碼遠。"
+    "text": "The hunt for the puma began in a small village where a woman",
+    "start": 43.832,
+    "end": 47.774,
+    "zh": "对美洲狮的搜寻始于一个小村庄，在那里一位妇女",
+    "zh_hant": "對美洲獅的搜尋始於一個小村莊，在那裡一位婦女"
   },
   {
     "index": 11,
-    "text": "It immediately ran away when she saw it,",
-    "start": 53.557,
-    "end": 56.158,
-    "zh": "她一看到它，它就立刻跑开了",
-    "zh_hant": "她一看到它，它就立刻跑開了"
+    "text": "picking blackberries saw 'a large cat'only five yards away from her.",
+    "start": 47.424,
+    "end": 53.177,
+    "zh": "采摘黑莓时，看见一只‘大猫’离她仅五码远。",
+    "zh_hant": "採摘黑莓時，看見一隻‘大貓’離她僅五碼遠。"
   },
   {
     "index": 12,
-    "text": "and experts confirmed that a puma will not attack a human being unless it is cornered.",
-    "start": 56.458,
-    "end": 62.301,
-    "zh": "而且专家们证实，美洲狮除非被逼入绝境，否则不会攻击人类。",
-    "zh_hant": "而且專家們證實，美洲獅除非被逼入絕境，否則不會攻擊人類。"
+    "text": "It immediately ran away when she saw it,",
+    "start": 53.557,
+    "end": 56.158,
+    "zh": "她看到它时，它立刻跑开了，",
+    "zh_hant": "她看到它時，它立刻跑開了，"
   },
   {
     "index": 13,
-    "text": "The search proved difficult,",
-    "start": 62.902,
-    "end": 64.942,
-    "zh": "搜寻工作难度很大",
-    "zh_hant": "搜尋工作難度很大"
+    "text": "and experts confirmed that a puma will not attack a human being unless it is cornered.",
+    "start": 56.458,
+    "end": 62.301,
+    "zh": "专家们确认，美洲狮除非走投无路，否则不会攻击人类。",
+    "zh_hant": "專家們確認，美洲獅除非走投無路，否則不會攻擊人類。"
   },
   {
     "index": 14,
-    "text": "for the puma was often observed at one place in the morning",
-    "start": 65.103,
-    "end": 68.744,
-    "zh": "因为人们常常在早上某个地方看到这只美洲狮",
-    "zh_hant": "因為人們常常在早上某個地方看到這隻美洲獅"
+    "text": "The search proved difficult,",
+    "start": 62.902,
+    "end": 64.942,
+    "zh": "搜寻工作很困难，",
+    "zh_hant": "搜尋工作很困難，"
   },
   {
     "index": 15,
-    "text": "and at another place twenty miles away in the evening.",
-    "start": 68.504,
-    "end": 71.986,
-    "zh": "而晚上又在二十英里外的另一个地方看到它。",
-    "zh_hant": "而晚上又在二十英里外的另一個地方看到它。"
+    "text": "for the puma was often observed at one place in the morning",
+    "start": 65.103,
+    "end": 68.744,
+    "zh": "因为人们常常在早晨的某个地方看到这只美洲狮，",
+    "zh_hant": "因為人們常常在早晨的某個地方看到這隻美洲獅，"
   },
   {
     "index": 16,
-    "text": "Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.",
-    "start": 72.566,
-    "end": 78.249,
-    "zh": "无论它走到哪里，都会留下一串死鹿和兔子之类小动物的踪迹。",
-    "zh_hant": "無論它走到哪裡，都會留下一串死鹿和兔子之類小動物的蹤跡。"
+    "text": "and at another place twenty miles away in the evening.",
+    "start": 68.504,
+    "end": 71.986,
+    "zh": "而在晚上又出现在二十英里外的另一个地方。",
+    "zh_hant": "而在晚上又出現在二十英里外的另一個地方。"
   },
   {
     "index": 17,
-    "text": "Paw prints were seen in a number of places and puma fur was found clinging to bushes.",
-    "start": 79.31,
-    "end": 84.813,
-    "zh": "许多地方都发现了爪印，灌木丛上还粘有美洲狮的毛。",
-    "zh_hant": "許多地方都發現了爪印，灌木叢上還粘有美洲獅的毛。"
+    "text": "Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.",
+    "start": 72.566,
+    "end": 78.249,
+    "zh": "无论它走到哪里，都留下一串死鹿和小动物（如兔子）的足迹。",
+    "zh_hant": "無論它走到哪裡，都留下一串死鹿和小動物（如兔子）的足跡。"
   },
   {
     "index": 18,
-    "text": "Several people complained of 'cat-like noises' at night",
-    "start": 85.333,
-    "end": 89.435,
-    "zh": "有几个人抱怨说，夜里听到“像猫叫的声响”",
-    "zh_hant": "有幾個人抱怨說，夜裡聽到“像貓叫的聲響”"
+    "text": "Paw prints were seen in a number of places and puma fur was found clinging to bushes.",
+    "start": 79.31,
+    "end": 84.813,
+    "zh": "许多地方都发现了爪印，灌木丛上还发现了美洲狮的毛。",
+    "zh_hant": "許多地方都發現了爪印，灌木叢上還發現了美洲獅的毛。"
   },
   {
     "index": 19,
-    "text": "and a businessman on a fishing trip saw the puma up a tree.",
-    "start": 89.435,
-    "end": 93.397,
-    "zh": "还有一个钓鱼途中的商人看到那只美洲狮在树上。",
-    "zh_hant": "還有一個釣魚途中的商人看到那隻美洲獅在樹上。"
+    "text": "Several people complained of 'cat-like noises' at night",
+    "start": 85.333,
+    "end": 89.435,
+    "zh": "有几个人抱怨夜间有‘像猫一样的噪音’，",
+    "zh_hant": "有幾個人抱怨夜間有‘像貓一樣的噪音’，"
   },
   {
     "index": 20,
-    "text": "The experts were now fully convinced that the animal was a puma, but where had it come from?",
-    "start": 94.137,
-    "end": 100.56,
-    "zh": "专家们此时已完全确信那动物就是美洲狮，但它究竟是从哪里来的呢？",
-    "zh_hant": "專家們此時已完全確信那動物就是美洲獅，但它究竟是從哪裡來的呢？"
+    "text": "and a businessman on a fishing trip saw the puma up a tree.",
+    "start": 89.435,
+    "end": 93.397,
+    "zh": "还有一个钓鱼去的商人看到美洲狮在树上。",
+    "zh_hant": "還有一個釣魚去的商人看到美洲獅在樹上。"
   },
   {
     "index": 21,
-    "text": "As no pumas had been reported missing from any zoo in the country,",
-    "start": 101.221,
-    "end": 105.323,
-    "zh": "由于国内没有任何动物园报告丢失美洲狮",
-    "zh_hant": "由於國內沒有任何動物園報告丟失美洲獅"
+    "text": "The experts were now fully convinced that the animal was a puma, but where had it come from?",
+    "start": 94.137,
+    "end": 100.56,
+    "zh": "专家们现在完全确信这是美洲狮，但它从哪里来的呢？",
+    "zh_hant": "專家們現在完全確信這是美洲獅，但它從哪裡來的呢？"
   },
   {
     "index": 22,
-    "text": "this one must have been in the possession of a private collector and somehow managed to escape.",
-    "start": 105.563,
-    "end": 111.626,
-    "zh": "这只美洲狮一定是某位私人收藏者所拥有，并且设法逃了出来。",
-    "zh_hant": "這隻美洲獅一定是某位私人收藏者所擁有，並且設法逃了出來。"
+    "text": "As no pumas had been reported missing from any zoo in the country,",
+    "start": 101.221,
+    "end": 105.323,
+    "zh": "由于国内没有动物园报告丢失过美洲狮，",
+    "zh_hant": "由於國內沒有動物園報告丟失過美洲獅，"
   },
   {
     "index": 23,
-    "text": "The hunt went on for several weeks, but the puma was not caught.",
-    "start": 112.166,
-    "end": 116.628,
-    "zh": "搜寻持续了数周，但始终没有抓到那只美洲狮。",
-    "zh_hant": "搜尋持續了數週，但始終沒有抓到那隻美洲獅。"
+    "text": "this one must have been in the possession of a private collector and somehow managed to escape.",
+    "start": 105.563,
+    "end": 111.626,
+    "zh": "这只一定属于某个私人收藏家，不知怎么逃了出来。",
+    "zh_hant": "這隻一定屬於某個私人收藏家，不知怎麼逃了出來。"
   },
   {
     "index": 24,
+    "text": "The hunt went on for several weeks, but the puma was not caught.",
+    "start": 112.166,
+    "end": 116.628,
+    "zh": "搜寻持续了几个星期，但美洲狮没有被抓到。",
+    "zh_hant": "搜尋持續了幾個星期，但美洲獅沒有被抓到。"
+  },
+  {
+    "index": 25,
     "text": "It is disturbing to think that a dangerous wild animal",
     "start": 117.389,
     "end": 121.258,
@@ -200,11 +208,11 @@
     "zh_hant": "想到一隻危險的野生動物"
   },
   {
-    "index": 25,
+    "index": 26,
     "text": "is still at large in the quiet countryside.",
     "start": 120.908,
     "end": 124.05,
-    "zh": "仍在这宁静的乡间逍遥自在，实在令人不安。",
-    "zh_hant": "仍在這寧靜的鄉間逍遙自在，實在令人不安。"
+    "zh": "还在宁静的乡村里逍遥自在，真令人不安。",
+    "zh_hant": "還在寧靜的鄉村裡逍遙自在，真令人不安。"
   }
 ]

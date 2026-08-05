@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 119 A true",
+    "text": "Lesson 119.",
     "start": 0.75,
-    "end": 4.612,
-    "zh": "第119课 一个真实的故事",
-    "zh_hant": "第119課 一個真實的故事"
+    "end": 3.442,
+    "zh": "第119课。",
+    "zh_hant": "第119課。"
   },
   {
     "index": 1,
-    "text": "story",
-    "start": 4.352,
+    "text": "A true story.",
+    "start": 3.492,
     "end": 5.272,
-    "zh": "故事",
-    "zh_hant": "故事"
+    "zh": "一个真实的故事。",
+    "zh_hant": "一個真實的故事。"
   },
   {
     "index": 2,
@@ -60,8 +60,8 @@
     "text": "It happened to a friend of mine a year ago.",
     "start": 25.463,
     "end": 29.404,
-    "zh": "这发生在我一个朋友身上，是在一年前。",
-    "zh_hant": "這發生在我一個朋友身上，是在一年前。"
+    "zh": "这件事发生在我朋友身上，一年前。",
+    "zh_hant": "這件事發生在我朋友身上，一年前。"
   },
   {
     "index": 8,
@@ -92,32 +92,32 @@
     "text": "After they had entered the house,",
     "start": 41.051,
     "end": 43.892,
-    "zh": "他们进入房子后，",
-    "zh_hant": "他們進入房子後，"
+    "zh": "他们进了房子之后，",
+    "zh_hant": "他們進了房子之後，"
   },
   {
     "index": 12,
     "text": "they went into the dining room.",
     "start": 44.192,
     "end": 47.134,
-    "zh": "走进了餐厅。",
-    "zh_hant": "走進了餐廳。"
+    "zh": "就去了餐厅。",
+    "zh_hant": "就去了餐廳。"
   },
   {
     "index": 13,
     "text": "It was very dark,",
     "start": 47.634,
     "end": 50.095,
-    "zh": "那里很黑，",
-    "zh_hant": "那裡很黑，"
+    "zh": "那里非常暗，",
+    "zh_hant": "那裡非常暗，"
   },
   {
     "index": 14,
     "text": "so they turned on a torch.",
     "start": 50.576,
     "end": 53.777,
-    "zh": "所以他们打开了手电筒。",
-    "zh_hant": "所以他們開啟了手電筒。"
+    "zh": "所以他们打开了一个手电筒。",
+    "zh_hant": "所以他們開啟了一個手電筒。"
   },
   {
     "index": 15,
@@ -132,16 +132,16 @@
     "text": "'What's up?",
     "start": 59.34,
     "end": 61.381,
-    "zh": "“怎么了？",
-    "zh_hant": "“怎麼了？"
+    "zh": "'怎么了？",
+    "zh_hant": "'怎麼了？"
   },
   {
     "index": 17,
     "text": "What's up?'",
     "start": 61.541,
     "end": 62.842,
-    "zh": "怎么了？”",
-    "zh_hant": "怎麼了？”"
+    "zh": "怎么了？'",
+    "zh_hant": "怎麼了？'"
   },
   {
     "index": 18,
@@ -156,32 +156,32 @@
     "text": "The thieves dropped the torch and ran away",
     "start": 65.743,
     "end": 70.165,
-    "zh": "小偷丢下手电筒，",
-    "zh_hant": "小偷丟下手電筒，"
+    "zh": "小偷扔下手电筒，跑了，",
+    "zh_hant": "小偷扔下手電筒，跑了，"
   },
   {
     "index": 20,
     "text": "as quickly as they could.",
     "start": 70.005,
     "end": 73.087,
-    "zh": "尽可能快地逃跑了。",
-    "zh_hant": "儘可能快地逃跑了。"
+    "zh": "尽可能快地跑了。",
+    "zh_hant": "儘可能快地跑了。"
   },
   {
     "index": 21,
     "text": "George heard the noise",
     "start": 74.208,
     "end": 76.548,
-    "zh": "乔治听到了响声，",
-    "zh_hant": "喬治聽到了響聲，"
+    "zh": "乔治听到了动静，",
+    "zh_hant": "喬治聽到了動靜，"
   },
   {
     "index": 22,
     "text": "and came downstairs quickly.",
     "start": 76.389,
     "end": 79.37,
-    "zh": "迅速下了楼。",
-    "zh_hant": "迅速下了樓。"
+    "zh": "就迅速下了楼。",
+    "zh_hant": "就迅速下了樓。"
   },
   {
     "index": 23,
@@ -209,58 +209,58 @@
   },
   {
     "index": 26,
-    "text": "But George's parrot, Henry,",
+    "text": "But George's parrot,",
     "start": 89.938,
-    "end": 93.16,
-    "zh": "但乔治的鹦鹉亨利",
-    "zh_hant": "但喬治的鸚鵡亨利"
+    "end": 92.059,
+    "zh": "但乔治的鹦鹉",
+    "zh_hant": "但喬治的鸚鵡"
   },
   {
     "index": 27,
-    "text": "was still there.",
-    "start": 93.221,
+    "text": "Henry, was still there.",
+    "start": 92.28,
     "end": 94.921,
-    "zh": "还在那里。",
-    "zh_hant": "還在那裡。"
+    "zh": "亨利还在那里。",
+    "zh_hant": "亨利還在那裡。"
   },
   {
     "index": 28,
     "text": "What's up, George?",
     "start": 95.702,
     "end": 97.343,
-    "zh": "“怎么了，乔治？”",
-    "zh_hant": "“怎麼了，喬治？”"
+    "zh": "怎么了，乔治？",
+    "zh_hant": "怎麼了，喬治？"
   },
   {
     "index": 29,
     "text": "he called.",
     "start": 97.684,
     "end": 98.904,
-    "zh": "它喊道。",
-    "zh_hant": "它喊道。"
+    "zh": "他叫道。",
+    "zh_hant": "他叫道。"
   },
   {
     "index": 30,
-    "text": "'Nothing, Henry,'",
+    "text": "'Nothing, Henry,' George said",
     "start": 98.865,
-    "end": 101.907,
-    "zh": "“没什么，亨利，”",
-    "zh_hant": "“沒什麼，亨利，”"
+    "end": 102.827,
+    "zh": "'没什么，亨利，'乔治说",
+    "zh_hant": "'沒什麼，亨利，'喬治說"
   },
   {
     "index": 31,
-    "text": "George said and smiled.",
-    "start": 101.557,
+    "text": "and smiled.",
+    "start": 102.547,
     "end": 103.848,
-    "zh": "乔治说着，笑了。",
-    "zh_hant": "喬治說著，笑了。"
+    "zh": "并微笑了。",
+    "zh_hant": "並微笑了。"
   },
   {
     "index": 32,
     "text": "'Go back to sleep.'",
     "start": 104.089,
     "end": 106.59,
-    "zh": "“回去睡觉吧。”",
-    "zh_hant": "“回去睡覺吧。”"
+    "zh": "'回去睡觉吧。'",
+    "zh_hant": "'回去睡覺吧。'"
   }
 ]

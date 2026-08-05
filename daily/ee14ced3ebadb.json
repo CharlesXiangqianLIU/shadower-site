@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 43 Hurry up!",
+    "text": "Lesson 43.",
     "start": 1.53,
-    "end": 5.072,
-    "zh": "第43课 快点！",
-    "zh_hant": "第43課 快點！"
+    "end": 3.982,
+    "zh": "第43课。",
+    "zh_hant": "第43課。"
   },
   {
     "index": 1,
+    "text": "Hurry up!",
+    "start": 4.032,
+    "end": 5.072,
+    "zh": "快点！",
+    "zh_hant": "快點！"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.093,
     "end": 9.994,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "How do you know Sam doesn't make the tea very often?",
     "start": 12.116,
     "end": 15.877,
@@ -24,15 +32,15 @@
     "zh_hant": "你怎麼知道薩姆不常泡茶？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Can you make the tea, Sam?",
     "start": 18.219,
     "end": 20.44,
-    "zh": "萨姆，你会泡茶吗？",
-    "zh_hant": "薩姆，你會泡茶嗎？"
+    "zh": "萨姆，你能泡茶吗？",
+    "zh_hant": "薩姆，你能泡茶嗎？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Yes, of course I can, Penny.",
     "start": 21.12,
     "end": 23.801,
@@ -40,7 +48,7 @@
     "zh_hant": "是的，我當然會，彭妮。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Is there any water in this kettle?",
     "start": 25.922,
     "end": 28.524,
@@ -48,15 +56,15 @@
     "zh_hant": "這個水壺裡有水嗎？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "Yes, there is.",
     "start": 29.144,
     "end": 30.565,
-    "zh": "有，有水。",
-    "zh_hant": "有，有水。"
+    "zh": "有的，有。",
+    "zh_hant": "有的，有。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Where's the tea?",
     "start": 31.805,
     "end": 33.386,
@@ -64,15 +72,15 @@
     "zh_hant": "茶葉在哪兒？"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "It's over there, behind the teapot.",
     "start": 34.527,
     "end": 37.868,
-    "zh": "就在那边，茶壶后面。",
-    "zh_hant": "就在那邊，茶壺後面。"
+    "zh": "在那边，茶壶后面。",
+    "zh_hant": "在那邊，茶壺後面。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "Can you see it?",
     "start": 38.209,
     "end": 39.549,
@@ -80,7 +88,7 @@
     "zh_hant": "你能看見嗎？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "I can see the teapot, but I",
     "start": 40.69,
     "end": 44.152,
@@ -88,7 +96,7 @@
     "zh_hant": "我能看見茶壺，但我"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "can't see the tea.",
     "start": 43.802,
     "end": 45.393,
@@ -96,7 +104,7 @@
     "zh_hant": "看不見茶葉。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "There it is!",
     "start": 46.214,
     "end": 47.734,
@@ -104,7 +112,7 @@
     "zh_hant": "在那兒！"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "It's in front of you!",
     "start": 48.255,
     "end": 49.956,
@@ -112,15 +120,15 @@
     "zh_hant": "就在你面前！"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Ah yes, I can see it now.",
     "start": 50.697,
     "end": 54.399,
-    "zh": "啊，是的，我现在能看见了。",
-    "zh_hant": "啊，是的，我現在能看見了。"
+    "zh": "啊，是的，我现在看见了。",
+    "zh_hant": "啊，是的，我現在看見了。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Where are the cups?",
     "start": 56.18,
     "end": 58.281,
@@ -128,7 +136,7 @@
     "zh_hant": "杯子在哪兒？"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "There are some in the cupboard.",
     "start": 59.302,
     "end": 61.743,
@@ -136,7 +144,7 @@
     "zh_hant": "櫥櫃裡有一些。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "Can you find them?",
     "start": 63.165,
     "end": 64.585,
@@ -144,7 +152,7 @@
     "zh_hant": "你能找到它們嗎？"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Yes.",
     "start": 65.666,
     "end": 66.426,
@@ -152,7 +160,7 @@
     "zh_hant": "能。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "Here they are.",
     "start": 66.587,
     "end": 67.887,
@@ -160,7 +168,7 @@
     "zh_hant": "它們在這兒。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "Hurry up, Sam!",
     "start": 68.368,
     "end": 69.828,
@@ -168,11 +176,11 @@
     "zh_hant": "快點，薩姆！"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "The kettle's boiling!",
     "start": 70.309,
     "end": 72.25,
-    "zh": "水壶开了！",
-    "zh_hant": "水壺開了！"
+    "zh": "水壶烧开了！",
+    "zh_hant": "水壺燒開了！"
   }
 ]

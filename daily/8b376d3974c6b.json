@@ -1,54 +1,62 @@
 [
   {
     "index": 0,
-    "text": "Lesson 17 A man-made disease",
+    "text": "Lesson 17.",
     "start": 7.513,
-    "end": 10.675,
-    "zh": "第17课 人为造成的疾病",
-    "zh_hant": "第17課 人為造成的疾病"
+    "end": 5.33,
+    "zh": "第17课。",
+    "zh_hant": "第17課。"
   },
   {
     "index": 1,
-    "text": "What factor helped to spread the disease of myxomatosis?",
-    "start": 12.856,
-    "end": 17.378,
-    "zh": "什么因素助长了多发性黏液瘤病的传播？",
-    "zh_hant": "什麼因素助長了多發性黏液瘤病的傳播？"
+    "text": "A man-made disease.",
+    "start": 8.414,
+    "end": 10.675,
+    "zh": "一种人造疾病。",
+    "zh_hant": "一種人造疾病。"
   },
   {
     "index": 2,
-    "text": "In the early days of the settlement of Australia,",
-    "start": 19.779,
-    "end": 22.641,
-    "zh": "在澳大利亚殖民初期，",
-    "zh_hant": "在澳大利亞殖民初期，"
+    "text": "What factor helped to spread the disease of myxomatosis?",
+    "start": 12.856,
+    "end": 17.378,
+    "zh": "什么因素助长了粘液瘤病的传播？",
+    "zh_hant": "什麼因素助長了粘液瘤病的傳播？"
   },
   {
     "index": 3,
-    "text": "enterprising settlers unwisely introduced the European rabbit.",
-    "start": 22.981,
-    "end": 27.583,
-    "zh": "有进取心的定居者不明智地引入了欧洲兔。",
-    "zh_hant": "有進取心的定居者不明智地引入了歐洲兔。"
+    "text": "In the early days of the settlement of Australia,",
+    "start": 19.779,
+    "end": 22.641,
+    "zh": "在澳大利亚定居的早期，",
+    "zh_hant": "在澳大利亞定居的早期，"
   },
   {
     "index": 4,
-    "text": "This rabbit had no natural enemies in the Antipodes,",
-    "start": 28.284,
-    "end": 32.325,
-    "zh": "这种兔子在澳大利亚和新西兰没有天敌，",
-    "zh_hant": "這種兔子在澳大利亞和紐西蘭沒有天敵，"
+    "text": "enterprising settlers unwisely introduced the European rabbit.",
+    "start": 22.981,
+    "end": 27.583,
+    "zh": "有进取心的定居者不明智地引进了欧洲兔。",
+    "zh_hant": "有進取心的定居者不明智地引進了歐洲兔。"
   },
   {
     "index": 5,
-    "text": "so that it multiplied with that promiscuous abandon characteristic of rabbits.",
-    "start": 32.766,
-    "end": 38.528,
-    "zh": "因此它以兔子特有的那种随意放任的方式大量繁殖。",
-    "zh_hant": "因此它以兔子特有的那種隨意放任的方式大量繁殖。"
+    "text": "This rabbit had no natural enemies in the Antipodes,",
+    "start": 28.284,
+    "end": 32.325,
+    "zh": "这种兔子在澳大拉西亚没有天敌，",
+    "zh_hant": "這種兔子在澳大拉西亞沒有天敵，"
   },
   {
     "index": 6,
+    "text": "so that it multiplied with that promiscuous abandon characteristic of rabbits.",
+    "start": 32.766,
+    "end": 38.528,
+    "zh": "因此它以兔子特有的那种随意放纵的方式大量繁殖。",
+    "zh_hant": "因此它以兔子特有的那種隨意放縱的方式大量繁殖。"
+  },
+  {
+    "index": 7,
     "text": "It overran a whole continent.",
     "start": 39.329,
     "end": 41.43,
@@ -56,31 +64,31 @@
     "zh_hant": "它遍佈了整個大陸。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "It caused devastation by burrowing and by devouring",
     "start": 41.751,
     "end": 46.273,
-    "zh": "它通过打洞和啃食",
-    "zh_hant": "它透過打洞和啃食"
-  },
-  {
-    "index": 8,
-    "text": "the herbage which might have maintained millions of sheep and cattle.",
-    "start": 45.923,
-    "end": 50.014,
-    "zh": "原本可能养活数百万只羊和牛的牧草，造成了破坏。",
-    "zh_hant": "原本可能養活數百萬只羊和牛的牧草，造成了破壞。"
+    "zh": "它通过挖洞和啃食造成了破坏，",
+    "zh_hant": "它透過挖洞和啃食造成了破壞，"
   },
   {
     "index": 9,
-    "text": "Scientists discovered that this particular variety of rabbit",
-    "start": 50.815,
-    "end": 54.617,
-    "zh": "科学家发现，这种特定的兔子品种",
-    "zh_hant": "科學家發現，這種特定的兔子品種"
+    "text": "the herbage which might have maintained millions of sheep and cattle.",
+    "start": 45.923,
+    "end": 50.014,
+    "zh": "啃食了本可以供养数百万只羊和牛的牧草。",
+    "zh_hant": "啃食了本可以供養數百萬只羊和牛的牧草。"
   },
   {
     "index": 10,
+    "text": "Scientists discovered that this particular variety of rabbit",
+    "start": 50.815,
+    "end": 54.617,
+    "zh": "科学家发现这种特殊品种的兔子",
+    "zh_hant": "科學家發現這種特殊品種的兔子"
+  },
+  {
+    "index": 11,
     "text": "(and apparently no other animal)",
     "start": 54.837,
     "end": 57.318,
@@ -88,15 +96,15 @@
     "zh_hant": "（顯然沒有其他動物）"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "was susceptible to a fatal virus disease, myxomatosis.",
     "start": 57.398,
     "end": 62.36,
-    "zh": "易感染一种致命的病毒性疾病——多发性黏液瘤病。",
-    "zh_hant": "易感染一種致命的病毒性疾病——多發性黏液瘤病。"
+    "zh": "容易感染一种致命的病毒性疾病——粘液瘤病。",
+    "zh_hant": "容易感染一種致命的病毒性疾病——粘液瘤病。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "By infecting animals and letting them loose in the burrows,",
     "start": 63.161,
     "end": 66.943,
@@ -104,171 +112,171 @@
     "zh_hant": "透過感染動物並將它們放回洞穴中，"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "local epidemics of this disease could be created.",
     "start": 67.023,
     "end": 70.284,
-    "zh": "就能引发这种疾病的局部流行。",
-    "zh_hant": "就能引發這種疾病的區域性流行。"
-  },
-  {
-    "index": 14,
-    "text": "Later it was found that there was a type of mosquito which acted as the carrier",
-    "start": 71.165,
-    "end": 76.467,
-    "zh": "后来发现，有一种蚊子作为这种疾病的传播媒介，",
-    "zh_hant": "後來發現，有一種蚊子作為這種疾病的傳播媒介，"
+    "zh": "可以在当地引发这种疾病的流行。",
+    "zh_hant": "可以在當地引發這種疾病的流行。"
   },
   {
     "index": 15,
-    "text": "of this disease and passed it on to the rabbits.",
-    "start": 76.117,
-    "end": 79.709,
-    "zh": "并将其传给兔子。",
-    "zh_hant": "並將其傳給兔子。"
+    "text": "Later it was found that there was a type of mosquito",
+    "start": 71.165,
+    "end": 74.606,
+    "zh": "后来发现有一种蚊子",
+    "zh_hant": "後來發現有一種蚊子"
   },
   {
     "index": 16,
-    "text": "So while the rest of the world was trying to get rid of mosquitoes,",
-    "start": 80.249,
-    "end": 83.891,
-    "zh": "所以当世界其他地方都在努力消灭蚊子时，",
-    "zh_hant": "所以當世界其他地方都在努力消滅蚊子時，"
+    "text": "which acted as the carrier of this disease and passed it on to the rabbits.",
+    "start": 74.547,
+    "end": 79.709,
+    "zh": "充当这种疾病的载体，并将其传播给兔子。",
+    "zh_hant": "充當這種疾病的載體，並將其傳播給兔子。"
   },
   {
     "index": 17,
-    "text": "Australia was encouraging this one.",
-    "start": 83.972,
-    "end": 86.993,
-    "zh": "澳大利亚却在鼓励这种蚊子。",
-    "zh_hant": "澳大利亞卻在鼓勵這種蚊子。"
+    "text": "So while the rest of the world was trying to get rid of mosquitoes,",
+    "start": 80.249,
+    "end": 83.891,
+    "zh": "因此，当世界其他地方试图消灭蚊子时，",
+    "zh_hant": "因此，當世界其他地方試圖消滅蚊子時，"
   },
   {
     "index": 18,
-    "text": "It effectively spread the disease all over the continent and drastically reduced the rabit population.",
-    "start": 87.774,
-    "end": 94.156,
-    "zh": "它有效地将疾病传播到了整个大陆，并大幅减少了兔子数量。",
-    "zh_hant": "它有效地將疾病傳播到了整個大陸，並大幅減少了兔子數量。"
+    "text": "Australia was encouraging this one.",
+    "start": 83.972,
+    "end": 86.993,
+    "zh": "澳大利亚却在鼓励这种蚊子繁殖。",
+    "zh_hant": "澳大利亞卻在鼓勵這種蚊子繁殖。"
   },
   {
     "index": 19,
-    "text": "It later became apparent that rabbits were developing a degree of resistance to this disease,",
-    "start": 94.977,
-    "end": 100.96,
-    "zh": "后来很明显，兔子对这种疾病产生了一定程度的抵抗力，",
-    "zh_hant": "後來很明顯，兔子對這種疾病產生了一定程度的抵抗力，"
+    "text": "It effectively spread the disease all over the continent and drastically reduced the rabit population.",
+    "start": 87.774,
+    "end": 94.156,
+    "zh": "它有效地将疾病传播到整个大陆，并大幅减少了兔子数量。",
+    "zh_hant": "它有效地將疾病傳播到整個大陸，並大幅減少了兔子數量。"
   },
   {
     "index": 20,
-    "text": "so that the rabbit population was unlikely to be completely exterminated.",
-    "start": 101.22,
-    "end": 106.162,
-    "zh": "因此兔子种群不太可能被完全消灭。",
-    "zh_hant": "因此兔子種群不太可能被完全消滅。"
+    "text": "It later became apparent that rabbits were developing a degree of resistance to this disease,",
+    "start": 94.977,
+    "end": 100.96,
+    "zh": "后来明显看出，兔子正在对这种疾病产生一定的抵抗力，",
+    "zh_hant": "後來明顯看出，兔子正在對這種疾病產生一定的抵抗力，"
   },
   {
     "index": 21,
-    "text": "There were hopes, however, that the problem of the rabbit would become manageable.",
-    "start": 106.883,
-    "end": 111.945,
-    "zh": "不过，人们曾希望兔子问题会变得可控。",
-    "zh_hant": "不過，人們曾希望兔子問題會變得可控。"
+    "text": "so that the rabbit population was unlikely to be completely exterminated.",
+    "start": 101.22,
+    "end": 106.162,
+    "zh": "因此兔子种群不太可能被完全灭绝。",
+    "zh_hant": "因此兔子種群不太可能被完全滅絕。"
   },
   {
     "index": 22,
-    "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia,",
-    "start": 113.166,
-    "end": 118.188,
-    "zh": "讽刺的是，将兔子作为害兽传给澳大利亚的欧洲，",
-    "zh_hant": "諷刺的是，將兔子作為害獸傳給澳大利亞的歐洲，"
+    "text": "There were hopes, however, that the problem of the rabbit would become manageable.",
+    "start": 106.883,
+    "end": 111.945,
+    "zh": "然而，有希望表明兔子问题会变得可控。",
+    "zh_hant": "然而，有希望表明兔子問題會變得可控。"
   },
   {
     "index": 23,
-    "text": "acquired this man-made disease as a pestilence.",
-    "start": 118.389,
-    "end": 122.071,
-    "zh": "却将这种人为造成的疾病当作瘟疫而遭受了祸害。",
-    "zh_hant": "卻將這種人為造成的疾病當作瘟疫而遭受了禍害。"
+    "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia,",
+    "start": 113.166,
+    "end": 118.188,
+    "zh": "具有讽刺意味的是，欧洲曾把兔子作为害虫赠予澳大利亚，",
+    "zh_hant": "具有諷刺意味的是，歐洲曾把兔子作為害蟲贈予澳大利亞，"
   },
   {
     "index": 24,
-    "text": "A French physician decided to get rid of the wild rabbits on his own estate and introduced",
-    "start": 122.631,
-    "end": 128.314,
-    "zh": "一位法国内科医生决定清除自己庄园里的野兔，于是引入了",
-    "zh_hant": "一位法國內科醫生決定清除自己莊園裡的野兔，於是引入了"
+    "text": "acquired this man-made disease as a pestilence.",
+    "start": 118.389,
+    "end": 122.071,
+    "zh": "却将这种人造疾病作为瘟疫获得了。",
+    "zh_hant": "卻將這種人造疾病作為瘟疫獲得了。"
   },
   {
     "index": 25,
-    "text": "myxomatosis.",
-    "start": 128.334,
-    "end": 129.674,
-    "zh": "多发性黏液瘤病。",
-    "zh_hant": "多發性黏液瘤病。"
+    "text": "A French physician decided to get rid of the wild rabbits on his own estate and introduced",
+    "start": 122.631,
+    "end": 128.314,
+    "zh": "一位法国医生决定清除自己庄园里的野兔，并引入了",
+    "zh_hant": "一位法國醫生決定清除自己莊園裡的野兔，並引入了"
   },
   {
     "index": 26,
-    "text": "It did not, however, remain within the confines of this estate.",
-    "start": 130.175,
-    "end": 134.217,
-    "zh": "然而，这种病并没有局限于这个庄园的范围内。",
-    "zh_hant": "然而，這種病並沒有侷限於這個莊園的範圍內。"
+    "text": "myxomatosis.",
+    "start": 128.334,
+    "end": 129.674,
+    "zh": "粘液瘤病。",
+    "zh_hant": "粘液瘤病。"
   },
   {
     "index": 27,
-    "text": "It spread through France,",
-    "start": 134.677,
-    "end": 136.558,
-    "zh": "它蔓延到了整个法国，",
-    "zh_hant": "它蔓延到了整個法國，"
+    "text": "It did not, however, remain within the confines of this estate.",
+    "start": 130.175,
+    "end": 134.217,
+    "zh": "然而，它并未局限于这个庄园的范围内。",
+    "zh_hant": "然而，它並未侷限於這個莊園的範圍內。"
   },
   {
     "index": 28,
-    "text": "where wild rabbits are not generally regarded as a pest",
-    "start": 136.558,
-    "end": 140.74,
-    "zh": "在那里，野兔通常不被视为害兽，",
-    "zh_hant": "在那裡，野兔通常不被視為害獸，"
+    "text": "It spread through France,",
+    "start": 134.677,
+    "end": 136.558,
+    "zh": "它传播到了整个法国，",
+    "zh_hant": "它傳播到了整個法國，"
   },
   {
     "index": 29,
-    "text": "but as a sport and a useful food supply,",
-    "start": 140.64,
-    "end": 143.781,
-    "zh": "而被视为一种狩猎活动对象和有用的食物来源，",
-    "zh_hant": "而被視為一種狩獵活動物件和有用的食物來源，"
+    "text": "where wild rabbits are not generally regarded as a pest",
+    "start": 136.558,
+    "end": 140.74,
+    "zh": "在那里野兔通常不被视为害虫，",
+    "zh_hant": "在那裡野兔通常不被視為害蟲，"
   },
   {
     "index": 30,
-    "text": "and it spread to Britain where wild rabbits are regarded as a pest",
-    "start": 143.922,
-    "end": 148.544,
-    "zh": "并且它传到了英国，在那里野兔被视为害兽，",
-    "zh_hant": "並且它傳到了英國，在那裡野兔被視為害獸，"
+    "text": "but as a sport and a useful food supply,",
+    "start": 140.64,
+    "end": 143.781,
+    "zh": "而是被视为一种娱乐活动和有用的食物来源，",
+    "zh_hant": "而是被視為一種娛樂活動和有用的食物來源，"
   },
   {
     "index": 31,
-    "text": "but where domesticated rabbits,",
-    "start": 148.384,
-    "end": 150.745,
-    "zh": "但家兔——",
-    "zh_hant": "但家兔——"
+    "text": "and it spread to Britain where wild rabbits are regarded as a pest",
+    "start": 143.922,
+    "end": 148.544,
+    "zh": "并且它传播到了英国，在那里野兔被视为害虫，",
+    "zh_hant": "並且它傳播到了英國，在那裡野兔被視為害蟲，"
   },
   {
     "index": 32,
-    "text": "equally susceptible to the disease, are the basis of a profitable fur industry.",
-    "start": 150.885,
-    "end": 156.067,
-    "zh": "对疾病同样易感——却是利润丰厚的毛皮产业的基础。",
-    "zh_hant": "對疾病同樣易感——卻是利潤豐厚的毛皮產業的基礎。"
+    "text": "but where domesticated rabbits,",
+    "start": 148.384,
+    "end": 150.745,
+    "zh": "但在那里家兔，",
+    "zh_hant": "但在那裡家兔，"
   },
   {
     "index": 33,
+    "text": "equally susceptible to the disease, are the basis of a profitable fur industry.",
+    "start": 150.885,
+    "end": 156.067,
+    "zh": "同样易感染这种疾病，是盈利性毛皮产业的基础。",
+    "zh_hant": "同樣易感染這種疾病，是盈利性毛皮產業的基礎。"
+  },
+  {
+    "index": 34,
     "text": "The question became one of whether Man could control the disease he had invented.",
     "start": 156.848,
     "end": 162.328,
-    "zh": "问题变成了人类能否控制自己发明的这种疾病。",
-    "zh_hant": "問題變成了人類能否控制自己發明的這種疾病。"
+    "zh": "问题变成了人类能否控制自己所发明的这种疾病。",
+    "zh_hant": "問題變成了人類能否控制自己所發明的這種疾病。"
   }
 ]

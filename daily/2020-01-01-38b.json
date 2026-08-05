@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 75 Uncomfortable",
+    "text": "Lesson 75.",
     "start": 0.951,
-    "end": 5.353,
-    "zh": "第75课 不舒服的",
-    "zh_hant": "第75課 不舒服的"
+    "end": 3.642,
+    "zh": "第75课。",
+    "zh_hant": "第75課。"
   },
   {
     "index": 1,
-    "text": "shoes",
-    "start": 5.033,
+    "text": "Uncomfortable shoes.",
+    "start": 3.692,
     "end": 6.033,
-    "zh": "鞋",
-    "zh_hant": "鞋"
+    "zh": "不舒服的鞋子。",
+    "zh_hant": "不舒服的鞋子。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "What's wrong with the fashionable shoes?",
     "start": 12.416,
     "end": 16.058,
-    "zh": "时髦的鞋子有什么问题？",
-    "zh_hant": "時髦的鞋子有什麼問題？"
+    "zh": "这双时髦的鞋子怎么了？",
+    "zh_hant": "這雙時髦的鞋子怎麼了？"
   },
   {
     "index": 5,
@@ -60,8 +60,8 @@
     "text": "five.",
     "start": 23.642,
     "end": 25.563,
-    "zh": "五号。",
-    "zh_hant": "五號。"
+    "zh": "五。",
+    "zh_hant": "五。"
   },
   {
     "index": 8,
@@ -116,24 +116,24 @@
     "text": "No, she bought them in the U. S.",
     "start": 39.99,
     "end": 43.752,
-    "zh": "不是，她是在美国买的。",
-    "zh_hant": "不是，她是在美國買的。"
+    "zh": "不，她是在美国买的。",
+    "zh_hant": "不，她是在美國買的。"
   },
   {
     "index": 15,
     "text": "We had some shoes like those a month ago,",
     "start": 44.293,
     "end": 48.274,
-    "zh": "一个月前我们有过这样的鞋子，",
-    "zh_hant": "一個月前我們有過這樣的鞋子，"
+    "zh": "一个月前我们有像那样的鞋子，",
+    "zh_hant": "一個月前我們有像那樣的鞋子，"
   },
   {
     "index": 16,
     "text": "but we don't have any now.",
     "start": 48.595,
     "end": 51.536,
-    "zh": "但我们现在没有了。",
-    "zh_hant": "但我們現在沒有了。"
+    "zh": "但现在没有了。",
+    "zh_hant": "但現在沒有了。"
   },
   {
     "index": 17,
@@ -156,55 +156,55 @@
     "text": "They were in fashion last year",
     "start": 58.52,
     "end": 61.401,
-    "zh": "那些鞋去年很流行，",
-    "zh_hant": "那些鞋去年很流行，"
+    "zh": "去年它们很流行，",
+    "zh_hant": "去年它們很流行，"
   },
   {
     "index": 20,
     "text": "and the year before last.",
     "start": 61.541,
     "end": 64.002,
-    "zh": "前年也很流行。",
-    "zh_hant": "前年也很流行。"
+    "zh": "前年也是。",
+    "zh_hant": "前年也是。"
   },
   {
     "index": 21,
     "text": "But they're not in fashion this year.",
     "start": 64.102,
     "end": 67.784,
-    "zh": "但今年不流行了。",
-    "zh_hant": "但今年不流行了。"
+    "zh": "但今年它们不流行了。",
+    "zh_hant": "但今年它們不流行了。"
   },
   {
     "index": 22,
     "text": "These shoes are in fashion now.",
     "start": 69.065,
     "end": 72.106,
-    "zh": "这些鞋子现在很流行。",
-    "zh_hant": "這些鞋子現在很流行。"
+    "zh": "现在流行的是这些鞋子。",
+    "zh_hant": "現在流行的是這些鞋子。"
   },
   {
     "index": 23,
     "text": "They look very uncomfortable.",
     "start": 73.027,
     "end": 76.288,
-    "zh": "它们看起来很舒服。",
-    "zh_hant": "它們看起來很舒服。"
+    "zh": "它们看起来很不舒服。",
+    "zh_hant": "它們看起來很不舒服。"
   },
   {
     "index": 24,
     "text": "They are very uncomfortable.",
     "start": 76.408,
     "end": 79.389,
-    "zh": "它们很不舒服。",
-    "zh_hant": "它們很不舒服。"
+    "zh": "它们确实很不舒服。",
+    "zh_hant": "它們確實很不舒服。"
   },
   {
     "index": 25,
     "text": "But women always wear uncomfortable shoes!",
     "start": 79.41,
     "end": 83.869,
-    "zh": "但女人们总是穿不舒服的鞋子！",
-    "zh_hant": "但女人們總是穿不舒服的鞋子！"
+    "zh": "但女人总是穿不舒服的鞋子！",
+    "zh_hant": "但女人總是穿不舒服的鞋子！"
   }
 ]

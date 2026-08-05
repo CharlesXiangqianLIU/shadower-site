@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 26 The past life",
+    "text": "Lesson 26.",
     "start": 1.49,
-    "end": 5.192,
-    "zh": "第26课 地球的过去",
-    "zh_hant": "第26課 地球的過去"
+    "end": 3.602,
+    "zh": "第26课。",
+    "zh_hant": "第26課。"
   },
   {
     "index": 1,
-    "text": "of the earth",
-    "start": 4.842,
+    "text": "The past life of the earth.",
+    "start": 3.652,
     "end": 8.534,
-    "zh": "生命",
-    "zh_hant": "生命"
+    "zh": "地球的过去。",
+    "zh_hant": "地球的過去。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "It is animals and plants which lived in or near water",
     "start": 19.799,
     "end": 23.841,
-    "zh": "生活在水中或水边的动植物",
-    "zh_hant": "生活在水中或水邊的動植物"
+    "zh": "是那些生活在水中或水附近的动植物",
+    "zh_hant": "是那些生活在水中或水附近的動植物"
   },
   {
     "index": 4,
@@ -52,67 +52,59 @@
     "text": "and it is only in the seas and rivers, and sometimes lakes,",
     "start": 31.945,
     "end": 36.127,
-    "zh": "而只有在海洋、河流，有时还有湖泊中，",
-    "zh_hant": "而只有在海洋、河流，有時還有湖泊中，"
+    "zh": "而且只有在海洋、河流，有时还有湖泊中，",
+    "zh_hant": "而且只有在海洋、河流，有時還有湖泊中，"
   },
   {
     "index": 7,
     "text": "where mud and silt have been continuously deposited,",
     "start": 36.147,
     "end": 39.549,
-    "zh": "泥沙持续沉积的地方，",
-    "zh_hant": "泥沙持續沉積的地方，"
+    "zh": "那里持续沉积着泥浆和淤泥，",
+    "zh_hant": "那裡持續沉積著泥漿和淤泥，"
   },
   {
     "index": 8,
     "text": "that bodies and the like can be rapidly covered over and preserved.",
     "start": 39.649,
     "end": 44.352,
-    "zh": "尸体之类的东西才能被迅速覆盖并保存下来。",
-    "zh_hant": "屍體之類的東西才能被迅速覆蓋並儲存下來。"
+    "zh": "尸体之类的东西才能迅速被覆盖并保存下来。",
+    "zh_hant": "屍體之類的東西才能迅速被覆蓋並儲存下來。"
   },
   {
     "index": 9,
     "text": "But even in the most favourable circumstances",
     "start": 45.373,
     "end": 48.314,
-    "zh": "但即使在最有利的环境下，",
-    "zh_hant": "但即使在最有利的環境下，"
+    "zh": "但即使在最有利的情况下",
+    "zh_hant": "但即使在最有利的情況下"
   },
   {
     "index": 10,
     "text": "only a small fraction of the creatures that die are preserved in this way",
     "start": 48.274,
     "end": 53.036,
-    "zh": "只有一小部分死亡的生物能以这种方式保存下来，",
-    "zh_hant": "只有一小部分死亡的生物能以這種方式儲存下來，"
+    "zh": "只有一小部分死亡的生物能以这种方式被保存下来",
+    "zh_hant": "只有一小部分死亡的生物能以這種方式被儲存下來"
   },
   {
     "index": 11,
-    "text": "before decay sets in or, even more likely,",
+    "text": "before decay sets in or, even more likely, before scavengers eat them.",
     "start": 52.876,
-    "end": 56.498,
-    "zh": "在腐烂开始之前，或者更可能的是，",
-    "zh_hant": "在腐爛開始之前，或者更可能的是，"
+    "end": 58.419,
+    "zh": "在腐烂开始之前，或者更可能的是，在被食腐动物吃掉之前。",
+    "zh_hant": "在腐爛開始之前，或者更可能的是，在被食腐動物吃掉之前。"
   },
   {
     "index": 12,
-    "text": "before scavengers eat them.",
-    "start": 56.418,
-    "end": 58.419,
-    "zh": "在被食腐动物吃掉之前。",
-    "zh_hant": "在被食腐動物吃掉之前。"
-  },
-  {
-    "index": 13,
     "text": "After all, all living creatures live by feeding on something else,",
     "start": 59.079,
     "end": 64.001,
-    "zh": "毕竟，所有生物都以吃其他东西为生，",
-    "zh_hant": "畢竟，所有生物都以吃其他東西為生，"
+    "zh": "毕竟，所有生物都以捕食其他东西为生，",
+    "zh_hant": "畢竟，所有生物都以捕食其他東西為生，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "whether it be plant or animal, dead or alive,",
     "start": 64.242,
     "end": 67.903,
@@ -120,23 +112,23 @@
     "zh_hant": "無論是植物還是動物，死的還是活的，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "and it is only by chance that such a fate is avoided.",
     "start": 68.084,
     "end": 72.005,
-    "zh": "而只有偶然才能避免这样的命运。",
-    "zh_hant": "而只有偶然才能避免這樣的命運。"
+    "zh": "而且只有偶然才能避免这种命运。",
+    "zh_hant": "而且只有偶然才能避免這種命運。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "The remains of plants and animals that lived on land are much more rarely preserved,",
     "start": 72.926,
     "end": 78.208,
-    "zh": "生活在陆地上的动植物遗骸被保存下来的情况要稀少得多，",
-    "zh_hant": "生活在陸地上的動植物遺骸被儲存下來的情況要稀少得多，"
+    "zh": "生活在陆地上的动植物遗骸被保存下来的情况要少得多，",
+    "zh_hant": "生活在陸地上的動植物遺骸被儲存下來的情況要少得多，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "for there is seldom anything to cover them over.",
     "start": 78.609,
     "end": 80.99,
@@ -144,44 +136,52 @@
     "zh_hant": "因為很少有東西能覆蓋它們。"
   },
   {
-    "index": 18,
-    "text": "When you think of the innumerable birds that one sees flying about, not to mention",
+    "index": 17,
+    "text": "When you think of the innumerable birds that one sees flying about, not to mention the equally",
     "start": 82.391,
-    "end": 87.874,
-    "zh": "当你想到随处可见的无数鸟类，更别提",
-    "zh_hant": "當你想到隨處可見的無數鳥類，更別提"
+    "end": 88.674,
+    "zh": "当你想到看到的无数鸟类在空中飞翔，更不用说同样",
+    "zh_hant": "當你想到看到的無數鳥類在空中飛翔，更不用說同樣"
+  },
+  {
+    "index": 18,
+    "text": "numerous",
+    "start": 88.324,
+    "end": 89.174,
+    "zh": "众多的",
+    "zh_hant": "眾多的"
   },
   {
     "index": 19,
-    "text": "the equally numerous small animals like field mice and voles which you do not see,",
-    "start": 87.524,
+    "text": "small animals like field mice and voles which you do not see,",
+    "start": 88.824,
     "end": 93.436,
-    "zh": "同样数量众多、你看不到的小动物，如田鼠和野鼠时，",
-    "zh_hant": "同樣數量眾多、你看不到的小動物，如田鼠和野鼠時，"
+    "zh": "像田鼠和鼩鼱这样你看不到的小动物时，",
+    "zh_hant": "像田鼠和鼩鼱這樣你看不到的小動物時，"
   },
   {
     "index": 20,
     "text": "it is very rarely that one comes across a dead body, except, of course, on the roads.",
     "start": 93.957,
     "end": 100.3,
-    "zh": "你很少会碰到一具尸体，当然，除了在路上。",
-    "zh_hant": "你很少會碰到一具屍體，當然，除了在路上。"
+    "zh": "很少会遇到一具尸体，当然除了在路上。",
+    "zh_hant": "很少會遇到一具屍體，當然除了在路上。"
   },
   {
     "index": 21,
     "text": "They decompose and are quickly destroyed by the weather or eaten by some other creature.",
     "start": 101.02,
     "end": 107.403,
-    "zh": "它们会分解，并很快被天气破坏或被其他生物吃掉。",
-    "zh_hant": "它們會分解，並很快被天氣破壞或被其他生物吃掉。"
+    "zh": "它们会分解，很快被天气破坏，或被其他生物吃掉。",
+    "zh_hant": "它們會分解，很快被天氣破壞，或被其他生物吃掉。"
   },
   {
     "index": 22,
     "text": "It is almost always due to some very special circumstances",
     "start": 108.544,
     "end": 112.566,
-    "zh": "几乎总是由于某些非常特殊的环境，",
-    "zh_hant": "幾乎總是由於某些非常特殊的環境，"
+    "zh": "几乎总是由于某些非常特殊的情况",
+    "zh_hant": "幾乎總是由於某些非常特殊的情況"
   },
   {
     "index": 23,
@@ -196,8 +196,8 @@
     "text": "as by falling into inaccessible caves,",
     "start": 115.467,
     "end": 118.789,
-    "zh": "比如掉进无法进入的洞穴，",
-    "zh_hant": "比如掉進無法進入的洞穴，"
+    "zh": "如掉进无法进入的洞穴，",
+    "zh_hant": "如掉進無法進入的洞穴，"
   },
   {
     "index": 25,
@@ -212,96 +212,96 @@
     "text": "when the whole animal is sometimes preserved, as in a refrigerator.",
     "start": 123.832,
     "end": 128.854,
-    "zh": "有时整只动物都被保存下来，就像在冰箱里一样。",
-    "zh_hant": "有時整隻動物都被儲存下來，就像在冰箱裡一樣。"
+    "zh": "有时整个动物被保存下来，就像在冰箱里一样。",
+    "zh_hant": "有時整個動物被儲存下來，就像在冰箱裡一樣。"
   },
   {
     "index": 27,
     "text": "This is what happened to the famous Beresovka mammoth",
     "start": 129.635,
     "end": 133.417,
-    "zh": "著名的别廖佐夫卡猛犸象就遭遇了这种情况，",
-    "zh_hant": "著名的別廖佐夫卡猛獁象就遭遇了這種情況，"
+    "zh": "这就是著名的别廖佐夫卡猛犸象的经历",
+    "zh_hant": "這就是著名的別廖佐夫卡猛獁象的經歷"
   },
   {
     "index": 28,
     "text": "which was found preserved and in good condition.",
     "start": 133.437,
     "end": 136.398,
-    "zh": "它被发现时保存完好，状态良好。",
-    "zh_hant": "它被發現時儲存完好，狀態良好。"
+    "zh": "它被发现时被保存下来，状态良好。",
+    "zh_hant": "它被發現時被儲存下來，狀態良好。"
   },
   {
     "index": 29,
-    "text": "In his mouth were the remains of fir trees--the last meal",
+    "text": "In his mouth were the remains of fir trees--the",
     "start": 137.239,
-    "end": 141.601,
-    "zh": "它嘴里有冷杉树的残迹——那是它最后的晚餐，",
-    "zh_hant": "它嘴裡有冷杉樹的殘跡——那是它最後的晚餐，"
+    "end": 140.94,
+    "zh": "它的嘴里有冷杉树的遗骸——这是",
+    "zh_hant": "它的嘴裡有冷杉樹的遺骸——這是"
   },
   {
     "index": 30,
-    "text": "that he had before he fell into the crevasse and broke his back.",
-    "start": 141.251,
+    "text": "last meal that he had before he fell into the crevasse and broke his back.",
+    "start": 140.59,
     "end": 145.322,
-    "zh": "在它掉进裂缝摔断背之前吃的那一顿。",
-    "zh_hant": "在它掉進裂縫摔斷背之前吃的那一頓。"
+    "zh": "它掉进冰裂缝折断脊背前的最后一餐。",
+    "zh_hant": "它掉進冰裂縫折斷脊背前的最後一餐。"
   },
   {
     "index": 31,
     "text": "The mammoth has now been restored in the Palaeontological Museum in St.Petersburg.",
     "start": 145.763,
     "end": 151.605,
-    "zh": "这头猛犸象现在已在圣彼得堡的古生物博物馆中复原展出。",
-    "zh_hant": "這頭猛獁象現在已在聖彼得堡的古生物博物館中復原展出。"
+    "zh": "这头猛犸象现在已在圣彼得堡的古生物博物馆中复原。",
+    "zh_hant": "這頭猛獁象現在已在聖彼得堡的古生物博物館中復原。"
   },
   {
     "index": 32,
     "text": "Other animals were trapped in tar pits,",
     "start": 152.406,
     "end": 155.067,
-    "zh": "其他动物被困在沥青坑里，",
-    "zh_hant": "其他動物被困在瀝青坑裡，"
+    "zh": "其他动物陷入了焦油坑中，",
+    "zh_hant": "其他動物陷入了焦油坑中，"
   },
   {
     "index": 33,
     "text": "like the elephants, sabre-toothed cats, and numerous other creatures",
     "start": 154.947,
     "end": 160.05,
-    "zh": "比如大象、剑齿虎和许多其他生物，",
-    "zh_hant": "比如大象、劍齒虎和許多其他生物，"
+    "zh": "比如大象、剑齿虎和许多其他生物",
+    "zh_hant": "比如大象、劍齒虎和許多其他生物"
   },
   {
     "index": 34,
     "text": "that are found at Rancho la Brea, which is now just a suburb of Los Angeles.",
     "start": 159.83,
     "end": 165.113,
-    "zh": "这些都在兰乔拉布雷亚发现，那里现在只是洛杉矶的一个郊区。",
-    "zh_hant": "這些都在蘭喬拉布雷亞發現，那裡現在只是洛杉磯的一個郊區。"
+    "zh": "它们在兰乔拉布雷亚被发现，那里现在只是洛杉矶的一个郊区。",
+    "zh_hant": "它們在蘭喬拉布雷亞被發現，那裡現在只是洛杉磯的一個郊區。"
   },
   {
     "index": 35,
     "text": "Apparently what happened was that water collected on these tar pits",
     "start": 165.814,
     "end": 170.296,
-    "zh": "显然，发生的情况是水积聚在这些沥青坑上，",
-    "zh_hant": "顯然，發生的情況是水積聚在這些瀝青坑上，"
+    "zh": "显然，发生的情况是水聚集在这些焦油坑上",
+    "zh_hant": "顯然，發生的情況是水聚集在這些焦油坑上"
   },
   {
     "index": 36,
     "text": "and the bigger animals like the elephants ventured out on to the apparently firm surface to drink,",
     "start": 170.516,
     "end": 176.739,
-    "zh": "而像大象这样的大型动物冒险走到看似坚固的表面去喝水，",
-    "zh_hant": "而像大象這樣的大型動物冒險走到看似堅固的表面去喝水，"
+    "zh": "像大象这样的大型动物冒险走到看似坚固的表面上喝水，",
+    "zh_hant": "像大象這樣的大型動物冒險走到看似堅固的表面上喝水，"
   },
   {
     "index": 37,
     "text": "and were promptly bogged in the tar.",
     "start": 176.98,
     "end": 179.641,
-    "zh": "结果立刻陷进沥青里。",
-    "zh_hant": "結果立刻陷進瀝青裡。"
+    "zh": "然后立刻陷入焦油中。",
+    "zh_hant": "然後立刻陷入焦油中。"
   },
   {
     "index": 38,
@@ -316,8 +316,8 @@
     "text": "and the giant wolves,",
     "start": 185.745,
     "end": 187.305,
-    "zh": "和巨型狼这样的食肉动物，",
-    "zh_hant": "和巨型狼這樣的食肉動物，"
+    "zh": "和巨型狼这样的食肉动物",
+    "zh_hant": "和巨型狼這樣的食肉動物"
   },
   {
     "index": 40,
@@ -332,7 +332,7 @@
     "text": "There are also endless numbers of birds in the tar as well.",
     "start": 191.648,
     "end": 195.13,
-    "zh": "沥青里还有数不清的鸟类。",
-    "zh_hant": "瀝青裡還有數不清的鳥類。"
+    "zh": "焦油中还有无数只鸟。",
+    "zh_hant": "焦油中還有無數只鳥。"
   }
 ]

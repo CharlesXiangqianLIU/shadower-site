@@ -1,46 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Lesson 7 Are you a teacher?",
+    "text": "Lesson 7.",
     "start": 1.511,
-    "end": 5.312,
-    "zh": "第七课 你是老师吗？",
-    "zh_hant": "第七課 你是老師嗎？"
+    "end": 3.582,
+    "zh": "第七课。",
+    "zh_hant": "第七課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.393,
-    "end": 10.135,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "text": "Are you a teacher?",
+    "start": 3.632,
+    "end": 5.312,
+    "zh": "你是老师吗？",
+    "zh_hant": "你是老師嗎？"
   },
   {
     "index": 2,
-    "text": "What is Rober's job?",
-    "start": 12.316,
-    "end": 14.977,
-    "zh": "罗伯特的职业是什么？",
-    "zh_hant": "羅伯特的職業是什麼？"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.393,
+    "end": 10.135,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
-    "text": "I am a new student.",
-    "start": 17.558,
-    "end": 19.499,
-    "zh": "我是新学生。",
-    "zh_hant": "我是新學生。"
+    "text": "What is Rober's job?",
+    "start": 12.316,
+    "end": 14.977,
+    "zh": "罗伯特的工作是什么？",
+    "zh_hant": "羅伯特的工作是什麼？"
   },
   {
     "index": 4,
-    "text": "My name's Robert.",
-    "start": 19.88,
-    "end": 22.06,
-    "zh": "我叫罗伯特。",
-    "zh_hant": "我叫羅伯特。"
+    "text": "I am a new student.",
+    "start": 17.558,
+    "end": 19.499,
+    "zh": "我是一名新学生。",
+    "zh_hant": "我是一名新學生。"
   },
   {
     "index": 5,
+    "text": "My name's Robert.",
+    "start": 19.88,
+    "end": 22.06,
+    "zh": "我的名字叫罗伯特。",
+    "zh_hant": "我的名字叫羅伯特。"
+  },
+  {
+    "index": 6,
     "text": "Nice to meet you.",
     "start": 23.321,
     "end": 25.442,
@@ -48,15 +56,15 @@
     "zh_hant": "很高興認識你。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "My name's Sophie.",
     "start": 26.163,
     "end": 28.584,
-    "zh": "我叫索菲。",
-    "zh_hant": "我叫索菲。"
+    "zh": "我的名字叫索菲。",
+    "zh_hant": "我的名字叫索菲。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Are you French?",
     "start": 29.764,
     "end": 31.565,
@@ -64,7 +72,7 @@
     "zh_hant": "你是法國人嗎？"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Yes I am.",
     "start": 31.886,
     "end": 33.806,
@@ -72,7 +80,7 @@
     "zh_hant": "是的，我是。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "Are you French too?",
     "start": 35.547,
     "end": 37.748,
@@ -80,7 +88,7 @@
     "zh_hant": "你也是法國人嗎？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "No I am not.",
     "start": 38.569,
     "end": 41.33,
@@ -88,7 +96,7 @@
     "zh_hant": "不，我不是。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "What nationality are you?",
     "start": 42.131,
     "end": 45.253,
@@ -96,7 +104,7 @@
     "zh_hant": "你是哪國人？"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "I'm Italian.",
     "start": 46.434,
     "end": 48.475,
@@ -104,7 +112,7 @@
     "zh_hant": "我是義大利人。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Are you a teacher?",
     "start": 50.597,
     "end": 52.658,
@@ -112,7 +120,7 @@
     "zh_hant": "你是老師嗎？"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "No I'm not.",
     "start": 53.179,
     "end": 55.22,
@@ -120,15 +128,15 @@
     "zh_hant": "不，我不是。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "What's your job?",
     "start": 56.562,
     "end": 58.443,
-    "zh": "你的职业是什么？",
-    "zh_hant": "你的職業是什麼？"
+    "zh": "你的工作是什么？",
+    "zh_hant": "你的工作是什麼？"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "I'm a keyboard operator.",
     "start": 59.284,
     "end": 62.325,
@@ -136,15 +144,15 @@
     "zh_hant": "我是鍵盤操作員。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "What's your job?",
     "start": 63.687,
     "end": 65.408,
-    "zh": "你的职业是什么？",
-    "zh_hant": "你的職業是什麼？"
+    "zh": "你的工作是什么？",
+    "zh_hant": "你的工作是什麼？"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "I'm an engineer.",
     "start": 66.289,
     "end": 68.37,

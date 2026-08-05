@@ -1,46 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Lesson 9 Flying cats",
+    "text": "Lesson 9.",
     "start": 1.57,
-    "end": 8.914,
-    "zh": "第9课 会飞的猫",
-    "zh_hant": "第9課 會飛的貓"
+    "end": 3.301,
+    "zh": "第九课。",
+    "zh_hant": "第九課。"
   },
   {
     "index": 1,
-    "text": "How do cats try to protect themselves when falling from great heights?",
-    "start": 11.615,
-    "end": 16.598,
-    "zh": "猫从高处坠落时，如何设法保护自己？",
-    "zh_hant": "貓從高處墜落時，如何設法保護自己？"
+    "text": "Flying cats.",
+    "start": 3.351,
+    "end": 8.914,
+    "zh": "飞行的猫。",
+    "zh_hant": "飛行的貓。"
   },
   {
     "index": 2,
-    "text": "Cats never fail to fascinate human beings.",
-    "start": 18.899,
-    "end": 22.26,
-    "zh": "猫总能让人着迷。",
-    "zh_hant": "貓總能讓人著迷。"
+    "text": "How do cats try to protect themselves when falling from great heights?",
+    "start": 11.615,
+    "end": 16.598,
+    "zh": "猫从高处坠落时，是如何试图保护自己的呢？",
+    "zh_hant": "貓從高處墜落時，是如何試圖保護自己的呢？"
   },
   {
     "index": 3,
-    "text": "They can be friendly and affectionate towards humans,",
-    "start": 22.821,
-    "end": 26.142,
-    "zh": "它们对人类可以友好而亲昵，",
-    "zh_hant": "它們對人類可以友好而親暱，"
+    "text": "Cats never fail to fascinate human beings.",
+    "start": 18.899,
+    "end": 22.26,
+    "zh": "猫总能引起人类的兴趣。",
+    "zh_hant": "貓總能引起人類的興趣。"
   },
   {
     "index": 4,
-    "text": "but they lead mysterious lives of their own as well.",
-    "start": 26.443,
-    "end": 29.804,
-    "zh": "但同时它们也过着属于自己的神秘生活。",
-    "zh_hant": "但同時它們也過著屬於自己的神秘生活。"
+    "text": "They can be friendly and affectionate towards humans,",
+    "start": 22.821,
+    "end": 26.142,
+    "zh": "它们对人类可以友好且充满深情，",
+    "zh_hant": "它們對人類可以友好且充滿深情，"
   },
   {
     "index": 5,
+    "text": "but they lead mysterious lives of their own as well.",
+    "start": 26.443,
+    "end": 29.804,
+    "zh": "但同时也过着属于自己的神秘生活。",
+    "zh_hant": "但同時也過著屬於自己的神秘生活。"
+  },
+  {
+    "index": 6,
     "text": "They never become submissive like dogs and horses.",
     "start": 30.665,
     "end": 34.046,
@@ -48,171 +56,171 @@
     "zh_hant": "它們從不像狗和馬那樣順從。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "As a result, humans have learned to respect feline independence.",
     "start": 35.007,
     "end": 39.549,
-    "zh": "因此，人类学会了尊重猫的独立。",
-    "zh_hant": "因此，人類學會了尊重貓的獨立。"
-  },
-  {
-    "index": 7,
-    "text": "Most cats remain suspicious of humans all their lives.",
-    "start": 40.47,
-    "end": 44.672,
-    "zh": "大多数猫一生都对人保持警惕。",
-    "zh_hant": "大多數貓一生都對人保持警惕。"
+    "zh": "因此，人类学会了尊重猫的独立性。",
+    "zh_hant": "因此，人類學會了尊重貓的獨立性。"
   },
   {
     "index": 8,
-    "text": "One of the things that fascinates us most about cats",
-    "start": 45.653,
-    "end": 48.774,
-    "zh": "猫最让我们着迷的一点之一，",
-    "zh_hant": "貓最讓我們著迷的一點之一，"
+    "text": "Most cats remain suspicious of humans all their lives.",
+    "start": 40.47,
+    "end": 44.672,
+    "zh": "大多数猫一生都对人类抱有戒心。",
+    "zh_hant": "大多數貓一生都對人類抱有戒心。"
   },
   {
     "index": 9,
-    "text": "is the popular belief that they have nine lives.",
-    "start": 48.914,
-    "end": 52.776,
-    "zh": "是人们普遍相信猫有九条命。",
-    "zh_hant": "是人們普遍相信貓有九條命。"
+    "text": "One of the things that fascinates us most about cats",
+    "start": 45.653,
+    "end": 48.774,
+    "zh": "最让我们着迷的一件事",
+    "zh_hant": "最讓我們著迷的一件事"
   },
   {
     "index": 10,
-    "text": "Apparently, there is a good deal of truth in this idea.",
-    "start": 53.336,
-    "end": 56.678,
-    "zh": "显然，这种说法很有道理。",
-    "zh_hant": "顯然，這種說法很有道理。"
+    "text": "is the popular belief that they have nine lives.",
+    "start": 48.914,
+    "end": 52.776,
+    "zh": "是普遍认为猫有九条命的说法。",
+    "zh_hant": "是普遍認為貓有九條命的說法。"
   },
   {
     "index": 11,
-    "text": "A cat's ability to survive falls is based on fact.",
-    "start": 57.098,
-    "end": 61.06,
-    "zh": "猫在坠落中幸存的能力是有事实依据的。",
-    "zh_hant": "貓在墜落中倖存的能力是有事實依據的。"
+    "text": "Apparently, there is a good deal of truth in this idea.",
+    "start": 53.336,
+    "end": 56.678,
+    "zh": "显然，这种说法有很大的真实性。",
+    "zh_hant": "顯然，這種說法有很大的真實性。"
   },
   {
     "index": 12,
-    "text": "Recently the New York Animal Medical Centre made a study",
-    "start": 62.201,
-    "end": 66.763,
-    "zh": "最近，纽约动物医疗中心做了一项研究，",
-    "zh_hant": "最近，紐約動物醫療中心做了一項研究，"
+    "text": "A cat's ability to survive falls is based on fact.",
+    "start": 57.098,
+    "end": 61.06,
+    "zh": "猫从坠落中存活的能力是有事实依据的。",
+    "zh_hant": "貓從墜落中存活的能力是有事實依據的。"
   },
   {
     "index": 13,
-    "text": "of 132 cats over a period of five months.",
-    "start": 66.543,
-    "end": 70.805,
-    "zh": "在五个月内观察了132只猫。",
-    "zh_hant": "在五個月內觀察了132只貓。"
+    "text": "Recently the New York Animal Medical Centre made a study",
+    "start": 62.201,
+    "end": 66.763,
+    "zh": "最近，纽约动物医疗中心做了一项研究",
+    "zh_hant": "最近，紐約動物醫療中心做了一項研究"
   },
   {
     "index": 14,
-    "text": "All these cats had one experience in common:",
-    "start": 71.825,
-    "end": 74.947,
-    "zh": "这些猫都有一个共同经历：",
-    "zh_hant": "這些貓都有一個共同經歷："
+    "text": "of 132 cats over a period of five months.",
+    "start": 66.543,
+    "end": 70.805,
+    "zh": "在五个月的时间里对132只猫进行了观察。",
+    "zh_hant": "在五個月的時間裡對132只貓進行了觀察。"
   },
   {
     "index": 15,
-    "text": "they had fallen off high buildings, yet only eight of them died from shock or injuries.",
-    "start": 75.387,
-    "end": 81.43,
-    "zh": "它们都从高楼坠落，但只有八只死于休克或重伤。",
-    "zh_hant": "它們都從高樓墜落，但只有八隻死於休克或重傷。"
+    "text": "All these cats had one experience in common: they had fallen off high buildings,",
+    "start": 71.825,
+    "end": 77.748,
+    "zh": "这些猫都有一个共同的经历：它们都曾从高楼坠落，",
+    "zh_hant": "這些貓都有一個共同的經歷：它們都曾從高樓墜落，"
   },
   {
     "index": 16,
-    "text": "Of course, New York is the ideal place for such an interesting study,",
-    "start": 81.951,
-    "end": 86.513,
-    "zh": "当然，纽约是进行这种有趣研究的理想场所，",
-    "zh_hant": "當然，紐約是進行這種有趣研究的理想場所，"
+    "text": "yet only eight of them died from shock or injuries.",
+    "start": 77.828,
+    "end": 81.43,
+    "zh": "但其中只有八只因休克或受伤而死亡。",
+    "zh_hant": "但其中只有八隻因休克或受傷而死亡。"
   },
   {
     "index": 17,
-    "text": "because there is no shortage of tall buildings.",
-    "start": 86.793,
-    "end": 89.794,
-    "zh": "因为这里从来不缺高楼大厦。",
-    "zh_hant": "因為這裡從來不缺高樓大廈。"
+    "text": "Of course, New York is the ideal place for such an interesting study,",
+    "start": 81.951,
+    "end": 86.513,
+    "zh": "当然，纽约是进行这种有趣研究的理想地点，",
+    "zh_hant": "當然，紐約是進行這種有趣研究的理想地點，"
   },
   {
     "index": 18,
-    "text": "There are plenty of high-rise windowsills to fall from!",
-    "start": 90.735,
-    "end": 93.957,
-    "zh": "可供坠落的摩天窗台比比皆是！",
-    "zh_hant": "可供墜落的摩天窗臺比比皆是！"
+    "text": "because there is no shortage of tall buildings.",
+    "start": 86.793,
+    "end": 89.794,
+    "zh": "因为那里不缺高楼大厦。",
+    "zh_hant": "因為那裡不缺高樓大廈。"
   },
   {
     "index": 19,
-    "text": "One cat, Sabrina, fell 32 storeys,",
-    "start": 94.897,
-    "end": 99.559,
-    "zh": "有一只叫萨布丽娜的猫，从32层跌落，",
-    "zh_hant": "有一隻叫薩布麗娜的貓，從32層跌落，"
+    "text": "There are plenty of high-rise windowsills to fall from!",
+    "start": 90.735,
+    "end": 93.957,
+    "zh": "有的是高层的窗台可供坠落！",
+    "zh_hant": "有的是高層的窗臺可供墜落！"
   },
   {
     "index": 20,
-    "text": "yet only suffered from a broken tooth.",
-    "start": 99.7,
-    "end": 102.481,
-    "zh": "却仅断了一颗牙。",
-    "zh_hant": "卻僅斷了一顆牙。"
+    "text": "One cat, Sabrina, fell 32 storeys,",
+    "start": 94.897,
+    "end": 99.559,
+    "zh": "有一只名叫萨布丽娜的猫从32层楼上摔下，",
+    "zh_hant": "有一隻名叫薩布麗娜的貓從32層樓上摔下，"
   },
   {
     "index": 21,
-    "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
-    "start": 102.161,
-    "end": 107.243,
-    "zh": "一位医生说：“猫的行为就像训练有素的伞兵。”",
-    "zh_hant": "一位醫生說：“貓的行為就像訓練有素的傘兵。”"
+    "text": "yet only suffered from a broken tooth.",
+    "start": 99.7,
+    "end": 102.481,
+    "zh": "却只断了一颗牙。",
+    "zh_hant": "卻只斷了一顆牙。"
   },
   {
     "index": 22,
-    "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
-    "start": 108.044,
-    "end": 113.726,
-    "zh": "似乎猫掉得越远，越不容易受伤。",
-    "zh_hant": "似乎貓掉得越遠，越不容易受傷。"
+    "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
+    "start": 102.161,
+    "end": 107.243,
+    "zh": "一位医生说：“猫的行为像训练有素的伞兵。”",
+    "zh_hant": "一位醫生說：“貓的行為像訓練有素的傘兵。”"
   },
   {
     "index": 23,
-    "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
-    "start": 114.347,
-    "end": 119.389,
-    "zh": "在长距离下落中，它们能达到每小时60英里甚至更快的速度。",
-    "zh_hant": "在長距離下落中，它們能達到每小時60英里甚至更快的速度。"
+    "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
+    "start": 108.044,
+    "end": 113.726,
+    "zh": "似乎猫摔得越远，越不容易受伤。",
+    "zh_hant": "似乎貓摔得越遠，越不容易受傷。"
   },
   {
     "index": 24,
-    "text": "At high speeds, falling cats have time to relax.",
-    "start": 119.93,
-    "end": 124.015,
-    "zh": "在高速下落时，猫有时间放松身体。",
-    "zh_hant": "在高速下落時，貓有時間放鬆身體。"
+    "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
+    "start": 114.347,
+    "end": 119.389,
+    "zh": "在长距离坠落中，它们能达到每小时60英里甚至更高的速度。",
+    "zh_hant": "在長距離墜落中，它們能達到每小時60英里甚至更高的速度。"
   },
   {
     "index": 25,
-    "text": "They stretch out their legs like flying squirrels.",
-    "start": 124.416,
-    "end": 127.5,
-    "zh": "它们像飞鼠一样伸展开四肢。",
-    "zh_hant": "它們像飛鼠一樣伸展開四肢。"
+    "text": "At high speeds, falling cats have time to relax.",
+    "start": 119.93,
+    "end": 124.015,
+    "zh": "高速坠落时，猫有时间放松。",
+    "zh_hant": "高速墜落時，貓有時間放鬆。"
   },
   {
     "index": 26,
+    "text": "They stretch out their legs like flying squirrels.",
+    "start": 124.416,
+    "end": 127.5,
+    "zh": "它们像飞鼠一样伸展四肢。",
+    "zh_hant": "它們像飛鼠一樣伸展四肢。"
+  },
+  {
+    "index": 27,
     "text": "This increases their air-resistance and reduces the shock of impact when they hit the ground.",
     "start": 128.101,
     "end": 134.39,
-    "zh": "这增加了空气阻力，并减轻了着地时的冲击力。",
-    "zh_hant": "這增加了空氣阻力，並減輕了著地時的衝擊力。"
+    "zh": "这增加了它们的空气阻力，并减轻了撞击地面的冲击力。",
+    "zh_hant": "這增加了它們的空氣阻力，並減輕了撞擊地面的衝擊力。"
   }
 ]

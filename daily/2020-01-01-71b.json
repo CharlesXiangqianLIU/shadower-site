@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 141 Sally's",
+    "text": "Lesson 141.",
     "start": 0.67,
-    "end": 4.612,
-    "zh": "第141课 萨莉的",
-    "zh_hant": "第141課 薩莉的"
+    "end": 3.502,
+    "zh": "第141课。",
+    "zh_hant": "第141課。"
   },
   {
     "index": 1,
-    "text": "first train ride",
-    "start": 4.452,
+    "text": "Sally's first train ride.",
+    "start": 3.552,
     "end": 6.633,
-    "zh": "第一次坐火车",
-    "zh_hant": "第一次坐火車"
+    "zh": "莎莉的第一次火车之旅。",
+    "zh_hant": "莎莉的第一次火車之旅。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then",
     "start": 7.594,
     "end": 10.415,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
+    "zh": "听磁带，然后",
+    "zh_hant": "聽磁帶，然後"
   },
   {
     "index": 3,
@@ -52,8 +52,8 @@
     "text": "my four-year-old daughter, Sally,",
     "start": 19.38,
     "end": 22.461,
-    "zh": "我四岁的女儿萨莉",
-    "zh_hant": "我四歲的女兒薩莉"
+    "zh": "我四岁的女儿莎莉，",
+    "zh_hant": "我四歲的女兒莎莉，"
   },
   {
     "index": 7,
@@ -76,8 +76,8 @@
     "text": "Sally was very excited",
     "start": 30.725,
     "end": 33.527,
-    "zh": "萨莉非常兴奋，",
-    "zh_hant": "薩莉非常興奮，"
+    "zh": "莎莉非常兴奋，",
+    "zh_hant": "莎莉非常興奮，"
   },
   {
     "index": 10,
@@ -100,24 +100,24 @@
     "text": "She sat near the window",
     "start": 39.55,
     "end": 41.931,
-    "zh": "她坐在窗边，",
-    "zh_hant": "她坐在窗邊，"
+    "zh": "她坐在靠近窗户的地方，",
+    "zh_hant": "她坐在靠近窗戶的地方，"
   },
   {
     "index": 13,
-    "text": "and asked questions",
+    "text": "and asked questions about everything she",
     "start": 42.132,
-    "end": 44.492,
-    "zh": "问了很多问题，",
-    "zh_hant": "問了很多問題，"
+    "end": 46.614,
+    "zh": "并对她所看到的",
+    "zh_hant": "並對她所看到的"
   },
   {
     "index": 14,
-    "text": "about everything she saw.",
-    "start": 44.393,
+    "text": "saw.",
+    "start": 46.414,
     "end": 47.234,
-    "zh": "关于她看到的一切。",
-    "zh_hant": "關於她看到的一切。"
+    "zh": "一切问个不停。",
+    "zh_hant": "一切問個不停。"
   },
   {
     "index": 15,
@@ -140,8 +140,8 @@
     "text": "and sat opposite Sally.",
     "start": 53.737,
     "end": 56.438,
-    "zh": "坐在萨莉对面。",
-    "zh_hant": "坐在薩莉對面。"
+    "zh": "坐在莎莉对面。",
+    "zh_hant": "坐在莎莉對面。"
   },
   {
     "index": 18,
@@ -172,8 +172,8 @@
     "text": "Sally did not answer,",
     "start": 62.422,
     "end": 64.903,
-    "zh": "萨莉没有回答，",
-    "zh_hant": "薩莉沒有回答，"
+    "zh": "莎莉没有回答，",
+    "zh_hant": "莎莉沒有回答，"
   },
   {
     "index": 22,
@@ -228,8 +228,8 @@
     "text": "She then began to make up her face.",
     "start": 87.134,
     "end": 91.156,
-    "zh": "然后她开始往脸上化妆。",
-    "zh_hant": "然後她開始往臉上化妝。"
+    "zh": "然后她开始化妆。",
+    "zh_hant": "然後她開始化妝。"
   },
   {
     "index": 29,
@@ -244,16 +244,16 @@
     "text": "doing that?'",
     "start": 93.657,
     "end": 95.478,
-    "zh": "要这样做？”",
-    "zh_hant": "要這樣做？”"
+    "zh": "那样做？”",
+    "zh_hant": "那樣做？”"
   },
   {
     "index": 31,
     "text": "Sally asked.",
     "start": 95.498,
     "end": 97.119,
-    "zh": "萨莉问道。",
-    "zh_hant": "薩莉問道。"
+    "zh": "莎莉问道。",
+    "zh_hant": "莎莉問道。"
   },
   {
     "index": 32,
@@ -292,27 +292,35 @@
     "text": "'But you are still",
     "start": 107.944,
     "end": 111.386,
-    "zh": "“可你还是",
-    "zh_hant": "“可你還是"
+    "zh": "“但你还是很",
+    "zh_hant": "“但你還是很"
   },
   {
     "index": 37,
-    "text": "ugly,' Sally said.",
+    "text": "ugly,'",
     "start": 111.166,
-    "end": 113.987,
-    "zh": "很丑，”萨莉说。",
-    "zh_hant": "很醜，”薩莉說。"
+    "end": 113.007,
+    "zh": "丑，”",
+    "zh_hant": "醜，”"
   },
   {
     "index": 38,
-    "text": "Sally was amused,",
-    "start": 114.668,
-    "end": 117.109,
-    "zh": "萨莉觉得很有趣，",
-    "zh_hant": "薩莉覺得很有趣，"
+    "text": "Sally said.",
+    "start": 112.657,
+    "end": 113.987,
+    "zh": "莎莉说。",
+    "zh_hant": "莎莉說。"
   },
   {
     "index": 39,
+    "text": "Sally was amused,",
+    "start": 114.668,
+    "end": 117.109,
+    "zh": "莎莉觉得很有趣，",
+    "zh_hant": "莎莉覺得很有趣，"
+  },
+  {
+    "index": 40,
     "text": "but I was very embarrassed!",
     "start": 117.129,
     "end": 120.81,

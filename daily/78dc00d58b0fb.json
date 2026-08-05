@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 105 Full",
+    "text": "Lesson 105.",
     "start": 1.53,
-    "end": 5.432,
-    "zh": "第105课 全文",
-    "zh_hant": "第105課 全文"
+    "end": 4.702,
+    "zh": "第105课。",
+    "zh_hant": "第105課。"
   },
   {
     "index": 1,
-    "text": "of mistakes",
-    "start": 5.082,
+    "text": "Full of mistakes.",
+    "start": 4.752,
     "end": 6.273,
-    "zh": "错误百出",
-    "zh_hant": "錯誤百出"
+    "zh": "错误百出。",
+    "zh_hant": "錯誤百出。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "Where's Sandra, Bob?",
     "start": 17.758,
     "end": 19.459,
-    "zh": "桑德拉在哪里，鲍勃？",
-    "zh_hant": "桑德拉在哪裡，鮑勃？"
+    "zh": "桑德拉在哪儿，鲍勃？",
+    "zh_hant": "桑德拉在哪兒，鮑勃？"
   },
   {
     "index": 5,
@@ -68,8 +68,8 @@
     "text": "I want her to come to my office.",
     "start": 25.902,
     "end": 28.063,
-    "zh": "我要她到我的办公室来。",
-    "zh_hant": "我要她到我的辦公室來。"
+    "zh": "我要她来我的办公室。",
+    "zh_hant": "我要她來我的辦公室。"
   },
   {
     "index": 9,
@@ -100,8 +100,8 @@
     "text": "How do you spell 'intelligent'?",
     "start": 36.328,
     "end": 39.029,
-    "zh": "'intelligent'怎么拼写？",
-    "zh_hant": "'intelligent'怎麼拼寫？"
+    "zh": "你怎么拼写‘intelligent’？",
+    "zh_hant": "你怎麼拼寫‘intelligent’？"
   },
   {
     "index": 13,
@@ -132,8 +132,8 @@
     "text": "You've typed it with only one 'L'.",
     "start": 51.612,
     "end": 54.874,
-    "zh": "你只打了一个'L'。",
-    "zh_hant": "你只打了一個'L'。"
+    "zh": "你只打了一个‘L’。",
+    "zh_hant": "你只打了一個‘L’。"
   },
   {
     "index": 17,
@@ -148,8 +148,8 @@
     "text": "I want you to type it again.",
     "start": 57.977,
     "end": 60.319,
-    "zh": "我要你重新打一遍。",
-    "zh_hant": "我要你重新打一遍。"
+    "zh": "我要你再打一遍。",
+    "zh_hant": "我要你再打一遍。"
   },
   {
     "index": 19,
@@ -172,8 +172,8 @@
     "text": "And here's a little present for you.",
     "start": 65.003,
     "end": 67.685,
-    "zh": "这里有一件小礼物送给你。",
-    "zh_hant": "這裡有一件小禮物送給你。"
+    "zh": "这里还有一个小礼物给你。",
+    "zh_hant": "這裡還有一個小禮物給你。"
   },
   {
     "index": 22,
@@ -188,15 +188,15 @@
     "text": "It's a dictionary.",
     "start": 69.466,
     "end": 71.528,
-    "zh": "是一本词典。",
-    "zh_hant": "是一本詞典。"
+    "zh": "这是一本词典。",
+    "zh_hant": "這是一本詞典。"
   },
   {
     "index": 24,
     "text": "I hope it'll help you.",
     "start": 71.968,
     "end": 73.89,
-    "zh": "我希望它能帮助你。",
-    "zh_hant": "我希望它能幫助你。"
+    "zh": "我希望它能帮到你。",
+    "zh_hant": "我希望它能幫到你。"
   }
 ]

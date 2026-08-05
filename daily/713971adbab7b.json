@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 97 A small",
+    "text": "Lesson 97.",
     "start": 1.53,
-    "end": 5.032,
-    "zh": "第97课 一个小",
-    "zh_hant": "第97課 一個小"
+    "end": 3.862,
+    "zh": "第97课。",
+    "zh_hant": "第97課。"
   },
   {
     "index": 1,
-    "text": "blue case Listen to the tape",
-    "start": 4.692,
-    "end": 9.174,
-    "zh": "蓝色箱子 听录音",
-    "zh_hant": "藍色箱子 聽錄音"
+    "text": "A small blue case.",
+    "start": 3.912,
+    "end": 6.092,
+    "zh": "一只蓝色的小箱子。",
+    "zh_hant": "一隻藍色的小箱子。"
   },
   {
     "index": 2,
-    "text": "then answer this question.",
-    "start": 9.394,
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.633,
     "end": 11.635,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
@@ -36,8 +36,8 @@
     "text": "I left a suitcase on the train to London the other day.",
     "start": 19.579,
     "end": 22.981,
-    "zh": "前几天我把一个手提箱落在去伦敦的火车上了。",
-    "zh_hant": "前幾天我把一個手提箱落在去倫敦的火車上了。"
+    "zh": "前几天我把一个手提箱忘在了去伦敦的火车上。",
+    "zh_hant": "前幾天我把一個手提箱忘在了去倫敦的火車上。"
   },
   {
     "index": 5,
@@ -52,16 +52,16 @@
     "text": "It's a small blue case and it's got a zip.",
     "start": 27.143,
     "end": 31.225,
-    "zh": "它是一个蓝色的小箱子，带拉链。",
-    "zh_hant": "它是一個藍色的小箱子，帶拉鍊。"
+    "zh": "它是一个蓝色的小箱子，带拉链的。",
+    "zh_hant": "它是一個藍色的小箱子，帶拉鍊的。"
   },
   {
     "index": 7,
     "text": "There's a label on the handle with my name",
     "start": 31.945,
     "end": 35.367,
-    "zh": "提手上有个标签，上面有我的名字",
-    "zh_hant": "提手上有個標籤，上面有我的名字"
+    "zh": "手柄上有个标签，上面有我的名字",
+    "zh_hant": "手柄上有個標籤，上面有我的名字"
   },
   {
     "index": 8,
@@ -100,8 +100,8 @@
     "text": "This one's got a label.",
     "start": 46.313,
     "end": 48.314,
-    "zh": "这个有标签。",
-    "zh_hant": "這個有標籤。"
+    "zh": "这个上面有标签。",
+    "zh_hant": "這個上面有標籤。"
   },
   {
     "index": 13,
@@ -164,8 +164,8 @@
     "text": "Here you are.",
     "start": 72.746,
     "end": 73.726,
-    "zh": "给你。",
-    "zh_hant": "給你。"
+    "zh": "给您。",
+    "zh_hant": "給您。"
   },
   {
     "index": 21,
@@ -204,7 +204,7 @@
     "text": "You've given me the wrong case!",
     "start": 82.019,
     "end": 84.609,
-    "zh": "你给我的箱子错了！",
-    "zh_hant": "你給我的箱子錯了！"
+    "zh": "您给我的箱子拿错了！",
+    "zh_hant": "您給我的箱子拿錯了！"
   }
 ]

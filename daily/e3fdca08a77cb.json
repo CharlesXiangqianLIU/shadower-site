@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 95 Tickets, please.",
+    "text": "Lesson 95.",
     "start": 1.51,
-    "end": 5.572,
-    "zh": "第95课 请出示车票。",
-    "zh_hant": "第95課 請出示車票。"
+    "end": 3.942,
+    "zh": "第95课。",
+    "zh_hant": "第95課。"
   },
   {
     "index": 1,
+    "text": "Tickets, please.",
+    "start": 3.992,
+    "end": 5.572,
+    "zh": "请出示车票。",
+    "zh_hant": "請出示車票。"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.653,
     "end": 10.054,
@@ -16,23 +24,23 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "Why did George and Ken miss the train?",
     "start": 12.216,
     "end": 15.797,
-    "zh": "乔治和肯为什么错过了火车？",
-    "zh_hant": "喬治和肯為什麼錯過了火車？"
-  },
-  {
-    "index": 3,
-    "text": "Two return tickets to London, please.",
-    "start": 18.239,
-    "end": 20.92,
-    "zh": "请买两张去伦敦的往返票。",
-    "zh_hant": "請買兩張去倫敦的往返票。"
+    "zh": "为什么乔治和肯没赶上火车？",
+    "zh_hant": "為什麼喬治和肯沒趕上火車？"
   },
   {
     "index": 4,
+    "text": "Two return tickets to London, please.",
+    "start": 18.239,
+    "end": 20.92,
+    "zh": "请给我两张去伦敦的往返票。",
+    "zh_hant": "請給我兩張去倫敦的往返票。"
+  },
+  {
+    "index": 5,
     "text": "What time will the next train leave?",
     "start": 21.48,
     "end": 23.861,
@@ -40,7 +48,7 @@
     "zh_hant": "下一班火車什麼時候開？"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "At nineteen minutes past eight.",
     "start": 24.862,
     "end": 27.623,
@@ -48,31 +56,31 @@
     "zh_hant": "八點十九分。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "Which platform?",
     "start": 28.424,
     "end": 29.764,
-    "zh": "在哪个站台？",
-    "zh_hant": "在哪個站臺？"
-  },
-  {
-    "index": 7,
-    "text": "Two.",
-    "start": 30.745,
-    "end": 32.045,
-    "zh": "2号站台。",
-    "zh_hant": "2號站臺。"
+    "zh": "哪个站台？",
+    "zh_hant": "哪個站臺？"
   },
   {
     "index": 8,
-    "text": "Over the bridge.",
-    "start": 32.086,
-    "end": 33.606,
-    "zh": "过桥就到了。",
-    "zh_hant": "過橋就到了。"
+    "text": "Two.",
+    "start": 30.745,
+    "end": 32.045,
+    "zh": "二号站台。",
+    "zh_hant": "二號站臺。"
   },
   {
     "index": 9,
+    "text": "Over the bridge.",
+    "start": 32.086,
+    "end": 33.606,
+    "zh": "过桥。",
+    "zh_hant": "過橋。"
+  },
+  {
+    "index": 10,
     "text": "What time will the next train leave?",
     "start": 35.207,
     "end": 37.388,
@@ -80,7 +88,7 @@
     "zh_hant": "下一班火車什麼時候開？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "At eight nineteen.",
     "start": 38.168,
     "end": 39.729,
@@ -88,7 +96,7 @@
     "zh_hant": "八點十九分。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "We've got plenty of time.",
     "start": 40.45,
     "end": 42.471,
@@ -96,7 +104,7 @@
     "zh_hant": "我們時間很充裕。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "It's only three minutes to eight.",
     "start": 43.432,
     "end": 45.973,
@@ -104,15 +112,15 @@
     "zh_hant": "現在才七點五十七分。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Let's go and have a drink.",
     "start": 46.933,
     "end": 48.794,
-    "zh": "我们去找点喝的吧。",
-    "zh_hant": "我們去找點喝的吧。"
+    "zh": "我们去喝一杯吧。",
+    "zh_hant": "我們去喝一杯吧。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "There's a bar next door to the station.",
     "start": 49.014,
     "end": 51.916,
@@ -120,15 +128,15 @@
     "zh_hant": "車站旁邊有個酒吧。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "We had better go back to the station now, Ken.",
     "start": 53.837,
     "end": 57.058,
-    "zh": "肯，我们最好现在回车站。",
-    "zh_hant": "肯，我們最好現在回車站。"
+    "zh": "肯，我们现在最好回车站去。",
+    "zh_hant": "肯，我們現在最好回車站去。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Tickets, please.",
     "start": 58.879,
     "end": 60.52,
@@ -136,7 +144,7 @@
     "zh_hant": "請出示車票。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "We want to catch the eight nineteen to London.",
     "start": 61.801,
     "end": 65.162,
@@ -144,15 +152,15 @@
     "zh_hant": "我們要趕八點十九分去倫敦的火車。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "You've just missed it!",
     "start": 66.163,
     "end": 68.084,
-    "zh": "你们刚错过它了！",
-    "zh_hant": "你們剛錯過它了！"
+    "zh": "你们刚错过了！",
+    "zh_hant": "你們剛錯過了！"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "What!",
     "start": 68.785,
     "end": 69.545,
@@ -160,7 +168,7 @@
     "zh_hant": "什麼！"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "It's only eight fifteen.",
     "start": 69.705,
     "end": 71.826,
@@ -168,7 +176,7 @@
     "zh_hant": "現在才八點十五分。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "I'm sorry, sir.",
     "start": 72.687,
     "end": 74.147,
@@ -176,7 +184,7 @@
     "zh_hant": "對不起，先生。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "That clock's ten minutes slow.",
     "start": 74.427,
     "end": 76.848,
@@ -184,19 +192,19 @@
     "zh_hant": "那個鐘慢了十分鐘。"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "When's the next train?",
     "start": 78.069,
     "end": 79.83,
-    "zh": "下一班车什么时候开？",
-    "zh_hant": "下一班車什麼時候開？"
+    "zh": "下一班火车什么时候？",
+    "zh_hant": "下一班火車什麼時候？"
   },
   {
-    "index": 24,
+    "index": 25,
     "text": "In five hours' time!",
     "start": 80.877,
     "end": 83.509,
-    "zh": "五个小时以后！",
-    "zh_hant": "五個小時以後！"
+    "zh": "五个小时之后！",
+    "zh_hant": "五個小時之後！"
   }
 ]

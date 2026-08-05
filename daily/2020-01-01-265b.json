@@ -1,0 +1,442 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 37.",
+    "start": 7.014,
+    "end": 4.59,
+    "zh": "第37课。",
+    "zh_hant": "第37課。"
+  },
+  {
+    "index": 1,
+    "text": "The process of ageing.",
+    "start": 7.694,
+    "end": 10.115,
+    "zh": "衰老的过程。",
+    "zh_hant": "衰老的過程。"
+  },
+  {
+    "index": 2,
+    "text": "What is one of the most unpleasant discoveries we make about ourselves as we get older?",
+    "start": 11.636,
+    "end": 18.079,
+    "zh": "随着年龄增长，我们对自己最不愉快的发现之一是什么？",
+    "zh_hant": "隨著年齡增長，我們對自己最不愉快的發現之一是什麼？"
+  },
+  {
+    "index": 3,
+    "text": "At the age of twelve years, the human body is at its most vigorous.",
+    "start": 20.52,
+    "end": 26.343,
+    "zh": "十二岁时，人体处于最充满活力的状态。",
+    "zh_hant": "十二歲時，人體處於最充滿活力的狀態。"
+  },
+  {
+    "index": 4,
+    "text": "It has yet to reach its full size and strength,",
+    "start": 26.823,
+    "end": 30.225,
+    "zh": "它尚未达到完全的体型和力量，",
+    "zh_hant": "它尚未達到完全的體型和力量，"
+  },
+  {
+    "index": 5,
+    "text": "and its owner his or her full intelligence:",
+    "start": 30.425,
+    "end": 34.487,
+    "zh": "而其主人也尚未拥有完全的智力：",
+    "zh_hant": "而其主人也尚未擁有完全的智力："
+  },
+  {
+    "index": 6,
+    "text": "but at this age the likelihood of death is least.",
+    "start": 34.767,
+    "end": 39.169,
+    "zh": "但在这个年龄，死亡的可能性最小。",
+    "zh_hant": "但在這個年齡，死亡的可能性最小。"
+  },
+  {
+    "index": 7,
+    "text": "Earlier, we were infants and young children,",
+    "start": 39.83,
+    "end": 43.632,
+    "zh": "更早之前，我们是婴儿和幼童，",
+    "zh_hant": "更早之前，我們是嬰兒和幼童，"
+  },
+  {
+    "index": 8,
+    "text": "and consequently more vulnerable; later,",
+    "start": 43.612,
+    "end": 48.074,
+    "zh": "因此更加脆弱；后来，",
+    "zh_hant": "因此更加脆弱；後來，"
+  },
+  {
+    "index": 9,
+    "text": "we shall undergo a progressive loss of our vigour and resistance",
+    "start": 48.194,
+    "end": 52.796,
+    "zh": "我们将经历活力和抵抗力的逐渐丧失，",
+    "zh_hant": "我們將經歷活力和抵抗力的逐漸喪失，"
+  },
+  {
+    "index": 10,
+    "text": "which, though imperceptible at first",
+    "start": 52.937,
+    "end": 56.278,
+    "zh": "这种丧失虽然起初难以察觉，",
+    "zh_hant": "這種喪失雖然起初難以察覺，"
+  },
+  {
+    "index": 11,
+    "text": "will finally become so steep that we can live no longer,",
+    "start": 56.638,
+    "end": 61.24,
+    "zh": "最终会变得如此急剧，以至于我们无法再活下去，",
+    "zh_hant": "最終會變得如此急劇，以至於我們無法再活下去，"
+  },
+  {
+    "index": 12,
+    "text": "however well we look after ourselves,",
+    "start": 61.661,
+    "end": 64.582,
+    "zh": "无论我们如何照顾自己，",
+    "zh_hant": "無論我們如何照顧自己，"
+  },
+  {
+    "index": 13,
+    "text": "and however well society, and our doctors, look after us.",
+    "start": 64.842,
+    "end": 69.444,
+    "zh": "也无论社会和我们的医生如何照顾我们。",
+    "zh_hant": "也無論社會和我們的醫生如何照顧我們。"
+  },
+  {
+    "index": 14,
+    "text": "This decline in vigour with the passing of time is called ageing.",
+    "start": 70.105,
+    "end": 74.807,
+    "zh": "这种随时间的流逝而出现的活力衰退被称为衰老。",
+    "zh_hant": "這種隨時間的流逝而出現的活力衰退被稱為衰老。"
+  },
+  {
+    "index": 15,
+    "text": "It is one of the most unpleasant discoveries which we all make",
+    "start": 75.328,
+    "end": 79.849,
+    "zh": "这是我们所有人都做出的最不愉快的发现之一，",
+    "zh_hant": "這是我們所有人都做出的最不愉快的發現之一，"
+  },
+  {
+    "index": 16,
+    "text": "that we must decline in this way,",
+    "start": 79.69,
+    "end": 82.471,
+    "zh": "即我们必然以这种方式衰退，",
+    "zh_hant": "即我們必然以這種方式衰退，"
+  },
+  {
+    "index": 17,
+    "text": "that if we escape wars,",
+    "start": 83.252,
+    "end": 85.313,
+    "zh": "如果我们避开战争，",
+    "zh_hant": "如果我們避開戰爭，"
+  },
+  {
+    "index": 18,
+    "text": "accidents and diseases we shall eventually 'die of old age',",
+    "start": 85.353,
+    "end": 90.895,
+    "zh": "事故和疾病，最终会“老死”，",
+    "zh_hant": "事故和疾病，最終會“老死”，"
+  },
+  {
+    "index": 19,
+    "text": "and that this happens at a rate which differs little from person to person,",
+    "start": 91.676,
+    "end": 96.278,
+    "zh": "而且这种情况发生的速度因人而异，差别很小，",
+    "zh_hant": "而且這種情況發生的速度因人而異，差別很小，"
+  },
+  {
+    "index": 20,
+    "text": "so that there are heavy odds in favour of our dying between the ages",
+    "start": 96.859,
+    "end": 101.681,
+    "zh": "因此我们极有可能在65岁到80岁之间死亡，",
+    "zh_hant": "因此我們極有可能在65歲到80歲之間死亡，"
+  },
+  {
+    "index": 21,
+    "text": "of 65 and 80.",
+    "start": 101.461,
+    "end": 104.633,
+    "zh": "即65至80岁之间。",
+    "zh_hant": "即65至80歲之間。"
+  },
+  {
+    "index": 22,
+    "text": "Some of us will die sooner,",
+    "start": 104.683,
+    "end": 106.643,
+    "zh": "我们中有些人会死得更早，",
+    "zh_hant": "我們中有些人會死得更早，"
+  },
+  {
+    "index": 23,
+    "text": "a few will live longer -- on into a ninth or tenth decade.",
+    "start": 106.884,
+    "end": 112.506,
+    "zh": "少数人会活得更长——进入第九或第十个十年。",
+    "zh_hant": "少數人會活得更長——進入第九或第十個十年。"
+  },
+  {
+    "index": 24,
+    "text": "But the chances are against it, and there is a virtual limit",
+    "start": 112.807,
+    "end": 117.509,
+    "zh": "但机会不利于我们，而且存在一个实际限制，",
+    "zh_hant": "但機會不利於我們，而且存在一個實際限制，"
+  },
+  {
+    "index": 25,
+    "text": "on how long we can hope to remain alive,",
+    "start": 117.159,
+    "end": 120.13,
+    "zh": "限制我们能希望活多久，",
+    "zh_hant": "限制我們能希望活多久，"
+  },
+  {
+    "index": 26,
+    "text": "however lucky and robust we are.",
+    "start": 120.311,
+    "end": 123.172,
+    "zh": "无论我们多么幸运和强壮。",
+    "zh_hant": "無論我們多麼幸運和強壯。"
+  },
+  {
+    "index": 27,
+    "text": "Normal people tend to forget this process unless and until they are reminded of it.",
+    "start": 123.832,
+    "end": 129.815,
+    "zh": "正常人往往会忘记这一过程，除非被提醒。",
+    "zh_hant": "正常人往往會忘記這一過程，除非被提醒。"
+  },
+  {
+    "index": 28,
+    "text": "We are so familiar with the fact that man ages,",
+    "start": 130.396,
+    "end": 133.877,
+    "zh": "我们对人会衰老这一事实如此熟悉，",
+    "zh_hant": "我們對人會衰老這一事實如此熟悉，"
+  },
+  {
+    "index": 29,
+    "text": "that people have for years assumed that the process of losing vigour with time,",
+    "start": 134.198,
+    "end": 139.22,
+    "zh": "以至于多年来人们都认为，随着时间流逝而失去活力，",
+    "zh_hant": "以至於多年來人們都認為，隨著時間流逝而失去活力，"
+  },
+  {
+    "index": 30,
+    "text": "of becoming more likely to die the older we get,",
+    "start": 139.44,
+    "end": 142.982,
+    "zh": "并且随着年龄增长更可能死亡的过程，",
+    "zh_hant": "並且隨著年齡增長更可能死亡的過程，"
+  },
+  {
+    "index": 31,
+    "text": "was something self-evident like the cooling of a hot kettle",
+    "start": 143.082,
+    "end": 147.764,
+    "zh": "是显而易见的事情，就像热壶冷却",
+    "zh_hant": "是顯而易見的事情，就像熱壺冷卻"
+  },
+  {
+    "index": 32,
+    "text": "or the wearing-out of a pair of shoes.",
+    "start": 147.884,
+    "end": 150.345,
+    "zh": "或一双鞋磨损一样。",
+    "zh_hant": "或一雙鞋磨損一樣。"
+  },
+  {
+    "index": 33,
+    "text": "They have also assumed that all animals,",
+    "start": 150.646,
+    "end": 153.807,
+    "zh": "他们还假设所有动物，",
+    "zh_hant": "他們還假設所有動物，"
+  },
+  {
+    "index": 34,
+    "text": "and probably other organisms such as trees, or even the universe itself,",
+    "start": 153.727,
+    "end": 159.67,
+    "zh": "以及可能其他生物体，如树木，甚至宇宙本身，",
+    "zh_hant": "以及可能其他生物體，如樹木，甚至宇宙本身，"
+  },
+  {
+    "index": 35,
+    "text": "must in the nature of things 'wear out'.",
+    "start": 160.21,
+    "end": 165.233,
+    "zh": "都必然在本性上“磨损”。",
+    "zh_hant": "都必然在本性上“磨損”。"
+  },
+  {
+    "index": 36,
+    "text": "Most animals we commonly observe do in fact age as we do,",
+    "start": 164.883,
+    "end": 169.315,
+    "zh": "我们通常观察到的大多数动物确实像我们一样衰老，",
+    "zh_hant": "我們通常觀察到的大多數動物確實像我們一樣衰老，"
+  },
+  {
+    "index": 37,
+    "text": "if given the chance to live long enough;",
+    "start": 169.775,
+    "end": 172.316,
+    "zh": "如果给它们机会活足够长的话；",
+    "zh_hant": "如果給它們機會活足夠長的話；"
+  },
+  {
+    "index": 38,
+    "text": "and mechanical systems like a wound watch, or the sun,",
+    "start": 172.397,
+    "end": 177.339,
+    "zh": "而机械系统，如上了发条的手表或太阳，",
+    "zh_hant": "而機械系統，如上了發條的手錶或太陽，"
+  },
+  {
+    "index": 39,
+    "text": "do in fact run out of energy in accordance with the second law of thermodynamics",
+    "start": 177.559,
+    "end": 183.542,
+    "zh": "确实根据热力学第二定律耗尽能量，",
+    "zh_hant": "確實根據熱力學第二定律耗盡能量，"
+  },
+  {
+    "index": 40,
+    "text": "(whether the whole universe does so is a moot point at present).",
+    "start": 184.142,
+    "end": 188.384,
+    "zh": "（整个宇宙是否如此，目前尚无定论）。",
+    "zh_hant": "（整個宇宙是否如此，目前尚無定論）。"
+  },
+  {
+    "index": 41,
+    "text": "But these are not analogous to what happens when man ages.",
+    "start": 189.105,
+    "end": 193.767,
+    "zh": "但这些与人类衰老时发生的情况并不相似。",
+    "zh_hant": "但這些與人類衰老時發生的情況並不相似。"
+  },
+  {
+    "index": 42,
+    "text": "A run-down watch is still a watch and can be rewound.",
+    "start": 194.628,
+    "end": 199.53,
+    "zh": "一块停走的手表仍然是一块手表，可以重新上发条。",
+    "zh_hant": "一塊停走的手錶仍然是一塊手錶，可以重新上發條。"
+  },
+  {
+    "index": 43,
+    "text": "An old watch, by contrast,",
+    "start": 199.851,
+    "end": 202.872,
+    "zh": "相比之下，一块旧手表，",
+    "zh_hant": "相比之下，一塊舊手錶，"
+  },
+  {
+    "index": 44,
+    "text": "becomes so worn and unreliable that it eventually is not worth mending.",
+    "start": 202.952,
+    "end": 208.995,
+    "zh": "变得如此磨损和不可靠，最终不值得修理。",
+    "zh_hant": "變得如此磨損和不可靠，最終不值得修理。"
+  },
+  {
+    "index": 45,
+    "text": "But a watch could never repair itself--it does not consist of living parts,",
+    "start": 209.896,
+    "end": 216.139,
+    "zh": "但手表永远无法自我修复——它不由活部件组成，",
+    "zh_hant": "但手錶永遠無法自我修復——它不由活部件組成，"
+  },
+  {
+    "index": 46,
+    "text": "only of metal, which wears away by friction.",
+    "start": 216.079,
+    "end": 219.94,
+    "zh": "只有金属，金属会因摩擦而磨损。",
+    "zh_hant": "只有金屬，金屬會因摩擦而磨損。"
+  },
+  {
+    "index": 47,
+    "text": "We could, at one time, repair ourselves--well enough,",
+    "start": 220.961,
+    "end": 226.324,
+    "zh": "我们曾经可以自我修复——足够好，",
+    "zh_hant": "我們曾經可以自我修復——足夠好，"
+  },
+  {
+    "index": 48,
+    "text": "at least, to overcome all but the most instantly fatal illnesses and accidents.",
+    "start": 226.164,
+    "end": 232.567,
+    "zh": "至少能克服除最即时致命的疾病和事故外的一切。",
+    "zh_hant": "至少能克服除最即時致命的疾病和事故外的一切。"
+  },
+  {
+    "index": 49,
+    "text": "Between twelve and eighty years we gradually lose this power;",
+    "start": 233.667,
+    "end": 238.99,
+    "zh": "在12岁到80岁之间，我们逐渐失去这种能力；",
+    "zh_hant": "在12歲到80歲之間，我們逐漸失去這種能力；"
+  },
+  {
+    "index": 50,
+    "text": "an illness which at 12 would knock us over,",
+    "start": 239.62,
+    "end": 243.362,
+    "zh": "一种在12岁时会让 我们倒下的疾病，",
+    "zh_hant": "一種在12歲時會讓 我們倒下的疾病，"
+  },
+  {
+    "index": 51,
+    "text": "at 80 can knock us out, and into our grave.",
+    "start": 243.562,
+    "end": 248.204,
+    "zh": "在80岁时能让我们昏倒，并进入坟墓。",
+    "zh_hant": "在80歲時能讓我們昏倒，並進入墳墓。"
+  },
+  {
+    "index": 52,
+    "text": "If we could stay as vigorous as we are at twelve,",
+    "start": 248.764,
+    "end": 252.485,
+    "zh": "如果我们能像12岁时那样保持活力，",
+    "zh_hant": "如果我們能像12歲時那樣保持活力，"
+  },
+  {
+    "index": 53,
+    "text": "it would take about 700 years for half of us to die,",
+    "start": 252.506,
+    "end": 257.628,
+    "zh": "那么大约700年后我们中的一半人会死亡，",
+    "zh_hant": "那麼大約700年後我們中的一半人會死亡，"
+  },
+  {
+    "index": 54,
+    "text": "and another 700 for the survivors to be reduced by half again.",
+    "start": 257.888,
+    "end": 263.11,
+    "zh": "再过700年，幸存者又会减少一半。",
+    "zh_hant": "再過700年，倖存者又會減少一半。"
+  }
+]

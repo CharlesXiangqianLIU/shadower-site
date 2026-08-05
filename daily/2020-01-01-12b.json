@@ -1,30 +1,38 @@
 [
   {
     "index": 0,
-    "text": "Lesson 23 Which glasses?",
+    "text": "Lesson 23.",
     "start": 0.35,
-    "end": 4.692,
-    "zh": "第23课 哪些玻璃杯？",
-    "zh_hant": "第23課 哪些玻璃杯？"
+    "end": 2.842,
+    "zh": "第23课。",
+    "zh_hant": "第23課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then",
-    "start": 5.613,
-    "end": 8.614,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
+    "text": "Which glasses?",
+    "start": 2.892,
+    "end": 4.692,
+    "zh": "哪些玻璃杯？",
+    "zh_hant": "哪些玻璃杯？"
   },
   {
     "index": 2,
-    "text": "answer this question.",
-    "start": 8.495,
-    "end": 10.555,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
+    "text": "Listen to the tape",
+    "start": 5.613,
+    "end": 7.614,
+    "zh": "听录音",
+    "zh_hant": "聽錄音"
   },
   {
     "index": 3,
+    "text": "then answer this question.",
+    "start": 7.854,
+    "end": 10.555,
+    "zh": "然后回答这个问题。",
+    "zh_hant": "然後回答這個問題。"
+  },
+  {
+    "index": 4,
     "text": "Which glasses does the man want?",
     "start": 11.756,
     "end": 15.418,
@@ -32,15 +40,15 @@
     "zh_hant": "這個男人想要哪些玻璃杯？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Give me some glasses please, Jane.",
     "start": 17.139,
     "end": 20.681,
-    "zh": "请给我一些玻璃杯，简。",
-    "zh_hant": "請給我一些玻璃杯，簡。"
+    "zh": "简，请给我一些玻璃杯。",
+    "zh_hant": "簡，請給我一些玻璃杯。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Which glasses?",
     "start": 21.081,
     "end": 22.802,
@@ -48,7 +56,7 @@
     "zh_hant": "哪些玻璃杯？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "These glasses?",
     "start": 23.262,
     "end": 25.103,
@@ -56,7 +64,7 @@
     "zh_hant": "這些玻璃杯嗎？"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "No, not those.",
     "start": 25.804,
     "end": 28.225,
@@ -64,7 +72,7 @@
     "zh_hant": "不，不是那些。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "The ones on the shelf.",
     "start": 28.585,
     "end": 30.846,
@@ -72,7 +80,7 @@
     "zh_hant": "架子上的那些。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "These?",
     "start": 31.407,
     "end": 32.667,
@@ -80,7 +88,7 @@
     "zh_hant": "這些嗎？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Yes, please.",
     "start": 32.847,
     "end": 34.628,
@@ -88,7 +96,7 @@
     "zh_hant": "是的，請。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "Here you are.",
     "start": 34.928,
     "end": 36.469,
@@ -96,7 +104,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "Thanks.",
     "start": 36.99,
     "end": 38.01,

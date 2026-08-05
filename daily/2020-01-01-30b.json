@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 59 Is that all?",
+    "text": "Lesson 59.",
     "start": 0.67,
-    "end": 4.732,
-    "zh": "第59课 就这些吗？",
-    "zh_hant": "第59課 就這些嗎？"
+    "end": 3.102,
+    "zh": "第59课。",
+    "zh_hant": "第59課。"
   },
   {
     "index": 1,
+    "text": "Is that all?",
+    "start": 3.152,
+    "end": 4.732,
+    "zh": "就这些吗？",
+    "zh_hant": "就這些嗎？"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then",
     "start": 6.173,
     "end": 8.974,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "answer this question.",
     "start": 8.754,
     "end": 10.675,
@@ -24,7 +32,7 @@
     "zh_hant": "回答這個問題。"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Does the lady buy any chalk?",
     "start": 11.736,
     "end": 14.537,
@@ -32,7 +40,7 @@
     "zh_hant": "那位女士買粉筆了嗎？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "I want some envelopes, please.",
     "start": 16.478,
     "end": 19.64,
@@ -40,7 +48,7 @@
     "zh_hant": "請給我一些信封。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Do you want the large size or the small size?",
     "start": 20.16,
     "end": 24.302,
@@ -48,7 +56,7 @@
     "zh_hant": "您要大號的還是小號的？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "The large size, please.",
     "start": 25.203,
     "end": 27.804,
@@ -56,7 +64,7 @@
     "zh_hant": "請給我大號的。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Do you have any writing paper?",
     "start": 28.544,
     "end": 31.566,
@@ -64,39 +72,39 @@
     "zh_hant": "你們有信紙嗎？"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Yes, we do.",
     "start": 31.806,
     "end": 33.206,
-    "zh": "有，我们有。",
-    "zh_hant": "有，我們有。"
-  },
-  {
-    "index": 9,
-    "text": "I don't have any small pads.",
-    "start": 34.547,
-    "end": 37.809,
-    "zh": "我没有小号的便笺簿。",
-    "zh_hant": "我沒有小號的便箋簿。"
+    "zh": "有的，我们有。",
+    "zh_hant": "有的，我們有。"
   },
   {
     "index": 10,
-    "text": "I only have large ones.",
-    "start": 38.449,
-    "end": 41.071,
-    "zh": "我只有大号的。",
-    "zh_hant": "我只有大號的。"
+    "text": "I don't have any small pads.",
+    "start": 34.547,
+    "end": 37.809,
+    "zh": "我没有小本子。",
+    "zh_hant": "我沒有小本子。"
   },
   {
     "index": 11,
-    "text": "Do you want a pad?",
-    "start": 41.552,
-    "end": 43.793,
-    "zh": "您要一本便笺簿吗？",
-    "zh_hant": "您要一本便箋簿嗎？"
+    "text": "I only have large ones.",
+    "start": 38.449,
+    "end": 41.071,
+    "zh": "我只有大本的。",
+    "zh_hant": "我只有大本的。"
   },
   {
     "index": 12,
+    "text": "Do you want a pad?",
+    "start": 41.552,
+    "end": 43.793,
+    "zh": "您要一本吗？",
+    "zh_hant": "您要一本嗎？"
+  },
+  {
+    "index": 13,
     "text": "Yes, please.",
     "start": 44.153,
     "end": 46.034,
@@ -104,15 +112,15 @@
     "zh_hant": "好的，請給我。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "And I want some glue.",
     "start": 46.414,
     "end": 48.976,
-    "zh": "我还要一些胶水。",
-    "zh_hant": "我還要一些膠水。"
+    "zh": "我还想要一些胶水。",
+    "zh_hant": "我還想要一些膠水。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "A bottle of glue.",
     "start": 49.856,
     "end": 51.777,
@@ -120,7 +128,7 @@
     "zh_hant": "一瓶膠水。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "And I want a large box",
     "start": 53.078,
     "end": 56.1,
@@ -128,7 +136,7 @@
     "zh_hant": "我還要一大盒"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "of chalk, too.",
     "start": 55.88,
     "end": 57.681,
@@ -136,7 +144,7 @@
     "zh_hant": "粉筆。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "I only have small boxes.",
     "start": 58.341,
     "end": 61.143,
@@ -144,7 +152,7 @@
     "zh_hant": "我只有小盒的。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Do you want one?",
     "start": 61.363,
     "end": 62.924,
@@ -152,7 +160,7 @@
     "zh_hant": "您要一盒嗎？"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "No, thank you.",
     "start": 63.044,
     "end": 64.464,
@@ -160,7 +168,7 @@
     "zh_hant": "不，謝謝。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "Is that all?",
     "start": 64.905,
     "end": 66.366,
@@ -168,7 +176,7 @@
     "zh_hant": "就這些嗎？"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "That's all, thank you.",
     "start": 66.486,
     "end": 68.887,
@@ -176,15 +184,15 @@
     "zh_hant": "就這些，謝謝。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "What else do you want?",
     "start": 69.227,
     "end": 71.208,
-    "zh": "您还要别的吗？",
-    "zh_hant": "您還要別的嗎？"
+    "zh": "您还要什么？",
+    "zh_hant": "您還要什麼？"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "I want my change.",
     "start": 71.769,
     "end": 74.11,

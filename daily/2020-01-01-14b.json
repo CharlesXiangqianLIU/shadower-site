@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 27 Mrs. Smith's",
+    "text": "Lesson 27.",
     "start": 0.53,
-    "end": 4.712,
-    "zh": "第二十七课 史密斯夫人的",
-    "zh_hant": "第二十七課 史密斯夫人的"
+    "end": 3.082,
+    "zh": "第27课。",
+    "zh_hant": "第27課。"
   },
   {
     "index": 1,
-    "text": "living room",
-    "start": 4.612,
+    "text": "Mrs. Smith's living room.",
+    "start": 3.132,
     "end": 5.793,
-    "zh": "客厅",
-    "zh_hant": "客廳"
+    "zh": "史密斯夫人的客厅。",
+    "zh_hant": "史密斯夫人的客廳。"
   },
   {
     "index": 2,
@@ -108,24 +108,24 @@
     "text": "There is a stereo in the room.",
     "start": 53.279,
     "end": 56.66,
-    "zh": "房间里有一套音响。",
-    "zh_hant": "房間裡有一套音響。"
+    "zh": "房间里有一套立体声音响。",
+    "zh_hant": "房間裡有一套立體聲音響。"
   },
   {
     "index": 14,
     "text": "The stereo is near the door.",
     "start": 57.501,
     "end": 60.883,
-    "zh": "音响在门旁边。",
-    "zh_hant": "音響在門旁邊。"
+    "zh": "立体声音响在门旁边。",
+    "zh_hant": "立體聲音響在門旁邊。"
   },
   {
     "index": 15,
     "text": "There are some books on the stereo.",
     "start": 61.524,
     "end": 64.685,
-    "zh": "音响上有一些书。",
-    "zh_hant": "音響上有一些書。"
+    "zh": "立体声音响上有一些书。",
+    "zh_hant": "立體聲音響上有一些書。"
   },
   {
     "index": 16,
@@ -140,7 +140,7 @@
     "text": "The pictures are on the wall.",
     "start": 69.568,
     "end": 72.51,
-    "zh": "画在墙上。",
-    "zh_hant": "畫在牆上。"
+    "zh": "画挂在墙上。",
+    "zh_hant": "畫掛在牆上。"
   }
 ]

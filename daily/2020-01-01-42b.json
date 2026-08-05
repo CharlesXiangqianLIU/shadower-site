@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 83 Going",
+    "text": "Lesson 83.",
     "start": 0.851,
-    "end": 4.152,
-    "zh": "第83课 出行",
-    "zh_hant": "第83課 出行"
+    "end": 3.162,
+    "zh": "第83课。",
+    "zh_hant": "第83課。"
   },
   {
     "index": 1,
-    "text": "on holiday",
-    "start": 3.892,
+    "text": "Going on holiday.",
+    "start": 3.212,
     "end": 5.373,
-    "zh": "去度假",
-    "zh_hant": "去度假"
+    "zh": "去度假。",
+    "zh_hant": "去度假。"
   },
   {
     "index": 2,
@@ -76,16 +76,16 @@
     "text": "Do you want to have lunch with us?",
     "start": 26.864,
     "end": 30.125,
-    "zh": "你想和我们一起吃午饭吗？",
-    "zh_hant": "你想和我們一起吃午飯嗎？"
+    "zh": "你要和我们一起吃午饭吗？",
+    "zh_hant": "你要和我們一起吃午飯嗎？"
   },
   {
     "index": 10,
     "text": "No, thank you, Tom.",
     "start": 30.986,
     "end": 33.087,
-    "zh": "不，谢谢你，汤姆。",
-    "zh_hant": "不，謝謝你，湯姆。"
+    "zh": "不，谢谢了，汤姆。",
+    "zh_hant": "不，謝謝了，湯姆。"
   },
   {
     "index": 11,
@@ -108,16 +108,16 @@
     "text": "Have a cup of coffee then.",
     "start": 39.951,
     "end": 42.492,
-    "zh": "那喝杯咖啡吧。",
-    "zh_hant": "那喝杯咖啡吧。"
+    "zh": "那就喝杯咖啡吧。",
+    "zh_hant": "那就喝杯咖啡吧。"
   },
   {
     "index": 14,
     "text": "I've just had a cup, thank you.",
     "start": 43.012,
     "end": 45.973,
-    "zh": "我刚喝了一杯，谢谢。",
-    "zh_hant": "我剛喝了一杯，謝謝。"
+    "zh": "我刚喝了一杯，谢谢你。",
+    "zh_hant": "我剛喝了一杯，謝謝你。"
   },
   {
     "index": 15,
@@ -148,32 +148,32 @@
     "text": "Excuse the mess, Sam.",
     "start": 57.059,
     "end": 59.76,
-    "zh": "请别介意这儿乱，萨姆。",
-    "zh_hant": "請別介意這兒亂，薩姆。"
+    "zh": "别见怪，萨姆。",
+    "zh_hant": "別見怪，薩姆。"
   },
   {
     "index": 19,
     "text": "This room's very untidy.",
     "start": 60.22,
     "end": 63.002,
-    "zh": "这个房间太不整洁了。",
-    "zh_hant": "這個房間太不整潔了。"
+    "zh": "这个房间很乱。",
+    "zh_hant": "這個房間很亂。"
   },
   {
     "index": 20,
     "text": "We're packing our suitcases.",
     "start": 63.422,
     "end": 66.143,
-    "zh": "我们正在收拾行李箱。",
-    "zh_hant": "我們正在收拾行李箱。"
+    "zh": "我们在收拾行李箱。",
+    "zh_hant": "我們在收拾行李箱。"
   },
   {
     "index": 21,
     "text": "We're going to leave tomorrow.",
     "start": 66.444,
     "end": 69.265,
-    "zh": "我们明天就要走了。",
-    "zh_hant": "我們明天就要走了。"
+    "zh": "我们打算明天出发。",
+    "zh_hant": "我們打算明天出發。"
   },
   {
     "index": 22,
@@ -188,8 +188,8 @@
     "text": "Aren't you lucky!",
     "start": 74.367,
     "end": 76.108,
-    "zh": "你们多幸运啊！",
-    "zh_hant": "你們多幸運啊！"
+    "zh": "你们真幸运！",
+    "zh_hant": "你們真幸運！"
   },
   {
     "index": 24,
@@ -212,16 +212,16 @@
     "text": "I've already had my holiday this year.",
     "start": 83.517,
     "end": 87.162,
-    "zh": "我今年已经休过假了。",
-    "zh_hant": "我今年已經休過假了。"
+    "zh": "今年我已经度完假了。",
+    "zh_hant": "今年我已經度完假了。"
   },
   {
     "index": 27,
     "text": "Where did you go?",
     "start": 88.064,
     "end": 89.626,
-    "zh": "你去哪儿了？",
-    "zh_hant": "你去哪兒了？"
+    "zh": "你去了哪儿？",
+    "zh_hant": "你去了哪兒？"
   },
   {
     "index": 28,

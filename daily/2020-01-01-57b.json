@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 113 Small",
+    "text": "Lesson 113.",
     "start": 0.69,
-    "end": 4.812,
-    "zh": "第113课 零钱",
-    "zh_hant": "第113課 零錢"
+    "end": 3.842,
+    "zh": "第113课。",
+    "zh_hant": "第113課。"
   },
   {
     "index": 1,
-    "text": "change",
-    "start": 4.472,
+    "text": "Small change.",
+    "start": 3.892,
     "end": 5.573,
-    "zh": "换取",
-    "zh_hant": "換取"
+    "zh": "零钱。",
+    "zh_hant": "零錢。"
   },
   {
     "index": 2,
@@ -60,16 +60,16 @@
     "text": "I'm sorry, sir.",
     "start": 21.741,
     "end": 23.422,
-    "zh": "抱歉，先生。",
-    "zh_hant": "抱歉，先生。"
+    "zh": "对不起，先生。",
+    "zh_hant": "對不起，先生。"
   },
   {
     "index": 8,
     "text": "I can't change a ten-pound note.",
     "start": 24.263,
     "end": 27.864,
-    "zh": "我找不开十英镑的纸币。",
-    "zh_hant": "我找不開十英鎊的紙幣。"
+    "zh": "我找不开十英镑的钞票。",
+    "zh_hant": "我找不開十英鎊的鈔票。"
   },
   {
     "index": 9,
@@ -92,32 +92,32 @@
     "text": "I'll ask some of the passengers.",
     "start": 36.649,
     "end": 39.29,
-    "zh": "我去问问一些乘客。",
-    "zh_hant": "我去問問一些乘客。"
+    "zh": "我去问问其他乘客。",
+    "zh_hant": "我去問問其他乘客。"
   },
   {
     "index": 12,
     "text": "Have you any small change, sir?",
     "start": 40.14,
     "end": 43.321,
-    "zh": "您有零钱吗，先生？",
-    "zh_hant": "您有零錢嗎，先生？"
+    "zh": "先生，您有零钱吗？",
+    "zh_hant": "先生，您有零錢嗎？"
   },
   {
     "index": 13,
     "text": "I'm sorry.",
     "start": 43.701,
     "end": 44.881,
-    "zh": "抱歉。",
-    "zh_hant": "抱歉。"
+    "zh": "对不起。",
+    "zh_hant": "對不起。"
   },
   {
     "index": 14,
     "text": "I've got none.",
     "start": 44.921,
     "end": 46.522,
-    "zh": "我一点也没有。",
-    "zh_hant": "我一點也沒有。"
+    "zh": "我没有。",
+    "zh_hant": "我沒有。"
   },
   {
     "index": 15,
@@ -132,8 +132,8 @@
     "text": "Can you change this ten-pound note, madam?",
     "start": 51.703,
     "end": 55.984,
-    "zh": "您能换开这张十英镑的纸币吗，女士？",
-    "zh_hant": "您能換開這張十英鎊的紙幣嗎，女士？"
+    "zh": "夫人，您能换开这张十英镑的钞票吗？",
+    "zh_hant": "夫人，您能換開這張十英鎊的鈔票嗎？"
   },
   {
     "index": 17,
@@ -148,8 +148,8 @@
     "text": "Neither can I. I'm",
     "start": 60.165,
     "end": 63.726,
-    "zh": "我也不能。我",
-    "zh_hant": "我也不能。我"
+    "zh": "我也不能。",
+    "zh_hant": "我也不能。"
   },
   {
     "index": 19,
@@ -172,16 +172,16 @@
     "text": "None of our passengers",
     "start": 68.587,
     "end": 71.148,
-    "zh": "我们的乘客中没有人",
-    "zh_hant": "我們的乘客中沒有人"
+    "zh": "我们所有的乘客",
+    "zh_hant": "我們所有的乘客"
   },
   {
     "index": 22,
     "text": "can change this note.",
     "start": 70.808,
     "end": 73.188,
-    "zh": "能换开这张纸币。",
-    "zh_hant": "能換開這張紙幣。"
+    "zh": "都换不开这张钞票。",
+    "zh_hant": "都換不開這張鈔票。"
   },
   {
     "index": 23,

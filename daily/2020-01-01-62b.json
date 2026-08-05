@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 123 A trip",
+    "text": "Lesson 123.",
     "start": 0.71,
-    "end": 4.872,
-    "zh": "第123课 澳大利亚之行",
-    "zh_hant": "第123課 澳大利亞之行"
+    "end": 3.902,
+    "zh": "第123课。",
+    "zh_hant": "第123課。"
   },
   {
     "index": 1,
-    "text": "to Australia",
-    "start": 4.632,
+    "text": "A trip to Australia.",
+    "start": 3.952,
     "end": 6.313,
-    "zh": "去澳大利亚",
-    "zh_hant": "去澳大利亞"
+    "zh": "澳大利亚之行。",
+    "zh_hant": "澳大利亞之行。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "Who is the man with the beard?",
     "start": 12.896,
     "end": 15.858,
-    "zh": "那个留胡子的人是谁？",
-    "zh_hant": "那個留鬍子的人是誰？"
+    "zh": "那个留胡子的男人是谁？",
+    "zh_hant": "那個留鬍子的男人是誰？"
   },
   {
     "index": 5,
@@ -60,8 +60,8 @@
     "text": "during my trip to Australia.",
     "start": 22.921,
     "end": 25.883,
-    "zh": "在我去澳大利亚的旅途中拍的。",
-    "zh_hant": "在我去澳大利亞的旅途中拍的。"
+    "zh": "在我去澳大利亚旅行的时候。",
+    "zh_hant": "在我去澳大利亞旅行的時候。"
   },
   {
     "index": 8,
@@ -92,16 +92,16 @@
     "text": "They're people I met during the trip.",
     "start": 35.027,
     "end": 38.429,
-    "zh": "他们是我旅途中遇到的人。",
-    "zh_hant": "他們是我旅途中遇到的人。"
+    "zh": "他们是我旅行中遇到的人。",
+    "zh_hant": "他們是我旅行中遇到的人。"
   },
   {
     "index": 12,
     "text": "That's the ship we travelled on.",
     "start": 39.49,
     "end": 41.971,
-    "zh": "那就是我们乘坐的船。",
-    "zh_hant": "那就是我們乘坐的船。"
+    "zh": "那是我们乘坐的船。",
+    "zh_hant": "那是我們乘坐的船。"
   },
   {
     "index": 13,
@@ -124,8 +124,8 @@
     "text": "That's the man I told you about.",
     "start": 47.114,
     "end": 50.095,
-    "zh": "那是我跟你提过的那个人。",
-    "zh_hant": "那是我跟你提過的那個人。"
+    "zh": "那是我告诉过你的那个人。",
+    "zh_hant": "那是我告訴過你的那個人。"
   },
   {
     "index": 16,
@@ -172,8 +172,8 @@
     "text": "Guess!",
     "start": 60.541,
     "end": 61.501,
-    "zh": "猜猜看！",
-    "zh_hant": "猜猜看！"
+    "zh": "猜猜！",
+    "zh_hant": "猜猜！"
   },
   {
     "index": 22,
@@ -188,32 +188,32 @@
     "text": "That's right.",
     "start": 64.063,
     "end": 65.663,
-    "zh": "对。",
-    "zh_hant": "對。"
+    "zh": "没错。",
+    "zh_hant": "沒錯。"
   },
   {
     "index": 24,
     "text": "I grew a beard during the trip,",
     "start": 66.704,
     "end": 69.345,
-    "zh": "我在旅途中留了胡子，",
-    "zh_hant": "我在旅途中留了鬍子，"
+    "zh": "我在旅行期间留了胡子，",
+    "zh_hant": "我在旅行期間留了鬍子，"
   },
   {
     "index": 25,
     "text": "but I shaved it off when I came home.",
     "start": 69.706,
     "end": 73.427,
-    "zh": "但回家时剃掉了。",
-    "zh_hant": "但回家時剃掉了。"
+    "zh": "但回家后我把胡子剃掉了。",
+    "zh_hant": "但回家後我把鬍子剃掉了。"
   },
   {
     "index": 26,
     "text": "Why did you shave it off?",
     "start": 73.487,
     "end": 75.828,
-    "zh": "你为什么剃掉它？",
-    "zh_hant": "你為什麼剃掉它？"
+    "zh": "你为什么把它剃掉？",
+    "zh_hant": "你為什麼把它剃掉？"
   },
   {
     "index": 27,

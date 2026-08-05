@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 49 At the butcher's",
+    "text": "Lesson 49.",
     "start": 1.53,
-    "end": 5.712,
-    "zh": "第49课 在肉店",
-    "zh_hant": "第49課 在肉店"
+    "end": 3.962,
+    "zh": "第49课。",
+    "zh_hant": "第49課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.953,
-    "end": 11.095,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
+    "text": "At the butcher's.",
+    "start": 4.012,
+    "end": 5.712,
+    "zh": "在肉店里。",
+    "zh_hant": "在肉店裡。"
   },
   {
     "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.953,
+    "end": 11.095,
+    "zh": "听磁带，然后回答这个问题。",
+    "zh_hant": "聽磁帶，然後回答這個問題。"
+  },
+  {
+    "index": 3,
     "text": "What does Mr. Bird like?",
     "start": 13.256,
     "end": 15.917,
@@ -24,39 +32,39 @@
     "zh_hant": "伯德先生喜歡什麼？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Do you want any meat today, Mrs. Bird?",
     "start": 18.219,
     "end": 21.14,
-    "zh": "伯德太太，你今天要肉吗？",
-    "zh_hant": "伯德太太，你今天要肉嗎？"
-  },
-  {
-    "index": 4,
-    "text": "Yes, please.",
-    "start": 21.58,
-    "end": 22.921,
-    "zh": "是的，请给我一些。",
-    "zh_hant": "是的，請給我一些。"
+    "zh": "今天要肉吗，伯德太太？",
+    "zh_hant": "今天要肉嗎，伯德太太？"
   },
   {
     "index": 5,
-    "text": "Do you want beef or lamb?",
-    "start": 24.302,
-    "end": 26.963,
-    "zh": "你要牛肉还是羊肉？",
-    "zh_hant": "你要牛肉還是羊肉？"
+    "text": "Yes, please.",
+    "start": 21.58,
+    "end": 22.921,
+    "zh": "好的，麻烦您。",
+    "zh_hant": "好的，麻煩您。"
   },
   {
     "index": 6,
-    "text": "Beef, please.",
-    "start": 27.183,
-    "end": 28.964,
-    "zh": "请给我牛肉。",
-    "zh_hant": "請給我牛肉。"
+    "text": "Do you want beef or lamb?",
+    "start": 24.302,
+    "end": 26.963,
+    "zh": "要牛肉还是羊肉？",
+    "zh_hant": "要牛肉還是羊肉？"
   },
   {
     "index": 7,
+    "text": "Beef, please.",
+    "start": 27.183,
+    "end": 28.964,
+    "zh": "牛肉，谢谢。",
+    "zh_hant": "牛肉，謝謝。"
+  },
+  {
+    "index": 8,
     "text": "This lamb's very good.",
     "start": 29.724,
     "end": 31.825,
@@ -64,7 +72,7 @@
     "zh_hant": "這羊肉非常好。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "I like lamb, but my husband doesn't.",
     "start": 32.806,
     "end": 36.688,
@@ -72,7 +80,7 @@
     "zh_hant": "我喜歡羊肉，但我丈夫不喜歡。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "What about some steak?",
     "start": 37.888,
     "end": 39.729,
@@ -80,55 +88,55 @@
     "zh_hant": "來點牛排怎麼樣？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "This is a nice piece.",
     "start": 40.17,
     "end": 42.331,
-    "zh": "这块不错。",
-    "zh_hant": "這塊不錯。"
-  },
-  {
-    "index": 11,
-    "text": "Give me that piece, please.",
-    "start": 43.432,
-    "end": 45.834,
-    "zh": "请给我那块。",
-    "zh_hant": "請給我那塊。"
+    "zh": "这块很好。",
+    "zh_hant": "這塊很好。"
   },
   {
     "index": 12,
-    "text": "And a pound of mince, too.",
-    "start": 46.835,
-    "end": 49.376,
-    "zh": "还要一磅肉末。",
-    "zh_hant": "還要一磅肉末。"
+    "text": "Give me that piece, please.",
+    "start": 43.432,
+    "end": 45.834,
+    "zh": "请给我那一块。",
+    "zh_hant": "請給我那一塊。"
   },
   {
     "index": 13,
-    "text": "Do you want a chicken, Mrs. Bird?",
-    "start": 50.957,
-    "end": 53.719,
-    "zh": "伯德太太，你要鸡吗？",
-    "zh_hant": "伯德太太，你要雞嗎？"
+    "text": "And a pound of mince, too.",
+    "start": 46.835,
+    "end": 49.376,
+    "zh": "再来一磅肉馅。",
+    "zh_hant": "再來一磅肉餡。"
   },
   {
     "index": 14,
-    "text": "They're very nice.",
-    "start": 54.12,
-    "end": 55.961,
-    "zh": "这些鸡很好。",
-    "zh_hant": "這些雞很好。"
+    "text": "Do you want a chicken, Mrs. Bird?",
+    "start": 50.957,
+    "end": 53.719,
+    "zh": "要一只鸡吗，伯德太太？",
+    "zh_hant": "要一隻雞嗎，伯德太太？"
   },
   {
     "index": 15,
-    "text": "No, thank you.",
-    "start": 56.261,
-    "end": 57.722,
-    "zh": "不，谢谢。",
-    "zh_hant": "不，謝謝。"
+    "text": "They're very nice.",
+    "start": 54.12,
+    "end": 55.961,
+    "zh": "这些鸡很不错。",
+    "zh_hant": "這些雞很不錯。"
   },
   {
     "index": 16,
+    "text": "No, thank you.",
+    "start": 56.261,
+    "end": 57.722,
+    "zh": "不了，谢谢。",
+    "zh_hant": "不了，謝謝。"
+  },
+  {
+    "index": 17,
     "text": "My husband likes steak,",
     "start": 58.523,
     "end": 60.844,
@@ -136,7 +144,7 @@
     "zh_hant": "我丈夫喜歡牛排，"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "but he doesn't like chicken.",
     "start": 61.124,
     "end": 63.526,
@@ -144,7 +152,7 @@
     "zh_hant": "但他不喜歡雞。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "To tell you the truth, Mrs. Bird, I don't like chicken",
     "start": 64.487,
     "end": 68.849,
@@ -152,11 +160,11 @@
     "zh_hant": "說實話，伯德太太，我也不喜歡雞"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "either!",
     "start": 68.57,
     "end": 69.39,
-    "zh": "也一样！",
-    "zh_hant": "也一樣！"
+    "zh": "我也不喜欢！",
+    "zh_hant": "我也不喜歡！"
   }
 ]

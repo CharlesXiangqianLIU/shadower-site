@@ -1,290 +1,282 @@
 [
   {
     "index": 0,
-    "text": "Lesson 19 The stuff of dreams",
+    "text": "Lesson 19.",
     "start": 1.511,
-    "end": 8.314,
-    "zh": "第19课 梦的素材",
-    "zh_hant": "第19課 夢的素材"
+    "end": 3.782,
+    "zh": "第十九课。",
+    "zh_hant": "第十九課。"
   },
   {
     "index": 1,
-    "text": "What is going on when a person",
-    "start": 9.594,
-    "end": 15.397,
-    "zh": "当一个人",
-    "zh_hant": "當一個人"
+    "text": "The stuff of dreams.",
+    "start": 3.832,
+    "end": 8.314,
+    "zh": "梦的素材。",
+    "zh_hant": "夢的素材。"
   },
   {
     "index": 2,
-    "text": "experiences rapid eye-movements during sleep?",
-    "start": 15.077,
-    "end": 19.059,
-    "zh": "在睡眠中经历快速眼动时，发生了什么？",
-    "zh_hant": "在睡眠中經歷快速眼動時，發生了什麼？"
+    "text": "What is going on when a person",
+    "start": 9.594,
+    "end": 15.397,
+    "zh": "当一个人在睡眠中",
+    "zh_hant": "當一個人在睡眠中"
   },
   {
     "index": 3,
-    "text": "It is fairly clear that the sleeping period must have some function,",
-    "start": 21.44,
-    "end": 26.422,
-    "zh": "相当清楚的是，睡眠时间必定具有某种功能，",
-    "zh_hant": "相當清楚的是，睡眠時間必定具有某種功能，"
+    "text": "experiences rapid eye-movements during sleep?",
+    "start": 15.077,
+    "end": 19.059,
+    "zh": "经历快速眼球运动时，究竟发生了什么？",
+    "zh_hant": "經歷快速眼球運動時，究竟發生了什麼？"
   },
   {
     "index": 4,
-    "text": "and because there is so much of it the function would seem to be important.",
-    "start": 27.123,
-    "end": 31.545,
-    "zh": "而且由于睡眠占了这么多时间，这种功能似乎很重要。",
-    "zh_hant": "而且由於睡眠佔了這麼多時間，這種功能似乎很重要。"
+    "text": "It is fairly clear that the sleeping period must have some function,",
+    "start": 21.44,
+    "end": 26.422,
+    "zh": "相当清楚的是，睡眠期必定有一定的功能，",
+    "zh_hant": "相當清楚的是，睡眠期必定有一定的功能，"
   },
   {
     "index": 5,
-    "text": "Speculations about its nature have been going on for literally thousands of years,",
-    "start": 32.506,
-    "end": 38.208,
-    "zh": "关于其性质的推测，实际上已经持续了数千年，",
-    "zh_hant": "關於其性質的推測，實際上已經持續了數千年，"
+    "text": "and because there is so much of it the function would seem to be important.",
+    "start": 27.123,
+    "end": 31.545,
+    "zh": "而且由于睡眠时间如此之长，这种功能似乎很重要。",
+    "zh_hant": "而且由於睡眠時間如此之長，這種功能似乎很重要。"
   },
   {
     "index": 6,
-    "text": "and one odd finding that makes the problem puzzling is that it looks very much as if",
-    "start": 38.769,
-    "end": 44.412,
-    "zh": "一个让这个问题变得扑朔迷离的奇怪发现是，看起来非常像是",
-    "zh_hant": "一個讓這個問題變得撲朔迷離的奇怪發現是，看起來非常像是"
+    "text": "Speculations about its nature have been going on for literally thousands of years,",
+    "start": 32.506,
+    "end": 38.208,
+    "zh": "关于其本质的推测已经进行了数千年之久，",
+    "zh_hant": "關於其本質的推測已經進行了數千年之久，"
   },
   {
     "index": 7,
-    "text": "sleeping is not simply a matter of giving the body a rest.",
-    "start": 44.062,
-    "end": 49.774,
-    "zh": "睡眠并不仅仅是让身体休息的问题。",
-    "zh_hant": "睡眠並不僅僅是讓身體休息的問題。"
+    "text": "and one odd finding that makes the problem puzzling is that it looks very much as if",
+    "start": 38.769,
+    "end": 44.412,
+    "zh": "而一个让问题变得扑朔迷离的奇怪发现是，看起来很像",
+    "zh_hant": "而一個讓問題變得撲朔迷離的奇怪發現是，看起來很像"
   },
   {
     "index": 8,
-    "text": "in terms of muscle relaxation and so on,",
-    "start": 49.775,
-    "end": 52.776,
-    "zh": "就肌肉放松等方面而言，",
-    "zh_hant": "就肌肉放鬆等方面而言，"
+    "text": "sleeping is not simply a matter of giving the body a rest.",
+    "start": 44.062,
+    "end": 49.774,
+    "zh": "睡眠不仅仅是让身体休息那么简单。",
+    "zh_hant": "睡眠不僅僅是讓身體休息那麼簡單。"
   },
   {
     "index": 9,
-    "text": "can be achieved by a brief period lying, or even sitting down.",
-    "start": 52.916,
-    "end": 57.998,
-    "zh": "可以通过短暂躺下，甚至坐下就能实现。",
-    "zh_hant": "可以透過短暫躺下，甚至坐下就能實現。"
+    "text": "in terms of muscle relaxation and so on, can be achieved by a brief period",
+    "start": 49.775,
+    "end": 55.797,
+    "zh": "就肌肉放松等方面而言，只需短暂的时间",
+    "zh_hant": "就肌肉放鬆等方面而言，只需短暫的時間"
   },
   {
     "index": 10,
-    "text": "The body's tissues are self-repairing and self-restoring to a degree,",
-    "start": 58.879,
-    "end": 64.121,
-    "zh": "身体组织在一定程度上能自我修复和自我恢复，",
-    "zh_hant": "身體組織在一定程度上能自我修復和自我恢復，"
+    "text": "lying, or even sitting down.",
+    "start": 55.447,
+    "end": 57.998,
+    "zh": "躺下，甚至坐下就能实现。",
+    "zh_hant": "躺下，甚至坐下就能實現。"
   },
   {
     "index": 11,
-    "text": "and function best when more or less continuously active.",
-    "start": 64.542,
-    "end": 68.383,
-    "zh": "而且在差不多持续活动时功能最佳。",
-    "zh_hant": "而且在差不多持續活動時功能最佳。"
+    "text": "The body's tissues are self-repairing and self-restoring to a degree,",
+    "start": 58.879,
+    "end": 64.121,
+    "zh": "身体的组织在一定程度上具有自我修复和自我恢复的能力，",
+    "zh_hant": "身體的組織在一定程度上具有自我修復和自我恢復的能力，"
   },
   {
     "index": 12,
-    "text": "In fact a basic amount of movement occurs during sleep",
-    "start": 69.144,
-    "end": 73.246,
-    "zh": "事实上，睡眠中会发生基本量的活动，",
-    "zh_hant": "事實上，睡眠中會發生基本量的活動，"
+    "text": "and function best when more or less continuously active.",
+    "start": 64.542,
+    "end": 68.383,
+    "zh": "并且在保持大致持续活跃的状态下功能最佳。",
+    "zh_hant": "並且在保持大致持續活躍的狀態下功能最佳。"
   },
   {
     "index": 13,
-    "text": "which is specifically concerned with preventing muscle inactivity.",
-    "start": 73.186,
-    "end": 77.548,
-    "zh": "这活动专门用于防止肌肉不活动。",
-    "zh_hant": "這活動專門用於防止肌肉不活動。"
+    "text": "In fact a basic amount of movement occurs during sleep",
+    "start": 69.144,
+    "end": 73.246,
+    "zh": "事实上，睡眠期间会发生基本数量的活动，",
+    "zh_hant": "事實上，睡眠期間會發生基本數量的活動，"
   },
   {
     "index": 14,
-    "text": "If it is not a question of resting the body, then perhaps it is the brain that needs resting?",
-    "start": 79.569,
-    "end": 85.712,
-    "zh": "如果这不是休息身体的问题，那么也许需要休息的是大脑？",
-    "zh_hant": "如果這不是休息身體的問題，那麼也許需要休息的是大腦？"
+    "text": "which is specifically concerned with preventing muscle inactivity.",
+    "start": 73.186,
+    "end": 77.548,
+    "zh": "这些活动特别与防止肌肉不活动有关。",
+    "zh_hant": "這些活動特別與防止肌肉不活動有關。"
   },
   {
     "index": 15,
-    "text": "This might be a plausible hypothesis were it not for two factors.",
-    "start": 86.593,
-    "end": 91.115,
-    "zh": "要不是有两个因素，这或许是个合理的假设。",
-    "zh_hant": "要不是有兩個因素，這或許是個合理的假設。"
+    "text": "If it is not a question of resting the body, then perhaps it is the brain that needs resting?",
+    "start": 79.569,
+    "end": 85.712,
+    "zh": "如果不是休息身体的问题，那么也许需要休息的是大脑？",
+    "zh_hant": "如果不是休息身體的問題，那麼也許需要休息的是大腦？"
   },
   {
     "index": 16,
-    "text": "First the electroencephalograph",
-    "start": 91.716,
-    "end": 94.857,
-    "zh": "首先，脑电图仪",
-    "zh_hant": "首先，腦電圖儀"
+    "text": "This might be a plausible hypothesis were it not for two factors.",
+    "start": 86.593,
+    "end": 91.115,
+    "zh": "要不是有两个因素，这倒可能是个合理的假设。",
+    "zh_hant": "要不是有兩個因素，這倒可能是個合理的假設。"
   },
   {
     "index": 17,
-    "text": "(which is simply a device for recording the electrical activity of the brain",
-    "start": 94.877,
-    "end": 99.439,
-    "zh": "（它只是一个记录大脑电活动的装置，",
-    "zh_hant": "（它只是一個記錄大腦電活動的裝置，"
+    "text": "First the electroencephalograph (which is simply",
+    "start": 91.716,
+    "end": 96.198,
+    "zh": "首先是脑电图仪（它简单来说就是",
+    "zh_hant": "首先是腦電圖儀（它簡單來說就是"
   },
   {
     "index": 18,
-    "text": "by attaching electrodes to the scalp)",
-    "start": 99.359,
+    "text": "a device for recording the electrical activity of the brain by attaching electrodes to the scalp)",
+    "start": 95.848,
     "end": 101.82,
-    "zh": "通过把电极贴在头皮上）",
-    "zh_hant": "透過把電極貼在頭皮上）"
+    "zh": "一种通过将电极贴在头皮上来记录大脑电活动的装置）",
+    "zh_hant": "一種透過將電極貼在頭皮上來記錄大腦電活動的裝置）"
   },
   {
     "index": 19,
     "text": "shows that while there is a change in the pattern of activity during sleep,",
     "start": 102.141,
     "end": 106.543,
-    "zh": "显示，虽然睡眠中活动模式有变化，",
-    "zh_hant": "顯示，雖然睡眠中活動模式有變化，"
+    "zh": "显示，虽然睡眠期间活动模式有所变化，",
+    "zh_hant": "顯示，雖然睡眠期間活動模式有所變化，"
   },
   {
     "index": 20,
     "text": "there is no evidence that the total amount of activity is any less.",
     "start": 106.663,
     "end": 111.425,
-    "zh": "但没有证据表明活动总量有所减少。",
-    "zh_hant": "但沒有證據表明活動總量有所減少。"
+    "zh": "但没有证据表明总活动量有所减少。",
+    "zh_hant": "但沒有證據表明總活動量有所減少。"
   },
   {
     "index": 21,
     "text": "The second factor is more interesting and more fundamental.",
     "start": 112.726,
     "end": 116.448,
-    "zh": "第二个因素更有趣，也更根本。",
-    "zh_hant": "第二個因素更有趣，也更根本。"
+    "zh": "第二个因素更有趣，也更基本。",
+    "zh_hant": "第二個因素更有趣，也更基本。"
   },
   {
     "index": 22,
     "text": "Some years ago an American psychiatrist named William Dement",
     "start": 117.268,
     "end": 122.311,
-    "zh": "几年前，一位名叫威廉·迪蒙特的美国精神科医生",
-    "zh_hant": "幾年前，一位名叫威廉·迪蒙特的美國精神科醫生"
+    "zh": "几年前，一位名叫威廉·迪蒙特的美国精神病学家",
+    "zh_hant": "幾年前，一位名叫威廉·迪蒙特的美國精神病學家"
   },
   {
     "index": 23,
-    "text": "published experiments dealing",
+    "text": "published experiments dealing with the recording of eye-movements during sleep.",
     "start": 122.571,
-    "end": 124.852,
-    "zh": "发表了实验，涉及",
-    "zh_hant": "發表了實驗，涉及"
+    "end": 127.273,
+    "zh": "发表了关于记录睡眠中眼球运动的实验。",
+    "zh_hant": "發表了關於記錄睡眠中眼球運動的實驗。"
   },
   {
     "index": 24,
-    "text": "with the recording of eye-movements during sleep.",
-    "start": 124.502,
-    "end": 127.273,
-    "zh": "记录睡眠中的眼动。",
-    "zh_hant": "記錄睡眠中的眼動。"
+    "text": "He showed that the average individual's sleep cycle is punctuated",
+    "start": 128.254,
+    "end": 132.996,
+    "zh": "他表明，普通人的睡眠周期中穿插着",
+    "zh_hant": "他表明，普通人的睡眠週期中穿插著"
   },
   {
     "index": 25,
-    "text": "He showed that the average individual's sleep cycle",
-    "start": 128.254,
-    "end": 131.816,
-    "zh": "他表明，一般人的睡眠周期",
-    "zh_hant": "他表明，一般人的睡眠週期"
+    "text": "with peculiar bursts of eye-movements, some",
+    "start": 132.646,
+    "end": 136.238,
+    "zh": "特殊的眼球运动爆发，有些",
+    "zh_hant": "特殊的眼球運動爆發，有些"
   },
   {
     "index": 26,
-    "text": "is punctuated with peculiar bursts of eye-movements,",
-    "start": 131.696,
-    "end": 135.317,
-    "zh": "被一阵阵特有的眼动所打断，",
-    "zh_hant": "被一陣陣特有的眼動所打斷，"
+    "text": "drifting and slow, others jerky and rapid.",
+    "start": 135.888,
+    "end": 139.599,
+    "zh": "缓慢漂移，有些急促快速。",
+    "zh_hant": "緩慢漂移，有些急促快速。"
   },
   {
     "index": 27,
-    "text": "some drifting and slow, others jerky and rapid.",
-    "start": 135.498,
-    "end": 139.599,
-    "zh": "有些缓慢而漂移，有些急促而快速。",
-    "zh_hant": "有些緩慢而漂移，有些急促而快速。"
-  },
-  {
-    "index": 28,
     "text": "People woken during these periods of eye-movements generally reported that they had been dreaming.",
     "start": 140.42,
     "end": 146.683,
-    "zh": "在这些眼动期被叫醒的人通常报告说他们正在做梦。",
-    "zh_hant": "在這些眼動期被叫醒的人通常報告說他們正在做夢。"
+    "zh": "在这些眼球运动期间被唤醒的人，通常报告说他们在做梦。",
+    "zh_hant": "在這些眼球運動期間被喚醒的人，通常報告說他們在做夢。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "When woken at other times they reported no dreams.",
     "start": 147.443,
     "end": 151.105,
-    "zh": "在其他时间被叫醒时，他们没有报告梦境。",
-    "zh_hant": "在其他時間被叫醒時，他們沒有報告夢境。"
+    "zh": "在其他时间被唤醒时，他们报告没有做梦。",
+    "zh_hant": "在其他時間被喚醒時，他們報告沒有做夢。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "If one group of people were disturbed from their eye-movement sleep for several nights on end,",
     "start": 151.826,
     "end": 157.108,
-    "zh": "如果一组人连续几夜被从眼动睡眠中干扰醒来，",
-    "zh_hant": "如果一組人連續幾夜被從眼動睡眠中干擾醒來，"
+    "zh": "如果一组人连续几夜在眼球运动睡眠中被干扰，",
+    "zh_hant": "如果一組人連續幾夜在眼球運動睡眠中被幹擾，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "and another group were disturbed for an equal period of time but when they were not exhibiting eye-movements,",
     "start": 157.628,
     "end": 163.914,
-    "zh": "而另一组人被干扰同等的时长，但发生干扰时他们没有表现出眼动，",
-    "zh_hant": "而另一組人被幹擾同等的時長，但發生干擾時他們沒有表現出眼動，"
+    "zh": "而另一组人在同样长的时间内被干扰，但只是在没有眼球运动时，",
+    "zh_hant": "而另一組人在同樣長的時間內被幹擾，但只是在沒有眼球運動時，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "the first group began to show some personality disorders",
     "start": 164.115,
     "end": 167.878,
-    "zh": "第一组开始出现一些人格障碍，",
-    "zh_hant": "第一組開始出現一些人格障礙，"
+    "zh": "第一组开始表现出一些人格障碍，",
+    "zh_hant": "第一組開始表現出一些人格障礙，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "while the others seemed more or less unaffected.",
     "start": 167.919,
     "end": 170.821,
-    "zh": "而另一组似乎几乎未受影响。",
-    "zh_hant": "而另一組似乎幾乎未受影響。"
+    "zh": "而另一组似乎几乎不受影响。",
+    "zh_hant": "而另一組似乎幾乎不受影響。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "The implications of all this were that it was not the disturbance of sleep that mattered,",
     "start": 171.563,
     "end": 176.568,
-    "zh": "这一切的含义是，重要的不是睡眠的干扰，",
-    "zh_hant": "這一切的含義是，重要的不是睡眠的干擾，"
+    "zh": "这一切的含义是，重要的不是睡眠的中断，",
+    "zh_hant": "這一切的含義是，重要的不是睡眠的中斷，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "but the disturbance of dreaming.",
     "start": 176.468,
     "end": 178.45,
-    "zh": "而是梦境的干扰。",
-    "zh_hant": "而是夢境的干擾。"
+    "zh": "而是做梦的中断。",
+    "zh_hant": "而是做夢的中斷。"
   }
 ]

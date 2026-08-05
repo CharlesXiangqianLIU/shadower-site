@@ -1,78 +1,70 @@
 [
   {
     "index": 0,
-    "text": "Lesson 22",
+    "text": "Lesson 22.",
     "start": 0.47,
     "end": 2.501,
-    "zh": "第22课",
-    "zh_hant": "第22課"
+    "zh": "第二十二课。",
+    "zh_hant": "第二十二課。"
   },
   {
     "index": 1,
-    "text": "By heart",
+    "text": "By heart.",
     "start": 2.551,
     "end": 7.974,
-    "zh": "熟记于心",
-    "zh_hant": "熟記於心"
+    "zh": "熟记于心。",
+    "zh_hant": "熟記於心。"
   },
   {
     "index": 2,
-    "text": "Which actor read the letter",
+    "text": "Which actor read the letter in the end,",
     "start": 8.114,
-    "end": 11.876,
-    "zh": "哪位演员读了那封信，",
-    "zh_hant": "哪位演員讀了那封信，"
+    "end": 12.756,
+    "zh": "最后是哪位演员读了那封信，",
+    "zh_hant": "最後是哪位演員讀了那封信，"
   },
   {
     "index": 3,
-    "text": "in the end, the aristocrat or the gaoler?",
-    "start": 11.536,
+    "text": "the aristocrat or the gaoler?",
+    "start": 12.756,
     "end": 15.498,
-    "zh": "最后，是贵族还是狱卒？",
-    "zh_hant": "最後，是貴族還是獄卒？"
+    "zh": "贵族还是狱卒？",
+    "zh_hant": "貴族還是獄卒？"
   },
   {
     "index": 4,
     "text": "Some plays are so successful that they run for years on end.",
     "start": 17.339,
     "end": 22.081,
-    "zh": "有些剧目非常成功，以至于连演数年不衰。",
-    "zh_hant": "有些劇目非常成功，以至於連演數年不衰。"
+    "zh": "有些戏剧非常成功，以至于能连续上演多年。",
+    "zh_hant": "有些戲劇非常成功，以至於能連續上演多年。"
   },
   {
     "index": 5,
-    "text": "In many ways, this is unfortunate",
+    "text": "In many ways, this is unfortunate for the poor actors",
     "start": 22.361,
-    "end": 25.482,
-    "zh": "从很多方面来说，这很不幸，",
-    "zh_hant": "從很多方面來說，這很不幸，"
+    "end": 27.043,
+    "zh": "从很多方面来说，这对可怜的演员们是不幸的，",
+    "zh_hant": "從很多方面來說，這對可憐的演員們是不幸的，"
   },
   {
     "index": 6,
-    "text": "for the poor actors who are required to go",
-    "start": 25.132,
-    "end": 28.604,
-    "zh": "因为可怜的演员们被迫",
-    "zh_hant": "因為可憐的演員們被迫"
+    "text": "who are required to go on repeating the same lines night after night.",
+    "start": 26.883,
+    "end": 32.406,
+    "zh": "因为他们被迫夜复一夜地重复同样的台词。",
+    "zh_hant": "因為他們被迫夜復一夜地重複同樣的臺詞。"
   },
   {
     "index": 7,
-    "text": "on repeating the same lines night after night.",
-    "start": 28.364,
-    "end": 32.406,
-    "zh": "夜复一夜地重复同样的台词。",
-    "zh_hant": "夜復一夜地重複同樣的臺詞。"
-  },
-  {
-    "index": 8,
     "text": "One would expect them to know their parts by heart and never have cause to falter.",
     "start": 32.986,
     "end": 38.669,
-    "zh": "人们会以为他们早已把台词背得滚瓜烂熟，绝不会有卡壳的理由。",
-    "zh_hant": "人們會以為他們早已把臺詞背得滾瓜爛熟，絕不會有卡殼的理由。"
+    "zh": "人们会以为他们能把台词背得滚瓜烂熟，绝不会出错。",
+    "zh_hant": "人們會以為他們能把臺詞背得滾瓜爛熟，絕不會出錯。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Yet this is not always the case.",
     "start": 39.089,
     "end": 41.811,
@@ -80,111 +72,103 @@
     "zh_hant": "然而，情況並非總是如此。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "A famous actor in a highly successful play",
     "start": 42.732,
     "end": 46.233,
-    "zh": "一位著名演员在一部极为成功的剧目中",
-    "zh_hant": "一位著名演員在一部極為成功的劇目中"
+    "zh": "一位著名演员在一部非常成功的戏剧中",
+    "zh_hant": "一位著名演員在一部非常成功的戲劇中"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "was once cast in the role of an aristocrat",
     "start": 46.173,
     "end": 49.655,
-    "zh": "曾饰演一个贵族的角色，",
-    "zh_hant": "曾飾演一個貴族的角色，"
+    "zh": "曾被安排扮演一个贵族的角色，",
+    "zh_hant": "曾被安排扮演一個貴族的角色，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "who had been imprisoned in the Bastille for twenty years.",
     "start": 49.495,
     "end": 53.857,
-    "zh": "此人被囚禁在巴士底狱长达二十年。",
-    "zh_hant": "此人被囚禁在巴士底獄長達二十年。"
+    "zh": "这个贵族被关在巴士底狱长达二十年。",
+    "zh_hant": "這個貴族被關在巴士底獄長達二十年。"
+  },
+  {
+    "index": 12,
+    "text": "In the last act,",
+    "start": 54.217,
+    "end": 56.018,
+    "zh": "在最后一幕中，",
+    "zh_hant": "在最後一幕中，"
   },
   {
     "index": 13,
-    "text": "In the last act, a gaoler would always come",
-    "start": 54.217,
-    "end": 58.539,
-    "zh": "在最后一幕中，狱卒总会",
-    "zh_hant": "在最後一幕中，獄卒總會"
+    "text": "a gaoler would always come on to the stage with a letter",
+    "start": 56.018,
+    "end": 60.28,
+    "zh": "狱卒总是拿着一封信走上舞台，",
+    "zh_hant": "獄卒總是拿著一封信走上舞臺，"
   },
   {
     "index": 14,
-    "text": "on to the stage with a letter which he would hand to the prisoner.",
-    "start": 58.199,
+    "text": "which he would hand to the prisoner.",
+    "start": 60.24,
     "end": 62.681,
-    "zh": "带着一封信走上舞台，并把信递给囚犯。",
-    "zh_hant": "帶著一封信走上舞臺，並把信遞給囚犯。"
+    "zh": "然后把信递给囚犯。",
+    "zh_hant": "然後把信遞給囚犯。"
   },
   {
     "index": 15,
     "text": "Even though the noble was expected to read the letter at each performance,",
     "start": 63.322,
     "end": 68.064,
-    "zh": "尽管这位贵族每次演出时都被要求读信，",
-    "zh_hant": "儘管這位貴族每次演出時都被要求讀信，"
+    "zh": "尽管这位贵族每次演出时都被期待读那封信，",
+    "zh_hant": "儘管這位貴族每次演出時都被期待讀那封信，"
   },
   {
     "index": 16,
     "text": "he always insisted that it should be written out in full.",
     "start": 68.044,
     "end": 72.026,
-    "zh": "他却始终坚持信要全文写出。",
-    "zh_hant": "他卻始終堅持信要全文寫出。"
+    "zh": "他却坚持要求把信完整地写出来。",
+    "zh_hant": "他卻堅持要求把信完整地寫出來。"
   },
   {
     "index": 17,
-    "text": "One night, the gaoler decided to play a joke on his colleague",
+    "text": "One night, the gaoler decided to play a joke on his colleague to find out if,",
     "start": 72.846,
-    "end": 77.148,
-    "zh": "一天晚上，狱卒决定跟他的同事开个玩笑，",
-    "zh_hant": "一天晚上，獄卒決定跟他的同事開個玩笑，"
+    "end": 78.569,
+    "zh": "一天晚上，狱卒决定和同事开个玩笑，想看看，",
+    "zh_hant": "一天晚上，獄卒決定和同事開個玩笑，想看看，"
   },
   {
     "index": 18,
-    "text": "to find out if, after so many performances,",
-    "start": 76.988,
-    "end": 80.65,
-    "zh": "想看看经过这么多场演出之后，",
-    "zh_hant": "想看看經過這麼多場演出之後，"
+    "text": "after so many performances, he had managed to learn the contents of the letter by heart.",
+    "start": 78.389,
+    "end": 84.752,
+    "zh": "在这么多场演出之后，他是否已经设法把信的内容背熟了。",
+    "zh_hant": "在這麼多場演出之後，他是否已經設法把信的內容背熟了。"
   },
   {
     "index": 19,
-    "text": "he had managed to learn the contents of the letter by heart.",
-    "start": 80.65,
-    "end": 84.752,
-    "zh": "他是否已设法把信的内容背了下来。",
-    "zh_hant": "他是否已設法把信的內容背了下來。"
+    "text": "The curtain went up on the final act of the play",
+    "start": 85.413,
+    "end": 88.894,
+    "zh": "幕布在戏剧的最后一幕升起，",
+    "zh_hant": "幕布在戲劇的最後一幕升起，"
   },
   {
     "index": 20,
-    "text": "The curtain went up on the final act of the play and revealed the aristocrat",
-    "start": 85.413,
-    "end": 90.935,
-    "zh": "帷幕在剧终一幕升起，露出贵族",
-    "zh_hant": "帷幕在劇終一幕升起，露出貴族"
+    "text": "and revealed the aristocrat sitting alone behind bars in his dark cell.",
+    "start": 88.774,
+    "end": 94.477,
+    "zh": "显露出贵族独自坐在黑暗牢房里的铁栏后。",
+    "zh_hant": "顯露出貴族獨自坐在黑暗牢房裡的鐵欄後。"
   },
   {
     "index": 21,
-    "text": "sitting alone behind bars",
-    "start": 90.835,
-    "end": 93.096,
-    "zh": "独自坐在铁栏后面",
-    "zh_hant": "獨自坐在鐵欄後面"
-  },
-  {
-    "index": 22,
-    "text": "in his dark cell.",
-    "start": 92.746,
-    "end": 94.477,
-    "zh": "昏暗的牢房里。",
-    "zh_hant": "昏暗的牢房裡。"
-  },
-  {
-    "index": 23,
     "text": "Just then, the gaoler appeared with the precious letter in his hands.",
     "start": 95.058,
     "end": 100.04,
@@ -192,7 +176,7 @@
     "zh_hant": "就在這時，獄卒手裡拿著那封珍貴的信出現了。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "He entered the cell and presented the letter to the aristocrat.",
     "start": 100.24,
     "end": 104.862,
@@ -200,15 +184,15 @@
     "zh_hant": "他走進牢房，把信遞給貴族。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "But the copy he gave him had not been written out in full as usual.",
     "start": 105.103,
     "end": 110.085,
-    "zh": "但他递过去的副本并没有像往常那样全文写出。",
-    "zh_hant": "但他遞過去的副本並沒有像往常那樣全文寫出。"
+    "zh": "但他给的那份副本并没有像往常那样写满全文。",
+    "zh_hant": "但他給的那份副本並沒有像往常那樣寫滿全文。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "It was simply a blank sheet of paper.",
     "start": 110.385,
     "end": 113.526,
@@ -216,23 +200,23 @@
     "zh_hant": "那只是一張白紙。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "The gaoler looked on eagerly,",
     "start": 114.067,
     "end": 116.428,
-    "zh": "狱卒急切地旁观着，",
-    "zh_hant": "獄卒急切地旁觀著，"
+    "zh": "狱卒急切地看着，",
+    "zh_hant": "獄卒急切地看著，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "anxious to see if his fellow actor had at last learnt his lines.",
     "start": 116.488,
     "end": 121.731,
-    "zh": "迫切想看看他的同行是否终于记住了台词。",
-    "zh_hant": "迫切想看看他的同行是否終於記住了臺詞。"
+    "zh": "急于想知道他的同事是否终于记住了台词。",
+    "zh_hant": "急於想知道他的同事是否終於記住了臺詞。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "The noble stared at the blank sheet of paper for a few seconds.",
     "start": 122.191,
     "end": 126.994,
@@ -240,7 +224,7 @@
     "zh_hant": "貴族盯著那張白紙看了幾秒鐘。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Then, squinting his eyes, he said: 'The light is dim.",
     "start": 127.494,
     "end": 133.617,
@@ -248,75 +232,75 @@
     "zh_hant": "然後，他眯起眼睛說：“光線太暗了。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Read the letter to me.'",
     "start": 133.857,
     "end": 135.938,
-    "zh": "把信念给我听。”",
-    "zh_hant": "把信念給我聽。”"
+    "zh": "把信读给我听。”",
+    "zh_hant": "把信讀給我聽。”"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "And he promptly handed the sheet of paper to the gaoler.",
     "start": 136.018,
     "end": 139.78,
-    "zh": "他随即把纸递给了狱卒。",
-    "zh_hant": "他隨即把紙遞給了獄卒。"
+    "zh": "他立刻把那张纸递给狱卒。",
+    "zh_hant": "他立刻把那張紙遞給獄卒。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "Finding that he could not remember a word of the letter either,",
     "start": 140.42,
     "end": 144.662,
-    "zh": "狱卒发现自己也一个字都记不得那封信的内容，",
-    "zh_hant": "獄卒發現自己也一個字都記不得那封信的內容，"
+    "zh": "狱卒发现自己也记不清信里的一个字，",
+    "zh_hant": "獄卒發現自己也記不清信裡的一個字，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "the gaoler replied: 'The light is indeed dim, sire.",
     "start": 144.763,
     "end": 150.065,
-    "zh": "于是回答说：“光线确实很暗，殿下。",
-    "zh_hant": "於是回答說：“光線確實很暗，殿下。"
+    "zh": "便回答说：“光线确实很暗，阁下。",
+    "zh_hant": "便回答說：“光線確實很暗，閣下。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "I must get my glasses.",
     "start": 150.245,
     "end": 152.306,
-    "zh": "我得去拿我的眼镜。",
-    "zh_hant": "我得去拿我的眼鏡。"
+    "zh": "我得去拿眼镜。”",
+    "zh_hant": "我得去拿眼鏡。”"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "' With this, he hurried off the stage.",
     "start": 152.226,
     "end": 155.808,
-    "zh": "说着，他匆忙离开了舞台。",
-    "zh_hant": "說著，他匆忙離開了舞臺。"
+    "zh": "说完，他匆匆跑下舞台。",
+    "zh_hant": "說完，他匆匆跑下舞臺。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Much to the aristocrat's amusement,",
     "start": 156.328,
     "end": 158.869,
-    "zh": "令贵族大为好笑的是，",
-    "zh_hant": "令貴族大為好笑的是，"
+    "zh": "让贵族觉得非常有趣的是，",
+    "zh_hant": "讓貴族覺得非常有趣的是，"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "the gaoler returned a few moments later with a pair of glasses",
     "start": 158.769,
     "end": 163.357,
-    "zh": "狱卒片刻后带着一副眼镜回来了，",
-    "zh_hant": "獄卒片刻後帶著一副眼鏡回來了，"
+    "zh": "狱卒过了一会儿回来了，戴着一副眼镜，",
+    "zh_hant": "獄卒過了一會兒回來了，戴著一副眼鏡，"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "and the usual copy of the letter which he proceeded to read to the prisoner.",
     "start": 163.298,
     "end": 169.449,
-    "zh": "还有那封通常的副本，他随即把它读给囚犯听。",
-    "zh_hant": "還有那封通常的副本，他隨即把它讀給囚犯聽。"
+    "zh": "还拿着通常的那份信，然后开始读给囚犯听。",
+    "zh_hant": "還拿著通常的那份信，然後開始讀給囚犯聽。"
   }
 ]

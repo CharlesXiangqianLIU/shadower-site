@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 11 Not guilty",
+    "text": "Lesson 11.",
     "start": 1.59,
-    "end": 7.373,
-    "zh": "第11课 并非有罪",
-    "zh_hant": "第11課 並非有罪"
+    "end": 3.641,
+    "zh": "第十一课。",
+    "zh_hant": "第十一課。"
   },
   {
     "index": 1,
-    "text": "What was the Customs Officer looking for?",
-    "start": 7.023,
-    "end": 14.977,
-    "zh": "海关官员在寻找什么？",
-    "zh_hant": "海關官員在尋找什麼？"
+    "text": "Not guilty.",
+    "start": 3.691,
+    "end": 7.373,
+    "zh": "无罪。",
+    "zh_hant": "無罪。"
   },
   {
     "index": 2,
+    "text": "What was the Customs Officer looking for?",
+    "start": 7.023,
+    "end": 14.977,
+    "zh": "海关官员在找什么？",
+    "zh_hant": "海關官員在找什麼？"
+  },
+  {
+    "index": 3,
     "text": "Customs Officers are quite tolerant these days,",
     "start": 17.278,
     "end": 20.5,
@@ -24,39 +32,39 @@
     "zh_hant": "如今海關官員相當寬容，"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "but they can still stop you when you are going through the Green Channel and have nothing to declare.",
     "start": 20.5,
     "end": 26.062,
-    "zh": "但当你通过绿色通道且没有申报物品时，他们仍可能拦下你。",
-    "zh_hant": "但當你透過綠色通道且沒有申報物品時，他們仍可能攔下你。"
-  },
-  {
-    "index": 4,
-    "text": "Even really honest people are often made to feel guilty.",
-    "start": 27.143,
-    "end": 30.925,
-    "zh": "即使非常诚实的人也常常被弄得感到内疚。",
-    "zh_hant": "即使非常誠實的人也常常被弄得感到內疚。"
+    "zh": "但当你走绿色通道且没有东西要申报时，他们仍可能拦住你。",
+    "zh_hant": "但當你走綠色通道且沒有東西要申報時，他們仍可能攔住你。"
   },
   {
     "index": 5,
-    "text": "The hardened professional smuggler, on the other hand, is never troubled by such feelings,",
-    "start": 31.986,
-    "end": 36.988,
-    "zh": "另一方面，老练的职业走私犯却从不为此类感觉所困扰，",
-    "zh_hant": "另一方面，老練的職業走私犯卻從不為此類感覺所困擾，"
+    "text": "Even really honest people are often made to feel guilty.",
+    "start": 27.143,
+    "end": 30.925,
+    "zh": "即使真正诚实的人也常常被弄得自觉有罪。",
+    "zh_hant": "即使真正誠實的人也常常被弄得自覺有罪。"
   },
   {
     "index": 6,
-    "text": "even if he has five hundred gold watches hidden in his suitcase.",
-    "start": 37.188,
-    "end": 41.43,
-    "zh": "即使他的手提箱里藏有五百只金表。",
-    "zh_hant": "即使他的手提箱裡藏有五百隻金錶。"
+    "text": "The hardened professional smuggler, on the other hand, is never troubled by such feelings,",
+    "start": 31.986,
+    "end": 36.988,
+    "zh": "另一方面，老练的职业走私犯从不为这种感受所困扰，",
+    "zh_hant": "另一方面，老練的職業走私犯從不為這種感受所困擾，"
   },
   {
     "index": 7,
+    "text": "even if he has five hundred gold watches hidden in his suitcase.",
+    "start": 37.188,
+    "end": 41.43,
+    "zh": "即使他手提箱里藏着五百块金表。",
+    "zh_hant": "即使他手提箱裡藏著五百塊金錶。"
+  },
+  {
+    "index": 8,
     "text": "When I returned from abroad recently,",
     "start": 42.091,
     "end": 44.311,
@@ -64,23 +72,23 @@
     "zh_hant": "最近我從國外回來時，"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "a particularly officious young Customs Officer clearly regarded me as a smuggler.",
     "start": 44.592,
     "end": 50.595,
-    "zh": "一位特别多管闲事的年轻海关官员显然把我当成了走私犯。",
-    "zh_hant": "一位特別多管閒事的年輕海關官員顯然把我當成了走私犯。"
-  },
-  {
-    "index": 9,
-    "text": "'Have you anything to declare?'",
-    "start": 50.495,
-    "end": 53.896,
-    "zh": "'你有什么要申报的吗？'",
-    "zh_hant": "'你有什麼要申報的嗎？'"
+    "zh": "一位特别爱管闲事的年轻海关官员显然把我当成了走私犯。",
+    "zh_hant": "一位特別愛管閒事的年輕海關官員顯然把我當成了走私犯。"
   },
   {
     "index": 10,
+    "text": "'Have you anything to declare?'",
+    "start": 50.495,
+    "end": 53.896,
+    "zh": "“你有什么要申报的吗？”",
+    "zh_hant": "“你有什麼要申報的嗎？”"
+  },
+  {
+    "index": 11,
     "text": "he asked, looking me in the eye.",
     "start": 53.546,
     "end": 55.977,
@@ -88,31 +96,31 @@
     "zh_hant": "他問道，直視著我的眼睛。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "'No,' I answered confidently.",
     "start": 55.627,
     "end": 58.899,
-    "zh": "'没有，'我自信地回答。",
-    "zh_hant": "'沒有，'我自信地回答。"
-  },
-  {
-    "index": 12,
-    "text": "'Would you mind unlocking this suitcase please?",
-    "start": 58.639,
-    "end": 62.7,
-    "zh": "'你介不介意打开这个手提箱？'",
-    "zh_hant": "'你介不介意開啟這個手提箱？'"
+    "zh": "“没有，”我自信地回答。",
+    "zh_hant": "“沒有，”我自信地回答。"
   },
   {
     "index": 13,
-    "text": "' 'Not at all,' I answered.",
-    "start": 62.35,
-    "end": 65.122,
-    "zh": "'一点也不，'我回答。",
-    "zh_hant": "'一點也不，'我回答。"
+    "text": "'Would you mind unlocking this suitcase please?",
+    "start": 58.639,
+    "end": 62.7,
+    "zh": "“请打开这个手提箱好吗？”",
+    "zh_hant": "“請開啟這個手提箱好嗎？”"
   },
   {
     "index": 14,
+    "text": "' 'Not at all,' I answered.",
+    "start": 62.35,
+    "end": 65.122,
+    "zh": "“没问题，”我回答。",
+    "zh_hant": "“沒問題，”我回答。"
+  },
+  {
+    "index": 15,
     "text": "The Officer went through the case with great care.",
     "start": 66.022,
     "end": 69.204,
@@ -120,15 +128,15 @@
     "zh_hant": "那位官員非常仔細地檢查了箱子。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "All the things I had packed so carefully were soon in a dreadful mess.",
     "start": 69.904,
     "end": 74.206,
-    "zh": "我精心打包的所有东西很快变得一团糟。",
-    "zh_hant": "我精心打包的所有東西很快變得一團糟。"
+    "zh": "我精心打包的所有东西很快就乱成一团。",
+    "zh_hant": "我精心打包的所有東西很快就亂成一團。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "I felt sure I would never be able to close the case again.",
     "start": 74.827,
     "end": 78.428,
@@ -136,7 +144,7 @@
     "zh_hant": "我確信自己再也無法把箱子合上了。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "Suddenly, I saw the Officer's face light up.",
     "start": 78.889,
     "end": 81.99,
@@ -144,87 +152,87 @@
     "zh_hant": "突然，我看到那位官員的臉亮了起來。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.",
     "start": 82.711,
     "end": 89.054,
-    "zh": "他发现了箱子底部的一个小瓶子，便高兴地扑了上去。",
-    "zh_hant": "他發現了箱子底部的一個小瓶子，便高興地撲了上去。"
-  },
-  {
-    "index": 19,
-    "text": "'Perfume, eh?'",
-    "start": 90.175,
-    "end": 91.975,
-    "zh": "'香水，嗯？'",
-    "zh_hant": "'香水，嗯？'"
+    "zh": "他在箱子底部发现了一个小瓶子，并高兴地一把抓起它。",
+    "zh_hant": "他在箱子底部發現了一個小瓶子，並高興地一把抓起它。"
   },
   {
     "index": 20,
-    "text": "he asked sarcastically.",
-    "start": 91.625,
-    "end": 93.136,
-    "zh": "他讽刺地问。",
-    "zh_hant": "他諷刺地問。"
+    "text": "'Perfume, eh?'",
+    "start": 90.175,
+    "end": 91.975,
+    "zh": "“香水，嗯？”",
+    "zh_hant": "“香水，嗯？”"
   },
   {
     "index": 21,
-    "text": "'You should have declared that.",
-    "start": 93.136,
-    "end": 94.717,
-    "zh": "'你应该申报这个。",
-    "zh_hant": "'你應該申報這個。"
+    "text": "he asked sarcastically.",
+    "start": 91.625,
+    "end": 93.136,
+    "zh": "他讥讽地问道。",
+    "zh_hant": "他譏諷地問道。"
   },
   {
     "index": 22,
-    "text": "Perfume is not exempt from import duty.",
-    "start": 94.937,
-    "end": 97.678,
-    "zh": "香水不免关税。'",
-    "zh_hant": "香水不免關稅。'"
+    "text": "'You should have declared that.",
+    "start": 93.136,
+    "end": 94.717,
+    "zh": "“你应该申报那个的。",
+    "zh_hant": "“你應該申報那個的。"
   },
   {
     "index": 23,
-    "text": "' 'But it isn't perfume, I said.",
-    "start": 97.338,
-    "end": 100.66,
-    "zh": "'但这并不是香水，'我说。",
-    "zh_hant": "'但這並不是香水，'我說。"
+    "text": "Perfume is not exempt from import duty.",
+    "start": 94.937,
+    "end": 97.678,
+    "zh": "香水不免进口税。”",
+    "zh_hant": "香水不免進口稅。”"
   },
   {
     "index": 24,
-    "text": "'It's hair gel.",
-    "start": 100.68,
-    "end": 102.0,
-    "zh": "'这是发胶。'",
-    "zh_hant": "'這是髮膠。'"
+    "text": "' 'But it isn't perfume, I said.",
+    "start": 97.338,
+    "end": 100.66,
+    "zh": "“但那不是香水，”我说。",
+    "zh_hant": "“但那不是香水，”我說。"
   },
   {
     "index": 25,
-    "text": "' Then I added with a smile, 'It's a strange mixture I make myself.",
-    "start": 101.65,
-    "end": 107.643,
-    "zh": "然后我微笑着补充道，'这是我自己调制的混合物。'",
-    "zh_hant": "然後我微笑著補充道，'這是我自己調製的混合物。'"
+    "text": "'It's hair gel.",
+    "start": 100.68,
+    "end": 102.0,
+    "zh": "“是发胶。”",
+    "zh_hant": "“是髮膠。”"
   },
   {
     "index": 26,
-    "text": "As I expected, he did not believe me.",
-    "start": 108.604,
-    "end": 111.325,
-    "zh": "果然不出所料，他不相信我的话。",
-    "zh_hant": "果然不出所料，他不相信我的話。"
+    "text": "' Then I added with a smile, 'It's a strange mixture I make myself.",
+    "start": 101.65,
+    "end": 107.643,
+    "zh": "然后我微笑着补充说，“这是我自己调的一种奇怪混合物。”",
+    "zh_hant": "然後我微笑著補充說，“這是我自己調的一種奇怪混合物。”"
   },
   {
     "index": 27,
-    "text": "'Try it!'",
-    "start": 111.925,
-    "end": 113.106,
-    "zh": "'试试看！'",
-    "zh_hant": "'試試看！'"
+    "text": "As I expected, he did not believe me.",
+    "start": 108.604,
+    "end": 111.325,
+    "zh": "不出所料，他不相信我。",
+    "zh_hant": "不出所料，他不相信我。"
   },
   {
     "index": 28,
+    "text": "'Try it!'",
+    "start": 111.925,
+    "end": 113.106,
+    "zh": "“试试吧！”",
+    "zh_hant": "“試試吧！”"
+  },
+  {
+    "index": 29,
     "text": "I said encouragingly.",
     "start": 112.756,
     "end": 114.326,
@@ -232,27 +240,27 @@
     "zh_hant": "我鼓勵地說。"
   },
   {
-    "index": 29,
+    "index": 30,
     "text": "The Officer unscrewed the cap and put the bottle to his nostrils.",
     "start": 114.647,
     "end": 119.068,
-    "zh": "那位官员拧开瓶盖，把瓶子凑到鼻孔前。",
-    "zh_hant": "那位官員擰開瓶蓋，把瓶子湊到鼻孔前。"
-  },
-  {
-    "index": 30,
-    "text": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
-    "start": 119.649,
-    "end": 124.977,
-    "zh": "一股难闻的气味扑面而来，这使他相信我说的都是实话。",
-    "zh_hant": "一股難聞的氣味撲面而來，這使他相信我說的都是實話。"
+    "zh": "那位官员拧开盖子，把瓶子凑到鼻孔前。",
+    "zh_hant": "那位官員擰開蓋子，把瓶子湊到鼻孔前。"
   },
   {
     "index": 31,
+    "text": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
+    "start": 119.649,
+    "end": 124.977,
+    "zh": "一股难闻的气味扑面而来，这让他确信我说的是实话。",
+    "zh_hant": "一股難聞的氣味撲面而來，這讓他確信我說的是實話。"
+  },
+  {
+    "index": 32,
     "text": "A few minutes later, I was able to hurry away with precious chalk marks on my baggage.",
     "start": 125.6,
     "end": 131.31,
-    "zh": "几分钟后，我得以带着行李上珍贵的粉笔记号匆匆离开。",
-    "zh_hant": "幾分鐘後，我得以帶著行李上珍貴的粉筆記號匆匆離開。"
+    "zh": "几分钟后，我得以带着行李上宝贵的粉笔记号匆匆离开。",
+    "zh_hant": "幾分鐘後，我得以帶著行李上寶貴的粉筆記號匆匆離開。"
   }
 ]

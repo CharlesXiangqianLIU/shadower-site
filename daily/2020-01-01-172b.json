@@ -1,78 +1,94 @@
 [
   {
     "index": 0,
-    "text": "Lesson 4 The double",
+    "text": "Lesson 4.",
     "start": 0.79,
-    "end": 5.373,
-    "zh": "第四课 阿尔弗雷德·布洛格斯的双重生活",
-    "zh_hant": "第四課 阿爾弗雷德·布洛格斯的雙重生活"
+    "end": 2.381,
+    "zh": "第四课。",
+    "zh_hant": "第四課。"
   },
   {
     "index": 1,
-    "text": "life of Alfred Bloggs",
-    "start": 6.193,
-    "end": 10.355,
-    "zh": "阿尔弗雷德·布洛格斯的双重生活",
-    "zh_hant": "阿爾弗雷德·布洛格斯的雙重生活"
+    "text": "The double life",
+    "start": 2.431,
+    "end": 6.933,
+    "zh": "阿尔弗雷德·布洛格斯",
+    "zh_hant": "阿爾弗雷德·布洛格斯"
   },
   {
     "index": 2,
-    "text": "Why did Alf want a white-collar job?",
-    "start": 11.276,
-    "end": 14.717,
-    "zh": "阿尔夫为什么想要一份白领工作？",
-    "zh_hant": "阿爾夫為什麼想要一份白領工作？"
+    "text": "of Alfred Bloggs.",
+    "start": 6.653,
+    "end": 10.355,
+    "zh": "的双重生活。",
+    "zh_hant": "的雙重生活。"
   },
   {
     "index": 3,
-    "text": "These days, people who do manual work",
-    "start": 16.798,
-    "end": 20.0,
-    "zh": "如今，从事体力劳动的人",
-    "zh_hant": "如今，從事體力勞動的人"
+    "text": "Why did Alf want a white-collar job?",
+    "start": 11.276,
+    "end": 14.717,
+    "zh": "为什么阿尔夫想要一份白领工作？",
+    "zh_hant": "為什麼阿爾夫想要一份白領工作？"
   },
   {
     "index": 4,
-    "text": "often receive far more money than people who work in offices.",
-    "start": 19.92,
-    "end": 24.282,
-    "zh": "往往比在办公室工作的人挣得多得多。",
-    "zh_hant": "往往比在辦公室工作的人掙得多得多。"
+    "text": "These days, people who do manual work often receive far more money",
+    "start": 16.798,
+    "end": 22.241,
+    "zh": "如今，从事体力劳动的人往往比",
+    "zh_hant": "如今，從事體力勞動的人往往比"
   },
   {
     "index": 5,
-    "text": "People who work in offices are frequently referred to as 'white-collar workers'",
-    "start": 24.682,
-    "end": 30.685,
-    "zh": "在办公室工作的人常被称为‘白领工人’",
-    "zh_hant": "在辦公室工作的人常被稱為‘白領工人’"
+    "text": "than people who work in offices.",
+    "start": 22.021,
+    "end": 24.282,
+    "zh": "在办公室工作的人挣得多得多。",
+    "zh_hant": "在辦公室工作的人掙得多得多。"
   },
   {
     "index": 6,
-    "text": "for the simple reason that they usually wear a collar and tie to go to work.",
-    "start": 30.605,
-    "end": 36.248,
-    "zh": "原因很简单，因为他们上班通常穿着衬衫、打着领带。",
-    "zh_hant": "原因很簡單，因為他們上班通常穿著襯衫、打著領帶。"
+    "text": "People who work in offices",
+    "start": 24.682,
+    "end": 26.683,
+    "zh": "在办公室工作的人",
+    "zh_hant": "在辦公室工作的人"
   },
   {
     "index": 7,
-    "text": "Such is human nature,",
-    "start": 36.748,
-    "end": 38.669,
-    "zh": "这就是人的天性：",
-    "zh_hant": "這就是人的天性："
+    "text": "are frequently referred to as 'white-collar workers'",
+    "start": 26.563,
+    "end": 30.685,
+    "zh": "常被称为‘白领工人’，",
+    "zh_hant": "常被稱為‘白領工人’，"
   },
   {
     "index": 8,
-    "text": "that a great many people are often willing to sacrifice higher pay",
-    "start": 38.649,
-    "end": 44.032,
-    "zh": "很多人常常愿意牺牲更高的薪水",
-    "zh_hant": "很多人常常願意犧牲更高的薪水"
+    "text": "for the simple reason that they usually wear a collar and tie to go to work.",
+    "start": 30.605,
+    "end": 36.248,
+    "zh": "原因很简单，他们通常穿着衬衫领带上班。",
+    "zh_hant": "原因很簡單，他們通常穿著襯衫領帶上班。"
   },
   {
     "index": 9,
+    "text": "Such is human nature,",
+    "start": 36.748,
+    "end": 38.669,
+    "zh": "这就是人的天性，",
+    "zh_hant": "這就是人的天性，"
+  },
+  {
+    "index": 10,
+    "text": "that a great many people are often willing to sacrifice higher pay",
+    "start": 38.649,
+    "end": 44.032,
+    "zh": "很多人往往愿意牺牲更高的薪水",
+    "zh_hant": "很多人往往願意犧牲更高的薪水"
+  },
+  {
+    "index": 11,
     "text": "for the privilege of becoming white-collar workers.",
     "start": 44.053,
     "end": 47.694,
@@ -80,71 +96,71 @@
     "zh_hant": "來換取成為白領工人的特權。"
   },
   {
-    "index": 10,
+    "index": 12,
     "text": "This can give rise to curious situations,",
     "start": 48.215,
     "end": 51.956,
-    "zh": "这可能会引发奇怪的情况，",
-    "zh_hant": "這可能會引發奇怪的情況，"
-  },
-  {
-    "index": 11,
-    "text": "as it did in the case of Alfred Bloggs",
-    "start": 52.357,
-    "end": 55.618,
-    "zh": "阿尔弗雷德·布洛格斯的例子就是如此，",
-    "zh_hant": "阿爾弗雷德·布洛格斯的例子就是如此，"
-  },
-  {
-    "index": 12,
-    "text": "who worked as a dustman for the Ellesmere Corporation.",
-    "start": 55.518,
-    "end": 59.68,
-    "zh": "他曾为埃尔斯米尔公司当清洁工。",
-    "zh_hant": "他曾為埃爾斯米爾公司當清潔工。"
+    "zh": "这会引起奇怪的情况，",
+    "zh_hant": "這會引起奇怪的情況，"
   },
   {
     "index": 13,
-    "text": "When he got married, Alf was too embarrassed to say",
-    "start": 60.761,
-    "end": 64.762,
-    "zh": "结婚时，阿尔夫尴尬得不敢",
-    "zh_hant": "結婚時，阿爾夫尷尬得不敢"
+    "text": "as it did in the case of Alfred Bloggs",
+    "start": 52.357,
+    "end": 55.618,
+    "zh": "正如阿尔弗雷德·布洛格斯的情况那样，",
+    "zh_hant": "正如阿爾弗雷德·布洛格斯的情況那樣，"
   },
   {
     "index": 14,
-    "text": "anything to his wife about his job.",
-    "start": 64.463,
-    "end": 67.264,
-    "zh": "对妻子提自己的工作。",
-    "zh_hant": "對妻子提自己的工作。"
+    "text": "who worked as a dustman for the Ellesmere Corporation.",
+    "start": 55.518,
+    "end": 59.68,
+    "zh": "他曾在埃尔斯米尔公司当清洁工。",
+    "zh_hant": "他曾在埃爾斯米爾公司當清潔工。"
   },
   {
     "index": 15,
-    "text": "He simply told her that he worked for the Corporation.",
-    "start": 67.604,
-    "end": 71.126,
-    "zh": "他只告诉她，他在公司工作。",
-    "zh_hant": "他只告訴她，他在公司工作。"
+    "text": "When he got married, Alf was too embarrassed to say",
+    "start": 60.761,
+    "end": 64.762,
+    "zh": "结婚时，阿尔夫难为情，不愿",
+    "zh_hant": "結婚時，阿爾夫難為情，不願"
   },
   {
     "index": 16,
-    "text": "Every morning, he left home dressed in a smart black suit.",
-    "start": 71.526,
-    "end": 76.208,
-    "zh": "每天早晨，他穿着笔挺的黑西装出门。",
-    "zh_hant": "每天早晨，他穿著筆挺的黑西裝出門。"
+    "text": "anything to his wife about his job.",
+    "start": 64.463,
+    "end": 67.264,
+    "zh": "向妻子提自己的工作。",
+    "zh_hant": "向妻子提自己的工作。"
   },
   {
     "index": 17,
-    "text": "He then changed into overalls and spent the next eight hours as a dustman.",
-    "start": 76.388,
-    "end": 82.472,
-    "zh": "然后换上工装裤，接下来的八小时当清洁工。",
-    "zh_hant": "然後換上工裝褲，接下來的八小時當清潔工。"
+    "text": "He simply told her that he worked for the Corporation.",
+    "start": 67.604,
+    "end": 71.126,
+    "zh": "他只是告诉她，他为公司工作。",
+    "zh_hant": "他只是告訴她，他為公司工作。"
   },
   {
     "index": 18,
+    "text": "Every morning, he left home dressed in a smart black suit.",
+    "start": 71.526,
+    "end": 76.208,
+    "zh": "每天早上，他穿着笔挺的黑西装离家。",
+    "zh_hant": "每天早上，他穿著筆挺的黑西裝離家。"
+  },
+  {
+    "index": 19,
+    "text": "He then changed into overalls and spent the next eight hours as a dustman.",
+    "start": 76.388,
+    "end": 82.472,
+    "zh": "然后他换上工作服，接下来八小时当清洁工。",
+    "zh_hant": "然後他換上工作服，接下來八小時當清潔工。"
+  },
+  {
+    "index": 20,
     "text": "Before returning home at night, he took a shower and changed back into his suit.",
     "start": 82.772,
     "end": 88.515,
@@ -152,31 +168,31 @@
     "zh_hant": "晚上回家前，他洗個澡，再換回西裝。"
   },
   {
-    "index": 19,
+    "index": 21,
     "text": "Alf did this for over two years and his fellow dustmen kept his secret.",
     "start": 88.995,
     "end": 95.298,
-    "zh": "阿尔夫这样做了两年多，他的清洁工同事们替他保守了秘密。",
-    "zh_hant": "阿爾夫這樣做了兩年多，他的清潔工同事們替他保守了秘密。"
-  },
-  {
-    "index": 20,
-    "text": "Alf's wife has never discovered that she married a dustman and she never will,",
-    "start": 95.618,
-    "end": 101.281,
-    "zh": "阿尔夫的妻子从未发现她嫁了个清洁工，而且她永远不会发现，",
-    "zh_hant": "阿爾夫的妻子從未發現她嫁了個清潔工，而且她永遠不會發現，"
-  },
-  {
-    "index": 21,
-    "text": "for Alf has just found another job.",
-    "start": 101.341,
-    "end": 104.262,
-    "zh": "因为阿尔夫刚找到了另一份工作。",
-    "zh_hant": "因為阿爾夫剛找到了另一份工作。"
+    "zh": "阿尔夫这样做了两年多，他的清洁工同事替他保密。",
+    "zh_hant": "阿爾夫這樣做了兩年多，他的清潔工同事替他保密。"
   },
   {
     "index": 22,
+    "text": "Alf's wife has never discovered that she married a dustman and she never will,",
+    "start": 95.618,
+    "end": 101.281,
+    "zh": "阿尔夫的妻子从未发现她嫁了个清洁工，而且永远不会发现，",
+    "zh_hant": "阿爾夫的妻子從未發現她嫁了個清潔工，而且永遠不會發現，"
+  },
+  {
+    "index": 23,
+    "text": "for Alf has just found another job.",
+    "start": 101.341,
+    "end": 104.262,
+    "zh": "因为阿尔夫刚找到另一份工作。",
+    "zh_hant": "因為阿爾夫剛找到另一份工作。"
+  },
+  {
+    "index": 24,
     "text": "He will soon be working in an office.",
     "start": 104.383,
     "end": 107.164,
@@ -184,23 +200,23 @@
     "zh_hant": "他很快就要在辦公室上班了。"
   },
   {
-    "index": 23,
+    "index": 25,
     "text": "He will be earning only half as much as he used to,",
     "start": 107.544,
     "end": 111.026,
-    "zh": "他的收入将只有以前的一半，",
-    "zh_hant": "他的收入將只有以前的一半，"
+    "zh": "他挣的钱将只有以前的一半，",
+    "zh_hant": "他掙的錢將只有以前的一半，"
   },
   {
-    "index": 24,
+    "index": 26,
     "text": "but he feels that his rise in status is well worth the loss of money.",
     "start": 111.146,
     "end": 116.548,
-    "zh": "但他觉得自己地位的提升完全值得损失这笔钱。",
-    "zh_hant": "但他覺得自己地位的提升完全值得損失這筆錢。"
+    "zh": "但他觉得社会地位的提升值得损失金钱。",
+    "zh_hant": "但他覺得社會地位的提升值得損失金錢。"
   },
   {
-    "index": 25,
+    "index": 27,
     "text": "From now on, he will wear a suit all day",
     "start": 116.989,
     "end": 120.795,
@@ -208,11 +224,19 @@
     "zh_hant": "從現在起，他將整天穿著西裝，"
   },
   {
-    "index": 26,
-    "text": "and others will call him 'Mr.Bloggs', not 'Alf'.",
+    "index": 28,
+    "text": "and others will call him 'Mr.Bloggs',",
     "start": 120.917,
+    "end": 124.405,
+    "zh": "别人会叫他‘布洛格斯先生’，",
+    "zh_hant": "別人會叫他‘布洛格斯先生’，"
+  },
+  {
+    "index": 29,
+    "text": "not 'Alf'.",
+    "start": 124.447,
     "end": 125.93,
-    "zh": "别人会叫他‘布洛格斯先生’，而不是‘阿尔夫’。",
-    "zh_hant": "別人會叫他‘布洛格斯先生’，而不是‘阿爾夫’。"
+    "zh": "而不是‘阿尔夫’。",
+    "zh_hant": "而不是‘阿爾夫’。"
   }
 ]

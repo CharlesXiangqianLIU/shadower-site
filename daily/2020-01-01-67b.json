@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 133 Sensational",
+    "text": "Lesson 133.",
     "start": 0.83,
-    "end": 5.212,
-    "zh": "第133课 轰动性的",
-    "zh_hant": "第133課 轟動性的"
+    "end": 3.602,
+    "zh": "第133课。",
+    "zh_hant": "第133課。"
   },
   {
     "index": 1,
-    "text": "news!",
-    "start": 4.862,
+    "text": "Sensational news!",
+    "start": 3.652,
     "end": 5.833,
-    "zh": "新闻！",
-    "zh_hant": "新聞！"
+    "zh": "轰动性新闻！",
+    "zh_hant": "轟動性新聞！"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "What reasons did Karen Marsh give",
     "start": 12.616,
     "end": 16.398,
-    "zh": "凯伦·马什给出了什么理由",
-    "zh_hant": "凱倫·馬什給出了什麼理由"
+    "zh": "卡伦·马什给了什么理由",
+    "zh_hant": "卡倫·馬什給了什麼理由"
   },
   {
     "index": 5,
@@ -92,8 +92,8 @@
     "text": "I feel very tired.",
     "start": 36.328,
     "end": 38.909,
-    "zh": "我感到很累。",
-    "zh_hant": "我感到很累。"
+    "zh": "我觉得很累。",
+    "zh_hant": "我覺得很累。"
   },
   {
     "index": 12,
@@ -116,24 +116,24 @@
     "text": "Let's buy a newspaper, Liz.",
     "start": 46.433,
     "end": 49.575,
-    "zh": "我们买份报纸吧，莉兹。",
-    "zh_hant": "我們買份報紙吧，莉茲。"
+    "zh": "咱们买份报纸吧，莉兹。",
+    "zh_hant": "咱們買份報紙吧，莉茲。"
   },
   {
     "index": 15,
     "text": "Listen to this!",
     "start": 50.295,
     "end": 52.176,
-    "zh": "听这个！",
-    "zh_hant": "聽這個！"
+    "zh": "听听这个！",
+    "zh_hant": "聽聽這個！"
   },
   {
     "index": 16,
     "text": "'Karen Marsh: Sensational News!",
     "start": 52.697,
     "end": 57.138,
-    "zh": "'凯伦·马什：轰动性新闻！",
-    "zh_hant": "'凱倫·馬什：轟動性新聞！"
+    "zh": "“卡伦·马什：轰动性新闻！",
+    "zh_hant": "“卡倫·馬什：轟動性新聞！"
   },
   {
     "index": 17,
@@ -148,8 +148,8 @@
     "text": "Karen Marsh arrived at London Airport",
     "start": 62.201,
     "end": 66.323,
-    "zh": "凯伦·马什抵达伦敦机场",
-    "zh_hant": "凱倫·馬什抵達倫敦機場"
+    "zh": "卡伦·马什抵达伦敦机场",
+    "zh_hant": "卡倫·馬什抵達倫敦機場"
   },
   {
     "index": 19,
@@ -164,8 +164,8 @@
     "text": "She was wearing a blue dress",
     "start": 67.824,
     "end": 71.105,
-    "zh": "她穿着一件蓝色连衣裙",
-    "zh_hant": "她穿著一件藍色連衣裙"
+    "zh": "她穿着一条蓝色连衣裙",
+    "zh_hant": "她穿著一條藍色連衣裙"
   },
   {
     "index": 21,
@@ -180,8 +180,8 @@
     "text": "She told me she had just",
     "start": 73.847,
     "end": 76.928,
-    "zh": "她告诉我她刚",
-    "zh_hant": "她告訴我她剛"
+    "zh": "她告诉我她刚刚",
+    "zh_hant": "她告訴我她剛剛"
   },
   {
     "index": 23,
@@ -217,35 +217,35 @@
   },
   {
     "index": 27,
-    "text": "She told reporters she felt",
+    "text": "She told reporters she",
     "start": 90.479,
-    "end": 93.722,
-    "zh": "她告诉记者们她感到",
-    "zh_hant": "她告訴記者們她感到"
+    "end": 93.261,
+    "zh": "她告诉记者们她",
+    "zh_hant": "她告訴記者們她"
   },
   {
     "index": 28,
-    "text": "very tired and didn't",
-    "start": 93.462,
+    "text": "felt very tired and didn't",
+    "start": 92.911,
     "end": 96.304,
-    "zh": "非常累，并且不",
-    "zh_hant": "非常累，並且不"
+    "zh": "觉得很累，不想",
+    "zh_hant": "覺得很累，不想"
   },
   {
     "index": 29,
-    "text": "want to make another film",
+    "text": "want to make another",
     "start": 96.004,
-    "end": 98.666,
-    "zh": "想再拍另一部电影",
-    "zh_hant": "想再拍另一部電影"
+    "end": 98.145,
+    "zh": "再拍另一部",
+    "zh_hant": "再拍另一部"
   },
   {
     "index": 30,
-    "text": "for a long time.'",
-    "start": 98.726,
+    "text": "film for a long time.'",
+    "start": 97.795,
     "end": 101.668,
-    "zh": "很长一段时间。'",
-    "zh_hant": "很長一段時間。'"
+    "zh": "电影，很长一段时间。",
+    "zh_hant": "電影，很長一段時間。"
   },
   {
     "index": 31,

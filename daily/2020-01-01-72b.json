@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 143 A walk",
+    "text": "Lesson 143.",
     "start": 0.95,
-    "end": 4.892,
-    "zh": "第143课 一次散步",
-    "zh_hant": "第143課 一次散步"
+    "end": 3.782,
+    "zh": "第143课。",
+    "zh_hant": "第143課。"
   },
   {
     "index": 1,
-    "text": "through the woods",
-    "start": 4.672,
+    "text": "A walk through the woods.",
+    "start": 3.832,
     "end": 6.233,
-    "zh": "穿过树林",
-    "zh_hant": "穿過樹林"
+    "zh": "穿过树林的一次散步。",
+    "zh_hant": "穿過樹林的一次散步。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then",
     "start": 7.273,
     "end": 10.035,
-    "zh": "先听录音，然后",
-    "zh_hant": "先聽錄音，然後"
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
   },
   {
     "index": 3,
@@ -36,8 +36,8 @@
     "text": "What was so funny about the words",
     "start": 12.776,
     "end": 16.398,
-    "zh": "牌子上的字",
-    "zh_hant": "牌子上的字"
+    "zh": "牌子上写的字",
+    "zh_hant": "牌子上寫的字"
   },
   {
     "index": 5,
@@ -52,24 +52,24 @@
     "text": "I live in a very old town",
     "start": 19.98,
     "end": 23.321,
-    "zh": "我住在一个非常古老的小镇上",
-    "zh_hant": "我住在一個非常古老的小鎮上"
+    "zh": "我住在一个非常古老的城镇里，",
+    "zh_hant": "我住在一個非常古老的城鎮裡，"
   },
   {
     "index": 7,
     "text": "which is surrounded by beautiful woods.",
     "start": 23.221,
     "end": 26.983,
-    "zh": "四周环绕着美丽的树林。",
-    "zh_hant": "四周環繞著美麗的樹林。"
+    "zh": "周围环绕着美丽的树林。",
+    "zh_hant": "周圍環繞著美麗的樹林。"
   },
   {
     "index": 8,
     "text": "It is a famous beauty spot.",
     "start": 27.964,
     "end": 30.765,
-    "zh": "这里是一个著名的风景胜地。",
-    "zh_hant": "這裡是一個著名的風景勝地。"
+    "zh": "这是一个著名的风景胜地。",
+    "zh_hant": "這是一個著名的風景勝地。"
   },
   {
     "index": 9,
@@ -81,35 +81,35 @@
   },
   {
     "index": 10,
-    "text": "hundreds of people",
+    "text": "hundreds of people come from the city",
     "start": 33.546,
-    "end": 35.367,
-    "zh": "有数百人",
-    "zh_hant": "有數百人"
+    "end": 36.688,
+    "zh": "成百上千的人从城里来",
+    "zh_hant": "成百上千的人從城裡來"
   },
   {
     "index": 11,
-    "text": "come from the city to see our town",
-    "start": 35.067,
+    "text": "to see our town",
+    "start": 36.488,
     "end": 38.609,
-    "zh": "从城里来参观我们的小镇",
-    "zh_hant": "從城裡來參觀我們的小鎮"
+    "zh": "参观我们的城镇",
+    "zh_hant": "參觀我們的城鎮"
   },
   {
     "index": 12,
     "text": "and to walk through the woods.",
     "start": 38.669,
     "end": 41.631,
-    "zh": "并在树林里散步。",
-    "zh_hant": "並在樹林裡散步。"
+    "zh": "并穿过树林散步。",
+    "zh_hant": "並穿過樹林散步。"
   },
   {
     "index": 13,
     "text": "Visitors have been asked",
     "start": 42.491,
     "end": 45.032,
-    "zh": "游客们已被要求",
-    "zh_hant": "遊客們已被要求"
+    "zh": "游客们被要求",
+    "zh_hant": "遊客們被要求"
   },
   {
     "index": 14,
@@ -132,8 +132,8 @@
     "text": "Litter baskets have been placed under the trees,",
     "start": 49.475,
     "end": 53.476,
-    "zh": "树下已经放置了垃圾篮，",
-    "zh_hant": "樹下已經放置了垃圾籃，"
+    "zh": "树下已经放置了垃圾筐，",
+    "zh_hant": "樹下已經放置了垃圾筐，"
   },
   {
     "index": 17,
@@ -164,8 +164,8 @@
     "text": "I went for a walk in the woods.",
     "start": 61.401,
     "end": 64.722,
-    "zh": "我去树林里散步。",
-    "zh_hant": "我去樹林裡散步。"
+    "zh": "我去树林里散步了。",
+    "zh_hant": "我去樹林裡散步了。"
   },
   {
     "index": 21,
@@ -180,8 +180,8 @@
     "text": "I counted seven old cars",
     "start": 70.785,
     "end": 74.127,
-    "zh": "我数了数，有七辆旧汽车",
-    "zh_hant": "我數了數，有七輛舊汽車"
+    "zh": "我数了七辆旧汽车",
+    "zh_hant": "我數了七輛舊汽車"
   },
   {
     "index": 23,
@@ -196,16 +196,16 @@
     "text": "The little baskets were empty",
     "start": 78.129,
     "end": 80.75,
-    "zh": "小篮子都是空的，",
-    "zh_hant": "小籃子都是空的，"
+    "zh": "小垃圾筐是空的，",
+    "zh_hant": "小垃圾筐是空的，"
   },
   {
     "index": 25,
     "text": "and the ground was covered with pieces of paper,",
     "start": 81.151,
     "end": 85.554,
-    "zh": "而地面被纸片、",
-    "zh_hant": "而地面被紙片、"
+    "zh": "而地面上铺满了纸片，",
+    "zh_hant": "而地面上鋪滿了紙片，"
   },
   {
     "index": 26,
@@ -220,47 +220,39 @@
     "text": "empty bottles and rusty tins.",
     "start": 90.118,
     "end": 93.68,
-    "zh": "空瓶子和生锈的罐头盒覆盖着。",
-    "zh_hant": "空瓶子和生鏽的罐頭盒覆蓋著。"
+    "zh": "空瓶子和生锈的罐头盒。",
+    "zh_hant": "空瓶子和生鏽的罐頭盒。"
   },
   {
     "index": 28,
-    "text": "Among the rubbish, I found",
+    "text": "Among the rubbish,",
     "start": 94.461,
-    "end": 97.663,
-    "zh": "在垃圾中，我发现",
-    "zh_hant": "在垃圾中，我發現"
+    "end": 96.142,
+    "zh": "在垃圾中间，",
+    "zh_hant": "在垃圾中間，"
   },
   {
     "index": 29,
-    "text": "a sign which said,",
-    "start": 97.313,
+    "text": "I found a sign which said,",
+    "start": 96.583,
     "end": 99.364,
-    "zh": "一块牌子，上面写着：",
-    "zh_hant": "一塊牌子，上面寫著："
+    "zh": "我发现了一个牌子，上面写着：",
+    "zh_hant": "我發現了一個牌子，上面寫著："
   },
   {
     "index": 30,
     "text": "'Anyone who leaves litter",
     "start": 99.725,
     "end": 103.347,
-    "zh": "“凡在此树林中",
-    "zh_hant": "“凡在此樹林中"
+    "zh": "'任何在这些树林里",
+    "zh_hant": "'任何在這些樹林裡"
   },
   {
     "index": 31,
-    "text": "in these woods",
+    "text": "in these woods will be prosecuted!'",
     "start": 103.208,
-    "end": 104.949,
-    "zh": "乱扔垃圾者，",
-    "zh_hant": "亂扔垃圾者，"
-  },
-  {
-    "index": 32,
-    "text": "will be prosecuted!'",
-    "start": 104.909,
     "end": 106.71,
-    "zh": "将被起诉！”",
-    "zh_hant": "將被起訴！”"
+    "zh": "留下垃圾的人将被起诉！'",
+    "zh_hant": "留下垃圾的人將被起訴！'"
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 55 The Sawyer",
+    "text": "Lesson 55.",
     "start": 0.55,
-    "end": 4.452,
-    "zh": "第55课 索耶",
-    "zh_hant": "第55課 索耶"
+    "end": 3.182,
+    "zh": "第55课。",
+    "zh_hant": "第55課。"
   },
   {
     "index": 1,
-    "text": "family",
-    "start": 4.112,
+    "text": "The Sawyer family.",
+    "start": 3.232,
     "end": 5.052,
-    "zh": "一家",
-    "zh_hant": "一家"
+    "zh": "索耶一家。",
+    "zh_hant": "索耶一家。"
   },
   {
     "index": 2,
@@ -84,8 +84,8 @@
     "text": "Mrs. Sawyer stays at home every day.",
     "start": 35.048,
     "end": 38.749,
-    "zh": "索耶太太每天待在家里。",
-    "zh_hant": "索耶太太每天待在家裡。"
+    "zh": "索耶夫人每天待在家里。",
+    "zh_hant": "索耶夫人每天待在家裡。"
   },
   {
     "index": 11,
@@ -124,24 +124,24 @@
     "text": "They often drink tea together.",
     "start": 51.996,
     "end": 54.898,
-    "zh": "他们经常一起喝茶。",
-    "zh_hant": "他們經常一起喝茶。"
+    "zh": "她们经常一起喝茶。",
+    "zh_hant": "她們經常一起喝茶。"
   },
   {
     "index": 16,
     "text": "In the evening, the children come home from school.",
     "start": 55.838,
     "end": 60.14,
-    "zh": "晚上，孩子们放学回家。",
-    "zh_hant": "晚上，孩子們放學回家。"
+    "zh": "晚上，孩子们从学校回到家。",
+    "zh_hant": "晚上，孩子們從學校回到家。"
   },
   {
     "index": 17,
     "text": "They arrive home early.",
     "start": 60.701,
     "end": 63.102,
-    "zh": "他们早早到家。",
-    "zh_hant": "他們早早到家。"
+    "zh": "他们到家很早。",
+    "zh_hant": "他們到家很早。"
   },
   {
     "index": 18,
@@ -156,8 +156,8 @@
     "text": "He arrives home late.",
     "start": 67.924,
     "end": 70.385,
-    "zh": "他很晚才到家。",
-    "zh_hant": "他很晚才到家。"
+    "zh": "他到家很晚。",
+    "zh_hant": "他到家很晚。"
   },
   {
     "index": 20,
@@ -180,15 +180,15 @@
     "text": "Mr. Sawyer usually reads his newspaper,",
     "start": 79.09,
     "end": 82.819,
-    "zh": "索耶先生通常看他的报纸，",
-    "zh_hant": "索耶先生通常看他的報紙，"
+    "zh": "索耶先生通常看报纸，",
+    "zh_hant": "索耶先生通常看報紙，"
   },
   {
     "index": 23,
     "text": "but sometimes he and his wife watch television.",
     "start": 83.08,
     "end": 87.33,
-    "zh": "但有时候他和妻子看电视。",
-    "zh_hant": "但有時候他和妻子看電視。"
+    "zh": "但有时他和妻子看电视。",
+    "zh_hant": "但有時他和妻子看電視。"
   }
 ]

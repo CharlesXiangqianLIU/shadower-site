@@ -1,0 +1,250 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 7.",
+    "start": 0.53,
+    "end": 4.17,
+    "zh": "第七课。",
+    "zh_hant": "第七課。"
+  },
+  {
+    "index": 1,
+    "text": "Bats",
+    "start": 5.673,
+    "end": 7.754,
+    "zh": "蝙蝠",
+    "zh_hant": "蝙蝠"
+  },
+  {
+    "index": 2,
+    "text": "In what way does echo-location in bats play an utilitarian role?",
+    "start": 9.695,
+    "end": 15.758,
+    "zh": "蝙蝠的回声定位在哪些方面起到实用作用？",
+    "zh_hant": "蝙蝠的回聲定位在哪些方面起到實用作用？"
+  },
+  {
+    "index": 3,
+    "text": "Not all sounds made by animals serve as language,",
+    "start": 18.079,
+    "end": 22.321,
+    "zh": "并非所有动物发出的声音都用作语言。",
+    "zh_hant": "並非所有動物發出的聲音都用作語言。"
+  },
+  {
+    "index": 4,
+    "text": "and we have only to turn to that extraordinary discovery of echo-location",
+    "start": 22.221,
+    "end": 28.204,
+    "zh": "我们只需看看回声定位这一非凡发现，",
+    "zh_hant": "我們只需看看回聲定位這一非凡發現，"
+  },
+  {
+    "index": 5,
+    "text": "in bats to see a case in which the voice plays a strictly",
+    "start": 27.884,
+    "end": 32.806,
+    "zh": "在蝙蝠身上，声音扮演着严格",
+    "zh_hant": "在蝙蝠身上，聲音扮演著嚴格"
+  },
+  {
+    "index": 6,
+    "text": "utilitarian role.",
+    "start": 32.806,
+    "end": 34.707,
+    "zh": "实用的角色。",
+    "zh_hant": "實用的角色。"
+  },
+  {
+    "index": 7,
+    "text": "To get a full appreciation of what this means",
+    "start": 35.928,
+    "end": 39.709,
+    "zh": "要充分理解这一点，",
+    "zh_hant": "要充分理解這一點，"
+  },
+  {
+    "index": 8,
+    "text": "we must turn first to some recent human inventions.",
+    "start": 39.57,
+    "end": 43.632,
+    "zh": "我们必须先看看最近的一些人类发明。",
+    "zh_hant": "我們必須先看看最近的一些人類發明。"
+  },
+  {
+    "index": 9,
+    "text": "Everyone knows that if he shouts in the vicinity of a wall or a mountainside,",
+    "start": 44.312,
+    "end": 49.815,
+    "zh": "大家都知道，如果在墙壁或山坡附近呼喊，",
+    "zh_hant": "大家都知道，如果在牆壁或山坡附近呼喊，"
+  },
+  {
+    "index": 10,
+    "text": "an echo will come back.",
+    "start": 49.915,
+    "end": 51.736,
+    "zh": "就会听到回声。",
+    "zh_hant": "就會聽到回聲。"
+  },
+  {
+    "index": 11,
+    "text": "The further off this solid obstruction, the longer time will elapse",
+    "start": 52.637,
+    "end": 57.759,
+    "zh": "这个固体障碍物越远，经过的时间就越长",
+    "zh_hant": "這個固體障礙物越遠，經過的時間就越長"
+  },
+  {
+    "index": 12,
+    "text": "for the return of the echo.",
+    "start": 57.459,
+    "end": 59.42,
+    "zh": "回声返回所需的时间。",
+    "zh_hant": "回聲返回所需的時間。"
+  },
+  {
+    "index": 13,
+    "text": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom,",
+    "start": 61.241,
+    "end": 67.423,
+    "zh": "敲击船体发出的声音会从海底反射回来，",
+    "zh_hant": "敲擊船體發出的聲音會從海底反射回來，"
+  },
+  {
+    "index": 14,
+    "text": "and by measuring the time interval between the taps and the receipt of the echoes",
+    "start": 67.784,
+    "end": 74.127,
+    "zh": "通过测量敲击和接收回声之间的时间间隔，",
+    "zh_hant": "透過測量敲擊和接收回聲之間的時間間隔，"
+  },
+  {
+    "index": 15,
+    "text": "the depth of the sea at that point can be calculated.",
+    "start": 74.487,
+    "end": 78.529,
+    "zh": "可以计算出该点的海水深度。",
+    "zh_hant": "可以計算出該點的海水深度。"
+  },
+  {
+    "index": 16,
+    "text": "So was born the echo-sounding apparatus, now in general use in ships.",
+    "start": 79.45,
+    "end": 85.513,
+    "zh": "于是，回声测深仪就诞生了，现在在船只上普遍使用。",
+    "zh_hant": "於是，回聲測深儀就誕生了，現在在船隻上普遍使用。"
+  },
+  {
+    "index": 17,
+    "text": "Every solid object will reflect a sound,",
+    "start": 86.454,
+    "end": 89.635,
+    "zh": "任何固体物体都会反射声音，",
+    "zh_hant": "任何固體物體都會反射聲音，"
+  },
+  {
+    "index": 18,
+    "text": "varying according to the size and nature of the object.",
+    "start": 90.015,
+    "end": 94.357,
+    "zh": "反射情况因物体的大小和性质而异。",
+    "zh_hant": "反射情況因物體的大小和性質而異。"
+  },
+  {
+    "index": 19,
+    "text": "A shoal of fish will do this.",
+    "start": 94.898,
+    "end": 97.018,
+    "zh": "鱼群也会这样做。",
+    "zh_hant": "魚群也會這樣做。"
+  },
+  {
+    "index": 20,
+    "text": "So it is a comparatively simple step",
+    "start": 97.579,
+    "end": 100.8,
+    "zh": "因此，从定位海底到定位鱼群，",
+    "zh_hant": "因此，從定位海底到定位魚群，"
+  },
+  {
+    "index": 21,
+    "text": "from locating the sea bottom to locating a shoal of fish.",
+    "start": 100.66,
+    "end": 105.162,
+    "zh": "这是相对简单的一步。",
+    "zh_hant": "這是相對簡單的一步。"
+  },
+  {
+    "index": 22,
+    "text": "With experience, and with improved apparatus,",
+    "start": 105.903,
+    "end": 109.705,
+    "zh": "随着经验和改进的设备，",
+    "zh_hant": "隨著經驗和改進的裝置，"
+  },
+  {
+    "index": 23,
+    "text": "it is now possible not only to locate",
+    "start": 110.045,
+    "end": 113.246,
+    "zh": "现在不仅能够定位",
+    "zh_hant": "現在不僅能夠定位"
+  },
+  {
+    "index": 24,
+    "text": "a shoal but to tell if it is herring, cod, or other well-known fish,",
+    "start": 112.896,
+    "end": 118.609,
+    "zh": "鱼群，还能根据回声的模式判断是鲱鱼、鳕鱼还是其他常见鱼类。",
+    "zh_hant": "魚群，還能根據回聲的模式判斷是鯡魚、鱈魚還是其他常見魚類。"
+  },
+  {
+    "index": 25,
+    "text": "by the pattern of its echo.",
+    "start": 118.649,
+    "end": 120.751,
+    "zh": "通过回声的模式来判断。",
+    "zh_hant": "透過回聲的模式來判斷。"
+  },
+  {
+    "index": 26,
+    "text": "It has been found that certain bats emit squeaks and by receiving the echoes,",
+    "start": 121.512,
+    "end": 127.376,
+    "zh": "已经发现，某些蝙蝠发出吱吱声，并通过接收回声，",
+    "zh_hant": "已經發現，某些蝙蝠發出吱吱聲，並透過接收回聲，"
+  },
+  {
+    "index": 27,
+    "text": "they can locate and steer clear of obstacles",
+    "start": 127.617,
+    "end": 130.74,
+    "zh": "能够定位并避开障碍物",
+    "zh_hant": "能夠定位並避開障礙物"
+  },
+  {
+    "index": 28,
+    "text": "-- or locate flying insects on which they feed.",
+    "start": 130.34,
+    "end": 135.003,
+    "zh": "——或者定位它们捕食的飞行昆虫。",
+    "zh_hant": "——或者定位它們捕食的飛行昆蟲。"
+  },
+  {
+    "index": 29,
+    "text": "This echo-location in bats is often compared with radar,",
+    "start": 135.864,
+    "end": 140.727,
+    "zh": "蝙蝠的这种回声定位常被比作雷达，",
+    "zh_hant": "蝙蝠的這種回聲定位常被比作雷達，"
+  },
+  {
+    "index": 30,
+    "text": "the principle of which is similar.",
+    "start": 141.008,
+    "end": 143.61,
+    "zh": "其原理是相似的。",
+    "zh_hant": "其原理是相似的。"
+  }
+]

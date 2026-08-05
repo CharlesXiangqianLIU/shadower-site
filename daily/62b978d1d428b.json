@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 30 The death of a ghost",
+    "text": "Lesson 30.",
     "start": 1.55,
-    "end": 9.254,
-    "zh": "第30课 鬼魂之死",
-    "zh_hant": "第30課 鬼魂之死"
+    "end": 5.17,
+    "zh": "第三十课。",
+    "zh_hant": "第三十課。"
   },
   {
     "index": 1,
-    "text": "Why did the two brothers keep the secret?",
-    "start": 11.896,
-    "end": 14.697,
-    "zh": "两兄弟为什么保守这个秘密？",
-    "zh_hant": "兩兄弟為什麼保守這個秘密？"
+    "text": "The death of a ghost.",
+    "start": 6.553,
+    "end": 9.254,
+    "zh": "鬼魂之死。",
+    "zh_hant": "鬼魂之死。"
   },
   {
     "index": 2,
+    "text": "Why did the two brothers keep the secret?",
+    "start": 11.896,
+    "end": 14.697,
+    "zh": "兄弟俩为什么保守这个秘密？",
+    "zh_hant": "兄弟倆為什麼保守這個秘密？"
+  },
+  {
+    "index": 3,
     "text": "For years, villagers believed that Endley farm was haunted.",
     "start": 16.998,
     "end": 21.66,
@@ -24,63 +32,63 @@
     "zh_hant": "多年來，村民們一直相信恩德利農場鬧鬼。"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "The farm was owned by two brothers, Joe and Bob Cox.",
     "start": 22.02,
     "end": 26.502,
-    "zh": "这个农场由乔和鲍勃·考克斯两兄弟所有。",
-    "zh_hant": "這個農場由喬和鮑勃·考克斯兩兄弟所有。"
-  },
-  {
-    "index": 4,
-    "text": "They employed a few farmhands, but no one was willing to work there long.",
-    "start": 26.863,
-    "end": 31.485,
-    "zh": "他们雇了几个农场工人，但没人愿意在那里干很久。",
-    "zh_hant": "他們僱了幾個農場工人，但沒人願意在那裡幹很久。"
+    "zh": "这个农场归乔·考克斯和鲍勃·考克斯两兄弟所有。",
+    "zh_hant": "這個農場歸喬·考克斯和鮑勃·考克斯兩兄弟所有。"
   },
   {
     "index": 5,
-    "text": "Every time a worker gave up his job, he told the same story.",
-    "start": 31.865,
-    "end": 36.267,
-    "zh": "每次有工人辞职，他都会讲同一个故事。",
-    "zh_hant": "每次有工人辭職，他都會講同一個故事。"
+    "text": "They employed a few farmhands, but no one was willing to work there long.",
+    "start": 26.863,
+    "end": 31.485,
+    "zh": "他们雇了几个农场工人，但没人愿意在那里长期工作。",
+    "zh_hant": "他們僱了幾個農場工人，但沒人願意在那裡長期工作。"
   },
   {
     "index": 6,
-    "text": "Farm labourers said that they always woke up to find that work had been done overnight.",
-    "start": 36.708,
-    "end": 42.691,
-    "zh": "农场工人说，他们总是醒来发现一夜之间工作已经做完了。",
-    "zh_hant": "農場工人說，他們總是醒來發現一夜之間工作已經做完了。"
+    "text": "Every time a worker gave up his job, he told the same story.",
+    "start": 31.865,
+    "end": 36.267,
+    "zh": "每当有工人辞掉工作，他都会讲同样的故事。",
+    "zh_hant": "每當有工人辭掉工作，他都會講同樣的故事。"
   },
   {
     "index": 7,
-    "text": "Hay had been cut and cowsheds had been cleaned.",
-    "start": 43.111,
-    "end": 46.933,
-    "zh": "干草被割好了，牛棚也被打扫干净了。",
-    "zh_hant": "乾草被割好了，牛棚也被打掃乾淨了。"
+    "text": "Farm labourers said that they always woke up to find that work had been done overnight.",
+    "start": 36.708,
+    "end": 42.691,
+    "zh": "农场工人说，他们总是醒来后发现活计在夜里已经干完了。",
+    "zh_hant": "農場工人說，他們總是醒來後發現活計在夜裡已經幹完了。"
   },
   {
     "index": 8,
-    "text": "A farm worker, who stayed up all night, claimed",
-    "start": 47.133,
-    "end": 50.935,
-    "zh": "一个一夜未睡的农场工人声称",
-    "zh_hant": "一個一夜未睡的農場工人聲稱"
+    "text": "Hay had been cut and cowsheds had been cleaned.",
+    "start": 43.111,
+    "end": 46.933,
+    "zh": "干草已割好，牛棚也已打扫干净。",
+    "zh_hant": "乾草已割好，牛棚也已打掃乾淨。"
   },
   {
     "index": 9,
-    "text": "to have seen a figure cutting corn in the moonlight.",
-    "start": 50.585,
-    "end": 53.836,
-    "zh": "在月光下看到一个人影在割玉米。",
-    "zh_hant": "在月光下看到一個人影在割玉米。"
+    "text": "A farm worker, who stayed up all night, claimed to have seen a figure",
+    "start": 47.133,
+    "end": 51.955,
+    "zh": "一个农场工人熬夜不睡，声称看到了一个身影",
+    "zh_hant": "一個農場工人熬夜不睡，聲稱看到了一個身影"
   },
   {
     "index": 10,
+    "text": "cutting corn in the moonlight.",
+    "start": 51.635,
+    "end": 53.836,
+    "zh": "在月光下割玉米。",
+    "zh_hant": "在月光下割玉米。"
+  },
+  {
+    "index": 11,
     "text": "In time, it became an accepted fact",
     "start": 54.157,
     "end": 57.318,
@@ -88,31 +96,31 @@
     "zh_hant": "久而久之，這成了一個公認的事實"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "that the Cox brothers employed a conscientious ghost that did most of their work for them.",
     "start": 57.258,
     "end": 63.201,
-    "zh": "考克斯兄弟雇了一个尽职的鬼，替他们干了大半的活儿。",
-    "zh_hant": "考克斯兄弟僱了一個盡職的鬼，替他們幹了大半的活兒。"
-  },
-  {
-    "index": 12,
-    "text": "No one suspected that there might be someone else on the farm who had never been seen.",
-    "start": 64.001,
-    "end": 69.464,
-    "zh": "没有人怀疑农场里可能还有别人，一个从未被看见的人。",
-    "zh_hant": "沒有人懷疑農場裡可能還有別人，一個從未被看見的人。"
+    "zh": "考克斯兄弟雇了一个尽职尽责的鬼魂，替他们干了大部分活儿。",
+    "zh_hant": "考克斯兄弟僱了一個盡職盡責的鬼魂，替他們幹了大部分活兒。"
   },
   {
     "index": 13,
-    "text": "This was indeed the case.",
-    "start": 69.884,
-    "end": 71.545,
-    "zh": "事实的确如此。",
-    "zh_hant": "事實的確如此。"
+    "text": "No one suspected that there might be someone else on the farm who had never been seen.",
+    "start": 64.001,
+    "end": 69.464,
+    "zh": "没人怀疑农场里可能还有一个从未露面的人。",
+    "zh_hant": "沒人懷疑農場裡可能還有一個從未露面的人。"
   },
   {
     "index": 14,
+    "text": "This was indeed the case.",
+    "start": 69.884,
+    "end": 71.545,
+    "zh": "事实确实如此。",
+    "zh_hant": "事實確實如此。"
+  },
+  {
+    "index": 15,
     "text": "A short time ago, villagers were astonished to learn",
     "start": 71.745,
     "end": 75.627,
@@ -120,71 +128,79 @@
     "zh_hant": "不久前，村民們驚訝地得知"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "that the ghost of Endley had died.",
     "start": 75.467,
     "end": 78.328,
-    "zh": "恩德利的鬼魂死了。",
-    "zh_hant": "恩德利的鬼魂死了。"
-  },
-  {
-    "index": 16,
-    "text": "Everyone went to the funeral, for the 'ghost' was none other than Eric Cox,",
-    "start": 78.969,
-    "end": 84.432,
-    "zh": "所有人都去参加了葬礼，因为这个“鬼”正是埃里克·考克斯，",
-    "zh_hant": "所有人都去參加了葬禮，因為這個“鬼”正是埃裡克·考克斯，"
+    "zh": "恩德利的鬼魂已经死了。",
+    "zh_hant": "恩德利的鬼魂已經死了。"
   },
   {
     "index": 17,
-    "text": "a third brother who was supposed to have died as a young man.",
-    "start": 84.452,
-    "end": 88.434,
-    "zh": "一个被认为年轻时就已经死去的三弟。",
-    "zh_hant": "一個被認為年輕時就已經死去的三弟。"
+    "text": "Everyone went to the funeral,",
+    "start": 78.969,
+    "end": 80.749,
+    "zh": "大家都去参加了葬礼，",
+    "zh_hant": "大家都去參加了葬禮，"
   },
   {
     "index": 18,
-    "text": "After the funeral, Joe and Bob revealed",
-    "start": 88.794,
-    "end": 92.316,
-    "zh": "葬礼后，乔和鲍勃透露了",
-    "zh_hant": "葬禮後，喬和鮑勃透露了"
+    "text": "for the 'ghost' was none other than Eric Cox,",
+    "start": 80.97,
+    "end": 84.432,
+    "zh": "因为这个“鬼魂”不是别人，正是埃里克·考克斯，",
+    "zh_hant": "因為這個“鬼魂”不是別人，正是埃裡克·考克斯，"
   },
   {
     "index": 19,
-    "text": "a secret which they had kept for over fifty years.",
-    "start": 91.966,
-    "end": 95.517,
-    "zh": "一个他们保守了五十多年的秘密。",
-    "zh_hant": "一個他們保守了五十多年的秘密。"
+    "text": "a third brother who was supposed to have died as a young man.",
+    "start": 84.452,
+    "end": 88.434,
+    "zh": "一个据信年轻时早已去世的三弟。",
+    "zh_hant": "一個據信年輕時早已去世的三弟。"
   },
   {
     "index": 20,
-    "text": "Eric had been the eldest son of the family, very much older than his two brothers.",
-    "start": 96.198,
-    "end": 101.6,
-    "zh": "埃里克是家里的长子，比两个弟弟大很多。",
-    "zh_hant": "埃裡克是家裡的長子，比兩個弟弟大很多。"
+    "text": "After the funeral, Joe and Bob revealed a secret",
+    "start": 88.794,
+    "end": 92.816,
+    "zh": "葬礼后，乔和鲍勃透露了一个秘密，",
+    "zh_hant": "葬禮後，喬和鮑勃透露了一個秘密，"
   },
   {
     "index": 21,
-    "text": "He had been obliged to join the army during the Second World War.",
-    "start": 101.9,
-    "end": 105.722,
-    "zh": "二战期间，他被迫参军。",
-    "zh_hant": "二戰期間，他被迫參軍。"
+    "text": "which they had kept for over fifty years.",
+    "start": 92.616,
+    "end": 95.517,
+    "zh": "这个秘密他们保守了五十多年。",
+    "zh_hant": "這個秘密他們保守了五十多年。"
   },
   {
     "index": 22,
-    "text": "As he hated army life, he decided to desert his regiment.",
-    "start": 105.902,
-    "end": 110.064,
-    "zh": "由于他厌恶军旅生活，决定从团里开小差。",
-    "zh_hant": "由於他厭惡軍旅生活，決定從團裡開小差。"
+    "text": "Eric had been the eldest son of the family, very much older than his two brothers.",
+    "start": 96.198,
+    "end": 101.6,
+    "zh": "埃里克是家里的长子，比两个弟弟年长很多。",
+    "zh_hant": "埃裡克是家裡的長子，比兩個弟弟年長很多。"
   },
   {
     "index": 23,
+    "text": "He had been obliged to join the army during the Second World War.",
+    "start": 101.9,
+    "end": 105.722,
+    "zh": "第二次世界大战期间，他被迫入伍。",
+    "zh_hant": "第二次世界大戰期間，他被迫入伍。"
+  },
+  {
+    "index": 24,
+    "text": "As he hated army life, he decided to desert his regiment.",
+    "start": 105.902,
+    "end": 110.064,
+    "zh": "由于厌恶军队生活，他决定开小差逃离部队。",
+    "zh_hant": "由於厭惡軍隊生活，他決定開小差逃離部隊。"
+  },
+  {
+    "index": 25,
     "text": "When he learnt that he would be sent abroad,",
     "start": 110.285,
     "end": 113.026,
@@ -192,31 +208,31 @@
     "zh_hant": "當他得知自己將被派往國外時，"
   },
   {
-    "index": 24,
+    "index": 26,
     "text": "he returned to the farm and his father hid him until the end of the war.",
     "start": 113.186,
     "end": 117.988,
-    "zh": "他回到了农场，父亲把他藏了起来，直到战争结束。",
-    "zh_hant": "他回到了農場，父親把他藏了起來，直到戰爭結束。"
-  },
-  {
-    "index": 25,
-    "text": "Fearing the authorities, Eric remained in hiding after the war as well.",
-    "start": 118.288,
-    "end": 122.751,
-    "zh": "因为害怕当局，战后埃里克也一直躲藏着。",
-    "zh_hant": "因為害怕當局，戰後埃裡克也一直躲藏著。"
-  },
-  {
-    "index": 26,
-    "text": "His father told everybody that Eric had been killed in action.",
-    "start": 123.031,
-    "end": 127.013,
-    "zh": "他父亲告诉所有人，埃里克在战斗中阵亡了。",
-    "zh_hant": "他父親告訴所有人，埃裡克在戰鬥中陣亡了。"
+    "zh": "他回到农场，父亲把他藏了起来，直到战争结束。",
+    "zh_hant": "他回到農場，父親把他藏了起來，直到戰爭結束。"
   },
   {
     "index": 27,
+    "text": "Fearing the authorities, Eric remained in hiding after the war as well.",
+    "start": 118.288,
+    "end": 122.751,
+    "zh": "因为害怕当局，战后埃里克也继续躲藏着。",
+    "zh_hant": "因為害怕當局，戰後埃裡克也繼續躲藏著。"
+  },
+  {
+    "index": 28,
+    "text": "His father told everybody that Eric had been killed in action.",
+    "start": 123.031,
+    "end": 127.013,
+    "zh": "父亲告诉所有人，埃里克已在战斗中阵亡。",
+    "zh_hant": "父親告訴所有人，埃裡克已在戰鬥中陣亡。"
+  },
+  {
+    "index": 29,
     "text": "The only other people who knew the secret were Joe and Bob.",
     "start": 127.374,
     "end": 131.696,
@@ -224,7 +240,7 @@
     "zh_hant": "唯一知道這個秘密的其他人就是喬和鮑勃。"
   },
   {
-    "index": 28,
+    "index": 30,
     "text": "They did not even tell their wives.",
     "start": 131.956,
     "end": 134.377,
@@ -232,15 +248,15 @@
     "zh_hant": "他們連自己的妻子都沒告訴。"
   },
   {
-    "index": 29,
+    "index": 31,
     "text": "When their father died they thought it their duty to keep Eric in hiding.",
     "start": 134.578,
     "end": 138.88,
-    "zh": "父亲去世后，他们认为有责任继续把埃里克藏起来。",
-    "zh_hant": "父親去世後，他們認為有責任繼續把埃裡克藏起來。"
+    "zh": "父亲去世后，他们认为把埃里克藏起来是自己的责任。",
+    "zh_hant": "父親去世後，他們認為把埃裡克藏起來是自己的責任。"
   },
   {
-    "index": 30,
+    "index": 32,
     "text": "All these years, Eric had lived as a recluse.",
     "start": 139.1,
     "end": 142.762,
@@ -248,27 +264,27 @@
     "zh_hant": "這些年來，埃裡克一直過著隱居生活。"
   },
   {
-    "index": 31,
+    "index": 33,
     "text": "He used to sleep during the day and work at night,",
     "start": 143.123,
     "end": 146.424,
-    "zh": "他白天睡觉，晚上干活，",
-    "zh_hant": "他白天睡覺，晚上幹活，"
+    "zh": "他习惯白天睡觉，夜晚干活，",
+    "zh_hant": "他習慣白天睡覺，夜晚幹活，"
   },
   {
-    "index": 32,
+    "index": 34,
     "text": "quite unaware of the fact that he had become the ghost of Endley.",
     "start": 146.444,
     "end": 151.027,
-    "zh": "完全不知道他已经成了恩德利的鬼魂。",
-    "zh_hant": "完全不知道他已經成了恩德利的鬼魂。"
+    "zh": "完全不知道自己成了恩德利的鬼魂。",
+    "zh_hant": "完全不知道自己成了恩德利的鬼魂。"
   },
   {
-    "index": 33,
+    "index": 35,
     "text": "When he died, however, his brothers found it impossible to keep the secret any longer.",
     "start": 151.387,
     "end": 156.59,
-    "zh": "然而，当他去世时，他的兄弟们发现再也无法保守这个秘密了。",
-    "zh_hant": "然而，當他去世時，他的兄弟們發現再也無法保守這個秘密了。"
+    "zh": "然而，他去世后，兄弟们觉得再也无法保守这个秘密了。",
+    "zh_hant": "然而，他去世後，兄弟們覺得再也無法保守這個秘密了。"
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 79 Carol's",
+    "text": "Lesson 79.",
     "start": 0.69,
-    "end": 4.552,
-    "zh": "第79课 卡罗尔的",
-    "zh_hant": "第79課 卡羅爾的"
+    "end": 3.362,
+    "zh": "第79课。",
+    "zh_hant": "第79課。"
   },
   {
     "index": 1,
-    "text": "shopping list",
-    "start": 4.372,
+    "text": "Carol's shopping list.",
+    "start": 3.412,
     "end": 5.873,
-    "zh": "购物清单",
-    "zh_hant": "購物清單"
+    "zh": "卡罗尔的购物清单。",
+    "zh_hant": "卡羅爾的購物清單。"
   },
   {
     "index": 2,
@@ -44,8 +44,8 @@
     "text": "What are you doing, Carol?",
     "start": 17.939,
     "end": 20.42,
-    "zh": "你在做什么，卡罗尔？",
-    "zh_hant": "你在做什麼，卡羅爾？"
+    "zh": "你在干什么，卡罗尔？",
+    "zh_hant": "你在幹什麼，卡羅爾？"
   },
   {
     "index": 6,
@@ -76,8 +76,8 @@
     "text": "I must go to the grocer's.",
     "start": 33.767,
     "end": 36.728,
-    "zh": "我必须去食品杂货店。",
-    "zh_hant": "我必須去食品雜貨店。"
+    "zh": "我得去食品杂货店。",
+    "zh_hant": "我得去食品雜貨店。"
   },
   {
     "index": 10,
@@ -92,8 +92,8 @@
     "text": "and we haven't got any sugar or jam.",
     "start": 41.211,
     "end": 45.093,
-    "zh": "而且我们没有糖和果酱了。",
-    "zh_hant": "而且我們沒有糖和果醬了。"
+    "zh": "而且也没有糖和果酱了。",
+    "zh_hant": "而且也沒有糖和果醬了。"
   },
   {
     "index": 12,
@@ -108,24 +108,24 @@
     "text": "I must go to the greengroce's.",
     "start": 49.515,
     "end": 52.977,
-    "zh": "我必须去蔬菜水果店。",
-    "zh_hant": "我必須去蔬菜水果店。"
+    "zh": "我得去蔬菜水果店。",
+    "zh_hant": "我得去蔬菜水果店。"
   },
   {
     "index": 14,
     "text": "We haven't got many tomatoes,",
     "start": 53.477,
     "end": 56.698,
-    "zh": "我们的西红柿不多，",
-    "zh_hant": "我們的西紅柿不多，"
+    "zh": "我们的西红柿不多了，",
+    "zh_hant": "我們的西紅柿不多了，"
   },
   {
     "index": 15,
     "text": "but we've got a lot of potatoes.",
     "start": 56.919,
     "end": 60.64,
-    "zh": "但土豆有很多。",
-    "zh_hant": "但土豆有很多。"
+    "zh": "但土豆还有很多。",
+    "zh_hant": "但土豆還有很多。"
   },
   {
     "index": 16,
@@ -180,23 +180,23 @@
     "text": "I hope that you've got some money.",
     "start": 83.777,
     "end": 86.44,
-    "zh": "我希望你有钱。",
-    "zh_hant": "我希望你有錢。"
+    "zh": "我希望你有一些钱。",
+    "zh_hant": "我希望你有一些錢。"
   },
   {
     "index": 23,
     "text": "I haven't got much.",
     "start": 87.262,
     "end": 89.324,
-    "zh": "我钱不多。",
-    "zh_hant": "我錢不多。"
+    "zh": "我的钱不多。",
+    "zh_hant": "我的錢不多。"
   },
   {
     "index": 24,
     "text": "Well, I haven't got much either!",
     "start": 89.525,
     "end": 93.23,
-    "zh": "嗯，我钱也不多！",
-    "zh_hant": "嗯，我錢也不多！"
+    "zh": "嗯，我的钱也不多！",
+    "zh_hant": "嗯，我的錢也不多！"
   }
 ]

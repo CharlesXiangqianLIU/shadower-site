@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 28 Five pounds",
+    "text": "Lesson 28.",
     "start": 0.39,
-    "end": 6.653,
-    "zh": "第二十八课 五英镑",
-    "zh_hant": "第二十八課 五英鎊"
+    "end": 2.541,
+    "zh": "第28课。",
+    "zh_hant": "第28課。"
   },
   {
     "index": 1,
-    "text": "too dear",
-    "start": 6.303,
+    "text": "Five pounds too dear.",
+    "start": 2.591,
     "end": 8.674,
-    "zh": "太贵了",
-    "zh_hant": "太貴了"
+    "zh": "五英镑也太贵了。",
+    "zh_hant": "五英鎊也太貴了。"
   },
   {
     "index": 2,
@@ -36,51 +36,59 @@
     "text": "Small boats loaded with wares sped to the great liner as she was entering the harbour.",
     "start": 16.879,
     "end": 22.881,
-    "zh": "满载货物的小船急速驶向那艘正要进港的大邮轮。",
-    "zh_hant": "滿載貨物的小船急速駛向那艘正要進港的大郵輪。"
+    "zh": "满载货物的小船在巨轮进港时飞快地驶向它。",
+    "zh_hant": "滿載貨物的小船在巨輪進港時飛快地駛向它。"
   },
   {
     "index": 5,
     "text": "Before she had anchored,",
     "start": 23.622,
     "end": 25.403,
-    "zh": "她还没抛锚，",
-    "zh_hant": "她還沒拋錨，"
+    "zh": "在它尚未抛锚前，",
+    "zh_hant": "在它尚未拋錨前，"
   },
   {
     "index": 6,
     "text": "the men from the boats had climbed on board",
     "start": 25.483,
     "end": 28.384,
-    "zh": "小船上的人已经爬上了船，",
-    "zh_hant": "小船上的人已經爬上了船，"
+    "zh": "船上的人已经爬上了大船",
+    "zh_hant": "船上的人已經爬上了大船"
   },
   {
     "index": 7,
     "text": "and the decks were soon covered with colourful rugs from Persia,",
     "start": 28.444,
     "end": 32.906,
-    "zh": "甲板上很快铺满了来自波斯的彩色地毯、",
-    "zh_hant": "甲板上很快鋪滿了來自波斯的彩色地毯、"
+    "zh": "甲板上很快就铺满了来自波斯的彩色地毯、",
+    "zh_hant": "甲板上很快就鋪滿了來自波斯的彩色地毯、"
   },
   {
     "index": 8,
-    "text": "silks from India, copper coffee pots, and beautiful handmade silverware.",
+    "text": "silks from India,",
     "start": 33.347,
-    "end": 39.55,
-    "zh": "印度的丝绸、铜咖啡壶和精美的手工银器。",
-    "zh_hant": "印度的絲綢、銅咖啡壺和精美的手工銀器。"
+    "end": 35.028,
+    "zh": "印度的丝绸、",
+    "zh_hant": "印度的絲綢、"
   },
   {
     "index": 9,
-    "text": "It was difficult not to be tempted.",
-    "start": 40.031,
-    "end": 42.532,
-    "zh": "很难不被诱惑。",
-    "zh_hant": "很難不被誘惑。"
+    "text": "copper coffee pots, and beautiful handmade silverware.",
+    "start": 35.348,
+    "end": 39.55,
+    "zh": "铜咖啡壶，以及精美的手工银器。",
+    "zh_hant": "銅咖啡壺，以及精美的手工銀器。"
   },
   {
     "index": 10,
+    "text": "It was difficult not to be tempted.",
+    "start": 40.031,
+    "end": 42.532,
+    "zh": "很难不被打动。",
+    "zh_hant": "很難不被打動。"
+  },
+  {
+    "index": 11,
     "text": "Many of the tourists on board had begun bargaining with the tradesmen,",
     "start": 43.272,
     "end": 47.674,
@@ -88,63 +96,63 @@
     "zh_hant": "船上的許多遊客已經開始和商販討價還價，"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "but I decided not to buy anything until I had disembarked.",
     "start": 47.714,
     "end": 52.557,
-    "zh": "但我决定在下船前什么都不买。",
-    "zh_hant": "但我決定在下船前什麼都不買。"
-  },
-  {
-    "index": 12,
-    "text": "I had no sooner got off the ship than I was assailed by a man",
-    "start": 53.637,
-    "end": 58.8,
-    "zh": "我刚下船就被一个人拦住，",
-    "zh_hant": "我剛下船就被一個人攔住，"
+    "zh": "但我决定下船前不买任何东西。",
+    "zh_hant": "但我決定下船前不買任何東西。"
   },
   {
     "index": 13,
-    "text": "who wanted to sell me a diamond ring.",
-    "start": 58.45,
-    "end": 61.041,
-    "zh": "他想卖给我一枚钻石戒指。",
-    "zh_hant": "他想賣給我一枚鑽石戒指。"
+    "text": "I had no sooner got off the ship",
+    "start": 53.637,
+    "end": 56.238,
+    "zh": "我刚一下船",
+    "zh_hant": "我剛一下船"
   },
   {
     "index": 14,
-    "text": "I had no intention of buying one,",
-    "start": 62.222,
-    "end": 64.743,
-    "zh": "我无意购买，",
-    "zh_hant": "我無意購買，"
+    "text": "than I was assailed by a man who wanted to sell me a diamond ring.",
+    "start": 56.279,
+    "end": 61.041,
+    "zh": "就被一个想卖我钻戒的人缠住了。",
+    "zh_hant": "就被一個想賣我鑽戒的人纏住了。"
   },
   {
     "index": 15,
-    "text": "but I could not conceal the fact that I was impressed by the size of the diamonds.",
-    "start": 64.843,
-    "end": 70.606,
-    "zh": "但无法掩饰我对钻石大小印象深刻的事实。",
-    "zh_hant": "但無法掩飾我對鑽石大小印象深刻的事實。"
+    "text": "I had no intention of buying one, but I could not conceal",
+    "start": 62.222,
+    "end": 66.804,
+    "zh": "我根本没有买的打算，但我无法掩饰",
+    "zh_hant": "我根本沒有買的打算，但我無法掩飾"
   },
   {
     "index": 16,
-    "text": "Some of them were as big as marbles.",
-    "start": 71.486,
-    "end": 74.147,
-    "zh": "其中一些大如弹珠。",
-    "zh_hant": "其中一些大如彈珠。"
+    "text": "the fact that I was impressed by the size of the diamonds.",
+    "start": 66.454,
+    "end": 70.606,
+    "zh": "我对钻石大小印象深刻的事实。",
+    "zh_hant": "我對鑽石大小印象深刻的事實。"
   },
   {
     "index": 17,
-    "text": "The man went to great lengths to prove that the diamonds were real.",
-    "start": 74.628,
-    "end": 79.29,
-    "zh": "那人竭尽全力证明钻石是真的。",
-    "zh_hant": "那人竭盡全力證明鑽石是真的。"
+    "text": "Some of them were as big as marbles.",
+    "start": 71.486,
+    "end": 74.147,
+    "zh": "其中一些像弹珠一样大。",
+    "zh_hant": "其中一些像彈珠一樣大。"
   },
   {
     "index": 18,
+    "text": "The man went to great lengths to prove that the diamonds were real.",
+    "start": 74.628,
+    "end": 79.29,
+    "zh": "那人费尽心机证明钻石是真的。",
+    "zh_hant": "那人費盡心機證明鑽石是真的。"
+  },
+  {
+    "index": 19,
     "text": "As we were walking past a shop,",
     "start": 79.851,
     "end": 82.071,
@@ -152,15 +160,15 @@
     "zh_hant": "當我們路過一家商店時，"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "he held a diamond firmly against the window and made a deep impression in the glass.",
     "start": 82.272,
     "end": 88.094,
-    "zh": "他把一颗钻石紧紧按在橱窗上，在玻璃上留下了深深的划痕。",
-    "zh_hant": "他把一顆鑽石緊緊按在櫥窗上，在玻璃上留下了深深的劃痕。"
+    "zh": "他把一颗钻石紧紧压在橱窗玻璃上，在上面留下了一道深深的划痕。",
+    "zh_hant": "他把一顆鑽石緊緊壓在櫥窗玻璃上，在上面留下了一道深深的劃痕。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "It took me over half an hour to get rid of him.",
     "start": 88.895,
     "end": 92.036,
@@ -168,47 +176,47 @@
     "zh_hant": "我花了半個多小時才擺脫他。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "The next man to approach me was selling expensive pens and watches.",
     "start": 92.917,
     "end": 97.559,
-    "zh": "下一个接近我的人是卖昂贵钢笔和手表的。",
-    "zh_hant": "下一個接近我的人是賣昂貴鋼筆和手錶的。"
-  },
-  {
-    "index": 22,
-    "text": "I examined one of the pens closely.",
-    "start": 98.119,
-    "end": 100.72,
-    "zh": "我仔细检查了其中一支笔。",
-    "zh_hant": "我仔細檢查了其中一支筆。"
+    "zh": "接着走近我的人卖的是昂贵的钢笔和手表。",
+    "zh_hant": "接著走近我的人賣的是昂貴的鋼筆和手錶。"
   },
   {
     "index": 23,
-    "text": "It certainly looked genuine.",
-    "start": 101.041,
-    "end": 103.242,
-    "zh": "它看起来确实是真的。",
-    "zh_hant": "它看起來確實是真的。"
+    "text": "I examined one of the pens closely.",
+    "start": 98.119,
+    "end": 100.72,
+    "zh": "我仔细检查了一支钢笔。",
+    "zh_hant": "我仔細檢查了一支鋼筆。"
   },
   {
     "index": 24,
-    "text": "At the base of the gold cap,",
-    "start": 103.742,
-    "end": 105.763,
-    "zh": "在金笔帽的底部，",
-    "zh_hant": "在金筆帽的底部，"
+    "text": "It certainly looked genuine.",
+    "start": 101.041,
+    "end": 103.242,
+    "zh": "它看起来确实像真的。",
+    "zh_hant": "它看起來確實像真的。"
   },
   {
     "index": 25,
-    "text": "the words 'made in the U.S.A.' had been neatly inscribed.",
-    "start": 105.943,
-    "end": 111.646,
-    "zh": "整齐地刻着“美国制造”几个字。",
-    "zh_hant": "整齊地刻著“美國製造”幾個字。"
+    "text": "At the base of the gold cap,",
+    "start": 103.742,
+    "end": 105.763,
+    "zh": "在金色笔帽的底部，",
+    "zh_hant": "在金色筆帽的底部，"
   },
   {
     "index": 26,
+    "text": "the words 'made in the U.S.A.' had been neatly inscribed.",
+    "start": 105.943,
+    "end": 111.646,
+    "zh": "工整地刻着“美国制造”几个字。",
+    "zh_hant": "工整地刻著“美國製造”幾個字。"
+  },
+  {
+    "index": 27,
     "text": "The man said that the pen was worth ￡50,",
     "start": 112.346,
     "end": 115.65,
@@ -216,23 +224,23 @@
     "zh_hant": "那人說這支筆值50英鎊，"
   },
   {
-    "index": 27,
+    "index": 28,
     "text": "but as a special favour, he would let me have it for ￡30.",
     "start": 116.128,
     "end": 121.01,
-    "zh": "但作为特别优惠，他可以30英镑卖给我。",
-    "zh_hant": "但作為特別優惠，他可以30英鎊賣給我。"
-  },
-  {
-    "index": 28,
-    "text": "I shook my head and held up five fingers indicating",
-    "start": 122.332,
-    "end": 126.814,
-    "zh": "我摇摇头，伸出五个手指，表示",
-    "zh_hant": "我搖搖頭，伸出五個手指，表示"
+    "zh": "但作为特别优惠，他愿意以30英镑卖给我。",
+    "zh_hant": "但作為特別優惠，他願意以30英鎊賣給我。"
   },
   {
     "index": 29,
+    "text": "I shook my head and held up five fingers indicating",
+    "start": 122.332,
+    "end": 126.814,
+    "zh": "我摇摇头，伸出五个手指表示",
+    "zh_hant": "我搖搖頭，伸出五個手指表示"
+  },
+  {
+    "index": 30,
     "text": "that I was willing to pay ￡5.",
     "start": 126.464,
     "end": 129.03,
@@ -240,71 +248,71 @@
     "zh_hant": "我願意付5英鎊。"
   },
   {
-    "index": 30,
-    "text": "Gesticulating wildly, the man acted as if he",
-    "start": 130.456,
-    "end": 134.898,
-    "zh": "那人疯狂地打着手势，装出一副",
-    "zh_hant": "那人瘋狂地打著手勢，裝出一副"
-  },
-  {
     "index": 31,
-    "text": "found my offer outrageous,",
-    "start": 134.558,
-    "end": 137.019,
-    "zh": "觉得我的出价荒谬的样子，",
-    "zh_hant": "覺得我的出價荒謬的樣子，"
+    "text": "Gesticulating wildly,",
+    "start": 130.456,
+    "end": 132.697,
+    "zh": "他夸张地挥着手，",
+    "zh_hant": "他誇張地揮著手，"
   },
   {
     "index": 32,
-    "text": "but he eventually reduced the price to 10 pounds.",
-    "start": 137.439,
-    "end": 141.981,
-    "zh": "但他最终把价格降到了10英镑。",
-    "zh_hant": "但他最終把價格降到了10英鎊。"
+    "text": "the man acted as if he found my offer outrageous,",
+    "start": 132.937,
+    "end": 137.019,
+    "zh": "仿佛觉得我的出价荒谬至极，",
+    "zh_hant": "彷彿覺得我的出價荒謬至極，"
   },
   {
     "index": 33,
-    "text": "Shrugging my shoulders I began to walk away when,",
-    "start": 142.582,
-    "end": 146.383,
-    "zh": "我耸耸肩开始走开，就在这时，",
-    "zh_hant": "我聳聳肩開始走開，就在這時，"
+    "text": "but he eventually reduced the price to 10 pounds.",
+    "start": 137.439,
+    "end": 141.981,
+    "zh": "但他最后还是把价格降到了10英镑。",
+    "zh_hant": "但他最後還是把價格降到了10英鎊。"
   },
   {
     "index": 34,
-    "text": "a moment later, he ran after me and thrust the pen into my hands.",
-    "start": 146.604,
-    "end": 152.306,
-    "zh": "片刻后，他追上来把笔塞进我手里。",
-    "zh_hant": "片刻後，他追上來把筆塞進我手裡。"
+    "text": "Shrugging my shoulders I began to walk away when,",
+    "start": 142.582,
+    "end": 146.383,
+    "zh": "我耸耸肩，开始走开，",
+    "zh_hant": "我聳聳肩，開始走開，"
   },
   {
     "index": 35,
-    "text": "Though he kept throwing up his arms in despair, he readily accepted the ￡5",
-    "start": 153.327,
-    "end": 159.19,
-    "zh": "虽然他不断绝望地挥舞手臂，却很爽快地收下了我给的5英镑",
-    "zh_hant": "雖然他不斷絕望地揮舞手臂，卻很爽快地收下了我給的5英鎊"
+    "text": "a moment later, he ran after me and thrust the pen into my hands.",
+    "start": 146.604,
+    "end": 152.306,
+    "zh": "片刻后，他追上来把钢笔塞进我手里。",
+    "zh_hant": "片刻後，他追上來把鋼筆塞進我手裡。"
   },
   {
     "index": 36,
-    "text": "I gave him.",
-    "start": 158.95,
-    "end": 159.911,
-    "zh": "。",
-    "zh_hant": "。"
+    "text": "Though he kept throwing up his arms in despair, he readily accepted the ￡5",
+    "start": 153.327,
+    "end": 159.19,
+    "zh": "尽管他一直绝望地挥舞双臂，他还是爽快地接受了那5英镑",
+    "zh_hant": "儘管他一直絕望地揮舞雙臂，他還是爽快地接受了那5英鎊"
   },
   {
     "index": 37,
-    "text": "I felt especially pleased with my wonderful bargain--until",
-    "start": 160.552,
-    "end": 165.776,
-    "zh": "我对这笔划算的交易感到特别得意——直到",
-    "zh_hant": "我對這筆劃算的交易感到特別得意——直到"
+    "text": "I gave him.",
+    "start": 158.95,
+    "end": 159.911,
+    "zh": "我付给他的钱。",
+    "zh_hant": "我付給他的錢。"
   },
   {
     "index": 38,
+    "text": "I felt especially pleased with my wonderful bargain--until",
+    "start": 160.552,
+    "end": 165.776,
+    "zh": "我为这笔超值的交易感到特别得意——直到",
+    "zh_hant": "我為這筆超值的交易感到特別得意——直到"
+  },
+  {
+    "index": 39,
     "text": "I got back to the ship.",
     "start": 165.437,
     "end": 167.178,
@@ -312,27 +320,27 @@
     "zh_hant": "我回到船上。"
   },
   {
-    "index": 39,
+    "index": 40,
     "text": "No matter how hard I tried,",
     "start": 167.779,
     "end": 170.321,
-    "zh": "无论我怎么努力，",
-    "zh_hant": "無論我怎麼努力，"
-  },
-  {
-    "index": 40,
-    "text": "it was impossible to fill this beautiful pen with ink",
-    "start": 170.541,
-    "end": 174.685,
-    "zh": "这支漂亮的笔都无法吸上墨水，",
-    "zh_hant": "這支漂亮的筆都無法吸上墨水，"
+    "zh": "无论我多么努力地尝试，",
+    "zh_hant": "無論我多麼努力地嘗試，"
   },
   {
     "index": 41,
-    "text": "and to this day it has never written a single word!",
-    "start": 174.986,
+    "text": "it was impossible to fill this beautiful pen",
+    "start": 170.541,
+    "end": 174.084,
+    "zh": "都无法给这支漂亮的钢笔灌上墨水，",
+    "zh_hant": "都無法給這支漂亮的鋼筆灌上墨水，"
+  },
+  {
+    "index": 42,
+    "text": "with ink and to this day it has never written a single word!",
+    "start": 173.734,
     "end": 179.55,
-    "zh": "至今它一个字母也没写出来！",
-    "zh_hant": "至今它一個字母也沒寫出來！"
+    "zh": "至今它一个字也没写过！",
+    "zh_hant": "至今它一個字也沒寫過！"
   }
 ]

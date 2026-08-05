@@ -1,35 +1,35 @@
 [
   {
     "index": 0,
-    "text": "Lesson 65 Not a baby",
+    "text": "Lesson 65.",
     "start": 1.59,
-    "end": 5.912,
-    "zh": "第65课 不是婴儿了",
-    "zh_hant": "第65課 不是嬰兒了"
+    "end": 4.182,
+    "zh": "第65课。",
+    "zh_hant": "第65課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape",
-    "start": 7.033,
-    "end": 8.534,
-    "zh": "听录音",
-    "zh_hant": "聽錄音"
+    "text": "Not a baby.",
+    "start": 4.232,
+    "end": 5.912,
+    "zh": "不是小孩子了。",
+    "zh_hant": "不是小孩子了。"
   },
   {
     "index": 2,
-    "text": "then answer this question.",
-    "start": 8.554,
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.033,
     "end": 10.695,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
     "text": "Does Jill take the key to the front door?",
     "start": 12.936,
     "end": 16.438,
-    "zh": "吉尔拿前门的钥匙了吗？",
-    "zh_hant": "吉爾拿前門的鑰匙了嗎？"
+    "zh": "吉尔拿到前门的钥匙了吗？",
+    "zh_hant": "吉爾拿到前門的鑰匙了嗎？"
   },
   {
     "index": 4,
@@ -44,8 +44,8 @@
     "text": "I'm going to meet some friends, Dad.",
     "start": 23.021,
     "end": 25.642,
-    "zh": "爸爸，我打算去见几个朋友。",
-    "zh_hant": "爸爸，我打算去見幾個朋友。"
+    "zh": "爸爸，我要去见几个朋友。",
+    "zh_hant": "爸爸，我要去見幾個朋友。"
   },
   {
     "index": 6,
@@ -60,24 +60,24 @@
     "text": "You must be home at half past ten.",
     "start": 28.804,
     "end": 31.946,
-    "zh": "你必须十点半到家。",
-    "zh_hant": "你必須十點半到家。"
+    "zh": "你必须在十点半到家。",
+    "zh_hant": "你必須在十點半到家。"
   },
   {
     "index": 8,
     "text": "I can't get home so early, Dad!",
     "start": 33.226,
     "end": 36.268,
-    "zh": "爸爸，我回不了那么早！",
-    "zh_hant": "爸爸，我回不了那麼早！"
+    "zh": "爸爸，我这么早回不来！",
+    "zh_hant": "爸爸，我這麼早回不來！"
   },
   {
     "index": 9,
     "text": "Can I have the key to the front door, please?",
     "start": 37.549,
     "end": 40.77,
-    "zh": "我能拿前门的钥匙吗？",
-    "zh_hant": "我能拿前門的鑰匙嗎？"
+    "zh": "请问，我能拿前门的钥匙吗？",
+    "zh_hant": "請問，我能拿前門的鑰匙嗎？"
   },
   {
     "index": 10,
@@ -100,8 +100,8 @@
     "text": "She's not a baby.",
     "start": 47.714,
     "end": 49.174,
-    "zh": "她不是婴儿了。",
-    "zh_hant": "她不是嬰兒了。"
+    "zh": "她不是小孩子了。",
+    "zh_hant": "她不是小孩子了。"
   },
   {
     "index": 13,
@@ -140,24 +140,24 @@
     "text": "But you mustn't come home after a quarter past eleven.",
     "start": 59.64,
     "end": 63.782,
-    "zh": "但你十一点一刻之后不许回家。",
-    "zh_hant": "但你十一點一刻之後不許回家。"
+    "zh": "但你十一点一刻后不许回家。",
+    "zh_hant": "但你十一點一刻後不許回家。"
   },
   {
     "index": 18,
     "text": "Do you hear?",
     "start": 63.862,
     "end": 64.943,
-    "zh": "听见了吗？",
-    "zh_hant": "聽見了嗎？"
+    "zh": "听到了吗？",
+    "zh_hant": "聽到了嗎？"
   },
   {
     "index": 19,
     "text": "Yes, Dad.",
     "start": 65.643,
     "end": 67.404,
-    "zh": "听见了，爸爸。",
-    "zh_hant": "聽見了，爸爸。"
+    "zh": "听到了，爸爸。",
+    "zh_hant": "聽到了，爸爸。"
   },
   {
     "index": 20,
@@ -204,7 +204,7 @@
     "text": "Bye-bye.",
     "start": 78.59,
     "end": 79.39,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "zh": "拜拜。",
+    "zh_hant": "拜拜。"
   }
 ]

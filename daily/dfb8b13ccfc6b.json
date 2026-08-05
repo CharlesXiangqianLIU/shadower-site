@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 139 Is that you,",
+    "text": "Lesson 139.",
     "start": 1.65,
-    "end": 6.072,
-    "zh": "第139课 是你吗，",
-    "zh_hant": "第139課 是你嗎，"
+    "end": 4.902,
+    "zh": "第139课。",
+    "zh_hant": "第139課。"
   },
   {
     "index": 1,
-    "text": "John?",
-    "start": 5.752,
+    "text": "Is that you, John?",
+    "start": 4.952,
     "end": 6.532,
-    "zh": "约翰？",
-    "zh_hant": "約翰？"
+    "zh": "是你吗，约翰？",
+    "zh_hant": "是你嗎，約翰？"
   },
   {
     "index": 2,
@@ -28,16 +28,16 @@
     "text": "Which John Smith does Graham Turner",
     "start": 13.116,
     "end": 16.517,
-    "zh": "格雷厄姆·特纳以为他在和哪个约翰·史密斯",
-    "zh_hant": "格雷厄姆·特納以為他在和哪個約翰·史密斯"
+    "zh": "格雷厄姆·特纳认为他正在和哪个约翰·史密斯",
+    "zh_hant": "格雷厄姆·特納認為他正在和哪個約翰·史密斯"
   },
   {
     "index": 4,
     "text": "think he is talking to?",
     "start": 16.337,
     "end": 17.858,
-    "zh": "通话？",
-    "zh_hant": "通話？"
+    "zh": "说话？",
+    "zh_hant": "說話？"
   },
   {
     "index": 5,
@@ -52,16 +52,16 @@
     "text": "Yes, speaking.",
     "start": 22.34,
     "end": 23.821,
-    "zh": "是的，是我在说话。",
-    "zh_hant": "是的，是我在說話。"
+    "zh": "是的，请讲。",
+    "zh_hant": "是的，請講。"
   },
   {
     "index": 7,
     "text": "Tell Mary we'll be late for dinner this evening.",
     "start": 24.761,
     "end": 27.703,
-    "zh": "告诉玛丽，我们今晚吃饭会晚到。",
-    "zh_hant": "告訴瑪麗，我們今晚吃飯會晚到。"
+    "zh": "告诉玛丽，我们今晚吃饭会迟到。",
+    "zh_hant": "告訴瑪麗，我們今晚吃飯會遲到。"
   },
   {
     "index": 8,
@@ -84,8 +84,8 @@
     "text": "She invited Charlotte and me to dinner this evening.",
     "start": 34.566,
     "end": 38.248,
-    "zh": "她今晚邀请了夏洛特和我去吃饭。",
-    "zh_hant": "她今晚邀請了夏洛特和我去吃飯。"
+    "zh": "她邀请我和夏洛特今晚去吃饭。",
+    "zh_hant": "她邀請我和夏洛特今晚去吃飯。"
   },
   {
     "index": 11,
@@ -100,8 +100,8 @@
     "text": "but the boss wants me to do some extra work.",
     "start": 41.99,
     "end": 45.212,
-    "zh": "但老板让我做一些额外的工作。",
-    "zh_hant": "但老闆讓我做一些額外的工作。"
+    "zh": "但老板要我加班。",
+    "zh_hant": "但老闆要我加班。"
   },
   {
     "index": 13,
@@ -116,8 +116,8 @@
     "text": "I don't know when I'll finish.",
     "start": 48.513,
     "end": 50.534,
-    "zh": "我不知道什么时候才能完成。",
-    "zh_hant": "我不知道什麼時候才能完成。"
+    "zh": "我不知道什么时候能结束。",
+    "zh_hant": "我不知道什麼時候能結束。"
   },
   {
     "index": 15,
@@ -132,8 +132,8 @@
     "text": "if Mary needs any help.",
     "start": 54.086,
     "end": 55.917,
-    "zh": "玛丽是否需要帮忙。",
-    "zh_hant": "瑪麗是否需要幫忙。"
+    "zh": "玛丽是否需要帮助。",
+    "zh_hant": "瑪麗是否需要幫助。"
   },
   {
     "index": 17,
@@ -188,16 +188,16 @@
     "text": "No, I don't.",
     "start": 76.827,
     "end": 78.488,
-    "zh": "不，我不在那里工作。",
-    "zh_hant": "不，我不在那裡工作。"
+    "zh": "不，我不是。",
+    "zh_hant": "不，我不是。"
   },
   {
     "index": 24,
     "text": "I'm John Smith the telephone engineer",
     "start": 78.928,
     "end": 81.85,
-    "zh": "我是电话工程师约翰·史密斯，",
-    "zh_hant": "我是電話工程師約翰·史密斯，"
+    "zh": "我是电话工程师约翰·史密斯",
+    "zh_hant": "我是電話工程師約翰·史密斯"
   },
   {
     "index": 25,

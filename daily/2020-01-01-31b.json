@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 61 A bad cold",
+    "text": "Lesson 61.",
     "start": 0.59,
-    "end": 4.812,
-    "zh": "第61课 重感冒",
-    "zh_hant": "第61課 重感冒"
+    "end": 2.962,
+    "zh": "第61课。",
+    "zh_hant": "第61課。"
   },
   {
     "index": 1,
+    "text": "A bad cold.",
+    "start": 3.012,
+    "end": 4.812,
+    "zh": "重感冒。",
+    "zh_hant": "重感冒。"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 5.913,
     "end": 10.095,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "What is good news for Jimmy?",
     "start": 11.116,
     "end": 14.257,
@@ -24,7 +32,7 @@
     "zh_hant": "對吉米來說，什麼訊息是好事？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Where's Jimmy?",
     "start": 16.558,
     "end": 17.899,
@@ -32,7 +40,7 @@
     "zh_hant": "吉米在哪兒？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "He's in bed.",
     "start": 18.119,
     "end": 19.8,
@@ -40,7 +48,7 @@
     "zh_hant": "他在床上。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "What's the matter with him?",
     "start": 20.661,
     "end": 22.861,
@@ -48,7 +56,7 @@
     "zh_hant": "他怎麼了？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "He feels ill.",
     "start": 22.862,
     "end": 24.922,
@@ -56,7 +64,7 @@
     "zh_hant": "他感覺不舒服。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "He looks ill.",
     "start": 25.843,
     "end": 27.684,
@@ -64,31 +72,31 @@
     "zh_hant": "他看起來病了。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "We must call the doctor.",
     "start": 27.824,
     "end": 30.345,
-    "zh": "我们必须请医生来。",
-    "zh_hant": "我們必須請醫生來。"
-  },
-  {
-    "index": 9,
-    "text": "Yes, we must.",
-    "start": 31.066,
-    "end": 33.027,
-    "zh": "是的，我们必须。",
-    "zh_hant": "是的，我們必須。"
+    "zh": "我们必须打电话给医生。",
+    "zh_hant": "我們必須打電話給醫生。"
   },
   {
     "index": 10,
-    "text": "Can you remember the doctor's telephone number?",
-    "start": 34.087,
-    "end": 38.509,
-    "zh": "你记得医生的电话号码吗？",
-    "zh_hant": "你記得醫生的電話號碼嗎？"
+    "text": "Yes, we must.",
+    "start": 31.066,
+    "end": 33.027,
+    "zh": "是的，我们必须这样做。",
+    "zh_hant": "是的，我們必須這樣做。"
   },
   {
     "index": 11,
+    "text": "Can you remember the doctor's telephone number?",
+    "start": 34.087,
+    "end": 38.509,
+    "zh": "你还记得医生的电话号码吗？",
+    "zh_hant": "你還記得醫生的電話號碼嗎？"
+  },
+  {
+    "index": 12,
     "text": "Yes.",
     "start": 38.75,
     "end": 39.71,
@@ -96,7 +104,7 @@
     "zh_hant": "記得。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "It's 09754.",
     "start": 40.031,
     "end": 44.37,
@@ -104,7 +112,7 @@
     "zh_hant": "是09754。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Open your mouth, Jimmy.",
     "start": 45.754,
     "end": 47.815,
@@ -112,7 +120,7 @@
     "zh_hant": "張開你的嘴，吉米。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Show me your tongue.",
     "start": 48.375,
     "end": 50.296,
@@ -120,7 +128,7 @@
     "zh_hant": "讓我看看你的舌頭。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Say, 'Ah'.",
     "start": 50.576,
     "end": 51.977,
@@ -128,7 +136,7 @@
     "zh_hant": "說‘啊’。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "What's the matter with him, doctor?",
     "start": 53.678,
     "end": 56.559,
@@ -136,31 +144,31 @@
     "zh_hant": "醫生，他怎麼了？"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "He has a bad cold, Mr. Williams,",
     "start": 57.16,
     "end": 60.602,
-    "zh": "他得了重感冒，威廉斯先生，",
-    "zh_hant": "他得了重感冒，威廉斯先生，"
-  },
-  {
-    "index": 18,
-    "text": "so he must stay in bed for a week.",
-    "start": 60.922,
-    "end": 64.764,
-    "zh": "所以他必须卧床一周。",
-    "zh_hant": "所以他必須臥床一週。"
+    "zh": "他得了重感冒，威廉姆斯先生，",
+    "zh_hant": "他得了重感冒，威廉姆斯先生，"
   },
   {
     "index": 19,
-    "text": "That's good news for Jimmy.",
-    "start": 65.825,
-    "end": 68.666,
-    "zh": "这对吉米来说是好事。",
-    "zh_hant": "這對吉米來說是好事。"
+    "text": "so he must stay in bed for a week.",
+    "start": 60.922,
+    "end": 64.764,
+    "zh": "所以他在床上得躺一个星期。",
+    "zh_hant": "所以他在床上得躺一個星期。"
   },
   {
     "index": 20,
+    "text": "That's good news for Jimmy.",
+    "start": 65.825,
+    "end": 68.666,
+    "zh": "这对吉米来说是好消息。",
+    "zh_hant": "這對吉米來說是好訊息。"
+  },
+  {
+    "index": 21,
     "text": "Good news?",
     "start": 69.267,
     "end": 70.567,
@@ -168,7 +176,7 @@
     "zh_hant": "好訊息？"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Why?",
     "start": 70.688,
     "end": 71.548,
@@ -176,7 +184,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Because he doesn't like school!",
     "start": 72.348,
     "end": 75.55,

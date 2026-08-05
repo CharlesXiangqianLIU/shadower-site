@@ -1,30 +1,38 @@
 [
   {
     "index": 0,
-    "text": "Lesson 89 For sale",
+    "text": "Lesson 89.",
     "start": 1.55,
-    "end": 5.012,
-    "zh": "第89课 待售",
-    "zh_hant": "第89課 待售"
+    "end": 3.902,
+    "zh": "第89课。",
+    "zh_hant": "第89課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.173,
-    "end": 9.734,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "text": "For sale.",
+    "start": 3.952,
+    "end": 5.012,
+    "zh": "出售。",
+    "zh_hant": "出售。"
   },
   {
     "index": 2,
-    "text": "Why couldn't Nigel decide?",
-    "start": 11.936,
-    "end": 14.537,
-    "zh": "为什么奈杰尔不能决定？",
-    "zh_hant": "為什麼奈傑爾不能決定？"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.173,
+    "end": 9.734,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
+    "text": "Why couldn't Nigel decide?",
+    "start": 11.936,
+    "end": 14.537,
+    "zh": "为什么奈杰尔无法决定？",
+    "zh_hant": "為什麼奈傑爾無法決定？"
+  },
+  {
+    "index": 4,
     "text": "Good afternoon.",
     "start": 16.798,
     "end": 17.978,
@@ -32,15 +40,15 @@
     "zh_hant": "下午好。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "I believe that this house is for sale.",
     "start": 18.259,
     "end": 21.04,
-    "zh": "我相信这房子是待售的。",
-    "zh_hant": "我相信這房子是待售的。"
+    "zh": "我相信这栋房子是出售的。",
+    "zh_hant": "我相信這棟房子是出售的。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "That's right.",
     "start": 22.081,
     "end": 23.381,
@@ -48,23 +56,23 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "May I have a look at it, please?",
     "start": 24.482,
     "end": 26.783,
-    "zh": "我可以看一下吗？",
-    "zh_hant": "我可以看一下嗎？"
-  },
-  {
-    "index": 7,
-    "text": "Yes, of course.",
-    "start": 28.384,
-    "end": 30.124,
-    "zh": "当然可以。",
-    "zh_hant": "當然可以。"
+    "zh": "我可以看看吗？",
+    "zh_hant": "我可以看看嗎？"
   },
   {
     "index": 8,
+    "text": "Yes, of course.",
+    "start": 28.384,
+    "end": 30.124,
+    "zh": "是的，当然。",
+    "zh_hant": "是的，當然。"
+  },
+  {
+    "index": 9,
     "text": "Come in.",
     "start": 30.385,
     "end": 31.405,
@@ -72,23 +80,23 @@
     "zh_hant": "請進。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "How long have you lived here?",
     "start": 32.866,
     "end": 34.947,
-    "zh": "你在这儿住多久了？",
-    "zh_hant": "你在這兒住多久了？"
-  },
-  {
-    "index": 10,
-    "text": "I've lived here for twenty years.",
-    "start": 35.907,
-    "end": 38.648,
-    "zh": "我在这儿住了二十年。",
-    "zh_hant": "我在這兒住了二十年。"
+    "zh": "你在这里住了多久了？",
+    "zh_hant": "你在這裡住了多久了？"
   },
   {
     "index": 11,
+    "text": "I've lived here for twenty years.",
+    "start": 35.907,
+    "end": 38.648,
+    "zh": "我在这里住了二十年了。",
+    "zh_hant": "我在這裡住了二十年了。"
+  },
+  {
+    "index": 12,
     "text": "Twenty years!",
     "start": 39.849,
     "end": 41.61,
@@ -96,55 +104,55 @@
     "zh_hant": "二十年！"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "That's a long time.",
     "start": 41.691,
     "end": 43.991,
-    "zh": "那可真长。",
-    "zh_hant": "那可真長。"
-  },
-  {
-    "index": 13,
-    "text": "Yes, I've been here since 1976.",
-    "start": 44.632,
-    "end": 50.705,
-    "zh": "是的，我从1976年起就住在这儿。",
-    "zh_hant": "是的，我從1976年起就住在這兒。"
+    "zh": "那是很长的时间。",
+    "zh_hant": "那是很長的時間。"
   },
   {
     "index": 14,
-    "text": "Then why do you want to sell it?",
-    "start": 50.755,
-    "end": 53.356,
-    "zh": "那你为什么要卖它呢？",
-    "zh_hant": "那你為什麼要賣它呢？"
+    "text": "Yes, I've been here since 1976.",
+    "start": 44.632,
+    "end": 50.705,
+    "zh": "是的，我从1976年就一直在这里。",
+    "zh_hant": "是的，我從1976年就一直在這裡。"
   },
   {
     "index": 15,
-    "text": "Because I've just retired.",
-    "start": 54.337,
-    "end": 57.098,
-    "zh": "因为我刚退休。",
-    "zh_hant": "因為我剛退休。"
+    "text": "Then why do you want to sell it?",
+    "start": 50.755,
+    "end": 53.356,
+    "zh": "那你为什么要卖掉它？",
+    "zh_hant": "那你為什麼要賣掉它？"
   },
   {
     "index": 16,
-    "text": "I want to buy a small house in the country.",
-    "start": 57.618,
-    "end": 61.08,
-    "zh": "我想在乡下买栋小房子。",
-    "zh_hant": "我想在鄉下買棟小房子。"
+    "text": "Because I've just retired.",
+    "start": 54.337,
+    "end": 57.098,
+    "zh": "因为我刚刚退休了。",
+    "zh_hant": "因為我剛剛退休了。"
   },
   {
     "index": 17,
-    "text": "How much does this house cost?",
-    "start": 62.881,
-    "end": 65.042,
-    "zh": "这房子多少钱？",
-    "zh_hant": "這房子多少錢？"
+    "text": "I want to buy a small house in the country.",
+    "start": 57.618,
+    "end": 61.08,
+    "zh": "我想在乡下买一座小房子。",
+    "zh_hant": "我想在鄉下買一座小房子。"
   },
   {
     "index": 18,
+    "text": "How much does this house cost?",
+    "start": 62.881,
+    "end": 65.042,
+    "zh": "这栋房子多少钱？",
+    "zh_hant": "這棟房子多少錢？"
+  },
+  {
+    "index": 19,
     "text": "￡68, 500.",
     "start": 67.23,
     "end": 71.395,
@@ -152,31 +160,31 @@
     "zh_hant": "六萬八千五百英鎊。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "That's a lot of money!",
     "start": 71.445,
     "end": 73.606,
-    "zh": "那可真是一大笔钱！",
-    "zh_hant": "那可真是一大筆錢！"
-  },
-  {
-    "index": 20,
-    "text": "It's worth every penny of it.",
-    "start": 74.507,
-    "end": 76.707,
-    "zh": "它值这个价。",
-    "zh_hant": "它值這個價。"
+    "zh": "那是很多钱！",
+    "zh_hant": "那是很多錢！"
   },
   {
     "index": 21,
-    "text": "Well, I like the house,",
-    "start": 77.928,
-    "end": 80.429,
-    "zh": "嗯，我喜欢这房子，",
-    "zh_hant": "嗯，我喜歡這房子，"
+    "text": "It's worth every penny of it.",
+    "start": 74.507,
+    "end": 76.707,
+    "zh": "它值这个价钱。",
+    "zh_hant": "它值這個價錢。"
   },
   {
     "index": 22,
+    "text": "Well, I like the house,",
+    "start": 77.928,
+    "end": 80.429,
+    "zh": "嗯，我喜欢这栋房子，",
+    "zh_hant": "嗯，我喜歡這棟房子，"
+  },
+  {
+    "index": 23,
     "text": "but I can't decide yet.",
     "start": 80.35,
     "end": 82.734,
@@ -184,7 +192,7 @@
     "zh_hant": "但我還不能決定。"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "My wife must see it first.",
     "start": 83.216,
     "end": 85.84,
@@ -192,7 +200,7 @@
     "zh_hant": "我妻子必須先看看。"
   },
   {
-    "index": 24,
+    "index": 25,
     "text": "Women always have the last word.",
     "start": 86.964,
     "end": 90.25,

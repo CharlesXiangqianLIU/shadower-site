@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 103 The French test",
+    "text": "Lesson 103.",
     "start": 1.51,
-    "end": 5.812,
-    "zh": "第103课 法语考试",
-    "zh_hant": "第103課 法語考試"
+    "end": 4.222,
+    "zh": "第103课。",
+    "zh_hant": "第103課。"
   },
   {
     "index": 1,
+    "text": "The French test.",
+    "start": 4.272,
+    "end": 5.812,
+    "zh": "法语考试。",
+    "zh_hant": "法語考試。"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.873,
     "end": 10.495,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "How long did the exam last?",
     "start": 12.616,
     "end": 15.297,
@@ -24,7 +32,7 @@
     "zh_hant": "考試持續了多長時間？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "How was the exam, Richard?",
     "start": 17.598,
     "end": 19.359,
@@ -32,7 +40,7 @@
     "zh_hant": "理查德，考試怎麼樣？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Not too bad.",
     "start": 20.1,
     "end": 21.32,
@@ -40,39 +48,39 @@
     "zh_hant": "還不錯。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "I think I passed in English and Mathematics.",
     "start": 21.66,
     "end": 24.662,
-    "zh": "我觉得我英语和数学能及格。",
-    "zh_hant": "我覺得我英語和數學能及格。"
-  },
-  {
-    "index": 6,
-    "text": "The questions were very easy.",
-    "start": 24.962,
-    "end": 27.683,
-    "zh": "题目很简单。",
-    "zh_hant": "題目很簡單。"
+    "zh": "我想我英语和数学都及格了。",
+    "zh_hant": "我想我英語和數學都及格了。"
   },
   {
     "index": 7,
-    "text": "How about you, Gary?",
-    "start": 28.123,
-    "end": 29.524,
-    "zh": "你呢，加里？",
-    "zh_hant": "你呢，加里？"
+    "text": "The questions were very easy.",
+    "start": 24.962,
+    "end": 27.683,
+    "zh": "问题都很简单。",
+    "zh_hant": "問題都很簡單。"
   },
   {
     "index": 8,
-    "text": "The English and Maths papers weren't easy enough for me.",
-    "start": 30.745,
-    "end": 34.166,
-    "zh": "英语和数学的试卷对我来说不够简单。",
-    "zh_hant": "英語和數學的試卷對我來說不夠簡單。"
+    "text": "How about you, Gary?",
+    "start": 28.123,
+    "end": 29.524,
+    "zh": "加里，你呢？",
+    "zh_hant": "加里，你呢？"
   },
   {
     "index": 9,
+    "text": "The English and Maths papers weren't easy enough for me.",
+    "start": 30.745,
+    "end": 34.166,
+    "zh": "英语和数学试卷对我来说不够简单。",
+    "zh_hant": "英語和數學試卷對我來說不夠簡單。"
+  },
+  {
+    "index": 10,
     "text": "I hope I haven't failed.",
     "start": 34.987,
     "end": 36.647,
@@ -80,15 +88,15 @@
     "zh_hant": "我希望我沒不及格。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "I think I failed the French paper.",
     "start": 38.128,
     "end": 40.349,
-    "zh": "我觉得我法语考砸了。",
-    "zh_hant": "我覺得我法語考砸了。"
+    "zh": "我觉得我法语考试不及格了。",
+    "zh_hant": "我覺得我法語考試不及格了。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "I could answer sixteen of the questions.",
     "start": 40.91,
     "end": 43.331,
@@ -96,23 +104,23 @@
     "zh_hant": "我能回答十六道題。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "They were very easy.",
     "start": 43.432,
     "end": 44.952,
-    "zh": "它们很简单。",
-    "zh_hant": "它們很簡單。"
-  },
-  {
-    "index": 13,
-    "text": "But I couldn't answer the rest.",
-    "start": 45.333,
-    "end": 47.454,
-    "zh": "但我回答不了其余的题。",
-    "zh_hant": "但我回答不了其餘的題。"
+    "zh": "它们都很容易。",
+    "zh_hant": "它們都很容易。"
   },
   {
     "index": 14,
+    "text": "But I couldn't answer the rest.",
+    "start": 45.333,
+    "end": 47.454,
+    "zh": "但其余的我都答不上来。",
+    "zh_hant": "但其餘的我都答不上來。"
+  },
+  {
+    "index": 15,
     "text": "They were too difficult for me.",
     "start": 47.755,
     "end": 49.595,
@@ -120,15 +128,15 @@
     "zh_hant": "它們對我來說太難了。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "French tests are awful, aren't they?",
     "start": 50.636,
     "end": 52.837,
-    "zh": "法语考试真可怕，不是吗？",
-    "zh_hant": "法語考試真可怕，不是嗎？"
+    "zh": "法语考试真糟糕，不是吗？",
+    "zh_hant": "法語考試真糟糕，不是嗎？"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "I hate them.",
     "start": 53.698,
     "end": 54.719,
@@ -136,23 +144,23 @@
     "zh_hant": "我討厭它們。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "I'm sure I've got a low mark.",
     "start": 55.099,
     "end": 57.02,
-    "zh": "我肯定我得了低分。",
-    "zh_hant": "我肯定我得了低分。"
-  },
-  {
-    "index": 18,
-    "text": "Oh, cheer up!",
-    "start": 57.741,
-    "end": 59.201,
-    "zh": "哦，振作点！",
-    "zh_hant": "哦，振作點！"
+    "zh": "我肯定我得分很低。",
+    "zh_hant": "我肯定我得分很低。"
   },
   {
     "index": 19,
+    "text": "Oh, cheer up!",
+    "start": 57.741,
+    "end": 59.201,
+    "zh": "哦，振作起来！",
+    "zh_hant": "哦，振作起來！"
+  },
+  {
+    "index": 20,
     "text": "Perhaps we didn't do too badly.",
     "start": 59.502,
     "end": 61.523,
@@ -160,15 +168,15 @@
     "zh_hant": "也許我們考得沒那麼差。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "The guy next to me wrote his name at the top of the paper.",
     "start": 61.943,
     "end": 65.305,
-    "zh": "我旁边那个人在试卷顶部写了他的名字。",
-    "zh_hant": "我旁邊那個人在試卷頂部寫了他的名字。"
+    "zh": "我旁边那个人在试卷顶部写了自己的名字。",
+    "zh_hant": "我旁邊那個人在試卷頂部寫了自己的名字。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Yes?",
     "start": 65.946,
     "end": 66.746,
@@ -176,15 +184,15 @@
     "zh_hant": "是嗎？"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Then he sat there and looked at it for three hours!",
     "start": 67.187,
     "end": 70.969,
-    "zh": "然后他坐在那里，盯着它看了三个小时！",
-    "zh_hant": "然後他坐在那裡，盯著它看了三個小時！"
+    "zh": "然后他就坐在那里看了三个小时！",
+    "zh_hant": "然後他就坐在那裡看了三個小時！"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "He didn't write a word!",
     "start": 71.109,
     "end": 72.71,

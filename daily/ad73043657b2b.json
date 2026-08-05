@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 31 The sculptor speaks",
+    "text": "Lesson 31.",
     "start": 1.59,
-    "end": 7.273,
-    "zh": "第31课 雕塑家如是说",
-    "zh_hant": "第31課 雕塑家如是說"
+    "end": 3.361,
+    "zh": "第31课。",
+    "zh_hant": "第31課。"
   },
   {
     "index": 1,
+    "text": "The sculptor speaks.",
+    "start": 3.411,
+    "end": 7.273,
+    "zh": "雕塑家的言说。",
+    "zh_hant": "雕塑家的言說。"
+  },
+  {
+    "index": 2,
     "text": "What do you have to be able to do to appreciate sculpture?",
     "start": 11.575,
     "end": 15.777,
@@ -16,55 +24,55 @@
     "zh_hant": "要欣賞雕塑，你需要具備什麼能力？"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "Appreciation of sculpture depends upon the ability to respond to form in 3 dimensions.",
     "start": 18.099,
     "end": 24.221,
-    "zh": "欣赏雕塑依赖于对三维空间中形态的感知能力。",
-    "zh_hant": "欣賞雕塑依賴於對三維空間中形態的感知能力。"
-  },
-  {
-    "index": 3,
-    "text": "That is perhaps why sculpture has been described as the most difficult of all arts;",
-    "start": 24.762,
-    "end": 30.464,
-    "zh": "也许这就是为什么雕塑被称为所有艺术中最难的一种；",
-    "zh_hant": "也許這就是為什麼雕塑被稱為所有藝術中最難的一種；"
+    "zh": "雕塑的欣赏依赖于对三维形式作出反应的能力。",
+    "zh_hant": "雕塑的欣賞依賴於對三維形式作出反應的能力。"
   },
   {
     "index": 4,
-    "text": "certainly it is more difficult than the arts which involve appreciation of flat forms,",
-    "start": 31.085,
-    "end": 37.068,
-    "zh": "当然，它比那些涉及欣赏平面形态的艺术更难，",
-    "zh_hant": "當然，它比那些涉及欣賞平面形態的藝術更難，"
+    "text": "That is perhaps why sculpture has been described as the most difficult of all arts;",
+    "start": 24.762,
+    "end": 30.464,
+    "zh": "这也许就是雕塑被描述为所有艺术中最难的原因；",
+    "zh_hant": "這也許就是雕塑被描述為所有藝術中最難的原因；"
   },
   {
     "index": 5,
-    "text": "shape in only two dimensions.",
-    "start": 37.328,
-    "end": 39.849,
-    "zh": "即仅在二维空间中的形状。",
-    "zh_hant": "即僅在二維空間中的形狀。"
+    "text": "certainly it is more difficult than the arts which involve appreciation of flat forms,",
+    "start": 31.085,
+    "end": 37.068,
+    "zh": "当然，它比那些涉及平面形式欣赏的艺术更难，",
+    "zh_hant": "當然，它比那些涉及平面形式欣賞的藝術更難，"
   },
   {
     "index": 6,
-    "text": "Many more people are 'form-blind' than colour-blind.",
-    "start": 40.73,
-    "end": 45.052,
-    "zh": "比起色盲，有更多的人是‘形态盲’。",
-    "zh_hant": "比起色盲，有更多的人是‘形態盲’。"
+    "text": "shape in only two dimensions.",
+    "start": 37.328,
+    "end": 39.849,
+    "zh": "即仅涉及二维形状的艺术。",
+    "zh_hant": "即僅涉及二維形狀的藝術。"
   },
   {
     "index": 7,
-    "text": "The child learning to see, first distinguishes only two-dimensional shape;",
-    "start": 45.572,
-    "end": 51.355,
-    "zh": "正在学习观察的孩子，起初只能分辨二维形状；",
-    "zh_hant": "正在學習觀察的孩子，起初只能分辨二維形狀；"
+    "text": "Many more people are 'form-blind' than colour-blind.",
+    "start": 40.73,
+    "end": 45.052,
+    "zh": "相比色盲，更多人是“形盲”。",
+    "zh_hant": "相比色盲，更多人是“形盲”。"
   },
   {
     "index": 8,
+    "text": "The child learning to see, first distinguishes only two-dimensional shape;",
+    "start": 45.572,
+    "end": 51.355,
+    "zh": "学习观察的孩子最初只能分辨二维形状；",
+    "zh_hant": "學習觀察的孩子最初只能分辨二維形狀；"
+  },
+  {
+    "index": 9,
     "text": "it cannot judge distances, depths.",
     "start": 52.056,
     "end": 55.557,
@@ -72,55 +80,63 @@
     "zh_hant": "他無法判斷距離和深度。"
   },
   {
-    "index": 9,
-    "text": "Later, for its personal safety and practical needs, it has to develop",
-    "start": 56.158,
-    "end": 61.58,
-    "zh": "后来，为了自身安全和实际需要，他必须培养",
-    "zh_hant": "後來，為了自身安全和實際需要，他必須培養"
-  },
-  {
     "index": 10,
-    "text": "(partly by means of touch) the ability to judge roughly 3-dimensonal distances.",
-    "start": 61.46,
-    "end": 67.703,
-    "zh": "（部分通过触觉）大致判断三维距离的能力。",
-    "zh_hant": "（部分透過觸覺）大致判斷三維距離的能力。"
+    "text": "Later, for its personal safety and practical needs,",
+    "start": 56.158,
+    "end": 60.159,
+    "zh": "后来，出于自身安全和实际需要，",
+    "zh_hant": "後來，出於自身安全和實際需要，"
   },
   {
     "index": 11,
-    "text": "But having satisfied the requirements of practical necessity, most people go no further.",
-    "start": 68.384,
-    "end": 74.066,
-    "zh": "但在满足实际需求之后，大多数人就不再进一步了。",
-    "zh_hant": "但在滿足實際需求之後，大多數人就不再進一步了。"
+    "text": "it has to develop (partly by means of touch)",
+    "start": 60.24,
+    "end": 63.441,
+    "zh": "他必须发展（部分通过触觉）",
+    "zh_hant": "他必須發展（部分透過觸覺）"
   },
   {
     "index": 12,
-    "text": "Though they may attain considerable accuracy in the perception of flat form,",
-    "start": 74.667,
-    "end": 79.729,
-    "zh": "尽管他们可能在感知平面形态方面达到相当高的准确性，",
-    "zh_hant": "儘管他們可能在感知平面形態方面達到相當高的準確性，"
+    "text": "the ability to judge roughly 3-dimensonal distances.",
+    "start": 63.601,
+    "end": 67.703,
+    "zh": "大致判断三维距离的能力。",
+    "zh_hant": "大致判斷三維距離的能力。"
   },
   {
     "index": 13,
-    "text": "they do not make the further intellectual and emotional effort needed to comprehend",
-    "start": 80.189,
-    "end": 85.652,
-    "zh": "却没有付出进一步的心智和情感努力来理解",
-    "zh_hant": "卻沒有付出進一步的心智和情感努力來理解"
+    "text": "But having satisfied the requirements of practical necessity, most people go no further.",
+    "start": 68.384,
+    "end": 74.066,
+    "zh": "但在满足实际必要需求后，大多数人不再进一步。",
+    "zh_hant": "但在滿足實際必要需求後，大多數人不再進一步。"
   },
   {
     "index": 14,
-    "text": "form in its full spatial existence.",
-    "start": 85.302,
-    "end": 88.334,
-    "zh": "形态在完整空间中的存在。",
-    "zh_hant": "形態在完整空間中的存在。"
+    "text": "Though they may attain considerable accuracy in the perception of flat form,",
+    "start": 74.667,
+    "end": 79.729,
+    "zh": "尽管他们可能在感知平面形式方面达到相当准确，",
+    "zh_hant": "儘管他們可能在感知平面形式方面達到相當準確，"
   },
   {
     "index": 15,
+    "text": "they do not make the further intellectual and emotional effort",
+    "start": 80.189,
+    "end": 84.232,
+    "zh": "但他们没有付出进一步的智力和情感努力",
+    "zh_hant": "但他們沒有付出進一步的智力和情感努力"
+  },
+  {
+    "index": 16,
+    "text": "needed to comprehend form in its full spatial existence.",
+    "start": 83.882,
+    "end": 88.334,
+    "zh": "来理解形式在完整空间存在中的意义。",
+    "zh_hant": "來理解形式在完整空間存在中的意義。"
+  },
+  {
+    "index": 17,
     "text": "This is what the sculptor must do.",
     "start": 89.434,
     "end": 91.615,
@@ -128,7 +144,7 @@
     "zh_hant": "這正是雕塑家必須做的。"
   },
   {
-    "index": 16,
+    "index": 18,
     "text": "He must strive continually to think of and use,",
     "start": 92.176,
     "end": 96.097,
@@ -136,147 +152,171 @@
     "zh_hant": "他必須不斷努力去思考和運用"
   },
   {
-    "index": 17,
+    "index": 19,
     "text": "form in its full spatial completeness.",
     "start": 96.078,
     "end": 98.839,
-    "zh": "形态在完整空间中的完整性。",
-    "zh_hant": "形態在完整空間中的完整性。"
-  },
-  {
-    "index": 18,
-    "text": "He gets the solid shape as it were, inside his head--he thinks of it,",
-    "start": 99.519,
-    "end": 104.862,
-    "zh": "他仿佛把实体形状装进头脑中——他这样想它，",
-    "zh_hant": "他彷彿把實體形狀裝進頭腦中——他這樣想它，"
-  },
-  {
-    "index": 19,
-    "text": "whatever its size, as if he were holding it completely enclosed in the hollow of his hand.",
-    "start": 104.862,
-    "end": 110.705,
-    "zh": "无论其大小，都如同完全握在手掌凹陷中一样。",
-    "zh_hant": "無論其大小，都如同完全握在手掌凹陷中一樣。"
+    "zh": "形式在其完整空间完整性中的表现。",
+    "zh_hant": "形式在其完整空間完整性中的表現。"
   },
   {
     "index": 20,
-    "text": "He mentally visualizes a complex form from all round itself;",
-    "start": 111.265,
-    "end": 116.447,
-    "zh": "他在脑海中从各个角度想象一个复杂的形态；",
-    "zh_hant": "他在腦海中從各個角度想象一個複雜的形態；"
+    "text": "He gets the solid shape as it were, inside his head--he thinks of it,",
+    "start": 99.519,
+    "end": 104.862,
+    "zh": "他把立体形状仿佛放进脑海里——他想着它，",
+    "zh_hant": "他把立體形狀彷彿放進腦海裡——他想著它，"
   },
   {
     "index": 21,
-    "text": "he knows while he looks at one side what the other side is like;",
-    "start": 117.248,
-    "end": 121.39,
-    "zh": "当他看着一面时，他知道另一面是什么样的；",
-    "zh_hant": "當他看著一面時，他知道另一面是什麼樣的；"
+    "text": "whatever its size,",
+    "start": 104.862,
+    "end": 106.463,
+    "zh": "无论其大小如何，",
+    "zh_hant": "無論其大小如何，"
   },
   {
     "index": 22,
-    "text": "he identifies himself with its centre of gravity, its mass, its weight;",
-    "start": 121.811,
-    "end": 127.753,
-    "zh": "他把自己等同于它的重心、质量和重量；",
-    "zh_hant": "他把自己等同於它的重心、質量和重量；"
+    "text": "as if he were holding it completely enclosed in the hollow of his hand.",
+    "start": 106.483,
+    "end": 110.705,
+    "zh": "就像他把它完全握在手心里一样。",
+    "zh_hant": "就像他把它完全握在手心裡一樣。"
   },
   {
     "index": 23,
-    "text": "he realizes its volume as the space that the shape displaces in the air.",
-    "start": 128.154,
-    "end": 133.836,
-    "zh": "他意识到它的体积就是该形状在空气中占据的空间。",
-    "zh_hant": "他意識到它的體積就是該形狀在空氣中佔據的空間。"
+    "text": "He mentally visualizes a complex form from all round itself;",
+    "start": 111.265,
+    "end": 116.447,
+    "zh": "他在心中从各个角度想象一个复杂的形状；",
+    "zh_hant": "他在心中從各個角度想象一個複雜的形狀；"
   },
   {
     "index": 24,
-    "text": "And the sensitive observer of sculpture must also learn to feel shape simply as shape,",
-    "start": 135.777,
-    "end": 141.98,
-    "zh": "而敏感的雕塑欣赏者也必须学会仅把形态当作形态来感受，",
-    "zh_hant": "而敏感的雕塑欣賞者也必須學會僅把形態當作形態來感受，"
+    "text": "he knows while he looks at one side what the other side is like;",
+    "start": 117.248,
+    "end": 121.39,
+    "zh": "当他看着一面时，他知道另一面是什么样；",
+    "zh_hant": "當他看著一面時，他知道另一面是什麼樣；"
   },
   {
     "index": 25,
-    "text": "not as description or reminiscence.",
-    "start": 142.141,
-    "end": 145.242,
-    "zh": "而不是作为描述或回忆。",
-    "zh_hant": "而不是作為描述或回憶。"
+    "text": "he identifies himself with its centre of gravity, its mass,",
+    "start": 121.811,
+    "end": 126.613,
+    "zh": "他把自己与它的重心、质量融为一体，",
+    "zh_hant": "他把自己與它的重心、質量融為一體，"
   },
   {
     "index": 26,
-    "text": "He must, for example, perceive an egg as a simple single solid shape",
-    "start": 145.922,
-    "end": 151.445,
-    "zh": "例如，他必须把一个鸡蛋看作一个简单单一的实体形状，",
-    "zh_hant": "例如，他必須把一個雞蛋看作一個簡單單一的實體形狀，"
+    "text": "its weight; he realizes its volume",
+    "start": 126.753,
+    "end": 130.194,
+    "zh": "认同它的重量；他意识到它的体积",
+    "zh_hant": "認同它的重量；他意識到它的體積"
   },
   {
     "index": 27,
-    "text": "quite apart from its significance as food,",
-    "start": 151.525,
-    "end": 154.106,
-    "zh": "完全抛开它作为食物的意义，",
-    "zh_hant": "完全拋開它作為食物的意義，"
+    "text": "as the space that the shape displaces in the air.",
+    "start": 130.295,
+    "end": 133.836,
+    "zh": "就是形状在空气中所占据的空间。",
+    "zh_hant": "就是形狀在空氣中所佔據的空間。"
   },
   {
     "index": 28,
-    "text": "or from the literary idea that it will become a bird.",
-    "start": 154.266,
-    "end": 158.728,
-    "zh": "或抛开它会变成鸟的文学想象。",
-    "zh_hant": "或拋開它會變成鳥的文學想象。"
+    "text": "And the sensitive observer of sculpture must also learn to feel",
+    "start": 135.777,
+    "end": 140.039,
+    "zh": "而敏感的雕塑观察者也必须学会感受",
+    "zh_hant": "而敏感的雕塑觀察者也必須學會感受"
   },
   {
     "index": 29,
-    "text": "And so with solids such as a shell, a nut, a plum,",
-    "start": 159.369,
-    "end": 164.813,
-    "zh": "对于贝壳、坚果、李子等其他实体也是如此，",
-    "zh_hant": "對於貝殼、堅果、李子等其他實體也是如此，"
+    "text": "shape simply as shape, not as description or reminiscence.",
+    "start": 139.689,
+    "end": 145.242,
+    "zh": "形状本身，而不是作为描述或回忆。",
+    "zh_hant": "形狀本身，而不是作為描述或回憶。"
   },
   {
     "index": 30,
-    "text": "a pear, a tadpole, a mushroom, a mountain peak,",
-    "start": 164.973,
-    "end": 169.996,
-    "zh": "还有梨、蝌蚪、蘑菇、山峰、",
-    "zh_hant": "還有梨、蝌蚪、蘑菇、山峰、"
+    "text": "He must, for example, perceive an egg as a simple single solid shape",
+    "start": 145.922,
+    "end": 151.445,
+    "zh": "例如，他必须把一个鸡蛋视为简单的立体形状，",
+    "zh_hant": "例如，他必須把一個雞蛋視為簡單的立體形狀，"
   },
   {
     "index": 31,
-    "text": "a kidney, a carrot, a tree-trunk, a bird, a bud,",
-    "start": 170.217,
-    "end": 176.441,
-    "zh": "肾脏、胡萝卜、树干、鸟、花蕾、",
-    "zh_hant": "腎臟、胡蘿蔔、樹幹、鳥、花蕾、"
+    "text": "quite apart from its significance as food,",
+    "start": 151.525,
+    "end": 154.106,
+    "zh": "完全脱离它作为食物的意义，",
+    "zh_hant": "完全脫離它作為食物的意義，"
   },
   {
     "index": 32,
-    "text": "a lark, a ladybird, a bulrush, a bone.",
-    "start": 176.841,
-    "end": 181.964,
-    "zh": "云雀、瓢虫、芦苇、骨头。",
-    "zh_hant": "雲雀、瓢蟲、蘆葦、骨頭。"
+    "text": "or from the literary idea that it will become a bird.",
+    "start": 154.266,
+    "end": 158.728,
+    "zh": "或脱离它将变成鸟这种文学概念。",
+    "zh_hant": "或脫離它將變成鳥這種文學概念。"
   },
   {
     "index": 33,
-    "text": "From these he can go on to appreciate",
-    "start": 182.565,
-    "end": 185.627,
-    "zh": "从这些开始，他可以继续欣赏",
-    "zh_hant": "從這些開始，他可以繼續欣賞"
+    "text": "And so with solids such as a shell, a nut,",
+    "start": 159.369,
+    "end": 163.812,
+    "zh": "同样地，对于贝壳、坚果、",
+    "zh_hant": "同樣地，對於貝殼、堅果、"
   },
   {
     "index": 34,
+    "text": "a plum, a pear, a tadpole, a mushroom,",
+    "start": 163.872,
+    "end": 168.515,
+    "zh": "李子、梨、蝌蚪、蘑菇、",
+    "zh_hant": "李子、梨、蝌蚪、蘑菇、"
+  },
+  {
+    "index": 35,
+    "text": "a mountain peak, a kidney, a carrot, a tree-trunk,",
+    "start": 168.636,
+    "end": 173.959,
+    "zh": "山峰、肾脏、胡萝卜、树干、",
+    "zh_hant": "山峰、腎臟、胡蘿蔔、樹幹、"
+  },
+  {
+    "index": 36,
+    "text": "a bird, a bud, a lark, a ladybird,",
+    "start": 174.099,
+    "end": 179.423,
+    "zh": "鸟、花蕾、云雀、瓢虫、",
+    "zh_hant": "鳥、花蕾、雲雀、瓢蟲、"
+  },
+  {
+    "index": 37,
+    "text": "a bulrush, a bone.",
+    "start": 179.623,
+    "end": 181.964,
+    "zh": "芦苇、骨头这样的固体。",
+    "zh_hant": "蘆葦、骨頭這樣的固體。"
+  },
+  {
+    "index": 38,
+    "text": "From these he can go on to appreciate",
+    "start": 182.565,
+    "end": 185.627,
+    "zh": "从这些出发，他可以继续欣赏",
+    "zh_hant": "從這些出發，他可以繼續欣賞"
+  },
+  {
+    "index": 39,
     "text": "more complex forms or combinations of several forms.",
     "start": 185.407,
     "end": 189.67,
-    "zh": "更复杂的形态或多种形态的组合。",
-    "zh_hant": "更復雜的形態或多種形態的組合。"
+    "zh": "更复杂的形状或多种形状的组合。",
+    "zh_hant": "更復雜的形狀或多種形狀的組合。"
   }
 ]

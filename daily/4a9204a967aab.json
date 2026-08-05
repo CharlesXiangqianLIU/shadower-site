@@ -1,38 +1,46 @@
 [
   {
     "index": 0,
-    "text": "Lesson 3 Sorry sir.",
+    "text": "Lesson 3.",
     "start": 1.51,
-    "end": 4.832,
-    "zh": "第三课：对不起，先生。",
-    "zh_hant": "第三課：對不起，先生。"
+    "end": 3.521,
+    "zh": "第三课。",
+    "zh_hant": "第三課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.013,
-    "end": 9.574,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
+    "text": "Sorry sir.",
+    "start": 3.571,
+    "end": 4.832,
+    "zh": "对不起，先生。",
+    "zh_hant": "對不起，先生。"
   },
   {
     "index": 2,
-    "text": "Does the man get his umbrella back?",
-    "start": 11.776,
-    "end": 14.697,
-    "zh": "那个男人拿回他的雨伞了吗？",
-    "zh_hant": "那個男人拿回他的雨傘了嗎？"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.013,
+    "end": 9.574,
+    "zh": "听磁带，然后回答这个问题。",
+    "zh_hant": "聽磁帶，然後回答這個問題。"
   },
   {
     "index": 3,
-    "text": "My coat and my umbrella please.",
-    "start": 17.018,
-    "end": 20.259,
-    "zh": "请把我的外套和雨伞拿来。",
-    "zh_hant": "請把我的外套和雨傘拿來。"
+    "text": "Does the man get his umbrella back?",
+    "start": 11.776,
+    "end": 14.697,
+    "zh": "那个男人拿回他的伞了吗？",
+    "zh_hant": "那個男人拿回他的傘了嗎？"
   },
   {
     "index": 4,
+    "text": "My coat and my umbrella please.",
+    "start": 17.018,
+    "end": 20.259,
+    "zh": "请给我我的外套和我的伞。",
+    "zh_hant": "請給我我的外套和我的傘。"
+  },
+  {
+    "index": 5,
     "text": "Here is my ticket.",
     "start": 21.56,
     "end": 23.401,
@@ -40,15 +48,15 @@
     "zh_hant": "這是我的票。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Thank you sir.",
     "start": 25.862,
     "end": 27.103,
-    "zh": "谢谢，先生。",
-    "zh_hant": "謝謝，先生。"
+    "zh": "谢谢您，先生。",
+    "zh_hant": "謝謝您，先生。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "Number five.",
     "start": 29.324,
     "end": 30.945,
@@ -56,23 +64,23 @@
     "zh_hant": "五號。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Here's your umbrella and your coat.",
     "start": 33.226,
     "end": 36.808,
-    "zh": "这是你的雨伞和外套。",
-    "zh_hant": "這是你的雨傘和外套。"
-  },
-  {
-    "index": 8,
-    "text": "This is not my umbrella.",
-    "start": 38.909,
-    "end": 41.53,
-    "zh": "这不是我的雨伞。",
-    "zh_hant": "這不是我的雨傘。"
+    "zh": "这是您的伞和您的外套。",
+    "zh_hant": "這是您的傘和您的外套。"
   },
   {
     "index": 9,
+    "text": "This is not my umbrella.",
+    "start": 38.909,
+    "end": 41.53,
+    "zh": "这不是我的伞。",
+    "zh_hant": "這不是我的傘。"
+  },
+  {
+    "index": 10,
     "text": "Sorry sir.",
     "start": 42.271,
     "end": 43.452,
@@ -80,39 +88,39 @@
     "zh_hant": "對不起，先生。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Is this your umbrella?",
     "start": 45.514,
     "end": 47.496,
-    "zh": "这是你的雨伞吗？",
-    "zh_hant": "這是你的雨傘嗎？"
-  },
-  {
-    "index": 11,
-    "text": "No it isn't.",
-    "start": 48.958,
-    "end": 51.2,
-    "zh": "不，不是。",
-    "zh_hant": "不，不是。"
+    "zh": "这是您的伞吗？",
+    "zh_hant": "這是您的傘嗎？"
   },
   {
     "index": 12,
-    "text": "Is this it?",
-    "start": 53.082,
-    "end": 54.403,
-    "zh": "是这个吗？",
-    "zh_hant": "是這個嗎？"
+    "text": "No it isn't.",
+    "start": 48.958,
+    "end": 51.2,
+    "zh": "不，它不是。",
+    "zh_hant": "不，它不是。"
   },
   {
     "index": 13,
-    "text": "Yes it is.",
-    "start": 55.925,
-    "end": 58.207,
-    "zh": "是的，是这个。",
-    "zh_hant": "是的，是這個。"
+    "text": "Is this it?",
+    "start": 53.082,
+    "end": 54.403,
+    "zh": "这是它吗？",
+    "zh_hant": "這是它嗎？"
   },
   {
     "index": 14,
+    "text": "Yes it is.",
+    "start": 55.925,
+    "end": 58.207,
+    "zh": "是的，它是。",
+    "zh_hant": "是的，它是。"
+  },
+  {
+    "index": 15,
     "text": "Thank you very much.",
     "start": 59.108,
     "end": 60.93,

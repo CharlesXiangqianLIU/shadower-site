@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 5 Nice to meet you.",
+    "text": "Lesson 5.",
     "start": 0.55,
-    "end": 4.132,
-    "zh": "第5课 很高兴认识你。",
-    "zh_hant": "第5課 很高興認識你。"
+    "end": 2.341,
+    "zh": "第五课。",
+    "zh_hant": "第五課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 5.053,
-    "end": 9.314,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
+    "text": "Nice to meet you.",
+    "start": 2.391,
+    "end": 4.132,
+    "zh": "很高兴认识你。",
+    "zh_hant": "很高興認識你。"
   },
   {
     "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 5.053,
+    "end": 9.314,
+    "zh": "听磁带，然后回答这个问题。",
+    "zh_hant": "聽磁帶，然後回答這個問題。"
+  },
+  {
+    "index": 3,
     "text": "Is Chang-woo Chinese?",
     "start": 9.935,
     "end": 12.656,
@@ -24,7 +32,7 @@
     "zh_hant": "昌宇是中國人嗎？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Good morning.",
     "start": 14.197,
     "end": 15.378,
@@ -32,7 +40,7 @@
     "zh_hant": "早上好。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Good morning Mr. Blake.",
     "start": 15.998,
     "end": 18.799,
@@ -40,23 +48,23 @@
     "zh_hant": "早上好，布萊克先生。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "This is Miss Sophie Dupont.",
     "start": 19.74,
     "end": 23.061,
-    "zh": "这位是索菲·杜邦小姐。",
-    "zh_hant": "這位是索菲·杜邦小姐。"
-  },
-  {
-    "index": 6,
-    "text": "Sophie is a new student.",
-    "start": 23.702,
-    "end": 26.283,
-    "zh": "索菲是一名新生。",
-    "zh_hant": "索菲是一名新生。"
+    "zh": "这位是苏菲·杜邦小姐。",
+    "zh_hant": "這位是蘇菲·杜邦小姐。"
   },
   {
     "index": 7,
+    "text": "Sophie is a new student.",
+    "start": 23.702,
+    "end": 26.283,
+    "zh": "苏菲是个新生。",
+    "zh_hant": "蘇菲是個新生。"
+  },
+  {
+    "index": 8,
     "text": "She is French.",
     "start": 26.623,
     "end": 28.424,
@@ -64,15 +72,15 @@
     "zh_hant": "她是法國人。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Sophie this is Hans.",
     "start": 29.045,
     "end": 32.286,
-    "zh": "索菲，这位是汉斯。",
-    "zh_hant": "索菲，這位是漢斯。"
+    "zh": "苏菲，这位是汉斯。",
+    "zh_hant": "蘇菲，這位是漢斯。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "He is German.",
     "start": 32.506,
     "end": 34.147,
@@ -80,7 +88,7 @@
     "zh_hant": "他是德國人。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Nice to meet you.",
     "start": 34.567,
     "end": 36.368,
@@ -88,15 +96,15 @@
     "zh_hant": "很高興認識你。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "And this is Naoko.",
     "start": 37.309,
     "end": 39.61,
-    "zh": "这位是直子。",
-    "zh_hant": "這位是直子。"
+    "zh": "还有这位是直子。",
+    "zh_hant": "還有這位是直子。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "She's Japanese.",
     "start": 40.071,
     "end": 41.992,
@@ -104,7 +112,7 @@
     "zh_hant": "她是日本人。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Nice to meet you.",
     "start": 42.212,
     "end": 43.993,
@@ -112,15 +120,15 @@
     "zh_hant": "很高興認識你。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "And this is Chang-woo.",
     "start": 44.774,
     "end": 47.136,
-    "zh": "这位是昌宇。",
-    "zh_hant": "這位是昌宇。"
+    "zh": "还有这位是昌宇。",
+    "zh_hant": "還有這位是昌宇。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "He's Korean.",
     "start": 47.416,
     "end": 48.957,
@@ -128,7 +136,7 @@
     "zh_hant": "他是韓國人。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Nice to meet you.",
     "start": 49.138,
     "end": 50.899,
@@ -136,15 +144,15 @@
     "zh_hant": "很高興認識你。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "And this is Luming.",
     "start": 51.64,
     "end": 54.001,
-    "zh": "这位是吕明。",
-    "zh_hant": "這位是呂明。"
+    "zh": "还有这位是路明。",
+    "zh_hant": "還有這位是路明。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "He's Chinese.",
     "start": 54.121,
     "end": 55.962,
@@ -152,7 +160,7 @@
     "zh_hant": "他是中國人。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "Nice to meet you.",
     "start": 56.143,
     "end": 57.744,
@@ -160,15 +168,15 @@
     "zh_hant": "很高興認識你。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "And this is Xiaohui.",
     "start": 58.545,
     "end": 61.206,
-    "zh": "这位是晓慧。",
-    "zh_hant": "這位是曉慧。"
+    "zh": "还有这位是晓慧。",
+    "zh_hant": "還有這位是曉慧。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "She is Chinese too.",
     "start": 61.727,
     "end": 63.788,
@@ -176,7 +184,7 @@
     "zh_hant": "她也是中國人。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Nice to meet you.",
     "start": 64.209,
     "end": 65.73,

@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 109 A good",
+    "text": "Lesson 109.",
     "start": 1.57,
-    "end": 5.792,
-    "zh": "第109课 一个好",
-    "zh_hant": "第109課 一個好"
+    "end": 4.642,
+    "zh": "第109课。",
+    "zh_hant": "第109課。"
   },
   {
     "index": 1,
-    "text": "idea",
-    "start": 5.692,
+    "text": "A good idea.",
+    "start": 4.692,
     "end": 6.592,
-    "zh": "主意",
-    "zh_hant": "主意"
+    "zh": "一个好主意。",
+    "zh_hant": "一個好主意。"
   },
   {
     "index": 2,
@@ -36,16 +36,16 @@
     "text": "Shall I make some coffee, Jane?",
     "start": 18.439,
     "end": 20.54,
-    "zh": "我来煮点咖啡好吗，简？",
-    "zh_hant": "我來煮點咖啡好嗎，簡？"
+    "zh": "我来煮点咖啡，好吗，简？",
+    "zh_hant": "我來煮點咖啡，好嗎，簡？"
   },
   {
     "index": 5,
     "text": "That's a good idea, Charlotte.",
     "start": 21.1,
     "end": 23.041,
-    "zh": "这是个好主意，夏洛特。",
-    "zh_hant": "這是個好主意，夏洛特。"
+    "zh": "好主意，夏洛特。",
+    "zh_hant": "好主意，夏洛特。"
   },
   {
     "index": 6,
@@ -92,8 +92,8 @@
     "text": "No, less than that.",
     "start": 34.047,
     "end": 36.208,
-    "zh": "不，要少一些。",
-    "zh_hant": "不，要少一些。"
+    "zh": "不，少一点。",
+    "zh_hant": "不，少一點。"
   },
   {
     "index": 12,
@@ -108,16 +108,16 @@
     "text": "That's enough for me.",
     "start": 39.149,
     "end": 40.51,
-    "zh": "对我来说这就够了。",
-    "zh_hant": "對我來說這就夠了。"
+    "zh": "这就够了。",
+    "zh_hant": "這就夠了。"
   },
   {
     "index": 14,
     "text": "That was very nice.",
     "start": 42.011,
     "end": 44.112,
-    "zh": "那真好喝。",
-    "zh_hant": "那真好喝。"
+    "zh": "那真不错。",
+    "zh_hant": "那真不錯。"
   },
   {
     "index": 15,
@@ -180,8 +180,8 @@
     "text": "What a pity!",
     "start": 59.683,
     "end": 61.004,
-    "zh": "真遗憾！",
-    "zh_hant": "真遺憾！"
+    "zh": "真可惜！",
+    "zh_hant": "真可惜！"
   },
   {
     "index": 23,
@@ -212,7 +212,7 @@
     "text": "That's very good advice!",
     "start": 67.129,
     "end": 69.05,
-    "zh": "那真是个好建议！",
-    "zh_hant": "那真是個好建議！"
+    "zh": "这是非常好的建议！",
+    "zh_hant": "這是非常好的建議！"
   }
 ]

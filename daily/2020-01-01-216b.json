@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 48 The silent village",
+    "text": "Lesson 48.",
     "start": 3.552,
-    "end": 9.315,
-    "zh": "第48课 寂静的村庄",
-    "zh_hant": "第48課 寂靜的村莊"
+    "end": 4.15,
+    "zh": "第48课。",
+    "zh_hant": "第48課。"
   },
   {
     "index": 1,
+    "text": "The silent village.",
+    "start": 5.713,
+    "end": 9.315,
+    "zh": "寂静的村庄。",
+    "zh_hant": "寂靜的村莊。"
+  },
+  {
+    "index": 2,
     "text": "Why was the village silent?",
     "start": 10.035,
     "end": 12.756,
@@ -16,15 +24,15 @@
     "zh_hant": "為什麼村莊是寂靜的？"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "In this much-travelled world,",
     "start": 14.597,
     "end": 16.918,
-    "zh": "在这个人们经常旅游的世界里，",
-    "zh_hant": "在這個人們經常旅遊的世界裡，"
+    "zh": "在这个旅游频繁的世界上，",
+    "zh_hant": "在這個旅遊頻繁的世界上，"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "there are still thousands of places which are inaccessible to tourists.",
     "start": 17.059,
     "end": 22.441,
@@ -32,15 +40,15 @@
     "zh_hant": "仍有成千上萬個遊客無法到達的地方。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "We always assume that villagers in remote places are friendly and hospitable.",
     "start": 23.062,
     "end": 29.145,
-    "zh": "我们总是认为偏远地区的村民友好又好客。",
-    "zh_hant": "我們總是認為偏遠地區的村民友好又好客。"
+    "zh": "我们总是以为偏远地区的村民友好而好客。",
+    "zh_hant": "我們總是以為偏遠地區的村民友好而好客。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "But people who are cut off not only from foreign tourists,",
     "start": 29.685,
     "end": 34.107,
@@ -48,7 +56,7 @@
     "zh_hant": "但那些不僅與外國遊客隔絕，"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "but even from their own countrymen can be hostile to travellers.",
     "start": 34.227,
     "end": 39.25,
@@ -56,39 +64,39 @@
     "zh_hant": "甚至與自己同胞隔絕的人，可能對旅行者懷有敵意。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Visits to really remote villages are seldom enjoyable--as",
     "start": 39.97,
     "end": 44.853,
-    "zh": "真正偏远村庄的游览很少令人愉快——正如",
-    "zh_hant": "真正偏遠村莊的遊覽很少令人愉快——正如"
-  },
-  {
-    "index": 8,
-    "text": "my wife and I discovered during a tour through the Balkans.",
-    "start": 44.503,
-    "end": 48.254,
-    "zh": "我和妻子在巴尔干地区旅行时所发现的那样。",
-    "zh_hant": "我和妻子在巴爾幹地區旅行時所發現的那樣。"
+    "zh": "探访真正偏远的村庄很少令人愉快——正如",
+    "zh_hant": "探訪真正偏遠的村莊很少令人愉快——正如"
   },
   {
     "index": 9,
-    "text": "We had spent several days in a small town and visited a number of old",
-    "start": 48.755,
-    "end": 54.037,
-    "zh": "我们曾在一个小镇上待了几天，参观了附近的一些",
-    "zh_hant": "我們曾在一個小鎮上待了幾天，參觀了附近的一些"
+    "text": "my wife and I discovered during a tour through the Balkans.",
+    "start": 44.503,
+    "end": 48.254,
+    "zh": "我和妻子在巴尔干半岛旅行时所发现的那样。",
+    "zh_hant": "我和妻子在巴爾幹半島旅行時所發現的那樣。"
   },
   {
     "index": 10,
-    "text": "churches in the vicinity.",
-    "start": 53.687,
-    "end": 55.378,
-    "zh": "古老教堂。",
-    "zh_hant": "古老教堂。"
+    "text": "We had spent several days in a small town and visited a number of old",
+    "start": 48.755,
+    "end": 54.037,
+    "zh": "我们在一个小镇上呆了几天，参观了几座古老的",
+    "zh_hant": "我們在一個小鎮上呆了幾天，參觀了幾座古老的"
   },
   {
     "index": 11,
+    "text": "churches in the vicinity.",
+    "start": 53.687,
+    "end": 55.378,
+    "zh": "附近的教堂。",
+    "zh_hant": "附近的教堂。"
+  },
+  {
+    "index": 12,
     "text": "These attracted many visitors, for they were not only of great architectural interest,",
     "start": 56.078,
     "end": 62.261,
@@ -96,31 +104,31 @@
     "zh_hant": "這些教堂吸引了許多遊客，因為它們不僅具有重要的建築價值，"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "but contained a large number of beautifully preserved frescoes as well.",
     "start": 62.201,
     "end": 66.983,
-    "zh": "而且还藏有大量保存完好的壁画。",
-    "zh_hant": "而且還藏有大量儲存完好的壁畫。"
-  },
-  {
-    "index": 13,
-    "text": "On the day before our departure, several bus loads of tourists descended on the town.",
-    "start": 67.904,
-    "end": 73.927,
-    "zh": "在我们离开的前一天，好几车游客涌入了这个小镇。",
-    "zh_hant": "在我們離開的前一天，好幾車遊客湧入了這個小鎮。"
+    "zh": "还保存了大量精美的壁画。",
+    "zh_hant": "還儲存了大量精美的壁畫。"
   },
   {
     "index": 14,
-    "text": "This was more than we could bear, so we decided",
-    "start": 74.507,
-    "end": 78.309,
-    "zh": "这让我们无法忍受，所以我们决定",
-    "zh_hant": "這讓我們無法忍受，所以我們決定"
+    "text": "On the day before our departure, several bus loads of tourists descended on the town.",
+    "start": 67.904,
+    "end": 73.927,
+    "zh": "在我们离开的前一天，好几辆满载游客的巴士涌到了镇上。",
+    "zh_hant": "在我們離開的前一天，好幾輛滿載遊客的巴士湧到了鎮上。"
   },
   {
     "index": 15,
+    "text": "This was more than we could bear, so we decided",
+    "start": 74.507,
+    "end": 78.309,
+    "zh": "这让我们难以忍受，于是我们决定",
+    "zh_hant": "這讓我們難以忍受，於是我們決定"
+  },
+  {
+    "index": 16,
     "text": "to spend our last day exploring the countryside.",
     "start": 77.959,
     "end": 81.471,
@@ -128,95 +136,95 @@
     "zh_hant": "把最後一天用來探索鄉村。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Taking a path which led out of the town,",
     "start": 82.772,
     "end": 85.873,
-    "zh": "我们沿着一条通往镇外的小路，",
-    "zh_hant": "我們沿著一條通往鎮外的小路，"
-  },
-  {
-    "index": 17,
-    "text": "we crossed a few fields until we came to a dense wood.",
-    "start": 85.793,
-    "end": 90.235,
-    "zh": "穿过几片田野，来到了一片茂密的树林。",
-    "zh_hant": "穿過幾片田野，來到了一片茂密的樹林。"
+    "zh": "我们沿着一条通向镇外的小路，",
+    "zh_hant": "我們沿著一條通向鎮外的小路，"
   },
   {
     "index": 18,
-    "text": "We expected the path to end abruptly,",
-    "start": 90.316,
-    "end": 93.597,
-    "zh": "我们原本以为小路会突然中断，",
-    "zh_hant": "我們原本以為小路會突然中斷，"
+    "text": "we crossed a few fields until we came to a dense wood.",
+    "start": 85.793,
+    "end": 90.235,
+    "zh": "穿过几片田野，直到来到一片茂密的树林。",
+    "zh_hant": "穿過幾片田野，直到來到一片茂密的樹林。"
   },
   {
     "index": 19,
-    "text": "but we found that it traced its way through the trees.",
-    "start": 93.977,
-    "end": 97.719,
-    "zh": "但发现它在树林中蜿蜒延伸。",
-    "zh_hant": "但發現它在樹林中蜿蜒延伸。"
+    "text": "We expected the path to end abruptly,",
+    "start": 90.316,
+    "end": 93.597,
+    "zh": "我们原以为小路会突然终止，",
+    "zh_hant": "我們原以為小路會突然終止，"
   },
   {
     "index": 20,
-    "text": "We tramped through the wood for over two hours until we arrived at a deep stream.",
-    "start": 98.199,
-    "end": 104.382,
-    "zh": "我们在林中跋涉了两个多小时，来到了一条深溪边。",
-    "zh_hant": "我們在林中跋涉了兩個多小時，來到了一條深溪邊。"
+    "text": "but we found that it traced its way through the trees.",
+    "start": 93.977,
+    "end": 97.719,
+    "zh": "却发现它在树林中蜿蜒延伸。",
+    "zh_hant": "卻發現它在樹林中蜿蜒延伸。"
   },
   {
     "index": 21,
-    "text": "We could see that the path continued on the other side,",
-    "start": 104.963,
-    "end": 108.784,
-    "zh": "我们可以看到小路在对岸继续延伸，",
-    "zh_hant": "我們可以看到小路在對岸繼續延伸，"
+    "text": "We tramped through the wood for over two hours until we arrived at a deep stream.",
+    "start": 98.199,
+    "end": 104.382,
+    "zh": "我们在树林里跋涉了两个多小时，来到了一条深溪边。",
+    "zh_hant": "我們在樹林裡跋涉了兩個多小時，來到了一條深溪邊。"
   },
   {
     "index": 22,
-    "text": "but we had no idea how we could get across the stream.",
-    "start": 109.045,
-    "end": 112.826,
-    "zh": "但我们不知道该如何过溪。",
-    "zh_hant": "但我們不知道該如何過溪。"
+    "text": "We could see that the path continued on the other side,",
+    "start": 104.963,
+    "end": 108.784,
+    "zh": "我们可以看到小路在对面继续延伸，",
+    "zh_hant": "我們可以看到小路在對面繼續延伸，"
   },
   {
     "index": 23,
-    "text": "Suddenly my wife spotted a boat moored to the bank.",
-    "start": 113.487,
-    "end": 117.449,
-    "zh": "突然，我妻子发现了一条拴在岸边的船。",
-    "zh_hant": "突然，我妻子發現了一條拴在岸邊的船。"
+    "text": "but we had no idea how we could get across the stream.",
+    "start": 109.045,
+    "end": 112.826,
+    "zh": "但我们不知道怎样才能过溪。",
+    "zh_hant": "但我們不知道怎樣才能過溪。"
   },
   {
     "index": 24,
-    "text": "In it there was a boatman fast asleep.",
-    "start": 117.769,
-    "end": 120.971,
-    "zh": "船里有一个正在熟睡的船夫。",
-    "zh_hant": "船裡有一個正在熟睡的船伕。"
+    "text": "Suddenly my wife spotted a boat moored to the bank.",
+    "start": 113.487,
+    "end": 117.449,
+    "zh": "突然，我妻子发现一条小船系在岸边。",
+    "zh_hant": "突然，我妻子發現一條小船系在岸邊。"
   },
   {
     "index": 25,
-    "text": "We gently woke him up and asked him to ferry us to the other side.",
-    "start": 121.291,
-    "end": 126.353,
-    "zh": "我们轻轻把他叫醒，请他渡我们到对岸。",
-    "zh_hant": "我們輕輕把他叫醒，請他渡我們到對岸。"
+    "text": "In it there was a boatman fast asleep.",
+    "start": 117.769,
+    "end": 120.971,
+    "zh": "船里有个船夫在熟睡。",
+    "zh_hant": "船裡有個船伕在熟睡。"
   },
   {
     "index": 26,
-    "text": "Though he was reluctant to do so at first, we eventually persuaded him to take us.",
-    "start": 126.634,
-    "end": 132.536,
-    "zh": "虽然他起初不愿意，但我们最终还是说服了他带我们过去。",
-    "zh_hant": "雖然他起初不願意，但我們最終還是說服了他帶我們過去。"
+    "text": "We gently woke him up and asked him to ferry us to the other side.",
+    "start": 121.291,
+    "end": 126.353,
+    "zh": "我们轻轻唤醒他，请他摆渡我们到对岸。",
+    "zh_hant": "我們輕輕喚醒他，請他擺渡我們到對岸。"
   },
   {
     "index": 27,
+    "text": "Though he was reluctant to do so at first, we eventually persuaded him to take us.",
+    "start": 126.634,
+    "end": 132.536,
+    "zh": "虽然他起初不太情愿，但我们最终说服他载我们过去。",
+    "zh_hant": "雖然他起初不太情願，但我們最終說服他載我們過去。"
+  },
+  {
+    "index": 28,
     "text": "The path led to a tiny village perched on the steep sides of a mountain.",
     "start": 133.197,
     "end": 138.539,
@@ -224,39 +232,39 @@
     "zh_hant": "小路通向一個坐落在陡峭山坡上的小村莊。"
   },
   {
-    "index": 28,
+    "index": 29,
     "text": "The place consisted of a straggling unmade road",
     "start": 139.26,
     "end": 142.982,
-    "zh": "这个地方由一条蜿蜒的未铺路面小路组成，",
-    "zh_hant": "這個地方由一條蜿蜒的未鋪路面小路組成，"
-  },
-  {
-    "index": 29,
-    "text": "which was lined on either side by small houses.",
-    "start": 142.842,
-    "end": 146.323,
-    "zh": "两旁排列着许多小房子。",
-    "zh_hant": "兩旁排列著許多小房子。"
+    "zh": "这个地方有一条蜿蜒不平的土路，",
+    "zh_hant": "這個地方有一條蜿蜒不平的土路，"
   },
   {
     "index": 30,
-    "text": "Even under a clear blue sky, the village looked forbidding,",
-    "start": 146.884,
-    "end": 151.706,
-    "zh": "即使在晴朗的蓝天下，这个村庄看起来也令人畏惧，",
-    "zh_hant": "即使在晴朗的藍天下，這個村莊看起來也令人畏懼，"
+    "text": "which was lined on either side by small houses.",
+    "start": 142.842,
+    "end": 146.323,
+    "zh": "两旁排列着小房屋。",
+    "zh_hant": "兩旁排列著小房屋。"
   },
   {
     "index": 31,
-    "text": "as all the houses were built of grey mud bricks.",
-    "start": 151.866,
-    "end": 155.588,
-    "zh": "因为所有房屋都是用灰色泥砖建的。",
-    "zh_hant": "因為所有房屋都是用灰色泥磚建的。"
+    "text": "Even under a clear blue sky, the village looked forbidding,",
+    "start": 146.884,
+    "end": 151.706,
+    "zh": "即使在晴朗的蓝天下，这个村庄也显得阴森，",
+    "zh_hant": "即使在晴朗的藍天下，這個村莊也顯得陰森，"
   },
   {
     "index": 32,
+    "text": "as all the houses were built of grey mud bricks.",
+    "start": 151.866,
+    "end": 155.588,
+    "zh": "因为所有房子都是用灰色泥砖砌成的。",
+    "zh_hant": "因為所有房子都是用灰色泥磚砌成的。"
+  },
+  {
+    "index": 33,
     "text": "The village seemed deserted,",
     "start": 156.068,
     "end": 158.369,
@@ -264,31 +272,31 @@
     "zh_hant": "村莊似乎空無一人，"
   },
   {
-    "index": 33,
+    "index": 34,
     "text": "the only sign of life being an ugly-looking black goat",
     "start": 158.429,
     "end": 163.152,
-    "zh": "唯一的生命迹象是一只难看的小黑山羊，",
-    "zh_hant": "唯一的生命跡象是一隻難看的小黑山羊，"
-  },
-  {
-    "index": 34,
-    "text": "on a short length of rope tied to a tree in a field nearby.",
-    "start": 163.152,
-    "end": 168.154,
-    "zh": "拴在附近田地里一棵树上的一小段绳子上。",
-    "zh_hant": "拴在附近田地裡一棵樹上的一小段繩子上。"
+    "zh": "唯一的生命迹象是一只丑陋的黑山羊，",
+    "zh_hant": "唯一的生命跡象是一隻醜陋的黑山羊，"
   },
   {
     "index": 35,
-    "text": "Sitting down on a dilapidated wooden fence near the field,",
-    "start": 169.135,
-    "end": 173.257,
-    "zh": "我们在田地旁边一段破旧的木栅栏上坐下，",
-    "zh_hant": "我們在田地旁邊一段破舊的木柵欄上坐下，"
+    "text": "on a short length of rope tied to a tree in a field nearby.",
+    "start": 163.152,
+    "end": 168.154,
+    "zh": "被一根短绳拴在附近田里的一棵树上。",
+    "zh_hant": "被一根短繩拴在附近田裡的一棵樹上。"
   },
   {
     "index": 36,
+    "text": "Sitting down on a dilapidated wooden fence near the field,",
+    "start": 169.135,
+    "end": 173.257,
+    "zh": "我们在田边一个破旧的木栅栏上坐下，",
+    "zh_hant": "我們在田邊一個破舊的木柵欄上坐下，"
+  },
+  {
+    "index": 37,
     "text": "we opened a couple of tins of sardines and had a picnic lunch.",
     "start": 173.417,
     "end": 178.259,
@@ -296,7 +304,7 @@
     "zh_hant": "開啟了幾罐沙丁魚，吃了一頓野餐午餐。"
   },
   {
-    "index": 37,
+    "index": 38,
     "text": "All at once, I noticed that my wife seemed to be filled with alarm.",
     "start": 178.86,
     "end": 184.402,
@@ -304,31 +312,31 @@
     "zh_hant": "突然，我注意到妻子似乎充滿了驚恐。"
   },
   {
-    "index": 38,
-    "text": "Looking up I saw that we were surrounded by children in rags",
-    "start": 184.723,
-    "end": 189.625,
-    "zh": "抬头一看，我发现我们被一群衣衫褴褛的孩子围住了，",
-    "zh_hant": "抬頭一看，我發現我們被一群衣衫襤褸的孩子圍住了，"
-  },
-  {
     "index": 39,
-    "text": "who were looking at us silently as we ate.",
-    "start": 189.285,
-    "end": 192.486,
-    "zh": "他们在我们吃饭时默默地看着我们。",
-    "zh_hant": "他們在我們吃飯時默默地看著我們。"
+    "text": "Looking up I saw that we were surrounded",
+    "start": 184.723,
+    "end": 187.964,
+    "zh": "我抬头一看，发现我们被包围了，",
+    "zh_hant": "我抬頭一看，發現我們被包圍了，"
   },
   {
     "index": 40,
-    "text": "We offered them food and spoke to them kindly, but they remained motionless.",
-    "start": 193.247,
-    "end": 199.33,
-    "zh": "我们给他们食物，友善地和他们说话，但他们一动不动。",
-    "zh_hant": "我們給他們食物，友善地和他們說話，但他們一動不動。"
+    "text": "by children in rags who were looking at us silently as we ate.",
+    "start": 187.614,
+    "end": 192.486,
+    "zh": "周围是一群衣衫褴褛的孩子，他们静静地看着我们吃饭。",
+    "zh_hant": "周圍是一群衣衫襤褸的孩子，他們靜靜地看著我們吃飯。"
   },
   {
     "index": 41,
+    "text": "We offered them food and spoke to them kindly, but they remained motionless.",
+    "start": 193.247,
+    "end": 199.33,
+    "zh": "我们给他们食物，友善地跟他们说话，但他们一动不动。",
+    "zh_hant": "我們給他們食物，友善地跟他們說話，但他們一動不動。"
+  },
+  {
+    "index": 42,
     "text": "I concluded that they were simply shy of strangers.",
     "start": 199.991,
     "end": 203.572,
@@ -336,15 +344,15 @@
     "zh_hant": "我斷定他們只是怕生。"
   },
   {
-    "index": 42,
+    "index": 43,
     "text": "When we later walked down the main street of the village,",
     "start": 204.093,
     "end": 207.854,
-    "zh": "当我们后来步行穿过村庄的主街时，",
-    "zh_hant": "當我們後來步行穿過村莊的主街時，"
+    "zh": "当我们后来沿着村庄的主街走下去时，",
+    "zh_hant": "當我們後來沿著村莊的主街走下去時，"
   },
   {
-    "index": 43,
+    "index": 44,
     "text": "we were followed by a silent procession of children.",
     "start": 208.235,
     "end": 211.836,
@@ -352,47 +360,47 @@
     "zh_hant": "一群沉默的孩子跟在我們後面。"
   },
   {
-    "index": 44,
+    "index": 45,
     "text": "The village which had seemed deserted, immediately came to life.",
     "start": 212.437,
     "end": 217.579,
-    "zh": "这个原本看似荒凉的村庄立刻活跃了起来。",
-    "zh_hant": "這個原本看似荒涼的村莊立刻活躍了起來。"
-  },
-  {
-    "index": 45,
-    "text": "Faces appeared at windows.",
-    "start": 218.12,
-    "end": 220.2,
-    "zh": "窗户里出现了面孔。",
-    "zh_hant": "窗戶裡出現了面孔。"
+    "zh": "那个看似荒凉的村庄立刻活跃了起来。",
+    "zh_hant": "那個看似荒涼的村莊立刻活躍了起來。"
   },
   {
     "index": 46,
-    "text": "Men in shirt sleeves stood outside their houses and glared at us.",
-    "start": 220.381,
-    "end": 225.283,
-    "zh": "穿着衬衫的男人站在房子外面，怒视着我们。",
-    "zh_hant": "穿著襯衫的男人站在房子外面，怒視著我們。"
+    "text": "Faces appeared at windows.",
+    "start": 218.12,
+    "end": 220.2,
+    "zh": "窗边出现了面孔。",
+    "zh_hant": "窗邊出現了面孔。"
   },
   {
     "index": 47,
-    "text": "Old women in black shawls peered at us from doorways.",
-    "start": 225.743,
-    "end": 230.325,
-    "zh": "围着黑披肩的老妇人从门口盯着我们看。",
-    "zh_hant": "圍著黑披肩的老婦人從門口盯著我們看。"
+    "text": "Men in shirt sleeves stood outside their houses and glared at us.",
+    "start": 220.381,
+    "end": 225.283,
+    "zh": "穿着衬衫的男人们站在屋外，怒视着我们。",
+    "zh_hant": "穿著襯衫的男人們站在屋外，怒視著我們。"
   },
   {
     "index": 48,
-    "text": "The most frightening thing of all was that not a sound could be heard.",
-    "start": 230.726,
-    "end": 236.168,
-    "zh": "最可怕的是，一点声音都听不到。",
-    "zh_hant": "最可怕的是，一點聲音都聽不到。"
+    "text": "Old women in black shawls peered at us from doorways.",
+    "start": 225.743,
+    "end": 230.325,
+    "zh": "披着黑披肩的老妇人从门口盯着我们。",
+    "zh_hant": "披著黑披肩的老婦人從門口盯著我們。"
   },
   {
     "index": 49,
+    "text": "The most frightening thing of all was that not a sound could be heard.",
+    "start": 230.726,
+    "end": 236.168,
+    "zh": "最可怕的是，一点声音也听不到。",
+    "zh_hant": "最可怕的是，一點聲音也聽不到。"
+  },
+  {
+    "index": 50,
     "text": "There was no doubt that we were unwelcome visitors.",
     "start": 236.629,
     "end": 241.093,
@@ -400,35 +408,35 @@
     "zh_hant": "毫無疑問，我們是不受歡迎的訪客。"
   },
   {
-    "index": 50,
+    "index": 51,
     "text": "We needed no further warning.",
     "start": 241.534,
     "end": 243.836,
-    "zh": "我们不需要进一步的警告。",
-    "zh_hant": "我們不需要進一步的警告。"
-  },
-  {
-    "index": 51,
-    "text": "Turning back down the main street,",
-    "start": 244.157,
-    "end": 246.52,
-    "zh": "转身沿主街往回走，",
-    "zh_hant": "轉身沿主街往回走，"
+    "zh": "我们不需要再多的警告。",
+    "zh_hant": "我們不需要再多的警告。"
   },
   {
     "index": 52,
-    "text": "we quickened our pace and made our way rapidly",
-    "start": 246.58,
-    "end": 250.285,
-    "zh": "我们加快了步伐，迅速向",
-    "zh_hant": "我們加快了步伐，迅速向"
+    "text": "Turning back down the main street,",
+    "start": 244.157,
+    "end": 246.52,
+    "zh": "我们转身沿主街往回走，",
+    "zh_hant": "我們轉身沿主街往回走，"
   },
   {
     "index": 53,
-    "text": "towards the stream where we hoped the boatman was waiting.",
-    "start": 249.935,
+    "text": "we quickened our pace and made our way rapidly towards the stream",
+    "start": 246.58,
+    "end": 251.426,
+    "zh": "加快了脚步，迅速朝溪边走去，",
+    "zh_hant": "加快了腳步，迅速朝溪邊走去，"
+  },
+  {
+    "index": 54,
+    "text": "where we hoped the boatman was waiting.",
+    "start": 251.547,
     "end": 254.19,
-    "zh": "溪边走去，希望船夫还在那里等着。",
-    "zh_hant": "溪邊走去，希望船伕還在那裡等著。"
+    "zh": "希望船夫还在那里等着。",
+    "zh_hant": "希望船伕還在那裡等著。"
   }
 ]

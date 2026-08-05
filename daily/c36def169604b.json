@@ -1,54 +1,62 @@
 [
   {
     "index": 0,
-    "text": "Lesson 27 The 'Vasa'",
+    "text": "Lesson 27.",
     "start": 1.55,
-    "end": 9.174,
-    "zh": "第27课 “瓦萨”号",
-    "zh_hant": "第27課 “瓦薩”號"
+    "end": 5.31,
+    "zh": "第27课。",
+    "zh_hant": "第27課。"
   },
   {
     "index": 1,
-    "text": "What happened to the 'Vasa' almost immediately after she was launched?",
-    "start": 11.375,
-    "end": 16.217,
-    "zh": "“瓦萨”号在下水后几乎立即发生了什么？",
-    "zh_hant": "“瓦薩”號在下水後幾乎立即發生了什麼？"
+    "text": "The 'Vasa'.",
+    "start": 7.173,
+    "end": 9.174,
+    "zh": "‘瓦萨’号。",
+    "zh_hant": "‘瓦薩’號。"
   },
   {
     "index": 2,
-    "text": "From the seventeenth-century empire of Sweden,",
-    "start": 18.579,
-    "end": 21.42,
-    "zh": "来自17世纪的瑞典帝国，",
-    "zh_hant": "來自17世紀的瑞典帝國，"
+    "text": "What happened to the 'Vasa' almost immediately after she was launched?",
+    "start": 11.375,
+    "end": 16.217,
+    "zh": "‘瓦萨’号在刚下水后几乎立即发生了什么事？",
+    "zh_hant": "‘瓦薩’號在剛下水後幾乎立即發生了什麼事？"
   },
   {
     "index": 3,
-    "text": "the story of a galleon that sank at the start of her maiden voyage in 1628",
-    "start": 21.66,
-    "end": 27.733,
-    "zh": "一艘在1628年首航之初沉没的大帆船的故事，",
-    "zh_hant": "一艘在1628年首航之初沉沒的大帆船的故事，"
+    "text": "From the seventeenth-century empire of Sweden,",
+    "start": 18.579,
+    "end": 21.42,
+    "zh": "从十七世纪的瑞典帝国,",
+    "zh_hant": "從十七世紀的瑞典帝國,"
   },
   {
     "index": 4,
-    "text": "must be one of the strangest tales of the sea.",
-    "start": 27.783,
-    "end": 30.524,
-    "zh": "必定是海上最离奇的传说之一。",
-    "zh_hant": "必定是海上最離奇的傳說之一。"
+    "text": "the story of a galleon that sank at the start of her maiden voyage",
+    "start": 21.66,
+    "end": 26.202,
+    "zh": "一艘在首航之初就沉没的大帆船的故事,",
+    "zh_hant": "一艘在首航之初就沉沒的大帆船的故事,"
   },
   {
     "index": 5,
-    "text": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour",
-    "start": 31.205,
-    "end": 36.387,
-    "zh": "近三个半世纪以来，她一直躺在斯德哥尔摩港的海底，",
-    "zh_hant": "近三個半世紀以來，她一直躺在斯德哥爾摩港的海底，"
+    "text": "in 1628 must be one of the strangest tales of the sea.",
+    "start": 25.852,
+    "end": 30.524,
+    "zh": "1628年，这必定是最离奇的海上传说之一。",
+    "zh_hant": "1628年，這必定是最離奇的海上傳說之一。"
   },
   {
     "index": 6,
+    "text": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour",
+    "start": 31.205,
+    "end": 36.387,
+    "zh": "将近三个半世纪以来，她一直躺在斯德哥尔摩港口的海底,",
+    "zh_hant": "將近三個半世紀以來，她一直躺在斯德哥爾摩港口的海底,"
+  },
+  {
+    "index": 7,
     "text": "until her discovery in 1956.",
     "start": 36.488,
     "end": 38.698,
@@ -56,71 +64,71 @@
     "zh_hant": "直到1956年被發現。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "This was the Vasa,",
     "start": 38.298,
     "end": 42.051,
-    "zh": "这就是“瓦萨”号，",
-    "zh_hant": "這就是“瓦薩”號，"
-  },
-  {
-    "index": 8,
-    "text": "royal flagship of the great imperial fleet.",
-    "start": 42.331,
-    "end": 45.712,
-    "zh": "伟大的帝国舰队的皇家旗舰。",
-    "zh_hant": "偉大的帝國艦隊的皇家旗艦。"
+    "zh": "这就是‘瓦萨’号,",
+    "zh_hant": "這就是‘瓦薩’號,"
   },
   {
     "index": 9,
-    "text": "King Gustavus Adolphus 'The Northern Hurricane',",
-    "start": 46.793,
-    "end": 50.735,
-    "zh": "国王古斯塔夫·阿道夫，“北方的飓风”，",
-    "zh_hant": "國王古斯塔夫·阿道夫，“北方的颶風”，"
+    "text": "royal flagship of the great imperial fleet.",
+    "start": 42.331,
+    "end": 45.712,
+    "zh": "伟大帝国舰队的皇家旗舰。",
+    "zh_hant": "偉大帝國艦隊的皇家旗艦。"
   },
   {
     "index": 10,
-    "text": "then at the height of his military success in the 'Thirty Years' War,",
-    "start": 50.635,
-    "end": 54.877,
-    "zh": "当时正处于“三十年战争”军事成就的巅峰期，",
-    "zh_hant": "當時正處於“三十年戰爭”軍事成就的巔峰期，"
+    "text": "King Gustavus Adolphus 'The Northern Hurricane',",
+    "start": 46.793,
+    "end": 50.735,
+    "zh": "国王古斯塔夫斯·阿道弗斯‘北方飓风’,",
+    "zh_hant": "國王古斯塔夫斯·阿道弗斯‘北方颶風’,"
   },
   {
     "index": 11,
-    "text": "had dictated her measurements and armament.",
-    "start": 55.437,
-    "end": 58.559,
-    "zh": "亲自规定了她的尺寸和武装。",
-    "zh_hant": "親自規定了她的尺寸和武裝。"
+    "text": "then at the height of his military success in the 'Thirty Years' War,",
+    "start": 50.635,
+    "end": 54.877,
+    "zh": "当时他在‘三十年战争’中军事成就达到顶峰,",
+    "zh_hant": "當時他在‘三十年戰爭’中軍事成就達到頂峰,"
   },
   {
     "index": 12,
-    "text": "Triple gun-decks mounted sixty-four bronze cannon.",
-    "start": 59.259,
-    "end": 62.981,
-    "zh": "三层炮甲板装设了六十四门青铜加农炮。",
-    "zh_hant": "三層炮甲板裝設了六十四門青銅加農炮。"
+    "text": "had dictated her measurements and armament.",
+    "start": 55.437,
+    "end": 58.559,
+    "zh": "亲自制定了她的尺寸和武器装备。",
+    "zh_hant": "親自制定了她的尺寸和武器裝備。"
   },
   {
     "index": 13,
-    "text": "She was intended to play a leading role in the growing might of Sweden.",
-    "start": 63.481,
-    "end": 68.043,
-    "zh": "她本打算在瑞典日益壮大的国力中扮演重要角色。",
-    "zh_hant": "她本打算在瑞典日益壯大的國力中扮演重要角色。"
+    "text": "Triple gun-decks mounted sixty-four bronze cannon.",
+    "start": 59.259,
+    "end": 62.981,
+    "zh": "三层炮甲板装载了六十四门青铜大炮。",
+    "zh_hant": "三層炮甲板裝載了六十四門青銅大炮。"
   },
   {
     "index": 14,
-    "text": "As she was prepared for her maiden voyage on August 10, 1628,",
-    "start": 69.064,
-    "end": 74.457,
-    "zh": "1628年8月10日，当她准备进行首次航行时，",
-    "zh_hant": "1628年8月10日，當她準備進行首次航行時，"
+    "text": "She was intended to play a leading role in the growing might of Sweden.",
+    "start": 63.481,
+    "end": 68.043,
+    "zh": "她本意在瑞典日益壮大的国力中扮演领导角色。",
+    "zh_hant": "她本意在瑞典日益壯大的國力中扮演領導角色。"
   },
   {
     "index": 15,
+    "text": "As she was prepared for her maiden voyage on August 10, 1628,",
+    "start": 69.064,
+    "end": 74.457,
+    "zh": "当她为1628年8月10日的首航做准备时,",
+    "zh_hant": "當她為1628年8月10日的首航做準備時,"
+  },
+  {
+    "index": 16,
     "text": "Stockholm was in a ferment.",
     "start": 74.507,
     "end": 76.988,
@@ -128,243 +136,219 @@
     "zh_hant": "斯德哥爾摩一片沸騰。"
   },
   {
-    "index": 16,
-    "text": "From the Skeppsbron and surrounding islands the people watched this thing",
-    "start": 77.448,
-    "end": 82.371,
-    "zh": "人们从斯开普斯布隆和周围的岛屿观看这个美人",
-    "zh_hant": "人們從斯開普斯布隆和周圍的島嶼觀看這個美人"
-  },
-  {
     "index": 17,
-    "text": "of beauty begin to spread her sails and catch the wind.",
-    "start": 82.021,
-    "end": 86.313,
-    "zh": "开始展开船帆，迎风而行。",
-    "zh_hant": "開始展開船帆，迎風而行。"
+    "text": "From the Skeppsbron and surrounding islands the people watched",
+    "start": 77.448,
+    "end": 81.691,
+    "zh": "从斯凯普斯布伦及周围岛屿，人们注视着",
+    "zh_hant": "從斯凱普斯布倫及周圍島嶼，人們注視著"
   },
   {
     "index": 18,
-    "text": "They had laboured for three years to produce this floating work of art;",
-    "start": 86.953,
-    "end": 91.235,
-    "zh": "他们辛苦工作了三年，打造出这件漂浮的艺术品；",
-    "zh_hant": "他們辛苦工作了三年，打造出這件漂浮的藝術品；"
+    "text": "this thing of beauty begin to spread her sails and catch the wind.",
+    "start": 81.341,
+    "end": 86.313,
+    "zh": "这艘美丽的船开始展开船帆、迎风而行。",
+    "zh_hant": "這艘美麗的船開始展開船帆、迎風而行。"
   },
   {
     "index": 19,
-    "text": "she was more richly carved and ornamented than any previous ship.",
-    "start": 91.876,
-    "end": 96.338,
-    "zh": "她的雕刻和装饰比任何以前的船只都更加华丽。",
-    "zh_hant": "她的雕刻和裝飾比任何以前的船隻都更加華麗。"
+    "text": "They had laboured for three years to produce this floating work of art;",
+    "start": 86.953,
+    "end": 91.235,
+    "zh": "他们辛劳三年才造出这件漂浮的艺术品；",
+    "zh_hant": "他們辛勞三年才造出這件漂浮的藝術品；"
   },
   {
     "index": 20,
-    "text": "The high stern castle was a riot of carved",
-    "start": 97.098,
-    "end": 100.62,
-    "zh": "高耸的船尾楼满是雕刻的",
-    "zh_hant": "高聳的船尾樓滿是雕刻的"
+    "text": "she was more richly carved and ornamented than any previous ship.",
+    "start": 91.876,
+    "end": 96.338,
+    "zh": "她雕刻和装饰的华丽程度超过任何之前的船只。",
+    "zh_hant": "她雕刻和裝飾的華麗程度超過任何之前的船隻。"
   },
   {
     "index": 21,
-    "text": "gods, demons, knights, kings,",
-    "start": 100.27,
-    "end": 104.201,
-    "zh": "众神、恶魔、骑士、国王、",
-    "zh_hant": "眾神、惡魔、騎士、國王、"
+    "text": "The high stern castle was a riot of carved gods,",
+    "start": 97.098,
+    "end": 101.08,
+    "zh": "高耸的船尾楼满是雕刻的众神,",
+    "zh_hant": "高聳的船尾樓滿是雕刻的眾神,"
   },
   {
     "index": 22,
-    "text": "warriors, mermaids, cherubs;",
-    "start": 104.182,
+    "text": "demons, knights, kings, warriors, mermaids, cherubs;",
+    "start": 101.1,
     "end": 107.063,
-    "zh": "战士、美人鱼、小天使；",
-    "zh_hant": "戰士、美人魚、小天使；"
+    "zh": "魔鬼、骑士、国王、战士、美人鱼、小天使；",
+    "zh_hant": "魔鬼、騎士、國王、戰士、美人魚、小天使；"
   },
   {
     "index": 23,
     "text": "and zoomorphic animal shapes ablaze with red and gold and blue,",
     "start": 106.963,
     "end": 112.405,
-    "zh": "还有红、金、蓝交相辉映的动物图腾，",
-    "zh_hant": "還有紅、金、藍交相輝映的動物圖騰，"
+    "zh": "还有红、金、蓝交相辉映的动物形象,",
+    "zh_hant": "還有紅、金、藍交相輝映的動物形象,"
   },
   {
     "index": 24,
-    "text": "symbols",
+    "text": "symbols of courage, power, and cruelty,",
     "start": 112.786,
-    "end": 113.646,
-    "zh": "这些象征",
-    "zh_hant": "這些象徵"
+    "end": 116.548,
+    "zh": "象征勇气、力量和残酷,",
+    "zh_hant": "象徵勇氣、力量和殘酷,"
   },
   {
     "index": 25,
-    "text": "of courage, power, and cruelty, were portrayed to stir",
-    "start": 113.296,
-    "end": 118.749,
-    "zh": "勇气、力量和残忍的图案，旨在激发",
-    "zh_hant": "勇氣、力量和殘忍的圖案，旨在激發"
+    "text": "were portrayed to stir the imaginations of the superstitious sailors of the day.",
+    "start": 116.668,
+    "end": 122.391,
+    "zh": "这些描绘用于激发当时迷信水手们的想象。",
+    "zh_hant": "這些描繪用於激發當時迷信水手們的想象。"
   },
   {
     "index": 26,
-    "text": "the imaginations of the superstitious sailors of the day.",
-    "start": 118.399,
-    "end": 122.391,
-    "zh": "当时迷信水手的想象力。",
-    "zh_hant": "當時迷信水手的想象力。"
+    "text": "Then the cannons of the anchored warships thundered",
+    "start": 123.692,
+    "end": 127.073,
+    "zh": "然后，停泊的战舰大炮轰鸣",
+    "zh_hant": "然後，停泊的戰艦大炮轟鳴"
   },
   {
     "index": 27,
-    "text": "Then the cannons of the anchored warships thundered a salute",
-    "start": 123.692,
-    "end": 127.694,
-    "zh": "然后，停泊的战舰鸣炮致敬，",
-    "zh_hant": "然後，停泊的戰艦鳴炮致敬，"
+    "text": "a salute to which the Vasa fired in reply.",
+    "start": 126.723,
+    "end": 130.575,
+    "zh": "致礼，而‘瓦萨’号也鸣炮回应。",
+    "zh_hant": "致禮，而‘瓦薩’號也鳴炮回應。"
   },
   {
     "index": 28,
-    "text": "to which the Vasa fired in reply.",
-    "start": 127.344,
-    "end": 130.575,
-    "zh": "“瓦萨”号也以炮火回礼。",
-    "zh_hant": "“瓦薩”號也以炮火回禮。"
-  },
-  {
-    "index": 29,
     "text": "As she emerged from her drifting cloud of gun smoke",
     "start": 131.416,
     "end": 134.937,
-    "zh": "当她从弥漫的炮烟中驶出时，",
-    "zh_hant": "當她從瀰漫的炮煙中駛出時，"
+    "zh": "当她从漂浮的炮烟中驶出,",
+    "zh_hant": "當她從漂浮的炮煙中駛出,"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "with the water churned to foam beneath her bow,",
     "start": 134.977,
     "end": 137.959,
-    "zh": "船首下海水翻滚成泡沫，",
-    "zh_hant": "船首下海水翻滾成泡沫，"
+    "zh": "船首下水面翻起白沫,",
+    "zh_hant": "船首下水面翻起白沫,"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "her flags flying, pennants waving, sails filling in the breeze,",
     "start": 138.459,
     "end": 144.102,
-    "zh": "旗帜飘扬，三角旗招展，船帆在微风中鼓满，",
-    "zh_hant": "旗幟飄揚，三角旗招展，船帆在微風中鼓滿，"
+    "zh": "旗帜飘扬、燕尾旗舞动、船帆在微风中鼓满,",
+    "zh_hant": "旗幟飄揚、燕尾旗舞動、船帆在微風中鼓滿,"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "and the red and gold or her superstructure ablaze with colour,",
     "start": 144.242,
     "end": 148.124,
-    "zh": "上层建筑的红色和金色光彩夺目，",
-    "zh_hant": "上層建築的紅色和金色光彩奪目，"
+    "zh": "还有红金色上层建筑色彩斑斓,",
+    "zh_hant": "還有紅金色上層建築色彩斑斕,"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "she presented a more majestic spectacle than Stockholmers had ever seen before.",
     "start": 148.604,
     "end": 154.327,
-    "zh": "她呈现出的壮观景象，是斯德哥尔摩人前所未见的。",
-    "zh_hant": "她呈現出的壯觀景象，是斯德哥爾摩人前所未見的。"
+    "zh": "她展现的景象比斯德哥尔摩人见过的任何东西都壮观。",
+    "zh_hant": "她展現的景象比斯德哥爾摩人見過的任何東西都壯觀。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "All gun-ports were open and the muzzles peeped wickedly from them.",
     "start": 155.288,
     "end": 160.07,
-    "zh": "所有炮门都敞开着，炮口从那里恶意地窥视着。",
-    "zh_hant": "所有炮門都敞開著，炮口從那裡惡意地窺視著。"
+    "zh": "所有炮门都开着，炮口从里面不怀好意地探出。",
+    "zh_hant": "所有炮門都開著，炮口從裡面不懷好意地探出。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "As the wind freshened there came a sudden squall",
     "start": 160.971,
     "end": 164.272,
-    "zh": "风势渐强时，突然袭来一阵狂风骤雨，",
-    "zh_hant": "風勢漸強時，突然襲來一陣狂風驟雨，"
+    "zh": "随着风力增强，突然袭来一阵暴风",
+    "zh_hant": "隨著風力增強，突然襲來一陣暴風"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "and the ship made a strange movement, listing to port.",
     "start": 164.512,
     "end": 168.594,
-    "zh": "船身发生了奇怪的移动，向左舷倾斜。",
-    "zh_hant": "船身發生了奇怪的移動，向左舷傾斜。"
+    "zh": "船做出奇怪的移动，向左倾斜。",
+    "zh_hant": "船做出奇怪的移動，向左傾斜。"
+  },
+  {
+    "index": 36,
+    "text": "The Ordnance officer ordered all the port cannon to be heaved to starboard",
+    "start": 169.375,
+    "end": 174.217,
+    "zh": "军械官命令把所有左侧大炮移到右舷",
+    "zh_hant": "軍械官命令把所有左側大炮移到右舷"
   },
   {
     "index": 37,
-    "text": "The Ordnance officer ordered all the port cannon to be heaved to starboard to counteract the list",
-    "start": 169.375,
-    "end": 175.517,
-    "zh": "军械官下令将所有左舷的大炮移到右舷以抵消倾斜，",
-    "zh_hant": "軍械官下令將所有左舷的大炮移到右舷以抵消傾斜，"
+    "text": "to counteract the list but the steepening angle of the decks increased.",
+    "start": 173.867,
+    "end": 178.999,
+    "zh": "以抵消倾斜，但甲板的角度变得更陡了。",
+    "zh_hant": "以抵消傾斜，但甲板的角度變得更陡了。"
   },
   {
     "index": 38,
-    "text": "but the steepening angle of the decks increased.",
-    "start": 175.818,
-    "end": 178.999,
-    "zh": "但甲板的倾斜角度却越来越陡。",
-    "zh_hant": "但甲板的傾斜角度卻越來越陡。"
-  },
-  {
-    "index": 39,
     "text": "Then the sound of rumbling thunder reached the watchers on the shore,",
     "start": 179.68,
     "end": 184.022,
-    "zh": "接着，岸上的观者听到了一阵隆隆的雷声般的巨响，",
-    "zh_hant": "接著，岸上的觀者聽到了一陣隆隆的雷聲般的巨響，"
+    "zh": "然后，隆隆的雷声传到岸上的观看者耳中,",
+    "zh_hant": "然後，隆隆的雷聲傳到岸上的觀看者耳中,"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "as cargo, ballast, ammunition and 400 people",
     "start": 184.202,
     "end": 189.444,
-    "zh": "因为货物、压舱物、弹药和400人",
-    "zh_hant": "因為貨物、壓艙物、彈藥和400人"
+    "zh": "随着货物、压舱物、弹药和400人",
+    "zh_hant": "隨著貨物、壓艙物、彈藥和400人"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "went sliding and crashing down to the port side of the steeply listing ship.",
     "start": 189.284,
     "end": 194.127,
-    "zh": "在急剧倾斜的船上滑向并撞向左舷。",
-    "zh_hant": "在急劇傾斜的船上滑向並撞向左舷。"
+    "zh": "滑向并撞击越来越倾斜的船左舷。",
+    "zh_hant": "滑向並撞擊越來越傾斜的船左舷。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "The lower gun-ports were now below water and the inrush sealed the ship's fate.",
     "start": 194.927,
     "end": 201.111,
-    "zh": "此时下层炮门已经没入水中，涌进的水注定了这艘船的命运。",
-    "zh_hant": "此時下層炮門已經沒入水中，湧進的水注定了這艘船的命運。"
+    "zh": "下层炮门现在已在水中，涌入的水决定了船的命运。",
+    "zh_hant": "下層炮門現在已在水中，湧入的水決定了船的命運。"
+  },
+  {
+    "index": 42,
+    "text": "In that first glorious hour, the mighty Vasa, which was intended to rule the Baltic,",
+    "start": 201.793,
+    "end": 208.182,
+    "zh": "在那辉煌的第一小时里，本应统治波罗的海的强大的‘瓦萨’号,",
+    "zh_hant": "在那輝煌的第一小時裡，本應統治波羅的海的強大的‘瓦薩’號,"
   },
   {
     "index": 43,
-    "text": "In that first glorious hour,",
-    "start": 201.793,
-    "end": 204.056,
-    "zh": "在那个光辉的首航时刻，",
-    "zh_hant": "在那個光輝的首航時刻，"
-  },
-  {
-    "index": 44,
-    "text": "the mighty Vasa, which was intended to rule",
-    "start": 204.077,
-    "end": 207.581,
-    "zh": "强大的“瓦萨”号，本打算统治",
-    "zh_hant": "強大的“瓦薩”號，本打算統治"
-  },
-  {
-    "index": 45,
-    "text": "the Baltic, sank with all flags flying--in the harbour of her birth.",
-    "start": 207.231,
+    "text": "sank with all flags flying--in the harbour of her birth.",
+    "start": 208.343,
     "end": 212.89,
-    "zh": "波罗的海，却在诞生她的港口，带着所有飘扬的旗帜沉没了。",
-    "zh_hant": "波羅的海，卻在誕生她的港口，帶著所有飄揚的旗幟沉沒了。"
+    "zh": "带着全部旗帜飘扬——沉没在她诞生的港口。",
+    "zh_hant": "帶著全部旗幟飄揚——沉沒在她誕生的港口。"
   }
 ]

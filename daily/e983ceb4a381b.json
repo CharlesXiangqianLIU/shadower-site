@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 71 He's awful!",
+    "text": "Lesson 71.",
     "start": 1.531,
-    "end": 5.852,
-    "zh": "第71课 他糟透了！",
-    "zh_hant": "第71課 他糟透了！"
+    "end": 4.002,
+    "zh": "第71课。",
+    "zh_hant": "第71課。"
   },
   {
     "index": 1,
+    "text": "He's awful!",
+    "start": 4.052,
+    "end": 5.852,
+    "zh": "他太讨厌了！",
+    "zh_hant": "他太討厭了！"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.753,
     "end": 10.675,
@@ -16,31 +24,31 @@
     "zh_hant": "聽錄音，然後回答問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "How did Pauline answer the telephone at nine o'clock?",
     "start": 12.796,
     "end": 17.138,
-    "zh": "波琳在九点钟时是怎么接电话的？",
-    "zh_hant": "波琳在九點鐘時是怎麼接電話的？"
-  },
-  {
-    "index": 3,
-    "text": "What's Ron Marston like, Pauline?",
-    "start": 19.479,
-    "end": 22.861,
-    "zh": "罗恩·马斯顿怎么样，波琳？",
-    "zh_hant": "羅恩·馬斯頓怎麼樣，波琳？"
+    "zh": "波琳在九点钟是怎么接电话的？",
+    "zh_hant": "波琳在九點鐘是怎麼接電話的？"
   },
   {
     "index": 4,
-    "text": "He's awful!",
-    "start": 23.942,
-    "end": 25.362,
-    "zh": "他糟透了！",
-    "zh_hant": "他糟透了！"
+    "text": "What's Ron Marston like, Pauline?",
+    "start": 19.479,
+    "end": 22.861,
+    "zh": "波琳，罗恩·马斯顿是个什么样的人？",
+    "zh_hant": "波琳，羅恩·馬斯頓是個什麼樣的人？"
   },
   {
     "index": 5,
+    "text": "He's awful!",
+    "start": 23.942,
+    "end": 25.362,
+    "zh": "他太讨厌了！",
+    "zh_hant": "他太討厭了！"
+  },
+  {
+    "index": 6,
     "text": "He telephoned me four times yesterday",
     "start": 25.502,
     "end": 28.944,
@@ -48,23 +56,23 @@
     "zh_hant": "他昨天給我打了四次電話"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "and three times the day before yesterday.",
     "start": 29.124,
     "end": 32.586,
-    "zh": "前天还打了三次。",
-    "zh_hant": "前天還打了三次。"
-  },
-  {
-    "index": 7,
-    "text": "He telephoned the office yesterday morning",
-    "start": 33.326,
-    "end": 36.688,
-    "zh": "他昨天上午给办公室打了电话",
-    "zh_hant": "他昨天上午給辦公室打了電話"
+    "zh": "前天打了三次。",
+    "zh_hant": "前天打了三次。"
   },
   {
     "index": 8,
+    "text": "He telephoned the office yesterday morning",
+    "start": 33.326,
+    "end": 36.688,
+    "zh": "他昨天上午打电话到办公室",
+    "zh_hant": "他昨天上午打電話到辦公室"
+  },
+  {
+    "index": 9,
     "text": "and yesterday afternoon.",
     "start": 36.408,
     "end": 38.869,
@@ -72,15 +80,15 @@
     "zh_hant": "昨天下午也打了。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "My boss answered the telephone.",
     "start": 39.469,
     "end": 42.011,
-    "zh": "是我老板接的电话。",
-    "zh_hant": "是我老闆接的電話。"
+    "zh": "我的老板接了电话。",
+    "zh_hant": "我的老闆接了電話。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "What did your boss say to him?",
     "start": 43.051,
     "end": 45.312,
@@ -88,15 +96,15 @@
     "zh_hant": "你老闆對他說了什麼？"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "He said, 'Pauline is typing letters.",
     "start": 46.573,
     "end": 49.975,
-    "zh": "他说：‘波琳正在打信件。",
-    "zh_hant": "他說：‘波琳正在打信件。"
+    "zh": "他说：‘波琳正在打信。",
+    "zh_hant": "他說：‘波琳正在打信。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "She can't speak to you now!'",
     "start": 50.135,
     "end": 52.896,
@@ -104,39 +112,39 @@
     "zh_hant": "她現在不能和你說話！’"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Then I arrived home at six o'clock yesterday evening.",
     "start": 53.296,
     "end": 57.078,
-    "zh": "然后我昨晚六点钟回到了家。",
-    "zh_hant": "然後我昨晚六點鐘回到了家。"
-  },
-  {
-    "index": 14,
-    "text": "He telephoned again.",
-    "start": 57.278,
-    "end": 58.939,
-    "zh": "他又打来了电话。",
-    "zh_hant": "他又打來了電話。"
+    "zh": "然后我昨天傍晚六点回到家。",
+    "zh_hant": "然後我昨天傍晚六點回到家。"
   },
   {
     "index": 15,
-    "text": "But I didn't answer the phone!",
-    "start": 59.339,
-    "end": 61.76,
-    "zh": "但我不接电话！",
-    "zh_hant": "但我不接電話！"
+    "text": "He telephoned again.",
+    "start": 57.278,
+    "end": 58.939,
+    "zh": "他又打来电话了。",
+    "zh_hant": "他又打來電話了。"
   },
   {
     "index": 16,
-    "text": "Did he telephone again last night?",
-    "start": 62.561,
-    "end": 65.062,
-    "zh": "他昨晚又打电话了吗？",
-    "zh_hant": "他昨晚又打電話了嗎？"
+    "text": "But I didn't answer the phone!",
+    "start": 59.339,
+    "end": 61.76,
+    "zh": "但我不没接电话！",
+    "zh_hant": "但我不沒接電話！"
   },
   {
     "index": 17,
+    "text": "Did he telephone again last night?",
+    "start": 62.561,
+    "end": 65.062,
+    "zh": "他昨天晚上又打电话了吗？",
+    "zh_hant": "他昨天晚上又打電話了嗎？"
+  },
+  {
+    "index": 18,
     "text": "Yes, he did.",
     "start": 65.863,
     "end": 67.043,
@@ -144,7 +152,7 @@
     "zh_hant": "是的，他打了。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "He telephoned at nine o'clock.",
     "start": 67.443,
     "end": 70.004,
@@ -152,7 +160,7 @@
     "zh_hant": "他九點鐘打來的。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "What did you say to him?",
     "start": 71.385,
     "end": 73.026,
@@ -160,7 +168,7 @@
     "zh_hant": "你對他說了什麼？"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "I said, 'This is Pauline's mother.",
     "start": 74.127,
     "end": 77.228,
@@ -168,15 +176,15 @@
     "zh_hant": "我說：‘我是波琳的母親。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Please don't telephone my daughter again!'",
     "start": 77.648,
     "end": 81.09,
-    "zh": "请不要再给我女儿打电话了！’",
-    "zh_hant": "請不要再給我女兒打電話了！’"
+    "zh": "请不要再给我的女儿打电话了！’",
+    "zh_hant": "請不要再給我的女兒打電話了！’"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Did he telephone again?",
     "start": 81.235,
     "end": 82.94,
@@ -184,11 +192,11 @@
     "zh_hant": "他又打電話了嗎？"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "No, he didn't!",
     "start": 83.404,
     "end": 84.968,
-    "zh": "不，他没有！",
-    "zh_hant": "不，他沒有！"
+    "zh": "没有，他没打！",
+    "zh_hant": "沒有，他沒打！"
   }
 ]

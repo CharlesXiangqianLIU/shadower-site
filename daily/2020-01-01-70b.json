@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 139 Is that you,",
+    "text": "Lesson 139.",
     "start": 0.61,
-    "end": 4.932,
-    "zh": "第139课 是你吗，",
-    "zh_hant": "第139課 是你嗎，"
+    "end": 3.462,
+    "zh": "第139课。",
+    "zh_hant": "第139課。"
   },
   {
     "index": 1,
-    "text": "John?",
-    "start": 4.692,
+    "text": "Is that you, John?",
+    "start": 3.512,
     "end": 5.613,
-    "zh": "约翰？",
-    "zh_hant": "約翰？"
+    "zh": "是你吗，约翰？",
+    "zh_hant": "是你嗎，約翰？"
   },
   {
     "index": 2,
@@ -36,16 +36,16 @@
     "text": "Which John Smith does Graham Turner",
     "start": 12.516,
     "end": 16.418,
-    "zh": "格雷厄姆·特纳认为他正在",
-    "zh_hant": "格雷厄姆·特納認為他正在"
+    "zh": "格雷厄姆·特纳认为",
+    "zh_hant": "格雷厄姆·特納認為"
   },
   {
     "index": 5,
     "text": "think",
     "start": 16.238,
     "end": 17.058,
-    "zh": "和",
-    "zh_hant": "和"
+    "zh": "他在和",
+    "zh_hant": "他在和"
   },
   {
     "index": 6,
@@ -68,16 +68,16 @@
     "text": "Yes, speaking.",
     "start": 22.681,
     "end": 24.402,
-    "zh": "是的，是我。",
-    "zh_hant": "是的，是我。"
+    "zh": "是的，我就是。",
+    "zh_hant": "是的，我就是。"
   },
   {
     "index": 9,
     "text": "Tell Mary we'll be late for dinner this evening.",
     "start": 24.722,
     "end": 29.044,
-    "zh": "告诉玛丽，我们今晚吃饭会迟到。",
-    "zh_hant": "告訴瑪麗，我們今晚吃飯會遲到。"
+    "zh": "告诉玛丽，我们今晚晚餐会迟到。",
+    "zh_hant": "告訴瑪麗，我們今晚晚餐會遲到。"
   },
   {
     "index": 10,
@@ -100,56 +100,56 @@
     "text": "She invited Charlotte and me to dinner this evening.",
     "start": 36.128,
     "end": 40.591,
-    "zh": "她今晚请我和夏洛特吃饭。",
-    "zh_hant": "她今晚請我和夏洛特吃飯。"
+    "zh": "她邀请我和夏洛特今晚去吃饭。",
+    "zh_hant": "她邀請我和夏洛特今晚去吃飯。"
   },
   {
     "index": 13,
     "text": "I said I would be at your house at six",
     "start": 41.551,
     "end": 45.553,
-    "zh": "我说过我会六点到你家",
-    "zh_hant": "我說過我會六點到你家"
+    "zh": "我说过六点会到你家，",
+    "zh_hant": "我說過六點會到你家，"
   },
   {
     "index": 14,
     "text": "o'clock,",
     "start": 45.293,
     "end": 46.333,
-    "zh": "钟点，",
-    "zh_hant": "鐘點，"
+    "zh": "点钟，",
+    "zh_hant": "點鐘，"
   },
   {
     "index": 15,
     "text": "but the boss wants me to do some extra work.",
     "start": 46.594,
     "end": 50.876,
-    "zh": "但老板要我做些额外的工作。",
-    "zh_hant": "但老闆要我做些額外的工作。"
+    "zh": "但老板让我加班做点额外工作。",
+    "zh_hant": "但老闆讓我加班做點額外工作。"
   },
   {
     "index": 16,
     "text": "I'll have to stay at the office.",
     "start": 51.576,
     "end": 54.337,
-    "zh": "我得留在办公室。",
-    "zh_hant": "我得留在辦公室。"
+    "zh": "我得待在办公室。",
+    "zh_hant": "我得待在辦公室。"
   },
   {
     "index": 17,
     "text": "I don't know when I'll finish.",
     "start": 54.758,
     "end": 57.399,
-    "zh": "我不知道什么时候能做完。",
-    "zh_hant": "我不知道什麼時候能做完。"
+    "zh": "我不知道什么时候能完成。",
+    "zh_hant": "我不知道什麼時候能完成。"
   },
   {
     "index": 18,
     "text": "Oh, and by the way,",
     "start": 58.099,
     "end": 60.8,
-    "zh": "哦，顺便说一下，",
-    "zh_hant": "哦，順便說一下，"
+    "zh": "哦，顺便说一下。",
+    "zh_hant": "哦，順便說一下。"
   },
   {
     "index": 19,
@@ -172,16 +172,16 @@
     "text": "That is John Smith, isn't it?",
     "start": 70.706,
     "end": 74.107,
-    "zh": "那是约翰·史密斯，不是吗？",
-    "zh_hant": "那是約翰·史密斯，不是嗎？"
+    "zh": "那是约翰·史密斯，对吧？",
+    "zh_hant": "那是約翰·史密斯，對吧？"
   },
   {
     "index": 22,
     "text": "Yes, I'm John Smith.",
     "start": 74.187,
     "end": 76.648,
-    "zh": "是的，我是约翰·史密斯。",
-    "zh_hant": "是的，我是約翰·史密斯。"
+    "zh": "是的，我就是约翰·史密斯。",
+    "zh_hant": "是的，我就是約翰·史密斯。"
   },
   {
     "index": 23,
@@ -220,16 +220,16 @@
     "text": "Engineering Company, don't you?",
     "start": 87.178,
     "end": 89.981,
-    "zh": "工程公司工作，不是吗？",
-    "zh_hant": "工程公司工作，不是嗎？"
+    "zh": "工程公司工作，对吧？",
+    "zh_hant": "工程公司工作，對吧？"
   },
   {
     "index": 28,
     "text": "No, I don't.",
     "start": 90.161,
     "end": 91.862,
-    "zh": "不，我不是。",
-    "zh_hant": "不，我不是。"
+    "zh": "不，不是。",
+    "zh_hant": "不，不是。"
   },
   {
     "index": 29,

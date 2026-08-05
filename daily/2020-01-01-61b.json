@@ -1,62 +1,70 @@
 [
   {
     "index": 0,
-    "text": "Lesson 121",
+    "text": "Lesson 121.",
     "start": 0.65,
     "end": 3.962,
-    "zh": "第121课",
-    "zh_hant": "第121課"
+    "zh": "第121课。",
+    "zh_hant": "第121課。"
   },
   {
     "index": 1,
-    "text": "The man in a hat Listen",
+    "text": "The man in a hat.",
     "start": 4.012,
-    "end": 8.134,
-    "zh": "戴帽子的男人 听",
-    "zh_hant": "戴帽子的男人 聽"
+    "end": 6.273,
+    "zh": "戴帽子的男人。",
+    "zh_hant": "戴帽子的男人。"
   },
   {
     "index": 2,
-    "text": "to the tape then answer this question.",
-    "start": 7.834,
-    "end": 11.896,
-    "zh": "录音，然后回答这个问题。",
-    "zh_hant": "錄音，然後回答這個問題。"
+    "text": "Listen to the tape then",
+    "start": 7.234,
+    "end": 10.115,
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
   },
   {
     "index": 3,
-    "text": "Why didn't Caroline recognize the customer",
-    "start": 12.917,
-    "end": 17.298,
-    "zh": "为什么卡罗琳没有立刻",
-    "zh_hant": "為什麼卡羅琳沒有立刻"
+    "text": "answer this question.",
+    "start": 9.935,
+    "end": 11.896,
+    "zh": "回答这个问题。",
+    "zh_hant": "回答這個問題。"
   },
   {
     "index": 4,
-    "text": "straight away?",
-    "start": 17.139,
-    "end": 18.439,
-    "zh": "认出那位顾客？",
-    "zh_hant": "認出那位顧客？"
+    "text": "Why didn't Caroline recognize the customer",
+    "start": 12.917,
+    "end": 17.298,
+    "zh": "为什么卡罗琳没有认出那位顾客",
+    "zh_hant": "為什麼卡羅琳沒有認出那位顧客"
   },
   {
     "index": 5,
-    "text": "I bought two expensive dictionaries here",
-    "start": 20.56,
-    "end": 24.402,
-    "zh": "我半小时前在这里买了两本",
-    "zh_hant": "我半小時前在這裡買了兩本"
+    "text": "straight away?",
+    "start": 17.139,
+    "end": 18.439,
+    "zh": "立刻？",
+    "zh_hant": "立刻？"
   },
   {
     "index": 6,
-    "text": "half an hour ago,",
-    "start": 24.242,
-    "end": 25.943,
-    "zh": "昂贵的词典，",
-    "zh_hant": "昂貴的詞典，"
+    "text": "I bought two expensive dictionaries here",
+    "start": 20.56,
+    "end": 24.402,
+    "zh": "我在这里买了两本很贵的词典",
+    "zh_hant": "我在這裡買了兩本很貴的詞典"
   },
   {
     "index": 7,
+    "text": "half an hour ago,",
+    "start": 24.242,
+    "end": 25.943,
+    "zh": "半小时前，",
+    "zh_hant": "半小時前，"
+  },
+  {
+    "index": 8,
     "text": "but I forgot to take them with me.",
     "start": 26.503,
     "end": 29.945,
@@ -64,15 +72,15 @@
     "zh_hant": "但我忘了帶走它們。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Who served you, sir?",
     "start": 30.625,
     "end": 32.586,
-    "zh": "先生，是谁为您服务的？",
-    "zh_hant": "先生，是誰為您服務的？"
+    "zh": "先生，谁为您服务的？",
+    "zh_hant": "先生，誰為您服務的？"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "The lady who is standing behind the counter.",
     "start": 33.507,
     "end": 37.148,
@@ -80,15 +88,15 @@
     "zh_hant": "站在櫃檯後面的那位女士。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Which books did you buy?",
     "start": 37.789,
     "end": 40.07,
-    "zh": "您买了哪几本书？",
-    "zh_hant": "您買了哪幾本書？"
+    "zh": "您买了哪些书？",
+    "zh_hant": "您買了哪些書？"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "The books which are on the counter.",
     "start": 41.151,
     "end": 44.032,
@@ -96,47 +104,47 @@
     "zh_hant": "櫃檯上的那些書。"
   },
   {
-    "index": 12,
-    "text": "Did you serve this gentleman half",
-    "start": 44.872,
-    "end": 47.814,
-    "zh": "卡罗琳，您半小时前",
-    "zh_hant": "卡羅琳，您半小時前"
-  },
-  {
     "index": 13,
-    "text": "an hour ago, Caroline?",
-    "start": 47.474,
-    "end": 49.715,
-    "zh": "为这位先生服务过吗？",
-    "zh_hant": "為這位先生服務過嗎？"
+    "text": "Did you serve this gentleman half an hour ago,",
+    "start": 44.872,
+    "end": 48.834,
+    "zh": "半小时前您为这位先生服务过吗，",
+    "zh_hant": "半小時前您為這位先生服務過嗎，"
   },
   {
     "index": 14,
-    "text": "He says he's the man who bought these books.",
-    "start": 50.135,
-    "end": 54.117,
-    "zh": "他说他就是买这些书的那个人。",
-    "zh_hant": "他說他就是買這些書的那個人。"
+    "text": "Caroline?",
+    "start": 48.674,
+    "end": 49.715,
+    "zh": "卡罗琳？",
+    "zh_hant": "卡羅琳？"
   },
   {
     "index": 15,
-    "text": "I can't remember.",
-    "start": 54.917,
-    "end": 56.998,
-    "zh": "我记不起来了。",
-    "zh_hant": "我記不起來了。"
+    "text": "He says he's the man who bought these books.",
+    "start": 50.135,
+    "end": 54.117,
+    "zh": "他说他就是买这些书的人。",
+    "zh_hant": "他說他就是買這些書的人。"
   },
   {
     "index": 16,
-    "text": "The man who I served was wearing a hat.",
-    "start": 57.479,
-    "end": 61.941,
-    "zh": "我服务的那个人当时戴着帽子。",
-    "zh_hant": "我服務的那個人當時戴著帽子。"
+    "text": "I can't remember.",
+    "start": 54.917,
+    "end": 56.998,
+    "zh": "我记不得了。",
+    "zh_hant": "我記不得了。"
   },
   {
     "index": 17,
+    "text": "The man who I served was wearing a hat.",
+    "start": 57.479,
+    "end": 61.941,
+    "zh": "我服务的那个男人当时戴着帽子。",
+    "zh_hant": "我服務的那個男人當時戴著帽子。"
+  },
+  {
+    "index": 18,
     "text": "Have you got a hat, sir?",
     "start": 62.501,
     "end": 65.102,
@@ -144,23 +152,23 @@
     "zh_hant": "先生，您有帽子嗎？"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Yes, I have.",
     "start": 65.943,
     "end": 67.663,
-    "zh": "有，我有。",
-    "zh_hant": "有，我有。"
-  },
-  {
-    "index": 19,
-    "text": "Would you put it on, please?",
-    "start": 68.084,
-    "end": 70.665,
-    "zh": "请您戴上帽子好吗？",
-    "zh_hant": "請您戴上帽子好嗎？"
+    "zh": "有的。",
+    "zh_hant": "有的。"
   },
   {
     "index": 20,
+    "text": "Would you put it on, please?",
+    "start": 68.084,
+    "end": 70.665,
+    "zh": "请戴上它，好吗？",
+    "zh_hant": "請戴上它，好嗎？"
+  },
+  {
+    "index": 21,
     "text": "All right.",
     "start": 70.925,
     "end": 72.166,
@@ -168,15 +176,15 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Is this the man that you served, Caroline?",
     "start": 72.706,
     "end": 76.388,
-    "zh": "卡罗琳，这就是您服务的那个人吗？",
-    "zh_hant": "卡羅琳，這就是您服務的那個人嗎？"
+    "zh": "这就是您服务的那位男人吗，卡罗琳？",
+    "zh_hant": "這就是您服務的那位男人嗎，卡羅琳？"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Yes.",
     "start": 77.068,
     "end": 78.069,
@@ -184,7 +192,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "I recognize him now.",
     "start": 78.469,
     "end": 80.91,

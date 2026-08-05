@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 137 A pleasant",
+    "text": "Lesson 137.",
     "start": 0.77,
-    "end": 4.832,
-    "zh": "第137课 一个愉快的",
-    "zh_hant": "第137課 一個愉快的"
+    "end": 3.622,
+    "zh": "第137课。",
+    "zh_hant": "第137課。"
   },
   {
     "index": 1,
-    "text": "dream",
-    "start": 4.572,
+    "text": "A pleasant dream.",
+    "start": 3.672,
     "end": 5.473,
-    "zh": "梦",
-    "zh_hant": "夢"
+    "zh": "一个美妙的梦。",
+    "zh_hant": "一個美妙的夢。"
   },
   {
     "index": 2,
@@ -28,24 +28,24 @@
     "text": "What would Julie like to do, if",
     "start": 11.676,
     "end": 15.317,
-    "zh": "如果朱莉",
-    "zh_hant": "如果朱莉"
+    "zh": "如果朱莉有钱，",
+    "zh_hant": "如果朱莉有錢，"
   },
   {
     "index": 4,
     "text": "she had the money?",
     "start": 15.018,
     "end": 16.598,
-    "zh": "有钱，她愿意做什么？",
-    "zh_hant": "有錢，她願意做什麼？"
+    "zh": "她想做什么？",
+    "zh_hant": "她想做什麼？"
   },
   {
     "index": 5,
     "text": "Are you doing the football pools, Brain?",
     "start": 18.939,
     "end": 23.001,
-    "zh": "布赖恩，你在填足球彩票吗？",
-    "zh_hant": "布賴恩，你在填足球彩票嗎？"
+    "zh": "布莱恩，你在玩足球彩票吗？",
+    "zh_hant": "布萊恩，你在玩足球彩票嗎？"
   },
   {
     "index": 6,
@@ -76,8 +76,8 @@
     "text": "but we never win anything!",
     "start": 33.187,
     "end": 36.228,
-    "zh": "但咱们从来没赢过！",
-    "zh_hant": "但咱們從來沒贏過！"
+    "zh": "可我们什么也没赢过！",
+    "zh_hant": "可我們什麼也沒贏過！"
   },
   {
     "index": 10,
@@ -140,16 +140,16 @@
     "text": "we'll travel round the world",
     "start": 59.14,
     "end": 61.861,
-    "zh": "我们就环球旅行，",
-    "zh_hant": "我們就環球旅行，"
+    "zh": "我们就环游世界，",
+    "zh_hant": "我們就環遊世界，"
   },
   {
     "index": 18,
     "text": "and we'll stay at the best hotels.",
     "start": 61.721,
     "end": 64.902,
-    "zh": "并且住最好的旅馆。",
-    "zh_hant": "並且住最好的旅館。"
+    "zh": "还要住最好的酒店。",
+    "zh_hant": "還要住最好的酒店。"
   },
   {
     "index": 19,
@@ -164,71 +164,71 @@
     "text": "and buy a big house in the country.",
     "start": 67.824,
     "end": 71.346,
-    "zh": "在乡下买一座大房子。",
-    "zh_hant": "在鄉下買一座大房子。"
+    "zh": "在乡下买一栋大房子。",
+    "zh_hant": "在鄉下買一棟大房子。"
   },
   {
     "index": 21,
     "text": "We'll have a beautiful garden and...",
     "start": 71.866,
     "end": 75.628,
-    "zh": "我们会有一个漂亮的花园，还有……",
-    "zh_hant": "我們會有一個漂亮的花園，還有……"
+    "zh": "我们会有漂亮的花园，还有……",
+    "zh_hant": "我們會有漂亮的花園，還有……"
   },
   {
     "index": 22,
     "text": "But if we spend all that money",
     "start": 75.768,
     "end": 79.049,
-    "zh": "但是如果我们把那些钱都花掉，",
-    "zh_hant": "但是如果我們把那些錢都花掉，"
+    "zh": "但如果我们花光了所有的钱，",
+    "zh_hant": "但如果我們花光了所有的錢，"
   },
   {
     "index": 23,
     "text": "we'll be poor again.",
     "start": 79.05,
     "end": 81.332,
-    "zh": "我们又会变穷了。",
-    "zh_hant": "我們又會變窮了。"
+    "zh": "我们又会变穷。",
+    "zh_hant": "我們又會變窮。"
   },
   {
     "index": 24,
     "text": "What'll we do then?",
     "start": 81.753,
     "end": 84.175,
-    "zh": "那到时候我们该怎么办？",
-    "zh_hant": "那到時候我們該怎麼辦？"
+    "zh": "那到时候我们怎么办？",
+    "zh_hant": "那到時候我們怎麼辦？"
   },
   {
     "index": 25,
     "text": "If we spend all the money",
     "start": 85.257,
     "end": 87.699,
-    "zh": "如果我们把钱都花光，",
-    "zh_hant": "如果我們把錢都花光，"
+    "zh": "如果我们花光了所有的钱，",
+    "zh_hant": "如果我們花光了所有的錢，"
   },
   {
     "index": 26,
     "text": "we'll try and win the football pools again.",
     "start": 87.939,
     "end": 91.522,
-    "zh": "我们就再试着赢一次足球彩票。",
-    "zh_hant": "我們就再試著贏一次足球彩票。"
+    "zh": "我们再去试着赢足球彩票。",
+    "zh_hant": "我們再去試著贏足球彩票。"
   },
   {
     "index": 27,
     "text": "It's a pleasant dream",
     "start": 92.264,
     "end": 94.325,
-    "zh": "这是个愉快的梦，",
-    "zh_hant": "這是個愉快的夢，"
+    "zh": "这真是一个美妙的梦，",
+    "zh_hant": "這真是一個美妙的夢，"
   },
   {
     "index": 28,
     "text": "but everything depends on 'if' !",
     "start": 94.546,
     "end": 98.35,
-    "zh": "但一切都取决于“如果”！",
-    "zh_hant": "但一切都取決於“如果”！"
+    "zh": "但一切都要看‘如果’！",
+    "zh_hant": "但一切都要看‘如果’！"
   }
 ]

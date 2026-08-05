@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 125 Tea",
+    "text": "Lesson 125.",
     "start": 0.55,
-    "end": 4.232,
-    "zh": "第125课 两人喝的茶",
-    "zh_hant": "第125課 兩人喝的茶"
+    "end": 3.342,
+    "zh": "第125课。",
+    "zh_hant": "第125課。"
   },
   {
     "index": 1,
-    "text": "for two",
-    "start": 3.972,
+    "text": "Tea for two.",
+    "start": 3.392,
     "end": 5.172,
-    "zh": "两人喝的茶",
-    "zh_hant": "兩人喝的茶"
+    "zh": "两人喝茶。",
+    "zh_hant": "兩人喝茶。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "Can't you come in and have tea now, Peter?",
     "start": 16.418,
     "end": 20.58,
-    "zh": "彼得，你现在不能进来喝茶吗？",
-    "zh_hant": "彼得，你現在不能進來喝茶嗎？"
+    "zh": "彼得，你现在难道不能进来喝茶吗？",
+    "zh_hant": "彼得，你現在難道不能進來喝茶嗎？"
   },
   {
     "index": 5,
@@ -60,40 +60,40 @@
     "text": "Do you have to water it now?",
     "start": 25.763,
     "end": 28.784,
-    "zh": "你现在非得浇吗？",
-    "zh_hant": "你現在非得澆嗎？"
+    "zh": "你现在非得浇水吗？",
+    "zh_hant": "你現在非得澆水嗎？"
   },
   {
     "index": 8,
     "text": "I'm afraid I must.",
     "start": 29.485,
     "end": 31.425,
-    "zh": "恐怕我得浇。",
-    "zh_hant": "恐怕我得澆。"
+    "zh": "恐怕必须得浇。",
+    "zh_hant": "恐怕必須得澆。"
   },
   {
     "index": 9,
     "text": "Look at it!",
     "start": 31.646,
     "end": 32.806,
-    "zh": "看它！",
-    "zh_hant": "看它！"
+    "zh": "看看它！",
+    "zh_hant": "看看它！"
   },
   {
     "index": 10,
     "text": "It's terribly dry.",
     "start": 33.006,
     "end": 35.207,
-    "zh": "太干了。",
-    "zh_hant": "太乾了。"
+    "zh": "干得厉害。",
+    "zh_hant": "幹得厲害。"
   },
   {
     "index": 11,
     "text": "What a nuisance!",
     "start": 35.428,
     "end": 37.508,
-    "zh": "真讨厌！",
-    "zh_hant": "真討厭！"
+    "zh": "真麻烦！",
+    "zh_hant": "真麻煩！"
   },
   {
     "index": 12,
@@ -124,8 +124,8 @@
     "text": "Well, I'll have tea by myself.",
     "start": 47.475,
     "end": 51.497,
-    "zh": "好吧，我一个人喝茶。",
-    "zh_hant": "好吧，我一個人喝茶。"
+    "zh": "那好吧，我就一个人喝茶。",
+    "zh_hant": "那好吧，我就一個人喝茶。"
   },
   {
     "index": 16,
@@ -140,8 +140,8 @@
     "text": "Have you finished already?",
     "start": 54.659,
     "end": 57.04,
-    "zh": "你已经浇完了吗？",
-    "zh_hant": "你已經澆完了嗎？"
+    "zh": "你已经浇完了？",
+    "zh_hant": "你已經澆完了？"
   },
   {
     "index": 18,
@@ -180,16 +180,16 @@
     "text": "to water the garden.",
     "start": 66.005,
     "end": 67.986,
-    "zh": "给花园浇水了。",
-    "zh_hant": "給花園澆水了。"
+    "zh": "给花园浇水。",
+    "zh_hant": "給花園澆水。"
   },
   {
     "index": 23,
     "text": "That was a pleasant surprise.",
     "start": 68.826,
     "end": 71.588,
-    "zh": "那真是个惊喜。",
-    "zh_hant": "那真是個驚喜。"
+    "zh": "真是个惊喜。",
+    "zh_hant": "真是個驚喜。"
   },
   {
     "index": 24,

@@ -1,0 +1,594 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 43.",
+    "start": 0.55,
+    "end": 3.022,
+    "zh": "第43课。",
+    "zh_hant": "第43課。"
+  },
+  {
+    "index": 1,
+    "text": "Are there strangers in space?",
+    "start": 3.072,
+    "end": 5.693,
+    "zh": "宇宙中有陌生人吗？",
+    "zh_hant": "宇宙中有陌生人嗎？"
+  },
+  {
+    "index": 2,
+    "text": "What does the 'uniquely rational way'",
+    "start": 8.794,
+    "end": 15.277,
+    "zh": "这种‘独特的理性方式’",
+    "zh_hant": "這種‘獨特的理性方式’"
+  },
+  {
+    "index": 3,
+    "text": "for us to communicate with other intelligent beings in space depend on?",
+    "start": 15.358,
+    "end": 20.96,
+    "zh": "我们与宇宙中其他智慧生物交流所依赖的是什么？",
+    "zh_hant": "我們與宇宙中其他智慧生物交流所依賴的是什麼？"
+  },
+  {
+    "index": 4,
+    "text": "We must conclude from the work of those who have studied the origin of life,",
+    "start": 22.801,
+    "end": 27.924,
+    "zh": "我们必须从那些研究生命起源的人的工作中得出结论，",
+    "zh_hant": "我們必須從那些研究生命起源的人的工作中得出結論，"
+  },
+  {
+    "index": 5,
+    "text": "that given a planet only approximately like our own,",
+    "start": 28.364,
+    "end": 32.226,
+    "zh": "如果给一个与我们地球大致相似的行星，",
+    "zh_hant": "如果給一個與我們地球大致相似的行星，"
+  },
+  {
+    "index": 6,
+    "text": "life is almost certain to start.",
+    "start": 32.526,
+    "end": 35.307,
+    "zh": "生命的诞生几乎是必然的。",
+    "zh_hant": "生命的誕生幾乎是必然的。"
+  },
+  {
+    "index": 7,
+    "text": "Of all the planets in our solar system,",
+    "start": 36.088,
+    "end": 39.309,
+    "zh": "在我们太阳系的所有行星中，",
+    "zh_hant": "在我們太陽系的所有行星中，"
+  },
+  {
+    "index": 8,
+    "text": "we are now pretty certain the Earth is the only one on which life can survive.",
+    "start": 39.57,
+    "end": 45.572,
+    "zh": "我们现在相当确定地球是唯一能维持生命的行星。",
+    "zh_hant": "我們現在相當確定地球是唯一能維持生命的行星。"
+  },
+  {
+    "index": 9,
+    "text": "Mars is too dry and poor in oxygen,",
+    "start": 46.392,
+    "end": 49.473,
+    "zh": "火星太干燥且缺氧，",
+    "zh_hant": "火星太乾燥且缺氧，"
+  },
+  {
+    "index": 10,
+    "text": "Venus far too hot, and so is Mercury,",
+    "start": 49.954,
+    "end": 53.615,
+    "zh": "金星太热，水星也是如此，",
+    "zh_hant": "金星太熱，水星也是如此，"
+  },
+  {
+    "index": 11,
+    "text": "and the outer planets have temperatures near absolute zero",
+    "start": 53.955,
+    "end": 58.236,
+    "zh": "而外行星的温度接近绝对零度",
+    "zh_hant": "而外行星的溫度接近絕對零度"
+  },
+  {
+    "index": 12,
+    "text": "and hydrogen-dominated atmospheres.",
+    "start": 58.477,
+    "end": 61.477,
+    "zh": "并且大气以氢为主。",
+    "zh_hant": "並且大氣以氫為主。"
+  },
+  {
+    "index": 13,
+    "text": "But other suns, start as the astronomers call them,",
+    "start": 62.038,
+    "end": 66.459,
+    "zh": "但其他太阳，天文学家称为恒星的东西，",
+    "zh_hant": "但其他太陽，天文學家稱為恆星的東西，"
+  },
+  {
+    "index": 14,
+    "text": "are bound to have planets like our own,",
+    "start": 66.659,
+    "end": 69.54,
+    "zh": "必定会有类似我们地球的行星，",
+    "zh_hant": "必定會有類似我們地球的行星，"
+  },
+  {
+    "index": 15,
+    "text": "and as is the number of stars in the universe is so vast,",
+    "start": 69.7,
+    "end": 73.982,
+    "zh": "而且由于宇宙中恒星的数量极其庞大，",
+    "zh_hant": "而且由於宇宙中恆星的數量極其龐大，"
+  },
+  {
+    "index": 16,
+    "text": "this possibility becomes virtual certainty.",
+    "start": 74.362,
+    "end": 77.903,
+    "zh": "这种可能性就变成了几乎确定的现实。",
+    "zh_hant": "這種可能性就變成了幾乎確定的現實。"
+  },
+  {
+    "index": 17,
+    "text": "There are one hundred thousand million starts in our own Milky Way alone,",
+    "start": 78.223,
+    "end": 84.284,
+    "zh": "仅在我们自己的银河系中就有十万万颗恒星，",
+    "zh_hant": "僅在我們自己的銀河系中就有十萬萬顆恆星，"
+  },
+  {
+    "index": 18,
+    "text": "and then there are three thousand million other milky ways",
+    "start": 84.684,
+    "end": 89.005,
+    "zh": "而且在宇宙中还有三十亿个其他银河系",
+    "zh_hant": "而且在宇宙中還有三十億個其他銀河系"
+  },
+  {
+    "index": 19,
+    "text": "or galaxies, in the universe.",
+    "start": 88.825,
+    "end": 91.725,
+    "zh": "或星系。",
+    "zh_hant": "或星系。"
+  },
+  {
+    "index": 20,
+    "text": "so the number of stars that we know exist",
+    "start": 92.485,
+    "end": 95.926,
+    "zh": "所以我们已知存在的恒星数量",
+    "zh_hant": "所以我們已知存在的恆星數量"
+  },
+  {
+    "index": 21,
+    "text": "is now estimated at about 300 million million.",
+    "start": 95.626,
+    "end": 101.727,
+    "zh": "现在估计约为三万万亿颗。",
+    "zh_hant": "現在估計約為三萬萬億顆。"
+  },
+  {
+    "index": 22,
+    "text": "Although perhaps only 1 percent of the life that has started somewhere",
+    "start": 103.247,
+    "end": 108.028,
+    "zh": "虽然也许只有百分之一的在某个地方开始的生命",
+    "zh_hant": "雖然也許只有百分之一的在某個地方開始的生命"
+  },
+  {
+    "index": 23,
+    "text": "will develop into highly complex and intelligent patterns,",
+    "start": 108.048,
+    "end": 112.189,
+    "zh": "会发展成高度复杂和智慧的模式，",
+    "zh_hant": "會發展成高度複雜和智慧的模式，"
+  },
+  {
+    "index": 24,
+    "text": "so vast is the number of planets,",
+    "start": 112.429,
+    "end": 114.769,
+    "zh": "但行星数量如此之多，",
+    "zh_hant": "但行星數量如此之多，"
+  },
+  {
+    "index": 25,
+    "text": "that intelligent life is bound to be a natural part of the universe.",
+    "start": 115.129,
+    "end": 119.89,
+    "zh": "智慧生命必然是宇宙中的一个自然组成部分。",
+    "zh_hant": "智慧生命必然是宇宙中的一個自然組成部分。"
+  },
+  {
+    "index": 26,
+    "text": "If then we are so certain that other intelligent life exists in the universe,",
+    "start": 120.891,
+    "end": 126.293,
+    "zh": "如果我们如此确定宇宙中存在其他智慧生命，",
+    "zh_hant": "如果我們如此確定宇宙中存在其他智慧生命，"
+  },
+  {
+    "index": 27,
+    "text": "why have we had no visitors from outer space yet?",
+    "start": 126.793,
+    "end": 130.275,
+    "zh": "为什么我们还没有来自外太空的访客呢？",
+    "zh_hant": "為什麼我們還沒有來自外太空的訪客呢？"
+  },
+  {
+    "index": 28,
+    "text": "First of all, they may have come to this planet of ours",
+    "start": 130.855,
+    "end": 135.177,
+    "zh": "首先，他们可能来过我们这个星球",
+    "zh_hant": "首先，他們可能來過我們這個星球"
+  },
+  {
+    "index": 29,
+    "text": "thousands or millions of years ago,",
+    "start": 134.977,
+    "end": 137.518,
+    "zh": "在几千或几百万年前，",
+    "zh_hant": "在幾千或幾百萬年前，"
+  },
+  {
+    "index": 30,
+    "text": "and found our then prevailing primitive state",
+    "start": 138.519,
+    "end": 142.041,
+    "zh": "并发现我们当时盛行的原始状态",
+    "zh_hant": "並發現我們當時盛行的原始狀態"
+  },
+  {
+    "index": 31,
+    "text": "completely uninteresting to their own advanced knowledge.",
+    "start": 141.691,
+    "end": 145.522,
+    "zh": "对他们先进的知识来说完全无趣。",
+    "zh_hant": "對他們先進的知識來說完全無趣。"
+  },
+  {
+    "index": 32,
+    "text": "Professor Ronald Bracewell, a leading American radio astronomer,",
+    "start": 146.343,
+    "end": 151.585,
+    "zh": "美国著名射电天文学家罗纳德·布雷斯韦尔教授，",
+    "zh_hant": "美國著名射電天文學家羅納德·佈雷斯韋爾教授，"
+  },
+  {
+    "index": 33,
+    "text": "argued in Nature that such a superior civilization,",
+    "start": 151.986,
+    "end": 156.808,
+    "zh": "在《自然》杂志上论证说，这样一个高级文明，",
+    "zh_hant": "在《自然》雜誌上論證說，這樣一個高階文明，"
+  },
+  {
+    "index": 34,
+    "text": "on a visit to our own solar system,",
+    "start": 156.928,
+    "end": 159.649,
+    "zh": "在访问我们的太阳系时，",
+    "zh_hant": "在訪問我們的太陽系時，"
+  },
+  {
+    "index": 35,
+    "text": "may have left an automatic messenger behind",
+    "start": 160.09,
+    "end": 163.532,
+    "zh": "可能会留下一个自动信使",
+    "zh_hant": "可能會留下一個自動信使"
+  },
+  {
+    "index": 36,
+    "text": "to await the possible awakening of an advanced civilization.",
+    "start": 163.292,
+    "end": 167.614,
+    "zh": "以等待高级文明可能的觉醒。",
+    "zh_hant": "以等待高階文明可能的覺醒。"
+  },
+  {
+    "index": 37,
+    "text": "Such a messenger, receiving our radio and television signals,",
+    "start": 168.534,
+    "end": 172.996,
+    "zh": "这样一个信使，接收到我们的无线电和电视信号后，",
+    "zh_hant": "這樣一個信使，接收到我們的無線電和電視訊號後，"
+  },
+  {
+    "index": 38,
+    "text": "might well re-transmit them back to its home-planet,",
+    "start": 173.497,
+    "end": 177.659,
+    "zh": "很可能会将它们重新传回它的母星，",
+    "zh_hant": "很可能會將它們重新傳回它的母星，"
+  },
+  {
+    "index": 39,
+    "text": "although what impression any other civilization would thus get from us",
+    "start": 177.819,
+    "end": 182.621,
+    "zh": "尽管其他文明从我们这里得到的印象",
+    "zh_hant": "儘管其他文明從我們這裡得到的印象"
+  },
+  {
+    "index": 40,
+    "text": "is best left unsaid.",
+    "start": 182.781,
+    "end": 184.822,
+    "zh": "最好不提。",
+    "zh_hant": "最好不提。"
+  },
+  {
+    "index": 41,
+    "text": "But here we come up against the most difficult of all",
+    "start": 186.443,
+    "end": 190.085,
+    "zh": "但在这里我们遇到了最困难的一项",
+    "zh_hant": "但在這裡我們遇到了最困難的一項"
+  },
+  {
+    "index": 42,
+    "text": "obstacles to contact with people on other planets",
+    "start": 189.745,
+    "end": 193.2,
+    "zh": "与外星人接触的障碍",
+    "zh_hant": "與外星人接觸的障礙"
+  },
+  {
+    "index": 43,
+    "text": "-- the astronomical distances which separate us.",
+    "start": 192.8,
+    "end": 197.829,
+    "zh": "——分隔我们的天文距离。",
+    "zh_hant": "——分隔我們的天文距離。"
+  },
+  {
+    "index": 44,
+    "text": "As a reasonable guess, they might,",
+    "start": 198.469,
+    "end": 201.611,
+    "zh": "作为一个合理的猜测，他们可能",
+    "zh_hant": "作為一個合理的猜測，他們可能"
+  },
+  {
+    "index": 45,
+    "text": "on an average, be 100 light years away.",
+    "start": 201.711,
+    "end": 205.673,
+    "zh": "平均距离我们100光年。",
+    "zh_hant": "平均距離我們100光年。"
+  },
+  {
+    "index": 46,
+    "text": "(A light year is the distance which light travels at 186,",
+    "start": 206.333,
+    "end": 210.69,
+    "zh": "（一光年是光以每秒186",
+    "zh_hant": "（一光年是光以每秒186"
+  },
+  {
+    "index": 47,
+    "text": "000 miles per second in one year,",
+    "start": 210.34,
+    "end": 213.817,
+    "zh": "000英里的速度在一年内传播的距离，",
+    "zh_hant": "000英里的速度在一年內傳播的距離，"
+  },
+  {
+    "index": 48,
+    "text": "namely 6 million miles.)",
+    "start": 214.137,
+    "end": 217.879,
+    "zh": "即6万亿英里。）",
+    "zh_hant": "即6萬億英里。）"
+  },
+  {
+    "index": 49,
+    "text": "Radio waves also travel at the speed of light,",
+    "start": 218.419,
+    "end": 221.621,
+    "zh": "无线电波也以光速传播，",
+    "zh_hant": "無線電波也以光速傳播，"
+  },
+  {
+    "index": 50,
+    "text": "and assuming such an automatic messenger picked up our first broadcasts of the 1920's,",
+    "start": 222.041,
+    "end": 228.344,
+    "zh": "假设这样的自动信使接收了我们20世纪20年代的第一次广播，",
+    "zh_hant": "假設這樣的自動信使接收了我們20世紀20年代的第一次廣播，"
+  },
+  {
+    "index": 51,
+    "text": "the message to its home planet is barely halfway there.",
+    "start": 228.704,
+    "end": 232.686,
+    "zh": "发给其母星的消息才刚刚走了一半路程。",
+    "zh_hant": "發給其母星的訊息才剛剛走了一半路程。"
+  },
+  {
+    "index": 52,
+    "text": "Similarly, our own present primitive chemical rockets,",
+    "start": 233.527,
+    "end": 238.249,
+    "zh": "同样，我们目前原始的化学火箭，",
+    "zh_hant": "同樣，我們目前原始的化學火箭，"
+  },
+  {
+    "index": 53,
+    "text": "though good enough to orbit men,",
+    "start": 238.249,
+    "end": 241.031,
+    "zh": "虽然足以将人送入轨道，",
+    "zh_hant": "雖然足以將人送入軌道，"
+  },
+  {
+    "index": 54,
+    "text": "have no chance of transporting us to the nearest other star,",
+    "start": 241.311,
+    "end": 245.953,
+    "zh": "却不可能把我们送到最近的其他恒星，",
+    "zh_hant": "卻不可能把我們送到最近的其他恆星，"
+  },
+  {
+    "index": 55,
+    "text": "four light years away,",
+    "start": 245.953,
+    "end": 247.834,
+    "zh": "距离我们四光年远的地方，",
+    "zh_hant": "距離我們四光年遠的地方，"
+  },
+  {
+    "index": 56,
+    "text": "let alone distances of tens or hundreds of light years.",
+    "start": 248.134,
+    "end": 252.877,
+    "zh": "更不用说几十或几百光年的距离了。",
+    "zh_hant": "更不用說幾十或幾百光年的距離了。"
+  },
+  {
+    "index": 57,
+    "text": "Fortunately, there is a 'uniquely rational way'",
+    "start": 253.777,
+    "end": 259.32,
+    "zh": "幸运的是，有一种‘独特的理性方式’",
+    "zh_hant": "幸運的是，有一種‘獨特的理性方式’"
+  },
+  {
+    "index": 58,
+    "text": "for us to communicate with other intelligent beings,",
+    "start": 259.08,
+    "end": 262.261,
+    "zh": "让我们与其他智慧生物交流，",
+    "zh_hant": "讓我們與其他智慧生物交流，"
+  },
+  {
+    "index": 59,
+    "text": "as Walter Sullivan has put it in his excellent book, We Are not Alone.",
+    "start": 262.301,
+    "end": 268.244,
+    "zh": "正如沃尔特·沙利文在他的优秀著作《我们并不孤独》中所说。",
+    "zh_hant": "正如沃爾特·沙利文在他的優秀著作《我們並不孤獨》中所說。"
+  },
+  {
+    "index": 60,
+    "text": "This depends on the precise radio frequency",
+    "start": 268.564,
+    "end": 272.246,
+    "zh": "这取决于精确的无线电频率",
+    "zh_hant": "這取決於精確的無線電頻率"
+  },
+  {
+    "index": 61,
+    "text": "of the 21-cm wavelength,",
+    "start": 272.486,
+    "end": 275.287,
+    "zh": "即21厘米波长，",
+    "zh_hant": "即21釐米波長，"
+  },
+  {
+    "index": 62,
+    "text": "or 1420 megacycles per second.",
+    "start": 275.788,
+    "end": 280.831,
+    "zh": "或每秒1420兆周。",
+    "zh_hant": "或每秒1420兆周。"
+  },
+  {
+    "index": 63,
+    "text": "It is the natural frequency of emission of the hydrogen atoms in space",
+    "start": 281.371,
+    "end": 286.573,
+    "zh": "这是宇宙中氢原子发射的自然频率",
+    "zh_hant": "這是宇宙中氫原子發射的自然頻率"
+  },
+  {
+    "index": 64,
+    "text": "and was discovered by us in 1951;",
+    "start": 286.714,
+    "end": 290.246,
+    "zh": "并且在1951年被我们发现；",
+    "zh_hant": "並且在1951年被我們發現；"
+  },
+  {
+    "index": 65,
+    "text": "it must be known to any kind of radio astronomer in the universe.",
+    "start": 290.296,
+    "end": 294.657,
+    "zh": "宇宙中任何种类的射电天文学家必定都知道这一点。",
+    "zh_hant": "宇宙中任何種類的射電天文學家必定都知道這一點。"
+  },
+  {
+    "index": 66,
+    "text": "Once the existence of this wave-length had been discovered,",
+    "start": 295.858,
+    "end": 299.6,
+    "zh": "一旦这种波长的存在被发现，",
+    "zh_hant": "一旦這種波長的存在被發現，"
+  },
+  {
+    "index": 67,
+    "text": "it was not long before",
+    "start": 299.82,
+    "end": 301.781,
+    "zh": "不久之后",
+    "zh_hant": "不久之後"
+  },
+  {
+    "index": 68,
+    "text": "its use as the uniquely recognizable broadcasting frequency",
+    "start": 301.431,
+    "end": 305.783,
+    "zh": "它作为一种独特可识别的广播频率",
+    "zh_hant": "它作為一種獨特可識別的廣播頻率"
+  },
+  {
+    "index": 69,
+    "text": "for interstellar communication was suggested.",
+    "start": 305.703,
+    "end": 308.964,
+    "zh": "用于星际交流的建议就被提出了。",
+    "zh_hant": "用於星際交流的建議就被提出了。"
+  },
+  {
+    "index": 70,
+    "text": "Without something of this kind,",
+    "start": 309.285,
+    "end": 311.426,
+    "zh": "没有这类东西，",
+    "zh_hant": "沒有這類東西，"
+  },
+  {
+    "index": 71,
+    "text": "searching for intelligences on other planets would be like trying",
+    "start": 311.526,
+    "end": 316.108,
+    "zh": "在其他行星上寻找智慧生命就像试图",
+    "zh_hant": "在其他行星上尋找智慧生命就像試圖"
+  },
+  {
+    "index": 72,
+    "text": "to meet a friend in London without a pre-arranged rendezvous",
+    "start": 315.758,
+    "end": 319.73,
+    "zh": "在没有预先约定的情况下在伦敦见朋友",
+    "zh_hant": "在沒有預先約定的情況下在倫敦見朋友"
+  },
+  {
+    "index": 73,
+    "text": "and absurdly wandering the streets in the hope of a chance encounter.",
+    "start": 319.41,
+    "end": 324.349,
+    "zh": "并且荒谬地在街上乱逛，希望偶然相遇。",
+    "zh_hant": "並且荒謬地在街上亂逛，希望偶然相遇。"
+  }
+]

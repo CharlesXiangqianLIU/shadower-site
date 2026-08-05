@@ -1,38 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Lesson 39 Nothing to worry about What was the differnce between Bruce's behaviour and that of other people?",
+    "text": "Lesson 39.",
     "start": 0.33,
-    "end": 16.778,
-    "zh": "第39课 没什么可担心的 布鲁斯的行为和其他人有什么不同？",
-    "zh_hant": "第39課 沒什麼可擔心的 布魯斯的行為和其他人有什麼不同？"
+    "end": 2.161,
+    "zh": "第39课。",
+    "zh_hant": "第39課。"
   },
   {
     "index": 1,
-    "text": "The rough road across the plain soon became so bad",
-    "start": 18.559,
-    "end": 22.901,
-    "zh": "穿过平原的崎岖道路很快就变得非常糟糕",
-    "zh_hant": "穿過平原的崎嶇道路很快就變得非常糟糕"
+    "text": "Nothing to worry about.",
+    "start": 2.211,
+    "end": 9.054,
+    "zh": "没什么好担心的。",
+    "zh_hant": "沒什麼好擔心的。"
   },
   {
     "index": 2,
-    "text": "that we tried to get Bruce to drive back to the village we had come from.",
-    "start": 23.042,
-    "end": 27.644,
-    "zh": "以至于我们试图让布鲁斯把车开回我们来的那个村子。",
-    "zh_hant": "以至於我們試圖讓布魯斯把車開回我們來的那個村子。"
+    "text": "What was the differnce between Bruce's behaviour and that of other people?",
+    "start": 10.956,
+    "end": 16.778,
+    "zh": "布鲁斯的行为和别人的行为有什么不同？",
+    "zh_hant": "布魯斯的行為和別人的行為有什麼不同？"
   },
   {
     "index": 3,
-    "text": "Even though the road was littered with boulders and pitted with holes,",
-    "start": 28.444,
-    "end": 33.466,
-    "zh": "尽管路上布满了大石头，坑坑洼洼",
-    "zh_hant": "儘管路上佈滿了大石頭，坑坑窪窪"
+    "text": "The rough road across the plain soon became so bad",
+    "start": 18.559,
+    "end": 22.901,
+    "zh": "穿过平原的崎岖道路很快就变得非常糟糕，",
+    "zh_hant": "穿過平原的崎嶇道路很快就變得非常糟糕，"
   },
   {
     "index": 4,
+    "text": "that we tried to get Bruce to drive back to the village we had come from.",
+    "start": 23.042,
+    "end": 27.644,
+    "zh": "以至于我们试图让布鲁斯开车回到我们来的那个村子。",
+    "zh_hant": "以至於我們試圖讓布魯斯開車回到我們來的那個村子。"
+  },
+  {
+    "index": 5,
+    "text": "Even though the road was littered with boulders and pitted with holes,",
+    "start": 28.444,
+    "end": 33.466,
+    "zh": "尽管路上布满巨石，坑坑洼洼，",
+    "zh_hant": "儘管路上佈滿巨石，坑坑窪窪，"
+  },
+  {
+    "index": 6,
     "text": "Bruce was not in the least perturbed.",
     "start": 33.747,
     "end": 37.068,
@@ -40,23 +56,23 @@
     "zh_hant": "布魯斯卻一點也不慌張。"
   },
   {
-    "index": 5,
-    "text": "Glancing at his map, he informed us that the next village",
-    "start": 37.609,
-    "end": 42.351,
-    "zh": "他瞥了一眼地图，告诉我们下一个村子",
-    "zh_hant": "他瞥了一眼地圖，告訴我們下一個村子"
-  },
-  {
-    "index": 6,
-    "text": "was a mere twenty miles away.",
-    "start": 42.372,
-    "end": 45.033,
-    "zh": "只有二十英里远。",
-    "zh_hant": "只有二十英里遠。"
-  },
-  {
     "index": 7,
+    "text": "Glancing at his map, he informed us",
+    "start": 37.609,
+    "end": 41.011,
+    "zh": "他瞥了一眼地图，告诉我们",
+    "zh_hant": "他瞥了一眼地圖，告訴我們"
+  },
+  {
+    "index": 8,
+    "text": "that the next village was a mere twenty miles away.",
+    "start": 40.661,
+    "end": 45.033,
+    "zh": "下一个村庄只有二十英里远。",
+    "zh_hant": "下一個村莊只有二十英里遠。"
+  },
+  {
+    "index": 9,
     "text": "It was not that Bruce always underestimated difficulties.",
     "start": 45.573,
     "end": 49.595,
@@ -64,55 +80,55 @@
     "zh_hant": "這並不是說布魯斯總是低估困難。"
   },
   {
-    "index": 8,
+    "index": 10,
     "text": "He simply had no sense of danger at all.",
     "start": 49.715,
     "end": 53.117,
-    "zh": "他根本毫无危险感。",
-    "zh_hant": "他根本毫無危險感。"
-  },
-  {
-    "index": 9,
-    "text": "No matter what the conditions were,",
-    "start": 53.837,
-    "end": 56.158,
-    "zh": "无论条件如何",
-    "zh_hant": "無論條件如何"
-  },
-  {
-    "index": 10,
-    "text": "he believed that a car should be driven as fast as it could possibly go.",
-    "start": 56.439,
-    "end": 61.781,
-    "zh": "他都相信车应该尽可能快地开。",
-    "zh_hant": "他都相信車應該儘可能快地開。"
+    "zh": "他根本就没有危险意识。",
+    "zh_hant": "他根本就沒有危險意識。"
   },
   {
     "index": 11,
-    "text": "As we bumped over the dusty track, we swerved to avoid large boulders.",
-    "start": 62.542,
-    "end": 68.224,
-    "zh": "我们在尘土飞扬的路上颠簸前行，急转弯躲避大石头。",
-    "zh_hant": "我們在塵土飛揚的路上顛簸前行，急轉彎躲避大石頭。"
+    "text": "No matter what the conditions were,",
+    "start": 53.837,
+    "end": 56.158,
+    "zh": "不管路况如何，",
+    "zh_hant": "不管路況如何，"
   },
   {
     "index": 12,
-    "text": "The wheels scooped up stones which hammered ominously under the car.",
-    "start": 68.444,
-    "end": 74.187,
-    "zh": "车轮卷起石头，在车下发出不祥的砰砰声。",
-    "zh_hant": "車輪捲起石頭，在車下發出不祥的砰砰聲。"
+    "text": "he believed that a car should be driven as fast as it could possibly go.",
+    "start": 56.439,
+    "end": 61.781,
+    "zh": "他都认为车应该开得尽可能快。",
+    "zh_hant": "他都認為車應該開得儘可能快。"
   },
   {
     "index": 13,
-    "text": "We felt sure that sooner or later a stone would rip a hole in our petrol tank",
-    "start": 74.868,
-    "end": 81.291,
-    "zh": "我们确信迟早会有石头划破我们的油箱",
-    "zh_hant": "我們確信遲早會有石頭劃破我們的油箱"
+    "text": "As we bumped over the dusty track, we swerved to avoid large boulders.",
+    "start": 62.542,
+    "end": 68.224,
+    "zh": "我们在尘土飞扬的小路上颠簸时，急转弯躲避大石头。",
+    "zh_hant": "我們在塵土飛揚的小路上顛簸時，急轉彎躲避大石頭。"
   },
   {
     "index": 14,
+    "text": "The wheels scooped up stones which hammered ominously under the car.",
+    "start": 68.444,
+    "end": 74.187,
+    "zh": "车轮卷起石头，在车下发出不祥的撞击声。",
+    "zh_hant": "車輪捲起石頭，在車下發出不祥的撞擊聲。"
+  },
+  {
+    "index": 15,
+    "text": "We felt sure that sooner or later a stone would rip a hole in our petrol tank",
+    "start": 74.868,
+    "end": 81.291,
+    "zh": "我们确信迟早会有石头划破油箱，",
+    "zh_hant": "我們確信遲早會有石頭劃破油箱，"
+  },
+  {
+    "index": 16,
     "text": "or damage the engine.",
     "start": 81.131,
     "end": 82.852,
@@ -120,63 +136,63 @@
     "zh_hant": "或者損壞發動機。"
   },
   {
-    "index": 15,
+    "index": 17,
     "text": "Because of this, we kept looking back,",
     "start": 83.332,
     "end": 86.454,
-    "zh": "因此，我们不断回头看",
-    "zh_hant": "因此，我們不斷回頭看"
-  },
-  {
-    "index": 16,
-    "text": "wondering if we were leaving a trail of oil and petrol behind us.",
-    "start": 86.554,
-    "end": 91.256,
-    "zh": "想知道我们是否在身后留下了一条油迹。",
-    "zh_hant": "想知道我們是否在身後留下了一條油跡。"
-  },
-  {
-    "index": 17,
-    "text": "What a relief it was when the boulders suddenly disappeared,",
-    "start": 93.217,
-    "end": 97.239,
-    "zh": "当大石头突然消失时，我们多么松了一口气",
-    "zh_hant": "當大石頭突然消失時，我們多麼鬆了一口氣"
+    "zh": "因此，我们不停地回头看，",
+    "zh_hant": "因此，我們不停地回頭看，"
   },
   {
     "index": 18,
-    "text": "giving way to a stretch of plain where the only obstacles were clumps bushes.",
-    "start": 97.439,
-    "end": 103.442,
-    "zh": "取而代之的是一片平原，唯一的障碍是丛生的灌木。",
-    "zh_hant": "取而代之的是一片平原，唯一的障礙是叢生的灌木。"
+    "text": "wondering if we were leaving a trail of oil and petrol behind us.",
+    "start": 86.554,
+    "end": 91.256,
+    "zh": "想知道我们是否在后面留下了一串油迹。",
+    "zh_hant": "想知道我們是否在後面留下了一串油跡。"
   },
   {
     "index": 19,
-    "text": "But there was worse to come.",
-    "start": 104.563,
-    "end": 106.443,
-    "zh": "但更糟糕的还在后头。",
-    "zh_hant": "但更糟糕的還在後頭。"
+    "text": "What a relief it was when the boulders suddenly disappeared,",
+    "start": 93.217,
+    "end": 97.239,
+    "zh": "当巨石突然消失时，我们感到多么轻松啊，",
+    "zh_hant": "當巨石突然消失時，我們感到多麼輕鬆啊，"
   },
   {
     "index": 20,
-    "text": "Just ahead of us there was a huge fissure.",
-    "start": 106.924,
-    "end": 111.026,
-    "zh": "就在我们前方有一条巨大的裂缝。",
-    "zh_hant": "就在我們前方有一條巨大的裂縫。"
+    "text": "giving way to a stretch of plain where the only obstacles were clumps bushes.",
+    "start": 97.439,
+    "end": 103.442,
+    "zh": "眼前出现了一片平原，唯一的障碍就是几丛灌木。",
+    "zh_hant": "眼前出現了一片平原，唯一的障礙就是幾叢灌木。"
   },
   {
     "index": 21,
-    "text": "In response to renewed pleadings, Bruce stopped.",
-    "start": 111.786,
-    "end": 116.008,
-    "zh": "在我们一再恳求下，布鲁斯停了下来。",
-    "zh_hant": "在我們一再懇求下，布魯斯停了下來。"
+    "text": "But there was worse to come.",
+    "start": 104.563,
+    "end": 106.443,
+    "zh": "但更糟的还在后面。",
+    "zh_hant": "但更糟的還在後面。"
   },
   {
     "index": 22,
+    "text": "Just ahead of us there was a huge fissure.",
+    "start": 106.924,
+    "end": 111.026,
+    "zh": "就在我们前方，有一条巨大的裂缝。",
+    "zh_hant": "就在我們前方，有一條巨大的裂縫。"
+  },
+  {
+    "index": 23,
+    "text": "In response to renewed pleadings, Bruce stopped.",
+    "start": 111.786,
+    "end": 116.008,
+    "zh": "由于我们一再恳求，布鲁斯停了下来。",
+    "zh_hant": "由於我們一再懇求，布魯斯停了下來。"
+  },
+  {
+    "index": 24,
     "text": "Though we all got out to examine the fissure, he remained in the car.",
     "start": 116.789,
     "end": 121.511,
@@ -184,15 +200,15 @@
     "zh_hant": "儘管我們都下車去檢查裂縫，他卻留在車裡。"
   },
   {
-    "index": 23,
+    "index": 25,
     "text": "We informed him that the fissure extended for fifty yards",
     "start": 121.972,
     "end": 126.994,
-    "zh": "我们告诉他裂缝延伸了五十码",
-    "zh_hant": "我們告訴他裂縫延伸了五十碼"
+    "zh": "我们告诉他，裂缝延伸了五十码，",
+    "zh_hant": "我們告訴他，裂縫延伸了五十碼，"
   },
   {
-    "index": 24,
+    "index": 26,
     "text": "and was two feet wide and four feet deep.",
     "start": 126.974,
     "end": 130.796,
@@ -200,39 +216,39 @@
     "zh_hant": "有兩英尺寬，四英尺深。"
   },
   {
-    "index": 25,
+    "index": 27,
     "text": "Even this had no effect.",
     "start": 131.296,
     "end": 134.177,
-    "zh": "即使这样也无济于事。",
-    "zh_hant": "即使這樣也無濟於事。"
-  },
-  {
-    "index": 26,
-    "text": "Bruce went into a low gear and drove at a terrifying speed,",
-    "start": 134.858,
-    "end": 140.3,
-    "zh": "布鲁斯挂上低速挡，以惊人的速度开过去",
-    "zh_hant": "布魯斯掛上低速擋，以驚人的速度開過去"
-  },
-  {
-    "index": 27,
-    "text": "keeping the front wheels astride the crack as he followed its zigzag course.",
-    "start": 140.581,
-    "end": 146.463,
-    "zh": "让前轮跨在裂缝两侧，沿着它曲折的路线行駛。",
-    "zh_hant": "讓前輪跨在裂縫兩側，沿著它曲折的路線行駛。"
+    "zh": "即使这样也没有效果。",
+    "zh_hant": "即使這樣也沒有效果。"
   },
   {
     "index": 28,
-    "text": "Before we had time to worry about what might happen, we were back on the plain again.",
-    "start": 147.164,
-    "end": 153.247,
-    "zh": "我们还没来得及担心可能发生什么，就又回到了平原上。",
-    "zh_hant": "我們還沒來得及擔心可能發生什麼，就又回到了平原上。"
+    "text": "Bruce went into a low gear and drove at a terrifying speed,",
+    "start": 134.858,
+    "end": 140.3,
+    "zh": "布鲁斯挂上低速挡，以可怕的速度行驶，",
+    "zh_hant": "布魯斯掛上低速擋，以可怕的速度行駛，"
   },
   {
     "index": 29,
+    "text": "keeping the front wheels astride the crack as he followed its zigzag course.",
+    "start": 140.581,
+    "end": 146.463,
+    "zh": "让前轮跨在裂缝两侧，沿着之字形的路线前进。",
+    "zh_hant": "讓前輪跨在裂縫兩側，沿著之字形的路線前進。"
+  },
+  {
+    "index": 30,
+    "text": "Before we had time to worry about what might happen, we were back on the plain again.",
+    "start": 147.164,
+    "end": 153.247,
+    "zh": "我们还没来得及担心会发生什么，就重新回到了平原上。",
+    "zh_hant": "我們還沒來得及擔心會發生什麼，就重新回到了平原上。"
+  },
+  {
+    "index": 31,
     "text": "Bruce consulted the map once more and told us",
     "start": 154.668,
     "end": 158.669,
@@ -240,43 +256,43 @@
     "zh_hant": "布魯斯再次檢視地圖，告訴我們"
   },
   {
-    "index": 30,
+    "index": 32,
     "text": "that the village was now only fifteen miles away.",
     "start": 158.349,
     "end": 162.393,
-    "zh": "那个村子现在只有十五英里远了。",
-    "zh_hant": "那個村子現在只有十五英里遠了。"
-  },
-  {
-    "index": 31,
-    "text": "Our next obstacle was a shallow pool of water about half a mile across.",
-    "start": 163.194,
-    "end": 168.717,
-    "zh": "我们的下一个障碍是一片约半英里宽的浅水洼。",
-    "zh_hant": "我們的下一個障礙是一片約半英里寬的淺水窪。"
-  },
-  {
-    "index": 32,
-    "text": "Bruce charged at it, but in the middle, the car came to a grinding halt.",
-    "start": 169.138,
-    "end": 175.122,
-    "zh": "布鲁斯冲了过去，但到了中间，车嘎吱一声停了下来。",
-    "zh_hant": "布魯斯衝了過去，但到了中間，車嘎吱一聲停了下來。"
+    "zh": "村庄现在只有十五英里远了。",
+    "zh_hant": "村莊現在只有十五英里遠了。"
   },
   {
     "index": 33,
-    "text": "A yellow light on the dashboard flashed angrily",
-    "start": 175.923,
-    "end": 179.686,
-    "zh": "仪表盘上的一盏黄灯愤怒地闪着",
-    "zh_hant": "儀表盤上的一盞黃燈憤怒地閃著"
+    "text": "Our next obstacle was a shallow pool of water about half a mile across.",
+    "start": 163.194,
+    "end": 168.717,
+    "zh": "我们的下一个障碍是一个约半英里宽的浅水池。",
+    "zh_hant": "我們的下一個障礙是一個約半英里寬的淺水池。"
   },
   {
     "index": 34,
+    "text": "Bruce charged at it, but in the middle, the car came to a grinding halt.",
+    "start": 169.138,
+    "end": 175.122,
+    "zh": "布鲁斯猛冲过去，但到了中间，车嘎吱一声停了下来。",
+    "zh_hant": "布魯斯猛衝過去，但到了中間，車嘎吱一聲停了下來。"
+  },
+  {
+    "index": 35,
+    "text": "A yellow light on the dashboard flashed angrily",
+    "start": 175.923,
+    "end": 179.686,
+    "zh": "仪表盘上的黄色指示灯愤怒地闪烁着，",
+    "zh_hant": "儀表盤上的黃色指示燈憤怒地閃爍著，"
+  },
+  {
+    "index": 36,
     "text": "and Bruce cheerfully announced that there was no oil in the engine!",
     "start": 179.846,
     "end": 185.11,
-    "zh": "布鲁斯兴高采烈地宣布发动机里没有油了！",
-    "zh_hant": "布魯斯興高采烈地宣佈發動機裡沒有油了！"
+    "zh": "布鲁斯兴高采烈地宣布，发动机里没油了！",
+    "zh_hant": "布魯斯興高采烈地宣佈，發動機裡沒油了！"
   }
 ]

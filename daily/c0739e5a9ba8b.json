@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 141 Sally's",
+    "text": "Lesson 141.",
     "start": 1.51,
-    "end": 5.692,
-    "zh": "第141课 萨莉的",
-    "zh_hant": "第141課 薩莉的"
+    "end": 4.662,
+    "zh": "第141课。",
+    "zh_hant": "第141課。"
   },
   {
     "index": 1,
-    "text": "first train ride",
-    "start": 5.472,
+    "text": "Sally's first train ride.",
+    "start": 4.712,
     "end": 7.153,
-    "zh": "第一次坐火车",
-    "zh_hant": "第一次坐火車"
+    "zh": "萨莉的第一次乘火车旅行。",
+    "zh_hant": "薩莉的第一次乘火車旅行。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 8.974,
     "end": 12.215,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
+    "zh": "听录音，然后回答问题。",
+    "zh_hant": "聽錄音，然後回答問題。"
   },
   {
     "index": 3,
@@ -41,27 +41,27 @@
   },
   {
     "index": 5,
-    "text": "my four-year-old daughter,",
+    "text": "my four-year-old daughter, Sally,",
     "start": 20.66,
-    "end": 22.9,
-    "zh": "我四岁的女儿，",
-    "zh_hant": "我四歲的女兒，"
+    "end": 23.681,
+    "zh": "我四岁的女儿萨莉",
+    "zh_hant": "我四歲的女兒薩莉"
   },
   {
     "index": 6,
-    "text": "Sally, was invited to a children's party.",
-    "start": 22.821,
+    "text": "was invited to a children's party.",
+    "start": 23.921,
     "end": 26.362,
-    "zh": "萨莉，应邀参加了一个儿童聚会。",
-    "zh_hant": "薩莉，應邀參加了一個兒童聚會。"
+    "zh": "应邀参加一个儿童聚会。",
+    "zh_hant": "應邀參加一個兒童聚會。"
   },
   {
     "index": 7,
     "text": "I decided to take her by train.",
     "start": 27.223,
     "end": 29.684,
-    "zh": "我决定带她坐火车去。",
-    "zh_hant": "我決定帶她坐火車去。"
+    "zh": "我决定带她乘火车去。",
+    "zh_hant": "我決定帶她乘火車去。"
   },
   {
     "index": 8,
@@ -84,16 +84,16 @@
     "text": "She sat near the window",
     "start": 36.988,
     "end": 39.048,
-    "zh": "她坐在窗边，",
-    "zh_hant": "她坐在窗邊，"
+    "zh": "她坐在靠窗的位置，",
+    "zh_hant": "她坐在靠窗的位置，"
   },
   {
     "index": 11,
     "text": "and asked questions about everything she saw.",
     "start": 39.089,
     "end": 42.811,
-    "zh": "看到什么就问什么。",
-    "zh_hant": "看到什麼就問什麼。"
+    "zh": "对所看到的一切都问个不停。",
+    "zh_hant": "對所看到的一切都問個不停。"
   },
   {
     "index": 12,
@@ -124,16 +124,16 @@
     "text": "Sally did not answer, but looked at her curiously.",
     "start": 54.397,
     "end": 58.358,
-    "zh": "萨莉没有回答，而是好奇地看着她。",
-    "zh_hant": "薩莉沒有回答，而是好奇地看著她。"
+    "zh": "萨莉没有回答，只是好奇地看着她。",
+    "zh_hant": "薩莉沒有回答，只是好奇地看著她。"
   },
   {
     "index": 16,
     "text": "The lady was dressed in a blue coat",
     "start": 59.279,
     "end": 62.0,
-    "zh": "那位女士穿着一件蓝色外套，",
-    "zh_hant": "那位女士穿著一件藍色外套，"
+    "zh": "那位女士穿着一件蓝大衣，",
+    "zh_hant": "那位女士穿著一件藍大衣，"
   },
   {
     "index": 17,
@@ -156,32 +156,32 @@
     "text": "the lady opened her handbag and took",
     "start": 68.764,
     "end": 71.865,
-    "zh": "那位女士打开手提包，取出",
-    "zh_hant": "那位女士開啟手提包，取出"
+    "zh": "那位女士打开她的手提包，拿出",
+    "zh_hant": "那位女士開啟她的手提包，拿出"
   },
   {
     "index": 20,
     "text": "out her powder compact.",
     "start": 71.515,
     "end": 73.466,
-    "zh": "她的粉饼盒。",
-    "zh_hant": "她的粉餅盒。"
+    "zh": "她的粉盒。",
+    "zh_hant": "她的粉盒。"
   },
   {
     "index": 21,
     "text": "She then began to make up her face.",
     "start": 74.306,
     "end": 76.987,
-    "zh": "然后她开始往脸上化妆。",
-    "zh_hant": "然後她開始往臉上化妝。"
+    "zh": "然后她开始化妆。",
+    "zh_hant": "然後她開始化妝。"
   },
   {
     "index": 22,
     "text": "'Why are you doing that?'",
     "start": 77.088,
     "end": 81.43,
-    "zh": "“你为什么那样做？”",
-    "zh_hant": "“你為什麼那樣做？”"
+    "zh": "“你为什么要那样做？”",
+    "zh_hant": "“你為什麼要那樣做？”"
   },
   {
     "index": 23,
@@ -212,16 +212,16 @@
     "text": "She put away her compact and smiled kindly.",
     "start": 89.418,
     "end": 93.1,
-    "zh": "她收起粉饼盒，和蔼地笑了笑。",
-    "zh_hant": "她收起粉餅盒，和藹地笑了笑。"
+    "zh": "她收起粉盒，和蔼地笑了笑。",
+    "zh_hant": "她收起粉盒，和藹地笑了笑。"
   },
   {
     "index": 27,
     "text": "'But you are still ugly,'",
     "start": 92.881,
     "end": 96.684,
-    "zh": "“可你还是丑，”",
-    "zh_hant": "“可你還是醜，”"
+    "zh": "“但你还是很丑，”",
+    "zh_hant": "“但你還是很醜，”"
   },
   {
     "index": 28,
@@ -236,8 +236,8 @@
     "text": "Sally was amused,",
     "start": 98.626,
     "end": 100.267,
-    "zh": "萨莉觉得好玩，",
-    "zh_hant": "薩莉覺得好玩，"
+    "zh": "萨莉觉得很有趣，",
+    "zh_hant": "薩莉覺得很有趣，"
   },
   {
     "index": 30,

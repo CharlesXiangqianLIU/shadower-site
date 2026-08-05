@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 91 Poor Ian!",
+    "text": "Lesson 91.",
     "start": 0.871,
-    "end": 5.052,
-    "zh": "第91课 可怜的伊恩！",
-    "zh_hant": "第91課 可憐的伊恩！"
+    "end": 3.302,
+    "zh": "第91课。",
+    "zh_hant": "第91課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then",
-    "start": 6.233,
-    "end": 9.115,
-    "zh": "听磁带录音，然后",
-    "zh_hant": "聽磁帶錄音，然後"
+    "text": "Poor Ian!",
+    "start": 3.352,
+    "end": 5.052,
+    "zh": "可怜的伊恩！",
+    "zh_hant": "可憐的伊恩！"
   },
   {
     "index": 2,
+    "text": "Listen to the tape then",
+    "start": 6.233,
+    "end": 9.115,
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
+  },
+  {
+    "index": 3,
     "text": "answer this question.",
     "start": 8.895,
     "end": 10.895,
@@ -24,15 +32,15 @@
     "zh_hant": "回答這個問題。"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Who wanted to sell the house?",
     "start": 12.116,
     "end": 15.258,
-    "zh": "谁想卖掉这栋房子？",
-    "zh_hant": "誰想賣掉這棟房子？"
+    "zh": "谁想卖房子？",
+    "zh_hant": "誰想賣房子？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Has Ian sold his house yet?",
     "start": 17.559,
     "end": 20.541,
@@ -40,15 +48,15 @@
     "zh_hant": "伊恩已經賣掉他的房子了嗎？"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "Yes, he has.",
     "start": 21.241,
     "end": 23.182,
-    "zh": "是的，他已经卖掉了。",
-    "zh_hant": "是的，他已經賣掉了。"
+    "zh": "是的，他卖掉了。",
+    "zh_hant": "是的，他賣掉了。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "He sold it last week.",
     "start": 23.162,
     "end": 25.863,
@@ -56,15 +64,15 @@
     "zh_hant": "他上週賣掉的。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Has he moved to his new house yet?",
     "start": 26.844,
     "end": 30.666,
-    "zh": "他已经搬进新家了吗？",
-    "zh_hant": "他已經搬進新家了嗎？"
+    "zh": "他已经搬进新房子了吗？",
+    "zh_hant": "他已經搬進新房子了嗎？"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "No, not yet.",
     "start": 31.446,
     "end": 33.587,
@@ -72,15 +80,15 @@
     "zh_hant": "還沒有。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "He's still here.",
     "start": 33.768,
     "end": 35.648,
-    "zh": "他还在这里。",
-    "zh_hant": "他還在這裡。"
+    "zh": "他还在这儿。",
+    "zh_hant": "他還在這兒。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "He's going to move tomorrow.",
     "start": 35.989,
     "end": 38.73,
@@ -88,7 +96,7 @@
     "zh_hant": "他打算明天搬家。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "When?",
     "start": 39.791,
     "end": 40.691,
@@ -96,15 +104,15 @@
     "zh_hant": "什麼時候？"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "Tomorrow morning?",
     "start": 41.051,
     "end": 42.972,
-    "zh": "明天早上？",
-    "zh_hant": "明天早上？"
+    "zh": "明天上午？",
+    "zh_hant": "明天上午？"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "No. Tomorrow afternoon.",
     "start": 44.113,
     "end": 47.274,
@@ -112,15 +120,15 @@
     "zh_hant": "不，明天下午。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "I'll miss him.",
     "start": 47.875,
     "end": 49.415,
-    "zh": "我会想念他的。",
-    "zh_hant": "我會想念他的。"
+    "zh": "我会想他的。",
+    "zh_hant": "我會想他的。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "He has always been a good neighbour.",
     "start": 49.836,
     "end": 53.717,
@@ -128,7 +136,7 @@
     "zh_hant": "他一直是個好鄰居。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "He's a very nice person.",
     "start": 54.498,
     "end": 57.619,
@@ -136,7 +144,7 @@
     "zh_hant": "他是個非常好的人。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "We'll all miss him.",
     "start": 58.12,
     "end": 60.941,
@@ -144,39 +152,39 @@
     "zh_hant": "我們都會想念他的。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "When will the new people move into this house?",
     "start": 62.282,
     "end": 66.764,
-    "zh": "新住户什么时候搬进这栋房子？",
-    "zh_hant": "新住戶什麼時候搬進這棟房子？"
-  },
-  {
-    "index": 19,
-    "text": "I think that they'll move in the day",
-    "start": 67.685,
-    "end": 71.206,
-    "zh": "我想他们会在后天",
-    "zh_hant": "我想他們會在後天"
+    "zh": "新住户什么时候搬进这所房子？",
+    "zh_hant": "新住戶什麼時候搬進這所房子？"
   },
   {
     "index": 20,
-    "text": "after tomorrow.",
-    "start": 71.027,
-    "end": 72.787,
-    "zh": "搬进来。",
-    "zh_hant": "搬進來。"
+    "text": "I think that they'll move in the day",
+    "start": 67.685,
+    "end": 71.206,
+    "zh": "我想他们会搬进来，",
+    "zh_hant": "我想他們會搬進來，"
   },
   {
     "index": 21,
-    "text": "Will you see Ian today, Jenny?",
-    "start": 74.168,
-    "end": 78.03,
-    "zh": "珍妮，今天你会见到伊恩吗？",
-    "zh_hant": "珍妮，今天你會見到伊恩嗎？"
+    "text": "after tomorrow.",
+    "start": 71.027,
+    "end": 72.787,
+    "zh": "就在后天。",
+    "zh_hant": "就在後天。"
   },
   {
     "index": 22,
+    "text": "Will you see Ian today, Jenny?",
+    "start": 74.168,
+    "end": 78.03,
+    "zh": "珍妮，你今天会见到伊恩吗？",
+    "zh_hant": "珍妮，你今天會見到伊恩嗎？"
+  },
+  {
+    "index": 23,
     "text": "Yes, I will.",
     "start": 79.671,
     "end": 81.713,
@@ -184,7 +192,7 @@
     "zh_hant": "是的，我會。"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "Please give him my regards.",
     "start": 83.014,
     "end": 86.958,
@@ -192,7 +200,7 @@
     "zh_hant": "請代我向他問好。"
   },
   {
-    "index": 24,
+    "index": 25,
     "text": "Poor Ian!",
     "start": 87.719,
     "end": 89.44,
@@ -200,15 +208,15 @@
     "zh_hant": "可憐的伊恩！"
   },
   {
-    "index": 25,
+    "index": 26,
     "text": "He didn't want to leave this house.",
     "start": 89.801,
     "end": 93.564,
-    "zh": "他不想离开这栋房子。",
-    "zh_hant": "他不想離開這棟房子。"
+    "zh": "他不想离开这所房子。",
+    "zh_hant": "他不想離開這所房子。"
   },
   {
-    "index": 26,
+    "index": 27,
     "text": "No, he didn't want to leave,",
     "start": 94.485,
     "end": 98.148,
@@ -216,7 +224,7 @@
     "zh_hant": "是的，他不想離開，"
   },
   {
-    "index": 27,
+    "index": 28,
     "text": "but his wife did!",
     "start": 98.288,
     "end": 100.51,

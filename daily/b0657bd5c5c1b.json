@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 11 Is this your shirt?",
+    "text": "Lesson 11.",
     "start": 1.551,
-    "end": 6.013,
-    "zh": "第11课 这是你的衬衫吗？",
-    "zh_hant": "第11課 這是你的襯衫嗎？"
+    "end": 3.862,
+    "zh": "第十一课。",
+    "zh_hant": "第十一課。"
   },
   {
     "index": 1,
+    "text": "Is this your shirt?",
+    "start": 3.912,
+    "end": 6.013,
+    "zh": "这是你的衬衫吗？",
+    "zh_hant": "這是你的襯衫嗎？"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.533,
     "end": 11.695,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "Whose shirt is white?",
     "start": 13.777,
     "end": 16.638,
@@ -24,7 +32,7 @@
     "zh_hant": "誰的襯衫是白色的？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Whose shirt is that?",
     "start": 18.939,
     "end": 20.86,
@@ -32,15 +40,15 @@
     "zh_hant": "那是誰的襯衫？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Is this your shirt Dave?",
     "start": 22.381,
     "end": 24.962,
-    "zh": "戴夫，这是你的衬衫吗？",
-    "zh_hant": "戴夫，這是你的襯衫嗎？"
+    "zh": "这是你的衬衫吗，戴夫？",
+    "zh_hant": "這是你的襯衫嗎，戴夫？"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "No. Sir.",
     "start": 26.843,
     "end": 27.923,
@@ -48,7 +56,7 @@
     "zh_hant": "不是，先生。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "It's not my shirt.",
     "start": 28.664,
     "end": 30.665,
@@ -56,7 +64,7 @@
     "zh_hant": "這不是我的襯衫。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "This is my shirt.",
     "start": 32.466,
     "end": 34.627,
@@ -64,7 +72,7 @@
     "zh_hant": "這是我的襯衫。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "My shirt's blue.",
     "start": 35.767,
     "end": 37.848,
@@ -72,7 +80,7 @@
     "zh_hant": "我的襯衫是藍色的。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "Is this shirt Tim's?",
     "start": 40.41,
     "end": 42.732,
@@ -80,7 +88,7 @@
     "zh_hant": "這件襯衫是蒂姆的嗎？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Perhaps it is sir.",
     "start": 44.633,
     "end": 46.554,
@@ -88,7 +96,7 @@
     "zh_hant": "也許是吧，先生。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "Tim's shirt's white.",
     "start": 47.556,
     "end": 49.917,
@@ -96,7 +104,7 @@
     "zh_hant": "蒂姆的襯衫是白色的。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "Tim!",
     "start": 51.899,
     "end": 52.639,
@@ -104,15 +112,15 @@
     "zh_hant": "蒂姆！"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Yes sir?",
     "start": 53.48,
     "end": 54.401,
-    "zh": "是，先生？",
-    "zh_hant": "是，先生？"
+    "zh": "什么事，先生？",
+    "zh_hant": "什麼事，先生？"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Is this your shirt?",
     "start": 55.602,
     "end": 57.503,
@@ -120,7 +128,7 @@
     "zh_hant": "這是你的襯衫嗎？"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Yes sir.",
     "start": 58.604,
     "end": 59.605,
@@ -128,7 +136,7 @@
     "zh_hant": "是的，先生。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Here you are.",
     "start": 61.306,
     "end": 62.367,
@@ -136,7 +144,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "Catch!",
     "start": 62.868,
     "end": 63.768,
@@ -144,11 +152,11 @@
     "zh_hant": "接住！"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Thank you sir.",
     "start": 64.869,
     "end": 66.23,
-    "zh": "谢谢，先生。",
-    "zh_hant": "謝謝，先生。"
+    "zh": "谢谢您，先生。",
+    "zh_hant": "謝謝您，先生。"
   }
 ]

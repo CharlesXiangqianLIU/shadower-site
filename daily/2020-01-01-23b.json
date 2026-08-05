@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 45 The boss's",
+    "text": "Lesson 45.",
     "start": 0.35,
-    "end": 4.352,
-    "zh": "第45课 老板的",
-    "zh_hant": "第45課 老闆的"
+    "end": 2.962,
+    "zh": "第二十四课。",
+    "zh_hant": "第二十四課。"
   },
   {
     "index": 1,
-    "text": "letter",
-    "start": 4.032,
+    "text": "The boss's letter.",
+    "start": 3.012,
     "end": 4.852,
-    "zh": "信",
-    "zh_hant": "信"
+    "zh": "老板的信。",
+    "zh_hant": "老闆的信。"
   },
   {
     "index": 2,
@@ -60,8 +60,8 @@
     "text": "Where's Pamela?",
     "start": 23.942,
     "end": 25.523,
-    "zh": "帕梅拉在哪？",
-    "zh_hant": "帕梅拉在哪？"
+    "zh": "帕梅拉在哪儿？",
+    "zh_hant": "帕梅拉在哪兒？"
   },
   {
     "index": 8,
@@ -92,8 +92,8 @@
     "text": "Ask her please.",
     "start": 35.188,
     "end": 36.868,
-    "zh": "请你去问问她。",
-    "zh_hant": "請你去問問她。"
+    "zh": "请叫她一下。",
+    "zh_hant": "請叫她一下。"
   },
   {
     "index": 12,
@@ -108,8 +108,8 @@
     "text": "Can you type this letter for the boss please,",
     "start": 39.25,
     "end": 43.193,
-    "zh": "你能帮老板打这封信吗，",
-    "zh_hant": "你能幫老闆打這封信嗎，"
+    "zh": "请你帮老板打这封信，",
+    "zh_hant": "請你幫老闆打這封信，"
   },
   {
     "index": 14,
@@ -124,8 +124,8 @@
     "text": "Yes, of course I can.",
     "start": 44.074,
     "end": 46.996,
-    "zh": "是的，我当然可以。",
-    "zh_hant": "是的，我當然可以。"
+    "zh": "好的，我当然可以。",
+    "zh_hant": "好的，我當然可以。"
   },
   {
     "index": 16,
@@ -164,8 +164,8 @@
     "text": "What's the matter?",
     "start": 54.162,
     "end": 55.622,
-    "zh": "出了什么事？",
-    "zh_hant": "出了什麼事？"
+    "zh": "怎么回事？",
+    "zh_hant": "怎麼回事？"
   },
   {
     "index": 21,
@@ -180,15 +180,15 @@
     "text": "I can't read it!",
     "start": 59.346,
     "end": 61.227,
-    "zh": "我读不懂它！",
-    "zh_hant": "我讀不懂它！"
+    "zh": "我看不懂！",
+    "zh_hant": "我看不懂！"
   },
   {
     "index": 23,
     "text": "The boss's handwriting is terrible!",
     "start": 61.487,
     "end": 65.57,
-    "zh": "老板的笔迹太糟糕了！",
-    "zh_hant": "老闆的筆跡太糟糕了！"
+    "zh": "老板的字太潦草了！",
+    "zh_hant": "老闆的字太潦草了！"
   }
 ]

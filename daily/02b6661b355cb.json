@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 55 The Sawyer",
+    "text": "Lesson 55.",
     "start": 1.57,
-    "end": 5.552,
-    "zh": "第五十五课 索耶一家",
-    "zh_hant": "第五十五課 索耶一家"
+    "end": 4.362,
+    "zh": "第55课。",
+    "zh_hant": "第55課。"
   },
   {
     "index": 1,
-    "text": "family",
-    "start": 5.202,
+    "text": "The Sawyer family.",
+    "start": 4.412,
     "end": 6.132,
-    "zh": "索耶一家",
-    "zh_hant": "索耶一家"
+    "zh": "索耶一家。",
+    "zh_hant": "索耶一家。"
   },
   {
     "index": 2,
@@ -60,8 +60,8 @@
     "text": "Their father takes them to school every day.",
     "start": 31.065,
     "end": 34.267,
-    "zh": "他们的父亲每天送他们去学校。",
-    "zh_hant": "他們的父親每天送他們去學校。"
+    "zh": "他们的父亲每天送他们上学。",
+    "zh_hant": "他們的父親每天送他們上學。"
   },
   {
     "index": 8,
@@ -92,32 +92,32 @@
     "text": "In the afternoon, she usually sees her friends.",
     "start": 46.233,
     "end": 50.615,
-    "zh": "下午，她通常去见朋友。",
-    "zh_hant": "下午，她通常去見朋友。"
+    "zh": "下午，她通常会见她的朋友。",
+    "zh_hant": "下午，她通常會見她的朋友。"
   },
   {
     "index": 12,
     "text": "They often drink tea together.",
     "start": 51.335,
     "end": 53.596,
-    "zh": "他们经常一起喝茶。",
-    "zh_hant": "他們經常一起喝茶。"
+    "zh": "她们经常一起喝茶。",
+    "zh_hant": "她們經常一起喝茶。"
   },
   {
     "index": 13,
     "text": "In the evening, the children come home from school.",
     "start": 54.917,
     "end": 58.458,
-    "zh": "晚上，孩子们放学回家。",
-    "zh_hant": "晚上，孩子們放學回家。"
+    "zh": "晚上，孩子们从学校回家。",
+    "zh_hant": "晚上，孩子們從學校回家。"
   },
   {
     "index": 14,
     "text": "They arrive home early.",
     "start": 59.199,
     "end": 61.08,
-    "zh": "他们很早就到家。",
-    "zh_hant": "他們很早就到家。"
+    "zh": "他们很早就到家了。",
+    "zh_hant": "他們很早就到家了。"
   },
   {
     "index": 15,
@@ -164,7 +164,7 @@
     "text": "but sometimes he and his wife watch television.",
     "start": 80.95,
     "end": 84.91,
-    "zh": "但有时他和妻子看电视。",
-    "zh_hant": "但有時他和妻子看電視。"
+    "zh": "但有时他和他妻子看电视。",
+    "zh_hant": "但有時他和他妻子看電視。"
   }
 ]

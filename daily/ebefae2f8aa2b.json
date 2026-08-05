@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 115 Knock, knock!",
+    "text": "Lesson 115.",
     "start": 1.55,
-    "end": 5.672,
-    "zh": "第115课 敲门，敲门！",
-    "zh_hant": "第115課 敲門，敲門！"
+    "end": 4.522,
+    "zh": "第115课。",
+    "zh_hant": "第115課。"
   },
   {
     "index": 1,
+    "text": "Knock, knock!",
+    "start": 4.572,
+    "end": 5.672,
+    "zh": "咚咚咚！",
+    "zh_hant": "咚咚咚！"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.973,
     "end": 10.775,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "What does Jim have to drink?",
     "start": 12.936,
     "end": 15.177,
@@ -24,23 +32,23 @@
     "zh_hant": "吉姆要喝什麼？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Isn't there anyone at home?",
     "start": 17.498,
     "end": 19.519,
-    "zh": "有人在家吗？",
-    "zh_hant": "有人在家嗎？"
-  },
-  {
-    "index": 4,
-    "text": "I'll knock again, Helen.",
-    "start": 20.48,
-    "end": 21.92,
-    "zh": "海伦，我再敲一次门。",
-    "zh_hant": "海倫，我再敲一次門。"
+    "zh": "家里没人吗？",
+    "zh_hant": "家裡沒人嗎？"
   },
   {
     "index": 5,
+    "text": "I'll knock again, Helen.",
+    "start": 20.48,
+    "end": 21.92,
+    "zh": "我再敲一次，海伦。",
+    "zh_hant": "我再敲一次，海倫。"
+  },
+  {
+    "index": 6,
     "text": "Everything's very quiet.",
     "start": 22.361,
     "end": 23.921,
@@ -48,23 +56,23 @@
     "zh_hant": "一切都非常安靜。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "I'm sure there's no one at home.",
     "start": 24.242,
     "end": 26.203,
-    "zh": "我肯定家里没人。",
-    "zh_hant": "我肯定家裡沒人。"
-  },
-  {
-    "index": 7,
-    "text": "But that's impossible.",
-    "start": 26.743,
-    "end": 28.684,
-    "zh": "但那是不可能的。",
-    "zh_hant": "但那是不可能的。"
+    "zh": "我确信家里没人。",
+    "zh_hant": "我確信家裡沒人。"
   },
   {
     "index": 8,
+    "text": "But that's impossible.",
+    "start": 26.743,
+    "end": 28.684,
+    "zh": "但那不可能。",
+    "zh_hant": "但那不可能。"
+  },
+  {
+    "index": 9,
     "text": "Carol and Tom invited us to lunch.",
     "start": 28.724,
     "end": 31.465,
@@ -72,15 +80,15 @@
     "zh_hant": "卡羅爾和湯姆邀請我們來吃午飯。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "Look through the window.",
     "start": 32.046,
     "end": 33.506,
-    "zh": "透过窗户看看。",
-    "zh_hant": "透過窗戶看看。"
+    "zh": "从窗户往里看。",
+    "zh_hant": "從窗戶往裡看。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Can you see anything?",
     "start": 34.767,
     "end": 36.228,
@@ -88,23 +96,23 @@
     "zh_hant": "你能看到什麼嗎？"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "Nothing at all.",
     "start": 36.788,
     "end": 38.369,
-    "zh": "什么都看不到。",
-    "zh_hant": "什麼都看不到。"
-  },
-  {
-    "index": 12,
-    "text": "Let's try the back door.",
-    "start": 38.989,
-    "end": 40.75,
-    "zh": "我们去试试后门吧。",
-    "zh_hant": "我們去試試後門吧。"
+    "zh": "什么也看不到。",
+    "zh_hant": "什麼也看不到。"
   },
   {
     "index": 13,
+    "text": "Let's try the back door.",
+    "start": 38.989,
+    "end": 40.75,
+    "zh": "我们试试后门吧。",
+    "zh_hant": "我們試試後門吧。"
+  },
+  {
+    "index": 14,
     "text": "Look!",
     "start": 41.65,
     "end": 42.39,
@@ -112,7 +120,7 @@
     "zh_hant": "看！"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Everyone's in the garden.",
     "start": 42.691,
     "end": 44.532,
@@ -120,7 +128,7 @@
     "zh_hant": "大家都在花園裡。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Hello, Helen.",
     "start": 45.913,
     "end": 47.374,
@@ -128,7 +136,7 @@
     "zh_hant": "你好，海倫。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Hello, Jim.",
     "start": 47.274,
     "end": 48.654,
@@ -136,7 +144,7 @@
     "zh_hant": "你好，吉姆。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "Everybody wants to have lunch in the garden.",
     "start": 49.375,
     "end": 51.957,
@@ -144,23 +152,23 @@
     "zh_hant": "大家都想在花園裡吃午飯。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "It's nice and warm out here.",
     "start": 51.997,
     "end": 54.118,
-    "zh": "这里又暖和又舒服。",
-    "zh_hant": "這裡又暖和又舒服。"
-  },
-  {
-    "index": 19,
-    "text": "Come and have something to drink.",
-    "start": 54.239,
-    "end": 56.48,
-    "zh": "来喝点什么吧。",
-    "zh_hant": "來喝點什麼吧。"
+    "zh": "这里既舒适又暖和。",
+    "zh_hant": "這裡既舒適又暖和。"
   },
   {
     "index": 20,
+    "text": "Come and have something to drink.",
+    "start": 54.239,
+    "end": 56.48,
+    "zh": "来喝点东西吧。",
+    "zh_hant": "來喝點東西吧。"
+  },
+  {
+    "index": 21,
     "text": "Thanks, Carol.",
     "start": 56.82,
     "end": 57.961,
@@ -168,7 +176,7 @@
     "zh_hant": "謝謝，卡羅爾。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "May I have a glass of beer please?",
     "start": 58.121,
     "end": 60.362,
@@ -176,7 +184,7 @@
     "zh_hant": "請給我一杯啤酒好嗎？"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "Beer?",
     "start": 60.403,
     "end": 61.203,
@@ -184,23 +192,23 @@
     "zh_hant": "啤酒？"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "There's none left.",
     "start": 61.223,
     "end": 62.524,
-    "zh": "已经没有了。",
-    "zh_hant": "已經沒有了。"
-  },
-  {
-    "index": 24,
-    "text": "You can have some lemonade.",
-    "start": 62.724,
-    "end": 64.625,
-    "zh": "你可以喝点柠檬水。",
-    "zh_hant": "你可以喝點檸檬水。"
+    "zh": "一点不剩了。",
+    "zh_hant": "一點不剩了。"
   },
   {
     "index": 25,
+    "text": "You can have some lemonade.",
+    "start": 62.724,
+    "end": 64.625,
+    "zh": "你可以喝些柠檬水。",
+    "zh_hant": "你可以喝些檸檬水。"
+  },
+  {
+    "index": 26,
     "text": "Lemonade!",
     "start": 64.866,
     "end": 66.146,
@@ -208,7 +216,7 @@
     "zh_hant": "檸檬水！"
   },
   {
-    "index": 26,
+    "index": 27,
     "text": "Don't believe her, Jim.",
     "start": 66.707,
     "end": 68.448,
@@ -216,7 +224,7 @@
     "zh_hant": "別信她，吉姆。"
   },
   {
-    "index": 27,
+    "index": 28,
     "text": "She's only joking.",
     "start": 68.348,
     "end": 69.889,
@@ -224,11 +232,11 @@
     "zh_hant": "她只是在開玩笑。"
   },
   {
-    "index": 28,
+    "index": 29,
     "text": "Have some beer!",
     "start": 69.889,
     "end": 71.41,
-    "zh": "喝点啤酒吧！",
-    "zh_hant": "喝點啤酒吧！"
+    "zh": "来点啤酒吧！",
+    "zh_hant": "來點啤酒吧！"
   }
 ]

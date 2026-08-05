@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 27 Mrs. Smith's",
+    "text": "Lesson 27.",
     "start": 1.531,
-    "end": 5.632,
-    "zh": "第二十七课 史密斯夫人的",
-    "zh_hant": "第二十七課 史密斯夫人的"
+    "end": 4.242,
+    "zh": "第27课。",
+    "zh_hant": "第27課。"
   },
   {
     "index": 1,
-    "text": "living room",
-    "start": 5.493,
+    "text": "Mrs. Smith's living room.",
+    "start": 4.292,
     "end": 6.693,
-    "zh": "客厅",
-    "zh_hant": "客廳"
+    "zh": "史密斯夫人的客厅。",
+    "zh_hant": "史密斯夫人的客廳。"
   },
   {
     "index": 2,
@@ -44,24 +44,24 @@
     "text": "There is a television in the room.",
     "start": 24.362,
     "end": 27.224,
-    "zh": "房间里有一台电视。",
-    "zh_hant": "房間裡有一臺電視。"
+    "zh": "房间里有一台电视机。",
+    "zh_hant": "房間裡有一臺電視機。"
   },
   {
     "index": 6,
     "text": "The television is near the window.",
     "start": 29.505,
     "end": 33.067,
-    "zh": "电视在窗户附近。",
-    "zh_hant": "電視在窗戶附近。"
+    "zh": "电视机在窗户旁边。",
+    "zh_hant": "電視機在窗戶旁邊。"
   },
   {
     "index": 7,
     "text": "There are some magazines on the television.",
     "start": 35.568,
     "end": 39.23,
-    "zh": "电视上有一些杂志。",
-    "zh_hant": "電視上有一些雜誌。"
+    "zh": "电视机上放着一些杂志。",
+    "zh_hant": "電視機上放著一些雜誌。"
   },
   {
     "index": 8,
@@ -76,8 +76,8 @@
     "text": "There are some newspapers on the table.",
     "start": 45.813,
     "end": 49.214,
-    "zh": "桌子上有一些报纸。",
-    "zh_hant": "桌子上有一些報紙。"
+    "zh": "桌子上放着一些报纸。",
+    "zh_hant": "桌子上放著一些報紙。"
   },
   {
     "index": 10,
@@ -92,32 +92,32 @@
     "text": "The armchairs are near the table.",
     "start": 56.178,
     "end": 59.7,
-    "zh": "扶手椅在桌子附近。",
-    "zh_hant": "扶手椅在桌子附近。"
+    "zh": "扶手椅在桌子旁边。",
+    "zh_hant": "扶手椅在桌子旁邊。"
   },
   {
     "index": 12,
     "text": "There is a stereo in the room.",
     "start": 61.821,
     "end": 64.722,
-    "zh": "房间里有一台立体声音响。",
-    "zh_hant": "房間裡有一臺立體聲音響。"
+    "zh": "房间里有一套音响。",
+    "zh_hant": "房間裡有一套音響。"
   },
   {
     "index": 13,
     "text": "The stereo is near the door.",
     "start": 65.903,
     "end": 68.844,
-    "zh": "立体声音响在门附近。",
-    "zh_hant": "立體聲音響在門附近。"
+    "zh": "音响在门旁边。",
+    "zh_hant": "音響在門旁邊。"
   },
   {
     "index": 14,
     "text": "There are some books on the stereo.",
     "start": 70.805,
     "end": 74.047,
-    "zh": "立体声音响上有些书。",
-    "zh_hant": "立體聲音響上有些書。"
+    "zh": "音响上放着一些书。",
+    "zh_hant": "音響上放著一些書。"
   },
   {
     "index": 15,
@@ -132,7 +132,7 @@
     "text": "The pictures are on the wall.",
     "start": 80.11,
     "end": 83.128,
-    "zh": "画在墙上。",
-    "zh_hant": "畫在牆上。"
+    "zh": "画挂在墙上。",
+    "zh_hant": "畫掛在牆上。"
   }
 ]

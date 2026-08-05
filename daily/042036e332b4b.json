@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 81 Roast beef",
+    "text": "Lesson 81.",
     "start": 1.531,
-    "end": 5.072,
-    "zh": "第81课 烤牛肉",
-    "zh_hant": "第81課 烤牛肉"
+    "end": 3.862,
+    "zh": "第81课。",
+    "zh_hant": "第81課。"
   },
   {
     "index": 1,
-    "text": "and potatoes",
-    "start": 4.972,
+    "text": "Roast beef and potatoes.",
+    "start": 3.912,
     "end": 6.493,
-    "zh": "和土豆",
-    "zh_hant": "和土豆"
+    "zh": "烤牛肉和土豆。",
+    "zh_hant": "烤牛肉和土豆。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.854,
     "end": 11.595,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
@@ -44,8 +44,8 @@
     "text": "Where's Tom?",
     "start": 19.92,
     "end": 21.02,
-    "zh": "汤姆在哪儿？",
-    "zh_hant": "湯姆在哪兒？"
+    "zh": "汤姆在哪里？",
+    "zh_hant": "湯姆在哪裡？"
   },
   {
     "index": 6,
@@ -84,8 +84,8 @@
     "text": "Sam's here.",
     "start": 26.863,
     "end": 28.184,
-    "zh": "萨姆来了。",
-    "zh_hant": "薩姆來了。"
+    "zh": "萨姆在这里。",
+    "zh_hant": "薩姆在這裡。"
   },
   {
     "index": 11,
@@ -116,8 +116,8 @@
     "text": "No, thanks, Tom.",
     "start": 36.248,
     "end": 37.988,
-    "zh": "不，谢谢，汤姆。",
-    "zh_hant": "不，謝謝，湯姆。"
+    "zh": "不了，谢谢，汤姆。",
+    "zh_hant": "不了，謝謝，湯姆。"
   },
   {
     "index": 15,
@@ -148,8 +148,8 @@
     "text": "Is dinnner ready, Carol?",
     "start": 46.053,
     "end": 47.594,
-    "zh": "晚饭好了吗，卡罗尔？",
-    "zh_hant": "晚飯好了嗎，卡羅爾？"
+    "zh": "晚饭准备好了吗，卡罗尔？",
+    "zh_hant": "晚飯準備好了嗎，卡羅爾？"
   },
   {
     "index": 19,
@@ -172,8 +172,8 @@
     "text": "Sam and I had lunch together today.",
     "start": 52.457,
     "end": 55.139,
-    "zh": "萨姆和我今天一起吃了午饭。",
-    "zh_hant": "薩姆和我今天一起吃了午飯。"
+    "zh": "今天中午我和萨姆一起吃了午饭。",
+    "zh_hant": "今天中午我和薩姆一起吃了午飯。"
   },
   {
     "index": 22,

@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 97 A small",
+    "text": "Lesson 97.",
     "start": 0.55,
-    "end": 3.952,
-    "zh": "第97课 一个小",
-    "zh_hant": "第97課 一個小"
+    "end": 2.721,
+    "zh": "第97课。",
+    "zh_hant": "第97課。"
   },
   {
     "index": 1,
-    "text": "blue case",
-    "start": 3.732,
+    "text": "A small blue case.",
+    "start": 2.771,
     "end": 5.232,
-    "zh": "蓝色箱子",
-    "zh_hant": "藍色箱子"
+    "zh": "一个蓝色的小箱子。",
+    "zh_hant": "一個藍色的小箱子。"
   },
   {
     "index": 2,
@@ -41,19 +41,19 @@
   },
   {
     "index": 5,
-    "text": "I left a suitcase",
+    "text": "I left a suitcase on the train",
     "start": 18.619,
-    "end": 20.66,
-    "zh": "我前几天把一个手提箱",
-    "zh_hant": "我前幾天把一個手提箱"
+    "end": 21.661,
+    "zh": "前几天我把一个手提箱落在了",
+    "zh_hant": "前幾天我把一個手提箱落在了"
   },
   {
     "index": 6,
-    "text": "on the train to London the other day.",
-    "start": 20.34,
+    "text": "to London the other day.",
+    "start": 21.311,
     "end": 23.662,
-    "zh": "落在了去伦敦的火车上。",
-    "zh_hant": "落在了去倫敦的火車上。"
+    "zh": "去伦敦的火车上。",
+    "zh_hant": "去倫敦的火車上。"
   },
   {
     "index": 7,
@@ -68,24 +68,24 @@
     "text": "It's a small blue case",
     "start": 27.804,
     "end": 30.865,
-    "zh": "它是一个小蓝箱子",
-    "zh_hant": "它是一個小藍箱子"
+    "zh": "它是一个蓝色的小箱子",
+    "zh_hant": "它是一個藍色的小箱子"
   },
   {
     "index": 9,
     "text": "and it's got a zip.",
     "start": 30.725,
     "end": 32.926,
-    "zh": "而且有个拉链。",
-    "zh_hant": "而且有個拉鍊。"
+    "zh": "而且有拉链。",
+    "zh_hant": "而且有拉鍊。"
   },
   {
     "index": 10,
     "text": "There's a label on the handle",
     "start": 34.247,
     "end": 36.868,
-    "zh": "把手上有个标签",
-    "zh_hant": "把手上有個標籤"
+    "zh": "把手上有个标签，",
+    "zh_hant": "把手上有個標籤，"
   },
   {
     "index": 11,
@@ -100,8 +100,8 @@
     "text": "Is this case yours?",
     "start": 40.39,
     "end": 42.751,
-    "zh": "这个箱子是你的吗？",
-    "zh_hant": "這個箱子是你的嗎？"
+    "zh": "这个箱子是您的吗？",
+    "zh_hant": "這個箱子是您的嗎？"
   },
   {
     "index": 13,
@@ -116,16 +116,16 @@
     "text": "What about this one?",
     "start": 45.793,
     "end": 48.134,
-    "zh": "那这个呢？",
-    "zh_hant": "那這個呢？"
+    "zh": "这个呢？",
+    "zh_hant": "這個呢？"
   },
   {
     "index": 15,
     "text": "This one's got a label.",
     "start": 48.214,
     "end": 50.635,
-    "zh": "这个有标签。",
-    "zh_hant": "這個有標籤。"
+    "zh": "这个上面有标签。",
+    "zh_hant": "這個上面有標籤。"
   },
   {
     "index": 16,
@@ -140,24 +140,24 @@
     "text": "What's your name and address?",
     "start": 53.917,
     "end": 56.638,
-    "zh": "你叫什么名字和地址？",
-    "zh_hant": "你叫什麼名字和地址？"
+    "zh": "您的名字和地址是什么？",
+    "zh_hant": "您的名字和地址是什麼？"
   },
   {
     "index": 18,
     "text": "David Hall, 83, Bridge",
     "start": 57.519,
     "end": 61.561,
-    "zh": "大卫·霍尔，布里奇街83号。",
-    "zh_hant": "大衛·霍爾，布里奇街83號。"
+    "zh": "大卫·霍尔，桥街",
+    "zh_hant": "大衛·霍爾，橋街"
   },
   {
     "index": 19,
     "text": "Street.",
     "start": 61.261,
     "end": 62.141,
-    "zh": "街。",
-    "zh_hant": "街。"
+    "zh": "83号。",
+    "zh_hant": "83號。"
   },
   {
     "index": 20,
@@ -172,24 +172,24 @@
     "text": "D. N. Hall, 83, Bridge",
     "start": 64.062,
     "end": 68.264,
-    "zh": "D. N. 霍尔，布里奇",
-    "zh_hant": "D. N. 霍爾，布里奇"
+    "zh": "D·N·霍尔，桥街",
+    "zh_hant": "D·N·霍爾，橋街"
   },
   {
     "index": 22,
     "text": "Street.",
     "start": 67.914,
     "end": 68.764,
-    "zh": "街83号。",
-    "zh_hant": "街83號。"
+    "zh": "83号。",
+    "zh_hant": "83號。"
   },
   {
     "index": 23,
     "text": "Three pounds fifty pence, please.",
     "start": 69.965,
     "end": 73.187,
-    "zh": "请付三英镑五十便士。",
-    "zh_hant": "請付三英鎊五十便士。"
+    "zh": "请付3英镑50便士。",
+    "zh_hant": "請付3英鎊50便士。"
   },
   {
     "index": 24,
@@ -236,7 +236,7 @@
     "text": "You've given me the wrong case!",
     "start": 84.524,
     "end": 87.43,
-    "zh": "你给错我箱子了！",
-    "zh_hant": "你給錯我箱子了！"
+    "zh": "你给我的箱子搞错了！",
+    "zh_hant": "你給我的箱子搞錯了！"
   }
 ]

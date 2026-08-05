@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 15 Your passports",
+    "text": "Lesson 15.",
     "start": 0.53,
-    "end": 4.672,
-    "zh": "第15课 你们的护照",
-    "zh_hant": "第15課 你們的護照"
+    "end": 2.802,
+    "zh": "第15课。",
+    "zh_hant": "第15課。"
   },
   {
     "index": 1,
-    "text": "please.",
-    "start": 4.322,
+    "text": "Your passports please.",
+    "start": 2.852,
     "end": 5.333,
-    "zh": "请。",
-    "zh_hant": "請。"
+    "zh": "请出示你们的护照。",
+    "zh_hant": "請出示你們的護照。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "Is there a problem with the Customs officer?",
     "start": 12.256,
     "end": 16.198,
-    "zh": "海关官员有什么问题吗？",
-    "zh_hant": "海關官員有什麼問題嗎？"
+    "zh": "海关官员那里有问题吗？",
+    "zh_hant": "海關官員那裡有問題嗎？"
   },
   {
     "index": 5,
@@ -116,8 +116,8 @@
     "text": "No they aren't.",
     "start": 46.034,
     "end": 47.895,
-    "zh": "不，不是的。",
-    "zh_hant": "不，不是的。"
+    "zh": "不，不是。",
+    "zh_hant": "不，不是。"
   },
   {
     "index": 15,
@@ -132,8 +132,8 @@
     "text": "Here they are.",
     "start": 52.938,
     "end": 56.76,
-    "zh": "在这儿呢。",
-    "zh_hant": "在這兒呢。"
+    "zh": "这些才是。",
+    "zh_hant": "這些才是。"
   },
   {
     "index": 17,

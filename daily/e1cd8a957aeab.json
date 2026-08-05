@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 121 The man",
+    "text": "Lesson 121.",
     "start": 1.55,
-    "end": 5.772,
-    "zh": "第121课 戴帽子的男人",
-    "zh_hant": "第121課 戴帽子的男人"
+    "end": 4.762,
+    "zh": "第121课。",
+    "zh_hant": "第121課。"
   },
   {
     "index": 1,
-    "text": "in a hat",
-    "start": 5.492,
+    "text": "The man in a hat.",
+    "start": 4.812,
     "end": 6.532,
-    "zh": "戴着一顶帽子",
-    "zh_hant": "戴著一頂帽子"
+    "zh": "戴帽子的男人。",
+    "zh_hant": "戴帽子的男人。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "I bought two expensive dictionaries here half an hour ago,",
     "start": 20.54,
     "end": 25.001,
-    "zh": "半小时前我在这里买了两本很贵的词典，",
-    "zh_hant": "半小時前我在這裡買了兩本很貴的詞典，"
+    "zh": "半小时前我在这儿买了两本很贵的词典，",
+    "zh_hant": "半小時前我在這兒買了兩本很貴的詞典，"
   },
   {
     "index": 5,
@@ -52,8 +52,8 @@
     "text": "Who served you, sir?",
     "start": 29.384,
     "end": 31.185,
-    "zh": "先生，是谁接待您的？",
-    "zh_hant": "先生，是誰接待您的？"
+    "zh": "先生，是谁为您服务的？",
+    "zh_hant": "先生，是誰為您服務的？"
   },
   {
     "index": 7,
@@ -68,48 +68,48 @@
     "text": "Which books did you buy?",
     "start": 36.487,
     "end": 38.408,
-    "zh": "您买了哪些书？",
-    "zh_hant": "您買了哪些書？"
+    "zh": "您买了哪几本书？",
+    "zh_hant": "您買了哪幾本書？"
   },
   {
     "index": 9,
     "text": "The books which are on the counter.",
     "start": 39.609,
     "end": 42.11,
-    "zh": "柜台上的那些书。",
-    "zh_hant": "櫃檯上的那些書。"
+    "zh": "柜台上的那几本。",
+    "zh_hant": "櫃檯上的那幾本。"
   },
   {
     "index": 10,
     "text": "Did you serve this gentleman half an hour ago, Caroline?",
     "start": 43.991,
     "end": 47.753,
-    "zh": "卡罗琳，半小时前你接待过这位先生吗？",
-    "zh_hant": "卡羅琳，半小時前你接待過這位先生嗎？"
+    "zh": "卡罗琳，半小时前你招待过这位先生吗？",
+    "zh_hant": "卡羅琳，半小時前你招待過這位先生嗎？"
   },
   {
     "index": 11,
     "text": "He says he's the man who bought these books.",
     "start": 48.013,
     "end": 51.675,
-    "zh": "他说他就是买这些书的那个人。",
-    "zh_hant": "他說他就是買這些書的那個人。"
+    "zh": "他说他就是买这些书的人。",
+    "zh_hant": "他說他就是買這些書的人。"
   },
   {
     "index": 12,
     "text": "I can't remember.",
     "start": 52.616,
     "end": 54.237,
-    "zh": "我记不起来了。",
-    "zh_hant": "我記不起來了。"
+    "zh": "我记不得了。",
+    "zh_hant": "我記不得了。"
   },
   {
     "index": 13,
     "text": "The man who I served was wearing a hat.",
     "start": 54.877,
     "end": 57.839,
-    "zh": "我接待的那个人戴着帽子。",
-    "zh_hant": "我接待的那個人戴著帽子。"
+    "zh": "我招待的那位男人戴着帽子。",
+    "zh_hant": "我招待的那位男人戴著帽子。"
   },
   {
     "index": 14,
@@ -124,16 +124,16 @@
     "text": "Yes, I have.",
     "start": 61.421,
     "end": 63.322,
-    "zh": "有。",
-    "zh_hant": "有。"
+    "zh": "有的，我有。",
+    "zh_hant": "有的，我有。"
   },
   {
     "index": 16,
     "text": "Would you put it on, please?",
     "start": 64.263,
     "end": 66.464,
-    "zh": "请您戴上帽子好吗？",
-    "zh_hant": "請您戴上帽子好嗎？"
+    "zh": "请您戴上它好吗？",
+    "zh_hant": "請您戴上它好嗎？"
   },
   {
     "index": 17,
@@ -148,8 +148,8 @@
     "text": "Is this the man that you served, Caroline?",
     "start": 70.027,
     "end": 72.668,
-    "zh": "卡罗琳，这就是你接待的那个人吗？",
-    "zh_hant": "卡羅琳，這就是你接待的那個人嗎？"
+    "zh": "卡罗琳，这就是您招待的那位男人吗？",
+    "zh_hant": "卡羅琳，這就是您招待的那位男人嗎？"
   },
   {
     "index": 19,
@@ -164,7 +164,7 @@
     "text": "I recognize him now.",
     "start": 73.729,
     "end": 75.67,
-    "zh": "我现在认出他了。",
-    "zh_hant": "我現在認出他了。"
+    "zh": "我现在认出他来了。",
+    "zh_hant": "我現在認出他來了。"
   }
 ]

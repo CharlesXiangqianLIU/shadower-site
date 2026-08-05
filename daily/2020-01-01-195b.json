@@ -1,282 +1,298 @@
 [
   {
     "index": 0,
-    "text": "Lesson 27 Nothing to sell and nothing to buy",
+    "text": "Lesson 27.",
     "start": 6.333,
-    "end": 10.115,
-    "zh": "第27课 无所可卖，无所可买",
-    "zh_hant": "第27課 無所可賣，無所可買"
+    "end": 4.01,
+    "zh": "第二十七课。",
+    "zh_hant": "第二十七課。"
   },
   {
     "index": 1,
-    "text": "What is the most important thing for a tramp?",
-    "start": 11.196,
-    "end": 15.097,
-    "zh": "对一个流浪汉来说，什么是最重要的？",
-    "zh_hant": "對一個流浪漢來說，什麼是最重要的？"
+    "text": "Nothing to sell and nothing to buy.",
+    "start": 6.693,
+    "end": 10.115,
+    "zh": "无所可卖，亦无所可买。",
+    "zh_hant": "無所可賣，亦無所可買。"
   },
   {
     "index": 2,
-    "text": "It has been said that everyone lives by selling something.",
-    "start": 16.918,
-    "end": 20.96,
-    "zh": "据说每个人都靠卖点什么来维持生计。",
-    "zh_hant": "據說每個人都靠賣點什麼來維持生計。"
+    "text": "What is the most important thing for a tramp?",
+    "start": 11.196,
+    "end": 15.097,
+    "zh": "对流浪汉来说，什么是最重要的东西？",
+    "zh_hant": "對流浪漢來說，什麼是最重要的東西？"
   },
   {
     "index": 3,
-    "text": "In the light of this statement,",
-    "start": 21.261,
-    "end": 23.181,
-    "zh": "按照这种说法，",
-    "zh_hant": "按照這種說法，"
+    "text": "It has been said that everyone lives by selling something.",
+    "start": 16.918,
+    "end": 20.96,
+    "zh": "据说每个人都靠出卖某种东西为生。",
+    "zh_hant": "據說每個人都靠出賣某種東西為生。"
   },
   {
     "index": 4,
-    "text": "teachers live by selling knowledge, philosophers by selling wisdom",
-    "start": 23.162,
-    "end": 28.324,
-    "zh": "教师靠卖知识为生，哲学家靠卖智慧为生",
-    "zh_hant": "教師靠賣知識為生，哲學家靠賣智慧為生"
+    "text": "In the light of this statement,",
+    "start": 21.261,
+    "end": 23.181,
+    "zh": "根据这种说法，",
+    "zh_hant": "根據這種說法，"
   },
   {
     "index": 5,
-    "text": "and priests by selling spiritual comfort.",
-    "start": 28.364,
-    "end": 31.565,
-    "zh": "牧师靠卖精神慰藉为生。",
-    "zh_hant": "牧師靠賣精神慰藉為生。"
+    "text": "teachers live by selling knowledge, philosophers by selling wisdom",
+    "start": 23.162,
+    "end": 28.324,
+    "zh": "教师靠出卖知识为生，哲学家靠出卖智慧为生，",
+    "zh_hant": "教師靠出賣知識為生，哲學家靠出賣智慧為生，"
   },
   {
     "index": 6,
-    "text": "Though it may be possible to measure the value of material goods in terms of money,",
-    "start": 31.966,
-    "end": 38.129,
-    "zh": "虽然用金钱来衡量物质商品的价值是可能的，",
-    "zh_hant": "雖然用金錢來衡量物質商品的價值是可能的，"
+    "text": "and priests by selling spiritual comfort.",
+    "start": 28.364,
+    "end": 31.565,
+    "zh": "牧师靠出卖精神慰藉为生。",
+    "zh_hant": "牧師靠出賣精神慰藉為生。"
   },
   {
     "index": 7,
-    "text": "it is extremely difficult to estimate",
-    "start": 38.389,
-    "end": 41.411,
-    "zh": "但要估量却极为困难",
-    "zh_hant": "但要估量卻極為困難"
+    "text": "Though it may be possible to measure the value of material goods in terms of money,",
+    "start": 31.966,
+    "end": 38.129,
+    "zh": "虽然物质商品的价值也许可以用金钱来衡量，",
+    "zh_hant": "雖然物質商品的價值也許可以用金錢來衡量，"
   },
   {
     "index": 8,
-    "text": "the true value of the services which people perform for us.",
-    "start": 41.291,
-    "end": 46.033,
-    "zh": "人们为我们提供的服务的真正价值。",
-    "zh_hant": "人們為我們提供的服務的真正價值。"
+    "text": "it is extremely difficult to estimate the true value of the services",
+    "start": 38.389,
+    "end": 43.992,
+    "zh": "但估算人们为我们所提供的服务的真实价值",
+    "zh_hant": "但估算人們為我們所提供的服務的真實價值"
   },
   {
     "index": 9,
-    "text": "There are times when we would willingly give everything we possess to save our lives,",
-    "start": 46.454,
-    "end": 52.776,
-    "zh": "有时候我们会心甘情愿地倾尽所有去保住性命，",
-    "zh_hant": "有時候我們會心甘情願地傾盡所有去保住性命，"
+    "text": "which people perform for us.",
+    "start": 43.792,
+    "end": 46.033,
+    "zh": "却极其困难。",
+    "zh_hant": "卻極其困難。"
   },
   {
     "index": 10,
-    "text": "yet we might grudge paying a surgeon a high fee",
-    "start": 52.797,
-    "end": 56.378,
-    "zh": "然而我们却可能舍不得付给外科医生高昂的费用",
-    "zh_hant": "然而我們卻可能捨不得付給外科醫生高昂的費用"
+    "text": "There are times when we would willingly give everything we possess to save our lives,",
+    "start": 46.454,
+    "end": 52.776,
+    "zh": "有时我们会心甘情愿地放弃一切所有来保全生命，",
+    "zh_hant": "有時我們會心甘情願地放棄一切所有來保全生命，"
   },
   {
     "index": 11,
-    "text": "for offering us precisely this service.",
-    "start": 56.398,
-    "end": 59.64,
-    "zh": "就为了他为我们提供的正是这种服务。",
-    "zh_hant": "就為了他為我們提供的正是這種服務。"
+    "text": "yet we might grudge paying a surgeon a high fee",
+    "start": 52.797,
+    "end": 56.378,
+    "zh": "然而却可能会吝啬地不愿付给外科医生高额费用，",
+    "zh_hant": "然而卻可能會吝嗇地不願付給外科醫生高額費用，"
   },
   {
     "index": 12,
-    "text": "The conditions of society are such that skills have to be paid",
-    "start": 60.36,
-    "end": 64.802,
-    "zh": "社会的情况就是如此，技能必须付费",
-    "zh_hant": "社會的情況就是如此，技能必須付費"
+    "text": "for offering us precisely this service.",
+    "start": 56.398,
+    "end": 59.64,
+    "zh": "尽管他所提供的正是这种服务。",
+    "zh_hant": "儘管他所提供的正是這種服務。"
   },
   {
     "index": 13,
-    "text": "for in the same way that goods are paid for at a shop.",
-    "start": 64.452,
-    "end": 68.564,
-    "zh": "就像商品在商店里要付钱购买一样。",
-    "zh_hant": "就像商品在商店裡要付錢購買一樣。"
+    "text": "The conditions of society are such that skills have to be paid",
+    "start": 60.36,
+    "end": 64.802,
+    "zh": "社会的情况就是这样，技能必须付酬，",
+    "zh_hant": "社會的情況就是這樣，技能必須付酬，"
   },
   {
     "index": 14,
-    "text": "Everyone has something to sell.",
-    "start": 68.764,
-    "end": 71.025,
-    "zh": "每个人都有可卖的东西。",
-    "zh_hant": "每個人都有可賣的東西。"
+    "text": "for in the same way that goods are paid for at a shop.",
+    "start": 64.452,
+    "end": 68.564,
+    "zh": "就像商品在商店里必须付钱一样。",
+    "zh_hant": "就像商品在商店裡必須付錢一樣。"
   },
   {
     "index": 15,
-    "text": "Tramps seem to be the only exception to this general rule.",
-    "start": 71.946,
-    "end": 76.248,
-    "zh": "流浪汉似乎是这个普遍规律的唯一例外。",
-    "zh_hant": "流浪漢似乎是這個普遍規律的唯一例外。"
+    "text": "Everyone has something to sell.",
+    "start": 68.764,
+    "end": 71.025,
+    "zh": "每个人都有一些东西可卖。",
+    "zh_hant": "每個人都有一些東西可賣。"
   },
   {
     "index": 16,
-    "text": "Beggars almost sell themselves as human beings to arouse the pity of passers-by.",
-    "start": 76.708,
-    "end": 82.772,
-    "zh": "乞丐几乎把自己本身当作商品来卖，以激起路人的怜悯。",
-    "zh_hant": "乞丐幾乎把自己本身當作商品來賣，以激起路人的憐憫。"
+    "text": "Tramps seem to be the only exception to this general rule.",
+    "start": 71.946,
+    "end": 76.248,
+    "zh": "流浪汉似乎是这条普遍规则中唯一的例外。",
+    "zh_hant": "流浪漢似乎是這條普遍規則中唯一的例外。"
   },
   {
     "index": 17,
-    "text": "But real tramps are not beggars.",
-    "start": 83.032,
-    "end": 85.473,
-    "zh": "但真正的流浪汉不是乞丐。",
-    "zh_hant": "但真正的流浪漢不是乞丐。"
+    "text": "Beggars almost sell themselves as human beings to arouse the pity of passers-by.",
+    "start": 76.708,
+    "end": 82.772,
+    "zh": "乞丐几乎把自己作为人来出卖，以唤起路人的怜悯。",
+    "zh_hant": "乞丐幾乎把自己作為人來出賣，以喚起路人的憐憫。"
   },
   {
     "index": 18,
-    "text": "They have nothing to sell and require nothing from others.",
-    "start": 85.593,
-    "end": 89.875,
-    "zh": "他们一无所有可卖，也不向别人索取任何东西。",
-    "zh_hant": "他們一無所有可賣，也不向別人索取任何東西。"
+    "text": "But real tramps are not beggars.",
+    "start": 83.032,
+    "end": 85.473,
+    "zh": "但真正的流浪汉并不是乞丐。",
+    "zh_hant": "但真正的流浪漢並不是乞丐。"
   },
   {
     "index": 19,
-    "text": "In seeking independence, they do not sacrifice their human dignity.",
-    "start": 90.116,
-    "end": 95.298,
-    "zh": "在追求独立的过程中，他们并不牺牲自己的人格尊严。",
-    "zh_hant": "在追求獨立的過程中，他們並不犧牲自己的人格尊嚴。"
+    "text": "They have nothing to sell and require nothing from others.",
+    "start": 85.593,
+    "end": 89.875,
+    "zh": "他们没有什么可卖，也不从别人那里索取什么。",
+    "zh_hant": "他們沒有什麼可賣，也不從別人那裡索取什麼。"
   },
   {
     "index": 20,
-    "text": "A tramp may ask you for money, but he will never ask you to feel sorry for him.",
-    "start": 95.518,
-    "end": 101.101,
-    "zh": "流浪汉可能会向你要钱，但他绝不会要你为他感到难过。",
-    "zh_hant": "流浪漢可能會向你要錢，但他絕不會要你為他感到難過。"
+    "text": "In seeking independence, they do not sacrifice their human dignity.",
+    "start": 90.116,
+    "end": 95.298,
+    "zh": "在寻求独立的过程中，他们并不牺牲自己的人格尊严。",
+    "zh_hant": "在尋求獨立的過程中，他們並不犧牲自己的人格尊嚴。"
   },
   {
     "index": 21,
-    "text": "He has deliberately chosen to lead the life",
-    "start": 101.461,
-    "end": 105.123,
-    "zh": "他是有意选择过这种生活的",
-    "zh_hant": "他是有意選擇過這種生活的"
+    "text": "A tramp may ask you for money, but he will never ask you to feel sorry for him.",
+    "start": 95.518,
+    "end": 101.101,
+    "zh": "流浪汉可能会向你要钱，但绝不会要你为他感到难过。",
+    "zh_hant": "流浪漢可能會向你要錢，但絕不會要你為他感到難過。"
   },
   {
     "index": 22,
-    "text": "he leads and is fully aware of the consequences.",
-    "start": 104.773,
-    "end": 108.905,
-    "zh": "并且完全清楚其后果。",
-    "zh_hant": "並且完全清楚其後果。"
+    "text": "He has deliberately chosen to lead the life",
+    "start": 101.461,
+    "end": 105.123,
+    "zh": "他刻意选择了现在这样的生活，",
+    "zh_hant": "他刻意選擇了現在這樣的生活，"
   },
   {
     "index": 23,
-    "text": "He may never be sure where the next meal is coming from,",
-    "start": 109.085,
-    "end": 113.327,
-    "zh": "他可能永远不确定下一顿饭从哪里来，",
-    "zh_hant": "他可能永遠不確定下一頓飯從哪裡來，"
+    "text": "he leads and is fully aware of the consequences.",
+    "start": 104.773,
+    "end": 108.905,
+    "zh": "并且完全清楚由此带来的后果。",
+    "zh_hant": "並且完全清楚由此帶來的後果。"
   },
   {
     "index": 24,
-    "text": "but he is free from the thousands of anxieties which afflict other people.",
-    "start": 113.627,
-    "end": 119.33,
-    "zh": "但他却摆脱了折磨他人的千百种忧虑。",
-    "zh_hant": "但他卻擺脫了折磨他人的千百種憂慮。"
+    "text": "He may never be sure where the next meal is coming from,",
+    "start": 109.085,
+    "end": 113.327,
+    "zh": "他也许永远不确定下一顿饭从哪里来，",
+    "zh_hant": "他也許永遠不確定下一頓飯從哪裡來，"
   },
   {
     "index": 25,
-    "text": "His few material possessions",
-    "start": 119.871,
-    "end": 122.472,
-    "zh": "他那为数不多的物质财产",
-    "zh_hant": "他那為數不多的物質財產"
+    "text": "but he is free from the thousands of anxieties which afflict other people.",
+    "start": 113.627,
+    "end": 119.33,
+    "zh": "但他摆脱了困扰他人的无数焦虑。",
+    "zh_hant": "但他擺脫了困擾他人的無數焦慮。"
   },
   {
     "index": 26,
-    "text": "make it possible for him to move from place to place with ease.",
-    "start": 122.372,
-    "end": 127.234,
-    "zh": "使他能够轻松地从一个地方迁到另一个地方。",
-    "zh_hant": "使他能夠輕鬆地從一個地方遷到另一個地方。"
+    "text": "His few material possessions make it possible for him",
+    "start": 119.871,
+    "end": 124.252,
+    "zh": "他那少得可怜的财物使他能够",
+    "zh_hant": "他那少得可憐的財物使他能夠"
   },
   {
     "index": 27,
-    "text": "By having to sleep in the open,",
-    "start": 127.814,
-    "end": 130.135,
-    "zh": "由于不得不在露天睡觉，",
-    "zh_hant": "由於不得不在露天睡覺，"
+    "text": "to move from place to place with ease.",
+    "start": 123.902,
+    "end": 127.234,
+    "zh": "轻松地从一地迁往另一地。",
+    "zh_hant": "輕鬆地從一地遷往另一地。"
   },
   {
     "index": 28,
-    "text": "he gets far closer to the world of nature than most of us ever do.",
-    "start": 130.096,
-    "end": 135.258,
-    "zh": "他比我们大多数人所体验到的更贴近自然世界。",
-    "zh_hant": "他比我們大多數人所體驗到的更貼近自然世界。"
+    "text": "By having to sleep in the open,",
+    "start": 127.814,
+    "end": 130.135,
+    "zh": "由于必须露宿户外，",
+    "zh_hant": "由於必須露宿戶外，"
   },
   {
     "index": 29,
-    "text": "He may hunt, beg, or steal occasionally to keep himself alive;",
-    "start": 136.119,
-    "end": 141.641,
-    "zh": "他可能打猎、乞讨，或者偶尔偷窃以维持生存；",
-    "zh_hant": "他可能打獵、乞討，或者偶爾偷竊以維持生存；"
+    "text": "he gets far closer to the world of nature than most of us ever do.",
+    "start": 130.096,
+    "end": 135.258,
+    "zh": "他比我们大多数人更接近自然界。",
+    "zh_hant": "他比我們大多數人更接近自然界。"
   },
   {
     "index": 30,
-    "text": "he may even, in times of real need,",
-    "start": 141.821,
-    "end": 145.103,
-    "zh": "他甚至在真正需要的时候",
-    "zh_hant": "他甚至在真正需要的時候"
+    "text": "He may hunt, beg, or steal occasionally to keep himself alive;",
+    "start": 136.119,
+    "end": 141.641,
+    "zh": "为了维持生计，他可能偶尔打猎、乞讨或偷窃；",
+    "zh_hant": "為了維持生計，他可能偶爾打獵、乞討或偷竊；"
   },
   {
     "index": 31,
-    "text": "do a little work; but he will never sacrifice his freedom.",
-    "start": 145.063,
-    "end": 149.805,
-    "zh": "也许会做一点点工作；但他绝不会牺牲自己的自由。",
-    "zh_hant": "也許會做一點點工作；但他絕不會犧牲自己的自由。"
+    "text": "he may even, in times of real need, do a little work;",
+    "start": 141.821,
+    "end": 146.664,
+    "zh": "在真正需要的时候，他甚至可能做点小工；",
+    "zh_hant": "在真正需要的時候，他甚至可能做點小工；"
   },
   {
     "index": 32,
-    "text": "We often speak of tramps with contempt and put them in the same class as beggars,",
-    "start": 150.045,
-    "end": 155.928,
-    "zh": "我们常常带着轻蔑谈论流浪汉，把他们和乞丐归为一类，",
-    "zh_hant": "我們常常帶著輕蔑談論流浪漢，把他們和乞丐歸為一類，"
+    "text": "but he will never sacrifice his freedom.",
+    "start": 146.804,
+    "end": 149.805,
+    "zh": "但他绝不会牺牲自己的自由。",
+    "zh_hant": "但他絕不會犧牲自己的自由。"
   },
   {
     "index": 33,
-    "text": "but how many of us can honestly say that we have not felt",
-    "start": 156.088,
-    "end": 160.956,
-    "zh": "但我们中有多少人能诚实地说自己不曾感到",
-    "zh_hant": "但我們中有多少人能誠實地說自己不曾感到"
+    "text": "We often speak of tramps with contempt and put them in the same class as beggars,",
+    "start": 150.045,
+    "end": 155.928,
+    "zh": "我们常常轻蔑地谈论流浪汉，把他们与乞丐归为一类，",
+    "zh_hant": "我們常常輕蔑地談論流浪漢，把他們與乞丐歸為一類，"
   },
   {
     "index": 34,
-    "text": "a little envious of their simple way of life and their freedom from care?",
-    "start": 160.636,
+    "text": "but how many of us can honestly say that we have not felt a little envious",
+    "start": 156.088,
+    "end": 162.379,
+    "zh": "但有多少人能诚实地说，我们没有感到一丝嫉妒，",
+    "zh_hant": "但有多少人能誠實地說，我們沒有感到一絲嫉妒，"
+  },
+  {
+    "index": 35,
+    "text": "of their simple way of life",
+    "start": 162.3,
+    "end": 164.464,
+    "zh": "嫉妒他们简单的生活方式，",
+    "zh_hant": "嫉妒他們簡單的生活方式，"
+  },
+  {
+    "index": 36,
+    "text": "and their freedom from care?",
+    "start": 164.446,
     "end": 166.449,
-    "zh": "有点羡慕他们简朴的生活方式和无忧无虑的状态呢？",
-    "zh_hant": "有點羨慕他們簡樸的生活方式和無憂無慮的狀態呢？"
+    "zh": "以及他们无忧无虑的自由呢？",
+    "zh_hant": "以及他們無憂無慮的自由呢？"
   }
 ]

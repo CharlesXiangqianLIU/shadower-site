@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 2 Thirteen equals one",
+    "text": "Lesson 2.",
     "start": 6.493,
-    "end": 9.494,
-    "zh": "第二课 十三等于一",
-    "zh_hant": "第二課 十三等於一"
+    "end": 5.17,
+    "zh": "第二课。",
+    "zh_hant": "第二課。"
   },
   {
     "index": 1,
-    "text": "Was the vicar pleased that the clock was striking?",
-    "start": 11.816,
-    "end": 15.297,
-    "zh": "牧师对钟敲响感到高兴吗？",
-    "zh_hant": "牧師對鐘敲響感到高興嗎？"
+    "text": "Thirteen equals one.",
+    "start": 6.793,
+    "end": 9.494,
+    "zh": "十三等于一。",
+    "zh_hant": "十三等於一。"
   },
   {
     "index": 2,
+    "text": "Was the vicar pleased that the clock was striking?",
+    "start": 11.816,
+    "end": 15.297,
+    "zh": "牧师对钟声响起感到高兴吗？",
+    "zh_hant": "牧師對鐘聲響起感到高興嗎？"
+  },
+  {
+    "index": 3,
     "text": "Why?",
     "start": 16.018,
     "end": 16.818,
@@ -24,7 +32,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Our vicar is always raising money for one cause or another,",
     "start": 19.159,
     "end": 23.321,
@@ -32,7 +40,7 @@
     "zh_hant": "我們的牧師總是為這個或那個事業籌款，"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "but he has never managed to get enough money to have the church clock repaired.",
     "start": 23.821,
     "end": 28.764,
@@ -40,36 +48,28 @@
     "zh_hant": "但他從未設法籌到足夠的錢來修復教堂的鐘。"
   },
   {
-    "index": 5,
-    "text": "The big clock which used to strike the hours day and night",
-    "start": 29.624,
-    "end": 34.026,
-    "zh": "那座过去日夜敲响报时的大钟",
-    "zh_hant": "那座過去日夜敲響報時的大鐘"
-  },
-  {
     "index": 6,
-    "text": "was damaged many years ago",
-    "start": 34.127,
-    "end": 36.187,
-    "zh": "多年前就损坏了，",
-    "zh_hant": "多年前就損壞了，"
+    "text": "The big clock which used to strike the hours",
+    "start": 29.624,
+    "end": 32.786,
+    "zh": "那座曾经日夜报时的大钟",
+    "zh_hant": "那座曾經日夜報時的大鐘"
   },
   {
     "index": 7,
-    "text": "and has been silent ever since.",
-    "start": 36.448,
+    "text": "day and night was damaged many years ago and has been silent ever since.",
+    "start": 32.546,
     "end": 38.529,
-    "zh": "从那以后一直沉默无声。",
-    "zh_hant": "從那以後一直沉默無聲。"
+    "zh": "多年前损坏了，从此一直沉默。",
+    "zh_hant": "多年前損壞了，從此一直沉默。"
   },
   {
     "index": 8,
     "text": "One night, however, our vicar woke up with a start:the clock",
     "start": 39.769,
     "end": 44.932,
-    "zh": "然而，一天晚上，我们的牧师惊醒了：钟",
-    "zh_hant": "然而，一天晚上，我們的牧師驚醒了：鍾"
+    "zh": "然而，一天晚上，我们的牧师猛然惊醒：钟",
+    "zh_hant": "然而，一天晚上，我們的牧師猛然驚醒：鍾"
   },
   {
     "index": 9,
@@ -84,16 +84,16 @@
     "text": "Looking at his watch, he saw that it was one o'clock,",
     "start": 47.634,
     "end": 51.695,
-    "zh": "他看了看手表，发现是凌晨一点钟，",
-    "zh_hant": "他看了看手錶，發現是凌晨一點鐘，"
+    "zh": "他看了看手表，发现是一点钟，",
+    "zh_hant": "他看了看手錶，發現是一點鐘，"
   },
   {
     "index": 11,
     "text": "but the bell struck thirteen times before it stopped.",
     "start": 52.116,
     "end": 55.557,
-    "zh": "但钟在停下之前敲了十三下。",
-    "zh_hant": "但鍾在停下之前敲了十三下。"
+    "zh": "但钟敲了十三下才停下来。",
+    "zh_hant": "但鐘敲了十三下才停下來。"
   },
   {
     "index": 12,
@@ -108,16 +108,16 @@
     "text": "In the torchlight,",
     "start": 63.421,
     "end": 64.762,
-    "zh": "在手电筒的光线下，",
-    "zh_hant": "在手電筒的光線下，"
+    "zh": "在手电光中，",
+    "zh_hant": "在手電光中，"
   },
   {
     "index": 14,
     "text": "he caught sight of a figure whom he immediately recognized as Bill Wilkins,",
     "start": 65.162,
     "end": 70.785,
-    "zh": "他瞥见一个人影，立刻认出是比尔·威尔金斯，",
-    "zh_hant": "他瞥見一個人影，立刻認出是比爾·威爾金斯，"
+    "zh": "他看到了一个人影，立刻认出是比尔·威尔金斯，",
+    "zh_hant": "他看到了一個人影，立刻認出是比爾·威爾金斯，"
   },
   {
     "index": 15,
@@ -132,16 +132,16 @@
     "text": "'Whatever are you doing up here Bill?'",
     "start": 71.795,
     "end": 75.887,
-    "zh": "“你究竟在上面干什么，比尔？”",
-    "zh_hant": "“你究竟在上面幹什麼，比爾？”"
+    "zh": "“比尔，你到底在上面干什么？”",
+    "zh_hant": "“比爾，你到底在上面幹什麼？”"
   },
   {
     "index": 17,
     "text": "asked the vicar in surprise.",
     "start": 75.767,
     "end": 77.628,
-    "zh": "牧师惊讶地问。",
-    "zh_hant": "牧師驚訝地問。"
+    "zh": "牧师惊讶地问道。",
+    "zh_hant": "牧師驚訝地問道。"
   },
   {
     "index": 18,
@@ -156,16 +156,16 @@
     "text": "'I've been coming up here night after night for weeks now.",
     "start": 81.16,
     "end": 85.752,
-    "zh": "“这几个星期我每天晚上都上来。",
-    "zh_hant": "“這幾個星期我每天晚上都上來。"
+    "zh": "“这几个星期我夜复一夜地来这儿。",
+    "zh_hant": "“這幾個星期我夜復一夜地來這兒。"
   },
   {
     "index": 20,
     "text": "You see, I was hoping to give you a surprise.'",
     "start": 85.853,
     "end": 89.154,
-    "zh": "你看，我本想给你一个惊喜。”",
-    "zh_hant": "你看，我本想給你一個驚喜。”"
+    "zh": "你知道，我本想给你一个惊喜。”",
+    "zh_hant": "你知道，我本想給你一個驚喜。”"
   },
   {
     "index": 21,
@@ -188,8 +188,8 @@
     "text": "'You've probably woken up everyone in the village as well.",
     "start": 93.196,
     "end": 97.218,
-    "zh": "“你可能也把全村的人都吵醒了。",
-    "zh_hant": "“你可能也把全村的人都吵醒了。"
+    "zh": "“你可能也吵醒了全村的人。",
+    "zh_hant": "“你可能也吵醒了全村的人。"
   },
   {
     "index": 24,
@@ -204,16 +204,16 @@
     "text": "'That's the trouble, vicar, 'answered Bill.",
     "start": 101.21,
     "end": 104.642,
-    "zh": "“麻烦就在这儿，牧师，”比尔回答。",
-    "zh_hant": "“麻煩就在這兒，牧師，”比爾回答。"
+    "zh": "“问题就在这儿，牧师，”比尔回答。",
+    "zh_hant": "“問題就在這兒，牧師，”比爾回答。"
   },
   {
     "index": 26,
     "text": "'It's working all right,",
     "start": 104.922,
     "end": 106.843,
-    "zh": "“它响得挺好，",
-    "zh_hant": "“它響得挺好，"
+    "zh": "“它工作正常，",
+    "zh_hant": "“它工作正常，"
   },
   {
     "index": 27,
@@ -228,8 +228,8 @@
     "text": "and there's nothing I can do about it.'",
     "start": 111.545,
     "end": 113.906,
-    "zh": "我对此毫无办法。”",
-    "zh_hant": "我對此毫無辦法。”"
+    "zh": "而我对此无能为力。”",
+    "zh_hant": "而我對此無能為力。”"
   },
   {
     "index": 29,
@@ -244,15 +244,15 @@
     "text": "'Thirteen is not as good as one, but it's better than nothing.",
     "start": 117.148,
     "end": 121.614,
-    "zh": "“十三不如一，但总比没有强。",
-    "zh_hant": "“十三不如一，但總比沒有強。"
+    "zh": "“十三虽然不如一，但总比没有强。",
+    "zh_hant": "“十三雖然不如一，但總比沒有強。"
   },
   {
     "index": 31,
     "text": "Now let's go downstairs and have a cup of tea.'",
     "start": 122.138,
     "end": 125.269,
-    "zh": "现在让我们下楼去喝杯茶吧。”",
-    "zh_hant": "現在讓我們下樓去喝杯茶吧。”"
+    "zh": "现在咱们下楼喝杯茶吧。”",
+    "zh_hant": "現在咱們下樓喝杯茶吧。”"
   }
 ]

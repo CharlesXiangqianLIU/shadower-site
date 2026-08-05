@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 19 Tired",
+    "text": "Lesson 19.",
     "start": 0.61,
-    "end": 3.932,
-    "zh": "第十九课 累了",
-    "zh_hant": "第十九課 累了"
+    "end": 2.741,
+    "zh": "第19课。",
+    "zh_hant": "第19課。"
   },
   {
     "index": 1,
-    "text": "and thirsty",
-    "start": 3.692,
+    "text": "Tired and thirsty.",
+    "start": 2.791,
     "end": 5.132,
-    "zh": "和口渴了",
-    "zh_hant": "和口渴了"
+    "zh": "又累又渴。",
+    "zh_hant": "又累又渴。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then",
     "start": 6.213,
     "end": 9.295,
-    "zh": "听磁带，然后",
-    "zh_hant": "聽磁帶，然後"
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
   },
   {
     "index": 3,
@@ -36,8 +36,8 @@
     "text": "Why do the children thank their mother?",
     "start": 12.236,
     "end": 15.878,
-    "zh": "为什么孩子们要感谢他们的妈妈？",
-    "zh_hant": "為什麼孩子們要感謝他們的媽媽？"
+    "zh": "为什么孩子们感谢他们的妈妈？",
+    "zh_hant": "為什麼孩子們感謝他們的媽媽？"
   },
   {
     "index": 5,
@@ -68,32 +68,32 @@
     "text": "and thirsty Mum.",
     "start": 22.662,
     "end": 24.802,
-    "zh": "而且口渴了，妈妈。",
-    "zh_hant": "而且口渴了，媽媽。"
+    "zh": "而且渴了，妈妈。",
+    "zh_hant": "而且渴了，媽媽。"
   },
   {
     "index": 9,
     "text": "Sit down here.",
     "start": 25.263,
     "end": 27.004,
-    "zh": "坐在这里。",
-    "zh_hant": "坐在這裡。"
+    "zh": "在这儿坐下。",
+    "zh_hant": "在這兒坐下。"
   },
   {
     "index": 10,
     "text": "Are you all right now?",
     "start": 27.804,
     "end": 29.905,
-    "zh": "你们现在没事吧？",
-    "zh_hant": "你們現在沒事吧？"
+    "zh": "现在你们还好吗？",
+    "zh_hant": "現在你們還好嗎？"
   },
   {
     "index": 11,
     "text": "No we aren't.",
     "start": 30.125,
     "end": 32.186,
-    "zh": "不，我们没事。",
-    "zh_hant": "不，我們沒事。"
+    "zh": "不好。",
+    "zh_hant": "不好。"
   },
   {
     "index": 12,
@@ -108,16 +108,16 @@
     "text": "There's an ice cream man.",
     "start": 33.587,
     "end": 36.208,
-    "zh": "有个卖冰激凌的人。",
-    "zh_hant": "有個賣冰激凌的人。"
+    "zh": "有个卖冰淇淋的人。",
+    "zh_hant": "有個賣冰淇淋的人。"
   },
   {
     "index": 14,
     "text": "Two ice cream please.",
     "start": 36.869,
     "end": 39.63,
-    "zh": "请来两个冰激凌。",
-    "zh_hant": "請來兩個冰激凌。"
+    "zh": "请来两个冰淇淋。",
+    "zh_hant": "請來兩個冰淇淋。"
   },
   {
     "index": 15,
@@ -132,31 +132,31 @@
     "text": "Thanks Mum.",
     "start": 43.595,
     "end": 45.397,
-    "zh": "谢谢妈妈。",
-    "zh_hant": "謝謝媽媽。"
+    "zh": "谢谢，妈妈。",
+    "zh_hant": "謝謝，媽媽。"
   },
   {
     "index": 17,
     "text": "These ice creams are nice.",
     "start": 45.998,
     "end": 49.121,
-    "zh": "这些冰激凌很好吃。",
-    "zh_hant": "這些冰激凌很好吃。"
+    "zh": "这些冰淇淋很好吃。",
+    "zh_hant": "這些冰淇淋很好吃。"
   },
   {
     "index": 18,
     "text": "Are you all right now?",
     "start": 49.782,
     "end": 52.004,
-    "zh": "你们现在没事吧？",
-    "zh_hant": "你們現在沒事吧？"
+    "zh": "现在你们还好吗？",
+    "zh_hant": "現在你們還好嗎？"
   },
   {
     "index": 19,
     "text": "Yes we are thank you!",
     "start": 52.786,
     "end": 56.49,
-    "zh": "是的，我们没事了，谢谢！",
-    "zh_hant": "是的，我們沒事了，謝謝！"
+    "zh": "好，我们很好，谢谢！",
+    "zh_hant": "好，我們很好，謝謝！"
   }
 ]

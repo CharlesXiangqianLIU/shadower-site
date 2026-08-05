@@ -1,35 +1,35 @@
 [
   {
     "index": 0,
-    "text": "Lesson 133 Sensational",
+    "text": "Lesson 133.",
     "start": 1.47,
-    "end": 5.872,
-    "zh": "第133课 轰动性的",
-    "zh_hant": "第133課 轟動性的"
+    "end": 4.622,
+    "zh": "第133课。",
+    "zh_hant": "第133課。"
   },
   {
     "index": 1,
-    "text": "news!",
-    "start": 5.522,
+    "text": "Sensational news!",
+    "start": 4.672,
     "end": 6.352,
-    "zh": "新闻！",
-    "zh_hant": "新聞！"
+    "zh": "轰动性的新闻！",
+    "zh_hant": "轟動性的新聞！"
   },
   {
     "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.693,
     "end": 11.055,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
     "text": "What reasons did Karen Marsh give for wanting to retire?",
     "start": 13.156,
     "end": 17.258,
-    "zh": "卡伦·马什想退休的原因是什么？",
-    "zh_hant": "卡倫·馬什想退休的原因是什麼？"
+    "zh": "卡伦·马什给出什么理由想退休？",
+    "zh_hant": "卡倫·馬什給出什麼理由想退休？"
   },
   {
     "index": 4,
@@ -60,48 +60,48 @@
     "text": "No, I'm not.",
     "start": 26.803,
     "end": 28.523,
-    "zh": "不，我不打算再拍了。",
-    "zh_hant": "不，我不打算再拍了。"
+    "zh": "不，我不打算。",
+    "zh_hant": "不，我不打算。"
   },
   {
     "index": 8,
     "text": "I'm going to retire.",
     "start": 28.804,
     "end": 30.584,
-    "zh": "我打算退休。",
-    "zh_hant": "我打算退休。"
+    "zh": "我要退休了。",
+    "zh_hant": "我要退休了。"
   },
   {
     "index": 9,
     "text": "I feel very tired.",
     "start": 31.125,
     "end": 33.346,
-    "zh": "我觉得很累。",
-    "zh_hant": "我覺得很累。"
+    "zh": "我感到非常疲惫。",
+    "zh_hant": "我感到非常疲憊。"
   },
   {
     "index": 10,
     "text": "I don't want to make another film for a long time.",
     "start": 33.626,
     "end": 37.268,
-    "zh": "我很久都不想再拍电影了。",
-    "zh_hant": "我很久都不想再拍電影了。"
+    "zh": "我想很长时间不再拍电影了。",
+    "zh_hant": "我想很長時間不再拍電影了。"
   },
   {
     "index": 11,
     "text": "Let's buy a newspaper, Liz.",
     "start": 38.348,
     "end": 40.509,
-    "zh": "莉兹，我们去买份报纸吧。",
-    "zh_hant": "莉茲，我們去買份報紙吧。"
+    "zh": "利兹，我们买份报纸吧。",
+    "zh_hant": "利茲，我們買份報紙吧。"
   },
   {
     "index": 12,
     "text": "Listen to this!",
     "start": 40.67,
     "end": 41.42,
-    "zh": "听听这个！",
-    "zh_hant": "聽聽這個！"
+    "zh": "听这个！",
+    "zh_hant": "聽這個！"
   },
   {
     "index": 13,
@@ -124,8 +124,8 @@
     "text": "By our reporter, Alan Jones.",
     "start": 45.513,
     "end": 47.834,
-    "zh": "由我们的记者艾伦·琼斯报道。",
-    "zh_hant": "由我們的記者艾倫·瓊斯報道。"
+    "zh": "本报记者艾伦·琼斯报道。",
+    "zh_hant": "本報記者艾倫·瓊斯報道。"
   },
   {
     "index": 16,
@@ -140,8 +140,8 @@
     "text": "She was wearing a blue dress and a mink coat.",
     "start": 51.877,
     "end": 55.019,
-    "zh": "她穿着蓝色连衣裙和貂皮大衣。",
-    "zh_hant": "她穿著藍色連衣裙和貂皮大衣。"
+    "zh": "她穿着一件蓝色连衣裙和一件貂皮大衣。",
+    "zh_hant": "她穿著一件藍色連衣裙和一件貂皮大衣。"
   },
   {
     "index": 18,
@@ -156,35 +156,43 @@
     "text": "she said she was not going to make another.",
     "start": 58.861,
     "end": 61.523,
-    "zh": "她说她不打算再拍另一部了。",
-    "zh_hant": "她說她不打算再拍另一部了。"
+    "zh": "她说她不打算再拍一部了。",
+    "zh_hant": "她說她不打算再拍一部了。"
   },
   {
     "index": 20,
     "text": "She said she was going to retire.",
     "start": 61.783,
     "end": 64.124,
-    "zh": "她说她打算退休。",
-    "zh_hant": "她說她打算退休。"
+    "zh": "她说她要退休。",
+    "zh_hant": "她說她要退休。"
   },
   {
     "index": 21,
-    "text": "She told reporters she felt very tired",
+    "text": "She told reporters",
     "start": 64.525,
-    "end": 67.386,
-    "zh": "她告诉记者们她觉得非常累，",
-    "zh_hant": "她告訴記者們她覺得非常累，"
+    "end": 66.106,
+    "zh": "她告诉记者们",
+    "zh_hant": "她告訴記者們"
   },
   {
     "index": 22,
-    "text": "and didn't want to make another film for a long time.'",
-    "start": 67.146,
-    "end": 70.949,
-    "zh": "而且很久都不想再拍电影了。'",
-    "zh_hant": "而且很久都不想再拍電影了。'"
+    "text": "she felt very tired and didn't want to make another film",
+    "start": 65.756,
+    "end": 69.508,
+    "zh": "她感到非常疲惫，不想再拍电影",
+    "zh_hant": "她感到非常疲憊，不想再拍電影"
   },
   {
     "index": 23,
+    "text": "for a long time.'",
+    "start": 69.158,
+    "end": 70.949,
+    "zh": "很长时间。",
+    "zh_hant": "很長時間。"
+  },
+  {
+    "index": 24,
     "text": "I wonder why!",
     "start": 71.729,
     "end": 73.09,

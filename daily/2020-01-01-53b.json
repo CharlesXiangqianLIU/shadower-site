@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 105 Full",
+    "text": "Lesson 105.",
     "start": 0.49,
-    "end": 4.232,
-    "zh": "第105课 全文",
-    "zh_hant": "第105課 全文"
+    "end": 3.382,
+    "zh": "第105课。",
+    "zh_hant": "第105課。"
   },
   {
     "index": 1,
-    "text": "of mistakes",
-    "start": 3.992,
+    "text": "Full of mistakes.",
+    "start": 3.432,
     "end": 5.473,
-    "zh": "错误百出",
-    "zh_hant": "錯誤百出"
+    "zh": "错误百出。",
+    "zh_hant": "錯誤百出。"
   },
   {
     "index": 2,
@@ -76,16 +76,16 @@
     "text": "I want her to come to my office.",
     "start": 29.745,
     "end": 32.986,
-    "zh": "我要她到我的办公室来。",
-    "zh_hant": "我要她到我的辦公室來。"
+    "zh": "我要她到我办公室来。",
+    "zh_hant": "我要她到我辦公室來。"
   },
   {
     "index": 10,
     "text": "Tell her to come at once.",
     "start": 33.347,
     "end": 36.268,
-    "zh": "告诉她马上来。",
-    "zh_hant": "告訴她馬上來。"
+    "zh": "叫她马上来。",
+    "zh_hant": "叫她馬上來。"
   },
   {
     "index": 11,
@@ -108,8 +108,8 @@
     "text": "How do you spell 'intelligent'?",
     "start": 43.692,
     "end": 47.034,
-    "zh": "'intelligent'怎么拼写？",
-    "zh_hant": "'intelligent'怎麼拼寫？"
+    "zh": "你怎么拼写‘intelligent’？",
+    "zh_hant": "你怎麼拼寫‘intelligent’？"
   },
   {
     "index": 14,
@@ -124,16 +124,16 @@
     "text": "That's right.",
     "start": 60.821,
     "end": 62.202,
-    "zh": "没错。",
-    "zh_hant": "沒錯。"
+    "zh": "对了。",
+    "zh_hant": "對了。"
   },
   {
     "index": 16,
     "text": "You've typed it with only one 'L'.",
     "start": 62.762,
     "end": 66.244,
-    "zh": "你只打了一个'L'。",
-    "zh_hant": "你只打了一個'L'。"
+    "zh": "你只打了一个‘L’。",
+    "zh_hant": "你只打了一個‘L’。"
   },
   {
     "index": 17,
@@ -156,8 +156,8 @@
     "text": "Yes, I'll do that.",
     "start": 74.869,
     "end": 76.489,
-    "zh": "好的，我会做的。",
-    "zh_hant": "好的，我會做的。"
+    "zh": "好的，我会这么做。",
+    "zh_hant": "好的，我會這麼做。"
   },
   {
     "index": 20,
@@ -172,31 +172,31 @@
     "text": "And here's a little present for you.",
     "start": 80.412,
     "end": 83.457,
-    "zh": "这里有一份小礼物给你。",
-    "zh_hant": "這裡有一份小禮物給你。"
+    "zh": "这有一份小礼物给你。",
+    "zh_hant": "這有一份小禮物給你。"
   },
   {
     "index": 22,
     "text": "What is it?",
     "start": 83.739,
     "end": 85.2,
-    "zh": "是什么？",
-    "zh_hant": "是什麼？"
+    "zh": "这是什么？",
+    "zh_hant": "這是什麼？"
   },
   {
     "index": 23,
     "text": "It's a dictionary.",
     "start": 85.442,
     "end": 87.144,
-    "zh": "是一本字典。",
-    "zh_hant": "是一本字典。"
+    "zh": "这是一本字典。",
+    "zh_hant": "這是一本字典。"
   },
   {
     "index": 24,
     "text": "I hope it'll help you.",
     "start": 87.826,
     "end": 89.769,
-    "zh": "我希望它能帮到你。",
-    "zh_hant": "我希望它能幫到你。"
+    "zh": "我希望它能帮助你。",
+    "zh_hant": "我希望它能幫助你。"
   }
 ]

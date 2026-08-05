@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 25 Mrs. Smith's",
+    "text": "Lesson 25.",
     "start": 1.531,
-    "end": 5.492,
-    "zh": "第25课 史密斯太太的",
-    "zh_hant": "第25課 史密斯太太的"
+    "end": 4.122,
+    "zh": "第二十五课。",
+    "zh_hant": "第二十五課。"
   },
   {
     "index": 1,
-    "text": "Kitchen",
-    "start": 5.192,
+    "text": "Mrs. Smith's Kitchen.",
+    "start": 4.172,
     "end": 6.113,
-    "zh": "厨房",
-    "zh_hant": "廚房"
+    "zh": "史密斯夫人的厨房。",
+    "zh_hant": "史密斯夫人的廚房。"
   },
   {
     "index": 2,
@@ -36,16 +36,16 @@
     "text": "Mrs. Smith's kitchen is small.",
     "start": 19.459,
     "end": 23.341,
-    "zh": "史密斯太太的厨房很小。",
-    "zh_hant": "史密斯太太的廚房很小。"
+    "zh": "史密斯夫人的厨房很小。",
+    "zh_hant": "史密斯夫人的廚房很小。"
   },
   {
     "index": 5,
     "text": "There is a refrigerator in the kitchen.",
     "start": 24.942,
     "end": 29.024,
-    "zh": "厨房里有一个冰箱。",
-    "zh_hant": "廚房裡有一個冰箱。"
+    "zh": "厨房里有一台冰箱。",
+    "zh_hant": "廚房裡有一臺冰箱。"
   },
   {
     "index": 6,
@@ -68,16 +68,16 @@
     "text": "There",
     "start": 37.398,
     "end": 40.77,
-    "zh": "那里",
-    "zh_hant": "那裡"
+    "zh": "有",
+    "zh_hant": "有"
   },
   {
     "index": 9,
     "text": "is an electric cooker in the kitchen.",
     "start": 40.42,
     "end": 43.972,
-    "zh": "厨房里有一个电灶。",
-    "zh_hant": "廚房裡有一個電灶。"
+    "zh": "一个电灶在厨房里。",
+    "zh_hant": "一個電灶在廚房裡。"
   },
   {
     "index": 10,

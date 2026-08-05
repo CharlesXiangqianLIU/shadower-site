@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 73 The way",
+    "text": "Lesson 73.",
     "start": 0.69,
-    "end": 4.272,
-    "zh": "第73课 通往国王街的路",
-    "zh_hant": "第73課 通往國王街的路"
+    "end": 3.202,
+    "zh": "第73课。",
+    "zh_hant": "第73課。"
   },
   {
     "index": 1,
-    "text": "to King Street",
-    "start": 3.972,
+    "text": "The way to King Street.",
+    "start": 3.252,
     "end": 5.793,
-    "zh": "通往国王街",
-    "zh_hant": "通往國王街"
+    "zh": "去国王街的路。",
+    "zh_hant": "去國王街的路。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "Why did the man need a phrasebook?",
     "start": 12.476,
     "end": 16.278,
-    "zh": "为什么那个男人需要一本常用语手册？",
-    "zh_hant": "為什麼那個男人需要一本常用語手冊？"
+    "zh": "那个人为什么需要一本常用语手册？",
+    "zh_hant": "那個人為什麼需要一本常用語手冊？"
   },
   {
     "index": 4,
@@ -52,16 +52,16 @@
     "text": "and she lost her way.",
     "start": 27.244,
     "end": 29.665,
-    "zh": "而且迷了路。",
-    "zh_hant": "而且迷了路。"
+    "zh": "而且她迷路了。",
+    "zh_hant": "而且她迷路了。"
   },
   {
     "index": 7,
     "text": "Suddenly, she saw a man",
     "start": 30.525,
     "end": 33.647,
-    "zh": "突然，她看见一个男人",
-    "zh_hant": "突然，她看見一個男人"
+    "zh": "突然，她看到一个男人",
+    "zh_hant": "突然，她看到一個男人"
   },
   {
     "index": 8,
@@ -84,8 +84,8 @@
     "text": "she said to herself.",
     "start": 38.989,
     "end": 40.951,
-    "zh": "她自言自语。",
-    "zh_hant": "她自言自語。"
+    "zh": "她自言自语道。",
+    "zh_hant": "她自言自語道。"
   },
   {
     "index": 11,
@@ -97,22 +97,30 @@
   },
   {
     "index": 12,
-    "text": "'Can you tell me",
+    "text": "'Can you tell",
     "start": 44.333,
-    "end": 46.894,
-    "zh": "“你能告诉我",
-    "zh_hant": "“你能告訴我"
+    "end": 46.693,
+    "zh": "“你能告诉",
+    "zh_hant": "“你能告訴"
   },
   {
     "index": 13,
-    "text": "the way to King Street, please?'",
-    "start": 46.734,
-    "end": 50.495,
-    "zh": "去国王街怎么走吗？”",
-    "zh_hant": "去國王街怎麼走嗎？”"
+    "text": "me the way to King Street,",
+    "start": 46.343,
+    "end": 49.235,
+    "zh": "我去国王街的路，",
+    "zh_hant": "我去國王街的路，"
   },
   {
     "index": 14,
+    "text": "please?'",
+    "start": 49.015,
+    "end": 50.495,
+    "zh": "吗？”",
+    "zh_hant": "嗎？”"
+  },
+  {
+    "index": 15,
     "text": "The man smiled pleasantly.",
     "start": 51.076,
     "end": 53.977,
@@ -120,7 +128,7 @@
     "zh_hant": "那個男人愉快地笑了笑。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "He did not understand English!",
     "start": 54.638,
     "end": 58.179,
@@ -128,7 +136,7 @@
     "zh_hant": "他不懂英語！"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "He spoke German.",
     "start": 58.5,
     "end": 60.54,
@@ -136,7 +144,7 @@
     "zh_hant": "他說德語。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "He was a tourist.",
     "start": 61.141,
     "end": 63.502,
@@ -144,15 +152,15 @@
     "zh_hant": "他是個遊客。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Then he put his hand into his pocket,",
     "start": 64.162,
     "end": 68.124,
-    "zh": "然后他把手伸进口袋，",
-    "zh_hant": "然後他把手伸進口袋，"
+    "zh": "然后他把手伸进口袋里，",
+    "zh_hant": "然後他把手伸進口袋裡，"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "and took out a phrasebook.",
     "start": 68.424,
     "end": 71.386,
@@ -160,7 +168,7 @@
     "zh_hant": "掏出一本常用語手冊。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "He opened the book and found a phrase.",
     "start": 71.826,
     "end": 76.148,
@@ -168,7 +176,7 @@
     "zh_hant": "他開啟書，找到一個短語。"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "He read the phrase slowly.",
     "start": 76.769,
     "end": 80.122,
@@ -176,7 +184,7 @@
     "zh_hant": "他慢慢地讀那個短語。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "'I am sorry,'",
     "start": 79.722,
     "end": 83.079,
@@ -184,7 +192,7 @@
     "zh_hant": "“對不起，”"
   },
   {
-    "index": 23,
+    "index": 24,
     "text": "he said.",
     "start": 83.321,
     "end": 84.502,
@@ -192,7 +200,7 @@
     "zh_hant": "他說。"
   },
   {
-    "index": 24,
+    "index": 25,
     "text": "'I do not speak English.'",
     "start": 84.163,
     "end": 87.71,

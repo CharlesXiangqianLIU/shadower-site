@@ -1,54 +1,62 @@
 [
   {
     "index": 0,
-    "text": "Lesson 13 The search for oil",
+    "text": "Lesson 13.",
     "start": 1.53,
-    "end": 7.353,
-    "zh": "第13课 石油勘探",
-    "zh_hant": "第13課 石油勘探"
+    "end": 3.421,
+    "zh": "第十三课。",
+    "zh_hant": "第十三課。"
   },
   {
     "index": 1,
-    "text": "What do oilmen want to achieve as soon as they strike oil?",
-    "start": 11.775,
-    "end": 16.077,
-    "zh": "石油工人一旦钻出石油，他们想立刻实现什么？",
-    "zh_hant": "石油工人一旦鑽出石油，他們想立刻實現什麼？"
+    "text": "The search for oil.",
+    "start": 3.471,
+    "end": 7.353,
+    "zh": "寻找石油。",
+    "zh_hant": "尋找石油。"
   },
   {
     "index": 2,
-    "text": "The deepest holes of all are made for oil,",
-    "start": 18.439,
-    "end": 21.52,
-    "zh": "最深的所有洞都是为采油而钻的，",
-    "zh_hant": "最深的所有洞都是為採油而鑽的，"
+    "text": "What do oilmen want to achieve as soon as they strike oil?",
+    "start": 11.775,
+    "end": 16.077,
+    "zh": "石油工人一钻到石油，他们想立刻实现什么？",
+    "zh_hant": "石油工人一鑽到石油，他們想立刻實現什麼？"
   },
   {
     "index": 3,
-    "text": "and they go down to as much as 25, 000 feet.",
-    "start": 21.74,
-    "end": 25.602,
-    "zh": "深度可达25,000英尺。",
-    "zh_hant": "深度可達25,000英尺。"
+    "text": "The deepest holes of all are made for oil,",
+    "start": 18.439,
+    "end": 21.52,
+    "zh": "最深的洞都是为石油而钻的，",
+    "zh_hant": "最深的洞都是為石油而鑽的，"
   },
   {
     "index": 4,
-    "text": "But we do not need to send man down to get the oil out,",
-    "start": 26.523,
-    "end": 30.284,
-    "zh": "但我们不需要派人下去把油取出来，",
-    "zh_hant": "但我們不需要派人下去把油取出來，"
+    "text": "and they go down to as much as 25, 000 feet.",
+    "start": 21.74,
+    "end": 25.602,
+    "zh": "深度可达两万五千英尺。",
+    "zh_hant": "深度可達兩萬五千英尺。"
   },
   {
     "index": 5,
-    "text": "as we must with other mineral deposits.",
-    "start": 30.445,
-    "end": 33.226,
-    "zh": "就像开采其他矿藏那样。",
-    "zh_hant": "就像開採其他礦藏那樣。"
+    "text": "But we do not need to send man down to get the oil out,",
+    "start": 26.523,
+    "end": 30.284,
+    "zh": "但我们不需要把人送下去取油，",
+    "zh_hant": "但我們不需要把人送下去取油，"
   },
   {
     "index": 6,
+    "text": "as we must with other mineral deposits.",
+    "start": 30.445,
+    "end": 33.226,
+    "zh": "像开采其他矿藏那样。",
+    "zh_hant": "像開採其他礦藏那樣。"
+  },
+  {
+    "index": 7,
     "text": "The holes are only borings, less than a foot in diameter.",
     "start": 34.206,
     "end": 38.648,
@@ -56,71 +64,79 @@
     "zh_hant": "這些洞只是鑽孔，直徑不到一英尺。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "My particular experience is largely in oil,",
     "start": 39.289,
     "end": 42.711,
-    "zh": "我个人的经验主要在石油方面，",
-    "zh_hant": "我個人的經驗主要在石油方面，"
-  },
-  {
-    "index": 8,
-    "text": "and the search for oil has done more to improve deep drilling than any other mining activity.",
-    "start": 42.851,
-    "end": 48.714,
-    "zh": "而石油勘探在改进深井钻探方面比其他任何采矿活动贡献都大。",
-    "zh_hant": "而石油勘探在改進深井鑽探方面比其他任何採礦活動貢獻都大。"
+    "zh": "我的特别经验主要在于石油，",
+    "zh_hant": "我的特別經驗主要在於石油，"
   },
   {
     "index": 9,
-    "text": "When it has been decided where we are going to drill, we put up",
-    "start": 49.855,
-    "end": 54.557,
-    "zh": "一旦决定在哪里钻井，我们就竖立",
-    "zh_hant": "一旦決定在哪裡鑽井，我們就豎立"
+    "text": "and the search for oil has done more to improve deep drilling than any other mining activity.",
+    "start": 42.851,
+    "end": 48.714,
+    "zh": "寻找石油比任何其他采矿活动都更能促进深层钻探的改进。",
+    "zh_hant": "尋找石油比任何其他採礦活動都更能促進深層鑽探的改進。"
   },
   {
     "index": 10,
-    "text": "at the surface an oil derrick.",
-    "start": 54.377,
-    "end": 56.738,
-    "zh": "在地面上竖起一座石油井架。",
-    "zh_hant": "在地面上豎起一座石油井架。"
+    "text": "When it has been decided where we are going to drill, we put up",
+    "start": 49.855,
+    "end": 54.557,
+    "zh": "一旦决定了我们要在哪里钻探，我们就竖起",
+    "zh_hant": "一旦決定了我們要在哪裡鑽探，我們就豎起"
   },
   {
     "index": 11,
-    "text": "It has to be tall because it is like a giant block and tackle and we have to lower",
-    "start": 57.618,
-    "end": 63.561,
-    "zh": "井架必须很高，因为它像一个巨大的滑轮组，我们得把",
-    "zh_hant": "井架必須很高，因為它像一個巨大的滑輪組，我們得把"
+    "text": "at the surface an oil derrick.",
+    "start": 54.377,
+    "end": 56.738,
+    "zh": "一座石油井架在地面上。",
+    "zh_hant": "一座石油井架在地面上。"
   },
   {
     "index": 12,
-    "text": "into the ground and haul out of the ground great lengths of drill pipe",
-    "start": 63.211,
-    "end": 68.003,
-    "zh": "很长的钻杆下放到地下并从地下拉出来，",
-    "zh_hant": "很長的鑽桿下放到地下並從地下拉出來，"
+    "text": "It has to be tall because it is like a giant block",
+    "start": 57.618,
+    "end": 61.28,
+    "zh": "它必须很高，因为它像一个巨大的滑轮组",
+    "zh_hant": "它必須很高，因為它像一個巨大的滑輪組"
   },
   {
     "index": 13,
-    "text": "which are rotated by an engine at the top and are fitted with a cutting bit at the bottom.",
-    "start": 67.903,
-    "end": 73.606,
-    "zh": "这些钻杆由顶部的发动机旋转，底部装有切削钻头。",
-    "zh_hant": "這些鑽桿由頂部的發動機旋轉，底部裝有切削鑽頭。"
+    "text": "and tackle and we have to lower into the ground",
+    "start": 60.93,
+    "end": 64.401,
+    "zh": "和绞车，我们必须把很长的钻管放下去",
+    "zh_hant": "和絞車，我們必須把很長的鑽管放下去"
   },
   {
     "index": 14,
-    "text": "The geologist needs to know what rocks the drill has reached,",
-    "start": 74.867,
-    "end": 79.229,
-    "zh": "地质学家需要知道钻头到达了哪些岩石层，",
-    "zh_hant": "地質學家需要知道鑽頭到達了哪些岩石層，"
+    "text": "and haul out of the ground great lengths of drill pipe",
+    "start": 64.302,
+    "end": 68.003,
+    "zh": "并从地下拉出来，",
+    "zh_hant": "並從地下拉出來，"
   },
   {
     "index": 15,
+    "text": "which are rotated by an engine at the top and are fitted with a cutting bit at the bottom.",
+    "start": 67.903,
+    "end": 73.606,
+    "zh": "这些钻管由顶部的发动机旋转，底部装有钻头。",
+    "zh_hant": "這些鑽管由頂部的發動機旋轉，底部裝有鑽頭。"
+  },
+  {
+    "index": 16,
+    "text": "The geologist needs to know what rocks the drill has reached,",
+    "start": 74.867,
+    "end": 79.229,
+    "zh": "地质学家需要知道钻头到达了什么岩石，",
+    "zh_hant": "地質學家需要知道鑽頭到達了什麼岩石，"
+  },
+  {
+    "index": 17,
     "text": "so every so often a sample is obtained with a coring bit.",
     "start": 79.429,
     "end": 83.992,
@@ -128,23 +144,23 @@
     "zh_hant": "所以每隔一段時間就用取芯鑽頭取樣。"
   },
   {
-    "index": 16,
+    "index": 18,
     "text": "It cuts a clean cylinder of rock, from which can be seen the strata",
     "start": 84.812,
     "end": 89.754,
-    "zh": "它切出一段干净的圆柱形岩石，从中可以看出",
-    "zh_hant": "它切出一段乾淨的圓柱形岩石，從中可以看出"
+    "zh": "它切出一块干净的岩石圆柱体，从中可以看到地层",
+    "zh_hant": "它切出一塊乾淨的岩石圓柱體，從中可以看到地層"
   },
   {
-    "index": 17,
+    "index": 19,
     "text": "the drill has been cutting through.",
     "start": 89.575,
     "end": 91.555,
-    "zh": "钻头所切过的地层。",
-    "zh_hant": "鑽頭所切過的地層。"
+    "zh": "钻头一直在切削穿过的地层。",
+    "zh_hant": "鑽頭一直在切削穿過的地層。"
   },
   {
-    "index": 18,
+    "index": 20,
     "text": "Once we get down to the oil,",
     "start": 92.556,
     "end": 94.537,
@@ -152,59 +168,59 @@
     "zh_hant": "一旦我們鑽到油層，"
   },
   {
-    "index": 19,
+    "index": 21,
     "text": "it usually flows to the surface because great pressure",
     "start": 94.557,
     "end": 98.319,
-    "zh": "石油通常会涌上地面，因为巨大的压力",
-    "zh_hant": "石油通常會湧上地面，因為巨大的壓力"
-  },
-  {
-    "index": 20,
-    "text": "either from gas or water, is pushing it.",
-    "start": 98.299,
-    "end": 101.68,
-    "zh": "无论是来自气体还是水，正在推动它。",
-    "zh_hant": "無論是來自氣體還是水，正在推動它。"
-  },
-  {
-    "index": 21,
-    "text": "This pressure must be under control,",
-    "start": 102.541,
-    "end": 105.102,
-    "zh": "这种压力必须加以控制，",
-    "zh_hant": "這種壓力必須加以控制，"
+    "zh": "油通常会流到地表，因为巨大的压力——",
+    "zh_hant": "油通常會流到地表，因為巨大的壓力——"
   },
   {
     "index": 22,
-    "text": "and we control it by means of the mud which we circulate down the drill pipe.",
-    "start": 105.282,
-    "end": 110.464,
-    "zh": "我们通过循环在钻杆中的泥浆来控制它。",
-    "zh_hant": "我們透過迴圈在鑽桿中的泥漿來控制它。"
+    "text": "either from gas or water, is pushing it.",
+    "start": 98.299,
+    "end": 101.68,
+    "zh": "来自气体或水的压力——在推动它。",
+    "zh_hant": "來自氣體或水的壓力——在推動它。"
   },
   {
     "index": 23,
-    "text": "We endeavour to avoid the old, romantic idea of a gusher,",
-    "start": 111.525,
-    "end": 115.987,
-    "zh": "我们努力避免那种老式的、浪漫的喷油井观念，",
-    "zh_hant": "我們努力避免那種老式的、浪漫的噴油井觀念，"
+    "text": "This pressure must be under control,",
+    "start": 102.541,
+    "end": 105.102,
+    "zh": "这个压力必须受控，",
+    "zh_hant": "這個壓力必須受控，"
   },
   {
     "index": 24,
-    "text": "which wastes oil and gas.",
-    "start": 116.208,
-    "end": 118.689,
-    "zh": "因为它浪费石油和天然气。",
-    "zh_hant": "因為它浪費石油和天然氣。"
+    "text": "and we control it by means of the mud which we circulate down the drill pipe.",
+    "start": 105.282,
+    "end": 110.464,
+    "zh": "我们通过循环在钻管中的泥浆来控制它。",
+    "zh_hant": "我們透過迴圈在鑽管中的泥漿來控制它。"
   },
   {
     "index": 25,
+    "text": "We endeavour to avoid the old, romantic idea of a gusher,",
+    "start": 111.525,
+    "end": 115.987,
+    "zh": "我们尽量避免那种老式的、浪漫的喷油井想法，",
+    "zh_hant": "我們儘量避免那種老式的、浪漫的噴油井想法，"
+  },
+  {
+    "index": 26,
+    "text": "which wastes oil and gas.",
+    "start": 116.208,
+    "end": 118.689,
+    "zh": "那样会浪费石油和天然气。",
+    "zh_hant": "那樣會浪費石油和天然氣。"
+  },
+  {
+    "index": 27,
     "text": "We want it to stay down the hole until we can lead it off in a controlled manner.",
     "start": 119.169,
     "end": 124.608,
-    "zh": "我们希望油留在井下，直到我们能以受控方式引出它。",
-    "zh_hant": "我們希望油留在井下，直到我們能以受控方式引出它。"
+    "zh": "我们想让油留在洞里，直到我们能以受控的方式引导它出来。",
+    "zh_hant": "我們想讓油留在洞裡，直到我們能以受控的方式引導它出來。"
   }
 ]

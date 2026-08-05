@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 25 Mrs. Smith's",
+    "text": "Lesson 25.",
     "start": 0.39,
-    "end": 4.792,
-    "zh": "第25课 史密斯太太的",
-    "zh_hant": "第25課 史密斯太太的"
+    "end": 3.062,
+    "zh": "第25课。",
+    "zh_hant": "第25課。"
   },
   {
     "index": 1,
-    "text": "Kitchen",
-    "start": 4.652,
+    "text": "Mrs. Smith's Kitchen.",
+    "start": 3.112,
     "end": 5.573,
-    "zh": "厨房",
-    "zh_hant": "廚房"
+    "zh": "史密斯夫人的厨房。",
+    "zh_hant": "史密斯夫人的廚房。"
   },
   {
     "index": 2,
@@ -44,8 +44,8 @@
     "text": "Mrs. Smith's kitchen is small.",
     "start": 18.299,
     "end": 22.001,
-    "zh": "史密斯太太的厨房很小。",
-    "zh_hant": "史密斯太太的廚房很小。"
+    "zh": "史密斯夫人的厨房很小。",
+    "zh_hant": "史密斯夫人的廚房很小。"
   },
   {
     "index": 6,
@@ -100,8 +100,8 @@
     "text": "There is a table in the middle of the room.",
     "start": 46.215,
     "end": 50.458,
-    "zh": "房间中间有一张桌子。",
-    "zh_hant": "房間中間有一張桌子。"
+    "zh": "房间中央有一张桌子。",
+    "zh_hant": "房間中央有一張桌子。"
   },
   {
     "index": 13,

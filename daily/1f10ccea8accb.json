@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 77 Terrible",
+    "text": "Lesson 77.",
     "start": 1.57,
-    "end": 5.352,
-    "zh": "第77课 糟糕的",
-    "zh_hant": "第77課 糟糕的"
+    "end": 4.242,
+    "zh": "第77课。",
+    "zh_hant": "第77課。"
   },
   {
     "index": 1,
-    "text": "toothache",
-    "start": 5.002,
+    "text": "Terrible toothache.",
+    "start": 4.292,
     "end": 6.132,
-    "zh": "牙痛",
-    "zh_hant": "牙痛"
+    "zh": "严重的牙痛。",
+    "zh_hant": "嚴重的牙痛。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "What time of day is it, do you think?",
     "start": 13.416,
     "end": 15.977,
-    "zh": "你觉得现在是什么时间？",
-    "zh_hant": "你覺得現在是什麼時間？"
+    "zh": "你认为现在是什么时间？",
+    "zh_hant": "你認為現在是什麼時間？"
   },
   {
     "index": 4,
@@ -84,16 +84,16 @@
     "text": "Is it urgent?",
     "start": 32.225,
     "end": 33.706,
-    "zh": "是急事吗？",
-    "zh_hant": "是急事嗎？"
+    "zh": "紧急吗？",
+    "zh_hant": "緊急嗎？"
   },
   {
     "index": 11,
     "text": "Yes, it is.",
     "start": 34.166,
     "end": 36.047,
-    "zh": "是的，是急事。",
-    "zh_hant": "是的，是急事。"
+    "zh": "是的，很紧急。",
+    "zh_hant": "是的，很緊急。"
   },
   {
     "index": 12,
@@ -108,8 +108,8 @@
     "text": "I feel awful.",
     "start": 38.869,
     "end": 40.869,
-    "zh": "我感觉很难受。",
-    "zh_hant": "我感覺很難受。"
+    "zh": "我感觉糟透了。",
+    "zh_hant": "我感覺糟透了。"
   },
   {
     "index": 14,
@@ -124,24 +124,24 @@
     "text": "Can you come",
     "start": 44.732,
     "end": 46.372,
-    "zh": "您能在",
-    "zh_hant": "您能在"
+    "zh": "您能来",
+    "zh_hant": "您能來"
   },
   {
     "index": 16,
     "text": "at 10 a.m. on Monday, April 24th?",
     "start": 46.073,
     "end": 51.835,
-    "zh": "4月24日星期一上午10点来吗？",
-    "zh_hant": "4月24日星期一上午10點來嗎？"
+    "zh": "4月24日星期一上午10点吗？",
+    "zh_hant": "4月24日星期一上午10點嗎？"
   },
   {
     "index": 17,
     "text": "I must see the dentist now, nurse.",
     "start": 53.796,
     "end": 57.398,
-    "zh": "我现在必须看牙医，护士。",
-    "zh_hant": "我現在必須看牙醫，護士。"
+    "zh": "我现在必须见牙医，护士。",
+    "zh_hant": "我現在必須見牙醫，護士。"
   },
   {
     "index": 18,
@@ -172,8 +172,8 @@
     "text": "Can the dentist see me now?",
     "start": 68.444,
     "end": 71.005,
-    "zh": "牙医现在能见我吗？",
-    "zh_hant": "牙醫現在能見我嗎？"
+    "zh": "牙医现在能看我吗？",
+    "zh_hant": "牙醫現在能看我嗎？"
   },
   {
     "index": 22,
@@ -196,7 +196,7 @@
     "text": "I can wait, but my toothache can't!",
     "start": 79.609,
     "end": 83.047,
-    "zh": "我可以等，可我的牙痛等不了！",
-    "zh_hant": "我可以等，可我的牙痛等不了！"
+    "zh": "我能等，但我的牙痛不能等！",
+    "zh_hant": "我能等，但我的牙痛不能等！"
   }
 ]

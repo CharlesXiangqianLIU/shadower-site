@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 113 Small",
+    "text": "Lesson 113.",
     "start": 1.53,
-    "end": 5.572,
-    "zh": "第113课 零钱",
-    "zh_hant": "第113課 零錢"
+    "end": 4.682,
+    "zh": "第113课。",
+    "zh_hant": "第113課。"
   },
   {
     "index": 1,
-    "text": "change",
-    "start": 5.222,
+    "text": "Small change.",
+    "start": 4.732,
     "end": 6.272,
-    "zh": "变化",
-    "zh_hant": "變化"
+    "zh": "零钱。",
+    "zh_hant": "零錢。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.213,
     "end": 10.555,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
@@ -60,8 +60,8 @@
     "text": "I can't change a ten-pound note.",
     "start": 23.521,
     "end": 26.022,
-    "zh": "我找不开十英镑的纸币。",
-    "zh_hant": "我找不開十英鎊的紙幣。"
+    "zh": "我找不开十英镑的钞票。",
+    "zh_hant": "我找不開十英鎊的鈔票。"
   },
   {
     "index": 8,
@@ -84,8 +84,8 @@
     "text": "I'll ask some of the passengers.",
     "start": 32.766,
     "end": 34.687,
-    "zh": "我去问问其他乘客。",
-    "zh_hant": "我去問問其他乘客。"
+    "zh": "我去问问乘客们。",
+    "zh_hant": "我去問問乘客們。"
   },
   {
     "index": 11,
@@ -108,8 +108,8 @@
     "text": "I've got none.",
     "start": 39.43,
     "end": 40.71,
-    "zh": "我一点儿也没有。",
-    "zh_hant": "我一點兒也沒有。"
+    "zh": "我一点也没有。",
+    "zh_hant": "我一點也沒有。"
   },
   {
     "index": 14,
@@ -124,8 +124,8 @@
     "text": "Can you change this ten-pound note, madam?",
     "start": 45.093,
     "end": 47.914,
-    "zh": "女士，您能换开这张十英镑的纸币吗？",
-    "zh_hant": "女士，您能換開這張十英鎊的紙幣嗎？"
+    "zh": "夫人，您能换开这张十英镑的钞票吗？",
+    "zh_hant": "夫人，您能換開這張十英鎊的鈔票嗎？"
   },
   {
     "index": 16,
@@ -156,8 +156,8 @@
     "text": "None of our passengers can change this note.",
     "start": 57.941,
     "end": 61.023,
-    "zh": "我们的乘客中没人能换开这张纸币。",
-    "zh_hant": "我們的乘客中沒人能換開這張紙幣。"
+    "zh": "我们的乘客中没人能换开这张钞票。",
+    "zh_hant": "我們的乘客中沒人能換開這張鈔票。"
   },
   {
     "index": 20,

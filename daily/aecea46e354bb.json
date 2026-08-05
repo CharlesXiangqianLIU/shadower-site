@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 87 A car crash",
+    "text": "Lesson 87.",
     "start": 1.53,
-    "end": 5.352,
-    "zh": "第87课 一场车祸",
-    "zh_hant": "第87課 一場車禍"
+    "end": 3.702,
+    "zh": "第87课。",
+    "zh_hant": "第87課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.353,
-    "end": 10.235,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
+    "text": "A car crash.",
+    "start": 3.752,
+    "end": 5.352,
+    "zh": "一起车祸。",
+    "zh_hant": "一起車禍。"
   },
   {
     "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.353,
+    "end": 10.235,
+    "zh": "听录音，然后回答问题。",
+    "zh_hant": "聽錄音，然後回答問題。"
+  },
+  {
+    "index": 3,
     "text": "Can the mechanics repair Mr. Wood's car?",
     "start": 12.336,
     "end": 16.137,
@@ -24,7 +32,7 @@
     "zh_hant": "機械師能修好伍德先生的汽車嗎？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Is my car ready yet?",
     "start": 18.519,
     "end": 20.5,
@@ -32,7 +40,7 @@
     "zh_hant": "我的汽車修好了嗎？"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "I don't know, sir.",
     "start": 21.841,
     "end": 23.181,
@@ -40,15 +48,15 @@
     "zh_hant": "我不知道，先生。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "What's the number of your car?",
     "start": 23.341,
     "end": 25.462,
-    "zh": "您的汽车号码是多少？",
-    "zh_hant": "您的汽車號碼是多少？"
+    "zh": "您车的号码是多少？",
+    "zh_hant": "您車的號碼是多少？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "It's LFZ",
     "start": 26.703,
     "end": 29.224,
@@ -56,31 +64,31 @@
     "zh_hant": "是LFZ"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "312 G.",
     "start": 31.863,
     "end": 32.546,
-    "zh": "312 G。",
-    "zh_hant": "312 G。"
-  },
-  {
-    "index": 8,
-    "text": "When did you bring it to us?",
-    "start": 33.867,
-    "end": 36.127,
-    "zh": "您什么时候把它送来的？",
-    "zh_hant": "您什麼時候把它送來的？"
+    "zh": "312G。",
+    "zh_hant": "312G。"
   },
   {
     "index": 9,
-    "text": "I brought it here three days ago.",
-    "start": 37.208,
-    "end": 39.949,
-    "zh": "我是三天前把它送到这里来的。",
-    "zh_hant": "我是三天前把它送到這裡來的。"
+    "text": "When did you bring it to us?",
+    "start": 33.867,
+    "end": 36.127,
+    "zh": "您什么时候送来的？",
+    "zh_hant": "您什麼時候送來的？"
   },
   {
     "index": 10,
+    "text": "I brought it here three days ago.",
+    "start": 37.208,
+    "end": 39.949,
+    "zh": "我是三天前送来的。",
+    "zh_hant": "我是三天前送來的。"
+  },
+  {
+    "index": 11,
     "text": "Ah yes,",
     "start": 39.599,
     "end": 42.431,
@@ -88,23 +96,23 @@
     "zh_hant": "啊，是的，"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "I remember now.",
     "start": 42.651,
     "end": 44.111,
-    "zh": "我现在记起来了。",
-    "zh_hant": "我現在記起來了。"
-  },
-  {
-    "index": 12,
-    "text": "Have your mechanics finished yet?",
-    "start": 45.412,
-    "end": 47.633,
-    "zh": "你们的机械师修好了吗？",
-    "zh_hant": "你們的機械師修好了嗎？"
+    "zh": "我现在想起来了。",
+    "zh_hant": "我現在想起來了。"
   },
   {
     "index": 13,
+    "text": "Have your mechanics finished yet?",
+    "start": 45.412,
+    "end": 47.633,
+    "zh": "你们的机械师修完了吗？",
+    "zh_hant": "你們的機械師修完了嗎？"
+  },
+  {
+    "index": 14,
     "text": "No, they're still working on it.",
     "start": 48.674,
     "end": 51.235,
@@ -112,15 +120,15 @@
     "zh_hant": "沒有，他們還在修。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Let's go into the garage and have a look at it.",
     "start": 51.735,
     "end": 55.557,
-    "zh": "我们到车间里去看一下吧。",
-    "zh_hant": "我們到車間裡去看一下吧。"
+    "zh": "咱们到车间看看吧。",
+    "zh_hant": "咱們到車間看看吧。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Isn't that your car?",
     "start": 57.198,
     "end": 59.039,
@@ -128,23 +136,23 @@
     "zh_hant": "那不是您的車嗎？"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Well, it was my car.",
     "start": 60.24,
     "end": 62.901,
-    "zh": "唔，它曾经是我的车。",
-    "zh_hant": "唔，它曾經是我的車。"
-  },
-  {
-    "index": 17,
-    "text": "Didn't you have a crash?",
-    "start": 64.302,
-    "end": 66.102,
-    "zh": "您不是出车祸了吗？",
-    "zh_hant": "您不是出車禍了嗎？"
+    "zh": "嗯，那曾经是我的车。",
+    "zh_hant": "嗯，那曾經是我的車。"
   },
   {
     "index": 18,
+    "text": "Didn't you have a crash?",
+    "start": 64.302,
+    "end": 66.102,
+    "zh": "您出车祸了吗？",
+    "zh_hant": "您出車禍了嗎？"
+  },
+  {
+    "index": 19,
     "text": "That's right.",
     "start": 66.963,
     "end": 68.183,
@@ -152,15 +160,15 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "I drove it into a lamp-post.",
     "start": 68.444,
     "end": 71.185,
-    "zh": "我开车撞到电线杆上了。",
-    "zh_hant": "我開車撞到電線杆上了。"
+    "zh": "我撞到了路灯柱上。",
+    "zh_hant": "我撞到了路燈柱上。"
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "Can your mechanics repair it?",
     "start": 71.945,
     "end": 74.166,
@@ -168,19 +176,19 @@
     "zh_hant": "你們的機械師能修好它嗎？"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "Well, they're trying to repair it, sir.",
     "start": 75.307,
     "end": 78.668,
-    "zh": "唔，他们正在尽力修，先生。",
-    "zh_hant": "唔，他們正在盡力修，先生。"
+    "zh": "嗯，他们正在设法修，先生。",
+    "zh_hant": "嗯，他們正在設法修，先生。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "But to tell you the truth, you need a new car!",
     "start": 78.929,
     "end": 83.348,
-    "zh": "但是老实告诉您，您需要一辆新车了！",
-    "zh_hant": "但是老實告訴您，您需要一輛新車了！"
+    "zh": "但说实话，您需要一辆新车了！",
+    "zh_hant": "但說實話，您需要一輛新車了！"
   }
 ]

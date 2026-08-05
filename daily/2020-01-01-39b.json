@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 77 Terrible",
+    "text": "Lesson 77.",
     "start": 0.53,
-    "end": 4.292,
-    "zh": "第七十七课 可怕",
-    "zh_hant": "第七十七課 可怕"
+    "end": 2.962,
+    "zh": "第77课。",
+    "zh_hant": "第77課。"
   },
   {
     "index": 1,
-    "text": "toothache",
-    "start": 4.072,
+    "text": "Terrible toothache.",
+    "start": 3.012,
     "end": 5.393,
-    "zh": "的牙疼",
-    "zh_hant": "的牙疼"
+    "zh": "可怕的牙痛。",
+    "zh_hant": "可怕的牙痛。"
   },
   {
     "index": 2,
     "text": "Listen to the tape then",
     "start": 6.433,
     "end": 9.435,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
+    "zh": "听磁带然后",
+    "zh_hant": "聽磁帶然後"
   },
   {
     "index": 3,
@@ -36,8 +36,8 @@
     "text": "What time of day is it, do you think?",
     "start": 12.116,
     "end": 16.478,
-    "zh": "你认为现在是什么时间？",
-    "zh_hant": "你認為現在是什麼時間？"
+    "zh": "你认为现在是什么时候？",
+    "zh_hant": "你認為現在是什麼時候？"
   },
   {
     "index": 5,
@@ -76,8 +76,8 @@
     "text": "Do you have an appointment?",
     "start": 31.226,
     "end": 34.247,
-    "zh": "你有预约吗？",
-    "zh_hant": "你有預約嗎？"
+    "zh": "您有预约吗？",
+    "zh_hant": "您有預約嗎？"
   },
   {
     "index": 10,
@@ -92,16 +92,16 @@
     "text": "Is it urgent?",
     "start": 36.608,
     "end": 38.409,
-    "zh": "情况紧急吗？",
-    "zh_hant": "情況緊急嗎？"
+    "zh": "紧急吗？",
+    "zh_hant": "緊急嗎？"
   },
   {
     "index": 12,
     "text": "Yes, it is.",
     "start": 38.769,
     "end": 40.931,
-    "zh": "是的，很紧急。",
-    "zh_hant": "是的，很緊急。"
+    "zh": "是的，紧急。",
+    "zh_hant": "是的，緊急。"
   },
   {
     "index": 13,
@@ -116,32 +116,32 @@
     "text": "I feel awful.",
     "start": 44.593,
     "end": 46.413,
-    "zh": "我感觉很难受。",
-    "zh_hant": "我感覺很難受。"
+    "zh": "我感觉难受极了。",
+    "zh_hant": "我感覺難受極了。"
   },
   {
     "index": 15,
     "text": "I have a terrible toothache.",
     "start": 46.974,
     "end": 50.135,
-    "zh": "我牙疼得厉害。",
-    "zh_hant": "我牙疼得厲害。"
+    "zh": "我牙痛得厉害。",
+    "zh_hant": "我牙痛得厲害。"
   },
   {
     "index": 16,
-    "text": "Can you come at 10 a.m. on Monday,",
+    "text": "Can you come",
     "start": 50.816,
-    "end": 54.778,
-    "zh": "你能周一上午十点来吗，",
-    "zh_hant": "你能週一上午十點來嗎，"
+    "end": 52.316,
+    "zh": "您能在",
+    "zh_hant": "您能在"
   },
   {
     "index": 17,
-    "text": "April 24th?",
-    "start": 54.838,
-    "end": 56.819,
-    "zh": "4月24日？",
-    "zh_hant": "4月24日？"
+    "text": "at 10 a.m. on Monday, April",
+    "start": 51.966,
+    "end": 55.698,
+    "zh": "4月星期一上午10点来吗？",
+    "zh_hant": "4月星期一上午10點來嗎？"
   },
   {
     "index": 18,
@@ -156,16 +156,16 @@
     "text": "The dentist is very busy at the moment.",
     "start": 62.802,
     "end": 67.044,
-    "zh": "牙医此刻很忙。",
-    "zh_hant": "牙醫此刻很忙。"
+    "zh": "牙医现在很忙。",
+    "zh_hant": "牙醫現在很忙。"
   },
   {
     "index": 20,
     "text": "Can you come at 2 p.m. ?",
     "start": 67.264,
     "end": 71.01,
-    "zh": "你能下午两点来吗？",
-    "zh_hant": "你能下午兩點來嗎？"
+    "zh": "您能在下午2点来吗？",
+    "zh_hant": "您能在下午2點來嗎？"
   },
   {
     "index": 21,
@@ -180,8 +180,8 @@
     "text": "Can the dentist see me now?",
     "start": 74.247,
     "end": 77.069,
-    "zh": "牙医现在能见我吗？",
-    "zh_hant": "牙醫現在能見我嗎？"
+    "zh": "牙医现在能见我呢？",
+    "zh_hant": "牙醫現在能見我呢？"
   },
   {
     "index": 23,
@@ -196,15 +196,15 @@
     "text": "Can't you wait till this afternoon?",
     "start": 82.036,
     "end": 85.481,
-    "zh": "你不能等到今天下午吗？",
-    "zh_hant": "你不能等到今天下午嗎？"
+    "zh": "您不能等到今天下午吗？",
+    "zh_hant": "您不能等到今天下午嗎？"
   },
   {
     "index": 25,
     "text": "I can wait, but my toothache can't!",
     "start": 86.483,
     "end": 90.769,
-    "zh": "我可以等，但我的牙疼等不了！",
-    "zh_hant": "我可以等，但我的牙疼等不了！"
+    "zh": "我能等，但我的牙痛不能等！",
+    "zh_hant": "我能等，但我的牙痛不能等！"
   }
 ]

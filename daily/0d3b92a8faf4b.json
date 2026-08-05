@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 9 How are you today?",
+    "text": "Lesson 9.",
     "start": 1.131,
-    "end": 5.132,
-    "zh": "第9课 你今天好吗？",
-    "zh_hant": "第9課 你今天好嗎？"
+    "end": 3.002,
+    "zh": "第九课。",
+    "zh_hant": "第九課。"
   },
   {
     "index": 1,
+    "text": "How are you today?",
+    "start": 3.052,
+    "end": 5.132,
+    "zh": "你今天好吗？",
+    "zh_hant": "你今天好嗎？"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 6.413,
     "end": 10.735,
@@ -16,15 +24,15 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "How is Emma?",
     "start": 11.776,
     "end": 13.437,
-    "zh": "埃玛怎么样？",
-    "zh_hant": "埃瑪怎麼樣？"
+    "zh": "埃玛好吗？",
+    "zh_hant": "埃瑪好嗎？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Hello Helen.",
     "start": 16.178,
     "end": 17.439,
@@ -32,7 +40,7 @@
     "zh_hant": "你好，海倫。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Hi Steven.",
     "start": 18.239,
     "end": 19.8,
@@ -40,7 +48,7 @@
     "zh_hant": "你好，史蒂文。"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "How are you today?",
     "start": 20.681,
     "end": 22.741,
@@ -48,7 +56,7 @@
     "zh_hant": "你今天好嗎？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "I'm very well thank you.",
     "start": 23.722,
     "end": 26.123,
@@ -56,7 +64,7 @@
     "zh_hant": "我很好，謝謝你。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "And you?",
     "start": 26.984,
     "end": 27.924,
@@ -64,7 +72,7 @@
     "zh_hant": "你呢？"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "I'm fine thanks.",
     "start": 28.705,
     "end": 30.526,
@@ -72,15 +80,15 @@
     "zh_hant": "我很好，謝謝。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "How is Tony?",
     "start": 32.427,
     "end": 33.987,
-    "zh": "托尼怎么样？",
-    "zh_hant": "託尼怎麼樣？"
+    "zh": "托尼好吗？",
+    "zh_hant": "託尼好嗎？"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "He's fine thanks.",
     "start": 34.668,
     "end": 36.909,
@@ -88,15 +96,15 @@
     "zh_hant": "他很好，謝謝。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "How's Emma?",
     "start": 37.81,
     "end": 39.01,
-    "zh": "埃玛怎么样？",
-    "zh_hant": "埃瑪怎麼樣？"
+    "zh": "埃玛好吗？",
+    "zh_hant": "埃瑪好嗎？"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "She's very well too Helen.",
     "start": 40.113,
     "end": 42.816,
@@ -104,7 +112,7 @@
     "zh_hant": "她也很好，海倫。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "Goodbye Helen.",
     "start": 44.779,
     "end": 46.12,
@@ -112,7 +120,7 @@
     "zh_hant": "再見，海倫。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "Nice to see you.",
     "start": 46.762,
     "end": 48.143,
@@ -120,7 +128,7 @@
     "zh_hant": "很高興見到你。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Nice to see you too Steven.",
     "start": 48.984,
     "end": 52.088,
@@ -128,7 +136,7 @@
     "zh_hant": "我也很高興見到你，史蒂文。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Goodbye.",
     "start": 52.629,
     "end": 53.67,

@@ -1,22 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 69 The car race",
+    "text": "Lesson 69.",
     "start": 1.551,
-    "end": 5.552,
-    "zh": "第69课 汽车比赛",
-    "zh_hant": "第69課 汽車比賽"
+    "end": 3.902,
+    "zh": "第69课。",
+    "zh_hant": "第69課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.653,
-    "end": 10.515,
-    "zh": "听录音，然后回答问题。",
-    "zh_hant": "聽錄音，然後回答問題。"
+    "text": "The car race.",
+    "start": 3.952,
+    "end": 5.552,
+    "zh": "汽车比赛。",
+    "zh_hant": "汽車比賽。"
   },
   {
     "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.653,
+    "end": 10.515,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
+  },
+  {
+    "index": 3,
     "text": "Which car was the winner in 1995?",
     "start": 12.736,
     "end": 18.29,
@@ -24,15 +32,15 @@
     "zh_hant": "1995年哪輛車是冠軍？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "There is a car race near our town every year.",
     "start": 18.839,
     "end": 22.741,
-    "zh": "我们城镇附近每年都有一场汽车比赛。",
-    "zh_hant": "我們城鎮附近每年都有一場汽車比賽。"
+    "zh": "每年我们镇附近都会举行一场汽车比赛。",
+    "zh_hant": "每年我們鎮附近都會舉行一場汽車比賽。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "In 1995, there was a very big",
     "start": 23.561,
     "end": 27.763,
@@ -40,7 +48,7 @@
     "zh_hant": "1995年，有一場非常大的"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "race.",
     "start": 27.413,
     "end": 28.323,
@@ -48,7 +56,7 @@
     "zh_hant": "比賽。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "There were hundreds of people there.",
     "start": 29.184,
     "end": 31.505,
@@ -56,15 +64,15 @@
     "zh_hant": "那裡有數百人。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "My wife and I were at the race.",
     "start": 32.326,
     "end": 35.107,
-    "zh": "我和妻子都在比赛现场。",
-    "zh_hant": "我和妻子都在比賽現場。"
+    "zh": "我和妻子都去了比赛现场。",
+    "zh_hant": "我和妻子都去了比賽現場。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "Our friends Julie and Jack were there, too.",
     "start": 35.907,
     "end": 39.529,
@@ -72,7 +80,7 @@
     "zh_hant": "我們的朋友朱莉和傑克也在那裡。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "You can see us in the crowd.",
     "start": 40.59,
     "end": 42.571,
@@ -80,7 +88,7 @@
     "zh_hant": "你可以在人群中看到我們。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "We are standing on the left.",
     "start": 43.171,
     "end": 45.252,
@@ -88,7 +96,7 @@
     "zh_hant": "我們站在左邊。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "There were twenty cars in the race.",
     "start": 47.293,
     "end": 50.014,
@@ -96,7 +104,7 @@
     "zh_hant": "比賽中有二十輛車。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "There were English cars, French cars,",
     "start": 50.635,
     "end": 54.197,
@@ -104,7 +112,7 @@
     "zh_hant": "有英國車、法國車、"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "German cars, Italian cars,",
     "start": 54.517,
     "end": 57.998,
@@ -112,7 +120,7 @@
     "zh_hant": "德國車、義大利車、"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "American cars and Japanese cars.",
     "start": 58.079,
     "end": 61.56,
@@ -120,15 +128,15 @@
     "zh_hant": "美國車和日本車。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "It was an exciting finish.",
     "start": 62.701,
     "end": 65.122,
-    "zh": "那是一个激动人心的结尾。",
-    "zh_hant": "那是一個激動人心的結尾。"
+    "zh": "那是一个激动人心的终点。",
+    "zh_hant": "那是一個激動人心的終點。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "The winner was Billy Stewart.",
     "start": 65.783,
     "end": 68.204,
@@ -136,7 +144,7 @@
     "zh_hant": "冠軍是比利·斯圖爾特。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "He was in car number fifteen.",
     "start": 69.144,
     "end": 71.605,
@@ -144,15 +152,15 @@
     "zh_hant": "他開的是15號車。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Five other cars were just behind him.",
     "start": 72.366,
     "end": 75.707,
-    "zh": "其他五辆车紧跟在他后面。",
-    "zh_hant": "其他五輛車緊跟在他後面。"
+    "zh": "另外五辆车紧跟在他后面。",
+    "zh_hant": "另外五輛車緊跟在他後面。"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "On the way home, my wife said to me,",
     "start": 77.268,
     "end": 80.401,
@@ -160,7 +168,7 @@
     "zh_hant": "在回家的路上，我妻子對我說："
   },
   {
-    "index": 20,
+    "index": 21,
     "text": "'Don't drive so quickly!",
     "start": 80.001,
     "end": 83.321,
@@ -168,11 +176,11 @@
     "zh_hant": "'別開這麼快！"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "You're not Billy Stewart!'",
     "start": 83.704,
     "end": 85.769,
-    "zh": "你不是比利·斯图尔特！'",
-    "zh_hant": "你不是比利·斯圖爾特！'"
+    "zh": "你又不是比利·斯图尔特！'",
+    "zh_hant": "你又不是比利·斯圖爾特！'"
   }
 ]

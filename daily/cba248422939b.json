@@ -1,14 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 23 Which glasses?",
+    "text": "Lesson 23.",
     "start": 1.571,
-    "end": 6.033,
-    "zh": "第23课 哪些玻璃杯？",
-    "zh_hant": "第23課 哪些玻璃杯？"
+    "end": 4.422,
+    "zh": "第二十三课。",
+    "zh_hant": "第二十三課。"
   },
   {
     "index": 1,
+    "text": "Which glasses?",
+    "start": 4.472,
+    "end": 6.033,
+    "zh": "哪些玻璃杯？",
+    "zh_hant": "哪些玻璃杯？"
+  },
+  {
+    "index": 2,
     "text": "Listen to the tape then answer this question.",
     "start": 7.434,
     "end": 11.475,
@@ -16,7 +24,7 @@
     "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
-    "index": 2,
+    "index": 3,
     "text": "Which glasses does the man want?",
     "start": 13.677,
     "end": 16.658,
@@ -24,7 +32,7 @@
     "zh_hant": "這個男人想要哪些玻璃杯？"
   },
   {
-    "index": 3,
+    "index": 4,
     "text": "Give me some glasses please, Jane.",
     "start": 19.099,
     "end": 22.081,
@@ -32,7 +40,7 @@
     "zh_hant": "請給我一些玻璃杯，簡。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Which glasses?",
     "start": 23.262,
     "end": 24.822,
@@ -40,7 +48,7 @@
     "zh_hant": "哪些玻璃杯？"
   },
   {
-    "index": 5,
+    "index": 6,
     "text": "These glasses?",
     "start": 25.683,
     "end": 27.223,
@@ -48,7 +56,7 @@
     "zh_hant": "這些玻璃杯嗎？"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "No, not those.",
     "start": 28.104,
     "end": 30.325,
@@ -56,7 +64,7 @@
     "zh_hant": "不，不是那些。"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "The ones on the shelf.",
     "start": 30.705,
     "end": 32.786,
@@ -64,7 +72,7 @@
     "zh_hant": "架子上的那些。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "These?",
     "start": 33.407,
     "end": 34.427,
@@ -72,15 +80,15 @@
     "zh_hant": "這些嗎？"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "Yes, please.",
     "start": 35.068,
     "end": 36.668,
-    "zh": "是的，请给我。",
-    "zh_hant": "是的，請給我。"
+    "zh": "好的，请。",
+    "zh_hant": "好的，請。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "Here you are.",
     "start": 37.069,
     "end": 38.369,
@@ -88,7 +96,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "Thanks.",
     "start": 39.21,
     "end": 40.17,

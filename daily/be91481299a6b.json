@@ -1,62 +1,78 @@
 [
   {
     "index": 0,
-    "text": "Lesson 6 The sporting spirit",
+    "text": "Lesson 6.",
     "start": 1.51,
-    "end": 12.195,
-    "zh": "第6课 体育精神",
-    "zh_hant": "第6課 體育精神"
+    "end": 5.09,
+    "zh": "第六课。",
+    "zh_hant": "第六課。"
   },
   {
     "index": 1,
-    "text": "How does the writer describe sport at the international level?",
-    "start": 11.845,
-    "end": 16.317,
-    "zh": "作者如何描述国际层面的体育运动？",
-    "zh_hant": "作者如何描述國際層面的體育運動？"
+    "text": "The sporting spirit.",
+    "start": 7.433,
+    "end": 12.195,
+    "zh": "体育精神。",
+    "zh_hant": "體育精神。"
   },
   {
     "index": 2,
-    "text": "I am always amazed when I hear people saying that sport creates goodwill between the nations,",
-    "start": 18.719,
-    "end": 24.862,
-    "zh": "当我听到人们说体育能增进国家间的友谊时，我总是感到惊讶，",
-    "zh_hant": "當我聽到人們說體育能增進國家間的友誼時，我總是感到驚訝，"
+    "text": "How does the writer describe sport at the international level?",
+    "start": 11.845,
+    "end": 16.317,
+    "zh": "作者是如何描述国际层面上的体育的？",
+    "zh_hant": "作者是如何描述國際層面上的體育的？"
   },
   {
     "index": 3,
-    "text": "and that if only the common peoples of the world could meet one another at football or cricket,",
-    "start": 25.182,
-    "end": 31.505,
-    "zh": "还说只要世界上的普通民众能在足球或板球场上相遇，",
-    "zh_hant": "還說只要世界上的普通民眾能在足球或板球場上相遇，"
+    "text": "I am always amazed when I hear people saying that sport creates goodwill",
+    "start": 18.719,
+    "end": 23.761,
+    "zh": "每当我听到人们说体育能增进国家间的友好时，我总感到惊讶，",
+    "zh_hant": "每當我聽到人們說體育能增進國家間的友好時，我總感到驚訝，"
   },
   {
     "index": 4,
-    "text": "they would have no inclination to meet on the battlefield.",
-    "start": 31.665,
-    "end": 35.527,
-    "zh": "他们就不会想在战场上兵戎相见。",
-    "zh_hant": "他們就不會想在戰場上兵戎相見。"
+    "text": "between the nations, and that if only the common peoples of the world",
+    "start": 23.411,
+    "end": 28.624,
+    "zh": "说只要世界上的普通民众",
+    "zh_hant": "說只要世界上的普通民眾"
   },
   {
     "index": 5,
-    "text": "Even if one didn't know from concrete examples",
-    "start": 36.428,
-    "end": 39.989,
-    "zh": "即使人们不从具体例子中得知",
-    "zh_hant": "即使人們不從具體例子中得知"
+    "text": "could meet one another at football or cricket,",
+    "start": 28.424,
+    "end": 31.505,
+    "zh": "能在足球或板球场上相遇，",
+    "zh_hant": "能在足球或板球場上相遇，"
   },
   {
     "index": 6,
-    "text": "(the 1936 Olympic Games, for instance)",
-    "start": 40.069,
-    "end": 43.191,
-    "zh": "（例如1936年奥运会）",
-    "zh_hant": "（例如1936年奧運會）"
+    "text": "they would have no inclination to meet on the battlefield.",
+    "start": 31.665,
+    "end": 35.527,
+    "zh": "他们就不会有在战场上交锋的念头。",
+    "zh_hant": "他們就不會有在戰場上交鋒的念頭。"
   },
   {
     "index": 7,
+    "text": "Even if one didn't know from concrete examples",
+    "start": 36.428,
+    "end": 39.989,
+    "zh": "即使不从具体例子中了解",
+    "zh_hant": "即使不從具體例子中瞭解"
+  },
+  {
+    "index": 8,
+    "text": "(the 1936 Olympic Games, for instance)",
+    "start": 40.069,
+    "end": 43.191,
+    "zh": "（比如1936年的奥运会），",
+    "zh_hant": "（比如1936年的奧運會），"
+  },
+  {
+    "index": 9,
     "text": "that international sporting contests lead to orgies of hatred,",
     "start": 43.391,
     "end": 48.634,
@@ -64,47 +80,47 @@
     "zh_hant": "國際體育比賽會導致仇恨的狂歡，"
   },
   {
-    "index": 8,
+    "index": 10,
     "text": "one could deduce it from general principles.",
     "start": 49.214,
     "end": 52.576,
-    "zh": "人们也能从一般原则中推断出这一点。",
-    "zh_hant": "人們也能從一般原則中推斷出這一點。"
-  },
-  {
-    "index": 9,
-    "text": "Nearly all the sports practised nowadays are competitive.",
-    "start": 53.837,
-    "end": 57.758,
-    "zh": "如今几乎所有的运动都是竞争性的。",
-    "zh_hant": "如今幾乎所有的運動都是競爭性的。"
-  },
-  {
-    "index": 10,
-    "text": "You play to win, and the game has little meaning unless you do your utmost to win.",
-    "start": 58.319,
-    "end": 64.161,
-    "zh": "你比赛是为了赢，除非你竭尽全力去赢，否则比赛就没什么意义。",
-    "zh_hant": "你比賽是為了贏，除非你竭盡全力去贏，否則比賽就沒什麼意義。"
+    "zh": "也能从一般原理中推断出来。",
+    "zh_hant": "也能從一般原理中推斷出來。"
   },
   {
     "index": 11,
-    "text": "On the village green, where you pick up sides and no feeling of local patriotism is involved,",
-    "start": 64.742,
-    "end": 71.105,
-    "zh": "在乡村草地上，你随便分边，不涉及任何地方爱国情绪，",
-    "zh_hant": "在鄉村草地上，你隨便分邊，不涉及任何地方愛國情緒，"
+    "text": "Nearly all the sports practised nowadays are competitive.",
+    "start": 53.837,
+    "end": 57.758,
+    "zh": "如今几乎所有参与的运动都是竞争性的。",
+    "zh_hant": "如今幾乎所有參與的運動都是競爭性的。"
   },
   {
     "index": 12,
-    "text": "it is possible to play simply for the fun and exercise:",
-    "start": 71.545,
-    "end": 75.767,
-    "zh": "可以纯粹为了乐趣和锻炼而比赛：",
-    "zh_hant": "可以純粹為了樂趣和鍛鍊而比賽："
+    "text": "You play to win, and the game has little meaning unless you do your utmost to win.",
+    "start": 58.319,
+    "end": 64.161,
+    "zh": "你为取胜而比赛，除非你尽全力去赢，否则比赛就没什么意义。",
+    "zh_hant": "你為取勝而比賽，除非你盡全力去贏，否則比賽就沒什麼意義。"
   },
   {
     "index": 13,
+    "text": "On the village green, where you pick up sides and no feeling of local patriotism is involved,",
+    "start": 64.742,
+    "end": 71.105,
+    "zh": "在乡村的绿地上，你随便分组，不含任何地方爱国情绪，",
+    "zh_hant": "在鄉村的綠地上，你隨便分組，不含任何地方愛國情緒，"
+  },
+  {
+    "index": 14,
+    "text": "it is possible to play simply for the fun and exercise:",
+    "start": 71.545,
+    "end": 75.767,
+    "zh": "就能纯粹为了乐趣和锻炼而打球：",
+    "zh_hant": "就能純粹為了樂趣和鍛鍊而打球："
+  },
+  {
+    "index": 15,
     "text": "but as soon as a the question of prestige arises,",
     "start": 76.288,
     "end": 79.829,
@@ -112,15 +128,15 @@
     "zh_hant": "但一旦涉及聲望問題，"
   },
   {
-    "index": 14,
+    "index": 16,
     "text": "as soon as you feel that you and some larger unit will be disgraced if you lose,",
     "start": 79.969,
     "end": 85.672,
-    "zh": "一旦你觉得如果你输了，你自己和某个更大的群体都会丢脸，",
-    "zh_hant": "一旦你覺得如果你輸了，你自己和某個更大的群體都會丟臉，"
+    "zh": "一旦你感到如果输了，自己和某个更大的群体将蒙羞，",
+    "zh_hant": "一旦你感到如果輸了，自己和某個更大的群體將蒙羞，"
   },
   {
-    "index": 15,
+    "index": 17,
     "text": "the most savage combative instincts are aroused.",
     "start": 85.953,
     "end": 89.774,
@@ -128,31 +144,31 @@
     "zh_hant": "最野蠻的好鬥本能就會被激發出來。"
   },
   {
-    "index": 16,
+    "index": 18,
     "text": "Anyone who has played even in a school football match knows this.",
     "start": 90.695,
     "end": 95.077,
-    "zh": "任何参加过哪怕学校足球比赛的人都知道这一点。",
-    "zh_hant": "任何參加過哪怕學校足球比賽的人都知道這一點。"
-  },
-  {
-    "index": 17,
-    "text": "At the international level, sport is frankly mimic warfare.",
-    "start": 95.998,
-    "end": 100.88,
-    "zh": "在国际层面，体育坦率地说就是模拟战争。",
-    "zh_hant": "在國際層面，體育坦率地說就是模擬戰爭。"
-  },
-  {
-    "index": 18,
-    "text": "But the significant thing is not the behaviour of the players",
-    "start": 101.48,
-    "end": 105.702,
-    "zh": "但重要的不是球员的行为，",
-    "zh_hant": "但重要的不是球員的行為，"
+    "zh": "任何参加过哪怕一场校际足球赛的人都知道这一点。",
+    "zh_hant": "任何參加過哪怕一場校際足球賽的人都知道這一點。"
   },
   {
     "index": 19,
+    "text": "At the international level, sport is frankly mimic warfare.",
+    "start": 95.998,
+    "end": 100.88,
+    "zh": "在国际层面，体育坦白地说就是模拟战争。",
+    "zh_hant": "在國際層面，體育坦白地說就是模擬戰爭。"
+  },
+  {
+    "index": 20,
+    "text": "But the significant thing is not the behaviour of the players",
+    "start": 101.48,
+    "end": 105.702,
+    "zh": "但关键的不是运动员的行为，",
+    "zh_hant": "但關鍵的不是運動員的行為，"
+  },
+  {
+    "index": 21,
     "text": "but the attitude of the spectators:",
     "start": 105.762,
     "end": 108.423,
@@ -160,35 +176,43 @@
     "zh_hant": "而是觀眾的態度："
   },
   {
-    "index": 20,
+    "index": 22,
     "text": "and, behind the spectators,",
     "start": 108.844,
     "end": 111.165,
-    "zh": "而且，在观众背后，",
-    "zh_hant": "而且，在觀眾背後，"
-  },
-  {
-    "index": 21,
-    "text": "of the nations who work themselves into furies over these absurd contests,",
-    "start": 111.165,
-    "end": 116.948,
-    "zh": "还有那些对这些荒谬比赛狂怒不已的国家，",
-    "zh_hant": "還有那些對這些荒謬比賽狂怒不已的國家，"
-  },
-  {
-    "index": 22,
-    "text": "and seriously believe -- at any rate for short periods --",
-    "start": 117.108,
-    "end": 122.16,
-    "zh": "并认真相信——至少短时间内——",
-    "zh_hant": "並認真相信——至少短時間內——"
+    "zh": "以及在观众背后，",
+    "zh_hant": "以及在觀眾背後，"
   },
   {
     "index": 23,
-    "text": "that running, jumping and kicking a ball are tests of national virtue.",
-    "start": 122.034,
+    "text": "of the nations who work themselves into furies over these absurd contests,",
+    "start": 111.165,
+    "end": 116.948,
+    "zh": "那些对这些荒谬赛事狂怒不已的各国民族，",
+    "zh_hant": "那些對這些荒謬賽事狂怒不已的各國民族，"
+  },
+  {
+    "index": 24,
+    "text": "and seriously believe -- at any rate for short periods -- that running,",
+    "start": 117.108,
+    "end": 123.156,
+    "zh": "并且认真相信——至少短期内——跑步、",
+    "zh_hant": "並且認真相信——至少短期內——跑步、"
+  },
+  {
+    "index": 25,
+    "text": "jumping and kicking a ball are tests",
+    "start": 123.157,
+    "end": 126.765,
+    "zh": "跳跃和踢球是对",
+    "zh_hant": "跳躍和踢球是對"
+  },
+  {
+    "index": 26,
+    "text": "of national virtue.",
+    "start": 126.566,
     "end": 128.369,
-    "zh": "跑步、跳高和踢球是对国家美德的考验。",
-    "zh_hant": "跑步、跳高和踢球是對國家美德的考驗。"
+    "zh": "民族美德的考验。",
+    "zh_hant": "民族美德的考驗。"
   }
 ]

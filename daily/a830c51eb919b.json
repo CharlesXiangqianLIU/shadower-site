@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 19 Tired",
+    "text": "Lesson 19.",
     "start": 1.571,
-    "end": 5.032,
-    "zh": "第19课 累了",
-    "zh_hant": "第19課 累了"
+    "end": 4.062,
+    "zh": "第19课。",
+    "zh_hant": "第19課。"
   },
   {
     "index": 1,
-    "text": "and thirsty",
-    "start": 5.012,
+    "text": "Tired and thirsty.",
+    "start": 4.112,
     "end": 6.233,
-    "zh": "而且渴了",
-    "zh_hant": "而且渴了"
+    "zh": "又累又渴。",
+    "zh_hant": "又累又渴。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "Why do the children thank their mother?",
     "start": 13.677,
     "end": 16.778,
-    "zh": "为什么孩子们要感谢他们的妈妈？",
-    "zh_hant": "為什麼孩子們要感謝他們的媽媽？"
+    "zh": "孩子们为什么感谢他们的妈妈？",
+    "zh_hant": "孩子們為什麼感謝他們的媽媽？"
   },
   {
     "index": 4,
@@ -68,8 +68,8 @@
     "text": "Sit down here.",
     "start": 27.723,
     "end": 29.624,
-    "zh": "在这里坐下。",
-    "zh_hant": "在這裡坐下。"
+    "zh": "坐在这儿吧。",
+    "zh_hant": "坐在這兒吧。"
   },
   {
     "index": 9,
@@ -84,8 +84,8 @@
     "text": "No we aren't.",
     "start": 33.866,
     "end": 36.287,
-    "zh": "不，我们还没好。",
-    "zh_hant": "不，我們還沒好。"
+    "zh": "不，我们还没有。",
+    "zh_hant": "不，我們還沒有。"
   },
   {
     "index": 11,
@@ -100,16 +100,16 @@
     "text": "There's an ice cream man.",
     "start": 39.089,
     "end": 41.731,
-    "zh": "有一个卖冰淇淋的人。",
-    "zh_hant": "有一個賣冰淇淋的人。"
+    "zh": "有个卖冰淇淋的人。",
+    "zh_hant": "有個賣冰淇淋的人。"
   },
   {
     "index": 13,
     "text": "Two ice cream please.",
     "start": 43.493,
     "end": 46.274,
-    "zh": "请来两份冰淇淋。",
-    "zh_hant": "請來兩份冰淇淋。"
+    "zh": "请来两个冰淇淋。",
+    "zh_hant": "請來兩個冰淇淋。"
   },
   {
     "index": 14,
@@ -132,8 +132,8 @@
     "text": "These ice creams are nice.",
     "start": 54.561,
     "end": 58.184,
-    "zh": "这些冰淇淋很好吃。",
-    "zh_hant": "這些冰淇淋很好吃。"
+    "zh": "这些冰淇淋真好吃。",
+    "zh_hant": "這些冰淇淋真好吃。"
   },
   {
     "index": 17,
@@ -148,7 +148,7 @@
     "text": "Yes we are thank you!",
     "start": 62.548,
     "end": 65.81,
-    "zh": "是的，我们好了，谢谢你！",
-    "zh_hant": "是的，我們好了，謝謝你！"
+    "zh": "是的，我们好了，谢谢！",
+    "zh_hant": "是的，我們好了，謝謝！"
   }
 ]

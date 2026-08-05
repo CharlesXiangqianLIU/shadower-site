@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 127 A famous",
+    "text": "Lesson 127.",
     "start": 0.63,
-    "end": 4.672,
-    "zh": "第127课 一位著名的",
-    "zh_hant": "第127課 一位著名的"
+    "end": 3.442,
+    "zh": "第127课。",
+    "zh_hant": "第127課。"
   },
   {
     "index": 1,
-    "text": "actress",
-    "start": 4.432,
+    "text": "A famous actress.",
+    "start": 3.492,
     "end": 5.453,
-    "zh": "女演员",
-    "zh_hant": "女演員"
+    "zh": "一位著名的女演员。",
+    "zh_hant": "一位著名的女演員。"
   },
   {
     "index": 2,
@@ -44,8 +44,8 @@
     "text": "and why is it so unclear?",
     "start": 14.958,
     "end": 18.379,
-    "zh": "为什么这件事这么不清楚？",
-    "zh_hant": "為什麼這件事這麼不清楚？"
+    "zh": "为什么这么不清楚？",
+    "zh_hant": "為什麼這麼不清楚？"
   },
   {
     "index": 6,
@@ -68,8 +68,8 @@
     "text": "It must be Karen Marsh,",
     "start": 28.244,
     "end": 31.386,
-    "zh": "那一定是卡伦·马什，",
-    "zh_hant": "那一定是卡倫·馬什，"
+    "zh": "一定是凯伦·马什，",
+    "zh_hant": "一定是凱倫·馬什，"
   },
   {
     "index": 9,
@@ -92,8 +92,8 @@
     "text": "Who's that beside her?",
     "start": 35.268,
     "end": 37.489,
-    "zh": "她旁边的那个人是谁？",
-    "zh_hant": "她旁邊的那個人是誰？"
+    "zh": "她旁边是谁？",
+    "zh_hant": "她旁邊是誰？"
   },
   {
     "index": 12,
@@ -116,8 +116,8 @@
     "text": "It can't be.",
     "start": 45.833,
     "end": 47.234,
-    "zh": "不可能是。",
-    "zh_hant": "不可能是。"
+    "zh": "不可能。",
+    "zh_hant": "不可能。"
   },
   {
     "index": 15,
@@ -156,64 +156,64 @@
     "text": "He must be her fourth or fifth.",
     "start": 58.82,
     "end": 62.501,
-    "zh": "他一定是她的第四任或第五任。",
-    "zh_hant": "他一定是她的第四任或第五任。"
+    "zh": "他一定是她的第四或第五任。",
+    "zh_hant": "他一定是她的第四或第五任。"
   },
   {
     "index": 20,
     "text": "Doesn't Karen Marsh look old!",
     "start": 63.762,
     "end": 66.903,
-    "zh": "卡伦·马什看起来真老！",
-    "zh_hant": "卡倫·馬什看起來真老！"
+    "zh": "凯伦·马什看起来真老啊！",
+    "zh_hant": "凱倫·馬什看起來真老啊！"
   },
   {
     "index": 21,
     "text": "She does, doesn't she!",
     "start": 67.604,
     "end": 70.145,
-    "zh": "她确实老了，不是吗！",
-    "zh_hant": "她確實老了，不是嗎！"
+    "zh": "确实，不是吗！",
+    "zh_hant": "確實，不是嗎！"
   },
   {
     "index": 22,
     "text": "I read she's twenty-nine,",
     "start": 71.186,
     "end": 74.407,
-    "zh": "我读到她二十九岁，",
-    "zh_hant": "我讀到她二十九歲，"
+    "zh": "我读到她说她二十九岁，",
+    "zh_hant": "我讀到她說她二十九歲，"
   },
   {
     "index": 23,
     "text": "but she must be at least forty.",
     "start": 74.748,
     "end": 78.129,
-    "zh": "但她一定至少四十岁了。",
-    "zh_hant": "但她一定至少四十歲了。"
+    "zh": "但她肯定至少四十岁了。",
+    "zh_hant": "但她肯定至少四十歲了。"
   },
   {
     "index": 24,
     "text": "I'm sure she is.",
     "start": 79.23,
     "end": 81.452,
-    "zh": "我肯定她是。",
-    "zh_hant": "我肯定她是。"
+    "zh": "我确信是这样。",
+    "zh_hant": "我確信是這樣。"
   },
   {
     "index": 25,
     "text": "She was a famous actress",
     "start": 82.514,
     "end": 85.056,
-    "zh": "她是一位著名的女演员",
-    "zh_hant": "她是一位著名的女演員"
+    "zh": "她是个著名的女演员，",
+    "zh_hant": "她是個著名的女演員，"
   },
   {
     "index": 26,
     "text": "when I was still at school.",
     "start": 84.936,
     "end": 87.758,
-    "zh": "当我还上学的时候。",
-    "zh_hant": "當我還上學的時候。"
+    "zh": "在我还在上学的时候。",
+    "zh_hant": "在我還在上學的時候。"
   },
   {
     "index": 27,
@@ -236,7 +236,7 @@
     "text": "I'm not more than twenty-nine myself.",
     "start": 96.447,
     "end": 100.09,
-    "zh": "我自己也不超过二十九岁。",
-    "zh_hant": "我自己也不超過二十九歲。"
+    "zh": "我自己也不到二十九岁。",
+    "zh_hant": "我自己也不到二十九歲。"
   }
 ]

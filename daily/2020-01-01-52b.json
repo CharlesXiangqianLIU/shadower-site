@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 103 The French",
+    "text": "Lesson 103.",
     "start": 0.71,
-    "end": 4.652,
-    "zh": "第103课 法语",
-    "zh_hant": "第103課 法語"
+    "end": 3.462,
+    "zh": "第103课。",
+    "zh_hant": "第103課。"
   },
   {
     "index": 1,
-    "text": "test",
-    "start": 4.372,
+    "text": "The French test.",
+    "start": 3.512,
     "end": 5.393,
-    "zh": "测试",
-    "zh_hant": "測試"
+    "zh": "法语考试。",
+    "zh_hant": "法語考試。"
   },
   {
     "index": 2,
@@ -52,24 +52,24 @@
     "text": "Not too bad.",
     "start": 20.761,
     "end": 22.401,
-    "zh": "还不错。",
-    "zh_hant": "還不錯。"
+    "zh": "不算太差。",
+    "zh_hant": "不算太差。"
   },
   {
     "index": 7,
     "text": "I think I passed in English and Mathematics.",
     "start": 22.642,
     "end": 27.004,
-    "zh": "我想我英语和数学及格了。",
-    "zh_hant": "我想我英語和數學及格了。"
+    "zh": "我觉得我英语和数学及格了。",
+    "zh_hant": "我覺得我英語和數學及格了。"
   },
   {
     "index": 8,
     "text": "The questions were very easy.",
     "start": 27.204,
     "end": 29.865,
-    "zh": "题目都很简单。",
-    "zh_hant": "題目都很簡單。"
+    "zh": "题目非常容易。",
+    "zh_hant": "題目非常容易。"
   },
   {
     "index": 9,
@@ -84,16 +84,16 @@
     "text": "The English and Maths papers weren't",
     "start": 33.967,
     "end": 37.529,
-    "zh": "英语和数学试卷",
-    "zh_hant": "英語和數學試卷"
+    "zh": "英语和数学试卷对我来说",
+    "zh_hant": "英語和數學試卷對我來說"
   },
   {
     "index": 11,
     "text": "easy enough for me.",
     "start": 37.329,
     "end": 39.35,
-    "zh": "对我来说不够简单。",
-    "zh_hant": "對我來說不夠簡單。"
+    "zh": "不够容易。",
+    "zh_hant": "不夠容易。"
   },
   {
     "index": 12,
@@ -108,48 +108,48 @@
     "text": "I think I failed the French paper.",
     "start": 42.892,
     "end": 46.053,
-    "zh": "我想我法语没及格。",
-    "zh_hant": "我想我法語沒及格。"
+    "zh": "我觉得我法语考砸了。",
+    "zh_hant": "我覺得我法語考砸了。"
   },
   {
     "index": 14,
     "text": "I could answer sixteen of the questions.",
     "start": 46.674,
     "end": 50.395,
-    "zh": "我能回答十六道题。",
-    "zh_hant": "我能回答十六道題。"
+    "zh": "我能回答其中16道题。",
+    "zh_hant": "我能回答其中16道題。"
   },
   {
     "index": 15,
     "text": "They were very easy.",
     "start": 50.516,
     "end": 52.556,
-    "zh": "那些都很简单。",
-    "zh_hant": "那些都很簡單。"
+    "zh": "它们很容易。",
+    "zh_hant": "它們很容易。"
   },
   {
     "index": 16,
     "text": "But I couldn't answer the rest.",
     "start": 52.937,
     "end": 55.878,
-    "zh": "但我答不了剩下的。",
-    "zh_hant": "但我答不了剩下的。"
+    "zh": "但其余的题我答不上来。",
+    "zh_hant": "但其餘的題我答不上來。"
   },
   {
     "index": 17,
     "text": "They were too difficult for me.",
     "start": 56.138,
     "end": 58.839,
-    "zh": "那些对我来说太难了。",
-    "zh_hant": "那些對我來說太難了。"
+    "zh": "对我来说太难了。",
+    "zh_hant": "對我來說太難了。"
   },
   {
     "index": 18,
     "text": "French tests are awful, aren't they?",
     "start": 60.2,
     "end": 63.542,
-    "zh": "法语考试很糟糕，不是吗？",
-    "zh_hant": "法語考試很糟糕，不是嗎？"
+    "zh": "法语考试太糟糕了，不是吗？",
+    "zh_hant": "法語考試太糟糕了，不是嗎？"
   },
   {
     "index": 19,
@@ -164,8 +164,8 @@
     "text": "I'm sure I've got a low mark.",
     "start": 65.783,
     "end": 68.864,
-    "zh": "我肯定我得分很低。",
-    "zh_hant": "我肯定我得分很低。"
+    "zh": "我肯定我得了低分。",
+    "zh_hant": "我肯定我得了低分。"
   },
   {
     "index": 21,
@@ -185,19 +185,19 @@
   },
   {
     "index": 23,
-    "text": "The guy next to me wrote his name",
+    "text": "The guy next to me",
     "start": 77.009,
-    "end": 80.472,
-    "zh": "我旁边那个家伙写了名字",
-    "zh_hant": "我旁邊那個傢伙寫了名字"
+    "end": 78.829,
+    "zh": "我旁边的那个人",
+    "zh_hant": "我旁邊的那個人"
   },
   {
     "index": 24,
-    "text": "at the top of the paper.",
-    "start": 80.192,
+    "text": "wrote his name at the top of the paper.",
+    "start": 78.87,
     "end": 82.295,
-    "zh": "在试卷顶端。",
-    "zh_hant": "在試卷頂端。"
+    "zh": "在试卷顶部写了名字。",
+    "zh_hant": "在試卷頂部寫了名字。"
   },
   {
     "index": 25,
@@ -220,8 +220,8 @@
     "text": "and looked at it for three hours!",
     "start": 86.162,
     "end": 89.106,
-    "zh": "看了它三个小时！",
-    "zh_hant": "看了它三個小時！"
+    "zh": "盯着试卷看了三个小时！",
+    "zh_hant": "盯著試卷看了三個小時！"
   },
   {
     "index": 28,

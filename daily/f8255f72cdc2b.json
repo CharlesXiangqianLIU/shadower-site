@@ -1,30 +1,38 @@
 [
   {
     "index": 0,
-    "text": "Lesson 21 Daniel Mendoza",
+    "text": "Lesson 21.",
     "start": 6.573,
-    "end": 9.854,
-    "zh": "第21课 丹尼尔·门多萨",
-    "zh_hant": "第21課 丹尼爾·門多薩"
+    "end": 5.23,
+    "zh": "第21课。",
+    "zh_hant": "第21課。"
   },
   {
     "index": 1,
-    "text": "How many unsuccessful attempts did Mendoza make before becoming Champion of all England?",
-    "start": 12.056,
-    "end": 18.419,
-    "zh": "门多萨在成为全英格兰冠军之前失败了多少次？",
-    "zh_hant": "門多薩在成為全英格蘭冠軍之前失敗了多少次？"
+    "text": "Daniel Mendoza.",
+    "start": 8.094,
+    "end": 9.854,
+    "zh": "丹尼尔·门多萨。",
+    "zh_hant": "丹尼爾·門多薩。"
   },
   {
     "index": 2,
-    "text": "Boxing matches were very popular in England two hundred years ago.",
-    "start": 20.7,
-    "end": 24.962,
-    "zh": "两百年前，拳击比赛在英国非常流行。",
-    "zh_hant": "兩百年前，拳擊比賽在英國非常流行。"
+    "text": "How many unsuccessful attempts did Mendoza make before becoming Champion of all England?",
+    "start": 12.056,
+    "end": 18.419,
+    "zh": "门多萨在成为全英格兰冠军之前失败过多少次？",
+    "zh_hant": "門多薩在成為全英格蘭冠軍之前失敗過多少次？"
   },
   {
     "index": 3,
+    "text": "Boxing matches were very popular in England two hundred years ago.",
+    "start": 20.7,
+    "end": 24.962,
+    "zh": "两百年前，拳击比赛在英国非常受欢迎。",
+    "zh_hant": "兩百年前，拳擊比賽在英國非常受歡迎。"
+  },
+  {
+    "index": 4,
     "text": "In those days, boxers fought with bare fists for prize money.",
     "start": 25.942,
     "end": 30.284,
@@ -32,39 +40,39 @@
     "zh_hant": "那時，拳擊手赤手空拳為獎金而戰。"
   },
   {
-    "index": 4,
+    "index": 5,
     "text": "Because of this, they were known as 'prizefighters'.",
     "start": 30.925,
     "end": 34.546,
-    "zh": "因此，他们被称为“奖金拳击手”。",
-    "zh_hant": "因此，他們被稱為“獎金拳擊手”。"
-  },
-  {
-    "index": 5,
-    "text": "However, boxing was very crude,",
-    "start": 35.187,
-    "end": 37.728,
-    "zh": "然而，拳击非常粗野。",
-    "zh_hant": "然而，拳擊非常粗野。"
+    "zh": "因此，他们被称为‘奖金拳击手’。",
+    "zh_hant": "因此，他們被稱為‘獎金拳擊手’。"
   },
   {
     "index": 6,
-    "text": "for there were no rules and a prizefighter could be seriously injured or even killed during a match.",
-    "start": 37.848,
-    "end": 44.292,
-    "zh": "因为没有规则，奖金拳击手可能在比赛中受重伤甚至丧命。",
-    "zh_hant": "因為沒有規則，獎金拳擊手可能在比賽中受重傷甚至喪命。"
+    "text": "However, boxing was very crude,",
+    "start": 35.187,
+    "end": 37.728,
+    "zh": "然而，拳击非常粗野，",
+    "zh_hant": "然而，拳擊非常粗野，"
   },
   {
     "index": 7,
-    "text": "One of the most colourful figures in boxing history was Daniel Mendoza,",
-    "start": 45.773,
-    "end": 50.435,
-    "zh": "拳击史上最引人注目的人物之一是丹尼尔·门多萨。",
-    "zh_hant": "拳擊史上最引人注目的人物之一是丹尼爾·門多薩。"
+    "text": "for there were no rules and a prizefighter could be seriously injured or even killed during a match.",
+    "start": 37.848,
+    "end": 44.292,
+    "zh": "因为没有规则，奖金拳击手在比赛中可能受重伤甚至丧命。",
+    "zh_hant": "因為沒有規則，獎金拳擊手在比賽中可能受重傷甚至喪命。"
   },
   {
     "index": 8,
+    "text": "One of the most colourful figures in boxing history was Daniel Mendoza,",
+    "start": 45.773,
+    "end": 50.435,
+    "zh": "拳击史上最引人注目的人物之一是丹尼尔·门多萨，",
+    "zh_hant": "拳擊史上最引人注目的人物之一是丹尼爾·門多薩，"
+  },
+  {
+    "index": 9,
     "text": "who was born in 1764.",
     "start": 50.655,
     "end": 54.167,
@@ -72,15 +80,15 @@
     "zh_hant": "他出生於1764年。"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "The use of gloves was not introduced until 1860,",
     "start": 54.217,
     "end": 58.189,
-    "zh": "手套的使用直到1860年才被引入。",
-    "zh_hant": "手套的使用直到1860年才被引入。"
+    "zh": "手套的使用直到1860年才被引入，",
+    "zh_hant": "手套的使用直到1860年才被引入，"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "when the Marquis of Queensberry drew up the first set of rules.",
     "start": 58.239,
     "end": 62.761,
@@ -88,31 +96,31 @@
     "zh_hant": "當時昆斯伯裡侯爵制定了第一套規則。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "Though he was technically a prizefighter,",
     "start": 63.682,
     "end": 66.243,
-    "zh": "虽然严格来说他是个奖金拳击手。",
-    "zh_hant": "雖然嚴格來說他是個獎金拳擊手。"
-  },
-  {
-    "index": 12,
-    "text": "Mendoza did much to change crude prizefighting into a sport,",
-    "start": 66.423,
-    "end": 71.145,
-    "zh": "门多萨为把粗糙的奖金拳击变成运动做出了巨大贡献。",
-    "zh_hant": "門多薩為把粗糙的獎金拳擊變成運動做出了巨大貢獻。"
+    "zh": "虽然严格来说他是奖金拳击手，",
+    "zh_hant": "雖然嚴格來說他是獎金拳擊手，"
   },
   {
     "index": 13,
-    "text": "for he brought science to the game.",
-    "start": 71.605,
-    "end": 73.966,
-    "zh": "因为他将科学带入了这项运动。",
-    "zh_hant": "因為他將科學帶入了這項運動。"
+    "text": "Mendoza did much to change crude prizefighting into a sport,",
+    "start": 66.423,
+    "end": 71.145,
+    "zh": "门多萨为将粗野的拳击转变为一项运动做出了巨大贡献，",
+    "zh_hant": "門多薩為將粗野的拳擊轉變為一項運動做出了巨大貢獻，"
   },
   {
     "index": 14,
+    "text": "for he brought science to the game.",
+    "start": 71.605,
+    "end": 73.966,
+    "zh": "因为他把科学带入了这项比赛。",
+    "zh_hant": "因為他把科學帶入了這項比賽。"
+  },
+  {
+    "index": 15,
     "text": "In his day, Mendoza enjoyed tremendous popularity.",
     "start": 74.627,
     "end": 78.669,
@@ -120,7 +128,7 @@
     "zh_hant": "在他那個時代，門多薩享有極高的聲望。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "He was adored by rich and poor alike.",
     "start": 79.269,
     "end": 82.231,
@@ -128,47 +136,47 @@
     "zh_hant": "富人和窮人都同樣崇拜他。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old.",
     "start": 83.112,
     "end": 88.954,
-    "zh": "门多萨在十四岁时的一场拳击比赛后迅速成名。",
-    "zh_hant": "門多薩在十四歲時的一場拳擊比賽後迅速成名。"
-  },
-  {
-    "index": 17,
-    "text": "This attracted the attention of Richard Humphries who was then the most eminent boxer in England.",
-    "start": 89.755,
-    "end": 95.898,
-    "zh": "这引起了当时英格兰最杰出的拳击手理查德·汉弗里斯的注意。",
-    "zh_hant": "這引起了當時英格蘭最傑出的拳擊手理查德·漢弗里斯的注意。"
+    "zh": "门多萨在年仅十四岁时的一场拳击赛后迅速成名。",
+    "zh_hant": "門多薩在年僅十四歲時的一場拳擊賽後迅速成名。"
   },
   {
     "index": 18,
-    "text": "He offered to train Mendoza and his young pupil was quick to learn.",
-    "start": 96.558,
-    "end": 100.82,
-    "zh": "他提出训练门多萨，他年轻的学生学得很快。",
-    "zh_hant": "他提出訓練門多薩，他年輕的學生學得很快。"
+    "text": "This attracted the attention of Richard Humphries who was then the most eminent boxer in England.",
+    "start": 89.755,
+    "end": 95.898,
+    "zh": "这引起了当时英国最杰出的拳击手理查德·汉弗莱斯的注意。",
+    "zh_hant": "這引起了當時英國最傑出的拳擊手理查德·漢弗萊斯的注意。"
   },
   {
     "index": 19,
-    "text": "In fact, Mendoza soon became so successful that Humphries turned against him.",
-    "start": 101.241,
-    "end": 106.663,
-    "zh": "事实上，门多萨很快变得如此成功，以至于汉弗里斯转而敌视他。",
-    "zh_hant": "事實上，門多薩很快變得如此成功，以至於漢弗里斯轉而敵視他。"
+    "text": "He offered to train Mendoza and his young pupil was quick to learn.",
+    "start": 96.558,
+    "end": 100.82,
+    "zh": "他主动提出训练门多萨，而这位年轻学生学得非常快。",
+    "zh_hant": "他主動提出訓練門多薩，而這位年輕學生學得非常快。"
   },
   {
     "index": 20,
-    "text": "The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.",
-    "start": 107.023,
-    "end": 113.446,
-    "zh": "两人激烈争吵，很明显这场争论只能通过打一场来解决。",
-    "zh_hant": "兩人激烈爭吵，很明顯這場爭論只能透過打一場來解決。"
+    "text": "In fact, Mendoza soon became so successful that Humphries turned against him.",
+    "start": 101.241,
+    "end": 106.663,
+    "zh": "事实上，门多萨很快变得如此成功，以至于汉弗莱斯转而与他作对。",
+    "zh_hant": "事實上，門多薩很快變得如此成功，以至於漢弗萊斯轉而與他作對。"
   },
   {
     "index": 21,
+    "text": "The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.",
+    "start": 107.023,
+    "end": 113.446,
+    "zh": "两人激烈争吵，显然这场争论只能通过打一架来解决。",
+    "zh_hant": "兩人激烈爭吵，顯然這場爭論只能透過打一架來解決。"
+  },
+  {
+    "index": 22,
     "text": "A match was held at Stilton, where both men fought for an hour.",
     "start": 114.687,
     "end": 118.929,
@@ -176,91 +184,91 @@
     "zh_hant": "比賽在斯蒂爾頓舉行，兩人打了一個小時。"
   },
   {
-    "index": 22,
+    "index": 23,
     "text": "The public bet a great deal of money on Mendoza, but he was defeated.",
     "start": 119.61,
     "end": 124.732,
-    "zh": "公众在门多萨身上下了大笔赌注，但他被打败了。",
-    "zh_hant": "公眾在門多薩身上下了大筆賭注，但他被打敗了。"
-  },
-  {
-    "index": 23,
-    "text": "Mendoza met Humphries in the ring on a later occasion and he lost for a second time.",
-    "start": 125.373,
-    "end": 130.735,
-    "zh": "后来门多萨在拳击场上再次遇到汉弗里斯，他又输了一次。",
-    "zh_hant": "後來門多薩在拳擊場上再次遇到漢弗里斯，他又輸了一次。"
+    "zh": "公众在门多萨身上押了很多钱，但他被打败了。",
+    "zh_hant": "公眾在門多薩身上押了很多錢，但他被打敗了。"
   },
   {
     "index": 24,
-    "text": "It was not until his third match in 1790",
-    "start": 131.316,
-    "end": 135.068,
-    "zh": "直到1790年的第三次比赛。",
-    "zh_hant": "直到1790年的第三次比賽。"
+    "text": "Mendoza met Humphries in the ring on a later occasion and he lost for a second time.",
+    "start": 125.373,
+    "end": 130.735,
+    "zh": "门多萨后来在拳击场上再次遇到汉弗莱斯，并第二次落败。",
+    "zh_hant": "門多薩後來在拳擊場上再次遇到漢弗萊斯，並第二次落敗。"
   },
   {
     "index": 25,
-    "text": "that he finally beat Humphries and became Champion of England.",
-    "start": 135.118,
-    "end": 138.859,
-    "zh": "他才最终击败汉弗里斯，成为英格兰冠军。",
-    "zh_hant": "他才最終擊敗漢弗里斯，成為英格蘭冠軍。"
+    "text": "It was not until his third match in 1790",
+    "start": 131.316,
+    "end": 135.068,
+    "zh": "直到1790年的第三场比赛，",
+    "zh_hant": "直到1790年的第三場比賽，"
   },
   {
     "index": 26,
-    "text": "Meanwhile, he founded a highly successful Academy",
-    "start": 139.8,
-    "end": 143.321,
-    "zh": "与此同时，他创办了一所非常成功的学校。",
-    "zh_hant": "與此同時，他創辦了一所非常成功的學校。"
+    "text": "that he finally beat Humphries and became Champion of England.",
+    "start": 135.118,
+    "end": 138.859,
+    "zh": "他才终于击败汉弗莱斯，成为英格兰冠军。",
+    "zh_hant": "他才終於擊敗漢弗萊斯，成為英格蘭冠軍。"
   },
   {
     "index": 27,
-    "text": "and even Lord Byron became one of his pupils.",
-    "start": 143.482,
-    "end": 146.663,
-    "zh": "甚至拜伦勋爵也成为他的学生之一。",
-    "zh_hant": "甚至拜倫勳爵也成為他的學生之一。"
+    "text": "Meanwhile, he founded a highly successful Academy",
+    "start": 139.8,
+    "end": 143.321,
+    "zh": "与此同时，他创办了一所非常成功的学校，",
+    "zh_hant": "與此同時，他創辦了一所非常成功的學校，"
   },
   {
     "index": 28,
-    "text": "He earned enormous sums of money and was paid as much as ￡100",
-    "start": 147.344,
-    "end": 151.79,
-    "zh": "他赚了巨额的金钱，单次出场费高达100英镑。",
-    "zh_hant": "他賺了鉅額的金錢，單次出場費高達100英鎊。"
+    "text": "and even Lord Byron became one of his pupils.",
+    "start": 143.482,
+    "end": 146.663,
+    "zh": "甚至拜伦勋爵也成了他的学生之一。",
+    "zh_hant": "甚至拜倫勳爵也成了他的學生之一。"
   },
   {
     "index": 29,
-    "text": "for a single appearance.",
-    "start": 152.406,
-    "end": 154.007,
-    "zh": "仅凭一次出场。",
-    "zh_hant": "僅憑一次出場。"
+    "text": "He earned enormous sums of money and was paid as much as ￡100",
+    "start": 147.344,
+    "end": 151.79,
+    "zh": "他赚取了巨额金钱，单次出场费高达100英镑，",
+    "zh_hant": "他賺取了鉅額金錢，單次出場費高達100英鎊，"
   },
   {
     "index": 30,
-    "text": "Despite this, he was so extravagant that he was always in debt.",
-    "start": 154.447,
-    "end": 158.969,
-    "zh": "尽管如此，他挥霍无度，总是负债累累。",
-    "zh_hant": "儘管如此，他揮霍無度，總是負債累累。"
+    "text": "for a single appearance.",
+    "start": 152.406,
+    "end": 154.007,
+    "zh": "仅一次露面就能得到这么多。",
+    "zh_hant": "僅一次露面就能得到這麼多。"
   },
   {
     "index": 31,
-    "text": "After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.",
-    "start": 159.53,
-    "end": 165.519,
-    "zh": "他被一个叫绅士杰克逊的拳击手击败后，很快就被遗忘了。",
-    "zh_hant": "他被一個叫紳士傑克遜的拳擊手擊敗後，很快就被遺忘了。"
+    "text": "Despite this, he was so extravagant that he was always in debt.",
+    "start": 154.447,
+    "end": 158.969,
+    "zh": "尽管如此，他非常挥霍，总是欠债。",
+    "zh_hant": "儘管如此，他非常揮霍，總是欠債。"
   },
   {
     "index": 32,
+    "text": "After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.",
+    "start": 159.53,
+    "end": 165.519,
+    "zh": "在被一个名叫‘绅士’杰克逊的拳击手击败后，他很快被遗忘。",
+    "zh_hant": "在被一個名叫‘紳士’傑克遜的拳擊手擊敗後，他很快被遺忘。"
+  },
+  {
+    "index": 33,
     "text": "He was sent to prison for failing to pay his debts and died in poverty in 1836.",
     "start": 166.04,
     "end": 174.77,
-    "zh": "他因无力偿还债务被送进监狱，并于1836年在贫困中去世。",
-    "zh_hant": "他因無力償還債務被送進監獄，並於1836年在貧困中去世。"
+    "zh": "他因无力偿还债务而被关进监狱，并于1836年在贫困中去世。",
+    "zh_hant": "他因無力償還債務而被關進監獄，並於1836年在貧困中去世。"
   }
 ]

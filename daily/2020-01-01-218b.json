@@ -1,14 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 50 New Year resolutions What marked the end of the writer's New Year resolutions?",
+    "text": "Lesson 50.",
     "start": 0.53,
-    "end": 15.217,
-    "zh": "第50课 新年决心 什么标志着作者新年决心的结束？",
-    "zh_hant": "第50課 新年決心 什麼標誌著作者新年決心的結束？"
+    "end": 2.781,
+    "zh": "第50课。",
+    "zh_hant": "第50課。"
   },
   {
     "index": 1,
+    "text": "New Year resolutions.",
+    "start": 2.831,
+    "end": 9.054,
+    "zh": "新年决心。",
+    "zh_hant": "新年決心。"
+  },
+  {
+    "index": 2,
+    "text": "What marked the end of the writer's New Year resolutions?",
+    "start": 10.996,
+    "end": 15.217,
+    "zh": "什么标志着作者新年决心的结束？",
+    "zh_hant": "什麼標誌著作者新年決心的結束？"
+  },
+  {
+    "index": 3,
     "text": "The New Year is a time for resolutions.",
     "start": 16.778,
     "end": 19.8,
@@ -16,231 +32,223 @@
     "zh_hant": "新年是下決心的時候。"
   },
   {
-    "index": 2,
-    "text": "Mentally, at least, most of us could compile formidable lists of 'dos'",
-    "start": 19.9,
-    "end": 26.063,
-    "zh": "至少在心理上，我们大多数人都能列出长长的‘该做’清单",
-    "zh_hant": "至少在心理上，我們大多數人都能列出長長的‘該做’清單"
-  },
-  {
-    "index": 3,
-    "text": "and 'don'ts'.",
-    "start": 25.823,
-    "end": 27.163,
-    "zh": "和‘不该做’清单。",
-    "zh_hant": "和‘不該做’清單。"
-  },
-  {
     "index": 4,
-    "text": "The same old favourites recur year in year out with monotonous regularity.",
-    "start": 27.544,
-    "end": 33.546,
-    "zh": "同样的老生常谈年复一年地出现，带着单调的规律性。",
-    "zh_hant": "同樣的老生常談年復一年地出現，帶著單調的規律性。"
+    "text": "Mentally, at least, most of us",
+    "start": 19.9,
+    "end": 23.101,
+    "zh": "至少在心理上，我们大多数人",
+    "zh_hant": "至少在心理上，我們大多數人"
   },
   {
     "index": 5,
-    "text": "We resolve to get up earlier each morning, eat",
-    "start": 34.267,
-    "end": 37.788,
-    "zh": "我们决心每天早晨起得更早，吃",
-    "zh_hant": "我們決心每天早晨起得更早，吃"
+    "text": "could compile formidable lists of 'dos' and 'don'ts'.",
+    "start": 22.751,
+    "end": 27.163,
+    "zh": "都能列出相当可观的'该做'和'不该做'的清单。",
+    "zh_hant": "都能列出相當可觀的'該做'和'不該做'的清單。"
   },
   {
     "index": 6,
-    "text": "less, find more time to play with the children,",
-    "start": 37.438,
-    "end": 40.81,
-    "zh": "得更少，找更多时间陪孩子玩，",
-    "zh_hant": "得更少，找更多時間陪孩子玩，"
+    "text": "The same old favourites recur year in year out with monotonous regularity.",
+    "start": 27.544,
+    "end": 33.546,
+    "zh": "同样那些老喜好年复一年地出现，带有单调的规律性。",
+    "zh_hant": "同樣那些老喜好年復一年地出現，帶有單調的規律性。"
   },
   {
     "index": 7,
-    "text": "do a thousand and one jobs about the house, be nice to people we don't like,",
-    "start": 40.831,
-    "end": 46.613,
-    "zh": "做家里千头万绪的活儿，对不喜欢的人友善，",
-    "zh_hant": "做家裡千頭萬緒的活兒，對不喜歡的人友善，"
+    "text": "We resolve to get up earlier each morning, eat",
+    "start": 34.267,
+    "end": 37.788,
+    "zh": "我们决心每天早晨起得更早，吃得",
+    "zh_hant": "我們決心每天早晨起得更早，吃得"
   },
   {
     "index": 8,
-    "text": "drive carefully, and take the dog for a walk every day.",
-    "start": 46.694,
-    "end": 50.995,
-    "zh": "小心开车，每天遛狗。",
-    "zh_hant": "小心開車，每天遛狗。"
+    "text": "less, find more time to play with the children,",
+    "start": 37.438,
+    "end": 40.81,
+    "zh": "更少，找更多时间和孩子玩，",
+    "zh_hant": "更少，找更多時間和孩子玩，"
   },
   {
     "index": 9,
-    "text": "Past experience has taught us that certain accomplishments are beyond attainment.",
-    "start": 51.636,
-    "end": 57.138,
-    "zh": "过去的经验告诉我们，某些成就是无法达到的。",
-    "zh_hant": "過去的經驗告訴我們，某些成就是無法達到的。"
+    "text": "do a thousand and one jobs about the house, be nice to people we don't like,",
+    "start": 40.831,
+    "end": 46.613,
+    "zh": "做家里一百零一件活儿，对不喜欢的人友好，",
+    "zh_hant": "做家裡一百零一件活兒，對不喜歡的人友好，"
   },
   {
     "index": 10,
-    "text": "If we remain inveterate smokers,",
-    "start": 57.859,
-    "end": 60.56,
-    "zh": "如果我们仍是积习难改的烟民，",
-    "zh_hant": "如果我們仍是積習難改的菸民，"
+    "text": "drive carefully, and take the dog for a walk every day.",
+    "start": 46.694,
+    "end": 50.995,
+    "zh": "开车小心，并且每天带狗散步。",
+    "zh_hant": "開車小心，並且每天帶狗散步。"
   },
   {
     "index": 11,
-    "text": "it is only because we have so often experienced the frustration that results from failure.",
-    "start": 60.74,
-    "end": 67.003,
-    "zh": "那只是因为我们在失败中屡屡体会到挫折感。",
-    "zh_hant": "那只是因為我們在失敗中屢屢體會到挫折感。"
+    "text": "Past experience has taught us that certain accomplishments are beyond attainment.",
+    "start": 51.636,
+    "end": 57.138,
+    "zh": "过去的经验告诉我们某些成就是无法达到的。",
+    "zh_hant": "過去的經驗告訴我們某些成就是無法達到的。"
   },
   {
     "index": 12,
-    "text": "Most of us fail in our efforts at sel-improvement",
-    "start": 67.804,
-    "end": 71.305,
-    "zh": "我们大多数人在自我提升的努力中失败，",
-    "zh_hant": "我們大多數人在自我提升的努力中失敗，"
+    "text": "If we remain inveterate smokers,",
+    "start": 57.859,
+    "end": 60.56,
+    "zh": "如果我们仍然是个积习难改的烟民，",
+    "zh_hant": "如果我們仍然是個積習難改的菸民，"
   },
   {
     "index": 13,
-    "text": "because our schemes are too ambitious and we never have time to carry them out.",
-    "start": 70.955,
-    "end": 76.808,
-    "zh": "因为我们的计划太雄心勃勃，而且从没时间去实施。",
-    "zh_hant": "因為我們的計劃太雄心勃勃，而且從沒時間去實施。"
+    "text": "it is only because we have so often experienced the frustration that results from failure.",
+    "start": 60.74,
+    "end": 67.003,
+    "zh": "那仅仅是因为我们太多次地体验了失败带来的挫败感。",
+    "zh_hant": "那僅僅是因為我們太多次地體驗了失敗帶來的挫敗感。"
   },
   {
     "index": 14,
-    "text": "We also make the fundamental error of announcing our resolutions",
-    "start": 77.349,
-    "end": 82.151,
-    "zh": "我们还会犯一个根本性错误：把决心公之于众，",
-    "zh_hant": "我們還會犯一個根本性錯誤：把決心公之於眾，"
+    "text": "Most of us fail in our efforts at sel-improvement",
+    "start": 67.804,
+    "end": 71.305,
+    "zh": "我们大多数人在自我改进的努力中失败，",
+    "zh_hant": "我們大多數人在自我改進的努力中失敗，"
   },
   {
     "index": 15,
-    "text": "to everybody so that we look even more foolish when we",
-    "start": 81.801,
-    "end": 85.733,
-    "zh": "这样当我们",
-    "zh_hant": "這樣當我們"
+    "text": "because our schemes are too ambitious and we never have time to carry them out.",
+    "start": 70.955,
+    "end": 76.808,
+    "zh": "因为我们的计划过于雄心勃勃，而且从来没有时间去实施。",
+    "zh_hant": "因為我們的計劃過於雄心勃勃，而且從來沒有時間去實施。"
   },
   {
     "index": 16,
-    "text": "slip back into our bad old ways.",
-    "start": 85.413,
-    "end": 88.294,
-    "zh": "退回旧习时，显得更加愚蠢。",
-    "zh_hant": "退回舊習時，顯得更加愚蠢。"
+    "text": "We also make the fundamental error of announcing our resolutions to everybody",
+    "start": 77.349,
+    "end": 82.832,
+    "zh": "我们还犯了一个基本错误，就是把决心告诉每个人，",
+    "zh_hant": "我們還犯了一個基本錯誤，就是把決心告訴每個人，"
   },
   {
     "index": 17,
-    "text": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
-    "start": 89.135,
-    "end": 95.418,
-    "zh": "意识到这些陷阱，今年我试图把决心藏在心里。",
-    "zh_hant": "意識到這些陷阱，今年我試圖把決心藏在心裡。"
+    "text": "so that we look even more foolish when we slip back into our bad old ways.",
+    "start": 82.952,
+    "end": 88.294,
+    "zh": "这样当我们回到坏习惯时，看起来就更傻。",
+    "zh_hant": "這樣當我們回到壞習慣時，看起來就更傻。"
   },
   {
     "index": 18,
-    "text": "I limited myself to two modest ambitions:",
-    "start": 96.278,
-    "end": 99.96,
-    "zh": "我只定了两个适度的目标：",
-    "zh_hant": "我只定了兩個適度的目標："
+    "text": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
+    "start": 89.135,
+    "end": 95.418,
+    "zh": "意识到这些陷阱，今年我试图把决心保密。",
+    "zh_hant": "意識到這些陷阱，今年我試圖把決心保密。"
   },
   {
     "index": 19,
-    "text": "to do physical exercises every morning and to read more of an evening.",
-    "start": 100.44,
-    "end": 106.123,
-    "zh": "每天早晨锻炼身体，晚上多读书。",
-    "zh_hant": "每天早晨鍛鍊身體，晚上多讀書。"
+    "text": "I limited myself to two modest ambitions:",
+    "start": 96.278,
+    "end": 99.96,
+    "zh": "我把目标限制为两个适度的雄心：",
+    "zh_hant": "我把目標限制為兩個適度的雄心："
   },
   {
     "index": 20,
-    "text": "An all-night party on New Year's Eve provided me with a good excuse",
-    "start": 106.563,
-    "end": 111.666,
-    "zh": "除夕夜的彻夜聚会给了我一个好借口，",
-    "zh_hant": "除夕夜的徹夜聚會給了我一個好藉口，"
+    "text": "to do physical exercises every morning and to read more of an evening.",
+    "start": 100.44,
+    "end": 106.123,
+    "zh": "每天早上做体操，晚上多读点书。",
+    "zh_hant": "每天早上做體操，晚上多讀點書。"
   },
   {
     "index": 21,
-    "text": "for not carrying out either of these new resolutions on the first day of the year,",
-    "start": 111.316,
-    "end": 117.569,
-    "zh": "让我在新年的第一天不执行这两项新决心，",
-    "zh_hant": "讓我在新年的第一天不執行這兩項新決心，"
+    "text": "An all-night party on New Year's Eve provided me with a good excuse",
+    "start": 106.563,
+    "end": 111.666,
+    "zh": "除夕夜的通宵聚会提供了一个好借口，",
+    "zh_hant": "除夕夜的通宵聚會提供了一個好藉口，"
   },
   {
     "index": 22,
-    "text": "but on the second, I applied myself assiduously to the task.",
-    "start": 117.809,
-    "end": 122.952,
-    "zh": "但第二天，我埋头苦干地投入了任务。",
-    "zh_hant": "但第二天，我埋頭苦幹地投入了任務。"
+    "text": "for not carrying out either of these new resolutions on the first day of the year,",
+    "start": 111.316,
+    "end": 117.569,
+    "zh": "在元旦那天不执行这两个新决心，",
+    "zh_hant": "在元旦那天不執行這兩個新決心，"
   },
   {
     "index": 23,
-    "text": "The daily exercises lasted only eleven minutes",
-    "start": 123.612,
-    "end": 127.574,
-    "zh": "日常锻炼只持续了十一分钟，",
-    "zh_hant": "日常鍛鍊只持續了十一分鐘，"
+    "text": "but on the second, I applied myself assiduously to the task.",
+    "start": 117.809,
+    "end": 122.952,
+    "zh": "但第二天，我就专心致志地投入了任务。",
+    "zh_hant": "但第二天，我就專心致志地投入了任務。"
   },
   {
     "index": 24,
-    "text": "and I proposed to do them early in the morning before anyone had got up.",
-    "start": 127.714,
-    "end": 132.516,
-    "zh": "我打算在清晨别人起床前进行。",
-    "zh_hant": "我打算在清晨別人起床前進行。"
+    "text": "The daily exercises lasted only eleven minutes",
+    "start": 123.612,
+    "end": 127.574,
+    "zh": "日常锻炼只持续了11分钟，",
+    "zh_hant": "日常鍛鍊只持續了11分鐘，"
   },
   {
     "index": 25,
-    "text": "The self-discipline required to drag myself out of bed",
-    "start": 133.357,
-    "end": 137.48,
-    "zh": "把自己从床上拖起来所需的自我约束力",
-    "zh_hant": "把自己從床上拖起來所需的自我約束力"
+    "text": "and I proposed to do them early in the morning before anyone had got up.",
+    "start": 127.714,
+    "end": 132.516,
+    "zh": "我打算在早上别人起床前做这些锻炼。",
+    "zh_hant": "我打算在早上別人起床前做這些鍛鍊。"
   },
   {
     "index": 26,
-    "text": "11 minutes earlier than usual was considerable.",
-    "start": 137.08,
-    "end": 141.241,
-    "zh": "比平时早十一分钟，是相当大的。",
-    "zh_hant": "比平時早十一分鐘，是相當大的。"
+    "text": "The self-discipline required to drag myself out of bed",
+    "start": 133.357,
+    "end": 137.48,
+    "zh": "把自己从床上拖起来所需的自我约束",
+    "zh_hant": "把自己從床上拖起來所需的自我約束"
   },
   {
     "index": 27,
-    "text": "Nevertheless, I managed to creep",
-    "start": 141.741,
-    "end": 145.042,
-    "zh": "尽管如此，我还是设法悄悄",
-    "zh_hant": "儘管如此，我還是設法悄悄"
+    "text": "11 minutes earlier than usual was considerable.",
+    "start": 137.08,
+    "end": 141.241,
+    "zh": "比平时早11分钟，这相当费劲。",
+    "zh_hant": "比平時早11分鐘，這相當費勁。"
   },
   {
     "index": 28,
-    "text": "down into the living room for two days before anyone found me out.",
-    "start": 144.692,
-    "end": 149.925,
-    "zh": "溜进客厅，坚持了两天才被人发现。",
-    "zh_hant": "溜進客廳，堅持了兩天才被人發現。"
+    "text": "Nevertheless, I managed to creep",
+    "start": 141.741,
+    "end": 145.042,
+    "zh": "然而，我还是设法偷偷地",
+    "zh_hant": "然而，我還是設法偷偷地"
   },
   {
     "index": 29,
-    "text": "After jumping about on the carpet and twisting the human frame into uncomfortable positions,",
-    "start": 151.026,
-    "end": 157.489,
-    "zh": "在地毯上蹦蹦跳跳，把身体扭成各种不舒服的姿势后，",
-    "zh_hant": "在地毯上蹦蹦跳跳，把身體扭成各種不舒服的姿勢後，"
+    "text": "down into the living room for two days before anyone found me out.",
+    "start": 144.692,
+    "end": 149.925,
+    "zh": "溜进客厅两天，直到别人发现了我。",
+    "zh_hant": "溜進客廳兩天，直到別人發現了我。"
   },
   {
     "index": 30,
+    "text": "After jumping about on the carpet and twisting the human frame into uncomfortable positions,",
+    "start": 151.026,
+    "end": 157.489,
+    "zh": "在地毯上蹦蹦跳跳，把身体扭曲成不舒服的姿势之后，",
+    "zh_hant": "在地毯上蹦蹦跳跳，把身體扭曲成不舒服的姿勢之後，"
+  },
+  {
+    "index": 31,
     "text": "I sat down at the breakfast table in an exhausted condition.",
     "start": 157.889,
     "end": 162.031,
@@ -248,52 +256,44 @@
     "zh_hant": "我筋疲力盡地坐在早餐桌旁。"
   },
   {
-    "index": 31,
+    "index": 32,
     "text": "It was this that betrayed me.",
     "start": 162.852,
     "end": 165.193,
-    "zh": "正是这一点出卖了我。",
-    "zh_hant": "正是這一點出賣了我。"
-  },
-  {
-    "index": 32,
-    "text": "The next morning the whole family trooped in to watch the performance.",
-    "start": 165.713,
-    "end": 170.255,
-    "zh": "第二天早上，全家人都涌进来看我的表演。",
-    "zh_hant": "第二天早上，全家人都湧進來看我的表演。"
+    "zh": "正是这个暴露了我。",
+    "zh_hant": "正是這個暴露了我。"
   },
   {
     "index": 33,
-    "text": "That was really unsettling but I fended off the taunts and jibes of the family",
-    "start": 170.496,
-    "end": 176.158,
-    "zh": "那真让人不安，但我只好心情愉快地抵挡家人的嘲弄",
-    "zh_hant": "那真讓人不安，但我只好心情愉快地抵擋家人的嘲弄"
+    "text": "The next morning the whole family trooped in to watch the performance.",
+    "start": 165.713,
+    "end": 170.255,
+    "zh": "第二天早上，全家人涌进来观看表演。",
+    "zh_hant": "第二天早上，全家人湧進來觀看錶演。"
   },
   {
     "index": 34,
-    "text": "good-humouredly",
-    "start": 175.808,
-    "end": 177.119,
-    "zh": "和讥讽，",
-    "zh_hant": "和譏諷，"
+    "text": "That was really unsettling but I fended off the taunts",
+    "start": 170.496,
+    "end": 174.737,
+    "zh": "那真的很让人不安，但我好脾气地挡开了家人的嘲讽",
+    "zh_hant": "那真的很讓人不安，但我好脾氣地擋開了家人的嘲諷"
   },
   {
     "index": 35,
-    "text": "and soon everybody got used to the idea.",
-    "start": 177.059,
+    "text": "and jibes of the family good-humouredly and soon everybody got used to the idea.",
+    "start": 174.387,
     "end": 179.92,
-    "zh": "很快大家都习惯了这件事。",
-    "zh_hant": "很快大家都習慣了這件事。"
+    "zh": "和奚落，很快大家都习惯了。",
+    "zh_hant": "和奚落，很快大家都習慣了。"
   },
   {
     "index": 36,
     "text": "However, my enthusiasm waned.",
     "start": 180.34,
     "end": 183.442,
-    "zh": "然而，我的热情消退了。",
-    "zh_hant": "然而，我的熱情消退了。"
+    "zh": "然而，我的热情减退了。",
+    "zh_hant": "然而，我的熱情減退了。"
   },
   {
     "index": 37,
@@ -308,72 +308,72 @@
     "text": "Little by little the eleven minutes fell to zero.",
     "start": 187.684,
     "end": 191.826,
-    "zh": "逐渐地，十一分钟降到零。",
-    "zh_hant": "逐漸地，十一分鐘降到零。"
+    "zh": "渐渐地，11分钟减少到零。",
+    "zh_hant": "漸漸地，11分鐘減少到零。"
   },
   {
     "index": 39,
     "text": "By January 10th, I was back to where I had started from.",
     "start": 192.286,
     "end": 196.688,
-    "zh": "到了一月十日，我又回到了起点。",
-    "zh_hant": "到了一月十日，我又回到了起點。"
+    "zh": "到1月10日，我回到了起点。",
+    "zh_hant": "到1月10日，我回到了起點。"
   },
   {
     "index": 40,
     "text": "I argued that if I spent less time exhausting myself at exercises in the morning,",
     "start": 197.349,
     "end": 203.072,
-    "zh": "我辩解说，如果早上少花精力在锻炼上，",
-    "zh_hant": "我辯解說，如果早上少花精力在鍛鍊上，"
+    "zh": "我争辩说，如果早上少花时间在锻炼上消耗自己，",
+    "zh_hant": "我爭辯說，如果早上少花時間在鍛鍊上消耗自己，"
   },
   {
     "index": 41,
     "text": "I would keep my mind fresh for reading when I got home from work.",
     "start": 203.532,
     "end": 207.554,
-    "zh": "我下班回家后就能保持头脑清醒，用来阅读。",
-    "zh_hant": "我下班回家後就能保持頭腦清醒，用來閱讀。"
+    "zh": "我下班回家后就能保持头脑清醒地阅读。",
+    "zh_hant": "我下班回家後就能保持頭腦清醒地閱讀。"
   },
   {
     "index": 42,
     "text": "Resisting the hypnotizing effect of television,",
     "start": 208.315,
     "end": 211.936,
-    "zh": "抗拒着电视的催眠效果，",
-    "zh_hant": "抗拒著電視的催眠效果，"
+    "zh": "抵挡住电视的催眠效果，",
+    "zh_hant": "抵擋住電視的催眠效果，"
   },
   {
     "index": 43,
     "text": "I sat in my room for a few evenings with my eyes glued to a book.",
     "start": 212.237,
     "end": 216.819,
-    "zh": "我连着几个晚上坐在房间里，眼睛紧盯着书。",
-    "zh_hant": "我連著幾個晚上坐在房間裡，眼睛緊盯著書。"
+    "zh": "我在房间里坐了几个晚上，眼睛盯着书。",
+    "zh_hant": "我在房間裡坐了幾個晚上，眼睛盯著書。"
   },
   {
     "index": 44,
     "text": "One night, however, feeling cold and lonely,",
     "start": 217.259,
     "end": 221.181,
-    "zh": "然而一天晚上，我感到又冷又孤单，",
-    "zh_hant": "然而一天晚上，我感到又冷又孤單，"
+    "zh": "然而，一天晚上，又冷又孤独，",
+    "zh_hant": "然而，一天晚上，又冷又孤獨，"
   },
   {
     "index": 45,
     "text": "I went downstairs and sat in front of the television pretending to read.",
     "start": 221.541,
     "end": 226.323,
-    "zh": "就下楼坐在电视机前，假装在读书。",
-    "zh_hant": "就下樓坐在電視機前，假裝在讀書。"
+    "zh": "我下楼坐在电视前假装看书。",
+    "zh_hant": "我下樓坐在電視前假裝看書。"
   },
   {
     "index": 46,
     "text": "That proved to be my undoing,",
     "start": 227.064,
     "end": 229.785,
-    "zh": "这成了我的祸根，",
-    "zh_hant": "這成了我的禍根，"
+    "zh": "这证明是我的失败所在，",
+    "zh_hant": "這證明是我的失敗所在，"
   },
   {
     "index": 47,
@@ -388,8 +388,8 @@
     "text": "I still haven't given up my resolution to do more reading.",
     "start": 237.349,
     "end": 241.213,
-    "zh": "我还没放弃多读书的决心。",
-    "zh_hant": "我還沒放棄多讀書的決心。"
+    "zh": "我还没有放弃多读点书的决心。",
+    "zh_hant": "我還沒有放棄多讀點書的決心。"
   },
   {
     "index": 49,
@@ -404,15 +404,15 @@
     "text": "entitled How to Read a Thousand Words a Minute.",
     "start": 244.067,
     "end": 248.102,
-    "zh": "书名是《如何一分钟读一千字》。",
-    "zh_hant": "書名是《如何一分鐘讀一千字》。"
+    "zh": "书名是《如何每分钟读一千字》。",
+    "zh_hant": "書名是《如何每分鐘讀一千字》。"
   },
   {
     "index": 51,
     "text": "Perhaps it will solve my problem, but I just haven't had time to read it!",
     "start": 248.603,
     "end": 253.849,
-    "zh": "也许它能解决我的问题，但我就是还没时间读它！",
-    "zh_hant": "也許它能解決我的問題，但我就是還沒時間讀它！"
+    "zh": "也许它会解决我的问题，但我就是没时间读它！",
+    "zh_hant": "也許它會解決我的問題，但我就是沒時間讀它！"
   }
 ]

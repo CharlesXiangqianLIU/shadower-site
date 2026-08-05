@@ -1,46 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Lesson 41 Penny's bag",
+    "text": "Lesson 41.",
     "start": 0.49,
-    "end": 4.552,
-    "zh": "第41课 彭妮的袋子",
-    "zh_hant": "第41課 彭妮的袋子"
+    "end": 2.741,
+    "zh": "第41课。",
+    "zh_hant": "第41課。"
   },
   {
     "index": 1,
-    "text": "Listen to the tape",
-    "start": 5.673,
-    "end": 7.734,
-    "zh": "听录音",
-    "zh_hant": "聽錄音"
+    "text": "Penny's bag.",
+    "start": 2.791,
+    "end": 4.552,
+    "zh": "彭妮的包。",
+    "zh_hant": "彭妮的包。"
   },
   {
     "index": 2,
-    "text": "then answer this question.",
-    "start": 7.974,
-    "end": 10.495,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
+    "text": "Listen to the tape then",
+    "start": 5.673,
+    "end": 8.734,
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
   },
   {
     "index": 3,
-    "text": "Who is the tin of tobacco for?",
-    "start": 11.736,
-    "end": 15.398,
-    "zh": "那罐烟草是给谁买的？",
-    "zh_hant": "那罐菸草是給誰買的？"
+    "text": "answer this question.",
+    "start": 8.514,
+    "end": 10.495,
+    "zh": "回答这个问题。",
+    "zh_hant": "回答這個問題。"
   },
   {
     "index": 4,
-    "text": "Is that bag heavy, Penny?",
-    "start": 17.859,
-    "end": 20.66,
-    "zh": "彭妮，那个袋子重吗？",
-    "zh_hant": "彭妮，那個袋子重嗎？"
+    "text": "Who is the tin of tobacco for?",
+    "start": 11.736,
+    "end": 15.398,
+    "zh": "这罐烟草是给谁的？",
+    "zh_hant": "這罐菸草是給誰的？"
   },
   {
     "index": 5,
+    "text": "Is that bag heavy, Penny?",
+    "start": 17.859,
+    "end": 20.66,
+    "zh": "那个包重吗，彭妮？",
+    "zh_hant": "那個包重嗎，彭妮？"
+  },
+  {
+    "index": 6,
     "text": "Not very.",
     "start": 20.821,
     "end": 22.301,
@@ -48,15 +56,15 @@
     "zh_hant": "不太重。"
   },
   {
-    "index": 6,
+    "index": 7,
     "text": "Here!",
     "start": 22.982,
     "end": 23.822,
-    "zh": "给你！",
-    "zh_hant": "給你！"
+    "zh": "给！",
+    "zh_hant": "給！"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "Put it on this chair.",
     "start": 24.242,
     "end": 26.563,
@@ -64,7 +72,7 @@
     "zh_hant": "把它放在這把椅子上。"
   },
   {
-    "index": 8,
+    "index": 9,
     "text": "What's in it?",
     "start": 27.104,
     "end": 28.724,
@@ -72,7 +80,7 @@
     "zh_hant": "裡面有什麼？"
   },
   {
-    "index": 9,
+    "index": 10,
     "text": "A piece of cheese.",
     "start": 29.245,
     "end": 31.406,
@@ -80,7 +88,7 @@
     "zh_hant": "一塊乳酪。"
   },
   {
-    "index": 10,
+    "index": 11,
     "text": "A loaf of bread.",
     "start": 32.066,
     "end": 33.987,
@@ -88,7 +96,7 @@
     "zh_hant": "一條麵包。"
   },
   {
-    "index": 11,
+    "index": 12,
     "text": "A bar of soap.",
     "start": 34.728,
     "end": 36.628,
@@ -96,7 +104,7 @@
     "zh_hant": "一塊肥皂。"
   },
   {
-    "index": 12,
+    "index": 13,
     "text": "A bar of chocolate.",
     "start": 37.469,
     "end": 39.61,
@@ -104,7 +112,7 @@
     "zh_hant": "一塊巧克力。"
   },
   {
-    "index": 13,
+    "index": 14,
     "text": "A bottle of milk.",
     "start": 40.151,
     "end": 41.972,
@@ -112,7 +120,7 @@
     "zh_hant": "一瓶牛奶。"
   },
   {
-    "index": 14,
+    "index": 15,
     "text": "A pound of sugar.",
     "start": 42.713,
     "end": 44.694,
@@ -120,7 +128,7 @@
     "zh_hant": "一磅糖。"
   },
   {
-    "index": 15,
+    "index": 16,
     "text": "Half a pound of coffee.",
     "start": 45.655,
     "end": 48.157,
@@ -128,7 +136,7 @@
     "zh_hant": "半磅咖啡。"
   },
   {
-    "index": 16,
+    "index": 17,
     "text": "A quarter of a pound of tea.",
     "start": 49.118,
     "end": 52.04,
@@ -136,7 +144,7 @@
     "zh_hant": "四分之一磅茶葉。"
   },
   {
-    "index": 17,
+    "index": 18,
     "text": "And a tin of tobacco.",
     "start": 53.101,
     "end": 55.843,
@@ -144,19 +152,19 @@
     "zh_hant": "還有一罐菸草。"
   },
   {
-    "index": 18,
+    "index": 19,
     "text": "Is that tin of tobacco for me?",
     "start": 57.544,
     "end": 60.906,
-    "zh": "那罐烟草是给我买的吗？",
-    "zh_hant": "那罐菸草是給我買的嗎？"
+    "zh": "那罐烟草是给我的吗？",
+    "zh_hant": "那罐菸草是給我的嗎？"
   },
   {
-    "index": 19,
+    "index": 20,
     "text": "Well, it's certainly not for me!",
     "start": 61.987,
     "end": 65.33,
-    "zh": "嗯，那肯定不是给我买的！",
-    "zh_hant": "嗯，那肯定不是給我買的！"
+    "zh": "嗯，反正不是给我的！",
+    "zh_hant": "嗯，反正不是給我的！"
   }
 ]

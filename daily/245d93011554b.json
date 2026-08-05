@@ -1,27 +1,27 @@
 [
   {
     "index": 0,
-    "text": "Lesson 125 Tea",
+    "text": "Lesson 125.",
     "start": 1.53,
-    "end": 5.552,
-    "zh": "第125课 两个人的茶",
-    "zh_hant": "第125課 兩個人的茶"
+    "end": 4.782,
+    "zh": "第125课。",
+    "zh_hant": "第125課。"
   },
   {
     "index": 1,
-    "text": "for two Listen to the tape",
-    "start": 5.432,
-    "end": 9.114,
-    "zh": "听录音",
-    "zh_hant": "聽錄音"
+    "text": "Tea for two.",
+    "start": 4.832,
+    "end": 6.352,
+    "zh": "两人喝茶。",
+    "zh_hant": "兩人喝茶。"
   },
   {
     "index": 2,
-    "text": "then answer this question.",
-    "start": 9.274,
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.653,
     "end": 11.355,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
@@ -36,8 +36,8 @@
     "text": "Can't you come in and have tea now, Peter?",
     "start": 18.639,
     "end": 21.44,
-    "zh": "彼得，你现在不能进来喝茶吗？",
-    "zh_hant": "彼得，你現在不能進來喝茶嗎？"
+    "zh": "彼得，你现在能进来喝茶吗？",
+    "zh_hant": "彼得，你現在能進來喝茶嗎？"
   },
   {
     "index": 5,
@@ -60,16 +60,16 @@
     "text": "Do you have to water it now?",
     "start": 26.522,
     "end": 28.663,
-    "zh": "你必须现在浇吗？",
-    "zh_hant": "你必須現在澆嗎？"
+    "zh": "你非得现在浇水吗？",
+    "zh_hant": "你非得現在澆水嗎？"
   },
   {
     "index": 8,
     "text": "I'm afraid I must.",
     "start": 29.204,
     "end": 30.864,
-    "zh": "恐怕是的。",
-    "zh_hant": "恐怕是的。"
+    "zh": "恐怕我必须要。",
+    "zh_hant": "恐怕我必須要。"
   },
   {
     "index": 9,
@@ -84,8 +84,8 @@
     "text": "It's terribly dry.",
     "start": 32.185,
     "end": 34.106,
-    "zh": "干得厉害。",
-    "zh_hant": "幹得厲害。"
+    "zh": "太干了。",
+    "zh_hant": "太乾了。"
   },
   {
     "index": 11,
@@ -116,8 +116,8 @@
     "text": "I had to water it every day.",
     "start": 41.25,
     "end": 43.512,
-    "zh": "我那时每天都得浇水。",
-    "zh_hant": "我那時每天都得澆水。"
+    "zh": "我每天都得浇水。",
+    "zh_hant": "我每天都得澆水。"
   },
   {
     "index": 15,
@@ -132,16 +132,16 @@
     "text": "That was quick!",
     "start": 48.096,
     "end": 49.377,
-    "zh": "真快啊！",
-    "zh_hant": "真快啊！"
+    "zh": "真快！",
+    "zh_hant": "真快！"
   },
   {
     "index": 17,
     "text": "Have you finished already?",
     "start": 49.217,
     "end": 50.738,
-    "zh": "你已经浇完了？",
-    "zh_hant": "你已經澆完了？"
+    "zh": "你已经浇完了吗？",
+    "zh_hant": "你已經澆完了嗎？"
   },
   {
     "index": 18,
@@ -156,8 +156,8 @@
     "text": "Look out of the window.",
     "start": 52.08,
     "end": 53.521,
-    "zh": "看窗外。",
-    "zh_hant": "看窗外。"
+    "zh": "看看窗外。",
+    "zh_hant": "看看窗外。"
   },
   {
     "index": 20,
@@ -172,8 +172,8 @@
     "text": "That means you don't need to water the garden.",
     "start": 55.583,
     "end": 58.285,
-    "zh": "这意味着你不需要浇花园了。",
-    "zh_hant": "這意味著你不需要澆花園了。"
+    "zh": "那意味着你不用给花园浇水了。",
+    "zh_hant": "那意味著你不用給花園澆水了。"
   },
   {
     "index": 22,

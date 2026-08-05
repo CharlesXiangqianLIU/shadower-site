@@ -1,19 +1,19 @@
 [
   {
     "index": 0,
-    "text": "Lesson 57 An unusual",
+    "text": "Lesson 57.",
     "start": 0.47,
-    "end": 4.832,
-    "zh": "第57课 一个不寻常的",
-    "zh_hant": "第57課 一個不尋常的"
+    "end": 3.022,
+    "zh": "第57课。",
+    "zh_hant": "第57課。"
   },
   {
     "index": 1,
-    "text": "day",
-    "start": 4.482,
+    "text": "An unusual day.",
+    "start": 3.072,
     "end": 5.272,
-    "zh": "日子",
-    "zh_hant": "日子"
+    "zh": "不寻常的一天。",
+    "zh_hant": "不尋常的一天。"
   },
   {
     "index": 2,
@@ -44,24 +44,24 @@
     "text": "The children go to school by car every day,",
     "start": 20.38,
     "end": 24.862,
-    "zh": "孩子们每天乘汽车上学，",
-    "zh_hant": "孩子們每天乘汽車上學，"
+    "zh": "孩子们每天坐汽车去上学，",
+    "zh_hant": "孩子們每天坐汽車去上學，"
   },
   {
     "index": 6,
     "text": "but today, they are going to school",
     "start": 25.183,
     "end": 29.024,
-    "zh": "但今天，他们正",
-    "zh_hant": "但今天，他們正"
+    "zh": "但今天，他们步行",
+    "zh_hant": "但今天，他們步行"
   },
   {
     "index": 7,
     "text": "on foot.",
     "start": 28.784,
     "end": 29.965,
-    "zh": "步行去上学。",
-    "zh_hant": "步行去上學。"
+    "zh": "去上学。",
+    "zh_hant": "去上學。"
   },
   {
     "index": 8,
@@ -76,32 +76,32 @@
     "text": "Mrs. Sawyer usually stays at home",
     "start": 33.527,
     "end": 37.288,
-    "zh": "索耶夫人通常",
-    "zh_hant": "索耶夫人通常"
+    "zh": "索耶夫人通常待在",
+    "zh_hant": "索耶夫人通常待在"
   },
   {
     "index": 10,
     "text": "in the morning,",
     "start": 37.009,
     "end": 38.309,
-    "zh": "在早上待在家里，",
-    "zh_hant": "在早上待在家裡，"
+    "zh": "上午的家里，",
+    "zh_hant": "上午的家裡，"
   },
   {
     "index": 11,
     "text": "but this morning, she is going",
     "start": 38.509,
     "end": 41.851,
-    "zh": "但今天早上，她正",
-    "zh_hant": "但今天早上，她正"
+    "zh": "但今天上午，她要去",
+    "zh_hant": "但今天上午，她要去"
   },
   {
     "index": 12,
     "text": "to the shops.",
     "start": 41.501,
     "end": 43.032,
-    "zh": "去商店。",
-    "zh_hant": "去商店。"
+    "zh": "商店。",
+    "zh_hant": "商店。"
   },
   {
     "index": 13,
@@ -116,24 +116,24 @@
     "text": "In the afternoon,",
     "start": 47.094,
     "end": 48.635,
-    "zh": "在下午，",
-    "zh_hant": "在下午，"
+    "zh": "下午，",
+    "zh_hant": "下午，"
   },
   {
     "index": 15,
     "text": "Mrs. Sawyer usually drinks tea",
     "start": 48.955,
     "end": 52.216,
-    "zh": "索耶夫人通常在客厅里",
-    "zh_hant": "索耶夫人通常在客廳裡"
+    "zh": "索耶夫人通常喝茶",
+    "zh_hant": "索耶夫人通常喝茶"
   },
   {
     "index": 16,
     "text": "in the living room.",
     "start": 52.077,
     "end": 53.557,
-    "zh": "喝茶。",
-    "zh_hant": "喝茶。"
+    "zh": "在客厅里。",
+    "zh_hant": "在客廳裡。"
   },
   {
     "index": 17,
@@ -148,8 +148,8 @@
     "text": "she is drinking tea in the garden.",
     "start": 56.439,
     "end": 59.64,
-    "zh": "她正在花园里喝茶。",
-    "zh_hant": "她正在花園裡喝茶。"
+    "zh": "她在花园里喝茶。",
+    "zh_hant": "她在花園裡喝茶。"
   },
   {
     "index": 19,
@@ -164,24 +164,24 @@
     "text": "In the evening, the children",
     "start": 63.783,
     "end": 66.724,
-    "zh": "在晚上，孩子们",
-    "zh_hant": "在晚上，孩子們"
+    "zh": "晚上，孩子们",
+    "zh_hant": "晚上，孩子們"
   },
   {
     "index": 21,
     "text": "usually do their homework,",
     "start": 66.464,
     "end": 68.685,
-    "zh": "通常做他们的作业，",
-    "zh_hant": "通常做他們的作業，"
+    "zh": "通常做作业，",
+    "zh_hant": "通常做作業，"
   },
   {
     "index": 22,
     "text": "but this evening, they are not doing",
     "start": 68.865,
     "end": 72.507,
-    "zh": "但今晚，他们没有",
-    "zh_hant": "但今晚，他們沒有"
+    "zh": "但今晚，他们没在",
+    "zh_hant": "但今晚，他們沒在"
   },
   {
     "index": 23,
@@ -196,8 +196,8 @@
     "text": "At the moment, they are playing in the garden.",
     "start": 74.188,
     "end": 78.67,
-    "zh": "此刻，他们正在花园里玩。",
-    "zh_hant": "此刻，他們正在花園裡玩。"
+    "zh": "此刻，他们在花园里玩耍。",
+    "zh_hant": "此刻，他們在花園裡玩耍。"
   },
   {
     "index": 25,
@@ -212,16 +212,16 @@
     "text": "Mr. Sawyer usually reads his newspaper",
     "start": 82.675,
     "end": 86.779,
-    "zh": "索耶先生通常在晚上",
-    "zh_hant": "索耶先生通常在晚上"
+    "zh": "索耶先生通常看报纸",
+    "zh_hant": "索耶先生通常看報紙"
   },
   {
     "index": 27,
     "text": "at night.",
     "start": 86.429,
     "end": 87.48,
-    "zh": "看他的报纸。",
-    "zh_hant": "看他的報紙。"
+    "zh": "在晚上。",
+    "zh_hant": "在晚上。"
   },
   {
     "index": 28,
