@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 123 A trip",
+    "start": 1.55,
+    "end": 5.932,
+    "zh": "第123课 澳大利亚之行",
+    "zh_hant": "第123課 澳大利亞之行"
+  },
+  {
+    "index": 1,
+    "text": "to Australia",
+    "start": 5.672,
+    "end": 6.893,
+    "zh": "去澳大利亚",
+    "zh_hant": "去澳大利亞"
+  },
+  {
+    "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 8.013,
+    "end": 11.495,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
+  },
+  {
+    "index": 3,
+    "text": "Who is the man with the beard?",
+    "start": 13.576,
+    "end": 16.137,
+    "zh": "那个留胡子的男人是谁？",
+    "zh_hant": "那個留鬍子的男人是誰？"
+  },
+  {
+    "index": 4,
+    "text": "Look, Scott.",
+    "start": 18.479,
+    "end": 19.519,
+    "zh": "看，斯科特。",
+    "zh_hant": "看，斯科特。"
+  },
+  {
+    "index": 5,
+    "text": "This is a photograph I took during my trip to Australia.",
+    "start": 19.739,
+    "end": 23.461,
+    "zh": "这张照片是我在澳大利亚旅行时拍的。",
+    "zh_hant": "這張照片是我在澳大利亞旅行時拍的。"
+  },
+  {
+    "index": 6,
+    "text": "Let me see it, Mike.",
+    "start": 24.682,
+    "end": 26.362,
+    "zh": "让我看看，迈克。",
+    "zh_hant": "讓我看看，邁克。"
+  },
+  {
+    "index": 7,
+    "text": "This is a good photograph.",
+    "start": 27.343,
+    "end": 29.304,
+    "zh": "这张照片拍得很好。",
+    "zh_hant": "這張照片拍得很好。"
+  },
+  {
+    "index": 8,
+    "text": "Who are these people?",
+    "start": 29.384,
+    "end": 30.945,
+    "zh": "这些人是谁？",
+    "zh_hant": "這些人是誰？"
+  },
+  {
+    "index": 9,
+    "text": "They're people I met during the trip.",
+    "start": 32.246,
+    "end": 34.567,
+    "zh": "他们是我在旅途中遇见的人。",
+    "zh_hant": "他們是我在旅途中遇見的人。"
+  },
+  {
+    "index": 10,
+    "text": "That's the ship we travelled on.",
+    "start": 35.767,
+    "end": 37.928,
+    "zh": "那是我们乘坐的船。",
+    "zh_hant": "那是我們乘坐的船。"
+  },
+  {
+    "index": 11,
+    "text": "What a beautiful ship!",
+    "start": 39.529,
+    "end": 41.29,
+    "zh": "多漂亮的船啊！",
+    "zh_hant": "多漂亮的船啊！"
+  },
+  {
+    "index": 12,
+    "text": "Who's this?",
+    "start": 42.491,
+    "end": 43.711,
+    "zh": "这是谁？",
+    "zh_hant": "這是誰？"
+  },
+  {
+    "index": 13,
+    "text": "That's the man I told you about.",
+    "start": 44.432,
+    "end": 46.433,
+    "zh": "那就是我跟你说过的那个男人。",
+    "zh_hant": "那就是我跟你說過的那個男人。"
+  },
+  {
+    "index": 14,
+    "text": "Remember?",
+    "start": 46.313,
+    "end": 47.193,
+    "zh": "记得吗？",
+    "zh_hant": "記得嗎？"
+  },
+  {
+    "index": 15,
+    "text": "Ah yes.",
+    "start": 48.094,
+    "end": 49.475,
+    "zh": "啊，是的。",
+    "zh_hant": "啊，是的。"
+  },
+  {
+    "index": 16,
+    "text": "The one who offered you a job in Australia.",
+    "start": 49.535,
+    "end": 52.336,
+    "zh": "就是在澳大利亚给你工作机会的那个人。",
+    "zh_hant": "就是在澳大利亞給你工作機會的那個人。"
+  },
+  {
+    "index": 17,
+    "text": "That's right.",
+    "start": 52.957,
+    "end": 54.077,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 18,
+    "text": "Who's this?",
+    "start": 55.198,
+    "end": 56.359,
+    "zh": "这是谁？",
+    "zh_hant": "這是誰？"
+  },
+  {
+    "index": 19,
+    "text": "Guess!",
+    "start": 57.28,
+    "end": 58.1,
+    "zh": "猜猜看！",
+    "zh_hant": "猜猜看！"
+  },
+  {
+    "index": 20,
+    "text": "It's not you, is it?",
+    "start": 59.221,
+    "end": 60.922,
+    "zh": "这不是你，对吧？",
+    "zh_hant": "這不是你，對吧？"
+  },
+  {
+    "index": 21,
+    "text": "That's right.",
+    "start": 61.502,
+    "end": 62.623,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 22,
+    "text": "I grew a beard during the trip,",
+    "start": 62.903,
+    "end": 64.964,
+    "zh": "我旅行时留了胡子，",
+    "zh_hant": "我旅行時留了鬍子，"
+  },
+  {
+    "index": 23,
+    "text": "but I shaved it off when I came home.",
+    "start": 65.065,
+    "end": 67.966,
+    "zh": "但回家后我就刮掉了。",
+    "zh_hant": "但回家後我就刮掉了。"
+  },
+  {
+    "index": 24,
+    "text": "Why did you shave it off?",
+    "start": 69.027,
+    "end": 70.768,
+    "zh": "你为什么把它刮掉？",
+    "zh_hant": "你為什麼把它刮掉？"
+  },
+  {
+    "index": 25,
+    "text": "My wife didn't like it!",
+    "start": 71.809,
+    "end": 73.83,
+    "zh": "我妻子不喜欢！",
+    "zh_hant": "我妻子不喜歡！"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 1 Excuse me!",
+    "start": 1.511,
+    "end": 4.212,
+    "zh": "第一课 对不起！",
+    "zh_hant": "第一課 對不起！"
+  },
+  {
+    "index": 1,
+    "text": "Listen to the tape then answer this question.",
+    "start": 5.293,
+    "end": 8.755,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
+  },
+  {
+    "index": 2,
+    "text": "Whose handbag is it?",
+    "start": 10.877,
+    "end": 12.897,
+    "zh": "这是谁的手提包？",
+    "zh_hant": "這是誰的手提包？"
+  },
+  {
+    "index": 3,
+    "text": "Excuse me!",
+    "start": 15.199,
+    "end": 16.2,
+    "zh": "对不起！",
+    "zh_hant": "對不起！"
+  },
+  {
+    "index": 4,
+    "text": "Yes?",
+    "start": 16.88,
+    "end": 17.861,
+    "zh": "什么事？",
+    "zh_hant": "什麼事？"
+  },
+  {
+    "index": 5,
+    "text": "Is this your handbag?",
+    "start": 18.341,
+    "end": 20.582,
+    "zh": "这是你的手提包吗？",
+    "zh_hant": "這是你的手提包嗎？"
+  },
+  {
+    "index": 6,
+    "text": "Pardon?",
+    "start": 21.403,
+    "end": 22.283,
+    "zh": "请再说一遍？",
+    "zh_hant": "請再說一遍？"
+  },
+  {
+    "index": 7,
+    "text": "Is this your handbag?",
+    "start": 23.144,
+    "end": 25.645,
+    "zh": "这是你的手提包吗？",
+    "zh_hant": "這是你的手提包嗎？"
+  },
+  {
+    "index": 8,
+    "text": "Yes it is.",
+    "start": 26.406,
+    "end": 28.347,
+    "zh": "是的，是我的。",
+    "zh_hant": "是的，是我的。"
+  },
+  {
+    "index": 9,
+    "text": "Thank you very much.",
+    "start": 30.249,
+    "end": 32.81,
+    "zh": "非常感谢。",
+    "zh_hant": "非常感謝。"
+  }
+]

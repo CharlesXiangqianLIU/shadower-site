@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 139 Is that you,",
+    "start": 1.65,
+    "end": 6.072,
+    "zh": "第139课 是你吗，",
+    "zh_hant": "第139課 是你嗎，"
+  },
+  {
+    "index": 1,
+    "text": "John?",
+    "start": 5.752,
+    "end": 6.532,
+    "zh": "约翰？",
+    "zh_hant": "約翰？"
+  },
+  {
+    "index": 2,
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.633,
+    "end": 10.914,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
+  },
+  {
+    "index": 3,
+    "text": "Which John Smith does Graham Turner",
+    "start": 13.116,
+    "end": 16.517,
+    "zh": "格雷厄姆·特纳以为他在和哪个约翰·史密斯",
+    "zh_hant": "格雷厄姆·特納以為他在和哪個約翰·史密斯"
+  },
+  {
+    "index": 4,
+    "text": "think he is talking to?",
+    "start": 16.337,
+    "end": 17.858,
+    "zh": "通话？",
+    "zh_hant": "通話？"
+  },
+  {
+    "index": 5,
+    "text": "Is that you, John?",
+    "start": 20.239,
+    "end": 21.74,
+    "zh": "是你吗，约翰？",
+    "zh_hant": "是你嗎，約翰？"
+  },
+  {
+    "index": 6,
+    "text": "Yes, speaking.",
+    "start": 22.34,
+    "end": 23.821,
+    "zh": "是的，是我在说话。",
+    "zh_hant": "是的，是我在說話。"
+  },
+  {
+    "index": 7,
+    "text": "Tell Mary we'll be late for dinner this evening.",
+    "start": 24.761,
+    "end": 27.703,
+    "zh": "告诉玛丽，我们今晚吃饭会晚到。",
+    "zh_hant": "告訴瑪麗，我們今晚吃飯會晚到。"
+  },
+  {
+    "index": 8,
+    "text": "I'm afraid I don't understand.",
+    "start": 28.763,
+    "end": 31.124,
+    "zh": "恐怕我不明白。",
+    "zh_hant": "恐怕我不明白。"
+  },
+  {
+    "index": 9,
+    "text": "Hasn't Mary told you?",
+    "start": 32.225,
+    "end": 34.146,
+    "zh": "玛丽没告诉你吗？",
+    "zh_hant": "瑪麗沒告訴你嗎？"
+  },
+  {
+    "index": 10,
+    "text": "She invited Charlotte and me to dinner this evening.",
+    "start": 34.566,
+    "end": 38.248,
+    "zh": "她今晚邀请了夏洛特和我去吃饭。",
+    "zh_hant": "她今晚邀請了夏洛特和我去吃飯。"
+  },
+  {
+    "index": 11,
+    "text": "I said I would be at your house at six o'clock,",
+    "start": 38.788,
+    "end": 41.89,
+    "zh": "我说过我六点到你家，",
+    "zh_hant": "我說過我六點到你家，"
+  },
+  {
+    "index": 12,
+    "text": "but the boss wants me to do some extra work.",
+    "start": 41.99,
+    "end": 45.212,
+    "zh": "但老板让我做一些额外的工作。",
+    "zh_hant": "但老闆讓我做一些額外的工作。"
+  },
+  {
+    "index": 13,
+    "text": "I'll have to stay at the office.",
+    "start": 45.972,
+    "end": 48.013,
+    "zh": "我得留在办公室。",
+    "zh_hant": "我得留在辦公室。"
+  },
+  {
+    "index": 14,
+    "text": "I don't know when I'll finish.",
+    "start": 48.513,
+    "end": 50.534,
+    "zh": "我不知道什么时候才能完成。",
+    "zh_hant": "我不知道什麼時候才能完成。"
+  },
+  {
+    "index": 15,
+    "text": "Oh, and by the way, my wife wants to know",
+    "start": 50.755,
+    "end": 54.436,
+    "zh": "哦，顺便说一下，我妻子想知道",
+    "zh_hant": "哦，順便說一下，我妻子想知道"
+  },
+  {
+    "index": 16,
+    "text": "if Mary needs any help.",
+    "start": 54.086,
+    "end": 55.917,
+    "zh": "玛丽是否需要帮忙。",
+    "zh_hant": "瑪麗是否需要幫忙。"
+  },
+  {
+    "index": 17,
+    "text": "I don't know what you're talking about.",
+    "start": 57.058,
+    "end": 60.399,
+    "zh": "我不知道你在说什么。",
+    "zh_hant": "我不知道你在說什麼。"
+  },
+  {
+    "index": 18,
+    "text": "That is John Smith, isn't it?",
+    "start": 61.16,
+    "end": 63.26,
+    "zh": "那是约翰·史密斯，不是吗？",
+    "zh_hant": "那是約翰·史密斯，不是嗎？"
+  },
+  {
+    "index": 19,
+    "text": "Yes, I'm John Smith.",
+    "start": 63.841,
+    "end": 66.362,
+    "zh": "是的，我是约翰·史密斯。",
+    "zh_hant": "是的，我是約翰·史密斯。"
+  },
+  {
+    "index": 20,
+    "text": "You are John Smith, the engineer, aren't you?",
+    "start": 67.083,
+    "end": 69.764,
+    "zh": "你是工程师约翰·史密斯，对吗？",
+    "zh_hant": "你是工程師約翰·史密斯，對嗎？"
+  },
+  {
+    "index": 21,
+    "text": "That's right.",
+    "start": 70.344,
+    "end": 71.605,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 22,
+    "text": "You work for the Overseas Engineering Company, don't you?",
+    "start": 72.385,
+    "end": 76.027,
+    "zh": "你在海外工程公司工作，不是吗？",
+    "zh_hant": "你在海外工程公司工作，不是嗎？"
+  },
+  {
+    "index": 23,
+    "text": "No, I don't.",
+    "start": 76.827,
+    "end": 78.488,
+    "zh": "不，我不在那里工作。",
+    "zh_hant": "不，我不在那裡工作。"
+  },
+  {
+    "index": 24,
+    "text": "I'm John Smith the telephone engineer",
+    "start": 78.928,
+    "end": 81.85,
+    "zh": "我是电话工程师约翰·史密斯，",
+    "zh_hant": "我是電話工程師約翰·史密斯，"
+  },
+  {
+    "index": 25,
+    "text": "and I'm repairing your telephone line.",
+    "start": 81.73,
+    "end": 84.708,
+    "zh": "我正在修你的电话线。",
+    "zh_hant": "我正在修你的電話線。"
+  }
+]

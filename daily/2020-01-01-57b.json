@@ -1,0 +1,218 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 113 Small",
+    "start": 0.69,
+    "end": 4.812,
+    "zh": "第113课 零钱",
+    "zh_hant": "第113課 零錢"
+  },
+  {
+    "index": 1,
+    "text": "change",
+    "start": 4.472,
+    "end": 5.573,
+    "zh": "换取",
+    "zh_hant": "換取"
+  },
+  {
+    "index": 2,
+    "text": "Listen to the tape then",
+    "start": 6.453,
+    "end": 9.295,
+    "zh": "听录音，然后",
+    "zh_hant": "聽錄音，然後"
+  },
+  {
+    "index": 3,
+    "text": "answer this question.",
+    "start": 9.095,
+    "end": 11.055,
+    "zh": "回答这个问题。",
+    "zh_hant": "回答這個問題。"
+  },
+  {
+    "index": 4,
+    "text": "Who has got some small change?",
+    "start": 11.956,
+    "end": 15.258,
+    "zh": "谁有零钱？",
+    "zh_hant": "誰有零錢？"
+  },
+  {
+    "index": 5,
+    "text": "Fares, please!",
+    "start": 17.279,
+    "end": 18.88,
+    "zh": "请买票！",
+    "zh_hant": "請買票！"
+  },
+  {
+    "index": 6,
+    "text": "Trafalgar Square, please.",
+    "start": 19.0,
+    "end": 21.401,
+    "zh": "请到特拉法加广场。",
+    "zh_hant": "請到特拉法加廣場。"
+  },
+  {
+    "index": 7,
+    "text": "I'm sorry, sir.",
+    "start": 21.741,
+    "end": 23.422,
+    "zh": "抱歉，先生。",
+    "zh_hant": "抱歉，先生。"
+  },
+  {
+    "index": 8,
+    "text": "I can't change a ten-pound note.",
+    "start": 24.263,
+    "end": 27.864,
+    "zh": "我找不开十英镑的纸币。",
+    "zh_hant": "我找不開十英鎊的紙幣。"
+  },
+  {
+    "index": 9,
+    "text": "Haven't you got any small change?",
+    "start": 28.084,
+    "end": 31.626,
+    "zh": "您没有零钱吗？",
+    "zh_hant": "您沒有零錢嗎？"
+  },
+  {
+    "index": 10,
+    "text": "I've got no small change, I am afraid.",
+    "start": 32.067,
+    "end": 35.768,
+    "zh": "恐怕我没有零钱。",
+    "zh_hant": "恐怕我沒有零錢。"
+  },
+  {
+    "index": 11,
+    "text": "I'll ask some of the passengers.",
+    "start": 36.649,
+    "end": 39.29,
+    "zh": "我去问问一些乘客。",
+    "zh_hant": "我去問問一些乘客。"
+  },
+  {
+    "index": 12,
+    "text": "Have you any small change, sir?",
+    "start": 40.14,
+    "end": 43.321,
+    "zh": "您有零钱吗，先生？",
+    "zh_hant": "您有零錢嗎，先生？"
+  },
+  {
+    "index": 13,
+    "text": "I'm sorry.",
+    "start": 43.701,
+    "end": 44.881,
+    "zh": "抱歉。",
+    "zh_hant": "抱歉。"
+  },
+  {
+    "index": 14,
+    "text": "I've got none.",
+    "start": 44.921,
+    "end": 46.522,
+    "zh": "我一点也没有。",
+    "zh_hant": "我一點也沒有。"
+  },
+  {
+    "index": 15,
+    "text": "I haven't got any either.",
+    "start": 48.162,
+    "end": 50.623,
+    "zh": "我也没有。",
+    "zh_hant": "我也沒有。"
+  },
+  {
+    "index": 16,
+    "text": "Can you change this ten-pound note, madam?",
+    "start": 51.703,
+    "end": 55.984,
+    "zh": "您能换开这张十英镑的纸币吗，女士？",
+    "zh_hant": "您能換開這張十英鎊的紙幣嗎，女士？"
+  },
+  {
+    "index": 17,
+    "text": "I'm afraid I can't.",
+    "start": 56.904,
+    "end": 59.525,
+    "zh": "恐怕我不能。",
+    "zh_hant": "恐怕我不能。"
+  },
+  {
+    "index": 18,
+    "text": "Neither can I. I'm",
+    "start": 60.165,
+    "end": 63.726,
+    "zh": "我也不能。我",
+    "zh_hant": "我也不能。我"
+  },
+  {
+    "index": 19,
+    "text": "very sorry, sir.",
+    "start": 63.376,
+    "end": 65.106,
+    "zh": "非常抱歉，先生。",
+    "zh_hant": "非常抱歉，先生。"
+  },
+  {
+    "index": 20,
+    "text": "You must get off the bus.",
+    "start": 65.266,
+    "end": 68.027,
+    "zh": "您必须下车。",
+    "zh_hant": "您必須下車。"
+  },
+  {
+    "index": 21,
+    "text": "None of our passengers",
+    "start": 68.587,
+    "end": 71.148,
+    "zh": "我们的乘客中没有人",
+    "zh_hant": "我們的乘客中沒有人"
+  },
+  {
+    "index": 22,
+    "text": "can change this note.",
+    "start": 70.808,
+    "end": 73.188,
+    "zh": "能换开这张纸币。",
+    "zh_hant": "能換開這張紙幣。"
+  },
+  {
+    "index": 23,
+    "text": "They're all millionaires!",
+    "start": 73.608,
+    "end": 75.989,
+    "zh": "他们都是百万富翁！",
+    "zh_hant": "他們都是百萬富翁！"
+  },
+  {
+    "index": 24,
+    "text": "Except us.",
+    "start": 76.429,
+    "end": 78.329,
+    "zh": "除了我们。",
+    "zh_hant": "除了我們。"
+  },
+  {
+    "index": 25,
+    "text": "I've got some small change.",
+    "start": 79.51,
+    "end": 82.099,
+    "zh": "我有一些零钱。",
+    "zh_hant": "我有一些零錢。"
+  },
+  {
+    "index": 26,
+    "text": "So have I.",
+    "start": 82.965,
+    "end": 84.549,
+    "zh": "我也有。",
+    "zh_hant": "我也有。"
+  }
+]
