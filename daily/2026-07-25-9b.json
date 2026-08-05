@@ -1,0 +1,586 @@
+[
+  {
+    "index": 0,
+    "text": "So how does the disease itself work?",
+    "start": 0.47,
+    "end": 3.672,
+    "zh": "那么这种疾病本身是如何运作的呢？",
+    "zh_hant": "那麼這種疾病本身是如何運作的呢？"
+  },
+  {
+    "index": 1,
+    "text": "For that, we need a neuroscientist: My name is Matthew Schrag .",
+    "start": 3.972,
+    "end": 8.38,
+    "zh": "要回答这个问题，我们需要一位神经科学家：我叫马修·施拉格。",
+    "zh_hant": "要回答這個問題，我們需要一位神經科學家：我叫馬修·施拉格。"
+  },
+  {
+    "index": 2,
+    "text": "I’m an associate professor of neurology at Vanderbilt University Medical Center.",
+    "start": 8.03,
+    "end": 12.796,
+    "zh": "我是范德比尔特大学医学中心的神经病学副教授。",
+    "zh_hant": "我是範德比爾特大學醫學中心的神經病學副教授。"
+  },
+  {
+    "index": 3,
+    "text": "I take care of patients who have strokes and memory problems.",
+    "start": 12.937,
+    "end": 17.058,
+    "zh": "我负责照护中风和有记忆问题的患者。",
+    "zh_hant": "我負責照護中風和有記憶問題的患者。"
+  },
+  {
+    "index": 4,
+    "text": "And I run a laboratory trying to understand how blood-vessel",
+    "start": 17.039,
+    "end": 21.561,
+    "zh": "我还运营一个实验室，试图理解血管",
+    "zh_hant": "我還運營一個實驗室，試圖理解血管"
+  },
+  {
+    "index": 5,
+    "text": "diseases contribute to memory problems like Alzheimer’s disease.",
+    "start": 21.301,
+    "end": 25.082,
+    "zh": "疾病如何促成像阿尔茨海默病这样的记忆问题。",
+    "zh_hant": "疾病如何促成像阿爾茨海默病這樣的記憶問題。"
+  },
+  {
+    "index": 6,
+    "text": "Describe for me how much of your work is what a layperson like me might consider",
+    "start": 25.063,
+    "end": 30.285,
+    "zh": "请跟我描述一下，你的工作中有多少是我这样的外行人可能视为",
+    "zh_hant": "請跟我描述一下，你的工作中有多少是我這樣的外行人可能視為"
+  },
+  {
+    "index": 7,
+    "text": "Alzheimer’s-related?",
+    "start": 29.935,
+    "end": 31.746,
+    "zh": "与阿尔茨海默病相关的？",
+    "zh_hant": "與阿爾茨海默病相關的？"
+  },
+  {
+    "index": 8,
+    "text": "Most of it.",
+    "start": 31.766,
+    "end": 32.886,
+    "zh": "大部分都是。",
+    "zh_hant": "大部分都是。"
+  },
+  {
+    "index": 9,
+    "text": "Our perspective is that blood-vessel diseases contribute to Alzheimer’s disease.",
+    "start": 32.866,
+    "end": 38.829,
+    "zh": "我们的观点是血管疾病会促成阿尔茨海默病。",
+    "zh_hant": "我們的觀點是血管疾病會促成阿爾茨海默病。"
+  },
+  {
+    "index": 10,
+    "text": "We don’t think of Alzheimer’s disease as a blood vessel disease, but that’s one of the issues that we’ve been working on,",
+    "start": 38.809,
+    "end": 44.733,
+    "zh": "我们不把阿尔茨海默病看作一种血管疾病，但这是我们一直在研究的问题之一，",
+    "zh_hant": "我們不把阿爾茨海默病看作一種血管疾病，但這是我們一直在研究的問題之一，"
+  },
+  {
+    "index": 11,
+    "text": "is trying to understand the degree to which these other factors that have been largely overlooked",
+    "start": 44.383,
+    "end": 49.995,
+    "zh": "也就是去理解这些在很大程度上被忽视的其他因素，",
+    "zh_hant": "也就是去理解這些在很大程度上被忽視的其他因素，"
+  },
+  {
+    "index": 12,
+    "text": "may play a key role in how this disease works.",
+    "start": 49.875,
+    "end": 52.997,
+    "zh": "可能在这种疾病的运作中发挥关键作用的程度。",
+    "zh_hant": "可能在這種疾病的運作中發揮關鍵作用的程度。"
+  },
+  {
+    "index": 13,
+    "text": "So just walk me through quickly all the schools you attended and all the degrees you got.",
+    "start": 53.037,
+    "end": 57.859,
+    "zh": "那请快速带我过一遍你上过的所有学校和拿到的所有学位。",
+    "zh_hant": "那請快速帶我過一遍你上過的所有學校和拿到的所有學位。"
+  },
+  {
+    "index": 14,
+    "text": "Yeah, I was at the University of North Dakota for my undergraduate work and then I went to Loma Linda University,",
+    "start": 57.639,
+    "end": 63.922,
+    "zh": "好的，我本科是在北达科他大学读的，然后去了洛马林达大学，",
+    "zh_hant": "好的，我本科是在北達科他大學讀的，然後去了洛馬林達大學，"
+  },
+  {
+    "index": 15,
+    "text": "and I got an M.D. and Ph.D. there.",
+    "start": 63.762,
+    "end": 66.783,
+    "zh": "在那里拿了医学博士和哲学博士学位。",
+    "zh_hant": "在那裡拿了醫學博士和哲學博士學位。"
+  },
+  {
+    "index": 16,
+    "text": "And then I went to Yale for my residency work.",
+    "start": 66.924,
+    "end": 70.665,
+    "zh": "之后我去了耶鲁做住院医师培训。",
+    "zh_hant": "之後我去了耶魯做住院醫師培訓。"
+  },
+  {
+    "index": 17,
+    "text": "Were you wanting to be this kind of scientist since the time you were a kid?",
+    "start": 70.705,
+    "end": 75.408,
+    "zh": "你从小就想成为这种科学家吗？",
+    "zh_hant": "你從小就想成為這種科學家嗎？"
+  },
+  {
+    "index": 18,
+    "text": "Did your family, or school, or background encourage you?",
+    "start": 75.058,
+    "end": 78.929,
+    "zh": "你的家庭、学校或成长背景是否鼓励过你？",
+    "zh_hant": "你的家庭、學校或成長背景是否鼓勵過你？"
+  },
+  {
+    "index": 19,
+    "text": "Not really.",
+    "start": 78.709,
+    "end": 79.73,
+    "zh": "其实并没有。",
+    "zh_hant": "其實並沒有。"
+  },
+  {
+    "index": 20,
+    "text": "You know, this happened partly because I sat down with somebody when I started getting serious",
+    "start": 79.38,
+    "end": 85.313,
+    "zh": "你知道吗，这某种程度上是因为当我开始认真考虑",
+    "zh_hant": "你知道嗎，這某種程度上是因為當我開始認真考慮"
+  },
+  {
+    "index": 21,
+    "text": "about trying to get into medical school and said, what are the things I should do to improve my odds of getting in?",
+    "start": 84.963,
+    "end": 90.896,
+    "zh": "进入医学院时，我坐下来问别人，我应该做些什么来提高录取几率。",
+    "zh_hant": "進入醫學院時，我坐下來問別人，我應該做些什麼來提高錄取機率。"
+  },
+  {
+    "index": 22,
+    "text": "And one of the things they said is, well, you should do some research.",
+    "start": 90.546,
+    "end": 93.617,
+    "zh": "对方说的一件事情是，嗯，你应该做点研究。",
+    "zh_hant": "對方說的一件事情是，嗯，你應該做點研究。"
+  },
+  {
+    "index": 23,
+    "text": "I went and knocked on my professor’s office and said, can I do some research?",
+    "start": 93.737,
+    "end": 98.279,
+    "zh": "我去敲了教授办公室的门，说，我能做研究吗？",
+    "zh_hant": "我去敲了教授辦公室的門，說，我能做研究嗎？"
+  },
+  {
+    "index": 24,
+    "text": "And he said to me, son, they didn’t mean botany.",
+    "start": 97.929,
+    "end": 101.341,
+    "zh": "他对我说，孩子，他们说的不是植物学研究。",
+    "zh_hant": "他對我說，孩子，他們說的不是植物學研究。"
+  },
+  {
+    "index": 25,
+    "text": "And so he very graciously didn’t take advantage of me,",
+    "start": 101.601,
+    "end": 105.363,
+    "zh": "所以他非常客气，没有利用我，",
+    "zh_hant": "所以他非常客氣，沒有利用我，"
+  },
+  {
+    "index": 26,
+    "text": "and shuttled me to a more appropriate laboratory.",
+    "start": 105.043,
+    "end": 108.484,
+    "zh": "把我安排到了一个更合适的实验室。",
+    "zh_hant": "把我安排到了一個更合適的實驗室。"
+  },
+  {
+    "index": 27,
+    "text": "The lab that Schrag got shuttled to was run by a neuropharmacologist named Othman",
+    "start": 108.565,
+    "end": 114.307,
+    "zh": "施拉格被安排去的那个实验室由一位名叫奥斯曼·格里比的神经药理学家管理，",
+    "zh_hant": "施拉格被安排去的那個實驗室由一位名叫奧斯曼·格里比的神經藥理學家管理，"
+  },
+  {
+    "index": 28,
+    "text": "Ghribi who studied Alzheimer’s.",
+    "start": 114.007,
+    "end": 116.368,
+    "zh": "他研究阿尔茨海默病。",
+    "zh_hant": "他研究阿爾茨海默病。"
+  },
+  {
+    "index": 29,
+    "text": "I really enjoyed the atmosphere in the laboratory.",
+    "start": 116.689,
+    "end": 120.09,
+    "zh": "我非常喜欢实验室里的氛围。",
+    "zh_hant": "我非常喜歡實驗室裡的氛圍。"
+  },
+  {
+    "index": 30,
+    "text": "I really loved the ways that you could try to study things that were too small to see,",
+    "start": 119.74,
+    "end": 124.312,
+    "zh": "我真的很喜欢那种方法——可以研究那些小到看不见的东西，",
+    "zh_hant": "我真的很喜歡那種方法——可以研究那些小到看不見的東西，"
+  },
+  {
+    "index": 31,
+    "text": "and try to infer how complicated systems worked.",
+    "start": 124.533,
+    "end": 127.994,
+    "zh": "并试着推断复杂的系统是如何运作的。",
+    "zh_hant": "並試著推斷複雜的系統是如何運作的。"
+  },
+  {
+    "index": 32,
+    "text": "The research that Schrag worked on with Ghribi looked at the potential impact",
+    "start": 127.834,
+    "end": 131.756,
+    "zh": "施拉格和格里比一起做的研究，关注的是饮食可能",
+    "zh_hant": "施拉格和格里比一起做的研究，關注的是飲食可能"
+  },
+  {
+    "index": 33,
+    "text": "that diet could have on the onset and progression of Alzheimer’s.",
+    "start": 131.416,
+    "end": 135.558,
+    "zh": "对阿尔茨海默病的发病和进展产生的潜在影响。",
+    "zh_hant": "對阿爾茨海默病的發病和進展產生的潛在影響。"
+  },
+  {
+    "index": 34,
+    "text": "In 2006, they and a few other co-authors published a paper in the Journal of Neurochemistry",
+    "start": 135.578,
+    "end": 141.001,
+    "zh": "2006年，他们和其他几位合著者在《神经化学杂志》上发表了一篇论文，",
+    "zh_hant": "2006年，他們和其他幾位合著者在《神經化學雜誌》上發表了一篇論文，"
+  },
+  {
+    "index": 35,
+    "text": "called “ Deposition of iron and beta-amyloid plaques",
+    "start": 140.651,
+    "end": 144.502,
+    "zh": "题为《喂食长期高胆固醇饮食的兔子中，铁和β-淀粉样蛋白斑块的沉积",
+    "zh_hant": "題為《餵食長期高膽固醇飲食的兔子中，鐵和β-澱粉樣蛋白斑塊的沉積"
+  },
+  {
+    "index": 36,
+    "text": "is associated with cortical cellular damage in rabbits fed with long-term cholesterol-enriched diets .”",
+    "start": 144.162,
+    "end": 150.65,
+    "zh": "与皮层细胞损伤相关》。",
+    "zh_hant": "與皮層細胞損傷相關》。"
+  },
+  {
+    "index": 37,
+    "text": "So what was the idea of this paper?",
+    "start": 150.465,
+    "end": 153.827,
+    "zh": "那么这篇论文的思路是什么？",
+    "zh_hant": "那麼這篇論文的思路是什麼？"
+  },
+  {
+    "index": 38,
+    "text": "The idea of this paper was that cholesterol accumulates in the brain.",
+    "start": 154.087,
+    "end": 159.009,
+    "zh": "这篇论文的思路是胆固醇会在大脑中积累。",
+    "zh_hant": "這篇論文的思路是膽固醇會在大腦中積累。"
+  },
+  {
+    "index": 39,
+    "text": "We had raised a group of rabbits and fed them a high-cholesterol diet,",
+    "start": 159.05,
+    "end": 163.892,
+    "zh": "我们养了一组兔子，给它们喂高胆固醇饮食，",
+    "zh_hant": "我們養了一組兔子，給它們喂高膽固醇飲食，"
+  },
+  {
+    "index": 40,
+    "text": "which was thought in some ways to mimic Alzheimer’s disease.",
+    "start": 163.542,
+    "end": 167.114,
+    "zh": "这种饮食在某些方面被认为可以模拟阿尔茨海默病。",
+    "zh_hant": "這種飲食在某些方面被認為可以模擬阿爾茨海默病。"
+  },
+  {
+    "index": 41,
+    "text": "And the thought with this paper was that cholesterol",
+    "start": 167.214,
+    "end": 171.296,
+    "zh": "这篇论文的想法是，胆固醇",
+    "zh_hant": "這篇論文的想法是，膽固醇"
+  },
+  {
+    "index": 42,
+    "text": "levels would accumulate within the neurons themselves,",
+    "start": 170.946,
+    "end": 174.077,
+    "zh": "水平会在神经元内部积累，",
+    "zh_hant": "水平會在神經元內部積累，"
+  },
+  {
+    "index": 43,
+    "text": "and that that could have a toxic effect on the neurons.",
+    "start": 173.727,
+    "end": 176.559,
+    "zh": "而这可能对神经元产生毒性作用。",
+    "zh_hant": "而這可能對神經元產生毒性作用。"
+  },
+  {
+    "index": 44,
+    "text": "Pretend that I know nothing about the neuroscience here —",
+    "start": 176.599,
+    "end": 181.29,
+    "zh": "假设我对这里的神经科学一无所知——",
+    "zh_hant": "假設我對這裡的神經科學一無所知——"
+  },
+  {
+    "index": 45,
+    "text": "which, you know, would be close to accurate.",
+    "start": 180.94,
+    "end": 183.322,
+    "zh": "而你知道，这差不多接近实际情况。",
+    "zh_hant": "而你知道，這差不多接近實際情況。"
+  },
+  {
+    "index": 46,
+    "text": "Can you just summarize the state of Alzheimer’s research:",
+    "start": 182.972,
+    "end": 187.324,
+    "zh": "你能概括一下阿尔茨海默病研究的现状吗：",
+    "zh_hant": "你能概括一下阿爾茨海默病研究的現狀嗎："
+  },
+  {
+    "index": 47,
+    "text": "what’s known, what’s not known, what’s disputed.",
+    "start": 187.324,
+    "end": 190.726,
+    "zh": "什么已知，什么未知，什么有争议。",
+    "zh_hant": "什麼已知，什麼未知，什麼有爭議。"
+  },
+  {
+    "index": 48,
+    "text": "Alzheimer’s disease is a complicated disease,",
+    "start": 190.846,
+    "end": 194.027,
+    "zh": "阿尔茨海默病是一种复杂的疾病，",
+    "zh_hant": "阿爾茨海默病是一種複雜的疾病，"
+  },
+  {
+    "index": 49,
+    "text": "but our current formulation of what happens in the brain is that there is an accumulation",
+    "start": 193.677,
+    "end": 199.35,
+    "zh": "但我们目前对大脑中发生情况的理解是，有这些蛋白质",
+    "zh_hant": "但我們目前對大腦中發生情況的理解是，有這些蛋白質"
+  },
+  {
+    "index": 50,
+    "text": "of these proteins that clump together.",
+    "start": 199.531,
+    "end": 202.172,
+    "zh": "会积累并聚集在一起。",
+    "zh_hant": "會積累並聚集在一起。"
+  },
+  {
+    "index": 51,
+    "text": "And two in particular.",
+    "start": 201.822,
+    "end": 203.232,
+    "zh": "尤其有两种。",
+    "zh_hant": "尤其有兩種。"
+  },
+  {
+    "index": 52,
+    "text": "One is called beta amyloid, or just amyloid,",
+    "start": 203.293,
+    "end": 206.674,
+    "zh": "一种叫β-淀粉样蛋白，或简称淀粉样蛋白，",
+    "zh_hant": "一種叫β-澱粉樣蛋白，或簡稱澱粉樣蛋白，"
+  },
+  {
+    "index": 53,
+    "text": "clumps together outside of the cells of the brain,",
+    "start": 206.634,
+    "end": 210.156,
+    "zh": "聚集在脑细胞的外部，",
+    "zh_hant": "聚集在腦細胞的外部，"
+  },
+  {
+    "index": 54,
+    "text": "sort of in between the cells .",
+    "start": 209.806,
+    "end": 211.69,
+    "zh": "大约在细胞之间的间隙里。",
+    "zh_hant": "大約在細胞之間的間隙裡。"
+  },
+  {
+    "index": 55,
+    "text": "And another protein called tau clumps inside of the cells of the brain,",
+    "start": 211.697,
+    "end": 215.839,
+    "zh": "另一种叫tau的蛋白质聚集在脑细胞内部，",
+    "zh_hant": "另一種叫tau的蛋白質聚集在腦細胞內部，"
+  },
+  {
+    "index": 56,
+    "text": "and that leads to the neurons eventually not functioning properly and eventually dying.",
+    "start": 215.489,
+    "end": 220.201,
+    "zh": "这最终导致神经元功能失常，最终死亡。",
+    "zh_hant": "這最終導致神經元功能失常，最終死亡。"
+  },
+  {
+    "index": 57,
+    "text": "And the brain shrinks and people begin to lose their memory.",
+    "start": 220.201,
+    "end": 223.842,
+    "zh": "然后大脑萎缩，人们开始失去记忆。",
+    "zh_hant": "然後大腦萎縮，人們開始失去記憶。"
+  },
+  {
+    "index": 58,
+    "text": "Where did the tau cells come in in that scenario?",
+    "start": 223.843,
+    "end": 226.584,
+    "zh": "tau细胞在这种情境中是怎么介入的呢？",
+    "zh_hant": "tau細胞在這種情境中是怎麼介入的呢？"
+  },
+  {
+    "index": 59,
+    "text": "Tau is inside the neurons, it’s a protein that is involved in the structure of a neuron.",
+    "start": 226.544,
+    "end": 231.706,
+    "zh": "tau位于神经元内部，是一种参与神经元结构的蛋白质。",
+    "zh_hant": "tau位於神經元內部，是一種參與神經元結構的蛋白質。"
+  },
+  {
+    "index": 60,
+    "text": "And if you think back to high-school biology, you know,",
+    "start": 231.356,
+    "end": 233.907,
+    "zh": "如果你回想高中生物课，你知道，",
+    "zh_hant": "如果你回想高中生物課，你知道，"
+  },
+  {
+    "index": 61,
+    "text": "the neuron is this big, complicated cell that has a very long tail on it.",
+    "start": 233.557,
+    "end": 238.51,
+    "zh": "神经元是一个巨大而复杂的细胞，上面有一条很长的尾巴。",
+    "zh_hant": "神經元是一個巨大而複雜的細胞，上面有一條很長的尾巴。"
+  },
+  {
+    "index": 62,
+    "text": "It’s one of the biggest cells in the body, and they have to live for your entire life.",
+    "start": 238.16,
+    "end": 242.712,
+    "zh": "它是人体最大的细胞之一，而且必须存活一辈子。",
+    "zh_hant": "它是人體最大的細胞之一，而且必須存活一輩子。"
+  },
+  {
+    "index": 63,
+    "text": "And the tau protein is part of how the cell gets that unusual structure,",
+    "start": 242.452,
+    "end": 247.314,
+    "zh": "tau蛋白是细胞获得这种特殊结构的一部分原因，",
+    "zh_hant": "tau蛋白是細胞獲得這種特殊結構的一部分原因，"
+  },
+  {
+    "index": 64,
+    "text": "with the long tail that allows it to function like an electrical wire.",
+    "start": 246.964,
+    "end": 251.196,
+    "zh": "那条长尾巴让它能像电线一样工作。",
+    "zh_hant": "那條長尾巴讓它能像電線一樣工作。"
+  },
+  {
+    "index": 65,
+    "text": "So if you have tau clumped together and no longer participate in maintaining the skeleton of the cell,",
+    "start": 251.077,
+    "end": 256.899,
+    "zh": "所以如果tau聚集在一起，不再参与维持细胞骨架，",
+    "zh_hant": "所以如果tau聚集在一起，不再參與維持細胞骨架，"
+  },
+  {
+    "index": 66,
+    "text": "the cell doesn’t function properly.",
+    "start": 256.919,
+    "end": 259.28,
+    "zh": "细胞就无法正常运作。",
+    "zh_hant": "細胞就無法正常運作。"
+  },
+  {
+    "index": 67,
+    "text": "So that’s the second key piece of what’s going on in Alzheimer’s disease —",
+    "start": 258.93,
+    "end": 262.97,
+    "zh": "所以这就是阿尔茨海默病中正在发生的第二个关键环节——",
+    "zh_hant": "所以這就是阿爾茨海默病中正在發生的第二個關鍵環節——"
+  },
+  {
+    "index": 68,
+    "text": "that the neurons are structurally destabilized.",
+    "start": 262.642,
+    "end": 266.644,
+    "zh": "神经元在结构上变得不稳定。",
+    "zh_hant": "神經元在結構上變得不穩定。"
+  },
+  {
+    "index": 69,
+    "text": "So for at least since, I would say, about 1990 in round numbers,",
+    "start": 266.764,
+    "end": 271.686,
+    "zh": "所以至少从大约1990年开始，粗略来说，",
+    "zh_hant": "所以至少從大約1990年開始，粗略來說，"
+  },
+  {
+    "index": 70,
+    "text": "the main thought in this field is that the plaques, this little beta amyloid protein that clumps",
+    "start": 271.386,
+    "end": 277.309,
+    "zh": "这个领域的主流观点是，那些斑块，也就是聚集在",
+    "zh_hant": "這個領域的主流觀點是，那些斑塊，也就是聚集在"
+  },
+  {
+    "index": 71,
+    "text": "outside of the cells,",
+    "start": 276.989,
+    "end": 278.69,
+    "zh": "细胞外部的这种小小β-淀粉样蛋白，",
+    "zh_hant": "細胞外部的這種小小β-澱粉樣蛋白，"
+  },
+  {
+    "index": 72,
+    "text": "is the primary driver of the disease.",
+    "start": 278.656,
+    "end": 281.409,
+    "zh": "是这种疾病的主要驱动因素。",
+    "zh_hant": "是這種疾病的主要驅動因素。"
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "index": 0,
+    "text": "Economists have been interested in one particular aspect of honey bees for a long time.",
+    "start": 0.33,
+    "end": 5.933,
+    "zh": "经济学家长期以来一直对蜜蜂的某一个特定方面感兴趣。",
+    "zh_hant": "經濟學家長期以來一直對蜜蜂的某一個特定方面感興趣。"
+  },
+  {
+    "index": 1,
+    "text": "I think it was back in the 1950s that the future Nobel Prize winner James Meade",
+    "start": 5.583,
+    "end": 11.055,
+    "zh": "我记得是在20世纪50年代，未来的诺贝尔奖得主詹姆斯·米德",
+    "zh_hant": "我記得是在20世紀50年代，未來的諾貝爾獎得主詹姆斯·米德"
+  },
+  {
+    "index": 2,
+    "text": "highlighted",
+    "start": 11.156,
+    "end": 12.076,
+    "zh": "指出",
+    "zh_hant": "指出"
+  },
+  {
+    "index": 3,
+    "text": "a very economically unusual feature of the relationship between honeybees and apple orchards.",
+    "start": 11.726,
+    "end": 17.578,
+    "zh": "蜜蜂与苹果园之间关系的一个非常经济上不寻常的特点。",
+    "zh_hant": "蜜蜂與蘋果園之間關係的一個非常經濟上不尋常的特點。"
+  },
+  {
+    "index": 4,
+    "text": "Could you describe what makes that relationship of special interest to economists?",
+    "start": 17.619,
+    "end": 22.301,
+    "zh": "你能描述一下这种关系为何让经济学家特别感兴趣吗？",
+    "zh_hant": "你能描述一下這種關係為何讓經濟學家特別感興趣嗎？"
+  },
+  {
+    "index": 5,
+    "text": "Yeah, Meade is the right one.",
+    "start": 22.101,
+    "end": 23.982,
+    "zh": "是的，米德正是那位合适的人选。",
+    "zh_hant": "是的，米德正是那位合適的人選。"
+  },
+  {
+    "index": 6,
+    "text": "He and Francis Bator later on, they said, imagine that there’s a beekeeper,",
+    "start": 23.702,
+    "end": 29.044,
+    "zh": "他和后来的弗朗西斯·巴托说，假设有一个养蜂人，",
+    "zh_hant": "他和後來的弗朗西斯·巴託說，假設有一個養蜂人，"
+  },
+  {
+    "index": 7,
+    "text": "and the beekeeper’s bees fly out every day and they do two things: They",
+    "start": 28.924,
+    "end": 34.467,
+    "zh": "养蜂人的蜜蜂每天飞出去做两件事：它们",
+    "zh_hant": "養蜂人的蜜蜂每天飛出去做兩件事：它們"
+  },
+  {
+    "index": 8,
+    "text": "bring back pollen from a nearby apple orchard,",
+    "start": 34.327,
+    "end": 37.688,
+    "zh": "从附近的苹果园带回花粉，",
+    "zh_hant": "從附近的蘋果園帶回花粉，"
+  },
+  {
+    "index": 9,
+    "text": "and they bring back nectar.",
+    "start": 38.069,
+    "end": 39.729,
+    "zh": "而且它们带回花蜜。",
+    "zh_hant": "而且它們帶回花蜜。"
+  },
+  {
+    "index": 10,
+    "text": "And in the process of moving nectar around, they pollinate the apples.",
+    "start": 39.469,
+    "end": 43.832,
+    "zh": "在搬运花蜜的过程中，它们给苹果授粉。",
+    "zh_hant": "在搬運花蜜的過程中，它們給蘋果授粉。"
+  },
+  {
+    "index": 11,
+    "text": "Meaning they increase the productivity of the apple orchard.",
+    "start": 43.872,
+    "end": 47.274,
+    "zh": "也就是说，它们提高了苹果园的生产力。",
+    "zh_hant": "也就是說，它們提高了蘋果園的生產力。"
+  },
+  {
+    "index": 12,
+    "text": "But then they also bring back this valuable dilute sweetness",
+    "start": 47.474,
+    "end": 51.876,
+    "zh": "但它们还带回了这种宝贵的稀释甜味",
+    "zh_hant": "但它們還帶回了這種寶貴的稀釋甜味"
+  },
+  {
+    "index": 13,
+    "text": "from the nectar which they produce honey from.",
+    "start": 51.576,
+    "end": 54.137,
+    "zh": "来自花蜜，而它们用花蜜酿蜜。",
+    "zh_hant": "來自花蜜，而它們用花蜜釀蜜。"
+  },
+  {
+    "index": 14,
+    "text": "So they’re doing two economically useful things.",
+    "start": 54.017,
+    "end": 56.858,
+    "zh": "所以它们在做两项经济上有用的事情。",
+    "zh_hant": "所以它們在做兩項經濟上有用的事情。"
+  },
+  {
+    "index": 15,
+    "text": "One is produce apples, and that benefits the apple grower.",
+    "start": 56.578,
+    "end": 60.52,
+    "zh": "一项是产出苹果，这使苹果种植者受益。",
+    "zh_hant": "一項是產出蘋果，這使蘋果種植者受益。"
+  },
+  {
+    "index": 16,
+    "text": "And the other is producing honey, which benefits the beekeeper.",
+    "start": 60.72,
+    "end": 64.302,
+    "zh": "另一项是生产蜂蜜，这使养蜂人受益。",
+    "zh_hant": "另一項是生產蜂蜜，這使養蜂人受益。"
+  },
+  {
+    "index": 17,
+    "text": "The interesting thing to Meade and others was that, at least according to them,",
+    "start": 64.802,
+    "end": 70.945,
+    "zh": "对米德和其他人来说，有趣的是，至少据他们所说，",
+    "zh_hant": "對米德和其他人來說，有趣的是，至少據他們所說，"
+  },
+  {
+    "index": 18,
+    "text": "the beekeeper didn’t really receive any payment for increasing the output of apples,",
+    "start": 70.885,
+    "end": 75.988,
+    "zh": "养蜂人并没有因提高苹果产量而真正收到任何报酬，",
+    "zh_hant": "養蜂人並沒有因提高蘋果產量而真正收到任何報酬，"
+  },
+  {
+    "index": 19,
+    "text": "and the apple grower didn’t receive any payment for increasing the production of honey by bees.",
+    "start": 76.088,
+    "end": 81.271,
+    "zh": "苹果种植者也没有因蜜蜂增加蜂蜜产量而收到任何报酬。",
+    "zh_hant": "蘋果種植者也沒有因蜜蜂增加蜂蜜產量而收到任何報酬。"
+  },
+  {
+    "index": 20,
+    "text": "And so here’s the beekeeper and the orchard owner mutually benefiting each other,",
+    "start": 81.471,
+    "end": 86.893,
+    "zh": "所以这里养蜂人和果园主相互受益，",
+    "zh_hant": "所以這裡養蜂人和果園主相互受益，"
+  },
+  {
+    "index": 21,
+    "text": "but they didn’t get compensated for an important piece of what they did for the other.",
+    "start": 87.034,
+    "end": 90.795,
+    "zh": "但他们为对方所做的关键部分却没有得到补偿。",
+    "zh_hant": "但他們為對方所做的關鍵部分卻沒有得到補償。"
+  },
+  {
+    "index": 22,
+    "text": "Therefore, from Meade’s perspective and standard economics’ perspective,",
+    "start": 90.996,
+    "end": 95.738,
+    "zh": "因此，从米德的角度和标准经济学的角度来看，",
+    "zh_hant": "因此，從米德的角度和標準經濟學的角度來看，"
+  },
+  {
+    "index": 23,
+    "text": "there was too little honey being produced, there was too little beekeeping, and there were too few apples being produced.",
+    "start": 95.758,
+    "end": 101.04,
+    "zh": "生产的蜂蜜太少，养蜂活动太少，产出的苹果也太少。",
+    "zh_hant": "生產的蜂蜜太少，養蜂活動太少，產出的蘋果也太少。"
+  },
+  {
+    "index": 24,
+    "text": "In economics jargon, that’s what we call a positive externality.",
+    "start": 100.921,
+    "end": 105.563,
+    "zh": "用经济学的术语来说，这就是我们所说的正外部性。",
+    "zh_hant": "用經濟學的術語來說，這就是我們所說的正外部性。"
+  },
+  {
+    "index": 25,
+    "text": "It’s a kind of market failure.",
+    "start": 105.213,
+    "end": 107.604,
+    "zh": "这是一种市场失灵。",
+    "zh_hant": "這是一種市場失靈。"
+  },
+  {
+    "index": 26,
+    "text": "And that’s really interesting to economists because we certainly see a lot of cases",
+    "start": 107.664,
+    "end": 113.687,
+    "zh": "这对经济学家来说确实很有意思，因为我们当然看到很多",
+    "zh_hant": "這對經濟學家來說確實很有意思，因為我們當然看到很多"
+  },
+  {
+    "index": 27,
+    "text": "where we have negative externalities but this idea of the positive externality,",
+    "start": 113.627,
+    "end": 117.789,
+    "zh": "存在负外部性的情况，但提到正外部性这个概念，",
+    "zh_hant": "存在負外部性的情況，但提到正外部性這個概念，"
+  },
+  {
+    "index": 28,
+    "text": "we don’t have so many examples of those.",
+    "start": 117.549,
+    "end": 119.83,
+    "zh": "这样的例子我们不太多。",
+    "zh_hant": "這樣的例子我們不太多。"
+  },
+  {
+    "index": 29,
+    "text": "Yeah, positive externalities are a lot less common in economic thought, and possibly in the actual world.",
+    "start": 119.49,
+    "end": 125.393,
+    "zh": "是的，在经济学思想中正外部性要少见得多，可能在现实世界中也是如此。",
+    "zh_hant": "是的，在經濟學思想中正外部性要少見得多，可能在現實世界中也是如此。"
+  },
+  {
+    "index": 30,
+    "text": "So in this case, there are two interesting things going on here.",
+    "start": 125.713,
+    "end": 128.715,
+    "zh": "所以在这种情况下，这里有两件有趣的事情。",
+    "zh_hant": "所以在這種情況下，這裡有兩件有趣的事情。"
+  },
+  {
+    "index": 31,
+    "text": "One is it is a positive externality.",
+    "start": 128.365,
+    "end": 130.695,
+    "zh": "一是它是一个正外部性。",
+    "zh_hant": "一是它是一個正外部性。"
+  },
+  {
+    "index": 32,
+    "text": "I mean, forget about the production of honey for a minute.",
+    "start": 130.856,
+    "end": 133.437,
+    "zh": "我的意思是，暂时不考虑蜂蜜的生产。",
+    "zh_hant": "我的意思是，暫時不考慮蜂蜜的生產。"
+  },
+  {
+    "index": 33,
+    "text": "If the bees visited the apples, pollinating the apples increases the yield",
+    "start": 133.317,
+    "end": 138.719,
+    "zh": "如果蜜蜂造访苹果树，给苹果授粉会提高产量",
+    "zh_hant": "如果蜜蜂造訪蘋果樹，給蘋果授粉會提高產量"
+  },
+  {
+    "index": 34,
+    "text": "to the orchard owner,",
+    "start": 138.66,
+    "end": 140.04,
+    "zh": "给果园主，",
+    "zh_hant": "給果園主，"
+  },
+  {
+    "index": 35,
+    "text": "that’s a positive benefit that the beekeeper, ostensibly, doesn’t get paid for.",
+    "start": 140.08,
+    "end": 145.143,
+    "zh": "这是养蜂人表面上没有因此获得报酬的一个正面好处。",
+    "zh_hant": "這是養蜂人表面上沒有因此獲得報酬的一個正面好處。"
+  },
+  {
+    "index": 36,
+    "text": "And put a pin in that “ostensibly.”",
+    "start": 145.043,
+    "end": 147.784,
+    "zh": "先把这个“表面上”放在一边。",
+    "zh_hant": "先把這個“表面上”放在一邊。"
+  },
+  {
+    "index": 37,
+    "text": "And the other interesting thing is it’s reciprocal.",
+    "start": 148.765,
+    "end": 151.666,
+    "zh": "另一件有趣的事情是它是互惠的。",
+    "zh_hant": "另一件有趣的事情是它是互惠的。"
+  },
+  {
+    "index": 38,
+    "text": "Not only is the beekeeper benefiting the apple grower,",
+    "start": 151.446,
+    "end": 155.448,
+    "zh": "不仅是养蜂人使苹果种植者受益，",
+    "zh_hant": "不僅是養蜂人使蘋果種植者受益，"
+  },
+  {
+    "index": 39,
+    "text": "but the apple grower, by having this nectar source, is benefiting the beekeeper.",
+    "start": 155.448,
+    "end": 159.73,
+    "zh": "而且苹果种植者通过提供花蜜来源，也使养蜂人受益。",
+    "zh_hant": "而且蘋果種植者透過提供花蜜來源，也使養蜂人受益。"
+  },
+  {
+    "index": 40,
+    "text": "So this positive flow of externalities goes both ways,",
+    "start": 159.791,
+    "end": 163.532,
+    "zh": "所以这种正外部性的流动是双向的，",
+    "zh_hant": "所以這種正外部性的流動是雙向的，"
+  },
+  {
+    "index": 41,
+    "text": "and that leads to this unambiguous theoretical conclusion",
+    "start": 164.053,
+    "end": 167.734,
+    "zh": "而这导致了这样一个明确的理论结论：",
+    "zh_hant": "而這導致了這樣一個明確的理論結論："
+  },
+  {
+    "index": 42,
+    "text": "that we should subsidize the production of apples and the keeping of bees.",
+    "start": 167.384,
+    "end": 171.496,
+    "zh": "我们应该补贴苹果的生产和养蜂活动。",
+    "zh_hant": "我們應該補貼蘋果的生產和養蜂活動。"
+  },
+  {
+    "index": 43,
+    "text": "Okay, so let’s go to negative externalities because we have a lot of those in the world, and economists think we understand those.",
+    "start": 171.396,
+    "end": 177.359,
+    "zh": "好的，那么让我们来看看负外部性，因为世界上有很多这样的例子，经济学家认为我们理解它们。",
+    "zh_hant": "好的，那麼讓我們來看看負外部性，因為世界上有很多這樣的例子，經濟學家認為我們理解它們。"
+  },
+  {
+    "index": 44,
+    "text": "So examples would be the pollution from factories,",
+    "start": 177.009,
+    "end": 180.721,
+    "zh": "比如工厂的污染，",
+    "zh_hant": "比如工廠的汙染，"
+  },
+  {
+    "index": 45,
+    "text": "the stench from pig farms, traffic jams on the roads because too many people are trying to drive to work.",
+    "start": 180.841,
+    "end": 187.144,
+    "zh": "养猪场的臭味，道路上因为太多人想开车上班而造成的交通拥堵。",
+    "zh_hant": "養豬場的臭味，道路上因為太多人想開車上班而造成的交通擁堵。"
+  },
+  {
+    "index": 46,
+    "text": "Second-hand smoke.",
+    "start": 186.844,
+    "end": 188.104,
+    "zh": "二手烟。",
+    "zh_hant": "二手菸。"
+  },
+  {
+    "index": 47,
+    "text": "It goes on and on and on.",
+    "start": 187.754,
+    "end": 189.365,
+    "zh": "这样的例子数不胜数。",
+    "zh_hant": "這樣的例子數不勝數。"
+  },
+  {
+    "index": 48,
+    "text": "Okay.",
+    "start": 189.045,
+    "end": 189.745,
+    "zh": "好的。",
+    "zh_hant": "好的。"
+  },
+  {
+    "index": 49,
+    "text": "So when there is a negative externality associated with an activity,",
+    "start": 190.125,
+    "end": 194.227,
+    "zh": "所以当某项活动伴随负外部性时，",
+    "zh_hant": "所以當某項活動伴隨負外部性時，"
+  },
+  {
+    "index": 50,
+    "text": "then economists worry that the free market provides too much of that activity, right?",
+    "start": 194.248,
+    "end": 199.01,
+    "zh": "经济学家担心自由市场会提供过多的这种活动，对吗？",
+    "zh_hant": "經濟學家擔心自由市場會提供過多的這種活動，對嗎？"
+  },
+  {
+    "index": 51,
+    "text": "The pig farmer, the polluting factory,",
+    "start": 198.66,
+    "end": 200.951,
+    "zh": "养猪场主、污染的工厂，",
+    "zh_hant": "養豬場主、汙染的工廠，"
+  },
+  {
+    "index": 52,
+    "text": "they aren’t responsible for the full damages of their pollution",
+    "start": 200.911,
+    "end": 204.313,
+    "zh": "他们不对污染造成的全部损害负责，",
+    "zh_hant": "他們不對汙染造成的全部損害負責，"
+  },
+  {
+    "index": 53,
+    "text": "and they don’t factor those costs into their decisions about how much to produce,",
+    "start": 204.493,
+    "end": 209.435,
+    "zh": "也不会在决定生产多少时把这些成本纳入考虑，",
+    "zh_hant": "也不會在決定生產多少時把這些成本納入考慮，"
+  },
+  {
+    "index": 54,
+    "text": "and so they make too much.",
+    "start": 209.085,
+    "end": 211.096,
+    "zh": "所以他们生产得太多。",
+    "zh_hant": "所以他們生產得太多。"
+  },
+  {
+    "index": 55,
+    "text": "So negative externalities are a problem.",
+    "start": 211.216,
+    "end": 213.577,
+    "zh": "所以负外部性是一个问题。",
+    "zh_hant": "所以負外部性是一個問題。"
+  },
+  {
+    "index": 56,
+    "text": "How do economists try to fix that problem?",
+    "start": 213.758,
+    "end": 216.319,
+    "zh": "经济学家如何试图解决这个问题？",
+    "zh_hant": "經濟學家如何試圖解決這個問題？"
+  },
+  {
+    "index": 57,
+    "text": "Well, going back even earlier than Meade, famous British economist A.C. Pigou",
+    "start": 216.059,
+    "end": 221.281,
+    "zh": "嗯，追溯到比米德更早的时候，英国著名经济学家A.C.庇古",
+    "zh_hant": "嗯，追溯到比米德更早的時候，英國著名經濟學家A.C.庇古"
+  },
+  {
+    "index": 58,
+    "text": "said you tax those activities that generate negative externalities .",
+    "start": 221.982,
+    "end": 226.99,
+    "zh": "他说要对那些产生负外部性的活动征税。",
+    "zh_hant": "他說要對那些產生負外部性的活動徵稅。"
+  },
+  {
+    "index": 59,
+    "text": "If you have too much smoke coming out of a factory,",
+    "start": 226.804,
+    "end": 229.585,
+    "zh": "如果工厂排放太多烟雾，",
+    "zh_hant": "如果工廠排放太多煙霧，"
+  },
+  {
+    "index": 60,
+    "text": "the factory owner is senseless to the harm that the factory is doing,",
+    "start": 230.106,
+    "end": 234.327,
+    "zh": "工厂主对工厂造成的危害漠不关心，",
+    "zh_hant": "工廠主對工廠造成的危害漠不關心，"
+  },
+  {
+    "index": 61,
+    "text": "so you tax them per unit of output or per unit of smoke.",
+    "start": 233.977,
+    "end": 237.749,
+    "zh": "所以要按产量或烟雾量每单位对他们征税。",
+    "zh_hant": "所以要按產量或煙霧量每單位對他們徵稅。"
+  },
+  {
+    "index": 62,
+    "text": "That would be a pretty standard economic prescription for the problem.",
+    "start": 237.99,
+    "end": 241.491,
+    "zh": "那将会是一个相当标准的经济学处方来解决这个问题。",
+    "zh_hant": "那將會是一個相當標準的經濟學處方來解決這個問題。"
+  },
+  {
+    "index": 63,
+    "text": "And that’s a way of internalizing the externality, making the producer take that into account.",
+    "start": 241.232,
+    "end": 247.634,
+    "zh": "那是一种将外部性内部化的方式，让生产者把这点考虑进去。",
+    "zh_hant": "那是一種將外部性內部化的方式，讓生產者把這點考慮進去。"
+  },
+  {
+    "index": 64,
+    "text": "So it seems logical if a negative externality leads to a market failure",
+    "start": 247.335,
+    "end": 253.077,
+    "zh": "所以看起来合乎逻辑的是，如果负外部性导致市场失灵，",
+    "zh_hant": "所以看起來合乎邏輯的是，如果負外部性導致市場失靈，"
+  },
+  {
+    "index": 65,
+    "text": "where there’s too much production and then you tax it.",
+    "start": 252.727,
+    "end": 255.538,
+    "zh": "生产过多，然后你征税。",
+    "zh_hant": "生產過多，然後你徵稅。"
+  },
+  {
+    "index": 66,
+    "text": "Well, then with a positive externality it would stand to reason that with the free market,",
+    "start": 255.659,
+    "end": 260.401,
+    "zh": "那么，对于正外部性，按理说在自由市场下，",
+    "zh_hant": "那麼，對於正外部性，按理說在自由市場下，"
+  },
+  {
+    "index": 67,
+    "text": "there are too few bees around and maybe too few apple orchards.",
+    "start": 260.241,
+    "end": 264.483,
+    "zh": "蜜蜂太少，也许苹果园也太少。",
+    "zh_hant": "蜜蜂太少，也許蘋果園也太少。"
+  },
+  {
+    "index": 68,
+    "text": "And that is what James Meade conjectured.",
+    "start": 264.523,
+    "end": 266.844,
+    "zh": "这正是詹姆斯·米德所推测的。",
+    "zh_hant": "這正是詹姆斯·米德所推測的。"
+  },
+  {
+    "index": 69,
+    "text": "But then in 1973, Steven Cheung gathered some data,",
+    "start": 266.824,
+    "end": 271.166,
+    "zh": "但在1973年，史蒂文·张收集了一些数据，",
+    "zh_hant": "但在1973年，史蒂文·張收集了一些資料，"
+  },
+  {
+    "index": 70,
+    "text": "and it didn’t seem to be true .",
+    "start": 271.306,
+    "end": 273.59,
+    "zh": "而实际情况似乎并非如此。",
+    "zh_hant": "而實際情況似乎並非如此。"
+  },
+  {
+    "index": 71,
+    "text": "The story about reciprocal positive externalities",
+    "start": 273.768,
+    "end": 277.529,
+    "zh": "关于互惠正外部性的故事",
+    "zh_hant": "關於互惠正外部性的故事"
+  },
+  {
+    "index": 72,
+    "text": "really rests on these two parties not being able to influence each other,",
+    "start": 277.179,
+    "end": 281.899,
+    "zh": "实际上依赖于这两方不能互相影响，",
+    "zh_hant": "實際上依賴於這兩方不能互相影響，"
+  },
+  {
+    "index": 73,
+    "text": "not being able to transact with each other and maybe not even being aware of each other.",
+    "start": 281.549,
+    "end": 285.869,
+    "zh": "不能互相交易，甚至可能互不知晓。",
+    "zh_hant": "不能互相交易，甚至可能互不知曉。"
+  }
+]

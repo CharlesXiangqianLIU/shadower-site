@@ -1,0 +1,570 @@
+[
+  {
+    "index": 0,
+    "text": "Now, are there specific situations you can remember where by thinking like an economist,",
+    "start": 0.47,
+    "end": 5.953,
+    "zh": "那么，你能想起哪些具体的场景，通过像经济学家那样思考，",
+    "zh_hant": "那麼，你能想起哪些具體的場景，透過像經濟學家那樣思考，"
+  },
+  {
+    "index": 1,
+    "text": "you were able to score huge wins for NASA?",
+    "start": 5.773,
+    "end": 8.674,
+    "zh": "你为NASA赢得了巨大的成功？",
+    "zh_hant": "你為NASA贏得了巨大的成功？"
+  },
+  {
+    "index": 2,
+    "text": "I’d love to hear about a few of those.",
+    "start": 8.734,
+    "end": 10.915,
+    "zh": "我很想听听其中几个例子。",
+    "zh_hant": "我很想聽聽其中幾個例子。"
+  },
+  {
+    "index": 3,
+    "text": "The Human Landing System was probably the single biggest change that I was involved with.",
+    "start": 11.156,
+    "end": 15.698,
+    "zh": "载人着陆系统可能是我参与过的最大的一次变革。",
+    "zh_hant": "載人著陸系統可能是我參與過的最大的一次變革。"
+  },
+  {
+    "index": 4,
+    "text": "In the Apollo Program,",
+    "start": 15.538,
+    "end": 16.938,
+    "zh": "在阿波罗计划中，",
+    "zh_hant": "在阿波羅計劃中，"
+  },
+  {
+    "index": 5,
+    "text": "we had essentially a government design",
+    "start": 17.119,
+    "end": 20.58,
+    "zh": "我们基本上采用了一种政府设计",
+    "zh_hant": "我們基本上採用了一種政府設計"
+  },
+  {
+    "index": 6,
+    "text": "for a whole system to land humans on the moon.",
+    "start": 20.28,
+    "end": 24.342,
+    "zh": "用于整个将人类送上月球的系统。",
+    "zh_hant": "用於整個將人類送上月球的系統。"
+  },
+  {
+    "index": 7,
+    "text": "These were built by contractors, right?",
+    "start": 24.382,
+    "end": 26.923,
+    "zh": "这些是由承包商建造的，对吧？",
+    "zh_hant": "這些是由承包商建造的，對吧？"
+  },
+  {
+    "index": 8,
+    "text": "The majority of the money still went out to contractors,",
+    "start": 26.573,
+    "end": 28.704,
+    "zh": "大部分资金仍然流向了承包商，",
+    "zh_hant": "大部分資金仍然流向了承包商，"
+  },
+  {
+    "index": 9,
+    "text": "but NASA was paying for it, and was responsible for the systems at the end of the day.",
+    "start": 28.354,
+    "end": 34.687,
+    "zh": "但NASA在买单，并且最终要对这些系统负责。",
+    "zh_hant": "但NASA在買單，並且最終要對這些系統負責。"
+  },
+  {
+    "index": 10,
+    "text": "That was true for the Artemis II mission, where NASA did the same thing for the Space Launch System and the Orion vehicle .",
+    "start": 34.607,
+    "end": 40.83,
+    "zh": "阿耳忒弥斯二号任务也是如此，NASA对太空发射系统和猎户座飞船采用了同样的做法。",
+    "zh_hant": "阿耳忒彌斯二號任務也是如此，NASA對太空發射系統和獵戶座飛船採用了同樣的做法。"
+  },
+  {
+    "index": 11,
+    "text": "But that will not be true for our actual landing of astronauts on the lunar surface,",
+    "start": 40.751,
+    "end": 46.753,
+    "zh": "但对我们真正将宇航员送上月球表面来说，情况将不再如此，",
+    "zh_hant": "但對我們真正將宇航員送上月球表面來說，情況將不再如此，"
+  },
+  {
+    "index": 12,
+    "text": "because we took a fundamentally different approach with the Human Landing Systems.",
+    "start": 46.403,
+    "end": 51.676,
+    "zh": "因为我们在载人着陆系统上采取了根本不同的方法。",
+    "zh_hant": "因為我們在載人著陸系統上採取了根本不同的方法。"
+  },
+  {
+    "index": 13,
+    "text": "And the difference was basically we said we were going to buy",
+    "start": 51.326,
+    "end": 53.877,
+    "zh": "区别基本上在于，我们说要购买",
+    "zh_hant": "區別基本上在於，我們說要購買"
+  },
+  {
+    "index": 14,
+    "text": "astronaut delivery to the lunar surface from commercial companies.",
+    "start": 54.177,
+    "end": 58.599,
+    "zh": "商业公司提供的宇航员登月运送服务。",
+    "zh_hant": "商業公司提供的宇航員登月運送服務。"
+  },
+  {
+    "index": 15,
+    "text": "We were going to put essentially fixed-price milestone payments",
+    "start": 58.9,
+    "end": 63.722,
+    "zh": "我们打算设定固定价格的里程碑付款",
+    "zh_hant": "我們打算設定固定價格的里程碑付款"
+  },
+  {
+    "index": 16,
+    "text": "for the development of those systems,",
+    "start": 63.802,
+    "end": 65.823,
+    "zh": "用于这些系统的开发，",
+    "zh_hant": "用於這些系統的開發，"
+  },
+  {
+    "index": 17,
+    "text": "and then the purchase of services afterwards, and that we were going to compete that.",
+    "start": 65.603,
+    "end": 71.305,
+    "zh": "然后购买后续服务，而且我们要进行竞争性招标。",
+    "zh_hant": "然後購買後續服務，而且我們要進行競爭性招標。"
+  },
+  {
+    "index": 18,
+    "text": "And of course, now we have two of the richest people in the country",
+    "start": 71.146,
+    "end": 75.508,
+    "zh": "当然，现在我们国家两位最富有的人",
+    "zh_hant": "當然，現在我們國家兩位最富有的人"
+  },
+  {
+    "index": 19,
+    "text": "whose space companies, SpaceX and Blue Origin, are competing to win those NASA contracts.",
+    "start": 75.508,
+    "end": 81.251,
+    "zh": "他们的航天公司——SpaceX和蓝色起源——正在竞争这些NASA合同。",
+    "zh_hant": "他們的航天公司——SpaceX和藍色起源——正在競爭這些NASA合同。"
+  },
+  {
+    "index": 20,
+    "text": "That means that there is investor money now",
+    "start": 81.431,
+    "end": 84.552,
+    "zh": "这意味着现在有投资者的资金",
+    "zh_hant": "這意味著現在有投資者的資金"
+  },
+  {
+    "index": 21,
+    "text": "covering some of the upfront costs that NASA is not having to provide",
+    "start": 84.333,
+    "end": 88.194,
+    "zh": "覆盖了部分前期成本，而这些NASA不必自己承担，",
+    "zh_hant": "覆蓋了部分前期成本，而這些NASA不必自己承擔，"
+  },
+  {
+    "index": 22,
+    "text": "because they’re looking to compete for those contracts in the future.",
+    "start": 88.275,
+    "end": 90.936,
+    "zh": "因为他们瞄准的是未来争夺这些合同。",
+    "zh_hant": "因為他們瞄準的是未來爭奪這些合同。"
+  },
+  {
+    "index": 23,
+    "text": "So, it’s a given here that space exploration and government",
+    "start": 91.156,
+    "end": 95.398,
+    "zh": "所以，这里理所当然地认为太空探索和政府",
+    "zh_hant": "所以，這裡理所當然地認為太空探索和政府"
+  },
+  {
+    "index": 24,
+    "text": "funding of it is a sensible thing to do.",
+    "start": 95.048,
+    "end": 98.039,
+    "zh": "对它的资助是明智之举。",
+    "zh_hant": "對它的資助是明智之舉。"
+  },
+  {
+    "index": 25,
+    "text": "But I’ve never quite understood what the government thinks",
+    "start": 98.52,
+    "end": 102.661,
+    "zh": "但我一直不太明白政府在太空计划中",
+    "zh_hant": "但我一直不太明白政府在太空計劃中"
+  },
+  {
+    "index": 26,
+    "text": "it’s optimizing in the space program.",
+    "start": 102.461,
+    "end": 105.083,
+    "zh": "到底在优化什么。",
+    "zh_hant": "到底在最佳化什麼。"
+  },
+  {
+    "index": 27,
+    "text": "What do you think motivates politicians to fund these programs?",
+    "start": 105.203,
+    "end": 108.564,
+    "zh": "你觉得是什么激励政治家们资助这些项目？",
+    "zh_hant": "你覺得是什麼激勵政治家們資助這些專案？"
+  },
+  {
+    "index": 28,
+    "text": "Well, I love that your assumption is that there’s an optimization function going on in government.",
+    "start": 108.264,
+    "end": 112.826,
+    "zh": "好吧，我喜欢你的假设，即政府中存在一个优化函数。",
+    "zh_hant": "好吧，我喜歡你的假設，即政府中存在一個最佳化函式。"
+  },
+  {
+    "index": 29,
+    "text": "I’m not quite sure that I would say that that’s exactly what the process of government is.",
+    "start": 112.476,
+    "end": 116.128,
+    "zh": "我不太确定我是否会说这正是政府运作的过程。",
+    "zh_hant": "我不太確定我是否會說這正是政府運作的過程。"
+  },
+  {
+    "index": 30,
+    "text": "I think when you look at the origins of space flight,",
+    "start": 116.849,
+    "end": 120.551,
+    "zh": "我觉得当你回顾航天事业的起源时，",
+    "zh_hant": "我覺得當你回顧航天事業的起源時，"
+  },
+  {
+    "index": 31,
+    "text": "there’s really two core, I’ll say, state demands.",
+    "start": 120.201,
+    "end": 123.652,
+    "zh": "基本上有两个核心的，我这么说吧，国家需求。",
+    "zh_hant": "基本上有兩個核心的，我這麼說吧，國家需求。"
+  },
+  {
+    "index": 32,
+    "text": "The original and leading one was essentially national security.",
+    "start": 124.233,
+    "end": 128.474,
+    "zh": "最初且主要的那个，本质上就是国家安全。",
+    "zh_hant": "最初且主要的那個，本質上就是國家安全。"
+  },
+  {
+    "index": 33,
+    "text": "The ability to launch something around the earth has foundational importance",
+    "start": 128.495,
+    "end": 133.557,
+    "zh": "能够将物体发射到地球轨道，对于军事系统来说",
+    "zh_hant": "能夠將物體發射到地球軌道，對於軍事系統來說"
+  },
+  {
+    "index": 34,
+    "text": "for military systems.",
+    "start": 133.597,
+    "end": 134.998,
+    "zh": "具有根本性的重要性。",
+    "zh_hant": "具有根本性的重要性。"
+  },
+  {
+    "index": 35,
+    "text": "So, things like satellites have turned out to be super important.",
+    "start": 135.038,
+    "end": 138.139,
+    "zh": "所以，像卫星这样的东西结果变得极其重要。",
+    "zh_hant": "所以，像衛星這樣的東西結果變得極其重要。"
+  },
+  {
+    "index": 36,
+    "text": "That was true in the mid-20th century, that continues to be true today.",
+    "start": 137.879,
+    "end": 141.301,
+    "zh": "这在20世纪中叶如此，今天依然如此。",
+    "zh_hant": "這在20世紀中葉如此，今天依然如此。"
+  },
+  {
+    "index": 37,
+    "text": "The very first maneuvers as part of the Iran War were in space.",
+    "start": 141.321,
+    "end": 145.843,
+    "zh": "伊朗战争中最先的一些交战动作是在太空发生的。",
+    "zh_hant": "伊朗戰爭中最先的一些交戰動作是在太空發生的。"
+  },
+  {
+    "index": 38,
+    "text": "They were electronic interference and jamming activities that the U.S. undertook against Iranian satellite assets.",
+    "start": 145.843,
+    "end": 151.686,
+    "zh": "那是美国对伊朗卫星资产进行的电子干扰和压制活动。",
+    "zh_hant": "那是美國對伊朗衛星資產進行的電子干擾和壓制活動。"
+  },
+  {
+    "index": 39,
+    "text": "So, that really is the core and deeply enduring reason that started it all and continues.",
+    "start": 151.906,
+    "end": 157.589,
+    "zh": "所以，这确实是开启一切并一直延续的核心且持久的理由。",
+    "zh_hant": "所以，這確實是開啟一切並一直延續的核心且持久的理由。"
+  },
+  {
+    "index": 40,
+    "text": "But shortly thereafter, there was this second function,",
+    "start": 157.489,
+    "end": 161.831,
+    "zh": "但不久之后，就有了第二个功能，",
+    "zh_hant": "但不久之後，就有了第二個功能，"
+  },
+  {
+    "index": 41,
+    "text": "which I tend to think of as a signaling function.",
+    "start": 161.872,
+    "end": 165.193,
+    "zh": "我倾向于把它看作是信号功能。",
+    "zh_hant": "我傾向於把它看作是訊號功能。"
+  },
+  {
+    "index": 42,
+    "text": "And of course, Steve, you’re well aware of signaling theory, I’m sure many of the listeners are too,",
+    "start": 164.843,
+    "end": 168.595,
+    "zh": "当然，史蒂夫，你很清楚信号理论，我相信很多听众也知道，",
+    "zh_hant": "當然，史蒂夫，你很清楚訊號理論，我相信很多聽眾也知道，"
+  },
+  {
+    "index": 43,
+    "text": "but it’s this idea that a costly action can credibly transmit information.",
+    "start": 168.245,
+    "end": 173.757,
+    "zh": "这个观点是，一项昂贵的行动可以可靠地传递信息。",
+    "zh_hant": "這個觀點是，一項昂貴的行動可以可靠地傳遞資訊。"
+  },
+  {
+    "index": 44,
+    "text": "We talk about this a lot in education.",
+    "start": 173.797,
+    "end": 175.558,
+    "zh": "我们在教育方面经常讨论这个。",
+    "zh_hant": "我們在教育方面經常討論這個。"
+  },
+  {
+    "index": 45,
+    "text": "My favorite example is always, if you see someone driving a Lamborghini, you don’t necessarily know anything about them,",
+    "start": 175.618,
+    "end": 181.341,
+    "zh": "我最喜欢的例子总是，如果你看到有人开一辆兰博基尼，你不一定了解他们的任何信息，",
+    "zh_hant": "我最喜歡的例子總是，如果你看到有人開一輛蘭博基尼，你不一定了解他們的任何資訊，"
+  },
+  {
+    "index": 46,
+    "text": "but because you see them driving a Lamborghini you know one of three things, right?",
+    "start": 180.991,
+    "end": 184.883,
+    "zh": "但因为你看到他们开着兰博基尼，你知道三件事之一，对吧？",
+    "zh_hant": "但因為你看到他們開著蘭博基尼，你知道三件事之一，對吧？"
+  },
+  {
+    "index": 47,
+    "text": "They’re either wealthy themselves, they have wealthy friends who get access to credit, or they’re good at stealing things.",
+    "start": 184.533,
+    "end": 189.005,
+    "zh": "他们要么自己富有，要么有能获得信贷的富裕朋友，要么就是擅长偷东西。",
+    "zh_hant": "他們要麼自己富有，要麼有能獲得信貸的富裕朋友，要麼就是擅長偷東西。"
+  },
+  {
+    "index": 48,
+    "text": "And you know this because access to Lamborghinis is expensive.",
+    "start": 189.385,
+    "end": 192.907,
+    "zh": "你能知道这个，是因为获得兰博基尼的代价很高。",
+    "zh_hant": "你能知道這個，是因為獲得蘭博基尼的代價很高。"
+  },
+  {
+    "index": 49,
+    "text": "If you think about being someone in the world in 1957 when Sputnik launches into space,",
+    "start": 193.427,
+    "end": 199.51,
+    "zh": "想象一下，如果你是1957年斯普特尼克发射升空时世界上的一个人，",
+    "zh_hant": "想象一下，如果你是1957年斯普特尼克發射升空時世界上的一個人，"
+  },
+  {
+    "index": 50,
+    "text": "you’re looking at the Soviet Union, you are looking at the U.S., if you’re in Thailand",
+    "start": 199.791,
+    "end": 203.953,
+    "zh": "你看着苏联，你看着美国，如果你在泰国",
+    "zh_hant": "你看著蘇聯，你看著美國，如果你在泰國"
+  },
+  {
+    "index": 51,
+    "text": "or Ghana or somewhere in the world that these countries are trying to convince you to join the alliance,",
+    "start": 203.603,
+    "end": 208.995,
+    "zh": "或加纳或世界其他地方，而这些国家正试图说服你加入联盟——",
+    "zh_hant": "或迦納或世界其他地方，而這些國家正試圖說服你加入聯盟——"
+  },
+  {
+    "index": 52,
+    "text": "so to speak, you don’t really have necessarily a lot of information related to what’s the quality of life?",
+    "start": 208.645,
+    "end": 214.478,
+    "zh": "可以这么说——你真的不一定有很多信息来了解那里的生活质量如何？",
+    "zh_hant": "可以這麼說——你真的不一定有很多資訊來了解那裡的生活質量如何？"
+  },
+  {
+    "index": 53,
+    "text": "This is the pre-jet age, and not a lot of people had traveled to these countries and seen what it’s really like.",
+    "start": 214.128,
+    "end": 218.34,
+    "zh": "那是喷气时代之前，没有多少人去过这些国家亲眼看看真实情况。",
+    "zh_hant": "那是噴氣時代之前，沒有多少人去過這些國家親眼看看真實情況。"
+  },
+  {
+    "index": 54,
+    "text": "But if you know one thing, which is that one of these countries has launched something into space and the other has not,",
+    "start": 217.99,
+    "end": 223.002,
+    "zh": "但如果你知道一件事，就是其中一个国家向太空发射了东西，另一个没有，",
+    "zh_hant": "但如果你知道一件事，就是其中一個國家向太空發射了東西，另一個沒有，"
+  },
+  {
+    "index": 55,
+    "text": "and you know what that takes, and you can verify it independently",
+    "start": 223.122,
+    "end": 227.304,
+    "zh": "而你知道那需要什么，而且你可以独立验证它",
+    "zh_hant": "而你知道那需要什麼，而且你可以獨立驗證它"
+  },
+  {
+    "index": 56,
+    "text": "with radio telescopes and radio communications,",
+    "start": 227.404,
+    "end": 230.125,
+    "zh": "通过射电望远镜和无线电通信，",
+    "zh_hant": "透過射電望遠鏡和無線電通訊，"
+  },
+  {
+    "index": 57,
+    "text": "then you know something meaningful about the technological and economic power of those countries.",
+    "start": 230.106,
+    "end": 234.888,
+    "zh": "那么你就对这些国家的技术和经济实力了解了一些有意义的东西。",
+    "zh_hant": "那麼你就對這些國家的技術和經濟實力瞭解了一些有意義的東西。"
+  },
+  {
+    "index": 58,
+    "text": "And the same thing, of course, applies to landing on the moon.",
+    "start": 234.538,
+    "end": 237.069,
+    "zh": "当然，同样的道理也适用于登月。",
+    "zh_hant": "當然，同樣的道理也適用於登月。"
+  },
+  {
+    "index": 59,
+    "text": "And so, space has become and continues to be a really important part",
+    "start": 237.049,
+    "end": 242.972,
+    "zh": "所以，太空已经成为并继续成为领先国家",
+    "zh_hant": "所以，太空已經成為並繼續成為領先國家"
+  },
+  {
+    "index": 60,
+    "text": "of how leading nations signal to the world leadership",
+    "start": 242.672,
+    "end": 247.995,
+    "zh": "向世界展示领导力、技术和经济组织能力",
+    "zh_hant": "向世界展示領導力、技術和經濟組織能力"
+  },
+  {
+    "index": 61,
+    "text": "and technology and economic organization,",
+    "start": 247.645,
+    "end": 250.256,
+    "zh": "非常重要的方式，",
+    "zh_hant": "非常重要的方式，"
+  },
+  {
+    "index": 62,
+    "text": "which of course is a proxy for many other things.",
+    "start": 249.906,
+    "end": 252.077,
+    "zh": "这当然是许多其他事物的一个代理指标。",
+    "zh_hant": "這當然是許多其他事物的一個代理指標。"
+  },
+  {
+    "index": 63,
+    "text": "I was surprised to hear that early on in the space race,",
+    "start": 252.277,
+    "end": 256.279,
+    "zh": "我惊讶地听说，在太空竞赛早期，",
+    "zh_hant": "我驚訝地聽說，在太空競賽早期，"
+  },
+  {
+    "index": 64,
+    "text": "John F. Kennedy offered to Khrushchev,",
+    "start": 255.999,
+    "end": 258.58,
+    "zh": "约翰·F·肯尼迪曾向赫鲁晓夫，苏联领导人，",
+    "zh_hant": "約翰·F·肯尼迪曾向赫魯曉夫，蘇聯領導人，"
+  },
+  {
+    "index": 65,
+    "text": "the leader of the Soviet Union, the chance to work collaboratively to reach the moon.",
+    "start": 258.28,
+    "end": 263.462,
+    "zh": "提出了合作登月的机会。",
+    "zh_hant": "提出了合作登月的機會。"
+  },
+  {
+    "index": 66,
+    "text": "And if Kennedy hadn’t been assassinated and Khrushchev wasn’t so suspicious of Lyndon Johnson,",
+    "start": 263.442,
+    "end": 268.985,
+    "zh": "如果肯尼迪没有被刺杀，而赫鲁晓夫也没有对林登·约翰逊那么怀疑，",
+    "zh_hant": "如果肯尼迪沒有被刺殺，而赫魯曉夫也沒有對林登·約翰遜那麼懷疑，"
+  },
+  {
+    "index": 67,
+    "text": "maybe getting to the moon would have been a joint U.S.-Soviet mission.",
+    "start": 269.165,
+    "end": 273.107,
+    "zh": "也许登月会成为美苏联合任务。",
+    "zh_hant": "也許登月會成為美蘇聯合任務。"
+  },
+  {
+    "index": 68,
+    "text": "This seems at odds with a signaling story, doesn’t it?",
+    "start": 273.267,
+    "end": 276.208,
+    "zh": "这似乎与信号理论的故事相矛盾，不是吗？",
+    "zh_hant": "這似乎與訊號理論的故事相矛盾，不是嗎？"
+  },
+  {
+    "index": 69,
+    "text": "I would argue that basically Kennedy is trying to signal he wanted a more collaborative future.",
+    "start": 276.629,
+    "end": 282.479,
+    "zh": "我认为基本上肯尼迪是在试图发出信号，表明他希望一个更合作的未来。",
+    "zh_hant": "我認為基本上肯尼迪是在試圖發出訊號，表明他希望一個更合作的未來。"
+  },
+  {
+    "index": 70,
+    "text": "He was very worried about a future nuclear conflict, and he said, hey, we need to figure out a way to collaborate here.",
+    "start": 282.129,
+    "end": 287.329,
+    "zh": "他非常担心未来的核冲突，他说，嘿，我们需要想办法在这里合作。",
+    "zh_hant": "他非常擔心未來的核衝突，他說，嘿，我們需要想辦法在這裡合作。"
+  }
+]

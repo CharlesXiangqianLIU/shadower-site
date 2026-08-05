@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "text": "The study we’re talking about today was just published as a working paper by the National Bureau of Economic Research.",
+    "start": 1.03,
+    "end": 6.653,
+    "zh": "我们今天讨论的这项研究，刚刚作为工作论文由美国国家经济研究局发布。",
+    "zh_hant": "我們今天討論的這項研究，剛剛作為工作論文由美國國家經濟研究局釋出。"
+  },
+  {
+    "index": 1,
+    "text": "There are four authors — all of whom are medical doctors,",
+    "start": 6.753,
+    "end": 10.655,
+    "zh": "共有四位作者——他们都是医学博士，",
+    "zh_hant": "共有四位作者——他們都是醫學博士，"
+  },
+  {
+    "index": 2,
+    "text": "and one who is also a Ph.D. economist.",
+    "start": 10.305,
+    "end": 13.596,
+    "zh": "其中一位还拥有经济学博士学位。",
+    "zh_hant": "其中一位還擁有經濟學博士學位。"
+  },
+  {
+    "index": 3,
+    "text": "So let’s start with him: My name is Bapu Jena .",
+    "start": 13.497,
+    "end": 16.7,
+    "zh": "那么先从他开始：我叫巴普·杰纳。",
+    "zh_hant": "那麼先從他開始：我叫巴普·傑納。"
+  },
+  {
+    "index": 4,
+    "text": "I’m an economist, physician, and professor at Harvard Medical School.",
+    "start": 16.35,
+    "end": 20.0,
+    "zh": "我是一名经济学家、医生，也是哈佛医学院的教授。",
+    "zh_hant": "我是一名經濟學家、醫生，也是哈佛醫學院的教授。"
+  },
+  {
+    "index": 5,
+    "text": "Jena used to make a podcast with us, called Freakonomics, M.D. Back when he got his econ Ph.D.,",
+    "start": 20.14,
+    "end": 26.503,
+    "zh": "杰纳曾与我们合作制作播客，名为《怪诞经济学，医学博士》。早在他获得经济学博士学位时，",
+    "zh_hant": "傑納曾與我們合作製作播客，名為《怪誕經濟學，醫學博士》。早在他獲得經濟學博士學位時，"
+  },
+  {
+    "index": 6,
+    "text": "at the University of Chicago, he studied under my Freakonomics friend and co-author Steve Levitt .",
+    "start": 26.403,
+    "end": 31.85,
+    "zh": "在芝加哥大学，他师从我的怪诞经济学朋友兼合著者史蒂夫·列维特。",
+    "zh_hant": "在芝加哥大學，他師從我的怪誕經濟學朋友兼合著者史蒂夫·列維特。"
+  },
+  {
+    "index": 7,
+    "text": "So Jena is well-trained in using data to find what’s hiding in plain sight.",
+    "start": 31.706,
+    "end": 37.608,
+    "zh": "因此，杰纳在利用数据发现显而易见却易被忽视的事物方面训练有素。",
+    "zh_hant": "因此，傑納在利用資料發現顯而易見卻易被忽視的事物方面訓練有素。"
+  },
+  {
+    "index": 8,
+    "text": "In 2023, he published a book,",
+    "start": 37.849,
+    "end": 40.89,
+    "zh": "2023年，他出版了一本书，",
+    "zh_hant": "2023年，他出版了一本書，"
+  },
+  {
+    "index": 9,
+    "text": "along with his co-author Christopher Worsham, called Random Acts of Medicine .",
+    "start": 40.54,
+    "end": 45.49,
+    "zh": "与他的合著者克里斯托弗·沃沙姆共同撰写，名为《随机医学》.",
+    "zh_hant": "與他的合著者克里斯托弗·沃沙姆共同撰寫，名為《隨機醫學》."
+  },
+  {
+    "index": 10,
+    "text": "The “random” in the title isn’t just random;",
+    "start": 45.613,
+    "end": 48.994,
+    "zh": "标题中的“随机”并非随意为之；",
+    "zh_hant": "標題中的“隨機”並非隨意為之；"
+  },
+  {
+    "index": 11,
+    "text": "it refers to the kind of experiments that people like Bapu Jena",
+    "start": 48.644,
+    "end": 52.756,
+    "zh": "它指的是像巴普·杰纳",
+    "zh_hant": "它指的是像巴普·傑納"
+  },
+  {
+    "index": 12,
+    "text": "and Steve Levitt often use to make these connections.",
+    "start": 52.476,
+    "end": 56.358,
+    "zh": "和史蒂夫·列维特这样的人，常用来建立这些关联的实验类型。",
+    "zh_hant": "和史蒂夫·列維特這樣的人，常用來建立這些關聯的實驗型別。"
+  },
+  {
+    "index": 13,
+    "text": "Sometimes they’re called natural experiments.",
+    "start": 56.198,
+    "end": 59.259,
+    "zh": "有时它们被称为自然实验。",
+    "zh_hant": "有時它們被稱為自然實驗。"
+  },
+  {
+    "index": 14,
+    "text": "Natural experiments have taken a while to take hold in medicine.",
+    "start": 59.359,
+    "end": 64.502,
+    "zh": "自然实验在医学领域经过一段时间才逐渐被接受。",
+    "zh_hant": "自然實驗在醫學領域經過一段時間才逐漸被接受。"
+  },
+  {
+    "index": 15,
+    "text": "Their origins are actually in epidemiology, and then economists several decades ago started popularizing",
+    "start": 64.462,
+    "end": 70.885,
+    "zh": "它们的起源其实在流行病学，然后几十年前经济学家开始推广",
+    "zh_hant": "它們的起源其實在流行病學，然後幾十年前經濟學家開始推廣"
+  },
+  {
+    "index": 16,
+    "text": "their use,",
+    "start": 70.665,
+    "end": 71.685,
+    "zh": "它们的应用，",
+    "zh_hant": "它們的應用，"
+  },
+  {
+    "index": 17,
+    "text": "and they’re almost certainly most widely used in economics compared to any other discipline.",
+    "start": 71.335,
+    "end": 76.888,
+    "zh": "而且相比于任何其他学科，它们在经济学的应用几乎肯定是最广泛的。",
+    "zh_hant": "而且相比於任何其他學科，它們在經濟學的應用幾乎肯定是最廣泛的。"
+  },
+  {
+    "index": 18,
+    "text": "In one early paper,",
+    "start": 76.928,
+    "end": 78.589,
+    "zh": "在一篇早期论文中，",
+    "zh_hant": "在一篇早期論文中，"
+  },
+  {
+    "index": 19,
+    "text": "Jena used a natural experiment",
+    "start": 78.569,
+    "end": 80.69,
+    "zh": "杰纳利用了一个自然实验",
+    "zh_hant": "傑納利用了一個自然實驗"
+  },
+  {
+    "index": 20,
+    "text": "to see what happens to high-risk heart patients when their cardiologists are out of town .",
+    "start": 80.34,
+    "end": 86.47,
+    "zh": "来观察高危心脏病患者在其心脏病医生外出时会发生什么。",
+    "zh_hant": "來觀察高危心臟病患者在其心臟病醫生外出時會發生什麼。"
+  },
+  {
+    "index": 21,
+    "text": "What was the random act of medicine that allowed him to measure this?",
+    "start": 86.12,
+    "end": 89.795,
+    "zh": "什么样的随机医学行为使他能够测量这一点？",
+    "zh_hant": "什麼樣的隨機醫學行為使他能夠測量這一點？"
+  },
+  {
+    "index": 22,
+    "text": "A few times a year, there are big national cardiology conferences.",
+    "start": 90.315,
+    "end": 94.657,
+    "zh": "每年有几次大型全国心脏病学会会议。",
+    "zh_hant": "每年有幾次大型全國心臟病學會會議。"
+  },
+  {
+    "index": 23,
+    "text": "So Jena and his co-authors looked at what happened back home during those conferences —",
+    "start": 94.997,
+    "end": 99.79,
+    "zh": "于是杰纳和他的合著者研究了这些会议期间国内发生的情况——",
+    "zh_hant": "於是傑納和他的合著者研究了這些會議期間國內發生的情況——"
+  },
+  {
+    "index": 24,
+    "text": "and found that mortality actually fell.",
+    "start": 99.84,
+    "end": 102.761,
+    "zh": "结果发现死亡率实际上下降了。",
+    "zh_hant": "結果發現死亡率實際上下降了。"
+  },
+  {
+    "index": 25,
+    "text": "Why?",
+    "start": 103.121,
+    "end": 103.902,
+    "zh": "为什么？",
+    "zh_hant": "為什麼？"
+  },
+  {
+    "index": 26,
+    "text": "The best explanation is that these conferences are primarily attended by the most senior cardiologists",
+    "start": 104.482,
+    "end": 110.7,
+    "zh": "最佳解释是，这些会议主要由最资深的心脏病医生参加",
+    "zh_hant": "最佳解釋是，這些會議主要由最資深的心臟病醫生參加"
+  },
+  {
+    "index": 27,
+    "text": "— and that senior cardiologists are more likely to opt for more invasive and riskier",
+    "start": 110.3,
+    "end": 116.448,
+    "zh": "——而且资深心脏病医生更倾向于选择更具侵入性和风险更高的",
+    "zh_hant": "——而且資深心臟病醫生更傾向於選擇更具侵入性和風險更高的"
+  },
+  {
+    "index": 28,
+    "text": "treatments.",
+    "start": 116.188,
+    "end": 117.188,
+    "zh": "治疗方案。",
+    "zh_hant": "治療方案。"
+  },
+  {
+    "index": 29,
+    "text": "Jena also used a natural experiment to study the behavior of drivers.",
+    "start": 117.588,
+    "end": 121.991,
+    "zh": "杰纳还利用一个自然实验来研究司机的行为。",
+    "zh_hant": "傑納還利用一個自然實驗來研究司機的行為。"
+  },
+  {
+    "index": 30,
+    "text": "Five years ago we had this piece in the New York Times, The Upshot,",
+    "start": 122.111,
+    "end": 125.753,
+    "zh": "五年前我们在《纽约时报》的“最终结果”栏目中发表了这篇文章，",
+    "zh_hant": "五年前我們在《紐約時報》的“最終結果”欄目中發表了這篇文章，"
+  },
+  {
+    "index": 31,
+    "text": "where we showed that after Fast and Furious movie releases,",
+    "start": 125.913,
+    "end": 130.315,
+    "zh": "其中我们展示了《速度与激情》系列电影上映后，",
+    "zh_hant": "其中我們展示了《速度與激情》系列電影上映後，"
+  },
+  {
+    "index": 32,
+    "text": "there was an increase in speeding behavior there is this question of whether",
+    "start": 130.415,
+    "end": 134.797,
+    "zh": "超速行为有所增加，而这里存在一个问题，即",
+    "zh_hant": "超速行為有所增加，而這裡存在一個問題，即"
+  },
+  {
+    "index": 33,
+    "text": "art mimics life, or vice versa.",
+    "start": 134.757,
+    "end": 137.519,
+    "zh": "艺术是否模仿生活，还是反之亦然。",
+    "zh_hant": "藝術是否模仿生活，還是反之亦然。"
+  },
+  {
+    "index": 34,
+    "text": "You need some sort of natural experiment.",
+    "start": 138.079,
+    "end": 140.04,
+    "zh": "你需要某种自然实验。",
+    "zh_hant": "你需要某種自然實驗。"
+  },
+  {
+    "index": 35,
+    "text": "You do not see an increase in speeding behavior",
+    "start": 140.06,
+    "end": 142.861,
+    "zh": "当《饥饿游戏》电影或《哈利·波特》电影上映时，",
+    "zh_hant": "當《飢餓遊戲》電影或《哈利·波特》電影上映時，"
+  },
+  {
+    "index": 36,
+    "text": "when the Hunger Games movies come out, or Harry Potter movies come out.",
+    "start": 143.062,
+    "end": 147.443,
+    "zh": "你并不会看到超速行为增加。",
+    "zh_hant": "你並不會看到超速行為增加。"
+  },
+  {
+    "index": 37,
+    "text": "The movies are called Fast and Furious, not Slow and Deliberate .",
+    "start": 147.404,
+    "end": 150.79,
+    "zh": "这些电影叫《速度与激情》，而不是《缓慢与谨慎》。",
+    "zh_hant": "這些電影叫《速度與激情》，而不是《緩慢與謹慎》。"
+  },
+  {
+    "index": 38,
+    "text": "We had the GPS coordinates of where the person was pulled over for speeding,",
+    "start": 150.765,
+    "end": 155.487,
+    "zh": "我们掌握了超速停车地点的GPS坐标，",
+    "zh_hant": "我們掌握了超速停車地點的GPS座標，"
+  },
+  {
+    "index": 39,
+    "text": "and what you see is the people are being pulled over on highways that are adjacent to where the movie theaters",
+    "start": 155.648,
+    "end": 161.851,
+    "zh": "你看到的是，人们在与电影院相邻的高速公路上被拦下",
+    "zh_hant": "你看到的是，人們在與電影院相鄰的高速公路上被攔下"
+  },
+  {
+    "index": 40,
+    "text": "are.",
+    "start": 161.501,
+    "end": 162.211,
+    "zh": "。",
+    "zh_hant": "。"
+  },
+  {
+    "index": 41,
+    "text": "A conclusion like this requires some serious faith in the robustness",
+    "start": 162.352,
+    "end": 167.214,
+    "zh": "像这样的结论需要对数据的稳健性",
+    "zh_hant": "像這樣的結論需要對資料的穩健性"
+  },
+  {
+    "index": 42,
+    "text": "of the data, and of the analysis itself.",
+    "start": 166.934,
+    "end": 169.815,
+    "zh": "以及分析本身有相当的信心。",
+    "zh_hant": "以及分析本身有相當的信心。"
+  },
+  {
+    "index": 43,
+    "text": "The good news is that there has come to be a significant body of research",
+    "start": 170.075,
+    "end": 174.177,
+    "zh": "好消息是，像这样的研究已经积累了相当多的成果，",
+    "zh_hant": "好訊息是，像這樣的研究已經積累了相當多的成果，"
+  },
+  {
+    "index": 44,
+    "text": "like this, and the track record is pretty strong.",
+    "start": 173.877,
+    "end": 176.858,
+    "zh": "而且其记录相当可靠。",
+    "zh_hant": "而且其記錄相當可靠。"
+  },
+  {
+    "index": 45,
+    "text": "Donald Redelmeier, a physician and epidemiologist at the University of Toronto,",
+    "start": 176.839,
+    "end": 181.261,
+    "zh": "多伦多大学的医生兼流行病学家唐纳德·雷德尔迈尔",
+    "zh_hant": "多倫多大學的醫生兼流行病學家唐納德·雷德爾邁爾"
+  },
+  {
+    "index": 46,
+    "text": "has produced a number of these studies.",
+    "start": 181.261,
+    "end": 183.662,
+    "zh": "进行了多项此类研究。",
+    "zh_hant": "進行了多項此類研究。"
+  },
+  {
+    "index": 47,
+    "text": "One of them, done in collaboration with Danny Kahneman,",
+    "start": 183.312,
+    "end": 186.143,
+    "zh": "其中一项与丹尼尔·卡尼曼合作完成的研究，",
+    "zh_hant": "其中一項與丹尼爾·卡尼曼合作完成的研究，"
+  },
+  {
+    "index": 48,
+    "text": "used data from colonoscopies to illustrate something called the “peak-end rule.”",
+    "start": 186.283,
+    "end": 191.566,
+    "zh": "利用结肠镜检查的数据来说明一种被称为“峰终定律”的现象。",
+    "zh_hant": "利用結腸鏡檢查的資料來說明一種被稱為“峰終定律”的現象。"
+  },
+  {
+    "index": 49,
+    "text": "They found that when people look back on an experience — like a colonoscopy,",
+    "start": 191.246,
+    "end": 196.688,
+    "zh": "他们发现，当人们回顾一段经历——如结肠镜检查，",
+    "zh_hant": "他們發現，當人們回顧一段經歷——如結腸鏡檢查，"
+  },
+  {
+    "index": 50,
+    "text": "or even a vacation — they tend to judge it largely by the peak moment",
+    "start": 196.588,
+    "end": 201.611,
+    "zh": "甚至是一次假期——他们往往会根据经历的高峰时刻",
+    "zh_hant": "甚至是一次假期——他們往往會根據經歷的高峰時刻"
+  },
+  {
+    "index": 51,
+    "text": "of the experience and the end of the experience.",
+    "start": 201.261,
+    "end": 204.733,
+    "zh": "和经历的结束来评判整体。",
+    "zh_hant": "和經歷的結束來評判整體。"
+  },
+  {
+    "index": 52,
+    "text": "So if a bad family vacation ends well,",
+    "start": 204.383,
+    "end": 208.294,
+    "zh": "因此，如果一次糟糕的家庭假期以美好的方式结束，",
+    "zh_hant": "因此，如果一次糟糕的家庭假期以美好的方式結束，"
+  },
+  {
+    "index": 53,
+    "text": "it may generate a better overall memory than it might deserve .",
+    "start": 207.994,
+    "end": 212.25,
+    "zh": "它可能会留下比实际应得的更好的整体记忆。",
+    "zh_hant": "它可能會留下比實際應得的更好的整體記憶。"
+  },
+  {
+    "index": 54,
+    "text": "In another study, Redelmeier used three decades of driving data to show that April 15th,",
+    "start": 212.437,
+    "end": 218.419,
+    "zh": "在另一项研究中，雷德尔迈尔利用三十年的驾驶数据表明，4月15日，",
+    "zh_hant": "在另一項研究中，雷德爾邁爾利用三十年的駕駛資料表明，4月15日，"
+  },
+  {
+    "index": 55,
+    "text": "Tax Day, led to a roughly six percent increase in traffic deaths.",
+    "start": 218.079,
+    "end": 223.002,
+    "zh": "报税日，会导致交通事故死亡人数增加约百分之六。",
+    "zh_hant": "報稅日，會導致交通事故死亡人數增加約百分之六。"
+  },
+  {
+    "index": 56,
+    "text": "The best explanation is that the psychological burden of a stressful deadline",
+    "start": 223.042,
+    "end": 228.204,
+    "zh": "最佳解释是，压力重重的截止日期带来的心理负担",
+    "zh_hant": "最佳解釋是，壓力重重的截止日期帶來的心理負擔"
+  },
+  {
+    "index": 57,
+    "text": "spills over into the car .",
+    "start": 227.854,
+    "end": 230.11,
+    "zh": "波及到了驾驶中。",
+    "zh_hant": "波及到了駕駛中。"
+  },
+  {
+    "index": 58,
+    "text": "And the paper we’re talking about today — by Bapu Jena,",
+    "start": 230.105,
+    "end": 233.747,
+    "zh": "而我们今天讨论的这篇论文——由巴普·杰纳、",
+    "zh_hant": "而我們今天討論的這篇論文——由巴普·傑納、"
+  },
+  {
+    "index": 59,
+    "text": "Vishal Patel, Chris Worsham, and Michael Liu — also looks at a hidden risk of driving.",
+    "start": 233.467,
+    "end": 239.49,
+    "zh": "维沙尔·帕特尔、克里斯·沃沙姆和迈克尔·刘共同撰写——也关注了一个驾驶中的隐性风险。",
+    "zh_hant": "維沙爾·帕特爾、克里斯·沃沙姆和邁克爾·劉共同撰寫——也關注了一個駕駛中的隱性風險。"
+  }
+]

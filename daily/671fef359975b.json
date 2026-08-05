@@ -1,54 +1,62 @@
 [
   {
     "index": 0,
-    "text": "When was the last time this country hosted the Olympic Games?",
+    "text": "When was the last time this country.",
     "start": 13.751,
-    "end": 18.813,
-    "zh": "这个国家上一次举办奥运会是什么时候？",
-    "zh_hant": "這個國家上一次舉辦奧運會是什麼時候？"
+    "end": 16.752,
+    "zh": "这个国家上一次",
+    "zh_hant": "這個國家上一次"
   },
   {
     "index": 1,
-    "text": "The Olympic Games will be held in our country in four years' time.",
-    "start": 21.194,
-    "end": 26.076,
-    "zh": "奥运会将在四年后在我国举行。",
-    "zh_hant": "奧運會將在四年後在我國舉行。"
+    "text": "hosted the Olympic Games?",
+    "start": 16.652,
+    "end": 18.813,
+    "zh": "举办奥运会是什么时候？",
+    "zh_hant": "舉辦奧運會是什麼時候？"
   },
   {
     "index": 2,
-    "text": "As a great many people will be visiting the country,",
-    "start": 27.217,
-    "end": 30.519,
-    "zh": "由于很多人将访问这个国家，",
-    "zh_hant": "由於很多人將訪問這個國家，"
+    "text": "The Olympic Games will be held in our country in four years' time.",
+    "start": 21.194,
+    "end": 26.076,
+    "zh": "四年后，奥运会将在我国举行。",
+    "zh_hant": "四年後，奧運會將在我國舉行。"
   },
   {
     "index": 3,
-    "text": "the government will be building new hotels, an immense stadium,",
-    "start": 30.839,
-    "end": 36.041,
-    "zh": "政府将建造新酒店、一座巨大的体育馆，",
-    "zh_hant": "政府將建造新酒店、一座巨大的體育館，"
+    "text": "As a great many people will be visiting the country, the government will be building",
+    "start": 27.217,
+    "end": 32.82,
+    "zh": "由于将会有很多人来这个国家参观，政府将建造",
+    "zh_hant": "由於將會有很多人來這個國家參觀，政府將建造"
   },
   {
     "index": 4,
-    "text": "and a new Olympic-standard swimming pool.",
-    "start": 36.462,
-    "end": 39.723,
-    "zh": "以及一个达到奥运标准的游泳池。",
-    "zh_hant": "以及一個達到奧運標準的游泳池。"
+    "text": "new hotels,",
+    "start": 32.5,
+    "end": 33.94,
+    "zh": "新的旅馆，",
+    "zh_hant": "新的旅館，"
   },
   {
     "index": 5,
-    "text": "They will also be building new roads and a special railway line.",
-    "start": 40.584,
-    "end": 45.686,
-    "zh": "他们还将修建新道路和一条专用铁路线。",
-    "zh_hant": "他們還將修建新道路和一條專用鐵路線。"
+    "text": "an immense stadium, and a new Olympic-standard swimming pool.",
+    "start": 34.221,
+    "end": 39.723,
+    "zh": "一个巨大的体育场，以及一个新的奥运会标准的游泳池。",
+    "zh_hant": "一個巨大的體育場，以及一個新的奧運會標準的游泳池。"
   },
   {
     "index": 6,
+    "text": "They will also be building new roads and a special railway line.",
+    "start": 40.584,
+    "end": 45.686,
+    "zh": "他们还将修建新的道路和一条专门的铁路线。",
+    "zh_hant": "他們還將修建新的道路和一條專門的鐵路線。"
+  },
+  {
+    "index": 7,
     "text": "The Games will be held just outside the capital",
     "start": 47.087,
     "end": 51.289,
@@ -56,59 +64,59 @@
     "zh_hant": "奧運會將在首都郊外舉行，"
   },
   {
-    "index": 7,
+    "index": 8,
     "text": "and the whole area will be called 'Olympic City'.",
     "start": 51.769,
     "end": 56.212,
-    "zh": "整个地区将被命名为‘奥林匹克城’。",
-    "zh_hant": "整個地區將被命名為‘奧林匹克城’。"
-  },
-  {
-    "index": 8,
-    "text": "Workers will have completed the new roads by the end of this year.",
-    "start": 57.893,
-    "end": 63.015,
-    "zh": "工人将在今年年底前完成新道路的建设。",
-    "zh_hant": "工人將在今年年底前完成新道路的建設。"
+    "zh": "整个地区将被称作“奥运城”。",
+    "zh_hant": "整個地區將被稱作“奧運城”。"
   },
   {
     "index": 9,
-    "text": "By the end of next year, they will have finished work on the new stadium.",
-    "start": 64.556,
-    "end": 70.339,
-    "zh": "到明年年底，他们将完成新体育馆的施工。",
-    "zh_hant": "到明年年底，他們將完成新體育館的施工。"
+    "text": "Workers will have completed the new roads by the end of this year.",
+    "start": 57.893,
+    "end": 63.015,
+    "zh": "到今年年底，工人们将已经完成新道路的建设。",
+    "zh_hant": "到今年年底，工人們將已經完成新道路的建設。"
   },
   {
     "index": 10,
-    "text": "The fantastic modern buildings have been designed by Kurt Gunter.",
-    "start": 72.08,
-    "end": 78.403,
-    "zh": "这些宏伟的现代建筑是由库尔特·冈特设计的。",
-    "zh_hant": "這些宏偉的現代建築是由庫爾特·岡特設計的。"
+    "text": "By the end of next year, they will have finished work on the new stadium.",
+    "start": 64.556,
+    "end": 70.339,
+    "zh": "到明年年底，他们将已经完成新体育场的工作。",
+    "zh_hant": "到明年年底，他們將已經完成新體育場的工作。"
   },
   {
     "index": 11,
-    "text": "Everybody will be watching anxiously as the new buildings go up.",
-    "start": 79.443,
-    "end": 84.225,
-    "zh": "随着新建筑的拔地而起，每个人都会焦急地观看。",
-    "zh_hant": "隨著新建築的拔地而起，每個人都會焦急地觀看。"
+    "text": "The fantastic modern buildings have been designed by Kurt Gunter.",
+    "start": 72.08,
+    "end": 78.403,
+    "zh": "这些奇妙的现代建筑是由库尔特·冈特设计的。",
+    "zh_hant": "這些奇妙的現代建築是由庫爾特·岡特設計的。"
   },
   {
     "index": 12,
-    "text": "We are all very excited and are looking forward to the Olympic Games",
-    "start": 85.126,
-    "end": 90.489,
-    "zh": "我们都非常兴奋，并且期待着奥运会，",
-    "zh_hant": "我們都非常興奮，並且期待著奧運會，"
+    "text": "Everybody will be watching anxiously as the new buildings go up.",
+    "start": 79.443,
+    "end": 84.225,
+    "zh": "当这些新建筑拔地而起时，每个人都会焦急地观看。",
+    "zh_hant": "當這些新建築拔地而起時，每個人都會焦急地觀看。"
   },
   {
     "index": 13,
+    "text": "We are all very excited and are looking forward to the Olympic Games",
+    "start": 85.126,
+    "end": 90.489,
+    "zh": "我们都非常兴奋，并期待着奥运会，",
+    "zh_hant": "我們都非常興奮，並期待著奧運會，"
+  },
+  {
+    "index": 14,
     "text": "because they have never been held before in this country.",
     "start": 91.029,
     "end": 94.868,
-    "zh": "因为在这个国家，奥运会以前从未举办过。",
-    "zh_hant": "因為在這個國家，奧運會以前從未舉辦過。"
+    "zh": "因为奥运会以前从未在这个国家举办过。",
+    "zh_hant": "因為奧運會以前從未在這個國家舉辦過。"
   }
 ]

@@ -1,0 +1,490 @@
+[
+  {
+    "index": 0,
+    "text": "I have a confession to make.",
+    "start": 0.79,
+    "end": 2.911,
+    "zh": "我得坦白一件事。",
+    "zh_hant": "我得坦白一件事。"
+  },
+  {
+    "index": 1,
+    "text": "Back in 2020, when COVID hit and the world shut down, I saw a silver lining.",
+    "start": 2.811,
+    "end": 8.194,
+    "zh": "回想2020年，当新冠疫情来袭、全世界停摆时，我看到了一线希望。",
+    "zh_hant": "回想2020年，當新冠疫情來襲、全世界停擺時，我看到了一線希望。"
+  },
+  {
+    "index": 2,
+    "text": "The death and the illness and uncertainty — those were all horrible.",
+    "start": 8.194,
+    "end": 12.176,
+    "zh": "死亡、疾病和不确定性——那些都太可怕了。",
+    "zh_hant": "死亡、疾病和不確定性——那些都太可怕了。"
+  },
+  {
+    "index": 3,
+    "text": "Early on, we had a bad COVID case in my family, and things were touch-and-go for a while.",
+    "start": 11.896,
+    "end": 16.798,
+    "zh": "疫情初期，我们家有一个严重的病例，有一阵子情况很不稳定。",
+    "zh_hant": "疫情初期，我們家有一個嚴重的病例，有一陣子情況很不穩定。"
+  },
+  {
+    "index": 4,
+    "text": "But once we got through that, I was excited about spending every day in solitude.",
+    "start": 16.448,
+    "end": 21.721,
+    "zh": "但度过那段时期后，我对每天独处的日子感到兴奋。",
+    "zh_hant": "但度過那段時期後，我對每天獨處的日子感到興奮。"
+  },
+  {
+    "index": 5,
+    "text": "That’s just the way I’m built.",
+    "start": 21.841,
+    "end": 23.842,
+    "zh": "我就是这样的人。",
+    "zh_hant": "我就是這樣的人。"
+  },
+  {
+    "index": 6,
+    "text": "I’ve been a writer since I was a kid, and writing requires you to be comfortable with long hours all by yourself.",
+    "start": 23.542,
+    "end": 29.645,
+    "zh": "我从小就是作家，写作需要你习惯于长时间独自一人。",
+    "zh_hant": "我從小就是作家，寫作需要你習慣於長時間獨自一人。"
+  },
+  {
+    "index": 7,
+    "text": "So: I just focused on making the best Freakonomics episodes we could,",
+    "start": 29.295,
+    "end": 33.607,
+    "zh": "所以：我专注于制作我们能做的最好的《魔鬼经济学》节目，",
+    "zh_hant": "所以：我專注於製作我們能做的最好的《魔鬼經濟學》節目，"
+  },
+  {
+    "index": 8,
+    "text": "and I did all my recording from a makeshift home studio.",
+    "start": 33.257,
+    "end": 36.708,
+    "zh": "所有的录音都是在临时的家庭工作室里完成的。",
+    "zh_hant": "所有的錄音都是在臨時的家庭工作室裡完成的。"
+  },
+  {
+    "index": 9,
+    "text": "And for a while, this isolation did make me happy —",
+    "start": 36.868,
+    "end": 40.61,
+    "zh": "有一阵子，这种隔离确实让我开心——",
+    "zh_hant": "有一陣子，這種隔離確實讓我開心——"
+  },
+  {
+    "index": 10,
+    "text": "there was no obligation to go anywhere, or see anyone.",
+    "start": 40.351,
+    "end": 44.012,
+    "zh": "不用去任何地方，也不用见任何人。",
+    "zh_hant": "不用去任何地方，也不用見任何人。"
+  },
+  {
+    "index": 11,
+    "text": "But the happiness faded.",
+    "start": 44.313,
+    "end": 46.053,
+    "zh": "但幸福褪去了。",
+    "zh_hant": "但幸福褪去了。"
+  },
+  {
+    "index": 12,
+    "text": "And I thought of something the economist Gary Becker once said.",
+    "start": 45.933,
+    "end": 49.415,
+    "zh": "我想到经济学家加里·贝克尔曾说过的话。",
+    "zh_hant": "我想到經濟學家加里·貝克爾曾說過的話。"
+  },
+  {
+    "index": 13,
+    "text": "Becker had studied the economics of addiction , and when he was once asked to name",
+    "start": 49.065,
+    "end": 53.277,
+    "zh": "贝克尔研究过成瘾经济学，当有人问他",
+    "zh_hant": "貝克爾研究過成癮經濟學，當有人問他"
+  },
+  {
+    "index": 14,
+    "text": "the most addictive thing on the planet,",
+    "start": 53.157,
+    "end": 55.738,
+    "zh": "世界上最具成瘾性的东西是什么时，",
+    "zh_hant": "世界上最具成癮性的東西是什麼時，"
+  },
+  {
+    "index": 15,
+    "text": "Becker’s answer was “people.”",
+    "start": 55.798,
+    "end": 58.559,
+    "zh": "贝克尔的回答是“人”。",
+    "zh_hant": "貝克爾的回答是“人”。"
+  },
+  {
+    "index": 16,
+    "text": "I never would have thought of that, but it makes sense: we are a social animal;",
+    "start": 59.04,
+    "end": 63.242,
+    "zh": "我从没想过这一点，但说得通：我们是社会性动物；",
+    "zh_hant": "我從沒想過這一點，但說得通：我們是社會性動物；"
+  },
+  {
+    "index": 17,
+    "text": "we need other people the way we need food and water.",
+    "start": 63.022,
+    "end": 66.203,
+    "zh": "我们需要别人就像需要食物和水一样。",
+    "zh_hant": "我們需要別人就像需要食物和水一樣。"
+  },
+  {
+    "index": 18,
+    "text": "So when the COVID restrictions lifted,",
+    "start": 65.853,
+    "end": 68.944,
+    "zh": "所以当疫情限制解除后，",
+    "zh_hant": "所以當疫情限制解除後，"
+  },
+  {
+    "index": 19,
+    "text": "I decided to get out of my home studio and take Freakonomics Radio on the road for some live shows.",
+    "start": 68.985,
+    "end": 74.587,
+    "zh": "我决定走出家庭工作室，带着《魔鬼经济学》广播上路，搞一些现场演出。",
+    "zh_hant": "我決定走出家庭工作室，帶著《魔鬼經濟學》廣播上路，搞一些現場演出。"
+  },
+  {
+    "index": 20,
+    "text": "Those shows were fun, but I didn’t find the connection I was looking for.",
+    "start": 74.908,
+    "end": 79.71,
+    "zh": "那些演出很有趣，但我没找到我想要的那种联系。",
+    "zh_hant": "那些演出很有趣，但我沒找到我想要的那種聯絡。"
+  },
+  {
+    "index": 21,
+    "text": "When you’re having a conversation on a big stage with 1,000 people in the audience, the tendency",
+    "start": 79.77,
+    "end": 84.773,
+    "zh": "当你在一个有大舞台、台下坐着1000名观众的场合谈话时，倾向",
+    "zh_hant": "當你在一個有大舞臺、臺下坐著1000名觀眾的場合談話時，傾向"
+  },
+  {
+    "index": 22,
+    "text": "is to scale up;",
+    "start": 84.853,
+    "end": 86.313,
+    "zh": "是扩大规模；",
+    "zh_hant": "是擴大規模；"
+  },
+  {
+    "index": 23,
+    "text": "the conversations get broader but not deeper; there’s more performance, less intimacy.",
+    "start": 86.314,
+    "end": 91.836,
+    "zh": "对话变得更广但不够深；表演更多，亲密感更少。",
+    "zh_hant": "對話變得更廣但不夠深；表演更多，親密感更少。"
+  },
+  {
+    "index": 24,
+    "text": "But then, one night in San Francisco, just before curtain time,",
+    "start": 92.197,
+    "end": 95.558,
+    "zh": "但后来，在旧金山的一个晚上，就在开演前，",
+    "zh_hant": "但後來，在舊金山的一個晚上，就在開演前，"
+  },
+  {
+    "index": 25,
+    "text": "I was looking through a big overstuffed bookshelf in the green room,",
+    "start": 95.238,
+    "end": 98.98,
+    "zh": "我翻看休息室里一个塞得满满的大书架，",
+    "zh_hant": "我翻看休息室裡一個塞得滿滿的大書架，"
+  },
+  {
+    "index": 26,
+    "text": "and I found an old biography of the talk-show host Dick Cavett .",
+    "start": 98.63,
+    "end": 102.637,
+    "zh": "找到了一本关于脱口秀主持人迪克·卡维特的旧传记。",
+    "zh_hant": "找到了一本關於脫口秀主持人迪克·卡維特的舊傳記。"
+  },
+  {
+    "index": 27,
+    "text": "I had seen bits and pieces of The Dick Cavett Show over the years, and these days you can find it on YouTube.",
+    "start": 102.622,
+    "end": 108.144,
+    "zh": "这些年我看过《迪克·卡维特秀》的片段，现在你可以在YouTube上找到它。",
+    "zh_hant": "這些年我看過《迪克·卡維特秀》的片段，現在你可以在YouTube上找到它。"
+  },
+  {
+    "index": 28,
+    "text": "He is smart, funny, and just the right amount of weird .",
+    "start": 108.084,
+    "end": 112.03,
+    "zh": "他聪明、风趣，而且恰好好奇的有点怪。",
+    "zh_hant": "他聰明、風趣，而且恰好好奇的有點怪。"
+  },
+  {
+    "index": 29,
+    "text": "So, I decided to steal the Cavett book.",
+    "start": 112.006,
+    "end": 115.648,
+    "zh": "所以，我决定偷走那本卡维特的书。",
+    "zh_hant": "所以，我決定偷走那本卡維特的書。"
+  },
+  {
+    "index": 30,
+    "text": "I finished it on the plane home, and I fell in love — not with Dick Cavett per se,",
+    "start": 115.688,
+    "end": 120.891,
+    "zh": "我在回程的飞机上读完了它，然后爱上了——不是爱迪克·卡维特本人，",
+    "zh_hant": "我在回程的飛機上讀完了它，然後愛上了——不是愛迪克·卡維特本人，"
+  },
+  {
+    "index": 31,
+    "text": "but with the idea of making some kind of a TV talk show myself.",
+    "start": 120.571,
+    "end": 126.193,
+    "zh": "而是爱自己做一档电视脱口秀这个念头。",
+    "zh_hant": "而是愛自己做一檔電視脫口秀這個念頭。"
+  },
+  {
+    "index": 32,
+    "text": "With a different kind of conversation than we have on Freakonomics Radio ,",
+    "start": 126.074,
+    "end": 130.01,
+    "zh": "对话形式要和《魔鬼经济学》广播上的不一样，",
+    "zh_hant": "對話形式要和《魔鬼經濟學》廣播上的不一樣，"
+  },
+  {
+    "index": 33,
+    "text": "and a wider set of guests.",
+    "start": 129.935,
+    "end": 132.677,
+    "zh": "嘉宾范围也更广。",
+    "zh_hant": "嘉賓範圍也更廣。"
+  },
+  {
+    "index": 34,
+    "text": "And rather than filming it in a big theater, we’d make it in my living room!",
+    "start": 132.837,
+    "end": 137.479,
+    "zh": "而且不在大剧院里拍摄，我们就在我的客厅里做！",
+    "zh_hant": "而且不在大劇院裡拍攝，我們就在我的客廳裡做！"
+  },
+  {
+    "index": 35,
+    "text": "Because I was looking for connection, not spectacle.",
+    "start": 137.639,
+    "end": 141.121,
+    "zh": "因为我要找的是联系，不是表演。",
+    "zh_hant": "因為我要找的是聯絡，不是表演。"
+  },
+  {
+    "index": 36,
+    "text": "It wasn’t long before this show had a name: Better in Person.",
+    "start": 141.301,
+    "end": 146.143,
+    "zh": "没过多久，这节目就有了名字：《见面更精彩》。",
+    "zh_hant": "沒過多久，這節目就有了名字：《見面更精彩》。"
+  },
+  {
+    "index": 37,
+    "text": "If Freakonomics is about how things work, Better in Person would be about how people work.",
+    "start": 146.383,
+    "end": 151.846,
+    "zh": "如果《魔鬼经济学》是关于事物如何运作，那么《见面更精彩》就是关于人如何运作。",
+    "zh_hant": "如果《魔鬼經濟學》是關於事物如何運作，那麼《見面更精彩》就是關於人如何運作。"
+  },
+  {
+    "index": 38,
+    "text": "I didn’t want celebrities (necessarily), or people promoting their latest projects;",
+    "start": 152.086,
+    "end": 156.788,
+    "zh": "我不想要名人（不一定），也不想请那些推销最新项目的人；",
+    "zh_hant": "我不想要名人（不一定），也不想請那些推銷最新專案的人；"
+  },
+  {
+    "index": 39,
+    "text": "I just wanted people who have done remarkable things, and are willing to think out loud.",
+    "start": 156.438,
+    "end": 161.011,
+    "zh": "我只想要那些做过非凡之事、并且愿意放声思考的人。",
+    "zh_hant": "我只想要那些做過非凡之事、並且願意放聲思考的人。"
+  },
+  {
+    "index": 40,
+    "text": "I wanted to let the conversation be steered by curiosity — mine and theirs.",
+    "start": 161.031,
+    "end": 165.273,
+    "zh": "我想让对话由好奇心驱动——我的和他们的。",
+    "zh_hant": "我想讓對話由好奇心驅動——我的和他們的。"
+  },
+  {
+    "index": 41,
+    "text": "We would talk.",
+    "start": 165.433,
+    "end": 166.574,
+    "zh": "我们会聊天。",
+    "zh_hant": "我們會聊天。"
+  },
+  {
+    "index": 42,
+    "text": "We would eat and drink.",
+    "start": 166.474,
+    "end": 167.994,
+    "zh": "我们会吃吃喝喝。",
+    "zh_hant": "我們會吃吃喝喝。"
+  },
+  {
+    "index": 43,
+    "text": "We would get out and play, maybe make some trouble together.",
+    "start": 167.644,
+    "end": 170.716,
+    "zh": "我们会出去玩，也许一起惹点麻烦。",
+    "zh_hant": "我們會出去玩，也許一起惹點麻煩。"
+  },
+  {
+    "index": 44,
+    "text": "And now that YouTube has become the world’s TV, that’s where we’d put this show.",
+    "start": 170.976,
+    "end": 176.719,
+    "zh": "现在YouTube已经成为世界的电视，所以我们就把节目放在那里。",
+    "zh_hant": "現在YouTube已經成為世界的電視，所以我們就把節目放在那裡。"
+  },
+  {
+    "index": 45,
+    "text": "So: yeah, all of that actually happened.",
+    "start": 176.759,
+    "end": 180.981,
+    "zh": "所以：是啊，这一切真的发生了。",
+    "zh_hant": "所以：是啊，這一切真的發生了。"
+  },
+  {
+    "index": 46,
+    "text": "It took us about a year and half.",
+    "start": 181.301,
+    "end": 183.302,
+    "zh": "我们花了大约一年半时间。",
+    "zh_hant": "我們花了大約一年半時間。"
+  },
+  {
+    "index": 47,
+    "text": "And next week, Better in Person will launch on the Freakonomics YouTube channel .",
+    "start": 183.482,
+    "end": 188.26,
+    "zh": "下周，《见面更精彩》将在《魔鬼经济学》的YouTube频道上线。",
+    "zh_hant": "下週，《見面更精彩》將在《魔鬼經濟學》的YouTube頻道上線。"
+  },
+  {
+    "index": 48,
+    "text": "The trailer is already up; go check it out, and subscribe.",
+    "start": 187.91,
+    "end": 191.586,
+    "zh": "预告片已经发布了；去看看，然后订阅。",
+    "zh_hant": "預告片已經發布了；去看看，然後訂閱。"
+  },
+  {
+    "index": 49,
+    "text": "And today, on this episode of Freakonomics Radio ,",
+    "start": 191.906,
+    "end": 195.85,
+    "zh": "今天，在《魔鬼经济学》广播的这一期里，",
+    "zh_hant": "今天，在《魔鬼經濟學》廣播的這一期裡，"
+  },
+  {
+    "index": 50,
+    "text": "I pay a visit to the man who accidentally inspired the whole thing:",
+    "start": 195.948,
+    "end": 200.211,
+    "zh": "我去拜访了那位无意中启发这一切的人：",
+    "zh_hant": "我去拜訪了那位無意中啟發這一切的人："
+  },
+  {
+    "index": 51,
+    "text": "My name is Dick Cavett, and I’m known as a talk show host.",
+    "start": 200.331,
+    "end": 204.774,
+    "zh": "我叫迪克·卡维特，以脱口秀主持人的身份为人所知。",
+    "zh_hant": "我叫迪克·卡維特，以脫口秀主持人的身份為人所知。"
+  },
+  {
+    "index": 52,
+    "text": "Dick Cavett is 89 years old and he lives with his wife in an old mansion",
+    "start": 204.874,
+    "end": 209.457,
+    "zh": "迪克·卡维特89岁，和妻子住在一座古老的大宅里，",
+    "zh_hant": "迪克·卡維特89歲，和妻子住在一座古老的大宅裡，"
+  },
+  {
+    "index": 53,
+    "text": "on a hilltop in southwestern Connecticut.",
+    "start": 209.197,
+    "end": 211.838,
+    "zh": "位于康涅狄格州西南部的一座山顶上。",
+    "zh_hant": "位於康涅狄格州西南部的一座山頂上。"
+  },
+  {
+    "index": 54,
+    "text": "I told him my plan for Better in Person .",
+    "start": 212.119,
+    "end": 215.45,
+    "zh": "我告诉他我《见面更精彩》的计划。",
+    "zh_hant": "我告訴他我《見面更精彩》的計劃。"
+  },
+  {
+    "index": 55,
+    "text": "Well, I hope you do it.",
+    "start": 215.341,
+    "end": 217.002,
+    "zh": "嗯，我希望你去做。",
+    "zh_hant": "嗯，我希望你去做。"
+  },
+  {
+    "index": 56,
+    "text": "You’re just saying that, aren’t you?",
+    "start": 216.902,
+    "end": 218.483,
+    "zh": "你就是客气说说，对吧？",
+    "zh_hant": "你就是客氣說說，對吧？"
+  },
+  {
+    "index": 57,
+    "text": "Yeah.",
+    "start": 218.303,
+    "end": 219.023,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 58,
+    "text": "I just wanted to make your friends laugh.",
+    "start": 219.644,
+    "end": 221.805,
+    "zh": "我只想逗你朋友笑。",
+    "zh_hant": "我只想逗你朋友笑。"
+  },
+  {
+    "index": 59,
+    "text": "Dick Cavett was certainly better in person.",
+    "start": 224.527,
+    "end": 226.988,
+    "zh": "迪克·卡维特确实见面更精彩。",
+    "zh_hant": "迪克·卡維特確實見面更精彩。"
+  },
+  {
+    "index": 60,
+    "text": "I’ve come to think most of us are.",
+    "start": 227.249,
+    "end": 229.43,
+    "zh": "我渐渐觉得我们大多数人都如此。",
+    "zh_hant": "我漸漸覺得我們大多數人都如此。"
+  }
+]

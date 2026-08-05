@@ -1,0 +1,650 @@
+[
+  {
+    "index": 0,
+    "text": "For that, we need talk to this person: My name is Danny Kahn .",
+    "start": 0.35,
+    "end": 5.93,
+    "zh": "为此，我们需要和这个人谈谈：我叫丹尼·卡恩。",
+    "zh_hant": "為此，我們需要和這個人談談：我叫丹尼·卡恩。"
+  },
+  {
+    "index": 1,
+    "text": "My title is Master Distiller, Distillation and Aging Operations Director,",
+    "start": 6.013,
+    "end": 11.836,
+    "zh": "我的头衔是首席蒸馏师、蒸馏与陈酿运营总监，",
+    "zh_hant": "我的頭銜是首席蒸餾師、蒸餾與陳釀運營總監，"
+  },
+  {
+    "index": 2,
+    "text": "Sazerac.",
+    "start": 11.656,
+    "end": 12.636,
+    "zh": "萨泽拉克公司。",
+    "zh_hant": "薩澤拉克公司。"
+  },
+  {
+    "index": 3,
+    "text": "was founded in New Orleans in 1869; it still has offices there,",
+    "start": 13.437,
+    "end": 18.059,
+    "zh": "萨泽拉克于1869年在新奥尔良创立；那里至今仍有办公室，",
+    "zh_hant": "薩澤拉克於1869年在新奧爾良創立；那裡至今仍有辦公室，"
+  },
+  {
+    "index": 4,
+    "text": "but its main operation is now in Louisville, Kentucky .",
+    "start": 17.709,
+    "end": 21.17,
+    "zh": "但它的主要运营现位于肯塔基州的路易斯维尔。",
+    "zh_hant": "但它的主要運營現位於肯塔基州的路易斯維爾。"
+  },
+  {
+    "index": 5,
+    "text": "Sazerac is privately owned and makes hundreds of spirits,",
+    "start": 20.94,
+    "end": 24.842,
+    "zh": "萨泽拉克是私有企业，生产数百种烈酒，",
+    "zh_hant": "薩澤拉克是私有企業，生產數百種烈酒，"
+  },
+  {
+    "index": 6,
+    "text": "including brands of vodka, gin, rum, tequila, and many bourbons .",
+    "start": 24.492,
+    "end": 28.81,
+    "zh": "包括伏特加、金酒、朗姆酒、龙舌兰酒以及许多波本威士忌品牌。",
+    "zh_hant": "包括伏特加、金酒、朗姆酒、龍舌蘭酒以及許多波本威士忌品牌。"
+  },
+  {
+    "index": 7,
+    "text": "I started with Sazerac as the master distiller for Barton 1792,",
+    "start": 29.184,
+    "end": 33.777,
+    "zh": "我最初加入萨泽拉克，担任巴顿1792的首席蒸馏师，",
+    "zh_hant": "我最初加入薩澤拉克，擔任巴頓1792的首席蒸餾師，"
+  },
+  {
+    "index": 8,
+    "text": "which is about an hour away from Buffalo Trace, in a town called Bardstown,",
+    "start": 33.827,
+    "end": 37.869,
+    "zh": "那里离水牛踪迹酒厂大约一小时车程，在一个叫巴兹敦的小镇，",
+    "zh_hant": "那裡離水牛蹤跡酒廠大約一小時車程，在一個叫巴茲敦的小鎮，"
+  },
+  {
+    "index": 9,
+    "text": "Kentucky — the bourbon capital of the world,",
+    "start": 37.519,
+    "end": 40.931,
+    "zh": "肯塔基州——世界波本之都，",
+    "zh_hant": "肯塔基州——世界波本之都，"
+  },
+  {
+    "index": 10,
+    "text": "as they certainly like to say.",
+    "start": 40.581,
+    "end": 42.291,
+    "zh": "他们当然喜欢这么说。",
+    "zh_hant": "他們當然喜歡這麼說。"
+  },
+  {
+    "index": 11,
+    "text": "So I oversee the distilling and aging operations production",
+    "start": 42.612,
+    "end": 48.074,
+    "zh": "所以我负责监督蒸馏和陈酿的生产运营，",
+    "zh_hant": "所以我負責監督蒸餾和陳釀的生產運營，"
+  },
+  {
+    "index": 12,
+    "text": "at Buffalo Trace,",
+    "start": 47.994,
+    "end": 49.435,
+    "zh": "在水牛踪迹酒厂，",
+    "zh_hant": "在水牛蹤跡酒廠，"
+  },
+  {
+    "index": 13,
+    "text": "at Barton 1792 and at our Collingwood",
+    "start": 49.235,
+    "end": 53.117,
+    "zh": "在巴顿1792以及我们的科林伍德",
+    "zh_hant": "在巴頓1792以及我們的科林伍德"
+  },
+  {
+    "index": 14,
+    "text": "distillery, which is in Collingwood, Ontario.",
+    "start": 53.017,
+    "end": 55.918,
+    "zh": "蒸馏厂，该厂位于安大略省的科林伍德。",
+    "zh_hant": "蒸餾廠，該廠位於安大略省的科林伍德。"
+  },
+  {
+    "index": 15,
+    "text": "Where are you from, Danny?",
+    "start": 55.818,
+    "end": 57.098,
+    "zh": "丹尼，你来自哪里？",
+    "zh_hant": "丹尼，你來自哪裡？"
+  },
+  {
+    "index": 16,
+    "text": "Where’d you grow up?",
+    "start": 56.748,
+    "end": 57.559,
+    "zh": "你在哪里长大？",
+    "zh_hant": "你在哪裡長大？"
+  },
+  {
+    "index": 17,
+    "text": "I grew up in Los Angeles.",
+    "start": 57.459,
+    "end": 58.759,
+    "zh": "我在洛杉矶长大。",
+    "zh_hant": "我在洛杉磯長大。"
+  },
+  {
+    "index": 18,
+    "text": "And did you set out to be a master distiller?",
+    "start": 58.659,
+    "end": 62.001,
+    "zh": "你一开始就想成为首席蒸馏师吗？",
+    "zh_hant": "你一開始就想成為首席蒸餾師嗎？"
+  },
+  {
+    "index": 19,
+    "text": "No, in fact, before I distilled, I was a brewer.",
+    "start": 62.161,
+    "end": 65.703,
+    "zh": "不，实际上，在做蒸馏之前，我是一名酿酒师。",
+    "zh_hant": "不，實際上，在做蒸餾之前，我是一名釀酒師。"
+  },
+  {
+    "index": 20,
+    "text": "But I will tell you with certainty that no high school counselor ever",
+    "start": 65.923,
+    "end": 70.605,
+    "zh": "但我可以肯定地告诉你，没有哪个高中辅导员",
+    "zh_hant": "但我可以肯定地告訴你，沒有哪個高中輔導員"
+  },
+  {
+    "index": 21,
+    "text": "said, how about a career in brewing?",
+    "start": 70.685,
+    "end": 73.046,
+    "zh": "说过，考虑一下酿酒事业怎么样？",
+    "zh_hant": "說過，考慮一下釀酒事業怎麼樣？"
+  },
+  {
+    "index": 22,
+    "text": "But I did go to the University of California at Davis.",
+    "start": 73.787,
+    "end": 76.968,
+    "zh": "但我确实去了加州大学戴维斯分校。",
+    "zh_hant": "但我確實去了加州大學戴維斯分校。"
+  },
+  {
+    "index": 23,
+    "text": "Which is a big agriculture school, yeah?",
+    "start": 76.708,
+    "end": 79.049,
+    "zh": "那是所很大的农业大学，对吧？",
+    "zh_hant": "那是所很大的農業大學，對吧？"
+  },
+  {
+    "index": 24,
+    "text": "Very big ag school, and I went in as a chemical engineer because it was hard,",
+    "start": 78.829,
+    "end": 84.352,
+    "zh": "非常大的农学院，我入学时读化学工程，因为那个专业很难，",
+    "zh_hant": "非常大的農學院，我入學時讀化學工程，因為那個專業很難，"
+  },
+  {
+    "index": 25,
+    "text": "and it seemed like a good place to start.",
+    "start": 84.132,
+    "end": 87.194,
+    "zh": "而且那似乎是个不错的起点。",
+    "zh_hant": "而且那似乎是個不錯的起點。"
+  },
+  {
+    "index": 26,
+    "text": "For a particular reason, my friend and I needed to learn how to home brew.",
+    "start": 87.474,
+    "end": 93.177,
+    "zh": "出于一个特别的原因，我和朋友需要学会在家酿酒。",
+    "zh_hant": "出於一個特別的原因，我和朋友需要學會在家釀酒。"
+  },
+  {
+    "index": 27,
+    "text": "What was that particular reason?",
+    "start": 93.117,
+    "end": 94.877,
+    "zh": "那个特别的原因是什么？",
+    "zh_hant": "那個特別的原因是什麼？"
+  },
+  {
+    "index": 28,
+    "text": "My best friend’s fake I.D. was confiscated.",
+    "start": 94.838,
+    "end": 97.379,
+    "zh": "我最好朋友的假身份证被没收了。",
+    "zh_hant": "我最好朋友的假身份證被沒收了。"
+  },
+  {
+    "index": 29,
+    "text": "He was very panicky, and, you know he had to go to court.",
+    "start": 98.62,
+    "end": 101.701,
+    "zh": "他非常慌张，而且，你知道，他得上法庭。",
+    "zh_hant": "他非常慌張，而且，你知道，他得上法庭。"
+  },
+  {
+    "index": 30,
+    "text": "I was panicky too and I said, we have to learn how to make beer.",
+    "start": 101.781,
+    "end": 104.362,
+    "zh": "我也很慌张，我说，我们得学会怎么酿啤酒。",
+    "zh_hant": "我也很慌張，我說，我們得學會怎麼釀啤酒。"
+  },
+  {
+    "index": 31,
+    "text": "There was a home brew shop in Davis.",
+    "start": 104.422,
+    "end": 106.563,
+    "zh": "戴维斯有家自酿啤酒商店。",
+    "zh_hant": "戴維斯有家自釀啤酒商店。"
+  },
+  {
+    "index": 32,
+    "text": "And started to make beer and absolutely fell in love with the science and the art of it.",
+    "start": 106.784,
+    "end": 111.025,
+    "zh": "于是开始酿啤酒，并彻底爱上了其中的科学与艺术。",
+    "zh_hant": "於是開始釀啤酒，並徹底愛上了其中的科學與藝術。"
+  },
+  {
+    "index": 33,
+    "text": "Turns out that U.C. Davis has viticulture and oenology, which is grape-growing and winemaking.",
+    "start": 111.506,
+    "end": 116.448,
+    "zh": "结果发现，加州大学戴维斯分校有葡萄栽培和酿酒学专业，涉及葡萄种植和葡萄酒酿造。",
+    "zh_hant": "結果發現，加州大學戴維斯分校有葡萄栽培和釀酒學專業，涉及葡萄種植和葡萄酒釀造。"
+  },
+  {
+    "index": 34,
+    "text": "I ended up taking a preliminary class.",
+    "start": 116.668,
+    "end": 118.549,
+    "zh": "我最后上了一门入门课程。",
+    "zh_hant": "我最後上了一門入門課程。"
+  },
+  {
+    "index": 35,
+    "text": "I didn’t even know Sauvignon Blanc was a white wine.",
+    "start": 118.199,
+    "end": 121.451,
+    "zh": "我甚至都不知道长相思是白葡萄酒。",
+    "zh_hant": "我甚至都不知道長相思是白葡萄酒。"
+  },
+  {
+    "index": 36,
+    "text": "But I studied, and I thrived",
+    "start": 121.571,
+    "end": 124.753,
+    "zh": "但我学习了，并且茁壮成长，",
+    "zh_hant": "但我學習了，並且茁壯成長，"
+  },
+  {
+    "index": 37,
+    "text": "on creating something that people enjoy,",
+    "start": 124.533,
+    "end": 128.434,
+    "zh": "创造了人们喜欢的东西，",
+    "zh_hant": "創造了人們喜歡的東西，"
+  },
+  {
+    "index": 38,
+    "text": "and that it had social impacts and economic impacts and global impacts.",
+    "start": 128.495,
+    "end": 133.417,
+    "zh": "而且它还有社会影响、经济影响和全球影响。",
+    "zh_hant": "而且它還有社會影響、經濟影響和全球影響。"
+  },
+  {
+    "index": 39,
+    "text": "So I just fell in love with the science and the business of alcohol production.",
+    "start": 133.557,
+    "end": 138.079,
+    "zh": "所以我就是爱上了酒精生产的科学和商业。",
+    "zh_hant": "所以我就是愛上了酒精生產的科學和商業。"
+  },
+  {
+    "index": 40,
+    "text": "I eventually evolved into fermentation science,",
+    "start": 138.039,
+    "end": 141.601,
+    "zh": "我最终转向了发酵科学，",
+    "zh_hant": "我最終轉向了發酵科學，"
+  },
+  {
+    "index": 41,
+    "text": "which for me was a cross between chemical engineering and microbiology.",
+    "start": 141.251,
+    "end": 146.963,
+    "zh": "对我来说，那是化学工程和微生物学的交叉领域。",
+    "zh_hant": "對我來說，那是化學工程和微生物學的交叉領域。"
+  },
+  {
+    "index": 42,
+    "text": "You worked in beer-making, correct?",
+    "start": 146.864,
+    "end": 149.505,
+    "zh": "你曾在啤酒酿造领域工作过，对吧？",
+    "zh_hant": "你曾在啤酒釀造領域工作過，對吧？"
+  },
+  {
+    "index": 43,
+    "text": "Yes.",
+    "start": 149.165,
+    "end": 149.865,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 44,
+    "text": "I worked at Anheuser-Busch in a variety of locations for many, many years.",
+    "start": 150.045,
+    "end": 155.267,
+    "zh": "我在安海斯-布希公司工作了很多年，去过多个地方。",
+    "zh_hant": "我在安海斯-布希公司工作了很多年，去過多個地方。"
+  },
+  {
+    "index": 45,
+    "text": "It was a phenomenal technical education.",
+    "start": 154.917,
+    "end": 157.549,
+    "zh": "那是一段了不起的技术教育经历。",
+    "zh_hant": "那是一段了不起的技術教育經歷。"
+  },
+  {
+    "index": 46,
+    "text": "I would think it’s not so easy to switch from being a master beer person to a master bourbon person?",
+    "start": 157.409,
+    "end": 163.352,
+    "zh": "我觉得从啤酒大师转行到波本大师可不容易吧？",
+    "zh_hant": "我覺得從啤酒大師轉行到波本大師可不容易吧？"
+  },
+  {
+    "index": 47,
+    "text": "It was a very logical transition.",
+    "start": 163.252,
+    "end": 165.813,
+    "zh": "那是个非常合乎逻辑的过渡。",
+    "zh_hant": "那是個非常合乎邏輯的過渡。"
+  },
+  {
+    "index": 48,
+    "text": "If you think about whiskey, we make beer first,",
+    "start": 165.793,
+    "end": 169.595,
+    "zh": "如果你想想威士忌，我们首先要酿啤酒，",
+    "zh_hant": "如果你想想威士忌，我們首先要釀啤酒，"
+  },
+  {
+    "index": 49,
+    "text": "then we distill it, and then we age it.",
+    "start": 169.695,
+    "end": 172.717,
+    "zh": "然后蒸馏，再陈酿。",
+    "zh_hant": "然後蒸餾，再陳釀。"
+  },
+  {
+    "index": 50,
+    "text": "So all of the knowledge was a great foundation to go into distillation.",
+    "start": 173.037,
+    "end": 178.86,
+    "zh": "所以所有的知识都为进入蒸馏领域打下了很好的基础。",
+    "zh_hant": "所以所有的知識都為進入蒸餾領域打下了很好的基礎。"
+  },
+  {
+    "index": 51,
+    "text": "Maybe you could give us a quick tutorial in how bourbon goes from being raw materials to the bottle?",
+    "start": 178.64,
+    "end": 184.502,
+    "zh": "也许你能给我们快速讲解一下波本威士忌从原料到装瓶的过程？",
+    "zh_hant": "也許你能給我們快速講解一下波本威士忌從原料到裝瓶的過程？"
+  },
+  {
+    "index": 52,
+    "text": "How much time you got?",
+    "start": 184.603,
+    "end": 185.903,
+    "zh": "你有多少时间？",
+    "zh_hant": "你有多少時間？"
+  },
+  {
+    "index": 53,
+    "text": "Is three days enough?",
+    "start": 188.284,
+    "end": 189.945,
+    "zh": "三天够吗？",
+    "zh_hant": "三天夠嗎？"
+  },
+  {
+    "index": 54,
+    "text": "No.",
+    "start": 189.805,
+    "end": 190.405,
+    "zh": "不够。",
+    "zh_hant": "不夠。"
+  },
+  {
+    "index": 55,
+    "text": "So, five things required to be bourbon.",
+    "start": 191.366,
+    "end": 193.847,
+    "zh": "那么，成为波本威士忌需要五个条件。",
+    "zh_hant": "那麼，成為波本威士忌需要五個條件。"
+  },
+  {
+    "index": 56,
+    "text": "Fifty-one percent or more corn.",
+    "start": 193.787,
+    "end": 195.568,
+    "zh": "玉米含量至少51%。",
+    "zh_hant": "玉米含量至少51%。"
+  },
+  {
+    "index": 57,
+    "text": "It has to be made in the U.S.A..",
+    "start": 195.868,
+    "end": 197.809,
+    "zh": "必须在美国境内生产。",
+    "zh_hant": "必須在美國境內生產。"
+  },
+  {
+    "index": 58,
+    "text": "It has be distilled to no more than 160 proof.",
+    "start": 198.509,
+    "end": 203.292,
+    "zh": "蒸馏后的酒精度不能超过160度。",
+    "zh_hant": "蒸餾後的酒精度不能超過160度。"
+  },
+  {
+    "index": 59,
+    "text": "That’s 80 percent alcohol.",
+    "start": 202.942,
+    "end": 204.633,
+    "zh": "那是80%的酒精。",
+    "zh_hant": "那是80%的酒精。"
+  },
+  {
+    "index": 60,
+    "text": "It has to be put away into a barrel or a container,",
+    "start": 204.753,
+    "end": 208.495,
+    "zh": "必须放入桶或其他容器中陈酿，",
+    "zh_hant": "必須放入桶或其他容器中陳釀，"
+  },
+  {
+    "index": 61,
+    "text": "no more than 125 proof, and it must go into a new charred oak container.",
+    "start": 208.375,
+    "end": 214.558,
+    "zh": "入桶度数不超过125度，而且必须使用新的烧焦橡木容器。",
+    "zh_hant": "入桶度數不超過125度，而且必須使用新的燒焦橡木容器。"
+  },
+  {
+    "index": 62,
+    "text": "In our case, we use a barrel.",
+    "start": 214.278,
+    "end": 215.878,
+    "zh": "在我们这里，我们用的是橡木桶。",
+    "zh_hant": "在我們這裡，我們用的是橡木桶。"
+  },
+  {
+    "index": 63,
+    "text": "I have to say, when I read these rules, they sound to me like a 16th-century religious proclamation.",
+    "start": 215.618,
+    "end": 221.381,
+    "zh": "我得说，当我读到这些规则时，它们听起来像是16世纪的宗教法令。",
+    "zh_hant": "我得說，當我讀到這些規則時，它們聽起來像是16世紀的宗教法令。"
+  },
+  {
+    "index": 64,
+    "text": "I’ll tell you, this was a law based on prior history,",
+    "start": 221.421,
+    "end": 226.003,
+    "zh": "我告诉你，这是基于历史先例制定的法律，",
+    "zh_hant": "我告訴你，這是基於歷史先例制定的法律，"
+  },
+  {
+    "index": 65,
+    "text": "and certainly, I’d like to think that that had everything to do with what makes the best bourbon,",
+    "start": 226.304,
+    "end": 232.166,
+    "zh": "当然，我愿意认为这与酿出最好的波本威士忌密切相关，",
+    "zh_hant": "當然，我願意認為這與釀出最好的波本威士忌密切相關，"
+  },
+  {
+    "index": 66,
+    "text": "and let’s put in regulation to continue to make a very notable product.",
+    "start": 232.106,
+    "end": 237.189,
+    "zh": "并让我们用法规来继续生产非常出色的产品。",
+    "zh_hant": "並讓我們用法規來繼續生產非常出色的產品。"
+  },
+  {
+    "index": 67,
+    "text": "Now, to what degree were the corn lobbies involved, and the — That’s what I always wonder.",
+    "start": 237.149,
+    "end": 241.191,
+    "zh": "那么，玉米游说团体参与了多少，还有——那是我一直好奇的。",
+    "zh_hant": "那麼，玉米遊說團體參與了多少，還有——那是我一直好奇的。"
+  },
+  {
+    "index": 68,
+    "text": "I have read that the barrel-makers and the copper industry and maybe the corn industry,",
+    "start": 241.271,
+    "end": 246.194,
+    "zh": "我读过说制桶业、铜业，也许还有玉米产业，",
+    "zh_hant": "我讀過說制桶業、銅業，也許還有玉米產業，"
+  },
+  {
+    "index": 69,
+    "text": "all really love this confluence of rules.",
+    "start": 246.054,
+    "end": 249.715,
+    "zh": "都非常喜欢这些规则的结合。",
+    "zh_hant": "都非常喜歡這些規則的結合。"
+  },
+  {
+    "index": 70,
+    "text": "You’re saying that these rules were derived",
+    "start": 249.736,
+    "end": 253.057,
+    "zh": "你是说这些规则制定出来",
+    "zh_hant": "你是說這些規則制定出來"
+  },
+  {
+    "index": 71,
+    "text": "for the primary purpose of improving or protecting quality,",
+    "start": 252.707,
+    "end": 256.799,
+    "zh": "主要目的是提高或保护质量，",
+    "zh_hant": "主要目的是提高或保護質量，"
+  },
+  {
+    "index": 72,
+    "text": "but tell me what you can about how there might have been a little bit of — not self-dealing, necessarily,",
+    "start": 256.449,
+    "end": 262.462,
+    "zh": "但请告诉我，可能有一点——不一定是自我交易，",
+    "zh_hant": "但請告訴我，可能有一點——不一定是自我交易，"
+  },
+  {
+    "index": 73,
+    "text": "but people looking out for their own interests.",
+    "start": 262.112,
+    "end": 264.342,
+    "zh": "而是人们在维护自己的利益。",
+    "zh_hant": "而是人們在維護自己的利益。"
+  },
+  {
+    "index": 74,
+    "text": "I will say that I can defend every single one of those components",
+    "start": 264.443,
+    "end": 268.444,
+    "zh": "我会说，我能为其中每一个成分辩护，",
+    "zh_hant": "我會說，我能為其中每一個成分辯護，"
+  },
+  {
+    "index": 75,
+    "text": "as to why they are positive for flavor.",
+    "start": 268.125,
+    "end": 271.406,
+    "zh": "说明它们为什么对风味有积极作用。",
+    "zh_hant": "說明它們為什麼對風味有積極作用。"
+  },
+  {
+    "index": 76,
+    "text": "Let’s do that.",
+    "start": 271.226,
+    "end": 272.186,
+    "zh": "我们来做吧。",
+    "zh_hant": "我們來做吧。"
+  },
+  {
+    "index": 77,
+    "text": "That’d be fun.",
+    "start": 271.836,
+    "end": 272.667,
+    "zh": "那会很有趣。",
+    "zh_hant": "那會很有趣。"
+  },
+  {
+    "index": 78,
+    "text": "Let’s start with the corn.",
+    "start": 272.317,
+    "end": 273.647,
+    "zh": "先从玉米说起。",
+    "zh_hant": "先從玉米說起。"
+  },
+  {
+    "index": 79,
+    "text": "Okay, so first of all, it’s my belief that our forefathers came over more familiar with rye whiskey.",
+    "start": 273.847,
+    "end": 279.43,
+    "zh": "好，首先，我相信我们的祖先过来时更熟悉黑麦威士忌。",
+    "zh_hant": "好，首先，我相信我們的祖先過來時更熟悉黑麥威士忌。"
+  },
+  {
+    "index": 80,
+    "text": "And as they went west, I’m sure they learned that rye does not grow well.",
+    "start": 279.633,
+    "end": 285.429,
+    "zh": "当他们向西迁移时，我肯定他们发现黑麦长不好。",
+    "zh_hant": "當他們向西遷移時，我肯定他們發現黑麥長不好。"
+  }
+]

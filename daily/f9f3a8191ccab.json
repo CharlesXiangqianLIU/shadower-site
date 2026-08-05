@@ -9,16 +9,16 @@
   },
   {
     "index": 1,
-    "text": "Yesterday afternoon Frank Hawkins was telling me",
+    "text": "Yesterday afternoon Frank Hawkins was telling me about.",
     "start": 18.642,
-    "end": 23.343,
-    "zh": "昨天下午弗兰克·霍金斯正在告诉我",
-    "zh_hant": "昨天下午弗蘭克·霍金斯正在告訴我"
+    "end": 23.903,
+    "zh": "昨天下午弗兰克·霍金斯正在告诉我关于",
+    "zh_hant": "昨天下午弗蘭克·霍金斯正在告訴我關於"
   },
   {
     "index": 2,
-    "text": "about his experiences as a young man.",
-    "start": 23.083,
+    "text": "his experiences as a young man.",
+    "start": 23.553,
     "end": 26.263,
     "zh": "他年轻时的经历。",
     "zh_hant": "他年輕時的經歷。"
@@ -28,16 +28,16 @@
     "text": "Before he retired, Frank was the head of a very large business company,",
     "start": 27.804,
     "end": 33.745,
-    "zh": "退休前，弗兰克是一家大公司的负责人，",
-    "zh_hant": "退休前，弗蘭克是一家大公司的負責人，"
+    "zh": "退休前，弗兰克是一家非常大的商业公司的负责人，",
+    "zh_hant": "退休前，弗蘭克是一家非常大的商業公司的負責人，"
   },
   {
     "index": 4,
     "text": "but as a boy he used to work in a small shop.",
     "start": 34.686,
     "end": 38.786,
-    "zh": "但小时候他常在一家小店里工作。",
-    "zh_hant": "但小時候他常在一家小店裡工作。"
+    "zh": "但小时候他曾在一家小店铺工作。",
+    "zh_hant": "但小時候他曾在一家小店鋪工作。"
   },
   {
     "index": 5,
@@ -52,32 +52,32 @@
     "text": "he used to work fourteen hours a day.",
     "start": 44.728,
     "end": 48.129,
-    "zh": "他每天要工作十四个小时。",
-    "zh_hant": "他每天要工作十四個小時。"
+    "zh": "他常常一天工作十四个小时。",
+    "zh_hant": "他常常一天工作十四個小時。"
   },
   {
     "index": 7,
     "text": "He saved money for years and in 1958",
     "start": 49.509,
     "end": 54.681,
-    "zh": "他攒了好多年的钱，在1958年",
-    "zh_hant": "他攢了好多年的錢，在1958年"
+    "zh": "他多年攒钱，在1958年",
+    "zh_hant": "他多年攢錢，在1958年"
   },
   {
     "index": 8,
     "text": "he bought a small workshop of his own.",
     "start": 54.731,
     "end": 57.612,
-    "zh": "他买了一个属于自己的小车间。",
-    "zh_hant": "他買了一個屬於自己的小車間。"
+    "zh": "他买了一个属于自己的小作坊。",
+    "zh_hant": "他買了一個屬於自己的小作坊。"
   },
   {
     "index": 9,
     "text": "In his twenties Frank used to make spare parts for aeroplanes.",
     "start": 59.053,
     "end": 64.596,
-    "zh": "二十多岁时，弗兰克常为飞机制作零件。",
-    "zh_hant": "二十多歲時，弗蘭克常為飛機制作零件。"
+    "zh": "二十多岁时，弗兰克常常制作飞机零件。",
+    "zh_hant": "二十多歲時，弗蘭克常常製作飛機零件。"
   },
   {
     "index": 10,
@@ -92,32 +92,32 @@
     "text": "In a few years the small workshop had become a large factory",
     "start": 69.879,
     "end": 74.961,
-    "zh": "几年之内，这个小车间变成了一个大工厂，",
-    "zh_hant": "幾年之內，這個小車間變成了一個大工廠，"
+    "zh": "几年内，小作坊变成了大工厂，",
+    "zh_hant": "幾年內，小作坊變成了大工廠，"
   },
   {
     "index": 12,
     "text": "which employed seven hundred and twenty-eight people.",
     "start": 75.021,
     "end": 78.683,
-    "zh": "雇用了七百二十八名工人。",
-    "zh_hant": "僱用了七百二十八名工人。"
+    "zh": "雇用了七百二十八名员工。",
+    "zh_hant": "僱用了七百二十八名員工。"
   },
   {
     "index": 13,
     "text": "Frank smiled when he remembered his hard early years and the long road to success.",
     "start": 80.024,
     "end": 86.206,
-    "zh": "弗兰克回想起早年的艰辛和漫长的成功之路时微笑了。",
-    "zh_hant": "弗蘭克回想起早年的艱辛和漫長的成功之路時微笑了。"
+    "zh": "弗兰克想起自己早年的艰辛和漫长的成功之路时，笑了。",
+    "zh_hant": "弗蘭克想起自己早年的艱辛和漫長的成功之路時，笑了。"
   },
   {
     "index": 14,
     "text": "He was still smiling when the door opened and his wife came in.",
     "start": 87.267,
     "end": 91.689,
-    "zh": "门打开时他还在微笑，他的妻子走了进来。",
-    "zh_hant": "門開啟時他還在微笑，他的妻子走了進來。"
+    "zh": "他还在笑时，门开了，他妻子走了进来。",
+    "zh_hant": "他還在笑時，門開了，他妻子走了進來。"
   },
   {
     "index": 15,

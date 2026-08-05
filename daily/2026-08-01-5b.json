@@ -1,0 +1,610 @@
+[
+  {
+    "index": 0,
+    "text": "In this episode we’ve heard some reasons that space might be a good place to put data centers.",
+    "start": 1.151,
+    "end": 6.193,
+    "zh": "在这一集中，我们听到了一些理由，说明太空可能是放置数据中心的好地方。",
+    "zh_hant": "在這一集中，我們聽到了一些理由，說明太空可能是放置資料中心的好地方。"
+  },
+  {
+    "index": 1,
+    "text": "But there’s another reason A.I. and space belong together,",
+    "start": 6.233,
+    "end": 9.935,
+    "zh": "但还有另一个原因让AI和太空联系在一起，",
+    "zh_hant": "但還有另一個原因讓AI和太空聯絡在一起，"
+  },
+  {
+    "index": 2,
+    "text": "and it has nothing to do with electricity or real estate.",
+    "start": 9.915,
+    "end": 13.636,
+    "zh": "这和电力或房地产无关。",
+    "zh_hant": "這和電力或房地產無關。"
+  },
+  {
+    "index": 3,
+    "text": "It was explained to me by Will Marshall , who I spoke with on the last episode.",
+    "start": 13.897,
+    "end": 18.119,
+    "zh": "这是威尔·马歇尔向我解释的，我上一集和他聊过。",
+    "zh_hant": "這是威爾·馬歇爾向我解釋的，我上一集和他聊過。"
+  },
+  {
+    "index": 4,
+    "text": "He’s the co-founder and C.E.O. of Planet, the data company",
+    "start": 18.139,
+    "end": 22.101,
+    "zh": "他是Planet公司的联合创始人兼首席执行官，这家数据公司",
+    "zh_hant": "他是Planet公司的聯合創始人兼執行長，這家資料公司"
+  },
+  {
+    "index": 5,
+    "text": "whose satellites photograph the entire Earth every day.",
+    "start": 21.861,
+    "end": 25.322,
+    "zh": "其卫星每天拍摄整个地球的照片。",
+    "zh_hant": "其衛星每天拍攝整個地球的照片。"
+  },
+  {
+    "index": 6,
+    "text": "Before NASA, I had done a PhD in physics.",
+    "start": 25.443,
+    "end": 28.104,
+    "zh": "在NASA之前，我获得了物理学博士学位。",
+    "zh_hant": "在NASA之前，我獲得了物理學博士學位。"
+  },
+  {
+    "index": 7,
+    "text": "It was incredible to work with some geniuses and, and humbling,",
+    "start": 27.864,
+    "end": 31.385,
+    "zh": "和一些天才合作令人难以置信，也让人谦卑，",
+    "zh_hant": "和一些天才合作令人難以置信，也讓人謙卑，"
+  },
+  {
+    "index": 8,
+    "text": "which helped set my career more into space, which I thought I could handle because these physicists are just out there, next-level people.",
+    "start": 31.506,
+    "end": 37.668,
+    "zh": "这帮助我把职业生涯更多转向太空，我觉得自己能应对，因为这些物理学家真是超凡脱俗、顶尖水平的人。",
+    "zh_hant": "這幫助我把職業生涯更多轉向太空，我覺得自己能應對，因為這些物理學家真是超凡脫俗、頂尖水平的人。"
+  },
+  {
+    "index": 9,
+    "text": "There’s a lot of public uneasiness around A.I. and its growing importance in society.",
+    "start": 37.709,
+    "end": 44.092,
+    "zh": "公众对AI及其在社会中日益重要的地位有很多不安。",
+    "zh_hant": "公眾對AI及其在社會中日益重要的地位有很多不安。"
+  },
+  {
+    "index": 10,
+    "text": "You’ve got a vision of a future version of A.I. that looks",
+    "start": 44.712,
+    "end": 48.534,
+    "zh": "你对未来AI版本有一个愿景，它看起来",
+    "zh_hant": "你對未來AI版本有一個願景，它看起來"
+  },
+  {
+    "index": 11,
+    "text": "very, very different from our current models.",
+    "start": 48.534,
+    "end": 51.416,
+    "zh": "和当前模型非常非常不同。",
+    "zh_hant": "和當前模型非常非常不同。"
+  },
+  {
+    "index": 12,
+    "text": "Could you describe where you think A.I. is going to take us?",
+    "start": 51.396,
+    "end": 56.198,
+    "zh": "你能描述一下你认为AI会把我们带向何方吗？",
+    "zh_hant": "你能描述一下你認為AI會把我們帶向何方嗎？"
+  },
+  {
+    "index": 13,
+    "text": "I think there’s a new era of machine intelligence that I call planetary intelligence.",
+    "start": 56.278,
+    "end": 60.44,
+    "zh": "我认为有一个新纪元，我称之为行星智能。",
+    "zh_hant": "我認為有一個新紀元，我稱之為行星智慧。"
+  },
+  {
+    "index": 14,
+    "text": "So, let me do a little backdrop first.",
+    "start": 60.44,
+    "end": 62.981,
+    "zh": "所以，让我先铺垫一下背景。",
+    "zh_hant": "所以，讓我先鋪墊一下背景。"
+  },
+  {
+    "index": 15,
+    "text": "Everyone’s familiar with large language models now, incredibly powerful.",
+    "start": 62.631,
+    "end": 66.343,
+    "zh": "现在大家都熟悉大型语言模型，它们极其强大。",
+    "zh_hant": "現在大家都熟悉大型語言模型，它們極其強大。"
+  },
+  {
+    "index": 16,
+    "text": "They’ve read all the books in the world and the text on the internet.",
+    "start": 66.003,
+    "end": 69.965,
+    "zh": "它们读过了世界上所有的书和互联网上的文本。",
+    "zh_hant": "它們讀過了世界上所有的書和網際網路上的文字。"
+  },
+  {
+    "index": 17,
+    "text": "Can write an essay, can hallucinate, obviously, sometimes, but they can do code.",
+    "start": 70.065,
+    "end": 75.687,
+    "zh": "能写文章，显然有时也会产生幻觉，但它们能写代码。",
+    "zh_hant": "能寫文章，顯然有時也會產生幻覺，但它們能寫程式碼。"
+  },
+  {
+    "index": 18,
+    "text": "I was testing some of those LLMs early on.",
+    "start": 75.508,
+    "end": 78.409,
+    "zh": "早期我就测试过一些这样的LLM。",
+    "zh_hant": "早期我就測試過一些這樣的LLM。"
+  },
+  {
+    "index": 19,
+    "text": "I was inspired to find just how capable they were at advanced physics.",
+    "start": 78.389,
+    "end": 82.051,
+    "zh": "我惊讶地发现它们在高级物理方面有多强的能力。",
+    "zh_hant": "我驚訝地發現它們在高階物理方面有多強的能力。"
+  },
+  {
+    "index": 20,
+    "text": "I was like, “I think I’m smarter on this specific area of physics that I did my Ph.D. in, let’s see,”",
+    "start": 81.701,
+    "end": 86.893,
+    "zh": "我心想，“我觉得在我做博士研究的那个物理领域我比它聪明，让我试试，”",
+    "zh_hant": "我心想，“我覺得在我做博士研究的那個物理領域我比它聰明，讓我試試，”"
+  },
+  {
+    "index": 21,
+    "text": "and I was like, damn, that’s not messing around.",
+    "start": 86.614,
+    "end": 89.975,
+    "zh": "然后我心里想，哎呀，这不是闹着玩的。",
+    "zh_hant": "然後我心裡想，哎呀，這不是鬧著玩的。"
+  },
+  {
+    "index": 22,
+    "text": "They have a lot of latent knowledge, and they can pull all that together from all the disparate fields like no human can.",
+    "start": 90.055,
+    "end": 95.758,
+    "zh": "它们有大量潜在知识，能把所有不同领域的知识整合起来，这是人类无法做到的。",
+    "zh_hant": "它們有大量潛在知識，能把所有不同領域的知識整合起來，這是人類無法做到的。"
+  },
+  {
+    "index": 23,
+    "text": "But for all this capability,",
+    "start": 95.578,
+    "end": 97.859,
+    "zh": "但尽管有这些能力，",
+    "zh_hant": "但儘管有這些能力，"
+  },
+  {
+    "index": 24,
+    "text": "LLMs, the ChatGPTs and Geminis and what have you, are essentially blind.",
+    "start": 97.879,
+    "end": 103.101,
+    "zh": "LLM，比如ChatGPT、Gemini之类的，基本上是瞎的。",
+    "zh_hant": "LLM，比如ChatGPT、Gemini之類的，基本上是瞎的。"
+  },
+  {
+    "index": 25,
+    "text": "And what I mean by that is that they have no understanding of what’s going on in the real world day-to-day.",
+    "start": 103.602,
+    "end": 109.585,
+    "zh": "我的意思是，它们对现实世界每天发生的事没有任何理解。",
+    "zh_hant": "我的意思是，它們對現實世界每天發生的事沒有任何理解。"
+  },
+  {
+    "index": 26,
+    "text": "So, give you an example, a farmer starts asking about farming for their field",
+    "start": 109.245,
+    "end": 114.867,
+    "zh": "举个例子，一个农民开始问关于他们田地种植的问题",
+    "zh_hant": "舉個例子，一個農民開始問關於他們田地種植的問題"
+  },
+  {
+    "index": 27,
+    "text": "in ChatGPT,",
+    "start": 114.847,
+    "end": 116.188,
+    "zh": "在ChatGPT上，",
+    "zh_hant": "在ChatGPT上，"
+  },
+  {
+    "index": 28,
+    "text": "it’s going to tell them all about the theory of agricultural science,",
+    "start": 116.248,
+    "end": 120.811,
+    "zh": "它会告诉他们所有农业科学的理论，",
+    "zh_hant": "它會告訴他們所有農業科學的理論，"
+  },
+  {
+    "index": 29,
+    "text": "about crop science, and all this sort of stuff, but it’s going to know",
+    "start": 120.531,
+    "end": 124.673,
+    "zh": "作物科学之类的所有内容，但它不会知道",
+    "zh_hant": "作物科學之類的所有內容，但它不會知道"
+  },
+  {
+    "index": 30,
+    "text": "nothing about that person’s field today,",
+    "start": 124.323,
+    "end": 127.054,
+    "zh": "这个人今天田地的具体情况，",
+    "zh_hant": "這個人今天田地的具體情況，"
+  },
+  {
+    "index": 31,
+    "text": "what the conditions are, and what they could do better.",
+    "start": 127.054,
+    "end": 129.995,
+    "zh": "条件怎么样，以及他们怎么能做得更好。",
+    "zh_hant": "條件怎麼樣，以及他們怎麼能做得更好。"
+  },
+  {
+    "index": 32,
+    "text": "Well, there’s all these physical-world data sets, but perhaps one of the core things is Earth data.",
+    "start": 130.055,
+    "end": 135.758,
+    "zh": "嗯，有所有这些物理世界的数据集，但也许核心之一是地球数据。",
+    "zh_hant": "嗯，有所有這些物理世界的資料集，但也許核心之一是地球資料。"
+  },
+  {
+    "index": 33,
+    "text": "Landsat in 1972 started imaging the whole planet every month, it has done for the last 50 years.",
+    "start": 135.878,
+    "end": 141.541,
+    "zh": "1972年的Landsat开始每月拍摄整个星球，已经持续了50年。",
+    "zh_hant": "1972年的Landsat開始每月拍攝整個星球，已經持續了50年。"
+  },
+  {
+    "index": 34,
+    "text": "Planet in the last 10 years has been imaging the whole Earth at three-meter resolution every single day.",
+    "start": 141.191,
+    "end": 147.064,
+    "zh": "Planet在过去的10年里，每天以三米分辨率拍摄整个地球。",
+    "zh_hant": "Planet在過去的10年裡，每天以三米解析度拍攝整個地球。"
+  },
+  {
+    "index": 35,
+    "text": "Both those systems together have about 5,000 images of the whole landmass of the Earth",
+    "start": 147.264,
+    "end": 152.726,
+    "zh": "这两个系统加起来拥有约5000张地球整个陆地的图像",
+    "zh_hant": "這兩個系統加起來擁有約5000張地球整個陸地的影象"
+  },
+  {
+    "index": 36,
+    "text": "documenting change over time.",
+    "start": 152.566,
+    "end": 154.507,
+    "zh": "记录着随时间的变化。",
+    "zh_hant": "記錄著隨時間的變化。"
+  },
+  {
+    "index": 37,
+    "text": "Imagine adding all of that to these LLMs,",
+    "start": 154.687,
+    "end": 158.229,
+    "zh": "想象一下把所有这些加到这些LLM上，",
+    "zh_hant": "想象一下把所有這些加到這些LLM上，"
+  },
+  {
+    "index": 38,
+    "text": "so that they have all that knowledge of agronomy and glaciology,",
+    "start": 157.879,
+    "end": 161.891,
+    "zh": "这样它们就有了所有农学和冰川学的知识，",
+    "zh_hant": "這樣它們就有了所有農學和冰川學的知識，"
+  },
+  {
+    "index": 39,
+    "text": "but they also have literal understanding of what’s going on in space and time day-to-day.",
+    "start": 161.541,
+    "end": 167.234,
+    "zh": "同时它们也对每天时空中的实际情况有直接理解。",
+    "zh_hant": "同時它們也對每天時空中的實際情況有直接理解。"
+  },
+  {
+    "index": 40,
+    "text": "So, then the farmer asks that question, and they can say, well, your field’s doing this.",
+    "start": 166.894,
+    "end": 171.296,
+    "zh": "那么，当农民问那个问题时，它们可以说，嗯，你的田地是这个状况。",
+    "zh_hant": "那麼，當農民問那個問題時，它們可以說，嗯，你的田地是這個狀況。"
+  },
+  {
+    "index": 41,
+    "text": "It’s got blight in this corner.",
+    "start": 171.056,
+    "end": 172.977,
+    "zh": "这个角落有枯萎病。",
+    "zh_hant": "這個角落有枯萎病。"
+  },
+  {
+    "index": 42,
+    "text": "The next door neighbor farmer did this, and they did better yield last year after they had done this intervention.",
+    "start": 172.697,
+    "end": 178.499,
+    "zh": "隔壁的农民做了这个，去年他们实施了这种干预后产量更高了。",
+    "zh_hant": "隔壁的農民做了這個，去年他們實施了這種干預後產量更高了。"
+  },
+  {
+    "index": 43,
+    "text": "Why don’t you do that?",
+    "start": 178.149,
+    "end": 179.26,
+    "zh": "你为什么不也这么做呢？",
+    "zh_hant": "你為什麼不也這麼做呢？"
+  },
+  {
+    "index": 44,
+    "text": "And interestingly, all the A.I. leaders have been talking recently about physical models,",
+    "start": 179.54,
+    "end": 184.102,
+    "zh": "有趣的是，所有AI领导者最近都在谈论物理模型，",
+    "zh_hant": "有趣的是，所有AI領導者最近都在談論物理模型，"
+  },
+  {
+    "index": 45,
+    "text": "trying to build A.I. to have understanding of the physical world.",
+    "start": 184.102,
+    "end": 187.564,
+    "zh": "试图构建能理解物理世界的AI。",
+    "zh_hant": "試圖構建能理解物理世界的AI。"
+  },
+  {
+    "index": 46,
+    "text": "And of course, A.I. is only as good as its training data.",
+    "start": 187.444,
+    "end": 190.225,
+    "zh": "当然，AI的好坏取决于它的训练数据。",
+    "zh_hant": "當然，AI的好壞取決於它的訓練資料。"
+  },
+  {
+    "index": 47,
+    "text": "And here we sit in the space community with a whole [bleep] ton of data about the physical world.",
+    "start": 190.165,
+    "end": 195.608,
+    "zh": "而我们航天界坐拥一大堆关于物理世界的数据。",
+    "zh_hant": "而我們航天界坐擁一大堆關於物理世界的資料。"
+  },
+  {
+    "index": 48,
+    "text": "You know?",
+    "start": 195.488,
+    "end": 196.188,
+    "zh": "你知道吗？",
+    "zh_hant": "你知道嗎？"
+  },
+  {
+    "index": 49,
+    "text": "And it’s not just satellite data.",
+    "start": 196.208,
+    "end": 198.149,
+    "zh": "不仅仅是卫星数据。",
+    "zh_hant": "不僅僅是衛星資料。"
+  },
+  {
+    "index": 50,
+    "text": "It’s sensors all around the place.",
+    "start": 197.799,
+    "end": 199.53,
+    "zh": "还有到处分布的传感器。",
+    "zh_hant": "還有到處分佈的感測器。"
+  },
+  {
+    "index": 51,
+    "text": "But Earth data is, if you like, the Wikipedia for this next phase,",
+    "start": 199.43,
+    "end": 203.872,
+    "zh": "但地球数据，可以说，是下一阶段的维基百科，",
+    "zh_hant": "但地球資料，可以說，是下一階段的維基百科，"
+  },
+  {
+    "index": 52,
+    "text": "is the foundation dataset that will enable us to then answer questions about the physical world,",
+    "start": 203.733,
+    "end": 208.875,
+    "zh": "是基础数据集，让我们能回答关于物理世界的问题，",
+    "zh_hant": "是基礎資料集，讓我們能回答關於物理世界的問題，"
+  },
+  {
+    "index": 53,
+    "text": "about those fires, that farming, that insurance, that so on.",
+    "start": 208.815,
+    "end": 211.696,
+    "zh": "关于那些火灾、农业、保险之类的。",
+    "zh_hant": "關於那些火災、農業、保險之類的。"
+  },
+  {
+    "index": 54,
+    "text": "And that is going to open up a huge new set of domains of applications.",
+    "start": 211.856,
+    "end": 217.739,
+    "zh": "那将开启大量新的应用领域。",
+    "zh_hant": "那將開啟大量新的應用領域。"
+  },
+  {
+    "index": 55,
+    "text": "Why hasn’t it happened already?",
+    "start": 218.06,
+    "end": 220.681,
+    "zh": "为什么这还没实现？",
+    "zh_hant": "為什麼這還沒實現？"
+  },
+  {
+    "index": 56,
+    "text": "I mean, interestingly, before the LLMs, I think people would have said",
+    "start": 220.331,
+    "end": 224.903,
+    "zh": "嗯，有意思的是，在LLM之前，我想人们会说",
+    "zh_hant": "嗯，有意思的是，在LLM之前，我想人們會說"
+  },
+  {
+    "index": 57,
+    "text": "that what we’ve done with computer vision was actually remarkable,",
+    "start": 224.563,
+    "end": 228.744,
+    "zh": "我们在计算机视觉方面做的事其实很了不起，",
+    "zh_hant": "我們在計算機視覺方面做的事其實很了不起，"
+  },
+  {
+    "index": 58,
+    "text": "and it had gotten way ahead of what the LLMs have done in the meantime.",
+    "start": 228.394,
+    "end": 232.706,
+    "zh": "而且它已经远远超越了LLM在那时取得的成就。",
+    "zh_hant": "而且它已經遠遠超越了LLM在那時取得的成就。"
+  },
+  {
+    "index": 59,
+    "text": "What’s the holdup?",
+    "start": 232.927,
+    "end": 234.207,
+    "zh": "是什么卡住了？",
+    "zh_hant": "是什麼卡住了？"
+  },
+  {
+    "index": 60,
+    "text": "Is it the models?",
+    "start": 233.857,
+    "end": 235.188,
+    "zh": "是模型的问题吗？",
+    "zh_hant": "是模型的問題嗎？"
+  },
+  {
+    "index": 61,
+    "text": "It’s not the data.",
+    "start": 234.838,
+    "end": 236.028,
+    "zh": "不是数据的问题。",
+    "zh_hant": "不是資料的問題。"
+  },
+  {
+    "index": 62,
+    "text": "Good question.",
+    "start": 236.188,
+    "end": 237.129,
+    "zh": "好问题。",
+    "zh_hant": "好問題。"
+  },
+  {
+    "index": 63,
+    "text": "I’ve been impatient with this for a while.",
+    "start": 236.779,
+    "end": 239.01,
+    "zh": "我对这件事已经急不可耐很久了。",
+    "zh_hant": "我對這件事已經急不可耐很久了。"
+  },
+  {
+    "index": 64,
+    "text": "In fact, I did a TED talk in 2018 called Queryable Earth,",
+    "start": 238.89,
+    "end": 242.892,
+    "zh": "事实上，我在2018年做了一个TED演讲，叫《可查询的地球》，",
+    "zh_hant": "事實上，我在2018年做了一個TED演講，叫《可查詢的地球》，"
+  },
+  {
+    "index": 65,
+    "text": "where I was just talking about how we should, with computer vision and all this Earth data,",
+    "start": 242.542,
+    "end": 248.134,
+    "zh": "我在那里就谈到我们应该如何用计算机视觉和所有这些地球数据，",
+    "zh_hant": "我在那裡就談到我們應該如何用計算機視覺和所有這些地球資料，"
+  },
+  {
+    "index": 66,
+    "text": "be able to index everything on the Earth and make it searchable .",
+    "start": 247.784,
+    "end": 250.89,
+    "zh": "索引地球上的所有东西，让它能被搜索。",
+    "zh_hant": "索引地球上的所有東西，讓它能被搜尋。"
+  },
+  {
+    "index": 67,
+    "text": "But it was harder than I thought because each different thing you’d want to monitor",
+    "start": 250.916,
+    "end": 255.28,
+    "zh": "但这比我想的要难，因为每个你想监测的不同东西",
+    "zh_hant": "但這比我想的要難，因為每個你想監測的不同東西"
+  },
+  {
+    "index": 68,
+    "text": "— trees, ships, planes — you’d have to build a bespoke model.",
+    "start": 254.88,
+    "end": 258.9,
+    "zh": "——树木、船只、飞机——你得建立一个定制模型。",
+    "zh_hant": "——樹木、船隻、飛機——你得建立一個定製模型。"
+  },
+  {
+    "index": 69,
+    "text": "It was a lot of training.",
+    "start": 258.55,
+    "end": 260.04,
+    "zh": "那是大量的训练。",
+    "zh_hant": "那是大量的訓練。"
+  },
+  {
+    "index": 70,
+    "text": "And then it only worked in this area, and didn’t work in that area, and all these things.",
+    "start": 260.02,
+    "end": 264.442,
+    "zh": "然后它只在这个区域有效，在那个区域又不行，还有其他各种问题。",
+    "zh_hant": "然後它只在這個區域有效，在那個區域又不行，還有其他各種問題。"
+  },
+  {
+    "index": 71,
+    "text": "LLMs have enabled them — it’s more generic.",
+    "start": 264.603,
+    "end": 267.604,
+    "zh": "LLM让这变得更容易——它更通用。",
+    "zh_hant": "LLM讓這變得更容易——它更通用。"
+  },
+  {
+    "index": 72,
+    "text": "And, in fact, excitingly this is not just hypothetical anymore.",
+    "start": 267.704,
+    "end": 271.346,
+    "zh": "而且，激动人心的是，这不再只是假设了。",
+    "zh_hant": "而且，激動人心的是，這不再只是假設了。"
+  },
+  {
+    "index": 73,
+    "text": "We’re just about to launch a public beta app,",
+    "start": 271.006,
+    "end": 274.647,
+    "zh": "我们即将推出一个公开测试版应用，",
+    "zh_hant": "我們即將推出一個公開測試版應用，"
+  },
+  {
+    "index": 74,
+    "text": "which should be out by the time this podcast comes out,",
+    "start": 274.608,
+    "end": 277.609,
+    "zh": "它应该会在本期播客发布时上线，",
+    "zh_hant": "它應該會在本期播客釋出時上線，"
+  },
+  {
+    "index": 75,
+    "text": "that enables anyone to go in, look at our images, and chat with all those images.",
+    "start": 277.489,
+    "end": 283.269,
+    "zh": "让任何人都能进入，查看我们的图像，并与所有这些图像聊天。",
+    "zh_hant": "讓任何人都能進入，檢視我們的影象，並與所有這些影象聊天。"
+  }
+]

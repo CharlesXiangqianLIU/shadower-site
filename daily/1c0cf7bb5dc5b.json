@@ -4,99 +4,91 @@
     "text": "What is the special importance of a telescope in space?",
     "start": 13.09,
     "end": 18.253,
-    "zh": "望远镜在太空中有什么特别的重要性？",
-    "zh_hant": "望遠鏡在太空中有什麼特別的重要性？"
+    "zh": "望远镜在太空中有何特殊的重要性？",
+    "zh_hant": "望遠鏡在太空中有何特殊的重要性？"
   },
   {
     "index": 1,
-    "text": "The Hubble telescope was launched into space by NASA",
+    "text": "The Hubble telescope was launched into.",
     "start": 20.574,
-    "end": 25.536,
-    "zh": "哈勃望远镜由NASA发射进入太空",
-    "zh_hant": "哈勃望遠鏡由NASA發射進入太空"
+    "end": 24.016,
+    "zh": "哈勃望远镜是由美国国家航空航天局于1990年4月20日发射，",
+    "zh_hant": "哈勃望遠鏡是由美國國家航空航天局於1990年4月20日發射，"
   },
   {
     "index": 2,
-    "text": "on April 20, 1990 at a cost",
-    "start": 25.817,
-    "end": 31.019,
-    "zh": "于1990年4月20日，耗资",
-    "zh_hant": "於1990年4月20日，耗資"
+    "text": "space by NASA on April 20, 1990 at a cost of over a billion dollars.",
+    "start": 23.666,
+    "end": 33.22,
+    "zh": "耗资超过十亿美元，进入太空。",
+    "zh_hant": "耗資超過十億美元，進入太空。"
   },
   {
     "index": 3,
-    "text": "of over a billion dollars.",
-    "start": 30.669,
-    "end": 33.22,
-    "zh": "超过十亿美元。",
-    "zh_hant": "超過十億美元。"
-  },
-  {
-    "index": 4,
     "text": "Right from the start there was trouble with the Hubble.",
     "start": 34.241,
     "end": 37.942,
-    "zh": "从一开始，哈勃就出了问题。",
-    "zh_hant": "從一開始，哈勃就出了問題。"
+    "zh": "从一开始，哈勃就出现了问题。",
+    "zh_hant": "從一開始，哈勃就出現了問題。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "The pictures it sent us were very disappointing",
     "start": 38.843,
     "end": 42.685,
-    "zh": "它发回给我们的图片非常令人失望",
-    "zh_hant": "它發回給我們的圖片非常令人失望"
+    "zh": "它传回的图像非常令人失望，",
+    "zh_hant": "它傳回的影象非常令人失望，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "because its main mirror was faulty!",
     "start": 42.685,
     "end": 45.646,
-    "zh": "因为它的主镜片有故障！",
-    "zh_hant": "因為它的主鏡片有故障！"
+    "zh": "因为其主要镜子有缺陷！",
+    "zh_hant": "因為其主要鏡子有缺陷！"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "NASA is now going to put the telescope right,",
     "start": 46.827,
     "end": 50.449,
-    "zh": "NASA现在正准备修复哈勃望远镜，",
-    "zh_hant": "NASA現在正準備修復哈勃望遠鏡，"
+    "zh": "美国国家航空航天局现在打算修复哈勃，",
+    "zh_hant": "美國國家航空航天局現在打算修復哈勃，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "so it will soon be sending up four astronauts to repair it.",
     "start": 50.889,
     "end": 55.271,
-    "zh": "因此它将很快派出四名宇航员去修理它。",
-    "zh_hant": "因此它將很快派出四名宇航員去修理它。"
+    "zh": "因此很快就会派出四名宇航员去修复它。",
+    "zh_hant": "因此很快就會派出四名宇航員去修復它。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
     "start": 56.112,
     "end": 61.194,
-    "zh": "奋进号航天飞机将把宇航员送到哈勃那里。",
-    "zh_hant": "奮進號太空梭將把宇航員送到哈勃那裡。"
+    "zh": "奋进号航天飞机将把宇航员送往哈勃。",
+    "zh_hant": "奮進號太空梭將把宇航員送往哈勃。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "A robot-arm from the Endeavour will grab the telescope",
     "start": 62.035,
     "end": 66.857,
-    "zh": "奋进号上的机械臂将抓住望远镜",
-    "zh_hant": "奮進號上的機械臂將抓住望遠鏡"
+    "zh": "奋进号上的机械臂会抓住望远镜",
+    "zh_hant": "奮進號上的機械臂會抓住望遠鏡"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "and hold it while the astronauts make the necessary repairs.",
     "start": 66.877,
     "end": 71.579,
-    "zh": "并在宇航员进行必要修理时固定住它。",
-    "zh_hant": "並在宇航員進行必要修理時固定住它。"
+    "zh": "并在宇航员进行必要修理时将其固定住。",
+    "zh_hant": "並在宇航員進行必要修理時將其固定住。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Of course, the Hubble is above the earth's atmosphere,",
     "start": 72.3,
     "end": 77.422,
@@ -104,31 +96,31 @@
     "zh_hant": "當然，哈勃位於地球大氣層之上，"
   },
   {
-    "index": 13,
-    "text": "so it will soon be sending us",
+    "index": 12,
+    "text": "so it will soon be sending us the clearest pictures of the stars and distant galaxies",
     "start": 77.983,
-    "end": 80.304,
-    "zh": "所以它很快将会给我们发送",
-    "zh_hant": "所以它很快將會給我們傳送"
+    "end": 84.386,
+    "zh": "因此它很快会向我们传回有关星星和遥远星系的最清晰的图像，",
+    "zh_hant": "因此它很快會向我們傳回有關星星和遙遠星系的最清晰的影象，"
+  },
+  {
+    "index": 13,
+    "text": "that we have ever seen.",
+    "start": 84.246,
+    "end": 86.187,
+    "zh": "那是我们从未见过的。",
+    "zh_hant": "那是我們從未見過的。"
   },
   {
     "index": 14,
-    "text": "the clearest pictures of the stars and distant galaxies that we have ever seen.",
-    "start": 79.954,
-    "end": 86.187,
-    "zh": "我们从未见过的、最清晰的恒星和遥远星系图片。",
-    "zh_hant": "我們從未見過的、最清晰的恆星和遙遠星系圖片。"
-  },
-  {
-    "index": 15,
     "text": "The Hubble will tell us a great deal about the age and size of the universe.",
     "start": 87.087,
     "end": 92.95,
-    "zh": "哈勃将告诉我们大量关于宇宙年龄和大小的情况。",
-    "zh_hant": "哈勃將告訴我們大量關於宇宙年齡和大小的情況。"
+    "zh": "哈勃将告诉我们大量关于宇宙年龄和规模的信息。",
+    "zh_hant": "哈勃將告訴我們大量關於宇宙年齡和規模的資訊。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "By the time you read this,",
     "start": 93.973,
     "end": 96.116,
@@ -136,11 +128,11 @@
     "zh_hant": "當你讀到這篇文章時，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
     "start": 96.218,
     "end": 102.27,
-    "zh": "哈勃的鹰眼将会给我们发送成千上万张精彩的图片。",
-    "zh_hant": "哈勃的鷹眼將會給我們傳送成千上萬張精彩的圖片。"
+    "zh": "哈勃的鹰眼将会已经向我们发送成千上万张精彩的图片。",
+    "zh_hant": "哈勃的鷹眼將會已經向我們傳送成千上萬張精彩的圖片。"
   }
 ]

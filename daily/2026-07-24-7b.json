@@ -1,0 +1,666 @@
+[
+  {
+    "index": 0,
+    "text": "Dick Cavett grew up in Nebraska, the only child of two schoolteachers.",
+    "start": 0.67,
+    "end": 5.092,
+    "zh": "迪克·卡维特在内布拉斯加州长大，是两位教师的独生子。",
+    "zh_hant": "迪克·卡維特在內布拉斯加州長大，是兩位教師的獨生子。"
+  },
+  {
+    "index": 1,
+    "text": "His mother died of breast cancer when she was 36 and he was 10.",
+    "start": 5.153,
+    "end": 9.89,
+    "zh": "他母亲在36岁时死于乳腺癌，那时他只有10岁。",
+    "zh_hant": "他母親在36歲時死於乳腺癌，那時他只有10歲。"
+  },
+  {
+    "index": 2,
+    "text": "“ Her death made me feel betrayed by life,” he later wrote, “and embarrassed .”",
+    "start": 9.54,
+    "end": 15.89,
+    "zh": "“她的死让我觉得被生活背叛了，”他后来写道，“也让我感到难堪。”",
+    "zh_hant": "“她的死讓我覺得被生活背叛了，”他後來寫道，“也讓我感到難堪。”"
+  },
+  {
+    "index": 3,
+    "text": "When I read that line, I stopped: my father had died when I was 10,",
+    "start": 15.958,
+    "end": 21.49,
+    "zh": "读到那句话时，我愣住了：我父亲在我10岁时去世了，",
+    "zh_hant": "讀到那句話時，我愣住了：我父親在我10歲時去世了，"
+  },
+  {
+    "index": 4,
+    "text": "and I too felt embarrassment.",
+    "start": 21.321,
+    "end": 24.142,
+    "zh": "我同样感到难堪。",
+    "zh_hant": "我同樣感到難堪。"
+  },
+  {
+    "index": 5,
+    "text": "So: there is at least one thing that I have in common with Dick Cavett.",
+    "start": 23.842,
+    "end": 28.324,
+    "zh": "所以：至少有一件事我和迪克·卡维特是相同的。",
+    "zh_hant": "所以：至少有一件事我和迪克·卡維特是相同的。"
+  },
+  {
+    "index": 6,
+    "text": "His father remarried — another schoolteacher — and Dick got on with his life.",
+    "start": 28.684,
+    "end": 33.587,
+    "zh": "他父亲再婚了——另一位教师——迪克继续过他的生活。",
+    "zh_hant": "他父親再婚了——另一位教師——迪克繼續過他的生活。"
+  },
+  {
+    "index": 7,
+    "text": "He was good at many things — school, for sure, but he also played music,",
+    "start": 33.327,
+    "end": 38.309,
+    "zh": "他擅长很多事情——学习当然不用说，但他也会演奏音乐，",
+    "zh_hant": "他擅長很多事情——學習當然不用說，但他也會演奏音樂，"
+  },
+  {
+    "index": 8,
+    "text": "did magic; he competed in gymnastics, where his specialty was the pommel horse.",
+    "start": 38.209,
+    "end": 43.292,
+    "zh": "会变魔术；他还参加体操比赛，专长是鞍马。",
+    "zh_hant": "會變魔術；他還參加體操比賽，專長是鞍馬。"
+  },
+  {
+    "index": 9,
+    "text": "We can’t put the pommel horse aside lightly.",
+    "start": 43.412,
+    "end": 46.554,
+    "zh": "我们不能轻易抛开鞍马不谈。",
+    "zh_hant": "我們不能輕易拋開鞍馬不談。"
+  },
+  {
+    "index": 10,
+    "text": "Not only was I the state champion in the pommel horse, which is — and this is a fact,",
+    "start": 46.594,
+    "end": 52.857,
+    "zh": "不仅因为我曾是鞍马州冠军，而鞍马是——这是事实，",
+    "zh_hant": "不僅因為我曾是鞍馬州冠軍，而鞍馬是——這是事實，"
+  },
+  {
+    "index": 11,
+    "text": "not an opinion — the hardest piece of gymnastics apparatus.",
+    "start": 52.507,
+    "end": 57.879,
+    "zh": "不是观点——最难的体操器械。",
+    "zh_hant": "不是觀點——最難的體操器械。"
+  },
+  {
+    "index": 12,
+    "text": "I didn’t pick it because it was the hardest.",
+    "start": 58.52,
+    "end": 60.981,
+    "zh": "我选它不是因为它是最难的项目。",
+    "zh_hant": "我選它不是因為它是最難的專案。"
+  },
+  {
+    "index": 13,
+    "text": "It was the only thing we had.",
+    "start": 61.001,
+    "end": 63.222,
+    "zh": "那是我们唯一有的器械。",
+    "zh_hant": "那是我們唯一有的器械。"
+  },
+  {
+    "index": 14,
+    "text": "We had some mats and a pommel horse.",
+    "start": 63.142,
+    "end": 66.143,
+    "zh": "我们有一些垫子和一匹鞍马。",
+    "zh_hant": "我們有一些墊子和一匹鞍馬。"
+  },
+  {
+    "index": 15,
+    "text": "Everybody hated it, and I rather liked it, and kept going with it.",
+    "start": 66.303,
+    "end": 71.586,
+    "zh": "大家都讨厌它，而我却挺喜欢，就一直练下去了。",
+    "zh_hant": "大家都討厭它，而我卻挺喜歡，就一直練下去了。"
+  },
+  {
+    "index": 16,
+    "text": "Cavett studied English and drama at Yale, and then got a job at Time magazine as a copy boy.",
+    "start": 71.666,
+    "end": 77.409,
+    "zh": "卡维特在耶鲁学过英语和戏剧，之后在《时代》杂志找了一份勤杂工的工作。",
+    "zh_hant": "卡維特在耶魯學過英語和戲劇，之後在《時代》雜誌找了一份勤雜工的工作。"
+  },
+  {
+    "index": 17,
+    "text": "He read that Tonight Show host Jack Paar was unhappy with the material his writers were feeding him.",
+    "start": 77.569,
+    "end": 83.732,
+    "zh": "他听说《今夜秀》的主持人杰克·帕尔对编剧提供的素材很不满意。",
+    "zh_hant": "他聽說《今夜秀》的主持人傑克·帕爾對編劇提供的素材很不滿意。"
+  },
+  {
+    "index": 18,
+    "text": "So Cavett wrote some fresh jokes,",
+    "start": 83.572,
+    "end": 86.734,
+    "zh": "于是卡维特写了一些新的笑话，",
+    "zh_hant": "於是卡維特寫了一些新的笑話，"
+  },
+  {
+    "index": 19,
+    "text": "snuck backstage at The Tonight Show , and gave his jokes to Paar.",
+    "start": 86.774,
+    "end": 90.816,
+    "zh": "偷偷溜进《今夜秀》的后台，把笑话交给了帕尔。",
+    "zh_hant": "偷偷溜進《今夜秀》的後臺，把笑話交給了帕爾。"
+  },
+  {
+    "index": 20,
+    "text": "That’s a very Cavett move — from an early age, he was good at getting backstage.",
+    "start": 91.236,
+    "end": 96.619,
+    "zh": "这非常符合卡维特的作风——他从小就擅长进入后台。",
+    "zh_hant": "這非常符合卡維特的作風——他從小就擅長進入後臺。"
+  },
+  {
+    "index": 21,
+    "text": "Paar used some of Cavett’s material, and then hired him.",
+    "start": 96.779,
+    "end": 100.481,
+    "zh": "帕尔用了卡维特的一些素材，然后雇了他。",
+    "zh_hant": "帕爾用了卡維特的一些素材，然後僱了他。"
+  },
+  {
+    "index": 22,
+    "text": "Once Cavett got into television, he stayed:",
+    "start": 100.541,
+    "end": 103.242,
+    "zh": "卡维特一进入电视行业就留了下来：",
+    "zh_hant": "卡維特一進入電視行業就留了下來："
+  },
+  {
+    "index": 23,
+    "text": "with Jack Paar for a while, and then Merv Griffin, Jerry Lewis, and Johnny Carson.",
+    "start": 102.982,
+    "end": 108.044,
+    "zh": "先跟杰克·帕尔一段时间，然后是默夫·格里芬、杰瑞·刘易斯和约翰尼·卡森。",
+    "zh_hant": "先跟傑克·帕爾一段時間，然後是默夫·格里芬、傑瑞·劉易斯和約翰尼·卡森。"
+  },
+  {
+    "index": 24,
+    "text": "He did some stand-up comedy on his own; he started to develop a voice and a reputation.",
+    "start": 108.145,
+    "end": 113.847,
+    "zh": "他自己也做了些单人脱口秀；他开始形成自己的风格，也建立了口碑。",
+    "zh_hant": "他自己也做了些單人脫口秀；他開始形成自己的風格，也建立了口碑。"
+  },
+  {
+    "index": 25,
+    "text": "In 1968, ABC gave him a morning show; he moved to primetime and then late-night.",
+    "start": 113.907,
+    "end": 120.251,
+    "zh": "1968年，ABC给了他一个早间节目；他随后转到黄金时段，再到深夜时段。",
+    "zh_hant": "1968年，ABC給了他一個早間節目；他隨後轉到黃金時段，再到深夜時段。"
+  },
+  {
+    "index": 26,
+    "text": "At its peak, the Cavett show had millions of nightly viewers,",
+    "start": 120.291,
+    "end": 124.233,
+    "zh": "在巅峰时期，卡维特的节目每晚有数百万观众，",
+    "zh_hant": "在巔峰時期，卡維特的節目每晚有數百萬觀眾，"
+  },
+  {
+    "index": 27,
+    "text": "and Cavett became a celebrity himself.",
+    "start": 124.253,
+    "end": 126.814,
+    "zh": "卡维特自己也成了名人。",
+    "zh_hant": "卡維特自己也成了名人。"
+  },
+  {
+    "index": 28,
+    "text": "If TV hadn’t worked out for you, what do you think you would have done?",
+    "start": 127.054,
+    "end": 131.056,
+    "zh": "如果电视这条路没走通，你觉得你可能会做什么？",
+    "zh_hant": "如果電視這條路沒走通，你覺得你可能會做什麼？"
+  },
+  {
+    "index": 29,
+    "text": "I have no idea.",
+    "start": 131.396,
+    "end": 132.657,
+    "zh": "我完全不知道。",
+    "zh_hant": "我完全不知道。"
+  },
+  {
+    "index": 30,
+    "text": "What would I have done?",
+    "start": 132.717,
+    "end": 134.097,
+    "zh": "我可能会做什么呢？",
+    "zh_hant": "我可能會做什麼呢？"
+  },
+  {
+    "index": 31,
+    "text": "Did you have many skills?",
+    "start": 134.358,
+    "end": 136.038,
+    "zh": "你有很多技能吗？",
+    "zh_hant": "你有很多技能嗎？"
+  },
+  {
+    "index": 32,
+    "text": "I wouldn’t have taught school, although I might have enjoyed that.",
+    "start": 135.799,
+    "end": 139.56,
+    "zh": "我不会去当老师，虽然我可能会喜欢教书。",
+    "zh_hant": "我不會去當老師，雖然我可能會喜歡教書。"
+  },
+  {
+    "index": 33,
+    "text": "It never occurred to me that television wouldn’t work.",
+    "start": 139.66,
+    "end": 144.082,
+    "zh": "我从来没想过电视会不成功。",
+    "zh_hant": "我從來沒想過電視會不成功。"
+  },
+  {
+    "index": 34,
+    "text": "Something just seemed to happen.",
+    "start": 143.732,
+    "end": 145.503,
+    "zh": "好像事情就是自然而然地发生了。",
+    "zh_hant": "好像事情就是自然而然地發生了。"
+  },
+  {
+    "index": 35,
+    "text": "I mean, it isn’t that I didn’t fear.",
+    "start": 145.643,
+    "end": 147.804,
+    "zh": "我是说，并不是说我不害怕。",
+    "zh_hant": "我是說，並不是說我不害怕。"
+  },
+  {
+    "index": 36,
+    "text": "I had no confidence that it was going to go big.",
+    "start": 148.205,
+    "end": 151.126,
+    "zh": "我并没有信心它会做大。",
+    "zh_hant": "我並沒有信心它會做大。"
+  },
+  {
+    "index": 37,
+    "text": "Go big.",
+    "start": 151.967,
+    "end": 153.167,
+    "zh": "做大。",
+    "zh_hant": "做大。"
+  },
+  {
+    "index": 38,
+    "text": "When a master uses the English language, it’s a thrill, isn’t it?",
+    "start": 153.027,
+    "end": 157.729,
+    "zh": "当大师使用英语时，那是一种享受，不是吗？",
+    "zh_hant": "當大師使用英語時，那是一種享受，不是嗎？"
+  },
+  {
+    "index": 39,
+    "text": "Go big.",
+    "start": 158.59,
+    "end": 159.671,
+    "zh": "做大。",
+    "zh_hant": "做大。"
+  },
+  {
+    "index": 40,
+    "text": "Correct me if I’m wrong, but you were, are, kind of a unicorn —",
+    "start": 159.931,
+    "end": 164.85,
+    "zh": "如果我没说错的话，你过去是，现在也是，某种独角兽——",
+    "zh_hant": "如果我沒說錯的話，你過去是，現在也是，某種獨角獸——"
+  },
+  {
+    "index": 41,
+    "text": "good at a lot of different things.",
+    "start": 164.733,
+    "end": 166.814,
+    "zh": "在很多不同的事情上都很擅长。",
+    "zh_hant": "在很多不同的事情上都很擅長。"
+  },
+  {
+    "index": 42,
+    "text": "You were smart, you were funny, you were a good athlete.",
+    "start": 166.654,
+    "end": 172.357,
+    "zh": "你聪明，风趣，而且是个好运动员。",
+    "zh_hant": "你聰明，風趣，而且是個好運動員。"
+  },
+  {
+    "index": 43,
+    "text": "And I’m curious if you ever felt",
+    "start": 172.117,
+    "end": 175.798,
+    "zh": "我很好奇你有没有觉得",
+    "zh_hant": "我很好奇你有沒有覺得"
+  },
+  {
+    "index": 44,
+    "text": "you needed to hide your light under a bushel?",
+    "start": 175.759,
+    "end": 178.86,
+    "zh": "需要把自己的才华藏起来？",
+    "zh_hant": "需要把自己的才華藏起來？"
+  },
+  {
+    "index": 45,
+    "text": "What would that consist of?",
+    "start": 179.481,
+    "end": 181.421,
+    "zh": "那会是什么样子呢？",
+    "zh_hant": "那會是什麼樣子呢？"
+  },
+  {
+    "index": 46,
+    "text": "Were you ever afraid of being your truest self because you thought",
+    "start": 181.201,
+    "end": 185.803,
+    "zh": "你有没有因为觉得",
+    "zh_hant": "你有沒有因為覺得"
+  },
+  {
+    "index": 47,
+    "text": "that would make you a little less popular?",
+    "start": 185.764,
+    "end": 189.445,
+    "zh": "那样会让你不那么受欢迎，而不敢做最真实的自己？",
+    "zh_hant": "那樣會讓你不那麼受歡迎，而不敢做最真實的自己？"
+  },
+  {
+    "index": 48,
+    "text": "“He’s too good at these things.”",
+    "start": 189.325,
+    "end": 192.387,
+    "zh": "“他这些事做得太好了。”",
+    "zh_hant": "“他這些事做得太好了。”"
+  },
+  {
+    "index": 49,
+    "text": "Did you ever — That was never a concern, no.",
+    "start": 192.037,
+    "end": 194.308,
+    "zh": "你有没有——那从来不是我的顾虑，没有。",
+    "zh_hant": "你有沒有——那從來不是我的顧慮，沒有。"
+  },
+  {
+    "index": 50,
+    "text": "I know that Groucho encouraged you to go the Yale-Nebraska — Yes, he did.",
+    "start": 194.428,
+    "end": 200.491,
+    "zh": "我知道格劳乔鼓励你走耶鲁—内布拉斯加那条路线——是的，他确实鼓励过。",
+    "zh_hant": "我知道格勞喬鼓勵你走耶魯—內布拉斯加那條路線——是的，他確實鼓勵過。"
+  },
+  {
+    "index": 51,
+    "text": "Groucho had sent me a letter, in it he said,",
+    "start": 200.371,
+    "end": 204.153,
+    "zh": "格劳乔给我写过一封信，信里他说，",
+    "zh_hant": "格勞喬給我寫過一封信，信裡他說，"
+  },
+  {
+    "index": 52,
+    "text": "“I saw you on Merv the other night",
+    "start": 203.803,
+    "end": 208.635,
+    "zh": "“我前两天晚上在默夫的节目上看到你，",
+    "zh_hant": "“我前兩天晚上在默夫的節目上看到你，"
+  },
+  {
+    "index": 53,
+    "text": "and I think you’ve hit a gold mine with the idea of a kid from Nebraska,",
+    "start": 208.375,
+    "end": 214.418,
+    "zh": "我觉得你找到了金矿，就是内布拉斯加来的孩子那种形象，",
+    "zh_hant": "我覺得你找到了金礦，就是內布拉斯加來的孩子那種形象，"
+  },
+  {
+    "index": 54,
+    "text": "the rustic coming to glamour in the big city and all that stuff.",
+    "start": 214.438,
+    "end": 219.16,
+    "zh": "乡巴佬到大城市追逐光鲜生活之类的东西。",
+    "zh_hant": "鄉巴佬到大城市追逐光鮮生活之類的東西。"
+  },
+  {
+    "index": 55,
+    "text": "Keep with that.”",
+    "start": 219.44,
+    "end": 221.001,
+    "zh": "继续走那条路。”",
+    "zh_hant": "繼續走那條路。”"
+  },
+  {
+    "index": 56,
+    "text": "Did you play it up more after that?",
+    "start": 220.721,
+    "end": 223.082,
+    "zh": "之后你有没有更多地强化那个形象？",
+    "zh_hant": "之後你有沒有更多地強化那個形象？"
+  },
+  {
+    "index": 57,
+    "text": "I don’t know, but I certainly was glad to hear it.",
+    "start": 222.842,
+    "end": 225.603,
+    "zh": "我不知道，但我听到那些话确实很高兴。",
+    "zh_hant": "我不知道，但我聽到那些話確實很高興。"
+  },
+  {
+    "index": 58,
+    "text": "Cavett had first met Groucho Marx at the funeral for the playwright and humorist George Kaufman.",
+    "start": 225.984,
+    "end": 230.946,
+    "zh": "卡维特第一次见到格劳乔·马克思，是在剧作家兼幽默作家乔治·考夫曼的葬礼上。",
+    "zh_hant": "卡維特第一次見到格勞喬·馬克思，是在劇作家兼幽默作家喬治·考夫曼的葬禮上。"
+  },
+  {
+    "index": 59,
+    "text": "Cavett supposedly told Groucho,",
+    "start": 231.106,
+    "end": 233.407,
+    "zh": "据说卡维特对格劳乔说，",
+    "zh_hant": "據說卡維特對格勞喬說，"
+  },
+  {
+    "index": 60,
+    "text": "“I’m a big fan,” to which Groucho supposedly said,",
+    "start": 233.387,
+    "end": 237.209,
+    "zh": "“我是您的超级粉丝，”格劳乔据说回应道，",
+    "zh_hant": "“我是您的超級粉絲，”格勞喬據說回應道，"
+  },
+  {
+    "index": 61,
+    "text": "“If it gets any hotter, I could use a big fan.”",
+    "start": 237.209,
+    "end": 240.111,
+    "zh": "“要是再热点，我正好需要一个大风扇。”",
+    "zh_hant": "“要是再熱點，我正好需要一個大風扇。”"
+  },
+  {
+    "index": 62,
+    "text": "Cavett did take Groucho’s advice",
+    "start": 240.371,
+    "end": 242.96,
+    "zh": "卡维特确实采纳了格劳乔的建议",
+    "zh_hant": "卡維特確實採納了格勞喬的建議"
+  },
+  {
+    "index": 63,
+    "text": "— to cultivate the persona of a small-town kid doing his best in the big city.",
+    "start": 242.56,
+    "end": 248.055,
+    "zh": "——塑造一个在小镇长大的孩子在大城市努力打拼的形象。",
+    "zh_hant": "——塑造一個在小鎮長大的孩子在大城市努力打拼的形象。"
+  },
+  {
+    "index": 64,
+    "text": "Groucho became a regular on Cavett’s show, and they had a great rapport",
+    "start": 248.235,
+    "end": 252.52,
+    "zh": "格劳乔成了卡维特节目里的常客，他们关系非常好",
+    "zh_hant": "格勞喬成了卡維特節目裡的常客，他們關係非常好"
+  },
+  {
+    "index": 65,
+    "text": "— you can hear it in this clip, from 1969.",
+    "start": 252.12,
+    "end": 255.969,
+    "zh": "——你可以从这段1969年的录音里听出来。",
+    "zh_hant": "——你可以從這段1969年的錄音裡聽出來。"
+  },
+  {
+    "index": 66,
+    "text": "How have you been?",
+    "start": 256.019,
+    "end": 257.039,
+    "zh": "你最近怎么样？",
+    "zh_hant": "你最近怎麼樣？"
+  },
+  {
+    "index": 67,
+    "text": "Good.",
+    "start": 256.819,
+    "end": 257.479,
+    "zh": "很好。",
+    "zh_hant": "很好。"
+  },
+  {
+    "index": 68,
+    "text": "I’ve been fine.",
+    "start": 257.219,
+    "end": 258.24,
+    "zh": "我一直不错。",
+    "zh_hant": "我一直不錯。"
+  },
+  {
+    "index": 69,
+    "text": "It’s nice to see you in New York.",
+    "start": 257.89,
+    "end": 259.32,
+    "zh": "很高兴在纽约见到你。",
+    "zh_hant": "很高興在紐約見到你。"
+  },
+  {
+    "index": 70,
+    "text": "You look fine.",
+    "start": 258.97,
+    "end": 259.6,
+    "zh": "你看起来气色很好。",
+    "zh_hant": "你看起來氣色很好。"
+  },
+  {
+    "index": 71,
+    "text": "I’m glad you’re back on the air.",
+    "start": 259.25,
+    "end": 260.821,
+    "zh": "很高兴你回来了。",
+    "zh_hant": "很高興你回來了。"
+  },
+  {
+    "index": 72,
+    "text": "Are you?",
+    "start": 260.601,
+    "end": 261.341,
+    "zh": "是吗？",
+    "zh_hant": "是嗎？"
+  },
+  {
+    "index": 73,
+    "text": "In the proper time, too.",
+    "start": 260.991,
+    "end": 262.462,
+    "zh": "而且还在合适的时段。",
+    "zh_hant": "而且還在合適的時段。"
+  },
+  {
+    "index": 74,
+    "text": "Not at four o’clock in the morning.",
+    "start": 262.112,
+    "end": 264.623,
+    "zh": "不是凌晨四点。",
+    "zh_hant": "不是凌晨四點。"
+  },
+  {
+    "index": 75,
+    "text": "Whenever I saw your show last year, I was eating oatmeal.",
+    "start": 268.985,
+    "end": 272.147,
+    "zh": "去年我看你的节目时，总是在吃燕麦粥。",
+    "zh_hant": "去年我看你的節目時，總是在吃燕麥粥。"
+  },
+  {
+    "index": 76,
+    "text": "That’s",
+    "start": 271.797,
+    "end": 277.449,
+    "zh": "那",
+    "zh_hant": "那"
+  },
+  {
+    "index": 77,
+    "text": "what they called prime time in California.",
+    "start": 277.099,
+    "end": 279.471,
+    "zh": "就是加州所谓的黄金时段。",
+    "zh_hant": "就是加州所謂的黃金時段。"
+  },
+  {
+    "index": 78,
+    "text": "That isn’t all they called it either.",
+    "start": 282.155,
+    "end": 284.036,
+    "zh": "他们可不止这么叫它。",
+    "zh_hant": "他們可不止這麼叫它。"
+  },
+  {
+    "index": 79,
+    "text": "You look fine and this show is going to be a big hit because you’re on at 10 o’clock at night.",
+    "start": 286.059,
+    "end": 290.823,
+    "zh": "你气色很好，这个节目会大火的，因为你在晚上10点播出。",
+    "zh_hant": "你氣色很好，這個節目會大火的，因為你在晚上10點播出。"
+  },
+  {
+    "index": 80,
+    "text": "A lot of people are going to watch it.",
+    "start": 290.684,
+    "end": 292.685,
+    "zh": "会有很多人看的。",
+    "zh_hant": "會有很多人看的。"
+  },
+  {
+    "index": 81,
+    "text": "I’m on at 9 Central Time.",
+    "start": 292.335,
+    "end": 293.847,
+    "zh": "我这边是中部时间9点播出。",
+    "zh_hant": "我這邊是中部時間9點播出。"
+  },
+  {
+    "index": 82,
+    "text": "Well, I wouldn’t go that far.",
+    "start": 294.408,
+    "end": 296.75,
+    "zh": "嗯，那我可不敢说那么远。",
+    "zh_hant": "嗯，那我可不敢說那麼遠。"
+  }
+]

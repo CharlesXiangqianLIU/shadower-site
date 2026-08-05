@@ -1,0 +1,386 @@
+[
+  {
+    "index": 0,
+    "text": "Hi, I’m Steve Levitt.",
+    "start": 0.29,
+    "end": 1.891,
+    "zh": "嗨，我是史蒂夫·莱维特。",
+    "zh_hant": "嗨，我是史蒂夫·萊維特。"
+  },
+  {
+    "index": 1,
+    "text": "A few months ago, I got an email from a beekeeper.",
+    "start": 1.991,
+    "end": 5.413,
+    "zh": "几个月前，我收到一封来自养蜂人的邮件。",
+    "zh_hant": "幾個月前，我收到一封來自養蜂人的郵件。"
+  },
+  {
+    "index": 2,
+    "text": "My name is Chris Hiatt with Hiatt Honey Company.",
+    "start": 5.773,
+    "end": 8.314,
+    "zh": "我叫克里斯·海厄特，来自海厄特蜂蜜公司。",
+    "zh_hant": "我叫克里斯·海厄特，來自海厄特蜂蜜公司。"
+  },
+  {
+    "index": 3,
+    "text": "My dad started our family business 58 years ago,",
+    "start": 7.964,
+    "end": 11.976,
+    "zh": "我爸爸58年前创办了我们家的生意，",
+    "zh_hant": "我爸爸58年前創辦了我們家的生意，"
+  },
+  {
+    "index": 4,
+    "text": "and I have four brothers and myself that we’ve taken it over and grown the business,",
+    "start": 11.736,
+    "end": 16.398,
+    "zh": "我和四个兄弟接手并扩大了业务，",
+    "zh_hant": "我和四個兄弟接手並擴大了業務，"
+  },
+  {
+    "index": 5,
+    "text": "and we run about 18,000 hives between California, North Dakota, and Washington.",
+    "start": 16.048,
+    "end": 22.141,
+    "zh": "我们在加利福尼亚、北达科他和华盛顿之间运营着大约18000个蜂箱。",
+    "zh_hant": "我們在加利福尼亞、北達科他和華盛頓之間運營著大約18000個蜂箱。"
+  },
+  {
+    "index": 6,
+    "text": "I can remember in high school I really did want to play baseball.",
+    "start": 23.222,
+    "end": 26.723,
+    "zh": "我记得高中时我真的很想打棒球。",
+    "zh_hant": "我記得高中時我真的很想打棒球。"
+  },
+  {
+    "index": 7,
+    "text": "And I couldn’t because I had to put bees in and out of almond orchards all over Eastern Washington.",
+    "start": 26.983,
+    "end": 32.346,
+    "zh": "但我没法打，因为我得在整个华盛顿东部把蜜蜂搬进搬出杏树果园。",
+    "zh_hant": "但我沒法打，因為我得在整個華盛頓東部把蜜蜂搬進搬出杏樹果園。"
+  },
+  {
+    "index": 8,
+    "text": "And we were helping the family, and of course, that paid for my college.",
+    "start": 32.246,
+    "end": 35.307,
+    "zh": "我们在帮家里忙，当然，这还支付了我的大学学费。",
+    "zh_hant": "我們在幫家裡忙，當然，這還支付了我的大學學費。"
+  },
+  {
+    "index": 9,
+    "text": "And we employ 20, 30 people, and it’s been a fun ride.",
+    "start": 34.957,
+    "end": 38.529,
+    "zh": "我们雇了二三十个人，这一路走来很有意思。",
+    "zh_hant": "我們僱了二三十個人，這一路走來很有意思。"
+  },
+  {
+    "index": 10,
+    "text": "These honeybees, you take care of them, they’ll take care of you financially.",
+    "start": 38.179,
+    "end": 41.991,
+    "zh": "这些蜜蜂，你照顾好它们，它们就会在经济上回报你。",
+    "zh_hant": "這些蜜蜂，你照顧好它們，它們就會在經濟上回報你。"
+  },
+  {
+    "index": 11,
+    "text": "But there are challenges.",
+    "start": 41.991,
+    "end": 43.372,
+    "zh": "但也有挑战。",
+    "zh_hant": "但也有挑戰。"
+  },
+  {
+    "index": 12,
+    "text": "As past president of the American Honey Producers Association,",
+    "start": 43.512,
+    "end": 47.334,
+    "zh": "作为美国蜂蜜生产者协会的前主席，",
+    "zh_hant": "作為美國蜂蜜生產者協會的前主席，"
+  },
+  {
+    "index": 13,
+    "text": "Chris Hiatt has fought on behalf of beekeepers across the country.",
+    "start": 47.374,
+    "end": 51.096,
+    "zh": "克里斯·海厄特一直在为全国各地的养蜂人争取权益。",
+    "zh_hant": "克里斯·海厄特一直在為全國各地的養蜂人爭取權益。"
+  },
+  {
+    "index": 14,
+    "text": "We have a lobbyist and we’ve tried to improve our industry, improve honey prices,",
+    "start": 51.016,
+    "end": 56.058,
+    "zh": "我们有说客，我们试图改善我们的行业，提高蜂蜜价格，",
+    "zh_hant": "我們有說客，我們試圖改善我們的行業，提高蜂蜜價格，"
+  },
+  {
+    "index": 15,
+    "text": "try to get more research for why the bees are all dying for our national bee labs.",
+    "start": 56.478,
+    "end": 61.1,
+    "zh": "还试图为我们的国家蜜蜂实验室争取更多研究资金，用来研究蜜蜂为什么都在死去。",
+    "zh_hant": "還試圖為我們的國家蜜蜂實驗室爭取更多研究資金，用來研究蜜蜂為什麼都在死去。"
+  },
+  {
+    "index": 16,
+    "text": "Is there another industry where you have such low prices",
+    "start": 61.161,
+    "end": 66.283,
+    "zh": "还有哪个行业，商品需求这么高，",
+    "zh_hant": "還有哪個行業，商品需求這麼高，"
+  },
+  {
+    "index": 17,
+    "text": "for a commodity that is in such demand.",
+    "start": 65.933,
+    "end": 69.264,
+    "zh": "价格却这么低吗？",
+    "zh_hant": "價格卻這麼低嗎？"
+  },
+  {
+    "index": 18,
+    "text": "And now what made you think that, I, someone who has never thought about honey, would be able to help?",
+    "start": 69.285,
+    "end": 75.347,
+    "zh": "那你怎么会想到，像我这样从没想过蜂蜜的人，能帮上忙呢？",
+    "zh_hant": "那你怎麼會想到，像我這樣從沒想過蜂蜜的人，能幫上忙呢？"
+  },
+  {
+    "index": 19,
+    "text": "Well, I’ve listened to a lot of the episodes and I just thought, hey, economists, they would know!",
+    "start": 75.808,
+    "end": 81.931,
+    "zh": "嗯，我听过很多期节目，我就想，嘿，经济学家，他们肯定懂！",
+    "zh_hant": "嗯，我聽過很多期節目，我就想，嘿，經濟學家，他們肯定懂！"
+  },
+  {
+    "index": 20,
+    "text": "Or, they’re so well connected, I thought they might know of another industry that’s having a similar problem that we have had.",
+    "start": 81.951,
+    "end": 88.054,
+    "zh": "或者，他们人脉那么广，我觉得他们可能知道其他行业有没有跟我们类似的问题。",
+    "zh_hant": "或者，他們人脈那麼廣，我覺得他們可能知道其他行業有沒有跟我們類似的問題。"
+  },
+  {
+    "index": 21,
+    "text": "Commercial beekeepers, we only produce about 20 percent to 25 percent of what our nation needs",
+    "start": 88.034,
+    "end": 94.457,
+    "zh": "商业养蜂人目前只生产我们国家蜂蜜需求量的20%到25%，",
+    "zh_hant": "商業養蜂人目前只生產我們國家蜂蜜需求量的20%到25%，"
+  },
+  {
+    "index": 22,
+    "text": "for honey consumption and, 20,",
+    "start": 94.107,
+    "end": 96.17,
+    "zh": "而二，",
+    "zh_hant": "而二，"
+  },
+  {
+    "index": 23,
+    "text": "30 years ago, it used to be the opposite.",
+    "start": 95.82,
+    "end": 98.139,
+    "zh": "三十年前，情况正好相反。",
+    "zh_hant": "三十年前，情況正好相反。"
+  },
+  {
+    "index": 24,
+    "text": "We used to produce 70, 75 percent of all the honey consumed in the United States.",
+    "start": 97.789,
+    "end": 102.561,
+    "zh": "我们曾经生产美国消费的所有蜂蜜的70%到75%。",
+    "zh_hant": "我們曾經生產美國消費的所有蜂蜜的70%到75%。"
+  },
+  {
+    "index": 25,
+    "text": "You know, we’re approaching 700 million pounds of honey consumed in the United States,",
+    "start": 102.962,
+    "end": 107.464,
+    "zh": "你知道吗，美国的蜂蜜消费量快接近7亿磅了，",
+    "zh_hant": "你知道嗎，美國的蜂蜜消費量快接近7億磅了，"
+  },
+  {
+    "index": 26,
+    "text": "where it used to be 350 million — and the price is not keeping pace,",
+    "start": 107.524,
+    "end": 112.866,
+    "zh": "而以前只有3.5亿磅——可价格却没有跟上，",
+    "zh_hant": "而以前只有3.5億磅——可價格卻沒有跟上，"
+  },
+  {
+    "index": 27,
+    "text": "not even with a price 20, 30 years ago .",
+    "start": 112.516,
+    "end": 115.27,
+    "zh": "甚至还不如二三十年前的价格。",
+    "zh_hant": "甚至還不如二三十年前的價格。"
+  },
+  {
+    "index": 28,
+    "text": "At first, this really surprised me.",
+    "start": 115.308,
+    "end": 117.749,
+    "zh": "起初，这真让我吃惊。",
+    "zh_hant": "起初，這真讓我吃驚。"
+  },
+  {
+    "index": 29,
+    "text": "The total amount of honey consumed in the U.S.A. has roughly doubled since the year 2000.",
+    "start": 117.809,
+    "end": 123.082,
+    "zh": "自2000年以来，美国的蜂蜜总消费量大约翻了一番。",
+    "zh_hant": "自2000年以來，美國的蜂蜜總消費量大約翻了一番。"
+  },
+  {
+    "index": 30,
+    "text": "On top of that, the retail price of honey has almost tripled, even when you account for inflation.",
+    "start": 123.132,
+    "end": 128.774,
+    "zh": "更别提，蜂蜜的零售价几乎涨了三倍，即使考虑到通货膨胀也一样。",
+    "zh_hant": "更別提，蜂蜜的零售價幾乎漲了三倍，即使考慮到通貨膨脹也一樣。"
+  },
+  {
+    "index": 31,
+    "text": "So why is it that beekeepers are struggling?",
+    "start": 128.975,
+    "end": 131.636,
+    "zh": "那为什么养蜂人还在挣扎呢？",
+    "zh_hant": "那為什麼養蜂人還在掙扎呢？"
+  },
+  {
+    "index": 32,
+    "text": "We can start to answer this question by looking at Hiatt’s business.",
+    "start": 131.816,
+    "end": 135.838,
+    "zh": "我们可以从海厄特的生意入手来回答这个问题。",
+    "zh_hant": "我們可以從海厄特的生意入手來回答這個問題。"
+  },
+  {
+    "index": 33,
+    "text": "He runs one of the country’s largest honey-producing operations.",
+    "start": 135.818,
+    "end": 139.06,
+    "zh": "他经营着美国最大的蜂蜜生产业务之一。",
+    "zh_hant": "他經營著美國最大的蜂蜜生產業務之一。"
+  },
+  {
+    "index": 34,
+    "text": "Though there have been some technological advances over the course of Hiatt’s life,",
+    "start": 139.16,
+    "end": 143.282,
+    "zh": "虽然在海厄特的一生中有一些技术进步，",
+    "zh_hant": "雖然在海厄特的一生中有一些技術進步，"
+  },
+  {
+    "index": 35,
+    "text": "the industry still requires a lot of labor — both from the humans and the bees.",
+    "start": 143.182,
+    "end": 148.504,
+    "zh": "但这个行业仍然需要大量劳动力——无论是人力还是蜜蜂。",
+    "zh_hant": "但這個行業仍然需要大量勞動力——無論是人力還是蜜蜂。"
+  },
+  {
+    "index": 36,
+    "text": "You need to apprentice with somebody, learn the bee industry,",
+    "start": 148.524,
+    "end": 152.126,
+    "zh": "你得跟别人当学徒，学习养蜂行业，",
+    "zh_hant": "你得跟別人當學徒，學習養蜂行業，"
+  },
+  {
+    "index": 37,
+    "text": "you have to diagnose the hive, that’s all by hand.",
+    "start": 152.246,
+    "end": 155.187,
+    "zh": "你得诊断蜂巢，这全靠手工。",
+    "zh_hant": "你得診斷蜂巢，這全靠手工。"
+  },
+  {
+    "index": 38,
+    "text": "Manipulating the frames, pulling honeycomb out, looking for the queen, putting new queens in, medicating them,",
+    "start": 155.288,
+    "end": 161.151,
+    "zh": "摆弄框架，取出蜂巢，找蜂王，换新蜂王，给它们用药，",
+    "zh_hant": "擺弄框架，取出蜂巢，找蜂王，換新蜂王，給它們用藥，"
+  },
+  {
+    "index": 39,
+    "text": "feeding them, and yes, there’s forklifts and trucks and my back is less sore than what it used to be.",
+    "start": 160.801,
+    "end": 167.014,
+    "zh": "喂它们，当然，现在有叉车和卡车了，我的腰比以前轻松多了。",
+    "zh_hant": "餵它們，當然，現在有叉車和卡車了，我的腰比以前輕鬆多了。"
+  },
+  {
+    "index": 40,
+    "text": "But a lot of it is still pretty old-school.",
+    "start": 166.855,
+    "end": 169.296,
+    "zh": "但很多东西还是很老派。",
+    "zh_hant": "但很多東西還是很老派。"
+  },
+  {
+    "index": 41,
+    "text": "How many bee stings do you get a day?",
+    "start": 168.976,
+    "end": 170.856,
+    "zh": "你一天被蜜蜂蜇几次？",
+    "zh_hant": "你一天被蜜蜂蜇幾次？"
+  },
+  {
+    "index": 42,
+    "text": "Oh, I get stung about every day.",
+    "start": 170.817,
+    "end": 172.437,
+    "zh": "哦，我几乎每天都挨蜇。",
+    "zh_hant": "哦，我幾乎每天都挨蜇。"
+  },
+  {
+    "index": 43,
+    "text": "You said you had 18,000 hives, is that right?",
+    "start": 172.318,
+    "end": 175.379,
+    "zh": "你说你有18000个蜂箱，对吧？",
+    "zh_hant": "你說你有18000個蜂箱，對吧？"
+  },
+  {
+    "index": 44,
+    "text": "How many bees is that total?",
+    "start": 175.399,
+    "end": 177.9,
+    "zh": "那总共是多少只蜜蜂？",
+    "zh_hant": "那總共是多少隻蜜蜂？"
+  },
+  {
+    "index": 45,
+    "text": "In the summer, the average hive could be 40,000 to 50,000 to even 60,000 bees.",
+    "start": 178.521,
+    "end": 183.544,
+    "zh": "夏天，平均每个蜂箱能有四万到五万，甚至六万只蜜蜂。",
+    "zh_hant": "夏天，平均每個蜂箱能有四萬到五萬，甚至六萬只蜜蜂。"
+  },
+  {
+    "index": 46,
+    "text": "But in the winter, it goes down to 30, 20, even the smaller hives 10,000 bees per hive.",
+    "start": 183.464,
+    "end": 188.927,
+    "zh": "但冬天会降到三万、两万，甚至小一点的蜂箱每箱只有一万只蜜蜂。",
+    "zh_hant": "但冬天會降到三萬、兩萬，甚至小一點的蜂箱每箱只有一萬隻蜜蜂。"
+  },
+  {
+    "index": 47,
+    "text": "By my math, that works out to Hiatt caring for roughly a billion bees during a busy summer.",
+    "start": 188.807,
+    "end": 194.33,
+    "zh": "按我的计算，这意味着在繁忙的夏天，海厄特要照料大约十亿只蜜蜂。",
+    "zh_hant": "按我的計算，這意味著在繁忙的夏天，海厄特要照料大約十億隻蜜蜂。"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "index": 0,
+    "text": "I was the first chief economist at NASA,",
+    "start": 0.41,
+    "end": 3.231,
+    "zh": "我曾是NASA的首席经济学家，",
+    "zh_hant": "我曾是NASA的首席經濟學家，"
+  },
+  {
+    "index": 1,
+    "text": "and now I’m a senior associate at the Center for Strategic and International Studies in Washington, D.C.",
+    "start": 3.192,
+    "end": 8.994,
+    "zh": "现在我是华盛顿特区战略与国际研究中心的高级研究员。",
+    "zh_hant": "現在我是華盛頓特區戰略與國際研究中心的高階研究員。"
+  },
+  {
+    "index": 2,
+    "text": "So, you were the first chief economist at NASA",
+    "start": 9.335,
+    "end": 13.256,
+    "zh": "所以，你曾是NASA的首席经济学家，",
+    "zh_hant": "所以，你曾是NASA的首席經濟學家，"
+  },
+  {
+    "index": 3,
+    "text": "and it wasn’t like you just stumbled into that job.",
+    "start": 12.906,
+    "end": 17.118,
+    "zh": "而这份工作不是你偶然撞上的。",
+    "zh_hant": "而這份工作不是你偶然撞上的。"
+  },
+  {
+    "index": 4,
+    "text": "You were not a typical economist.",
+    "start": 17.159,
+    "end": 20.06,
+    "zh": "你不是一位典型的经济学家。",
+    "zh_hant": "你不是一位典型的經濟學家。"
+  },
+  {
+    "index": 5,
+    "text": "You’re a Ph.D. economist and your research had been focused very squarely on space exploration .",
+    "start": 19.76,
+    "end": 25.43,
+    "zh": "你拥有经济学博士学位，而且你的研究一直非常专注于太空探索。",
+    "zh_hant": "你擁有經濟學博士學位，而且你的研究一直非常專注於太空探索。"
+  },
+  {
+    "index": 6,
+    "text": "Now, I’ve never met another economist who thought about space before.",
+    "start": 25.863,
+    "end": 29.625,
+    "zh": "以前我从没见过另一位思考太空的经济学家。",
+    "zh_hant": "以前我從沒見過另一位思考太空的經濟學家。"
+  },
+  {
+    "index": 7,
+    "text": "Was space travel something that has been captivating you",
+    "start": 29.725,
+    "end": 33.566,
+    "zh": "太空旅行是你从小就吸引你的东西呢，",
+    "zh_hant": "太空旅行是你從小就吸引你的東西呢，"
+  },
+  {
+    "index": 8,
+    "text": "since you were a kid or just something that caught your attention as a promising research area when you were in grad school?",
+    "start": 33.216,
+    "end": 39.009,
+    "zh": "还是你在研究生时它只是作为一个有前景的研究领域引起了你的注意？",
+    "zh_hant": "還是你在研究生時它只是作為一個有前景的研究領域引起了你的注意？"
+  },
+  {
+    "index": 9,
+    "text": "Well, it was a combination of both for me.",
+    "start": 38.969,
+    "end": 40.971,
+    "zh": "嗯，对我来说两者兼有。",
+    "zh_hant": "嗯，對我來說兩者兼有。"
+  },
+  {
+    "index": 10,
+    "text": "I remember very distinctly the moment when I knew that I couldn’t be an astronaut.",
+    "start": 41.191,
+    "end": 45.733,
+    "zh": "我非常清楚地记得我知道自己不能成为宇航员的那一刻。",
+    "zh_hant": "我非常清楚地記得我知道自己不能成為宇航員的那一刻。"
+  },
+  {
+    "index": 11,
+    "text": "And that was in grade four when I got glasses.",
+    "start": 45.413,
+    "end": 48.034,
+    "zh": "那是在四年级，我戴上了眼镜。",
+    "zh_hant": "那是在四年級，我戴上了眼鏡。"
+  },
+  {
+    "index": 12,
+    "text": "Because back then, if you had suboptimal eyesight, you could not be an astronaut.",
+    "start": 48.515,
+    "end": 54.177,
+    "zh": "因为那时候，如果视力不佳，你就不能当宇航员。",
+    "zh_hant": "因為那時候，如果視力不佳，你就不能當宇航員。"
+  },
+  {
+    "index": 13,
+    "text": "I had always had a passion for space.",
+    "start": 54.357,
+    "end": 56.158,
+    "zh": "我一直对太空充满热情。",
+    "zh_hant": "我一直對太空充滿熱情。"
+  },
+  {
+    "index": 14,
+    "text": "I was a big fan of science fiction growing up.",
+    "start": 55.838,
+    "end": 58.079,
+    "zh": "我成长过程中是科幻小说的忠实粉丝。",
+    "zh_hant": "我成長過程中是科幻小說的忠實粉絲。"
+  },
+  {
+    "index": 15,
+    "text": "I grew up in Canada and I really always enjoyed just going out in the winter nights and looking up at the stars.",
+    "start": 58.339,
+    "end": 63.722,
+    "zh": "我在加拿大长大，我真的很喜欢在冬夜里出去仰望星空。",
+    "zh_hant": "我在加拿大長大，我真的很喜歡在冬夜裡出去仰望星空。"
+  },
+  {
+    "index": 16,
+    "text": "When I was doing my master’s degree in economics a couple of things happened.",
+    "start": 64.002,
+    "end": 69.365,
+    "zh": "在我攻读经济学硕士学位时，发生了几件事。",
+    "zh_hant": "在我攻讀經濟學碩士學位時，發生了幾件事。"
+  },
+  {
+    "index": 17,
+    "text": "One was the flight of SpaceShipOne,",
+    "start": 69.525,
+    "end": 71.506,
+    "zh": "一件事是“太空船一号”的飞行，",
+    "zh_hant": "一件事是“太空船一號”的飛行，"
+  },
+  {
+    "index": 18,
+    "text": "which was the first privately funded human spaceflight vehicle to go above the Von Kármán line,",
+    "start": 71.186,
+    "end": 77.208,
+    "zh": "那是第一艘飞越卡门线的私人资助载人航天器，",
+    "zh_hant": "那是第一艘飛越卡門線的私人資助載人航天器，"
+  },
+  {
+    "index": 19,
+    "text": "which is the internationally recognized definition of space, 100 kilometers up, and NASA,",
+    "start": 76.949,
+    "end": 83.192,
+    "zh": "卡门线是国际公认的太空定义，距地面100公里，而NASA，",
+    "zh_hant": "卡門線是國際公認的太空定義，距地面100公里，而NASA，"
+  },
+  {
+    "index": 20,
+    "text": "George W. Bush, had announced the plan to return to the moon ,",
+    "start": 82.842,
+    "end": 87.21,
+    "zh": "乔治·W·布什宣布了重返月球的计划，",
+    "zh_hant": "喬治·W·布什宣佈了重返月球的計劃，"
+  },
+  {
+    "index": 21,
+    "text": "under what was then called the Vision for Space Exploration .",
+    "start": 87.054,
+    "end": 89.79,
+    "zh": "那时这被称为“太空探索愿景”。",
+    "zh_hant": "那時這被稱為“太空探索願景”。"
+  },
+  {
+    "index": 22,
+    "text": "I remember very distinctly thinking, okay, if",
+    "start": 89.815,
+    "end": 92.576,
+    "zh": "我非常清楚地记得当时在想，好吧，如果",
+    "zh_hant": "我非常清楚地記得當時在想，好吧，如果"
+  },
+  {
+    "index": 23,
+    "text": "we’re going to build a moon base, that is an economic development problem.",
+    "start": 92.226,
+    "end": 97.119,
+    "zh": "我们要建一个月球基地，那是一个经济发展问题。",
+    "zh_hant": "我們要建一個月球基地，那是一個經濟發展問題。"
+  },
+  {
+    "index": 24,
+    "text": "It’s a very distinct type of economic development problem, right?",
+    "start": 96.939,
+    "end": 100.18,
+    "zh": "这是一种非常独特的经济发展问题，对吧？",
+    "zh_hant": "這是一種非常獨特的經濟發展問題，對吧？"
+  },
+  {
+    "index": 25,
+    "text": "There isn’t really farmable land, and you have to essentially import or produce at significant costs",
+    "start": 99.83,
+    "end": 105.823,
+    "zh": "那里没有真正可耕种的土地，你必须基本进口或高成本地生产",
+    "zh_hant": "那裡沒有真正可耕種的土地，你必須基本進口或高成本地生產"
+  },
+  {
+    "index": 26,
+    "text": "all of your air.",
+    "start": 105.963,
+    "end": 107.103,
+    "zh": "你所有的空气。",
+    "zh_hant": "你所有的空氣。"
+  },
+  {
+    "index": 27,
+    "text": "But it’s still an economic development program.",
+    "start": 107.204,
+    "end": 109.004,
+    "zh": "但它仍然是一个经济发展项目。",
+    "zh_hant": "但它仍然是一個經濟發展專案。"
+  },
+  {
+    "index": 28,
+    "text": "And so, economists are going to be needed to make that happen.",
+    "start": 109.065,
+    "end": 112.586,
+    "zh": "所以，实现这件事需要经济学家。",
+    "zh_hant": "所以，實現這件事需要經濟學家。"
+  },
+  {
+    "index": 29,
+    "text": "That was in 2005, and I basically switched my Ph.D. subject.",
+    "start": 112.666,
+    "end": 119.089,
+    "zh": "那是2005年，我基本上就转了我的博士研究方向。",
+    "zh_hant": "那是2005年，我基本上就轉了我的博士研究方向。"
+  },
+  {
+    "index": 30,
+    "text": "So, in your analysis, Alex, of the economics of space,",
+    "start": 119.17,
+    "end": 123.132,
+    "zh": "那么，亚历克斯，在你对太空经济学的分析中，",
+    "zh_hant": "那麼，亞歷克斯，在你對太空經濟學的分析中，"
+  },
+  {
+    "index": 31,
+    "text": "you don’t just focus on the last 60 or 70 years starting with Sputnik or the Apollo missions,",
+    "start": 123.172,
+    "end": 129.515,
+    "zh": "你不仅仅关注从斯普特尼克或阿波罗任务开始的过去六七十年，",
+    "zh_hant": "你不僅僅關注從斯普特尼克或阿波羅任務開始的過去六七十年，"
+  },
+  {
+    "index": 32,
+    "text": "you take a long view.",
+    "start": 129.655,
+    "end": 131.256,
+    "zh": "你把眼光放得很长远。",
+    "zh_hant": "你把眼光放得很長遠。"
+  },
+  {
+    "index": 33,
+    "text": "So, in particular, you’ve looked at the construction of astronomical observatories",
+    "start": 131.036,
+    "end": 136.638,
+    "zh": "具体来说，你考察了天文观测台的建造",
+    "zh_hant": "具體來說，你考察了天文觀測臺的建造"
+  },
+  {
+    "index": 34,
+    "text": "over the history of the U.S.",
+    "start": 136.318,
+    "end": 138.019,
+    "zh": "在整个美国历史中。",
+    "zh_hant": "在整個美國曆史中。"
+  },
+  {
+    "index": 35,
+    "text": "and you’ve come to what I would say are really interesting conclusions.",
+    "start": 137.669,
+    "end": 142.081,
+    "zh": "然后你得出了我认为非常有趣的结论。",
+    "zh_hant": "然後你得出了我認為非常有趣的結論。"
+  },
+  {
+    "index": 36,
+    "text": "One thing that I found very surprising is how expensive some of these observatories were.",
+    "start": 141.821,
+    "end": 147.564,
+    "zh": "我发现一个非常令人惊讶的事情是其中一些观测台有多贵。",
+    "zh_hant": "我發現一個非常令人驚訝的事情是其中一些觀測臺有多貴。"
+  },
+  {
+    "index": 37,
+    "text": "They were massive investments.",
+    "start": 147.214,
+    "end": 149.184,
+    "zh": "它们都是巨大的投资。",
+    "zh_hant": "它們都是巨大的投資。"
+  },
+  {
+    "index": 38,
+    "text": "Yeah.",
+    "start": 149.205,
+    "end": 149.865,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 39,
+    "text": "As you know, there’s different ways that you can, do these cost adjustments from historical time periods.",
+    "start": 149.625,
+    "end": 154.287,
+    "zh": "如你所知，从历史时期做这些成本调整有不同方法。",
+    "zh_hant": "如你所知，從歷史時期做這些成本調整有不同方法。"
+  },
+  {
+    "index": 40,
+    "text": "You can adjust by the share of the economy that these projects represented,",
+    "start": 153.937,
+    "end": 158.129,
+    "zh": "你可以根据这些项目占经济总量的份额来调整，",
+    "zh_hant": "你可以根據這些專案佔經濟總量的份額來調整，"
+  },
+  {
+    "index": 41,
+    "text": "and you can also just adjust for the cost of the primary input,",
+    "start": 157.779,
+    "end": 161.351,
+    "zh": "你也可以只根据主要投入的成本来调整，",
+    "zh_hant": "你也可以只根據主要投入的成本來調整，"
+  },
+  {
+    "index": 42,
+    "text": "which in space observatories in the 19th century and today is still primarily skilled labor.",
+    "start": 161.011,
+    "end": 166.654,
+    "zh": "在19世纪和今天的太空观测台中，这主要仍然是技术劳动。",
+    "zh_hant": "在19世紀和今天的太空觀測臺中，這主要仍然是技術勞動。"
+  },
+  {
+    "index": 43,
+    "text": "And so, when you do those calculations,",
+    "start": 167.094,
+    "end": 171.256,
+    "zh": "所以，当你做这些计算时，",
+    "zh_hant": "所以，當你做這些計算時，"
+  },
+  {
+    "index": 44,
+    "text": "we find that projects like the Palomar Telescope,",
+    "start": 171.656,
+    "end": 176.118,
+    "zh": "我们发现像帕洛马望远镜这样的项目，",
+    "zh_hant": "我們發現像帕洛馬望遠鏡這樣的專案，"
+  },
+  {
+    "index": 45,
+    "text": "which was essentially funded by John D. Rockefeller’s wealth,",
+    "start": 176.018,
+    "end": 179.98,
+    "zh": "基本上由约翰·D·洛克菲勒的财富资助，",
+    "zh_hant": "基本上由約翰·D·洛克菲勒的財富資助，"
+  },
+  {
+    "index": 46,
+    "text": "or the Mount Wilson Observatory, which was essentially funded by Carnegie’s wealth,",
+    "start": 180.26,
+    "end": 184.662,
+    "zh": "或者威尔逊山观测台，基本上由卡内基的财富资助，",
+    "zh_hant": "或者威爾遜山觀測臺，基本上由卡內基的財富資助，"
+  },
+  {
+    "index": 47,
+    "text": "these are in the hundreds of millions to low billions of dollars,",
+    "start": 185.003,
+    "end": 189.825,
+    "zh": "这些项目在数亿美元到低十亿美元之间，",
+    "zh_hant": "這些專案在數億美元到低十億美元之間，"
+  },
+  {
+    "index": 48,
+    "text": "depending how you do that adjustment.",
+    "start": 189.865,
+    "end": 191.626,
+    "zh": "取决于你如何做调整。",
+    "zh_hant": "取決於你如何做調整。"
+  },
+  {
+    "index": 49,
+    "text": "My favorite single example is actually the Lick Observatory.",
+    "start": 191.276,
+    "end": 194.347,
+    "zh": "我最喜欢的单个例子其实是利克观测台。",
+    "zh_hant": "我最喜歡的單個例子其實是利克觀測臺。"
+  },
+  {
+    "index": 50,
+    "text": "And James Lick isn’t very well-known today,",
+    "start": 194.687,
+    "end": 197.028,
+    "zh": "詹姆斯·利克今天不太出名，",
+    "zh_hant": "詹姆斯·利克今天不太出名，"
+  },
+  {
+    "index": 51,
+    "text": "but in the 1870s, he was the richest man in California",
+    "start": 196.678,
+    "end": 200.511,
+    "zh": "但在1870年代，他是加州最富有的人，",
+    "zh_hant": "但在1870年代，他是加州最富有的人，"
+  },
+  {
+    "index": 52,
+    "text": "because he had bought up a lot of property prior to the San Francisco Gold Rush,",
+    "start": 200.161,
+    "end": 204.252,
+    "zh": "因为他在旧金山淘金热之前买了很多地产，",
+    "zh_hant": "因為他在舊金山淘金熱之前買了很多地產，"
+  },
+  {
+    "index": 53,
+    "text": "and he’s coming to the end of his life, and he decides that he wants to leave a legacy for himself.",
+    "start": 204.393,
+    "end": 209.755,
+    "zh": "他走到了生命尽头，决定要给自己留下一个遗产。",
+    "zh_hant": "他走到了生命盡頭，決定要給自己留下一個遺產。"
+  },
+  {
+    "index": 54,
+    "text": "He initially thinks about building a large pyramid for himself that he can be buried underneath like the pharaohs,",
+    "start": 209.995,
+    "end": 216.298,
+    "zh": "他最初想为自己建一座大金字塔，像法老一样埋在里面，",
+    "zh_hant": "他最初想為自己建一座大金字塔，像法老一樣埋在裡面，"
+  },
+  {
+    "index": 55,
+    "text": "and people convince him, hey, well, maybe not.",
+    "start": 216.339,
+    "end": 218.499,
+    "zh": "人们说服他，嘿，也许不行。",
+    "zh_hant": "人們說服他，嘿，也許不行。"
+  },
+  {
+    "index": 56,
+    "text": "Eventually, some astronomers get on to him and say, well you know sir, you could actually build the first ever",
+    "start": 218.54,
+    "end": 223.742,
+    "zh": "最终，一些天文学家找到他说，先生，你其实可以建第一座",
+    "zh_hant": "最終，一些天文學家找到他說，先生，你其實可以建第一座"
+  },
+  {
+    "index": 57,
+    "text": "mountaintop observatory.",
+    "start": 223.392,
+    "end": 225.103,
+    "zh": "山顶观测台。",
+    "zh_hant": "山頂觀測臺。"
+  },
+  {
+    "index": 58,
+    "text": "This will be a much more impactful astronomical observatory,",
+    "start": 225.043,
+    "end": 228.724,
+    "zh": "这将是一座更有影响力的天文观测台，",
+    "zh_hant": "這將是一座更有影響力的天文觀測臺，"
+  },
+  {
+    "index": 59,
+    "text": "to which Lick reportedly said, well, okay, but can I be buried underneath it?",
+    "start": 228.745,
+    "end": 233.327,
+    "zh": "据说利克回答说，好吧，但我能埋在里面吗？",
+    "zh_hant": "據說利克回答說，好吧，但我能埋在裡面嗎？"
+  },
+  {
+    "index": 60,
+    "text": "And the astronomers, being very clever, said, yes, of course, sir.",
+    "start": 233.747,
+    "end": 236.868,
+    "zh": "天文学家们很聪明，说，当然可以，先生。",
+    "zh_hant": "天文學家們很聰明，說，當然可以，先生。"
+  },
+  {
+    "index": 61,
+    "text": "If you pay for it, you can be buried wherever you want.",
+    "start": 236.518,
+    "end": 238.609,
+    "zh": "如果你付钱，你想埋哪儿都行。",
+    "zh_hant": "如果你付錢，你想埋哪兒都行。"
+  },
+  {
+    "index": 62,
+    "text": "And so to this day, James Lick’s final resting place",
+    "start": 238.259,
+    "end": 241.591,
+    "zh": "因此直到今天，詹姆斯·利克的安息之地",
+    "zh_hant": "因此直到今天，詹姆斯·利克的安息之地"
+  },
+  {
+    "index": 63,
+    "text": "is underneath the main plinth of the primary telescope of Lick Observatory.",
+    "start": 241.241,
+    "end": 245.753,
+    "zh": "就在利克观测台主望远镜的主底座下面。",
+    "zh_hant": "就在利克觀測臺主望遠鏡的主底座下面。"
+  },
+  {
+    "index": 64,
+    "text": "And that was another one of these billion-dollar scale observatories because they had to build a whole road up the mountain.",
+    "start": 245.653,
+    "end": 251.596,
+    "zh": "这又是另一个数十亿美元级别的观测台，因为他们得修一条路上山。",
+    "zh_hant": "這又是另一個數十億美元級別的觀測臺，因為他們得修一條路上山。"
+  },
+  {
+    "index": 65,
+    "text": "This was in the 1870s.",
+    "start": 251.576,
+    "end": 253.497,
+    "zh": "这是在1870年代。",
+    "zh_hant": "這是在1870年代。"
+  },
+  {
+    "index": 66,
+    "text": "They had to import these lenses from Europe often, these were very complicated technologies.",
+    "start": 253.357,
+    "end": 259.2,
+    "zh": "他们经常得从欧洲进口这些镜片，这些是非常复杂的技术。",
+    "zh_hant": "他們經常得從歐洲進口這些鏡片，這些是非常複雜的技術。"
+  },
+  {
+    "index": 67,
+    "text": "In fact, there’s these great stories about the giant reflector lens",
+    "start": 258.85,
+    "end": 264.042,
+    "zh": "事实上，有一些很棒的故事关于那个巨大的反射镜片，",
+    "zh_hant": "事實上，有一些很棒的故事關於那個巨大的反射鏡片，"
+  },
+  {
+    "index": 68,
+    "text": "that had been built by Corning out on the East Coast,",
+    "start": 263.692,
+    "end": 266.804,
+    "zh": "由康宁公司在东海岸制造，",
+    "zh_hant": "由康寧公司在東海岸製造，"
+  },
+  {
+    "index": 69,
+    "text": "largest ever built for the Palomar Observatory.",
+    "start": 266.744,
+    "end": 270.205,
+    "zh": "是为帕洛马望远镜制造的最大的一个。",
+    "zh_hant": "是為帕洛馬望遠鏡製造的最大的一個。"
+  },
+  {
+    "index": 70,
+    "text": "And they had to then take it across the country by train.",
+    "start": 270.206,
+    "end": 273.147,
+    "zh": "然后他们得用火车把它运过全国。",
+    "zh_hant": "然後他們得用火車把它運過全國。"
+  },
+  {
+    "index": 71,
+    "text": "And people would line up to watch it because it was such a technological marvel of the day,",
+    "start": 273.267,
+    "end": 278.99,
+    "zh": "人们会排队观看，因为它是当时的技术奇迹，",
+    "zh_hant": "人們會排隊觀看，因為它是當時的技術奇蹟，"
+  }
+]

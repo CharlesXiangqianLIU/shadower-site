@@ -1,0 +1,394 @@
+[
+  {
+    "index": 0,
+    "text": "For someone who doesn’t know the game, just explain it as briefly as you can, the basic setup and goal.",
+    "start": 0.71,
+    "end": 6.493,
+    "zh": "对于不了解这游戏的人，就尽可能简短地解释基本布局和目标。",
+    "zh_hant": "對於不瞭解這遊戲的人，就儘可能簡短地解釋基本佈局和目標。"
+  },
+  {
+    "index": 1,
+    "text": "Okay, so each side has 15 checkers in a particular starting arrangement,",
+    "start": 6.393,
+    "end": 12.236,
+    "zh": "好，每方有15枚棋子，有特定的起始排列，",
+    "zh_hant": "好，每方有15枚棋子，有特定的起始排列，"
+  },
+  {
+    "index": 2,
+    "text": "and the game is essentially a race.",
+    "start": 11.886,
+    "end": 14.457,
+    "zh": "游戏本质上就是一场赛跑。",
+    "zh_hant": "遊戲本質上就是一場賽跑。"
+  },
+  {
+    "index": 3,
+    "text": "Your pieces — or your stones, as they would have called it way back in the day —",
+    "start": 14.157,
+    "end": 18.34,
+    "zh": "你的棋子——或者按古时候的叫法，叫石头——",
+    "zh_hant": "你的棋子——或者按古時候的叫法，叫石頭——"
+  },
+  {
+    "index": 4,
+    "text": "you’re trying to get them around the board and into your home board.",
+    "start": 18.039,
+    "end": 22.261,
+    "zh": "你试图让它们绕棋盘一圈，进入你的内盘。",
+    "zh_hant": "你試圖讓它們繞棋盤一圈，進入你的內盤。"
+  },
+  {
+    "index": 5,
+    "text": "There’s four quadrants, you try to get those checkers into your own board and bear them off as quickly as possible.",
+    "start": 21.911,
+    "end": 27.523,
+    "zh": "棋盘有四个区，你要把棋子弄进自己的盘区，尽快把它们移出棋盘。",
+    "zh_hant": "棋盤有四個區，你要把棋子弄進自己的盤區，儘快把它們移出棋盤。"
+  },
+  {
+    "index": 6,
+    "text": "But along the way, there’s a lot of contact, and those checkers interact.",
+    "start": 27.464,
+    "end": 32.106,
+    "zh": "但沿途有很多接触，这些棋子会互相影响。",
+    "zh_hant": "但沿途有很多接觸，這些棋子會互相影響。"
+  },
+  {
+    "index": 7,
+    "text": "If you land on a spot where your opponent only has a single checker, we",
+    "start": 31.906,
+    "end": 35.967,
+    "zh": "如果你落在一个对手只有一枚棋子的点上，我们",
+    "zh_hant": "如果你落在一個對手只有一枚棋子的點上，我們"
+  },
+  {
+    "index": 8,
+    "text": "call that a blot; that blot has to go back to the beginning.",
+    "start": 35.617,
+    "end": 38.629,
+    "zh": "叫那个“孤子”；这个孤子必须退回起点。",
+    "zh_hant": "叫那個“孤子”；這個孤子必須退回起點。"
+  },
+  {
+    "index": 9,
+    "text": "So while it’s a race, it’s not that simple.",
+    "start": 38.279,
+    "end": 42.231,
+    "zh": "所以虽然是赛跑，但没那么简单。",
+    "zh_hant": "所以雖然是賽跑，但沒那麼簡單。"
+  },
+  {
+    "index": 10,
+    "text": "Sometimes you’re trying to slow yourself down; sometimes you’re trying to speed yourself up.",
+    "start": 42.111,
+    "end": 46.473,
+    "zh": "有时你要放慢自己，有时你要加快自己。",
+    "zh_hant": "有時你要放慢自己，有時你要加快自己。"
+  },
+  {
+    "index": 11,
+    "text": "Then talk about the leverage and the excitement and volatility",
+    "start": 46.453,
+    "end": 52.436,
+    "zh": "然后讲讲翻倍骰子带来的杠杆、刺激和波动性。",
+    "zh_hant": "然後講講翻倍骰子帶來的槓桿、刺激和波動性。"
+  },
+  {
+    "index": 12,
+    "text": "that is introduced by using the doubling cube.",
+    "start": 52.086,
+    "end": 54.557,
+    "zh": "这个翻倍骰子带来的就是这些。",
+    "zh_hant": "這個翻倍骰子帶來的就是這些。"
+  },
+  {
+    "index": 13,
+    "text": "The idea behind the doubling cube is that you’re playing a game for a stake of a single point.",
+    "start": 54.457,
+    "end": 60.64,
+    "zh": "翻倍骰子的思路是，你以一分赌注来玩一局。",
+    "zh_hant": "翻倍骰子的思路是，你以一分賭注來玩一局。"
+  },
+  {
+    "index": 14,
+    "text": "If you win the game, you get a point.",
+    "start": 61.061,
+    "end": 63.001,
+    "zh": "如果你赢了，你得一分。",
+    "zh_hant": "如果你贏了，你得一分。"
+  },
+  {
+    "index": 15,
+    "text": "If you bear off all your checkers before your opponent has borne off any, you win a gammon.",
+    "start": 62.651,
+    "end": 67.403,
+    "zh": "如果对手还没移出任何棋子，你就全移出了，你赢得“伽蒙”。",
+    "zh_hant": "如果對手還沒移出任何棋子，你就全移出了，你贏得“伽蒙”。"
+  },
+  {
+    "index": 16,
+    "text": "That’s a double game.",
+    "start": 67.053,
+    "end": 68.524,
+    "zh": "那是双倍分。",
+    "zh_hant": "那是雙倍分。"
+  },
+  {
+    "index": 17,
+    "text": "But it’s double whatever the current value of the cube is.",
+    "start": 68.174,
+    "end": 72.206,
+    "zh": "但它是当前骰子值的两倍。",
+    "zh_hant": "但它是當前骰子值的兩倍。"
+  },
+  {
+    "index": 18,
+    "text": "The cube starts out at a value of 1.",
+    "start": 72.306,
+    "end": 75.47,
+    "zh": "骰子初始值是1。",
+    "zh_hant": "骰子初始值是1。"
+  },
+  {
+    "index": 19,
+    "text": "When it’s your turn, before you roll, you have the option,",
+    "start": 75.328,
+    "end": 79.129,
+    "zh": "轮到你了，在掷骰之前，你有选择权，",
+    "zh_hant": "輪到你了，在擲骰之前，你有選擇權，"
+  },
+  {
+    "index": 20,
+    "text": "if the cube is in the middle, to tell your opponent, I want to double the stakes of the game.",
+    "start": 78.779,
+    "end": 84.572,
+    "zh": "如果骰子在中间，可以告诉对手，我要把赌注加倍。",
+    "zh_hant": "如果骰子在中間，可以告訴對手，我要把賭注加倍。"
+  },
+  {
+    "index": 21,
+    "text": "So, the opponent has to then make a decision: Do I want to play this game for double the stakes,",
+    "start": 84.733,
+    "end": 90.775,
+    "zh": "所以，对手得做决定：我要不要玩双倍赌注的这局？",
+    "zh_hant": "所以，對手得做決定：我要不要玩雙倍賭注的這局？"
+  },
+  {
+    "index": 22,
+    "text": "or do I want to turn down the cube,",
+    "start": 90.956,
+    "end": 94.397,
+    "zh": "还是我要拒绝骰子，",
+    "zh_hant": "還是我要拒絕骰子，"
+  },
+  {
+    "index": 23,
+    "text": "and the game ends immediately, and they give up the point.",
+    "start": 94.197,
+    "end": 97.739,
+    "zh": "然后比赛立即结束，他们放弃这一分。",
+    "zh_hant": "然後比賽立即結束，他們放棄這一分。"
+  },
+  {
+    "index": 24,
+    "text": "The decision is, I can give up one point with certainty",
+    "start": 98.039,
+    "end": 102.941,
+    "zh": "决定是：我可以确定地放弃一分，",
+    "zh_hant": "決定是：我可以確定地放棄一分，"
+  },
+  {
+    "index": 25,
+    "text": "and start a brand new game,",
+    "start": 102.642,
+    "end": 104.562,
+    "zh": "然后开始新的一局，",
+    "zh_hant": "然後開始新的一局，"
+  },
+  {
+    "index": 26,
+    "text": "or I can accept the cube and now play this game for double the stakes,",
+    "start": 104.322,
+    "end": 109.685,
+    "zh": "或者我可以接受骰子，现在以双倍赌注玩这局，",
+    "zh_hant": "或者我可以接受骰子，現在以雙倍賭注玩這局，"
+  },
+  {
+    "index": 27,
+    "text": "but I’m accepting the risk that I could lose two points, I could lose four points,",
+    "start": 109.345,
+    "end": 114.187,
+    "zh": "但我接受了可能输两分、可能输四分的风险，",
+    "zh_hant": "但我接受了可能輸兩分、可能輸四分的風險，"
+  },
+  {
+    "index": 28,
+    "text": "and I have to compare that distribution of potential outcomes",
+    "start": 114.127,
+    "end": 118.409,
+    "zh": "我必须比较那种可能结果的分布，",
+    "zh_hant": "我必須比較那種可能結果的分佈，"
+  },
+  {
+    "index": 29,
+    "text": "versus the guaranteed one point that I would relinquish.",
+    "start": 118.169,
+    "end": 122.932,
+    "zh": "与我会放弃的那保证的一分。",
+    "zh_hant": "與我會放棄的那保證的一分。"
+  },
+  {
+    "index": 30,
+    "text": "The other layer on top of that is that the cube is not just a scorekeeping device, it’s a weapon.",
+    "start": 123.032,
+    "end": 129.395,
+    "zh": "再往上叠加一层，骰子不只是计分工具，它是武器。",
+    "zh_hant": "再往上疊加一層，骰子不只是計分工具，它是武器。"
+  },
+  {
+    "index": 31,
+    "text": "When you own the cube, you have bought the rights to it, which gives you the rights to play the game to the end.",
+    "start": 129.135,
+    "end": 135.138,
+    "zh": "当你拥有骰子，你就买下了它的权利，这让你有权把游戏玩到底。",
+    "zh_hant": "當你擁有骰子，你就買下了它的權利，這讓你有權把遊戲玩到底。"
+  },
+  {
+    "index": 32,
+    "text": "It also gives you the rights to re-double the stake back to four, which puts pressure on your opponent.",
+    "start": 134.978,
+    "end": 141.061,
+    "zh": "这也让你有权把赌注重新加倍到四，给你的对手施加压力。",
+    "zh_hant": "這也讓你有權把賭注重新加倍到四，給你的對手施加壓力。"
+  },
+  {
+    "index": 33,
+    "text": "If you do not know how to handle the cube, you’re never going to win a tournament.",
+    "start": 146.123,
+    "end": 150.645,
+    "zh": "如果你不知道怎么处理骰子，你永远赢不了锦标赛。",
+    "zh_hant": "如果你不知道怎麼處理骰子，你永遠贏不了錦標賽。"
+  },
+  {
+    "index": 34,
+    "text": "That is Marc Olsen , another of the world’s top-ranked players.",
+    "start": 150.946,
+    "end": 154.907,
+    "zh": "那是马克·奥尔森，另一位世界顶级选手。",
+    "zh_hant": "那是馬克·奧爾森，另一位世界頂級選手。"
+  },
+  {
+    "index": 35,
+    "text": "He’s Danish, and he used to play professional soccer — so, yes, he’s pretty competitive .",
+    "start": 154.668,
+    "end": 160.13,
+    "zh": "他是丹麦人，曾踢过职业足球——所以没错，他非常好胜。",
+    "zh_hant": "他是丹麥人，曾踢過職業足球——所以沒錯，他非常好勝。"
+  },
+  {
+    "index": 36,
+    "text": "The doubling cube is a fantastic device that was invented in the 1920s.",
+    "start": 159.991,
+    "end": 164.773,
+    "zh": "翻倍骰子是个了不起的发明，诞生于1920年代。",
+    "zh_hant": "翻倍骰子是個了不起的發明，誕生於1920年代。"
+  },
+  {
+    "index": 37,
+    "text": "Backgammon has existed for thousands of years, but the doubling cube has only been around for around a hundred years.",
+    "start": 164.813,
+    "end": 169.655,
+    "zh": "双陆棋已有数千年历史，但翻倍骰子才出现大约一百年。",
+    "zh_hant": "雙陸棋已有數千年曆史，但翻倍骰子才出現大約一百年。"
+  },
+  {
+    "index": 38,
+    "text": "It must have been so boring before then.",
+    "start": 169.695,
+    "end": 171.776,
+    "zh": "在那之前一定很无聊。",
+    "zh_hant": "在那之前一定很無聊。"
+  },
+  {
+    "index": 39,
+    "text": "Well, they still play backgammon without the cube in many parts of the world.",
+    "start": 171.736,
+    "end": 175.178,
+    "zh": "嗯，世界很多地方仍然有人玩不用骰子的双陆棋。",
+    "zh_hant": "嗯，世界很多地方仍然有人玩不用骰子的雙陸棋。"
+  },
+  {
+    "index": 40,
+    "text": "But I agree, the doubling cube is the most fun part about backgammon.",
+    "start": 175.118,
+    "end": 179.12,
+    "zh": "但我同意，翻倍骰子是双陆棋最好玩的部分。",
+    "zh_hant": "但我同意，翻倍骰子是雙陸棋最好玩的部分。"
+  },
+  {
+    "index": 41,
+    "text": "With checker play moves, you can compare your move to other moves,",
+    "start": 179.12,
+    "end": 182.982,
+    "zh": "在下子走法上，你可以拿你的走法跟其他走法比较，",
+    "zh_hant": "在下子走法上，你可以拿你的走法跟其他走法比較，"
+  },
+  {
+    "index": 42,
+    "text": "which inherently make it easier because you’ve got something to compare it to,",
+    "start": 182.802,
+    "end": 187.224,
+    "zh": "这天然会容易些，因为你有东西可比，",
+    "zh_hant": "這天然會容易些，因為你有東西可比，"
+  },
+  {
+    "index": 43,
+    "text": "whereas with a doubling cube, you’ve got nothing to compare it to.",
+    "start": 187.224,
+    "end": 190.085,
+    "zh": "而翻倍骰子，你没有什么可比的。",
+    "zh_hant": "而翻倍骰子，你沒有什麼可比的。"
+  },
+  {
+    "index": 44,
+    "text": "That’s the thing about the doubling cube; it occupies its own special dimension in the game.",
+    "start": 190.546,
+    "end": 196.148,
+    "zh": "翻倍骰子就是这样；它在游戏里占据了自己特殊的维度。",
+    "zh_hant": "翻倍骰子就是這樣；它在遊戲裡佔據了自己特殊的維度。"
+  },
+  {
+    "index": 45,
+    "text": "The two dice you roll on every turn that dictate where you can move your checkers —",
+    "start": 196.128,
+    "end": 200.47,
+    "zh": "你每回合掷的两个骰子决定你能把棋子移到哪里——",
+    "zh_hant": "你每回合擲的兩個骰子決定你能把棋子移到哪裡——"
+  },
+  {
+    "index": 46,
+    "text": "they are inherently random;",
+    "start": 200.252,
+    "end": 202.635,
+    "zh": "它们天生是随机的；",
+    "zh_hant": "它們天生是隨機的；"
+  },
+  {
+    "index": 47,
+    "text": "so you have to plan for, and adapt to, that randomness.",
+    "start": 202.376,
+    "end": 206.802,
+    "zh": "所以你必须为那种随机性做规划并适应它。",
+    "zh_hant": "所以你必須為那種隨機性做規劃並適應它。"
+  },
+  {
+    "index": 48,
+    "text": "The doubling cube is the only part of the game that can be unilaterally controlled.",
+    "start": 206.843,
+    "end": 211.93,
+    "zh": "翻倍骰子是游戏中唯一可以被单方面控制的部分。",
+    "zh_hant": "翻倍骰子是遊戲中唯一可以被單方面控制的部分。"
+  }
+]

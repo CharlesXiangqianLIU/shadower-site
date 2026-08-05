@@ -1,0 +1,554 @@
+[
+  {
+    "index": 0,
+    "text": "I was shocked to learn reading your research that Robert Goddard, the father of modern rocketry,",
+    "start": 0.17,
+    "end": 5.573,
+    "zh": "读到你的研究，我很震惊地得知，现代火箭之父罗伯特·戈达德",
+    "zh_hant": "讀到你的研究，我很震驚地得知，現代火箭之父羅伯特·戈達德"
+  },
+  {
+    "index": 1,
+    "text": "he got about half of his funding from private sources, especially from the Guggenheims.",
+    "start": 5.753,
+    "end": 10.575,
+    "zh": "大约一半的资金来自私人渠道，尤其是古根海姆家族。",
+    "zh_hant": "大約一半的資金來自私人渠道，尤其是古根海姆家族。"
+  },
+  {
+    "index": 2,
+    "text": "And that’s despite the fact that what he was doing with rockets had such obvious military",
+    "start": 10.815,
+    "end": 16.658,
+    "zh": "而且，尽管他研究火箭具有如此明显的军事",
+    "zh_hant": "而且，儘管他研究火箭具有如此明顯的軍事"
+  },
+  {
+    "index": 3,
+    "text": "applications",
+    "start": 16.308,
+    "end": 17.479,
+    "zh": "应用前景",
+    "zh_hant": "應用前景"
+  },
+  {
+    "index": 4,
+    "text": "that I would have thought he would have been just swimming in government money devoted to defense.",
+    "start": 17.129,
+    "end": 22.621,
+    "zh": "我本以为他会拿到大量用于国防的政府资金。",
+    "zh_hant": "我本以為他會拿到大量用於國防的政府資金。"
+  },
+  {
+    "index": 5,
+    "text": "He did get a fair amount of money from defense.",
+    "start": 22.641,
+    "end": 24.782,
+    "zh": "他确实从国防部门得到了不少钱。",
+    "zh_hant": "他確實從國防部門得到了不少錢。"
+  },
+  {
+    "index": 6,
+    "text": "He was essentially developing his rockets in the 1930s at the exact same time that Wernher von Braun is developing his rockets in Germany,",
+    "start": 24.863,
+    "end": 31.345,
+    "zh": "他基本上是在20世纪30年代开发他的火箭，与此同时，沃纳·冯·布劳恩也在德国开发他的火箭，",
+    "zh_hant": "他基本上是在20世紀30年代開發他的火箭，與此同時，沃納·馮·布勞恩也在德國開發他的火箭，"
+  },
+  {
+    "index": 7,
+    "text": "and so those two people are actually competing to be the first people to launch something into space.",
+    "start": 31.486,
+    "end": 36.168,
+    "zh": "所以这两个人实际上在竞争谁先向太空发射东西。",
+    "zh_hant": "所以這兩個人實際上在競爭誰先向太空發射東西。"
+  },
+  {
+    "index": 8,
+    "text": "Goddard’s primary funder is the Guggenheim family.",
+    "start": 36.448,
+    "end": 39.97,
+    "zh": "戈达德的主要资助者是古根海姆家族。",
+    "zh_hant": "戈達德的主要資助者是古根海姆家族。"
+  },
+  {
+    "index": 9,
+    "text": "Wernher von Braun’s primary funder is the Wehrmacht, the German army.",
+    "start": 39.77,
+    "end": 42.992,
+    "zh": "沃纳·冯·布劳恩的主要资助者是德国国防军，也就是德国军队。",
+    "zh_hant": "沃納·馮·布勞恩的主要資助者是德國國防軍，也就是德國軍隊。"
+  },
+  {
+    "index": 10,
+    "text": "What happens is, interestingly enough, in the early 30s,",
+    "start": 43.412,
+    "end": 46.193,
+    "zh": "有趣的是，在30年代初，",
+    "zh_hant": "有趣的是，在30年代初，"
+  },
+  {
+    "index": 11,
+    "text": "they basically achieve an equivalent level of space flight,",
+    "start": 45.843,
+    "end": 51.516,
+    "zh": "他们基本上达到了同等的太空飞行水平，",
+    "zh_hant": "他們基本上達到了同等的太空飛行水平，"
+  },
+  {
+    "index": 12,
+    "text": "which is, maybe a kilometer or a couple kilometers up.",
+    "start": 51.476,
+    "end": 54.137,
+    "zh": "也就是飞到大约一公里或几公里的高度。",
+    "zh_hant": "也就是飛到大約一公里或幾公里的高度。"
+  },
+  {
+    "index": 13,
+    "text": "This is obviously a significant achievement for a liquid fuel rocket.",
+    "start": 54.478,
+    "end": 57.459,
+    "zh": "对于液体燃料火箭来说，这显然是一项重大成就。",
+    "zh_hant": "對於液體燃料火箭來說，這顯然是一項重大成就。"
+  },
+  {
+    "index": 14,
+    "text": "But the responses of their funders are very different.",
+    "start": 57.739,
+    "end": 60.18,
+    "zh": "但他们的资助者反应截然不同。",
+    "zh_hant": "但他們的資助者反應截然不同。"
+  },
+  {
+    "index": 15,
+    "text": "The Guggenheim family says, that’s great, keep going, but we’re keeping the funding the same.",
+    "start": 60.401,
+    "end": 64.522,
+    "zh": "古根海姆家族说，很好，继续干，但我们还是维持原来的资金。",
+    "zh_hant": "古根海姆家族說，很好，繼續幹，但我們還是維持原來的資金。"
+  },
+  {
+    "index": 16,
+    "text": "Whereas essentially the German army commits to a billion-dollar development",
+    "start": 64.723,
+    "end": 69.025,
+    "zh": "而德国军队则承诺投入十亿美元去开发",
+    "zh_hant": "而德國軍隊則承諾投入十億美元去開發"
+  },
+  {
+    "index": 17,
+    "text": "of an entire research facility in Peenemünde in the north of Germany and begins the development program of the V-2.",
+    "start": 68.675,
+    "end": 74.987,
+    "zh": "建在德国北部佩内明德的整个研究设施，并开始了V-2的研发计划。",
+    "zh_hant": "建在德國北部佩內明德的整個研究設施，並開始了V-2的研發計劃。"
+  },
+  {
+    "index": 18,
+    "text": "One of the reasons was actually because these were not I.C.B.M.s, right?",
+    "start": 75.868,
+    "end": 79.93,
+    "zh": "原因之一是，这些并不是洲际弹道导弹，对吧？",
+    "zh_hant": "原因之一是，這些並不是洲際彈道導彈，對吧？"
+  },
+  {
+    "index": 19,
+    "text": "They’re really able to bombard only a few hundred kilometers away.",
+    "start": 79.54,
+    "end": 83.112,
+    "zh": "它们实际上只能轰炸几百公里以外的地方。",
+    "zh_hant": "它們實際上只能轟炸幾百公里以外的地方。"
+  },
+  {
+    "index": 20,
+    "text": "For the U.S., you wouldn’t be able to do launches across the Atlantic.",
+    "start": 83.552,
+    "end": 87.774,
+    "zh": "对美国来说，你没法跨大西洋发射。",
+    "zh_hant": "對美國來說，你沒法跨大西洋發射。"
+  },
+  {
+    "index": 21,
+    "text": "But for Germany, of course, there’s a lot more targets nearby.",
+    "start": 87.424,
+    "end": 90.336,
+    "zh": "但对德国来说，附近的目标当然多得多。",
+    "zh_hant": "但對德國來說，附近的目標當然多得多。"
+  },
+  {
+    "index": 22,
+    "text": "And so, the incentives for the two different militaries were fundamentally different.",
+    "start": 90.216,
+    "end": 93.497,
+    "zh": "所以，两个不同军队的激励动机从根本上就不同。",
+    "zh_hant": "所以，兩個不同軍隊的激勵動機從根本上就不同。"
+  },
+  {
+    "index": 23,
+    "text": "Goddard, however, is convinced that he needs military money,",
+    "start": 93.637,
+    "end": 96.399,
+    "zh": "然而，戈达德确信他需要军事资金，",
+    "zh_hant": "然而，戈達德確信他需要軍事資金，"
+  },
+  {
+    "index": 24,
+    "text": "and so he does leave his Guggenheim perch, which he had a nice life out in New Mexico.",
+    "start": 96.259,
+    "end": 101.541,
+    "zh": "所以他离开了古根海姆的庇护，他在新墨西哥州本来过着不错的生活。",
+    "zh_hant": "所以他離開了古根海姆的庇護，他在新墨西哥州本來過著不錯的生活。"
+  },
+  {
+    "index": 25,
+    "text": "And he ultimately goes and works for the U.S. military to develop jet-assisted takeoff rockets and moves to Annapolis.",
+    "start": 101.741,
+    "end": 107.184,
+    "zh": "最后他去为美国军方工作，开发助推起飞火箭，并搬到了安纳波利斯。",
+    "zh_hant": "最後他去為美國軍方工作，開發助推起飛火箭，並搬到了安納波利斯。"
+  },
+  {
+    "index": 26,
+    "text": "It was actually Charles Lindbergh who personally convinced the Guggenheims that this was the future of flight.",
+    "start": 107.144,
+    "end": 113.187,
+    "zh": "实际上是查尔斯·林德伯格亲自说服了古根海姆家族，告诉他们这就是飞行的未来。",
+    "zh_hant": "實際上是查爾斯·林德伯格親自說服了古根海姆家族，告訴他們這就是飛行的未來。"
+  },
+  {
+    "index": 27,
+    "text": "There’s this part of the story of Robert Goddard, this famous professor of rocketry",
+    "start": 113.347,
+    "end": 118.009,
+    "zh": "在罗伯特·戈达德的故事中有一段，这位著名的火箭教授",
+    "zh_hant": "在羅伯特·戈達德的故事中有一段，這位著名的火箭教授"
+  },
+  {
+    "index": 28,
+    "text": "and developing the first rockets, where his first flight in a plane",
+    "start": 117.659,
+    "end": 121.151,
+    "zh": "最先开发火箭，他第一次坐飞机",
+    "zh_hant": "最先開發火箭，他第一次坐飛機"
+  },
+  {
+    "index": 29,
+    "text": "is literally being flown back from the DuPont facilities by Charles Lindbergh himself.",
+    "start": 121.171,
+    "end": 127.274,
+    "zh": "竟然是由查尔斯·林德伯格亲自从杜邦设施飞回来的。",
+    "zh_hant": "竟然是由查爾斯·林德伯格親自從杜邦設施飛回來的。"
+  },
+  {
+    "index": 30,
+    "text": "It’s interesting hearing you talk, because you don’t talk like the typical economist.",
+    "start": 127.234,
+    "end": 131.256,
+    "zh": "听你讲话很有意思，因为你不太像典型的经济学家。",
+    "zh_hant": "聽你講話很有意思，因為你不太像典型的經濟學家。"
+  },
+  {
+    "index": 31,
+    "text": "You like stories.",
+    "start": 131.336,
+    "end": 132.957,
+    "zh": "你喜欢讲故事。",
+    "zh_hant": "你喜歡講故事。"
+  },
+  {
+    "index": 32,
+    "text": "You seem like a little bit of a romantic, which fits in with the idea that you wanted to be an astronaut.",
+    "start": 132.607,
+    "end": 138.3,
+    "zh": "你看起来有点浪漫主义，这和你想当宇航员的想法很契合。",
+    "zh_hant": "你看起來有點浪漫主義，這和你想當宇航員的想法很契合。"
+  },
+  {
+    "index": 33,
+    "text": "Do you think that the rich history of science fiction stories",
+    "start": 139.12,
+    "end": 144.243,
+    "zh": "你觉得那些关于人类去月球或火星旅行的丰富科幻故事",
+    "zh_hant": "你覺得那些關於人類去月球或火星旅行的豐富科幻故事"
+  },
+  {
+    "index": 34,
+    "text": "about people traveling to the Moon or to Mars,",
+    "start": 144.043,
+    "end": 147.324,
+    "zh": "这些故事",
+    "zh_hant": "這些故事"
+  },
+  {
+    "index": 35,
+    "text": "do you think those have served an important role,",
+    "start": 147.384,
+    "end": 151.086,
+    "zh": "你觉得它们起了重要作用吗，",
+    "zh_hant": "你覺得它們起了重要作用嗎，"
+  },
+  {
+    "index": 36,
+    "text": "or do you see them as, kind of, secondary to the technology.",
+    "start": 150.746,
+    "end": 153.987,
+    "zh": "还是你把它们看作，某种意义上，相对于技术次要的东西。",
+    "zh_hant": "還是你把它們看作，某種意義上，相對於技術次要的東西。"
+  },
+  {
+    "index": 37,
+    "text": "I think they’re actually quite foundational.",
+    "start": 154.068,
+    "end": 156.289,
+    "zh": "我觉得它们实际上是非常基础性的。",
+    "zh_hant": "我覺得它們實際上是非常基礎性的。"
+  },
+  {
+    "index": 38,
+    "text": "You know, space flight is a very interesting economic outcome, let’s say.",
+    "start": 156.549,
+    "end": 161.091,
+    "zh": "你知道，太空飞行可以说是一个很有趣的经济结果。",
+    "zh_hant": "你知道，太空飛行可以說是一個很有趣的經濟結果。"
+  },
+  {
+    "index": 39,
+    "text": "As I think folks know, it’s pretty hard to live out in space.",
+    "start": 161.392,
+    "end": 165.574,
+    "zh": "我想大家都知道，在太空生存是很困难的。",
+    "zh_hant": "我想大家都知道，在太空生存是很困難的。"
+  },
+  {
+    "index": 40,
+    "text": "That’s the understatement of the year.",
+    "start": 165.734,
+    "end": 167.715,
+    "zh": "这真是轻描淡写了。",
+    "zh_hant": "這真是輕描淡寫了。"
+  },
+  {
+    "index": 41,
+    "text": "Yeah, you know, as they say, Mars ain’t a kind of place to raise a kid .",
+    "start": 168.535,
+    "end": 172.09,
+    "zh": "是啊，正如他们所说，火星可不是养孩子的好地方。",
+    "zh_hant": "是啊，正如他們所說，火星可不是養孩子的好地方。"
+  },
+  {
+    "index": 42,
+    "text": "What that means is that a huge amount of effort, a huge amount of investment,",
+    "start": 171.957,
+    "end": 178.2,
+    "zh": "这意味着，大量的努力、大量的投资、",
+    "zh_hant": "這意味著，大量的努力、大量的投資、"
+  },
+  {
+    "index": 43,
+    "text": "a huge amount of blood, sweat and tears goes into creating the systems and surviving out there.",
+    "start": 177.85,
+    "end": 182.762,
+    "zh": "大量的血汗和眼泪，都投入到创建系统和在那里生存上。",
+    "zh_hant": "大量的血汗和眼淚，都投入到建立系統和在那裡生存上。"
+  },
+  {
+    "index": 44,
+    "text": "What motivates us for that?",
+    "start": 182.982,
+    "end": 184.863,
+    "zh": "是什么推动我们去做这些？",
+    "zh_hant": "是什麼推動我們去做這些？"
+  },
+  {
+    "index": 45,
+    "text": "There’s a little bit of the achievement and public acclaim, that’s a type of incentive.",
+    "start": 184.683,
+    "end": 188.565,
+    "zh": "有成就感和公众赞誉，那是一种激励。",
+    "zh_hant": "有成就感和公眾讚譽，那是一種激勵。"
+  },
+  {
+    "index": 46,
+    "text": "But actually most people who do spaceflight work, including most astronauts,",
+    "start": 188.245,
+    "end": 192.527,
+    "zh": "但实际上，大多数从事太空飞行工作的人，包括大多数宇航员，",
+    "zh_hant": "但實際上，大多數從事太空飛行工作的人，包括大多數宇航員，"
+  },
+  {
+    "index": 47,
+    "text": "they’re not really the public figures that they would have been in the Mercury program and the Apollo program, right?",
+    "start": 192.547,
+    "end": 197.329,
+    "zh": "他们并不像在水星计划和阿波罗计划中那样是公众人物，对吧？",
+    "zh_hant": "他們並不像在水星計劃和阿波羅計劃中那樣是公眾人物，對吧？"
+  },
+  {
+    "index": 48,
+    "text": "And so I don’t know if that’s really the main incentive.",
+    "start": 197.329,
+    "end": 199.851,
+    "zh": "所以我不确定那是不是主要的激励。",
+    "zh_hant": "所以我不確定那是不是主要的激勵。"
+  },
+  {
+    "index": 49,
+    "text": "I think the real, core incentive is an internal and psychological one,",
+    "start": 199.501,
+    "end": 202.832,
+    "zh": "我觉得真正核心的激励是内在的和心理上的，",
+    "zh_hant": "我覺得真正核心的激勵是內在的和心理上的，"
+  },
+  {
+    "index": 50,
+    "text": "which is that the story of humanity figuring out how to become",
+    "start": 202.482,
+    "end": 207.755,
+    "zh": "那就是人类的故事，学会如何变得",
+    "zh_hant": "那就是人類的故事，學會如何變得"
+  },
+  {
+    "index": 51,
+    "text": "sophisticated enough, advanced enough,",
+    "start": 207.875,
+    "end": 210.216,
+    "zh": "足够复杂、足够先进，",
+    "zh_hant": "足夠複雜、足夠先進，"
+  },
+  {
+    "index": 52,
+    "text": "maybe even benevolent enough to manage to go out into space together",
+    "start": 210.196,
+    "end": 215.538,
+    "zh": "甚至足够仁慈，能够一起进入太空，",
+    "zh_hant": "甚至足夠仁慈，能夠一起進入太空，"
+  },
+  {
+    "index": 53,
+    "text": "and extend the story of humanity throughout",
+    "start": 215.779,
+    "end": 219.941,
+    "zh": "并把人类的故事延续到",
+    "zh_hant": "並把人類的故事延續到"
+  },
+  {
+    "index": 54,
+    "text": "the solar system and, in the far future, potentially even to other stars,",
+    "start": 219.591,
+    "end": 223.442,
+    "zh": "整个太阳系，在遥远的未来，甚至可能延伸到其他恒星，",
+    "zh_hant": "整個太陽系，在遙遠的未來，甚至可能延伸到其他恆星，"
+  },
+  {
+    "index": 55,
+    "text": "I think that story is very motivating to people.",
+    "start": 223.563,
+    "end": 226.084,
+    "zh": "我觉得那故事对人们非常有激励作用。",
+    "zh_hant": "我覺得那故事對人們非常有激勵作用。"
+  },
+  {
+    "index": 56,
+    "text": "Not everyone in the space industry necessarily believes in that story.",
+    "start": 226.284,
+    "end": 229.245,
+    "zh": "不是太空行业里的每个人都一定相信那个故事。",
+    "zh_hant": "不是太空行業裡的每個人都一定相信那個故事。"
+  },
+  {
+    "index": 57,
+    "text": "There are good technical and scientific reasons to believe that that may not ultimately happen,",
+    "start": 229.145,
+    "end": 233.767,
+    "zh": "有很好的技术和科学理由认为那最终可能不会发生，",
+    "zh_hant": "有很好的技術和科學理由認為那最終可能不會發生，"
+  },
+  {
+    "index": 58,
+    "text": "but if you don’t believe in that story,",
+    "start": 234.228,
+    "end": 237.449,
+    "zh": "但如果你不相信那个故事，",
+    "zh_hant": "但如果你不相信那個故事，"
+  },
+  {
+    "index": 59,
+    "text": "then you’re not going to self-select into the community of people who works on it.",
+    "start": 237.099,
+    "end": 241.051,
+    "zh": "你就不会自发地选择进入从事这项工作的群体。",
+    "zh_hant": "你就不會自發地選擇進入從事這項工作的群體。"
+  },
+  {
+    "index": 60,
+    "text": "What is so fascinating to me is that spaceflight is largely, in many ways,",
+    "start": 241.012,
+    "end": 245.914,
+    "zh": "让我觉得非常迷人的是，太空飞行在很大程度上，在很多方面，",
+    "zh_hant": "讓我覺得非常迷人的是，太空飛行在很大程度上，在很多方面，"
+  },
+  {
+    "index": 61,
+    "text": "the result of enough people believing in that story",
+    "start": 245.564,
+    "end": 249.516,
+    "zh": "是足够多的人相信那个故事的结果，",
+    "zh_hant": "是足夠多的人相信那個故事的結果，"
+  },
+  {
+    "index": 62,
+    "text": "that they dedicate their labor to making it happen, and it has worked.",
+    "start": 249.166,
+    "end": 253.177,
+    "zh": "以至于他们投入自己的劳动去实现它，而且确实成功了。",
+    "zh_hant": "以至於他們投入自己的勞動去實現它，而且確實成功了。"
+  },
+  {
+    "index": 63,
+    "text": "And for me, that’s something that, fundamentally, I’m not sure we’ve really fully accounted for within economics.",
+    "start": 253.378,
+    "end": 259.601,
+    "zh": "对我来说，从根本上，我不确定我们真的在经济学中充分解释了这个。",
+    "zh_hant": "對我來說，從根本上，我不確定我們真的在經濟學中充分解釋了這個。"
+  },
+  {
+    "index": 64,
+    "text": "I remember early on in doing my Ph.D.,",
+    "start": 259.601,
+    "end": 261.842,
+    "zh": "我记得在我攻读博士学位的早期，",
+    "zh_hant": "我記得在我攻讀博士學位的早期，"
+  },
+  {
+    "index": 65,
+    "text": "I became very convinced that this idea of an inelastic supply of labor was really important,",
+    "start": 261.682,
+    "end": 267.284,
+    "zh": "我非常确信，劳动力供给无弹性这个想法非常重要，",
+    "zh_hant": "我非常確信，勞動力供給無彈性這個想法非常重要，"
+  },
+  {
+    "index": 66,
+    "text": "that actually people would be dedicating their labor irrespective of the economic incentives, right?",
+    "start": 267.325,
+    "end": 272.607,
+    "zh": "也就是说，人们实际上会不计经济激励而投入他们的劳动，对吧？",
+    "zh_hant": "也就是說，人們實際上會不計經濟激勵而投入他們的勞動，對吧？"
+  },
+  {
+    "index": 67,
+    "text": "Because they might believe in a particular story sufficiently strongly that other incentives don’t really matter.",
+    "start": 272.257,
+    "end": 276.549,
+    "zh": "因为他们可能足够强烈地相信某个故事，其他激励就不那么重要了。",
+    "zh_hant": "因為他們可能足夠強烈地相信某個故事，其他激勵就不那麼重要了。"
+  },
+  {
+    "index": 68,
+    "text": "So, you’re essentially saying Robert Goddard didn’t really care if he got paid for these rockets.",
+    "start": 276.629,
+    "end": 283.029,
+    "zh": "所以，你基本上是说，罗伯特·戈达德并不真的在乎他是否因为这些火箭而得到报酬。",
+    "zh_hant": "所以，你基本上是說，羅伯特·戈達德並不真的在乎他是否因為這些火箭而得到報酬。"
+  }
+]

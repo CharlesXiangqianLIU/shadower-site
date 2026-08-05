@@ -1,0 +1,546 @@
+[
+  {
+    "index": 0,
+    "text": "And if you take away my middle name, I’m Ruthless.",
+    "start": 0.63,
+    "end": 3.432,
+    "zh": "如果你去掉我的中间名，我就是无情。",
+    "zh_hant": "如果你去掉我的中間名，我就是無情。"
+  },
+  {
+    "index": 1,
+    "text": "Faulkner founded Epic in 1979, and is still the C.E.O.",
+    "start": 4.632,
+    "end": 8.994,
+    "zh": "福克纳于1979年创立了Epic，至今仍是首席执行官。",
+    "zh_hant": "福克納於1979年創立了Epic，至今仍是執行長。"
+  },
+  {
+    "index": 2,
+    "text": "Epic is an unusual company,",
+    "start": 9.155,
+    "end": 11.756,
+    "zh": "Epic是一家不寻常的公司，",
+    "zh_hant": "Epic是一家不尋常的公司，"
+  },
+  {
+    "index": 3,
+    "text": "and as you’ll hear today, Faulkner is an unusual leader.",
+    "start": 11.556,
+    "end": 16.278,
+    "zh": "正如你今天会听到的，福克纳也是一位不寻常的领导者。",
+    "zh_hant": "正如你今天會聽到的，福克納也是一位不尋常的領導者。"
+  },
+  {
+    "index": 4,
+    "text": "But I’m not sure “ruthless” is the right word.",
+    "start": 16.358,
+    "end": 19.299,
+    "zh": "但我不确定“无情”这个词是否恰当。",
+    "zh_hant": "但我不確定“無情”這個詞是否恰當。"
+  },
+  {
+    "index": 5,
+    "text": "I’ve got one house, one husband.",
+    "start": 19.4,
+    "end": 24.842,
+    "zh": "我有一栋房子，一个丈夫。",
+    "zh_hant": "我有一棟房子，一個丈夫。"
+  },
+  {
+    "index": 6,
+    "text": "One dog.",
+    "start": 25.163,
+    "end": 26.263,
+    "zh": "一只狗。",
+    "zh_hant": "一隻狗。"
+  },
+  {
+    "index": 7,
+    "text": "I would want more than one dog, but the husband does not.",
+    "start": 26.103,
+    "end": 29.284,
+    "zh": "我想多养几只狗，但丈夫不想。",
+    "zh_hant": "我想多養幾隻狗，但丈夫不想。"
+  },
+  {
+    "index": 8,
+    "text": "One car.",
+    "start": 31.086,
+    "end": 32.086,
+    "zh": "一辆车。",
+    "zh_hant": "一輛車。"
+  },
+  {
+    "index": 9,
+    "text": "What’s your car?",
+    "start": 32.106,
+    "end": 33.166,
+    "zh": "你的车是什么？",
+    "zh_hant": "你的車是什麼？"
+  },
+  {
+    "index": 10,
+    "text": "I have a 2016 Tesla.",
+    "start": 33.167,
+    "end": 36.488,
+    "zh": "我有一辆2016年的特斯拉。",
+    "zh_hant": "我有一輛2016年的特斯拉。"
+  },
+  {
+    "index": 11,
+    "text": "I like its self-driving.",
+    "start": 36.448,
+    "end": 38.309,
+    "zh": "我喜欢它的自动驾驶功能。",
+    "zh_hant": "我喜歡它的自動駕駛功能。"
+  },
+  {
+    "index": 12,
+    "text": "I find that between it and me together, we’re better than either alone.",
+    "start": 38.229,
+    "end": 43.192,
+    "zh": "我发现它和我配合时，比各自单独行动要好。",
+    "zh_hant": "我發現它和我配合時，比各自單獨行動要好。"
+  },
+  {
+    "index": 13,
+    "text": "Which software is more reliable at updating regularly: your Tesla software or Epic?",
+    "start": 43.352,
+    "end": 49.495,
+    "zh": "哪个软件的定期更新更可靠：你的特斯拉软件还是Epic？",
+    "zh_hant": "哪個軟體的定期更新更可靠：你的特斯拉軟體還是Epic？"
+  },
+  {
+    "index": 14,
+    "text": "The difficulty in my mind with the Tesla’s upgrades is every now and then I say,",
+    "start": 49.455,
+    "end": 55.358,
+    "zh": "我对特斯拉升级的顾虑是，时不时我会说，",
+    "zh_hant": "我對特斯拉昇級的顧慮是，時不時我會說，"
+  },
+  {
+    "index": 15,
+    "text": "“Tesla, you need better programmers.”",
+    "start": 55.138,
+    "end": 57.399,
+    "zh": "“特斯拉，你需要更好的程序员。”",
+    "zh_hant": "“特斯拉，你需要更好的程式設計師。”"
+  },
+  {
+    "index": 16,
+    "text": "It was only once that I called them on it.",
+    "start": 58.079,
+    "end": 60.84,
+    "zh": "我只为此联系过他们一次。",
+    "zh_hant": "我只為此聯絡過他們一次。"
+  },
+  {
+    "index": 17,
+    "text": "My Tesla, when I would move it into auto-drive,",
+    "start": 61.261,
+    "end": 65.163,
+    "zh": "我的特斯拉，当我切换到自动驾驶时，",
+    "zh_hant": "我的特斯拉，當我切換到自動駕駛時，"
+  },
+  {
+    "index": 18,
+    "text": "would cross the double yellow line and go headfirst into the cars coming at me.",
+    "start": 64.863,
+    "end": 69.425,
+    "zh": "会越过双黄线，直接冲向迎面驶来的车辆。",
+    "zh_hant": "會越過雙黃線，直接衝向迎面駛來的車輛。"
+  },
+  {
+    "index": 19,
+    "text": "Wait, what?",
+    "start": 69.505,
+    "end": 70.505,
+    "zh": "等等，什么？",
+    "zh_hant": "等等，什麼？"
+  },
+  {
+    "index": 20,
+    "text": "Say that again.",
+    "start": 70.155,
+    "end": 71.125,
+    "zh": "再说一遍。",
+    "zh_hant": "再說一遍。"
+  },
+  {
+    "index": 21,
+    "text": "Yes, that’s what it would do.",
+    "start": 71.546,
+    "end": 73.947,
+    "zh": "是的，它就是这样做的。",
+    "zh_hant": "是的，它就是這樣做的。"
+  },
+  {
+    "index": 22,
+    "text": "This was how long ago?",
+    "start": 74.087,
+    "end": 75.408,
+    "zh": "那是多久以前的事？",
+    "zh_hant": "那是多久以前的事？"
+  },
+  {
+    "index": 23,
+    "text": "Not long after I bought it.",
+    "start": 75.288,
+    "end": 76.768,
+    "zh": "我买下它后不久。",
+    "zh_hant": "我買下它後不久。"
+  },
+  {
+    "index": 24,
+    "text": "I’d be going home, it was hilly.",
+    "start": 76.989,
+    "end": 78.829,
+    "zh": "我开车回家，路是丘陵地带。",
+    "zh_hant": "我開車回家，路是丘陵地帶。"
+  },
+  {
+    "index": 25,
+    "text": "I’d put it into auto-drive.",
+    "start": 79.27,
+    "end": 81.271,
+    "zh": "我切换到自动驾驶。",
+    "zh_hant": "我切換到自動駕駛。"
+  },
+  {
+    "index": 26,
+    "text": "I would be at 35 miles an hour, would quickly go to 60, cross that double yellow line and go straight at the cars.",
+    "start": 81.251,
+    "end": 87.494,
+    "zh": "我时速35英里，它会迅速加速到60，越过那条双黄线，直冲向那些车。",
+    "zh_hant": "我時速35英里，它會迅速加速到60，越過那條雙黃線，直衝向那些車。"
+  },
+  {
+    "index": 27,
+    "text": "I think what it was trying to do is, because it was hilly,",
+    "start": 88.134,
+    "end": 92.776,
+    "zh": "我想它试图做的是，因为路有起伏，",
+    "zh_hant": "我想它試圖做的是，因為路有起伏，"
+  },
+  {
+    "index": 28,
+    "text": "it thought that maybe the road was going to end so it was going to save me by going into the other lane.",
+    "start": 92.837,
+    "end": 98.739,
+    "zh": "它以为路可能到头了，所以想通过转到另一条车道来救我。",
+    "zh_hant": "它以為路可能到頭了，所以想透過轉到另一條車道來救我。"
+  },
+  {
+    "index": 29,
+    "text": "I don’t know what it was thinking.",
+    "start": 98.6,
+    "end": 100.36,
+    "zh": "我不知道它在想什么。",
+    "zh_hant": "我不知道它在想什麼。"
+  },
+  {
+    "index": 30,
+    "text": "I called them about it.",
+    "start": 100.541,
+    "end": 102.041,
+    "zh": "我为此联系了他们。",
+    "zh_hant": "我為此聯絡了他們。"
+  },
+  {
+    "index": 31,
+    "text": "They sent someone to ride in the car with me and saw that that’s indeed what happened.",
+    "start": 102.361,
+    "end": 107.904,
+    "zh": "他们派人来和我一起乘车，看到确实发生了这种情况。",
+    "zh_hant": "他們派人來和我一起乘車，看到確實發生了這種情況。"
+  },
+  {
+    "index": 32,
+    "text": "Then they brought another car to see if it happened on that car too, and it did.",
+    "start": 108.024,
+    "end": 114.367,
+    "zh": "然后他们又开来另一辆车，看看那辆车上是否也会发生同样的问题，结果确实如此。",
+    "zh_hant": "然後他們又開來另一輛車，看看那輛車上是否也會發生同樣的問題，結果確實如此。"
+  },
+  {
+    "index": 33,
+    "text": "Same thing happened.",
+    "start": 114.047,
+    "end": 115.808,
+    "zh": "同样的事情发生了。",
+    "zh_hant": "同樣的事情發生了。"
+  },
+  {
+    "index": 34,
+    "text": "So it was the software and not the car.",
+    "start": 115.458,
+    "end": 117.609,
+    "zh": "所以是软件的问题，不是车的问题。",
+    "zh_hant": "所以是軟體的問題，不是車的問題。"
+  },
+  {
+    "index": 35,
+    "text": "Did you get that treatment because you’re Judy Faulkner of Epic or because you just drove a Tesla?",
+    "start": 117.449,
+    "end": 122.011,
+    "zh": "你得到那种处理是因为你是Epic的朱迪·福克纳，还是因为你只是开了一辆特斯拉？",
+    "zh_hant": "你得到那種處理是因為你是Epic的朱迪·福克納，還是因為你只是開了一輛特斯拉？"
+  },
+  {
+    "index": 36,
+    "text": "I think it’s because the Tesla people realized that was not a good thing to do,",
+    "start": 122.092,
+    "end": 125.893,
+    "zh": "我想是因为特斯拉的人意识到那样做不好，",
+    "zh_hant": "我想是因為特斯拉的人意識到那樣做不好，"
+  },
+  {
+    "index": 37,
+    "text": "and they did react quite appropriately.",
+    "start": 125.593,
+    "end": 129.355,
+    "zh": "而且他们确实反应得很恰当。",
+    "zh_hant": "而且他們確實反應得很恰當。"
+  },
+  {
+    "index": 38,
+    "text": "What would be the equivalent of Epic software doing that?",
+    "start": 129.495,
+    "end": 132.777,
+    "zh": "Epic软件如果发生类似情况，相当于什么？",
+    "zh_hant": "Epic軟體如果發生類似情況，相當於什麼？"
+  },
+  {
+    "index": 39,
+    "text": "And has that ever happened?",
+    "start": 132.897,
+    "end": 134.477,
+    "zh": "这种情况发生过吗？",
+    "zh_hant": "這種情況發生過嗎？"
+  },
+  {
+    "index": 40,
+    "text": "Not to my knowledge.",
+    "start": 134.498,
+    "end": 135.898,
+    "zh": "据我所知没有。",
+    "zh_hant": "據我所知沒有。"
+  },
+  {
+    "index": 41,
+    "text": "We test it very well before it goes out.",
+    "start": 135.898,
+    "end": 138.279,
+    "zh": "软件发布前我们会测试得很好。",
+    "zh_hant": "軟體釋出前我們會測試得很好。"
+  },
+  {
+    "index": 42,
+    "text": "But we have reports that everybody is supposed to write, they’re called red flags.",
+    "start": 138.42,
+    "end": 142.561,
+    "zh": "但我们有报告制度，所有人都必须写，叫做“红旗”报告。",
+    "zh_hant": "但我們有報告制度，所有人都必須寫，叫做“紅旗”報告。"
+  },
+  {
+    "index": 43,
+    "text": "If something is wrong, you have to write a red flag up about it.",
+    "start": 142.802,
+    "end": 146.343,
+    "zh": "如果出了问题，你必须写一份红旗报告。",
+    "zh_hant": "如果出了問題，你必須寫一份紅旗報告。"
+  },
+  {
+    "index": 44,
+    "text": "Most of the red flags are about things that can be fixed and don’t make a big difference.",
+    "start": 146.403,
+    "end": 151.726,
+    "zh": "大多数红旗报告是关于可以修复且影响不大的问题。",
+    "zh_hant": "大多數紅旗報告是關於可以修復且影響不大的問題。"
+  },
+  {
+    "index": 45,
+    "text": "Every once in a while, a red flag will either be a clinical error or a financial",
+    "start": 151.376,
+    "end": 157.148,
+    "zh": "偶尔，红旗报告会涉及临床错误或财务",
+    "zh_hant": "偶爾，紅旗報告會涉及臨床錯誤或財務"
+  },
+  {
+    "index": 46,
+    "text": "error.",
+    "start": 157.369,
+    "end": 158.109,
+    "zh": "错误。",
+    "zh_hant": "錯誤。"
+  },
+  {
+    "index": 47,
+    "text": "And on those things, we jump on them right away.",
+    "start": 158.109,
+    "end": 160.41,
+    "zh": "对于这些问题，我们会立即处理。",
+    "zh_hant": "對於這些問題，我們會立即處理。"
+  },
+  {
+    "index": 48,
+    "text": "Later on that night, and even the next day, I couldn’t stop thinking",
+    "start": 162.412,
+    "end": 166.774,
+    "zh": "那天晚上，甚至第二天，我都一直在想",
+    "zh_hant": "那天晚上，甚至第二天，我都一直在想"
+  },
+  {
+    "index": 49,
+    "text": "about this story that Faulkner told me about her Tesla.",
+    "start": 166.424,
+    "end": 169.455,
+    "zh": "福克纳告诉我的关于她特斯拉的故事。",
+    "zh_hant": "福克納告訴我的關於她特斯拉的故事。"
+  },
+  {
+    "index": 50,
+    "text": "Not because it was a scary story, but because of how she told it.",
+    "start": 169.535,
+    "end": 173.237,
+    "zh": "不是因为那是个可怕的故事，而是因为她讲述的方式。",
+    "zh_hant": "不是因為那是個可怕的故事，而是因為她講述的方式。"
+  },
+  {
+    "index": 51,
+    "text": "I think most people, if a critical piece of tech failed them like this,",
+    "start": 172.887,
+    "end": 177.859,
+    "zh": "我想大多数人，如果关键的技术设备像这样失灵，",
+    "zh_hant": "我想大多數人，如果關鍵的技術裝置像這樣失靈，"
+  },
+  {
+    "index": 52,
+    "text": "they’d get pretty dramatic retelling the story, like:",
+    "start": 177.699,
+    "end": 181.281,
+    "zh": "他们讲这件事时会很激动，就像：",
+    "zh_hant": "他們講這件事時會很激動，就像："
+  },
+  {
+    "index": 53,
+    "text": "“This absolutely crazy thing happened,",
+    "start": 181.381,
+    "end": 184.322,
+    "zh": "“这绝对疯狂的事发生了，",
+    "zh_hant": "“這絕對瘋狂的事發生了，"
+  },
+  {
+    "index": 54,
+    "text": "and if another car was coming, I’d be dead!”",
+    "start": 183.972,
+    "end": 186.803,
+    "zh": "如果对面有车过来，我就没命了！”",
+    "zh_hant": "如果對面有車過來，我就沒命了！”"
+  },
+  {
+    "index": 55,
+    "text": "But Judy Faulkner is, at her core,",
+    "start": 186.744,
+    "end": 190.045,
+    "zh": "但朱迪·福克纳，从本质上说，",
+    "zh_hant": "但朱迪·福克納，從本質上說，"
+  },
+  {
+    "index": 56,
+    "text": "a coder, a programmer, a computer scientist.",
+    "start": 190.125,
+    "end": 193.627,
+    "zh": "是一个编码者，程序员，计算机科学家。",
+    "zh_hant": "是一個編碼者，程式設計師，電腦科學家。"
+  },
+  {
+    "index": 57,
+    "text": "So, when she told the story, she focused on the parameters: It was hilly.",
+    "start": 193.387,
+    "end": 198.129,
+    "zh": "所以，当她讲这个故事时，她专注于参数：路有起伏。",
+    "zh_hant": "所以，當她講這個故事時，她專注於引數：路有起伏。"
+  },
+  {
+    "index": 58,
+    "text": "I would be at 35 miles an hour, would quickly go to 60.",
+    "start": 198.549,
+    "end": 201.942,
+    "zh": "我时速35英里，它会迅速加速到60。",
+    "zh_hant": "我時速35英里，它會迅速加速到60。"
+  },
+  {
+    "index": 59,
+    "text": "She tried to identify the underlying error: It thought that maybe",
+    "start": 201.992,
+    "end": 206.253,
+    "zh": "她试图找出根本错误：它以为可能",
+    "zh_hant": "她試圖找出根本錯誤：它以為可能"
+  },
+  {
+    "index": 60,
+    "text": "the road was going to end, so it was going to save me.",
+    "start": 205.914,
+    "end": 208.655,
+    "zh": "路到头了，所以想救我。",
+    "zh_hant": "路到頭了，所以想救我。"
+  },
+  {
+    "index": 61,
+    "text": "She replicated the error: Same thing happened.",
+    "start": 208.695,
+    "end": 212.977,
+    "zh": "她复现了错误：同样的事情发生了。",
+    "zh_hant": "她復現了錯誤：同樣的事情發生了。"
+  },
+  {
+    "index": 62,
+    "text": "So it was the software and not the car.",
+    "start": 212.627,
+    "end": 214.758,
+    "zh": "所以是软件的问题，不是车的问题。",
+    "zh_hant": "所以是軟體的問題，不是車的問題。"
+  },
+  {
+    "index": 63,
+    "text": "And she supervised the fix: The Tesla people realized that was not a good thing to do,",
+    "start": 214.818,
+    "end": 220.42,
+    "zh": "她还监督了修复：特斯拉的人意识到那样做不好，",
+    "zh_hant": "她還監督了修復：特斯拉的人意識到那樣做不好，"
+  },
+  {
+    "index": 64,
+    "text": "and they did react quite appropriately.",
+    "start": 220.121,
+    "end": 223.882,
+    "zh": "而且他们确实反应得很恰当。",
+    "zh_hant": "而且他們確實反應得很恰當。"
+  },
+  {
+    "index": 65,
+    "text": "This kind of temperament is probably a big benefit when you’re running a software system like Epic’s.",
+    "start": 224.002,
+    "end": 229.925,
+    "zh": "当你运行像Epic这样的软件系统时，这种性格可能是一大优势。",
+    "zh_hant": "當你執行像Epic這樣的軟體系統時，這種性格可能是一大優勢。"
+  },
+  {
+    "index": 66,
+    "text": "They oversee a vast, dynamic data set",
+    "start": 229.985,
+    "end": 233.627,
+    "zh": "他们管理着一个庞大、动态的数据集，",
+    "zh_hant": "他們管理著一個龐大、動態的資料集，"
+  },
+  {
+    "index": 67,
+    "text": "that underlies one of the most complicated, critical, and expensive industries in the world.",
+    "start": 233.277,
+    "end": 239.49,
+    "zh": "这个数据集支撑着世界上最复杂、最关键、最昂贵的行业之一。",
+    "zh_hant": "這個資料集支撐著世界上最複雜、最關鍵、最昂貴的行業之一。"
+  }
+]

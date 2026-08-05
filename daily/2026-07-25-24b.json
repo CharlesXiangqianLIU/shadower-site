@@ -1,0 +1,426 @@
+[
+  {
+    "index": 0,
+    "text": "One of Patel’s concerns with this research project is that the album-release dates are not random.",
+    "start": 0.55,
+    "end": 6.513,
+    "zh": "帕特尔对这个研究项目的一个担忧是，专辑发行日期并非随机。",
+    "zh_hant": "帕特爾對這個研究專案的一個擔憂是，專輯發行日期並非隨機。"
+  },
+  {
+    "index": 1,
+    "text": "For years, it has been common practice to release albums at midnight Eastern Time on Fridays.",
+    "start": 6.393,
+    "end": 11.976,
+    "zh": "多年来，周五午夜东部时间发行专辑已成为惯例。",
+    "zh_hant": "多年來，週五午夜東部時間發行專輯已成為慣例。"
+  },
+  {
+    "index": 2,
+    "text": "This used to be driven by anti-piracy concerns;",
+    "start": 12.076,
+    "end": 15.638,
+    "zh": "这过去是出于反盗版的考虑；",
+    "zh_hant": "這過去是出於反盜版的考慮；"
+  },
+  {
+    "index": 3,
+    "text": "but now it’s a way to globally synchronize Day 1 streams .",
+    "start": 15.288,
+    "end": 20.05,
+    "zh": "但现在这是一种全球同步首日流媒体的方式。",
+    "zh_hant": "但現在這是一種全球同步首日流媒體的方式。"
+  },
+  {
+    "index": 4,
+    "text": "Vishal Patel understood that he’d have to factor that in.",
+    "start": 20.02,
+    "end": 23.842,
+    "zh": "维沙尔·帕特尔明白他必须将这一点考虑进去。",
+    "zh_hant": "維沙爾·帕特爾明白他必須將這一點考慮進去。"
+  },
+  {
+    "index": 5,
+    "text": "Because most of these albums dropped on Fridays, and Fridays",
+    "start": 24.102,
+    "end": 27.744,
+    "zh": "因为大多数这些专辑都是在周五发行，而周五",
+    "zh_hant": "因為大多數這些專輯都是在週五發行，而週五"
+  },
+  {
+    "index": 6,
+    "text": "already have higher traffic fatalities than, say, Tuesdays,",
+    "start": 27.394,
+    "end": 30.885,
+    "zh": "的交通死亡人数本来就高于，比如说，周二，",
+    "zh_hant": "的交通死亡人數本來就高於，比如說，週二，"
+  },
+  {
+    "index": 7,
+    "text": "we had to design the study to compare each album release day to the same weekday",
+    "start": 30.965,
+    "end": 36.048,
+    "zh": "我们不得不设计研究，将每个专辑发行日与同一工作日",
+    "zh_hant": "我們不得不設計研究，將每個專輯發行日與同一工作日"
+  },
+  {
+    "index": 8,
+    "text": "in the week before and after.",
+    "start": 36.088,
+    "end": 37.809,
+    "zh": "的前后一周进行对比。",
+    "zh_hant": "的前後一週進行對比。"
+  },
+  {
+    "index": 9,
+    "text": "The window of the study period included 10 days before the album release drop and 10 days after,",
+    "start": 37.949,
+    "end": 44.112,
+    "zh": "研究期窗口包括专辑发行前10天和发行后10天，",
+    "zh_hant": "研究期視窗包括專輯發行前10天和發行後10天，"
+  },
+  {
+    "index": 10,
+    "text": "which would ensure that regardless of which weekday it was released on,",
+    "start": 44.072,
+    "end": 47.374,
+    "zh": "这样无论专辑在哪个工作日发行，",
+    "zh_hant": "這樣無論專輯在哪個工作日發行，"
+  },
+  {
+    "index": 11,
+    "text": "we would include the Friday before and after, or the weekend before and after.",
+    "start": 47.374,
+    "end": 51.816,
+    "zh": "我们都能涵盖前后各一个周五，或前后各一个周末。",
+    "zh_hant": "我們都能涵蓋前後各一個週五，或前後各一個週末。"
+  },
+  {
+    "index": 12,
+    "text": "The main analysis, by definition, accounts for the Friday effect,",
+    "start": 52.036,
+    "end": 57.319,
+    "zh": "主要分析本质上已经考虑了周五效应，",
+    "zh_hant": "主要分析本質上已經考慮了週五效應，"
+  },
+  {
+    "index": 13,
+    "text": "because you can always compare to the Friday before and after.",
+    "start": 56.969,
+    "end": 59.76,
+    "zh": "因为你总能与前后周五进行对比。",
+    "zh_hant": "因為你總能與前後週五進行對比。"
+  },
+  {
+    "index": 14,
+    "text": "We then also performed some falsification tests.",
+    "start": 59.96,
+    "end": 63.101,
+    "zh": "随后我们还进行了一些证伪测试。",
+    "zh_hant": "隨後我們還進行了一些證偽測試。"
+  },
+  {
+    "index": 15,
+    "text": "The first falsification test that we performed is we randomly selected 10 placebo dates",
+    "start": 63.242,
+    "end": 69.084,
+    "zh": "我们做的第一个证伪测试是，随机选择10个安慰剂日期，",
+    "zh_hant": "我們做的第一個證偽測試是，隨機選擇10個安慰劑日期，"
+  },
+  {
+    "index": 16,
+    "text": "and then again, 10 separate random Friday placebo album release dates.",
+    "start": 69.205,
+    "end": 74.947,
+    "zh": "然后又选择了10个独立的随机周五安慰剂专辑发行日期。",
+    "zh_hant": "然後又選擇了10個獨立的隨機週五安慰劑專輯發行日期。"
+  },
+  {
+    "index": 17,
+    "text": "We repeated the analysis 1,000 times.",
+    "start": 74.988,
+    "end": 77.589,
+    "zh": "我们重复进行了1000次分析。",
+    "zh_hant": "我們重複進行了1000次分析。"
+  },
+  {
+    "index": 18,
+    "text": "So our real effect was larger than what you’d get",
+    "start": 77.769,
+    "end": 81.471,
+    "zh": "因此，我们真实的效果在98%到99%的迭代中",
+    "zh_hant": "因此，我們真實的效果在98%到99%的迭代中"
+  },
+  {
+    "index": 19,
+    "text": "by chance alone in 98 to 99 percent of iterations",
+    "start": 81.121,
+    "end": 86.453,
+    "zh": "大于纯随机情况下可能得到的结果。",
+    "zh_hant": "大於純隨機情況下可能得到的結果。"
+  },
+  {
+    "index": 20,
+    "text": "of this placebo test.",
+    "start": 86.514,
+    "end": 88.314,
+    "zh": "在这次安慰剂测试中。",
+    "zh_hant": "在這次安慰劑測試中。"
+  },
+  {
+    "index": 21,
+    "text": "Then what we did, we took each album’s calendar date and applied it to other study years.",
+    "start": 88.154,
+    "end": 94.097,
+    "zh": "然后我们所做的是，将每张专辑的日历日期应用到其他研究年份。",
+    "zh_hant": "然後我們所做的是，將每張專輯的日曆日期應用到其他研究年份。"
+  },
+  {
+    "index": 22,
+    "text": "For example, if an album came out on —",
+    "start": 94.057,
+    "end": 97.62,
+    "zh": "例如，如果一张专辑发行于——",
+    "zh_hant": "例如，如果一張專輯發行於——"
+  },
+  {
+    "index": 23,
+    "text": "let’s say May 5th was a Friday of 2020 —",
+    "start": 97.299,
+    "end": 101.57,
+    "zh": "假设2020年5月5日是周五——",
+    "zh_hant": "假設2020年5月5日是週五——"
+  },
+  {
+    "index": 24,
+    "text": "we went to the same day in 2019,",
+    "start": 101.561,
+    "end": 105.7,
+    "zh": "我们就去看2019年的同一天，",
+    "zh_hant": "我們就去看2019年的同一天，"
+  },
+  {
+    "index": 25,
+    "text": "2018, 2017 and so on,",
+    "start": 105.75,
+    "end": 108.704,
+    "zh": "2018年、2017年等等，",
+    "zh_hant": "2018年、2017年等等，"
+  },
+  {
+    "index": 26,
+    "text": "and then the years subsequently where there was no album release,",
+    "start": 108.354,
+    "end": 113.046,
+    "zh": "然后接下来那些没有专辑发行的年份，",
+    "zh_hant": "然後接下來那些沒有專輯發行的年份，"
+  },
+  {
+    "index": 27,
+    "text": "and we did the same analysis.",
+    "start": 112.787,
+    "end": 114.907,
+    "zh": "我们做了同样的分析。",
+    "zh_hant": "我們做了同樣的分析。"
+  },
+  {
+    "index": 28,
+    "text": "We picked the closest day to the same day of the week to that calendar date.",
+    "start": 114.908,
+    "end": 119.51,
+    "zh": "我们选取了与该日历日期最接近的同一工作日。",
+    "zh_hant": "我們選取了與該日曆日期最接近的同一工作日。"
+  },
+  {
+    "index": 29,
+    "text": "the album release saw no spike in traffic fatalities.",
+    "start": 119.19,
+    "end": 123.612,
+    "zh": "专辑发行并未带来交通死亡的激增。",
+    "zh_hant": "專輯發行並未帶來交通死亡的激增。"
+  },
+  {
+    "index": 30,
+    "text": "Okay, then you started looking at some of the particular components",
+    "start": 123.672,
+    "end": 128.534,
+    "zh": "好的，那你开始关注这次死亡激增的某些具体组成部分，",
+    "zh_hant": "好的，那你開始關注這次死亡激增的某些具體組成部分，"
+  },
+  {
+    "index": 31,
+    "text": "of this spike in deaths, walk me through that.",
+    "start": 128.255,
+    "end": 131.056,
+    "zh": "给我讲讲这个吧。",
+    "zh_hant": "給我講講這個吧。"
+  },
+  {
+    "index": 32,
+    "text": "One of the questions is, well, could it just be that people",
+    "start": 131.256,
+    "end": 134.998,
+    "zh": "其中一个问题就是，会不会只是因为人们",
+    "zh_hant": "其中一個問題就是，會不會只是因為人們"
+  },
+  {
+    "index": 33,
+    "text": "are drinking more at album-release parties?",
+    "start": 134.648,
+    "end": 137.919,
+    "zh": "在专辑发行派对上喝了更多酒？",
+    "zh_hant": "在專輯發行派對上喝了更多酒？"
+  },
+  {
+    "index": 34,
+    "text": "The increase was actually more pronounced among sober drivers than among those with alcohol involvement.",
+    "start": 138.3,
+    "end": 144.762,
+    "zh": "实际上，增幅在清醒驾驶员中比涉及酒精的驾驶员更为显著。",
+    "zh_hant": "實際上，增幅在清醒駕駛員中比涉及酒精的駕駛員更為顯著。"
+  },
+  {
+    "index": 35,
+    "text": "And separately, it wasn’t more pronounced at nighttime.",
+    "start": 144.903,
+    "end": 149.725,
+    "zh": "而且，夜间并没有更明显的增幅。",
+    "zh_hant": "而且，夜間並沒有更明顯的增幅。"
+  },
+  {
+    "index": 36,
+    "text": "So if this was primarily a partying effect, nightlife effect, or alcohol effect,",
+    "start": 149.375,
+    "end": 154.627,
+    "zh": "所以如果这主要是聚会效应、夜生活效应或酒精效应，",
+    "zh_hant": "所以如果這主要是聚會效應、夜生活效應或酒精效應，"
+  },
+  {
+    "index": 37,
+    "text": "you’d expect the opposite pattern.",
+    "start": 154.427,
+    "end": 156.168,
+    "zh": "你预期会看到相反的模式。",
+    "zh_hant": "你預期會看到相反的模式。"
+  },
+  {
+    "index": 38,
+    "text": "A lot of crashes happen at night, plainly.",
+    "start": 156.068,
+    "end": 158.429,
+    "zh": "很多车祸发生在夜间，这很明显。",
+    "zh_hant": "很多車禍發生在夜間，這很明顯。"
+  },
+  {
+    "index": 39,
+    "text": "That must have made your spike look even more interesting and anomalous.",
+    "start": 158.409,
+    "end": 162.211,
+    "zh": "那一定让你的激增现象看起来更有趣、更反常了。",
+    "zh_hant": "那一定讓你的激增現象看起來更有趣、更反常了。"
+  },
+  {
+    "index": 40,
+    "text": "Exactly, the fact that it held for both day and nighttime crashes was reassuring.",
+    "start": 161.992,
+    "end": 167.914,
+    "zh": "确实，白天和夜间的车祸数据都成立，这让人安心。",
+    "zh_hant": "確實，白天和夜間的車禍資料都成立，這讓人安心。"
+  },
+  {
+    "index": 41,
+    "text": "What caused you the biggest concern that your conclusion was correct?",
+    "start": 167.935,
+    "end": 172.337,
+    "zh": "什么让你最担心你的结论是正确的？",
+    "zh_hant": "什麼讓你最擔心你的結論是正確的？"
+  },
+  {
+    "index": 42,
+    "text": "The main signal is really what we felt had to be backed by robustness and falsification",
+    "start": 172.377,
+    "end": 178.48,
+    "zh": "主要信号就是我们觉得必须通过稳健性和证伪",
+    "zh_hant": "主要訊號就是我們覺得必須透過穩健性和證偽"
+  },
+  {
+    "index": 43,
+    "text": "tests",
+    "start": 178.26,
+    "end": 179.16,
+    "zh": "测试来支持，",
+    "zh_hant": "測試來支援，"
+  },
+  {
+    "index": 44,
+    "text": "because simply we just didn’t have a control group.",
+    "start": 179.14,
+    "end": 182.381,
+    "zh": "因为我们根本没有对照组。",
+    "zh_hant": "因為我們根本沒有對照組。"
+  },
+  {
+    "index": 45,
+    "text": "All we had is on the days of these album releases, traffic fatalities go up.",
+    "start": 182.182,
+    "end": 187.384,
+    "zh": "我们所有的只是，在专辑发行的日子里，交通死亡人数上升了。",
+    "zh_hant": "我們所有的只是，在專輯發行的日子裡，交通死亡人數上升了。"
+  },
+  {
+    "index": 46,
+    "text": "It could be coincidence.",
+    "start": 187.384,
+    "end": 189.545,
+    "zh": "这可能只是巧合。",
+    "zh_hant": "這可能只是巧合。"
+  },
+  {
+    "index": 47,
+    "text": "Looking at who is most affected,",
+    "start": 189.685,
+    "end": 191.946,
+    "zh": "看看谁受影响最大，",
+    "zh_hant": "看看誰受影響最大，"
+  },
+  {
+    "index": 48,
+    "text": "you would expect that younger Americans",
+    "start": 192.047,
+    "end": 195.908,
+    "zh": "你会预期，更年轻的美国人",
+    "zh_hant": "你會預期，更年輕的美國人"
+  },
+  {
+    "index": 49,
+    "text": "who are much more likely to stream audio",
+    "start": 195.748,
+    "end": 199.23,
+    "zh": "更可能在车里播放流媒体音频，",
+    "zh_hant": "更可能在車裡播放流媒體音訊，"
+  },
+  {
+    "index": 50,
+    "text": "in the car are more likely be affected by this album release effect.",
+    "start": 199.252,
+    "end": 204.318,
+    "zh": "他们更可能受到这种专辑发行效应的影响。",
+    "zh_hant": "他們更可能受到這種專輯發行效應的影響。"
+  },
+  {
+    "index": 51,
+    "text": "We stratified the effects by age,",
+    "start": 204.479,
+    "end": 207.983,
+    "zh": "我们按年龄对效应进行了分层分析，",
+    "zh_hant": "我們按年齡對效應進行了分層分析，"
+  },
+  {
+    "index": 52,
+    "text": "and we found exactly that, that the effect size increased with younger age.",
+    "start": 207.633,
+    "end": 213.09,
+    "zh": "结果正如所料，年龄越小，效应量越大。",
+    "zh_hant": "結果正如所料，年齡越小，效應量越大。"
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "index": 0,
+    "text": "This is the VOA Special English Health Report.",
+    "start": 1.031,
+    "end": 5.413,
+    "zh": "这里是美国之音慢速英语健康报道。",
+    "zh_hant": "這裡是美國之音慢速英語健康報道。"
+  },
+  {
+    "index": 1,
+    "text": "Bad teeth can be painful and worse.",
+    "start": 5.573,
+    "end": 9.635,
+    "zh": "坏牙可能带来疼痛，甚至更糟。",
+    "zh_hant": "壞牙可能帶來疼痛，甚至更糟。"
+  },
+  {
+    "index": 2,
+    "text": "They can even be deadly.",
+    "start": 9.595,
+    "end": 11.816,
+    "zh": "它们甚至可能致命。",
+    "zh_hant": "它們甚至可能致命。"
+  },
+  {
+    "index": 3,
+    "text": "Infections of the gums and teeth can release bacteria into the blood system.",
+    "start": 11.996,
+    "end": 18.279,
+    "zh": "牙龈和牙齿的感染会将细菌释放到血液系统中。",
+    "zh_hant": "牙齦和牙齒的感染會將細菌釋放到血液系統中。"
+  },
+  {
+    "index": 4,
+    "text": "Those bacteria can increase the chances of a heart attack or stroke",
+    "start": 18.539,
+    "end": 24.642,
+    "zh": "这些细菌会增加心脏病发作或中风的风险，",
+    "zh_hant": "這些細菌會增加心臟病發作或中風的風險，"
+  },
+  {
+    "index": 5,
+    "text": "and worsen the effects of other diseases.",
+    "start": 24.582,
+    "end": 28.424,
+    "zh": "并加重其他疾病的影响。",
+    "zh_hant": "並加重其他疾病的影響。"
+  },
+  {
+    "index": 6,
+    "text": "And adults are not the only ones at risk.",
+    "start": 28.684,
+    "end": 32.826,
+    "zh": "而且不仅仅成年人面临风险。",
+    "zh_hant": "而且不僅僅成年人面臨風險。"
+  },
+  {
+    "index": 7,
+    "text": "For example, in 2007,",
+    "start": 32.827,
+    "end": 35.778,
+    "zh": "例如，在2007年，",
+    "zh_hant": "例如，在2007年，"
+  },
+  {
+    "index": 8,
+    "text": "doctors in the Washington area said a boy died",
+    "start": 35.828,
+    "end": 40.05,
+    "zh": "华盛顿地区的医生表示，一名男孩死亡，",
+    "zh_hant": "華盛頓地區的醫生表示，一名男孩死亡，"
+  },
+  {
+    "index": 9,
+    "text": "when a tooth infection spread to his brain.",
+    "start": 39.891,
+    "end": 43.252,
+    "zh": "原因是牙齿感染扩散到他的大脑。",
+    "zh_hant": "原因是牙齒感染擴散到他的大腦。"
+  },
+  {
+    "index": 10,
+    "text": "They said it might have been prevented had he received the dental care he needed.",
+    "start": 43.512,
+    "end": 49.955,
+    "zh": "他们说，如果他得到了所需的牙科护理，本可以避免这场悲剧。",
+    "zh_hant": "他們說，如果他得到了所需的牙科護理，本可以避免這場悲劇。"
+  },
+  {
+    "index": 11,
+    "text": "He was 12 years old.",
+    "start": 50.156,
+    "end": 52.477,
+    "zh": "他当时12岁。",
+    "zh_hant": "他當時12歲。"
+  },
+  {
+    "index": 12,
+    "text": "Experts at the National Institutes of Health say",
+    "start": 52.977,
+    "end": 56.919,
+    "zh": "美国国立卫生研究院的专家表示，",
+    "zh_hant": "美國國立衛生研究院的專家表示，"
+  },
+  {
+    "index": 13,
+    "text": "good dental care starts at birth.",
+    "start": 56.579,
+    "end": 60.02,
+    "zh": "良好的牙齿护理从出生时就要开始。",
+    "zh_hant": "良好的牙齒護理從出生時就要開始。"
+  },
+  {
+    "index": 14,
+    "text": "Breast milk, they say, is the best food for the healthy development of teeth.",
+    "start": 60.141,
+    "end": 66.283,
+    "zh": "他们说，母乳是牙齿健康发育的最佳食物。",
+    "zh_hant": "他們說，母乳是牙齒健康發育的最佳食物。"
+  },
+  {
+    "index": 15,
+    "text": "Breast milk can help slow bacterial growth",
+    "start": 66.544,
+    "end": 70.425,
+    "zh": "母乳有助于减缓细菌生长，",
+    "zh_hant": "母乳有助於減緩細菌生長，"
+  },
+  {
+    "index": 16,
+    "text": "and acid production in the mouth.",
+    "start": 70.326,
+    "end": 73.267,
+    "zh": "并减少口腔中的酸性物质产生。",
+    "zh_hant": "並減少口腔中的酸性物質產生。"
+  },
+  {
+    "index": 17,
+    "text": "But dentists say a baby's gums and early teeth",
+    "start": 73.527,
+    "end": 78.109,
+    "zh": "但牙医表示，婴儿的牙龈和早期牙齿，",
+    "zh_hant": "但牙醫表示，嬰兒的牙齦和早期牙齒，"
+  },
+  {
+    "index": 18,
+    "text": "should be cleaned after each feeding.",
+    "start": 78.049,
+    "end": 80.991,
+    "zh": "每次喂食后都应进行清洁。",
+    "zh_hant": "每次餵食後都應進行清潔。"
+  },
+  {
+    "index": 19,
+    "text": "Use a cloth with a little warm water.",
+    "start": 81.311,
+    "end": 84.293,
+    "zh": "用一块沾点温水的布。",
+    "zh_hant": "用一塊沾點溫水的布。"
+  },
+  {
+    "index": 20,
+    "text": "Do the same if a baby is fed with a bottle.",
+    "start": 84.453,
+    "end": 87.854,
+    "zh": "如果婴儿用奶瓶喂养，也应同样操作。",
+    "zh_hant": "如果嬰兒用奶瓶餵養，也應同樣操作。"
+  },
+  {
+    "index": 21,
+    "text": "Experts say if you decide to put your baby to sleep with a bottle,",
+    "start": 88.275,
+    "end": 93.557,
+    "zh": "专家表示，如果你决定让婴儿含着奶瓶入睡，",
+    "zh_hant": "專家表示，如果你決定讓嬰兒含著奶瓶入睡，"
+  },
+  {
+    "index": 22,
+    "text": "only give the child water.",
+    "start": 93.617,
+    "end": 96.018,
+    "zh": "只能给孩子水。",
+    "zh_hant": "只能給孩子水。"
+  },
+  {
+    "index": 23,
+    "text": "When baby teeth begin to appear, here, you can clean them with a wet toothbrush.",
+    "start": 96.359,
+    "end": 102.722,
+    "zh": "当乳牙开始长出时，你可以用湿牙刷清洁它们。",
+    "zh_hant": "當乳牙開始長出時，你可以用溼牙刷清潔它們。"
+  },
+  {
+    "index": 24,
+    "text": "Dentists say it is important to find soft toothbrushes",
+    "start": 103.062,
+    "end": 108.184,
+    "zh": "牙医表示，找到柔软的牙刷很重要，",
+    "zh_hant": "牙醫表示，找到柔軟的牙刷很重要，"
+  },
+  {
+    "index": 25,
+    "text": "made especially for babies and to use them very gently.",
+    "start": 108.105,
+    "end": 113.847,
+    "zh": "这些牙刷专为婴儿设计，使用时要非常轻柔。",
+    "zh_hant": "這些牙刷專為嬰兒設計，使用時要非常輕柔。"
+  },
+  {
+    "index": 26,
+    "text": "The use of fluoride to protect teeth is common in many parts of the world.",
+    "start": 114.228,
+    "end": 120.371,
+    "zh": "在世界许多地方，使用氟化物保护牙齿很常见。",
+    "zh_hant": "在世界許多地方，使用氟化物保護牙齒很常見。"
+  },
+  {
+    "index": 27,
+    "text": "For example, it is often added to drinking water supplies.",
+    "start": 120.631,
+    "end": 125.633,
+    "zh": "例如，它经常被添加到饮用水中。",
+    "zh_hant": "例如，它經常被新增到飲用水中。"
+  },
+  {
+    "index": 28,
+    "text": "The fluoride mixes with enamel,",
+    "start": 125.854,
+    "end": 128.755,
+    "zh": "氟化物与牙釉质混合，",
+    "zh_hant": "氟化物與牙釉質混合，"
+  },
+  {
+    "index": 29,
+    "text": "the hard surface on teeth, to help prevent",
+    "start": 128.595,
+    "end": 132.237,
+    "zh": "即牙齿的坚硬表面，有助于防止",
+    "zh_hant": "即牙齒的堅硬表面，有助於防止"
+  },
+  {
+    "index": 30,
+    "text": "holes or cavities from forming.",
+    "start": 131.887,
+    "end": 135.378,
+    "zh": "蛀洞或龋洞的形成。",
+    "zh_hant": "蛀洞或齲洞的形成。"
+  },
+  {
+    "index": 31,
+    "text": "But young children often swallow toothpaste when they brush.",
+    "start": 135.819,
+    "end": 140.961,
+    "zh": "但幼儿刷牙时经常会吞下牙膏。",
+    "zh_hant": "但幼兒刷牙時經常會吞下牙膏。"
+  },
+  {
+    "index": 32,
+    "text": "The American Academy of Pediatric Dentistry notes",
+    "start": 141.401,
+    "end": 146.003,
+    "zh": "美国儿童牙科学会指出，",
+    "zh_hant": "美國兒童牙科學會指出，"
+  },
+  {
+    "index": 33,
+    "text": "that swallowing fluoridated toothpaste can cause problems.",
+    "start": 145.683,
+    "end": 151.086,
+    "zh": "吞咽含氟牙膏可能会引起问题。",
+    "zh_hant": "吞嚥含氟牙膏可能會引起問題。"
+  },
+  {
+    "index": 34,
+    "text": "So young children should be carefully supervised when they brush their teeth.",
+    "start": 151.386,
+    "end": 157.429,
+    "zh": "因此，幼儿刷牙时应受到仔细监督。",
+    "zh_hant": "因此，幼兒刷牙時應受到仔細監督。"
+  },
+  {
+    "index": 35,
+    "text": "And only a small amount of fluoridated toothpaste",
+    "start": 157.709,
+    "end": 162.712,
+    "zh": "而且只能使用少量含氟牙膏，",
+    "zh_hant": "而且只能使用少量含氟牙膏，"
+  },
+  {
+    "index": 36,
+    "text": "the size of a pea should be used.",
+    "start": 162.592,
+    "end": 165.994,
+    "zh": "大约豌豆大小即可。",
+    "zh_hant": "大約豌豆大小即可。"
+  },
+  {
+    "index": 37,
+    "text": "Parents often wonder what effect thumb sucking",
+    "start": 166.434,
+    "end": 170.936,
+    "zh": "父母常常想知道吮吸拇指",
+    "zh_hant": "父母常常想知道吮吸拇指"
+  },
+  {
+    "index": 38,
+    "text": "or sucking on a pacifier",
+    "start": 170.836,
+    "end": 173.237,
+    "zh": "或安抚奶嘴",
+    "zh_hant": "或安撫奶嘴"
+  },
+  {
+    "index": 39,
+    "text": "might have on their baby's teeth.",
+    "start": 173.177,
+    "end": 175.859,
+    "zh": "对婴儿牙齿可能有什么影响。",
+    "zh_hant": "對嬰兒牙齒可能有什麼影響。"
+  },
+  {
+    "index": 40,
+    "text": "Dental experts generally agree that this is fine early in life.",
+    "start": 176.199,
+    "end": 182.442,
+    "zh": "牙科专家普遍认为，这在生命早期没有问题。",
+    "zh_hant": "牙科專家普遍認為，這在生命早期沒有問題。"
+  },
+  {
+    "index": 41,
+    "text": "The American Academy of Family Physicians says",
+    "start": 182.762,
+    "end": 186.824,
+    "zh": "美国家庭医生学会表示，",
+    "zh_hant": "美國家庭醫生學會表示，"
+  },
+  {
+    "index": 42,
+    "text": "most children stop sucking their thumb by the age of four.",
+    "start": 186.474,
+    "end": 191.226,
+    "zh": "大多数孩子在四岁时停止吮吸拇指。",
+    "zh_hant": "大多數孩子在四歲時停止吮吸拇指。"
+  },
+  {
+    "index": 43,
+    "text": "If it continues, the group advises parents to talk",
+    "start": 191.486,
+    "end": 195.828,
+    "zh": "如果持续下去，该机构建议父母与孩子的",
+    "zh_hant": "如果持續下去，該機構建議父母與孩子的"
+  },
+  {
+    "index": 44,
+    "text": "to their child's dentist or doctor.",
+    "start": 195.478,
+    "end": 198.95,
+    "zh": "牙医或医生沟通。",
+    "zh_hant": "牙醫或醫生溝通。"
+  },
+  {
+    "index": 45,
+    "text": "It could interfere with the correct development of permanent teeth.",
+    "start": 199.331,
+    "end": 205.393,
+    "zh": "这可能会妨碍恒牙的正常发育。",
+    "zh_hant": "這可能會妨礙恆牙的正常發育。"
+  },
+  {
+    "index": 46,
+    "text": "Dentists say children should have their first dental visit",
+    "start": 205.894,
+    "end": 211.136,
+    "zh": "牙医表示，孩子应进行第一次牙科检查，",
+    "zh_hant": "牙醫表示，孩子應進行第一次牙科檢查，"
+  },
+  {
+    "index": 47,
+    "text": "at least by the time they are one year old.",
+    "start": 211.136,
+    "end": 215.638,
+    "zh": "最晚不超过一岁。",
+    "zh_hant": "最晚不超過一歲。"
+  },
+  {
+    "index": 48,
+    "text": "They say babies should be examined when their first teeth appear,",
+    "start": 215.999,
+    "end": 221.681,
+    "zh": "他们说，婴儿应在长出第一颗牙时接受检查，",
+    "zh_hant": "他們說，嬰兒應在長出第一顆牙時接受檢查，"
+  },
+  {
+    "index": 49,
+    "text": "usually at around six months.",
+    "start": 221.882,
+    "end": 225.363,
+    "zh": "通常在六个月左右。",
+    "zh_hant": "通常在六個月左右。"
+  },
+  {
+    "index": 50,
+    "text": "For VOA Special English, I'm Alex Villareal.",
+    "start": 225.624,
+    "end": 229.945,
+    "zh": "这里是美国之音慢速英语，我是亚历克斯·维拉里尔。",
+    "zh_hant": "這裡是美國之音慢速英語，我是亞歷克斯·維拉里爾。"
+  },
+  {
+    "index": 51,
+    "text": "You can learn English and much more at voaspecialenglish .com",
+    "start": 230.106,
+    "end": 236.349,
+    "zh": "你可以在voaspecialenglish.com网站上学英语和更多内容，",
+    "zh_hant": "你可以在voaspecialenglish.com網站上學英語和更多內容，"
+  },
+  {
+    "index": 52,
+    "text": "and the VOA Learning English page on Facebook.",
+    "start": 236.369,
+    "end": 240.689,
+    "zh": "也可以访问美国之音学习英语的Facebook页面。",
+    "zh_hant": "也可以訪問美國之音學習英語的Facebook頁面。"
+  }
+]

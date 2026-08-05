@@ -1,0 +1,418 @@
+[
+  {
+    "index": 0,
+    "text": "This is the VOA Special English Technology Report.",
+    "start": 7.451,
+    "end": 11.673,
+    "zh": "这是美国之音慢速英语科技报道。",
+    "zh_hant": "這是美國之音慢速英語科技報道。"
+  },
+  {
+    "index": 1,
+    "text": "Controlling a device with your mind.",
+    "start": 11.833,
+    "end": 14.994,
+    "zh": "用你的思维控制设备。",
+    "zh_hant": "用你的思維控制裝置。"
+  },
+  {
+    "index": 2,
+    "text": "Powering your home with the energy of your own activities.",
+    "start": 15.055,
+    "end": 19.777,
+    "zh": "用自己活动的能量为家庭供电。",
+    "zh_hant": "用自己活動的能量為家庭供電。"
+  },
+  {
+    "index": 3,
+    "text": "These are two of the developments that experts at IBM think",
+    "start": 20.017,
+    "end": 25.239,
+    "zh": "这是IBM专家认为的两项发展，",
+    "zh_hant": "這是IBM專家認為的兩項發展，"
+  },
+  {
+    "index": 4,
+    "text": "will become reality within the the next five years.",
+    "start": 25.139,
+    "end": 30.062,
+    "zh": "将在未来五年内成为现实。",
+    "zh_hant": "將在未來五年內成為現實。"
+  },
+  {
+    "index": 5,
+    "text": "The technology company has released",
+    "start": 30.482,
+    "end": 33.804,
+    "zh": "这家科技公司已经发布了",
+    "zh_hant": "這家科技公司已經發布了"
+  },
+  {
+    "index": 6,
+    "text": "its latest five -in -five report.",
+    "start": 33.454,
+    "end": 37.685,
+    "zh": "其最新的“五年五预测”报告。",
+    "zh_hant": "其最新的“五年五預測”報告。"
+  },
+  {
+    "index": 7,
+    "text": "The experts think people will soon be able to control",
+    "start": 38.046,
+    "end": 42.428,
+    "zh": "专家们认为，人们很快就能控制",
+    "zh_hant": "專家們認為，人們很快就能控制"
+  },
+  {
+    "index": 8,
+    "text": "many electronic devices",
+    "start": 42.288,
+    "end": 44.629,
+    "zh": "许多电子设备，",
+    "zh_hant": "許多電子裝置，"
+  },
+  {
+    "index": 9,
+    "text": "simply by using their minds.",
+    "start": 44.929,
+    "end": 47.931,
+    "zh": "仅仅通过使用他们的思维。",
+    "zh_hant": "僅僅透過使用他們的思維。"
+  },
+  {
+    "index": 10,
+    "text": "Scientists at IBM and other companies",
+    "start": 48.291,
+    "end": 51.773,
+    "zh": "IBM和其他公司的科学家",
+    "zh_hant": "IBM和其他公司的科學家"
+  },
+  {
+    "index": 11,
+    "text": "are researching ways to do this in a field of science known",
+    "start": 51.813,
+    "end": 57.476,
+    "zh": "正在研究如何在一个名为",
+    "zh_hant": "正在研究如何在一個名為"
+  },
+  {
+    "index": 12,
+    "text": "as bioinformatics.",
+    "start": 57.396,
+    "end": 59.957,
+    "zh": "生物信息学的科学领域实现这一点。",
+    "zh_hant": "生物資訊學的科學領域實現這一點。"
+  },
+  {
+    "index": 13,
+    "text": "They say people will soon have a way to just think",
+    "start": 60.397,
+    "end": 65.079,
+    "zh": "他们说，人们很快就能通过仅仅想象",
+    "zh_hant": "他們說，人們很快就能透過僅僅想象"
+  },
+  {
+    "index": 14,
+    "text": "about calling or emailing someone in order to make it happen.",
+    "start": 64.859,
+    "end": 70.562,
+    "zh": "打电话或发邮件给某人来实现这一操作。",
+    "zh_hant": "打電話或發郵件給某人來實現這一操作。"
+  },
+  {
+    "index": 15,
+    "text": "Bernie Meyerson is IBM's Vice President of Innovation.",
+    "start": 71.343,
+    "end": 77.045,
+    "zh": "伯尼·迈耶森是IBM的创新副总裁。",
+    "zh_hant": "伯尼·邁耶森是IBM的創新副總裁。"
+  },
+  {
+    "index": 16,
+    "text": "He says the idea is for something with really deep capability",
+    "start": 77.486,
+    "end": 83.868,
+    "zh": "他说，这个想法是拥有真正强大能力的东西，",
+    "zh_hant": "他說，這個想法是擁有真正強大能力的東西，"
+  },
+  {
+    "index": 17,
+    "text": "so that a person for instance a quadriplegic",
+    "start": 84.109,
+    "end": 88.411,
+    "zh": "因此，例如一个四肢瘫痪者",
+    "zh_hant": "因此，例如一個四肢癱瘓者"
+  },
+  {
+    "index": 18,
+    "text": "a paraplegic can actually utilize brainwaves",
+    "start": 88.451,
+    "end": 93.954,
+    "zh": "或截瘫患者，实际上可以利用脑电波",
+    "zh_hant": "或截癱患者，實際上可以利用腦電波"
+  },
+  {
+    "index": 19,
+    "text": "to make things happen",
+    "start": 93.974,
+    "end": 95.815,
+    "zh": "来使事情发生，",
+    "zh_hant": "來使事情發生，"
+  },
+  {
+    "index": 20,
+    "text": "and basically run their own lives independently",
+    "start": 96.035,
+    "end": 100.797,
+    "zh": "并基本上独立地管理自己的生活。",
+    "zh_hant": "並基本上獨立地管理自己的生活。"
+  },
+  {
+    "index": 21,
+    "text": "another prediction is a way for people to power their homes",
+    "start": 101.878,
+    "end": 106.84,
+    "zh": "另一个预测是一种为家庭供电的方式，",
+    "zh_hant": "另一個預測是一種為家庭供電的方式，"
+  },
+  {
+    "index": 22,
+    "text": "and and offices,",
+    "start": 106.82,
+    "end": 108.381,
+    "zh": "以及办公室，",
+    "zh_hant": "以及辦公室，"
+  },
+  {
+    "index": 23,
+    "text": "using energy from activities like walking or running.",
+    "start": 108.621,
+    "end": 114.144,
+    "zh": "利用像走路或跑步这样的活动产生的能量。",
+    "zh_hant": "利用像走路或跑步這樣的活動產生的能量。"
+  },
+  {
+    "index": 24,
+    "text": "Still another prediction, passwords could soon become a thing",
+    "start": 114.844,
+    "end": 120.627,
+    "zh": "还有一个预测是，密码可能很快就会成为",
+    "zh_hant": "還有一個預測是，密碼可能很快就會成為"
+  },
+  {
+    "index": 25,
+    "text": "of the past.",
+    "start": 120.387,
+    "end": 122.088,
+    "zh": "过去式。",
+    "zh_hant": "過去式。"
+  },
+  {
+    "index": 26,
+    "text": "IBM says developments in biometric technology",
+    "start": 122.648,
+    "end": 127.351,
+    "zh": "IBM表示，生物识别技术的发展",
+    "zh_hant": "IBM表示，生物識別技術的發展"
+  },
+  {
+    "index": 27,
+    "text": "could soon make passwords unnecessary.",
+    "start": 127.431,
+    "end": 131.713,
+    "zh": "可能很快就会使密码变得不再必要。",
+    "zh_hant": "可能很快就會使密碼變得不再必要。"
+  },
+  {
+    "index": 28,
+    "text": "Some of the most common biometrics used to identify people",
+    "start": 132.494,
+    "end": 136.936,
+    "zh": "一些最常用的识别人的生物识别技术",
+    "zh_hant": "一些最常用的識別人的生物識別技術"
+  },
+  {
+    "index": 29,
+    "text": "are fingerprints, face and voice recognition, and iris scans.",
+    "start": 136.976,
+    "end": 143.239,
+    "zh": "包括指纹、面部和语音识别，以及虹膜扫描。",
+    "zh_hant": "包括指紋、面部和語音識別，以及虹膜掃描。"
+  },
+  {
+    "index": 30,
+    "text": "The iris is the colored part of the eye.",
+    "start": 143.419,
+    "end": 147.581,
+    "zh": "虹膜是眼睛的有色部分。",
+    "zh_hant": "虹膜是眼睛的有色部分。"
+  },
+  {
+    "index": 31,
+    "text": "Bernie Meyerson says this technology will soon be more widely used",
+    "start": 148.321,
+    "end": 154.524,
+    "zh": "伯尼·迈耶森说，这项技术很快将被更广泛地使用",
+    "zh_hant": "伯尼·邁耶森說，這項技術很快將被更廣泛地使用"
+  },
+  {
+    "index": 32,
+    "text": "by money machines and other devices.",
+    "start": 154.465,
+    "end": 158.206,
+    "zh": "在取款机和其他设备上。",
+    "zh_hant": "在取款機和其他裝置上。"
+  },
+  {
+    "index": 33,
+    "text": "Another prediction from the experts at International Business Machines,",
+    "start": 159.207,
+    "end": 164.369,
+    "zh": "来自国际商业机器公司专家的另一个预测是，",
+    "zh_hant": "來自國際商業機器公司專家的另一個預測是，"
+  },
+  {
+    "index": 34,
+    "text": "better technology to prevent unwanted email.",
+    "start": 164.91,
+    "end": 170.012,
+    "zh": "更好的技术来防止不想要的电子邮件。",
+    "zh_hant": "更好的技術來防止不想要的電子郵件。"
+  },
+  {
+    "index": 35,
+    "text": "The fifth prediction on IBM's 5 in 5 list",
+    "start": 170.953,
+    "end": 175.795,
+    "zh": "IBM“五年五预测”清单上的第五个预测",
+    "zh_hant": "IBM“五年五預測”清單上的第五個預測"
+  },
+  {
+    "index": 36,
+    "text": "is an end to the digital divide",
+    "start": 175.856,
+    "end": 179.557,
+    "zh": "是数字鸿沟的终结，",
+    "zh_hant": "是數字鴻溝的終結，"
+  },
+  {
+    "index": 37,
+    "text": "between those who have technology and those who do not.",
+    "start": 179.637,
+    "end": 184.78,
+    "zh": "即拥有技术的人与没有技术的人之间的差距。",
+    "zh_hant": "即擁有技術的人與沒有技術的人之間的差距。"
+  },
+  {
+    "index": 38,
+    "text": "Bernie Meyerson says, We anticipate within five years",
+    "start": 185.52,
+    "end": 190.683,
+    "zh": "伯尼·迈耶森说：“我们预计在五年内，",
+    "zh_hant": "伯尼·邁耶森說：“我們預計在五年內，"
+  },
+  {
+    "index": 39,
+    "text": "better than 80 % coverage of the world's population",
+    "start": 190.663,
+    "end": 195.985,
+    "zh": "世界人口的覆盖率将超过80%",
+    "zh_hant": "世界人口的覆蓋率將超過80%"
+  },
+  {
+    "index": 40,
+    "text": "by cellular to smartphones.",
+    "start": 196.025,
+    "end": 199.107,
+    "zh": "通过手机到智能手机。”",
+    "zh_hant": "透過手機到智慧手機。”"
+  },
+  {
+    "index": 41,
+    "text": "At that point,",
+    "start": 199.807,
+    "end": 201.308,
+    "zh": "那时，",
+    "zh_hant": "那時，"
+  },
+  {
+    "index": 42,
+    "text": "imagine having, for instance, the ability",
+    "start": 201.628,
+    "end": 205.48,
+    "zh": "想象一下，例如，有能力",
+    "zh_hant": "想象一下，例如，有能力"
+  },
+  {
+    "index": 43,
+    "text": "to speak openly with anybody,",
+    "start": 205.08,
+    "end": 208.892,
+    "zh": "与任何人自由交谈，",
+    "zh_hant": "與任何人自由交談，"
+  },
+  {
+    "index": 44,
+    "text": "anywhere, anytime, and any language.",
+    "start": 209.293,
+    "end": 214.575,
+    "zh": "在任何地方，任何时间，使用任何语言。",
+    "zh_hant": "在任何地方，任何時間，使用任何語言。"
+  },
+  {
+    "index": 45,
+    "text": "Real -time translation.",
+    "start": 214.976,
+    "end": 217.457,
+    "zh": "实时翻译。",
+    "zh_hant": "實時翻譯。"
+  },
+  {
+    "index": 46,
+    "text": "Literally, the old Star Trek idea",
+    "start": 218.097,
+    "end": 221.659,
+    "zh": "实际上，旧版《星际迷航》中的想法——",
+    "zh_hant": "實際上，舊版《星際迷航》中的想法——"
+  },
+  {
+    "index": 47,
+    "text": "of the universal translator coming to be and how the world would change",
+    "start": 221.719,
+    "end": 228.202,
+    "zh": "通用翻译器成为现实，以及世界将如何改变，",
+    "zh_hant": "通用翻譯器成為現實，以及世界將如何改變，"
+  },
+  {
+    "index": 48,
+    "text": "if",
+    "start": 228.282,
+    "end": 228.882,
+    "zh": "如果",
+    "zh_hant": "如果"
+  },
+  {
+    "index": 49,
+    "text": "there were that kind of communication and openness.",
+    "start": 228.532,
+    "end": 233.465,
+    "zh": "存在那种沟通和开放性的话。",
+    "zh_hant": "存在那種溝通和開放性的話。"
+  },
+  {
+    "index": 50,
+    "text": "And that's the VOA Special English Technology Report.",
+    "start": 235.026,
+    "end": 238.828,
+    "zh": "以上就是美国之音慢速英语科技报道。",
+    "zh_hant": "以上就是美國之音慢速英語科技報道。"
+  },
+  {
+    "index": 51,
+    "text": "For VOA Special English, I'm Carolyn Presutti.",
+    "start": 238.988,
+    "end": 243.45,
+    "zh": "我是卡罗琳·普雷苏蒂，为您报道美国之音慢速英语。",
+    "zh_hant": "我是卡羅琳·普雷蘇蒂，為您報道美國之音慢速英語。"
+  }
+]

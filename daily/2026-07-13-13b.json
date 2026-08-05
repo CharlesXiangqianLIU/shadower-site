@@ -1,0 +1,426 @@
+[
+  {
+    "index": 0,
+    "text": "This is the VOA Special English Health Report.",
+    "start": 0.891,
+    "end": 4.832,
+    "zh": "这里是美国之音特别英语健康报道。",
+    "zh_hant": "這裡是美國之音特別英語健康報道。"
+  },
+  {
+    "index": 1,
+    "text": "Uganda's latest outbreak of Ebola virus is the fourth in recent years.",
+    "start": 5.253,
+    "end": 11.115,
+    "zh": "乌干达最近爆发的埃博拉病毒是近年来第四次疫情。",
+    "zh_hant": "烏干達最近爆發的埃博拉病毒是近年來第四次疫情。"
+  },
+  {
+    "index": 2,
+    "text": "About 200 people died in the biggest outbreak in 2000.",
+    "start": 11.276,
+    "end": 15.86,
+    "zh": "2000年最大的一次疫情导致约200人死亡。",
+    "zh_hant": "2000年最大的一次疫情導致約200人死亡。"
+  },
+  {
+    "index": 3,
+    "text": "37 people died in the last outbreak in 2007.",
+    "start": 15.91,
+    "end": 21.731,
+    "zh": "2007年的上一次疫情中有37人死亡。",
+    "zh_hant": "2007年的上一次疫情中有37人死亡。"
+  },
+  {
+    "index": 4,
+    "text": "Ebola is a hemorrhagic fever.",
+    "start": 21.781,
+    "end": 24.402,
+    "zh": "埃博拉是一种出血热。",
+    "zh_hant": "埃博拉是一種出血熱。"
+  },
+  {
+    "index": 5,
+    "text": "It can lead to bleeding inside and outside the body.",
+    "start": 24.602,
+    "end": 29.364,
+    "zh": "它可能导致体内外出血。",
+    "zh_hant": "它可能導致體內外出血。"
+  },
+  {
+    "index": 6,
+    "text": "Symptoms of the disease include high fever,",
+    "start": 29.705,
+    "end": 33.366,
+    "zh": "该疾病的症状包括高烧，",
+    "zh_hant": "該疾病的症狀包括高燒，"
+  },
+  {
+    "index": 7,
+    "text": "vomiting, and sometimes diarrhea.",
+    "start": 33.487,
+    "end": 36.488,
+    "zh": "呕吐，有时还有腹泻。",
+    "zh_hant": "嘔吐，有時還有腹瀉。"
+  },
+  {
+    "index": 8,
+    "text": "Other signs include weakness, muscle pain, headache, and sore throat.",
+    "start": 36.928,
+    "end": 42.872,
+    "zh": "其他症状包括虚弱、肌肉疼痛、头痛和喉咙痛。",
+    "zh_hant": "其他症狀包括虛弱、肌肉疼痛、頭痛和喉嚨痛。"
+  },
+  {
+    "index": 9,
+    "text": "Ebola spreads through contact with blood",
+    "start": 43.412,
+    "end": 46.974,
+    "zh": "埃博拉通过接触血液传播",
+    "zh_hant": "埃博拉透過接觸血液傳播"
+  },
+  {
+    "index": 10,
+    "text": "or other body fluids of infected people.",
+    "start": 46.914,
+    "end": 50.395,
+    "zh": "或感染者的其他体液。",
+    "zh_hant": "或感染者的其他體液。"
+  },
+  {
+    "index": 11,
+    "text": "The virus is often deadly.",
+    "start": 50.616,
+    "end": 53.757,
+    "zh": "这种病毒往往致命。",
+    "zh_hant": "這種病毒往往致命。"
+  },
+  {
+    "index": 12,
+    "text": "There is no cure and no vaccine to prevent the disease.\"",
+    "start": 53.917,
+    "end": 59.44,
+    "zh": "没有治愈方法，也没有预防该疾病的疫苗。",
+    "zh_hant": "沒有治癒方法，也沒有預防該疾病的疫苗。"
+  },
+  {
+    "index": 13,
+    "text": "In July, President Yoweri Museveni urged Ugandans",
+    "start": 60.26,
+    "end": 65.243,
+    "zh": "7月，总统约韦里·穆塞韦尼敦促乌干达人",
+    "zh_hant": "7月，總統約韋裡·穆塞韋尼敦促烏干達人"
+  },
+  {
+    "index": 14,
+    "text": "to report all suspected cases of Ebola.",
+    "start": 65.043,
+    "end": 69.104,
+    "zh": "报告所有疑似埃博拉病例。",
+    "zh_hant": "報告所有疑似埃博拉病例。"
+  },
+  {
+    "index": 15,
+    "text": "He also urged people to limit their physical contact, even shaking hands.",
+    "start": 69.585,
+    "end": 75.448,
+    "zh": "他还敦促人们限制身体接触，甚至包括握手。",
+    "zh_hant": "他還敦促人們限制身體接觸，甚至包括握手。"
+  },
+  {
+    "index": 16,
+    "text": "Yaweri Museveni said, We discourage the shaking of hands",
+    "start": 75.748,
+    "end": 80.551,
+    "zh": "穆塞韦尼说，我们不鼓励握手",
+    "zh_hant": "穆塞韋尼說，我們不鼓勵握手"
+  },
+  {
+    "index": 17,
+    "text": "because that can cause contact through sweat which can cause problems.",
+    "start": 80.451,
+    "end": 86.273,
+    "zh": "因为这可能通过汗液导致接触，从而引发问题。",
+    "zh_hant": "因為這可能透過汗液導致接觸，從而引發問題。"
+  },
+  {
+    "index": 18,
+    "text": "And when people are sick in hospitals with symptoms which look like Ebola,",
+    "start": 86.434,
+    "end": 91.856,
+    "zh": "当患者在医院出现类似埃博拉的症状时，",
+    "zh_hant": "當患者在醫院出現類似埃博拉的症狀時，"
+  },
+  {
+    "index": 19,
+    "text": "they should be handled by medical workers wearing protective gear.",
+    "start": 91.936,
+    "end": 97.419,
+    "zh": "他们应由穿戴防护装备的医务人员处理。",
+    "zh_hant": "他們應由穿戴防護裝備的醫務人員處理。"
+  },
+  {
+    "index": 20,
+    "text": "year.",
+    "start": 97.069,
+    "end": 97.559,
+    "zh": "年。",
+    "zh_hant": "年。"
+  },
+  {
+    "index": 21,
+    "text": "President Museveni also warned people to let medical workers",
+    "start": 98.98,
+    "end": 103.762,
+    "zh": "穆塞韦尼总统还警告人们让医务人员",
+    "zh_hant": "穆塞韋尼總統還警告人們讓醫務人員"
+  },
+  {
+    "index": 22,
+    "text": "bury suspected Ebola victims.",
+    "start": 103.462,
+    "end": 106.623,
+    "zh": "埋葬疑似埃博拉受害者。",
+    "zh_hant": "埋葬疑似埃博拉受害者。"
+  },
+  {
+    "index": 23,
+    "text": "He said, Please do not take on the job of burying him or her.",
+    "start": 106.744,
+    "end": 112.766,
+    "zh": "他说，请不要承担埋葬他或她的工作。",
+    "zh_hant": "他說，請不要承擔埋葬他或她的工作。"
+  },
+  {
+    "index": 24,
+    "text": "Call the medical workers to be the ones to do it",
+    "start": 113.127,
+    "end": 117.469,
+    "zh": "叫医务人员来做这件事",
+    "zh_hant": "叫醫務人員來做這件事"
+  },
+  {
+    "index": 25,
+    "text": "because they are the ones who can do it safely.",
+    "start": 117.549,
+    "end": 121.471,
+    "zh": "因为他们是能够安全操作的人。",
+    "zh_hant": "因為他們是能夠安全操作的人。"
+  },
+  {
+    "index": 26,
+    "text": "Most of the cases in the latest outbreak",
+    "start": 122.552,
+    "end": 125.853,
+    "zh": "最新疫情中的大多数病例",
+    "zh_hant": "最新疫情中的大多數病例"
+  },
+  {
+    "index": 27,
+    "text": "have been reported in western Uganda.",
+    "start": 125.833,
+    "end": 129.435,
+    "zh": "已在乌干达西部报告。",
+    "zh_hant": "已在烏干達西部報告。"
+  },
+  {
+    "index": 28,
+    "text": "A World Health Organization official said",
+    "start": 130.116,
+    "end": 134.077,
+    "zh": "一位世界卫生组织官员表示",
+    "zh_hant": "一位世界衛生組織官員表示"
+  },
+  {
+    "index": 29,
+    "text": "the first cases in July were mistaken for cholera.",
+    "start": 133.727,
+    "end": 138.479,
+    "zh": "7月的首批病例被误认为是霍乱。",
+    "zh_hant": "7月的首批病例被誤認為是霍亂。"
+  },
+  {
+    "index": 30,
+    "text": "But Denis Luwamafa from Uganda's Ministry of Health says",
+    "start": 139.32,
+    "end": 144.322,
+    "zh": "但乌干达卫生部的丹尼斯·卢瓦马法表示",
+    "zh_hant": "但烏干達衛生部的丹尼斯·盧瓦馬法表示"
+  },
+  {
+    "index": 31,
+    "text": "Uganda has improved its ability to identify cases of Ebola.",
+    "start": 143.972,
+    "end": 149.745,
+    "zh": "乌干达提高了识别埃博拉病例的能力。",
+    "zh_hant": "烏干達提高了識別埃博拉病例的能力。"
+  },
+  {
+    "index": 32,
+    "text": "He said Uganda is probably in the lead",
+    "start": 150.385,
+    "end": 154.007,
+    "zh": "他说乌干达可能处于领先地位",
+    "zh_hant": "他說烏干達可能處於領先地位"
+  },
+  {
+    "index": 33,
+    "text": "when it comes to dealing with hemorrhagic fevers in Africa.",
+    "start": 153.927,
+    "end": 158.669,
+    "zh": "在处理非洲出血热方面。",
+    "zh_hant": "在處理非洲出血熱方面。"
+  },
+  {
+    "index": 34,
+    "text": "He said the diagnosis of the Ebola virus outbreak",
+    "start": 159.21,
+    "end": 163.772,
+    "zh": "他说对埃博拉病毒爆发的诊断",
+    "zh_hant": "他說對埃博拉病毒爆發的診斷"
+  },
+  {
+    "index": 35,
+    "text": "was done in Uganda.",
+    "start": 163.693,
+    "end": 165.853,
+    "zh": "是在乌干达完成的。",
+    "zh_hant": "是在烏干達完成的。"
+  },
+  {
+    "index": 36,
+    "text": "Denis Lilwamafa said although the disease",
+    "start": 166.514,
+    "end": 170.556,
+    "zh": "丹尼斯·卢瓦马法说虽然这种疾病",
+    "zh_hant": "丹尼斯·盧瓦馬法說雖然這種疾病"
+  },
+  {
+    "index": 37,
+    "text": "is also found in nearby countries,",
+    "start": 170.236,
+    "end": 173.037,
+    "zh": "在邻近国家也存在，",
+    "zh_hant": "在鄰近國家也存在，"
+  },
+  {
+    "index": 38,
+    "text": "outbreaks are not always identified.",
+    "start": 173.177,
+    "end": 176.899,
+    "zh": "但疫情并不总能被发现。",
+    "zh_hant": "但疫情並不總能被發現。"
+  },
+  {
+    "index": 39,
+    "text": "He said, in other countries, especially",
+    "start": 177.319,
+    "end": 181.361,
+    "zh": "他说，在其他国家，尤其是",
+    "zh_hant": "他說，在其他國家，尤其是"
+  },
+  {
+    "index": 40,
+    "text": "in some of the neighboring countries,",
+    "start": 181.541,
+    "end": 184.563,
+    "zh": "在一些邻国，",
+    "zh_hant": "在一些鄰國，"
+  },
+  {
+    "index": 41,
+    "text": "many times Ebola goes unrecognized",
+    "start": 185.143,
+    "end": 189.305,
+    "zh": "很多时候埃博拉被忽视",
+    "zh_hant": "很多時候埃博拉被忽視"
+  },
+  {
+    "index": 42,
+    "text": "and other times it goes unreported.",
+    "start": 189.425,
+    "end": 192.927,
+    "zh": "有时又未被报告。",
+    "zh_hant": "有時又未被報告。"
+  },
+  {
+    "index": 43,
+    "text": "He said in some neighboring countries, Ebola destroys whole villages.",
+    "start": 193.928,
+    "end": 200.25,
+    "zh": "他说在一些邻国，埃博拉摧毁整个村庄。",
+    "zh_hant": "他說在一些鄰國，埃博拉摧毀整個村莊。"
+  },
+  {
+    "index": 44,
+    "text": "He said it then disappears because there is nobody left to infect.",
+    "start": 200.951,
+    "end": 207.274,
+    "zh": "他说然后它会消失，因为没有剩下任何人可感染。",
+    "zh_hant": "他說然後它會消失，因為沒有剩下任何人可感染。"
+  },
+  {
+    "index": 45,
+    "text": "Ebola fever is named after a river near the first recognized outbreak.",
+    "start": 208.535,
+    "end": 214.217,
+    "zh": "埃博拉热以首次确认疫情附近的一条河流命名。",
+    "zh_hant": "埃博拉熱以首次確認疫情附近的一條河流命名。"
+  },
+  {
+    "index": 46,
+    "text": "That was in 1976 in Zaire, now the Democratic Republic",
+    "start": 214.318,
+    "end": 219.88,
+    "zh": "那是在1976年的扎伊尔，即现在的刚果民主共和国。",
+    "zh_hant": "那是在1976年的扎伊爾，即現在的剛果民主共和國。"
+  },
+  {
+    "index": 47,
+    "text": "of Congo.",
+    "start": 219.9,
+    "end": 220.981,
+    "zh": "刚果。",
+    "zh_hant": "剛果。"
+  },
+  {
+    "index": 48,
+    "text": "To read, listen and learn English, go to voaspecialenglish .com.",
+    "start": 222.462,
+    "end": 227.924,
+    "zh": "要阅读、听力和学习英语，请访问 voaspecialenglish.com。",
+    "zh_hant": "要閱讀、聽力和學習英語，請訪問 voaspecialenglish.com。"
+  },
+  {
+    "index": 49,
+    "text": "You can also read the book,",
+    "start": 227.574,
+    "end": 229.705,
+    "zh": "你还可以阅读这本书，",
+    "zh_hant": "你還可以閱讀這本書，"
+  },
+  {
+    "index": 50,
+    "text": "The find our captioned videos at the VOA Learning English channel",
+    "start": 229.355,
+    "end": 234.827,
+    "zh": "在我们的带字幕视频中，请访问美国之音学习英语频道",
+    "zh_hant": "在我們的帶字幕影片中，請訪問美國之音學習英語頻道"
+  },
+  {
+    "index": 51,
+    "text": "on YouTube.",
+    "start": 234.928,
+    "end": 236.088,
+    "zh": "在YouTube上。",
+    "zh_hant": "在YouTube上。"
+  },
+  {
+    "index": 52,
+    "text": "For VOA Special English, I'm Carolyn Prosutti.",
+    "start": 236.769,
+    "end": 240.907,
+    "zh": "美国之音特别英语，我是卡罗琳·普鲁苏蒂。",
+    "zh_hant": "美國之音特別英語，我是卡羅琳·普魯蘇蒂。"
+  }
+]
