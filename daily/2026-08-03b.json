@@ -1,0 +1,450 @@
+[
+  {
+    "index": 0,
+    "text": "Wilbur and Orville Wright are the American inventors",
+    "start": 0.73,
+    "end": 5.793,
+    "zh": "威尔伯·莱特和奥维尔·莱特是美国发明家",
+    "zh_hant": "威爾伯·萊特和奧維爾·萊特是美國發明家"
+  },
+  {
+    "index": 1,
+    "text": "who made a small engine-powered flying machine.",
+    "start": 5.673,
+    "end": 10.195,
+    "zh": "他们制造了一架小型发动机驱动的飞行器。",
+    "zh_hant": "他們製造了一架小型發動機驅動的飛行器。"
+  },
+  {
+    "index": 2,
+    "text": "They proved that flight without the aid of gas-filled balloons",
+    "start": 10.775,
+    "end": 16.358,
+    "zh": "他们证明了不借助充气气球也能飞行",
+    "zh_hant": "他們證明了不借助充氣氣球也能飛行"
+  },
+  {
+    "index": 3,
+    "text": "was possible.",
+    "start": 16.278,
+    "end": 17.699,
+    "zh": "是可能的。",
+    "zh_hant": "是可能的。"
+  },
+  {
+    "index": 4,
+    "text": "Wilbur Wright was born in 1867 near Melville,",
+    "start": 18.179,
+    "end": 23.942,
+    "zh": "威尔伯·莱特于1867年出生在梅尔维尔附近",
+    "zh_hant": "威爾伯·萊特於1867年出生在梅爾維爾附近"
+  },
+  {
+    "index": 5,
+    "text": "Indiana.",
+    "start": 23.682,
+    "end": 24.782,
+    "zh": "印第安纳州。",
+    "zh_hant": "印第安納州。"
+  },
+  {
+    "index": 6,
+    "text": "His brother Orville was born four years later in Dayton, Ohio.",
+    "start": 25.403,
+    "end": 31.406,
+    "zh": "他的弟弟奥维尔四年后出生在俄亥俄州的代顿。",
+    "zh_hant": "他的弟弟奧維爾四年後出生在俄亥俄州的代頓。"
+  },
+  {
+    "index": 7,
+    "text": "As they grew up, the Wright brothers experimented with mechanical things.",
+    "start": 32.146,
+    "end": 38.509,
+    "zh": "成长过程中，莱特兄弟对机械事物进行了实验。",
+    "zh_hant": "成長過程中，萊特兄弟對機械事物進行了實驗。"
+  },
+  {
+    "index": 8,
+    "text": "Later, the Wright brothers began to design their own flying machine.",
+    "start": 38.99,
+    "end": 45.173,
+    "zh": "后来，莱特兄弟开始设计自己的飞行器。",
+    "zh_hant": "後來，萊特兄弟開始設計自己的飛行器。"
+  },
+  {
+    "index": 9,
+    "text": "They used ideas",
+    "start": 45.633,
+    "end": 47.574,
+    "zh": "他们运用了",
+    "zh_hant": "他們運用了"
+  },
+  {
+    "index": 10,
+    "text": "they had developed from earlier experiments with a toy helicopter,",
+    "start": 47.224,
+    "end": 53.277,
+    "zh": "从早期玩具直升机、风筝、印刷机和自行车实验中得出的想法。",
+    "zh_hant": "從早期玩具直升機、風箏、印刷機和腳踏車實驗中得出的想法。"
+  },
+  {
+    "index": 11,
+    "text": "kites, the printing machine and bicycles.",
+    "start": 53.337,
+    "end": 57.639,
+    "zh": "风筝、印刷机和自行车。",
+    "zh_hant": "風箏、印刷機和腳踏車。"
+  },
+  {
+    "index": 12,
+    "text": "Soon, they needed a place to test their ideas about flight.",
+    "start": 58.159,
+    "end": 63.482,
+    "zh": "很快，他们需要一个测试飞行想法的地方。",
+    "zh_hant": "很快，他們需要一個測試飛行想法的地方。"
+  },
+  {
+    "index": 13,
+    "text": "The best place with the best wind conditions seemed",
+    "start": 63.882,
+    "end": 69.125,
+    "zh": "风况最佳的地方似乎",
+    "zh_hant": "風況最佳的地方似乎"
+  },
+  {
+    "index": 14,
+    "text": "to be a piece of sandy land in North Carolina",
+    "start": 68.885,
+    "end": 73.527,
+    "zh": "是北卡罗来纳州的一片沙地",
+    "zh_hant": "是北卡羅來納州的一片沙地"
+  },
+  {
+    "index": 15,
+    "text": "along the coast of the Atlantic Ocean.",
+    "start": 73.607,
+    "end": 77.088,
+    "zh": "位于大西洋沿岸。",
+    "zh_hant": "位於大西洋沿岸。"
+  },
+  {
+    "index": 16,
+    "text": "It was called Kill Devil Hill, near the town of Kitty Hawk.",
+    "start": 77.709,
+    "end": 83.292,
+    "zh": "那里叫基尔魔鬼山，靠近基蒂霍克镇。",
+    "zh_hant": "那裡叫基爾魔鬼山，靠近基蒂霍克鎮。"
+  },
+  {
+    "index": 17,
+    "text": "The Wright brothers did many tests with gliders at Kitty Hawk.",
+    "start": 83.933,
+    "end": 89.275,
+    "zh": "莱特兄弟在基蒂霍克用滑翔机进行了多次测试。",
+    "zh_hant": "萊特兄弟在基蒂霍克用滑翔機進行了多次測試。"
+  },
+  {
+    "index": 18,
+    "text": "With these tests, they learned how to solve many problems.",
+    "start": 89.715,
+    "end": 94.958,
+    "zh": "通过这些测试，他们学会了如何解决许多问题。",
+    "zh_hant": "透過這些測試，他們學會了如何解決許多問題。"
+  },
+  {
+    "index": 19,
+    "text": "By the autumn of 1903,",
+    "start": 95.438,
+    "end": 98.65,
+    "zh": "到1903年秋天",
+    "zh_hant": "到1903年秋天"
+  },
+  {
+    "index": 20,
+    "text": "Wilbur and Orville had designed and built an airplane",
+    "start": 98.7,
+    "end": 103.882,
+    "zh": "威尔伯和奥维尔设计并制造了一架飞机",
+    "zh_hant": "威爾伯和奧維爾設計並製造了一架飛機"
+  },
+  {
+    "index": 21,
+    "text": "powered by a gasoline engine.",
+    "start": 103.582,
+    "end": 106.624,
+    "zh": "由汽油发动机驱动。",
+    "zh_hant": "由汽油發動機驅動。"
+  },
+  {
+    "index": 22,
+    "text": "The plane had wings 12 meters across.",
+    "start": 107.184,
+    "end": 111.166,
+    "zh": "飞机的机翼宽12米。",
+    "zh_hant": "飛機的機翼寬12米。"
+  },
+  {
+    "index": 23,
+    "text": "It weighed about 340 kilograms, including the pilot.",
+    "start": 111.646,
+    "end": 117.349,
+    "zh": "包括飞行员在内，它重约340公斤。",
+    "zh_hant": "包括飛行員在內，它重約340公斤。"
+  },
+  {
+    "index": 24,
+    "text": "On December 17th, 1903,",
+    "start": 117.87,
+    "end": 121.722,
+    "zh": "1903年12月17日",
+    "zh_hant": "1903年12月17日"
+  },
+  {
+    "index": 25,
+    "text": "they made the world's first flight",
+    "start": 121.772,
+    "end": 124.513,
+    "zh": "他们进行了世界上首次飞行",
+    "zh_hant": "他們進行了世界上首次飛行"
+  },
+  {
+    "index": 26,
+    "text": "in a machine that was heavier than air and powered by an engine.",
+    "start": 124.253,
+    "end": 130.616,
+    "zh": "乘坐的机器比空气重，由发动机驱动。",
+    "zh_hant": "乘坐的機器比空氣重，由發動機驅動。"
+  },
+  {
+    "index": 27,
+    "text": "Orville flew the plane 36 meters.",
+    "start": 131.217,
+    "end": 134.838,
+    "zh": "奥维尔驾驶飞机飞行了36米。",
+    "zh_hant": "奧維爾駕駛飛機飛行了36米。"
+  },
+  {
+    "index": 28,
+    "text": "He was in the air for 12 seconds.",
+    "start": 135.259,
+    "end": 138.48,
+    "zh": "他在空中停留了12秒。",
+    "zh_hant": "他在空中停留了12秒。"
+  },
+  {
+    "index": 29,
+    "text": "The two brothers made three more flights that day.",
+    "start": 138.98,
+    "end": 143.022,
+    "zh": "那天兄弟俩又进行了三次飞行。",
+    "zh_hant": "那天兄弟倆又進行了三次飛行。"
+  },
+  {
+    "index": 30,
+    "text": "Four other men watched the Wright brothers' first flights.",
+    "start": 143.563,
+    "end": 148.044,
+    "zh": "另有四人观看了莱特兄弟的首次飞行。",
+    "zh_hant": "另有四人觀看了萊特兄弟的首次飛行。"
+  },
+  {
+    "index": 31,
+    "text": "One of the men took pictures.",
+    "start": 148.585,
+    "end": 151.086,
+    "zh": "其中一人拍了照片。",
+    "zh_hant": "其中一人拍了照片。"
+  },
+  {
+    "index": 32,
+    "text": "Few newspapers, however, noted the event.",
+    "start": 151.526,
+    "end": 156.028,
+    "zh": "然而，很少有报纸报道这一事件。",
+    "zh_hant": "然而，很少有報紙報道這一事件。"
+  },
+  {
+    "index": 33,
+    "text": "It was almost five years before the Wright brothers became famous.",
+    "start": 156.529,
+    "end": 162.392,
+    "zh": "将近五年后，莱特兄弟才成名。",
+    "zh_hant": "將近五年後，萊特兄弟才成名。"
+  },
+  {
+    "index": 34,
+    "text": "In 1908, Wilbur went to France.",
+    "start": 162.873,
+    "end": 167.134,
+    "zh": "1908年，威尔伯去了法国。",
+    "zh_hant": "1908年，威爾伯去了法國。"
+  },
+  {
+    "index": 35,
+    "text": "He gave demonstration flights at heights of 90 meters.",
+    "start": 167.555,
+    "end": 172.857,
+    "zh": "他在90米高度进行了示范飞行。",
+    "zh_hant": "他在90米高度進行了示範飛行。"
+  },
+  {
+    "index": 36,
+    "text": "A French company agreed to begin making the Wright brothers' flying machine.",
+    "start": 173.358,
+    "end": 179.44,
+    "zh": "一家法国公司同意开始制造莱特兄弟的飞行器。",
+    "zh_hant": "一家法國公司同意開始製造萊特兄弟的飛行器。"
+  },
+  {
+    "index": 37,
+    "text": "Orville made successful flights",
+    "start": 179.941,
+    "end": 182.682,
+    "zh": "在威尔伯在法国期间",
+    "zh_hant": "在威爾伯在法國期間"
+  },
+  {
+    "index": 38,
+    "text": "in the United States at the time Wilbur was in France.",
+    "start": 182.362,
+    "end": 187.384,
+    "zh": "奥维尔在美国进行了成功的飞行。",
+    "zh_hant": "奧維爾在美國進行了成功的飛行。"
+  },
+  {
+    "index": 39,
+    "text": "The United States War Department agreed to buy a Wright brothers' plane.",
+    "start": 187.765,
+    "end": 193.648,
+    "zh": "美国陆军部同意购买一架莱特兄弟的飞机。",
+    "zh_hant": "美國陸軍部同意購買一架萊特兄弟的飛機。"
+  },
+  {
+    "index": 40,
+    "text": "Wilbur and Orville suddenly became world heroes.",
+    "start": 194.148,
+    "end": 198.55,
+    "zh": "威尔伯和奥维尔突然成为世界英雄。",
+    "zh_hant": "威爾伯和奧維爾突然成為世界英雄。"
+  },
+  {
+    "index": 41,
+    "text": "But the brothers were not seeking fame.",
+    "start": 198.951,
+    "end": 202.072,
+    "zh": "但兄弟俩并不追求名声。",
+    "zh_hant": "但兄弟倆並不追求名聲。"
+  },
+  {
+    "index": 42,
+    "text": "They returned to Dayton where they continued to improve their airplanes.",
+    "start": 202.532,
+    "end": 208.575,
+    "zh": "他们回到代顿，继续改进他们的飞机。",
+    "zh_hant": "他們回到代頓，繼續改進他們的飛機。"
+  },
+  {
+    "index": 43,
+    "text": "They taught many others how to fly.",
+    "start": 209.036,
+    "end": 212.097,
+    "zh": "他们教了许多人如何飞行。",
+    "zh_hant": "他們教了許多人如何飛行。"
+  },
+  {
+    "index": 44,
+    "text": "Wilbur Wright died of typhoid fever in 1912.",
+    "start": 212.657,
+    "end": 218.39,
+    "zh": "威尔伯·莱特于1912年死于伤寒热。",
+    "zh_hant": "威爾伯·萊特於1912年死於傷寒熱。"
+  },
+  {
+    "index": 45,
+    "text": "Orville Wright continued designing and inventing",
+    "start": 218.44,
+    "end": 222.802,
+    "zh": "奥维尔·莱特继续设计和发明",
+    "zh_hant": "奧維爾·萊特繼續設計和發明"
+  },
+  {
+    "index": 46,
+    "text": "until he died many years later, in 1948.",
+    "start": 222.742,
+    "end": 228.435,
+    "zh": "直到多年后他于1948年去世。",
+    "zh_hant": "直到多年後他於1948年去世。"
+  },
+  {
+    "index": 47,
+    "text": "Today, the Wright brothers' first airplane",
+    "start": 228.485,
+    "end": 232.047,
+    "zh": "如今，莱特兄弟的第一架飞机",
+    "zh_hant": "如今，萊特兄弟的第一架飛機"
+  },
+  {
+    "index": 48,
+    "text": "is in the Air and Space Museum in Washington, D.C.",
+    "start": 231.987,
+    "end": 236.709,
+    "zh": "陈列在华盛顿特区的航空航天博物馆里。",
+    "zh_hant": "陳列在華盛頓特區的航空航天博物館裡。"
+  },
+  {
+    "index": 49,
+    "text": "Visitors to the museum can look at the Wright brothers' small plane.",
+    "start": 237.57,
+    "end": 243.274,
+    "zh": "参观博物馆的人可以看看莱特兄弟的小飞机。",
+    "zh_hant": "參觀博物館的人可以看看萊特兄弟的小飛機。"
+  },
+  {
+    "index": 50,
+    "text": "Then they can walk to another area",
+    "start": 243.855,
+    "end": 246.916,
+    "zh": "然后他们可以走到另一个区域",
+    "zh_hant": "然後他們可以走到另一個區域"
+  },
+  {
+    "index": 51,
+    "text": "and see space vehicles and a rock collected from the moon.",
+    "start": 247.097,
+    "end": 252.6,
+    "zh": "看到太空飞行器和从月球收集的岩石。",
+    "zh_hant": "看到太空飛行器和從月球收集的岩石。"
+  },
+  {
+    "index": 52,
+    "text": "The world has changed a lot",
+    "start": 253.121,
+    "end": 255.542,
+    "zh": "世界发生了很大变化",
+    "zh_hant": "世界發生了很大變化"
+  },
+  {
+    "index": 53,
+    "text": "since Wilbur and Orville Wright began the modern age of flight",
+    "start": 255.503,
+    "end": 260.926,
+    "zh": "自从威尔伯和奥维尔·莱特开创现代飞行时代以来",
+    "zh_hant": "自從威爾伯和奧維爾·萊特開創現代飛行時代以來"
+  },
+  {
+    "index": 54,
+    "text": "over one hundred years ago.",
+    "start": 261.007,
+    "end": 263.268,
+    "zh": "已经一百多年。",
+    "zh_hant": "已經一百多年。"
+  },
+  {
+    "index": 55,
+    "text": "I’m John Russell.",
+    "start": 264.549,
+    "end": 265.95,
+    "zh": "我是约翰·拉塞尔。",
+    "zh_hant": "我是約翰·拉塞爾。"
+  }
+]
