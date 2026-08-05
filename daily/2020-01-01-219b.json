@@ -1,0 +1,458 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 51 Predicting the future",
+    "start": 0.35,
+    "end": 6.053,
+    "zh": "第51课 预测未来",
+    "zh_hant": "第51課 預測未來"
+  },
+  {
+    "index": 1,
+    "text": "What was the 'future' electronic development that Leon Bagrit",
+    "start": 10.275,
+    "end": 15.037,
+    "zh": "利昂·巴格瑞特未能预见的",
+    "zh_hant": "利昂·巴格瑞特未能預見的"
+  },
+  {
+    "index": 2,
+    "text": "wasn't able to foresee?",
+    "start": 14.797,
+    "end": 16.778,
+    "zh": "'未来'电子发展是什么？",
+    "zh_hant": "'未來'電子發展是什麼？"
+  },
+  {
+    "index": 3,
+    "text": "Predicting the future is notoriously difficult.",
+    "start": 19.34,
+    "end": 22.921,
+    "zh": "预测未来是出了名的困难。",
+    "zh_hant": "預測未來是出了名的困難。"
+  },
+  {
+    "index": 4,
+    "text": "Who could have imagined, in the mid 1970s,",
+    "start": 23.162,
+    "end": 27.163,
+    "zh": "在20世纪70年代中期，谁能想象到",
+    "zh_hant": "在20世紀70年代中期，誰能想象到"
+  },
+  {
+    "index": 5,
+    "text": "for example, that by the end of the 20th century,",
+    "start": 26.843,
+    "end": 30.985,
+    "zh": "例如，到20世纪末，",
+    "zh_hant": "例如，到20世紀末，"
+  },
+  {
+    "index": 6,
+    "text": "computers would be as common in people's homes as TV sets?",
+    "start": 31.125,
+    "end": 36.088,
+    "zh": "电脑会像电视机一样在人们家中普遍使用？",
+    "zh_hant": "電腦會像電視機一樣在人們家中普遍使用？"
+  },
+  {
+    "index": 7,
+    "text": "In the 1970s, computers were common enough,",
+    "start": 36.528,
+    "end": 40.49,
+    "zh": "在20世纪70年代，电脑已经相当普遍，",
+    "zh_hant": "在20世紀70年代，電腦已經相當普遍，"
+  },
+  {
+    "index": 8,
+    "text": "but only in big business, government departments and large organizations.",
+    "start": 40.811,
+    "end": 46.653,
+    "zh": "但仅限于大型企业、政府部门和大机构中。",
+    "zh_hant": "但僅限於大型企業、政府部門和大機構中。"
+  },
+  {
+    "index": 9,
+    "text": "These were the so-called mainframe machines.",
+    "start": 47.194,
+    "end": 51.156,
+    "zh": "这些就是所谓的大型机。",
+    "zh_hant": "這些就是所謂的大型機。"
+  },
+  {
+    "index": 10,
+    "text": "Mainframe computers were very large indeed",
+    "start": 52.056,
+    "end": 55.438,
+    "zh": "大型计算机确实非常庞大，",
+    "zh_hant": "大型計算機確實非常龐大，"
+  },
+  {
+    "index": 11,
+    "text": "often occupying whole air-conditioned rooms,",
+    "start": 55.498,
+    "end": 59.08,
+    "zh": "往往占据整个空调房间，",
+    "zh_hant": "往往佔據整個空調房間，"
+  },
+  {
+    "index": 12,
+    "text": "employing full-time technicians and run on specially-written software.",
+    "start": 59.0,
+    "end": 64.602,
+    "zh": "需要全职技术人员操作，并运行在专门编写的软件上。",
+    "zh_hant": "需要全職技術人員操作，並執行在專門編寫的軟體上。"
+  },
+  {
+    "index": 13,
+    "text": "Though these large machines still exist,",
+    "start": 65.103,
+    "end": 68.044,
+    "zh": "尽管这些大型机器仍然存在，",
+    "zh_hant": "儘管這些大型機器仍然存在，"
+  },
+  {
+    "index": 14,
+    "text": "many of their functions have been taken over by small powerful personal computers,",
+    "start": 68.124,
+    "end": 74.607,
+    "zh": "但它们的许多功能已被小巧而强大的个人电脑所取代，",
+    "zh_hant": "但它們的許多功能已被小巧而強大的個人電腦所取代，"
+  },
+  {
+    "index": 15,
+    "text": "commonly known as PCs.",
+    "start": 74.668,
+    "end": 77.449,
+    "zh": "通常称为PC。",
+    "zh_hant": "通常稱為PC。"
+  },
+  {
+    "index": 16,
+    "text": "In 1975, a primitive machine called the Altair,",
+    "start": 78.089,
+    "end": 83.832,
+    "zh": "1975年，一种名为Altair的原始机器",
+    "zh_hant": "1975年，一種名為Altair的原始機器"
+  },
+  {
+    "index": 17,
+    "text": "was launched in the USA.",
+    "start": 83.772,
+    "end": 85.833,
+    "zh": "在美国推出。",
+    "zh_hant": "在美國推出。"
+  },
+  {
+    "index": 18,
+    "text": "It can properly be described as the first 'home computer'",
+    "start": 86.494,
+    "end": 90.856,
+    "zh": "它可以恰当地被描述为第一台'家用电脑'，",
+    "zh_hant": "它可以恰當地被描述為第一臺'家用電腦'，"
+  },
+  {
+    "index": 19,
+    "text": "and it pointed the way to the future.",
+    "start": 90.816,
+    "end": 93.277,
+    "zh": "并为未来指明了方向。",
+    "zh_hant": "併為未來指明瞭方向。"
+  },
+  {
+    "index": 20,
+    "text": "This was followed, at the end of the 1970s, by a machine called",
+    "start": 93.517,
+    "end": 99.34,
+    "zh": "随后，在20世纪70年代末，推出了一款名为",
+    "zh_hant": "隨後，在20世紀70年代末，推出了一款名為"
+  },
+  {
+    "index": 21,
+    "text": "an Apple.",
+    "start": 99.02,
+    "end": 100.24,
+    "zh": "Apple的机器。",
+    "zh_hant": "Apple的機器。"
+  },
+  {
+    "index": 22,
+    "text": "In the early 1980s,",
+    "start": 101.021,
+    "end": 103.182,
+    "zh": "在20世纪80年代初，",
+    "zh_hant": "在20世紀80年代初，"
+  },
+  {
+    "index": 23,
+    "text": "the computer giant, IBM produced the world's first Personal Computer.",
+    "start": 103.082,
+    "end": 109.245,
+    "zh": "计算机巨头IBM生产了世界上第一台个人电脑。",
+    "zh_hant": "計算機巨頭IBM生產了世界上第一臺個人電腦。"
+  },
+  {
+    "index": 24,
+    "text": "This ran on an 'operating system' called DOS,",
+    "start": 109.745,
+    "end": 114.087,
+    "zh": "它运行在一种名为DOS的'操作系统'上，",
+    "zh_hant": "它執行在一種名為DOS的'作業系統'上，"
+  },
+  {
+    "index": 25,
+    "text": "produced by a then small company named Microsoft.",
+    "start": 114.067,
+    "end": 118.469,
+    "zh": "由当时一家名为微软的小公司开发。",
+    "zh_hant": "由當時一家名為微軟的小公司開發。"
+  },
+  {
+    "index": 26,
+    "text": "The IBM Personal Computer was widely copied.",
+    "start": 119.03,
+    "end": 123.352,
+    "zh": "IBM个人电脑被广泛仿制。",
+    "zh_hant": "IBM個人電腦被廣泛仿製。"
+  },
+  {
+    "index": 27,
+    "text": "From those humble beginnings,",
+    "start": 123.673,
+    "end": 126.153,
+    "zh": "从那些不起眼的开始，",
+    "zh_hant": "從那些不起眼的開始，"
+  },
+  {
+    "index": 28,
+    "text": "we have seen the development of the user-friendly home computers",
+    "start": 126.034,
+    "end": 130.696,
+    "zh": "我们看到了用户友好的家用电脑的发展，",
+    "zh_hant": "我們看到了使用者友好的家用電腦的發展，"
+  },
+  {
+    "index": 29,
+    "text": "and multimedia machines which are in common use today.",
+    "start": 130.556,
+    "end": 135.058,
+    "zh": "以及如今普遍使用的多媒体机器。",
+    "zh_hant": "以及如今普遍使用的多媒體機器。"
+  },
+  {
+    "index": 30,
+    "text": "Considering how recent these developments are,",
+    "start": 136.259,
+    "end": 139.82,
+    "zh": "考虑到这些发展是多么近的事，",
+    "zh_hant": "考慮到這些發展是多麼近的事，"
+  },
+  {
+    "index": 31,
+    "text": "it is even more remarkable",
+    "start": 139.8,
+    "end": 142.121,
+    "zh": "更令人惊叹的是",
+    "zh_hant": "更令人驚歎的是"
+  },
+  {
+    "index": 32,
+    "text": "that as long ago as the 1960s, an Englishman,",
+    "start": 142.022,
+    "end": 147.304,
+    "zh": "早在20世纪60年代，一个英国人",
+    "zh_hant": "早在20世紀60年代，一個英國人"
+  },
+  {
+    "index": 33,
+    "text": "Leon Bagrit, was able to predict some of the uses of computers",
+    "start": 147.284,
+    "end": 152.727,
+    "zh": "利昂·巴格瑞特就能预测到如今我们已知的电脑的某些用途",
+    "zh_hant": "利昂·巴格瑞特就能預測到如今我們已知的電腦的某些用途"
+  },
+  {
+    "index": 34,
+    "text": "which we know today.",
+    "start": 152.627,
+    "end": 154.307,
+    "zh": "。",
+    "zh_hant": "。"
+  },
+  {
+    "index": 35,
+    "text": "Bagrit dismissed the idea that computers would learn to 'think' for themselves",
+    "start": 154.968,
+    "end": 160.471,
+    "zh": "巴格瑞特否定了电脑会自主学习'思考'的概念，",
+    "zh_hant": "巴格瑞特否定了電腦會自主學習'思考'的概念，"
+  },
+  {
+    "index": 36,
+    "text": "and would 'rule the world',",
+    "start": 160.371,
+    "end": 162.372,
+    "zh": "并会'统治世界'，",
+    "zh_hant": "並會'統治世界'，"
+  },
+  {
+    "index": 37,
+    "text": "which people liked to believe in those days.",
+    "start": 162.092,
+    "end": 165.093,
+    "zh": "那是人们当时喜欢相信的。",
+    "zh_hant": "那是人們當時喜歡相信的。"
+  },
+  {
+    "index": 38,
+    "text": "Bagrit foresaw a time when computers would be small enough to hold in the hand,",
+    "start": 165.734,
+    "end": 171.656,
+    "zh": "巴格瑞特预见到一个时代，电脑会小到可以握在手中，",
+    "zh_hant": "巴格瑞特預見到一個時代，電腦會小到可以握在手中，"
+  },
+  {
+    "index": 39,
+    "text": "when they would be capable of providing information",
+    "start": 171.717,
+    "end": 175.478,
+    "zh": "它们能够提供关于交通堵塞的信息",
+    "zh_hant": "它們能夠提供關於交通堵塞的資訊"
+  },
+  {
+    "index": 40,
+    "text": "about traffic jams and suggesting alterative routes,",
+    "start": 175.128,
+    "end": 179.54,
+    "zh": "并建议其他路线，",
+    "zh_hant": "並建議其他路線，"
+  },
+  {
+    "index": 41,
+    "text": "when they would be used in hospitals to help doctors to diagnose illnesses,",
+    "start": 179.641,
+    "end": 185.183,
+    "zh": "它们会在医院中帮助医生诊断疾病，",
+    "zh_hant": "它們會在醫院中幫助醫生診斷疾病，"
+  },
+  {
+    "index": 42,
+    "text": "when they would relieve office workers and accountants",
+    "start": 185.363,
+    "end": 189.245,
+    "zh": "它们会减轻办公室人员和会计",
+    "zh_hant": "它們會減輕辦公室人員和會計"
+  },
+  {
+    "index": 43,
+    "text": "of dull, repetitive clerical work.",
+    "start": 189.165,
+    "end": 192.387,
+    "zh": "枯燥、重复的文书工作。",
+    "zh_hant": "枯燥、重複的文書工作。"
+  },
+  {
+    "index": 44,
+    "text": "All these computer uses have become commonplace.",
+    "start": 193.627,
+    "end": 197.389,
+    "zh": "所有这些电脑用途都已变得司空见惯。",
+    "zh_hant": "所有這些電腦用途都已變得司空見慣。"
+  },
+  {
+    "index": 45,
+    "text": "Of course, Leon Bagrit couldn't possibly have foreseen the development of the Internet,",
+    "start": 197.91,
+    "end": 203.993,
+    "zh": "当然，利昂·巴格瑞特不可能预见到互联网的发展——",
+    "zh_hant": "當然，利昂·巴格瑞特不可能預見到網際網路的發展——"
+  },
+  {
+    "index": 46,
+    "text": "the worldwide system that enables us to communicate instantly",
+    "start": 204.273,
+    "end": 209.355,
+    "zh": "这个全球系统使我们能够即时沟通",
+    "zh_hant": "這個全球系統使我們能夠即時溝通"
+  },
+  {
+    "index": 47,
+    "text": "with anyone in any part of the world by using computers linked",
+    "start": 209.336,
+    "end": 214.998,
+    "zh": "通过使用连接到",
+    "zh_hant": "透過使用連線到"
+  },
+  {
+    "index": 48,
+    "text": "to telephone networks.",
+    "start": 214.698,
+    "end": 216.599,
+    "zh": "电话网络的电脑，与世界任何地方的任何人联系。",
+    "zh_hant": "電話網路的電腦，與世界任何地方的任何人聯絡。"
+  },
+  {
+    "index": 49,
+    "text": "Nor could he have foreseen how we could use the Internet",
+    "start": 217.5,
+    "end": 221.261,
+    "zh": "他也不可能预见到我们如何使用互联网",
+    "zh_hant": "他也不可能預見到我們如何使用網際網路"
+  },
+  {
+    "index": 50,
+    "text": "to obtain information on every known subject,",
+    "start": 221.081,
+    "end": 224.823,
+    "zh": "获取关于每个已知主题的信息，",
+    "zh_hant": "獲取關於每個已知主題的資訊，"
+  },
+  {
+    "index": 51,
+    "text": "so we can read it on a screen in our homes and even print it as well if we want to.",
+    "start": 224.763,
+    "end": 231.126,
+    "zh": "这样我们可以在家中屏幕上阅读，甚至如果需要的话还可以打印出来。",
+    "zh_hant": "這樣我們可以在家中螢幕上閱讀，甚至如果需要的話還可以列印出來。"
+  },
+  {
+    "index": 52,
+    "text": "Computers have become smaller and smaller,",
+    "start": 231.807,
+    "end": 234.848,
+    "zh": "电脑变得越来越小，",
+    "zh_hant": "電腦變得越來越小，"
+  },
+  {
+    "index": 53,
+    "text": "more and more powerful and cheaper and cheaper.",
+    "start": 234.908,
+    "end": 238.95,
+    "zh": "越来越强大，越来越便宜。",
+    "zh_hant": "越來越強大，越來越便宜。"
+  },
+  {
+    "index": 54,
+    "text": "This is what makes Leon Bagrit's predictions particularly remarkable.",
+    "start": 239.532,
+    "end": 244.498,
+    "zh": "这正是利昂·巴格瑞特的预测特别引人注目的原因。",
+    "zh_hant": "這正是利昂·巴格瑞特的預測特別引人注目的原因。"
+  },
+  {
+    "index": 55,
+    "text": "If he, or someone like him, were alive today,",
+    "start": 244.879,
+    "end": 248.643,
+    "zh": "如果他或像他这样的人今天还活着，",
+    "zh_hant": "如果他或像他這樣的人今天還活著，"
+  },
+  {
+    "index": 56,
+    "text": "he might be able to tell us what to expect in the next fifty years.",
+    "start": 248.784,
+    "end": 253.73,
+    "zh": "他也许能告诉我们未来五十年会发生什么。",
+    "zh_hant": "他也許能告訴我們未來五十年會發生什麼。"
+  }
+]

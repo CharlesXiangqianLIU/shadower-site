@@ -1,0 +1,170 @@
+[
+  {
+    "index": 0,
+    "text": "Why did the policeman ask the writer to come to the police station?",
+    "start": 12.75,
+    "end": 18.613,
+    "zh": "为什么警察让那位作家去警察局？",
+    "zh_hant": "為什麼警察讓那位作家去警察局？"
+  },
+  {
+    "index": 1,
+    "text": "It must have been about two in the morning when I returned home.",
+    "start": 21.094,
+    "end": 25.336,
+    "zh": "我回到家时，大概已是凌晨两点钟了。",
+    "zh_hant": "我回到家時，大概已是凌晨兩點鐘了。"
+  },
+  {
+    "index": 2,
+    "text": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep,",
+    "start": 26.337,
+    "end": 32.0,
+    "zh": "我按门铃想叫醒妻子，但她睡得很熟，",
+    "zh_hant": "我按門鈴想叫醒妻子，但她睡得很熟，"
+  },
+  {
+    "index": 3,
+    "text": "so I got a ladder from the shed in the garden,",
+    "start": 32.64,
+    "end": 36.122,
+    "zh": "于是我从花园的棚子里拿来一把梯子，",
+    "zh_hant": "於是我從花園的棚子裡拿來一把梯子，"
+  },
+  {
+    "index": 4,
+    "text": "put it against the wall, and began climbing towards the bedroom window.",
+    "start": 36.382,
+    "end": 42.084,
+    "zh": "把它靠在墙上，开始朝卧室的窗户爬去。",
+    "zh_hant": "把它靠在牆上，開始朝臥室的窗戶爬去。"
+  },
+  {
+    "index": 5,
+    "text": "I was almost there when a sarcastic voice below said.",
+    "start": 43.826,
+    "end": 48.708,
+    "zh": "我快爬到的时候，下面传来一个带着讽刺意味的声音说：",
+    "zh_hant": "我快爬到的時候，下面傳來一個帶著諷刺意味的聲音說："
+  },
+  {
+    "index": 6,
+    "text": "'I don't think the windows need cleaning at this time of the night.'",
+    "start": 48.528,
+    "end": 54.811,
+    "zh": "“我觉得窗户不需要在这个时间擦吧。”",
+    "zh_hant": "“我覺得窗戶不需要在這個時間擦吧。”"
+  },
+  {
+    "index": 7,
+    "text": "I looked down and nearly fell off the ladder when I saw a policeman.",
+    "start": 56.612,
+    "end": 61.234,
+    "zh": "我往下一看，看到一名警察，差点从梯子上摔下去。",
+    "zh_hant": "我往下一看，看到一名警察，差點從梯子上摔下去。"
+  },
+  {
+    "index": 8,
+    "text": "I immediately regretted answering in the way I did, but I said,",
+    "start": 62.095,
+    "end": 67.577,
+    "zh": "我立刻就后悔自己那样回答了，但我说：",
+    "zh_hant": "我立刻就後悔自己那樣回答了，但我說："
+  },
+  {
+    "index": 9,
+    "text": "'I enjoy cleaning windows at night.'",
+    "start": 67.238,
+    "end": 73.08,
+    "zh": "“我喜欢晚上擦窗户。”",
+    "zh_hant": "“我喜歡晚上擦窗戶。”"
+  },
+  {
+    "index": 10,
+    "text": "'So do I,' answered the policeman in the same tone.",
+    "start": 72.73,
+    "end": 77.242,
+    "zh": "“我也一样，”警察用同样的语气回答。",
+    "zh_hant": "“我也一樣，”警察用同樣的語氣回答。"
+  },
+  {
+    "index": 11,
+    "text": "Excuse my interrupting you.",
+    "start": 77.803,
+    "end": 80.424,
+    "zh": "抱歉打扰您。",
+    "zh_hant": "抱歉打擾您。"
+  },
+  {
+    "index": 12,
+    "text": "I hate to interrupt a man when he's busy working,",
+    "start": 81.224,
+    "end": 85.206,
+    "zh": "我不喜欢在别人忙的时候打断他，",
+    "zh_hant": "我不喜歡在別人忙的時候打斷他，"
+  },
+  {
+    "index": 13,
+    "text": "but would you mind coming with me to the station?'",
+    "start": 84.856,
+    "end": 90.008,
+    "zh": "但您介意跟我去一趟警察局吗？”",
+    "zh_hant": "但您介意跟我去一趟警察局嗎？”"
+  },
+  {
+    "index": 14,
+    "text": "'Well, I'd prefer to stay here,' I said.",
+    "start": 89.658,
+    "end": 95.573,
+    "zh": "“嗯，我更想留在这儿，”我说。",
+    "zh_hant": "“嗯，我更想留在這兒，”我說。"
+  },
+  {
+    "index": 15,
+    "text": "'You see, I've forgotten my key.'",
+    "start": 95.233,
+    "end": 98.395,
+    "zh": "“你看，我忘带钥匙了。”",
+    "zh_hant": "“你看，我忘帶鑰匙了。”"
+  },
+  {
+    "index": 16,
+    "text": "'Your what?'",
+    "start": 98.045,
+    "end": 101.757,
+    "zh": "“您忘了什么？”",
+    "zh_hant": "“您忘了什麼？”"
+  },
+  {
+    "index": 17,
+    "text": "he called.",
+    "start": 102.158,
+    "end": 103.379,
+    "zh": "他喊道。",
+    "zh_hant": "他喊道。"
+  },
+  {
+    "index": 18,
+    "text": "'My key,' I shouted.",
+    "start": 103.219,
+    "end": 108.102,
+    "zh": "“我的钥匙，”我喊道。",
+    "zh_hant": "“我的鑰匙，”我喊道。"
+  },
+  {
+    "index": 19,
+    "text": "Fortunately, the shouting woke up my wife",
+    "start": 109.003,
+    "end": 112.626,
+    "zh": "幸运的是，喊声吵醒了我的妻子，",
+    "zh_hant": "幸運的是，喊聲吵醒了我的妻子，"
+  },
+  {
+    "index": 20,
+    "text": "who opened the window just as the policeman had started to climb towards me.",
+    "start": 112.506,
+    "end": 117.83,
+    "zh": "就在警察开始朝我爬来的时候，她打开了窗户。",
+    "zh_hant": "就在警察開始朝我爬來的時候，她開啟了窗戶。"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 7 Bats",
+    "start": 1.55,
+    "end": 7.993,
+    "zh": "第7课 蝙蝠",
+    "zh_hant": "第7課 蝙蝠"
+  },
+  {
+    "index": 1,
+    "text": "In what way does echo-location in bats play an utilitarian role?",
+    "start": 11.255,
+    "end": 17.398,
+    "zh": "蝙蝠的回声定位在哪些方面起到实用作用？",
+    "zh_hant": "蝙蝠的回聲定位在哪些方面起到實用作用？"
+  },
+  {
+    "index": 2,
+    "text": "Not all sounds made by animals serve as language,",
+    "start": 19.799,
+    "end": 23.701,
+    "zh": "并非动物发出的所有声音都用作语言，",
+    "zh_hant": "並非動物發出的所有聲音都用作語言，"
+  },
+  {
+    "index": 3,
+    "text": "and we have only to turn to that extraordinary discovery of echo-location in bats",
+    "start": 24.142,
+    "end": 30.204,
+    "zh": "我们只需看看蝙蝠回声定位这一非凡发现，",
+    "zh_hant": "我們只需看看蝙蝠回聲定位這一非凡發現，"
+  },
+  {
+    "index": 4,
+    "text": "to see a case in which the voice plays a strictly utilitarian role.",
+    "start": 30.265,
+    "end": 35.367,
+    "zh": "就能看到一个声音发挥严格实用作用的例子。",
+    "zh_hant": "就能看到一個聲音發揮嚴格實用作用的例子。"
+  },
+  {
+    "index": 5,
+    "text": "To get a full appreciation of what this means",
+    "start": 36.288,
+    "end": 39.649,
+    "zh": "要充分理解这意味着什么，",
+    "zh_hant": "要充分理解這意味著什麼，"
+  },
+  {
+    "index": 6,
+    "text": "we must turn first to some recent human inventions.",
+    "start": 39.689,
+    "end": 43.451,
+    "zh": "我们必须先看看一些近期的人类发明。",
+    "zh_hant": "我們必須先看看一些近期的人類發明。"
+  },
+  {
+    "index": 7,
+    "text": "Everyone knows that if he shouts in the vicinity",
+    "start": 44.472,
+    "end": 47.813,
+    "zh": "众所周知，如果他在附近喊叫",
+    "zh_hant": "眾所周知，如果他在附近喊叫"
+  },
+  {
+    "index": 8,
+    "text": "of a wall or a mountainside, an echo will come back.",
+    "start": 47.514,
+    "end": 51.875,
+    "zh": "对着墙壁或山腰，回声就会传来。",
+    "zh_hant": "對著牆壁或山腰，回聲就會傳來。"
+  },
+  {
+    "index": 9,
+    "text": "The further off this solid obstruction, the longer time will elapse for the return of the echo.",
+    "start": 52.496,
+    "end": 58.179,
+    "zh": "固体障碍物越远，回声返回所需的时间就越长。",
+    "zh_hant": "固體障礙物越遠，回聲返回所需的時間就越長。"
+  },
+  {
+    "index": 10,
+    "text": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom,",
+    "start": 59.119,
+    "end": 64.982,
+    "zh": "敲击船体发出的声音会从海底反射回来，",
+    "zh_hant": "敲擊船體發出的聲音會從海底反射回來，"
+  },
+  {
+    "index": 11,
+    "text": "and by measuring the time interval between the taps and the receipt of the echoes",
+    "start": 65.302,
+    "end": 70.505,
+    "zh": "通过测量敲击与接收回声之间的时间间隔，",
+    "zh_hant": "透過測量敲擊與接收回聲之間的時間間隔，"
+  },
+  {
+    "index": 12,
+    "text": "the depth of the sea at that point can be calculated.",
+    "start": 70.565,
+    "end": 74.247,
+    "zh": "可以计算出该点的海水深度。",
+    "zh_hant": "可以計算出該點的海水深度。"
+  },
+  {
+    "index": 13,
+    "text": "So was born the echo-sounding apparatus, now in general use in ships.",
+    "start": 75.107,
+    "end": 80.97,
+    "zh": "于是回声测深仪诞生了，现在已普遍用于船舶。",
+    "zh_hant": "於是回聲測深儀誕生了，現在已普遍用於船舶。"
+  },
+  {
+    "index": 14,
+    "text": "Every solid object will reflect a sound,",
+    "start": 81.751,
+    "end": 85.112,
+    "zh": "任何固体物体都会反射声音，",
+    "zh_hant": "任何固體物體都會反射聲音，"
+  },
+  {
+    "index": 15,
+    "text": "varying according to the size and nature of the object.",
+    "start": 85.333,
+    "end": 89.134,
+    "zh": "反射情况因物体的大小和性质而异。",
+    "zh_hant": "反射情況因物體的大小和性質而異。"
+  },
+  {
+    "index": 16,
+    "text": "A shoal of fish will do this.",
+    "start": 90.035,
+    "end": 92.036,
+    "zh": "鱼群也会这样做。",
+    "zh_hant": "魚群也會這樣做。"
+  },
+  {
+    "index": 17,
+    "text": "So it is a comparatively simple step from locating the sea bottom",
+    "start": 92.916,
+    "end": 97.478,
+    "zh": "因此，从定位海底到定位鱼群，是相对简单的步骤。",
+    "zh_hant": "因此，從定位海底到定位魚群，是相對簡單的步驟。"
+  },
+  {
+    "index": 18,
+    "text": "to locating a shoal of fish.",
+    "start": 97.479,
+    "end": 99.82,
+    "zh": "要定位鱼群，只需一步之遥。",
+    "zh_hant": "要定位魚群，只需一步之遙。"
+  },
+  {
+    "index": 19,
+    "text": "With experience, and with improved apparatus,",
+    "start": 100.84,
+    "end": 104.242,
+    "zh": "凭借经验和改进的仪器，",
+    "zh_hant": "憑藉經驗和改進的儀器，"
+  },
+  {
+    "index": 20,
+    "text": "it is now possible not only to locate a shoal but to tell if",
+    "start": 104.422,
+    "end": 109.304,
+    "zh": "现在不仅可能定位鱼群，还能判断出它是",
+    "zh_hant": "現在不僅可能定位魚群，還能判斷出它是"
+  },
+  {
+    "index": 21,
+    "text": "it is herring, cod, or other well-known fish,",
+    "start": 108.954,
+    "end": 112.966,
+    "zh": "鲱鱼、鳕鱼还是其他常见鱼类，",
+    "zh_hant": "鯡魚、鱈魚還是其他常見魚類，"
+  },
+  {
+    "index": 22,
+    "text": "by the pattern of its echo.",
+    "start": 113.026,
+    "end": 115.047,
+    "zh": "根据回声的模式来判断。",
+    "zh_hant": "根據回聲的模式來判斷。"
+  },
+  {
+    "index": 23,
+    "text": "It has been found that certain bats emit squeaks and by receiving the echoes,",
+    "start": 116.248,
+    "end": 122.493,
+    "zh": "人们发现，某些蝙蝠发出吱吱声，并通过接收回声，",
+    "zh_hant": "人們發現，某些蝙蝠發出吱吱聲，並透過接收回聲，"
+  },
+  {
+    "index": 24,
+    "text": "they can locate and steer clear of obstacles",
+    "start": 122.354,
+    "end": 125.52,
+    "zh": "它们可以定位并避开障碍物",
+    "zh_hant": "它們可以定位並避開障礙物"
+  },
+  {
+    "index": 25,
+    "text": "-- or locate flying insects on which they feed.",
+    "start": 125.12,
+    "end": 129.321,
+    "zh": "——或者定位它们捕食的飞行昆虫。",
+    "zh_hant": "——或者定位它們捕食的飛行昆蟲。"
+  },
+  {
+    "index": 26,
+    "text": "This echo-location in bats is often compared with radar, the principle of which is similar.",
+    "start": 129.983,
+    "end": 136.39,
+    "zh": "蝙蝠的这种回声定位常被与雷达相比，其原理相似。",
+    "zh_hant": "蝙蝠的這種回聲定位常被與雷達相比，其原理相似。"
+  }
+]

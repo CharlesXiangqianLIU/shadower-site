@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "text": "What caused the fire?",
+    "start": 10.631,
+    "end": 12.772,
+    "zh": "是什么引起了这场火灾？",
+    "zh_hant": "是什麼引起了這場火災？"
+  },
+  {
+    "index": 1,
+    "text": "At last firemen have put out a big forest fire in California.",
+    "start": 14.393,
+    "end": 20.256,
+    "zh": "最终，消防员扑灭了加利福尼亚州的一场森林大火。",
+    "zh_hant": "最終，消防員撲滅了加利福尼亞州的一場森林大火。"
+  },
+  {
+    "index": 2,
+    "text": "Since then, they have been trying to find out how the fire began.",
+    "start": 21.096,
+    "end": 26.619,
+    "zh": "从那以后，他们一直在试图查明火灾是如何发生的。",
+    "zh_hant": "從那以後，他們一直在試圖查明火災是如何發生的。"
+  },
+  {
+    "index": 3,
+    "text": "Forest fires are often caused by broken glass",
+    "start": 27.599,
+    "end": 32.161,
+    "zh": "森林火灾常常是由碎玻璃引起的",
+    "zh_hant": "森林火災常常是由碎玻璃引起的"
+  },
+  {
+    "index": 4,
+    "text": "or by cigarette ends",
+    "start": 32.042,
+    "end": 34.302,
+    "zh": "或者由烟头引起",
+    "zh_hant": "或者由菸頭引起"
+  },
+  {
+    "index": 5,
+    "text": "which people carelessly throw away.",
+    "start": 33.952,
+    "end": 36.964,
+    "zh": "人们不小心扔掉的烟头。",
+    "zh_hant": "人們不小心扔掉的菸頭。"
+  },
+  {
+    "index": 6,
+    "text": "Yesterday the firemen examined the ground carefully,",
+    "start": 37.964,
+    "end": 41.946,
+    "zh": "昨天，消防员仔细检查了地面，",
+    "zh_hant": "昨天，消防員仔細檢查了地面，"
+  },
+  {
+    "index": 7,
+    "text": "but were not able to find any broken glass.",
+    "start": 42.327,
+    "end": 45.988,
+    "zh": "但是没能找到任何碎玻璃。",
+    "zh_hant": "但是沒能找到任何碎玻璃。"
+  },
+  {
+    "index": 8,
+    "text": "They were also quite sure that a cigarette end did not start the fire.",
+    "start": 46.809,
+    "end": 52.152,
+    "zh": "他们还相当肯定，烟头并没有引发这场火灾。",
+    "zh_hant": "他們還相當肯定，菸頭並沒有引發這場火災。"
+  },
+  {
+    "index": 9,
+    "text": "This morning, however, a firemen accidentally discovered the cause.",
+    "start": 53.012,
+    "end": 58.735,
+    "zh": "然而，今天早上，一名消防员意外发现了原因。",
+    "zh_hant": "然而，今天早上，一名消防員意外發現了原因。"
+  },
+  {
+    "index": 10,
+    "text": "He noticed the remains of a snake",
+    "start": 59.335,
+    "end": 62.317,
+    "zh": "他注意到了一条蛇的残骸",
+    "zh_hant": "他注意到了一條蛇的殘骸"
+  },
+  {
+    "index": 11,
+    "text": "which was wound round the electric wires of a 16, 000-volt",
+    "start": 62.257,
+    "end": 68.12,
+    "zh": "这条蛇缠绕在一根16,000伏特的电线上",
+    "zh_hant": "這條蛇纏繞在一根16,000伏特的電線上"
+  },
+  {
+    "index": 12,
+    "text": "power line.",
+    "start": 67.82,
+    "end": 69.06,
+    "zh": "电力线路上。",
+    "zh_hant": "電力線路上。"
+  },
+  {
+    "index": 13,
+    "text": "In this way, he was able to solve the mystery.",
+    "start": 69.961,
+    "end": 73.882,
+    "zh": "这样，他就能够解开这个谜团了。",
+    "zh_hant": "這樣，他就能夠解開這個謎團了。"
+  },
+  {
+    "index": 14,
+    "text": "The explanation was simple but very unusual.",
+    "start": 74.643,
+    "end": 79.105,
+    "zh": "解释很简单，但很不寻常。",
+    "zh_hant": "解釋很簡單，但很不尋常。"
+  },
+  {
+    "index": 15,
+    "text": "A bird had snatched up the snake from the ground",
+    "start": 80.026,
+    "end": 83.987,
+    "zh": "一只鸟从地上抓起了那条蛇",
+    "zh_hant": "一隻鳥從地上抓起了那條蛇"
+  },
+  {
+    "index": 16,
+    "text": "and then dropped it on to the wires.",
+    "start": 83.968,
+    "end": 87.149,
+    "zh": "然后把它扔到了电线上。",
+    "zh_hant": "然後把它扔到了電線上。"
+  },
+  {
+    "index": 17,
+    "text": "The snake then wound itself round the wires.",
+    "start": 87.769,
+    "end": 91.415,
+    "zh": "蛇随后缠绕在电线上。",
+    "zh_hant": "蛇隨後纏繞在電線上。"
+  },
+  {
+    "index": 18,
+    "text": "When it did so, it sent sparks down to the ground",
+    "start": 91.717,
+    "end": 96.304,
+    "zh": "当它这样做的时候，它向地面喷射出火花",
+    "zh_hant": "當它這樣做的時候，它向地面噴射出火花"
+  },
+  {
+    "index": 19,
+    "text": "and these immediately started a fire.",
+    "start": 95.954,
+    "end": 99.589,
+    "zh": "这些火花立刻引发了一场火灾。",
+    "zh_hant": "這些火花立刻引發了一場火災。"
+  }
+]

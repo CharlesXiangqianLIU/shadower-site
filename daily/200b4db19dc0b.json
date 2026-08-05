@@ -1,0 +1,402 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 55 From the earth:",
+    "start": 1.53,
+    "end": 5.192,
+    "zh": "第55课 来自地球：",
+    "zh_hant": "第55課 來自地球："
+  },
+  {
+    "index": 1,
+    "text": "Greetings",
+    "start": 5.392,
+    "end": 8.314,
+    "zh": "问候",
+    "zh_hant": "問候"
+  },
+  {
+    "index": 2,
+    "text": "Which life forms are most likely to develop on a distant planet?",
+    "start": 13.676,
+    "end": 18.278,
+    "zh": "哪些生命形态最有可能在遥远的星球上发展？",
+    "zh_hant": "哪些生命形態最有可能在遙遠的星球上發展？"
+  },
+  {
+    "index": 3,
+    "text": "Recent developments in astronomy",
+    "start": 20.56,
+    "end": 22.781,
+    "zh": "天文学的最新发展",
+    "zh_hant": "天文學的最新發展"
+  },
+  {
+    "index": 4,
+    "text": "have made it possible to detect planets in our own Milky Way and in other galaxies.",
+    "start": 22.761,
+    "end": 28.564,
+    "zh": "使探测我们银河系及其他星系中的行星成为可能。",
+    "zh_hant": "使探測我們銀河系及其他星系中的行星成為可能。"
+  },
+  {
+    "index": 5,
+    "text": "This is a major achievement because, in relative terms,",
+    "start": 29.244,
+    "end": 33.346,
+    "zh": "这是一项重大成就，因为相对而言，",
+    "zh_hant": "這是一項重大成就，因為相對而言，"
+  },
+  {
+    "index": 6,
+    "text": "planets are very small and do not emit light.",
+    "start": 33.226,
+    "end": 37.128,
+    "zh": "行星非常小，而且不发光。",
+    "zh_hant": "行星非常小，而且不發光。"
+  },
+  {
+    "index": 7,
+    "text": "Finding planets is proving hard enough,",
+    "start": 37.688,
+    "end": 40.469,
+    "zh": "找到行星已经够难了，",
+    "zh_hant": "找到行星已經夠難了，"
+  },
+  {
+    "index": 8,
+    "text": "but finding life on them will prove infinitely more difficult.",
+    "start": 40.71,
+    "end": 44.852,
+    "zh": "但在其上找到生命将更加困难无比。",
+    "zh_hant": "但在其上找到生命將更加困難無比。"
+  },
+  {
+    "index": 9,
+    "text": "The first question to answer is whether a planet can actually support life.",
+    "start": 45.333,
+    "end": 50.555,
+    "zh": "首先需要回答的问题是一颗行星能否真正维持生命。",
+    "zh_hant": "首先需要回答的問題是一顆行星能否真正維持生命。"
+  },
+  {
+    "index": 10,
+    "text": "In our own solar system, for example,",
+    "start": 50.915,
+    "end": 53.416,
+    "zh": "例如，在我们自己的太阳系中，",
+    "zh_hant": "例如，在我們自己的太陽系中，"
+  },
+  {
+    "index": 11,
+    "text": "Venus is far to hot and Mars is far too cold to support life.",
+    "start": 53.557,
+    "end": 59.979,
+    "zh": "金星太热，火星太冷，都无法维持生命。",
+    "zh_hant": "金星太熱，火星太冷，都無法維持生命。"
+  },
+  {
+    "index": 12,
+    "text": "Only the Earth provides ideal conditions,",
+    "start": 60.5,
+    "end": 63.581,
+    "zh": "只有地球提供了理想的条件，",
+    "zh_hant": "只有地球提供了理想的條件，"
+  },
+  {
+    "index": 13,
+    "text": "and even here it has taken more than four billion years for plant",
+    "start": 63.682,
+    "end": 68.444,
+    "zh": "而即使在这里，也花了超过四十亿年植物",
+    "zh_hant": "而即使在這裡，也花了超過四十億年植物"
+  },
+  {
+    "index": 14,
+    "text": "and animal life to evolve.",
+    "start": 68.284,
+    "end": 70.284,
+    "zh": "和动物生命才得以进化。",
+    "zh_hant": "和動物生命才得以進化。"
+  },
+  {
+    "index": 15,
+    "text": "Whether a planet can support life depends on the size and brightness of its star,",
+    "start": 71.425,
+    "end": 76.988,
+    "zh": "行星能否维持生命取决于其恒星的大小和亮度，",
+    "zh_hant": "行星能否維持生命取決於其恆星的大小和亮度，"
+  },
+  {
+    "index": 16,
+    "text": "that is its 'sun'.",
+    "start": 77.248,
+    "end": 79.309,
+    "zh": "即它的“太阳”。",
+    "zh_hant": "即它的“太陽”。"
+  },
+  {
+    "index": 17,
+    "text": "Imagine a star up to twenty times larger, brighter",
+    "start": 79.669,
+    "end": 84.132,
+    "zh": "想象一颗比我们的太阳大二十倍、更亮",
+    "zh_hant": "想象一顆比我們的太陽大二十倍、更亮"
+  },
+  {
+    "index": 18,
+    "text": "and hotter than our own sun.",
+    "start": 84.032,
+    "end": 86.353,
+    "zh": "且更热的恒星。",
+    "zh_hant": "且更熱的恆星。"
+  },
+  {
+    "index": 19,
+    "text": "A planet would have to be a very long way from it to be capable of supporting life.",
+    "start": 86.753,
+    "end": 92.356,
+    "zh": "行星必须离它非常远才能具备维持生命的条件。",
+    "zh_hant": "行星必須離它非常遠才能具備維持生命的條件。"
+  },
+  {
+    "index": 20,
+    "text": "Alternatively, if the star were small,",
+    "start": 92.756,
+    "end": 95.577,
+    "zh": "另外，如果恒星很小，",
+    "zh_hant": "另外，如果恆星很小，"
+  },
+  {
+    "index": 21,
+    "text": "the life-supporting planet would have to have a close orbit round it",
+    "start": 95.518,
+    "end": 99.759,
+    "zh": "维持生命的行星就必须在近轨道绕其运行，",
+    "zh_hant": "維持生命的行星就必須在近軌道繞其執行，"
+  },
+  {
+    "index": 22,
+    "text": "and also provide the perfect conditions for life forms to develop.",
+    "start": 99.72,
+    "end": 103.902,
+    "zh": "还要为生命形态的发展提供完美的条件。",
+    "zh_hant": "還要為生命形態的發展提供完美的條件。"
+  },
+  {
+    "index": 23,
+    "text": "But how would we find such a planet?",
+    "start": 104.302,
+    "end": 107.003,
+    "zh": "但我们如何找到这样的行星呢？",
+    "zh_hant": "但我們如何找到這樣的行星呢？"
+  },
+  {
+    "index": 24,
+    "text": "At present, there is no telescope in existence that is capable of detecting the presence of life.",
+    "start": 107.464,
+    "end": 113.606,
+    "zh": "目前，现存的望远镜都无法探测生命的存在。",
+    "zh_hant": "目前，現存的望遠鏡都無法探測生命的存在。"
+  },
+  {
+    "index": 25,
+    "text": "The development of such a telescope will be one of the great",
+    "start": 114.027,
+    "end": 117.668,
+    "zh": "这类望远镜的研制将是21世纪重大的",
+    "zh_hant": "這類望遠鏡的研製將是21世紀重大的"
+  },
+  {
+    "index": 26,
+    "text": "astronomical projects of the 21st century.",
+    "start": 117.468,
+    "end": 120.71,
+    "zh": "天文项目之一。",
+    "zh_hant": "天文專案之一。"
+  },
+  {
+    "index": 27,
+    "text": "It is impossible to look for life on another planet using earth-based telescopes.",
+    "start": 121.731,
+    "end": 126.653,
+    "zh": "使用地基望远镜不可能在另一颗行星上寻找生命。",
+    "zh_hant": "使用地基望遠鏡不可能在另一顆行星上尋找生命。"
+  },
+  {
+    "index": 28,
+    "text": "Our own warm atmosphere",
+    "start": 127.013,
+    "end": 129.334,
+    "zh": "我们自己温暖的大气层",
+    "zh_hant": "我們自己溫暖的大氣層"
+  },
+  {
+    "index": 29,
+    "text": "and the heat generated by the telescope would make it impossible to detect objects as small as planets.",
+    "start": 129.214,
+    "end": 135.657,
+    "zh": "以及望远镜产生的热量会使其无法探测到像行星那样小的物体。",
+    "zh_hant": "以及望遠鏡產生的熱量會使其無法探測到像行星那樣小的物體。"
+  },
+  {
+    "index": 30,
+    "text": "Even a telescope in orbit round the earth, like the very successful Hubble telescope,",
+    "start": 136.418,
+    "end": 142.401,
+    "zh": "即使是绕地球轨道运行的望远镜，比如非常成功的哈勃望远镜，",
+    "zh_hant": "即使是繞地球軌道執行的望遠鏡，比如非常成功的哈勃望遠鏡，"
+  },
+  {
+    "index": 31,
+    "text": "would not be suitable because of the dust particles in our solar system.",
+    "start": 142.401,
+    "end": 147.023,
+    "zh": "也会因太阳系中的尘埃粒子而不适用。",
+    "zh_hant": "也會因太陽系中的塵埃粒子而不適用。"
+  },
+  {
+    "index": 32,
+    "text": "A telescope would have to be as far away as the planet Jupiter",
+    "start": 147.603,
+    "end": 152.145,
+    "zh": "望远镜必须离得像木星那么远，",
+    "zh_hant": "望遠鏡必須離得像木星那麼遠，"
+  },
+  {
+    "index": 33,
+    "text": "to look for life in outer space,",
+    "start": 152.086,
+    "end": 154.367,
+    "zh": "才能在外太空寻找生命，",
+    "zh_hant": "才能在外太空尋找生命，"
+  },
+  {
+    "index": 34,
+    "text": "because the dust becomes thinner the further we travel towards the outer edges of our own solar system.",
+    "start": 154.527,
+    "end": 160.93,
+    "zh": "因为我们越接近太阳系的外部边缘，尘埃就越稀薄。",
+    "zh_hant": "因為我們越接近太陽系的外部邊緣，塵埃就越稀薄。"
+  },
+  {
+    "index": 35,
+    "text": "Once we detected a planet, we would have to find a way of blotting out the light from its star,",
+    "start": 161.51,
+    "end": 167.313,
+    "zh": "一旦我们发现一颗行星，就必须找到遮挡其恒星光线的方法，",
+    "zh_hant": "一旦我們發現一顆行星，就必須找到遮擋其恆星光線的方法，"
+  },
+  {
+    "index": 36,
+    "text": "so that we would be able to 'see' the planet properly and analyse its atmosphere.",
+    "start": 167.373,
+    "end": 172.576,
+    "zh": "这样我们才能恰当地“看见”行星并分析其大气层。",
+    "zh_hant": "這樣我們才能恰當地“看見”行星並分析其大氣層。"
+  },
+  {
+    "index": 37,
+    "text": "In the first instance, we would be looking for plant life,",
+    "start": 172.996,
+    "end": 176.958,
+    "zh": "首先，我们会寻找植物生命，",
+    "zh_hant": "首先，我們會尋找植物生命，"
+  },
+  {
+    "index": 38,
+    "text": "rather than 'little green men'.",
+    "start": 177.018,
+    "end": 179.859,
+    "zh": "而不是“小绿人”。",
+    "zh_hant": "而不是“小綠人”。"
+  },
+  {
+    "index": 39,
+    "text": "The life forms most likely to develop on a planet would be bacteria.",
+    "start": 179.779,
+    "end": 184.762,
+    "zh": "最有可能在行星上发展的生命形态是细菌。",
+    "zh_hant": "最有可能在行星上發展的生命形態是細菌。"
+  },
+  {
+    "index": 40,
+    "text": "It is bacteria that have generated the oxygen we breathe on earth.",
+    "start": 185.182,
+    "end": 189.624,
+    "zh": "正是细菌产生了我们在地球上呼吸的氧气。",
+    "zh_hant": "正是細菌產生了我們在地球上呼吸的氧氣。"
+  },
+  {
+    "index": 41,
+    "text": "For most of the earth's history they have been the only form of life on our planet.",
+    "start": 190.124,
+    "end": 195.127,
+    "zh": "在地球历史上的大部分时间里，它们是我们星球上唯一的生命形态。",
+    "zh_hant": "在地球歷史上的大部分時間裡，它們是我們星球上唯一的生命形態。"
+  },
+  {
+    "index": 42,
+    "text": "As Earth-dwellers, we always cherish the hope that we will be visited by little green men",
+    "start": 195.687,
+    "end": 201.931,
+    "zh": "作为地球居民，我们总是怀着希望，期待小绿人前来造访，",
+    "zh_hant": "作為地球居民，我們總是懷著希望，期待小綠人前來造訪，"
+  },
+  {
+    "index": 43,
+    "text": "and that we will be able to communicate with them.",
+    "start": 202.071,
+    "end": 204.873,
+    "zh": "并且我们能与他们交流。",
+    "zh_hant": "並且我們能與他們交流。"
+  },
+  {
+    "index": 44,
+    "text": "But this hope is always in the realms of science fiction.",
+    "start": 205.293,
+    "end": 208.975,
+    "zh": "但这个希望始终停留在科幻小说的范畴。",
+    "zh_hant": "但這個希望始終停留在科幻小說的範疇。"
+  },
+  {
+    "index": 45,
+    "text": "If we were able to discover lowly forms of life like bacteria",
+    "start": 209.516,
+    "end": 213.779,
+    "zh": "如果我们能在另一颗行星上发现细菌这类低等生命形态，",
+    "zh_hant": "如果我們能在另一顆行星上發現細菌這類低等生命形態，"
+  },
+  {
+    "index": 46,
+    "text": "on another planet, it would completely change our view of ourselves.",
+    "start": 213.579,
+    "end": 218.522,
+    "zh": "这将彻底改变我们对自己的看法。",
+    "zh_hant": "這將徹底改變我們對自己的看法。"
+  },
+  {
+    "index": 47,
+    "text": "As Daniel Goldin of NASA observed,",
+    "start": 218.902,
+    "end": 222.104,
+    "zh": "正如美国国家航空航天局的丹尼尔·戈尔丁所言，",
+    "zh_hant": "正如美國國家航空航天局的丹尼爾·戈爾丁所言，"
+  },
+  {
+    "index": 48,
+    "text": "'Finding life elsewhere would change everything.",
+    "start": 221.964,
+    "end": 225.807,
+    "zh": "“在其他地方发现生命将改变一切。",
+    "zh_hant": "“在其他地方發現生命將改變一切。"
+  },
+  {
+    "index": 49,
+    "text": "No human endeavour or thought would be unchanged by it.'",
+    "start": 226.307,
+    "end": 230.83,
+    "zh": "人类的事业或思想没有一样会不受其影响。”",
+    "zh_hant": "人類的事業或思想沒有一樣會不受其影響。”"
+  }
+]

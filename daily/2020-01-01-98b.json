@@ -1,0 +1,186 @@
+[
+  {
+    "index": 0,
+    "text": "Who is the student's best critic?",
+    "start": 10.95,
+    "end": 14.212,
+    "zh": "谁是学生最好的批评家？",
+    "zh_hant": "誰是學生最好的批評家？"
+  },
+  {
+    "index": 1,
+    "text": "I am an art student and I paint a lot of pictures.",
+    "start": 16.173,
+    "end": 20.775,
+    "zh": "我是一名艺术系学生，画很多画。",
+    "zh_hant": "我是一名藝術系學生，畫很多畫。"
+  },
+  {
+    "index": 2,
+    "text": "Many people pretend that they understand modern art.",
+    "start": 21.456,
+    "end": 25.918,
+    "zh": "许多人假装自己懂现代艺术。",
+    "zh_hant": "許多人假裝自己懂現代藝術。"
+  },
+  {
+    "index": 3,
+    "text": "They always tell you what a picture is 'about'.",
+    "start": 26.318,
+    "end": 30.4,
+    "zh": "他们总是告诉你一幅画是“关于”什么的。",
+    "zh_hant": "他們總是告訴你一幅畫是“關於”什麼的。"
+  },
+  {
+    "index": 4,
+    "text": "Of course, many pictures are not 'about' anything.",
+    "start": 30.54,
+    "end": 35.142,
+    "zh": "当然，很多画并不是“关于”任何东西的。",
+    "zh_hant": "當然，很多畫並不是“關於”任何東西的。"
+  },
+  {
+    "index": 5,
+    "text": "They are just pretty patterns.",
+    "start": 35.322,
+    "end": 37.503,
+    "zh": "它们只是好看的图案。",
+    "zh_hant": "它們只是好看的圖案。"
+  },
+  {
+    "index": 6,
+    "text": "We like them in the same way that we like pretty curtain material.",
+    "start": 38.064,
+    "end": 43.146,
+    "zh": "我们喜欢它们，就像喜欢好看的窗帘布一样。",
+    "zh_hant": "我們喜歡它們，就像喜歡好看的窗簾布一樣。"
+  },
+  {
+    "index": 7,
+    "text": "I think that young children often appreciate modern pictures",
+    "start": 44.307,
+    "end": 49.509,
+    "zh": "我觉得小孩子常常比任何人都更能欣赏现代画，",
+    "zh_hant": "我覺得小孩子常常比任何人都更能欣賞現代畫，"
+  },
+  {
+    "index": 8,
+    "text": "better than anyone else.",
+    "start": 49.429,
+    "end": 51.591,
+    "zh": "比任何人都强。",
+    "zh_hant": "比任何人都強。"
+  },
+  {
+    "index": 9,
+    "text": "They notice more.",
+    "start": 52.011,
+    "end": 53.512,
+    "zh": "他们注意到更多细节。",
+    "zh_hant": "他們注意到更多細節。"
+  },
+  {
+    "index": 10,
+    "text": "My sister is only seven,",
+    "start": 54.252,
+    "end": 56.773,
+    "zh": "我妹妹只有七岁，",
+    "zh_hant": "我妹妹只有七歲，"
+  },
+  {
+    "index": 11,
+    "text": "but she always tells me whether my pictures are good or not.",
+    "start": 56.994,
+    "end": 61.776,
+    "zh": "但她总能告诉我我的画好不好。",
+    "zh_hant": "但她總能告訴我我的畫好不好。"
+  },
+  {
+    "index": 12,
+    "text": "She came into my room yesterday.",
+    "start": 62.676,
+    "end": 65.297,
+    "zh": "她昨天进了我的房间。",
+    "zh_hant": "她昨天進了我的房間。"
+  },
+  {
+    "index": 13,
+    "text": "'What are you doing?'",
+    "start": 64.997,
+    "end": 68.139,
+    "zh": "“你在干什么？”",
+    "zh_hant": "“你在幹什麼？”"
+  },
+  {
+    "index": 14,
+    "text": "she asked.",
+    "start": 67.789,
+    "end": 68.859,
+    "zh": "她问道。",
+    "zh_hant": "她問道。"
+  },
+  {
+    "index": 15,
+    "text": "'I'm hanging this picture on the wall,' I answered.",
+    "start": 68.559,
+    "end": 73.702,
+    "zh": "“我在把这幅画挂到墙上，”我回答。",
+    "zh_hant": "“我在把這幅畫掛到牆上，”我回答。"
+  },
+  {
+    "index": 16,
+    "text": "'It's a new one.",
+    "start": 73.352,
+    "end": 75.262,
+    "zh": "“这是一幅新画。",
+    "zh_hant": "“這是一幅新畫。"
+  },
+  {
+    "index": 17,
+    "text": "Do you like it?'",
+    "start": 75.443,
+    "end": 76.983,
+    "zh": "你喜欢吗？”",
+    "zh_hant": "你喜歡嗎？”"
+  },
+  {
+    "index": 18,
+    "text": "She looked at it critically for a moment.",
+    "start": 77.524,
+    "end": 80.585,
+    "zh": "她带着批判的眼光看了一会儿。",
+    "zh_hant": "她帶著批判的眼光看了一會兒。"
+  },
+  {
+    "index": 19,
+    "text": "'It's all right,' she said, 'but isn't it upside down?'",
+    "start": 80.445,
+    "end": 86.388,
+    "zh": "“还可以，”她说，“但这是不是挂反了？”",
+    "zh_hant": "“還可以，”她說，“但這是不是掛反了？”"
+  },
+  {
+    "index": 20,
+    "text": "I looked at it again.",
+    "start": 87.068,
+    "end": 88.729,
+    "zh": "我又看了看它。",
+    "zh_hant": "我又看了看它。"
+  },
+  {
+    "index": 21,
+    "text": "She was right!",
+    "start": 89.029,
+    "end": 90.323,
+    "zh": "她说得对！",
+    "zh_hant": "她說得對！"
+  },
+  {
+    "index": 22,
+    "text": "It was!",
+    "start": 89.923,
+    "end": 92.009,
+    "zh": "确实挂反了！",
+    "zh_hant": "確實掛反了！"
+  }
+]

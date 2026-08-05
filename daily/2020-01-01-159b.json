@@ -1,0 +1,186 @@
+[
+  {
+    "index": 0,
+    "text": "What was wrong with the man's story?",
+    "start": 11.311,
+    "end": 14.232,
+    "zh": "那个人的讲述有什么问题？",
+    "zh_hant": "那個人的講述有什麼問題？"
+  },
+  {
+    "index": 1,
+    "text": "'At the time the murder was committed,",
+    "start": 13.882,
+    "end": 18.795,
+    "zh": "“在谋杀案发生的时候，”",
+    "zh_hant": "“在謀殺案發生的時候，”"
+  },
+  {
+    "index": 2,
+    "text": "I was travelling on the 8 o'clock train to London,' said the man.",
+    "start": 19.355,
+    "end": 25.038,
+    "zh": "“我正乘坐8点的火车去伦敦，”那个人说。",
+    "zh_hant": "“我正乘坐8點的火車去倫敦，”那個人說。"
+  },
+  {
+    "index": 3,
+    "text": "'Do you always catch such an early train?'",
+    "start": 24.688,
+    "end": 29.26,
+    "zh": "“你总是赶这么早的火车吗？”",
+    "zh_hant": "“你總是趕這麼早的火車嗎？”"
+  },
+  {
+    "index": 4,
+    "text": "asked the inspector.",
+    "start": 29.54,
+    "end": 31.241,
+    "zh": "探长问道。",
+    "zh_hant": "探長問道。"
+  },
+  {
+    "index": 5,
+    "text": "'Of course I do,' answered the man.",
+    "start": 30.901,
+    "end": 35.243,
+    "zh": "“我当然是的，”那个人回答。",
+    "zh_hant": "“我當然是的，”那個人回答。"
+  },
+  {
+    "index": 6,
+    "text": "'I must be at work at 10 o'clock.",
+    "start": 34.943,
+    "end": 38.724,
+    "zh": "“我必须10点到工作地点。”",
+    "zh_hant": "“我必須10點到工作地點。”"
+  },
+  {
+    "index": 7,
+    "text": "My employer will confirm that I was there on time.'",
+    "start": 38.925,
+    "end": 43.527,
+    "zh": "“我的雇主会证实我准时到了那里。”",
+    "zh_hant": "“我的僱主會證實我準時到了那裡。”"
+  },
+  {
+    "index": 8,
+    "text": "'Would a later train get you to work on time?'",
+    "start": 43.177,
+    "end": 48.629,
+    "zh": "“晚一点的火车能让你按时上班吗？”",
+    "zh_hant": "“晚一點的火車能讓你按時上班嗎？”"
+  },
+  {
+    "index": 9,
+    "text": "asked the inspector.",
+    "start": 48.69,
+    "end": 50.371,
+    "zh": "探长问道。",
+    "zh_hant": "探長問道。"
+  },
+  {
+    "index": 10,
+    "text": "'I suppose it would, but I never catch a later train.'",
+    "start": 50.051,
+    "end": 56.273,
+    "zh": "“我想可以，但我从不赶晚班车。”",
+    "zh_hant": "“我想可以，但我從不趕晚班車。”"
+  },
+  {
+    "index": 11,
+    "text": "'At what time did you arrive at the station?'",
+    "start": 55.923,
+    "end": 61.216,
+    "zh": "“你几点到达车站的？”",
+    "zh_hant": "“你幾點到達車站的？”"
+  },
+  {
+    "index": 12,
+    "text": "'At ten to eight.",
+    "start": 60.866,
+    "end": 63.797,
+    "zh": "“差十分八点。”",
+    "zh_hant": "“差十分八點。”"
+  },
+  {
+    "index": 13,
+    "text": "I bought a paper and waited for the train.'",
+    "start": 64.298,
+    "end": 67.459,
+    "zh": "“我买了份报纸，然后等火车。”",
+    "zh_hant": "“我買了份報紙，然後等火車。”"
+  },
+  {
+    "index": 14,
+    "text": "'And you didn't notice anything unusual?'",
+    "start": 67.109,
+    "end": 72.682,
+    "zh": "“那你没注意到什么异常吗？”",
+    "zh_hant": "“那你沒注意到什麼異常嗎？”"
+  },
+  {
+    "index": 15,
+    "text": "'Of course not.'",
+    "start": 72.332,
+    "end": 74.883,
+    "zh": "“当然没有。”",
+    "zh_hant": "“當然沒有。”"
+  },
+  {
+    "index": 16,
+    "text": "'I suggest,'",
+    "start": 74.533,
+    "end": 77.284,
+    "zh": "“我认为，”",
+    "zh_hant": "“我認為，”"
+  },
+  {
+    "index": 17,
+    "text": "said the inspector,' that you are not telling the truth.",
+    "start": 77.664,
+    "end": 82.206,
+    "zh": "探长说，“你没有说实话。”",
+    "zh_hant": "探長說，“你沒有說實話。”"
+  },
+  {
+    "index": 18,
+    "text": "I suggest that you did not catch the 8 o'clock train,",
+    "start": 83.127,
+    "end": 87.449,
+    "zh": "“我认为你坐的不是8点的火车，”",
+    "zh_hant": "“我認為你坐的不是8點的火車，”"
+  },
+  {
+    "index": 19,
+    "text": "but that you caught the 8.25 which would still get you to work on time.",
+    "start": 87.829,
+    "end": 94.175,
+    "zh": "“而是8点25分的，那班车同样能让你按时上班。”",
+    "zh_hant": "“而是8點25分的，那班車同樣能讓你按時上班。”"
+  },
+  {
+    "index": 20,
+    "text": "You see, on the morning of the murder,",
+    "start": 94.837,
+    "end": 98.28,
+    "zh": "“你看，在谋杀案发生的那个早上，”",
+    "zh_hant": "“你看，在謀殺案發生的那個早上，”"
+  },
+  {
+    "index": 21,
+    "text": "the 8 o'clock train did not run at all.",
+    "start": 98.6,
+    "end": 102.103,
+    "zh": "“8点的火车根本没有运行。”",
+    "zh_hant": "“8點的火車根本沒有執行。”"
+  },
+  {
+    "index": 22,
+    "text": "It broke down at Ferngreen station and was taken off the line.'",
+    "start": 102.605,
+    "end": 108.15,
+    "zh": "“它在芬格林站出了故障，被移出了线路。”",
+    "zh_hant": "“它在芬格林站出了故障，被移出了線路。”"
+  }
+]
