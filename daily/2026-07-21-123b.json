@@ -1,0 +1,1090 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.29,
+    "end": 2.651,
+    "zh": "BBC 声音。",
+    "zh_hant": "BBC 聲音。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 4.912,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 5.913,
+    "end": 9.414,
+    "zh": "你好，感谢下载《多或少》播客。",
+    "zh_hant": "你好，感謝下載《多或少》播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that looks at the numbers in the news, in life, and in highly ambiguous language.",
+    "start": 9.374,
+    "end": 14.997,
+    "zh": "我们是关注新闻、生活以及高度含糊语言中数字的节目。",
+    "zh_hant": "我們是關注新聞、生活以及高度含糊語言中數字的節目。"
+  },
+  {
+    "index": 4,
+    "text": "I'm Charlotte MacDonald.",
+    "start": 15.157,
+    "end": 16.738,
+    "zh": "我是夏洛特·麦克唐纳。",
+    "zh_hant": "我是夏洛特·麥克唐納。"
+  },
+  {
+    "index": 5,
+    "text": "When you read in the news, you'll often stumble across words that are meant to communicate the probability of something happening.",
+    "start": 22.021,
+    "end": 28.323,
+    "zh": "当你在新闻中读到内容时，常常会遇到用来表达某事发生概率的词。",
+    "zh_hant": "當你在新聞中讀到內容時，常常會遇到用來表達某事發生機率的詞。"
+  },
+  {
+    "index": 6,
+    "text": "A terrorist attack is a realistic possibility.",
+    "start": 28.584,
+    "end": 31.745,
+    "zh": "恐怖袭击是一个现实的可能性。",
+    "zh_hant": "恐怖襲擊是一個現實的可能性。"
+  },
+  {
+    "index": 7,
+    "text": "The spread of a certain strain of virus is highly likely.",
+    "start": 31.725,
+    "end": 35.347,
+    "zh": "某种病毒株的传播极有可能。",
+    "zh_hant": "某種病毒株的傳播極有可能。"
+  },
+  {
+    "index": 8,
+    "text": "The relegation of your favourite football team is possible, even if you did get a...",
+    "start": 35.347,
+    "end": 40.149,
+    "zh": "你最喜欢的足球队降级是有可能的，即使你确实得到了一个……",
+    "zh_hant": "你最喜歡的足球隊降級是有可能的，即使你確實得到了一個……"
+  },
+  {
+    "index": 9,
+    "text": "Last-minute equaliser against Liverpool.",
+    "start": 39.799,
+    "end": 41.911,
+    "zh": "对利物浦的最后一分钟扳平。",
+    "zh_hant": "對利物浦的最後一分鐘扳平。"
+  },
+  {
+    "index": 10,
+    "text": "But when you hear these terms, do you really know what kind of probabilities they're trying to get across?",
+    "start": 42.391,
+    "end": 48.334,
+    "zh": "但当你听到这些术语时，你真的知道它们试图传达的概率是多少吗？",
+    "zh_hant": "但當你聽到這些術語時，你真的知道它們試圖傳達的機率是多少嗎？"
+  },
+  {
+    "index": 11,
+    "text": "Do you know how likely is?",
+    "start": 48.574,
+    "end": 51.835,
+    "zh": "你知道“有可能”有多可能吗？",
+    "zh_hant": "你知道“有可能”有多可能嗎？"
+  },
+  {
+    "index": 12,
+    "text": "And what probable is meant to convey?",
+    "start": 51.956,
+    "end": 55.277,
+    "zh": "以及“可能”意味着什么？",
+    "zh_hant": "以及“可能”意味著什麼？"
+  },
+  {
+    "index": 13,
+    "text": "In some cases, it seems you probably don't.",
+    "start": 55.657,
+    "end": 59.339,
+    "zh": "在某些情况下，似乎你可能并不知道。",
+    "zh_hant": "在某些情況下，似乎你可能並不知道。"
+  },
+  {
+    "index": 14,
+    "text": "I'm Adam Kucharski.",
+    "start": 61.941,
+    "end": 63.201,
+    "zh": "我是亚当·库哈尔斯基。",
+    "zh_hant": "我是亞當·庫哈爾斯基。"
+  },
+  {
+    "index": 15,
+    "text": "I'm a professor of epidemiology and author of Proof, the Uncertain Science of Certainty.",
+    "start": 63.001,
+    "end": 68.484,
+    "zh": "我是流行病学教授，也是《证明：确定性的不确定科学》一书的作者。",
+    "zh_hant": "我是流行病學教授，也是《證明：確定性的不確定科學》一書的作者。"
+  },
+  {
+    "index": 16,
+    "text": "Adam has a very healthy obsession with the problem of communicating probabilities.",
+    "start": 68.644,
+    "end": 73.626,
+    "zh": "亚当对传达概率这个问题有着非常健康的痴迷。",
+    "zh_hant": "亞當對傳達機率這個問題有著非常健康的痴迷。"
+  },
+  {
+    "index": 17,
+    "text": "And it would be remiss of us if",
+    "start": 73.686,
+    "end": 75.867,
+    "zh": "如果我们不先确保你理解你将要听到的数字",
+    "zh_hant": "如果我們不先確保你理解你將要聽到的數字"
+  },
+  {
+    "index": 18,
+    "text": "we didn't start out by making sure you understand what the numbers you're going to hear",
+    "start": 75.517,
+    "end": 80.709,
+    "zh": "实际上意味着什么，",
+    "zh_hant": "實際上意味著什麼，"
+  },
+  {
+    "index": 19,
+    "text": "actually mean.",
+    "start": 80.63,
+    "end": 81.971,
+    "zh": "那就是我们的失职。",
+    "zh_hant": "那就是我們的失職。"
+  },
+  {
+    "index": 20,
+    "text": "So, what does it mean if we say there's an 80% chance of something happening?",
+    "start": 82.131,
+    "end": 87.874,
+    "zh": "那么，如果我们说某事有80%的机会发生，这意味着什么？",
+    "zh_hant": "那麼，如果我們說某事有80%的機會發生，這意味著什麼？"
+  },
+  {
+    "index": 21,
+    "text": "Intuitively, we can think of the chance of something happening as the proportion",
+    "start": 87.894,
+    "end": 92.396,
+    "zh": "直观上，我们可以把某事发生的机会视为这些事件",
+    "zh_hant": "直觀上，我們可以把某事發生的機會視為這些事件"
+  },
+  {
+    "index": 22,
+    "text": "of those events that would come to fruition in reality.",
+    "start": 92.156,
+    "end": 94.957,
+    "zh": "在现实中会实现的 proportion。",
+    "zh_hant": "在現實中會實現的 proportion。"
+  },
+  {
+    "index": 23,
+    "text": "So, for example, if there's 10 events,",
+    "start": 94.607,
+    "end": 98.059,
+    "zh": "所以，例如，如果有10个事件，",
+    "zh_hant": "所以，例如，如果有10個事件，"
+  },
+  {
+    "index": 24,
+    "text": "All of which have an 80% chance of happening in the next year, say.",
+    "start": 98.259,
+    "end": 101.5,
+    "zh": "比如说，所有这些事件在明年有80%的机会发生。",
+    "zh_hant": "比如說，所有這些事件在明年有80%的機會發生。"
+  },
+  {
+    "index": 25,
+    "text": "On average, we'd expect eight of those 10 to happen.",
+    "start": 101.4,
+    "end": 104.422,
+    "zh": "平均而言，我们预计这10个中有8个会发生。",
+    "zh_hant": "平均而言，我們預計這10箇中有8個會發生。"
+  },
+  {
+    "index": 26,
+    "text": "If it's a 10% chance, we'd only expect, on average, one of those 10 events to actually occur.",
+    "start": 104.072,
+    "end": 109.104,
+    "zh": "如果是10%的机会，我们平均只会预计这10个事件中有1个真正发生。",
+    "zh_hant": "如果是10%的機會，我們平均只會預計這10個事件中有1個真正發生。"
+  },
+  {
+    "index": 27,
+    "text": "Okay, so we can express probabilities with numbers,",
+    "start": 109.124,
+    "end": 112.946,
+    "zh": "好的，所以我们可以用数字来表达概率，",
+    "zh_hant": "好的，所以我們可以用數字來表達機率，"
+  },
+  {
+    "index": 28,
+    "text": "and we can also express them with words like probable, unlikely, and so on.",
+    "start": 112.806,
+    "end": 117.868,
+    "zh": "也可以用词语来表达，比如“可能”、“不太可能”等等。",
+    "zh_hant": "也可以用詞語來表達，比如“可能”、“不太可能”等等。"
+  },
+  {
+    "index": 29,
+    "text": "Ideally the words and numbers match up somehow, but that's not always the case.",
+    "start": 118.209,
+    "end": 123.351,
+    "zh": "理想情况下，词语和数字应该匹配，但情况并非总是如此。",
+    "zh_hant": "理想情況下，詞語和數字應該匹配，但情況並非總是如此。"
+  },
+  {
+    "index": 30,
+    "text": "A real standout example for this kind of problem came in 1951,",
+    "start": 124.852,
+    "end": 129.83,
+    "zh": "这类问题的一个典型例子出现在1951年，",
+    "zh_hant": "這類問題的一個典型例子出現在1951年，"
+  },
+  {
+    "index": 31,
+    "text": "when a CIA analyst called Sherman Kent wrote",
+    "start": 129.715,
+    "end": 133.496,
+    "zh": "当时一位名叫谢尔曼·肯特的中情局分析师写了一份",
+    "zh_hant": "當時一位名叫謝爾曼·肯特的中情局分析師寫了一份"
+  },
+  {
+    "index": 32,
+    "text": "a report that said that there was a serious possibility",
+    "start": 133.146,
+    "end": 137.058,
+    "zh": "报告，称存在一个严重的可能性，",
+    "zh_hant": "報告，稱存在一個嚴重的可能性，"
+  },
+  {
+    "index": 33,
+    "text": "that what was then USSR would try and invade Yugoslavia that year.",
+    "start": 137.078,
+    "end": 140.64,
+    "zh": "即当时的苏联会在那一年尝试入侵南斯拉夫。",
+    "zh_hant": "即當時的蘇聯會在那一年嘗試入侵南斯拉夫。"
+  },
+  {
+    "index": 34,
+    "text": "A serious possibility of war seems like quite an important thing to be clear about.",
+    "start": 140.46,
+    "end": 145.982,
+    "zh": "战争的一个严重可能性似乎是一件需要明确的重要事情。",
+    "zh_hant": "戰爭的一個嚴重可能性似乎是一件需要明確的重要事情。"
+  },
+  {
+    "index": 35,
+    "text": "He then bumped into someone who was a chairman of an important committee in a corridor,",
+    "start": 145.783,
+    "end": 149.984,
+    "zh": "他随后在走廊里遇到了一个重要委员会的主席，",
+    "zh_hant": "他隨後在走廊裡遇到了一個重要委員會的主席，"
+  },
+  {
+    "index": 36,
+    "text": "and the chairman said, \"What did you mean by serious possibility?\"",
+    "start": 149.634,
+    "end": 153.066,
+    "zh": "主席说：“你说的‘严重可能性’是什么意思？”",
+    "zh_hant": "主席說：“你說的‘嚴重可能性’是什麼意思？”"
+  },
+  {
+    "index": 37,
+    "text": "And Kent said he thought about 65%.",
+    "start": 152.716,
+    "end": 155.31,
+    "zh": "肯特说他认为是大约65%。",
+    "zh_hant": "肯特說他認為是大約65%。"
+  },
+  {
+    "index": 38,
+    "text": "And the chairman said, \"I thought he meant something much lower than that.\"",
+    "start": 155.107,
+    "end": 158.889,
+    "zh": "主席说：“我以为他意思远低于这个。”",
+    "zh_hant": "主席說：“我以為他意思遠低於這個。”"
+  },
+  {
+    "index": 39,
+    "text": "And Kent kind of had this panic and went back and talked to a lot of his team who'd been writing these dozens of reports,",
+    "start": 158.849,
+    "end": 164.592,
+    "zh": "肯特有点惊慌，回去和写这些数十份报告的团队交谈，",
+    "zh_hant": "肯特有點驚慌，回去和寫這些數十份報告的團隊交談，"
+  },
+  {
+    "index": 40,
+    "text": "and realised that even in the team who were co-writing these things,",
+    "start": 164.242,
+    "end": 167.614,
+    "zh": "意识到即使在一起撰写这些内容的团队中，",
+    "zh_hant": "意識到即使在一起撰寫這些內容的團隊中，"
+  },
+  {
+    "index": 41,
+    "text": "they had very different numbers in mind for the kind of language they were using.",
+    "start": 167.264,
+    "end": 171.315,
+    "zh": "他们对于所使用的语言持有的数字想法也非常不同。",
+    "zh_hant": "他們對於所使用的語言持有的數字想法也非常不同。"
+  },
+  {
+    "index": 42,
+    "text": "The invasion never happened, but this ambiguity between language and numbers",
+    "start": 171.956,
+    "end": 176.618,
+    "zh": "入侵从未发生，但语言和数字之间的这种模糊性",
+    "zh_hant": "入侵從未發生，但語言和數字之間的這種模糊性"
+  },
+  {
+    "index": 43,
+    "text": "rumbled on over the decades.",
+    "start": 176.478,
+    "end": 178.999,
+    "zh": "几十年来一直持续存在。",
+    "zh_hant": "幾十年來一直持續存在。"
+  },
+  {
+    "index": 44,
+    "text": "However, Adam says that in the last 25 years,",
+    "start": 179.059,
+    "end": 182.741,
+    "zh": "然而，亚当说在过去的25年里，",
+    "zh_hant": "然而，亞當說在過去的25年裡，"
+  },
+  {
+    "index": 45,
+    "text": "there's been a real effort to pin them down, particularly from the intelligence agencies,",
+    "start": 182.391,
+    "end": 188.404,
+    "zh": "特别是情报机构，在努力确定它们的含义，",
+    "zh_hant": "特別是情報機構，在努力確定它們的含義，"
+  },
+  {
+    "index": 46,
+    "text": "which are trying to communicate serious risks to politicians.",
+    "start": 188.054,
+    "end": 192.206,
+    "zh": "这些机构试图向政治家传达严重风险。",
+    "zh_hant": "這些機構試圖向政治家傳達嚴重風險。"
+  },
+  {
+    "index": 47,
+    "text": "So there was a real effort to introduce in the UK what was known as a probability yardstick,",
+    "start": 192.146,
+    "end": 197.889,
+    "zh": "所以英国确实努力引入所谓的概率标尺，",
+    "zh_hant": "所以英國確實努力引入所謂的機率標尺，"
+  },
+  {
+    "index": 48,
+    "text": "where it's saying, if you're using these kinds of words, this is the probability.",
+    "start": 197.539,
+    "end": 202.131,
+    "zh": "它说，如果你使用这些词，这就是概率。",
+    "zh_hant": "它說，如果你使用這些詞，這就是機率。"
+  },
+  {
+    "index": 49,
+    "text": "That you mean.",
+    "start": 201.781,
+    "end": 202.871,
+    "zh": "你指的概率。",
+    "zh_hant": "你指的機率。"
+  },
+  {
+    "index": 50,
+    "text": "So if you're using words like highly likely,",
+    "start": 202.521,
+    "end": 206.813,
+    "zh": "所以如果你使用像“极有可能”这样的词，",
+    "zh_hant": "所以如果你使用像“極有可能”這樣的詞，"
+  },
+  {
+    "index": 51,
+    "text": "you're saying that there's an 80 to 90% chance that that's going to occur.",
+    "start": 206.834,
+    "end": 211.296,
+    "zh": "你在说某事有80%到90%的机会会发生。",
+    "zh_hant": "你在說某事有80%到90%的機會會發生。"
+  },
+  {
+    "index": 52,
+    "text": "If you're using the phrase realistic possibility, you mean a 40 to 50% chance.",
+    "start": 210.946,
+    "end": 216.018,
+    "zh": "如果你使用“现实的可能性”这个短语，你指的是40%到50%的机会。",
+    "zh_hant": "如果你使用“現實的可能性”這個短語，你指的是40%到50%的機會。"
+  },
+  {
+    "index": 53,
+    "text": "James Bond and his analysts in the back office should be communicating clearly now,",
+    "start": 215.898,
+    "end": 220.5,
+    "zh": "詹姆斯·邦德和他后勤办公室的分析师现在应该清晰沟通了，",
+    "zh_hant": "詹姆斯·邦德和他後勤辦公室的分析師現在應該清晰溝通了，"
+  },
+  {
+    "index": 54,
+    "text": "but what about the rest of us?",
+    "start": 220.68,
+    "end": 222.421,
+    "zh": "但我们其他人呢？",
+    "zh_hant": "但我們其他人呢？"
+  },
+  {
+    "index": 55,
+    "text": "This probability language isn't just found in government reports.",
+    "start": 222.781,
+    "end": 227.063,
+    "zh": "这种概率语言不仅仅出现在政府报告中。",
+    "zh_hant": "這種機率語言不僅僅出現在政府報告中。"
+  },
+  {
+    "index": 56,
+    "text": "It also percolates out into the public, in news stories",
+    "start": 227.124,
+    "end": 231.105,
+    "zh": "它也渗透到公众中，在关于战争、疫情和气候变化的新闻故事中",
+    "zh_hant": "它也滲透到公眾中，在關於戰爭、疫情和氣候變化的新聞故事中"
+  },
+  {
+    "index": 57,
+    "text": "about wars, and pandemics, and climate change.",
+    "start": 230.755,
+    "end": 234.167,
+    "zh": "出现。",
+    "zh_hant": "出現。"
+  },
+  {
+    "index": 58,
+    "text": "Does the public have a clear idea what these words actually mean?",
+    "start": 234.407,
+    "end": 238.669,
+    "zh": "公众对这些词的实际含义有清晰的认识吗？",
+    "zh_hant": "公眾對這些詞的實際含義有清晰的認識嗎？"
+  },
+  {
+    "index": 59,
+    "text": "Adam says some small studies have looked at this, but he wanted much more data.",
+    "start": 239.37,
+    "end": 245.193,
+    "zh": "亚当说一些小型研究已经调查过这一点，但他想要更多数据。",
+    "zh_hant": "亞當說一些小型研究已經調查過這一點，但他想要更多資料。"
+  },
+  {
+    "index": 60,
+    "text": "So he built a quiz.",
+    "start": 245.593,
+    "end": 247.534,
+    "zh": "所以他设计了一个测验。",
+    "zh_hant": "所以他設計了一個測驗。"
+  },
+  {
+    "index": 61,
+    "text": "There were two main parts to the quiz.",
+    "start": 250.075,
+    "end": 251.616,
+    "zh": "测验有两个主要部分。",
+    "zh_hant": "測驗有兩個主要部分。"
+  },
+  {
+    "index": 62,
+    "text": "The first was comparing phrases, so you had a series of pairs,",
+    "start": 251.266,
+    "end": 255.218,
+    "zh": "第一部分是比较短语，所以你会有一系列配对，",
+    "zh_hant": "第一部分是比較短語，所以你會有一系列配對，"
+  },
+  {
+    "index": 63,
+    "text": "and it might say, for each pair, which has the higher probability?",
+    "start": 254.938,
+    "end": 258.939,
+    "zh": "每对可能会问，哪个有更高的概率？",
+    "zh_hant": "每對可能會問，哪個有更高的機率？"
+  },
+  {
+    "index": 64,
+    "text": "Of something occurring.",
+    "start": 258.589,
+    "end": 260.02,
+    "zh": "某事发生的概率。",
+    "zh_hant": "某事發生的機率。"
+  },
+  {
+    "index": 65,
+    "text": "The second part of the quiz got people to put specific numbers to phrases.",
+    "start": 260.48,
+    "end": 265.543,
+    "zh": "测验的第二部分让人们对短语给出具体数字。",
+    "zh_hant": "測驗的第二部分讓人們對短語給出具體數字。"
+  },
+  {
+    "index": 66,
+    "text": "So if you're given a phrase like \"may happen,\"",
+    "start": 265.323,
+    "end": 267.684,
+    "zh": "所以如果你得到一个像“可能发生”这样的短语，",
+    "zh_hant": "所以如果你得到一個像“可能發生”這樣的短語，"
+  },
+  {
+    "index": 67,
+    "text": "pick a number between one and 100% that you think matches",
+    "start": 267.944,
+    "end": 272.166,
+    "zh": "选择一个你认为匹配该短语概率的1%到100%之间的数字",
+    "zh_hant": "選擇一個你認為匹配該短語機率的1%到100%之間的數字"
+  },
+  {
+    "index": 68,
+    "text": "the probability of that phrase occurring.",
+    "start": 272.186,
+    "end": 275.248,
+    "zh": "。",
+    "zh_hant": "。"
+  },
+  {
+    "index": 69,
+    "text": "Cohen.",
+    "start": 274.898,
+    "end": 276.488,
+    "zh": "科恩。",
+    "zh_hant": "科恩。"
+  },
+  {
+    "index": 70,
+    "text": "More than 5,000 people took part in Adam's probability quiz.",
+    "start": 276.138,
+    "end": 280.451,
+    "zh": "超过5000人参加了亚当的概率测验。",
+    "zh_hant": "超過5000人參加了亞當的機率測驗。"
+  },
+  {
+    "index": 71,
+    "text": "You can have a go yourself if you click on the link on our website.",
+    "start": 280.511,
+    "end": 283.732,
+    "zh": "如果你点击我们网站上的链接，你可以自己试试。",
+    "zh_hant": "如果你點選我們網站上的連結，你可以自己試試。"
+  },
+  {
+    "index": 72,
+    "text": "And this gave Adam a pretty good idea of which words were highly ambiguous",
+    "start": 283.873,
+    "end": 288.695,
+    "zh": "这让亚当对哪些词高度模糊、哪些大家意见一致有了相当好的了解。",
+    "zh_hant": "這讓亞當對哪些詞高度模糊、哪些大家意見一致有了相當好的瞭解。"
+  },
+  {
+    "index": 73,
+    "text": "and which everyone agreed on.",
+    "start": 288.815,
+    "end": 291.016,
+    "zh": "。",
+    "zh_hant": "。"
+  },
+  {
+    "index": 74,
+    "text": "One of the things that was possible was to see",
+    "start": 291.116,
+    "end": 296.438,
+    "zh": "通过这个测验，可以看到的一件事是",
+    "zh_hant": "透過這個測驗，可以看到的一件事是"
+  },
+  {
+    "index": 75,
+    "text": "where the highest amount of ambiguity was.",
+    "start": 296.699,
+    "end": 299.46,
+    "zh": "模糊程度最高在哪里。",
+    "zh_hant": "模糊程度最高在哪裡。"
+  },
+  {
+    "index": 76,
+    "text": "So, in terms of just the variation in what people say,",
+    "start": 299.16,
+    "end": 302.061,
+    "zh": "因此，仅从人们所说的变化来看，",
+    "zh_hant": "因此，僅從人們所說的變化來看，"
+  },
+  {
+    "index": 77,
+    "text": "the most consistent was the phrase \"about even,\"",
+    "start": 302.282,
+    "end": 305.843,
+    "zh": "最一致的是“大约持平”这个短语，",
+    "zh_hant": "最一致的是“大約持平”這個短語，"
+  },
+  {
+    "index": 78,
+    "text": "which you'd hope that perhaps people would land on about fifty percent.",
+    "start": 305.493,
+    "end": 309.005,
+    "zh": "你会希望人们可能落在大约50%上。",
+    "zh_hant": "你會希望人們可能落在大約50%上。"
+  },
+  {
+    "index": 79,
+    "text": "There was also more clarity in some high and low probability phrases.",
+    "start": 308.925,
+    "end": 313.567,
+    "zh": "一些高概率和低概率短语也有更多清晰度。",
+    "zh_hant": "一些高機率和低機率短語也有更多清晰度。"
+  },
+  {
+    "index": 80,
+    "text": "For instance, most people thought the phrase \"will happen\" meant there was...",
+    "start": 313.527,
+    "end": 318.589,
+    "zh": "例如，大多数人认为“将会发生”意味着……",
+    "zh_hant": "例如，大多數人認為“將會發生”意味著……"
+  },
+  {
+    "index": 81,
+    "text": "A 100% chance and almost certain, something around 95%.",
+    "start": 318.239,
+    "end": 324.603,
+    "zh": "100%的机会，而“几乎肯定”大约是95%.",
+    "zh_hant": "100%的機會，而“幾乎肯定”大約是95%."
+  },
+  {
+    "index": 82,
+    "text": "At the other end, most people thought the phrase almost no chance",
+    "start": 324.653,
+    "end": 329.915,
+    "zh": "另一端，大多数人认为“几乎没机会”",
+    "zh_hant": "另一端，大多數人認為“幾乎沒機會”"
+  },
+  {
+    "index": 83,
+    "text": "meant between a 1% and 5% chance.",
+    "start": 330.076,
+    "end": 332.537,
+    "zh": "意味着1%到5%之间的机会。",
+    "zh_hant": "意味著1%到5%之間的機會。"
+  },
+  {
+    "index": 84,
+    "text": "The phrases remote chance and highly unlikely",
+    "start": 332.957,
+    "end": 337.339,
+    "zh": "“机会渺茫”和“极不可能”这两个短语",
+    "zh_hant": "“機會渺茫”和“極不可能”這兩個短語"
+  },
+  {
+    "index": 85,
+    "text": "both came in between 1% and 10%.",
+    "start": 337.399,
+    "end": 340.151,
+    "zh": "都落在1%到10%之间。",
+    "zh_hant": "都落在1%到10%之間。"
+  },
+  {
+    "index": 86,
+    "text": "Those are the phrases where you could be pretty sure people know what you're saying.",
+    "start": 340.201,
+    "end": 345.303,
+    "zh": "这些短语，你可以很确定人们知道你在说什么。",
+    "zh_hant": "這些短語，你可以很確定人們知道你在說什麼。"
+  },
+  {
+    "index": 87,
+    "text": "However, some were far less clear.",
+    "start": 345.483,
+    "end": 349.265,
+    "zh": "然而，有些短语远没有这么清晰。",
+    "zh_hant": "然而，有些短語遠沒有這麼清晰。"
+  },
+  {
+    "index": 88,
+    "text": "The most variable phrase was realistic possibility.",
+    "start": 349.125,
+    "end": 353.447,
+    "zh": "变化最大的短语是“现实的可能性”。",
+    "zh_hant": "變化最大的短語是“現實的可能性”。"
+  },
+  {
+    "index": 89,
+    "text": "So, one that actually happens to be in intelligence guidelines",
+    "start": 353.097,
+    "end": 356.688,
+    "zh": "这恰好是情报指南中使用的短语，",
+    "zh_hant": "這恰好是情報指南中使用的短語，"
+  },
+  {
+    "index": 90,
+    "text": "and often used internationally in headlines to report risks of events.",
+    "start": 356.369,
+    "end": 360.311,
+    "zh": "在国际上常用于头条新闻来报告事件风险。",
+    "zh_hant": "在國際上常用於頭條新聞來報告事件風險。"
+  },
+  {
+    "index": 91,
+    "text": "Respondents to Adam's quiz thought the phrase \"realistic possibility\"",
+    "start": 360.311,
+    "end": 364.773,
+    "zh": "亚当测验的受访者认为“现实的可能性”这个短语",
+    "zh_hant": "亞當測驗的受訪者認為“現實的可能性”這個短語"
+  },
+  {
+    "index": 92,
+    "text": "could mean anything from a 10% chance of it happening to it being a near certainty,",
+    "start": 364.873,
+    "end": 370.736,
+    "zh": "可能意味着从10%到几乎确定，",
+    "zh_hant": "可能意味著從10%到幾乎確定，"
+  },
+  {
+    "index": 93,
+    "text": "with the average answer just over 50%.",
+    "start": 370.816,
+    "end": 373.487,
+    "zh": "平均答案略高于50%。",
+    "zh_hant": "平均答案略高於50%。"
+  },
+  {
+    "index": 94,
+    "text": "So it really does seem like a word that means a lot of different things to a lot of different people.",
+    "start": 373.537,
+    "end": 378.28,
+    "zh": "所以这确实看起来是一个对不同人意味很多不同事物的词。",
+    "zh_hant": "所以這確實看起來是一個對不同人意味很多不同事物的詞。"
+  },
+  {
+    "index": 95,
+    "text": "The terms \"probable\" and \"likely\" both had ranges",
+    "start": 378.36,
+    "end": 382.682,
+    "zh": "“可能”和“很可能”这两个词的范围",
+    "zh_hant": "“可能”和“很可能”這兩個詞的範圍"
+  },
+  {
+    "index": 96,
+    "text": "from around 50 to 100%,",
+    "start": 382.342,
+    "end": 385.253,
+    "zh": "从大约50%到100%，",
+    "zh_hant": "從大約50%到100%，"
+  },
+  {
+    "index": 97,
+    "text": "with averages just under 75%.",
+    "start": 385.303,
+    "end": 388.315,
+    "zh": "平均值略低于75%。",
+    "zh_hant": "平均值略低於75%。"
+  },
+  {
+    "index": 98,
+    "text": "Adam also asked people to compare probability words side by side to see",
+    "start": 388.365,
+    "end": 393.367,
+    "zh": "亚当还要求人们并排比较概率词，看看",
+    "zh_hant": "亞當還要求人們並排比較機率詞，看看"
+  },
+  {
+    "index": 99,
+    "text": "if people were using probability in a consistent way.",
+    "start": 393.017,
+    "end": 396.268,
+    "zh": "人们是否以一致的方式使用概率。",
+    "zh_hant": "人們是否以一致的方式使用機率。"
+  },
+  {
+    "index": 100,
+    "text": "So here goes.",
+    "start": 396.629,
+    "end": 398.149,
+    "zh": "所以，现在让我们试试。",
+    "zh_hant": "所以，現在讓我們試試。"
+  },
+  {
+    "index": 101,
+    "text": "Let's try a little quiz of our own.",
+    "start": 398.029,
+    "end": 400.351,
+    "zh": "我们来做一个小测验。",
+    "zh_hant": "我們來做一個小測驗。"
+  },
+  {
+    "index": 102,
+    "text": "Which is more likely to happen?",
+    "start": 403.633,
+    "end": 405.773,
+    "zh": "哪个更可能发生？",
+    "zh_hant": "哪個更可能發生？"
+  },
+  {
+    "index": 103,
+    "text": "Something that is very unlikely or something that is highly probable?",
+    "start": 406.254,
+    "end": 411.236,
+    "zh": "是非常不可能的事物还是极有可能的事物？",
+    "zh_hant": "是非常不可能的事物還是極有可能的事物？"
+  },
+  {
+    "index": 104,
+    "text": "Okay, that one was easy.",
+    "start": 412.957,
+    "end": 414.978,
+    "zh": "好吧，那个很简单。",
+    "zh_hant": "好吧，那個很簡單。"
+  },
+  {
+    "index": 105,
+    "text": "Obviously, highly probable is the answer.",
+    "start": 415.018,
+    "end": 417.979,
+    "zh": "显然，极有可能是答案。",
+    "zh_hant": "顯然，極有可能是答案。"
+  },
+  {
+    "index": 106,
+    "text": "How about this, though?",
+    "start": 418.5,
+    "end": 420.0,
+    "zh": "那这个呢？",
+    "zh_hant": "那這個呢？"
+  },
+  {
+    "index": 107,
+    "text": "Which is more likely, something that might happen or something that could happen?",
+    "start": 420.121,
+    "end": 426.003,
+    "zh": "哪个更可能，“可能会发生”还是“可能发生”？",
+    "zh_hant": "哪個更可能，“可能會發生”還是“可能發生”？"
+  },
+  {
+    "index": 108,
+    "text": "Turns out people's judgments on these close comparisons are not consistent at all.",
+    "start": 426.964,
+    "end": 431.906,
+    "zh": "结果发现，人们对这些接近比较的判断一点也不一致。",
+    "zh_hant": "結果發現，人們對這些接近比較的判斷一點也不一致。"
+  },
+  {
+    "index": 109,
+    "text": "Some phrases, particularly the \"might happen,\" \"could happen,\" arguably are just very hard to pin down.",
+    "start": 431.967,
+    "end": 437.569,
+    "zh": "有些短语，特别是“可能会发生”“可能发生”，可以说很难确定。",
+    "zh_hant": "有些短語，特別是“可能會發生”“可能發生”，可以說很難確定。"
+  },
+  {
+    "index": 110,
+    "text": "But even if you give people that, and then give them the same judgment a few questions later,",
+    "start": 437.219,
+    "end": 442.072,
+    "zh": "但即使你给人们这个，然后几道题后给他们同样的判断，",
+    "zh_hant": "但即使你給人們這個，然後幾道題後給他們同樣的判斷，"
+  },
+  {
+    "index": 111,
+    "text": "they'll flip between them somewhat arbitrarily.",
+    "start": 442.132,
+    "end": 444.653,
+    "zh": "他们会相当随意地在两者之间摇摆。",
+    "zh_hant": "他們會相當隨意地在兩者之間搖擺。"
+  },
+  {
+    "index": 112,
+    "text": "While the study was self-selecting, he did end up getting a reasonable spread of responses from people.",
+    "start": 444.773,
+    "end": 450.656,
+    "zh": "虽然这项研究是自我选择的，但他最终确实从人们那里得到了合理的回答分布。",
+    "zh_hant": "雖然這項研究是自我選擇的，但他最終確實從人們那裡得到了合理的回答分佈。"
+  },
+  {
+    "index": 113,
+    "text": "In different groups, and he could see a few patterns start to emerge.",
+    "start": 450.306,
+    "end": 454.658,
+    "zh": "在不同群体中，他可以看到一些模式开始出现。",
+    "zh_hant": "在不同群體中，他可以看到一些模式開始出現。"
+  },
+  {
+    "index": 114,
+    "text": "There was a bit of a trend, for example, with values in education.",
+    "start": 454.538,
+    "end": 458.96,
+    "zh": "例如，教育水平方面有一点趋势。",
+    "zh_hant": "例如，教育水平方面有一點趨勢。"
+  },
+  {
+    "index": 115,
+    "text": "So typically, people who had more degrees tended to be a bit more pessimistic.",
+    "start": 458.66,
+    "end": 463.862,
+    "zh": "所以，通常有更多学位的人往往更悲观一些。",
+    "zh_hant": "所以，通常有更多學位的人往往更悲觀一些。"
+  },
+  {
+    "index": 116,
+    "text": "We also found that people responding from the US were slightly",
+    "start": 463.512,
+    "end": 467.624,
+    "zh": "我们还发现，来自美国的受访者在答案中稍微",
+    "zh_hant": "我們還發現，來自美國的受訪者在答案中稍微"
+  },
+  {
+    "index": 117,
+    "text": "more optimistic in their answers, all things being equal, compared to the UK.",
+    "start": 467.274,
+    "end": 470.265,
+    "zh": "更乐观，所有条件相等时，与英国相比。",
+    "zh_hant": "更樂觀，所有條件相等時，與英國相比。"
+  },
+  {
+    "index": 118,
+    "text": "These, however, were only small effects in the scheme of things, moving the numbers by a few percent.",
+    "start": 470.386,
+    "end": 476.048,
+    "zh": "然而，这些都只是整体中的小影响，移动数字几个百分点。",
+    "zh_hant": "然而，這些都只是整體中的小影響，移動數字幾個百分點。"
+  },
+  {
+    "index": 119,
+    "text": "Really, the big picture here is that some probability language is just very ambiguous.",
+    "start": 476.409,
+    "end": 481.892,
+    "zh": "真正的大局是，一些概率语言非常模糊。",
+    "zh_hant": "真正的大局是，一些機率語言非常模糊。"
+  },
+  {
+    "index": 120,
+    "text": "That's a problem if you're trying to warn people about serious risks.",
+    "start": 481.992,
+    "end": 486.014,
+    "zh": "如果你试图警告人们严重风险，那是个问题。",
+    "zh_hant": "如果你試圖警告人們嚴重風險，那是個問題。"
+  },
+  {
+    "index": 121,
+    "text": "But what should we do about that?",
+    "start": 486.434,
+    "end": 488.275,
+    "zh": "但我们应该怎么做呢？",
+    "zh_hant": "但我們應該怎麼做呢？"
+  },
+  {
+    "index": 122,
+    "text": "For Adam, one thing is just making sure that the people communicating risk, whether they're scientists,",
+    "start": 488.375,
+    "end": 494.738,
+    "zh": "对亚当来说，一件事是确保传达风险的人，无论是科学家、",
+    "zh_hant": "對亞當來說，一件事是確保傳達風險的人，無論是科學家、"
+  },
+  {
+    "index": 123,
+    "text": "politicians, or journalists, know the risk,",
+    "start": 494.388,
+    "end": 497.879,
+    "zh": "政治家还是记者，都了解风险，",
+    "zh_hant": "政治家還是記者，都瞭解風險，"
+  },
+  {
+    "index": 124,
+    "text": "just ensuring that what the person coming up with an estimate is saying",
+    "start": 497.76,
+    "end": 502.962,
+    "zh": "只是确保提出估计的人所说的",
+    "zh_hant": "只是確保提出估計的人所說的"
+  },
+  {
+    "index": 125,
+    "text": "is what the person is hearing at the other end.",
+    "start": 503.082,
+    "end": 505.823,
+    "zh": "是另一端的人所听到的。",
+    "zh_hant": "是另一端的人所聽到的。"
+  },
+  {
+    "index": 126,
+    "text": "The second is to push the people calculating risks.",
+    "start": 505.724,
+    "end": 509.505,
+    "zh": "第二是推动计算风险的人。",
+    "zh_hant": "第二是推動計算風險的人。"
+  },
+  {
+    "index": 127,
+    "text": "Not to hide behind these words to avoid accountability.",
+    "start": 509.345,
+    "end": 512.847,
+    "zh": "不要躲在这些词后面以避免承担责任。",
+    "zh_hant": "不要躲在這些詞後面以避免承擔責任。"
+  },
+  {
+    "index": 128,
+    "text": "All of us, I think, can have some benefit in actually challenging ourselves",
+    "start": 512.927,
+    "end": 517.469,
+    "zh": "我认为，我们所有人如果挑战自己去做一个判断，",
+    "zh_hant": "我認為，我們所有人如果挑戰自己去做一個判斷，"
+  },
+  {
+    "index": 129,
+    "text": "to make a judgment that we can really go back and ask if we genuinely got that right,",
+    "start": 517.119,
+    "end": 523.434,
+    "zh": "真正能回头问自己是否真的做对了，都会受益，",
+    "zh_hant": "真正能回頭問自己是否真的做對了，都會受益，"
+  },
+  {
+    "index": 130,
+    "text": "rather than having these kind of ambiguous words where we can always wiggle out of it later if we want.",
+    "start": 523.114,
+    "end": 528.158,
+    "zh": "而不是使用这些模糊的词，我们以后总能灵活脱身。",
+    "zh_hant": "而不是使用這些模糊的詞，我們以後總能靈活脫身。"
+  },
+  {
+    "index": 131,
+    "text": "Thanks to Adam Kucharski.",
+    "start": 528.179,
+    "end": 530.14,
+    "zh": "感谢亚当·库哈尔斯基。",
+    "zh_hant": "感謝亞當·庫哈爾斯基。"
+  },
+  {
+    "index": 132,
+    "text": "If you've seen a number in the news you think we should take a look at,",
+    "start": 530.541,
+    "end": 533.823,
+    "zh": "如果你在新闻中看到一个你觉得我们应该关注的数据，",
+    "zh_hant": "如果你在新聞中看到一個你覺得我們應該關注的資料，"
+  },
+  {
+    "index": 133,
+    "text": "email moreorless@bbc.co.uk.",
+    "start": 533.643,
+    "end": 537.746,
+    "zh": "请发送邮件到 moreorless@bbc.co.uk。",
+    "zh_hant": "請傳送郵件到 moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 134,
+    "text": "We will be back next week.",
+    "start": 537.967,
+    "end": 539.768,
+    "zh": "我们下周再见。",
+    "zh_hant": "我們下週再見。"
+  },
+  {
+    "index": 135,
+    "text": "Until then, goodbye.",
+    "start": 539.668,
+    "end": 542.15,
+    "zh": "在那之前，再见。",
+    "zh_hant": "在那之前，再見。"
+  }
+]

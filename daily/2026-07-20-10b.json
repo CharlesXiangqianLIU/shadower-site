@@ -1,0 +1,762 @@
+[
+  {
+    "index": 0,
+    "text": "Breaking news: the singer Taylor Swift and the American football star Travis Kelce",
+    "start": 0.0,
+    "end": 5.453,
+    "zh": "突发新闻：歌手泰勒·斯威夫特和美国橄榄球明星特拉维斯·凯尔西",
+    "zh_hant": "突發新聞：歌手泰勒·斯威夫特和美國橄欖球明星特拉維斯·凱爾西"
+  },
+  {
+    "index": 1,
+    "text": "are officially married.",
+    "start": 5.433,
+    "end": 7.714,
+    "zh": "正式结婚了。",
+    "zh_hant": "正式結婚了。"
+  },
+  {
+    "index": 2,
+    "text": "When news came of the wedding, our reporter Floyd Cush swiftly got himself to New York,",
+    "start": 7.674,
+    "end": 13.116,
+    "zh": "婚礼消息传来时，我们的记者弗洛伊德·库什迅速赶到纽约，",
+    "zh_hant": "婚禮訊息傳來時，我們的記者弗洛伊德·庫什迅速趕到紐約，"
+  },
+  {
+    "index": 3,
+    "text": "and we are able to go live to Floyd now, who is outside Madison Square Garden for us.",
+    "start": 13.097,
+    "end": 19.319,
+    "zh": "现在我们可以连线弗洛伊德，他就在麦迪逊广场花园外。",
+    "zh_hant": "現在我們可以連線弗洛伊德，他就在麥迪遜廣場花園外。"
+  },
+  {
+    "index": 4,
+    "text": "What has become a rather damp Madison Square Garden, just in the last few minutes.",
+    "start": 18.969,
+    "end": 23.722,
+    "zh": "就在几分钟内，麦迪逊广场花园变得相当潮湿。",
+    "zh_hant": "就在幾分鐘內，麥迪遜廣場花園變得相當潮溼。"
+  },
+  {
+    "index": 5,
+    "text": "Floyd, bring us up to speed.",
+    "start": 23.382,
+    "end": 25.542,
+    "zh": "弗洛伊德，快给我们说说最新情况。",
+    "zh_hant": "弗洛伊德，快給我們說說最新情況。"
+  },
+  {
+    "index": 6,
+    "text": "What's been happening?",
+    "start": 25.192,
+    "end": 26.403,
+    "zh": "发生了什么？",
+    "zh_hant": "發生了什麼？"
+  },
+  {
+    "index": 7,
+    "text": "Hi, Rich.",
+    "start": 29.465,
+    "end": 30.325,
+    "zh": "嗨，里奇。",
+    "zh_hant": "嗨，裡奇。"
+  },
+  {
+    "index": 8,
+    "text": "How are you going?",
+    "start": 29.975,
+    "end": 30.805,
+    "zh": "你好吗？",
+    "zh_hant": "你好嗎？"
+  },
+  {
+    "index": 9,
+    "text": "We have a torrential thunderstorm happening now after intense heat,",
+    "start": 30.455,
+    "end": 35.407,
+    "zh": "在酷热之后，现在正在下暴雨雷阵雨，",
+    "zh_hant": "在酷熱之後，現在正在下暴雨雷陣雨，"
+  },
+  {
+    "index": 10,
+    "text": "but we have some breaking news that Taylor Swift and Travis Kelce are in fact married.",
+    "start": 35.248,
+    "end": 41.091,
+    "zh": "但我们有突发消息，泰勒·斯威夫特和特拉维斯·凯尔西确实结婚了。",
+    "zh_hant": "但我們有突發訊息，泰勒·斯威夫特和特拉維斯·凱爾西確實結婚了。"
+  },
+  {
+    "index": 11,
+    "text": "I am going to have to leave you because it is getting quite intense out here.",
+    "start": 41.811,
+    "end": 46.773,
+    "zh": "我得先走了，因为这里风雨越来越猛烈。",
+    "zh_hant": "我得先走了，因為這裡風雨越來越猛烈。"
+  },
+  {
+    "index": 12,
+    "text": "Oh dear, poor Floyd.",
+    "start": 46.423,
+    "end": 48.274,
+    "zh": "天哪，可怜的弗洛伊德。",
+    "zh_hant": "天哪，可憐的弗洛伊德。"
+  },
+  {
+    "index": 13,
+    "text": "We will let Floyd get himself settled there.",
+    "start": 48.194,
+    "end": 51.896,
+    "zh": "我们让弗洛伊德先安顿一下。",
+    "zh_hant": "我們讓弗洛伊德先安頓一下。"
+  },
+  {
+    "index": 14,
+    "text": "But let me just tell you that when the news of the wedding came through,",
+    "start": 52.136,
+    "end": 58.539,
+    "zh": "但让我告诉你们，婚礼消息传来时，",
+    "zh_hant": "但讓我告訴你們，婚禮訊息傳來時，"
+  },
+  {
+    "index": 15,
+    "text": "fans obviously celebrating around Madison Square Garden.",
+    "start": 59.08,
+    "end": 63.582,
+    "zh": "粉丝们显然在麦迪逊广场花园周围庆祝。",
+    "zh_hant": "粉絲們顯然在麥迪遜廣場花園周圍慶祝。"
+  },
+  {
+    "index": 16,
+    "text": "This is a massive cultural event.",
+    "start": 63.232,
+    "end": 66.363,
+    "zh": "这是一场巨大的文化盛事。",
+    "zh_hant": "這是一場巨大的文化盛事。"
+  },
+  {
+    "index": 17,
+    "text": "Many people have called it the wedding of the decade, maybe even",
+    "start": 66.023,
+    "end": 70.805,
+    "zh": "许多人称之为十年之婚，甚至可能",
+    "zh_hant": "許多人稱之為十年之婚，甚至可能"
+  },
+  {
+    "index": 18,
+    "text": "the wedding of the century.",
+    "start": 70.686,
+    "end": 72.906,
+    "zh": "是世纪之婚。",
+    "zh_hant": "是世紀之婚。"
+  },
+  {
+    "index": 19,
+    "text": "Let's have a listen to what these fans have to say.",
+    "start": 72.686,
+    "end": 75.768,
+    "zh": "让我们听听这些粉丝怎么说。",
+    "zh_hant": "讓我們聽聽這些粉絲怎麼說。"
+  },
+  {
+    "index": 20,
+    "text": "Just got married.",
+    "start": 78.169,
+    "end": 79.51,
+    "zh": "刚结婚了。",
+    "zh_hant": "剛結婚了。"
+  },
+  {
+    "index": 21,
+    "text": "This is TNT, Taylor and Travis.",
+    "start": 79.16,
+    "end": 82.812,
+    "zh": "这是TNT，泰勒和特拉维斯。",
+    "zh_hant": "這是TNT，泰勒和特拉維斯。"
+  },
+  {
+    "index": 22,
+    "text": "So I think you did get married.",
+    "start": 82.462,
+    "end": 84.072,
+    "zh": "所以我觉得你们确实结婚了。",
+    "zh_hant": "所以我覺得你們確實結婚了。"
+  },
+  {
+    "index": 23,
+    "text": "What's your reaction?",
+    "start": 83.722,
+    "end": 84.993,
+    "zh": "你有何反应？",
+    "zh_hant": "你有何反應？"
+  },
+  {
+    "index": 24,
+    "text": "Shocked, surprised, happy for them.",
+    "start": 85.633,
+    "end": 87.954,
+    "zh": "震惊，惊讶，为他们高兴。",
+    "zh_hant": "震驚，驚訝，為他們高興。"
+  },
+  {
+    "index": 25,
+    "text": "Yeah, surprised, excited.",
+    "start": 88.655,
+    "end": 91.516,
+    "zh": "是啊，惊讶，兴奋。",
+    "zh_hant": "是啊，驚訝，興奮。"
+  },
+  {
+    "index": 26,
+    "text": "We were just watching the World Cup game, and we just popped over, and we're just happy",
+    "start": 91.716,
+    "end": 96.919,
+    "zh": "我们刚才在看世界杯比赛，然后就过来了，我们很开心",
+    "zh_hant": "我們剛才在看世界盃比賽，然後就過來了，我們很開心"
+  },
+  {
+    "index": 27,
+    "text": "that she got married.",
+    "start": 96.639,
+    "end": 98.499,
+    "zh": "她结婚了。",
+    "zh_hant": "她結婚了。"
+  },
+  {
+    "index": 28,
+    "text": "And we didn't think this was real, so when we saw the sign, we're like, \"Wow, this is shocking.\"",
+    "start": 98.24,
+    "end": 103.002,
+    "zh": "我们没觉得是真的，所以看到牌子时，我们就像，‘哇，太震惊了。’",
+    "zh_hant": "我們沒覺得是真的，所以看到牌子時，我們就像，‘哇，太震驚了。’"
+  },
+  {
+    "index": 29,
+    "text": "I only have two, but my favorite album is 1999.",
+    "start": 103.582,
+    "end": 109.955,
+    "zh": "我只有两张专辑，但我最喜欢的专辑是1999。",
+    "zh_hant": "我只有兩張專輯，但我最喜歡的專輯是1999。"
+  },
+  {
+    "index": 30,
+    "text": "Well, quite the mix of fans there,",
+    "start": 110.005,
+    "end": 112.166,
+    "zh": "好吧，粉丝真是各式各样，",
+    "zh_hant": "好吧，粉絲真是各式各樣，"
+  },
+  {
+    "index": 31,
+    "text": "and clearly those fans speaking to our reporter before the weather took a turn for the worse.",
+    "start": 111.826,
+    "end": 117.809,
+    "zh": "显然那些粉丝是在天气变坏前跟我们记者说的。",
+    "zh_hant": "顯然那些粉絲是在天氣變壞前跟我們記者說的。"
+  },
+  {
+    "index": 32,
+    "text": "It's now rather dismal in New York City.",
+    "start": 117.689,
+    "end": 120.751,
+    "zh": "现在纽约市相当阴郁。",
+    "zh_hant": "現在紐約市相當陰鬱。"
+  },
+  {
+    "index": 33,
+    "text": "At Madison Square Garden, where that wedding has taken place just in the last half hour.",
+    "start": 120.401,
+    "end": 125.553,
+    "zh": "在麦迪逊广场花园，婚礼就在半小时内才刚刚举行。",
+    "zh_hant": "在麥迪遜廣場花園，婚禮就在半小時內才剛剛舉行。"
+  },
+  {
+    "index": 34,
+    "text": "But this is a big deal, a significant cultural moment.",
+    "start": 125.203,
+    "end": 129.255,
+    "zh": "但这是大事，一个重要的文化时刻。",
+    "zh_hant": "但這是大事，一個重要的文化時刻。"
+  },
+  {
+    "index": 35,
+    "text": "Joining us live now is Dr. Sarah Baker Bailey, an associate professor at Southern Connecticut State University,",
+    "start": 128.905,
+    "end": 134.998,
+    "zh": "现在加入我们直播的是莎拉·贝克·贝利博士，南康涅狄格州立大学副教授，",
+    "zh_hant": "現在加入我們直播的是莎拉·貝克·貝利博士，南康涅狄格州立大學副教授，"
+  },
+  {
+    "index": 36,
+    "text": "where she teaches a Taylor Swift-themed course",
+    "start": 134.648,
+    "end": 138.279,
+    "zh": "她教一门以泰勒·斯威夫特为主题的课程",
+    "zh_hant": "她教一門以泰勒·斯威夫特為主題的課程"
+  },
+  {
+    "index": 37,
+    "text": "looking at the intersection of pop culture, fandom, and communication.",
+    "start": 138.2,
+    "end": 143.002,
+    "zh": "探讨流行文化、粉丝群体和传播的交汇点。",
+    "zh_hant": "探討流行文化、粉絲群體和傳播的交匯點。"
+  },
+  {
+    "index": 38,
+    "text": "Sarah, great to have you on the program.",
+    "start": 142.702,
+    "end": 144.903,
+    "zh": "莎拉，欢迎你上节目。",
+    "zh_hant": "莎拉，歡迎你上節目。"
+  },
+  {
+    "index": 39,
+    "text": "This is very exciting news for many Swifties, as they call themselves,",
+    "start": 144.863,
+    "end": 149.865,
+    "zh": "这对许多自称斯威夫特粉丝的人来说是个非常令人兴奋的消息，",
+    "zh_hant": "這對許多自稱斯威夫特粉絲的人來說是個非常令人興奮的訊息，"
+  },
+  {
+    "index": 40,
+    "text": "but a big cultural moment.",
+    "start": 149.725,
+    "end": 152.486,
+    "zh": "也是一个重大文化时刻。",
+    "zh_hant": "也是一個重大文化時刻。"
+  },
+  {
+    "index": 41,
+    "text": "Talk us through this.",
+    "start": 152.146,
+    "end": 153.527,
+    "zh": "跟我们详细说说。",
+    "zh_hant": "跟我們詳細說說。"
+  },
+  {
+    "index": 42,
+    "text": "Oh, absolutely.",
+    "start": 154.248,
+    "end": 155.828,
+    "zh": "哦，当然。",
+    "zh_hant": "哦，當然。"
+  },
+  {
+    "index": 43,
+    "text": "The Tay voodoo is unmatched.",
+    "start": 155.968,
+    "end": 157.849,
+    "zh": "泰勒的神秘力量无与伦比。",
+    "zh_hant": "泰勒的神秘力量無與倫比。"
+  },
+  {
+    "index": 44,
+    "text": "I can't believe that it's a thunderstorm in New York right now.",
+    "start": 157.499,
+    "end": 160.751,
+    "zh": "我简直不敢相信现在纽约正在下雷阵雨。",
+    "zh_hant": "我簡直不敢相信現在紐約正在下雷陣雨。"
+  },
+  {
+    "index": 45,
+    "text": "She wrote on her album, Reputation, after the storm, something was born on the 4th of July.",
+    "start": 160.771,
+    "end": 166.634,
+    "zh": "她在专辑《Reputation》里写过，暴风雨过后，某样东西在7月4日诞生了。",
+    "zh_hant": "她在專輯《Reputation》裡寫過，暴風雨過後，某樣東西在7月4日誕生了。"
+  },
+  {
+    "index": 46,
+    "text": "Here we are, July 3rd, 2026, prophecies coming true.",
+    "start": 166.834,
+    "end": 171.976,
+    "zh": "现在我们在2026年7月3日，预言正在成真。",
+    "zh_hant": "現在我們在2026年7月3日，預言正在成真。"
+  },
+  {
+    "index": 47,
+    "text": "People have been asking me, why am I doing news right now, talking about the TNT wedding?",
+    "start": 173.017,
+    "end": 179.44,
+    "zh": "人们一直在问我，为什么我现在要做新闻，谈论TNT婚礼？",
+    "zh_hant": "人們一直在問我，為什麼我現在要做新聞，談論TNT婚禮？"
+  },
+  {
+    "index": 48,
+    "text": "And I think these are two uniquely American",
+    "start": 179.62,
+    "end": 183.122,
+    "zh": "我认为这是两个独特的美国",
+    "zh_hant": "我認為這是兩個獨特的美國"
+  },
+  {
+    "index": 49,
+    "text": "cultural phenomenons coming together: pop music, sports.",
+    "start": 183.122,
+    "end": 186.624,
+    "zh": "文化现象的结合：流行音乐和体育。",
+    "zh_hant": "文化現象的結合：流行音樂和體育。"
+  },
+  {
+    "index": 50,
+    "text": "But also, it's a wedding of a thousand people, featuring film,",
+    "start": 186.464,
+    "end": 190.626,
+    "zh": "而且，这是一场千人婚礼，有电影界、",
+    "zh_hant": "而且，這是一場千人婚禮，有電影界、"
+  },
+  {
+    "index": 51,
+    "text": "television stars, guests from across the pond like Hugh Grant, athletes.",
+    "start": 190.386,
+    "end": 195.968,
+    "zh": "电视明星、来自英国的嘉宾如休·格兰特、运动员。",
+    "zh_hant": "電視明星、來自英國的嘉賓如休·格蘭特、運動員。"
+  },
+  {
+    "index": 52,
+    "text": "Journalists, models.",
+    "start": 195.648,
+    "end": 197.389,
+    "zh": "记者、模特。",
+    "zh_hant": "記者、模特。"
+  },
+  {
+    "index": 53,
+    "text": "It is a who's who of America, all under that dome of Madison Square Garden right now.",
+    "start": 197.039,
+    "end": 202.952,
+    "zh": "这会是一场美国名人荟萃，全都在麦迪逊广场花园的那个穹顶之下。",
+    "zh_hant": "這會是一場美國名人薈萃，全都在麥迪遜廣場花園的那個穹頂之下。"
+  },
+  {
+    "index": 54,
+    "text": "Really quite prophetic, that line you bring up.",
+    "start": 203.733,
+    "end": 206.354,
+    "zh": "你提的那句话真是很有预言性。",
+    "zh_hant": "你提的那句話真是很有預言性。"
+  },
+  {
+    "index": 55,
+    "text": "You touched on some of the guest lists, the names on that guest list.",
+    "start": 206.094,
+    "end": 211.216,
+    "zh": "你提到了部分宾客名单，名单上的名字。",
+    "zh_hant": "你提到了部分賓客名單，名單上的名字。"
+  },
+  {
+    "index": 56,
+    "text": "But this whole thing was shrouded in secrecy.",
+    "start": 210.866,
+    "end": 215.278,
+    "zh": "但整件事都是笼罩在保密中的。",
+    "zh_hant": "但整件事都是籠罩在保密中的。"
+  },
+  {
+    "index": 57,
+    "text": "I mean, you're talking about one of the most famous singers on the planet",
+    "start": 214.938,
+    "end": 220.441,
+    "zh": "我的意思是，你谈的是地球上最著名的歌手之一",
+    "zh_hant": "我的意思是，你談的是地球上最著名的歌手之一"
+  },
+  {
+    "index": 58,
+    "text": "and one of the most famous sports stars on the planet.",
+    "start": 220.091,
+    "end": 223.762,
+    "zh": "和地球上最著名的体育明星之一。",
+    "zh_hant": "和地球上最著名的體育明星之一。"
+  },
+  {
+    "index": 59,
+    "text": "Why were they so secretive about this?",
+    "start": 223.762,
+    "end": 226.243,
+    "zh": "为什么他们对这事这么保密？",
+    "zh_hant": "為什麼他們對這事這麼保密？"
+  },
+  {
+    "index": 60,
+    "text": "And yet, on the other hand, doing this in Such a huge public venue?",
+    "start": 225.984,
+    "end": 229.665,
+    "zh": "而另一方面，又为什么在这么大的公共场所举办？",
+    "zh_hant": "而另一方面，又為什麼在這麼大的公共場所舉辦？"
+  },
+  {
+    "index": 61,
+    "text": "That's a great question.",
+    "start": 230.726,
+    "end": 232.406,
+    "zh": "这是个好问题。",
+    "zh_hant": "這是個好問題。"
+  },
+  {
+    "index": 62,
+    "text": "Their interactions over the last two years of their relationship",
+    "start": 232.927,
+    "end": 237.989,
+    "zh": "他们关系过去两年里的互动",
+    "zh_hant": "他們關係過去兩年裡的互動"
+  },
+  {
+    "index": 63,
+    "text": "has been this very interesting mix of seeming incredibly intimate,",
+    "start": 237.969,
+    "end": 243.913,
+    "zh": "一直是这种非常有趣的混合，看起来极其亲密，",
+    "zh_hant": "一直是這種非常有趣的混合，看起來極其親密，"
+  },
+  {
+    "index": 64,
+    "text": "announcing your engagement on Instagram with a caption",
+    "start": 243.873,
+    "end": 247.254,
+    "zh": "在Instagram上宣布订婚，配文",
+    "zh_hant": "在Instagram上宣佈訂婚，配文"
+  },
+  {
+    "index": 65,
+    "text": "that says your favorite English teacher and gym teacher are getting married,",
+    "start": 246.904,
+    "end": 251.696,
+    "zh": "说你们最喜欢的英语老师和体育老师要结婚了，",
+    "zh_hant": "說你們最喜歡的英語老師和體育老師要結婚了，"
+  },
+  {
+    "index": 66,
+    "text": "feels like something a best friend and acquaintance would do, paparazzi walks,",
+    "start": 251.577,
+    "end": 257.519,
+    "zh": "这感觉像是好朋友和熟人会做的事，狗仔队跟拍散步，",
+    "zh_hant": "這感覺像是好朋友和熟人會做的事，狗仔隊跟拍散步，"
+  },
+  {
+    "index": 67,
+    "text": "things of that nature, but always still keeping us at arm's length with it,",
+    "start": 257.169,
+    "end": 262.962,
+    "zh": "诸如此类，但总是让我们保持距离，",
+    "zh_hant": "諸如此類，但總是讓我們保持距離，"
+  },
+  {
+    "index": 68,
+    "text": "rightfully so, bringing us in but also keeping things, I think.",
+    "start": 263.122,
+    "end": 269.305,
+    "zh": "合情合理，既拉我们进来，又保持一些东西，我觉得。",
+    "zh_hant": "合情合理，既拉我們進來，又保持一些東西，我覺得。"
+  },
+  {
+    "index": 69,
+    "text": "Travis said it once in an interview that there are many details",
+    "start": 268.955,
+    "end": 272.867,
+    "zh": "特拉维斯在一次采访中说过，他们关系的许多细节",
+    "zh_hant": "特拉維斯在一次採訪中說過，他們關係的許多細節"
+  },
+  {
+    "index": 70,
+    "text": "of their relationship that will remain intimate and private,",
+    "start": 272.517,
+    "end": 276.348,
+    "zh": "将保持亲密和私密，",
+    "zh_hant": "將保持親密和私密，"
+  },
+  {
+    "index": 71,
+    "text": "and between one another, but they're certainly not going to hide their love for each other.",
+    "start": 275.998,
+    "end": 281.872,
+    "zh": "只属于彼此，但他们肯定不会隐藏对彼此的爱。",
+    "zh_hant": "只屬於彼此，但他們肯定不會隱藏對彼此的愛。"
+  },
+  {
+    "index": 72,
+    "text": "You study, from an academic point of view, pop culture, fandom, celebrity status.",
+    "start": 281.872,
+    "end": 288.115,
+    "zh": "你从学术角度研究流行文化、粉丝群体和名人地位。",
+    "zh_hant": "你從學術角度研究流行文化、粉絲群體和名人地位。"
+  },
+  {
+    "index": 73,
+    "text": "What is it about Taylor Swift,",
+    "start": 287.765,
+    "end": 291.256,
+    "zh": "泰勒·斯威夫特有什么特质，",
+    "zh_hant": "泰勒·斯威夫特有什麼特質，"
+  },
+  {
+    "index": 74,
+    "text": "and also her now husband Travis Kelce, that just",
+    "start": 290.976,
+    "end": 295.298,
+    "zh": "以及她现在丈夫特拉维斯·凯尔西，就是什么",
+    "zh_hant": "以及她現在丈夫特拉維斯·凱爾西，就是什麼"
+  },
+  {
+    "index": 75,
+    "text": "captures so many people's imagination and emotion?",
+    "start": 295.479,
+    "end": 301.481,
+    "zh": "吸引这么多人的想象力和情感？",
+    "zh_hant": "吸引這麼多人的想象力和情感？"
+  },
+  {
+    "index": 76,
+    "text": "Both Taylor and Travis beautifully leverage the power of social media,",
+    "start": 302.342,
+    "end": 308.205,
+    "zh": "泰勒和特拉维斯都很好地利用了社交媒体的力量，",
+    "zh_hant": "泰勒和特拉維斯都很好地利用了社交媒體的力量，"
+  },
+  {
+    "index": 77,
+    "text": "especially emerging social media technologies.",
+    "start": 307.905,
+    "end": 312.066,
+    "zh": "尤其是新兴社交媒体技术。",
+    "zh_hant": "尤其是新興社交媒體技術。"
+  },
+  {
+    "index": 78,
+    "text": "Taylor, at the start of her career, was doing a lot of vlogging.",
+    "start": 312.147,
+    "end": 316.489,
+    "zh": "泰勒在职业生涯初期做了很多视频博客。",
+    "zh_hant": "泰勒在職業生涯初期做了很多影片部落格。"
+  },
+  {
+    "index": 79,
+    "text": "So that initially really let fans in on her day-to-day life.",
+    "start": 316.139,
+    "end": 321.352,
+    "zh": "那最初确实让粉丝们进入了她的日常生活。",
+    "zh_hant": "那最初確實讓粉絲們進入了她的日常生活。"
+  },
+  {
+    "index": 80,
+    "text": "There's a really infamous video of her learning to drive, and it's not going",
+    "start": 321.002,
+    "end": 325.874,
+    "zh": "有一个非常出名的视频是她学开车，学得不太",
+    "zh_hant": "有一個非常出名的影片是她學開車，學得不太"
+  },
+  {
+    "index": 81,
+    "text": "very well.",
+    "start": 325.524,
+    "end": 327.555,
+    "zh": "顺利。",
+    "zh_hant": "順利。"
+  },
+  {
+    "index": 82,
+    "text": "She would give us snippets of things that we would all",
+    "start": 327.475,
+    "end": 331.136,
+    "zh": "她会给我们分享一些片段，那些我们都会",
+    "zh_hant": "她會給我們分享一些片段，那些我們都會"
+  },
+  {
+    "index": 83,
+    "text": "be experiencing or had experienced.",
+    "start": 330.856,
+    "end": 333.978,
+    "zh": "正在经历或曾经经历过的事情。",
+    "zh_hant": "正在經歷或曾經經歷過的事情。"
+  },
+  {
+    "index": 84,
+    "text": "She got on Tumblr when it took off and was very active on it.",
+    "start": 333.978,
+    "end": 338.62,
+    "zh": "当Tumblr火起来时她上了平台，并且非常活跃。",
+    "zh_hant": "當Tumblr火起來時她上了平臺，並且非常活躍。"
+  },
+  {
+    "index": 85,
+    "text": "Instagram, obviously, they have been currently leveraging.",
+    "start": 338.58,
+    "end": 342.062,
+    "zh": "Instagram，显然他们现在一直在利用。",
+    "zh_hant": "Instagram，顯然他們現在一直在利用。"
+  },
+  {
+    "index": 86,
+    "text": "But Travis is no stranger to interactions on social media,",
+    "start": 341.962,
+    "end": 345.483,
+    "zh": "但特拉维斯对社交媒体互动也不陌生，",
+    "zh_hant": "但特拉維斯對社交媒體互動也不陌生，"
+  },
+  {
+    "index": 87,
+    "text": "as some of his old tweets have resurfaced in some really funny ways.",
+    "start": 345.184,
+    "end": 350.706,
+    "zh": "因为他的一些旧推文以一些非常有趣的方式重新出现了。",
+    "zh_hant": "因為他的一些舊推文以一些非常有趣的方式重新出現了。"
+  },
+  {
+    "index": 88,
+    "text": "They know how to, through screens and through digital media,",
+    "start": 351.146,
+    "end": 355.648,
+    "zh": "他们知道如何通过屏幕和数字媒体，",
+    "zh_hant": "他們知道如何透過螢幕和數字媒體，"
+  },
+  {
+    "index": 89,
+    "text": "reach out to their fans and cultivate feelings of very deep, intimate, personal connections.",
+    "start": 355.749,
+    "end": 362.134,
+    "zh": "联系粉丝，并培养非常深层、亲密、个人化的联系感。",
+    "zh_hant": "聯絡粉絲，並培養非常深層、親密、個人化的聯絡感。"
+  },
+  {
+    "index": 90,
+    "text": "Really, really fascinating to talk to you, Dr. Sarah Baker Bailey,",
+    "start": 362.315,
+    "end": 366.439,
+    "zh": "和你聊天真非常有意思，莎拉·贝克·贝利博士，",
+    "zh_hant": "和你聊天真非常有意思，莎拉·貝克·貝利博士，"
+  },
+  {
+    "index": 91,
+    "text": "on this huge, pivotal, cultural moment",
+    "start": 366.089,
+    "end": 369.381,
+    "zh": "在这个巨大、关键的文化时刻",
+    "zh_hant": "在這個巨大、關鍵的文化時刻"
+  },
+  {
+    "index": 92,
+    "text": "for many people who are Swifties out there.",
+    "start": 369.622,
+    "end": 373.045,
+    "zh": "对那些外面的斯威夫特粉丝来说。",
+    "zh_hant": "對那些外面的斯威夫特粉絲來說。"
+  },
+  {
+    "index": 93,
+    "text": "Dr. Bailey from Southern Connecticut State University, thank you so much for joining us.",
+    "start": 372.865,
+    "end": 376.789,
+    "zh": "来自南康涅狄格州立大学的贝利博士，非常感谢你加入我们。",
+    "zh_hant": "來自南康涅狄格州立大學的貝利博士，非常感謝你加入我們。"
+  },
+  {
+    "index": 94,
+    "text": "Thank you.",
+    "start": 376.709,
+    "end": 377.59,
+    "zh": "谢谢。",
+    "zh_hant": "謝謝。"
+  }
+]

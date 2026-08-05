@@ -1,0 +1,1202 @@
+[
+  {
+    "index": 0,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.391,
+    "end": 10.052,
+    "zh": "你好，感谢下载More or Less播客。",
+    "zh_hant": "你好，感謝下載More or Less播客。"
+  },
+  {
+    "index": 1,
+    "text": "We're the programme that looks at the numbers in the news, life and social media posts of 1990s British",
+    "start": 10.152,
+    "end": 16.555,
+    "zh": "我们是关注90年代英国新闻、生活与社交媒体帖文中数字的节目。",
+    "zh_hant": "我們是關注90年代英國新聞、生活與社交媒體帖文中數字的節目。"
+  },
+  {
+    "index": 2,
+    "text": "pop icons.",
+    "start": 16.205,
+    "end": 17.516,
+    "zh": "流行偶像。",
+    "zh_hant": "流行偶像。"
+  },
+  {
+    "index": 3,
+    "text": "I'm Tim Harford.",
+    "start": 17.656,
+    "end": 18.896,
+    "zh": "我是蒂姆·哈福德。",
+    "zh_hant": "我是蒂姆·哈福德。"
+  },
+  {
+    "index": 4,
+    "text": "Sometimes a topic comes up that's so good we keep resurrecting it and sending it",
+    "start": 20.157,
+    "end": 25.18,
+    "zh": "有时某个话题特别好，我们就不停地把它重新翻出来再分享。",
+    "zh_hant": "有時某個話題特別好，我們就不停地把它重新翻出來再分享。"
+  },
+  {
+    "index": 5,
+    "text": "back out onto the airwaves.",
+    "start": 24.83,
+    "end": 26.66,
+    "zh": "回到广播里来。",
+    "zh_hant": "回到廣播裡來。"
+  },
+  {
+    "index": 6,
+    "text": "This week that topic is religious persecution.",
+    "start": 26.661,
+    "end": 30.182,
+    "zh": "本周的主题是宗教迫害。",
+    "zh_hant": "本週的主題是宗教迫害。"
+  },
+  {
+    "index": 7,
+    "text": "Or rather, the claims made about attacks on churches.",
+    "start": 30.182,
+    "end": 35.725,
+    "zh": "更确切地说，是关于教堂遇袭的那些说法。",
+    "zh_hant": "更確切地說，是關於教堂遇襲的那些說法。"
+  },
+  {
+    "index": 8,
+    "text": "You might recall that we covered the topic at the beginning of the year,",
+    "start": 35.825,
+    "end": 39.226,
+    "zh": "你可能还记得，我们在年初讨论过这个话题。",
+    "zh_hant": "你可能還記得，我們在年初討論過這個話題。"
+  },
+  {
+    "index": 9,
+    "text": "when we looked into whether something tweeted by a member of a band called Right Said Fred was right.",
+    "start": 38.987,
+    "end": 44.749,
+    "zh": "当我们调查一个名叫“Right Said Fred”的乐队成员发的推文是否正确时。",
+    "zh_hant": "當我們調查一個名叫“Right Said Fred”的樂隊成員發的推文是否正確時。"
+  },
+  {
+    "index": 10,
+    "text": "Too long, didn't listen?",
+    "start": 44.99,
+    "end": 46.41,
+    "zh": "太长，没听？",
+    "zh_hant": "太長，沒聽？"
+  },
+  {
+    "index": 11,
+    "text": "Here's a potted version.",
+    "start": 46.331,
+    "end": 48.111,
+    "zh": "这是一篇浓缩版。",
+    "zh_hant": "這是一篇濃縮版。"
+  },
+  {
+    "index": 12,
+    "text": "Basically, an unspecified member of the Fred band, using their joint account,",
+    "start": 48.011,
+    "end": 54.034,
+    "zh": "基本上，弗雷德乐队中某个未指明的成员，用他们的共同账户，",
+    "zh_hant": "基本上，弗雷德樂隊中某個未指明的成員，用他們的共同賬戶，"
+  },
+  {
+    "index": 13,
+    "text": "It claimed that there had been 9,000 attacks on churches in the UK.",
+    "start": 53.684,
+    "end": 59.097,
+    "zh": "该说法声称，英国已发生9000起针对教堂的袭击事件。",
+    "zh_hant": "該說法聲稱，英國已發生9000起針對教堂的襲擊事件。"
+  },
+  {
+    "index": 14,
+    "text": "We found that the number actually included crime recorded on the grounds of any religious establishment,",
+    "start": 59.397,
+    "end": 65.78,
+    "zh": "我们发现，这个数字实际上包括了任何宗教场所范围内记录在案的犯罪。",
+    "zh_hant": "我們發現，這個數字實際上包括了任何宗教場所範圍內記錄在案的犯罪。"
+  },
+  {
+    "index": 15,
+    "text": "that's mosques, churches, synagogues, etc.,",
+    "start": 65.8,
+    "end": 68.922,
+    "zh": "那是清真寺、教堂、犹太会堂等等。",
+    "zh_hant": "那是清真寺、教堂、猶太會堂等等。"
+  },
+  {
+    "index": 16,
+    "text": "plus graveyards, cemeteries, church buildings, car parks.",
+    "start": 68.842,
+    "end": 72.904,
+    "zh": "还有墓地、公墓、教堂建筑和停车场。",
+    "zh_hant": "還有墓地、公墓、教堂建築和停車場。"
+  },
+  {
+    "index": 17,
+    "text": "The crimes were mainly burglaries and thefts,",
+    "start": 72.924,
+    "end": 76.285,
+    "zh": "犯罪主要是入室盗窃和偷窃。",
+    "zh_hant": "犯罪主要是入室盜竊和偷竊。"
+  },
+  {
+    "index": 18,
+    "text": "and also included things such as drug dealing, sexual assaults, and graffiti.",
+    "start": 76.085,
+    "end": 81.068,
+    "zh": "还包括贩毒、性侵犯和涂鸦等行为。",
+    "zh_hant": "還包括販毒、性侵犯和塗鴉等行為。"
+  },
+  {
+    "index": 19,
+    "text": "But it turns out that this was just one claim about church attacks among",
+    "start": 81.308,
+    "end": 85.75,
+    "zh": "但事实证明，这只是关于教堂袭击的众多说法之一。",
+    "zh_hant": "但事實證明，這只是關於教堂襲擊的眾多說法之一。"
+  },
+  {
+    "index": 20,
+    "text": "many that are percolating through the internet,",
+    "start": 85.4,
+    "end": 88.432,
+    "zh": "许多正在互联网上广泛传播的",
+    "zh_hant": "許多正在網際網路上廣泛傳播的"
+  },
+  {
+    "index": 21,
+    "text": "like the world's least appetizing cup of coffee.",
+    "start": 88.252,
+    "end": 91.873,
+    "zh": "像全世界最让人没食欲的一杯咖啡。",
+    "zh_hant": "像全世界最讓人沒食慾的一杯咖啡。"
+  },
+  {
+    "index": 22,
+    "text": "Lizzie McNeill did the original report and now, like a Jedi, returns.",
+    "start": 92.954,
+    "end": 98.677,
+    "zh": "Lizzie McNeill做了原始报道，如今如绝地武士般归来。",
+    "zh_hant": "Lizzie McNeill做了原始報道，如今如絕地武士般歸來。"
+  },
+  {
+    "index": 23,
+    "text": "Hi, Tim.",
+    "start": 98.327,
+    "end": 99.197,
+    "zh": "嗨，蒂姆。",
+    "zh_hant": "嗨，蒂姆。"
+  },
+  {
+    "index": 24,
+    "text": "You're back.",
+    "start": 98.977,
+    "end": 99.857,
+    "zh": "你回来了。",
+    "zh_hant": "你回來了。"
+  },
+  {
+    "index": 25,
+    "text": "As was foretold.",
+    "start": 99.777,
+    "end": 101.278,
+    "zh": "正如预言所述。",
+    "zh_hant": "正如預言所述。"
+  },
+  {
+    "index": 26,
+    "text": "So what do you have for us this week?",
+    "start": 101.058,
+    "end": 102.799,
+    "zh": "这周你们有什么给我们看的？",
+    "zh_hant": "這周你們有什麼給我們看的？"
+  },
+  {
+    "index": 27,
+    "text": "Well, actually, this brings us back to social media, because I've noticed the same number circulating.",
+    "start": 102.779,
+    "end": 108.421,
+    "zh": "其实，这又让我们回到了社交媒体上，因为我注意到同一个数字在流传。",
+    "zh_hant": "其實，這又讓我們回到了社交媒體上，因為我注意到同一個數字在流傳。"
+  },
+  {
+    "index": 28,
+    "text": "People claiming that 400 churches have been burnt down in, insert country here.",
+    "start": 108.302,
+    "end": 113.344,
+    "zh": "声称有400座教堂被烧毁的人在，插入国家名称。",
+    "zh_hant": "聲稱有400座教堂被燒燬的人在，插入國家名稱。"
+  },
+  {
+    "index": 29,
+    "text": "Have you malfunctioned again?",
+    "start": 113.504,
+    "end": 115.105,
+    "zh": "你又出故障了吗？",
+    "zh_hant": "你又出故障了嗎？"
+  },
+  {
+    "index": 30,
+    "text": "No, I just mean people on Twitter, then insert whatever country after it.",
+    "start": 114.985,
+    "end": 118.987,
+    "zh": "不，我只是指推特上的人，然后在后面加上任意国家。",
+    "zh_hant": "不，我只是指推特上的人，然後在後面加上任意國家。"
+  },
+  {
+    "index": 31,
+    "text": "So, there were only 400-odd churches and chapels burnt to the ground in France.",
+    "start": 119.267,
+    "end": 124.509,
+    "zh": "所以，法国总共只有400多座教堂和小教堂被烧毁。",
+    "zh_hant": "所以，法國總共只有400多座教堂和小教堂被燒燬。"
+  },
+  {
+    "index": 32,
+    "text": "Only 400?",
+    "start": 124.55,
+    "end": 126.241,
+    "zh": "只要400？",
+    "zh_hant": "只要400？"
+  },
+  {
+    "index": 33,
+    "text": "This is 400 too many.",
+    "start": 126.291,
+    "end": 128.052,
+    "zh": "这多了400。",
+    "zh_hant": "這多了400。"
+  },
+  {
+    "index": 34,
+    "text": "Just this past year, there have been 400 documented instances of hostility",
+    "start": 127.972,
+    "end": 133.915,
+    "zh": "就在过去这一年里，已记录到400起敌对事件。",
+    "zh_hant": "就在過去這一年裡，已記錄到400起敵對事件。"
+  },
+  {
+    "index": 35,
+    "text": "against churches in the US.",
+    "start": 133.595,
+    "end": 135.475,
+    "zh": "针对美国的教堂。",
+    "zh_hant": "針對美國的教堂。"
+  },
+  {
+    "index": 36,
+    "text": "Was anyone ever arrested for burning down one of the 400 churches in Canada?",
+    "start": 135.395,
+    "end": 140.418,
+    "zh": "加拿大烧毁400座教堂中任意一座，是否有人被捕？",
+    "zh_hant": "加拿大燒燬400座教堂中任意一座，是否有人被捕？"
+  },
+  {
+    "index": 37,
+    "text": "It does seem very odd that in all of these places it's 400 churches.",
+    "start": 141.018,
+    "end": 146.281,
+    "zh": "这些地方竟然都是400座教堂，确实很奇怪。",
+    "zh_hant": "這些地方竟然都是400座教堂，確實很奇怪。"
+  },
+  {
+    "index": 38,
+    "text": "Arsonists work in mysterious ways.",
+    "start": 146.161,
+    "end": 148.742,
+    "zh": "纵火犯行事神秘莫测。",
+    "zh_hant": "縱火犯行事神秘莫測。"
+  },
+  {
+    "index": 39,
+    "text": "But yes, it is suspicious, largely because it isn't true, at least not for countries like Canada or France.",
+    "start": 148.462,
+    "end": 154.605,
+    "zh": "但确实可疑，主要因为它并非事实，至少对加拿大或法国这样的国家而言不是。",
+    "zh_hant": "但確實可疑，主要因為它並非事實，至少對加拿大或法國這樣的國家而言不是。"
+  },
+  {
+    "index": 40,
+    "text": "In parts of Nigeria, Christians are experiencing high levels of violence, but they are not included in these claims.",
+    "start": 154.625,
+    "end": 160.628,
+    "zh": "在尼日利亚部分地区，基督徒正遭受严重暴力，但这些诉状并未涵盖他们。",
+    "zh_hant": "在奈及利亞部分地區，基督徒正遭受嚴重暴力，但這些訴狀並未涵蓋他們。"
+  },
+  {
+    "index": 41,
+    "text": "Noted.",
+    "start": 160.528,
+    "end": 161.368,
+    "zh": "知道了。",
+    "zh_hant": "知道了。"
+  },
+  {
+    "index": 42,
+    "text": "Shall we go through these one by one?",
+    "start": 161.248,
+    "end": 162.989,
+    "zh": "我们一个一个过好吗？",
+    "zh_hant": "我們一個一個過好嗎？"
+  },
+  {
+    "index": 43,
+    "text": "Please do.",
+    "start": 162.639,
+    "end": 163.369,
+    "zh": "请这样做。",
+    "zh_hant": "請這樣做。"
+  },
+  {
+    "index": 44,
+    "text": "Well, let's start with France.",
+    "start": 163.019,
+    "end": 164.65,
+    "zh": "嗯，我们先从法国开始吧。",
+    "zh_hant": "嗯，我們先從法國開始吧。"
+  },
+  {
+    "index": 45,
+    "text": "After Notre Dame.",
+    "start": 164.51,
+    "end": 165.851,
+    "zh": "在巴黎圣母院之后。",
+    "zh_hant": "在巴黎聖母院之後。"
+  },
+  {
+    "index": 46,
+    "text": "Suffered a catastrophic but accidental fire in 2019,",
+    "start": 165.501,
+    "end": 170.203,
+    "zh": "2019年遭遇了一场灾难性但意外的火灾。",
+    "zh_hant": "2019年遭遇了一場災難性但意外的火災。"
+  },
+  {
+    "index": 47,
+    "text": "a map started circulating on social media that allegedly showed",
+    "start": 170.253,
+    "end": 174.315,
+    "zh": "一张据称显示……的地图开始在社交媒体上流传。",
+    "zh_hant": "一張據稱顯示……的地圖開始在社交媒體上流傳。"
+  },
+  {
+    "index": 48,
+    "text": "the number of Christian churches in France that had been burnt down.",
+    "start": 173.965,
+    "end": 177.376,
+    "zh": "法国被烧毁的基督教教堂数量。",
+    "zh_hant": "法國被燒燬的基督教教堂數量。"
+  },
+  {
+    "index": 49,
+    "text": "And did it?",
+    "start": 177.026,
+    "end": 177.937,
+    "zh": "它做到了吗？",
+    "zh_hant": "它做到了嗎？"
+  },
+  {
+    "index": 50,
+    "text": "No. Like the UK stat,",
+    "start": 177.937,
+    "end": 180.078,
+    "zh": "不，像英国的统计数据那样。",
+    "zh_hant": "不，像英國的統計資料那樣。"
+  },
+  {
+    "index": 51,
+    "text": "the map actually charts all crimes recorded in churches,",
+    "start": 179.728,
+    "end": 183.599,
+    "zh": "这张地图实际上标绘了所有记录在教堂中的犯罪。",
+    "zh_hant": "這張地圖實際上標繪了所有記錄在教堂中的犯罪。"
+  },
+  {
+    "index": 52,
+    "text": "but also graveyards, church halls, church schools, cars parked near churches, and in one incident, a scout hut.",
+    "start": 183.249,
+    "end": 189.702,
+    "zh": "还有墓园、教堂礼堂、教会学校、停在教堂附近的汽车，以及一次事件中的童子军小屋。",
+    "zh_hant": "還有墓園、教堂禮堂、教會學校、停在教堂附近的汽車，以及一次事件中的童子軍小屋。"
+  },
+  {
+    "index": 53,
+    "text": "Oh.",
+    "start": 189.583,
+    "end": 190.243,
+    "zh": "哦。",
+    "zh_hant": "哦。"
+  },
+  {
+    "index": 54,
+    "text": "The map comes from Christianophobie,",
+    "start": 189.923,
+    "end": 192.244,
+    "zh": "这张地图源自《基督教恐惧症》，",
+    "zh_hant": "這張地圖源自《基督教恐懼症》，"
+  },
+  {
+    "index": 55,
+    "text": "a French website that goes through news reports to record incidences",
+    "start": 192.024,
+    "end": 196.226,
+    "zh": "一家法国网站，通过梳理新闻报道来记录事件。",
+    "zh_hant": "一家法國網站，透過梳理新聞報道來記錄事件。"
+  },
+  {
+    "index": 56,
+    "text": "of alleged Christian persecution in France and around.",
+    "start": 195.906,
+    "end": 199.607,
+    "zh": "关于法国及世界各地所谓的基督徒迫害。",
+    "zh_hant": "關於法國及世界各地所謂的基督徒迫害。"
+  },
+  {
+    "index": 57,
+    "text": "The world.",
+    "start": 199.257,
+    "end": 200.127,
+    "zh": "世界。",
+    "zh_hant": "世界。"
+  },
+  {
+    "index": 58,
+    "text": "There are indeed hundreds of incidents on the map and on their website.",
+    "start": 200.148,
+    "end": 204.33,
+    "zh": "地图上和他们的网站上确实有数百起事件。",
+    "zh_hant": "地圖上和他們的網站上確實有數百起事件。"
+  },
+  {
+    "index": 59,
+    "text": "I counted over 1,900 that occurred in France over the past nine years.",
+    "start": 204.13,
+    "end": 208.672,
+    "zh": "我统计了过去九年间在法国发生的超过1900起此类事件。",
+    "zh_hant": "我統計了過去九年間在法國發生的超過1900起此類事件。"
+  },
+  {
+    "index": 60,
+    "text": "So around 200 crimes a year?",
+    "start": 208.572,
+    "end": 211.013,
+    "zh": "那每年大约有200起犯罪吧？",
+    "zh_hant": "那每年大約有200起犯罪吧？"
+  },
+  {
+    "index": 61,
+    "text": "Yeah, ish.",
+    "start": 210.793,
+    "end": 211.774,
+    "zh": "算是吧。",
+    "zh_hant": "算是吧。"
+  },
+  {
+    "index": 62,
+    "text": "Now, I've been through all of these incidents on their website,",
+    "start": 211.554,
+    "end": 215.015,
+    "zh": "我已经在他們的网站上把所有这些事件都看过了。",
+    "zh_hant": "我已經在他們的網站上把所有這些事件都看過了。"
+  },
+  {
+    "index": 63,
+    "text": "and some are pretty uncompelling as examples of religious persecution.",
+    "start": 214.665,
+    "end": 219.477,
+    "zh": "其中一些作为宗教迫害的例子并不怎么有说服力。",
+    "zh_hant": "其中一些作為宗教迫害的例子並不怎麼有說服力。"
+  },
+  {
+    "index": 64,
+    "text": "For example, one that appears on the map was a scout hut that was targeted and had tents stolen.",
+    "start": 219.358,
+    "end": 224.78,
+    "zh": "例如，地图上出现的一个地点是 scout hut，曾遭袭击，帐篷被偷走。",
+    "zh_hant": "例如，地圖上出現的一個地點是 scout hut，曾遭襲擊，帳篷被偷走。"
+  },
+  {
+    "index": 65,
+    "text": "Another was a report from the diocese that they were worried about the Electrical wiring in the church,",
+    "start": 224.62,
+    "end": 230.003,
+    "zh": "另一份是教区的报告，他们担心教堂里的电线问题。",
+    "zh_hant": "另一份是教區的報告，他們擔心教堂裡的電線問題。"
+  },
+  {
+    "index": 66,
+    "text": "but there have also been incidents of anti-Christian graffiti, services being interrupted, and theft, as well as arson.",
+    "start": 229.843,
+    "end": 236.206,
+    "zh": "但也发生过反基督教涂鸦、礼拜被打断、盗窃乃至纵火的事件。",
+    "zh_hant": "但也發生過反基督教塗鴉、禮拜被打斷、盜竊乃至縱火的事件。"
+  },
+  {
+    "index": 67,
+    "text": "But the quotes specifically state that 400 churches had been burned to the ground.",
+    "start": 236.086,
+    "end": 242.529,
+    "zh": "但引文明确指出，有400座教堂被烧为平地。",
+    "zh_hant": "但引文明確指出，有400座教堂被燒為平地。"
+  },
+  {
+    "index": 68,
+    "text": "Yeah, they did say that.",
+    "start": 242.369,
+    "end": 243.729,
+    "zh": "是啊，他们确实这么说了。",
+    "zh_hant": "是啊，他們確實這麼說了。"
+  },
+  {
+    "index": 69,
+    "text": "I went through all the incidents of fire in their reports.",
+    "start": 243.549,
+    "end": 246.811,
+    "zh": "我仔细查阅了他们报告中的所有火灾事件。",
+    "zh_hant": "我仔細查閱了他們報告中的所有火災事件。"
+  },
+  {
+    "index": 70,
+    "text": "First things first, there weren't even 400 fires.",
+    "start": 246.731,
+    "end": 250.053,
+    "zh": "首先，根本没到400起火灾。",
+    "zh_hant": "首先，根本沒到400起火災。"
+  },
+  {
+    "index": 71,
+    "text": "How many were there?",
+    "start": 249.833,
+    "end": 251.1,
+    "zh": "有多少个？",
+    "zh_hant": "有多少個？"
+  },
+  {
+    "index": 72,
+    "text": "120.",
+    "start": 250.7,
+    "end": 251.45,
+    "zh": "好的，请发送您需要翻译的英文句子。",
+    "zh_hant": "好的，請傳送您需要翻譯的英文句子。"
+  },
+  {
+    "index": 73,
+    "text": "26 of these were due to electrics or candles.",
+    "start": 251.49,
+    "end": 254.855,
+    "zh": "其中26起由电器或蜡烛引起。",
+    "zh_hant": "其中26起由電器或蠟燭引起。"
+  },
+  {
+    "index": 74,
+    "text": "Two were caused by homeless people lighting fires, even near churches or while squatting in an abandoned church.",
+    "start": 254.595,
+    "end": 260.598,
+    "zh": "两起火灾由无家可归者生火引起，甚至发生在教堂附近，或在废弃教堂内擅自居住时。",
+    "zh_hant": "兩起火災由無家可歸者生火引起，甚至發生在教堂附近，或在廢棄教堂內擅自居住時。"
+  },
+  {
+    "index": 75,
+    "text": "25 are listed as unknown.",
+    "start": 260.248,
+    "end": 262.679,
+    "zh": "25人被列为未知。",
+    "zh_hant": "25人被列為未知。"
+  },
+  {
+    "index": 76,
+    "text": "Most, recorded as arson, fortunately resulted in limited damage.",
+    "start": 262.519,
+    "end": 266.501,
+    "zh": "多数纵火案件，所幸造成的损失有限。",
+    "zh_hant": "多數縱火案件，所幸造成的損失有限。"
+  },
+  {
+    "index": 77,
+    "text": "The majority of perpetrators were either children, teenagers, or people",
+    "start": 266.521,
+    "end": 270.223,
+    "zh": "大多数作案者要么是儿童、青少年，要么是成年人。",
+    "zh_hant": "大多數作案者要麼是兒童、青少年，要麼是成年人。"
+  },
+  {
+    "index": 78,
+    "text": "who were then hospitalised and not found mentally fit to stand trial.",
+    "start": 269.873,
+    "end": 273.644,
+    "zh": "随后被送医治疗，且经评估精神状况不适合接受审判。",
+    "zh_hant": "隨後被送醫治療，且經評估精神狀況不適合接受審判。"
+  },
+  {
+    "index": 79,
+    "text": "Only three churches have had severe damage due to arson,",
+    "start": 273.665,
+    "end": 277.166,
+    "zh": "只有三座教堂因纵火而遭受严重损坏。",
+    "zh_hant": "只有三座教堂因縱火而遭受嚴重損壞。"
+  },
+  {
+    "index": 80,
+    "text": "and only two could be described as having been burnt to the Ground.",
+    "start": 277.126,
+    "end": 280.928,
+    "zh": "而只有两处可称得上是烧为平地。",
+    "zh_hant": "而只有兩處可稱得上是燒為平地。"
+  },
+  {
+    "index": 81,
+    "text": "So, very much not 400.",
+    "start": 280.768,
+    "end": 283.62,
+    "zh": "所以，完全不是400。",
+    "zh_hant": "所以，完全不是400。"
+  },
+  {
+    "index": 82,
+    "text": "What about the US number?",
+    "start": 283.67,
+    "end": 285.271,
+    "zh": "美国的号码呢？",
+    "zh_hant": "美國的號碼呢？"
+  },
+  {
+    "index": 83,
+    "text": "The 400 figure is more accurate, at least according to the Family Research Council.",
+    "start": 285.211,
+    "end": 290.133,
+    "zh": "400这个数字更准确，至少根据家庭研究委员会的说法是这样。",
+    "zh_hant": "400這個數字更準確，至少根據家庭研究委員會的說法是這樣。"
+  },
+  {
+    "index": 84,
+    "text": "That's an American evangelical, not-for-profit activist group and think tank,",
+    "start": 289.993,
+    "end": 294.475,
+    "zh": "那是美国的福音派非营利活动组织兼智库。",
+    "zh_hant": "那是美國的福音派非營利活動組織兼智庫。"
+  },
+  {
+    "index": 85,
+    "text": "and they recorded 415 hostile acts last year.",
+    "start": 294.215,
+    "end": 298.197,
+    "zh": "他们去年记录了415起敌对行为。",
+    "zh_hant": "他們去年記錄了415起敵對行為。"
+  },
+  {
+    "index": 86,
+    "text": "So, the US is a big country.",
+    "start": 298.097,
+    "end": 300.158,
+    "zh": "美国是个大国。",
+    "zh_hant": "美國是個大國。"
+  },
+  {
+    "index": 87,
+    "text": "So, let's start by asking whether 415 is a big number.",
+    "start": 300.118,
+    "end": 304.02,
+    "zh": "那么，我们先来问问415算不算一个大数字。",
+    "zh_hant": "那麼，我們先來問問415算不算一個大數字。"
+  },
+  {
+    "index": 88,
+    "text": "It's not a big percentage.",
+    "start": 303.92,
+    "end": 306.021,
+    "zh": "比例不高。",
+    "zh_hant": "比例不高。"
+  },
+  {
+    "index": 89,
+    "text": "The best estimate I can find is that there are 350,000 congregations in the US,",
+    "start": 305.961,
+    "end": 311.543,
+    "zh": "我找到的最佳估计是，美国有35万个教会会众。",
+    "zh_hant": "我找到的最佳估計是，美國有35萬個教會會眾。"
+  },
+  {
+    "index": 90,
+    "text": "but the 415 incidents the Family Research Council recorded",
+    "start": 311.524,
+    "end": 315.565,
+    "zh": "但家庭研究委员会记录的415起事件",
+    "zh_hant": "但家庭研究委員會記錄的415起事件"
+  },
+  {
+    "index": 91,
+    "text": "occurred at 383 churches.",
+    "start": 315.215,
+    "end": 318.207,
+    "zh": "发生于383座教堂。",
+    "zh_hant": "發生於383座教堂。"
+  },
+  {
+    "index": 92,
+    "text": "So just a little more than one in 1,000.",
+    "start": 318.267,
+    "end": 321.25,
+    "zh": "所以也就是略多于千分之一。",
+    "zh_hant": "所以也就是略多於千分之一。"
+  },
+  {
+    "index": 93,
+    "text": "I'm curious as to what's meant by hostile acts.",
+    "start": 321.008,
+    "end": 324.35,
+    "zh": "我很好奇所说的敌对行为是什么意思。",
+    "zh_hant": "我很好奇所說的敵對行為是什麼意思。"
+  },
+  {
+    "index": 94,
+    "text": "Just some kind of criminal incident.",
+    "start": 324.0,
+    "end": 326.291,
+    "zh": "就是某种犯罪事件。",
+    "zh_hant": "就是某種犯罪事件。"
+  },
+  {
+    "index": 95,
+    "text": "Often things like removing a flag from a pro-LGBTQ plus church,",
+    "start": 326.131,
+    "end": 330.793,
+    "zh": "常常有像从支持LGBTQ+的教堂移除旗帜这样的事。",
+    "zh_hant": "常常有像從支援LGBTQ+的教堂移除旗幟這樣的事。"
+  },
+  {
+    "index": 96,
+    "text": "people protesting the church's stance on abortion, or racist attacks on predominantly black churches.",
+    "start": 330.613,
+    "end": 336.356,
+    "zh": "抗议教会反堕胎立场的人，或针对以黑人为主的教堂的种族主义袭击。",
+    "zh_hant": "抗議教會反墮胎立場的人，或針對以黑人為主的教堂的種族主義襲擊。"
+  },
+  {
+    "index": 97,
+    "text": "What about Canada?",
+    "start": 336.336,
+    "end": 337.617,
+    "zh": "那加拿大呢？",
+    "zh_hant": "那加拿大呢？"
+  },
+  {
+    "index": 98,
+    "text": "This all stems back to the early.",
+    "start": 337.717,
+    "end": 339.898,
+    "zh": "这一切都追溯到早期。",
+    "zh_hant": "這一切都追溯到早期。"
+  },
+  {
+    "index": 99,
+    "text": "In 2021, some of Canada's First Nations communities",
+    "start": 340.478,
+    "end": 344.16,
+    "zh": "2021年，加拿大一些原住民社区",
+    "zh_hant": "2021年，加拿大一些原住民社群"
+  },
+  {
+    "index": 100,
+    "text": "announced that ground-penetrating radar had found what could have been unmarked graves containing",
+    "start": 344.04,
+    "end": 350.063,
+    "zh": "宣布，探地雷达发现了可能埋有未标记坟墓的坑穴",
+    "zh_hant": "宣佈，探地雷達發現了可能埋有未標記墳墓的坑穴"
+  },
+  {
+    "index": 101,
+    "text": "the remains of Indigenous children who'd died in former residential schools.",
+    "start": 349.713,
+    "end": 354.265,
+    "zh": "原住民儿童在曾经的寄宿学校中去世后的遗骸。",
+    "zh_hant": "原住民兒童在曾經的寄宿學校中去世後的遺骸。"
+  },
+  {
+    "index": 102,
+    "text": "Residential schools were schools set up and funded by the Canadian government and run by Christian churches,",
+    "start": 354.145,
+    "end": 360.268,
+    "zh": "寄宿学校是由加拿大政府设立并资助、由基督教会管理的学校。",
+    "zh_hant": "寄宿學校是由加拿大政府設立並資助、由基督教會管理的學校。"
+  },
+  {
+    "index": 103,
+    "text": "and their aim was to convert Indigenous children to Christianity and change their culture to that of a Western one.",
+    "start": 360.288,
+    "end": 366.311,
+    "zh": "他们的目标是让原住民儿童皈依基督教，并把他们的文化改变为西方文化。",
+    "zh_hant": "他們的目標是讓原住民兒童皈依基督教，並把他們的文化改變為西方文化。"
+  },
+  {
+    "index": 104,
+    "text": "From 1894 to 1997, it was compulsory",
+    "start": 366.071,
+    "end": 369.813,
+    "zh": "1894年至1997年间，这是强制性的。",
+    "zh_hant": "1894年至1997年間，這是強制性的。"
+  },
+  {
+    "index": 105,
+    "text": "for Indigenous children of the First Nations to attend these schools.",
+    "start": 369.463,
+    "end": 372.914,
+    "zh": "以便原住民儿童进入这些学校就读。",
+    "zh_hant": "以便原住民兒童進入這些學校就讀。"
+  },
+  {
+    "index": 106,
+    "text": "Some...",
+    "start": 372.975,
+    "end": 373.695,
+    "zh": "有些……",
+    "zh_hant": "有些……"
+  },
+  {
+    "index": 107,
+    "text": "Estimates suggest that 4,000 of the 150,000 children who went there died.",
+    "start": 373.345,
+    "end": 378.737,
+    "zh": "据估计，前往那里的15万名儿童中有4000人死亡。",
+    "zh_hant": "據估計，前往那裡的15萬名兒童中有4000人死亡。"
+  },
+  {
+    "index": 108,
+    "text": "There are also multiple accounts of sexual, physical, and emotional abuse.",
+    "start": 378.777,
+    "end": 382.819,
+    "zh": "此外，还有多起性虐待、身体虐待和情感虐待的记录。",
+    "zh_hant": "此外，還有多起性虐待、身體虐待和情感虐待的記錄。"
+  },
+  {
+    "index": 109,
+    "text": "So, are we talking about people attacking churches in retaliation",
+    "start": 382.799,
+    "end": 387.361,
+    "zh": "那我们在说的是人们报复性地攻击教堂吗？",
+    "zh_hant": "那我們在說的是人們報復性地攻擊教堂嗎？"
+  },
+  {
+    "index": 110,
+    "text": "for their association with the schools?",
+    "start": 387.042,
+    "end": 389.322,
+    "zh": "因为他们与学校有关联？",
+    "zh_hant": "因為他們與學校有關聯？"
+  },
+  {
+    "index": 111,
+    "text": "Yeah, but the number was nowhere near 400.",
+    "start": 389.243,
+    "end": 392.614,
+    "zh": "是啊，但这个数字离400差得远呢。",
+    "zh_hant": "是啊，但這個數字離400差得遠呢。"
+  },
+  {
+    "index": 112,
+    "text": "Around 24 church fires have been deliberately started in Canada since 2020.",
+    "start": 392.664,
+    "end": 397.617,
+    "zh": "自2020年以来，加拿大已有约24起教堂纵火案。",
+    "zh_hant": "自2020年以來，加拿大已有約24起教堂縱火案。"
+  },
+  {
+    "index": 113,
+    "text": "And Lizzie, I know you said Nigeria wasn't included in this 400 figure.",
+    "start": 397.667,
+    "end": 402.929,
+    "zh": "而且，Lizzie，我知道你说过这400的数字不包括尼日利亚。",
+    "zh_hant": "而且，Lizzie，我知道你說過這400的數字不包括奈及利亞。"
+  },
+  {
+    "index": 114,
+    "text": "It has been heavily featured in headlines",
+    "start": 402.649,
+    "end": 405.611,
+    "zh": "它在新闻标题中被大量报道。",
+    "zh_hant": "它在新聞標題中被大量報道。"
+  },
+  {
+    "index": 115,
+    "text": "and speeches by people such as Donald Trump and the late Charlie Kirk,",
+    "start": 405.261,
+    "end": 409.933,
+    "zh": "以及唐纳德·特朗普和已故查理·柯克等人的演讲",
+    "zh_hant": "以及唐納德·特朗普和已故查理·柯克等人的演講"
+  },
+  {
+    "index": 116,
+    "text": "who claimed that thousands of Christians were being killed in a targeted genocide.",
+    "start": 409.913,
+    "end": 415.276,
+    "zh": "称成千上万的基督徒正遭受有针对性的种族灭绝。",
+    "zh_hant": "稱成千上萬的基督徒正遭受有針對性的種族滅絕。"
+  },
+  {
+    "index": 117,
+    "text": "So, what do we know about that?",
+    "start": 415.456,
+    "end": 416.956,
+    "zh": "那么，关于那件事，我们知道些什么呢？",
+    "zh_hant": "那麼，關於那件事，我們知道些什麼呢？"
+  },
+  {
+    "index": 118,
+    "text": "Yeah, so that is a complicated picture.",
+    "start": 417.197,
+    "end": 420.198,
+    "zh": "对，这就是一个复杂的局面。",
+    "zh_hant": "對，這就是一個複雜的局面。"
+  },
+  {
+    "index": 119,
+    "text": "It's certainly true that a lot of Christians have been killed there,",
+    "start": 420.098,
+    "end": 423.34,
+    "zh": "确实有许多基督徒在那里被杀。",
+    "zh_hant": "確實有許多基督徒在那裡被殺。"
+  },
+  {
+    "index": 120,
+    "text": "and violence is often blamed on the hardline Muslim group Boko Haram.",
+    "start": 423.04,
+    "end": 427.061,
+    "zh": "暴力常常被归咎于强硬派穆斯林组织博科圣地。",
+    "zh_hant": "暴力常常被歸咎於強硬派穆斯林組織博科聖地。"
+  },
+  {
+    "index": 121,
+    "text": "Anyone who doesn't agree with the radical beliefs of Boko Haram are at risk.",
+    "start": 427.262,
+    "end": 431.744,
+    "zh": "不同意博科圣地激进信仰的人都有危险。",
+    "zh_hant": "不同意博科聖地激進信仰的人都有危險。"
+  },
+  {
+    "index": 122,
+    "text": "And this includes Christians, but also many moderate Muslims.",
+    "start": 431.564,
+    "end": 435.105,
+    "zh": "这其中既包括基督徒，也包括许多温和的穆斯林。",
+    "zh_hant": "這其中既包括基督徒，也包括許多溫和的穆斯林。"
+  },
+  {
+    "index": 123,
+    "text": "And it's not only Boko Haram and jihadi groups, though.",
+    "start": 435.146,
+    "end": 438.227,
+    "zh": "而且，这不仅仅涉及博科圣地和其他圣战组织。",
+    "zh_hant": "而且，這不僅僅涉及博科聖地和其他聖戰組織。"
+  },
+  {
+    "index": 124,
+    "text": "There have also been deadly clashes between farmers who are predominantly Christian and Fulani herders who are mainly Muslim.",
+    "start": 438.187,
+    "end": 444.31,
+    "zh": "农民与富拉尼牧民之间也发生过致命冲突，前者以基督徒为主，后者则多为穆斯林。",
+    "zh_hant": "農民與富拉尼牧民之間也發生過致命衝突，前者以基督徒為主，後者則多為穆斯林。"
+  },
+  {
+    "index": 125,
+    "text": "Some experts claim those mostly stem from arguments over land and resources,",
+    "start": 444.451,
+    "end": 448.632,
+    "zh": "一些专家称，这些大多源于关于土地和资源的争论。",
+    "zh_hant": "一些專家稱，這些大多源於關於土地和資源的爭論。"
+  },
+  {
+    "index": 126,
+    "text": "rather than purely religious persecution.",
+    "start": 448.533,
+    "end": 451.034,
+    "zh": "而非纯粹出于宗教迫害。",
+    "zh_hant": "而非純粹出於宗教迫害。"
+  },
+  {
+    "index": 127,
+    "text": "So there's a tangle of motives.",
+    "start": 451.054,
+    "end": 452.975,
+    "zh": "这其中有错综复杂的动机。",
+    "zh_hant": "這其中有錯綜複雜的動機。"
+  },
+  {
+    "index": 128,
+    "text": "Yeah, and as ever with conflict areas, it's hard to get at what's true and what isn't.",
+    "start": 452.695,
+    "end": 457.977,
+    "zh": "是啊，和以往一样，在冲突地区，很难分辨哪些是真的，哪些不是。",
+    "zh_hant": "是啊，和以往一樣，在衝突地區，很難分辨哪些是真的，哪些不是。"
+  },
+  {
+    "index": 129,
+    "text": "Do we have any idea how many people have died in Nigeria?",
+    "start": 457.857,
+    "end": 461.279,
+    "zh": "我们是否知道尼日利亚有多少人死亡？",
+    "zh_hant": "我們是否知道奈及利亞有多少人死亡？"
+  },
+  {
+    "index": 130,
+    "text": "According to a conflict monitoring company, ACLED,",
+    "start": 461.179,
+    "end": 464.26,
+    "zh": "根据冲突监测组织ACLED的数据，",
+    "zh_hant": "根據衝突監測組織ACLED的資料，"
+  },
+  {
+    "index": 131,
+    "text": "there were 20,409 conflict-related deaths",
+    "start": 464.26,
+    "end": 468.282,
+    "zh": "冲突相关死亡人数为20,409人。",
+    "zh_hant": "衝突相關死亡人數為20,409人。"
+  },
+  {
+    "index": 132,
+    "text": "in Nigeria between 2020 and 2024.",
+    "start": 467.932,
+    "end": 471.714,
+    "zh": "2020年至2024年间，在尼日利亚。",
+    "zh_hant": "2020年至2024年間，在奈及利亞。"
+  },
+  {
+    "index": 133,
+    "text": "In a small minority of cases, the religion of the victim was reported as being a factor.",
+    "start": 471.764,
+    "end": 476.506,
+    "zh": "在极少数案件中，受害者的宗教信仰被报道为一个因素。",
+    "zh_hant": "在極少數案件中，受害者的宗教信仰被報道為一個因素。"
+  },
+  {
+    "index": 134,
+    "text": "317 Christians and 417 Muslims.",
+    "start": 476.43,
+    "end": 480.468,
+    "zh": "317名基督徒和417名穆斯林。",
+    "zh_hant": "317名基督徒和417名穆斯林。"
+  },
+  {
+    "index": 135,
+    "text": "Another source is Open Doors, which is a charity researching the persecution of Christians around the world,",
+    "start": 480.648,
+    "end": 486.411,
+    "zh": "另一个来源是“敞开的门”，这是一个研究全球基督徒遭受迫害情况的慈善机构。",
+    "zh_hant": "另一個來源是“敞開的門”，這是一個研究全球基督徒遭受迫害情況的慈善機構。"
+  },
+  {
+    "index": 136,
+    "text": "and they reckon that in 2023, 3,100 Christians",
+    "start": 486.372,
+    "end": 491.074,
+    "zh": "他们估计在2023年有3100名基督徒。",
+    "zh_hant": "他們估計在2023年有3100名基督徒。"
+  },
+  {
+    "index": 137,
+    "text": "and 2,320 Muslims were killed.",
+    "start": 490.724,
+    "end": 494.015,
+    "zh": "另有2320名穆斯林被杀害。",
+    "zh_hant": "另有2320名穆斯林被殺害。"
+  },
+  {
+    "index": 138,
+    "text": "But Open Doors aren't claiming that religious persecution was the reason for those killings.",
+    "start": 494.075,
+    "end": 499.098,
+    "zh": "但“敞开之门”并未声称宗教迫害是那些杀戮的原因。",
+    "zh_hant": "但“敞開之門”並未聲稱宗教迫害是那些殺戮的原因。"
+  },
+  {
+    "index": 139,
+    "text": "Both sources seem to me to be suggesting, first, that there's a lot of violence and a lot of people are dying,",
+    "start": 498.778,
+    "end": 504.78,
+    "zh": "在我看来，这两个来源都在暗示，首先，暴力频发，很多人正在死去。",
+    "zh_hant": "在我看來，這兩個來源都在暗示，首先，暴力頻發，很多人正在死去。"
+  },
+  {
+    "index": 140,
+    "text": "and second, that Muslims and Christians are both at risk, assuming that the Muslim and Christian populations...",
+    "start": 504.901,
+    "end": 510.503,
+    "zh": "第二，穆斯林和基督徒都面临风险，前提是穆斯林和基督徒的人口……",
+    "zh_hant": "第二，穆斯林和基督徒都面臨風險，前提是穆斯林和基督徒的人口……"
+  },
+  {
+    "index": 141,
+    "text": "Of Nigeria are roughly the same size, which roughly they are.",
+    "start": 510.153,
+    "end": 514.025,
+    "zh": "尼日利亚的面积大致相当，事实也确实如此。",
+    "zh_hant": "奈及利亞的面積大致相當，事實也確實如此。"
+  },
+  {
+    "index": 142,
+    "text": "The UN itself warns against describing this conflict as religious persecution,",
+    "start": 513.985,
+    "end": 518.647,
+    "zh": "联合国本身警告称，不要将这一冲突描述为宗教迫害。",
+    "zh_hant": "聯合國本身警告稱，不要將這一衝突描述為宗教迫害。"
+  },
+  {
+    "index": 143,
+    "text": "saying that this oversimplified narrative risks deepening social fractures",
+    "start": 518.607,
+    "end": 523.75,
+    "zh": "称这种过度简化的叙事可能加剧社会裂痕。",
+    "zh_hant": "稱這種過度簡化的敘事可能加劇社會裂痕。"
+  },
+  {
+    "index": 144,
+    "text": "rather than addressing their causes.",
+    "start": 523.47,
+    "end": 525.492,
+    "zh": "而非解决其根源。",
+    "zh_hant": "而非解決其根源。"
+  },
+  {
+    "index": 145,
+    "text": "Basically, it's a horrible situation that's a lot more complicated than purely religious persecution.",
+    "start": 525.412,
+    "end": 531.338,
+    "zh": "基本上，这是个糟糕的局面，远比单纯的宗教迫害复杂得多。",
+    "zh_hant": "基本上，這是個糟糕的局面，遠比單純的宗教迫害複雜得多。"
+  },
+  {
+    "index": 146,
+    "text": "Thank you, Lizzie, and on that sombre note, we leave you.",
+    "start": 531.098,
+    "end": 534.041,
+    "zh": "谢谢你，丽兹，怀着这份沉重的心情，我们与你道别。",
+    "zh_hant": "謝謝你，麗茲，懷著這份沉重的心情，我們與你道別。"
+  },
+  {
+    "index": 147,
+    "text": "If you have any questions or comments,",
+    "start": 533.981,
+    "end": 536.563,
+    "zh": "如果您有任何问题或意见，",
+    "zh_hant": "如果您有任何問題或意見，"
+  },
+  {
+    "index": 148,
+    "text": "please do write in to More or Less at bbc.co.uk.",
+    "start": 536.213,
+    "end": 540.787,
+    "zh": "请写信到bbc.co.uk的More or Less节目组。",
+    "zh_hant": "請寫信到bbc.co.uk的More or Less節目組。"
+  },
+  {
+    "index": 149,
+    "text": "Until next time, goodbye.",
+    "start": 541.088,
+    "end": 543.25,
+    "zh": "下次再见，再见。",
+    "zh_hant": "下次再見，再見。"
+  }
+]

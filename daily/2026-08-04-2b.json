@@ -1,0 +1,802 @@
+[
+  {
+    "index": 0,
+    "text": "What if we could measure every leaf on every branch of every tree in the world's densest jungles?",
+    "start": 0.0,
+    "end": 6.273,
+    "zh": "如果我们能测量世界上最茂密丛林中每一棵树每根枝条上的每一片叶子，会怎样？",
+    "zh_hant": "如果我們能測量世界上最茂密叢林中每一棵樹每根枝條上的每一片葉子，會怎樣？"
+  },
+  {
+    "index": 1,
+    "text": "Until recently that seemed impossible,",
+    "start": 5.993,
+    "end": 8.734,
+    "zh": "直到最近，这似乎还是不可能的，",
+    "zh_hant": "直到最近，這似乎還是不可能的，"
+  },
+  {
+    "index": 2,
+    "text": "but now scientists are using advanced technologies to build",
+    "start": 8.394,
+    "end": 11.856,
+    "zh": "但现在科学家正在利用先进技术构建",
+    "zh_hant": "但現在科學家正在利用先進技術構建"
+  },
+  {
+    "index": 3,
+    "text": "these hyper-detailed 3D maps of the world's forests.",
+    "start": 11.506,
+    "end": 15.317,
+    "zh": "这些高度精细的全球森林3D地图。",
+    "zh_hant": "這些高度精細的全球森林3D地圖。"
+  },
+  {
+    "index": 4,
+    "text": "This is how they're measuring trees in extraordinary detail.",
+    "start": 15.078,
+    "end": 18.839,
+    "zh": "这就是他们如何以前所未有的细节测量树木。",
+    "zh_hant": "這就是他們如何以前所未有的細節測量樹木。"
+  },
+  {
+    "index": 5,
+    "text": "Scientists can measure how much carbon a tree holds by measuring its biomass,",
+    "start": 21.441,
+    "end": 26.303,
+    "zh": "科学家可以通过测量树木的生物量来评估其碳含量，",
+    "zh_hant": "科學家可以透過測量樹木的生物量來評估其碳含量，"
+  },
+  {
+    "index": 6,
+    "text": "And that's made up of different parts, like its bark and its leaves.",
+    "start": 26.263,
+    "end": 29.945,
+    "zh": "而生物量由不同部分组成，比如树皮和树叶。",
+    "zh_hant": "而生物量由不同部分組成，比如樹皮和樹葉。"
+  },
+  {
+    "index": 7,
+    "text": "And in the past, the instruments they used to do this weren't that much more sophisticated than this tape measure.",
+    "start": 29.595,
+    "end": 35.347,
+    "zh": "过去，他们使用的仪器并不比这个卷尺先进多少。",
+    "zh_hant": "過去，他們使用的儀器並不比這個捲尺先進多少。"
+  },
+  {
+    "index": 8,
+    "text": "But new technologies are helping the world's ecologists measure forests in much greater detail.",
+    "start": 36.608,
+    "end": 42.952,
+    "zh": "但新技术正帮助世界各地的生态学家更精细地测量森林。",
+    "zh_hant": "但新技術正幫助世界各地的生態學家更精細地測量森林。"
+  },
+  {
+    "index": 9,
+    "text": "The rainforest is a vast store of carbon.",
+    "start": 42.692,
+    "end": 45.733,
+    "zh": "雨林是巨大的碳储存库。",
+    "zh_hant": "雨林是巨大的碳儲存庫。"
+  },
+  {
+    "index": 10,
+    "text": "These are hyper-diverse ecosystems, Different tree types, different histories.",
+    "start": 45.413,
+    "end": 51.736,
+    "zh": "这些是高度多样化的生态系统，不同的树种，不同的历史。",
+    "zh_hant": "這些是高度多樣化的生態系統，不同的樹種，不同的歷史。"
+  },
+  {
+    "index": 11,
+    "text": "So we have a problem in figuring out how much carbon there is in the world's forests.",
+    "start": 52.096,
+    "end": 57.779,
+    "zh": "因此，我们在计算全球森林碳储量方面存在问题。",
+    "zh_hant": "因此，我們在計算全球森林碳儲量方面存在問題。"
+  },
+  {
+    "index": 12,
+    "text": "And that's where the Biomass satellite comes in.",
+    "start": 60.22,
+    "end": 63.282,
+    "zh": "这正是生物量卫星发挥作用的地方。",
+    "zh_hant": "這正是生物量衛星發揮作用的地方。"
+  },
+  {
+    "index": 13,
+    "text": "Launched in 2025 by the European Space Agency,",
+    "start": 63.482,
+    "end": 67.123,
+    "zh": "它由欧洲航天局于2025年发射，",
+    "zh_hant": "它由歐洲航天局於2025年發射，"
+  },
+  {
+    "index": 14,
+    "text": "it emits the longest wavelength of radar ever sent from space.",
+    "start": 67.184,
+    "end": 71.446,
+    "zh": "发射了有史以来从太空发出的最长波长雷达。",
+    "zh_hant": "發射了有史以來從太空發出的最長波長雷達。"
+  },
+  {
+    "index": 15,
+    "text": "The longer the wavelength, the bigger the elements that are picked up, including tree stems and branches.",
+    "start": 71.526,
+    "end": 77.769,
+    "zh": "波长越长，捕捉到的元素就越大，包括树干和树枝。",
+    "zh_hant": "波長越長，捕捉到的元素就越大，包括樹幹和樹枝。"
+  },
+  {
+    "index": 16,
+    "text": "When we look at the Amazon from space with an optical satellite,",
+    "start": 77.849,
+    "end": 81.951,
+    "zh": "当我们用光学卫星从太空观察亚马逊时，",
+    "zh_hant": "當我們用光學衛星從太空觀察亞馬遜時，"
+  },
+  {
+    "index": 17,
+    "text": "so imagine just like human eyesight, you see this huge green blob.",
+    "start": 81.601,
+    "end": 86.353,
+    "zh": "想象一下就像人类的视力，你会看到一大片绿色的模糊区域。",
+    "zh_hant": "想象一下就像人類的視力，你會看到一大片綠色的模糊區域。"
+  },
+  {
+    "index": 18,
+    "text": "The greenness doesn't give us a lot of rich detail.",
+    "start": 86.354,
+    "end": 90.155,
+    "zh": "这种绿色并没有提供很多丰富的细节。",
+    "zh_hant": "這種綠色並沒有提供很多豐富的細節。"
+  },
+  {
+    "index": 19,
+    "text": "Radar data takes us into a new wavelength of viewing this landscape,",
+    "start": 89.955,
+    "end": 95.918,
+    "zh": "雷达数据让我们进入了一个观察这种景观的新波长视角，",
+    "zh_hant": "雷達資料讓我們進入了一個觀察這種景觀的新波長視角，"
+  },
+  {
+    "index": 20,
+    "text": "and it looks through the leaves, through the small branches,",
+    "start": 96.338,
+    "end": 99.72,
+    "zh": "它能穿透树叶和小树枝，",
+    "zh_hant": "它能穿透樹葉和小樹枝，"
+  },
+  {
+    "index": 21,
+    "text": "and gives you information about the big stems and about the soil and the form of the land",
+    "start": 99.37,
+    "end": 104.882,
+    "zh": "提供关于大主干、土壤和地表形态的信息",
+    "zh_hant": "提供關於大主幹、土壤和地表形態的資訊"
+  },
+  {
+    "index": 22,
+    "text": "underneath the trees.",
+    "start": 104.863,
+    "end": 106.363,
+    "zh": "在树木之下。",
+    "zh_hant": "在樹木之下。"
+  },
+  {
+    "index": 23,
+    "text": "Block shapes are where people have chainsawed into the forest and cleared for pasture.",
+    "start": 113.027,
+    "end": 117.969,
+    "zh": "块状形状是有人用链锯砍伐森林并清理为牧场的地方。",
+    "zh_hant": "塊狀形狀是有人用鏈鋸砍伐森林並清理為牧場的地方。"
+  },
+  {
+    "index": 24,
+    "text": "That's important because it's going to help us count deforestation more effectively.",
+    "start": 118.089,
+    "end": 122.792,
+    "zh": "这很重要，因为它将帮助我们更有效地统计森林砍伐情况。",
+    "zh_hant": "這很重要，因為它將幫助我們更有效地統計森林砍伐情況。"
+  },
+  {
+    "index": 25,
+    "text": "But you can also see a more red signal.",
+    "start": 122.492,
+    "end": 125.253,
+    "zh": "但你也能看到更红的信号。",
+    "zh_hant": "但你也能看到更紅的訊號。"
+  },
+  {
+    "index": 26,
+    "text": "So what this indicates is the presence of water underneath the canopy.",
+    "start": 125.313,
+    "end": 129.315,
+    "zh": "这表明树冠层下有水存在。",
+    "zh_hant": "這表明樹冠層下有水存在。"
+  },
+  {
+    "index": 27,
+    "text": "These flooded forests are important because they will have different ecology, and we currently don't",
+    "start": 129.735,
+    "end": 135.238,
+    "zh": "这些被淹没的森林很重要，因为它们有不同的生态系统，而我们目前还不",
+    "zh_hant": "這些被淹沒的森林很重要，因為它們有不同的生態系統，而我們目前還不"
+  },
+  {
+    "index": 28,
+    "text": "really understand these.",
+    "start": 135.098,
+    "end": 136.538,
+    "zh": "真正了解它们。",
+    "zh_hant": "真正瞭解它們。"
+  },
+  {
+    "index": 29,
+    "text": "They're hard to access.",
+    "start": 136.188,
+    "end": 137.759,
+    "zh": "它们很难进入。",
+    "zh_hant": "它們很難進入。"
+  },
+  {
+    "index": 30,
+    "text": "The satellite data also has to be validated.",
+    "start": 139.16,
+    "end": 143.102,
+    "zh": "卫星数据也必须经过验证。",
+    "zh_hant": "衛星資料也必須經過驗證。"
+  },
+  {
+    "index": 31,
+    "text": "This means cross-checking it against other types of tree measurements taken on the ground",
+    "start": 143.162,
+    "end": 148.424,
+    "zh": "这意味着要将其与地面上进行的其他类型树木测量进行交叉核对",
+    "zh_hant": "這意味著要將其與地面上進行的其他型別樹木測量進行交叉核對"
+  },
+  {
+    "index": 32,
+    "text": "to see if they match up.",
+    "start": 148.074,
+    "end": 149.725,
+    "zh": "看看它们是否吻合。",
+    "zh_hant": "看看它們是否吻合。"
+  },
+  {
+    "index": 33,
+    "text": "Every tree will be measured in a certain area,",
+    "start": 149.865,
+    "end": 154.747,
+    "zh": "每一棵树都会在特定区域内被测量，",
+    "zh_hant": "每一棵樹都會在特定區域內被測量，"
+  },
+  {
+    "index": 34,
+    "text": "probably around a square kilometre.",
+    "start": 154.467,
+    "end": 156.72,
+    "zh": "可能大约一平方公里。",
+    "zh_hant": "可能大約一平方公里。"
+  },
+  {
+    "index": 35,
+    "text": "35, 33.",
+    "start": 156.32,
+    "end": 158.499,
+    "zh": "35，33。",
+    "zh_hant": "35，33。"
+  },
+  {
+    "index": 36,
+    "text": "Larger areas will be measured by aircraft laser scanning.",
+    "start": 158.549,
+    "end": 163.132,
+    "zh": "更大的区域将通过飞机激光扫描来测量。",
+    "zh_hant": "更大的區域將透過飛機鐳射掃描來測量。"
+  },
+  {
+    "index": 37,
+    "text": "Bringing all that information together is absolutely critical.",
+    "start": 163.012,
+    "end": 166.053,
+    "zh": "将所有信息整合在一起至关重要。",
+    "zh_hant": "將所有資訊整合在一起至關重要。"
+  },
+  {
+    "index": 38,
+    "text": "Now this isn't the tropics,",
+    "start": 172.477,
+    "end": 174.457,
+    "zh": "这不是热带地区，",
+    "zh_hant": "這不是熱帶地區，"
+  },
+  {
+    "index": 39,
+    "text": "but scientists here at the University of Cambridge",
+    "start": 174.107,
+    "end": 177.059,
+    "zh": "但剑桥大学的科学家们",
+    "zh_hant": "但劍橋大學的科學家們"
+  },
+  {
+    "index": 40,
+    "text": "are also using technology to revolutionise how trees are measured.",
+    "start": 176.709,
+    "end": 181.101,
+    "zh": "也在利用技术革新树木测量的方式。",
+    "zh_hant": "也在利用技術革新樹木測量的方式。"
+  },
+  {
+    "index": 41,
+    "text": "This is really being pulled by the winds.",
+    "start": 181.261,
+    "end": 183.302,
+    "zh": "这真的被风吹动了。",
+    "zh_hant": "這真的被風吹動了。"
+  },
+  {
+    "index": 42,
+    "text": "Dr Emily Lyons and her colleagues are using LiDAR to scan forests across Europe.",
+    "start": 183.762,
+    "end": 189.485,
+    "zh": "艾米莉·里昂博士和她的同事正在使用激光雷达扫描欧洲各地的森林。",
+    "zh_hant": "艾米莉·里昂博士和她的同事正在使用鐳射雷達掃描歐洲各地的森林。"
+  },
+  {
+    "index": 43,
+    "text": "Sensors like the one on this drone here send out beams of light,",
+    "start": 189.605,
+    "end": 193.006,
+    "zh": "像这台无人机上的传感器发射出光束，",
+    "zh_hant": "像這臺無人機上的感測器發射出光束，"
+  },
+  {
+    "index": 44,
+    "text": "and they measure the amount of time it takes for that beam to return back to the sensor.",
+    "start": 192.807,
+    "end": 196.668,
+    "zh": "并测量光束返回传感器所需的时间。",
+    "zh_hant": "並測量光束返回感測器所需的時間。"
+  },
+  {
+    "index": 45,
+    "text": "So that gives us this three-dimensional picture of forest.",
+    "start": 196.328,
+    "end": 199.51,
+    "zh": "这样我们就得到了森林的三维图像。",
+    "zh_hant": "這樣我們就得到了森林的三維影象。"
+  },
+  {
+    "index": 46,
+    "text": "So we can see the height of the trees and the size of their crowns,",
+    "start": 199.16,
+    "end": 202.652,
+    "zh": "我们可以看到树的高度和树冠的大小，",
+    "zh_hant": "我們可以看到樹的高度和樹冠的大小，"
+  },
+  {
+    "index": 47,
+    "text": "and from there we can infer the amount of carbon the forest is taking in.",
+    "start": 202.532,
+    "end": 206.213,
+    "zh": "并由此推断森林吸收的碳量。",
+    "zh_hant": "並由此推斷森林吸收的碳量。"
+  },
+  {
+    "index": 48,
+    "text": "What can LiDAR give you that satellite data cannot give you?",
+    "start": 206.574,
+    "end": 209.675,
+    "zh": "激光雷达能提供什么卫星数据无法提供的信息？",
+    "zh_hant": "鐳射雷達能提供什麼衛星資料無法提供的資訊？"
+  },
+  {
+    "index": 49,
+    "text": "LiDAR obviously gives us much higher resolution.",
+    "start": 209.495,
+    "end": 211.976,
+    "zh": "激光雷达显然能提供更高的分辨率。",
+    "zh_hant": "鐳射雷達顯然能提供更高的解析度。"
+  },
+  {
+    "index": 50,
+    "text": "We're looking at millimeter precision, so by collecting lidar data on the ground, we can provide ground validation.",
+    "start": 211.757,
+    "end": 218.099,
+    "zh": "我们关注毫米级精度，因此通过在地面收集激光雷达数据，我们可以提供地面验证。",
+    "zh_hant": "我們關注毫米級精度，因此透過在地面收集鐳射雷達資料，我們可以提供地面驗證。"
+  },
+  {
+    "index": 51,
+    "text": "for the satellite data to be checked against.",
+    "start": 218.06,
+    "end": 221.821,
+    "zh": "以供卫星数据进行对照检查。",
+    "zh_hant": "以供衛星資料進行對照檢查。"
+  },
+  {
+    "index": 52,
+    "text": "And lidar has been around for quite some time, it's been around for about 15 years in my discipline.",
+    "start": 221.601,
+    "end": 226.944,
+    "zh": "激光雷达已经存在相当长一段时间了，在我的学科中已经使用了大约15年。",
+    "zh_hant": "鐳射雷達已經存在相當長一段時間了，在我的學科中已經使用了大約15年。"
+  },
+  {
+    "index": 53,
+    "text": "What has really improved in recent years is processing tools, particularly deep learning and AI,",
+    "start": 226.664,
+    "end": 232.627,
+    "zh": "近年来真正改进的是处理工具，特别是深度学习与人工智能，",
+    "zh_hant": "近年來真正改進的是處理工具，特別是深度學習與人工智慧，"
+  },
+  {
+    "index": 54,
+    "text": "that take these from being scientific instruments into more practical, applicable use for forestry and conservation.",
+    "start": 232.487,
+    "end": 238.71,
+    "zh": "这些工具将其从科学仪器转变为更实用、更适合林业和保护领域的应用。",
+    "zh_hant": "這些工具將其從科學儀器轉變為更實用、更適合林業和保護領域的應用。"
+  },
+  {
+    "index": 55,
+    "text": "We will plan a flight route that flies the drone low and slow over the forest in a grid pattern,",
+    "start": 239.971,
+    "end": 246.193,
+    "zh": "我们会规划一条飞行路线，让无人机在森林上方低空缓慢飞行，呈网格状分布，",
+    "zh_hant": "我們會規劃一條飛行路線，讓無人機在森林上方低空緩慢飛行，呈網格狀分佈，"
+  },
+  {
+    "index": 56,
+    "text": "but if we want to see individual leaves and small branches we need to be using the ground-based instruments.",
+    "start": 245.953,
+    "end": 251.336,
+    "zh": "但如果想看到单片叶子和细小枝条，我们需要使用地面仪器。",
+    "zh_hant": "但如果想看到單片葉子和細小枝條，我們需要使用地面儀器。"
+  },
+  {
+    "index": 57,
+    "text": "Challenging to get through here.",
+    "start": 252.897,
+    "end": 254.658,
+    "zh": "在这里穿越很具挑战性。",
+    "zh_hant": "在這裡穿越很具挑戰性。"
+  },
+  {
+    "index": 58,
+    "text": "So here we have another lidar system, so similar to what was on the drone,",
+    "start": 255.078,
+    "end": 259.28,
+    "zh": "这里我们有另一个激光雷达系统，与无人机上的类似，",
+    "zh_hant": "這裡我們有另一個鐳射雷達系統，與無人機上的類似，"
+  },
+  {
+    "index": 59,
+    "text": "but because it's on the ground and underneath the trees, we can get much higher resolution imagery,",
+    "start": 259.22,
+    "end": 264.662,
+    "zh": "但由于它在地面上，位于树木下方，我们可以获得更高分辨率的图像，",
+    "zh_hant": "但由於它在地面上，位於樹木下方，我們可以獲得更高解析度的影象，"
+  },
+  {
+    "index": 60,
+    "text": "so we can pick up the individual twigs, we can see leaves, we can see the texture of the bark.",
+    "start": 264.323,
+    "end": 270.225,
+    "zh": "因此可以捕捉到单个小枝条，可以看到叶子，可以看到树皮的纹理。",
+    "zh_hant": "因此可以捕捉到單個小枝條，可以看到葉子，可以看到樹皮的紋理。"
+  },
+  {
+    "index": 61,
+    "text": "Would you like to press start?",
+    "start": 270.265,
+    "end": 271.606,
+    "zh": "你想按开始键吗？",
+    "zh_hant": "你想按開始鍵嗎？"
+  },
+  {
+    "index": 62,
+    "text": "I would love to.",
+    "start": 271.506,
+    "end": 272.506,
+    "zh": "我很乐意。",
+    "zh_hant": "我很樂意。"
+  },
+  {
+    "index": 63,
+    "text": "Time for a quick LiDAR selfie.",
+    "start": 274.948,
+    "end": 277.509,
+    "zh": "是时候来张快速的激光雷达自拍了。",
+    "zh_hant": "是時候來張快速的鐳射雷達自拍了。"
+  },
+  {
+    "index": 64,
+    "text": "You want to pull any cool shapes?",
+    "start": 277.829,
+    "end": 279.3,
+    "zh": "你想摆什么酷姿势吗？",
+    "zh_hant": "你想擺什麼酷姿勢嗎？"
+  },
+  {
+    "index": 65,
+    "text": "OK, I don't know.",
+    "start": 278.9,
+    "end": 282.251,
+    "zh": "好，我不知道。",
+    "zh_hant": "好，我不知道。"
+  },
+  {
+    "index": 66,
+    "text": "The 360-degree image capture means I get two goes at being in the shot.",
+    "start": 281.901,
+    "end": 286.874,
+    "zh": "360度图像捕捉意味着我有两次机会出现在镜头中。",
+    "zh_hant": "360度影象捕捉意味著我有兩次機會出現在鏡頭中。"
+  },
+  {
+    "index": 67,
+    "text": "Give me your hand.",
+    "start": 286.524,
+    "end": 287.794,
+    "zh": "把手给我。",
+    "zh_hant": "把手給我。"
+  },
+  {
+    "index": 68,
+    "text": "Thank you.",
+    "start": 287.444,
+    "end": 289.875,
+    "zh": "谢谢。",
+    "zh_hant": "謝謝。"
+  },
+  {
+    "index": 69,
+    "text": "All right, there you go.",
+    "start": 289.525,
+    "end": 290.475,
+    "zh": "好了，给你。",
+    "zh_hant": "好了，給你。"
+  },
+  {
+    "index": 70,
+    "text": "Being in two places at once.",
+    "start": 292.157,
+    "end": 293.897,
+    "zh": "同时出现在两个地方。",
+    "zh_hant": "同時出現在兩個地方。"
+  },
+  {
+    "index": 71,
+    "text": "It's pretty amazing.",
+    "start": 293.997,
+    "end": 295.298,
+    "zh": "这太神奇了。",
+    "zh_hant": "這太神奇了。"
+  },
+  {
+    "index": 72,
+    "text": "So this is the most cutting edge of the technologies that we use in my group.",
+    "start": 298.52,
+    "end": 302.441,
+    "zh": "这是我们团队使用的最前沿技术。",
+    "zh_hant": "這是我們團隊使用的最前沿技術。"
+  },
+  {
+    "index": 73,
+    "text": "It's much more manoeuvrable.",
+    "start": 302.091,
+    "end": 303.642,
+    "zh": "它更易操控。",
+    "zh_hant": "它更易操控。"
+  },
+  {
+    "index": 74,
+    "text": "This is a much lower cost option.",
+    "start": 303.292,
+    "end": 305.403,
+    "zh": "这是一个成本更低的选项。",
+    "zh_hant": "這是一個成本更低的選項。"
+  },
+  {
+    "index": 75,
+    "text": "So this is a commercially available off-the-shelf LiDAR,",
+    "start": 305.063,
+    "end": 309.325,
+    "zh": "这是一个商用现成的激光雷达设备，",
+    "zh_hant": "這是一個商用現成的鐳射雷達裝置，"
+  },
+  {
+    "index": 76,
+    "text": "and it's mounted on an open hardware",
+    "start": 309.605,
+    "end": 312.466,
+    "zh": "安装在开放硬件的",
+    "zh_hant": "安裝在開放硬體的"
+  },
+  {
+    "index": 77,
+    "text": "3D printed system that anyone with a 3D printer could make for themselves.",
+    "start": 312.116,
+    "end": 316.748,
+    "zh": "3D打印系统上，任何拥有3D打印机的人都能自己制作。",
+    "zh_hant": "3D列印系統上，任何擁有3D印表機的人都能自己製作。"
+  },
+  {
+    "index": 78,
+    "text": "Once it's powered up and these lights start going, we press go,",
+    "start": 316.398,
+    "end": 319.53,
+    "zh": "一旦启动，这些灯开始闪烁，我们按下开始键，",
+    "zh_hant": "一旦啟動，這些燈開始閃爍，我們按下開始鍵，"
+  },
+  {
+    "index": 79,
+    "text": "and you can walk around this beautiful woodland and scan some trees for us.",
+    "start": 319.25,
+    "end": 323.532,
+    "zh": "你就可以在这片美丽的林地中漫步，为我们扫描一些树木。",
+    "zh_hant": "你就可以在這片美麗的林地中漫步，為我們掃描一些樹木。"
+  },
+  {
+    "index": 80,
+    "text": "Okay, now I'm not actually collecting any data here,",
+    "start": 323.392,
+    "end": 327.634,
+    "zh": "好，我现在实际上没有收集任何数据，",
+    "zh_hant": "好，我現在實際上沒有收集任何資料，"
+  },
+  {
+    "index": 81,
+    "text": "but it's easy to see how this small handheld device could make LiDAR much more accessible.",
+    "start": 327.554,
+    "end": 332.917,
+    "zh": "但很容易看出这个小型手持设备如何让激光雷达变得更加普及。",
+    "zh_hant": "但很容易看出這個小型手持裝置如何讓鐳射雷達變得更加普及。"
+  },
+  {
+    "index": 82,
+    "text": "Back at Emily's office, she's showing me how her team is using AI to process the LiDAR data.",
+    "start": 334.298,
+    "end": 340.4,
+    "zh": "回到艾米莉的办公室，她正在向我展示她的团队如何利用人工智能处理激光雷达数据。",
+    "zh_hant": "回到艾米莉的辦公室，她正在向我展示她的團隊如何利用人工智慧處理鐳射雷達資料。"
+  },
+  {
+    "index": 83,
+    "text": "\"So we've used deep learning to label each point with the probability that it might be a woody point,",
+    "start": 340.921,
+    "end": 346.103,
+    "zh": "“我们用深度学习为每个点标记可能是木质点的概率，",
+    "zh_hant": "“我們用深度學習為每個點標記可能是木質點的機率，"
+  },
+  {
+    "index": 84,
+    "text": "because if we're monitoring biomass, we want to be able to monitor the woody structure and remove the leaves away.",
+    "start": 345.753,
+    "end": 351.146,
+    "zh": "因为如果我们监测生物量，我们需要能够监测木质结构并移除树叶。",
+    "zh_hant": "因為如果我們監測生物量，我們需要能夠監測木質結構並移除樹葉。"
+  },
+  {
+    "index": 85,
+    "text": "The redder it is, the more the model thinks it is likely to be wood.\"",
+    "start": 351.006,
+    "end": 354.747,
+    "zh": "越红，模型就越认为它可能是木头。”",
+    "zh_hant": "越紅，模型就越認為它可能是木頭。”"
+  },
+  {
+    "index": 86,
+    "text": "The deep learning model is able to work out what species we're looking at as well,",
+    "start": 356.088,
+    "end": 360.291,
+    "zh": "深度学习模型还能识别出我们正在观察的树种，",
+    "zh_hant": "深度學習模型還能識別出我們正在觀察的樹種，"
+  },
+  {
+    "index": 87,
+    "text": "and what that allows us to do is to better understand the forest.",
+    "start": 360.011,
+    "end": 364.252,
+    "zh": "这让我们能够更好地理解森林。",
+    "zh_hant": "這讓我們能夠更好地理解森林。"
+  },
+  {
+    "index": 88,
+    "text": "So more diverse forests are more likely to support different types of biodiversity, and a wider type of biodiversity.",
+    "start": 363.902,
+    "end": 369.735,
+    "zh": "更多样化的森林更有可能支持不同类型的生物多样性，以及更广泛的生物多样性。",
+    "zh_hant": "更多樣化的森林更有可能支援不同型別的生物多樣性，以及更廣泛的生物多樣性。"
+  },
+  {
+    "index": 89,
+    "text": "We've been hearing so much about how destructive AI can be for the environment.",
+    "start": 370.556,
+    "end": 374.778,
+    "zh": "我们经常听到人工智能对环境可能具有破坏性。",
+    "zh_hant": "我們經常聽到人工智慧對環境可能具有破壞性。"
+  },
+  {
+    "index": 90,
+    "text": "So do you feel like the benefits kind of outweigh the negative elements?",
+    "start": 374.428,
+    "end": 378.76,
+    "zh": "那你觉得好处是否超过了负面影响？",
+    "zh_hant": "那你覺得好處是否超過了負面影響？"
+  },
+  {
+    "index": 91,
+    "text": "The tools that we are building here, we are building them generally on our own desktop computers.",
+    "start": 378.82,
+    "end": 384.502,
+    "zh": "我们在这里构建的工具，通常是在我们自己的桌面电脑上开发的。",
+    "zh_hant": "我們在這裡構建的工具，通常是在我們自己的桌面電腦上開發的。"
+  },
+  {
+    "index": 92,
+    "text": "So we are not using the big data centres.",
+    "start": 384.182,
+    "end": 387.824,
+    "zh": "所以没有使用大型数据中心。",
+    "zh_hant": "所以沒有使用大型資料中心。"
+  },
+  {
+    "index": 93,
+    "text": "We're trying to build lightweight tools, and we want them to be able",
+    "start": 387.504,
+    "end": 390.585,
+    "zh": "我们努力构建轻量级工具，希望它们能够",
+    "zh_hant": "我們努力構建輕量級工具，希望它們能夠"
+  },
+  {
+    "index": 94,
+    "text": "to be usable by people who have smaller computers,",
+    "start": 390.235,
+    "end": 394.707,
+    "zh": "让拥有较小电脑的人也能使用，",
+    "zh_hant": "讓擁有較小電腦的人也能使用，"
+  },
+  {
+    "index": 95,
+    "text": "maybe even run them on laptops.",
+    "start": 394.357,
+    "end": 396.288,
+    "zh": "甚至可能在笔记本电脑上运行。",
+    "zh_hant": "甚至可能在膝上型電腦上執行。"
+  },
+  {
+    "index": 96,
+    "text": "So we try to choose deep learning architectures and methods of learning that minimise the amount of energy.",
+    "start": 395.938,
+    "end": 401.974,
+    "zh": "因此，我们试图选择能最大限度减少能耗的深度学习架构和学习方法。",
+    "zh_hant": "因此，我們試圖選擇能最大限度減少能耗的深度學習架構和學習方法。"
+  },
+  {
+    "index": 97,
+    "text": "The hope is that both of these emerging technologies will provide a richer",
+    "start": 402.976,
+    "end": 407.342,
+    "zh": "希望这两种新兴技术能提供更丰富的",
+    "zh_hant": "希望這兩種新興技術能提供更豐富的"
+  },
+  {
+    "index": 98,
+    "text": "understanding of how the world's forests are transforming",
+    "start": 406.992,
+    "end": 410.547,
+    "zh": "理解，关于世界森林如何转变",
+    "zh_hant": "理解，關於世界森林如何轉變"
+  },
+  {
+    "index": 99,
+    "text": "in a rapidly changing climate.",
+    "start": 410.427,
+    "end": 412.71,
+    "zh": "在快速变化的气候中。",
+    "zh_hant": "在快速變化的氣候中。"
+  }
+]

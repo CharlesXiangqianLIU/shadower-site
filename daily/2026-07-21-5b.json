@@ -1,0 +1,1042 @@
+[
+  {
+    "index": 0,
+    "text": "Hello and welcome to the Global News Podcast from the BBC.",
+    "start": 0.0,
+    "end": 3.151,
+    "zh": "大家好，欢迎收听BBC全球新闻播客。",
+    "zh_hant": "大家好，歡迎收聽BBC全球新聞播客。"
+  },
+  {
+    "index": 1,
+    "text": "I'm Celia Hatton, and today I'm joined by our UK political correspondent, Rob Watson,",
+    "start": 2.851,
+    "end": 7.714,
+    "zh": "我是西莉亚·哈顿，今天和我一起的还有我们的英国政治记者罗布·沃森，",
+    "zh_hant": "我是西莉亞·哈頓，今天和我一起的還有我們的英國政治記者羅布·沃森，"
+  },
+  {
+    "index": 2,
+    "text": "on a very consequential day in British politics.",
+    "start": 7.364,
+    "end": 11.656,
+    "zh": "今天是英国政治中非常关键的一天。",
+    "zh_hant": "今天是英國政治中非常關鍵的一天。"
+  },
+  {
+    "index": 3,
+    "text": "The UK's Prime Minister, Keir Starmer, has just announced his resignation.",
+    "start": 11.306,
+    "end": 16.418,
+    "zh": "英国首相基尔·斯塔默刚刚宣布辞职。",
+    "zh_hant": "英國首相基爾·斯塔默剛剛宣佈辭職。"
+  },
+  {
+    "index": 4,
+    "text": "Rob, great to have you with us.",
+    "start": 16.238,
+    "end": 18.279,
+    "zh": "罗布，很高兴你能来。",
+    "zh_hant": "羅布，很高興你能來。"
+  },
+  {
+    "index": 5,
+    "text": "Big day.",
+    "start": 18.299,
+    "end": 19.379,
+    "zh": "这是重要的一天。",
+    "zh_hant": "這是重要的一天。"
+  },
+  {
+    "index": 6,
+    "text": "The UK is about to have its seventh Prime Minister in 10 years.",
+    "start": 19.34,
+    "end": 24.202,
+    "zh": "英国即将在10年内迎来第七位首相。",
+    "zh_hant": "英國即將在10年內迎來第七位首相。"
+  },
+  {
+    "index": 7,
+    "text": "Can you talk us through it?",
+    "start": 23.852,
+    "end": 25.362,
+    "zh": "你能给我们讲讲这是怎么回事吗？",
+    "zh_hant": "你能給我們講講這是怎麼回事嗎？"
+  },
+  {
+    "index": 8,
+    "text": "Goodness, well, we've had so many big days in British politics,",
+    "start": 25.463,
+    "end": 28.984,
+    "zh": "天哪，我们在英国政治中经历了很多重要的日子，",
+    "zh_hant": "天哪，我們在英國政治中經歷了很多重要的日子，"
+  },
+  {
+    "index": 9,
+    "text": "and we'd have another one, and it's both dramatic and unsurprising.",
+    "start": 28.644,
+    "end": 33.927,
+    "zh": "我们又迎来了一个，既戏剧性又不令人意外。",
+    "zh_hant": "我們又迎來了一個，既戲劇性又不令人意外。"
+  },
+  {
+    "index": 10,
+    "text": "I mean, dramatic because yes,",
+    "start": 33.667,
+    "end": 36.088,
+    "zh": "我的意思是，戏剧性在于，是的，",
+    "zh_hant": "我的意思是，戲劇性在於，是的，"
+  },
+  {
+    "index": 11,
+    "text": "it is the sixth prime minister to be claimed by events in Britain,",
+    "start": 35.768,
+    "end": 41.531,
+    "zh": "这是英国第六位被事件击败的首相，",
+    "zh_hant": "這是英國第六位被事件擊敗的首相，"
+  },
+  {
+    "index": 12,
+    "text": "and it was after Sir Keir Starmer had won such an enormous majority just two years ago,",
+    "start": 41.231,
+    "end": 47.014,
+    "zh": "而且就在两年前，基尔·斯塔默爵士还赢得了如此巨大的多数席位，",
+    "zh_hant": "而且就在兩年前，基爾·斯塔默爵士還贏得了如此巨大的多數席位，"
+  },
+  {
+    "index": 13,
+    "text": "and it's all gone horribly wrong.",
+    "start": 46.934,
+    "end": 49.035,
+    "zh": "但一切都彻底搞砸了。",
+    "zh_hant": "但一切都徹底搞砸了。"
+  },
+  {
+    "index": 14,
+    "text": "But unsurprising in the sense that, given how many other prime ministers have gone by the wayside this last",
+    "start": 49.195,
+    "end": 55.678,
+    "zh": "但说不令人意外，是因为考虑到过去",
+    "zh_hant": "但說不令人意外，是因為考慮到過去"
+  },
+  {
+    "index": 15,
+    "text": "decade,",
+    "start": 55.538,
+    "end": 56.618,
+    "zh": "这十年里有多少位首相中途下台，",
+    "zh_hant": "這十年裡有多少位首相中途下臺，"
+  },
+  {
+    "index": 16,
+    "text": "and given how incredibly unpopular...",
+    "start": 56.268,
+    "end": 58.879,
+    "zh": "再加上基尔·斯塔默变得极其不受欢迎……",
+    "zh_hant": "再加上基爾·斯塔默變得極其不受歡迎……"
+  },
+  {
+    "index": 17,
+    "text": "Keir Starmer had become...",
+    "start": 58.8,
+    "end": 61.101,
+    "zh": "他已经变得……",
+    "zh_hant": "他已經變得……"
+  },
+  {
+    "index": 18,
+    "text": "I mean, it's not really in that sense surprising",
+    "start": 60.751,
+    "end": 63.962,
+    "zh": "我的意思是，从这个意义上说，他失去执政的工党的支持，",
+    "zh_hant": "我的意思是，從這個意義上說，他失去執政的工黨的支援，"
+  },
+  {
+    "index": 19,
+    "text": "that he'd lost the support of his governing Labour Party.",
+    "start": 63.612,
+    "end": 67.524,
+    "zh": "其实并不令人意外。",
+    "zh_hant": "其實並不令人意外。"
+  },
+  {
+    "index": 20,
+    "text": "But again, if you step back from it, Celia, it just is head scratching.",
+    "start": 67.174,
+    "end": 71.846,
+    "zh": "但如果你退一步看，西莉亚，这真的让人挠头。",
+    "zh_hant": "但如果你退一步看，西莉亞，這真的讓人撓頭。"
+  },
+  {
+    "index": 21,
+    "text": "I mean, I don't think anyone would have believed, if you'd said 20, 30, 40 years ago,",
+    "start": 71.496,
+    "end": 77.248,
+    "zh": "我的意思是，如果在二三十、四十年前有人说，",
+    "zh_hant": "我的意思是，如果在二三十、四十年前有人說，"
+  },
+  {
+    "index": 22,
+    "text": "there'd be a decade where Britain would have seven prime ministers.",
+    "start": 76.898,
+    "end": 80.691,
+    "zh": "英国会有十年出现七位首相，我想没人会相信。",
+    "zh_hant": "英國會有十年出現七位首相，我想沒人會相信。"
+  },
+  {
+    "index": 23,
+    "text": "Rob, you mentioned that Keir Starmer is pretty unpopular.",
+    "start": 81.191,
+    "end": 84.733,
+    "zh": "罗布，你提到基尔·斯塔默非常不受欢迎。",
+    "zh_hant": "羅布，你提到基爾·斯塔默非常不受歡迎。"
+  },
+  {
+    "index": 24,
+    "text": "Earlier today, we spoke to some voters in the city of York.",
+    "start": 84.453,
+    "end": 88.454,
+    "zh": "今天早些时候，我们采访了约克市的一些选民。",
+    "zh_hant": "今天早些時候，我們採訪了約克市的一些選民。"
+  },
+  {
+    "index": 25,
+    "text": "Let's take a listen to what they had to say.",
+    "start": 88.104,
+    "end": 89.955,
+    "zh": "让我们听听他们怎么说。",
+    "zh_hant": "讓我們聽聽他們怎麼說。"
+  },
+  {
+    "index": 26,
+    "text": "I mean, he's not been that popular of a prime minister, is he?",
+    "start": 90.596,
+    "end": 93.937,
+    "zh": "我觉得他并不是一个受欢迎的首相，对吧？",
+    "zh_hant": "我覺得他並不是一個受歡迎的首相，對吧？"
+  },
+  {
+    "index": 27,
+    "text": "I feel like he's not done a terrible job, but he's just not popular.",
+    "start": 94.357,
+    "end": 97.679,
+    "zh": "我觉得他做得不算差，但他就是不讨人喜欢。",
+    "zh_hant": "我覺得他做得不算差，但他就是不討人喜歡。"
+  },
+  {
+    "index": 28,
+    "text": "And it's very hard in the sort of type of politics we have now",
+    "start": 97.329,
+    "end": 101.221,
+    "zh": "在我们现在这种政治环境下，",
+    "zh_hant": "在我們現在這種政治環境下，"
+  },
+  {
+    "index": 29,
+    "text": "to be a prime minister that just does okay without making it, you kind...",
+    "start": 100.871,
+    "end": 106.903,
+    "zh": "想做一个表现得还行但没突出成绩的首相，你有点……",
+    "zh_hant": "想做一個表現得還行但沒突出成績的首相，你有點……"
+  },
+  {
+    "index": 30,
+    "text": "You have to do grand things, don't you, these days in politics.",
+    "start": 106.553,
+    "end": 109.325,
+    "zh": "现在的政治，你得做大事，对吧。",
+    "zh_hant": "現在的政治，你得做大事，對吧。"
+  },
+  {
+    "index": 31,
+    "text": "It's not about doing an all right job.",
+    "start": 108.975,
+    "end": 111.446,
+    "zh": "不是做得好就行。",
+    "zh_hant": "不是做得好就行。"
+  },
+  {
+    "index": 32,
+    "text": "It's about making a mark.",
+    "start": 111.096,
+    "end": 113.026,
+    "zh": "而是要有作为。",
+    "zh_hant": "而是要有作為。"
+  },
+  {
+    "index": 33,
+    "text": "I'm not sure this was a great news for me, in my opinion,",
+    "start": 113.487,
+    "end": 117.869,
+    "zh": "对我来说，我不确定这是个好消息，",
+    "zh_hant": "對我來說，我不確定這是個好訊息，"
+  },
+  {
+    "index": 34,
+    "text": "because I don't think it will solve the problem.",
+    "start": 117.519,
+    "end": 120.591,
+    "zh": "因为我觉得这解决不了问题。",
+    "zh_hant": "因為我覺得這解決不了問題。"
+  },
+  {
+    "index": 35,
+    "text": "I think the problem is deeper than that.",
+    "start": 121.451,
+    "end": 123.352,
+    "zh": "我觉得问题比这更深。",
+    "zh_hant": "我覺得問題比這更深。"
+  },
+  {
+    "index": 36,
+    "text": "And I'm a bit worried that populists are pushing forward their agenda.",
+    "start": 123.012,
+    "end": 129.015,
+    "zh": "而且我有点担心民粹主义者在推进他们的议程。",
+    "zh_hant": "而且我有點擔心民粹主義者在推進他們的議程。"
+  },
+  {
+    "index": 37,
+    "text": "I think it's the same.",
+    "start": 128.975,
+    "end": 130.175,
+    "zh": "我觉得情况是一样的。",
+    "zh_hant": "我覺得情況是一樣的。"
+  },
+  {
+    "index": 38,
+    "text": "I'm French, and it's the same situation in France.",
+    "start": 129.825,
+    "end": 132.136,
+    "zh": "我是法国人，法国也是同样的情况。",
+    "zh_hant": "我是法國人，法國也是同樣的情況。"
+  },
+  {
+    "index": 39,
+    "text": "Well, it's overdue, in my opinion.",
+    "start": 132.637,
+    "end": 134.938,
+    "zh": "好吧，我觉得这早就该发生了。",
+    "zh_hant": "好吧，我覺得這早就該發生了。"
+  },
+  {
+    "index": 40,
+    "text": "Well overdue.",
+    "start": 135.298,
+    "end": 136.418,
+    "zh": "早就该了。",
+    "zh_hant": "早就該了。"
+  },
+  {
+    "index": 41,
+    "text": "He's been a failure for some time.",
+    "start": 136.779,
+    "end": 139.44,
+    "zh": "他失败已经有一阵子了。",
+    "zh_hant": "他失敗已經有一陣子了。"
+  },
+  {
+    "index": 42,
+    "text": "So, Rob, we've just heard those people, ending with that last gentleman.",
+    "start": 139.3,
+    "end": 143.142,
+    "zh": "所以，罗布，我们刚刚听到那些人说的，包括最后那位先生。",
+    "zh_hant": "所以，羅布，我們剛剛聽到那些人說的，包括最後那位先生。"
+  },
+  {
+    "index": 43,
+    "text": "Why was Keir Starmer so deeply unpopular?",
+    "start": 142.962,
+    "end": 146.303,
+    "zh": "为什么基尔·斯塔默这么不受欢迎？",
+    "zh_hant": "為什麼基爾·斯塔默這麼不受歡迎？"
+  },
+  {
+    "index": 44,
+    "text": "It's a great question, and it's certainly not in doubt that he was.",
+    "start": 147.124,
+    "end": 150.645,
+    "zh": "这是个好问题，而且毫无疑问他就是不受欢迎。",
+    "zh_hant": "這是個好問題，而且毫無疑問他就是不受歡迎。"
+  },
+  {
+    "index": 45,
+    "text": "I mean, there seems to be a visceral dislike for the prime minister among the voters.",
+    "start": 150.295,
+    "end": 155.107,
+    "zh": "选民们似乎对这位首相有一种发自内心的厌恶。",
+    "zh_hant": "選民們似乎對這位首相有一種發自內心的厭惡。"
+  },
+  {
+    "index": 46,
+    "text": "I mean, the polling evidence and focus group suggests it's because, fairly or unfairly,",
+    "start": 155.068,
+    "end": 160.911,
+    "zh": "民调证据和焦点小组表明，无论是公平还是不公平地，",
+    "zh_hant": "民調證據和焦點小組表明，無論是公平還是不公平地，"
+  },
+  {
+    "index": 47,
+    "text": "Celia, they saw him as variously inauthentic,",
+    "start": 160.561,
+    "end": 165.233,
+    "zh": "西莉亚，他们认为他不真诚、",
+    "zh_hant": "西莉亞，他們認為他不真誠、"
+  },
+  {
+    "index": 48,
+    "text": "a sort of typical Politician, indecisive, kind of cold,",
+    "start": 164.883,
+    "end": 170.235,
+    "zh": "是个典型的政客，优柔寡断，有点冷漠、",
+    "zh_hant": "是個典型的政客，優柔寡斷，有點冷漠、"
+  },
+  {
+    "index": 49,
+    "text": "bureaucratic, a bit out of touch with the way this country felt to live in.",
+    "start": 170.336,
+    "end": 176.498,
+    "zh": "官僚主义，对国人生活的感受有点脱节。",
+    "zh_hant": "官僚主義，對國人生活的感受有點脫節。"
+  },
+  {
+    "index": 50,
+    "text": "And for some people, that's the sort of personification of the woke bureaucracy, as they would see it.",
+    "start": 176.499,
+    "end": 182.561,
+    "zh": "对一些人来说，这就像他们眼中的那种“觉醒官僚”的化身。",
+    "zh_hant": "對一些人來說，這就像他們眼中的那種“覺醒官僚”的化身。"
+  },
+  {
+    "index": 51,
+    "text": "So, absolutely extraordinarily unpopular.",
+    "start": 182.211,
+    "end": 186.123,
+    "zh": "所以，绝对是非常不受欢迎。",
+    "zh_hant": "所以，絕對是非常不受歡迎。"
+  },
+  {
+    "index": 52,
+    "text": "So the Prime Minister's position was already under threat,",
+    "start": 186.604,
+    "end": 190.025,
+    "zh": "所以首相的位置本来就受到威胁，",
+    "zh_hant": "所以首相的位置本來就受到威脅，"
+  },
+  {
+    "index": 53,
+    "text": "and now his main rival, Andy Burnham, has a seat in Parliament.",
+    "start": 189.675,
+    "end": 194.827,
+    "zh": "现在他的主要竞争对手安迪·伯纳姆在议会有了席位。",
+    "zh_hant": "現在他的主要競爭對手安迪·伯納姆在議會有了席位。"
+  },
+  {
+    "index": 54,
+    "text": "Tell us why that matters and how things might change moving forward.",
+    "start": 194.477,
+    "end": 198.869,
+    "zh": "告诉我们为什么这很重要，以及未来事情会如何变化。",
+    "zh_hant": "告訴我們為什麼這很重要，以及未來事情會如何變化。"
+  },
+  {
+    "index": 55,
+    "text": "Well, the reason it matters is that the rules of the governing Labour Party is that you can't challenge for the leadership,",
+    "start": 199.05,
+    "end": 204.393,
+    "zh": "这很重要的原因是，执政工党的规则是你不能挑战领导层，",
+    "zh_hant": "這很重要的原因是，執政工黨的規則是你不能挑戰領導層，"
+  },
+  {
+    "index": 56,
+    "text": "you can't become Prime Minister unless you're an MP, and Andy Burnham is now an MP.",
+    "start": 204.043,
+    "end": 210.095,
+    "zh": "除非你是议员，否则不能成为首相，而安迪·伯纳姆现在是议员了。",
+    "zh_hant": "除非你是議員，否則不能成為首相，而安迪·伯納姆現在是議員了。"
+  },
+  {
+    "index": 57,
+    "text": "So that was the vital step for him to challenge Keir Starmer,",
+    "start": 210.256,
+    "end": 214.277,
+    "zh": "所以这是他挑战基尔·斯塔默的关键一步，",
+    "zh_hant": "所以這是他挑戰基爾·斯塔默的關鍵一步，"
+  },
+  {
+    "index": 58,
+    "text": "and of course it's the reason why Keir Starmer has had to step aside,",
+    "start": 213.927,
+    "end": 218.68,
+    "zh": "当然这也是为什么基尔·斯塔默不得不退让的原因，",
+    "zh_hant": "當然這也是為什麼基爾·斯塔默不得不退讓的原因，"
+  },
+  {
+    "index": 59,
+    "text": "because essentially within the governing Labour Party,",
+    "start": 218.33,
+    "end": 221.521,
+    "zh": "因为在执政的工党内部，",
+    "zh_hant": "因為在執政的工黨內部，"
+  },
+  {
+    "index": 60,
+    "text": "the tide has turned against him towards Andy Burnham,",
+    "start": 222.021,
+    "end": 227.324,
+    "zh": "风向已经转向支持安迪·伯纳姆，",
+    "zh_hant": "風向已經轉向支援安迪·伯納姆，"
+  },
+  {
+    "index": 61,
+    "text": "and there's a very, very simple The reason for that, Celia,",
+    "start": 227.184,
+    "end": 231.066,
+    "zh": "而且原因非常简单，西莉亚，",
+    "zh_hant": "而且原因非常簡單，西莉亞，"
+  },
+  {
+    "index": 62,
+    "text": "is that Labour MPs felt when they looked at the standing of Mr. Starmer in the country,",
+    "start": 231.066,
+    "end": 236.488,
+    "zh": "就是工党议员们看着斯塔默先生在全国的声望，",
+    "zh_hant": "就是工黨議員們看著斯塔默先生在全國的聲望，"
+  },
+  {
+    "index": 63,
+    "text": "and of their party in the country, they were facing an existential threat.",
+    "start": 236.148,
+    "end": 240.891,
+    "zh": "以及他们党在全国的地位，他们觉得自己面临生存威胁。",
+    "zh_hant": "以及他們黨在全國的地位，他們覺得自己面臨生存威脅。"
+  },
+  {
+    "index": 64,
+    "text": "So there's a sort of, you could almost describe it as a level of panic amongst MPs,",
+    "start": 240.611,
+    "end": 245.273,
+    "zh": "所以可以说，议员们中间有一种恐慌情绪，",
+    "zh_hant": "所以可以說，議員們中間有一種恐慌情緒，"
+  },
+  {
+    "index": 65,
+    "text": "Labour MPs, worried about losing their job.",
+    "start": 245.153,
+    "end": 247.714,
+    "zh": "工党议员们担心丢掉工作。",
+    "zh_hant": "工黨議員們擔心丟掉工作。"
+  },
+  {
+    "index": 66,
+    "text": "Andy Burnham has just won a special election,",
+    "start": 247.675,
+    "end": 251.076,
+    "zh": "安迪·伯纳姆刚刚在英国北部赢了一场特别选举，",
+    "zh_hant": "安迪·伯納姆剛剛在英國北部贏了一場特別選舉，"
+  },
+  {
+    "index": 67,
+    "text": "or by-election as we call them, in the north of England,",
+    "start": 250.726,
+    "end": 254.438,
+    "zh": "也就是我们常说的补选，",
+    "zh_hant": "也就是我們常說的補選，"
+  },
+  {
+    "index": 68,
+    "text": "where he defeated one of the parties that frightens Labour most,",
+    "start": 254.088,
+    "end": 258.28,
+    "zh": "他在那里击败了最让工党害怕的政党之一，",
+    "zh_hant": "他在那裡擊敗了最讓工黨害怕的政黨之一，"
+  },
+  {
+    "index": 69,
+    "text": "the populists of Reform and Nigel Farage,",
+    "start": 257.93,
+    "end": 261.601,
+    "zh": "也就是改革党和奈杰尔·法拉奇的民粹主义者，",
+    "zh_hant": "也就是改革黨和奈傑爾·法拉奇的民粹主義者，"
+  },
+  {
+    "index": 70,
+    "text": "who've done well in appealing to the sort of white working classes who used to vote Labour.",
+    "start": 261.401,
+    "end": 267.844,
+    "zh": "他们在争取以前投工党的白人工人阶级方面做得很好。",
+    "zh_hant": "他們在爭取以前投工黨的白人工人階級方面做得很好。"
+  },
+  {
+    "index": 71,
+    "text": "I mean, it all seems a bit crazy, doesn't it, Rob?",
+    "start": 267.764,
+    "end": 270.265,
+    "zh": "罗布，这看起来有点疯狂，对吧？",
+    "zh_hant": "羅布，這看起來有點瘋狂，對吧？"
+  },
+  {
+    "index": 72,
+    "text": "Andy Burnham is now serving as the mayor of the northern city of Manchester,",
+    "start": 269.915,
+    "end": 275.868,
+    "zh": "安迪·伯纳姆现在是北部城市曼彻斯特的市长，",
+    "zh_hant": "安迪·伯納姆現在是北部城市曼徹斯特的市長，"
+  },
+  {
+    "index": 73,
+    "text": "but he could leapfrog to become Prime Minister,",
+    "start": 275.848,
+    "end": 279.31,
+    "zh": "但他可以一跃成为首相，",
+    "zh_hant": "但他可以一躍成為首相，"
+  },
+  {
+    "index": 74,
+    "text": "why do so many people see so much potential in Andy Burnham?",
+    "start": 279.11,
+    "end": 283.232,
+    "zh": "为什么这么多人看好安迪·伯纳姆？",
+    "zh_hant": "為什麼這麼多人看好安迪·伯納姆？"
+  },
+  {
+    "index": 75,
+    "text": "His attraction to Labour politicians,",
+    "start": 283.613,
+    "end": 286.494,
+    "zh": "他对工党政客，以及对喜欢他的人——大曼彻斯特的选民——的吸引力，",
+    "zh_hant": "他對工黨政客，以及對喜歡他的人——大曼徹斯特的選民——的吸引力，"
+  },
+  {
+    "index": 76,
+    "text": "and the people who like him, the voters of Greater Manchester, is that he's quite clearly more relatable,",
+    "start": 286.144,
+    "end": 292.317,
+    "zh": "在于他明显更接地气，",
+    "zh_hant": "在於他明顯更接地氣，"
+  },
+  {
+    "index": 77,
+    "text": "more friendly if you like, than Keir Starmer.",
+    "start": 293.397,
+    "end": 297.379,
+    "zh": "比基尔·斯塔默更友好，如果你愿意这么说的话。",
+    "zh_hant": "比基爾·斯塔默更友好，如果你願意這麼說的話。"
+  },
+  {
+    "index": 78,
+    "text": "He comes over as being much more likeable, he comes over as being more normal.",
+    "start": 297.029,
+    "end": 301.841,
+    "zh": "他给人的感觉更讨喜，更像个普通人。",
+    "zh_hant": "他給人的感覺更討喜，更像個普通人。"
+  },
+  {
+    "index": 79,
+    "text": "He likes football, he likes trendy clothing for a middle-aged guy,",
+    "start": 301.491,
+    "end": 306.684,
+    "zh": "他喜欢足球，喜欢中年人穿的潮牌衣服，",
+    "zh_hant": "他喜歡足球，喜歡中年人穿的潮牌衣服，"
+  },
+  {
+    "index": 80,
+    "text": "he loves music.",
+    "start": 307.384,
+    "end": 308.685,
+    "zh": "也热爱音乐。",
+    "zh_hant": "也熱愛音樂。"
+  },
+  {
+    "index": 81,
+    "text": "So they think that if nothing else,",
+    "start": 309.065,
+    "end": 311.186,
+    "zh": "所以他们觉得，至少，",
+    "zh_hant": "所以他們覺得，至少，"
+  },
+  {
+    "index": 82,
+    "text": "that even if their policies don't change particularly radically, at least they'll",
+    "start": 311.046,
+    "end": 315.388,
+    "zh": "即使政策不会大幅改变，至少会有个",
+    "zh_hant": "即使政策不會大幅改變，至少會有個"
+  },
+  {
+    "index": 83,
+    "text": "be someone as Prime Minister who can communicate, who'd be a much better messenger than Keir Starmer.",
+    "start": 315.038,
+    "end": 320.791,
+    "zh": "能沟通的首相，会是个比基尔·斯塔默更好的代言人。",
+    "zh_hant": "能溝通的首相，會是個比基爾·斯塔默更好的代言人。"
+  },
+  {
+    "index": 84,
+    "text": "Now, of course, whether that would be enough without other policies is, I guess,",
+    "start": 320.441,
+    "end": 325.654,
+    "zh": "当然，如果没有其他政策，这是否足够，我觉得",
+    "zh_hant": "當然，如果沒有其他政策，這是否足夠，我覺得"
+  },
+  {
+    "index": 85,
+    "text": "the absolute key question in British politics now.",
+    "start": 325.454,
+    "end": 328.875,
+    "zh": "是现在英国政治中最关键的问题。",
+    "zh_hant": "是現在英國政治中最關鍵的問題。"
+  },
+  {
+    "index": 86,
+    "text": "Okay, so you've mentioned policy, Rob.",
+    "start": 328.615,
+    "end": 330.956,
+    "zh": "好的，你提到了政策，罗布。",
+    "zh_hant": "好的，你提到了政策，羅布。"
+  },
+  {
+    "index": 87,
+    "text": "Just quickly, domestically, what would Andy Burnham do differently?",
+    "start": 330.606,
+    "end": 335.779,
+    "zh": "简单说，在国内方面，安迪·伯纳姆会有什么不同？",
+    "zh_hant": "簡單說，在國內方面，安迪·伯納姆會有什麼不同？"
+  },
+  {
+    "index": 88,
+    "text": "Because voters just had an election not too long ago to put Keir Starmer in place to do certain things.",
+    "start": 335.429,
+    "end": 340.981,
+    "zh": "因为选民不久前才选基尔·斯塔默来做事。",
+    "zh_hant": "因為選民不久前才選基爾·斯塔默來做事。"
+  },
+  {
+    "index": 89,
+    "text": "Yeah, and the short answer is we just don't know, Celia Wright.",
+    "start": 341.181,
+    "end": 344.503,
+    "zh": "是的，简单回答就是我们不知道，西莉亚·赖特。",
+    "zh_hant": "是的，簡單回答就是我們不知道，西莉亞·賴特。"
+  },
+  {
+    "index": 90,
+    "text": "I mean, in some ways, the two men seem very similar in terms of ideology and policy.",
+    "start": 344.153,
+    "end": 349.885,
+    "zh": "在某些方面，这两个人在意识形态和政策上似乎非常相似。",
+    "zh_hant": "在某些方面，這兩個人在意識形態和政策上似乎非常相似。"
+  },
+  {
+    "index": 91,
+    "text": "And both centre-left politicians, you would recognise that all over Europe,",
+    "start": 349.535,
+    "end": 354.047,
+    "zh": "都是中左翼政客，你在整个欧洲都能看到这种人，",
+    "zh_hant": "都是中左翼政客，你在整個歐洲都能看到這種人，"
+  },
+  {
+    "index": 92,
+    "text": "they both believe that the priority should be on increasing the living standards of ordinary people.",
+    "start": 353.848,
+    "end": 359.171,
+    "zh": "他们都认为优先事项应该是提高普通人的生活水平。",
+    "zh_hant": "他們都認為優先事項應該是提高普通人的生活水平。"
+  },
+  {
+    "index": 93,
+    "text": "They both believe, as centre-left politicians, that the state is a force for good.",
+    "start": 359.171,
+    "end": 364.173,
+    "zh": "作为中左翼政客，他们都相信国家是善的力量。",
+    "zh_hant": "作為中左翼政客，他們都相信國家是善的力量。"
+  },
+  {
+    "index": 94,
+    "text": "But here's the thing.",
+    "start": 363.823,
+    "end": 365.193,
+    "zh": "但问题来了。",
+    "zh_hant": "但問題來了。"
+  },
+  {
+    "index": 95,
+    "text": "You then say, well, OK, what might What would Andy Burnham do differently?",
+    "start": 365.034,
+    "end": 369.215,
+    "zh": "然后你说，好吧，那安迪·伯纳姆会有什么不同？",
+    "zh_hant": "然後你說，好吧，那安迪·伯納姆會有什麼不同？"
+  },
+  {
+    "index": 96,
+    "text": "And those more on the left of the Labour Party would love to see more public spending,",
+    "start": 368.956,
+    "end": 374.518,
+    "zh": "工党中更左翼的人希望看到更多公共支出，",
+    "zh_hant": "工黨中更左翼的人希望看到更多公共支出，"
+  },
+  {
+    "index": 97,
+    "text": "more taxes on the rich.",
+    "start": 374.168,
+    "end": 376.799,
+    "zh": "对富人征更多税。",
+    "zh_hant": "對富人徵更多稅。"
+  },
+  {
+    "index": 98,
+    "text": "And the problem here is that economists would tell you that Britain",
+    "start": 377.3,
+    "end": 381.962,
+    "zh": "问题在于，经济学家会告诉你，英国",
+    "zh_hant": "問題在於，經濟學家會告訴你，英國"
+  },
+  {
+    "index": 99,
+    "text": "already has, is up to its eyes in debt,",
+    "start": 381.662,
+    "end": 384.863,
+    "zh": "已经债务缠身，",
+    "zh_hant": "已經債務纏身，"
+  },
+  {
+    "index": 100,
+    "text": "that it already has, historically and relatively speaking,",
+    "start": 384.803,
+    "end": 388.405,
+    "zh": "而且从历史和相对角度来看，它已经",
+    "zh_hant": "而且從歷史和相對角度來看，它已經"
+  },
+  {
+    "index": 101,
+    "text": "high levels of public spending and taxation on businesses, on the rich.",
+    "start": 388.055,
+    "end": 392.867,
+    "zh": "有高水平的公共支出和对企业、富人的税收。",
+    "zh_hant": "有高水平的公共支出和對企業、富人的稅收。"
+  },
+  {
+    "index": 102,
+    "text": "So there's a danger, of course, if you're from the left of the Labour Party,",
+    "start": 392.747,
+    "end": 397.589,
+    "zh": "所以如果你来自工党左翼，当然会有风险，",
+    "zh_hant": "所以如果你來自工黨左翼，當然會有風險，"
+  },
+  {
+    "index": 103,
+    "text": "that you're going to end up Being very disappointed",
+    "start": 397.409,
+    "end": 399.931,
+    "zh": "就是最终会非常失望，",
+    "zh_hant": "就是最終會非常失望，"
+  },
+  {
+    "index": 104,
+    "text": "that Mr. Burnham will be boxed in, just like Keir Starmer was, and in fact,",
+    "start": 399.581,
+    "end": 405.354,
+    "zh": "因为伯纳姆先生会被束缚住，就像基尔·斯塔默一样，而且事实上，",
+    "zh_hant": "因為伯納姆先生會被束縛住，就像基爾·斯塔默一樣，而且事實上，"
+  },
+  {
+    "index": 105,
+    "text": "just like prime ministers and presidents are all over the world,",
+    "start": 405.004,
+    "end": 408.595,
+    "zh": "就像世界各地的首相和总统一样，",
+    "zh_hant": "就像世界各地的首相和總統一樣，"
+  },
+  {
+    "index": 106,
+    "text": "by the kind of financial constraints they find themselves in.",
+    "start": 408.245,
+    "end": 412.137,
+    "zh": "被他们所处的财政约束所限制。",
+    "zh_hant": "被他們所處的財政約束所限制。"
+  },
+  {
+    "index": 107,
+    "text": "Rob, just to focus on the big picture a bit, I mean, Britain keeps changing leaders.",
+    "start": 412.457,
+    "end": 418.28,
+    "zh": "罗布，我们稍微聚焦一下大局，英国一直在换领导人。",
+    "zh_hant": "羅布，我們稍微聚焦一下大局，英國一直在換領導人。"
+  },
+  {
+    "index": 108,
+    "text": "So far, no one's been able to stick in place for very long over the past ten years.",
+    "start": 418.16,
+    "end": 424.183,
+    "zh": "到目前为止，在过去十年里，没有人能长期站稳脚跟。",
+    "zh_hant": "到目前為止，在過去十年裡，沒有人能長期站穩腳跟。"
+  },
+  {
+    "index": 109,
+    "text": "Why is Britain so difficult to govern?",
+    "start": 424.623,
+    "end": 427.685,
+    "zh": "为什么英国这么难治理？",
+    "zh_hant": "為什麼英國這麼難治理？"
+  },
+  {
+    "index": 110,
+    "text": "Well, the polling evidence and focus groups, and just going out there and talking to people, suggest there are three",
+    "start": 428.905,
+    "end": 434.308,
+    "zh": "民调证据、焦点小组，以及出去和人们交谈，都表明有三个",
+    "zh_hant": "民調證據、焦點小組，以及出去和人們交談，都表明有三個"
+  },
+  {
+    "index": 111,
+    "text": "really big drivers.",
+    "start": 433.958,
+    "end": 435.629,
+    "zh": "巨大的驱动因素。",
+    "zh_hant": "巨大的驅動因素。"
+  },
+  {
+    "index": 112,
+    "text": "And those drivers are, number one, stagnation, stagnating living standards.",
+    "start": 435.749,
+    "end": 441.192,
+    "zh": "这些驱动因素，第一是停滞，生活水平停滞不前。",
+    "zh_hant": "這些驅動因素，第一是停滯，生活水平停滯不前。"
+  },
+  {
+    "index": 113,
+    "text": "And that actually goes back beyond this ten years and six prime ministers, it goes back to the financial",
+    "start": 440.842,
+    "end": 446.054,
+    "zh": "这实际上可以追溯到这十年和六位首相之前，可以追溯到2008年的",
+    "zh_hant": "這實際上可以追溯到這十年和六位首相之前，可以追溯到2008年的"
+  },
+  {
+    "index": 114,
+    "text": "crash of 2008.",
+    "start": 445.914,
+    "end": 447.765,
+    "zh": "金融危机。",
+    "zh_hant": "金融危機。"
+  },
+  {
+    "index": 115,
+    "text": "And that makes people's lives miserable, and it makes them unhappy and angry.",
+    "start": 447.815,
+    "end": 451.957,
+    "zh": "这让人们的生活痛苦，让他们不开心和愤怒。",
+    "zh_hant": "這讓人們的生活痛苦，讓他們不開心和憤怒。"
+  },
+  {
+    "index": 116,
+    "text": "The second thing, which is sort of connected, is a sense that nothing works properly.",
+    "start": 451.817,
+    "end": 456.86,
+    "zh": "第二件事，有点相关的是，感觉什么都不正常。",
+    "zh_hant": "第二件事，有點相關的是，感覺什麼都不正常。"
+  },
+  {
+    "index": 117,
+    "text": "In Britain, similarly, the public services don't work, thanks to under-investment.",
+    "start": 456.62,
+    "end": 461.282,
+    "zh": "在英国，同样地，公共服务因投资不足而失灵。",
+    "zh_hant": "在英國，同樣地，公共服務因投資不足而失靈。"
+  },
+  {
+    "index": 118,
+    "text": "And then the third massive issue is a concern over immigration",
+    "start": 461.182,
+    "end": 466.484,
+    "zh": "然后第三个大问题是关于移民社会凝聚力的担忧。",
+    "zh_hant": "然後第三個大問題是關於移民社會凝聚力的擔憂。"
+  },
+  {
+    "index": 119,
+    "text": "and social cohesion.",
+    "start": 466.485,
+    "end": 468.325,
+    "zh": "而所有这些证据都表明，这是推动选民愤怒的原因，",
+    "zh_hant": "而所有這些證據都表明，這是推動選民憤怒的原因，"
+  },
+  {
+    "index": 120,
+    "text": "And all the evidence suggests that is what is driving voter anger,",
+    "start": 468.045,
+    "end": 472.647,
+    "zh": "而愤怒又反过来推动了巨大的政治不稳定性，",
+    "zh_hant": "而憤怒又反過來推動了巨大的政治不穩定性，"
+  },
+  {
+    "index": 121,
+    "text": "and anger which in turn is driving enormous political volatility",
+    "start": 472.387,
+    "end": 476.949,
+    "zh": "在这个国家，以及对统治了英国百年的两个主要政党的威胁，",
+    "zh_hant": "在這個國家，以及對統治了英國百年的兩個主要政黨的威脅，"
+  },
+  {
+    "index": 122,
+    "text": "in this country and the threat to the two main parties that have governed Britain for the last hundred years,",
+    "start": 476.599,
+    "end": 482.412,
+    "zh": "以前是保守党，现在包括工党。",
+    "zh_hant": "以前是保守黨，現在包括工黨。"
+  },
+  {
+    "index": 123,
+    "text": "the Conservatives before and now Labour.",
+    "start": 482.062,
+    "end": 485.213,
+    "zh": "而且，当然，这就是为什么人们有点退缩。",
+    "zh_hant": "而且，當然，這就是為什麼人們有點退縮。"
+  },
+  {
+    "index": 124,
+    "text": "And it is, of course, why people are sort of stepping back from it all.",
+    "start": 484.953,
+    "end": 489.534,
+    "zh": "也许英国的政治危机",
+    "zh_hant": "也許英國的政治危機"
+  },
+  {
+    "index": 125,
+    "text": "Maybe Britain's political crisis",
+    "start": 489.184,
+    "end": 493.275,
+    "zh": "不仅仅在于唐宁街住着谁，",
+    "zh_hant": "不僅僅在於唐寧街住著誰，"
+  },
+  {
+    "index": 126,
+    "text": "is not just about the person who's in Downing Street,",
+    "start": 493.195,
+    "end": 496.716,
+    "zh": "因为我们经历了六位首相。",
+    "zh_hant": "因為我們經歷了六位首相。"
+  },
+  {
+    "index": 127,
+    "text": "given that we've gone through six of them.",
+    "start": 496.366,
+    "end": 498.197,
+    "zh": "也许就是这些更大的问题。",
+    "zh_hant": "也許就是這些更大的問題。"
+  },
+  {
+    "index": 128,
+    "text": "Maybe it's these bigger issues.",
+    "start": 497.917,
+    "end": 499.877,
+    "zh": "罗布，听你这么说很有意思。",
+    "zh_hant": "羅布，聽你這麼說很有意思。"
+  },
+  {
+    "index": 129,
+    "text": "It's interesting, Rob, listening to you talk.",
+    "start": 500.157,
+    "end": 502.518,
+    "zh": "你提到政治动荡，这似乎不仅仅是换个面孔的问题。",
+    "zh_hant": "你提到政治動盪，這似乎不僅僅是換個面孔的問題。"
+  }
+]

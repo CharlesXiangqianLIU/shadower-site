@@ -1,0 +1,530 @@
+[
+  {
+    "index": 0,
+    "text": "Hi, we say here in Bavaria, Servus.",
+    "start": 0.07,
+    "end": 2.691,
+    "zh": "嗨，在巴伐利亚我们打招呼说Servus。",
+    "zh_hant": "嗨，在巴伐利亞我們打招呼說Servus。"
+  },
+  {
+    "index": 1,
+    "text": "My name is Manuel and I'm from here, Munich, Germany.",
+    "start": 2.571,
+    "end": 5.733,
+    "zh": "我叫曼努埃尔，来自德国慕尼黑。",
+    "zh_hant": "我叫曼努埃爾，來自德國慕尼黑。"
+  },
+  {
+    "index": 2,
+    "text": "Today I'm going to give you an inside look into the Bavarian beer garden culture.",
+    "start": 5.673,
+    "end": 9.775,
+    "zh": "今天我要带你深入了解巴伐利亚的啤酒花园文化。",
+    "zh_hant": "今天我要帶你深入瞭解巴伐利亞的啤酒花園文化。"
+  },
+  {
+    "index": 3,
+    "text": "So come with me.",
+    "start": 10.335,
+    "end": 11.296,
+    "zh": "跟我来吧。",
+    "zh_hant": "跟我來吧。"
+  },
+  {
+    "index": 4,
+    "text": "With an estimate of 200 beer gardens, Munich is the heart for German beer garden culture.",
+    "start": 12.897,
+    "end": 18.059,
+    "zh": "慕尼黑大约有200个啤酒花园，是德国啤酒花园文化的核心。",
+    "zh_hant": "慕尼黑大約有200個啤酒花園，是德國啤酒花園文化的核心。"
+  },
+  {
+    "index": 5,
+    "text": "But what should you know before you visit?",
+    "start": 18.219,
+    "end": 20.6,
+    "zh": "但去之前你应该知道些什么呢？",
+    "zh_hant": "但去之前你應該知道些什麼呢？"
+  },
+  {
+    "index": 6,
+    "text": "Today I'm meeting up with my friends in one of my favorite beer gardens,",
+    "start": 20.681,
+    "end": 24.862,
+    "zh": "今天我要和我朋友在我最喜欢的啤酒花园之一见面，",
+    "zh_hant": "今天我要和我朋友在我最喜歡的啤酒花園之一見面，"
+  },
+  {
+    "index": 7,
+    "text": "and will show you how a typical beer garden day looks like.",
+    "start": 24.703,
+    "end": 27.944,
+    "zh": "并给你展示一个典型的啤酒花园日是什么样的。",
+    "zh_hant": "並給你展示一個典型的啤酒花園日是什麼樣的。"
+  },
+  {
+    "index": 8,
+    "text": "All right, we're here now at Nockerberg at the Paulaner Biergarten,",
+    "start": 27.594,
+    "end": 33.447,
+    "zh": "好了，我们到了，现在在诺克贝格的保拉纳啤酒花园，",
+    "zh_hant": "好了，我們到了，現在在諾克貝格的保拉納啤酒花園，"
+  },
+  {
+    "index": 9,
+    "text": "which is one of the most famous beer gardens here in Munich.",
+    "start": 33.097,
+    "end": 36.208,
+    "zh": "这是慕尼黑最著名的啤酒花园之一。",
+    "zh_hant": "這是慕尼黑最著名的啤酒花園之一。"
+  },
+  {
+    "index": 10,
+    "text": "It's famous for its annual beer festival, the Starkbierfest.",
+    "start": 36.168,
+    "end": 39.57,
+    "zh": "它因每年举办的啤酒节——烈啤酒节而闻名。",
+    "zh_hant": "它因每年舉辦的啤酒節——烈啤酒節而聞名。"
+  },
+  {
+    "index": 11,
+    "text": "Let's get inside.",
+    "start": 39.87,
+    "end": 41.091,
+    "zh": "我们进去吧。",
+    "zh_hant": "我們進去吧。"
+  },
+  {
+    "index": 12,
+    "text": "I'm hungry.",
+    "start": 41.171,
+    "end": 41.991,
+    "zh": "我饿了。",
+    "zh_hant": "我餓了。"
+  },
+  {
+    "index": 13,
+    "text": "But what actually is a beer garden, and where does it come from?",
+    "start": 46.133,
+    "end": 48.775,
+    "zh": "但啤酒花园到底是什么，它又是怎么来的？",
+    "zh_hant": "但啤酒花園到底是什麼，它又是怎麼來的？"
+  },
+  {
+    "index": 14,
+    "text": "200 years ago, the breweries, they had an issue because they could only brew the beer",
+    "start": 48.425,
+    "end": 53.237,
+    "zh": "200年前，酿酒厂有个问题，因为他们只能酿造啤酒",
+    "zh_hant": "200年前，釀酒廠有個問題，因為他們只能釀造啤酒"
+  },
+  {
+    "index": 15,
+    "text": "in the wintertime, but not in the summer.",
+    "start": 52.977,
+    "end": 55.058,
+    "zh": "在冬天，而不是夏天。",
+    "zh_hant": "在冬天，而不是夏天。"
+  },
+  {
+    "index": 16,
+    "text": "It was way too hot.",
+    "start": 54.878,
+    "end": 56.258,
+    "zh": "夏天太热了。",
+    "zh_hant": "夏天太熱了。"
+  },
+  {
+    "index": 17,
+    "text": "So they started in cellars right below us.",
+    "start": 56.158,
+    "end": 59.06,
+    "zh": "于是他们开始在我们正下方的地窖里酿。",
+    "zh_hant": "於是他們開始在我們正下方的地窖裡釀。"
+  },
+  {
+    "index": 18,
+    "text": "They put chestnut trees on top and the gravel on the ground to cool the beer in the cellars.",
+    "start": 58.98,
+    "end": 64.822,
+    "zh": "他们在上面种栗子树，在地上铺砾石，用来给地窖里的啤酒降温。",
+    "zh_hant": "他們在上面種栗子樹，在地上鋪礫石，用來給地窖裡的啤酒降溫。"
+  },
+  {
+    "index": 19,
+    "text": "Then, at some point in the summer, they realized they want to sell beer to their own customers.",
+    "start": 64.743,
+    "end": 69.545,
+    "zh": "后来，在某个夏天，他们意识到想把自己酿的啤酒卖给顾客。",
+    "zh_hant": "後來，在某個夏天，他們意識到想把自己釀的啤酒賣給顧客。"
+  },
+  {
+    "index": 20,
+    "text": "So what they did is they put benches below the chestnut trees and they offered their beer.",
+    "start": 69.385,
+    "end": 74.427,
+    "zh": "所以他们就在栗子树下放上长椅，卖起啤酒来。",
+    "zh_hant": "所以他們就在栗子樹下放上長椅，賣起啤酒來。"
+  },
+  {
+    "index": 21,
+    "text": "And that's how the beer gardens arrived 200 years ago.",
+    "start": 74.227,
+    "end": 77.268,
+    "zh": "就这样，200年前啤酒花园诞生了。",
+    "zh_hant": "就這樣，200年前啤酒花園誕生了。"
+  },
+  {
+    "index": 22,
+    "text": "We meet Dave, who explains to us the difference between an outdoor restaurant and a beer garden.",
+    "start": 77.949,
+    "end": 83.032,
+    "zh": "我们见到了戴夫，他给我们解释户外餐厅和啤酒花园的区别。",
+    "zh_hant": "我們見到了戴夫，他給我們解釋戶外餐廳和啤酒花園的區別。"
+  },
+  {
+    "index": 23,
+    "text": "A beer garden is self-service.",
+    "start": 82.682,
+    "end": 85.113,
+    "zh": "啤酒花园是自助服务。",
+    "zh_hant": "啤酒花園是自助服務。"
+  },
+  {
+    "index": 24,
+    "text": "But that has a historical background,",
+    "start": 84.833,
+    "end": 87.294,
+    "zh": "但这有历史背景，",
+    "zh_hant": "但這有歷史背景，"
+  },
+  {
+    "index": 25,
+    "text": "that you can bring your food there.",
+    "start": 87.554,
+    "end": 92.857,
+    "zh": "你可以自带食物过来。",
+    "zh_hant": "你可以自帶食物過來。"
+  },
+  {
+    "index": 26,
+    "text": "I brought my own food today, which is surprisingly quite normal in a beer garden.",
+    "start": 92.507,
+    "end": 97.999,
+    "zh": "我今天自己带了吃的，这在啤酒花园里其实挺常见的。",
+    "zh_hant": "我今天自己帶了吃的，這在啤酒花園裡其實挺常見的。"
+  },
+  {
+    "index": 27,
+    "text": "And it's called Brotzeitrecht.",
+    "start": 97.919,
+    "end": 99.58,
+    "zh": "这叫做Brotzeitrecht。",
+    "zh_hant": "這叫做Brotzeitrecht。"
+  },
+  {
+    "index": 28,
+    "text": "So I have a right to bring my own food to a beer garden.",
+    "start": 99.3,
+    "end": 102.781,
+    "zh": "也就是说我有权自带食物进啤酒花园。",
+    "zh_hant": "也就是說我有權自帶食物進啤酒花園。"
+  },
+  {
+    "index": 29,
+    "text": "This goes back to a rule from 1812 by King Max Joseph I.",
+    "start": 103.042,
+    "end": 106.783,
+    "zh": "这要追溯到1812年国王马克西米利安一世定下的规矩。",
+    "zh_hant": "這要追溯到1812年國王馬克西米利安一世定下的規矩。"
+  },
+  {
+    "index": 30,
+    "text": "There was a big dispute in Munich.",
+    "start": 106.433,
+    "end": 109.044,
+    "zh": "当时慕尼黑有过一场大纷争。",
+    "zh_hant": "當時慕尼黑有過一場大紛爭。"
+  },
+  {
+    "index": 31,
+    "text": "Restaurant owners complained that beer garden owners were stealing their customers",
+    "start": 109.085,
+    "end": 113.247,
+    "zh": "餐馆老板抱怨啤酒花园老板抢走他们的客人，",
+    "zh_hant": "餐館老闆抱怨啤酒花園老闆搶走他們的客人，"
+  },
+  {
+    "index": 32,
+    "text": "by selling cheap food alongside their beer.",
+    "start": 113.067,
+    "end": 115.588,
+    "zh": "因为他们在卖啤酒的同时还卖便宜的食物。",
+    "zh_hant": "因為他們在賣啤酒的同時還賣便宜的食物。"
+  },
+  {
+    "index": 33,
+    "text": "So, what King Max Joseph did is he set a rule and restricted the beer gardens from serving food.",
+    "start": 115.888,
+    "end": 120.891,
+    "zh": "所以国王马克西米利安一世定了规矩，限制啤酒花园不能供餐。",
+    "zh_hant": "所以國王馬克西米利安一世定了規矩，限制啤酒花園不能供餐。"
+  },
+  {
+    "index": 34,
+    "text": "But guests were still allowed to bring their own food, a tradition that remains today.",
+    "start": 120.711,
+    "end": 125.913,
+    "zh": "但客人仍然可以自带食物，这个传统保留到了今天。",
+    "zh_hant": "但客人仍然可以自帶食物，這個傳統保留到了今天。"
+  },
+  {
+    "index": 35,
+    "text": "So, we have quite typical dishes here.",
+    "start": 127.254,
+    "end": 129.415,
+    "zh": "所以，我们这里有一些很典型的菜肴。",
+    "zh_hant": "所以，我們這裡有一些很典型的菜餚。"
+  },
+  {
+    "index": 36,
+    "text": "We have the Brezen, we have a Wurstsalat, a sausage salad with pickles.",
+    "start": 129.415,
+    "end": 134.958,
+    "zh": "我们有椒盐卷饼，还有Wurstsalat，就是香肠沙拉配酸黄瓜。",
+    "zh_hant": "我們有椒鹽捲餅，還有Wurstsalat，就是香腸沙拉配酸黃瓜。"
+  },
+  {
+    "index": 37,
+    "text": "We have our Obatzda, which is the Bavarian cheese, tomatoes, and some local fruits.",
+    "start": 134.938,
+    "end": 140.401,
+    "zh": "我们有Obatzda，这是巴伐利亚奶酪，还有番茄和一些当地水果。",
+    "zh_hant": "我們有Obatzda，這是巴伐利亞乳酪，還有番茄和一些當地水果。"
+  },
+  {
+    "index": 38,
+    "text": "Of course you can add more to your Brotzeit.",
+    "start": 141.081,
+    "end": 143.342,
+    "zh": "当然你还可以给Brotzeit加点料。",
+    "zh_hant": "當然你還可以給Brotzeit加點料。"
+  },
+  {
+    "index": 39,
+    "text": "Radieschen, a variety of sausages and even more pickles.",
+    "start": 143.182,
+    "end": 147.584,
+    "zh": "小萝卜、各种香肠，甚至更多的酸黄瓜。",
+    "zh_hant": "小蘿蔔、各種香腸，甚至更多的酸黃瓜。"
+  },
+  {
+    "index": 40,
+    "text": "If you want not just a Brotzeit but a proper meal, you get this as well in the Biergarten.",
+    "start": 148.305,
+    "end": 153.107,
+    "zh": "如果你不想只吃Brotzeit，而是想吃顿正餐，啤酒花园里也有。",
+    "zh_hant": "如果你不想只吃Brotzeit，而是想吃頓正餐，啤酒花園裡也有。"
+  },
+  {
+    "index": 41,
+    "text": "From Handel to Schnitzel to Steckalfisch.",
+    "start": 152.757,
+    "end": 155.728,
+    "zh": "从火腿到炸猪排，再到烤鱼。",
+    "zh_hant": "從火腿到炸豬排，再到烤魚。"
+  },
+  {
+    "index": 42,
+    "text": "It's impossible to leave a Biergarten hungry.",
+    "start": 156.109,
+    "end": 159.13,
+    "zh": "离开啤酒花园时不可能还饿着。",
+    "zh_hant": "離開啤酒花園時不可能還餓著。"
+  },
+  {
+    "index": 43,
+    "text": "But you know what is missing here?",
+    "start": 162.871,
+    "end": 164.471,
+    "zh": "但你知道这里缺什么吗？",
+    "zh_hant": "但你知道這裡缺什麼嗎？"
+  },
+  {
+    "index": 44,
+    "text": "The beer.",
+    "start": 164.952,
+    "end": 165.772,
+    "zh": "啤酒。",
+    "zh_hant": "啤酒。"
+  },
+  {
+    "index": 45,
+    "text": "So let's get it.",
+    "start": 166.152,
+    "end": 167.233,
+    "zh": "所以我们去拿吧。",
+    "zh_hant": "所以我們去拿吧。"
+  },
+  {
+    "index": 46,
+    "text": "So what is quite typical in a beer garden, you don't get it just in half a liter.",
+    "start": 168.433,
+    "end": 172.495,
+    "zh": "啤酒花园里很典型的一点是，你买不到半升装的。",
+    "zh_hant": "啤酒花園裡很典型的一點是，你買不到半升裝的。"
+  },
+  {
+    "index": 47,
+    "text": "Because in a beer garden, usually, and especially this one, after 5 p.m.,",
+    "start": 173.116,
+    "end": 176.457,
+    "zh": "因为在啤酒花园里，通常尤其是这一家，下午5点以后，",
+    "zh_hant": "因為在啤酒花園裡，通常尤其是這一家，下午5點以後，"
+  },
+  {
+    "index": 48,
+    "text": "they only serve a masque, which is a one-liter beer.",
+    "start": 176.337,
+    "end": 180.379,
+    "zh": "他们只供应masque，也就是一升装的啤酒。",
+    "zh_hant": "他們只供應masque，也就是一升裝的啤酒。"
+  },
+  {
+    "index": 49,
+    "text": "So let's get one.",
+    "start": 180.56,
+    "end": 181.68,
+    "zh": "所以来一杯吧。",
+    "zh_hant": "所以來一杯吧。"
+  },
+  {
+    "index": 50,
+    "text": "And yeah, I think I, two must.",
+    "start": 192.946,
+    "end": 195.927,
+    "zh": "嗯，我想我，来两杯。",
+    "zh_hant": "嗯，我想我，來兩杯。"
+  },
+  {
+    "index": 51,
+    "text": "Thank you.",
+    "start": 198.389,
+    "end": 199.169,
+    "zh": "谢谢。",
+    "zh_hant": "謝謝。"
+  },
+  {
+    "index": 52,
+    "text": "Dankeschön.",
+    "start": 200.33,
+    "end": 201.33,
+    "zh": "Dankeschön。",
+    "zh_hant": "Dankeschön。"
+  },
+  {
+    "index": 53,
+    "text": "Okay, so as you can see, after 5pm, only one liter is allowed.",
+    "start": 204.43,
+    "end": 209.153,
+    "zh": "好了，如你所见，下午5点后只允许点一升。",
+    "zh_hant": "好了，如你所見，下午5點後只允許點一升。"
+  },
+  {
+    "index": 54,
+    "text": "This group of friends brought even more food than I did.",
+    "start": 211.354,
+    "end": 214.335,
+    "zh": "这群朋友带的食物比我还多。",
+    "zh_hant": "這群朋友帶的食物比我還多。"
+  },
+  {
+    "index": 55,
+    "text": "I wanted to understand what means beer garden culture to them.",
+    "start": 214.295,
+    "end": 217.757,
+    "zh": "我想了解一下啤酒花园文化对他们意味着什么。",
+    "zh_hant": "我想了解一下啤酒花園文化對他們意味著什麼。"
+  },
+  {
+    "index": 56,
+    "text": "It's like a picnic.",
+    "start": 217.407,
+    "end": 219.318,
+    "zh": "就像野餐一样。",
+    "zh_hant": "就像野餐一樣。"
+  },
+  {
+    "index": 57,
+    "text": "In France you have a picnic on the beach, or in Australia.",
+    "start": 218.998,
+    "end": 222.639,
+    "zh": "在法国你会在海滩上野餐，或者在澳大利亚。",
+    "zh_hant": "在法國你會在海灘上野餐，或者在澳大利亞。"
+  },
+  {
+    "index": 58,
+    "text": "Actually, it's a picnic in the garden.",
+    "start": 222.319,
+    "end": 227.882,
+    "zh": "实际上，就是在花园里野餐。",
+    "zh_hant": "實際上，就是在花園裡野餐。"
+  },
+  {
+    "index": 59,
+    "text": "You can buy drinks here, but because you can't bring your own food, it should be affordable for everyone.",
+    "start": 227.532,
+    "end": 233.485,
+    "zh": "你可以在这里买饮料，但因为不能自带食物，所以应该对每个人都负担得起。",
+    "zh_hant": "你可以在這裡買飲料，但因為不能自帶食物，所以應該對每個人都負擔得起。"
+  },
+  {
+    "index": 60,
+    "text": "Social.",
+    "start": 233.135,
+    "end": 234.005,
+    "zh": "社交。",
+    "zh_hant": "社交。"
+  },
+  {
+    "index": 61,
+    "text": "Everything is available here.",
+    "start": 233.965,
+    "end": 237.247,
+    "zh": "这里什么都有。",
+    "zh_hant": "這裡什麼都有。"
+  },
+  {
+    "index": 62,
+    "text": "There are workers, students, and even the boss.",
+    "start": 236.897,
+    "end": 242.549,
+    "zh": "有工人、学生，甚至老板。",
+    "zh_hant": "有工人、學生，甚至老闆。"
+  },
+  {
+    "index": 63,
+    "text": "I also have the feeling that this is a beer garden set.",
+    "start": 242.199,
+    "end": 245.034,
+    "zh": "我也有这种感觉，这就是啤酒花园的氛围。",
+    "zh_hant": "我也有這種感覺，這就是啤酒花園的氛圍。"
+  },
+  {
+    "index": 64,
+    "text": "You sit at the neighbor's table with other people, you have a conversation,",
+    "start": 244.684,
+    "end": 249.563,
+    "zh": "你和邻桌的人坐在一起，聊聊天，",
+    "zh_hant": "你和鄰桌的人坐在一起，聊聊天，"
+  },
+  {
+    "index": 65,
+    "text": "and then you meet and have a beer!",
+    "start": 249.213,
+    "end": 253.11,
+    "zh": "然后你认识了人，一起喝杯啤酒！",
+    "zh_hant": "然後你認識了人，一起喝杯啤酒！"
+  }
+]
