@@ -134,6 +134,41 @@
       "free": true
     },
     {
+      "id": "2026-08-06-6",
+      "title": "Scientists test vaccines to intercept brewing colon cancer before it takes root",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-06-6",
+      "title": "Scientists test vaccines to intercept brewing colon cancer before it takes root",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-06-6b",
+      "title": "Scientists test vaccines to intercept brewing colon cancer before it takes root",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "wu-2026-08-05",
       "title": "The Westminster Kennel Club Dog Show, the ‘Super Bowl’ of Dog Shows",
       "date": "2026-08-05",
@@ -806,7 +841,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-02-5",
@@ -816,7 +851,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新",
       "origFolderEn": "US更新",
       "accent": "american"
@@ -946,7 +981,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-02-3b",
