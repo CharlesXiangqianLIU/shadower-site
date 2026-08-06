@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 77.",
+    "text": "Lesson 77 Terrible toothache Listen to the tape then answer this question.",
     "start": 0.53,
-    "end": 2.962,
-    "zh": "第77课。",
-    "zh_hant": "第77課。"
+    "end": 11.192,
+    "zh": "第77课 严重的牙痛 听录音,然后回答这个问题。",
+    "zh_hant": "第77課 嚴重的牙痛 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Terrible toothache.",
-    "start": 3.012,
-    "end": 5.393,
-    "zh": "可怕的牙痛。",
-    "zh_hant": "可怕的牙痛。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.433,
-    "end": 9.435,
-    "zh": "听磁带然后",
-    "zh_hant": "聽磁帶然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.275,
-    "end": 11.195,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What time of day is it, do you think?",
     "start": 12.116,
     "end": 16.478,
@@ -40,7 +16,7 @@
     "zh_hant": "你認為現在是什麼時候？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "How do you know?",
     "start": 17.039,
     "end": 18.899,
@@ -48,7 +24,7 @@
     "zh_hant": "你怎麼知道的？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Good morning, Mr. Croft.",
     "start": 21.221,
     "end": 24.322,
@@ -56,7 +32,7 @@
     "zh_hant": "早上好，克羅夫特先生。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Good morning, nurse.",
     "start": 24.983,
     "end": 26.863,
@@ -64,7 +40,7 @@
     "zh_hant": "早上好，護士。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "I want to see the dentist, please.",
     "start": 27.624,
     "end": 31.045,
@@ -72,7 +48,7 @@
     "zh_hant": "我想看牙醫。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Do you have an appointment?",
     "start": 31.226,
     "end": 34.247,
@@ -80,7 +56,7 @@
     "zh_hant": "您有預約嗎？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "No, I don't.",
     "start": 34.647,
     "end": 36.528,
@@ -88,7 +64,7 @@
     "zh_hant": "沒有。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Is it urgent?",
     "start": 36.608,
     "end": 38.409,
@@ -96,7 +72,7 @@
     "zh_hant": "緊急嗎？"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "Yes, it is.",
     "start": 38.769,
     "end": 40.931,
@@ -104,7 +80,7 @@
     "zh_hant": "是的，緊急。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "It's very urgent.",
     "start": 41.291,
     "end": 43.672,
@@ -112,7 +88,7 @@
     "zh_hant": "非常緊急。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "I feel awful.",
     "start": 44.593,
     "end": 46.413,
@@ -120,7 +96,7 @@
     "zh_hant": "我感覺難受極了。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "I have a terrible toothache.",
     "start": 46.974,
     "end": 50.135,
@@ -128,7 +104,7 @@
     "zh_hant": "我牙痛得厲害。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Can you come",
     "start": 50.816,
     "end": 52.316,
@@ -136,7 +112,7 @@
     "zh_hant": "您能在"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "at 10 a.m. on Monday, April",
     "start": 51.966,
     "end": 55.698,
@@ -144,7 +120,7 @@
     "zh_hant": "4月星期一上午10點來嗎？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "I must see the dentist now, nurse.",
     "start": 57.719,
     "end": 62.081,
@@ -152,7 +128,7 @@
     "zh_hant": "我現在必須見牙醫，護士。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "The dentist is very busy at the moment.",
     "start": 62.802,
     "end": 67.044,
@@ -160,7 +136,7 @@
     "zh_hant": "牙醫現在很忙。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Can you come at 2 p.m. ?",
     "start": 67.264,
     "end": 71.01,
@@ -168,7 +144,7 @@
     "zh_hant": "您能在下午2點來嗎？"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "That's very late.",
     "start": 71.266,
     "end": 73.707,
@@ -176,7 +152,7 @@
     "zh_hant": "那太晚了。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Can the dentist see me now?",
     "start": 74.247,
     "end": 77.069,
@@ -184,7 +160,7 @@
     "zh_hant": "牙醫現在能見我呢？"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "I'm afraid that he can't, Mr. Croft.",
     "start": 77.609,
     "end": 81.795,
@@ -192,7 +168,7 @@
     "zh_hant": "恐怕不行，克羅夫特先生。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Can't you wait till this afternoon?",
     "start": 82.036,
     "end": 85.481,
@@ -200,7 +176,7 @@
     "zh_hant": "您不能等到今天下午嗎？"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "I can wait, but my toothache can't!",
     "start": 86.483,
     "end": 90.769,

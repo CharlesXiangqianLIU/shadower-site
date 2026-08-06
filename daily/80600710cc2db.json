@@ -1,38 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 41.",
-    "start": 1.511,
-    "end": 3.421,
-    "zh": "第41课。",
-    "zh_hant": "第41課。"
+    "text": "Lesson 41",
+    "start": 1.54,
+    "end": 2.13,
+    "zh": "第41课",
+    "zh_hant": "第41課"
   },
   {
     "index": 1,
-    "text": "Illusions of pastoral",
-    "start": 3.471,
-    "end": 7.793,
-    "zh": "田园生活的",
-    "zh_hant": "田園生活的"
+    "text": "Illusions of pastoral peace",
+    "start": 2.13,
+    "end": 7.561,
+    "zh": "田园宁静的假象",
+    "zh_hant": "田園寧靜的假象"
   },
   {
     "index": 2,
-    "text": "peace.",
-    "start": 8.034,
-    "end": 10.495,
-    "zh": "幻想。",
-    "zh_hant": "幻想。"
+    "text": "What particular anxiety spoils the country dweller's visit to the theatre?",
+    "start": 7.561,
+    "end": 16.762,
+    "zh": "乡下人进城看戏时,心里到底在担心什么特别的事?",
+    "zh_hant": "鄉下人進城看戲時,心裡到底在擔心什麼特別的事?"
   },
   {
     "index": 3,
-    "text": "What particular anxiety spoils the country dweller's visit to the theatre?",
-    "start": 12.956,
-    "end": 17.978,
-    "zh": "是什么特别的焦虑破坏了乡村居民去剧院看戏的兴致？",
-    "zh_hant": "是什麼特別的焦慮破壞了鄉村居民去劇院看戲的興致？"
-  },
-  {
-    "index": 4,
     "text": "The quiet life of the country has never appealed to me.",
     "start": 20.26,
     "end": 24.001,
@@ -40,7 +32,7 @@
     "zh_hant": "鄉村的寧靜生活從未吸引過我。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "City born and city bred, I have always regarded the country as something you look at through a train window,",
     "start": 24.462,
     "end": 30.745,
@@ -48,7 +40,7 @@
     "zh_hant": "我生在城市，長在城市，一直把鄉村看作透過火車車窗看到的東西，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "or something you occasionally visit during the weekend.",
     "start": 30.845,
     "end": 34.266,
@@ -56,7 +48,7 @@
     "zh_hant": "或是偶爾在週末去拜訪的地方。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Most of my friends live in the city, yet they always go into raptures at the mere mention of the country.",
     "start": 34.627,
     "end": 41.07,
@@ -64,7 +56,7 @@
     "zh_hant": "我的大多數朋友都住在城裡，可他們一提起鄉村就欣喜若狂。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Though they extol the virtues of the peaceful life,",
     "start": 41.39,
     "end": 44.812,
@@ -72,7 +64,7 @@
     "zh_hant": "儘管他們讚美寧靜生活的種種優點，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "only one of them has ever gone to live in the country and he was back in town within six months.",
     "start": 44.952,
     "end": 51.015,
@@ -80,7 +72,7 @@
     "zh_hant": "但只有一個人真正去鄉村住過，而且不到六個月就回到了城裡。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Even he still lives under the illusion that country life is somehow superior to town life.",
     "start": 51.315,
     "end": 57.018,
@@ -88,7 +80,7 @@
     "zh_hant": "連他仍然抱著一種錯覺，以為鄉村生活不知怎地比城市生活優越。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "He is forever talking about the friendly people, the clean atmosphere,",
     "start": 57.198,
     "end": 62.22,
@@ -96,7 +88,7 @@
     "zh_hant": "他總是不停地談論友善的人們、清新的空氣、"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "the closeness to nature and the gentle pace of living.",
     "start": 62.301,
     "end": 66.362,
@@ -104,7 +96,7 @@
     "zh_hant": "貼近自然和悠閒的生活節奏。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Nothing can be compared, he maintains, with the first cockcrow,",
     "start": 66.923,
     "end": 71.065,
@@ -112,7 +104,7 @@
     "zh_hant": "他堅持說，沒有什麼能比得上第一聲雞鳴、"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "the twittering of birds at dawn, the sight of the rising sun",
     "start": 72.005,
     "end": 76.788,
@@ -120,7 +112,7 @@
     "zh_hant": "黎明時小鳥的啁啾、以及朝陽"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "glinting on the trees and pastures.",
     "start": 76.728,
     "end": 79.109,
@@ -128,7 +120,7 @@
     "zh_hant": "在樹林和草地上閃耀的景象。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "This idyllic pastoral scene is only part of the picture.",
     "start": 79.789,
     "end": 83.892,
@@ -136,7 +128,7 @@
     "zh_hant": "這種田園詩般的景象只是畫面的一部分。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "My friend fails to mention the long and friendless",
     "start": 84.432,
     "end": 88.234,
@@ -144,7 +136,7 @@
     "zh_hant": "我的朋友沒有提到漫長而孤獨的"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "winter evenings in front of the TV--virtually",
     "start": 87.884,
     "end": 91.395,
@@ -152,7 +144,7 @@
     "zh_hant": "冬夜坐在電視機前——實際上"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "the only form of entertainment.",
     "start": 91.155,
     "end": 93.316,
@@ -160,7 +152,7 @@
     "zh_hant": "這是唯一的娛樂形式。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "He says nothing about the poor selection of goods in the shops,",
     "start": 93.737,
     "end": 97.418,
@@ -168,7 +160,7 @@
     "zh_hant": "他對商店裡商品選擇匱乏隻字不提，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "or about those unfortunate people who have to travel from the country to the city every day to get to work.",
     "start": 97.659,
     "end": 104.102,
@@ -176,7 +168,7 @@
     "zh_hant": "也閉口不談那些每天不得不從鄉村趕往城市上班的不幸之人。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Why people are prepared to tolerate a four-hour journey each day",
     "start": 104.842,
     "end": 109.164,
@@ -184,7 +176,7 @@
     "zh_hant": "為什麼人們願意每天忍受四小時的旅程"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "for the dubious privilege of living in the country is beyond me.",
     "start": 109.105,
     "end": 113.086,
@@ -192,7 +184,7 @@
     "zh_hant": "去換取住在鄉村這個可疑的特權，我實在無法理解。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "They could be saved so much misery and expense if they chose to live in the city where they rightly belong.",
     "start": 113.647,
     "end": 120.07,
@@ -200,7 +192,7 @@
     "zh_hant": "如果他們選擇住在理應屬於他們的城市，本可以避免多少痛苦和開銷啊。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "If you can do without the few pastoral pleasures of the country,",
     "start": 120.991,
     "end": 124.552,
@@ -208,7 +200,7 @@
     "zh_hant": "如果你能捨棄鄉村那寥寥無幾的田園樂趣，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "you will find the city can provide you with the best that life can offer.",
     "start": 124.732,
     "end": 128.714,
@@ -216,7 +208,7 @@
     "zh_hant": "你會發現城市能提供給你生活中最好的一切。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "You never have to travel miles to see your friends.",
     "start": 129.094,
     "end": 132.076,
@@ -224,7 +216,7 @@
     "zh_hant": "你永遠不必跑幾英里路去見朋友。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "They invariably live nearby and are always available",
     "start": 132.196,
     "end": 136.278,
@@ -232,7 +224,7 @@
     "zh_hant": "他們總是住在附近，隨時可以"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "for an informal chat or an evening's entertainment.",
     "start": 136.078,
     "end": 139.519,
@@ -240,7 +232,7 @@
     "zh_hant": "隨意聊天或共度一個晚上的娛樂時光。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "Some of my acquaintances in the country come up to town",
     "start": 140.08,
     "end": 143.561,
@@ -248,7 +240,7 @@
     "zh_hant": "我在鄉下的一些熟人進城來"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "once or twice a year to visit the theatre as a special treat.",
     "start": 143.241,
     "end": 147.183,
@@ -256,7 +248,7 @@
     "zh_hant": "每年一兩次，把看戲當作一種特別的享受。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "For them this is a major operation which involves considerable planning.",
     "start": 147.403,
     "end": 152.586,
@@ -264,7 +256,7 @@
     "zh_hant": "對他們來說，這是一項大事，需要精心安排。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "As the play draws to its close, they wonder whether they will ever catch that last train home.",
     "start": 153.146,
     "end": 159.149,
@@ -272,7 +264,7 @@
     "zh_hant": "當演出接近尾聲，他們就開始擔心能否趕上最後一班回家的火車。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "The city dweller never experiences anxieties of this sort.",
     "start": 159.609,
     "end": 163.472,
@@ -280,7 +272,7 @@
     "zh_hant": "城裡人從不會有這種焦慮。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "The latest exhibitions, films, or plays are only a short bus ride away.",
     "start": 163.792,
     "end": 169.134,
@@ -288,7 +280,7 @@
     "zh_hant": "最新的展覽、電影或戲劇只需坐一小段公交車就能到。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Shopping, too, is always a pleasure.",
     "start": 169.535,
     "end": 171.876,
@@ -296,7 +288,7 @@
     "zh_hant": "購物也總是一種樂趣。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "There is so much variety that you never have to make do with second best.",
     "start": 172.396,
     "end": 177.098,
@@ -304,7 +296,7 @@
     "zh_hant": "選擇如此豐富，你永遠不必將就次選。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "Country people run wild when they go shopping in the city and stagger",
     "start": 177.339,
     "end": 181.901,
@@ -312,7 +304,7 @@
     "zh_hant": "鄉下人進城購物時興奮得發狂，搖搖晃晃地"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "home loaded with as many of the exotic items as they can carry.",
     "start": 181.551,
     "end": 185.702,
@@ -320,7 +312,7 @@
     "zh_hant": "滿載著他們能扛得動的各種新奇商品回家。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "Nor is the city without its moments of beauty.",
     "start": 185.983,
     "end": 188.504,
@@ -328,7 +320,7 @@
     "zh_hant": "城市也並非沒有美的時刻。"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "There is something comforting about the warm glow shed by advertisements on cold wet winter nights.",
     "start": 188.724,
     "end": 194.947,
@@ -336,7 +328,7 @@
     "zh_hant": "在寒冷潮溼的冬夜，廣告牌散發的溫暖光芒帶來某種慰藉。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "Few things could be more impressive than the peace that descends on deserted city streets at weekends",
     "start": 195.347,
     "end": 201.552,
@@ -344,7 +336,7 @@
     "zh_hant": "週末空蕩蕩的城市街道上所降臨的寧靜，幾乎沒有什麼比這更令人印象深刻。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "when the thousands that travel to work every day are tucked away in their homes in the country.",
     "start": 201.712,
     "end": 207.078,
@@ -352,7 +344,7 @@
     "zh_hant": "那時成千上萬每天上班的人都蜷縮在鄉下的家裡。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "It has always been a mystery to me why city dwellers, who appreciate all these things,",
     "start": 207.579,
     "end": 213.345,
@@ -360,7 +352,7 @@
     "zh_hant": "我一直不明白為什麼城裡人，明明欣賞這一切，"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "obstinately pretend that they would prefer to live in the country.",
     "start": 213.485,
     "end": 217.87,

@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 14.",
-    "start": 5.153,
-    "end": 4.23,
-    "zh": "第十四课。",
-    "zh_hant": "第十四課。"
+    "text": "Lesson 14 A noble gangster How did Hawkwood make money in times of peace?",
+    "start": 5.151,
+    "end": 13.552,
+    "zh": "第14课 一个高贵的强盗 霍克伍德在和平时期是如何赚钱的？",
+    "zh_hant": "第14課 一個高貴的強盜 霍克伍德在和平時期是如何賺錢的？"
   },
   {
     "index": 1,
-    "text": "A noble gangster.",
-    "start": 5.493,
-    "end": 8.794,
-    "zh": "一个高贵的匪徒。",
-    "zh_hant": "一個高貴的匪徒。"
-  },
-  {
-    "index": 2,
-    "text": "How did Hawkwood make money in times of peace?",
-    "start": 9.755,
-    "end": 13.557,
-    "zh": "霍克伍德在和平时期是如何赚钱的？",
-    "zh_hant": "霍克伍德在和平時期是如何賺錢的？"
-  },
-  {
-    "index": 3,
     "text": "There was a time when the owners of shops and businesses in Chicago",
     "start": 15.218,
     "end": 19.66,
@@ -32,7 +16,7 @@
     "zh_hant": "曾有一個時期，芝加哥的店主和商人們"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "had to pay large sums of money to gangsters",
     "start": 19.74,
     "end": 23.321,
@@ -40,7 +24,7 @@
     "zh_hant": "不得不向匪徒支付大筆錢"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "in return for 'protection'.",
     "start": 23.242,
     "end": 26.083,
@@ -48,7 +32,7 @@
     "zh_hant": "以換取“保護”。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "If the money was not paid promptly,",
     "start": 26.263,
     "end": 28.844,
@@ -56,7 +40,7 @@
     "zh_hant": "如果錢不及時支付，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "the gangsters would quickly put a man out of business by destroying his shop.",
     "start": 28.804,
     "end": 34.587,
@@ -64,7 +48,7 @@
     "zh_hant": "匪徒們會迅速毀掉一個人的商店，使其破產。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Obtaining 'protection money' is not a modern crime.",
     "start": 35.408,
     "end": 39.409,
@@ -72,7 +56,7 @@
     "zh_hant": "獲取“保護費”並非現代犯罪。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "As long ago as the fourteenth century,",
     "start": 39.65,
     "end": 42.692,
@@ -80,7 +64,7 @@
     "zh_hant": "早在14世紀時，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "an Englishman, Sir John Hawkwood,",
     "start": 42.692,
     "end": 45.933,
@@ -88,7 +72,7 @@
     "zh_hant": "英國人約翰·霍克伍德爵士"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "made the remarkable discovery that people would rather pay",
     "start": 45.913,
     "end": 50.515,
@@ -96,7 +80,7 @@
     "zh_hant": "做出了一個驚人的發現：人們寧願支付"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "large sums of money than have their life work destroyed by gangsters.",
     "start": 50.476,
     "end": 55.658,
@@ -104,7 +88,7 @@
     "zh_hant": "大筆錢，也不願畢生的事業被匪徒毀掉。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Six hundred years ago,",
     "start": 56.519,
     "end": 58.299,
@@ -112,7 +96,7 @@
     "zh_hant": "600年前，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Sir John Hawkwood arrived in Italy with a band of soldiers",
     "start": 58.46,
     "end": 63.242,
@@ -120,7 +104,7 @@
     "zh_hant": "約翰·霍克伍德爵士帶著一隊士兵抵達義大利，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "and settled near Florence.",
     "start": 63.142,
     "end": 65.203,
@@ -128,7 +112,7 @@
     "zh_hant": "並在佛羅倫薩附近定居。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "He soon made a name for himself",
     "start": 65.283,
     "end": 67.684,
@@ -136,7 +120,7 @@
     "zh_hant": "他很快便名聲大噪，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "and came to be known to the Italians as Giovanni Acuto.",
     "start": 67.604,
     "end": 72.706,
@@ -144,7 +128,7 @@
     "zh_hant": "義大利人稱他為“喬瓦尼·阿庫託”。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Whenever the Italian city-states were at war with each other,",
     "start": 73.387,
     "end": 77.569,
@@ -152,7 +136,7 @@
     "zh_hant": "每當義大利城邦互相交戰之時，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Hawkwood used to hire his soldiers to princes",
     "start": 77.809,
     "end": 81.611,
@@ -160,7 +144,7 @@
     "zh_hant": "霍克伍德常把自己計程車兵租給那些"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "who were willing to pay the high price he demanded.",
     "start": 81.431,
     "end": 84.913,
@@ -168,7 +152,7 @@
     "zh_hant": "願意支付他所要高價的大公們。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "In times of peace, when business was bad,",
     "start": 85.233,
     "end": 88.414,
@@ -176,7 +160,7 @@
     "zh_hant": "在和平時期，生意不景氣時，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Hawkwood and his men would march into a city-state,",
     "start": 88.375,
     "end": 92.416,
@@ -184,7 +168,7 @@
     "zh_hant": "霍克伍德和他計程車兵就會進軍一個城邦，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and after burning down a few farms,",
     "start": 92.237,
     "end": 95.418,
@@ -192,7 +176,7 @@
     "zh_hant": "焚燬幾處農莊之後，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "would offer to go away if protection money was paid to them.",
     "start": 95.278,
     "end": 99.58,
@@ -200,7 +184,7 @@
     "zh_hant": "只要付給他們保護費，他們就會離開。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Hawkwood made large sums of money in this way.",
     "start": 100.221,
     "end": 103.782,
@@ -208,7 +192,7 @@
     "zh_hant": "霍克伍德就這樣賺了大錢。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "In spite of this, the Italians regarded him as a sort of hero.",
     "start": 104.303,
     "end": 109.405,
@@ -216,7 +200,7 @@
     "zh_hant": "儘管如此，義大利人仍把他視為某種英雄。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "When he died at the age of eighty,",
     "start": 109.825,
     "end": 112.446,
@@ -224,7 +208,7 @@
     "zh_hant": "當他八十歲去世時，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "the Florentines gave him a state funeral and had a picture painted",
     "start": 112.567,
     "end": 117.849,
@@ -232,7 +216,7 @@
     "zh_hant": "佛羅倫薩人為他舉行了國葬，並讓人畫了一幅畫像"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "which was dedicated to the memory of 'the most valiant soldier",
     "start": 117.689,
     "end": 122.598,
@@ -240,7 +224,7 @@
     "zh_hant": "這幅畫是為了紀念“最勇敢的戰士"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "and most notable leader, Signor Giovanni Haukodue'.",
     "start": 122.54,
     "end": 127.35,

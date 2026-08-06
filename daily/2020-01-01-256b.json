@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 28.",
+    "text": "Lesson 28 Patients and doctors What are patients looking for when they visit the doctor?",
     "start": 0.31,
-    "end": 2.201,
-    "zh": "第28课。",
-    "zh_hant": "第28課。"
+    "end": 12.633,
+    "zh": "第28课 病人与医生 病人看病时到底在寻求什么？",
+    "zh_hant": "第28課 病人與醫生 病人看病時到底在尋求什麼？"
   },
   {
     "index": 1,
-    "text": "Patients and doctors.",
-    "start": 2.251,
-    "end": 8.374,
-    "zh": "病人与医生。",
-    "zh_hant": "病人與醫生。"
-  },
-  {
-    "index": 2,
-    "text": "What are patients looking for when they visit the doctor?",
-    "start": 9.355,
-    "end": 12.636,
-    "zh": "病人去看医生时，他们在寻求什么？",
-    "zh_hant": "病人去看醫生時，他們在尋求什麼？"
-  },
-  {
-    "index": 3,
     "text": "This is a sceptical age,",
     "start": 14.817,
     "end": 16.958,
@@ -32,7 +16,7 @@
     "zh_hant": "這是一個充滿懷疑的時代，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "but although our faith in many of the things in which our forefathers",
     "start": 16.878,
     "end": 21.18,
@@ -40,7 +24,7 @@
     "zh_hant": "儘管我們對許多祖先"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "fervently believed has weakened,",
     "start": 20.83,
     "end": 23.441,
@@ -48,7 +32,7 @@
     "zh_hant": "曾熱切信仰的事物的信念已經減弱，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "our confidence in the curative properties of the bottle of medicine remains the same as theirs.",
     "start": 23.642,
     "end": 30.045,
@@ -56,7 +40,7 @@
     "zh_hant": "我們對藥瓶治療功效的信心卻和他們一樣保持不變。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "This modern faith in medicines is proved by the fact",
     "start": 30.525,
     "end": 34.287,
@@ -64,7 +48,7 @@
     "zh_hant": "這種對藥物的現代信仰由以下事實證明："
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "that the annual drug bill of the Health Services is mounting to astronomical figures.",
     "start": 34.147,
     "end": 40.47,
@@ -72,7 +56,7 @@
     "zh_hant": "衛生服務部門的年度藥品費用正攀升至天文數字，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and shows no signs at present of ceasing to rise.",
     "start": 40.451,
     "end": 44.332,
@@ -80,7 +64,7 @@
     "zh_hant": "目前也沒有顯示出停止增長的跡象。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "The majority of the patients",
     "start": 45.193,
     "end": 47.334,
@@ -88,7 +72,7 @@
     "zh_hant": "大多數病人"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "attending the medical out-patients departments of our hospitals",
     "start": 46.984,
     "end": 50.855,
@@ -96,7 +80,7 @@
     "zh_hant": "在我們醫院的內科門診部就診時"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "feel that they have not received adequate treatment unless they are able to carry home with them",
     "start": 50.736,
     "end": 56.198,
@@ -104,7 +88,7 @@
     "zh_hant": "覺得除非能帶回家"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "some tangible remedy in the shape of a bottle of medicine,",
     "start": 56.218,
     "end": 60.24,
@@ -112,7 +96,7 @@
     "zh_hant": "某種實實在在的藥物，如一瓶藥水，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "a box of pills, or a small jar of ointment,",
     "start": 60.22,
     "end": 64.082,
@@ -120,7 +104,7 @@
     "zh_hant": "一盒藥片或一小罐藥膏，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "and the doctor in charge of the department is only too ready to provide them with these requirements.",
     "start": 64.142,
     "end": 70.385,
@@ -128,7 +112,7 @@
     "zh_hant": "否則就認為自己沒有得到充分治療，而負責該部門的醫生非常樂意滿足這些要求。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "There is no quicker method of disposing of patients than by giving them what they are asking for,",
     "start": 70.926,
     "end": 77.028,
@@ -136,7 +120,7 @@
     "zh_hant": "沒有比給病人他們想要的東西更快打發病人的方法了，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "and since most medical men in the Health Services are overworked",
     "start": 77.269,
     "end": 81.531,
@@ -144,7 +128,7 @@
     "zh_hant": "而且由於衛生服務部門的大多數醫生工作過重，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "and have little time for offering time-consuming and little-appreciated advice",
     "start": 81.491,
     "end": 87.194,
@@ -152,7 +136,7 @@
     "zh_hant": "幾乎沒有時間提供耗時長且不受重視的建議，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "on such subjects as diet, right living, and the need for abandoning bad habits etc.,",
     "start": 86.844,
     "end": 93.217,
@@ -160,7 +144,7 @@
     "zh_hant": "如飲食、正確生活方式以及戒除壞習慣等，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "the bottle, the box, and the jar are almost always granted them.",
     "start": 93.777,
     "end": 98.379,
@@ -168,7 +152,7 @@
     "zh_hant": "所以藥瓶、藥盒和藥罐幾乎總是會給他們。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Nor is it only the ignorant and ill-educated person who has such faith in the bottle of medicine.",
     "start": 98.94,
     "end": 105.403,
@@ -176,7 +160,7 @@
     "zh_hant": "並非只有無知和未受教育的人才如此相信藥瓶。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend,",
     "start": 105.743,
     "end": 111.706,
@@ -184,7 +168,7 @@
     "zh_hant": "據說托馬斯·卡萊爾聽說他的朋友"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Henry Taylor, he went off immediately to visit him,",
     "start": 111.466,
     "end": 115.828,
@@ -192,7 +176,7 @@
     "zh_hant": "亨利·泰勒生病時，立刻前去探望，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "carrying with him in his pocket what remained",
     "start": 115.928,
     "end": 119.49,
@@ -200,7 +184,7 @@
     "zh_hant": "口袋裡帶著剩下的"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's.",
     "start": 119.15,
     "end": 125.273,
@@ -208,7 +192,7 @@
     "zh_hant": "一瓶以前為卡萊爾夫人小病開的藥。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Carlyle was entirely ignorant of what the bottle in his pocket contained,",
     "start": 126.053,
     "end": 131.116,
@@ -216,7 +200,7 @@
     "zh_hant": "卡萊爾完全不知道口袋裡那瓶藥裡是什麼，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "of the nature of the illness from which his friend was suffering,",
     "start": 131.136,
     "end": 134.837,
@@ -224,7 +208,7 @@
     "zh_hant": "不知道朋友所患的是什麼病，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "and of what had previously been wrong with his wife,",
     "start": 134.998,
     "end": 138.499,
@@ -232,7 +216,7 @@
     "zh_hant": "也不知道妻子以前有什麼問題，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "but a medicine that had worked so well in one form of illness",
     "start": 138.64,
     "end": 142.621,
@@ -240,7 +224,7 @@
     "zh_hant": "但一種對某種疾病如此有效的藥"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "would surely be of equal benefit in another,",
     "start": 142.562,
     "end": 145.623,
@@ -248,7 +232,7 @@
     "zh_hant": "肯定對另一種疾病同樣有益，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "and comforted by the thought of the help he was bringing to his friend,",
     "start": 145.823,
     "end": 149.925,
@@ -256,7 +240,7 @@
     "zh_hant": "想到能給朋友帶去幫助，他感到安慰，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "he hastened to Henry Taylor's house.",
     "start": 150.085,
     "end": 153.206,
@@ -264,7 +248,7 @@
     "zh_hant": "於是匆匆趕往亨利·泰勒的家。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "History does not relate whether his friend accepted his medical help,",
     "start": 153.587,
     "end": 157.729,
@@ -272,7 +256,7 @@
     "zh_hant": "歷史沒有記載他的朋友是否接受了他的醫療幫助，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "but in all probability he did.",
     "start": 157.769,
     "end": 160.15,
@@ -280,7 +264,7 @@
     "zh_hant": "但很可能接受了。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "The great advantage of taking medicine is that it makes no demands on the taker",
     "start": 160.651,
     "end": 165.596,
@@ -288,7 +272,7 @@
     "zh_hant": "吃藥的最大好處是它對服藥者沒有要求，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "beyond that of putting up for a moment with a disgusting taste,",
     "start": 165.537,
     "end": 169.721,
@@ -296,7 +280,7 @@
     "zh_hant": "除了暫時忍受一下難聞的味道，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "and that is what all patients demand of their doctors--to",
     "start": 169.802,
     "end": 174.286,
@@ -304,7 +288,7 @@
     "zh_hant": "這正是所有病人對醫生的要求——"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "be cured at no inconvenience to themselves.",
     "start": 173.936,
     "end": 177.59,

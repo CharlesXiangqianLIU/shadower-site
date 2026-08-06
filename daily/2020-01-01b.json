@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 1.",
+    "text": "Lesson 1 Excuse me!",
     "start": 0.63,
-    "end": 2.642,
-    "zh": "第一课。",
-    "zh_hant": "第一課。"
+    "end": 4.211,
+    "zh": "第一课 打扰一下!",
+    "zh_hant": "第一課 打擾一下!"
   },
   {
     "index": 1,
-    "text": "Excuse me!",
-    "start": 2.692,
-    "end": 4.212,
-    "zh": "打扰一下！",
-    "zh_hant": "打擾一下！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 5.591,
+    "end": 10.032,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 5.594,
-    "end": 10.036,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "Whose handbag is it?",
     "start": 10.557,
     "end": 13.018,
@@ -32,7 +24,7 @@
     "zh_hant": "這是誰的手提包？"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Excuse me!",
     "start": 15.1,
     "end": 16.28,
@@ -40,7 +32,7 @@
     "zh_hant": "打擾一下！"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Yes?",
     "start": 16.601,
     "end": 17.741,
@@ -48,7 +40,7 @@
     "zh_hant": "怎麼了？"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Is this your handbag?",
     "start": 18.262,
     "end": 20.843,
@@ -56,7 +48,7 @@
     "zh_hant": "這是你的手提包嗎？"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Pardon?",
     "start": 21.364,
     "end": 22.504,
@@ -64,7 +56,7 @@
     "zh_hant": "請再說一遍？"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Is this your handbag?",
     "start": 23.185,
     "end": 26.226,
@@ -72,7 +64,7 @@
     "zh_hant": "這是你的手提包嗎？"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Yes it is.",
     "start": 26.767,
     "end": 28.748,
@@ -80,7 +72,7 @@
     "zh_hant": "是的，它是。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Thank you very much.",
     "start": 29.429,
     "end": 31.57,

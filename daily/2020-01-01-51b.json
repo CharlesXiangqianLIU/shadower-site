@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 101.",
-    "start": 0.851,
-    "end": 4.182,
-    "zh": "第101课。",
-    "zh_hant": "第101課。"
+    "text": "Lesson 101 A card from Jimmy Listen to the tape then answer this question.",
+    "start": 0.85,
+    "end": 12.012,
+    "zh": "第101课 吉米寄来的明信片 听录音,然后回答这个问题。",
+    "zh_hant": "第101課 吉米寄來的明信片 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A card from Jimmy.",
-    "start": 4.232,
-    "end": 6.253,
-    "zh": "吉米寄来的一张明信片。",
-    "zh_hant": "吉米寄來的一張明信片。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.434,
-    "end": 10.315,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.055,
-    "end": 12.016,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Does grandmother seem pleased",
     "start": 12.897,
     "end": 16.078,
@@ -40,7 +16,7 @@
     "zh_hant": "祖母收到吉米的明信片"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "to get a card from Jimmy?",
     "start": 15.778,
     "end": 18.459,
@@ -48,7 +24,7 @@
     "zh_hant": "似乎很高興嗎？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Why/Why not?",
     "start": 19.16,
     "end": 21.481,
@@ -56,7 +32,7 @@
     "zh_hant": "為什麼/為什麼不？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Read Jimmy's card to me please, Penny.",
     "start": 23.662,
     "end": 27.764,
@@ -64,7 +40,7 @@
     "zh_hant": "請給我讀一下吉米的明信片，彭妮。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "'I have just arrived",
     "start": 27.414,
     "end": 31.345,
@@ -72,7 +48,7 @@
     "zh_hant": "‘我剛到達"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "in Scotland",
     "start": 31.006,
     "end": 32.606,
@@ -80,7 +56,7 @@
     "zh_hant": "蘇格蘭’"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "and I'm staying at a Youth",
     "start": 32.646,
     "end": 35.708,
@@ -88,7 +64,7 @@
     "zh_hant": "而且我現在住在青年"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Hostel.'",
     "start": 35.388,
     "end": 37.409,
@@ -96,7 +72,7 @@
     "zh_hant": "旅舍。’"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "Eh?",
     "start": 37.149,
     "end": 37.929,
@@ -104,7 +80,7 @@
     "zh_hant": "嗯？"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "He says he's just arrived",
     "start": 38.87,
     "end": 42.391,
@@ -112,7 +88,7 @@
     "zh_hant": "他說他剛到"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "in Scotland.",
     "start": 42.072,
     "end": 43.692,
@@ -120,7 +96,7 @@
     "zh_hant": "蘇格蘭。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "He says he's staying",
     "start": 43.973,
     "end": 46.674,
@@ -128,7 +104,7 @@
     "zh_hant": "他說他現在住在"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "at a Youth Hostel.",
     "start": 46.454,
     "end": 48.935,
@@ -136,7 +112,7 @@
     "zh_hant": "青年旅舍。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "You know he's",
     "start": 49.375,
     "end": 51.376,
@@ -144,7 +120,7 @@
     "zh_hant": "你知道他是"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "a member of the Y.H.A.",
     "start": 51.056,
     "end": 54.818,
@@ -152,7 +128,7 @@
     "zh_hant": "Y.H.A.的成員。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "The what?",
     "start": 56.299,
     "end": 57.499,
@@ -160,7 +136,7 @@
     "zh_hant": "什麼協會？"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "The Y.H.A., Mum.",
     "start": 58.059,
     "end": 60.801,
@@ -168,7 +144,7 @@
     "zh_hant": "Y.H.A.，媽媽。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "The Youth Hostels Association.",
     "start": 61.281,
     "end": 64.722,
@@ -176,7 +152,7 @@
     "zh_hant": "青年旅舍協會。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "What else does he say?",
     "start": 65.823,
     "end": 68.224,
@@ -184,7 +160,7 @@
     "zh_hant": "他還說了什麼？"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "'I'll write a letter soon.",
     "start": 68.364,
     "end": 72.006,
@@ -192,7 +168,7 @@
     "zh_hant": "‘我很快就會寫信。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "I hope you are all well.'",
     "start": 72.547,
     "end": 77.008,
@@ -200,7 +176,7 @@
     "zh_hant": "希望你們都很好。’"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "What?",
     "start": 76.709,
     "end": 77.689,
@@ -208,7 +184,7 @@
     "zh_hant": "什麼？"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Speak up, Penny.",
     "start": 77.989,
     "end": 79.77,
@@ -216,7 +192,7 @@
     "zh_hant": "大聲點，彭妮。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "I'm afraid I can't hear you.",
     "start": 80.371,
     "end": 83.113,
@@ -224,7 +200,7 @@
     "zh_hant": "恐怕我聽不清你說話。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "He says he'll write a letter soon.",
     "start": 84.154,
     "end": 88.076,
@@ -232,7 +208,7 @@
     "zh_hant": "他說他很快就會寫信。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "He hopes we are all well.",
     "start": 88.377,
     "end": 91.819,
@@ -240,7 +216,7 @@
     "zh_hant": "他希望我們都很好。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "'Love, Jimmy.'",
     "start": 91.699,
     "end": 94.501,
@@ -248,7 +224,7 @@
     "zh_hant": "‘愛你們的，吉米。’"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "Is that all?",
     "start": 95.682,
     "end": 97.263,
@@ -256,7 +232,7 @@
     "zh_hant": "就這些嗎？"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "He doesn't say very much,",
     "start": 97.864,
     "end": 100.645,
@@ -264,7 +240,7 @@
     "zh_hant": "他沒寫多少內容，"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "does he?",
     "start": 100.445,
     "end": 102.947,
@@ -272,7 +248,7 @@
     "zh_hant": "是嗎？"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "can't write very much on a card, Mum.",
     "start": 102.607,
     "end": 107.07,

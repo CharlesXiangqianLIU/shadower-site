@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 29.",
+    "text": "Lesson 29 Come in, Amy.",
     "start": 0.51,
-    "end": 3.202,
-    "zh": "第二十九课。",
-    "zh_hant": "第二十九課。"
+    "end": 5.051,
+    "zh": "第29课 进来吧,艾米。",
+    "zh_hant": "第29課 進來吧,艾米。"
   },
   {
     "index": 1,
-    "text": "Come in, Amy.",
-    "start": 3.252,
-    "end": 5.052,
-    "zh": "进来，艾米。",
-    "zh_hant": "進來，艾米。"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.811,
+    "end": 11.112,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.813,
-    "end": 11.115,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "How must Amy clean the floor?",
     "start": 12.576,
     "end": 15.618,
@@ -32,7 +24,7 @@
     "zh_hant": "艾米必須怎樣打掃地板？"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Come in, Amy.",
     "start": 17.239,
     "end": 18.939,
@@ -40,7 +32,7 @@
     "zh_hant": "進來，艾米。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Shut the door, please.",
     "start": 19.88,
     "end": 21.781,
@@ -48,7 +40,7 @@
     "zh_hant": "請把門關上。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "This bedroom's very untidy.",
     "start": 22.521,
     "end": 25.803,
@@ -56,7 +48,7 @@
     "zh_hant": "這間臥室很不整潔。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "What must I do, Mrs. Jones?",
     "start": 26.803,
     "end": 29.885,
@@ -64,7 +56,7 @@
     "zh_hant": "我必須做什麼，瓊斯夫人？"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Open the window and air the room.",
     "start": 30.525,
     "end": 34.027,
@@ -72,7 +64,7 @@
     "zh_hant": "開啟窗戶，給房間通通風。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Then put these clothes in the wardrobe.",
     "start": 34.927,
     "end": 39.149,
@@ -80,7 +72,7 @@
     "zh_hant": "然後把衣服放進衣櫃裡。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Then make the bed.",
     "start": 39.69,
     "end": 41.795,
@@ -88,7 +80,7 @@
     "zh_hant": "然後整理床鋪。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Dust the dressing table.",
     "start": 42.798,
     "end": 45.342,
@@ -96,7 +88,7 @@
     "zh_hant": "擦掉梳妝檯上的灰塵。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Then sweep the floor.",
     "start": 45.865,
     "end": 48.469,

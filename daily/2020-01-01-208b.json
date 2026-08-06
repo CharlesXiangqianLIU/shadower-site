@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 40.",
-    "start": 3.572,
-    "end": 3.93,
-    "zh": "第40课。",
-    "zh_hant": "第40課。"
+    "text": "Lesson 40 Who's who How did the policeman discover that the whole thing was a joke?",
+    "start": 3.57,
+    "end": 12.432,
+    "zh": "第40课 谁是谁 警察是怎么发现这整件事只是个恶作剧的?",
+    "zh_hant": "第40課 誰是誰 警察是怎麼發現這整件事只是個惡作劇的?"
   },
   {
     "index": 1,
-    "text": "Who's who.",
-    "start": 4.953,
-    "end": 7.233,
-    "zh": "谁是谁。",
-    "zh_hant": "誰是誰。"
-  },
-  {
-    "index": 2,
-    "text": "How did the policeman discover that the whole thing was a joke?",
-    "start": 7.994,
-    "end": 12.436,
-    "zh": "警察是怎么发现整个事情是个恶作剧的？",
-    "zh_hant": "警察是怎麼發現整個事情是個惡作劇的？"
-  },
-  {
-    "index": 3,
     "text": "It has never been explained",
     "start": 14.197,
     "end": 16.338,
@@ -32,7 +16,7 @@
     "zh_hant": "從未解釋清楚"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "why university students seem to enjoy practical jokes more than anyone else.",
     "start": 16.198,
     "end": 22.461,
@@ -40,7 +24,7 @@
     "zh_hant": "為什麼大學生似乎比其他人更喜歡惡作劇。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Students specialize in a particular type of practical joke: the hoax.",
     "start": 22.721,
     "end": 28.424,
@@ -48,7 +32,7 @@
     "zh_hant": "學生們專攻一種特定型別的惡作劇：騙局。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Inviting the fire brigade to put out a nonexistent fire",
     "start": 28.764,
     "end": 32.806,
@@ -56,7 +40,7 @@
     "zh_hant": "叫消防隊來撲滅一場不存在的火"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "is a crude form of deception which no self-respecting student would ever indulde in.",
     "start": 32.886,
     "end": 39.009,
@@ -64,7 +48,7 @@
     "zh_hant": "是一種粗劣的欺騙手段，任何有自尊的學生都不會沉迷其中。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Students often create amusing situations which are funny to everyone except the victims.",
     "start": 39.51,
     "end": 46.513,
@@ -72,7 +56,7 @@
     "zh_hant": "學生們常常製造出有趣的情況，除了受害者之外，大家都覺得好笑。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "When a student recently saw two workmen using a pneumatic drill outside his university,",
     "start": 46.814,
     "end": 53.617,
@@ -80,7 +64,7 @@
     "zh_hant": "最近，一名學生看到兩個工人在他大學外面使用風鑽時，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "he immediately telephoned the police and informed them",
     "start": 53.877,
     "end": 58.159,
@@ -88,7 +72,7 @@
     "zh_hant": "他立即打電話給警察，告訴他們"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "that two students dressed up as workmen were tearing up the road with a pneumatic drill.",
     "start": 58.059,
     "end": 64.262,
@@ -96,7 +80,7 @@
     "zh_hant": "有兩個扮成工人的學生正用風鑽掀翻路面。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "As soon as he had hung up, he went over to the workmen and told",
     "start": 64.663,
     "end": 68.944,
@@ -104,7 +88,7 @@
     "zh_hant": "他一結束通話電話，就走到工人那裡，告訴"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "them that if a policeman ordered them to go away, they were not to take him seriously.",
     "start": 68.594,
     "end": 74.927,
@@ -112,7 +96,7 @@
     "zh_hant": "他們，如果警察命令他們離開，他們不必當真。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "He added that a student had dressed up as a policeman and was playing",
     "start": 75.148,
     "end": 80.651,
@@ -120,7 +104,7 @@
     "zh_hant": "他補充說，有一個學生扮成警察，正在"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "all sorts of silly jokes on people.",
     "start": 80.351,
     "end": 83.172,
@@ -128,7 +112,7 @@
     "zh_hant": "對人們開各種愚蠢的玩笑。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Both the police and the workmen were grateful to the student for this piece of advance information.",
     "start": 83.752,
     "end": 90.796,
@@ -136,7 +120,7 @@
     "zh_hant": "警察和工人都很感激這個學生提供這條事先的資訊。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "The student hid in an archway nearby where he could watch and hear everything that went on.",
     "start": 91.516,
     "end": 98.279,
@@ -144,7 +128,7 @@
     "zh_hant": "這個學生躲在附近的一個拱道里，在那裡他能看到和聽到發生的一切。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.",
     "start": 98.72,
     "end": 105.243,
@@ -152,7 +136,7 @@
     "zh_hant": "果然，一名警察到達現場，禮貌地請工人們離開。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "When he received a very rude reply from one of the workmen,",
     "start": 105.723,
     "end": 110.185,
@@ -160,7 +144,7 @@
     "zh_hant": "當他從其中一個工人那裡得到非常粗魯的回覆時，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "he threatened to remove them by force.",
     "start": 110.165,
     "end": 113.066,
@@ -168,7 +152,7 @@
     "zh_hant": "他威脅要強行趕走他們。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "The workmen told him to do as he pleased and the policeman telephoned for help.",
     "start": 113.427,
     "end": 118.629,
@@ -176,7 +160,7 @@
     "zh_hant": "工人們告訴他隨他怎麼做，警察就打電話求助。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.",
     "start": 119.13,
     "end": 125.313,
@@ -184,7 +168,7 @@
     "zh_hant": "不久之後，又來了四名警察，與工人們爭辯。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "As the men refused to stop working, the police attempted to seize the pneumatic drill.",
     "start": 125.733,
     "end": 131.996,
@@ -192,7 +176,7 @@
     "zh_hant": "由於工人們拒絕停止工作，警察試圖奪取風鑽。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "The workmen struggled fiercely and one of them lost his temper.",
     "start": 132.857,
     "end": 137.699,
@@ -200,7 +184,7 @@
     "zh_hant": "工人們激烈反抗，其中一個人發了脾氣。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "He threatened to call the police.",
     "start": 137.98,
     "end": 140.181,
@@ -208,7 +192,7 @@
     "zh_hant": "他威脅要報警。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "At this, the police pointed out ironically",
     "start": 140.721,
     "end": 144.443,
@@ -216,7 +200,7 @@
     "zh_hant": "聽到這話，警察諷刺地指出"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "that this would hardly be necessary as the men were already under arrest.",
     "start": 144.363,
     "end": 149.745,
@@ -224,7 +208,7 @@
     "zh_hant": "這幾乎沒必要，因為這些人已經被逮捕了。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Pretending to speak seriously,",
     "start": 150.286,
     "end": 152.567,
@@ -232,7 +216,7 @@
     "zh_hant": "假裝嚴肅地說著話，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "one of the workmen asked if he might make a telephone call before being taken to the station.",
     "start": 152.607,
     "end": 158.71,
@@ -240,7 +224,7 @@
     "zh_hant": "其中一個工人問，在被帶到警察局之前，他能不能打個電話。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Permission was granted and a policeman accompanied him to a pay phone.",
     "start": 159.431,
     "end": 164.477,
@@ -248,7 +232,7 @@
     "zh_hant": "得到允許後，一名警察陪他走到一個公用電話旁。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Only when he saw that the man was actually telephoning the police",
     "start": 165.058,
     "end": 169.764,
@@ -256,7 +240,7 @@
     "zh_hant": "只有當看到那人真的在給警察打電話時，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "did he realize that they had all been the victims of a hoax.",
     "start": 169.704,
     "end": 174.509,

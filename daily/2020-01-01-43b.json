@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 85 'Paris",
+    "text": "Lesson 85 'Paris in the Spring'.",
     "start": 0.55,
-    "end": 3.972,
-    "zh": "第85课《巴黎》",
-    "zh_hant": "第85課《巴黎》"
+    "end": 5.312,
+    "zh": "第85课《春天的巴黎》",
+    "zh_hant": "第85課《春天的巴黎》"
   },
   {
     "index": 1,
-    "text": "in the Spring'.",
-    "start": 3.772,
-    "end": 5.773,
-    "zh": "《春天的巴黎》",
-    "zh_hant": "《春天的巴黎》"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.352,
+    "end": 10.573,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.353,
-    "end": 10.575,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "At what time of year did Ken",
     "start": 11.716,
     "end": 14.977,
@@ -32,7 +24,7 @@
     "zh_hant": "肯是在一年中的什麼時候"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "visit Paris?",
     "start": 14.817,
     "end": 16.398,
@@ -40,7 +32,7 @@
     "zh_hant": "去巴黎的？"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Hello, Ken.",
     "start": 18.559,
     "end": 19.88,
@@ -48,7 +40,7 @@
     "zh_hant": "你好，肯。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Hi, George.",
     "start": 20.2,
     "end": 21.701,
@@ -56,7 +48,7 @@
     "zh_hant": "你好，喬治。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Have you just been to the cinema?",
     "start": 22.161,
     "end": 24.962,
@@ -64,7 +56,7 @@
     "zh_hant": "你剛去過電影院嗎？"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Yes, I have.",
     "start": 25.183,
     "end": 27.063,
@@ -72,7 +64,7 @@
     "zh_hant": "是的，我去過了。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "What's on?",
     "start": 27.544,
     "end": 28.664,
@@ -80,7 +72,7 @@
     "zh_hant": "上映什麼片子？"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "'Paris in the Spring'.",
     "start": 29.065,
     "end": 31.946,
@@ -88,7 +80,7 @@
     "zh_hant": "《春天的巴黎》。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Oh, I've already seen it.",
     "start": 31.646,
     "end": 34.387,
@@ -96,7 +88,7 @@
     "zh_hant": "哦，我已經看過這部電影了。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "I saw it on television last year.",
     "start": 35.008,
     "end": 38.269,
@@ -104,7 +96,7 @@
     "zh_hant": "我去年在電視上看的。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "It's an old film, but it's very good.",
     "start": 38.809,
     "end": 42.832,
@@ -112,7 +104,7 @@
     "zh_hant": "這是一部老片子，但非常好。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Paris is a beautiful city.",
     "start": 43.333,
     "end": 46.254,
@@ -120,7 +112,7 @@
     "zh_hant": "巴黎是一座美麗的城市。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "I've never been there.",
     "start": 46.975,
     "end": 48.716,
@@ -128,7 +120,7 @@
     "zh_hant": "我從未去過那裡。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Have you ever been there, Ken?",
     "start": 48.917,
     "end": 51.578,
@@ -136,7 +128,7 @@
     "zh_hant": "肯，你曾經去過那裡嗎？"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Yes, I have.",
     "start": 51.978,
     "end": 53.839,
@@ -144,7 +136,7 @@
     "zh_hant": "是的，我去過。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "I was there in April.",
     "start": 54.02,
     "end": 56.241,
@@ -152,7 +144,7 @@
     "zh_hant": "我去年四月在那裡。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Paris in the spring, eh?",
     "start": 57.262,
     "end": 59.923,
@@ -160,7 +152,7 @@
     "zh_hant": "春天的巴黎，是嗎？"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "It was spring, but the weather was awful.",
     "start": 60.444,
     "end": 64.606,
@@ -168,7 +160,7 @@
     "zh_hant": "當時是春天，但天氣很糟糕。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "It rained all the time.",
     "start": 64.647,
     "end": 67.328,
@@ -176,7 +168,7 @@
     "zh_hant": "一直在下雨。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Just like London!",
     "start": 67.949,
     "end": 70.13,

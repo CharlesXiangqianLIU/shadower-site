@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 39.",
+    "text": "Lesson 39 Don't drop it!",
     "start": 0.77,
-    "end": 3.062,
-    "zh": "第39课。",
-    "zh_hant": "第39課。"
+    "end": 4.932,
+    "zh": "第39课 别把它摔了!",
+    "zh_hant": "第39課 別把它摔了!"
   },
   {
     "index": 1,
-    "text": "Don't drop it!",
-    "start": 3.112,
-    "end": 4.912,
-    "zh": "别摔了它！",
-    "zh_hant": "別摔了它！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.252,
+    "end": 10.814,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.253,
-    "end": 9.134,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 8.915,
-    "end": 10.815,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Where does Sam put the vase in the end?",
     "start": 12.436,
     "end": 16.598,
@@ -40,7 +24,7 @@
     "zh_hant": "山姆最後把花瓶放在哪裡了？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "What are you going to do with that vase,",
     "start": 18.439,
     "end": 22.521,
@@ -48,7 +32,7 @@
     "zh_hant": "你打算怎麼處理那個花瓶，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Penny?",
     "start": 22.261,
     "end": 23.101,
@@ -56,7 +40,7 @@
     "zh_hant": "彭妮？"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "I'm going to put it on this table, Sam.",
     "start": 24.142,
     "end": 28.124,
@@ -64,7 +48,7 @@
     "zh_hant": "我打算把它放在這張桌子上，山姆。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Don't do that.",
     "start": 29.065,
     "end": 30.765,
@@ -72,7 +56,7 @@
     "zh_hant": "別那樣做。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Give it to me.",
     "start": 31.346,
     "end": 32.886,
@@ -80,7 +64,7 @@
     "zh_hant": "把它給我。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "What are you going to do with it?",
     "start": 33.647,
     "end": 36.548,
@@ -88,7 +72,7 @@
     "zh_hant": "你打算怎麼處理它？"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "I'm going to put it here,",
     "start": 37.469,
     "end": 40.05,
@@ -96,7 +80,7 @@
     "zh_hant": "我打算把它放在這裡，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "in front of the window.",
     "start": 40.411,
     "end": 42.573,
@@ -104,7 +88,7 @@
     "zh_hant": "在窗戶前面。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Be careful!",
     "start": 42.933,
     "end": 44.594,
@@ -112,7 +96,7 @@
     "zh_hant": "小心！"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Don't drop it!",
     "start": 44.715,
     "end": 46.436,
@@ -120,7 +104,7 @@
     "zh_hant": "別摔了它！"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Don't put it there, Sam.",
     "start": 47.317,
     "end": 50.019,
@@ -128,7 +112,7 @@
     "zh_hant": "別把它放在那裡，山姆。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Put it here, on this shelf.",
     "start": 50.22,
     "end": 53.482,
@@ -136,7 +120,7 @@
     "zh_hant": "把它放在這裡，這個架子上。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "There we are!",
     "start": 54.703,
     "end": 56.344,
@@ -144,7 +128,7 @@
     "zh_hant": "就這樣！"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "It's a lovely vase.",
     "start": 56.705,
     "end": 58.786,
@@ -152,7 +136,7 @@
     "zh_hant": "這是個漂亮的花瓶。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Those flowers are lovely, too.",
     "start": 59.467,
     "end": 62.75,

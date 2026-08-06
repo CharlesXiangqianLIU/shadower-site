@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 51.",
+    "text": "Lesson 51 A pleasant climate Listen to the tape then answer this question.",
     "start": 0.49,
-    "end": 3.062,
-    "zh": "第51课。",
-    "zh_hant": "第51課。"
+    "end": 10.912,
+    "zh": "第51课 宜人的气候 听录音，然后回答问题。",
+    "zh_hant": "第51課 宜人的氣候 聽錄音，然後回答問題。"
   },
   {
     "index": 1,
-    "text": "A pleasant climate.",
-    "start": 3.112,
-    "end": 5.172,
-    "zh": "宜人的气候。",
-    "zh_hant": "宜人的氣候。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.173,
-    "end": 9.154,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 8.934,
-    "end": 10.935,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Does it ever snow in Greece?",
     "start": 11.856,
     "end": 15.277,
@@ -40,7 +16,7 @@
     "zh_hant": "希臘下過雪嗎？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Where do you come from?",
     "start": 16.998,
     "end": 19.219,
@@ -48,7 +24,7 @@
     "zh_hant": "你來自哪裡？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "I come from Greece.",
     "start": 20.12,
     "end": 22.261,
@@ -56,7 +32,7 @@
     "zh_hant": "我來自希臘。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "What's the climate like in your country?",
     "start": 22.921,
     "end": 26.303,
@@ -64,7 +40,7 @@
     "zh_hant": "你們國家的氣候怎麼樣？"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "It's very pleasant.",
     "start": 27.284,
     "end": 29.564,
@@ -72,7 +48,7 @@
     "zh_hant": "非常宜人。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "What's the weather like in spring?",
     "start": 30.305,
     "end": 33.186,
@@ -80,7 +56,7 @@
     "zh_hant": "春天的天氣怎麼樣？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "It's often windy in March.",
     "start": 34.267,
     "end": 37.288,
@@ -88,7 +64,7 @@
     "zh_hant": "三月經常颳風。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "It's always warm in April and May,",
     "start": 37.749,
     "end": 41.751,
@@ -96,7 +72,7 @@
     "zh_hant": "四月和五月總是很暖和，"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "but it rains sometimes.",
     "start": 42.312,
     "end": 44.652,
@@ -104,7 +80,7 @@
     "zh_hant": "但有時會下雨。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "What's it like in summer?",
     "start": 45.473,
     "end": 47.994,
@@ -112,7 +88,7 @@
     "zh_hant": "夏天怎麼樣？"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "It's always hot in June,",
     "start": 48.995,
     "end": 51.936,
@@ -120,7 +96,7 @@
     "zh_hant": "六月總是很熱，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "July and August.",
     "start": 51.716,
     "end": 53.937,
@@ -128,7 +104,7 @@
     "zh_hant": "七月和八月。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "The sun shines every day.",
     "start": 54.678,
     "end": 57.519,
@@ -136,7 +112,7 @@
     "zh_hant": "每天陽光明媚。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Is it cold or warm in autumn?",
     "start": 58.139,
     "end": 62.641,
@@ -144,7 +120,7 @@
     "zh_hant": "秋天是冷還是暖和？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "It's always warm in September and October.",
     "start": 62.291,
     "end": 66.563,
@@ -152,7 +128,7 @@
     "zh_hant": "九月和十月總是很暖和。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "It's often cold in November",
     "start": 67.064,
     "end": 70.205,
@@ -160,7 +136,7 @@
     "zh_hant": "十一月經常很冷，"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "and it rains sometimes.",
     "start": 70.405,
     "end": 73.046,
@@ -168,7 +144,7 @@
     "zh_hant": "而且有時會下雨。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "Is it very cold in winter?",
     "start": 73.507,
     "end": 76.288,
@@ -176,7 +152,7 @@
     "zh_hant": "冬天很冷嗎？"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "It's often cold in December,",
     "start": 77.229,
     "end": 80.25,
@@ -184,7 +160,7 @@
     "zh_hant": "十二月經常很冷，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "January and February.",
     "start": 80.354,
     "end": 82.901,
@@ -192,7 +168,7 @@
     "zh_hant": "一月和二月。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "It snows sometimes.",
     "start": 83.284,
     "end": 85.35,

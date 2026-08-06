@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 115.",
+    "text": "Lesson 115 Knock, knock!",
     "start": 0.61,
-    "end": 4.122,
-    "zh": "第115课。",
-    "zh_hant": "第115課。"
+    "end": 5.791,
+    "zh": "第115课 敲敲门!",
+    "zh_hant": "第115課 敲敲門!"
   },
   {
     "index": 1,
-    "text": "Knock, knock!",
-    "start": 4.172,
-    "end": 5.793,
-    "zh": "咚咚咚！",
-    "zh_hant": "咚咚咚！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.992,
+    "end": 11.613,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.994,
-    "end": 9.895,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.695,
-    "end": 11.616,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What does Jim have to drink?",
     "start": 12.757,
     "end": 15.818,
@@ -40,7 +24,7 @@
     "zh_hant": "吉姆有什麼喝的呢？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Isn't there anyone at home?",
     "start": 18.019,
     "end": 20.76,
@@ -48,7 +32,7 @@
     "zh_hant": "家裡難道沒人嗎？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "I'll knock again, Helen.",
     "start": 21.681,
     "end": 23.882,
@@ -56,7 +40,7 @@
     "zh_hant": "海倫，我再敲一次門。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Everything's very quiet.",
     "start": 24.562,
     "end": 27.023,
@@ -64,7 +48,7 @@
     "zh_hant": "一切都非常安靜。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "I'm sure there's no one at home.",
     "start": 27.724,
     "end": 30.785,
@@ -72,7 +56,7 @@
     "zh_hant": "我肯定家裡沒人。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "But that's impossible.",
     "start": 30.806,
     "end": 33.167,
@@ -80,7 +64,7 @@
     "zh_hant": "但那不可能。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Carol and Tom invited us to lunch.",
     "start": 33.547,
     "end": 37.469,
@@ -88,7 +72,7 @@
     "zh_hant": "卡羅爾和湯姆邀請我們來吃午飯。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Look through the window.",
     "start": 37.749,
     "end": 39.67,
@@ -96,7 +80,7 @@
     "zh_hant": "從窗戶往裡看。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Can you see anything?",
     "start": 40.631,
     "end": 42.711,
@@ -104,7 +88,7 @@
     "zh_hant": "你能看到什麼嗎？"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Nothing at all.",
     "start": 43.692,
     "end": 45.293,
@@ -112,7 +96,7 @@
     "zh_hant": "什麼都看不到。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Let's try the back door.",
     "start": 45.773,
     "end": 48.394,
@@ -120,7 +104,7 @@
     "zh_hant": "我們試試後門吧。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Look!",
     "start": 49.255,
     "end": 50.115,
@@ -128,7 +112,7 @@
     "zh_hant": "看！"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Everyone's in the garden.",
     "start": 50.515,
     "end": 52.836,
@@ -136,7 +120,7 @@
     "zh_hant": "大家都在花園裡。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Hello, Helen.",
     "start": 53.177,
     "end": 54.917,
@@ -144,7 +128,7 @@
     "zh_hant": "你好，海倫。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Hello, Jim.",
     "start": 55.098,
     "end": 56.718,
@@ -152,7 +136,7 @@
     "zh_hant": "你好，吉姆。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Everybody wants to have lunch in the garden.",
     "start": 57.319,
     "end": 61.04,
@@ -160,7 +144,7 @@
     "zh_hant": "大家都想在花園裡吃午飯。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "It's nice and warm out here.",
     "start": 61.321,
     "end": 64.162,
@@ -168,7 +152,7 @@
     "zh_hant": "這裡又暖和又舒服。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Come and have something to drink.",
     "start": 64.863,
     "end": 67.764,
@@ -176,7 +160,7 @@
     "zh_hant": "來喝點什麼吧。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Thanks, Carol.",
     "start": 68.664,
     "end": 70.185,
@@ -184,7 +168,7 @@
     "zh_hant": "謝謝，卡羅爾。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "May I have a glass of beer please?",
     "start": 70.725,
     "end": 74.267,
@@ -192,7 +176,7 @@
     "zh_hant": "請給我一杯啤酒好嗎？"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Beer?",
     "start": 74.487,
     "end": 75.387,
@@ -200,7 +184,7 @@
     "zh_hant": "啤酒？"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "There's none left.",
     "start": 75.728,
     "end": 77.669,
@@ -208,7 +192,7 @@
     "zh_hant": "沒有了。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "You can have some lemonade.",
     "start": 77.849,
     "end": 80.61,
@@ -216,7 +200,7 @@
     "zh_hant": "你可以喝點檸檬水。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Lemonade!",
     "start": 81.114,
     "end": 82.517,
@@ -224,7 +208,7 @@
     "zh_hant": "檸檬水！"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Don't believe her, Jim.",
     "start": 82.578,
     "end": 84.742,
@@ -232,7 +216,7 @@
     "zh_hant": "吉姆，別信她。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "She's only joking.",
     "start": 84.683,
     "end": 86.526,
@@ -240,7 +224,7 @@
     "zh_hant": "她只是在開玩笑。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Have some beer!",
     "start": 86.567,
     "end": 88.029,

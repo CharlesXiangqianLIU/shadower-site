@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 32.",
-    "start": 5.553,
-    "end": 4.63,
-    "zh": "第32课。",
-    "zh_hant": "第32課。"
+    "text": "Lesson 32 Galileo reborn What has modified our traditional view of Galileo in recent times?",
+    "start": 5.552,
+    "end": 15.495,
+    "zh": "第32课 伽利略的新生：近来是什么改变了我们对伽利略的传统看法？",
+    "zh_hant": "第32課 伽利略的新生：近來是什麼改變了我們對伽利略的傳統看法？"
   },
   {
     "index": 1,
-    "text": "Galileo reborn.",
-    "start": 5.933,
-    "end": 9.134,
-    "zh": "伽利略的重生。",
-    "zh_hant": "伽利略的重生。"
-  },
-  {
-    "index": 2,
-    "text": "What has modified our traditional view of Galileo in recent times?",
-    "start": 9.995,
-    "end": 15.497,
-    "zh": "近代以来，是什么改变了我我们对伽利略的传统看法？",
-    "zh_hant": "近代以來，是什麼改變了我我們對伽利略的傳統看法？"
-  },
-  {
-    "index": 3,
     "text": "In his own lifetime Galileo was the centre of violent controversy,",
     "start": 17.759,
     "end": 23.261,
@@ -32,7 +16,7 @@
     "zh_hant": "在他有生之年，伽利略是激烈爭論的中心，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "but the scientific dust has long since settled,",
     "start": 23.462,
     "end": 26.863,
@@ -40,7 +24,7 @@
     "zh_hant": "但科學的塵埃早已落定，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "and today we can see even his famous clash with the Inquisition",
     "start": 26.823,
     "end": 31.505,
@@ -48,7 +32,7 @@
     "zh_hant": "如今我們能以近乎恰當的角度看待他同宗教法庭的著名衝突。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "in something like its proper perspective.",
     "start": 31.505,
     "end": 34.187,
@@ -56,7 +40,7 @@
     "zh_hant": "如今我們能以近乎恰當的視角看待這一衝突。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "But, in contrast,",
     "start": 34.347,
     "end": 35.847,
@@ -64,7 +48,7 @@
     "zh_hant": "但相比之下，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "it is only in modern times that Galileo has become a problem child",
     "start": 35.848,
     "end": 41.571,
@@ -72,7 +56,7 @@
     "zh_hant": "伽利略成為科學史家眼中的問題兒童，只是近代的事。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "for historians of science.",
     "start": 41.221,
     "end": 43.452,
@@ -80,7 +64,7 @@
     "zh_hant": "伽利略成為科學史家的問題人物，僅是近代的事。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "The old view of Galileo was delightfully uncomplicated.",
     "start": 44.012,
     "end": 48.374,
@@ -88,7 +72,7 @@
     "zh_hant": "舊時對伽利略的看法簡單明瞭，令人愉快。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "He was, above all, a man who experimented:",
     "start": 48.554,
     "end": 52.676,
@@ -96,7 +80,7 @@
     "zh_hant": "他首先是個實驗者："
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "who despised the prejudice and book learning of the Aristotelians,",
     "start": 52.656,
     "end": 57.338,
@@ -104,7 +88,7 @@
     "zh_hant": "他鄙視亞里士多德學派的偏見和書本知識，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "who put his questions to nature instead of to the ancients,",
     "start": 57.379,
     "end": 61.38,
@@ -112,7 +96,7 @@
     "zh_hant": "他向大自然提問，而非向古人請教，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "and who drew his conclusions fearlessly.",
     "start": 61.521,
     "end": 64.922,
@@ -120,7 +104,7 @@
     "zh_hant": "他無畏地得出結論。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "He had been the first to turn a telescope to the sky,",
     "start": 65.563,
     "end": 69.124,
@@ -128,7 +112,7 @@
     "zh_hant": "他是第一個把望遠鏡轉向天空的人，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "and he had seen there evidence enough to overthrow Aristotle and Ptolemy together.",
     "start": 69.324,
     "end": 75.447,
@@ -136,7 +120,7 @@
     "zh_hant": "他在那裡看到了足以推翻亞里士多德和托勒密的證據。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "He was the man who climbed the Leaning Tower of Pisa",
     "start": 75.928,
     "end": 79.489,
@@ -144,7 +128,7 @@
     "zh_hant": "他爬上比薩斜塔，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "and dropped various weights from the top, who rolled balls down inclined planes,",
     "start": 79.629,
     "end": 85.793,
@@ -152,7 +136,7 @@
     "zh_hant": "從塔頂丟下各種重物，把球滾下斜面，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and then generalized the results of his many experiments",
     "start": 85.793,
     "end": 89.715,
@@ -160,7 +144,7 @@
     "zh_hant": "然後總結他的多次實驗的結果，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "into the famous law of free fall.",
     "start": 89.655,
     "end": 92.476,
@@ -168,7 +152,7 @@
     "zh_hant": "得出了著名的自由落體定律。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "But a closer study of the evidence,",
     "start": 93.797,
     "end": 96.178,
@@ -176,7 +160,7 @@
     "zh_hant": "但對證據的更仔細研究，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "supported by a deeper sense of the period,",
     "start": 95.998,
     "end": 98.559,
@@ -184,7 +168,7 @@
     "zh_hant": "得到了對那個時代更深刻理解的支援，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and particularly by a new consciousness of the philosophical undercurrents",
     "start": 98.579,
     "end": 103.521,
@@ -192,7 +176,7 @@
     "zh_hant": "尤其是對科學革命中哲學暗流的新認識的支援，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "in the scientific revolution,",
     "start": 103.502,
     "end": 105.622,
@@ -200,7 +184,7 @@
     "zh_hant": "科學革命中的哲學暗流，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "has profoundly modified this view of Galileo.",
     "start": 105.663,
     "end": 108.984,
@@ -208,7 +192,7 @@
     "zh_hant": "深刻改變了我們對伽利略的看法。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Today, although the old Galileo lives on in many popular writings,",
     "start": 109.785,
     "end": 114.947,
@@ -216,7 +200,7 @@
     "zh_hant": "今天，雖然舊的伽利略形象在許多通俗讀物中依然存在，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "among historians of science a new and more sophisticated picture has emerged.",
     "start": 115.007,
     "end": 121.15,
@@ -224,7 +208,7 @@
     "zh_hant": "但在科學史家中，一種更復雜、更精緻的新形象已經出現。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "At the same time our sympathy for Galileo's opponents has grown somewhat.",
     "start": 121.391,
     "end": 125.953,
@@ -232,7 +216,7 @@
     "zh_hant": "同時，我們對伽利略的反對者的同情也有所增加。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "His telescopic observations are justly immortal;",
     "start": 126.313,
     "end": 130.295,
@@ -240,7 +224,7 @@
     "zh_hant": "他的望遠鏡觀測公正地流芳百世；"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "they aroused great interest at the time, they had important theoretical consequences,",
     "start": 130.375,
     "end": 136.218,
@@ -248,7 +232,7 @@
     "zh_hant": "這些觀測在當時引起了極大興趣，有著重要的理論後果，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "and they provided a striking demonstration of the potentialities",
     "start": 136.278,
     "end": 141.14,
@@ -256,7 +240,7 @@
     "zh_hant": "並且有力地展示了工具和儀器中所蘊含的潛力。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "hidden in instruments and apparatus.",
     "start": 141.061,
     "end": 144.082,
@@ -264,7 +248,7 @@
     "zh_hant": "工具和儀器中隱藏的潛力。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "But can we blame those who looked and failed to see what Galileo saw,",
     "start": 144.522,
     "end": 149.785,
@@ -272,7 +256,7 @@
     "zh_hant": "但我們能責怪那些看了卻沒看到伽利略所看到的東西的人嗎，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "if we remember that to use a telescope at the limit of its powers",
     "start": 150.005,
     "end": 154.447,
@@ -280,7 +264,7 @@
     "zh_hant": "如果我們記得，在望遠鏡極限狀態下使用它，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "calls for long experience and intimate familiarity with one's instrument?",
     "start": 154.487,
     "end": 159.93,
@@ -288,7 +272,7 @@
     "zh_hant": "需要長期的經驗和對儀器的熟悉瞭解呢？"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "Was the philosopher who refused to look through Galileo's telescope",
     "start": 160.471,
     "end": 164.933,
@@ -296,7 +280,7 @@
     "zh_hant": "那個拒絕用伽利略望遠鏡觀察的哲學家，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "more culpable than those who alleged",
     "start": 164.993,
     "end": 167.894,
@@ -304,7 +288,7 @@
     "zh_hant": "是否比那些聲稱羅斯勳爵的望遠鏡觀測到的螺旋星雲是磨鏡工留下的劃痕的人更有罪？"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "that the spiral nebulae observed with Lord Rosse's",
     "start": 167.544,
     "end": 171.716,
@@ -312,7 +296,7 @@
     "zh_hant": "羅斯勳爵的大望遠鏡在19世紀40年代觀測到的螺旋星雲是劃痕，"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "great telescope in the 1840s were scratches",
     "start": 171.366,
     "end": 175.478,
@@ -320,7 +304,7 @@
     "zh_hant": "羅斯勳爵的大望遠鏡在19世紀40年代觀測到的，"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "left by the grinder?",
     "start": 175.218,
     "end": 176.838,
@@ -328,7 +312,7 @@
     "zh_hant": "是磨鏡工留下的劃痕？"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass",
     "start": 177.219,
     "end": 183.402,
@@ -336,7 +320,7 @@
     "zh_hant": "我們或許可以原諒那些說木星衛星是伽利略的望遠鏡造成的假象的人，"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "if",
     "start": 183.442,
     "end": 184.042,
@@ -344,7 +328,7 @@
     "zh_hant": "如果"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "we recall that in his day,",
     "start": 183.692,
     "end": 186.563,
@@ -352,7 +336,7 @@
     "zh_hant": "我們回想一下，在他那個時代，"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "as for centuries before,",
     "start": 186.643,
     "end": 188.624,
@@ -360,7 +344,7 @@
     "zh_hant": "正如之前幾個世紀一樣，"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "curved glass was the popular contrivance for producing",
     "start": 188.684,
     "end": 193.026,
@@ -368,7 +352,7 @@
     "zh_hant": "曲面的玻璃是製造幻覺的常見裝置，"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "not truth but illusion,",
     "start": 192.907,
     "end": 195.408,
@@ -376,7 +360,7 @@
     "zh_hant": "不是製造真理而是製造幻覺，"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "untruth; and if a single curved glass would distort nature,",
     "start": 195.508,
     "end": 200.27,
@@ -384,7 +368,7 @@
     "zh_hant": "而產生的是虛假；如果一片曲面玻璃能扭曲自然，"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "how much more would a pair of them?",
     "start": 200.276,
     "end": 202.608,

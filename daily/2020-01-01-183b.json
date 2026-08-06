@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 15.",
-    "start": 5.733,
-    "end": 4.19,
-    "zh": "第15课。",
-    "zh_hant": "第15課。"
+    "text": "Lesson 15 Fifty pence worth of trouble Did George get anything for his fifty pence?",
+    "start": 5.731,
+    "end": 13.472,
+    "zh": "第15课 五十便士带来的麻烦 乔治用他的五十便士买到什么了吗?",
+    "zh_hant": "第15課 五十便士帶來的麻煩 喬治用他的五十便士買到什麼了嗎?"
   },
   {
     "index": 1,
-    "text": "Fifty pence worth of trouble.",
-    "start": 6.113,
-    "end": 9.214,
-    "zh": "五十便士的麻烦。",
-    "zh_hant": "五十便士的麻煩。"
-  },
-  {
-    "index": 2,
-    "text": "Did George get anything for his fifty pence?",
-    "start": 10.095,
-    "end": 13.477,
-    "zh": "乔治用他的五十便士得到什么了吗？",
-    "zh_hant": "喬治用他的五十便士得到什麼了嗎？"
-  },
-  {
-    "index": 3,
     "text": "What?",
     "start": 13.917,
     "end": 14.677,
@@ -32,7 +16,7 @@
     "zh_hant": "什麼？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Children always appreciate small gifts of money.",
     "start": 16.598,
     "end": 20.28,
@@ -40,7 +24,7 @@
     "zh_hant": "孩子們總是喜歡小額的金錢禮物。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Mum or dad, of course, provides a regular supply of pocket money,",
     "start": 20.56,
     "end": 25.743,
@@ -48,7 +32,7 @@
     "zh_hant": "爸爸媽媽當然會定期給零花錢，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "but uncles and aunts are always a source of extra income.",
     "start": 25.903,
     "end": 30.365,
@@ -56,7 +40,7 @@
     "zh_hant": "但叔叔阿姨們總是額外收入的來源。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "With some children, small sums go a long way.",
     "start": 30.965,
     "end": 34.547,
@@ -64,7 +48,7 @@
     "zh_hant": "對有些孩子來說，小錢也能派上大用場。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "If fifty pence pieces are not exchanged for sweets,",
     "start": 35.148,
     "end": 39.209,
@@ -72,7 +56,7 @@
     "zh_hant": "如果五十便士的硬幣沒被換成糖果，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "they rattle for months inside money boxes.",
     "start": 39.21,
     "end": 42.571,
@@ -80,7 +64,7 @@
     "zh_hant": "它們就會在儲蓄罐裡叮噹作響好幾個月。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Only very thrifty children manage to fill up a money box.",
     "start": 43.132,
     "end": 48.074,
@@ -88,7 +72,7 @@
     "zh_hant": "只有非常節儉的孩子才能攢滿一個儲蓄罐。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "For most of them, fifty pence is a small price to pay",
     "start": 48.495,
     "end": 53.197,
@@ -96,7 +80,7 @@
     "zh_hant": "對大多數孩子來說，五十便士只是小代價，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "for a nice big bar of chocolate.",
     "start": 52.857,
     "end": 56.058,
@@ -104,7 +88,7 @@
     "zh_hant": "能換一大塊好吃的巧克力。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "My nephew, George, has a money box but it is always empty.",
     "start": 56.899,
     "end": 61.861,
@@ -112,7 +96,7 @@
     "zh_hant": "我的侄子喬治有個儲蓄罐，但總是空的。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Very few of the fifty pence pieces and pound coins I have given him",
     "start": 62.341,
     "end": 67.384,
@@ -120,7 +104,7 @@
     "zh_hant": "我給他的那些五十便士硬幣和一英鎊硬幣，很少"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "have found their way there.",
     "start": 67.304,
     "end": 69.204,
@@ -128,7 +112,7 @@
     "zh_hant": "能進到那個罐子裡。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "I gave him fifty pence yesterday and advised him to save it.",
     "start": 70.045,
     "end": 74.247,
@@ -136,7 +120,7 @@
     "zh_hant": "昨天我給了他五十便士，並建議他存起來。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Instead, he bought himself fifty pence worth of trouble.",
     "start": 74.607,
     "end": 78.869,
@@ -144,7 +128,7 @@
     "zh_hant": "相反，他給自己買了五十便士的麻煩。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "On his way to the sweet shop,",
     "start": 79.53,
     "end": 81.511,
@@ -152,7 +136,7 @@
     "zh_hant": "在去糖果店的路上，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "he dropped his fifty pence and it bounced along the pavement",
     "start": 81.371,
     "end": 85.813,
@@ -160,7 +144,7 @@
     "zh_hant": "他把五十便士弄掉了，硬幣在人行道上彈跳了一下，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "and then disappeared down a drain.",
     "start": 85.853,
     "end": 88.834,
@@ -168,7 +152,7 @@
     "zh_hant": "然後掉進了下水道里不見了。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "George took off his jacket, rolled up his sleeves",
     "start": 89.735,
     "end": 93.937,
@@ -176,7 +160,7 @@
     "zh_hant": "喬治脫下夾克，捲起袖子，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and pushed his right arm through the drain cover.",
     "start": 93.587,
     "end": 96.858,
@@ -184,7 +168,7 @@
     "zh_hant": "把右臂伸進下水道蓋子裡。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "He could not find his 50 pence piece anywhere,",
     "start": 97.459,
     "end": 100.94,
@@ -192,7 +176,7 @@
     "zh_hant": "他到處都找不到他那枚五十便士的硬幣，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "and what is more, he could not get his arm out.",
     "start": 101.021,
     "end": 105.323,
@@ -200,7 +184,7 @@
     "zh_hant": "更糟糕的是，他胳膊拿不出來了。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "A crowd of people gathered round him and a lady rubbed his arm with soap and butter,",
     "start": 105.803,
     "end": 111.165,
@@ -208,7 +192,7 @@
     "zh_hant": "一群人圍了過來，一位女士用肥皂和黃油搓他的胳膊，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "but George was firmly stuck.",
     "start": 111.466,
     "end": 114.627,
@@ -216,7 +200,7 @@
     "zh_hant": "但喬治卡得很牢。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "The fire brigade was called and two fire fighters freed George using a special",
     "start": 115.308,
     "end": 120.912,
@@ -224,7 +208,7 @@
     "zh_hant": "消防隊被叫來了，兩名消防員用一種特殊的"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "type of grease.",
     "start": 120.562,
     "end": 122.033,
@@ -232,7 +216,7 @@
     "zh_hant": "潤滑脂才把喬治解救出來。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "George was not too upset by his experience because the lady who owns the sweet shop",
     "start": 122.695,
     "end": 128.362,
@@ -240,7 +224,7 @@
     "zh_hant": "喬治對這次經歷並不太沮喪，因為糖果店的女店主"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "heard about his troubles and rewarded him with a large box of chocolates.",
     "start": 128.383,
     "end": 133.73,

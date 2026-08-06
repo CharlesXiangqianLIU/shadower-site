@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 37.",
+    "text": "Lesson 37 Making a bookcase Listen to the tape then answer this question.",
     "start": 0.51,
-    "end": 2.982,
-    "zh": "第37课。",
-    "zh_hant": "第37課。"
+    "end": 10.633,
+    "zh": "第37课 制作书柜 听录音，然后回答问题。",
+    "zh_hant": "第37課 製作書櫃 聽錄音，然後回答問題。"
   },
   {
     "index": 1,
-    "text": "Making a bookcase.",
-    "start": 3.032,
-    "end": 5.132,
-    "zh": "制作一个书柜。",
-    "zh_hant": "製作一個書櫃。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.093,
-    "end": 8.934,
-    "zh": "听磁带，然后",
-    "zh_hant": "聽磁帶，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 8.714,
-    "end": 10.635,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What is Susan's favourite colour?",
     "start": 12.276,
     "end": 15.478,
@@ -40,7 +16,7 @@
     "zh_hant": "蘇珊最喜歡的顏色是什麼？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "You're working hard, George.",
     "start": 17.419,
     "end": 19.9,
@@ -48,7 +24,7 @@
     "zh_hant": "你工作很努力，喬治。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "What are you doing?",
     "start": 20.62,
     "end": 22.521,
@@ -56,7 +32,7 @@
     "zh_hant": "你在做什麼？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "I'm making a bookcase.",
     "start": 23.422,
     "end": 25.823,
@@ -64,7 +40,7 @@
     "zh_hant": "我在做一個書櫃。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "Give me that hammer please, Dan.",
     "start": 26.723,
     "end": 29.665,
@@ -72,7 +48,7 @@
     "zh_hant": "請把那個錘子給我，丹。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Which hammer?",
     "start": 30.865,
     "end": 32.186,
@@ -80,7 +56,7 @@
     "zh_hant": "哪個錘子？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "This one?",
     "start": 32.666,
     "end": 33.787,
@@ -88,7 +64,7 @@
     "zh_hant": "這個嗎？"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "No, not that one.",
     "start": 34.127,
     "end": 36.508,
@@ -96,7 +72,7 @@
     "zh_hant": "不，不是那個。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "The big one.",
     "start": 36.488,
     "end": 37.949,
@@ -104,7 +80,7 @@
     "zh_hant": "大的那個。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Here you are.",
     "start": 38.889,
     "end": 40.29,
@@ -112,7 +88,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Thanks, Dan.",
     "start": 40.491,
     "end": 41.871,
@@ -120,7 +96,7 @@
     "zh_hant": "謝謝，丹。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "What are you going to do now, George?",
     "start": 43.513,
     "end": 47.255,
@@ -128,7 +104,7 @@
     "zh_hant": "你現在打算做什麼，喬治？"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "I'm going to paint it.",
     "start": 47.996,
     "end": 50.077,
@@ -136,7 +112,7 @@
     "zh_hant": "我打算給它刷漆。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "What colour are you going to paint it?",
     "start": 51.138,
     "end": 54.48,
@@ -144,7 +120,7 @@
     "zh_hant": "你打算把它刷成什麼顏色？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "I'm going to paint it pink.",
     "start": 55.601,
     "end": 58.442,
@@ -152,7 +128,7 @@
     "zh_hant": "我打算把它刷成粉色。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Pink!",
     "start": 59.203,
     "end": 60.404,
@@ -160,7 +136,7 @@
     "zh_hant": "粉色！"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "This bookcase isn't for me.",
     "start": 60.944,
     "end": 63.486,
@@ -168,7 +144,7 @@
     "zh_hant": "這個書櫃不是給我做的。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "It's for my daughter, Susan.",
     "start": 63.946,
     "end": 66.688,
@@ -176,7 +152,7 @@
     "zh_hant": "它是給我女兒蘇珊做的。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Pink's her favourite colour.",
     "start": 67.029,
     "end": 69.73,

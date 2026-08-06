@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 43.",
-    "start": 6.133,
-    "end": 4.19,
-    "zh": "第43课。",
-    "zh_hant": "第43課。"
+    "text": "Lesson 43 Fully insured",
+    "start": 0.31,
+    "end": 9.875,
+    "zh": "第43课 保险齐全",
+    "zh_hant": "第43課 保險齊全"
   },
   {
     "index": 1,
-    "text": "Fully insured.",
-    "start": 6.834,
-    "end": 9.875,
-    "zh": "全保险。",
-    "zh_hant": "全保險。"
+    "text": "Who owned the pie dish and why?",
+    "start": 10.856,
+    "end": 13.837,
+    "zh": "馅饼盘是谁的？为什么？",
+    "zh_hant": "餡餅盤是誰的？為什麼？"
   },
   {
     "index": 2,
-    "text": "Who owned the pie dish and why?",
-    "start": 10.856,
-    "end": 13.857,
-    "zh": "馅饼盘子归谁所有，为什么？",
-    "zh_hant": "餡餅盤子歸誰所有，為什麼？"
-  },
-  {
-    "index": 3,
     "text": "Insurance companies are normally willing to insure anything.",
     "start": 15.538,
     "end": 20.14,
@@ -32,7 +24,7 @@
     "zh_hant": "保險公司通常願意為任何東西承保。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Insuring public or private property is a standard practice",
     "start": 20.821,
     "end": 25.643,
@@ -40,7 +32,7 @@
     "zh_hant": "為公共或私人財產投保是一種標準做法"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "in most countries in the world.",
     "start": 25.303,
     "end": 27.464,
@@ -48,7 +40,7 @@
     "zh_hant": "在世界上大多數國家。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "If, however,",
     "start": 28.124,
     "end": 29.525,
@@ -56,7 +48,7 @@
     "zh_hant": "然而，如果"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "you were holding an open air garden party or a fete",
     "start": 29.725,
     "end": 33.647,
@@ -64,7 +56,7 @@
     "zh_hant": "你正在舉辦露天花園聚會或遊園會"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "it would be equally possible to insure yourself in the event of bad weather.",
     "start": 33.847,
     "end": 39.25,
@@ -72,7 +64,7 @@
     "zh_hant": "同樣有可能在壞天氣時為自己投保。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Needless to say, the bigger the risk an insurance company takes,",
     "start": 40.27,
     "end": 45.333,
@@ -80,7 +72,7 @@
     "zh_hant": "不用說，保險公司承擔的風險越大，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "the higher the premium you will have to pay.",
     "start": 45.493,
     "end": 48.934,
@@ -88,7 +80,7 @@
     "zh_hant": "你需要支付的保費就越高。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "It is not uncommon to hear that a shipping company has made a claim",
     "start": 49.855,
     "end": 54.537,
@@ -96,7 +88,7 @@
     "zh_hant": "聽到航運公司為打撈沉船的費用提出索賠並不罕見。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "for the cost of salvaging a sunken ship.",
     "start": 54.187,
     "end": 57.239,
@@ -104,7 +96,7 @@
     "zh_hant": "但由地方當局提出的索賠"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "But the claim made by a local authority",
     "start": 57.899,
     "end": 61.02,
@@ -112,7 +104,7 @@
     "zh_hant": "要求收回打撈沉沒的餡餅盤子的費用"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "to recover the cost of salvaging a sunken pie dish",
     "start": 60.67,
     "end": 65.062,
@@ -120,7 +112,7 @@
     "zh_hant": "肯定獨一無二。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "must surely be unique.",
     "start": 65.123,
     "end": 67.424,
@@ -128,7 +120,7 @@
     "zh_hant": "誠然，那是一個不尋常的餡餅盤子，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Admittedly it was an unusual pie dish,",
     "start": 68.264,
     "end": 71.826,
@@ -136,7 +128,7 @@
     "zh_hant": "因為它有十八英尺長，六英尺寬。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "for it was eighteen feet long and six feet wide.",
     "start": 72.246,
     "end": 76.828,
@@ -144,7 +136,7 @@
     "zh_hant": "它是由地方當局購買的，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "It had been purchased by a local authority",
     "start": 77.389,
     "end": 80.27,
@@ -152,7 +144,7 @@
     "zh_hant": "以便為一年一度的集市烤一個巨大的餡餅。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "so that an enormous pie could be baked for an annual fair.",
     "start": 80.791,
     "end": 85.393,
@@ -160,7 +152,7 @@
     "zh_hant": "餡餅委員會決定，運輸盤子的最佳方式"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "The pie committee decided that the best way to transport the dish",
     "start": 86.434,
     "end": 91.236,
@@ -168,7 +160,7 @@
     "zh_hant": "是走運河，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "would be by canal",
     "start": 91.296,
     "end": 93.017,
@@ -176,7 +168,7 @@
     "zh_hant": "所以他們為這次運輸投保了。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "so they insured it for the trip.",
     "start": 93.417,
     "end": 95.838,
@@ -184,7 +176,7 @@
     "zh_hant": "盤子下水後不久，餡餅委員會就去當地一家小酒館慶祝了。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "Shortly after it was launched, the pie committee went to a local inn to celebrate.",
     "start": 96.579,
     "end": 102.641,
@@ -192,7 +184,7 @@
     "zh_hant": "與此同時，一群青少年爬上了"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "At the same time, a number of teenagers climbed",
     "start": 103.242,
     "end": 107.224,
@@ -200,7 +192,7 @@
     "zh_hant": "盤子，開了自己的小派對。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "on to the dish and held a little party of their own.",
     "start": 106.904,
     "end": 110.585,
@@ -208,7 +200,7 @@
     "zh_hant": "跳舞被證明是盤子承受不了的，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Dancing proved to be more than the dish could bear,",
     "start": 111.166,
     "end": 114.807,
@@ -216,7 +208,7 @@
     "zh_hant": "因為派對期間它翻了，沉入七英尺深的水中。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "for during the party it capsized and sank in seven feet of water.",
     "start": 115.188,
     "end": 120.771,
@@ -224,7 +216,7 @@
     "zh_hant": "餡餅委員會打電話給當地一個修車廠老闆，他開著一輛救援卡車來了，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "The pie committee telephoned a local garage owner who arrived in a recovery truck",
     "start": 121.751,
     "end": 127.914,
@@ -232,7 +224,7 @@
     "zh_hant": "來打撈那個餡餅盤子。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "to salvage the pie dish.",
     "start": 127.734,
     "end": 129.855,
@@ -240,7 +232,7 @@
     "zh_hant": "青少年們裹著溼衣服瑟瑟發抖，"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "Shivering in their wet clothes,",
     "start": 130.776,
     "end": 133.177,
@@ -248,7 +240,7 @@
     "zh_hant": "看著三名男子反覆潛入"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "the teenagers looked on while three men dived repeatedly",
     "start": 133.357,
     "end": 138.059,
@@ -256,7 +248,7 @@
     "zh_hant": "水中尋找盤子。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "into the water to locate the dish.",
     "start": 137.739,
     "end": 140.52,
@@ -264,7 +256,7 @@
     "zh_hant": "他們沒費什麼勁就找到了它，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "They had little difficulty in finding it,",
     "start": 141.441,
     "end": 144.262,
@@ -272,7 +264,7 @@
     "zh_hant": "但把它從水裡拉出來卻是個嚴重的問題。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "but hauling it out of the water proved to be a serious problem.",
     "start": 144.323,
     "end": 149.685,
@@ -280,7 +272,7 @@
     "zh_hant": "盤子的邊緣非常光滑，幾乎不可能"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "The sides of the dish were so smooth that it was almost impossible",
     "start": 150.245,
     "end": 156.508,
@@ -288,7 +280,7 @@
     "zh_hant": "在不損壞的情況下把纜繩和鏈條系在邊緣上。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "to attach hawsers and chains to the rim without damaging it.",
     "start": 156.528,
     "end": 161.231,
@@ -296,7 +288,7 @@
     "zh_hant": "最終，鏈條被固定在盤子的一端，"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "Eventually chains were fixed to one end of the dish",
     "start": 162.032,
     "end": 166.334,
@@ -304,7 +296,7 @@
     "zh_hant": "一臺大功率絞盤開始運作。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "and a powerful winch was put into operation.",
     "start": 166.354,
     "end": 169.935,
@@ -312,7 +304,7 @@
     "zh_hant": "盤子浮出水面，被輕輕地"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "The dish rose to the surface and was gently",
     "start": 170.836,
     "end": 175.478,
@@ -320,7 +312,7 @@
     "zh_hant": "拉向運河岸邊。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "drawn towards the canal bank.",
     "start": 175.128,
     "end": 177.499,
@@ -328,7 +320,7 @@
     "zh_hant": "在令人焦慮的一刻，盤子搖搖晃晃地擱在"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "For one agonizing moment, the dish was perched precariously",
     "start": 178.12,
     "end": 183.762,
@@ -336,7 +328,7 @@
     "zh_hant": "運河岸上，"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "on the bank of the canal,",
     "start": 183.462,
     "end": 185.243,
@@ -344,7 +336,7 @@
     "zh_hant": "但它突然失去平衡，滑回水中。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "but it suddenly overbalanced and slid back into the water.",
     "start": 185.663,
     "end": 190.826,
@@ -352,7 +344,7 @@
     "zh_hant": "那些人現在不得不再次嘗試。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "The men were now obliged to try once more.",
     "start": 191.326,
     "end": 195.108,
@@ -360,7 +352,7 @@
     "zh_hant": "這一次，他們把沉重的金屬夾固定"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "This time they fixed heavy metal clamps",
     "start": 195.848,
     "end": 199.55,
@@ -368,7 +360,7 @@
     "zh_hant": "在盤子的兩側，以便繫上鏈條。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "to both sides of the dish so that they could fasten the chains.",
     "start": 199.2,
     "end": 204.113,
@@ -376,7 +368,7 @@
     "zh_hant": "現在盤子必須垂直吊起，因為一邊邊緣抵著"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "The dish now had to be lifted vertically because one edge was resting",
     "start": 204.733,
     "end": 210.176,
@@ -384,7 +376,7 @@
     "zh_hant": "運河的側壁。"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "against the side of the canal.",
     "start": 209.826,
     "end": 211.796,
@@ -392,7 +384,7 @@
     "zh_hant": "絞盤再次啟動，其中一人啟動了卡車。"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "The winch was again put into operation and one of the men started up the truck.",
     "start": 212.237,
     "end": 218.119,
@@ -400,7 +392,7 @@
     "zh_hant": "幾分鐘後，盤子被成功地吊起，"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "Several minutes later, the dish was successfully hauled",
     "start": 218.9,
     "end": 223.162,
@@ -408,7 +400,7 @@
     "zh_hant": "到了水面以上。"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "above the surface of the water.",
     "start": 222.812,
     "end": 226.103,
@@ -416,7 +408,7 @@
     "zh_hant": "水流湍急地沿著它的邊緣傾瀉，力量之大，"
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "streamed in torrents over its sides with such force",
     "start": 225.763,
     "end": 230.365,
@@ -424,7 +416,7 @@
     "zh_hant": "以致在運河裡激起了一股巨浪。"
   },
   {
-    "index": 53,
+    "index": 52,
     "text": "that it set up a huge wave in the canal.",
     "start": 230.426,
     "end": 233.567,
@@ -432,7 +424,7 @@
     "zh_hant": "有危險的是，這浪可能會反彈回來，"
   },
   {
-    "index": 54,
+    "index": 53,
     "text": "There was a danger that the wave would rebound",
     "start": 233.947,
     "end": 237.649,
@@ -440,7 +432,7 @@
     "zh_hant": "撞向對岸，使盤子再次墜入水中。"
   },
   {
-    "index": 55,
+    "index": 54,
     "text": "off the other side of the bank and send the dish plunging into the water again.",
     "start": 237.569,
     "end": 243.577,
@@ -448,7 +440,7 @@
     "zh_hant": "透過極快的速度作業，"
   },
   {
-    "index": 56,
+    "index": 55,
     "text": "By working at tremendous speed,",
     "start": 244.418,
     "end": 247.101,
@@ -456,7 +448,7 @@
     "zh_hant": "那些人趕在浪回來之前設法把盤子弄到了乾地上。"
   },
   {
-    "index": 57,
+    "index": 56,
     "text": "the men managed to get the dish on to dry land before the wave returned.",
     "start": 247.683,
     "end": 253.29,

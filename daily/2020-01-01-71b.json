@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 141.",
+    "text": "Lesson 141 Sally's first train ride Listen to the tape then answer this question.",
     "start": 0.67,
-    "end": 3.502,
-    "zh": "第141课。",
-    "zh_hant": "第141課。"
+    "end": 12.171,
+    "zh": "第141课 萨莉第一次坐火车 听录音，然后回答这个问题。",
+    "zh_hant": "第141課 薩莉第一次坐火車 聽錄音，然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Sally's first train ride.",
-    "start": 3.552,
-    "end": 6.633,
-    "zh": "莎莉的第一次火车之旅。",
-    "zh_hant": "莎莉的第一次火車之旅。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.594,
-    "end": 10.415,
-    "zh": "听磁带，然后",
-    "zh_hant": "聽磁帶，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.235,
-    "end": 12.176,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Why was the mother embarrassed?",
     "start": 13.137,
     "end": 16.198,
@@ -40,7 +16,7 @@
     "zh_hant": "為什麼母親感到尷尬？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Last week,",
     "start": 17.919,
     "end": 19.46,
@@ -48,7 +24,7 @@
     "zh_hant": "上週，"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "my four-year-old daughter, Sally,",
     "start": 19.38,
     "end": 22.461,
@@ -56,7 +32,7 @@
     "zh_hant": "我四歲的女兒莎莉，"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "was invited to a children's party.",
     "start": 22.401,
     "end": 25.623,
@@ -64,7 +40,7 @@
     "zh_hant": "被邀請去參加一個兒童聚會。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "I decided to take her by train.",
     "start": 26.563,
     "end": 29.845,
@@ -72,7 +48,7 @@
     "zh_hant": "我決定帶她坐火車去。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Sally was very excited",
     "start": 30.725,
     "end": 33.527,
@@ -80,7 +56,7 @@
     "zh_hant": "莎莉非常興奮，"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "because she had never travelled",
     "start": 33.507,
     "end": 36.508,
@@ -88,7 +64,7 @@
     "zh_hant": "因為她以前從未"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "on a train before.",
     "start": 36.328,
     "end": 38.429,
@@ -96,7 +72,7 @@
     "zh_hant": "坐過火車。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "She sat near the window",
     "start": 39.55,
     "end": 41.931,
@@ -104,7 +80,7 @@
     "zh_hant": "她坐在靠近窗戶的地方，"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "and asked questions about everything she",
     "start": 42.132,
     "end": 46.614,
@@ -112,7 +88,7 @@
     "zh_hant": "並對她所看到的"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "saw.",
     "start": 46.414,
     "end": 47.234,
@@ -120,7 +96,7 @@
     "zh_hant": "一切問個不停。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "Suddenly,",
     "start": 48.135,
     "end": 49.215,
@@ -128,7 +104,7 @@
     "zh_hant": "突然，"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "a middle-age lady got on the train",
     "start": 49.535,
     "end": 53.717,
@@ -136,7 +112,7 @@
     "zh_hant": "一位中年女士上了火車，"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "and sat opposite Sally.",
     "start": 53.737,
     "end": 56.438,
@@ -144,7 +120,7 @@
     "zh_hant": "坐在莎莉對面。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "'Hello,",
     "start": 56.088,
     "end": 59.08,
@@ -152,7 +128,7 @@
     "zh_hant": "“你好，"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "little girl,'",
     "start": 58.94,
     "end": 60.5,
@@ -160,7 +136,7 @@
     "zh_hant": "小姑娘，”"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "she said.",
     "start": 60.621,
     "end": 61.781,
@@ -168,7 +144,7 @@
     "zh_hant": "她說。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "Sally did not answer,",
     "start": 62.422,
     "end": 64.903,
@@ -176,7 +152,7 @@
     "zh_hant": "莎莉沒有回答，"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "but looked at her curiously.",
     "start": 64.843,
     "end": 67.464,
@@ -184,7 +160,7 @@
     "zh_hant": "只是好奇地看著她。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "The lady was dressed in a blue coat",
     "start": 68.585,
     "end": 72.246,
@@ -192,7 +168,7 @@
     "zh_hant": "那位女士穿著一件藍色外套，"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "and a large, funny hat.",
     "start": 72.347,
     "end": 75.288,
@@ -200,7 +176,7 @@
     "zh_hant": "戴著一頂又大又滑稽的帽子。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "After the train had left the station,",
     "start": 76.168,
     "end": 79.5,
@@ -208,7 +184,7 @@
     "zh_hant": "火車離開車站後，"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "the lady opened her handbag",
     "start": 79.1,
     "end": 83.112,
@@ -216,7 +192,7 @@
     "zh_hant": "那位女士開啟她的手提包，"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "and took out her powder compact.",
     "start": 83.092,
     "end": 86.574,
@@ -224,7 +200,7 @@
     "zh_hant": "拿出了她的粉餅盒。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "She then began to make up her face.",
     "start": 87.134,
     "end": 91.156,
@@ -232,7 +208,7 @@
     "zh_hant": "然後她開始化妝。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "'Why are you",
     "start": 90.806,
     "end": 93.977,
@@ -240,7 +216,7 @@
     "zh_hant": "“你為什麼"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "doing that?'",
     "start": 93.657,
     "end": 95.478,
@@ -248,7 +224,7 @@
     "zh_hant": "那樣做？”"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "Sally asked.",
     "start": 95.498,
     "end": 97.119,
@@ -256,7 +232,7 @@
     "zh_hant": "莎莉問道。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "'To make myself beautiful,'",
     "start": 96.859,
     "end": 100.801,
@@ -264,7 +240,7 @@
     "zh_hant": "“為了讓自己變漂亮，”"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "the lady answered.",
     "start": 100.941,
     "end": 102.722,
@@ -272,7 +248,7 @@
     "zh_hant": "那位女士回答。"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "She put away her compact",
     "start": 103.282,
     "end": 105.883,
@@ -280,7 +256,7 @@
     "zh_hant": "她收起了粉餅盒，"
   },
   {
-    "index": 35,
+    "index": 32,
     "text": "and smiled kindly.",
     "start": 105.843,
     "end": 108.044,
@@ -288,7 +264,7 @@
     "zh_hant": "和藹地笑了笑。"
   },
   {
-    "index": 36,
+    "index": 33,
     "text": "'But you are still",
     "start": 107.944,
     "end": 111.386,
@@ -296,7 +272,7 @@
     "zh_hant": "“但你還是很"
   },
   {
-    "index": 37,
+    "index": 34,
     "text": "ugly,'",
     "start": 111.166,
     "end": 113.007,
@@ -304,7 +280,7 @@
     "zh_hant": "醜，”"
   },
   {
-    "index": 38,
+    "index": 35,
     "text": "Sally said.",
     "start": 112.657,
     "end": 113.987,
@@ -312,7 +288,7 @@
     "zh_hant": "莎莉說。"
   },
   {
-    "index": 39,
+    "index": 36,
     "text": "Sally was amused,",
     "start": 114.668,
     "end": 117.109,
@@ -320,7 +296,7 @@
     "zh_hant": "莎莉覺得很有趣，"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "but I was very embarrassed!",
     "start": 117.129,
     "end": 120.81,

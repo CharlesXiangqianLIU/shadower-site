@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 2.",
-    "start": 7.053,
-    "end": 5.09,
-    "zh": "第二课。",
-    "zh_hant": "第二課。"
+    "text": "Lesson 2 How much of each year do spiders spend killing insects?",
+    "start": 4.151,
+    "end": 17.281,
+    "zh": "第2课 蜘蛛每年花多少时间捕杀昆虫?",
+    "zh_hant": "第2課 蜘蛛每年花多少時間捕殺昆蟲?"
   },
   {
     "index": 1,
-    "text": "How much of each year do spiders spend killing insects?",
-    "start": 12.316,
-    "end": 17.638,
-    "zh": "蜘蛛每年花多少时间捕食昆虫？",
-    "zh_hant": "蜘蛛每年花多少時間捕食昆蟲？"
-  },
-  {
-    "index": 2,
     "text": "Why, you may wonder, should spiders be our friends?",
     "start": 20.06,
     "end": 23.761,
@@ -24,7 +16,7 @@
     "zh_hant": "你可能會想，為什麼蜘蛛應該是我們的朋友？"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "Because they destroy so many insects,",
     "start": 24.382,
     "end": 27.043,
@@ -32,7 +24,7 @@
     "zh_hant": "因為它們消滅了大量昆蟲，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "and insects include some of the greatest enemies of the human race.",
     "start": 27.123,
     "end": 31.645,
@@ -40,7 +32,7 @@
     "zh_hant": "而昆蟲中包括人類最大的天敵。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Insects would make it impossible for us to live in the world;",
     "start": 32.526,
     "end": 36.508,
@@ -48,7 +40,7 @@
     "zh_hant": "如果沒有控制，昆蟲會讓我們無法生活在世界上；"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "they would devour all our crops and kill our flocks and herds,",
     "start": 37.048,
     "end": 41.591,
@@ -56,7 +48,7 @@
     "zh_hant": "它們會吃光我們的莊稼，殺死我們的牲畜，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "if it were not for the protection we get from insect eating animals.",
     "start": 41.851,
     "end": 46.733,
@@ -64,7 +56,7 @@
     "zh_hant": "如果沒有食蟲動物對我們的保護。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "We owe a lot to the birds and beasts who eat insects",
     "start": 47.814,
     "end": 52.096,
@@ -72,7 +64,7 @@
     "zh_hant": "我們非常感激那些吃昆蟲的鳥和獸，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "but all of them put together kill",
     "start": 52.276,
     "end": 54.617,
@@ -80,7 +72,7 @@
     "zh_hant": "但它們全部加在一起所消滅的"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "only a fraction of the number destroyed by spiders.",
     "start": 54.277,
     "end": 57.999,
@@ -88,7 +80,7 @@
     "zh_hant": "只佔蜘蛛所消滅數量的一小部分。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Moreover, unlike some of the other insect eaters,",
     "start": 58.639,
     "end": 62.361,
@@ -96,7 +88,7 @@
     "zh_hant": "此外，與其他某些食蟲動物不同，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "spiders never do the least harm to us or our belongings.",
     "start": 62.601,
     "end": 67.283,
@@ -104,7 +96,7 @@
     "zh_hant": "蜘蛛對我們或我們的財物從不造成任何傷害。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Spiders are not insects, as many people think,",
     "start": 68.184,
     "end": 72.125,
@@ -112,7 +104,7 @@
     "zh_hant": "蜘蛛並不是昆蟲，許多人這麼認為，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "nor even nearly related to them.",
     "start": 72.446,
     "end": 74.987,
@@ -120,7 +112,7 @@
     "zh_hant": "它們甚至與昆蟲毫不相干。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "One can tell the difference almost at a glance,",
     "start": 75.928,
     "end": 79.029,
@@ -128,7 +120,7 @@
     "zh_hant": "人們幾乎一眼就能分辨出差別，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "for a spider always has eight legs and an insect never more than six.",
     "start": 79.169,
     "end": 85.252,
@@ -136,7 +128,7 @@
     "zh_hant": "因為蜘蛛總有八條腿，而昆蟲最多不超過六條。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "How many spiders are engaged in this work on our behalf?",
     "start": 86.873,
     "end": 90.535,
@@ -144,7 +136,7 @@
     "zh_hant": "有多少蜘蛛為我們從事這項工作？"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "One authority on spiders made a census of the spiders in a grass field in the south of England,",
     "start": 91.396,
     "end": 97.598,
@@ -152,7 +144,7 @@
     "zh_hant": "一位蜘蛛專家對英格蘭南部一片草地上的蜘蛛進行了普查，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "and he estimated that there were more than 2,",
     "start": 98.139,
     "end": 101.43,
@@ -160,7 +152,7 @@
     "zh_hant": "他估計在一英畝地裡超過2，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "250, 000 in one acre;",
     "start": 101.08,
     "end": 105.062,
@@ -168,7 +160,7 @@
     "zh_hant": "25萬隻；"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "that is something like 6, 000, 000 spiders of different kinds on a football pitch.",
     "start": 105.483,
     "end": 111.545,
@@ -176,7 +168,7 @@
     "zh_hant": "也就是說，一個足球場上有大約600萬隻不同種類的蜘蛛。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Spiders are busy for at least half the year in killing insects.",
     "start": 112.306,
     "end": 117.248,
@@ -184,7 +176,7 @@
     "zh_hant": "蜘蛛在一年中至少有半年忙於捕食昆蟲。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "It is impossible to make more than the wildest guess at how many they kill,",
     "start": 118.069,
     "end": 123.053,
@@ -192,7 +184,7 @@
     "zh_hant": "要估算它們消滅了多少昆蟲，只能做最粗略的猜測，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "but they are hungry creatures, not content with only three meals a day.",
     "start": 123.353,
     "end": 128.398,
@@ -200,7 +192,7 @@
     "zh_hant": "但它們是飢餓的動物，並不滿足於一天三餐。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "It has been estimated that the weight of all the insects destroyed by spiders",
     "start": 129.079,
     "end": 134.283,
@@ -208,7 +200,7 @@
     "zh_hant": "據估計，蜘蛛一年內消滅的所有昆蟲的重量，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "in Britain in one year",
     "start": 133.933,
     "end": 135.745,
@@ -216,7 +208,7 @@
     "zh_hant": "在英國，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "would be greater than the total weight of all the human beings in the country.",
     "start": 135.945,
     "end": 141.01,

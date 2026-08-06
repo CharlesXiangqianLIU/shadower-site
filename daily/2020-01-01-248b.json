@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 20.",
-    "start": 0.71,
-    "end": 2.161,
-    "zh": "第二十课。",
-    "zh_hant": "第二十課。"
+    "text": "Lesson 20 Snake poison What are the two different ways in which snake poison acts?",
+    "start": 0.7,
+    "end": 12.964,
+    "zh": "第20课 蛇毒：蛇毒发挥作用的两种不同方式是什么？",
+    "zh_hant": "第20課 蛇毒：蛇毒發揮作用的兩種不同方式是什麼？"
   },
   {
     "index": 1,
-    "text": "Snake poison.",
-    "start": 2.211,
-    "end": 7.133,
-    "zh": "蛇毒。",
-    "zh_hant": "蛇毒。"
-  },
-  {
-    "index": 2,
-    "text": "What are the two different ways in which snake poison acts?",
-    "start": 8.834,
-    "end": 12.956,
-    "zh": "蛇毒起作用的两种不同方式是什么？",
-    "zh_hant": "蛇毒起作用的兩種不同方式是什麼？"
-  },
-  {
-    "index": 3,
     "text": "How in came about that snakes manufactured poison is a mystery.",
     "start": 15.278,
     "end": 19.54,
@@ -32,7 +16,7 @@
     "zh_hant": "蛇是如何製造出毒液的，這是一個謎。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Over the periods their saliva, a mild, digestive juice",
     "start": 20.26,
     "end": 24.522,
@@ -40,7 +24,7 @@
     "zh_hant": "在漫長的歲月裡，它們的唾液，一種溫和的消化液，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "like our own, was converted into a poison that defies analysis even today.",
     "start": 24.172,
     "end": 29.825,
@@ -48,7 +32,7 @@
     "zh_hant": "像我們自己的唾液一樣，竟變成了至今仍無法分析的毒液。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "It was not forced upon them by the survival competition;",
     "start": 30.425,
     "end": 34.327,
@@ -56,7 +40,7 @@
     "zh_hant": "這不是生存競爭強加給它們的；"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "they could have caught and lived on prey without using poison,",
     "start": 34.427,
     "end": 38.129,
@@ -64,7 +48,7 @@
     "zh_hant": "它們本可以不用毒液就能捕捉並靠獵物生存，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "just as the thousands of non-poisonous snakes still do.",
     "start": 38.149,
     "end": 41.871,
@@ -72,7 +56,7 @@
     "zh_hant": "就像成千上萬種無毒的蛇現在仍然做的那樣。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Poison to a snake is merely a luxury;",
     "start": 42.712,
     "end": 45.953,
@@ -80,7 +64,7 @@
     "zh_hant": "對蛇來說，毒液只是一種奢侈品；"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "it enables it to get its food with very little effort,",
     "start": 46.234,
     "end": 49.995,
@@ -88,7 +72,7 @@
     "zh_hant": "它能使蛇毫不費力地獲取食物，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "no more effort than one bite.",
     "start": 49.955,
     "end": 52.797,
@@ -96,7 +80,7 @@
     "zh_hant": "不需要比咬一口更多的力氣。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "And why only snakes?",
     "start": 53.037,
     "end": 55.118,
@@ -104,7 +88,7 @@
     "zh_hant": "為什麼偏偏只有蛇呢？"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Cats, for instance, would be greatly helped;",
     "start": 55.418,
     "end": 58.259,
@@ -112,7 +96,7 @@
     "zh_hant": "比如貓，就會得到極大的幫助；"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "no running fights with large, fierce rats",
     "start": 58.36,
     "end": 61.521,
@@ -120,7 +104,7 @@
     "zh_hant": "不用和大而兇猛的老鼠進行追逐戰，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "or tussles with grown rabbits--just a bite and no more effort needed.",
     "start": 61.171,
     "end": 66.423,
@@ -128,7 +112,7 @@
     "zh_hant": "也不用和成年兔子搏鬥——只需咬一口，無需更多力氣。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "In fact, it would be an assistance to all carnivores",
     "start": 66.524,
     "end": 70.425,
@@ -136,7 +120,7 @@
     "zh_hant": "事實上，這對所有食肉動物都會有幫助，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "though it would be a two-edged weapon when they fought each other.",
     "start": 70.205,
     "end": 73.667,
@@ -144,7 +128,7 @@
     "zh_hant": "儘管當它們互相爭鬥時，這會是一把雙刃劍。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "But, of the vertebrates unpredictable Nature selected only snakes (and one lizard).",
     "start": 74.187,
     "end": 80.391,
@@ -152,7 +136,7 @@
     "zh_hant": "但是，在脊椎動物中，不可預測的大自然只選擇了蛇（還有一種蜥蜴）。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "One wonders also why Nature, with some snakes concocted poison of such extreme potency.",
     "start": 80.871,
     "end": 87.314,
@@ -160,7 +144,7 @@
     "zh_hant": "人們也會奇怪，為什麼大自然讓某些蛇製造出如此劇毒的毒液。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "In the conversion of saliva into poison, one might suppose that a fixed process took place.",
     "start": 88.115,
     "end": 94.498,
@@ -168,7 +152,7 @@
     "zh_hant": "在唾液轉化為毒液的過程中，人們可能會以為這是一個固定的過程。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "It did not; some snakes manufactured a poison",
     "start": 94.738,
     "end": 98.4,
@@ -176,7 +160,7 @@
     "zh_hant": "但事實並非如此；有些蛇製造的毒液"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "different in every respect from that of others,",
     "start": 98.05,
     "end": 101.261,
@@ -184,7 +168,7 @@
     "zh_hant": "與其他蛇的毒液完全不同，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "as different as arsenic is from strychnine, and having different effects.",
     "start": 101.461,
     "end": 106.784,
@@ -192,7 +176,7 @@
     "zh_hant": "就像砒霜不同於士的寧一樣，效果也各不相同。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "One poison acts on the nerves, the other on the blood.",
     "start": 107.104,
     "end": 110.826,
@@ -200,7 +184,7 @@
     "zh_hant": "一種毒液作用於神經，另一種作用於血液。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The makers of the nerve poison include the mambas and the cobras",
     "start": 111.426,
     "end": 116.129,
@@ -208,7 +192,7 @@
     "zh_hant": "製造神經毒液的蛇包括曼巴蛇和眼鏡蛇，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "and their venom is called neurotoxic.",
     "start": 115.809,
     "end": 118.55,
@@ -216,7 +200,7 @@
     "zh_hant": "它們的毒液被稱為神經毒素。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Vipers (adders) and rattlesnakes",
     "start": 119.25,
     "end": 122.532,
@@ -224,7 +208,7 @@
     "zh_hant": "蝰蛇（蝮蛇）和響尾蛇"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "manufacture the blood poison, which is known as haemolytic.",
     "start": 122.182,
     "end": 126.734,
@@ -232,7 +216,7 @@
     "zh_hant": "製造血液毒液，這種毒液被稱為溶血毒素。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Both poisons are unpleasant, but by far the more unpleasant is the blood poison.",
     "start": 126.994,
     "end": 132.417,
@@ -240,7 +224,7 @@
     "zh_hant": "兩種毒液都不好受，但血液毒液要難受得多。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "It is said that the nerve poison is the more primitive of the two,",
     "start": 132.557,
     "end": 136.338,
@@ -248,7 +232,7 @@
     "zh_hant": "據說神經毒液是兩者中更原始的一種，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "that the blood poison is, so to speak, a newer product from an improved formula.",
     "start": 136.579,
     "end": 141.561,
@@ -256,7 +240,7 @@
     "zh_hant": "血液毒液可以說是配方改進後的新產品。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "Be that as it may, the nerve poison does its business with man far more quickly than the blood poison.",
     "start": 142.001,
     "end": 148.264,
@@ -264,7 +248,7 @@
     "zh_hant": "不管怎樣，神經毒液對人的作用比血液毒液快得多。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "This, however, means nothing.",
     "start": 148.405,
     "end": 150.425,
@@ -272,7 +256,7 @@
     "zh_hant": "然而，這並不意味著什麼。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "Snakes did not acquire their poison for use against man",
     "start": 150.826,
     "end": 154.507,
@@ -280,7 +264,7 @@
     "zh_hant": "蛇獲得毒液並不是為了對付人類，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "but for use against prey such as rats and mice,",
     "start": 154.448,
     "end": 158.129,
@@ -288,7 +272,7 @@
     "zh_hant": "而是為了對付像老鼠這樣的獵物，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "and the effects on these of viperine poison is almost immediate.",
     "start": 158.129,
     "end": 162.789,

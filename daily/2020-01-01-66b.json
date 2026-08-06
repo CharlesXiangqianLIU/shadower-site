@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 131.",
+    "text": "Lesson 131 Don't be so sure!",
     "start": 0.71,
-    "end": 3.322,
-    "zh": "第131课。",
-    "zh_hant": "第131課。"
+    "end": 5.911,
+    "zh": "第131课 别那么肯定!",
+    "zh_hant": "第131課 別那麼肯定!"
   },
   {
     "index": 1,
-    "text": "Don't be so sure!",
-    "start": 3.372,
-    "end": 5.913,
-    "zh": "别这么肯定！",
-    "zh_hant": "別這麼肯定！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.292,
+    "end": 11.993,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.294,
-    "end": 10.315,
-    "zh": "先听录音，",
-    "zh_hant": "先聽錄音，"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.095,
-    "end": 11.996,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What's the problem about deciding on a holiday?",
     "start": 13.037,
     "end": 17.459,
@@ -40,7 +24,7 @@
     "zh_hant": "決定假期有什麼問題？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Where are you going to spend your holidays",
     "start": 19.68,
     "end": 23.522,
@@ -48,7 +32,7 @@
     "zh_hant": "你今年假期打算去哪兒過，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "this year, Gary?",
     "start": 23.202,
     "end": 24.922,
@@ -56,7 +40,7 @@
     "zh_hant": "加里？"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "We may go abroad.",
     "start": 25.803,
     "end": 28.064,
@@ -64,7 +48,7 @@
     "zh_hant": "我們可能出國。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "I'm not sure.",
     "start": 28.724,
     "end": 30.245,
@@ -72,7 +56,7 @@
     "zh_hant": "我不確定。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "My wife wants to go to Egypt.",
     "start": 30.925,
     "end": 33.967,
@@ -80,7 +64,7 @@
     "zh_hant": "我妻子想去埃及。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "I'd like to go there, too.",
     "start": 34.767,
     "end": 36.928,
@@ -88,7 +72,7 @@
     "zh_hant": "我也想去那兒。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "We can't make up our minds.",
     "start": 37.889,
     "end": 40.711,
@@ -96,7 +80,7 @@
     "zh_hant": "我們拿不定主意。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Will you travel by sea or by air?",
     "start": 41.831,
     "end": 45.673,
@@ -104,7 +88,7 @@
     "zh_hant": "你們乘船去還是乘飛機去？"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "We may travel by sea.",
     "start": 45.974,
     "end": 48.434,
@@ -112,7 +96,7 @@
     "zh_hant": "我們可能乘船去。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "It's cheaper, isn't it?",
     "start": 49.315,
     "end": 52.376,
@@ -120,7 +104,7 @@
     "zh_hant": "更便宜，不是嗎？"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "may be cheaper, but it takes a long time.",
     "start": 52.077,
     "end": 56.438,
@@ -128,7 +112,7 @@
     "zh_hant": "可能更便宜，但很耗時。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "I'm sure you'll enjoy yourselves.",
     "start": 57.299,
     "end": 60.02,
@@ -136,7 +120,7 @@
     "zh_hant": "我相信你們會玩得開心。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Don't be so sure.",
     "start": 60.261,
     "end": 62.241,
@@ -144,7 +128,7 @@
     "zh_hant": "別這麼肯定。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "We might not go anywhere.",
     "start": 62.302,
     "end": 64.903,
@@ -152,7 +136,7 @@
     "zh_hant": "我們可能哪兒都不去。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "My wife always worries too much.",
     "start": 65.063,
     "end": 68.605,
@@ -160,7 +144,7 @@
     "zh_hant": "我妻子總是擔心太多。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Who's going to look after the dog?",
     "start": 69.005,
     "end": 72.166,
@@ -168,7 +152,7 @@
     "zh_hant": "誰來照看狗呢？"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Who's going to look after the house?",
     "start": 72.467,
     "end": 75.768,
@@ -176,7 +160,7 @@
     "zh_hant": "誰來照看房子呢？"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Who's going to look after the garden?",
     "start": 76.069,
     "end": 79.19,
@@ -184,7 +168,7 @@
     "zh_hant": "誰來照看花園呢？"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "We have this problem every year.",
     "start": 79.573,
     "end": 82.598,
@@ -192,7 +176,7 @@
     "zh_hant": "我們每年都有這個問題。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "In the end, we stay at home",
     "start": 83.08,
     "end": 86.045,
@@ -200,7 +184,7 @@
     "zh_hant": "最後，我們就待在家裡"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "and look after everything!",
     "start": 85.866,
     "end": 88.35,

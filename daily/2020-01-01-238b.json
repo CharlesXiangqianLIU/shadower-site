@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 10.",
-    "start": 0.61,
-    "end": 1.981,
-    "zh": "第10课。",
-    "zh_hant": "第10課。"
+    "text": "Lesson 10 Silicon valley What does the computer industry thrive on apart from anarchy?",
+    "start": 0.62,
+    "end": 12.265,
+    "zh": "第10课 硅谷 除了无政府状态，计算机行业还靠什么蓬勃发展？",
+    "zh_hant": "第10課 矽谷 除了無政府狀態，計算機行業還靠什麼蓬勃發展？"
   },
   {
     "index": 1,
-    "text": "Silicon valley.",
-    "start": 2.031,
-    "end": 3.512,
-    "zh": "硅谷。",
-    "zh_hant": "矽谷。"
-  },
-  {
-    "index": 2,
-    "text": "What does the computer industry thrive on apart from anarchy?",
-    "start": 8.054,
-    "end": 12.276,
-    "zh": "计算机行业除了混乱之外还靠什么兴旺发展？",
-    "zh_hant": "計算機行業除了混亂之外還靠什麼興旺發展？"
-  },
-  {
-    "index": 3,
     "text": "Technology trends may push Silicon Valley back to the future.",
     "start": 14.517,
     "end": 18.599,
@@ -32,7 +16,7 @@
     "zh_hant": "技術趨勢可能推動矽谷回到未來。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Carver Mead, a pioneer in integrated circuits",
     "start": 19.0,
     "end": 22.861,
@@ -40,7 +24,7 @@
     "zh_hant": "卡弗·米德，積體電路的先驅"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "and a professor of computer science at the California Institute of Technology,",
     "start": 22.541,
     "end": 28.124,
@@ -48,7 +32,7 @@
     "zh_hant": "也是加州理工學院的電腦科學教授，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "notes there are now workstations that enable",
     "start": 28.264,
     "end": 32.026,
@@ -56,7 +40,7 @@
     "zh_hant": "指出現在有工作站可以讓"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "engineers to design, test and produce",
     "start": 31.676,
     "end": 35.408,
@@ -64,7 +48,7 @@
     "zh_hant": "工程師設計、測試並生產"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "chips right on their desks, much the way and editor creates a newsletter on a Macintosh.",
     "start": 35.058,
     "end": 41.391,
@@ -72,7 +56,7 @@
     "zh_hant": "晶片，直接在他們的辦公桌上，就像編輯在麥金塔上製作通訊稿一樣。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "As the time and cost of making a chip drop to a few days and a few hundred dollars,",
     "start": 41.831,
     "end": 47.374,
@@ -80,7 +64,7 @@
     "zh_hant": "隨著製造晶片的時間和成本降到幾天和幾百美元，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "engineers may soon be free to let their imaginations soar without being penalized by expensive failures.",
     "start": 47.434,
     "end": 54.818,
@@ -88,7 +72,7 @@
     "zh_hant": "工程師可能很快就能自由馳騁想象力，而不會因昂貴的失敗而受罰。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Mead predicts that inventors will be able to perfect powerful customized chips",
     "start": 54.938,
     "end": 60.46,
@@ -96,7 +80,7 @@
     "zh_hant": "米德預測，發明者將能在辦公室的一個週末內完善強大的定製晶片——"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "over a weekend at the office -- spawning a new generation of garage start-ups",
     "start": 60.14,
     "end": 65.923,
@@ -104,7 +88,7 @@
     "zh_hant": "催生新一代車庫初創企業，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "and giving the U. S. a jump on its foreign rivals in getting new products to market fast.",
     "start": 65.783,
     "end": 72.426,
@@ -112,7 +96,7 @@
     "zh_hant": "並讓美國在快速將新產品推向市場方面領先於外國競爭對手。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "'We've got more garages with smart people,' Mead observes.",
     "start": 72.166,
     "end": 77.449,
@@ -120,7 +104,7 @@
     "zh_hant": "“我們有更多藏龍臥虎的車庫，”米德觀察到。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "'We really thrive on anarchy.",
     "start": 77.099,
     "end": 79.83,
@@ -128,7 +112,7 @@
     "zh_hant": "“我們確實靠混亂興旺。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "' And on Asians.",
     "start": 80.791,
     "end": 82.592,
@@ -136,7 +120,7 @@
     "zh_hant": "”還有靠亞洲人。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Already, orientals and Asian Americans constitute the majority of the engineering staffs",
     "start": 82.612,
     "end": 89.055,
@@ -144,7 +128,7 @@
     "zh_hant": "如今，東方人和亞裔美國人已經構成許多矽谷公司工程人員的大多數。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "at many Valley firms.",
     "start": 88.955,
     "end": 90.876,
@@ -152,7 +136,7 @@
     "zh_hant": "在加州的許多公司，工程人員中多數是東方人和亞裔美國人。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "And Chinese, Korean, Filipino and Indian engineers",
     "start": 91.056,
     "end": 95.278,
@@ -160,7 +144,7 @@
     "zh_hant": "而中國、韓國、菲律賓和印度的工程師"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "are graduating in droves from California's colleges.",
     "start": 95.318,
     "end": 99.5,
@@ -168,7 +152,7 @@
     "zh_hant": "正大量從加州的高校畢業。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "As the heads of next-generation start-ups,",
     "start": 100.101,
     "end": 102.942,
@@ -176,7 +160,7 @@
     "zh_hant": "作為下一代初創企業的領軍人物，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "these Asian innovators can draw on customs and languages",
     "start": 102.822,
     "end": 107.444,
@@ -184,7 +168,7 @@
     "zh_hant": "這些亞洲創新者可以藉助傳統習俗和語言"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "to forge tighter links with crucial Pacific Rim markets.",
     "start": 107.364,
     "end": 111.866,
@@ -192,7 +176,7 @@
     "zh_hant": "與關鍵的環太平洋市場建立更緊密的聯絡。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "For instance, Alex Au, a Stanford Ph.",
     "start": 112.086,
     "end": 116.228,
@@ -200,7 +184,7 @@
     "zh_hant": "例如，來自香港的斯坦福博士亞歷克斯·歐"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "D. from Hong Kong, has set up a Taiwan factory",
     "start": 115.878,
     "end": 119.461,
@@ -208,7 +192,7 @@
     "zh_hant": "已在臺灣設立工廠，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "to challenge Japan's near lock on the memory-chip market.",
     "start": 119.061,
     "end": 124.034,
@@ -216,7 +200,7 @@
     "zh_hant": "以挑戰日本在儲存晶片市場的近乎壟斷地位。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "India-born N. Damodar Reddy's tiny California company",
     "start": 124.475,
     "end": 129.218,
@@ -224,7 +208,7 @@
     "zh_hant": "生於印度的N. 達莫達·雷迪在加州的小公司"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "reopened an AT&T chip plant in Kansas City last spring",
     "start": 129.339,
     "end": 134.042,
@@ -232,7 +216,7 @@
     "zh_hant": "去年春天在堪薩斯城重新啟動了AT&T的晶片工廠，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "with financing from the state of Missouri.",
     "start": 134.042,
     "end": 136.744,
@@ -240,7 +224,7 @@
     "zh_hant": "依靠密蘇里州的資金支援。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business.",
     "start": 137.185,
     "end": 144.31,

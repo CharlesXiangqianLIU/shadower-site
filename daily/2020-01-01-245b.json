@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 17.",
-    "start": 0.63,
-    "end": 2.681,
-    "zh": "第十七课。",
-    "zh_hant": "第十七課。"
+    "text": "Lesson 17 A man-made disease",
+    "start": 0.62,
+    "end": 10.163,
+    "zh": "第17课 人造疾病",
+    "zh_hant": "第17課 人造疾病"
   },
   {
     "index": 1,
-    "text": "A man-made disease.",
-    "start": 2.731,
-    "end": 4.55,
-    "zh": "一种人为造成的疾病。",
-    "zh_hant": "一種人為造成的疾病。"
+    "text": "What factor helped to spread the disease of myxomatosis?",
+    "start": 11.764,
+    "end": 16.245,
+    "zh": "是什么因素帮助传播了粘液瘤病？",
+    "zh_hant": "是什麼因素幫助傳播了粘液瘤病？"
   },
   {
     "index": 2,
-    "text": "What factor helped to spread the disease of myxomatosis?",
-    "start": 11.756,
-    "end": 16.238,
-    "zh": "什么因素助长了多发性粘液瘤病的传播？",
-    "zh_hant": "什麼因素助長了多發性粘液瘤病的傳播？"
-  },
-  {
-    "index": 3,
     "text": "In the early days of the settlement of Australia,",
     "start": 18.219,
     "end": 21.541,
@@ -32,7 +24,7 @@
     "zh_hant": "在澳大利亞殖民初期，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "enterprising settlers unwisely introduced the European rabbit.",
     "start": 21.901,
     "end": 27.524,
@@ -40,7 +32,7 @@
     "zh_hant": "有創業精神的定居者不明智地引入了歐洲兔子。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "This rabbit had no natural enemies in the Antipodes,",
     "start": 28.404,
     "end": 32.646,
@@ -48,7 +40,7 @@
     "zh_hant": "這種兔子在澳洲沒有天敵，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "so that it multiplied with that promiscuous abandon characteristic of rabbits.",
     "start": 33.167,
     "end": 39.67,
@@ -56,7 +48,7 @@
     "zh_hant": "因此它以兔子特有的那種濫交方式迅速繁殖。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "It overran a whole continent.",
     "start": 40.411,
     "end": 43.472,
@@ -64,7 +56,7 @@
     "zh_hant": "它侵佔了整個大陸。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "It caused devastation by burrowing and by devouring",
     "start": 43.792,
     "end": 48.094,
@@ -72,7 +64,7 @@
     "zh_hant": "它透過挖洞和啃食造成了破壞，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "the herbage which might have maintained millions of sheep and cattle.",
     "start": 47.974,
     "end": 52.376,
@@ -80,7 +72,7 @@
     "zh_hant": "啃食了本可以養活數百萬只羊和牛的草料。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Scientists discovered that this particular variety of rabbit (and apparently no other animal)",
     "start": 52.957,
     "end": 59.94,
@@ -88,7 +80,7 @@
     "zh_hant": "科學家發現這種特殊品種的兔子（顯然沒有其他動物）"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "was susceptible to a fatal virus disease, myxomatosis.",
     "start": 60.14,
     "end": 65.863,
@@ -96,7 +88,7 @@
     "zh_hant": "對一種致命的病毒性疾病——多發性粘液瘤病——易感。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "By infecting animals and letting them loose in the burrows, local epidemics of this disease could be created.",
     "start": 66.864,
     "end": 74.367,
@@ -104,7 +96,7 @@
     "zh_hant": "透過感染動物並將其放回洞穴，可以引發該病的區域性流行。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Later it was found that there was a type of mosquito",
     "start": 75.008,
     "end": 78.289,
@@ -112,7 +104,7 @@
     "zh_hant": "後來發現有一種蚊子"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "which acted as the carrier of this disease and passed it on to the rabbits.",
     "start": 78.169,
     "end": 83.052,
@@ -120,7 +112,7 @@
     "zh_hant": "充當了這種疾病的載體，並將其傳播給兔子。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one.",
     "start": 83.813,
     "end": 90.676,
@@ -128,7 +120,7 @@
     "zh_hant": "因此，當世界其他地方試圖消滅蚊子時，澳大利亞卻在鼓勵這種蚊子。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "It effectively spread the disease all over the continent and drastically reduced the rabit population.",
     "start": 91.116,
     "end": 98.6,
@@ -136,7 +128,7 @@
     "zh_hant": "它有效地將疾病傳播到整個大陸，並大幅減少了兔子數量。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "It later became apparent that rabbits were developing a degree of resistance to this disease,",
     "start": 99.581,
     "end": 105.384,
@@ -144,7 +136,7 @@
     "zh_hant": "後來顯而易見，兔子正在對這種疾病產生一定程度的抗性，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "so that the rabbit population was unlikely to be completely exterminated.",
     "start": 105.844,
     "end": 111.127,
@@ -152,7 +144,7 @@
     "zh_hant": "因此兔子種群不太可能被完全滅絕。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "There were hopes, however, that the problem of the rabbit would become manageable.",
     "start": 111.887,
     "end": 117.41,
@@ -160,7 +152,7 @@
     "zh_hant": "然而，人們曾希望兔子問題能夠變得可控。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia,",
     "start": 118.75,
     "end": 124.773,
@@ -168,7 +160,7 @@
     "zh_hant": "具有諷刺意味的是，歐洲——它曾把兔子作為害獸贈送給澳大利亞——"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "acquired this man-made disease as a pestilence.",
     "start": 124.933,
     "end": 128.735,
@@ -176,7 +168,7 @@
     "zh_hant": "卻把這種人為疾病當作瘟疫而染上了。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis.",
     "start": 129.295,
     "end": 136.779,
@@ -184,7 +176,7 @@
     "zh_hant": "一位法國醫生決定清除自己莊園裡的野兔，於是引入了多發性粘液瘤病。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "It did not, however, remain within the confines of this estate.",
     "start": 137.019,
     "end": 141.641,
@@ -192,7 +184,7 @@
     "zh_hant": "然而，它並沒有停留在該莊園的範圍內。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "It spread through France,",
     "start": 142.102,
     "end": 144.022,
@@ -200,7 +192,7 @@
     "zh_hant": "它蔓延到了整個法國，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply,",
     "start": 144.203,
     "end": 151.126,
@@ -208,7 +200,7 @@
     "zh_hant": "在法國，野兔通常不被視為害獸，而被視為一種娛樂活動和有用的食物來源。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "and it spread to Britain where wild rabbits are regarded as a pest",
     "start": 151.466,
     "end": 156.188,
@@ -216,7 +208,7 @@
     "zh_hant": "它蔓延到了英國，在英國，野兔被視為害獸，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "but where domesticated rabbits, equally susceptible to the disease,",
     "start": 156.148,
     "end": 161.194,
@@ -224,7 +216,7 @@
     "zh_hant": "但家兔也同樣易感該病，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "are the basis of a profitable fur industry.",
     "start": 161.515,
     "end": 164.78,
@@ -232,7 +224,7 @@
     "zh_hant": "而家兔是利潤豐厚的皮毛產業的基礎。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "The question became one of whether Man could control the disease he had invented.",
     "start": 165.482,
     "end": 170.59,

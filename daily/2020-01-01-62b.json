@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 123.",
-    "start": 0.71,
-    "end": 3.902,
-    "zh": "第123课。",
-    "zh_hant": "第123課。"
+    "text": "Lesson 123 A trip to Australia Listen to the tape then answer this question.",
+    "start": 0.73,
+    "end": 12.031,
+    "zh": "第123课 澳大利亚之旅 听录音,然后回答这个问题。",
+    "zh_hant": "第123課 澳大利亞之旅 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A trip to Australia.",
-    "start": 3.952,
-    "end": 6.313,
-    "zh": "澳大利亚之行。",
-    "zh_hant": "澳大利亞之行。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.354,
-    "end": 10.395,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.155,
-    "end": 12.036,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Who is the man with the beard?",
     "start": 12.896,
     "end": 15.858,
@@ -40,7 +16,7 @@
     "zh_hant": "那個留鬍子的男人是誰？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Look, Scott.",
     "start": 17.839,
     "end": 19.199,
@@ -48,7 +24,7 @@
     "zh_hant": "看，斯科特。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "This is a photograph I took",
     "start": 20.0,
     "end": 23.141,
@@ -56,7 +32,7 @@
     "zh_hant": "這是我拍的一張照片"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "during my trip to Australia.",
     "start": 22.921,
     "end": 25.883,
@@ -64,7 +40,7 @@
     "zh_hant": "在我去澳大利亞旅行的時候。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "Let me see it, Mike.",
     "start": 26.643,
     "end": 28.784,
@@ -72,7 +48,7 @@
     "zh_hant": "讓我看看，邁克。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "This is a good photograph.",
     "start": 29.205,
     "end": 31.726,
@@ -80,7 +56,7 @@
     "zh_hant": "這張照片拍得很好。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Who are these people?",
     "start": 31.926,
     "end": 33.967,
@@ -88,7 +64,7 @@
     "zh_hant": "這些人是誰？"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "They're people I met during the trip.",
     "start": 35.027,
     "end": 38.429,
@@ -96,7 +72,7 @@
     "zh_hant": "他們是我旅行中遇到的人。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "That's the ship we travelled on.",
     "start": 39.49,
     "end": 41.971,
@@ -104,7 +80,7 @@
     "zh_hant": "那是我們乘坐的船。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "What a beautiful ship!",
     "start": 42.332,
     "end": 44.612,
@@ -112,7 +88,7 @@
     "zh_hant": "多漂亮的船啊！"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Who's this?",
     "start": 44.953,
     "end": 46.333,
@@ -120,7 +96,7 @@
     "zh_hant": "這是誰？"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "That's the man I told you about.",
     "start": 47.114,
     "end": 50.095,
@@ -128,7 +104,7 @@
     "zh_hant": "那是我告訴過你的那個人。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Remember?",
     "start": 50.156,
     "end": 51.216,
@@ -136,7 +112,7 @@
     "zh_hant": "記得嗎？"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Ah yes.",
     "start": 51.596,
     "end": 52.977,
@@ -144,7 +120,7 @@
     "zh_hant": "啊，是的。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "The one who offered you a job in Australia.",
     "start": 53.017,
     "end": 56.979,
@@ -152,7 +128,7 @@
     "zh_hant": "就是在澳大利亞給你工作機會的那個人。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "That's right.",
     "start": 57.339,
     "end": 58.62,
@@ -160,7 +136,7 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Who's this?",
     "start": 58.88,
     "end": 60.22,
@@ -168,7 +144,7 @@
     "zh_hant": "這是誰？"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "Guess!",
     "start": 60.541,
     "end": 61.501,
@@ -176,7 +152,7 @@
     "zh_hant": "猜猜！"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "It's not you, is it?",
     "start": 61.741,
     "end": 64.102,
@@ -184,7 +160,7 @@
     "zh_hant": "這不是你，對吧？"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "That's right.",
     "start": 64.063,
     "end": 65.663,
@@ -192,7 +168,7 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "I grew a beard during the trip,",
     "start": 66.704,
     "end": 69.345,
@@ -200,7 +176,7 @@
     "zh_hant": "我在旅行期間留了鬍子，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "but I shaved it off when I came home.",
     "start": 69.706,
     "end": 73.427,
@@ -208,7 +184,7 @@
     "zh_hant": "但回家後我把鬍子剃掉了。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Why did you shave it off?",
     "start": 73.487,
     "end": 75.828,
@@ -216,7 +192,7 @@
     "zh_hant": "你為什麼把它剃掉？"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "My wife didn't like it!",
     "start": 76.149,
     "end": 78.61,

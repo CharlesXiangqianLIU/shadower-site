@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 29.",
-    "start": 6.433,
-    "end": 5.29,
-    "zh": "第二十九课。",
-    "zh_hant": "第二十九課。"
+    "text": "Lesson 29 Funny or not?",
+    "start": 6.411,
+    "end": 9.561,
+    "zh": "第29课 有趣还是无趣?",
+    "zh_hant": "第29課 有趣還是無趣?"
   },
   {
     "index": 1,
-    "text": "Funny or not?",
-    "start": 7.193,
-    "end": 9.914,
-    "zh": "有趣还是不好笑？",
-    "zh_hant": "有趣還是不好笑？"
-  },
-  {
-    "index": 2,
     "text": "What is the basis of 'sick' humour?",
     "start": 12.056,
     "end": 15.097,
@@ -24,7 +16,7 @@
     "zh_hant": "“病態”幽默的基礎是什麼？"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "Whether we find a joke funny or not largely depends on where we have been brought up.",
     "start": 17.258,
     "end": 23.081,
@@ -32,7 +24,7 @@
     "zh_hant": "我們覺得笑話是否好笑，很大程度上取決於我們從小在哪兒長大。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "The sense of humour is mysteriously bound up with national characteristics.",
     "start": 23.821,
     "end": 28.904,
@@ -40,7 +32,7 @@
     "zh_hant": "幽默感與民族特性有著神秘的聯絡。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "A Frenchman, for instance, might find it hard to laugh at a Russian joke.",
     "start": 29.664,
     "end": 33.986,
@@ -48,7 +40,7 @@
     "zh_hant": "例如，一個法國人可能很難對俄國笑話發笑。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "In the same way, a Russian might fail to see anything amusing in a joke",
     "start": 34.427,
     "end": 39.209,
@@ -56,7 +48,7 @@
     "zh_hant": "同樣，一個俄國人可能看不出一個笑話有什麼好笑之處"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "which would make an Englishman laugh to tears.",
     "start": 39.049,
     "end": 41.77,
@@ -64,7 +56,7 @@
     "zh_hant": "而這笑話卻會讓英國人笑出眼淚。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Most funny stories are based on comic situations.",
     "start": 42.711,
     "end": 46.253,
@@ -72,7 +64,7 @@
     "zh_hant": "大多數有趣的故事都基於滑稽的情境。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "In spite of national differences, certain funny situations have a universal appeal.",
     "start": 46.753,
     "end": 52.796,
@@ -80,7 +72,7 @@
     "zh_hant": "儘管存在民族差異，某些滑稽情境具有普遍的吸引力。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "No matter where you live, you would find it difficult not to laugh at, say,",
     "start": 53.597,
     "end": 58.519,
@@ -88,7 +80,7 @@
     "zh_hant": "無論你住在哪裡，你都會覺得很難忍住不笑，比如說，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Charlie Chaplin's early films.",
     "start": 58.299,
     "end": 60.54,
@@ -96,7 +88,7 @@
     "zh_hant": "查理·卓別林的早期電影。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "However, a new type of humour, which stems largely from U.S.,",
     "start": 60.92,
     "end": 65.682,
@@ -104,7 +96,7 @@
     "zh_hant": "然而，一種主要源自美國的新型幽默，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "has recently come into fashion.",
     "start": 65.702,
     "end": 67.663,
@@ -112,7 +104,7 @@
     "zh_hant": "最近流行起來。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "It is called 'sick humour'.",
     "start": 67.904,
     "end": 70.645,
@@ -120,7 +112,7 @@
     "zh_hant": "它被稱為“病態幽默”。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Comedians base their jokes on tragic situations",
     "start": 70.345,
     "end": 74.206,
@@ -128,7 +120,7 @@
     "zh_hant": "喜劇演員以悲劇情境為基礎編笑話，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "like violent death or serious accidents.",
     "start": 74.227,
     "end": 77.268,
@@ -136,7 +128,7 @@
     "zh_hant": "比如暴死或嚴重事故。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Many people find this sort of joke distasteful.",
     "start": 77.528,
     "end": 80.329,
@@ -144,7 +136,7 @@
     "zh_hant": "許多人覺得這類笑話令人反感。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "The following example of 'sick humour' will enable you to judge for yourself.",
     "start": 80.67,
     "end": 84.872,
@@ -152,7 +144,7 @@
     "zh_hant": "下面這個“病態幽默”的例子，可以讓你自己來判斷。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "A man who had broken his right leg was taken to hospital a few weeks before Christmas.",
     "start": 85.593,
     "end": 91.916,
@@ -160,7 +152,7 @@
     "zh_hant": "一個右腿骨折的男人在聖誕節前幾周被送進了醫院。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "From the moment he arrived there, he kept on pestering his doctor to tell him",
     "start": 92.316,
     "end": 96.738,
@@ -168,7 +160,7 @@
     "zh_hant": "從到達醫院那一刻起，他就不斷糾纏醫生，要求告訴他"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "when he would be able to go home.",
     "start": 96.698,
     "end": 98.919,
@@ -176,7 +168,7 @@
     "zh_hant": "什麼時候能回家。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "He dreaded having to spend Christmas in hospital.",
     "start": 99.159,
     "end": 102.121,
@@ -184,7 +176,7 @@
     "zh_hant": "他害怕自己不得不在醫院裡過聖誕節。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "Though the doctor did his best, the patient's recovery was slow.",
     "start": 102.441,
     "end": 106.703,
@@ -192,7 +184,7 @@
     "zh_hant": "儘管醫生盡了最大努力，病人的恢復卻仍然緩慢。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "On Christmas day, the man still had his right leg in plaster.",
     "start": 107.103,
     "end": 111.145,
@@ -200,7 +192,7 @@
     "zh_hant": "聖誕節那天，他的右腿還打著石膏。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "He spent a miserable day in bed thinking of all the fun he was missing.",
     "start": 111.425,
     "end": 115.827,
@@ -208,7 +200,7 @@
     "zh_hant": "他躺在床上度過了痛苦的一天，想著自己錯過的所有樂趣。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "The following day, however, the doctor consoled him",
     "start": 115.988,
     "end": 119.069,
@@ -216,7 +208,7 @@
     "zh_hant": "然而第二天，醫生安慰他"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.",
     "start": 118.869,
     "end": 124.653,
@@ -224,7 +216,7 @@
     "zh_hant": "告訴他，他很可能及時出院趕上新年慶祝活動。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "The man took heart and sure enough, on New Year's Eve he was able to hobble along to a party.",
     "start": 124.853,
     "end": 131.116,
@@ -232,7 +224,7 @@
     "zh_hant": "這個人振作了精神，果然，在除夕那天，他能一瘸一拐地去參加聚會。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "To compensate for his unpleasant experiences in hospital,",
     "start": 131.357,
     "end": 135.479,
@@ -240,7 +232,7 @@
     "zh_hant": "為了補償在醫院的不愉快經歷，"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "the man drank a little more than was good for him.",
     "start": 135.499,
     "end": 138.481,
@@ -248,7 +240,7 @@
     "zh_hant": "他喝了比平時更有利於健康的酒量，多了一點。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.",
     "start": 138.581,
     "end": 145.005,
@@ -256,7 +248,7 @@
     "zh_hant": "在這個過程中，他玩得非常盡興，不停地告訴大家他有多討厭醫院。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "He was still mumbling something about hospitals at the end",
     "start": 145.165,
     "end": 148.707,
@@ -264,7 +256,7 @@
     "zh_hant": "聚會結束時，他還在嘟囔著關於醫院的事情，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "of the party when he slipped on a piece of ice and broke his left leg.",
     "start": 148.357,
     "end": 154.01,

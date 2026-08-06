@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 38.",
-    "start": 1.531,
-    "end": 3.402,
-    "zh": "第三十八课。",
-    "zh_hant": "第三十八課。"
+    "text": "Lesson 38 Water and the traveller",
+    "start": 2.61,
+    "end": 9.381,
+    "zh": "第38课:水与旅行者",
+    "zh_hant": "第38課:水與旅行者"
   },
   {
     "index": 1,
-    "text": "Water and the traveller.",
-    "start": 3.452,
-    "end": 7.353,
-    "zh": "水与旅行者。",
-    "zh_hant": "水與旅行者。"
+    "text": "What does this text describe?",
+    "start": 12.001,
+    "end": 14.182,
+    "zh": "这篇文章描述的是什么？",
+    "zh_hant": "這篇文章描述的是什麼？"
   },
   {
     "index": 2,
-    "text": "What does this text",
-    "start": 7.714,
-    "end": 13.616,
-    "zh": "这篇课文描述了什么",
-    "zh_hant": "這篇課文描述了什麼"
-  },
-  {
-    "index": 3,
-    "text": "describe?",
-    "start": 13.376,
-    "end": 14.557,
-    "zh": "内容？",
-    "zh_hant": "內容？"
-  },
-  {
-    "index": 4,
     "text": "Contamination of water supplies is usually due to poor sanitation close to water sources,",
     "start": 16.778,
     "end": 23.261,
@@ -40,7 +24,7 @@
     "zh_hant": "水源汙染通常是由於水源附近的衛生條件差、"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "sewage disposal into the sources themselves, leakage of sewage",
     "start": 23.721,
     "end": 28.644,
@@ -48,7 +32,7 @@
     "zh_hant": "汙水直接排入水源、汙水滲漏"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "into distribution systems",
     "start": 28.444,
     "end": 30.464,
@@ -56,7 +40,7 @@
     "zh_hant": "進入供水系統，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "or contamination with industrial or farm waste.",
     "start": 30.365,
     "end": 33.866,
@@ -64,7 +48,7 @@
     "zh_hant": "或受到工業或農業廢物的汙染。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Even if a piped water supply is safe at its source,",
     "start": 34.887,
     "end": 38.849,
@@ -72,7 +56,7 @@
     "zh_hant": "即使管道供水在水源處是安全的，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "it is not always safe by the time it reaches the tap.",
     "start": 38.989,
     "end": 42.191,
@@ -80,7 +64,7 @@
     "zh_hant": "到達水龍頭時也不一定安全。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Intermittent tap-water supplies should be regarded as particularly suspect.",
     "start": 43.211,
     "end": 48.774,
@@ -88,7 +72,7 @@
     "zh_hant": "間歇性供應的自來水應被視為特別可疑。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Travellers on short trips to areas",
     "start": 49.635,
     "end": 52.176,
@@ -96,7 +80,7 @@
     "zh_hant": "短期前往水質"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "with water supplies of uncertain quality should avoid drinking tap-water,",
     "start": 52.016,
     "end": 57.638,
@@ -104,7 +88,7 @@
     "zh_hant": "不確定地區的旅行者應避免飲用自來水，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "or untreated water from any other source.",
     "start": 57.639,
     "end": 60.8,
@@ -112,7 +96,7 @@
     "zh_hant": "以及任何其他來源未經處理的水。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "It is best to keep to hot drinks, bottled or canned drinks",
     "start": 61.52,
     "end": 65.742,
@@ -120,7 +104,7 @@
     "zh_hant": "最好堅持喝熱飲、瓶裝或罐裝飲料，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "of well-known brand names-international",
     "start": 65.562,
     "end": 68.764,
@@ -128,7 +112,7 @@
     "zh_hant": "選擇知名品牌——國際"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "standard of water treatment are usually followed at bottling plants.",
     "start": 68.414,
     "end": 72.886,
@@ -136,7 +120,7 @@
     "zh_hant": "水處理標準通常在裝瓶廠得到遵循。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Carbonated drinks are acidic, and slightly safer.",
     "start": 73.626,
     "end": 77.168,
@@ -144,7 +128,7 @@
     "zh_hant": "碳酸飲料呈酸性，相對更安全。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Make sure that all bottles are opened in your presence, and that their rims are clean and dry.",
     "start": 77.808,
     "end": 84.132,
@@ -152,7 +136,7 @@
     "zh_hant": "確保所有瓶子都在你面前開啟，並且瓶口清潔乾燥。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Boiling is always a good way of treating water.",
     "start": 85.113,
     "end": 88.174,
@@ -160,7 +144,7 @@
     "zh_hant": "煮沸始終是處理水的好方法。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Some hotels supply boiled water on request and this can be used for drinking,",
     "start": 88.894,
     "end": 94.117,
@@ -168,7 +152,7 @@
     "zh_hant": "有些酒店可按要求提供開水，這可用於飲用，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "or for brushing teeth.",
     "start": 93.957,
     "end": 95.517,
@@ -176,7 +160,7 @@
     "zh_hant": "或用來刷牙。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Portable boiling elements that can boil small quantities of water",
     "start": 96.378,
     "end": 100.96,
@@ -184,7 +168,7 @@
     "zh_hant": "能煮沸少量水的行動式加熱器"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "are useful when the right voltage of electricity is available.",
     "start": 100.88,
     "end": 104.762,
@@ -192,7 +176,7 @@
     "zh_hant": "在有合適電壓的電力時很有用。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Refuse politely any cold drink from an unknown source.",
     "start": 105.302,
     "end": 109.784,
@@ -200,7 +184,7 @@
     "zh_hant": "禮貌地拒絕任何來源不明的冷飲。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Ice is only as safe as the water from which it is made,",
     "start": 110.905,
     "end": 114.467,
@@ -208,7 +192,7 @@
     "zh_hant": "冰塊的安全性與製作它的水相同，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "and should not be put in drinks unless it is known to be safe.",
     "start": 114.487,
     "end": 118.589,
@@ -216,7 +200,7 @@
     "zh_hant": "除非確認其安全，否則不應放入飲料中。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Drinks can be cooled by placing them on ice rather than adding ice to them.",
     "start": 119.269,
     "end": 124.492,
@@ -224,7 +208,7 @@
     "zh_hant": "飲料可以放在冰上冷卻，而不是往飲料中加冰。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Alcohol may be a medical disinfectant, but should not be relied upon to sterilize water.",
     "start": 125.333,
     "end": 131.656,
@@ -232,7 +216,7 @@
     "zh_hant": "酒精可能是醫用消毒劑，但不應依賴它來給水消毒。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Ethanol is more effective at a concentration of 50-70 percent;",
     "start": 132.456,
     "end": 137.979,
@@ -240,7 +224,7 @@
     "zh_hant": "乙醇在濃度為50%到70%時更有效；"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "below 20 per cent,",
     "start": 138.599,
     "end": 140.34,
@@ -248,7 +232,7 @@
     "zh_hant": "低於20%時，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "its bactericidal action is negligible.",
     "start": 140.36,
     "end": 143.521,
@@ -256,7 +240,7 @@
     "zh_hant": "其殺菌作用可以忽略不計。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "Spirits labelled 95 proof contain only about 47 per cent alcohol.",
     "start": 144.282,
     "end": 150.545,
@@ -264,7 +248,7 @@
     "zh_hant": "標為95 proof的烈酒僅含約47%的酒精。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "Beware of methylated alcohol, which is very poisonous",
     "start": 151.185,
     "end": 155.827,
@@ -272,7 +256,7 @@
     "zh_hant": "小心甲醇酒精，它劇毒，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "and should never be added to drinking water.",
     "start": 155.768,
     "end": 158.469,
@@ -280,7 +264,7 @@
     "zh_hant": "絕不能加入飲用水中。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "If no other safe water supply can be obtained,",
     "start": 159.369,
     "end": 162.492,
@@ -288,7 +272,7 @@
     "zh_hant": "如果無法獲得其他安全水源，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "tap water that is too hot to touch can be left to cool and is generally safe to drink.",
     "start": 162.653,
     "end": 168.898,
@@ -296,7 +280,7 @@
     "zh_hant": "摸起來太燙的自來水可以放涼後飲用，通常安全。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Those planning a trip to remote areas, or intending to live in countries",
     "start": 169.719,
     "end": 174.303,
@@ -304,7 +288,7 @@
     "zh_hant": "那些計劃去偏遠地區旅行，或打算住在"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "where drinking water is not readily available, should know",
     "start": 173.953,
     "end": 177.887,
@@ -312,7 +296,7 @@
     "zh_hant": "飲用水不易獲得國家的人，應該瞭解"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "about the various possible methods for making water safe.",
     "start": 177.537,
     "end": 181.41,

@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 37.",
+    "text": "Lesson 37 The Westhaven Express What was the mistake the author made?",
     "start": 0.23,
-    "end": 2.021,
-    "zh": "第37课。",
-    "zh_hant": "第37課。"
+    "end": 11.911,
+    "zh": "第37课 韦斯特黑文快车 作者犯了什么错误?",
+    "zh_hant": "第37課 韋斯特黑文快車 作者犯了什麼錯誤?"
   },
   {
     "index": 1,
-    "text": "The Westhaven Express.",
-    "start": 2.071,
-    "end": 5.092,
-    "zh": "韦斯特黑文快车。",
-    "zh_hant": "韋斯特黑文快車。"
-  },
-  {
-    "index": 2,
-    "text": "What was the mistake the author made?",
-    "start": 7.754,
-    "end": 11.916,
-    "zh": "作者犯的错误是什么？",
-    "zh_hant": "作者犯的錯誤是什麼？"
-  },
-  {
-    "index": 3,
     "text": "We have learnt to expect that trains will be punctual.",
     "start": 13.977,
     "end": 18.119,
@@ -32,7 +16,7 @@
     "zh_hant": "我們已經習慣了期待火車會準點。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "After years of conditioning, most of us have developed an unshakable faith in railway",
     "start": 18.359,
     "end": 24.702,
@@ -40,7 +24,7 @@
     "zh_hant": "經過多年的習慣養成，我們大多數人對鐵路"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "timetables.",
     "start": 24.352,
     "end": 25.683,
@@ -48,7 +32,7 @@
     "zh_hant": "時刻表有了不可動搖的信任。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Ships may be delayed by storms; flights may be cancelled because of bad weather;",
     "start": 26.183,
     "end": 32.106,
@@ -56,7 +40,7 @@
     "zh_hant": "船隻可能因暴風雨而延誤；航班可能因惡劣天氣而取消；"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "but trains must be on time.",
     "start": 32.186,
     "end": 35.227,
@@ -64,7 +48,7 @@
     "zh_hant": "但火車必須準時。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Only an exceptionally heavy snow fall might temporarily",
     "start": 35.888,
     "end": 40.55,
@@ -72,7 +56,7 @@
     "zh_hant": "只有異常的大雪可能會暫時"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "dislocate railway services.",
     "start": 40.231,
     "end": 42.712,
@@ -80,7 +64,7 @@
     "zh_hant": "打亂鐵路服務。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "It is all too easy to blame the railway authorities when something does go wrong.",
     "start": 43.272,
     "end": 49.175,
@@ -88,7 +72,7 @@
     "zh_hant": "當事情真的出錯時，很容易責怪鐵路當局。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "The truth is that when mistakes occur, they are more likely to be ours than theirs.",
     "start": 49.455,
     "end": 55.838,
@@ -96,7 +80,7 @@
     "zh_hant": "事實是，當錯誤發生時，更可能是我們的錯，而不是他們的。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "After consulting my railway timetable,",
     "start": 56.599,
     "end": 59.64,
@@ -104,7 +88,7 @@
     "zh_hant": "查閱了我的鐵路時刻表後，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "I noted with satisfaction that there was an express train to Westhaven.",
     "start": 59.76,
     "end": 65.503,
@@ -112,7 +96,7 @@
     "zh_hant": "我滿意地注意到有一趟去韋斯特黑文的快車。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "It went direct from my local station",
     "start": 65.963,
     "end": 68.724,
@@ -120,7 +104,7 @@
     "zh_hant": "它從我的當地車站直達，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "and the journey lasted a mere hour and seventeen minutes.",
     "start": 68.745,
     "end": 73.287,
@@ -128,7 +112,7 @@
     "zh_hant": "旅程僅需一小時十七分鐘。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "When I boarded the train, I could not help noticing",
     "start": 73.527,
     "end": 77.329,
@@ -136,7 +120,7 @@
     "zh_hant": "當我上車時，我不禁注意到"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "that a great many local people got on as well.",
     "start": 77.169,
     "end": 80.711,
@@ -144,7 +128,7 @@
     "zh_hant": "很多當地人也上了車。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "At the time, this did not strike me as odd.",
     "start": 81.051,
     "end": 84.773,
@@ -152,7 +136,7 @@
     "zh_hant": "當時，我並不覺得這奇怪。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "I reflected that there must be a great many people besides myself who wished to take",
     "start": 84.933,
     "end": 90.856,
@@ -160,7 +144,7 @@
     "zh_hant": "我想，除了我之外，一定有很多人想利用"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "advantage of this excellent service.",
     "start": 90.506,
     "end": 93.277,
@@ -168,7 +152,7 @@
     "zh_hant": "這項優質服務。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Neither was I surprised when the train stopped at Widley,",
     "start": 93.237,
     "end": 97.319,
@@ -176,7 +160,7 @@
     "zh_hant": "當火車在威德利停車時，我也不感到驚訝，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "a tiny station a few miles along the line.",
     "start": 97.499,
     "end": 101.041,
@@ -184,7 +168,7 @@
     "zh_hant": "那是一個沿線幾英里外的小站。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Even a mighty express train can be held up by signals.",
     "start": 101.701,
     "end": 105.463,
@@ -192,7 +176,7 @@
     "zh_hant": "即使是強大的快車也可能被訊號燈攔住。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "But when the train dawdled at station after station, I began to wonder.",
     "start": 105.863,
     "end": 111.526,
@@ -200,7 +184,7 @@
     "zh_hant": "但當火車在一個又一個車站緩慢行駛時，我開始懷疑。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It suddenly dawned on me that this express",
     "start": 112.006,
     "end": 115.868,
@@ -208,7 +192,7 @@
     "zh_hant": "我突然意識到，這趟快車"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "was not roaring down the line at ninety miles an hour,",
     "start": 115.518,
     "end": 119.29,
@@ -216,7 +200,7 @@
     "zh_hant": "並沒有以每小時九十英里的速度轟鳴前進，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "but barely chugging along at thirty.",
     "start": 119.31,
     "end": 122.032,
@@ -224,7 +208,7 @@
     "zh_hant": "而是以每小時三十英里的速度勉強緩慢行駛。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "One hour and seventeen minutes passed and we had not even covered half the distance.",
     "start": 122.952,
     "end": 129.175,
@@ -232,7 +216,7 @@
     "zh_hant": "一小時十七分鐘過去了，我們連一半路程都沒走完。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "I asked a passenger if this was the Westhaven Express, but he had not even heard of it.",
     "start": 129.836,
     "end": 136.018,
@@ -240,7 +224,7 @@
     "zh_hant": "我問一位乘客這是否是韋斯特黑文快車，但他甚至沒聽說過它。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "I determined to lodge a complaint as soon as we arrived.",
     "start": 136.579,
     "end": 140.561,
@@ -248,7 +232,7 @@
     "zh_hant": "我決定一到站就提出投訴。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Two hours later, I was talking angrily to the station master at Westhaven.",
     "start": 141.021,
     "end": 146.744,
@@ -256,7 +240,7 @@
     "zh_hant": "兩小時後，我生氣地跟韋斯特黑文的站長說話。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "When he denied the train's existence, I borrowed his copy of the timetable.",
     "start": 147.264,
     "end": 152.927,
@@ -264,7 +248,7 @@
     "zh_hant": "當他否認這趟車的存在時，我借了他的時刻表副本。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "There was a note of triumph in my voice when I told him that it was there",
     "start": 153.427,
     "end": 158.45,
@@ -272,7 +256,7 @@
     "zh_hant": "當我告訴他那趟車在那裡時，我聲音裡帶著勝利的語氣，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "in black and white.",
     "start": 158.11,
     "end": 159.932,
@@ -280,7 +264,7 @@
     "zh_hant": "白紙黑字寫著。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "Glancing at it briefly, he told me to look again.",
     "start": 160.393,
     "end": 164.377,
@@ -288,7 +272,7 @@
     "zh_hant": "他匆匆看了一眼，讓我再看一遍。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "A tiny asterisk conducted me to a footnote at the bottom of the page.",
     "start": 164.999,
     "end": 170.845,
@@ -296,7 +280,7 @@
     "zh_hant": "一個小小的星號引導我看到頁面底部的腳註。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "It said: 'This service has been suspended.'",
     "start": 170.906,
     "end": 174.89,

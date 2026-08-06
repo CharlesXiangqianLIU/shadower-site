@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 55.",
+    "text": "Lesson 55 The Sawyer family Listen to the tape then answer this question.",
     "start": 0.55,
-    "end": 3.182,
-    "zh": "第55课。",
-    "zh_hant": "第55課。"
+    "end": 10.892,
+    "zh": "第55课 索耶一家 听录音,然后回答问题。",
+    "zh_hant": "第55課 索耶一家 聽錄音,然後回答問題。"
   },
   {
     "index": 1,
-    "text": "The Sawyer family.",
-    "start": 3.232,
-    "end": 5.052,
-    "zh": "索耶一家。",
-    "zh_hant": "索耶一家。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.213,
-    "end": 9.114,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 8.975,
-    "end": 10.895,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "When do the children do their homework?",
     "start": 11.816,
     "end": 15.337,
@@ -40,7 +16,7 @@
     "zh_hant": "孩子們什麼時候做作業？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "The Sawyers live at 87 King Street.",
     "start": 16.858,
     "end": 21.14,
@@ -48,7 +24,7 @@
     "zh_hant": "索耶一家住在國王街87號。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "In the morning,",
     "start": 21.901,
     "end": 23.241,
@@ -56,7 +32,7 @@
     "zh_hant": "早上，"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Mr. Sawyer goes to work",
     "start": 23.342,
     "end": 25.843,
@@ -64,7 +40,7 @@
     "zh_hant": "索耶先生去上班"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "and the children go to school.",
     "start": 26.223,
     "end": 29.164,
@@ -72,7 +48,7 @@
     "zh_hant": "孩子們去上學。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Their father takes them to school every day.",
     "start": 29.945,
     "end": 33.967,
@@ -80,7 +56,7 @@
     "zh_hant": "他們的父親每天送他們去學校。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Mrs. Sawyer stays at home every day.",
     "start": 35.048,
     "end": 38.749,
@@ -88,7 +64,7 @@
     "zh_hant": "索耶夫人每天待在家裡。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "She does the housework.",
     "start": 39.23,
     "end": 41.371,
@@ -96,7 +72,7 @@
     "zh_hant": "她做家務。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "She always eats her lunch at noon.",
     "start": 42.071,
     "end": 45.573,
@@ -104,7 +80,7 @@
     "zh_hant": "她總是在中午吃午飯。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "In the afternoon, she usually",
     "start": 46.774,
     "end": 49.975,
@@ -112,7 +88,7 @@
     "zh_hant": "下午，她通常"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "sees her friends.",
     "start": 49.715,
     "end": 51.396,
@@ -120,7 +96,7 @@
     "zh_hant": "見她的朋友們。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "They often drink tea together.",
     "start": 51.996,
     "end": 54.898,
@@ -128,7 +104,7 @@
     "zh_hant": "她們經常一起喝茶。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "In the evening, the children come home from school.",
     "start": 55.838,
     "end": 60.14,
@@ -136,7 +112,7 @@
     "zh_hant": "晚上，孩子們從學校回到家。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "They arrive home early.",
     "start": 60.701,
     "end": 63.102,
@@ -144,7 +120,7 @@
     "zh_hant": "他們到家很早。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Mr. Sawyer comes home from work.",
     "start": 64.142,
     "end": 67.464,
@@ -152,7 +128,7 @@
     "zh_hant": "索耶先生下班回家。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "He arrives home late.",
     "start": 67.924,
     "end": 70.385,
@@ -160,7 +136,7 @@
     "zh_hant": "他到家很晚。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "At night, the children always do their homework.",
     "start": 71.466,
     "end": 75.708,
@@ -168,7 +144,7 @@
     "zh_hant": "夜裡，孩子們總是做作業。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "Then they go to bed.",
     "start": 76.208,
     "end": 78.329,
@@ -176,7 +152,7 @@
     "zh_hant": "然後他們上床睡覺。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Mr. Sawyer usually reads his newspaper,",
     "start": 79.09,
     "end": 82.819,
@@ -184,7 +160,7 @@
     "zh_hant": "索耶先生通常看報紙，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "but sometimes he and his wife watch television.",
     "start": 83.08,
     "end": 87.33,

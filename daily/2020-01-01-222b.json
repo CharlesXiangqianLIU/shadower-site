@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 54.",
+    "text": "Lesson 54 Instinct or cleverness?",
     "start": 0.31,
-    "end": 2.221,
-    "zh": "第54课。",
-    "zh_hant": "第54課。"
+    "end": 8.774,
+    "zh": "第54课 本能还是智慧?",
+    "zh_hant": "第54課 本能還是智慧?"
   },
   {
     "index": 1,
-    "text": "Instinct or cleverness?",
-    "start": 2.271,
-    "end": 8.774,
-    "zh": "本能还是机智？",
-    "zh_hant": "本能還是機智？"
-  },
-  {
-    "index": 2,
     "text": "Was the writer successful in protecting his peach tree?",
     "start": 8.895,
     "end": 13.997,
@@ -24,7 +16,7 @@
     "zh_hant": "作者成功保護了他的桃樹嗎？"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "Why not?",
     "start": 14.577,
     "end": 15.578,
@@ -32,7 +24,7 @@
     "zh_hant": "為什麼沒有？"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "We have been brought up to fear insects.",
     "start": 17.679,
     "end": 20.62,
@@ -40,7 +32,7 @@
     "zh_hant": "我們從小就被培養得害怕昆蟲。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "We regard them as unnecessary creatures that do more harm than good.",
     "start": 20.64,
     "end": 25.943,
@@ -48,7 +40,7 @@
     "zh_hant": "我們認為它們是無用的生物，害多益少。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "We continually wage war on them,",
     "start": 26.503,
     "end": 29.084,
@@ -56,7 +48,7 @@
     "zh_hant": "我們不斷向它們開戰，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "for they contaminate our food, carry diseases, or devour our crops.",
     "start": 29.165,
     "end": 34.987,
@@ -64,7 +56,7 @@
     "zh_hant": "因為它們汙染食物、傳播疾病，或吃掉我們的莊稼。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "They sting or bite without provocation;",
     "start": 35.728,
     "end": 38.889,
@@ -72,7 +64,7 @@
     "zh_hant": "它們無緣無故就蜇人或咬人；"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "they fly uninvited into our rooms on summer nights,",
     "start": 38.87,
     "end": 42.772,
@@ -80,7 +72,7 @@
     "zh_hant": "夏夜它們不請自來飛進我們的房間，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "or beat against our lighted windows.",
     "start": 43.032,
     "end": 45.593,
@@ -88,7 +80,7 @@
     "zh_hant": "或撞向我們亮著燈的窗戶。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "We live in dread not only of unpleasant insects like spiders or wasps,",
     "start": 46.094,
     "end": 51.496,
@@ -96,7 +88,7 @@
     "zh_hant": "我們不僅害怕蜘蛛、黃蜂等討厭的昆蟲，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "but of quite harmless ones like moths.",
     "start": 51.756,
     "end": 54.718,
@@ -104,7 +96,7 @@
     "zh_hant": "也害怕像飛蛾這樣完全無害的昆蟲。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Reading about them increases our understanding without dispelling our fears.",
     "start": 55.298,
     "end": 60.961,
@@ -112,7 +104,7 @@
     "zh_hant": "閱讀關於它們的資料增進了我們的瞭解，卻沒有消除恐懼。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Knowing that the industrious ant lives in a highly organized society",
     "start": 61.641,
     "end": 67.264,
@@ -120,7 +112,7 @@
     "zh_hant": "知道勤勞的螞蟻生活在高度有組織的社會里，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "does nothing to prevent us from being filled with revulsion",
     "start": 67.564,
     "end": 71.746,
@@ -128,7 +120,7 @@
     "zh_hant": "並不能阻止我們感到厭惡，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "when we find hordes of them crawling over a carefully prepared picnic lunch.",
     "start": 71.396,
     "end": 77.229,
@@ -136,7 +128,7 @@
     "zh_hant": "當我們發現成群的螞蟻在精心準備的野餐午餐上爬來爬去時。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "No matter how much we like honey,",
     "start": 78.029,
     "end": 80.591,
@@ -144,7 +136,7 @@
     "zh_hant": "無論我們多喜歡蜂蜜，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "or how much we have read about the uncanny sense of direction which bees possess,",
     "start": 80.671,
     "end": 86.514,
@@ -152,7 +144,7 @@
     "zh_hant": "或讀過多少關於蜜蜂擁有神奇方向感的文章，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "we have a horror of being stung.",
     "start": 86.974,
     "end": 89.675,
@@ -160,7 +152,7 @@
     "zh_hant": "我們都害怕被蜇。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Most of our fears are unreasonable, but they are impossible to erase.",
     "start": 90.276,
     "end": 95.758,
@@ -168,7 +160,7 @@
     "zh_hant": "我們的大多數恐懼是不合理的，但無法消除。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "At the same time, however, insects are strangely fascinating.",
     "start": 96.099,
     "end": 101.021,
@@ -176,7 +168,7 @@
     "zh_hant": "然而，與此同時，昆蟲又有著奇特的吸引力。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "We enjoy reading about them,",
     "start": 101.481,
     "end": 103.422,
@@ -184,7 +176,7 @@
     "zh_hant": "我們喜歡讀關於它們的文章，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "especially when we find that, like the praying mantis,",
     "start": 103.582,
     "end": 107.524,
@@ -192,7 +184,7 @@
     "zh_hant": "尤其是當我們發現，像螳螂一樣，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "they lead perfectly horrible lives.",
     "start": 107.644,
     "end": 110.566,
@@ -200,7 +192,7 @@
     "zh_hant": "它們過著極其可怕的生活。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "We enjoy staring at them, entranced as they go about their business,",
     "start": 111.066,
     "end": 115.948,
@@ -208,7 +200,7 @@
     "zh_hant": "我們喜歡盯著它們看，著迷地觀察它們忙自己的事，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "unaware (we hope) of our presence.",
     "start": 115.888,
     "end": 119.29,
@@ -216,7 +208,7 @@
     "zh_hant": "希望它們沒注意到我們。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "Who has not stood in awe at the sight of a spider pouncing on a fly,",
     "start": 119.811,
     "end": 124.793,
@@ -224,7 +216,7 @@
     "zh_hant": "誰沒有敬畏地看著蜘蛛撲向蒼蠅，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "or a column of ants triumphantly bearing home an enormous dead beetle?",
     "start": 124.893,
     "end": 130.115,
@@ -232,7 +224,7 @@
     "zh_hant": "或一隊螞蟻得意洋洋地扛著一隻巨大的死甲蟲回家？"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "Last summer I spent days in the garden",
     "start": 131.456,
     "end": 134.958,
@@ -240,7 +232,7 @@
     "zh_hant": "去年夏天，我在花園裡度過了好幾天，"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "watching thousands of ants crawling up the trunk of my prize peach tree.",
     "start": 134.608,
     "end": 140.02,
@@ -248,7 +240,7 @@
     "zh_hant": "觀察成千上萬只螞蟻爬上我那棵珍貴的桃樹樹幹。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "The tree has grown against a warm wall on a sheltered side of the house.",
     "start": 140.601,
     "end": 145.383,
@@ -256,7 +248,7 @@
     "zh_hant": "這棵樹長在房子避風一側的一面暖牆旁。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "I am especially proud of it, not only because it has survived",
     "start": 146.123,
     "end": 151.326,
@@ -264,7 +256,7 @@
     "zh_hant": "我特別為它驕傲，不僅因為它挺過了"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "several severe winters,",
     "start": 151.046,
     "end": 153.047,
@@ -272,7 +264,7 @@
     "zh_hant": "幾個嚴冬，"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "but because it occasionally produces luscious peaches.",
     "start": 153.767,
     "end": 158.289,
@@ -280,7 +272,7 @@
     "zh_hant": "還因為它偶爾結出美味的桃子。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "During the summer, I noticed that the leaves of the tree were beginning to wither.",
     "start": 159.07,
     "end": 164.293,
@@ -288,7 +280,7 @@
     "zh_hant": "夏天，我注意到樹葉開始枯萎。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Clusters of tiny insects called",
     "start": 164.913,
     "end": 168.134,
@@ -296,7 +288,7 @@
     "zh_hant": "成簇微小的昆蟲——"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "aphides were to be found on the underside of the leaves.",
     "start": 167.814,
     "end": 171.956,
@@ -304,7 +296,7 @@
     "zh_hant": "蚜蟲——出現在葉子的背面。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "They were visited by a large colony of ants which obtained a sort of honey from them.",
     "start": 172.477,
     "end": 178.439,
@@ -312,7 +304,7 @@
     "zh_hant": "它們被一大群螞蟻拜訪，螞蟻從它們身上獲取一種蜜。"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "I immediately embarked on an experiment which even though it failed",
     "start": 179.18,
     "end": 184.202,
@@ -320,7 +312,7 @@
     "zh_hant": "我立刻開始了一項實驗，儘管它未能"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "to get rid of the ants kept me fascinated for twenty-four hours.",
     "start": 183.852,
     "end": 188.985,
@@ -328,7 +320,7 @@
     "zh_hant": "除掉螞蟻，卻讓我著迷了二十四小時。"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "I bound the base of the tree with sticky tape, making",
     "start": 190.085,
     "end": 193.967,
@@ -336,7 +328,7 @@
     "zh_hant": "我在樹幹底部纏了膠帶，使"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "it impossible for the ants to reach the aphides.",
     "start": 193.617,
     "end": 197.029,
@@ -344,7 +336,7 @@
     "zh_hant": "螞蟻無法到達蚜蟲那裡。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "The tape was so sticky that they did not dare to cross it.",
     "start": 197.669,
     "end": 202.092,
@@ -352,7 +344,7 @@
     "zh_hant": "膠帶非常黏，它們不敢越過去。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "For a long time, I watched them scurrying around the base of the tree",
     "start": 202.532,
     "end": 207.874,
@@ -360,7 +352,7 @@
     "zh_hant": "很長時間裡，我看著它們在樹幹底部亂竄，"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "in bewilderment.",
     "start": 207.554,
     "end": 209.035,
@@ -368,7 +360,7 @@
     "zh_hant": "不知所措。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "I even went out at midnight with a torch and noted with satisfaction",
     "start": 209.635,
     "end": 214.898,
@@ -376,7 +368,7 @@
     "zh_hant": "我甚至半夜拿著手電筒出去，滿意地"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "(and surprise) that the ants were still swarming around the sticky tape",
     "start": 215.038,
     "end": 220.661,
@@ -384,7 +376,7 @@
     "zh_hant": "（且驚訝地）注意到螞蟻仍在膠帶周圍蜂擁，"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "without being able to do anything about it.",
     "start": 220.501,
     "end": 223.462,
@@ -392,7 +384,7 @@
     "zh_hant": "卻毫無辦法。"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "I got up early next morning hoping to find that the ants had given up in despair.",
     "start": 223.922,
     "end": 229.265,
@@ -400,7 +392,7 @@
     "zh_hant": "第二天一早我起床，希望發現螞蟻已經絕望地放棄了。"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "Instead, I saw that they had discovered a new route.",
     "start": 229.845,
     "end": 234.027,
@@ -408,7 +400,7 @@
     "zh_hant": "相反，我看到它們找到了一條新路線。"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "They were climbing up the wall of the house and then on to the leaves of the tree.",
     "start": 234.288,
     "end": 239.41,
@@ -416,7 +408,7 @@
     "zh_hant": "它們爬上房子的牆壁，然後爬到樹葉上。"
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "I realized sadly that I had been completely defeated by their ingenuity.",
     "start": 239.632,
     "end": 245.24,
@@ -424,7 +416,7 @@
     "zh_hant": "我傷心地意識到，我完全被它們的機智打敗了。"
   },
   {
-    "index": 53,
+    "index": 52,
     "text": "The ants had been quick to find an answer to my thoroughly unscientific methods!",
     "start": 245.681,
     "end": 251.39,

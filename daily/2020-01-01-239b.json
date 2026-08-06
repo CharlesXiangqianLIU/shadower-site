@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 11.",
-    "start": 6.073,
-    "end": 4.01,
-    "zh": "第十一课。",
-    "zh_hant": "第十一課。"
+    "text": "Lesson 11",
+    "start": 6.072,
+    "end": 2.07,
+    "zh": "第11课",
+    "zh_hant": "第11課"
   },
   {
     "index": 1,
-    "text": "How to grow old What, according to the author,",
-    "start": 7.074,
-    "end": 13.056,
-    "zh": "如何变老 根据作者的观点，",
-    "zh_hant": "如何變老 根據作者的觀點，"
+    "text": "How to grow old What, according to the author, is the best way to overcome the fear of death as you get older?",
+    "start": 7.072,
+    "end": 18.676,
+    "zh": "如何优雅地变老 作者认为,随着年龄增长,克服死亡恐惧的最佳方式是什么?",
+    "zh_hant": "如何優雅地變老 作者認為,隨著年齡增長,克服死亡恐懼的最佳方式是什麼?"
   },
   {
     "index": 2,
-    "text": "is the best way to overcome the fear of death as you get older?",
-    "start": 13.517,
-    "end": 18.679,
-    "zh": "随着你变老，克服对死亡恐惧的最佳方式是什么？",
-    "zh_hant": "隨著你變老，克服對死亡恐懼的最佳方式是什麼？"
-  },
-  {
-    "index": 3,
     "text": "Some old people are oppressed by the fear of death.",
     "start": 20.24,
     "end": 24.482,
@@ -32,7 +24,7 @@
     "zh_hant": "有些老年人被對死亡的恐懼所壓抑。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "In the young there is a justification for this feeling.",
     "start": 25.063,
     "end": 28.724,
@@ -40,7 +32,7 @@
     "zh_hant": "在年輕人中，這種感覺是有理由的。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Young men who have reason to fear that they will be killed in battle",
     "start": 28.804,
     "end": 33.206,
@@ -48,7 +40,7 @@
     "zh_hant": "那些有理由害怕在戰鬥中喪生的年輕人"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "may justifiably feel bitter in the thought that they have been cheated",
     "start": 33.187,
     "end": 38.689,
@@ -56,7 +48,7 @@
     "zh_hant": "可能會理所當然地感到痛苦，因為他們覺得自己被欺騙了，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "of the best things that life has to offer.",
     "start": 38.339,
     "end": 41.731,
@@ -64,7 +56,7 @@
     "zh_hant": "錯過了生活提供的最美好的事物。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "But in an old man who has known human joys and sorrows,",
     "start": 42.392,
     "end": 47.134,
@@ -72,7 +64,7 @@
     "zh_hant": "但對於一個經歷過人間悲歡離合的老人，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "and has achieved whatever work it was in him to do,",
     "start": 47.154,
     "end": 51.176,
@@ -80,7 +72,7 @@
     "zh_hant": "並且已完成了自己力所能及的工作，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "the fear of death is somewhat abject and ignoble.",
     "start": 51.996,
     "end": 56.398,
@@ -88,7 +80,7 @@
     "zh_hant": "對死亡的恐懼就顯得有些卑微和不光彩。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "The best way to overcome it--so at least it seems to me--",
     "start": 56.919,
     "end": 61.641,
@@ -96,7 +88,7 @@
     "zh_hant": "克服這種恐懼的最佳方式——至少在我看來是這樣——"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "is to make your interests gradually wider and more impersonal,",
     "start": 62.642,
     "end": 67.784,
@@ -104,7 +96,7 @@
     "zh_hant": "是讓你的興趣逐漸變得更廣泛、更超脫個人，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "until bit by bit the walls of the ego recede,",
     "start": 68.024,
     "end": 72.846,
@@ -112,7 +104,7 @@
     "zh_hant": "直到自我的圍牆一點點消退，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "and your life becomes increasingly merged in the universal life.",
     "start": 73.167,
     "end": 77.869,
@@ -120,7 +112,7 @@
     "zh_hant": "你的生活越來越融入宇宙的生命之中。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "An individual human existence should be like a river-- small at first,",
     "start": 78.99,
     "end": 85.053,
@@ -128,7 +120,7 @@
     "zh_hant": "一個人的存在應該像一條河流——起初很小，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "narrowly contained within its banks,",
     "start": 85.633,
     "end": 88.334,
@@ -136,7 +128,7 @@
     "zh_hant": "被緊緊限制在河岸之內，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "and rushing passionately past boulders and over waterfalls.",
     "start": 88.375,
     "end": 92.997,
@@ -144,7 +136,7 @@
     "zh_hant": "然後激情澎湃地衝過巨石和瀑布。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Gradually the river grows wider, the banks recede,",
     "start": 93.677,
     "end": 97.839,
@@ -152,7 +144,7 @@
     "zh_hant": "逐漸地，河流變寬，河岸後退，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "the waters flow more quietly, and in the end,",
     "start": 98.12,
     "end": 102.361,
@@ -160,7 +152,7 @@
     "zh_hant": "水流變得更平靜，最終，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "without any visiblebreak,",
     "start": 102.542,
     "end": 104.643,
@@ -168,7 +160,7 @@
     "zh_hant": "沒有任何明顯的斷裂，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "they become merged in the sea, and painlessly lose their individual being.",
     "start": 104.883,
     "end": 110.906,
@@ -176,7 +168,7 @@
     "zh_hant": "它們匯入大海，並無痛地失去了各自的個體存在。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "The man who, in old age can see his life in this way,",
     "start": 111.226,
     "end": 116.448,
@@ -184,7 +176,7 @@
     "zh_hant": "那個人，如果到了老年能以這種方式看待自己的生活，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "will not suffer from the fear of death, since the things he cares for will continue.",
     "start": 116.729,
     "end": 122.833,
@@ -192,7 +184,7 @@
     "zh_hant": "就不會遭受對死亡的恐懼，因為他所關心的事物將繼續存在。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "And if, with the decay of vitality,",
     "start": 123.374,
     "end": 127.596,
@@ -200,7 +192,7 @@
     "zh_hant": "而且，如果隨著活力的衰退，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "weariness increases, the thought of rest will be not unwelcome.",
     "start": 127.937,
     "end": 133.841,
@@ -208,7 +200,7 @@
     "zh_hant": "疲倦感增加，對休息的念頭就不會不受歡迎。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "I should wish to die while still at work,",
     "start": 134.341,
     "end": 137.483,
@@ -216,7 +208,7 @@
     "zh_hant": "我希望在工作時死去，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "knowing that others will carry on what I can no longer do,",
     "start": 137.584,
     "end": 141.886,
@@ -224,7 +216,7 @@
     "zh_hant": "知道別人會繼續我做不了的事情，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "and content in the thought that what was possible has been done.",
     "start": 142.347,
     "end": 146.69,

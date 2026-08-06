@@ -1,38 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 22.",
-    "start": 6.393,
-    "end": 5.29,
-    "zh": "第二十二课。",
-    "zh_hant": "第二十二課。"
+    "text": "Lesson 22",
+    "start": 6.42,
+    "end": 6.8,
+    "zh": "第22课",
+    "zh_hant": "第22課"
   },
   {
     "index": 1,
-    "text": "By heart.",
-    "start": 7.173,
-    "end": 9.374,
-    "zh": "背熟。",
-    "zh_hant": "背熟。"
+    "text": "By heart",
+    "start": 7.2,
+    "end": 9.021,
+    "zh": "熟记于心",
+    "zh_hant": "熟記於心"
   },
   {
     "index": 2,
-    "text": "Which actor read the letter in the end,",
-    "start": 9.334,
-    "end": 14.917,
-    "zh": "最后是哪位演员读了那封信，",
-    "zh_hant": "最後是哪位演員讀了那封信，"
+    "text": "Which actor read the letter in the end, the aristocrat or the gaoler?",
+    "start": 9.361,
+    "end": 17.321,
+    "zh": "最后到底是哪位演员念了那封信，是贵族还是狱卒？",
+    "zh_hant": "最後到底是哪位演員唸了那封信，是貴族還是獄卒？"
   },
   {
     "index": 3,
-    "text": "the aristocrat or the gaoler?",
-    "start": 15.197,
-    "end": 17.698,
-    "zh": "是贵族还是狱卒？",
-    "zh_hant": "是貴族還是獄卒？"
-  },
-  {
-    "index": 4,
     "text": "Some plays are so successful that they run for years on end.",
     "start": 20.06,
     "end": 24.401,
@@ -40,7 +32,7 @@
     "zh_hant": "有些戲非常成功，以至於連演好幾年。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "In many ways, this is unfortunate for the poor actors",
     "start": 25.082,
     "end": 28.844,
@@ -48,7 +40,7 @@
     "zh_hant": "從許多方面來說，這對可憐的演員來說很不幸，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "who are required to go on repeating the same lines night after night.",
     "start": 28.844,
     "end": 33.386,
@@ -56,7 +48,7 @@
     "zh_hant": "因為他們得一夜又一夜地重複同樣的臺詞。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "One would expect them to know their parts by heart and never have cause to falter.",
     "start": 33.706,
     "end": 38.728,
@@ -64,7 +56,7 @@
     "zh_hant": "人們會以為他們早就把臺詞背得滾瓜爛熟，絕不會結巴。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Yet this is not always the case.",
     "start": 39.309,
     "end": 41.93,
@@ -72,7 +64,7 @@
     "zh_hant": "然而，情況並非總是如此。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "A famous actor in a highly successful play",
     "start": 42.771,
     "end": 45.892,
@@ -80,7 +72,7 @@
     "zh_hant": "一位著名演員在一部極為成功的戲中"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.",
     "start": 46.113,
     "end": 53.216,
@@ -88,7 +80,7 @@
     "zh_hant": "曾被選去扮演一位在巴士底獄被囚禁了二十年的貴族。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.",
     "start": 54.037,
     "end": 60.48,
@@ -96,7 +88,7 @@
     "zh_hant": "在最後一幕中，獄卒總是帶著一封信上場，然後把信遞給囚犯。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Even though the noble was expected to read the letter at each performance,",
     "start": 60.68,
     "end": 64.842,
@@ -104,7 +96,7 @@
     "zh_hant": "儘管這位貴族每場演出都要讀那封信，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "he always insisted that it should be written out in full.",
     "start": 64.922,
     "end": 68.424,
@@ -112,7 +104,7 @@
     "zh_hant": "他卻總是堅持信要全文寫出來。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "One night, the gaoler decided to play a joke on his colleague to find out if,",
     "start": 69.905,
     "end": 75.367,
@@ -120,7 +112,7 @@
     "zh_hant": "一天晚上，獄卒決定跟同事開個玩笑，想看看"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "after so many performances, he had managed to learn the contents of the letter by heart.",
     "start": 75.407,
     "end": 80.81,
@@ -128,7 +120,7 @@
     "zh_hant": "經過這麼多場演出，他是否已經把信的內容背熟了。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "The curtain went up on the final act of the play and revealed the aristocrat",
     "start": 81.691,
     "end": 86.913,
@@ -136,7 +128,7 @@
     "zh_hant": "戲的最後一幕帷幕升起，露出了那位貴族，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "sitting alone behind bars in his dark cell.",
     "start": 86.934,
     "end": 90.315,
@@ -144,7 +136,7 @@
     "zh_hant": "獨自坐在黑暗牢房的鐵欄後面。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Just then, the gaoler appeared with the precious letter in his hands.",
     "start": 91.316,
     "end": 95.998,
@@ -152,7 +144,7 @@
     "zh_hant": "就在這時，獄卒手裡拿著那封珍貴的信出現了。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "He entered the cell and presented the letter to the aristocrat.",
     "start": 96.758,
     "end": 100.66,
@@ -160,7 +152,7 @@
     "zh_hant": "他走進牢房，把信交給了貴族。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "But the copy he gave him had not been written out in full as usual.",
     "start": 100.96,
     "end": 106.023,
@@ -168,7 +160,7 @@
     "zh_hant": "但他遞給他的那份副本並沒有像往常那樣全文寫出。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "It was simply a blank sheet of paper.",
     "start": 106.563,
     "end": 109.624,
@@ -176,7 +168,7 @@
     "zh_hant": "那只是一張白紙。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.",
     "start": 110.325,
     "end": 116.888,
@@ -184,7 +176,7 @@
     "zh_hant": "獄卒急切地看著，急於想知道他的同事是否終於記住了臺詞。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "The noble stared at the blank sheet of paper for a few seconds.",
     "start": 117.448,
     "end": 121.231,
@@ -192,7 +184,7 @@
     "zh_hant": "貴族盯著那張白紙看了幾秒鐘。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "Then, squinting his eyes, he said: 'The light is dim.",
     "start": 121.531,
     "end": 126.013,
@@ -200,7 +192,7 @@
     "zh_hant": "然後，他眯起眼睛說：“光線太暗了。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "Read the letter to me.'",
     "start": 126.414,
     "end": 128.494,
@@ -208,7 +200,7 @@
     "zh_hant": "給我讀一下這封信。”"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "And he promptly handed the sheet of paper to the gaoler.",
     "start": 128.515,
     "end": 131.876,
@@ -216,7 +208,7 @@
     "zh_hant": "他隨即把那張紙遞給了獄卒。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "Finding that he could not remember a word of the letter either,",
     "start": 132.377,
     "end": 136.078,
@@ -224,7 +216,7 @@
     "zh_hant": "獄卒發現自己也一個字也記不得，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "the gaoler replied: 'The light is indeed dim, sire.",
     "start": 136.059,
     "end": 140.501,
@@ -232,7 +224,7 @@
     "zh_hant": "便回答說：“光線確實很暗，大人。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "I must get my glasses.",
     "start": 140.901,
     "end": 142.802,
@@ -240,7 +232,7 @@
     "zh_hant": "我得去拿我的眼鏡。”"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "' With this, he hurried off the stage.",
     "start": 142.742,
     "end": 145.724,
@@ -248,7 +240,7 @@
     "zh_hant": "說完，他就匆匆下了臺。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Much to the aristocrat's amusement,",
     "start": 146.004,
     "end": 148.505,
@@ -256,7 +248,7 @@
     "zh_hant": "令貴族覺得非常好笑的是，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "the gaoler returned a few moments later with a pair of glasses",
     "start": 148.525,
     "end": 152.707,
@@ -264,7 +256,7 @@
     "zh_hant": "獄卒過了一會兒拿著一副眼鏡回來了，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "and the usual copy of the letter which he proceeded to read to the prisoner.",
     "start": 152.567,
     "end": 157.53,

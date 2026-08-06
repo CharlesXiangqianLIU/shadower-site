@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 50.",
+    "text": "Lesson 50 New Year resolutions",
     "start": 0.53,
-    "end": 2.781,
-    "zh": "第50课。",
-    "zh_hant": "第50課。"
+    "end": 9.056,
+    "zh": "第50课 新年愿望",
+    "zh_hant": "第50課 新年願望"
   },
   {
     "index": 1,
-    "text": "New Year resolutions.",
-    "start": 2.831,
-    "end": 9.054,
-    "zh": "新年决心。",
-    "zh_hant": "新年決心。"
+    "text": "What marked the end of the writer's New Year resolutions?",
+    "start": 10.998,
+    "end": 15.221,
+    "zh": "是什么标志着作者新年决心的终结？",
+    "zh_hant": "是什麼標誌著作者新年決心的終結？"
   },
   {
     "index": 2,
-    "text": "What marked the end of the writer's New Year resolutions?",
-    "start": 10.996,
-    "end": 15.217,
-    "zh": "什么标志着作者新年决心的结束？",
-    "zh_hant": "什麼標誌著作者新年決心的結束？"
-  },
-  {
-    "index": 3,
     "text": "The New Year is a time for resolutions.",
     "start": 16.778,
     "end": 19.8,
@@ -32,7 +24,7 @@
     "zh_hant": "新年是下決心的時候。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Mentally, at least, most of us",
     "start": 19.9,
     "end": 23.101,
@@ -40,7 +32,7 @@
     "zh_hant": "至少在心理上，我們大多數人"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "could compile formidable lists of 'dos' and 'don'ts'.",
     "start": 22.751,
     "end": 27.163,
@@ -48,7 +40,7 @@
     "zh_hant": "都能列出相當可觀的'該做'和'不該做'的清單。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "The same old favourites recur year in year out with monotonous regularity.",
     "start": 27.544,
     "end": 33.546,
@@ -56,7 +48,7 @@
     "zh_hant": "同樣那些老喜好年復一年地出現，帶有單調的規律性。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "We resolve to get up earlier each morning, eat",
     "start": 34.267,
     "end": 37.788,
@@ -64,7 +56,7 @@
     "zh_hant": "我們決心每天早晨起得更早，吃得"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "less, find more time to play with the children,",
     "start": 37.438,
     "end": 40.81,
@@ -72,7 +64,7 @@
     "zh_hant": "更少，找更多時間和孩子玩，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "do a thousand and one jobs about the house, be nice to people we don't like,",
     "start": 40.831,
     "end": 46.613,
@@ -80,7 +72,7 @@
     "zh_hant": "做家裡一百零一件活兒，對不喜歡的人友好，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "drive carefully, and take the dog for a walk every day.",
     "start": 46.694,
     "end": 50.995,
@@ -88,7 +80,7 @@
     "zh_hant": "開車小心，並且每天帶狗散步。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Past experience has taught us that certain accomplishments are beyond attainment.",
     "start": 51.636,
     "end": 57.138,
@@ -96,7 +88,7 @@
     "zh_hant": "過去的經驗告訴我們某些成就是無法達到的。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "If we remain inveterate smokers,",
     "start": 57.859,
     "end": 60.56,
@@ -104,7 +96,7 @@
     "zh_hant": "如果我們仍然是個積習難改的菸民，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "it is only because we have so often experienced the frustration that results from failure.",
     "start": 60.74,
     "end": 67.003,
@@ -112,7 +104,7 @@
     "zh_hant": "那僅僅是因為我們太多次地體驗了失敗帶來的挫敗感。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Most of us fail in our efforts at sel-improvement",
     "start": 67.804,
     "end": 71.305,
@@ -120,7 +112,7 @@
     "zh_hant": "我們大多數人在自我改進的努力中失敗，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "because our schemes are too ambitious and we never have time to carry them out.",
     "start": 70.955,
     "end": 76.808,
@@ -128,7 +120,7 @@
     "zh_hant": "因為我們的計劃過於雄心勃勃，而且從來沒有時間去實施。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "We also make the fundamental error of announcing our resolutions to everybody",
     "start": 77.349,
     "end": 82.832,
@@ -136,7 +128,7 @@
     "zh_hant": "我們還犯了一個基本錯誤，就是把決心告訴每個人，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "so that we look even more foolish when we slip back into our bad old ways.",
     "start": 82.952,
     "end": 88.294,
@@ -144,7 +136,7 @@
     "zh_hant": "這樣當我們回到壞習慣時，看起來就更傻。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
     "start": 89.135,
     "end": 95.418,
@@ -152,7 +144,7 @@
     "zh_hant": "意識到這些陷阱，今年我試圖把決心保密。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "I limited myself to two modest ambitions:",
     "start": 96.278,
     "end": 99.96,
@@ -160,7 +152,7 @@
     "zh_hant": "我把目標限制為兩個適度的雄心："
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "to do physical exercises every morning and to read more of an evening.",
     "start": 100.44,
     "end": 106.123,
@@ -168,7 +160,7 @@
     "zh_hant": "每天早上做體操，晚上多讀點書。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "An all-night party on New Year's Eve provided me with a good excuse",
     "start": 106.563,
     "end": 111.666,
@@ -176,7 +168,7 @@
     "zh_hant": "除夕夜的通宵聚會提供了一個好藉口，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "for not carrying out either of these new resolutions on the first day of the year,",
     "start": 111.316,
     "end": 117.569,
@@ -184,7 +176,7 @@
     "zh_hant": "在元旦那天不執行這兩個新決心，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "but on the second, I applied myself assiduously to the task.",
     "start": 117.809,
     "end": 122.952,
@@ -192,7 +184,7 @@
     "zh_hant": "但第二天，我就專心致志地投入了任務。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "The daily exercises lasted only eleven minutes",
     "start": 123.612,
     "end": 127.574,
@@ -200,7 +192,7 @@
     "zh_hant": "日常鍛鍊只持續了11分鐘，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "and I proposed to do them early in the morning before anyone had got up.",
     "start": 127.714,
     "end": 132.516,
@@ -208,7 +200,7 @@
     "zh_hant": "我打算在早上別人起床前做這些鍛鍊。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "The self-discipline required to drag myself out of bed",
     "start": 133.357,
     "end": 137.48,
@@ -216,7 +208,7 @@
     "zh_hant": "把自己從床上拖起來所需的自我約束"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "11 minutes earlier than usual was considerable.",
     "start": 137.08,
     "end": 141.241,
@@ -224,7 +216,7 @@
     "zh_hant": "比平時早11分鐘，這相當費勁。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "Nevertheless, I managed to creep",
     "start": 141.741,
     "end": 145.042,
@@ -232,7 +224,7 @@
     "zh_hant": "然而，我還是設法偷偷地"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "down into the living room for two days before anyone found me out.",
     "start": 144.692,
     "end": 149.925,
@@ -240,7 +232,7 @@
     "zh_hant": "溜進客廳兩天，直到別人發現了我。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "After jumping about on the carpet and twisting the human frame into uncomfortable positions,",
     "start": 151.026,
     "end": 157.489,
@@ -248,7 +240,7 @@
     "zh_hant": "在地毯上蹦蹦跳跳，把身體扭曲成不舒服的姿勢之後，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "I sat down at the breakfast table in an exhausted condition.",
     "start": 157.889,
     "end": 162.031,
@@ -256,7 +248,7 @@
     "zh_hant": "我筋疲力盡地坐在早餐桌旁。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "It was this that betrayed me.",
     "start": 162.852,
     "end": 165.193,
@@ -264,7 +256,7 @@
     "zh_hant": "正是這個暴露了我。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "The next morning the whole family trooped in to watch the performance.",
     "start": 165.713,
     "end": 170.255,
@@ -272,7 +264,7 @@
     "zh_hant": "第二天早上，全家人湧進來觀看錶演。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "That was really unsettling but I fended off the taunts",
     "start": 170.496,
     "end": 174.737,
@@ -280,7 +272,7 @@
     "zh_hant": "那真的很讓人不安，但我好脾氣地擋開了家人的嘲諷"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "and jibes of the family good-humouredly and soon everybody got used to the idea.",
     "start": 174.387,
     "end": 179.92,
@@ -288,7 +280,7 @@
     "zh_hant": "和奚落，很快大家都習慣了。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "However, my enthusiasm waned.",
     "start": 180.34,
     "end": 183.442,
@@ -296,7 +288,7 @@
     "zh_hant": "然而，我的熱情減退了。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "The time I spent at exercises gradually diminished.",
     "start": 183.722,
     "end": 187.424,
@@ -304,7 +296,7 @@
     "zh_hant": "我花在鍛鍊上的時間逐漸減少。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "Little by little the eleven minutes fell to zero.",
     "start": 187.684,
     "end": 191.826,
@@ -312,7 +304,7 @@
     "zh_hant": "漸漸地，11分鐘減少到零。"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "By January 10th, I was back to where I had started from.",
     "start": 192.286,
     "end": 196.688,
@@ -320,7 +312,7 @@
     "zh_hant": "到1月10日，我回到了起點。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "I argued that if I spent less time exhausting myself at exercises in the morning,",
     "start": 197.349,
     "end": 203.072,
@@ -328,7 +320,7 @@
     "zh_hant": "我爭辯說，如果早上少花時間在鍛鍊上消耗自己，"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "I would keep my mind fresh for reading when I got home from work.",
     "start": 203.532,
     "end": 207.554,
@@ -336,7 +328,7 @@
     "zh_hant": "我下班回家後就能保持頭腦清醒地閱讀。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "Resisting the hypnotizing effect of television,",
     "start": 208.315,
     "end": 211.936,
@@ -344,7 +336,7 @@
     "zh_hant": "抵擋住電視的催眠效果，"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "I sat in my room for a few evenings with my eyes glued to a book.",
     "start": 212.237,
     "end": 216.819,
@@ -352,7 +344,7 @@
     "zh_hant": "我在房間裡坐了幾個晚上，眼睛盯著書。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "One night, however, feeling cold and lonely,",
     "start": 217.259,
     "end": 221.181,
@@ -360,7 +352,7 @@
     "zh_hant": "然而，一天晚上，又冷又孤獨，"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "I went downstairs and sat in front of the television pretending to read.",
     "start": 221.541,
     "end": 226.323,
@@ -368,7 +360,7 @@
     "zh_hant": "我下樓坐在電視前假裝看書。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "That proved to be my undoing,",
     "start": 227.064,
     "end": 229.785,
@@ -376,7 +368,7 @@
     "zh_hant": "這證明是我的失敗所在，"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "for I soon got back to my old bad habit of dozing off in front of the screen.",
     "start": 230.485,
     "end": 236.748,
@@ -384,7 +376,7 @@
     "zh_hant": "因為我很快又回到了在螢幕前打瞌睡的老毛病。"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "I still haven't given up my resolution to do more reading.",
     "start": 237.349,
     "end": 241.213,
@@ -392,7 +384,7 @@
     "zh_hant": "我還沒有放棄多讀點書的決心。"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "In fact, I have just bought a book",
     "start": 241.193,
     "end": 244.417,
@@ -400,7 +392,7 @@
     "zh_hant": "事實上，我剛買了一本書，"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "entitled How to Read a Thousand Words a Minute.",
     "start": 244.067,
     "end": 248.102,
@@ -408,7 +400,7 @@
     "zh_hant": "書名是《如何每分鐘讀一千字》。"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "Perhaps it will solve my problem, but I just haven't had time to read it!",
     "start": 248.603,
     "end": 253.849,

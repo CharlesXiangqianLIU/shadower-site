@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Why did Elizabeth tell Nigel",
-    "start": 12.071,
-    "end": 15.692,
-    "zh": "伊丽莎白为什么告诉奈杰尔",
-    "zh_hant": "伊麗莎白為什麼告訴奈傑爾"
+    "text": "Why did Elizabeth tell Nigel that she was going to the dentist?",
+    "start": 12.102,
+    "end": 18.226,
+    "zh": "为什么伊丽莎白告诉奈杰尔她要去看牙医？",
+    "zh_hant": "為什麼伊麗莎白告訴奈傑爾她要去看牙醫？"
   },
   {
     "index": 1,
-    "text": "that she was going to the dentist?",
-    "start": 16.213,
-    "end": 18.574,
-    "zh": "她要去牙医那里？",
-    "zh_hant": "她要去牙醫那裡？"
-  },
-  {
-    "index": 2,
     "text": "I crossed the street to avoid meeting him but he saw me and came running towards me.",
     "start": 21.215,
     "end": 27.338,
@@ -24,7 +16,7 @@
     "zh_hant": "我穿過馬路想避開他，但他看見了我，朝我跑過來。"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "It was no use pretending that I had not seen him, so I waved to him.",
     "start": 28.759,
     "end": 34.321,
@@ -32,7 +24,7 @@
     "zh_hant": "假裝沒看見他是沒用的，於是我向他揮了揮手。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "I never enjoy meeting Nigel Dykes.",
     "start": 35.102,
     "end": 38.663,
@@ -40,7 +32,7 @@
     "zh_hant": "我從來不喜歡和奈傑爾·戴克斯見面。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "He never has anything to do.",
     "start": 39.204,
     "end": 41.445,
@@ -48,7 +40,7 @@
     "zh_hant": "他從來沒什麼正經事要做。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "No matter how busy you are, he always insists on coming with you.",
     "start": 42.846,
     "end": 48.508,
@@ -56,7 +48,7 @@
     "zh_hant": "不管你多忙，他總是堅持要跟你一起去。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "I had to think of a way of preventing him from following me around all morning.",
     "start": 49.689,
     "end": 55.272,
@@ -64,7 +56,7 @@
     "zh_hant": "我得想個辦法，不讓他整個上午都跟著我。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "'Hello, Nigel,' I said 'Fancy meeting you here!'",
     "start": 56.933,
     "end": 62.776,
@@ -72,7 +64,7 @@
     "zh_hant": "“你好，奈傑爾，”我說，“真沒想到在這兒遇到你！”"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "'Hi, Elizabeth,' Nigel answered.",
     "start": 62.556,
     "end": 65.697,
@@ -80,7 +72,7 @@
     "zh_hant": "“嗨，伊麗莎白，”奈傑爾回答。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "'I was just wondering how to spend the morning--until",
     "start": 65.357,
     "end": 71.28,
@@ -88,7 +80,7 @@
     "zh_hant": "“我剛才正琢磨怎麼打發這個上午——直到"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "I saw you.",
     "start": 70.93,
     "end": 72.1,
@@ -96,7 +88,7 @@
     "zh_hant": "看到你。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "You're not busy doing anything, are you?'",
     "start": 73.101,
     "end": 76.723,
@@ -104,7 +96,7 @@
     "zh_hant": "你現在不忙吧？”"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "'No, not at all,' I answered.",
     "start": 76.963,
     "end": 80.925,
@@ -112,7 +104,7 @@
     "zh_hant": "“不忙，一點不忙，”我回答。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "'I'm going to...'",
     "start": 80.575,
     "end": 82.345,
@@ -120,7 +112,7 @@
     "zh_hant": "“我正要去……”"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "'Would you mind my coming with you?'",
     "start": 81.995,
     "end": 86.387,
@@ -128,7 +120,7 @@
     "zh_hant": "“我跟你一起去，你介意嗎？”"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "he asked, before I had finished speaking.",
     "start": 86.928,
     "end": 90.549,
@@ -136,7 +128,7 @@
     "zh_hant": "他還沒等我說完就問。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "'Not at all,' I lied,",
     "start": 90.199,
     "end": 93.993,
@@ -144,7 +136,7 @@
     "zh_hant": "“不介意，”我撒了個謊，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "'but I'm going to the dentist.'",
     "start": 93.794,
     "end": 97.038,
@@ -152,7 +144,7 @@
     "zh_hant": "“但我正要去牙醫那兒。”"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "'Then I'll come with you,' he answered.",
     "start": 96.688,
     "end": 100.843,
@@ -160,7 +152,7 @@
     "zh_hant": "“那我就跟你一起去，”他回答。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "'There's always plenty to read in the waiting room!'",
     "start": 100.624,
     "end": 105.47,

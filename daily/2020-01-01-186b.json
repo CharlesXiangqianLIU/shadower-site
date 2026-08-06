@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 18.",
+    "text": "Lesson 18 Electric currents in modern art",
     "start": 0.15,
-    "end": 2.021,
-    "zh": "第十八课。",
-    "zh_hant": "第十八課。"
+    "end": 9.271,
+    "zh": "第18课 现代艺术中的电流",
+    "zh_hant": "第18課 現代藝術中的電流"
   },
   {
     "index": 1,
-    "text": "Electric currents in modern",
-    "start": 2.071,
-    "end": 8.134,
-    "zh": "现代艺术中的",
-    "zh_hant": "現代藝術中的"
+    "text": "How might some of the exhibits have been dangerous?",
+    "start": 11.071,
+    "end": 14.551,
+    "zh": "有些展品怎么会有危险呢?",
+    "zh_hant": "有些展品怎麼會有危險呢?"
   },
   {
     "index": 2,
-    "text": "art.",
-    "start": 7.874,
-    "end": 9.274,
-    "zh": "电流。",
-    "zh_hant": "電流。"
-  },
-  {
-    "index": 3,
-    "text": "How might some of the exhibits have been dangerous?",
-    "start": 11.076,
-    "end": 14.557,
-    "zh": "有些展品可能有什么危险？",
-    "zh_hant": "有些展品可能有什麼危險？"
-  },
-  {
-    "index": 4,
     "text": "Modern sculpture rarely surprises us any more.",
     "start": 15.618,
     "end": 19.239,
@@ -40,7 +24,7 @@
     "zh_hant": "現代雕塑很少再讓我們感到驚訝。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "The idea that modern art can only be seen in museums is mistaken.",
     "start": 19.52,
     "end": 24.902,
@@ -48,7 +32,7 @@
     "zh_hant": "認為現代藝術只能在博物館裡看到的想法是錯誤的。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Even people who take no interest in art",
     "start": 25.543,
     "end": 28.844,
@@ -56,7 +40,7 @@
     "zh_hant": "即使對藝術不感興趣的人"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "cannot have failed to notice examples of modern sculpture on display in public places.",
     "start": 28.804,
     "end": 34.727,
@@ -64,7 +48,7 @@
     "zh_hant": "也不可能沒有注意過公共場所展示的現代雕塑。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Strange forms stand in gardens, and outside buildings and shops.",
     "start": 35.428,
     "end": 40.21,
@@ -72,7 +56,7 @@
     "zh_hant": "奇怪的形狀立在花園裡，以及建築和商店外面。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "We have got quite used to them.",
     "start": 40.66,
     "end": 42.941,
@@ -80,7 +64,7 @@
     "zh_hant": "我們已經對它們習以為常了。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
     "start": 43.521,
     "end": 49.242,
@@ -88,7 +72,7 @@
     "zh_hant": "一些所謂的“現代”作品已經展出了將近八十年。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "In spite of this, some people--including myself--were",
     "start": 49.862,
     "end": 54.664,
@@ -96,7 +80,7 @@
     "zh_hant": "儘管如此，有些人——包括我自己——對"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "surprised by a recent exhibition of modern sculpture.",
     "start": 54.314,
     "end": 58.004,
@@ -104,7 +88,7 @@
     "zh_hant": "最近的一次現代雕塑展感到驚訝。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The first thing I saw when I entered the art gallery was a notice",
     "start": 58.685,
     "end": 62.966,
@@ -112,7 +96,7 @@
     "zh_hant": "我走進藝術畫廊時看到的第一樣東西是一張告示，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "which said: 'Do not touch the exhibits, some of them are dangerous!'",
     "start": 62.616,
     "end": 68.787,
@@ -120,7 +104,7 @@
     "zh_hant": "上面寫著：“請勿觸控展品，有些是危險的！”"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "The objects on display were pieces of moving sculpture.",
     "start": 69.387,
     "end": 73.288,
@@ -128,7 +112,7 @@
     "zh_hant": "展出的物品是動態雕塑。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Oddly shaped forms that are suspended from the ceiling",
     "start": 74.108,
     "end": 77.549,
@@ -136,7 +120,7 @@
     "zh_hant": "懸掛在天花板上、形狀奇特的物體，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "and move in response to a gust of wind are quite familiar to everybody.",
     "start": 77.689,
     "end": 83.452,
@@ -144,7 +128,7 @@
     "zh_hant": "會隨風搖擺，這對大家來說都很熟悉。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "These objects, however, were different.",
     "start": 83.992,
     "end": 87.314,
@@ -152,7 +136,7 @@
     "zh_hant": "然而，這些物體卻與眾不同。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Lined up against the wall, there were long thin wires attached to metal spheres.",
     "start": 87.874,
     "end": 93.697,
@@ -160,7 +144,7 @@
     "zh_hant": "靠牆排成一排，有長長的細線連線著金屬球。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "The spheres had been magnetized and attracted or repelled each other all the time.",
     "start": 94.117,
     "end": 100.52,
@@ -168,7 +152,7 @@
     "zh_hant": "這些球被磁化了，並且一直互相吸引或排斥。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "In the centre of the hall, there were a number of tall structures which contained coloured lights.",
     "start": 100.941,
     "end": 107.143,
@@ -176,7 +160,7 @@
     "zh_hant": "大廳中央有許多高大的結構，裡面裝有彩色燈光。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "These lights flickered continuously like traffic lights which have gone mad.",
     "start": 107.644,
     "end": 113.126,
@@ -184,7 +168,7 @@
     "zh_hant": "這些燈光像發瘋的交通燈一樣不斷閃爍。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Sparks were emitted from small black boxes",
     "start": 113.947,
     "end": 117.248,
@@ -192,7 +176,7 @@
     "zh_hant": "小黑色盒子裡發出火花，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "and red lamps flashed on and off angrily.",
     "start": 117.089,
     "end": 120.772,
@@ -200,7 +184,7 @@
     "zh_hant": "紅色燈泡憤怒地忽明忽暗。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It was rather like an exhibition of prehistoric electronic equipment.",
     "start": 121.153,
     "end": 126.098,
@@ -208,7 +192,7 @@
     "zh_hant": "這更像是一個史前電子裝置的展覽。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "These peculiar forms not only seemed designed to shock people emotionally,",
     "start": 126.88,
     "end": 132.426,
@@ -216,7 +200,7 @@
     "zh_hant": "這些奇特的形狀不僅似乎是為了在情感上震撼人們，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "but to give them electric shocks as well!",
     "start": 132.687,
     "end": 135.65,

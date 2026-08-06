@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 81.",
+    "text": "Lesson 81 Roast beef and potatoes Listen to the tape then answer this question.",
     "start": 0.53,
-    "end": 2.942,
-    "zh": "第81课。",
-    "zh_hant": "第81課。"
+    "end": 11.492,
+    "zh": "第81课 烤牛肉和土豆 听录音，然后回答这个问题。",
+    "zh_hant": "第81課 烤牛肉和土豆 聽錄音，然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Roast beef and potatoes.",
-    "start": 2.992,
-    "end": 5.853,
-    "zh": "烤牛肉和土豆。",
-    "zh_hant": "烤牛肉和土豆。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.893,
-    "end": 9.815,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.575,
-    "end": 11.476,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Why is Carol disappointed?",
     "start": 12.376,
     "end": 15.397,
@@ -40,7 +16,7 @@
     "zh_hant": "為什麼卡羅爾感到失望？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Hi, Carol!",
     "start": 16.958,
     "end": 18.359,
@@ -48,7 +24,7 @@
     "zh_hant": "嗨，卡羅爾！"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Where's Tom?",
     "start": 18.639,
     "end": 20.06,
@@ -56,7 +32,7 @@
     "zh_hant": "湯姆在哪兒？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "He's upstairs.",
     "start": 20.32,
     "end": 22.381,
@@ -64,7 +40,7 @@
     "zh_hant": "他在樓上。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "He's having a bath.",
     "start": 22.381,
     "end": 24.602,
@@ -72,7 +48,7 @@
     "zh_hant": "他在洗澡。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Tom!",
     "start": 25.183,
     "end": 26.283,
@@ -80,7 +56,7 @@
     "zh_hant": "湯姆！"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Yes?",
     "start": 26.783,
     "end": 27.884,
@@ -88,7 +64,7 @@
     "zh_hant": "什麼事？"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Sam's here.",
     "start": 27.984,
     "end": 29.404,
@@ -96,7 +72,7 @@
     "zh_hant": "薩姆來了。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "I'm nearly ready.",
     "start": 30.305,
     "end": 31.846,
@@ -104,7 +80,7 @@
     "zh_hant": "我快準備好了。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Hello, Sam.",
     "start": 32.766,
     "end": 34.247,
@@ -112,7 +88,7 @@
     "zh_hant": "你好，薩姆。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Have a cigarette.",
     "start": 34.627,
     "end": 36.428,
@@ -120,7 +96,7 @@
     "zh_hant": "抽支菸吧。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "No, thanks, Tom.",
     "start": 36.608,
     "end": 38.509,
@@ -128,7 +104,7 @@
     "zh_hant": "不，謝謝，湯姆。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Have a glass of whisky then.",
     "start": 39.049,
     "end": 41.491,
@@ -136,7 +112,7 @@
     "zh_hant": "那喝杯威士忌吧。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "OK.",
     "start": 41.691,
     "end": 42.371,
@@ -144,7 +120,7 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Thanks.",
     "start": 42.532,
     "end": 43.452,
@@ -152,7 +128,7 @@
     "zh_hant": "謝謝。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Is dinnner ready, Carol?",
     "start": 44.153,
     "end": 46.233,
@@ -160,7 +136,7 @@
     "zh_hant": "卡羅爾，晚餐準備好了嗎？"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "It's nearly ready.",
     "start": 47.774,
     "end": 49.695,
@@ -168,7 +144,7 @@
     "zh_hant": "快好了。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "We can have dinner at seven o'clock.",
     "start": 50.036,
     "end": 53.677,
@@ -176,7 +152,7 @@
     "zh_hant": "我們可以在七點吃晚餐。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Sam and I had lunch together today.",
     "start": 54.858,
     "end": 58.16,
@@ -184,7 +160,7 @@
     "zh_hant": "薩姆和我今天一起吃午飯了。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "We went to a restaurant.",
     "start": 58.62,
     "end": 60.861,
@@ -192,7 +168,7 @@
     "zh_hant": "我們去了餐館。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "What did you have?",
     "start": 61.121,
     "end": 62.962,
@@ -200,7 +176,7 @@
     "zh_hant": "你們吃了什麼？"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "We had roast beef and potatoes.",
     "start": 63.403,
     "end": 66.844,
@@ -208,7 +184,7 @@
     "zh_hant": "我們吃了烤牛肉和土豆。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Oh!",
     "start": 67.065,
     "end": 67.905,
@@ -216,7 +192,7 @@
     "zh_hant": "哦！"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "What's the matter, Carol?",
     "start": 68.685,
     "end": 70.666,
@@ -224,7 +200,7 @@
     "zh_hant": "怎麼了，卡羅爾？"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "Well, you're going to have roast beef",
     "start": 71.047,
     "end": 75.129,
@@ -232,7 +208,7 @@
     "zh_hant": "唉，你今晚又要吃烤牛肉"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "and potatoes again tonight!",
     "start": 74.869,
     "end": 77.75,

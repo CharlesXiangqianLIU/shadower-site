@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 49.",
-    "start": 5.253,
-    "end": 4.03,
-    "zh": "第49课。",
-    "zh_hant": "第49課。"
+    "text": "Lesson 49 The ideal servant",
+    "start": 0.29,
+    "end": 8.413,
+    "zh": "第49课 理想的仆人",
+    "zh_hant": "第49課 理想的僕人"
   },
   {
     "index": 1,
-    "text": "The ideal servant.",
-    "start": 5.753,
-    "end": 8.794,
-    "zh": "理想的仆人。",
-    "zh_hant": "理想的僕人。"
+    "text": "What was Bessie's 'little weakness' ?",
+    "start": 8.453,
+    "end": 14.767,
+    "zh": "贝西的“小毛病”是什么？",
+    "zh_hant": "貝西的“小毛病”是什麼？"
   },
   {
     "index": 2,
-    "text": "What was Bessie's 'little weakness'?",
-    "start": 8.454,
-    "end": 13.336,
-    "zh": "贝茜的“小弱点”是什么？",
-    "zh_hant": "貝茜的“小弱點”是什麼？"
-  },
-  {
-    "index": 3,
     "text": "It is a good thing my aunt Harriet died years ago.",
     "start": 14.937,
     "end": 18.639,
@@ -32,7 +24,7 @@
     "zh_hant": "幸好我的姑媽哈麗特多年前就去世了。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "If she were alive today she would not be able to air her views",
     "start": 18.939,
     "end": 24.242,
@@ -40,7 +32,7 @@
     "zh_hant": "如果她還活著，她就不可能再就她最愛的話題"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "on her favourite topic of conversation:",
     "start": 23.892,
     "end": 26.643,
@@ -48,7 +40,7 @@
     "zh_hant": "發表她的看法了："
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "domestic servants.",
     "start": 26.843,
     "end": 28.744,
@@ -56,7 +48,7 @@
     "zh_hant": "家僕。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Aunt Harriet lived in that leisurely age when servants were employed to do housework.",
     "start": 29.265,
     "end": 35.007,
@@ -64,7 +56,7 @@
     "zh_hant": "哈麗特姑媽生活在那個人們僱用僕人做家務的悠閒時代。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "She had a huge, rambling country house called 'The Gables'.",
     "start": 35.408,
     "end": 40.25,
@@ -72,7 +64,7 @@
     "zh_hant": "她有一座龐大的、佈局凌亂的鄉間住宅，叫“山牆屋”。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "She was sentimentally attached to this house,",
     "start": 40.311,
     "end": 43.592,
@@ -80,7 +72,7 @@
     "zh_hant": "她對這座房子情有獨鍾，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "for even though it was far too big for her needs,",
     "start": 43.692,
     "end": 47.654,
@@ -88,7 +80,7 @@
     "zh_hant": "因為儘管它遠超出了她的需要，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "she persisted in living there long after her husband's death.",
     "start": 47.714,
     "end": 51.976,
@@ -96,7 +88,7 @@
     "zh_hant": "她在丈夫去世後很久仍堅持住在那裡。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Before she grew old, aunt Harriet used to entertain lavishly.",
     "start": 52.837,
     "end": 57.579,
@@ -104,7 +96,7 @@
     "zh_hant": "在她變老之前，哈麗特姑媽常常大擺宴席招待賓客。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "I often visited The Gables when I was a boy.",
     "start": 57.899,
     "end": 60.9,
@@ -112,7 +104,7 @@
     "zh_hant": "我小時候經常去山牆屋。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "No matter how many guests were present, the great house was always immaculate.",
     "start": 61.381,
     "end": 67.344,
@@ -120,7 +112,7 @@
     "zh_hant": "不管有多少客人，那座大房子總是整潔如一。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "The parquet floors shone like mirrors;",
     "start": 67.584,
     "end": 70.665,
@@ -128,7 +120,7 @@
     "zh_hant": "鑲木地板像鏡子一樣閃閃發光；"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "highly polished silver was displayed in gleaming glass cabinets;",
     "start": 70.926,
     "end": 75.688,
@@ -136,7 +128,7 @@
     "zh_hant": "擦得鋥亮的銀器陳列在閃亮的玻璃櫃子裡；"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "even my uncle's huge collection of books was kept miraculously free from dust.",
     "start": 76.288,
     "end": 82.652,
@@ -144,7 +136,7 @@
     "zh_hant": "就連我叔叔那大量的藏書也保持得奇蹟般一塵不染。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Aunt Harriet presided over an invisible army of servants that continuously scrubbed,",
     "start": 83.372,
     "end": 90.395,
@@ -152,7 +144,7 @@
     "zh_hant": "哈麗特姑媽統率著一支無形的僕人隊伍，他們不斷地擦洗、"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "cleaned, and polished.",
     "start": 90.416,
     "end": 92.296,
@@ -160,7 +152,7 @@
     "zh_hant": "打掃和拋光。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "She always referred to them as 'the shifting population',",
     "start": 92.777,
     "end": 97.799,
@@ -168,7 +160,7 @@
     "zh_hant": "她總把他們稱為“流動人口”，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "for they came and went with such frequency that I never even got a chance to learn their names.",
     "start": 97.779,
     "end": 104.482,
@@ -176,7 +168,7 @@
     "zh_hant": "因為他們來來去去如此頻繁，我甚至從未有機會記住他們的名字。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Though my aunt pursued what was, in those days an enlightened policy,",
     "start": 105.543,
     "end": 110.926,
@@ -184,7 +176,7 @@
     "zh_hant": "雖然我姑媽施行了在當時算開明的政策，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "in that she never allowed her domestic staff to work more than eight hours a day,",
     "start": 111.086,
     "end": 116.508,
@@ -192,7 +184,7 @@
     "zh_hant": "她從不允許家裡的傭人每天工作超過八小時，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "she was extremely difficult to please.",
     "start": 116.609,
     "end": 119.67,
@@ -200,7 +192,7 @@
     "zh_hant": "但她卻極難取悅。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "While she always criticized the fickleness of human nature,",
     "start": 120.191,
     "end": 124.713,
@@ -208,7 +200,7 @@
     "zh_hant": "儘管她總是批評人性的善變，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "she carried on an unrelenting search for the ideal servant to the end of her days,",
     "start": 124.933,
     "end": 131.536,
@@ -216,7 +208,7 @@
     "zh_hant": "她卻一生都在堅持不懈地尋找理想的僕人，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "even after she had been sadly disillusioned by Bessie.",
     "start": 132.056,
     "end": 137.859,
@@ -224,7 +216,7 @@
     "zh_hant": "甚至在貝茜令她大失所望之後仍不放棄。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "worked for aunt Harriet for three years.",
     "start": 137.719,
     "end": 140.58,
@@ -232,7 +224,7 @@
     "zh_hant": "貝茜為哈麗特姑媽工作了三年。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff.",
     "start": 141.041,
     "end": 148.124,
@@ -240,7 +232,7 @@
     "zh_hant": "在那段時間裡，她深得姑媽的信任，以至於被委以管理傭人的重任。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "Aunt Harriet could not find words to praise Bessie's industriousness and efficiency.",
     "start": 149.045,
     "end": 155.327,
@@ -248,7 +240,7 @@
     "zh_hant": "哈麗特姑媽簡直找不到話來稱讚貝茜的勤勉和效率。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "In addition to all her other qualifications, Bessie was an expert cook.",
     "start": 155.988,
     "end": 161.511,
@@ -256,7 +248,7 @@
     "zh_hant": "除了其他所有優點之外，貝茜還是一位出色的廚師。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "She acted the role of the perfect servant for three years",
     "start": 162.031,
     "end": 165.833,
@@ -264,7 +256,7 @@
     "zh_hant": "她扮演完美僕人的角色整整三年，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "before Aunt Harriet discovered her 'little weakness'.",
     "start": 165.893,
     "end": 170.075,
@@ -272,7 +264,7 @@
     "zh_hant": "直到哈麗特姑媽發現了她的“小弱點”。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "After being absent from The Gables for a week,",
     "start": 170.636,
     "end": 173.857,
@@ -280,7 +272,7 @@
     "zh_hant": "在離開山牆屋一個星期後，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "my aunt unexpectedly returned one afternoon",
     "start": 173.757,
     "end": 177.239,
@@ -288,7 +280,7 @@
     "zh_hant": "我姑媽有一天下午突然帶著一群客人回來了，"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "with a party of guests and instructed Bessie to prepare dinner.",
     "start": 177.239,
     "end": 181.581,
@@ -296,7 +288,7 @@
     "zh_hant": "並吩咐貝茜準備晚餐。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "Not only was the meal well below the usual standard,",
     "start": 182.221,
     "end": 186.203,
@@ -304,7 +296,7 @@
     "zh_hant": "不僅飯菜遠低於平時的標準，"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "but Bessie seemed unable to walk steadily.",
     "start": 186.404,
     "end": 189.725,
@@ -312,7 +304,7 @@
     "zh_hant": "而且貝茜似乎連走路都搖搖晃晃。"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "She bumped into the furniture and kept mumbling about the guests.",
     "start": 189.945,
     "end": 194.207,
@@ -320,7 +312,7 @@
     "zh_hant": "她撞到傢俱上，還不停地嘟囔著客人。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "When she came in with the last course--a huge pudding--she",
     "start": 194.788,
     "end": 199.91,
@@ -328,7 +320,7 @@
     "zh_hant": "當她端著最後一道菜——一個巨大的布丁——進來時，她"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "tripped on the carpet and the pudding went flying through the air,",
     "start": 199.63,
     "end": 203.952,
@@ -336,7 +328,7 @@
     "zh_hant": "在地毯上絆了一跤，布丁飛上了空中，"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "narrowly missed my aunt, and crashed on the dining table with considerable force.",
     "start": 204.453,
     "end": 210.495,
@@ -344,7 +336,7 @@
     "zh_hant": "差一點砸中我姑媽，最後重重地砸在餐桌上。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "Though this caused great mirth among the guests, Aunt Harriet was horrified.",
     "start": 211.276,
     "end": 217.699,
@@ -352,7 +344,7 @@
     "zh_hant": "儘管這讓客人們捧腹大笑，哈麗特姑媽卻嚇壞了。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "She reluctantly came to the conclusion that Bessie was drunk.",
     "start": 218.34,
     "end": 222.701,
@@ -360,7 +352,7 @@
     "zh_hant": "她勉強得出結論：貝茜喝醉了。"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "The guests had, of course, realized this from the moment Bessie",
     "start": 223.382,
     "end": 228.204,
@@ -368,7 +360,7 @@
     "zh_hant": "當然，客人們從貝茜為他們開門的那一刻起就已經察覺到了，"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "opened the door for them and, long before the final catastrophe,",
     "start": 227.884,
     "end": 232.726,
@@ -376,7 +368,7 @@
     "zh_hant": "並且在最終災難發生之前，"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "had had a difficult time trying to conceal their amusement.",
     "start": 233.307,
     "end": 237.449,
@@ -384,7 +376,7 @@
     "zh_hant": "他們一直很難掩飾自己的好笑。"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "The poor girl was dismissed instantly.",
     "start": 238.009,
     "end": 241.312,
@@ -392,7 +384,7 @@
     "zh_hant": "這個可憐的女孩立即被解僱了。"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "After her departure,",
     "start": 241.653,
     "end": 243.274,
@@ -400,7 +392,7 @@
     "zh_hant": "她離開之後，"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "Aunt Harriet discovered that there were piles",
     "start": 243.455,
     "end": 246.577,
@@ -408,7 +400,7 @@
     "zh_hant": "哈麗特姑媽發現有一堆"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "of empty wine bottles of all shapes and sizes",
     "start": 246.227,
     "end": 250.441,
@@ -416,7 +408,7 @@
     "zh_hant": "各種形狀和大小的空酒瓶，"
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "neatly stacked in what had once been Bessie's wardrobe.",
     "start": 250.462,
     "end": 254.425,
@@ -424,7 +416,7 @@
     "zh_hant": "整整齊齊地堆放在曾經是貝茜衣櫃的地方。"
   },
   {
-    "index": 53,
+    "index": 52,
     "text": "They had mysteriously found their way there from the wine cellar!",
     "start": 254.886,
     "end": 259.13,

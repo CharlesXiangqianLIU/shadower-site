@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 16.",
-    "start": 8.433,
-    "end": 6.27,
-    "zh": "第16课。",
-    "zh_hant": "第16課。"
+    "text": "Lesson 16 The modern city What is the author's main argument about the modern city?",
+    "start": 10.181000000000003,
+    "end": 17.603,
+    "zh": "第16课 现代城市 作者关于现代城市的主要观点是什么?",
+    "zh_hant": "第16課 現代城市 作者關於現代城市的主要觀點是什麼?"
   },
   {
     "index": 1,
-    "text": "The modern city.",
-    "start": 9.394,
-    "end": 11.575,
-    "zh": "现代城市。",
-    "zh_hant": "現代城市。"
-  },
-  {
-    "index": 2,
-    "text": "What is the author's main argument about the modern city?",
-    "start": 13.816,
-    "end": 17.958,
-    "zh": "作者关于现代城市的主要论点是什么？",
-    "zh_hant": "作者關於現代城市的主要論點是什麼？"
-  },
-  {
-    "index": 3,
     "text": "In the organization of industrial life",
     "start": 20.359,
     "end": 23.16,
@@ -32,7 +16,7 @@
     "zh_hant": "在工業生活的組織中"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "the influence of the factory upon the physiological and mental state of the workers",
     "start": 23.181,
     "end": 28.523,
@@ -40,7 +24,7 @@
     "zh_hant": "工廠對工人生理和心理狀態的影響"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "has been completely neglected.",
     "start": 28.463,
     "end": 30.464,
@@ -48,7 +32,7 @@
     "zh_hant": "一直被完全忽視了。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Modern industry is based on the conception of the maximum production at lowest cost,",
     "start": 31.165,
     "end": 37.247,
@@ -56,7 +40,7 @@
     "zh_hant": "現代工業建立在以最低成本實現最大產量的觀念之上，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "in order that an individual or a group of individuals may earn as much money as possible.",
     "start": 37.408,
     "end": 43.631,
@@ -64,7 +48,7 @@
     "zh_hant": "以便個人或群體能夠儘可能多地賺錢。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "It has expanded without any idea of the true nature of the human beings who run the machines,",
     "start": 44.452,
     "end": 50.574,
@@ -72,7 +56,7 @@
     "zh_hant": "它的擴張絲毫沒有考慮操作機器的人的真實本性，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and without giving any consideration to the effects produced on the individuals",
     "start": 50.655,
     "end": 55.637,
@@ -80,7 +64,7 @@
     "zh_hant": "也沒有考慮工廠強加的人為生存方式對個人"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "and on their descendants by the artificial mode of existence imposed by the factory.",
     "start": 55.537,
     "end": 61.52,
@@ -88,7 +72,7 @@
     "zh_hant": "及其後代所產生的影響。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "The great cities have been built with no regard for us.",
     "start": 62.321,
     "end": 66.162,
@@ -96,7 +80,7 @@
     "zh_hant": "大城市建造時全然不顧我們的利益。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "The shape and dimensions of the skyscrapers depend entirely",
     "start": 66.683,
     "end": 71.185,
@@ -104,7 +88,7 @@
     "zh_hant": "摩天大樓的形狀和尺寸完全取決於"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "on the necessity of obtaining the maximum income per square foot of ground,",
     "start": 71.065,
     "end": 76.027,
@@ -112,7 +96,7 @@
     "zh_hant": "每平方英尺地面獲取最大收入的需要，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "and of offering to the tenants offices and apartments that please them.",
     "start": 76.168,
     "end": 80.97,
@@ -120,7 +104,7 @@
     "zh_hant": "以及向租戶提供令他們滿意的辦公室和公寓的需要。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "This caused the construction of gigantic buildings",
     "start": 81.911,
     "end": 85.652,
@@ -128,7 +112,7 @@
     "zh_hant": "這導致了巨型建築的建設，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "where too large masses of human beings are crowded together.",
     "start": 85.712,
     "end": 90.274,
@@ -136,7 +120,7 @@
     "zh_hant": "大量人群擁擠在這些建築中。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Civilized men like such a way of living.",
     "start": 91.295,
     "end": 94.296,
@@ -144,7 +128,7 @@
     "zh_hant": "文明人喜歡這樣的生活方式。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "While they enjoy the comfort and banal luxury of their dwelling,",
     "start": 94.697,
     "end": 98.659,
@@ -152,7 +136,7 @@
     "zh_hant": "當他們享受住所的舒適和庸俗的奢華時，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "they do not realize that they are deprived of the necessities of life.",
     "start": 98.719,
     "end": 103.201,
@@ -160,7 +144,7 @@
     "zh_hant": "他們沒有意識到自己被剝奪了生活必需品。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "The modern city consists of monstrous edifices",
     "start": 104.001,
     "end": 107.463,
@@ -168,7 +152,7 @@
     "zh_hant": "現代城市由龐大的建築"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "and of dark, narrow streets full of petrol fumes and toxic gases,",
     "start": 107.303,
     "end": 112.265,
@@ -176,7 +160,7 @@
     "zh_hant": "以及充滿汽油味和有毒氣體的昏暗狹窄街道組成，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "torn by the noise of the taxicabs, lorries and buses,",
     "start": 112.426,
     "end": 116.487,
@@ -184,7 +168,7 @@
     "zh_hant": "這些街道被計程車、卡車和公交車的噪音撕裂，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and thronged ceaselessly by great crowds.",
     "start": 116.528,
     "end": 120.149,
@@ -192,7 +176,7 @@
     "zh_hant": "並不斷被大批人群擁擠。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Obviously, it has not been planned for the good of its inhabitants.",
     "start": 120.57,
     "end": 124.569,

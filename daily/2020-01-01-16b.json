@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 31.",
+    "text": "Lesson 31 Where's Sally?",
     "start": 0.49,
-    "end": 2.962,
-    "zh": "第31课。",
-    "zh_hant": "第31課。"
+    "end": 4.592,
+    "zh": "第31课 萨莉在哪里？",
+    "zh_hant": "第31課 薩莉在哪裡？"
   },
   {
     "index": 1,
-    "text": "Where's Sally?",
-    "start": 3.012,
-    "end": 4.592,
-    "zh": "莎莉在哪里？",
-    "zh_hant": "莎莉在哪裡？"
-  },
-  {
-    "index": 2,
     "text": "Listen to the tape then",
     "start": 5.633,
     "end": 8.534,
@@ -24,7 +16,7 @@
     "zh_hant": "聽錄音，然後"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "answer this question.",
     "start": 8.334,
     "end": 10.275,
@@ -32,7 +24,7 @@
     "zh_hant": "回答這個問題。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Is the cat climbing the tree?",
     "start": 11.416,
     "end": 14.137,
@@ -40,7 +32,7 @@
     "zh_hant": "貓在爬樹嗎？"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Where's Sally, Jack?",
     "start": 15.738,
     "end": 18.139,
@@ -48,7 +40,7 @@
     "zh_hant": "莎莉在哪裡，傑克？"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "She's in the garden, Jean.",
     "start": 18.679,
     "end": 21.14,
@@ -56,7 +48,7 @@
     "zh_hant": "她在花園裡，瓊。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "What's she doing?",
     "start": 21.401,
     "end": 23.161,
@@ -64,7 +56,7 @@
     "zh_hant": "她在做什麼？"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "She's sitting under the tree.",
     "start": 23.442,
     "end": 26.083,
@@ -72,7 +64,7 @@
     "zh_hant": "她正坐在樹下。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Is Tim in the garden, too?",
     "start": 26.563,
     "end": 29.565,
@@ -80,7 +72,7 @@
     "zh_hant": "蒂姆也在花園裡嗎？"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Yes, he is.",
     "start": 29.885,
     "end": 31.626,
@@ -88,7 +80,7 @@
     "zh_hant": "是的，他在。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "He's climbing the tree.",
     "start": 31.766,
     "end": 33.907,
@@ -96,7 +88,7 @@
     "zh_hant": "他正在爬樹。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "I beg your pardon?",
     "start": 34.827,
     "end": 36.608,
@@ -104,7 +96,7 @@
     "zh_hant": "請再說一遍？"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Who's climbing the tree?",
     "start": 36.808,
     "end": 39.109,
@@ -112,7 +104,7 @@
     "zh_hant": "誰在爬樹？"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Tim is.",
     "start": 39.41,
     "end": 40.792,
@@ -120,7 +112,7 @@
     "zh_hant": "蒂姆。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "What about the dog?",
     "start": 41.393,
     "end": 43.476,
@@ -128,7 +120,7 @@
     "zh_hant": "那隻狗呢？"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "The dog's in the garden, too.",
     "start": 43.897,
     "end": 46.64,
@@ -136,7 +128,7 @@
     "zh_hant": "狗也在花園裡。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "It's running across the grass.",
     "start": 46.861,
     "end": 49.785,
@@ -144,7 +136,7 @@
     "zh_hant": "它正在跑過草地。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "It's running after a cat.",
     "start": 50.006,
     "end": 52.85,

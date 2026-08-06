@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 129.",
-    "start": 0.65,
-    "end": 3.742,
-    "zh": "第129课。",
-    "zh_hant": "第129課。"
+    "text": "Lesson 129 Seventy miles an hour Listen to the tape then answer this question.",
+    "start": 0.67,
+    "end": 11.391,
+    "zh": "第129课 每小时七十英里 听录音,然后回答这个问题。",
+    "zh_hant": "第129課 每小時七十英里 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Seventy miles an hour.",
-    "start": 3.792,
-    "end": 6.053,
-    "zh": "每小时七十英里。",
-    "zh_hant": "每小時七十英里。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 7.054,
-    "end": 11.395,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "What does Ann advise",
     "start": 12.316,
     "end": 14.697,
@@ -32,7 +16,7 @@
     "zh_hant": "安建議"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "her husband to do next time?",
     "start": 14.347,
     "end": 17.398,
@@ -40,7 +24,7 @@
     "zh_hant": "她丈夫下次做什麼？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Look, Gary!",
     "start": 19.3,
     "end": 20.76,
@@ -48,7 +32,7 @@
     "zh_hant": "看，加里！"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "That policeman's waving to you.",
     "start": 21.061,
     "end": 24.202,
@@ -56,7 +40,7 @@
     "zh_hant": "那個警察在向你揮手。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "He wants you to stop.",
     "start": 24.442,
     "end": 26.763,
@@ -64,7 +48,7 @@
     "zh_hant": "他想讓你停下來。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Where do you think you are?",
     "start": 27.924,
     "end": 31.005,
@@ -72,7 +56,7 @@
     "zh_hant": "你以為你在哪兒？"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "On a race track?",
     "start": 31.306,
     "end": 33.046,
@@ -80,7 +64,7 @@
     "zh_hant": "在賽道上嗎？"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "You must have been driving",
     "start": 33.547,
     "end": 35.848,
@@ -88,7 +72,7 @@
     "zh_hant": "你一定是"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "at seventy miles an hour.",
     "start": 35.528,
     "end": 38.449,
@@ -96,7 +80,7 @@
     "zh_hant": "以每小時七十英里的速度開車。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "I can't have been.",
     "start": 38.989,
     "end": 40.891,
@@ -104,7 +88,7 @@
     "zh_hant": "我不可能開那麼快。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "I was doing eighty when I overtook you.",
     "start": 41.971,
     "end": 45.533,
@@ -112,7 +96,7 @@
     "zh_hant": "我超過你時是每小時八十英里。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Didn't you see the speed limit?",
     "start": 46.354,
     "end": 49.195,
@@ -120,7 +104,7 @@
     "zh_hant": "你沒看到限速標誌嗎？"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "I'm afraid I didn't, officer.",
     "start": 49.795,
     "end": 52.556,
@@ -128,7 +112,7 @@
     "zh_hant": "恐怕我沒看到，警官。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "I must have been dreaming.",
     "start": 52.857,
     "end": 55.078,
@@ -136,7 +120,7 @@
     "zh_hant": "我一定是在做夢。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "He wasn't dreaming, officer.",
     "start": 55.958,
     "end": 58.779,
@@ -144,7 +128,7 @@
     "zh_hant": "他沒做夢，警官。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "I was telling him to drive slowly.",
     "start": 59.06,
     "end": 62.982,
@@ -152,7 +136,7 @@
     "zh_hant": "我剛才在告訴他開慢點。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "That's why I didn't see the sign.",
     "start": 63.382,
     "end": 66.503,
@@ -160,7 +144,7 @@
     "zh_hant": "所以我沒看到標誌。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Let me see your driving licence.",
     "start": 67.804,
     "end": 70.665,
@@ -168,7 +152,7 @@
     "zh_hant": "讓我看看你的駕照。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "I won't charge you this time.",
     "start": 71.806,
     "end": 74.507,
@@ -176,7 +160,7 @@
     "zh_hant": "這次我不罰你。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "But you'd better not do it again!",
     "start": 74.668,
     "end": 77.869,
@@ -184,7 +168,7 @@
     "zh_hant": "但你最好別再這樣了！"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Thank you.",
     "start": 78.43,
     "end": 79.16,
@@ -192,7 +176,7 @@
     "zh_hant": "謝謝。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "I'll certainly be more careful.",
     "start": 78.76,
     "end": 82.654,
@@ -200,7 +184,7 @@
     "zh_hant": "我一定會更小心的。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "I told you to drive slowly, Gary.",
     "start": 83.556,
     "end": 87.119,
@@ -208,7 +192,7 @@
     "zh_hant": "我告訴過你開慢點，加里。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "You always tell me to drive slowly, darling.",
     "start": 87.42,
     "end": 91.684,
@@ -216,7 +200,7 @@
     "zh_hant": "你總是叫我開慢點，親愛的。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Well, next time you'd",
     "start": 91.765,
     "end": 94.928,
@@ -224,7 +208,7 @@
     "zh_hant": "嗯，下次你最好"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "better take my advice!",
     "start": 94.578,
     "end": 97.11,

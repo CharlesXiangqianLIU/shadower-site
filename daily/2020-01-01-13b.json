@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 25.",
+    "text": "Lesson 25 Mrs. Smith's Kitchen Listen to the tape then answer this question.",
     "start": 0.39,
-    "end": 3.062,
-    "zh": "第25课。",
-    "zh_hant": "第25課。"
+    "end": 11.311,
+    "zh": "第25课 史密斯太太的厨房 听录音,然后回答这个问题。",
+    "zh_hant": "第25課 史密斯太太的廚房 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Mrs. Smith's Kitchen.",
-    "start": 3.112,
-    "end": 5.573,
-    "zh": "史密斯夫人的厨房。",
-    "zh_hant": "史密斯夫人的廚房。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.633,
-    "end": 9.595,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.435,
-    "end": 11.315,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What colour is the electric cooker?",
     "start": 12.556,
     "end": 16.458,
@@ -40,7 +16,7 @@
     "zh_hant": "電灶是什麼顏色的？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Mrs. Smith's kitchen is small.",
     "start": 18.299,
     "end": 22.001,
@@ -48,7 +24,7 @@
     "zh_hant": "史密斯夫人的廚房很小。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "There is a refrigerator in the kitchen.",
     "start": 23.102,
     "end": 27.083,
@@ -56,7 +32,7 @@
     "zh_hant": "廚房裡有一個冰箱。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "The refrigerator is white.",
     "start": 27.684,
     "end": 30.625,
@@ -64,7 +40,7 @@
     "zh_hant": "冰箱是白色的。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "It is on the right.",
     "start": 31.606,
     "end": 33.947,
@@ -72,7 +48,7 @@
     "zh_hant": "它在右邊。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "There is an electric cooker in the kitchen.",
     "start": 35.027,
     "end": 38.949,
@@ -80,7 +56,7 @@
     "zh_hant": "廚房裡有一個電灶。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "The cooker is blue.",
     "start": 39.63,
     "end": 41.872,
@@ -88,7 +64,7 @@
     "zh_hant": "電灶是藍色的。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "It is on the left.",
     "start": 42.893,
     "end": 45.134,
@@ -96,7 +72,7 @@
     "zh_hant": "它在左邊。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "There is a table in the middle of the room.",
     "start": 46.215,
     "end": 50.458,
@@ -104,7 +80,7 @@
     "zh_hant": "房間中央有一張桌子。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "There is a bottle on the table.",
     "start": 51.519,
     "end": 54.601,
@@ -112,7 +88,7 @@
     "zh_hant": "桌子上有一個瓶子。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "The bottle is empty.",
     "start": 55.322,
     "end": 57.744,
@@ -120,7 +96,7 @@
     "zh_hant": "瓶子是空的。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "There is a cup on the table, too.",
     "start": 59.145,
     "end": 62.827,
@@ -128,7 +104,7 @@
     "zh_hant": "桌子上還有一個杯子。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "The cup is clean.",
     "start": 63.828,
     "end": 66.25,

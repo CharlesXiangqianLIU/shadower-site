@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 73.",
+    "text": "Lesson 73 The way to King Street Listen to the tape then answer this question.",
     "start": 0.69,
-    "end": 3.202,
-    "zh": "第73课。",
-    "zh_hant": "第73課。"
+    "end": 11.372,
+    "zh": "第73课 去国王街的路 听录音,然后回答这个问题。",
+    "zh_hant": "第73課 去國王街的路 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "The way to King Street.",
-    "start": 3.252,
-    "end": 5.793,
-    "zh": "去国王街的路。",
-    "zh_hant": "去國王街的路。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.893,
-    "end": 11.375,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "Why did the man need a phrasebook?",
     "start": 12.476,
     "end": 16.278,
@@ -32,7 +16,7 @@
     "zh_hant": "那個人為什麼需要一本常用語手冊？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Last week Mrs. Mills went to London.",
     "start": 18.739,
     "end": 23.081,
@@ -40,7 +24,7 @@
     "zh_hant": "上週，米爾斯太太去了倫敦。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "She does not know London very well,",
     "start": 23.662,
     "end": 27.163,
@@ -48,7 +32,7 @@
     "zh_hant": "她對倫敦不太熟悉，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "and she lost her way.",
     "start": 27.244,
     "end": 29.665,
@@ -56,7 +40,7 @@
     "zh_hant": "而且她迷路了。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Suddenly, she saw a man",
     "start": 30.525,
     "end": 33.647,
@@ -64,7 +48,7 @@
     "zh_hant": "突然，她看到一個男人"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "near a bus stop.",
     "start": 33.567,
     "end": 35.447,
@@ -72,7 +56,7 @@
     "zh_hant": "在公交車站附近。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "'I can ask him the way,'",
     "start": 35.097,
     "end": 38.869,
@@ -80,7 +64,7 @@
     "zh_hant": "“我可以問他路，”"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "she said to herself.",
     "start": 38.989,
     "end": 40.951,
@@ -88,7 +72,7 @@
     "zh_hant": "她自言自語道。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "'Excuse me,' she said.",
     "start": 40.831,
     "end": 44.672,
@@ -96,7 +80,7 @@
     "zh_hant": "“打擾一下，”她說。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "'Can you tell",
     "start": 44.333,
     "end": 46.693,
@@ -104,7 +88,7 @@
     "zh_hant": "“你能告訴"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "me the way to King Street,",
     "start": 46.343,
     "end": 49.235,
@@ -112,7 +96,7 @@
     "zh_hant": "我去國王街的路，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "please?'",
     "start": 49.015,
     "end": 50.495,
@@ -120,7 +104,7 @@
     "zh_hant": "嗎？”"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "The man smiled pleasantly.",
     "start": 51.076,
     "end": 53.977,
@@ -128,7 +112,7 @@
     "zh_hant": "那個男人愉快地笑了笑。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "He did not understand English!",
     "start": 54.638,
     "end": 58.179,
@@ -136,7 +120,7 @@
     "zh_hant": "他不懂英語！"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "He spoke German.",
     "start": 58.5,
     "end": 60.54,
@@ -144,7 +128,7 @@
     "zh_hant": "他說德語。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "He was a tourist.",
     "start": 61.141,
     "end": 63.502,
@@ -152,7 +136,7 @@
     "zh_hant": "他是個遊客。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Then he put his hand into his pocket,",
     "start": 64.162,
     "end": 68.124,
@@ -160,7 +144,7 @@
     "zh_hant": "然後他把手伸進口袋裡，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "and took out a phrasebook.",
     "start": 68.424,
     "end": 71.386,
@@ -168,7 +152,7 @@
     "zh_hant": "掏出一本常用語手冊。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "He opened the book and found a phrase.",
     "start": 71.826,
     "end": 76.148,
@@ -176,7 +160,7 @@
     "zh_hant": "他開啟書，找到一個短語。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "He read the phrase slowly.",
     "start": 76.769,
     "end": 80.122,
@@ -184,7 +168,7 @@
     "zh_hant": "他慢慢地讀那個短語。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "'I am sorry,'",
     "start": 79.722,
     "end": 83.079,
@@ -192,7 +176,7 @@
     "zh_hant": "“對不起，”"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "he said.",
     "start": 83.321,
     "end": 84.502,
@@ -200,7 +184,7 @@
     "zh_hant": "他說。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "'I do not speak English.'",
     "start": 84.163,
     "end": 87.71,

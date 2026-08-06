@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 53.",
+    "text": "Lesson 53 An interesting climate Listen to the tape then answer this question.",
     "start": 0.65,
-    "end": 3.422,
-    "zh": "第53课。",
-    "zh_hant": "第53課。"
+    "end": 11.812,
+    "zh": "第53课 有趣的气候 听录音,然后回答问题。",
+    "zh_hant": "第53課 有趣的氣候 聽錄音,然後回答問題。"
   },
   {
     "index": 1,
-    "text": "An interesting climate.",
-    "start": 3.472,
-    "end": 5.873,
-    "zh": "有趣的气候。",
-    "zh_hant": "有趣的氣候。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.234,
-    "end": 10.095,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.895,
-    "end": 11.816,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What is the favourite subject of conversation",
     "start": 13.617,
     "end": 18.039,
@@ -40,7 +16,7 @@
     "zh_hant": "人們最喜歡談論的話題是什麼"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "in England?",
     "start": 17.879,
     "end": 19.199,
@@ -48,7 +24,7 @@
     "zh_hant": "在英格蘭？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Where do you come from?",
     "start": 21.621,
     "end": 23.742,
@@ -56,7 +32,7 @@
     "zh_hant": "你來自哪裡？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "I come from England.",
     "start": 25.002,
     "end": 27.043,
@@ -64,7 +40,7 @@
     "zh_hant": "我來自英格蘭。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "What's the climate like in your country?",
     "start": 27.744,
     "end": 30.925,
@@ -72,7 +48,7 @@
     "zh_hant": "你們國家的氣候怎麼樣？"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "It's mild, but it's not always pleasant.",
     "start": 31.786,
     "end": 36.188,
@@ -80,7 +56,7 @@
     "zh_hant": "溫和，但並非總是宜人。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "The weather's often cold in the North",
     "start": 37.469,
     "end": 41.031,
@@ -88,7 +64,7 @@
     "zh_hant": "北方天氣經常寒冷"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "and windy in the East.",
     "start": 41.231,
     "end": 43.872,
@@ -96,7 +72,7 @@
     "zh_hant": "東方常颳風。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "It's often wet in the West",
     "start": 44.373,
     "end": 47.394,
@@ -104,7 +80,7 @@
     "zh_hant": "西方經常潮溼"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "and sometimes warm in the South.",
     "start": 47.674,
     "end": 51.356,
@@ -112,7 +88,7 @@
     "zh_hant": "南方有時暖和。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Which seasons do you like best?",
     "start": 52.236,
     "end": 55.438,
@@ -120,7 +96,7 @@
     "zh_hant": "你最喜歡哪些季節？"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "I like spring and summer.",
     "start": 56.779,
     "end": 59.42,
@@ -128,7 +104,7 @@
     "zh_hant": "我喜歡春天和夏天。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "The days are long",
     "start": 59.96,
     "end": 62.181,
@@ -136,7 +112,7 @@
     "zh_hant": "白天長"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "and the nights are short.",
     "start": 62.402,
     "end": 64.943,
@@ -144,7 +120,7 @@
     "zh_hant": "夜晚短。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "The sun rises early and sets late.",
     "start": 65.643,
     "end": 69.865,
@@ -152,7 +128,7 @@
     "zh_hant": "太陽昇得早，落得晚。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "I don't like autumn and winter.",
     "start": 70.926,
     "end": 74.047,
@@ -160,7 +136,7 @@
     "zh_hant": "我不喜歡秋天和冬天。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "The days are short and the nights",
     "start": 74.908,
     "end": 78.669,
@@ -168,7 +144,7 @@
     "zh_hant": "白天短，夜晚"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "are long.",
     "start": 78.43,
     "end": 79.79,
@@ -176,7 +152,7 @@
     "zh_hant": "長。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "The sun rises late and sets",
     "start": 80.732,
     "end": 84.696,
@@ -184,7 +160,7 @@
     "zh_hant": "太陽昇得晚，落得"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "early.",
     "start": 84.576,
     "end": 85.396,
@@ -192,7 +168,7 @@
     "zh_hant": "早。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Our climate is not very good,",
     "start": 86.538,
     "end": 89.701,
@@ -200,7 +176,7 @@
     "zh_hant": "我們的氣候不太好，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "but it's certainly interesting.",
     "start": 89.922,
     "end": 93.045,
@@ -208,7 +184,7 @@
     "zh_hant": "但確實很有趣。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "It's our favourite subject of conversation.",
     "start": 93.726,
     "end": 97.57,

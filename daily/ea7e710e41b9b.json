@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 42.",
-    "start": 1.511,
-    "end": 3.522,
-    "zh": "第42课。",
-    "zh_hant": "第42課。"
+    "text": "Lesson 42 Modern cavemen With what does the writer compare the Gouffre Berger?",
+    "start": 1.09,
+    "end": 14.321,
+    "zh": "第42课 现代穴居人 作者把古夫尔·贝尔热洞穴比作什么？",
+    "zh_hant": "第42課 現代穴居人 作者把古夫爾·貝爾熱洞穴比作什麼？"
   },
   {
     "index": 1,
-    "text": "Modern cavemen",
-    "start": 3.572,
-    "end": 8.174,
-    "zh": "现代穴居人",
-    "zh_hant": "現代穴居人"
-  },
-  {
-    "index": 2,
-    "text": "With what does the writer compare the Gouffre Berger?",
-    "start": 11.736,
-    "end": 15.837,
-    "zh": "作者将伯格尔深渊比作什么？",
-    "zh_hant": "作者將伯格爾深淵比作什麼？"
-  },
-  {
-    "index": 3,
     "text": "Cave exploration, or pot-holing, as it has come to be known, is a relatively new sport.",
     "start": 18.239,
     "end": 24.662,
@@ -32,7 +16,7 @@
     "zh_hant": "洞穴探險，或如今所稱的探洞，是一項相對較新的運動。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Perhaps it is the desire for solitude or the chance of making an unexpected discovery",
     "start": 25.142,
     "end": 31.245,
@@ -40,7 +24,7 @@
     "zh_hant": "也許是尋求孤獨的渴望，或是意外發現的機會"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "that lures people down to the depths of the earth.",
     "start": 31.406,
     "end": 34.907,
@@ -48,7 +32,7 @@
     "zh_hant": "吸引人們深入地下深處。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "It is impossible to give a satisfactory explanation for a pot-holer's motives.",
     "start": 35.568,
     "end": 40.65,
@@ -56,7 +40,7 @@
     "zh_hant": "無法對探洞者的動機給出令人滿意的解釋。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "For him, caves have the same peculiar fascination which high mountains have for the climber.",
     "start": 41.211,
     "end": 47.413,
@@ -64,7 +48,7 @@
     "zh_hant": "對他來說，洞穴具有高山對登山者那樣的特殊魅力。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "They arouse instincts which can only be dimly understood.",
     "start": 47.794,
     "end": 52.036,
@@ -72,7 +56,7 @@
     "zh_hant": "它們激發只能隱約理解的直覺。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Exploring really deep caves is not a task for the Sunday afternoon rambler.",
     "start": 53.117,
     "end": 58.519,
@@ -80,7 +64,7 @@
     "zh_hant": "探索真正深的洞穴不是週日下午漫步者能勝任的任務。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Such undertakings require the precise planning and foresight of military operations.",
     "start": 59.32,
     "end": 65.322,
@@ -88,7 +72,7 @@
     "zh_hant": "此類行動需要軍事行動般的精確規劃和預見。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "It can take as long as eight days to rig up rope ladders",
     "start": 66.183,
     "end": 70.365,
@@ -96,7 +80,7 @@
     "zh_hant": "搭建繩梯可能需要長達八天的時間"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "and to establish supply bases before a descent can be made into a very deep cave.",
     "start": 70.385,
     "end": 76.668,
@@ -104,7 +88,7 @@
     "zh_hant": "並且在深入深洞之前建立補給基地。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Precautions of this sort are necessary,",
     "start": 77.509,
     "end": 80.49,
@@ -112,7 +96,7 @@
     "zh_hant": "這種預防措施是必要的，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "for it is impossible to foretell the exact nature of the difficulties",
     "start": 80.67,
     "end": 85.493,
@@ -120,7 +104,7 @@
     "zh_hant": "因為無法預知困難的確切性質"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "which will confront the pot-holer.",
     "start": 85.333,
     "end": 87.373,
@@ -128,7 +112,7 @@
     "zh_hant": "探洞者將面臨的困難。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "The deepest known cave in the world is the Gouffre Berger near Grenoble.",
     "start": 87.954,
     "end": 93.536,
@@ -136,7 +120,7 @@
     "zh_hant": "世界上已知最深的洞穴是格勒諾布林附近的伯格爾深淵。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "It extends to a depth of 3, 723 feet.",
     "start": 93.777,
     "end": 98.699,
@@ -144,7 +128,7 @@
     "zh_hant": "它延伸至3723英尺的深度。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "This immense chasm has been formed by an underground stream",
     "start": 99.039,
     "end": 103.461,
@@ -152,7 +136,7 @@
     "zh_hant": "這個巨大的裂隙是由一條地下溪流形成的"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "which has tunnelled a course through a flaw in the rocks.",
     "start": 103.542,
     "end": 107.223,
@@ -160,7 +144,7 @@
     "zh_hant": "它透過岩石中的裂縫開闢出一條通道。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "The entrance to the cave is on a plateau in the Dauphine Alps.",
     "start": 107.684,
     "end": 112.586,
@@ -168,7 +152,7 @@
     "zh_hant": "洞穴入口位於多菲內阿爾卑斯山脈的一個高原上。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "As it is only six feet across, it is barely noticeable.",
     "start": 113.026,
     "end": 116.928,
@@ -176,7 +160,7 @@
     "zh_hant": "由於它只有六英尺寬，幾乎不易察覺。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The cave might never have been discovered had not the entrance been spotted",
     "start": 117.308,
     "end": 121.851,
@@ -184,7 +168,7 @@
     "zh_hant": "若非入口被發現，這個洞穴可能永遠不會被發現"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "by the distinguished French pot-holer, Berger.",
     "start": 121.631,
     "end": 125.032,
@@ -192,7 +176,7 @@
     "zh_hant": "由著名的法國探洞者伯格爾發現。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Since its discovery, it has become a sort of pot-holers' Everest.",
     "start": 125.573,
     "end": 130.215,
@@ -200,7 +184,7 @@
     "zh_hant": "自發現以來，它已成為探洞者的珠穆朗瑪峰。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Though a number of descents have been made, much of it still remains to be explored.",
     "start": 130.655,
     "end": 135.838,
@@ -208,7 +192,7 @@
     "zh_hant": "儘管已有多次下潛，其大部分仍有待探索。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "A team of pot-holers recently went down the Gouffre Berger.",
     "start": 136.618,
     "end": 140.78,
@@ -216,7 +200,7 @@
     "zh_hant": "一隊探洞者最近下到了伯格爾深淵。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "After entering the narrow gap on the plateau,",
     "start": 141.181,
     "end": 143.902,
@@ -224,7 +208,7 @@
     "zh_hant": "進入高原上的狹窄縫隙後，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "they climbed down the steep sides of the cave until they came to a narrow corridor.",
     "start": 144.122,
     "end": 149.624,
@@ -232,7 +216,7 @@
     "zh_hant": "他們爬下陡峭的洞壁，直到來到一條狹窄的走廊。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "They had to edge their way along this,",
     "start": 150.065,
     "end": 152.786,
@@ -240,7 +224,7 @@
     "zh_hant": "他們不得不側身沿此前行，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "sometimes wading across shallow streams, or swimming across deep pools.",
     "start": 152.906,
     "end": 158.369,
@@ -248,7 +232,7 @@
     "zh_hant": "有時涉過淺溪，或遊過深潭。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Suddenly they came to a waterfall which dropped",
     "start": 158.909,
     "end": 162.731,
@@ -256,7 +240,7 @@
     "zh_hant": "突然，他們來到一個瀑布，瀑布傾瀉"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "into an underground lake at the bottom of the cave.",
     "start": 162.491,
     "end": 165.853,
@@ -264,7 +248,7 @@
     "zh_hant": "進入洞穴底部的一個地下湖。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "They plunged into the lake,",
     "start": 166.273,
     "end": 168.234,
@@ -272,7 +256,7 @@
     "zh_hant": "他們跳入湖中，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "and after loading their gear on an inflatable rubber dinghy,",
     "start": 168.194,
     "end": 172.256,
@@ -280,7 +264,7 @@
     "zh_hant": "將裝備裝載到充氣橡皮艇上後，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "let the current carry them to the other side.",
     "start": 172.556,
     "end": 175.918,
@@ -288,7 +272,7 @@
     "zh_hant": "讓水流帶他們到對岸。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "To protect themselves from the icy water, they had to wear special rubber suits.",
     "start": 176.538,
     "end": 181.941,
@@ -296,7 +280,7 @@
     "zh_hant": "為抵禦冰冷的水，他們不得不穿特製橡膠服。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "At the far end of the lake, they came to huge piles of rubble which had been washed up by the water.",
     "start": 182.401,
     "end": 188.484,
@@ -304,7 +288,7 @@
     "zh_hant": "在湖的遠端，他們遇到被水沖積的巨大碎石堆。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "In this part of the cave,",
     "start": 188.704,
     "end": 190.465,
@@ -312,7 +296,7 @@
     "zh_hant": "在洞穴的這一部分，"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "they could hear an insistent booming sound",
     "start": 190.565,
     "end": 193.927,
@@ -320,7 +304,7 @@
     "zh_hant": "他們能聽到持續不斷的轟鳴聲"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "which they found was caused by a small waterspout shooting down into a pool",
     "start": 193.907,
     "end": 199.009,
@@ -328,7 +312,7 @@
     "zh_hant": "他們發現這由一個小水柱衝入水池造成"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "from the roof of the cave.",
     "start": 198.809,
     "end": 200.53,
@@ -336,7 +320,7 @@
     "zh_hant": "水柱從洞穴頂部射下。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "Squeezing through a cleft in the rocks,",
     "start": 201.01,
     "end": 203.371,
@@ -344,7 +328,7 @@
     "zh_hant": "穿過岩石的裂縫，"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "the pot-holers arrived at an enormous cavern, the size of a huge concert hall.",
     "start": 203.352,
     "end": 209.174,
@@ -352,7 +336,7 @@
     "zh_hant": "探洞者到達一個巨大的洞穴，大小相當於大型音樂廳。"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "After switching on powerful arc lights,",
     "start": 210.055,
     "end": 212.676,
@@ -360,7 +344,7 @@
     "zh_hant": "開啟強力弧光燈後，"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "they saw great stalagmites--some of them over forty feet",
     "start": 212.636,
     "end": 217.299,
@@ -368,7 +352,7 @@
     "zh_hant": "他們看到巨大的石筍——其中一些超過四十英尺"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "high--rising up like tree-trunks to meet the stalactites suspended from the roof.",
     "start": 216.949,
     "end": 222.922,
@@ -376,7 +360,7 @@
     "zh_hant": "高——像樹幹一樣升起，與懸垂的石鐘乳相接。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "Round about, piles of limestone glistened in all the colours of the rainbow.",
     "start": 223.402,
     "end": 228.444,
@@ -384,7 +368,7 @@
     "zh_hant": "周圍，成堆的石灰岩在彩虹般的色彩中閃閃發光。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "In the eerie silence of the cavern,",
     "start": 229.025,
     "end": 231.426,
@@ -392,7 +376,7 @@
     "zh_hant": "在洞穴令人毛骨悚然的寂靜中，"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "the only sound that could be heard was made by water which dripped continuously",
     "start": 231.366,
     "end": 236.729,
@@ -400,7 +384,7 @@
     "zh_hant": "唯一能聽到的聲音是水不斷滴落的聲音"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "from the high dome above them.",
     "start": 236.609,
     "end": 238.65,

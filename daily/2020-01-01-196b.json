@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 28.",
+    "text": "Lesson 28 Five pounds too dear",
     "start": 0.39,
-    "end": 2.541,
-    "zh": "第28课。",
-    "zh_hant": "第28課。"
+    "end": 8.671,
+    "zh": "第28课 五英镑太贵了",
+    "zh_hant": "第28課 五英鎊太貴了"
   },
   {
     "index": 1,
-    "text": "Five pounds too dear.",
-    "start": 2.591,
-    "end": 8.674,
-    "zh": "五英镑也太贵了。",
-    "zh_hant": "五英鎊也太貴了。"
+    "text": "Why was even five pounds 'too dear' ?",
+    "start": 9.251,
+    "end": 17.272,
+    "zh": "为什么连五英镑都算'太贵'？",
+    "zh_hant": "為什麼連五英鎊都算'太貴'？"
   },
   {
     "index": 2,
-    "text": "Why was even five pounds 'too dear'",
-    "start": 9.255,
-    "end": 14.617,
-    "zh": "为什么连五英镑也“太贵”",
-    "zh_hant": "為什麼連五英鎊也“太貴”"
-  },
-  {
-    "index": 3,
-    "text": "?",
-    "start": 14.65,
-    "end": 16.15,
-    "zh": "？",
-    "zh_hant": "？"
-  },
-  {
-    "index": 4,
     "text": "Small boats loaded with wares sped to the great liner as she was entering the harbour.",
     "start": 16.879,
     "end": 22.881,
@@ -40,7 +24,7 @@
     "zh_hant": "滿載貨物的小船在巨輪進港時飛快地駛向它。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Before she had anchored,",
     "start": 23.622,
     "end": 25.403,
@@ -48,7 +32,7 @@
     "zh_hant": "在它尚未拋錨前，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "the men from the boats had climbed on board",
     "start": 25.483,
     "end": 28.384,
@@ -56,7 +40,7 @@
     "zh_hant": "船上的人已經爬上了大船"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "and the decks were soon covered with colourful rugs from Persia,",
     "start": 28.444,
     "end": 32.906,
@@ -64,7 +48,7 @@
     "zh_hant": "甲板上很快就鋪滿了來自波斯的彩色地毯、"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "silks from India,",
     "start": 33.347,
     "end": 35.028,
@@ -72,7 +56,7 @@
     "zh_hant": "印度的絲綢、"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "copper coffee pots, and beautiful handmade silverware.",
     "start": 35.348,
     "end": 39.55,
@@ -80,7 +64,7 @@
     "zh_hant": "銅咖啡壺，以及精美的手工銀器。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "It was difficult not to be tempted.",
     "start": 40.031,
     "end": 42.532,
@@ -88,7 +72,7 @@
     "zh_hant": "很難不被打動。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Many of the tourists on board had begun bargaining with the tradesmen,",
     "start": 43.272,
     "end": 47.674,
@@ -96,7 +80,7 @@
     "zh_hant": "船上的許多遊客已經開始和商販討價還價，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "but I decided not to buy anything until I had disembarked.",
     "start": 47.714,
     "end": 52.557,
@@ -104,7 +88,7 @@
     "zh_hant": "但我決定下船前不買任何東西。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "I had no sooner got off the ship",
     "start": 53.637,
     "end": 56.238,
@@ -112,7 +96,7 @@
     "zh_hant": "我剛一下船"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "than I was assailed by a man who wanted to sell me a diamond ring.",
     "start": 56.279,
     "end": 61.041,
@@ -120,7 +104,7 @@
     "zh_hant": "就被一個想賣我鑽戒的人纏住了。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "I had no intention of buying one, but I could not conceal",
     "start": 62.222,
     "end": 66.804,
@@ -128,7 +112,7 @@
     "zh_hant": "我根本沒有買的打算，但我無法掩飾"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "the fact that I was impressed by the size of the diamonds.",
     "start": 66.454,
     "end": 70.606,
@@ -136,7 +120,7 @@
     "zh_hant": "我對鑽石大小印象深刻的事實。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Some of them were as big as marbles.",
     "start": 71.486,
     "end": 74.147,
@@ -144,7 +128,7 @@
     "zh_hant": "其中一些像彈珠一樣大。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "The man went to great lengths to prove that the diamonds were real.",
     "start": 74.628,
     "end": 79.29,
@@ -152,7 +136,7 @@
     "zh_hant": "那人費盡心機證明鑽石是真的。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "As we were walking past a shop,",
     "start": 79.851,
     "end": 82.071,
@@ -160,7 +144,7 @@
     "zh_hant": "當我們路過一家商店時，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "he held a diamond firmly against the window and made a deep impression in the glass.",
     "start": 82.272,
     "end": 88.094,
@@ -168,7 +152,7 @@
     "zh_hant": "他把一顆鑽石緊緊壓在櫥窗玻璃上，在上面留下了一道深深的劃痕。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "It took me over half an hour to get rid of him.",
     "start": 88.895,
     "end": 92.036,
@@ -176,7 +160,7 @@
     "zh_hant": "我花了半個多小時才擺脫他。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The next man to approach me was selling expensive pens and watches.",
     "start": 92.917,
     "end": 97.559,
@@ -184,7 +168,7 @@
     "zh_hant": "接著走近我的人賣的是昂貴的鋼筆和手錶。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "I examined one of the pens closely.",
     "start": 98.119,
     "end": 100.72,
@@ -192,7 +176,7 @@
     "zh_hant": "我仔細檢查了一支鋼筆。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "It certainly looked genuine.",
     "start": 101.041,
     "end": 103.242,
@@ -200,7 +184,7 @@
     "zh_hant": "它看起來確實像真的。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "At the base of the gold cap,",
     "start": 103.742,
     "end": 105.763,
@@ -208,7 +192,7 @@
     "zh_hant": "在金色筆帽的底部，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "the words 'made in the U.S.A.' had been neatly inscribed.",
     "start": 105.943,
     "end": 111.646,
@@ -216,7 +200,7 @@
     "zh_hant": "工整地刻著“美國製造”幾個字。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "The man said that the pen was worth ￡50,",
     "start": 112.346,
     "end": 115.65,
@@ -224,7 +208,7 @@
     "zh_hant": "那人說這支筆值50英鎊，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "but as a special favour, he would let me have it for ￡30.",
     "start": 116.128,
     "end": 121.01,
@@ -232,7 +216,7 @@
     "zh_hant": "但作為特別優惠，他願意以30英鎊賣給我。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "I shook my head and held up five fingers indicating",
     "start": 122.332,
     "end": 126.814,
@@ -240,7 +224,7 @@
     "zh_hant": "我搖搖頭，伸出五個手指表示"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "that I was willing to pay ￡5.",
     "start": 126.464,
     "end": 129.03,
@@ -248,7 +232,7 @@
     "zh_hant": "我願意付5英鎊。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Gesticulating wildly,",
     "start": 130.456,
     "end": 132.697,
@@ -256,7 +240,7 @@
     "zh_hant": "他誇張地揮著手，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "the man acted as if he found my offer outrageous,",
     "start": 132.937,
     "end": 137.019,
@@ -264,7 +248,7 @@
     "zh_hant": "彷彿覺得我的出價荒謬至極，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "but he eventually reduced the price to 10 pounds.",
     "start": 137.439,
     "end": 141.981,
@@ -272,7 +256,7 @@
     "zh_hant": "但他最後還是把價格降到了10英鎊。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "Shrugging my shoulders I began to walk away when,",
     "start": 142.582,
     "end": 146.383,
@@ -280,7 +264,7 @@
     "zh_hant": "我聳聳肩，開始走開，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "a moment later, he ran after me and thrust the pen into my hands.",
     "start": 146.604,
     "end": 152.306,
@@ -288,7 +272,7 @@
     "zh_hant": "片刻後，他追上來把鋼筆塞進我手裡。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "Though he kept throwing up his arms in despair, he readily accepted the ￡5",
     "start": 153.327,
     "end": 159.19,
@@ -296,7 +280,7 @@
     "zh_hant": "儘管他一直絕望地揮舞雙臂，他還是爽快地接受了那5英鎊"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "I gave him.",
     "start": 158.95,
     "end": 159.911,
@@ -304,7 +288,7 @@
     "zh_hant": "我付給他的錢。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "I felt especially pleased with my wonderful bargain--until",
     "start": 160.552,
     "end": 165.776,
@@ -312,7 +296,7 @@
     "zh_hant": "我為這筆超值的交易感到特別得意——直到"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "I got back to the ship.",
     "start": 165.437,
     "end": 167.178,
@@ -320,7 +304,7 @@
     "zh_hant": "我回到船上。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "No matter how hard I tried,",
     "start": 167.779,
     "end": 170.321,
@@ -328,7 +312,7 @@
     "zh_hant": "無論我多麼努力地嘗試，"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "it was impossible to fill this beautiful pen",
     "start": 170.541,
     "end": 174.084,
@@ -336,7 +320,7 @@
     "zh_hant": "都無法給這支漂亮的鋼筆灌上墨水，"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "with ink and to this day it has never written a single word!",
     "start": 173.734,
     "end": 179.55,

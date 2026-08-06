@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 18.",
-    "start": 1.53,
-    "end": 2.82,
-    "zh": "第十八课。",
-    "zh_hant": "第十八課。"
+    "text": "Lesson 18 Porpoises",
+    "start": 2.3699999999999997,
+    "end": 7.881,
+    "zh": "第18课 鼠海豚",
+    "zh_hant": "第18課 鼠海豚"
   },
   {
     "index": 1,
-    "text": "Porpoises.",
-    "start": 2.87,
-    "end": 4.15,
-    "zh": "海豚。",
-    "zh_hant": "海豚。"
+    "text": "What would you say is the main characteristic of porpoises?",
+    "start": 10.641,
+    "end": 14.282,
+    "zh": "你认为海豚最主要的特征是什么？",
+    "zh_hant": "你認為海豚最主要的特徵是什麼？"
   },
   {
     "index": 2,
-    "text": "What would you say is the main characteristic of porpoises?",
-    "start": 10.615,
-    "end": 14.637,
-    "zh": "你认为海豚的主要特点是什么？",
-    "zh_hant": "你認為海豚的主要特點是什麼？"
-  },
-  {
-    "index": 3,
     "text": "There has long been a superstition among mariners",
     "start": 17.018,
     "end": 20.179,
@@ -32,7 +24,7 @@
     "zh_hant": "長期以來，水手們中間有一種迷信"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "that porpoises will save drowning men by pushing them to the surface,",
     "start": 20.26,
     "end": 25.262,
@@ -40,7 +32,7 @@
     "zh_hant": "認為海豚會把溺水者推到水面來救人，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "or protect them from sharks by surrounding them in defensive formation.",
     "start": 25.562,
     "end": 30.485,
@@ -48,7 +40,7 @@
     "zh_hant": "或者圍成防禦隊形保護他們免受鯊魚的攻擊。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Marine Studio biologists have pointed out that, however intelligent they may be,",
     "start": 31.705,
     "end": 36.588,
@@ -56,7 +48,7 @@
     "zh_hant": "海洋工作室的生物學家指出，無論它們多麼聰明，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "it is probably a mistake to credit dolphins with any motive of life-saving.",
     "start": 36.828,
     "end": 41.791,
@@ -64,7 +56,7 @@
     "zh_hant": "把海豚的行為歸結為救人的動機很可能是錯誤的。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "On the occasions when they have pushed to shore",
     "start": 43.512,
     "end": 46.553,
@@ -72,7 +64,7 @@
     "zh_hant": "在它們把失去知覺的人推上岸的情況下，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "an unconscious human being they have much more likely done it out of curiosity or for sport,",
     "start": 46.333,
     "end": 53.236,
@@ -80,7 +72,7 @@
     "zh_hant": "更可能出於好奇或嬉戲，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "as in riding the bow waves of a ship.",
     "start": 53.537,
     "end": 56.198,
@@ -88,7 +80,7 @@
     "zh_hant": "就像它們在船首浪上嬉戲一樣。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "In 1928 some porpoises were photographed",
     "start": 57.539,
     "end": 61.16,
@@ -96,7 +88,7 @@
     "zh_hant": "1928年，有人拍到一些海豚"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "working like beavers to push ashore a waterlogged mattress.",
     "start": 61.0,
     "end": 65.422,
@@ -104,7 +96,7 @@
     "zh_hant": "像海狸一樣努力把一張浸透水的床墊推到岸上。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "If, as has been reported, they have protected humans from sharks,",
     "start": 66.183,
     "end": 70.925,
@@ -112,7 +104,7 @@
     "zh_hant": "如果正如報道所說，它們曾保護人類免受鯊魚攻擊，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "it may have been because curiosity attracted them and because the scent of a possible meal attracted the sharks.",
     "start": 71.045,
     "end": 78.349,
@@ -120,7 +112,7 @@
     "zh_hant": "那可能是因為好奇心吸引了它們，而鯊魚則被可能的食物氣味吸引。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Porpoises and sharks are natural enemies.",
     "start": 78.889,
     "end": 82.091,
@@ -128,7 +120,7 @@
     "zh_hant": "海豚和鯊魚是天敵。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "It is possible that upon such an occasion a battle ensued,",
     "start": 82.451,
     "end": 86.973,
@@ -136,7 +128,7 @@
     "zh_hant": "在那種場合，很可能會發生一場戰鬥，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "with the sharks being driven away or killed.",
     "start": 86.973,
     "end": 90.195,
@@ -144,7 +136,7 @@
     "zh_hant": "鯊魚被趕走或被殺死。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Whether it be bird, fish or beast, the porpoise is intrigued with anything that is alive.",
     "start": 91.176,
     "end": 97.538,
@@ -152,7 +144,7 @@
     "zh_hant": "無論是鳥、魚還是野獸，海豚對任何活物都感到好奇。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "They are constantly after the turtles, who peacefully submit to all sorts of indignities.",
     "start": 98.079,
     "end": 103.962,
@@ -160,7 +152,7 @@
     "zh_hant": "它們總是追逐海龜，而海龜則溫順地忍受各種侮辱。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "One young calf especially enjoyed raising a turtle to the surface with his snout,",
     "start": 104.942,
     "end": 110.065,
@@ -168,7 +160,7 @@
     "zh_hant": "有一頭小海豚尤其喜歡用鼻子把海龜託到水面，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "and then shoving him across the tank like an aquaplane.",
     "start": 110.185,
     "end": 113.746,
@@ -176,7 +168,7 @@
     "zh_hant": "然後像滑水板一樣把它推過水池。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Almost any day a young porpoises may be seen",
     "start": 114.607,
     "end": 118.249,
@@ -184,7 +176,7 @@
     "zh_hant": "幾乎每天都能看到小海豚"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "trying to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell",
     "start": 117.899,
     "end": 123.932,
@@ -192,7 +184,7 @@
     "zh_hant": "試圖把一隻重達300磅的海龜翻過來，把鼻子伸進龜殼邊緣下面"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "and pushing up for dear life.",
     "start": 124.032,
     "end": 126.273,
@@ -200,7 +192,7 @@
     "zh_hant": "拼命往上頂。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "This is not easy, and may require two porpoises working together.",
     "start": 126.713,
     "end": 131.555,
@@ -208,7 +200,7 @@
     "zh_hant": "這並不容易，可能需要兩隻海豚一起合作。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "In another game, as the turtle swims across the oceanarium,",
     "start": 132.216,
     "end": 136.258,
@@ -216,7 +208,7 @@
     "zh_hant": "在另一個遊戲中，當海龜遊過海洋館時，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "the first porpoise swoops down from above and butts his shell with his belly.",
     "start": 136.638,
     "end": 141.961,
@@ -224,7 +216,7 @@
     "zh_hant": "第一隻海豚從上方俯衝下來，用肚子撞擊龜殼。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "This knocks the turtle down several feet.",
     "start": 142.621,
     "end": 145.262,
@@ -232,7 +224,7 @@
     "zh_hant": "這會把海龜撞下好幾英尺。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "He no sooner recovers his equilibrium than the next porpoises comes along and hits him another crack.",
     "start": 145.543,
     "end": 152.226,
@@ -240,7 +232,7 @@
     "zh_hant": "它剛恢復平衡，下一隻海豚就過來再給它一擊。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "Eventually the turtle has been butted all the way down to the floor of the tank.",
     "start": 152.726,
     "end": 157.468,
@@ -248,7 +240,7 @@
     "zh_hant": "最終，海龜被一路撞到水池底部。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "He is now satisfied merely to try to stand up, but as soon as he does so a porpoise knocks him flat.",
     "start": 158.069,
     "end": 165.639,
@@ -256,7 +248,7 @@
     "zh_hant": "這時它只滿足於試圖站起來，但一站起來就被海豚撞倒。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "The turtle at last gives up by pulling his feet under his shell and the game is over.",
     "start": 165.96,
     "end": 172.129,

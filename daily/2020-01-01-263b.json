@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 35.",
-    "start": 0.85,
-    "end": 3.042,
-    "zh": "第35课。",
-    "zh_hant": "第35課。"
+    "text": "Lesson 35 Space odyssey",
+    "start": 0.86,
+    "end": 7.781,
+    "zh": "第35课 太空奥德赛",
+    "zh_hant": "第35課 太空奧德賽"
   },
   {
     "index": 1,
-    "text": "Space odyssey.",
-    "start": 3.092,
-    "end": 8.914,
-    "zh": "太空漫游。",
-    "zh_hant": "太空漫遊。"
+    "text": "When will it be possible for us to think seriously about colonising Mars?",
+    "start": 7.661,
+    "end": 16.863,
+    "zh": "我们何时才能真正认真考虑殖民火星？",
+    "zh_hant": "我們何時才能真正認真考慮殖民火星？"
   },
   {
     "index": 2,
-    "text": "When will it be possible for us to think seriously about colonising Mars?",
-    "start": 11.116,
-    "end": 16.878,
-    "zh": "我们什么时候才能认真考虑殖民火星？",
-    "zh_hant": "我們什麼時候才能認真考慮殖民火星？"
-  },
-  {
-    "index": 3,
     "text": "The Moon is likely to become the industrial hub of the Solar System",
     "start": 19.12,
     "end": 24.002,
@@ -32,7 +24,7 @@
     "zh_hant": "月球很可能會成為太陽系的工業中心"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "supplying the rocket fuels for its ships,",
     "start": 24.122,
     "end": 27.123,
@@ -40,7 +32,7 @@
     "zh_hant": "為其飛船提供火箭燃料，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "easily obtainable from the lunar rocks in the form of liquid oxygen.",
     "start": 27.324,
     "end": 32.546,
@@ -48,7 +40,7 @@
     "zh_hant": "這種燃料很容易以液態氧的形式從月球岩石中獲取。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "The reason lies in its gravity.",
     "start": 33.487,
     "end": 36.108,
@@ -56,7 +48,7 @@
     "zh_hant": "原因在於其引力。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Because the Moon has only an eightieth of the Earth's mass,",
     "start": 36.748,
     "end": 41.111,
@@ -64,7 +56,7 @@
     "zh_hant": "因為月球的質量只有地球的八十分之一，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "it requires 97% less energy",
     "start": 41.391,
     "end": 45.553,
@@ -72,7 +64,7 @@
     "zh_hant": "從月球到地球軌道飛行25萬英里所需的能量"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "to travel the quarter of a million miles from the Moon to Earth-orbit than",
     "start": 45.913,
     "end": 51.936,
@@ -80,7 +72,7 @@
     "zh_hant": "比從地球表面進入軌道的200英里行程少97%"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "the 200 mile-journey from Earth's surface into orbit!",
     "start": 51.586,
     "end": 56.238,
@@ -88,7 +80,7 @@
     "zh_hant": "少97%！"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "This may sound fantastic, but it is easily calculated.",
     "start": 57.399,
     "end": 62.641,
@@ -96,7 +88,7 @@
     "zh_hant": "這聽起來可能匪夷所思，但很容易計算。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "To escape from the Earth in a rocket, one must travel at seven miles per",
     "start": 63.082,
     "end": 69.065,
@@ -104,7 +96,7 @@
     "zh_hant": "要乘火箭逃離地球，必須以每秒七英里的速度飛行"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "second.",
     "start": 68.785,
     "end": 69.745,
@@ -112,7 +104,7 @@
     "zh_hant": "每秒。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "The comparable speed from the Moon is only 1.5 miles per second.",
     "start": 70.285,
     "end": 76.688,
@@ -120,7 +112,7 @@
     "zh_hant": "從月球出發的相應速度只有每秒1.5英里。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Because the gravity on the Moon's surface is only a sixth of Earth's",
     "start": 77.309,
     "end": 82.492,
@@ -128,7 +120,7 @@
     "zh_hant": "因為月球表面的引力只有地球的六分之一"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "(remember how easily the Apollo astronauts bounded along),",
     "start": 83.172,
     "end": 87.634,
@@ -136,7 +128,7 @@
     "zh_hant": "（還記得阿波羅宇航員輕鬆跳躍的樣子吧），"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "it takes much less energy to accelerate to that 1.5mps",
     "start": 87.935,
     "end": 93.977,
@@ -144,7 +136,7 @@
     "zh_hant": "加速到每秒1.5英里所需的能量遠少於"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "than it does on Earth.",
     "start": 94.218,
     "end": 95.798,
@@ -152,7 +144,7 @@
     "zh_hant": "在地球上所需的能量。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Moon dwellers will be able to fly in space at only three percent",
     "start": 96.559,
     "end": 101.441,
@@ -160,7 +152,7 @@
     "zh_hant": "月球居民將能以僅相當於"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "of the cost of similar journeys by their terrestrial cousins.",
     "start": 101.261,
     "end": 105.703,
@@ -168,7 +160,7 @@
     "zh_hant": "其地球表親類似旅程成本百分之三的費用在太空飛行。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Arthur C.Clark once suggested a revolutionary idea",
     "start": 107.224,
     "end": 112.246,
@@ -176,7 +168,7 @@
     "zh_hant": "阿瑟·C·克拉克曾提出一個革命性的觀點"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "passes through three phases: 1.",
     "start": 112.186,
     "end": 115.91,
@@ -184,7 +176,7 @@
     "zh_hant": "要經歷三個階段：1。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "'It's impossible--don't waste my time.'",
     "start": 115.648,
     "end": 121.88,
@@ -192,7 +184,7 @@
     "zh_hant": "“這不可能——別浪費我的時間。”"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "2.",
     "start": 121.48,
     "end": 122.202,
@@ -200,7 +192,7 @@
     "zh_hant": "2."
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "'It's possible, but not worth doing.'",
     "start": 121.802,
     "end": 126.9,
@@ -208,7 +200,7 @@
     "zh_hant": "“這有可能，但不值得做。”"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "3.",
     "start": 126.5,
     "end": 127.75,
@@ -216,7 +208,7 @@
     "zh_hant": "3."
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "'I said it was a good idea all along.'",
     "start": 127.474,
     "end": 131.396,
@@ -224,7 +216,7 @@
     "zh_hant": "“我一直就說這是個好主意。”"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "The idea of colonising Mars--a",
     "start": 131.997,
     "end": 135.778,
@@ -232,7 +224,7 @@
     "zh_hant": "殖民火星的想法——一個"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "world 160 times more distant than the Moon--will",
     "start": 135.428,
     "end": 140.901,
@@ -240,7 +232,7 @@
     "zh_hant": "比月球遠160倍的世界——將"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "move decisively from the second phase to the third,",
     "start": 140.551,
     "end": 144.683,
@@ -248,7 +240,7 @@
     "zh_hant": "果斷地從第二階段進入第三階段，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "when a significant number of people are living permanently in space.",
     "start": 145.123,
     "end": 149.745,
@@ -256,7 +248,7 @@
     "zh_hant": "當大量的人永久生活在太空時。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "Mars has an extraordinary fascination for would-be voyagers.",
     "start": 150.446,
     "end": 155.328,
@@ -264,7 +256,7 @@
     "zh_hant": "火星對潛在的旅行者有著非凡的吸引力。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "America, Russia and Europe are filled",
     "start": 155.728,
     "end": 160.051,
@@ -272,7 +264,7 @@
     "zh_hant": "美國、俄羅斯和歐洲充滿了"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "with enthusiasts--many",
     "start": 159.701,
     "end": 162.252,
@@ -280,7 +272,7 @@
     "zh_hant": "熱情愛好者——其中許多"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "of them serious and senior scientists who dream of sending people to it.",
     "start": 161.902,
     "end": 167.795,
@@ -288,7 +280,7 @@
     "zh_hant": "是嚴肅資深的科學家，他們夢想著送人前往火星。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Their aim is understandable.",
     "start": 168.595,
     "end": 170.836,
@@ -296,7 +288,7 @@
     "zh_hant": "他們的目標可以理解。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "It is the one world in the Solar System that is most like the Earth.",
     "start": 171.177,
     "end": 175.979,
@@ -304,7 +296,7 @@
     "zh_hant": "它是太陽系中最像地球的一個世界。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "It is a world of red sandy deserts (hence its name--the Red Planet),",
     "start": 176.159,
     "end": 182.002,
@@ -312,7 +304,7 @@
     "zh_hant": "那是一個紅色沙漠的世界（因此得名——紅色星球），"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "cloudless skies, savage sandstorms,",
     "start": 182.522,
     "end": 186.404,
@@ -320,7 +312,7 @@
     "zh_hant": "無雲的天空、狂暴的沙塵暴，"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "chasms wider than the Grand Canyon",
     "start": 186.885,
     "end": 189.826,
@@ -328,7 +320,7 @@
     "zh_hant": "比大峽谷還寬的峽谷，"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "and at least one mountain more than twice as tall as Everest.",
     "start": 190.166,
     "end": 194.548,
@@ -336,7 +328,7 @@
     "zh_hant": "以及至少一座比珠穆朗瑪峰高兩倍多的山峰。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "It seems ideal for settlement.",
     "start": 194.909,
     "end": 197.63,

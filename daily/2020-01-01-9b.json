@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 17.",
+    "text": "Lesson 17 How do you do?",
     "start": 0.59,
-    "end": 2.761,
-    "zh": "第十七课。",
-    "zh_hant": "第十七課。"
+    "end": 4.431,
+    "zh": "第17课 你好吗?",
+    "zh_hant": "第17課 你好嗎?"
   },
   {
     "index": 1,
-    "text": "How do you do?",
-    "start": 2.811,
-    "end": 4.432,
-    "zh": "你好。",
-    "zh_hant": "你好。"
-  },
-  {
-    "index": 2,
     "text": "Listen to the tape then",
     "start": 6.373,
     "end": 9.435,
@@ -24,7 +16,7 @@
     "zh_hant": "聽磁帶然後"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "answer this question.",
     "start": 9.235,
     "end": 11.075,
@@ -32,7 +24,7 @@
     "zh_hant": "回答這個問題。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "What are Michael Baker and Jeremy Short's",
     "start": 12.596,
     "end": 16.998,
@@ -40,7 +32,7 @@
     "zh_hant": "邁克爾·貝克和傑里米·肖特的"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "jobs?",
     "start": 16.798,
     "end": 17.839,
@@ -48,7 +40,7 @@
     "zh_hant": "工作是什麼？"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Come and meet our employees",
     "start": 19.5,
     "end": 22.581,
@@ -56,7 +48,7 @@
     "zh_hant": "來見見我們的員工"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Mr.Richards.",
     "start": 22.421,
     "end": 24.102,
@@ -64,7 +56,7 @@
     "zh_hant": "理查茲先生。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Thank you Mr. Jackson.",
     "start": 25.103,
     "end": 27.524,
@@ -72,7 +64,7 @@
     "zh_hant": "謝謝你，傑克遜先生。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "This is Nicola Grey",
     "start": 28.424,
     "end": 30.785,
@@ -80,7 +72,7 @@
     "zh_hant": "這是尼古拉·格雷"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "and this is Claire Taylor.",
     "start": 31.566,
     "end": 34.267,
@@ -88,7 +80,7 @@
     "zh_hant": "這是克萊爾·泰勒。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "How do you do?",
     "start": 35.248,
     "end": 36.728,
@@ -96,7 +88,7 @@
     "zh_hant": "你好。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Those women are very hard-working.",
     "start": 38.409,
     "end": 41.911,
@@ -104,7 +96,7 @@
     "zh_hant": "那些婦女很勤奮。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "What are their jobs?",
     "start": 43.152,
     "end": 45.113,
@@ -112,7 +104,7 @@
     "zh_hant": "她們的工作是什麼？"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "They're keyboard operators.",
     "start": 46.594,
     "end": 49.515,
@@ -120,7 +112,7 @@
     "zh_hant": "她們是鍵盤操作員。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "This is Michael Baker and this is Jeremy Short.",
     "start": 50.856,
     "end": 56.759,
@@ -128,7 +120,7 @@
     "zh_hant": "這是邁克爾·貝克，這是傑里米·肖特。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "How do you do?",
     "start": 57.359,
     "end": 59.02,
@@ -136,7 +128,7 @@
     "zh_hant": "你好。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "They aren't very busy!",
     "start": 60.581,
     "end": 62.982,
@@ -144,7 +136,7 @@
     "zh_hant": "他們不是很忙！"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "What are their jobs?",
     "start": 63.803,
     "end": 66.263,
@@ -152,7 +144,7 @@
     "zh_hant": "他們的工作是什麼？"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "They're sales reps.",
     "start": 67.925,
     "end": 69.825,
@@ -160,7 +152,7 @@
     "zh_hant": "他們是銷售代表。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "They're very lazy.",
     "start": 70.166,
     "end": 72.307,
@@ -168,7 +160,7 @@
     "zh_hant": "他們很懶。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Who is this young man?",
     "start": 73.187,
     "end": 75.848,
@@ -176,7 +168,7 @@
     "zh_hant": "這個年輕人是誰？"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "This is Jim.",
     "start": 77.049,
     "end": 78.87,
@@ -184,7 +176,7 @@
     "zh_hant": "這是吉姆。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "He's our office assistant.",
     "start": 79.337,
     "end": 82.129,

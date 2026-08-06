@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 12.",
+    "text": "Lesson 12 Life on a desert island",
     "start": 0.47,
-    "end": 4.07,
-    "zh": "第十二课。",
-    "zh_hant": "第十二課。"
+    "end": 8.352,
+    "zh": "第12课 荒岛生活",
+    "zh_hant": "第12課 荒島生活"
   },
   {
     "index": 1,
-    "text": "Life on a desert island.",
-    "start": 4.913,
-    "end": 8.354,
-    "zh": "荒岛生活。",
-    "zh_hant": "荒島生活。"
+    "text": "What was exceptional about the two men's stay on the desert island?",
+    "start": 9.572,
+    "end": 14.473,
+    "zh": "这两个人在荒岛上的经历有什么特别之处？",
+    "zh_hant": "這兩個人在荒島上的經歷有什麼特別之處？"
   },
   {
     "index": 2,
-    "text": "What was exceptional about the two men's stay on the desert island?",
-    "start": 9.575,
-    "end": 14.477,
-    "zh": "这两个人在荒岛上的经历有什么不寻常之处？",
-    "zh_hant": "這兩個人在荒島上的經歷有什麼不尋常之處？"
-  },
-  {
-    "index": 3,
     "text": "Most of us have formed an unrealistic picture of life on a desert island.",
     "start": 16.198,
     "end": 21.581,
@@ -32,7 +24,7 @@
     "zh_hant": "我們大多數人對荒島生活形成了一種不切實際的印象。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "We sometimes imagine a desert island to be a sort of paradise where the sun",
     "start": 22.121,
     "end": 28.364,
@@ -40,7 +32,7 @@
     "zh_hant": "我們有時想象荒島是一種天堂，那裡太陽"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "always shines.",
     "start": 28.084,
     "end": 29.725,
@@ -48,7 +40,7 @@
     "zh_hant": "總是照耀著。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Life there is simple and good.",
     "start": 29.805,
     "end": 32.186,
@@ -56,7 +48,7 @@
     "zh_hant": "那裡的生活簡單而美好。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Ripe fruit falls from the trees and you never have to work.",
     "start": 32.466,
     "end": 37.148,
@@ -64,7 +56,7 @@
     "zh_hant": "熟透的水果從樹上落下，你永遠不必工作。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "The other side of the picture is quite the opposite.",
     "start": 37.489,
     "end": 40.951,
@@ -72,7 +64,7 @@
     "zh_hant": "另一面的景象則恰恰相反。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Life on a desert island is wretched.",
     "start": 41.131,
     "end": 43.772,
@@ -80,7 +72,7 @@
     "zh_hant": "荒島生活是悲慘的。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "You either starve to death or live like Robinson Crusoe,",
     "start": 43.872,
     "end": 48.735,
@@ -88,7 +80,7 @@
     "zh_hant": "你要麼餓死，要麼像魯濱遜·克魯索一樣生活，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "waiting for a boat which never comes.",
     "start": 48.655,
     "end": 51.556,
@@ -96,7 +88,7 @@
     "zh_hant": "等待一艘永遠不來的船。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Perhaps there is an element of truth in both these pictures,",
     "start": 52.377,
     "end": 56.498,
@@ -104,7 +96,7 @@
     "zh_hant": "也許這兩種景象都有一定的真實性，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "but few of us have had the opportunity to find out.",
     "start": 56.459,
     "end": 60.04,
@@ -112,7 +104,7 @@
     "zh_hant": "但我們中很少有人有機會去查明真相。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Two men who recently spent five days on a coral island",
     "start": 60.761,
     "end": 65.783,
@@ -120,7 +112,7 @@
     "zh_hant": "最近有兩個人在一個珊瑚島上度過了五天，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "wished they had stayed there longer.",
     "start": 65.743,
     "end": 68.164,
@@ -128,7 +120,7 @@
     "zh_hant": "他們希望能在那裡待得更久。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
     "start": 69.165,
     "end": 75.528,
@@ -136,7 +128,7 @@
     "zh_hant": "他們正把一艘嚴重損壞的船從維爾京群島運往邁阿密進行修理。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "During the journey, their boat began to sink.",
     "start": 75.808,
     "end": 79.01,
@@ -144,7 +136,7 @@
     "zh_hant": "在旅途中，他們的船開始下沉。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer",
     "start": 80.09,
     "end": 86.233,
@@ -152,7 +144,7 @@
     "zh_hant": "他們迅速把食物、火柴和幾罐啤酒裝進一艘小橡皮艇裡，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "and rowed for a few miles across the Caribbean until they arrived at a tiny coral",
     "start": 86.474,
     "end": 92.396,
@@ -160,7 +152,7 @@
     "zh_hant": "並劃了幾英里，穿過加勒比海，直到抵達一個很小的珊瑚"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "island.",
     "start": 92.176,
     "end": 93.056,
@@ -168,7 +160,7 @@
     "zh_hant": "島。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "There were hardly any trees on the island and there was no water,",
     "start": 93.537,
     "end": 98.179,
@@ -176,7 +168,7 @@
     "zh_hant": "島上幾乎沒有什麼樹木，也沒有水，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "but this did not prove to be a problem.",
     "start": 98.159,
     "end": 100.86,
@@ -184,7 +176,7 @@
     "zh_hant": "但這並沒有成為一個問題。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "The men collected rainwater in the rubber dinghy.",
     "start": 101.481,
     "end": 104.682,
@@ -192,7 +184,7 @@
     "zh_hant": "這兩個人用橡皮艇收集雨水。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "As they had brought a spear gun with them, they had plenty to eat.",
     "start": 105.223,
     "end": 109.405,
@@ -200,7 +192,7 @@
     "zh_hant": "由於他們帶了魚槍，所以有充足的食物吃。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "They caught lobster and fish every day,",
     "start": 109.565,
     "end": 112.606,
@@ -208,7 +200,7 @@
     "zh_hant": "他們每天捕捉龍蝦和魚，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "and as one of them put it 'ate like kings'.",
     "start": 112.766,
     "end": 116.868,
@@ -216,7 +208,7 @@
     "zh_hant": "正如其中一人所說，他們‘像國王一樣吃’。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "When a passing tanker rescued them five days later,",
     "start": 117.189,
     "end": 120.714,
@@ -224,7 +216,7 @@
     "zh_hant": "五天後，當一艘過往的油輪救起他們時，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "both men were genuinely sorry that they had to leave.",
     "start": 120.776,
     "end": 125.149,

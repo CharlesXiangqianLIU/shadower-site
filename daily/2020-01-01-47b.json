@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 93.",
+    "text": "Lesson 93 Our new neighbour Listen to the tape then answer this question.",
     "start": 0.57,
-    "end": 2.962,
-    "zh": "第93课。",
-    "zh_hant": "第93課。"
+    "end": 10.991,
+    "zh": "第93课 我们的新邻居 听录音,然后回答这个问题。",
+    "zh_hant": "第93課 我們的新鄰居 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Our new neighbour.",
-    "start": 3.012,
-    "end": 4.752,
-    "zh": "我们的新邻居。",
-    "zh_hant": "我們的新鄰居。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.133,
-    "end": 9.194,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 8.995,
-    "end": 10.995,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Why is Nigel a lucky man?",
     "start": 11.976,
     "end": 15.157,
@@ -40,7 +16,7 @@
     "zh_hant": "為什麼奈傑爾是個幸運的人？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Nigel is our new next-door neighbour.",
     "start": 17.199,
     "end": 21.08,
@@ -48,7 +24,7 @@
     "zh_hant": "奈傑爾是我們隔壁的新鄰居。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "He's a pilot.",
     "start": 21.581,
     "end": 23.362,
@@ -56,7 +32,7 @@
     "zh_hant": "他是飛行員。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "He was in the R.A.F.",
     "start": 24.102,
     "end": 26.923,
@@ -64,7 +40,7 @@
     "zh_hant": "他曾在皇家空軍服役。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "He will fly to New York next month.",
     "start": 28.264,
     "end": 31.746,
@@ -72,7 +48,7 @@
     "zh_hant": "下個月他將飛往紐約。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "The month after next he'll fly to Tokyo.",
     "start": 33.187,
     "end": 37.329,
@@ -80,7 +56,7 @@
     "zh_hant": "再下個月他將飛往東京。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "At the moment, he's in Madrid.",
     "start": 38.589,
     "end": 41.771,
@@ -88,7 +64,7 @@
     "zh_hant": "此刻，他在馬德里。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "He flew to Spain a week ago.",
     "start": 42.252,
     "end": 45.233,
@@ -96,7 +72,7 @@
     "zh_hant": "一週前他飛到了西班牙。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "He'll return to London the week",
     "start": 46.534,
     "end": 49.716,
@@ -104,7 +80,7 @@
     "zh_hant": "他將在下下週"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "after next.",
     "start": 49.496,
     "end": 51.037,
@@ -112,7 +88,7 @@
     "zh_hant": "返回倫敦。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "He's only forty-one years old,",
     "start": 52.098,
     "end": 55.559,
@@ -120,7 +96,7 @@
     "zh_hant": "他只有四十一歲，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "and he has already been to nearly",
     "start": 55.88,
     "end": 59.442,
@@ -128,7 +104,7 @@
     "zh_hant": "而且他已經到過幾乎"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "every country",
     "start": 59.482,
     "end": 61.083,
@@ -136,7 +112,7 @@
     "zh_hant": "每一個國家"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "in the world.",
     "start": 60.863,
     "end": 62.283,
@@ -144,7 +120,7 @@
     "zh_hant": "在世界上。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Nigel is a very lucky man.",
     "start": 63.404,
     "end": 66.506,
@@ -152,7 +128,7 @@
     "zh_hant": "奈傑爾是個非常幸運的人。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "But his wife isn't very lucky.",
     "start": 67.106,
     "end": 70.088,
@@ -160,7 +136,7 @@
     "zh_hant": "但他的妻子不那麼幸運。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "She usually stays at home!",
     "start": 70.588,
     "end": 73.49,

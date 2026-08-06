@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 5.",
-    "start": 1.55,
-    "end": 5.07,
-    "zh": "第五课。",
-    "zh_hant": "第五課。"
+    "text": "Lesson 5 Youth How does the writer like to treat young people?",
+    "start": 8.821000000000003,
+    "end": 14.041,
+    "zh": "第五课 青春 作者喜欢怎样对待年轻人？",
+    "zh_hant": "第五課 青春 作者喜歡怎樣對待年輕人？"
   },
   {
     "index": 1,
-    "text": "Youth.",
-    "start": 7.033,
-    "end": 11.095,
-    "zh": "青年。",
-    "zh_hant": "青年。"
-  },
-  {
-    "index": 2,
-    "text": "How does the writer like to treat young",
-    "start": 10.745,
-    "end": 13.936,
-    "zh": "作者如何看待年轻人？",
-    "zh_hant": "作者如何看待年輕人？"
-  },
-  {
-    "index": 3,
-    "text": "people?",
-    "start": 16.658,
-    "end": 17.498,
-    "zh": "年轻人。",
-    "zh_hant": "年輕人。"
-  },
-  {
-    "index": 4,
     "text": "are always talking about 'the problem of youth'.",
     "start": 17.278,
     "end": 20.88,
@@ -40,7 +16,7 @@
     "zh_hant": "人們總是在談論“青年問題”。"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "If there is one -- which I take leave to doubt -- then it is older people who create it,",
     "start": 21.18,
     "end": 27.323,
@@ -48,7 +24,7 @@
     "zh_hant": "如果真有什麼問題——我對此深表懷疑——那也是年長者造成的，"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "not the young themselves.",
     "start": 27.403,
     "end": 29.324,
@@ -56,7 +32,7 @@
     "zh_hant": "而不是年輕人自己。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Let us get down to fundamentals and agree that the young are after all human beings",
     "start": 29.904,
     "end": 36.0,
@@ -64,7 +40,7 @@
     "zh_hant": "讓我們從根本上說清楚，承認年輕人畢竟也是人，"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "-- people just like their elders.",
     "start": 35.6,
     "end": 38.428,
@@ -72,7 +48,7 @@
     "zh_hant": "——和他們的長輩一樣的人。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "There is only one difference between an old man and a young one:",
     "start": 38.889,
     "end": 42.831,
@@ -80,7 +56,7 @@
     "zh_hant": "老年人和年輕人之間只有一個區別："
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "the young man has a glorious future before him",
     "start": 43.191,
     "end": 46.493,
@@ -88,7 +64,7 @@
     "zh_hant": "年輕人面前有輝煌的未來，"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "and the old one has a splendid future behind him:",
     "start": 46.613,
     "end": 50.635,
@@ -96,7 +72,7 @@
     "zh_hant": "而老年人身後有燦爛的過去："
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "and maybe that is where the rub is.",
     "start": 50.795,
     "end": 54.277,
@@ -104,7 +80,7 @@
     "zh_hant": "也許問題就出在這裡。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "When I was a teenager, I felt that I was just young and uncertain",
     "start": 55.157,
     "end": 59.44,
@@ -112,7 +88,7 @@
     "zh_hant": "我十幾歲時，覺得自己只是年輕而迷茫，"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "-- that I was a new boy in a huge school,",
     "start": 59.04,
     "end": 62.961,
@@ -120,7 +96,7 @@
     "zh_hant": "——就像一所大學校裡的新生，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "and I would have been very pleased to be regarded as something so interesting as a problem.",
     "start": 63.281,
     "end": 68.844,
@@ -128,7 +104,7 @@
     "zh_hant": "如果能被當成像“問題”這樣有趣的東西，我會非常高興。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "For one thing, being a problem gives you a certain identity,",
     "start": 69.444,
     "end": 73.626,
@@ -136,7 +112,7 @@
     "zh_hant": "首先，成為問題能讓你有某種身份感，"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "and that is one of the things the young are busily engaged in seeking.",
     "start": 74.086,
     "end": 78.628,
@@ -144,7 +120,7 @@
     "zh_hant": "而年輕人正在忙於追求的東西之一就是這種身份。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "I find young people exciting.",
     "start": 79.909,
     "end": 82.311,
@@ -152,7 +128,7 @@
     "zh_hant": "我覺得年輕人令人興奮。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "They have an air of freedom, and they have not a dreary commitment to mean",
     "start": 82.731,
     "end": 88.114,
@@ -160,7 +136,7 @@
     "zh_hant": "他們有一種自由的氣息，不為卑鄙的野心或追求安逸所束縛。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "ambitions or love of comfort.",
     "start": 87.794,
     "end": 90.115,
@@ -168,7 +144,7 @@
     "zh_hant": "野心或貪圖舒適的生活。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "They are not anxious social climbers, and they have no devotion to material things.",
     "start": 90.655,
     "end": 96.218,
@@ -176,7 +152,7 @@
     "zh_hant": "他們不是急切的往上爬者，也不迷戀物質東西。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "All this seems to me to link them with life and the origins of things.",
     "start": 97.098,
     "end": 101.82,
@@ -184,7 +160,7 @@
     "zh_hant": "這一切在我看來都使他們與生活和事物本源相連。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "It's as if they were in some sense cosmic beings",
     "start": 102.341,
     "end": 106.403,
@@ -192,7 +168,7 @@
     "zh_hant": "彷彿他們在某種意義上是宇宙中的存在，"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "in violent and lovely contrast with us suburban creatures.",
     "start": 106.243,
     "end": 110.765,
@@ -200,7 +176,7 @@
     "zh_hant": "與像我們這樣世俗的生物形成強烈而美好的對比。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "All that is in my mind when I meet a young person.",
     "start": 112.346,
     "end": 115.567,
@@ -208,7 +184,7 @@
     "zh_hant": "每當我遇到年輕人時，我心中都想著這些。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "He may be conceited, ill-mannered, presumptuous or fatuous,",
     "start": 116.068,
     "end": 121.931,
@@ -216,7 +192,7 @@
     "zh_hant": "他可能自大、無禮、傲慢或愚蠢，"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "but I do not turn for protection to dreary cliches about respect for elders --",
     "start": 122.453,
     "end": 127.93,
@@ -224,7 +200,7 @@
     "zh_hant": "但我不會用“尊重長輩”這樣乏味的陳詞濫調來保護自己——"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "as if mere age were a reason for respect.",
     "start": 128.239,
     "end": 131.381,
@@ -232,7 +208,7 @@
     "zh_hant": "彷彿僅僅年齡大就值得尊重。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "I accept that we are equals, and I will argue with him,",
     "start": 132.103,
     "end": 136.487,
@@ -240,7 +216,7 @@
     "zh_hant": "我承認我們是平等的，如果我認為他錯了，我會和他爭論，"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "as an equal, if I think he is wrong.",
     "start": 136.407,
     "end": 139.33,

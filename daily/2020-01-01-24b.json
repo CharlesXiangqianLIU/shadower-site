@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 47.",
+    "text": "Lesson 47 A cup of coffee Listen to the tape then answer this question.",
     "start": 0.65,
-    "end": 3.122,
-    "zh": "第47课。",
-    "zh_hant": "第47課。"
+    "end": 10.953,
+    "zh": "第47课 一杯咖啡 听录音,然后回答这个问题。",
+    "zh_hant": "第47課 一杯咖啡 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A cup of coffee.",
-    "start": 3.172,
-    "end": 5.112,
-    "zh": "一杯咖啡。",
-    "zh_hant": "一杯咖啡。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.253,
-    "end": 9.234,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.035,
-    "end": 10.955,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "How does Ann like her coffee?",
     "start": 12.116,
     "end": 14.977,
@@ -40,7 +16,7 @@
     "zh_hant": "安喜歡什麼樣的咖啡？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Do you like coffee, Ann?",
     "start": 17.139,
     "end": 19.76,
@@ -48,7 +24,7 @@
     "zh_hant": "安，你喜歡咖啡嗎？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Yes, I do.",
     "start": 20.58,
     "end": 24.042,
@@ -56,7 +32,7 @@
     "zh_hant": "是的，我喜歡。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "you want a cup?",
     "start": 23.722,
     "end": 25.462,
@@ -64,7 +40,7 @@
     "zh_hant": "你想要一杯嗎？"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "Yes, please, Christine.",
     "start": 26.403,
     "end": 29.324,
@@ -72,7 +48,7 @@
     "zh_hant": "好的，請給我一杯，克里斯汀。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Do you want any sugar?",
     "start": 30.385,
     "end": 32.906,
@@ -80,7 +56,7 @@
     "zh_hant": "你想要加糖嗎？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Yes, please.",
     "start": 33.607,
     "end": 35.387,
@@ -88,7 +64,7 @@
     "zh_hant": "好的，請加。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Do you want any milk?",
     "start": 36.048,
     "end": 38.549,
@@ -96,7 +72,7 @@
     "zh_hant": "你想要加牛奶嗎？"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "No, thank you.",
     "start": 39.15,
     "end": 40.571,
@@ -104,7 +80,7 @@
     "zh_hant": "不，謝謝。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "I don't like milk in my coffee.",
     "start": 40.972,
     "end": 44.155,
@@ -112,7 +88,7 @@
     "zh_hant": "我不喜歡咖啡里加牛奶。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "I like black coffee.",
     "start": 44.836,
     "end": 47.459,
@@ -120,7 +96,7 @@
     "zh_hant": "我喜歡黑咖啡。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "Do you like biscuits?",
     "start": 48.44,
     "end": 50.782,
@@ -128,7 +104,7 @@
     "zh_hant": "你喜歡餅乾嗎？"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Yes, I do.",
     "start": 51.324,
     "end": 52.905,
@@ -136,7 +112,7 @@
     "zh_hant": "是的，我喜歡。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "you want one?",
     "start": 54.167,
     "end": 55.688,
@@ -144,7 +120,7 @@
     "zh_hant": "你想要一塊嗎？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Yes, please.",
     "start": 56.029,
     "end": 57.61,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 133.",
+    "text": "Lesson 133 Sensational news!",
     "start": 0.83,
-    "end": 3.602,
-    "zh": "第133课。",
-    "zh_hant": "第133課。"
+    "end": 5.831,
+    "zh": "第133课 轰动性新闻！",
+    "zh_hant": "第133課 轟動性新聞！"
   },
   {
     "index": 1,
-    "text": "Sensational news!",
-    "start": 3.652,
-    "end": 5.833,
-    "zh": "轰动性新闻！",
-    "zh_hant": "轟動性新聞！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.871,
+    "end": 11.611,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.873,
-    "end": 9.835,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.655,
-    "end": 11.616,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What reasons did Karen Marsh give",
     "start": 12.616,
     "end": 16.398,
@@ -40,7 +24,7 @@
     "zh_hant": "卡倫·馬什給了什麼理由"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "for wanting to retire?",
     "start": 16.158,
     "end": 18.579,
@@ -48,7 +32,7 @@
     "zh_hant": "想要退休？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Have you just made a new film, Miss Marsh?",
     "start": 20.82,
     "end": 24.802,
@@ -56,7 +40,7 @@
     "zh_hant": "馬什小姐，你剛拍完一部新電影嗎？"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Yes, I have.",
     "start": 25.303,
     "end": 27.623,
@@ -64,7 +48,7 @@
     "zh_hant": "是的，拍完了。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Are you going to make another?",
     "start": 28.084,
     "end": 30.605,
@@ -72,7 +56,7 @@
     "zh_hant": "你打算再拍一部嗎？"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "No, I'm not.",
     "start": 30.825,
     "end": 33.026,
@@ -80,7 +64,7 @@
     "zh_hant": "不，不拍了。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "I'm going to retire.",
     "start": 33.287,
     "end": 35.788,
@@ -88,7 +72,7 @@
     "zh_hant": "我打算退休。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "I feel very tired.",
     "start": 36.328,
     "end": 38.909,
@@ -96,7 +80,7 @@
     "zh_hant": "我覺得很累。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "I don't want to make another film",
     "start": 39.209,
     "end": 42.431,
@@ -104,7 +88,7 @@
     "zh_hant": "我不想再拍電影"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "for a long time.",
     "start": 42.552,
     "end": 45.093,
@@ -112,7 +96,7 @@
     "zh_hant": "很長一段時間。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Let's buy a newspaper, Liz.",
     "start": 46.433,
     "end": 49.575,
@@ -120,7 +104,7 @@
     "zh_hant": "咱們買份報紙吧，莉茲。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Listen to this!",
     "start": 50.295,
     "end": 52.176,
@@ -128,7 +112,7 @@
     "zh_hant": "聽聽這個！"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "'Karen Marsh: Sensational News!",
     "start": 52.697,
     "end": 57.138,
@@ -136,7 +120,7 @@
     "zh_hant": "“卡倫·馬什：轟動性新聞！"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "By our reporter, Alan Jones.",
     "start": 57.359,
     "end": 61.18,
@@ -144,7 +128,7 @@
     "zh_hant": "本報記者艾倫·瓊斯報道。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Karen Marsh arrived at London Airport",
     "start": 62.201,
     "end": 66.323,
@@ -152,7 +136,7 @@
     "zh_hant": "卡倫·馬什抵達倫敦機場"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "today.",
     "start": 66.183,
     "end": 67.183,
@@ -160,7 +144,7 @@
     "zh_hant": "今天。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "She was wearing a blue dress",
     "start": 67.824,
     "end": 71.105,
@@ -168,7 +152,7 @@
     "zh_hant": "她穿著一條藍色連衣裙"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "and a mink coat.",
     "start": 71.146,
     "end": 73.306,
@@ -176,7 +160,7 @@
     "zh_hant": "和一件貂皮大衣。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "She told me she had just",
     "start": 73.847,
     "end": 76.928,
@@ -184,7 +168,7 @@
     "zh_hant": "她告訴我她剛剛"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "made a new film.",
     "start": 76.668,
     "end": 78.909,
@@ -192,7 +176,7 @@
     "zh_hant": "拍完一部新電影。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "she said she was not going to make",
     "start": 79.75,
     "end": 83.693,
@@ -200,7 +184,7 @@
     "zh_hant": "她說她不打算再拍"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "another.",
     "start": 83.474,
     "end": 84.534,
@@ -208,7 +192,7 @@
     "zh_hant": "另一部了。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "She said she was going to retire.",
     "start": 85.916,
     "end": 89.798,
@@ -216,7 +200,7 @@
     "zh_hant": "她說她打算退休。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "She told reporters she",
     "start": 90.479,
     "end": 93.261,
@@ -224,7 +208,7 @@
     "zh_hant": "她告訴記者們她"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "felt very tired and didn't",
     "start": 92.911,
     "end": 96.304,
@@ -232,7 +216,7 @@
     "zh_hant": "覺得很累，不想"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "want to make another",
     "start": 96.004,
     "end": 98.145,
@@ -240,7 +224,7 @@
     "zh_hant": "再拍另一部"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "film for a long time.'",
     "start": 97.795,
     "end": 101.668,
@@ -248,7 +232,7 @@
     "zh_hant": "電影，很長一段時間。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "I wonder why!",
     "start": 102.169,
     "end": 103.95,

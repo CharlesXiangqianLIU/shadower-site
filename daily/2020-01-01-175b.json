@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 7.",
-    "start": 0.31,
-    "end": 1.781,
-    "zh": "第七课。",
-    "zh_hant": "第七課。"
+    "text": "Lesson 7 Mutilated Ladies Why did Jane cook John's wallet?",
+    "start": 4.15,
+    "end": 11.811,
+    "zh": "第7课 破损纸币 简答疑难 简为什么把约翰的钱包煮了?",
+    "zh_hant": "第7課 破損紙幣 簡答疑難 簡為什麼把約翰的錢包煮了?"
   },
   {
     "index": 1,
-    "text": "Mutilated Ladies.",
-    "start": 1.831,
-    "end": 7.594,
-    "zh": "残钞鉴别组。",
-    "zh_hant": "殘鈔鑑別組。"
-  },
-  {
-    "index": 2,
-    "text": "Why did Jane cook John's wallet?",
-    "start": 8.734,
-    "end": 11.816,
-    "zh": "为什么简把约翰的钱包给煮了？",
-    "zh_hant": "為什麼簡把約翰的錢包給煮了？"
-  },
-  {
-    "index": 3,
     "text": "Has it ever happened to you?",
     "start": 12.756,
     "end": 14.677,
@@ -32,7 +16,7 @@
     "zh_hant": "這種事在你身上發生過嗎？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Have you ever put your trousers in the washing machine",
     "start": 15.098,
     "end": 18.499,
@@ -40,7 +24,7 @@
     "zh_hant": "你有沒有把褲子放進洗衣機裡，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "and then remembered there was a large bank note in your back pocket?",
     "start": 18.499,
     "end": 22.541,
@@ -48,7 +32,7 @@
     "zh_hant": "然後才想起後褲兜裡有一張大面額鈔票？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "When you rescued your trousers, did you find the note was whiter than white?",
     "start": 23.282,
     "end": 28.384,
@@ -56,7 +40,7 @@
     "zh_hant": "當你把褲子搶救出來時，你有沒有發現那張鈔票已經白得不能再白了？"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "People who live in Britain needn't despair when they make mistakes like",
     "start": 29.024,
     "end": 33.406,
@@ -64,7 +48,7 @@
     "zh_hant": "在英國生活的人，犯了這種錯誤時大可不必絕望——"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "this (and a lot of people do)!",
     "start": 33.056,
     "end": 35.848,
@@ -72,7 +56,7 @@
     "zh_hant": "（而許多人確實犯過這種錯誤）！"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Fortunately for them,",
     "start": 36.528,
     "end": 38.109,
@@ -80,7 +64,7 @@
     "zh_hant": "對他們來說幸運的是，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "the Bank of England has a team called",
     "start": 38.209,
     "end": 40.691,
@@ -88,7 +72,7 @@
     "zh_hant": "英格蘭銀行有一個小組，名叫"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Mutilated Ladies which deals with claims from people who fed their money",
     "start": 40.611,
     "end": 45.773,
@@ -96,7 +80,7 @@
     "zh_hant": "“殘鈔鑑別組”，負責處理那些把錢"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "to a machine or to their dog.",
     "start": 45.533,
     "end": 47.914,
@@ -104,7 +88,7 @@
     "zh_hant": "塞進機器或餵給狗吃的人的索賠。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Dogs, it seems, love to chew up money!",
     "start": 48.595,
     "end": 51.936,
@@ -112,7 +96,7 @@
     "zh_hant": "狗似乎很喜歡嚼錢！"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "A recent case concerns Jane Butlin",
     "start": 52.877,
     "end": 55.938,
@@ -120,7 +104,7 @@
     "zh_hant": "最近的一個案例涉及簡·巴特林，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "whose fiance, John, runs a successful furniture business.",
     "start": 55.658,
     "end": 60.42,
@@ -128,7 +112,7 @@
     "zh_hant": "她的未婚夫約翰經營著一家生意興隆的傢俱公司。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "John had a very good day and put his wallet",
     "start": 61.001,
     "end": 64.042,
@@ -136,7 +120,7 @@
     "zh_hant": "有一天約翰生意很好，便把裝著"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "containing ￡3, 000 into the microwave oven for safekeeping.",
     "start": 63.692,
     "end": 69.184,
@@ -144,7 +128,7 @@
     "zh_hant": "3000英鎊的錢包放進微波爐裡保管。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Then he and Jane went horse-riding.",
     "start": 69.945,
     "end": 72.606,
@@ -152,7 +136,7 @@
     "zh_hant": "然後他和簡去騎馬了。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "When they got home, Jane cooked their dinner in the microwave oven",
     "start": 72.646,
     "end": 76.988,
@@ -160,7 +144,7 @@
     "zh_hant": "回到家後，簡用微波爐做晚餐，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "and without realizing it,",
     "start": 77.109,
     "end": 79.189,
@@ -168,7 +152,7 @@
     "zh_hant": "卻無意中"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "cooked her fiance's wallet as well.",
     "start": 79.39,
     "end": 82.231,
@@ -176,7 +160,7 @@
     "zh_hant": "把未婚夫的錢包也給煮了。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Imagine their dismay when they found a beautifully-cooked wallet",
     "start": 82.952,
     "end": 87.654,
@@ -184,7 +168,7 @@
     "zh_hant": "可以想象他們發現一個煮得恰到好處的錢包"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and notes turned to ash!",
     "start": 87.574,
     "end": 90.055,
@@ -192,7 +176,7 @@
     "zh_hant": "和已變成灰燼的鈔票時，該是多麼沮喪！"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "John went to see his bank manager who sent the remains of wallet",
     "start": 91.076,
     "end": 95.898,
@@ -200,7 +184,7 @@
     "zh_hant": "約翰去找銀行經理，經理把錢包的殘骸"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "and the money to the special department",
     "start": 95.758,
     "end": 98.219,
@@ -208,7 +192,7 @@
     "zh_hant": "和鈔票送到了英格蘭銀行"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "of the Bank of England in Newcastle: the Mutilated Ladies!",
     "start": 97.869,
     "end": 102.181,
@@ -216,7 +200,7 @@
     "zh_hant": "在紐卡斯爾的一個特別部門——“殘鈔鑑別組”！"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "They examined the remains and John got all his money back.",
     "start": 102.782,
     "end": 107.484,
@@ -224,7 +208,7 @@
     "zh_hant": "他們檢查了殘骸，約翰拿回了所有的錢。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "'So long as there's something to identify,",
     "start": 107.184,
     "end": 111.326,
@@ -232,7 +216,7 @@
     "zh_hant": "“只要有東西可以辨認，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "we will give people their money back,' said a spokeswoman for the Bank.",
     "start": 111.666,
     "end": 116.288,
@@ -240,7 +224,7 @@
     "zh_hant": "我們就會把錢還給人們，”銀行的一位女發言人說。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "'Last year, we paid ￡1.5 million on 21,000 claims.'",
     "start": 116.428,
     "end": 122.65,

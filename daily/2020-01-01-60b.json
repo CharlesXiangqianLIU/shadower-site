@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 119.",
+    "text": "Lesson 119 A true story Listen to the tape then answer this question.",
     "start": 0.75,
-    "end": 3.442,
-    "zh": "第119课。",
-    "zh_hant": "第119課。"
+    "end": 11.012,
+    "zh": "第119课 一个真实的故事 听录音,然后回答这个问题。",
+    "zh_hant": "第119課 一個真實的故事 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A true story.",
-    "start": 3.492,
-    "end": 5.272,
-    "zh": "一个真实的故事。",
-    "zh_hant": "一個真實的故事。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.393,
-    "end": 11.015,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "Who called out to the thieves in the dark?",
     "start": 11.976,
     "end": 16.198,
@@ -32,7 +16,7 @@
     "zh_hant": "誰在黑暗中向小偷們喊話？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Do you like stories?",
     "start": 18.339,
     "end": 20.66,
@@ -40,7 +24,7 @@
     "zh_hant": "你喜歡故事嗎？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "I want to tell you a true story.",
     "start": 21.741,
     "end": 24.802,
@@ -48,7 +32,7 @@
     "zh_hant": "我想給你講一個真實的故事。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "It happened to a friend of mine a year ago.",
     "start": 25.463,
     "end": 29.404,
@@ -56,7 +40,7 @@
     "zh_hant": "這件事發生在我一個朋友身上，是一年前的事。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "While my friend, George, was reading in bed,",
     "start": 30.665,
     "end": 35.928,
@@ -64,7 +48,7 @@
     "zh_hant": "當我的朋友喬治在床上看書時，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "two thieves climbed into his kitchen.",
     "start": 36.188,
     "end": 40.11,
@@ -72,7 +56,7 @@
     "zh_hant": "兩個小偷爬進了他的廚房。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "After they had entered the house,",
     "start": 41.051,
     "end": 43.892,
@@ -80,7 +64,7 @@
     "zh_hant": "他們進了房子之後，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "they went into the dining room.",
     "start": 44.192,
     "end": 47.134,
@@ -88,7 +72,7 @@
     "zh_hant": "就走進了餐廳。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "It was very dark,",
     "start": 47.634,
     "end": 50.095,
@@ -96,7 +80,7 @@
     "zh_hant": "裡面很黑，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "so they turned on a torch.",
     "start": 50.576,
     "end": 53.777,
@@ -104,7 +88,7 @@
     "zh_hant": "所以他們開啟了一個手電筒。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Suddenly, they heard a voice behind them.",
     "start": 54.658,
     "end": 59.1,
@@ -112,7 +96,7 @@
     "zh_hant": "突然，他們聽到身後有個聲音。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "'What's up?",
     "start": 59.34,
     "end": 61.381,
@@ -120,7 +104,7 @@
     "zh_hant": "“怎麼了？"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "What's up?'",
     "start": 61.541,
     "end": 62.842,
@@ -128,7 +112,7 @@
     "zh_hant": "怎麼了？”"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "someone called.",
     "start": 63.422,
     "end": 64.863,
@@ -136,7 +120,7 @@
     "zh_hant": "有人喊道。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "The thieves dropped the torch",
     "start": 65.743,
     "end": 68.484,
@@ -144,7 +128,7 @@
     "zh_hant": "小偷們扔下了手電筒，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "and ran away as quickly as they could.",
     "start": 68.505,
     "end": 73.087,
@@ -152,7 +136,7 @@
     "zh_hant": "飛快地逃跑了。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "George heard the noise and came downstairs quickly.",
     "start": 74.208,
     "end": 79.37,
@@ -160,7 +144,7 @@
     "zh_hant": "喬治聽到響聲，趕緊下樓來。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "He turned on the light,",
     "start": 80.191,
     "end": 82.392,
@@ -168,7 +152,7 @@
     "zh_hant": "他開啟燈，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "but he couldn't see anyone.",
     "start": 82.913,
     "end": 85.595,
@@ -176,7 +160,7 @@
     "zh_hant": "但看不到任何人。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The thieves had already gone.",
     "start": 86.276,
     "end": 89.177,
@@ -184,7 +168,7 @@
     "zh_hant": "小偷們已經走了。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "But George's parrot, Henry, was still there.",
     "start": 89.938,
     "end": 94.921,
@@ -192,7 +176,7 @@
     "zh_hant": "但喬治的鸚鵡亨利還在那兒。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "What's up, George?",
     "start": 95.702,
     "end": 97.343,
@@ -200,7 +184,7 @@
     "zh_hant": "“怎麼了，喬治？”"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "he called.",
     "start": 97.684,
     "end": 98.904,
@@ -208,7 +192,7 @@
     "zh_hant": "它喊道。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "'Nothing, Henry,' George said and smiled.",
     "start": 98.865,
     "end": 103.848,
@@ -216,7 +200,7 @@
     "zh_hant": "“沒什麼，亨利，”喬治笑著說。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "'Go back to sleep.'",
     "start": 104.089,
     "end": 106.59,

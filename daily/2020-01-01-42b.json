@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 83.",
-    "start": 0.851,
-    "end": 3.162,
-    "zh": "第83课。",
-    "zh_hant": "第83課。"
+    "text": "Lesson 83 Going on holiday Listen to the tape then answer this question.",
+    "start": 0.85,
+    "end": 11.093,
+    "zh": "第83课 去度假 听录音,然后回答这个问题。",
+    "zh_hant": "第83課 去度假 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Going on holiday.",
-    "start": 3.212,
-    "end": 5.373,
-    "zh": "去度假。",
-    "zh_hant": "去度假。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.553,
-    "end": 9.395,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.195,
-    "end": 11.095,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Where did Sam go for his holiday this year?",
     "start": 12.196,
     "end": 16.638,
@@ -40,7 +16,7 @@
     "zh_hant": "今年薩姆去哪兒度假了？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Hello, Sam.",
     "start": 18.88,
     "end": 20.5,
@@ -48,7 +24,7 @@
     "zh_hant": "你好，薩姆。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Come in.",
     "start": 20.481,
     "end": 21.641,
@@ -56,7 +32,7 @@
     "zh_hant": "請進。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Hi, Sam.",
     "start": 23.002,
     "end": 24.442,
@@ -64,7 +40,7 @@
     "zh_hant": "嗨，薩姆。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "We're having lunch.",
     "start": 24.663,
     "end": 26.423,
@@ -72,7 +48,7 @@
     "zh_hant": "我們正在吃午飯。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Do you want to have lunch with us?",
     "start": 26.864,
     "end": 30.125,
@@ -80,7 +56,7 @@
     "zh_hant": "你要和我們一起吃午飯嗎？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "No, thank you, Tom.",
     "start": 30.986,
     "end": 33.087,
@@ -88,7 +64,7 @@
     "zh_hant": "不，謝謝了，湯姆。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "I've already had lunch.",
     "start": 33.287,
     "end": 35.608,
@@ -96,7 +72,7 @@
     "zh_hant": "我已經吃過午飯了。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "I had lunch at half past twelve.",
     "start": 36.088,
     "end": 39.47,
@@ -104,7 +80,7 @@
     "zh_hant": "我十二點半吃的午飯。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Have a cup of coffee then.",
     "start": 39.951,
     "end": 42.492,
@@ -112,7 +88,7 @@
     "zh_hant": "那就喝杯咖啡吧。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "I've just had a cup, thank you.",
     "start": 43.012,
     "end": 45.973,
@@ -120,7 +96,7 @@
     "zh_hant": "我剛喝了一杯，謝謝你。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "I had one after my lunch.",
     "start": 46.334,
     "end": 48.895,
@@ -128,7 +104,7 @@
     "zh_hant": "我午飯後喝了一杯。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Let's go into the living room, Carol.",
     "start": 49.935,
     "end": 53.277,
@@ -136,7 +112,7 @@
     "zh_hant": "我們去客廳吧，卡羅爾。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "We can have our coffee there.",
     "start": 53.677,
     "end": 56.378,
@@ -144,7 +120,7 @@
     "zh_hant": "我們可以在那兒喝咖啡。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Excuse the mess, Sam.",
     "start": 57.059,
     "end": 59.76,
@@ -152,7 +128,7 @@
     "zh_hant": "別見怪，薩姆。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "This room's very untidy.",
     "start": 60.22,
     "end": 63.002,
@@ -160,7 +136,7 @@
     "zh_hant": "這個房間很亂。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "We're packing our suitcases.",
     "start": 63.422,
     "end": 66.143,
@@ -168,7 +144,7 @@
     "zh_hant": "我們在收拾行李箱。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "We're going to leave tomorrow.",
     "start": 66.444,
     "end": 69.265,
@@ -176,7 +152,7 @@
     "zh_hant": "我們打算明天出發。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Tom and I are going to have a holiday.",
     "start": 69.785,
     "end": 73.787,
@@ -184,7 +160,7 @@
     "zh_hant": "湯姆和我要去度假了。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "Aren't you lucky!",
     "start": 74.367,
     "end": 76.108,
@@ -192,7 +168,7 @@
     "zh_hant": "你們真幸運！"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "When are you going to have a holiday, Sam?",
     "start": 77.509,
     "end": 81.233,
@@ -200,7 +176,7 @@
     "zh_hant": "你什麼時候去度假，薩姆？"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "I don't know.",
     "start": 81.795,
     "end": 83.176,
@@ -208,7 +184,7 @@
     "zh_hant": "我不知道。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "I've already had my holiday this year.",
     "start": 83.517,
     "end": 87.162,
@@ -216,7 +192,7 @@
     "zh_hant": "今年我已經度完假了。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "Where did you go?",
     "start": 88.064,
     "end": 89.626,
@@ -224,7 +200,7 @@
     "zh_hant": "你去了哪兒？"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "I stayed at home!",
     "start": 90.388,
     "end": 92.19,

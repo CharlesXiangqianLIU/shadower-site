@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 31.",
-    "start": 5.573,
-    "end": 4.09,
-    "zh": "第31课。",
-    "zh_hant": "第31課。"
+    "text": "Lesson 31 A lovable eccentric Why did the shop assistant refuse to serve Dickie?",
+    "start": 5.57,
+    "end": 14.391,
+    "zh": "第31课 一个可爱的怪人 商店店员为什么拒绝接待迪基？",
+    "zh_hant": "第31課 一個可愛的怪人 商店店員為什麼拒絕接待迪基？"
   },
   {
     "index": 1,
-    "text": "A lovable eccentric.",
-    "start": 5.933,
-    "end": 9.094,
-    "zh": "一个可爱的怪人。",
-    "zh_hant": "一個可愛的怪人。"
-  },
-  {
-    "index": 2,
-    "text": "Why did the shop assistant refuse to serve Dickie?",
-    "start": 10.595,
-    "end": 14.417,
-    "zh": "为什么店员拒绝为迪基服务？",
-    "zh_hant": "為什麼店員拒絕為迪基服務？"
-  },
-  {
-    "index": 3,
     "text": "True eccentrics never deliberately set out to draw attention to themselves.",
     "start": 16.278,
     "end": 21.781,
@@ -32,7 +16,7 @@
     "zh_hant": "真正的怪人從不故意引人注目。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "They disregard social conventions without being conscious that they are doing anything extraordinary.",
     "start": 22.121,
     "end": 29.245,
@@ -40,7 +24,7 @@
     "zh_hant": "他們無視社會習俗，卻未意識到自己在做不尋常的事。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "This invariably wins them the love and respect of others,",
     "start": 29.685,
     "end": 34.507,
@@ -48,7 +32,7 @@
     "zh_hant": "這常常為他們贏得他人的喜愛和尊重，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "for they add colour to the dull routine of everyday life.",
     "start": 34.508,
     "end": 39.45,
@@ -56,7 +40,7 @@
     "zh_hant": "因為他們為單調的日常生活增添了色彩。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Up to the time of his death, Richard Colson was one of the most notable figures in our town.",
     "start": 40.531,
     "end": 47.474,
@@ -64,7 +48,7 @@
     "zh_hant": "直到去世前，理查德·科爾森一直是我們鎮上最著名的人物之一。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "He was a shrewd and wealthy businessman,",
     "start": 47.794,
     "end": 50.915,
@@ -72,7 +56,7 @@
     "zh_hant": "他是個精明而富有的商人，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "but most people in the town hardly knew anything about this side of his life.",
     "start": 50.916,
     "end": 56.618,
@@ -80,7 +64,7 @@
     "zh_hant": "但鎮上大多數人對他生活的這一面幾乎一無所知。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "He was known to us all as Dickie and his eccentricity had become legendary",
     "start": 57.079,
     "end": 63.361,
@@ -88,7 +72,7 @@
     "zh_hant": "我們所有人都認識他，叫他迪基，他的怪癖早已成為傳奇，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "long before he died.",
     "start": 63.302,
     "end": 65.242,
@@ -96,7 +80,7 @@
     "zh_hant": "早在他去世之前。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Dickie disliked snobs intensely.",
     "start": 65.703,
     "end": 68.564,
@@ -104,7 +88,7 @@
     "zh_hant": "迪基極度厭惡勢利小人。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Though he owned a large car, he hardly ever used it, preferring always to go on foot.",
     "start": 68.844,
     "end": 75.387,
@@ -112,7 +96,7 @@
     "zh_hant": "雖然他有一輛大車，卻幾乎從不使用，總是喜歡步行。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Even when it was raining heavily, he refused to carry an umbrella.",
     "start": 75.808,
     "end": 80.57,
@@ -120,7 +104,7 @@
     "zh_hant": "即使下大雨，他也拒絕帶傘。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "One day, he walked into an expensive shop after having been caught in a particularly heavy shower.",
     "start": 81.131,
     "end": 88.554,
@@ -128,7 +112,7 @@
     "zh_hant": "有一天，他遇上一場特別大的陣雨，渾身溼透地走進一家昂貴的商店。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "He wanted to buy a ￡300 watch for his wife,",
     "start": 89.075,
     "end": 93.797,
@@ -136,7 +120,7 @@
     "zh_hant": "他想給妻子買一塊300英鎊的手錶，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "but he was in such a bedraggled condition that an assistant refused to serve him.",
     "start": 93.837,
     "end": 99.98,
@@ -144,7 +128,7 @@
     "zh_hant": "但他渾身狼狽不堪，以至於店員拒絕為他服務。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Dickie left the shop without a word and returned carrying a large cloth bag.",
     "start": 100.741,
     "end": 106.924,
@@ -152,7 +136,7 @@
     "zh_hant": "迪基一言不發地離開商店，回來時提著一個大布袋。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "As it was extremely heavy, he dumped it on the counter.",
     "start": 107.144,
     "end": 111.306,
@@ -160,7 +144,7 @@
     "zh_hant": "因為袋子極重，他把它砰地放在櫃檯上。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "The assistant asked him to leave,",
     "start": 111.706,
     "end": 114.147,
@@ -168,7 +152,7 @@
     "zh_hant": "店員要求他離開，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "but Dickie paid no attention to him and requested to see the manager.",
     "start": 114.048,
     "end": 119.25,
@@ -176,7 +160,7 @@
     "zh_hant": "但迪基不理他，要求見經理。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Recognizing who the customer was,",
     "start": 120.05,
     "end": 122.771,
@@ -184,7 +168,7 @@
     "zh_hant": "經理認出顧客是誰後，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "the manager was most apologetic and reprimanded the assistant severely.",
     "start": 122.852,
     "end": 129.075,
@@ -192,7 +176,7 @@
     "zh_hant": "非常抱歉，並嚴厲訓斥了店員。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "When Dickie was given the watch, he presented the assistant with the cloth bag.",
     "start": 129.595,
     "end": 135.258,
@@ -200,7 +184,7 @@
     "zh_hant": "當迪基拿到手錶時，他把布袋遞給了店員。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It contained ￡300 in pennies.",
     "start": 135.558,
     "end": 140.08,
@@ -208,7 +192,7 @@
     "zh_hant": "裡面裝著300英鎊的便士。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "He insisted on the assistant's counting the money before he left--30, 000 pennies in all!",
     "start": 140.36,
     "end": 147.904,
@@ -216,7 +200,7 @@
     "zh_hant": "他堅持讓店員點完錢再離開——總共3萬枚便士！"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "On another occasion,",
     "start": 148.524,
     "end": 150.125,
@@ -224,7 +208,7 @@
     "zh_hant": "另一次，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "he invited a number of important critics to see his private collection of modern paintings.",
     "start": 150.065,
     "end": 156.688,
@@ -232,7 +216,7 @@
     "zh_hant": "他邀請了許多重要評論家來觀看他的私人現代畫收藏。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "This exhibition received a great deal of attention in the press,",
     "start": 157.209,
     "end": 161.512,
@@ -240,7 +224,7 @@
     "zh_hant": "這次展覽在媒體上引起了廣泛關注，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "for though the pictures were supposed to be the work of famous artists,",
     "start": 161.672,
     "end": 166.396,
@@ -248,7 +232,7 @@
     "zh_hant": "因為雖然這些畫被認為是著名藝術家的作品，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "they had in fact been painted by Dickie.",
     "start": 166.497,
     "end": 170.2,
@@ -256,7 +240,7 @@
     "zh_hant": "實際上卻是迪基畫的。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "It took him four years to stage this elaborate joke",
     "start": 170.621,
     "end": 175.345,
@@ -264,7 +248,7 @@
     "zh_hant": "他花了四年時間策劃這個精心設計的玩笑，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "simply to prove that critics do not always know what they are talking about.",
     "start": 175.245,
     "end": 180.45,

@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 1.",
+    "text": "Lesson 1 Finding fossil man",
     "start": 0.49,
-    "end": 4.01,
-    "zh": "第一课。",
-    "zh_hant": "第一課。"
+    "end": 8.135,
+    "zh": "第一课 寻找化石人",
+    "zh_hant": "第一課 尋找化石人"
   },
   {
     "index": 1,
-    "text": "Finding fossil man.",
-    "start": 5.693,
-    "end": 9.595,
-    "zh": "发现化石人。",
-    "zh_hant": "發現化石人。"
+    "text": "Why are legends handed down by storytellers useful?",
+    "start": 7.735,
+    "end": 15.66,
+    "zh": "讲故事者代代相传的传说为何有用？",
+    "zh_hant": "講故事者代代相傳的傳說為何有用？"
   },
   {
     "index": 2,
-    "text": "Why are legends handed down by storytellers useful?",
-    "start": 10.956,
-    "end": 15.658,
-    "zh": "为什么讲故事的人流传下来的传说是有用的？",
-    "zh_hant": "為什麼講故事的人流傳下來的傳說是有用的？"
-  },
-  {
-    "index": 3,
     "text": "We can read of things that happened 5, 000 years ago in the Near East,",
     "start": 17.399,
     "end": 22.821,
@@ -32,7 +24,7 @@
     "zh_hant": "我們可以讀到五千年前近東發生的事情，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "where people first learned to write.",
     "start": 23.282,
     "end": 26.023,
@@ -40,7 +32,7 @@
     "zh_hant": "那裡的人們最早學會了書寫。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "But there are some parts of the world where even now people cannot write.",
     "start": 26.844,
     "end": 32.666,
@@ -48,7 +40,7 @@
     "zh_hant": "但世界上有些地方，即使現在人們還不會寫字。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "The only way that they can preserve their history",
     "start": 33.327,
     "end": 37.049,
@@ -56,7 +48,7 @@
     "zh_hant": "他們儲存歷史的唯一方式"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "is to recount it as sagas legends",
     "start": 36.969,
     "end": 41.131,
@@ -64,7 +56,7 @@
     "zh_hant": "就是把它當作英雄傳說來講述，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "handed down from one generation of storytellers to another.",
     "start": 40.781,
     "end": 45.253,
@@ -72,7 +64,7 @@
     "zh_hant": "由一代代講故事的人口耳相傳。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "These legends are useful because they can tell us something about migrations",
     "start": 46.133,
     "end": 51.195,
@@ -80,7 +72,7 @@
     "zh_hant": "這些傳說是有用的，因為它們能告訴我們關於遷移的一些情況，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "of people who lived long ago,",
     "start": 50.845,
     "end": 53.236,
@@ -88,7 +80,7 @@
     "zh_hant": "即生活在很久以前的人們的遷移，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "but none could write down what they did.",
     "start": 54.137,
     "end": 56.778,
@@ -96,7 +88,7 @@
     "zh_hant": "但那些人無法寫下他們做過的事情。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Anthropologists wondered",
     "start": 57.679,
     "end": 60.1,
@@ -104,7 +96,7 @@
     "zh_hant": "人類學家曾感到疑惑，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "where the remote ancestors of the Polynesian peoples",
     "start": 59.75,
     "end": 63.602,
@@ -112,7 +104,7 @@
     "zh_hant": "波利尼西亞人的遙遠祖先"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "now living in the Pacific Islandscame from.",
     "start": 63.262,
     "end": 66.343,
@@ -120,7 +112,7 @@
     "zh_hant": "現在生活在太平洋島嶼上的人，他們來自何方。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "The sagas of these people explain",
     "start": 66.923,
     "end": 69.665,
@@ -128,7 +120,7 @@
     "zh_hant": "這些民族的傳說解釋說，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "that some of them came from Indonesia about 2, 000 years ago.",
     "start": 69.315,
     "end": 74.207,
@@ -136,7 +128,7 @@
     "zh_hant": "他們中有些人約兩千年前來自印度尼西亞。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "But the first people who were like ourselves lived so long ago",
     "start": 75.188,
     "end": 79.89,
@@ -144,7 +136,7 @@
     "zh_hant": "但最早像我們一樣的人生活在如此久遠的年代，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "that even their sagas, if they had any, are forgotten.",
     "start": 79.61,
     "end": 85.073,
@@ -152,7 +144,7 @@
     "zh_hant": "以至於即使他們有傳說，也已被遺忘了。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "So archaeologists have neither history nor legends",
     "start": 85.673,
     "end": 90.035,
@@ -160,7 +152,7 @@
     "zh_hant": "因此考古學家既沒有歷史也沒有傳說"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "to help them to find out where the first 'modern men' came from.",
     "start": 89.685,
     "end": 94.277,
@@ -168,7 +160,7 @@
     "zh_hant": "來幫助他們弄清最早的“現代人”來自何處。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Fortunately, however, ancient men made tools of stone,",
     "start": 94.718,
     "end": 99.6,
@@ -176,7 +168,7 @@
     "zh_hant": "然而，幸運的是，古代人用石頭製作工具，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "especially flint, because this is easier to shape than other kinds.",
     "start": 99.74,
     "end": 105.243,
@@ -184,7 +176,7 @@
     "zh_hant": "尤其是燧石，因為它比其他種類的石頭更容易成形。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "They may also have used wood and skins, but these have rotted away.",
     "start": 105.803,
     "end": 111.426,
@@ -192,7 +184,7 @@
     "zh_hant": "他們可能也用過木頭和獸皮，但這些已經腐爛掉了。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "Stone does not decay,",
     "start": 112.166,
     "end": 114.127,
@@ -200,7 +192,7 @@
     "zh_hant": "石頭不會腐爛，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "and so the tools of long ago have remained",
     "start": 114.487,
     "end": 118.009,
@@ -208,7 +200,7 @@
     "zh_hant": "所以很久以前的工具得以留存下來，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "when even the bones of the men who made them have disappeared without trace.",
     "start": 117.849,
     "end": 123.549,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 20.",
+    "text": "Lesson 20 Pioneer pilots",
     "start": 0.27,
-    "end": 1.981,
-    "zh": "第二十课。",
-    "zh_hant": "第二十課。"
+    "end": 7.011,
+    "zh": "第20课 先驱飞行员",
+    "zh_hant": "第20課 先驅飛行員"
   },
   {
     "index": 1,
-    "text": "Pioneer pilots.",
-    "start": 2.031,
-    "end": 7.113,
-    "zh": "飞行先驱。",
-    "zh_hant": "飛行先驅。"
+    "text": "What was the name of the first plane to fly across the English Channel?",
+    "start": 6.611,
+    "end": 14.152,
+    "zh": "第一架飞越英吉利海峡的飞机叫什么名字?",
+    "zh_hant": "第一架飛越英吉利海峽的飛機叫什麼名字?"
   },
   {
     "index": 2,
-    "text": "What was the name",
-    "start": 6.763,
-    "end": 10.615,
-    "zh": "第一架飞越英吉利海峡的飞机",
-    "zh_hant": "第一架飛越英吉利海峽的飛機"
-  },
-  {
-    "index": 3,
-    "text": "of the first plane to fly across the English Channel?",
-    "start": 10.265,
-    "end": 14.157,
-    "zh": "叫什么名字？",
-    "zh_hant": "叫什麼名字？"
-  },
-  {
-    "index": 4,
     "text": "In 1908 Lord Northcliffe offered a prize of ￡1,",
     "start": 15.758,
     "end": 20.83,
@@ -40,7 +24,7 @@
     "zh_hant": "1908年，諾斯克利夫勳爵懸賞1000英鎊，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "000 to the first man who would fly across the English Channel.",
     "start": 20.48,
     "end": 26.443,
@@ -48,7 +32,7 @@
     "zh_hant": "獎給第一位飛越英吉利海峽的人。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Over a year passed before the first attempt was made.",
     "start": 26.743,
     "end": 30.725,
@@ -56,7 +40,7 @@
     "zh_hant": "一年多過去了，才有人首次嘗試。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "On July 19th, 1909, in the early morning,",
     "start": 31.266,
     "end": 36.228,
@@ -64,7 +48,7 @@
     "zh_hant": "1909年7月19日清晨，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Hubert Latham took off from the French coast in his plane",
     "start": 36.308,
     "end": 40.851,
@@ -72,7 +56,7 @@
     "zh_hant": "休伯特·萊瑟姆駕駛他的飛機從法國海岸起飛，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "the 'Antoinette IV.'",
     "start": 40.731,
     "end": 43.532,
@@ -80,7 +64,7 @@
     "zh_hant": "這架飛機叫‘安託瓦內特四號’。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "He had travelled only seven miles across the Channel",
     "start": 43.182,
     "end": 46.773,
@@ -88,7 +72,7 @@
     "zh_hant": "他剛飛過海峽七英里，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "when his engine failed and he was forced to land on the sea.",
     "start": 46.774,
     "end": 51.756,
@@ -96,7 +80,7 @@
     "zh_hant": "發動機就出了故障，被迫降落在海面上。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "The 'Antoinette' floated on the water until Latham was picked up by a ship.",
     "start": 52.156,
     "end": 57.679,
@@ -104,7 +88,7 @@
     "zh_hant": "‘安託瓦內特’號漂浮在水上，直到萊瑟姆被一艘船救起。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Two days later,",
     "start": 59.16,
     "end": 60.58,
@@ -112,7 +96,7 @@
     "zh_hant": "兩天後，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Louis Bleriot arrived near Calais with a plane",
     "start": 60.68,
     "end": 64.742,
@@ -120,7 +104,7 @@
     "zh_hant": "路易·布萊里奧帶著一架飛機抵達加來附近，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "called 'No.XI'.",
     "start": 64.392,
     "end": 67.584,
@@ -128,7 +112,7 @@
     "zh_hant": "這架飛機叫‘十一號’。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Bleriot had been making planes since 1905 and this was his latest",
     "start": 67.234,
     "end": 73.106,
@@ -136,7 +120,7 @@
     "zh_hant": "布萊里奧從1905年起就一直在製造飛機，這是他最新的"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "model.",
     "start": 72.756,
     "end": 73.627,
@@ -144,7 +128,7 @@
     "zh_hant": "型號。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "A week before, he had completed a successful overland flight",
     "start": 74.267,
     "end": 79.129,
@@ -152,7 +136,7 @@
     "zh_hant": "一週前，他完成了一次成功的陸上飛行，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "during which he covered twenty-six miles.",
     "start": 79.049,
     "end": 82.031,
@@ -160,7 +144,7 @@
     "zh_hant": "期間飛了二十六英里。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Latham, however, did not give up easily.",
     "start": 82.552,
     "end": 85.353,
@@ -168,7 +152,7 @@
     "zh_hant": "然而，萊瑟姆並不輕易放棄。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "He, too, arrived near Calais on the same day with a new 'Antoinette'.",
     "start": 85.673,
     "end": 91.916,
@@ -176,7 +160,7 @@
     "zh_hant": "他也在同一天帶著一架新的‘安託瓦內特’號抵達加來附近。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "It looked as if there would be an exciting race across the Channel.",
     "start": 92.036,
     "end": 96.518,
@@ -184,7 +168,7 @@
     "zh_hant": "看來海峽上將會有一場激動人心的比賽。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Both planes were going to take off on July 25th,",
     "start": 97.139,
     "end": 101.361,
@@ -192,7 +176,7 @@
     "zh_hant": "兩架飛機都計劃在7月25日起飛，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "but Latham failed to get up early enough.",
     "start": 101.481,
     "end": 104.442,
@@ -200,7 +184,7 @@
     "zh_hant": "但萊瑟姆沒能及時起床。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "After making a short test flight at 4.15 a.m.,",
     "start": 105.043,
     "end": 109.725,
@@ -208,7 +192,7 @@
     "zh_hant": "在凌晨4點15分進行了一次短暫的試飛後，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Bleriot set off half an hour later.",
     "start": 109.845,
     "end": 112.826,
@@ -216,7 +200,7 @@
     "zh_hant": "布萊里奧半小時後出發了。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "His great flight lasted thirty-seven minutes.",
     "start": 113.047,
     "end": 116.628,
@@ -224,7 +208,7 @@
     "zh_hant": "他的偉大飛行持續了三十七分鐘。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "When he landed near Dover, the first person to greet him was a local policeman.",
     "start": 116.849,
     "end": 122.934,
@@ -232,7 +216,7 @@
     "zh_hant": "他在多佛附近降落時，第一個迎接他的是當地的一名警察。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Latham made another attempt a week later and got within half a mile of Dover,",
     "start": 123.635,
     "end": 129.261,
@@ -240,7 +224,7 @@
     "zh_hant": "一週後，萊瑟姆再次嘗試，飛到了離多佛不到半英里的地方，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "but he was unlucky again.",
     "start": 129.242,
     "end": 131.624,
@@ -248,7 +232,7 @@
     "zh_hant": "但他又倒黴了。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "His engine failed and he landed on the sea for the second time.",
     "start": 131.805,
     "end": 136.93,

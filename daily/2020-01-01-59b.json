@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 117.",
+    "text": "Lesson 117 Tommy's breakfast Listen to the tape then answer this question.",
     "start": 0.77,
-    "end": 4.342,
-    "zh": "第117课。",
-    "zh_hant": "第117課。"
+    "end": 12.353,
+    "zh": "第117课 汤米的早餐 听录音,然后回答这个问题。",
+    "zh_hant": "第117課 湯米的早餐 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Tommy's breakfast.",
-    "start": 4.392,
-    "end": 6.273,
-    "zh": "汤米的早餐。",
-    "zh_hant": "湯米的早餐。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.354,
-    "end": 10.415,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.235,
-    "end": 12.356,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What does she mean by 'change'",
     "start": 13.457,
     "end": 16.978,
@@ -40,7 +16,7 @@
     "zh_hant": "在最後一句中，"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "in the last sentence?",
     "start": 17.059,
     "end": 19.199,
@@ -48,7 +24,7 @@
     "zh_hant": "她說的“零錢”是什麼意思？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "When my husband was going",
     "start": 21.241,
     "end": 24.202,
@@ -56,7 +32,7 @@
     "zh_hant": "當我丈夫今天早上"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "into the dining room",
     "start": 23.942,
     "end": 25.963,
@@ -64,7 +40,7 @@
     "zh_hant": "走進餐廳"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "this morning,",
     "start": 25.613,
     "end": 26.923,
@@ -72,7 +48,7 @@
     "zh_hant": "的時候，"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "he dropped some coins on the floor.",
     "start": 27.124,
     "end": 30.665,
@@ -80,7 +56,7 @@
     "zh_hant": "他把一些硬幣掉在了地上。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "There were coins everywhere.",
     "start": 31.606,
     "end": 34.487,
@@ -88,7 +64,7 @@
     "zh_hant": "硬幣到處都是。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "We looked for them, but we could not find",
     "start": 34.888,
     "end": 39.109,
@@ -96,7 +72,7 @@
     "zh_hant": "我們找了一會兒，但是沒能找到"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "them all.",
     "start": 38.759,
     "end": 39.95,
@@ -104,7 +80,7 @@
     "zh_hant": "所有的硬幣。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "While we were having breakfast,",
     "start": 41.131,
     "end": 44.152,
@@ -112,7 +88,7 @@
     "zh_hant": "當我們正在吃早餐時，"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "our little boy,",
     "start": 44.373,
     "end": 46.234,
@@ -120,7 +96,7 @@
     "zh_hant": "我們的小男孩，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "Tommy, found two small coins",
     "start": 46.254,
     "end": 50.416,
@@ -128,7 +104,7 @@
     "zh_hant": "湯米，發現了兩枚小硬幣"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "on the floor.",
     "start": 50.176,
     "end": 51.516,
@@ -136,7 +112,7 @@
     "zh_hant": "在地上。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "He put them both into his mouth.",
     "start": 52.517,
     "end": 56.138,
@@ -144,7 +120,7 @@
     "zh_hant": "他把兩枚硬幣都放進了嘴裡。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "We both tried to get the coins,",
     "start": 57.099,
     "end": 60.461,
@@ -152,7 +128,7 @@
     "zh_hant": "我們倆都想把硬幣拿出來，"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "but it was too late.",
     "start": 60.461,
     "end": 63.162,
@@ -160,7 +136,7 @@
     "zh_hant": "但是太晚了。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Tommy had already",
     "start": 63.482,
     "end": 66.303,
@@ -168,7 +144,7 @@
     "zh_hant": "湯米已經"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "swallowed them!",
     "start": 66.324,
     "end": 68.044,
@@ -176,7 +152,7 @@
     "zh_hant": "把它們吞下去了！"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Late that morning,",
     "start": 69.865,
     "end": 71.766,
@@ -184,7 +160,7 @@
     "zh_hant": "那天上午晚些時候，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "when I was doing the housework,",
     "start": 71.786,
     "end": 75.128,
@@ -192,7 +168,7 @@
     "zh_hant": "當我正在做家務時，"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "My husband phoned me from the office.",
     "start": 75.388,
     "end": 79.51,
@@ -200,7 +176,7 @@
     "zh_hant": "我丈夫從辦公室給我打來電話。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "'How's Tommy?'",
     "start": 80.292,
     "end": 81.813,
@@ -208,7 +184,7 @@
     "zh_hant": "“湯米怎麼樣？”"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "he asked.",
     "start": 81.973,
     "end": 83.274,
@@ -216,7 +192,7 @@
     "zh_hant": "他問道。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "'I don't know,'",
     "start": 82.935,
     "end": 85.837,
@@ -224,7 +200,7 @@
     "zh_hant": "“我不知道，”"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "I answered,",
     "start": 85.738,
     "end": 86.939,
@@ -232,7 +208,7 @@
     "zh_hant": "我回答道，"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "'Tommy's been to the toilet",
     "start": 87.44,
     "end": 90.002,
@@ -240,7 +216,7 @@
     "zh_hant": "“湯米今天早上已經"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "three times this morning,",
     "start": 89.983,
     "end": 92.365,
@@ -248,7 +224,7 @@
     "zh_hant": "去過三次廁所了，"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "but I haven't had any change yet!'",
     "start": 92.626,
     "end": 96.61,

@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 33.",
+    "text": "Lesson 33 A fine day Listen to the tape then answer this question.",
     "start": 0.67,
-    "end": 3.162,
-    "zh": "第33课。",
-    "zh_hant": "第33課。"
+    "end": 10.371,
+    "zh": "第33课 晴朗的一天 听录音,然后回答这个问题。",
+    "zh_hant": "第33課 晴朗的一天 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A fine day.",
-    "start": 3.212,
-    "end": 4.852,
-    "zh": "一个好天气。",
-    "zh_hant": "一個好天氣。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 5.993,
-    "end": 10.375,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "Where is the Jones family?",
     "start": 11.456,
     "end": 14.157,
@@ -32,7 +16,7 @@
     "zh_hant": "瓊斯一家在哪裡？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "It is a fine day today.",
     "start": 16.238,
     "end": 19.02,
@@ -40,7 +24,7 @@
     "zh_hant": "今天是個晴朗的好天氣。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "There are some clouds in the sky,",
     "start": 19.94,
     "end": 23.342,
@@ -48,7 +32,7 @@
     "zh_hant": "天空中有一些雲，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "but the sun is shining.",
     "start": 24.183,
     "end": 26.644,
@@ -56,7 +40,7 @@
     "zh_hant": "但太陽在照耀著。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Mr. Jones is with his family.",
     "start": 27.704,
     "end": 30.806,
@@ -64,7 +48,7 @@
     "zh_hant": "瓊斯先生和他的家人在一起。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "They are walking over the bridge.",
     "start": 31.766,
     "end": 34.648,
@@ -72,7 +56,7 @@
     "zh_hant": "他們正在橋上走著。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "There are some boats on the river.",
     "start": 35.809,
     "end": 38.81,
@@ -80,7 +64,7 @@
     "zh_hant": "河上有一些船。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Mr. Jones and his wife",
     "start": 39.811,
     "end": 42.713,
@@ -88,7 +72,7 @@
     "zh_hant": "瓊斯先生和他的妻子"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "are looking at them.",
     "start": 42.573,
     "end": 44.414,
@@ -96,7 +80,7 @@
     "zh_hant": "正在看著它們。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Sally is looking at a big ship.",
     "start": 45.756,
     "end": 49.078,
@@ -104,7 +88,7 @@
     "zh_hant": "薩莉正在看一艘大輪船。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The ship is going under the bridge.",
     "start": 50.179,
     "end": 53.582,
@@ -112,7 +96,7 @@
     "zh_hant": "那艘船正從橋下駛過。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Tim is looking at an aeroplane.",
     "start": 54.683,
     "end": 58.005,
@@ -120,7 +104,7 @@
     "zh_hant": "蒂姆正在看一架飛機。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "The aeroplane is flying over the river.",
     "start": 59.527,
     "end": 63.51,

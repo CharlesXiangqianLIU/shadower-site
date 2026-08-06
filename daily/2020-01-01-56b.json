@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 111.",
-    "start": 0.871,
-    "end": 4.242,
-    "zh": "第111课。",
-    "zh_hant": "第111課。"
+    "text": "Lesson 111 The most expensive model Listen to the tape then answer this question.",
+    "start": 0.87,
+    "end": 12.491,
+    "zh": "第111课 最贵的型号 听录音,然后回答问题。",
+    "zh_hant": "第111課 最貴的型號 聽錄音,然後回答問題。"
   },
   {
     "index": 1,
-    "text": "The most expensive model.",
-    "start": 4.292,
-    "end": 6.813,
-    "zh": "最贵的型号。",
-    "zh_hant": "最貴的型號。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.994,
-    "end": 10.775,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.535,
-    "end": 12.496,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Can Mr. Frith buy the television",
     "start": 13.597,
     "end": 17.178,
@@ -40,7 +16,7 @@
     "zh_hant": "弗里斯先生能買那臺電視機"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "on instalments?",
     "start": 17.019,
     "end": 18.999,
@@ -48,7 +24,7 @@
     "zh_hant": "分期付款嗎？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "How does it work?",
     "start": 19.74,
     "end": 21.581,
@@ -56,7 +32,7 @@
     "zh_hant": "它是怎麼運作的？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "I like this television very much.",
     "start": 23.742,
     "end": 26.883,
@@ -64,7 +40,7 @@
     "zh_hant": "我非常喜歡這臺電視機。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "How much does it cost?",
     "start": 27.224,
     "end": 29.585,
@@ -72,7 +48,7 @@
     "zh_hant": "它多少錢？"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "It's the most expensive model in the shop.",
     "start": 30.505,
     "end": 34.347,
@@ -80,7 +56,7 @@
     "zh_hant": "這是店裡最貴的型號。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "It costs five hundred pounds.",
     "start": 34.587,
     "end": 37.809,
@@ -88,7 +64,7 @@
     "zh_hant": "它要五百英鎊。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "That's too expensive for us.",
     "start": 38.749,
     "end": 42.071,
@@ -96,7 +72,7 @@
     "zh_hant": "這對我們來說太貴了。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "We can't afford all that money.",
     "start": 42.252,
     "end": 45.413,
@@ -104,7 +80,7 @@
     "zh_hant": "我們付不起那麼多錢。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "This model's less expensive than that one.",
     "start": 45.953,
     "end": 49.735,
@@ -112,7 +88,7 @@
     "zh_hant": "這個型號比那個便宜。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "It's only three hundred pounds.",
     "start": 50.036,
     "end": 52.897,
@@ -120,7 +96,7 @@
     "zh_hant": "只要三百英鎊。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "But, of course,",
     "start": 52.957,
     "end": 54.798,
@@ -128,7 +104,7 @@
     "zh_hant": "但是，當然，"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "it's not as good as the expensive one.",
     "start": 54.678,
     "end": 58.68,
@@ -136,7 +112,7 @@
     "zh_hant": "它不如那個貴的型號好。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "I don't like this model.",
     "start": 60.08,
     "end": 62.381,
@@ -144,7 +120,7 @@
     "zh_hant": "我不喜歡這個型號。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "The other model's more expensive,",
     "start": 62.742,
     "end": 65.803,
@@ -152,7 +128,7 @@
     "zh_hant": "另一個型號更貴，"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "but it's worth the money.",
     "start": 65.983,
     "end": 68.344,
@@ -160,7 +136,7 @@
     "zh_hant": "但它物有所值。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Can we buy it on instalments?",
     "start": 69.285,
     "end": 72.806,
@@ -168,7 +144,7 @@
     "zh_hant": "我們可以分期付款買它嗎？"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "Of course.",
     "start": 73.107,
     "end": 74.387,
@@ -176,7 +152,7 @@
     "zh_hant": "當然可以。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "You can pay a deposit of thirty pounds,",
     "start": 74.548,
     "end": 78.549,
@@ -184,7 +160,7 @@
     "zh_hant": "你可以先付三十英鎊的定金，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "and then fourteen pounds a month",
     "start": 78.63,
     "end": 81.932,
@@ -192,7 +168,7 @@
     "zh_hant": "然後每月付十四英鎊"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "for three years.",
     "start": 81.832,
     "end": 83.553,
@@ -200,7 +176,7 @@
     "zh_hant": "持續三年。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "Do you like it, dear?",
     "start": 84.454,
     "end": 86.475,
@@ -208,7 +184,7 @@
     "zh_hant": "你喜歡它嗎，親愛的？"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "I certainly do, but I",
     "start": 87.776,
     "end": 90.818,
@@ -216,7 +192,7 @@
     "zh_hant": "我確實喜歡，但我"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "don't like the price.",
     "start": 90.478,
     "end": 92.679,
@@ -224,7 +200,7 @@
     "zh_hant": "不喜歡這個價格。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "You always want the best,",
     "start": 93.0,
     "end": 95.941,
@@ -232,7 +208,7 @@
     "zh_hant": "你總想要最好的，"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "but we can't afford it.",
     "start": 95.962,
     "end": 98.443,
@@ -240,7 +216,7 @@
     "zh_hant": "但我們買不起。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "Sometimes you think",
     "start": 99.024,
     "end": 101.585,
@@ -248,7 +224,7 @@
     "zh_hant": "有時候你覺得"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "you're a millionaire!",
     "start": 101.385,
     "end": 103.666,
@@ -256,7 +232,7 @@
     "zh_hant": "自己是個百萬富翁！"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "Millionaires don't buy things on instalments!",
     "start": 105.208,
     "end": 109.19,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 99.",
+    "text": "Lesson 99 Ow!",
     "start": 0.61,
-    "end": 2.821,
-    "zh": "第99课。",
-    "zh_hant": "第99課。"
+    "end": 3.711,
+    "zh": "第99课 哎呦！",
+    "zh_hant": "第99課 哎呦！"
   },
   {
     "index": 1,
-    "text": "Ow!",
-    "start": 2.871,
-    "end": 3.712,
-    "zh": "哎哟！",
-    "zh_hant": "哎喲！"
+    "text": "Listen to the tape then answer this question.",
+    "start": 4.771,
+    "end": 9.352,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 4.772,
-    "end": 7.674,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 7.434,
-    "end": 9.354,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Must Andy go to see the doctor?",
     "start": 10.535,
     "end": 13.817,
@@ -40,7 +24,7 @@
     "zh_hant": "安迪必須去看醫生嗎？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Ow!",
     "start": 15.558,
     "end": 16.578,
@@ -48,7 +32,7 @@
     "zh_hant": "哎喲！"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "What's the matter, Andy?",
     "start": 16.958,
     "end": 19.399,
@@ -56,7 +40,7 @@
     "zh_hant": "怎麼了，安迪？"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "I slipped and fell downstairs.",
     "start": 20.14,
     "end": 23.401,
@@ -64,7 +48,7 @@
     "zh_hant": "我滑了一跤，從樓梯上摔了下來。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Have you hurt yourself?",
     "start": 23.582,
     "end": 26.063,
@@ -72,7 +56,7 @@
     "zh_hant": "你傷到自己了嗎？"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Yes, I have.",
     "start": 26.183,
     "end": 28.004,
@@ -80,7 +64,7 @@
     "zh_hant": "是的，傷著了。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "I think that I've hurt my back.",
     "start": 28.564,
     "end": 31.646,
@@ -88,7 +72,7 @@
     "zh_hant": "我覺得我的背受傷了。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Try and stand up.",
     "start": 32.466,
     "end": 34.827,
@@ -96,7 +80,7 @@
     "zh_hant": "試著站起來。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Can you stand up?",
     "start": 35.208,
     "end": 37.208,
@@ -104,7 +88,7 @@
     "zh_hant": "你能站起來嗎？"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Here.",
     "start": 37.429,
     "end": 38.289,
@@ -112,7 +96,7 @@
     "zh_hant": "來。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Let me help you.",
     "start": 38.509,
     "end": 40.31,
@@ -120,7 +104,7 @@
     "zh_hant": "讓我幫你。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "I'm sorry, Lucy.",
     "start": 41.591,
     "end": 43.252,
@@ -128,7 +112,7 @@
     "zh_hant": "對不起，露西。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "I'm afraid that I can't get up.",
     "start": 43.933,
     "end": 47.035,
@@ -136,7 +120,7 @@
     "zh_hant": "恐怕我站不起來了。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "I think that the doctor had better see you.",
     "start": 48.196,
     "end": 52.379,
@@ -144,7 +128,7 @@
     "zh_hant": "我覺得最好讓醫生來看看你。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "I'll phone Dr. Carter.",
     "start": 53.1,
     "end": 55.742,
@@ -152,7 +136,7 @@
     "zh_hant": "我會給卡特醫生打電話。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "The doctor says that he will come at once.",
     "start": 56.943,
     "end": 61.386,
@@ -160,7 +144,7 @@
     "zh_hant": "醫生說他會馬上來。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "I'm sure that you need an X-ray,",
     "start": 61.907,
     "end": 65.769,
@@ -168,7 +152,7 @@
     "zh_hant": "我確定你需要拍X光片，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Andy.",
     "start": 65.569,
     "end": 66.45,

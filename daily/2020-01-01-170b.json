@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 2.",
-    "start": 4.832,
-    "end": 3.89,
-    "zh": "第二课。",
-    "zh_hant": "第二課。"
+    "text": "Lesson 2 Thirteen equals one Was the vicar pleased that the clock was striking?",
+    "start": 4.831,
+    "end": 13.473,
+    "zh": "第2课 十三等于一 牧师对钟敲响感到高兴吗?",
+    "zh_hant": "第2課 十三等於一 牧師對鐘敲響感到高興嗎?"
   },
   {
     "index": 1,
-    "text": "Thirteen equals one.",
-    "start": 5.393,
-    "end": 8.674,
-    "zh": "十三等于一。",
-    "zh_hant": "十三等於一。"
-  },
-  {
-    "index": 2,
-    "text": "Was the vicar pleased that the clock was striking?",
-    "start": 8.534,
-    "end": 13.477,
-    "zh": "牧师对钟敲响感到高兴吗？",
-    "zh_hant": "牧師對鐘敲響感到高興嗎？"
-  },
-  {
-    "index": 3,
     "text": "Why?",
     "start": 13.837,
     "end": 14.697,
@@ -32,7 +16,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Our vicar is always raising money for one cause or another,",
     "start": 16.578,
     "end": 20.78,
@@ -40,7 +24,7 @@
     "zh_hant": "我們的牧師總是為這個或那個事業籌款，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "but he has never managed to get enough money to have the church clock repaired.",
     "start": 20.76,
     "end": 25.883,
@@ -48,7 +32,7 @@
     "zh_hant": "但他從未設法弄到足夠的錢來修理教堂的鐘。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "The big clock which used to strike the hours",
     "start": 26.463,
     "end": 30.025,
@@ -56,7 +40,7 @@
     "zh_hant": "那座過去日夜敲響報時的大鐘，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "day and night was damaged many years ago and has been silent ever since.",
     "start": 29.675,
     "end": 35.668,
@@ -64,7 +48,7 @@
     "zh_hant": "多年前損壞了，從那以後一直沉默無聲。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "One night, however, our vicar woke up with a start:the",
     "start": 36.468,
     "end": 41.071,
@@ -72,7 +56,7 @@
     "zh_hant": "然而，一天晚上，我們的牧師驚醒了：那"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "clock was striking the hours!",
     "start": 40.721,
     "end": 43.032,
@@ -80,7 +64,7 @@
     "zh_hant": "鍾正在敲響報時！"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Looking at his watch, he saw that it was one o'clock,",
     "start": 43.412,
     "end": 47.074,
@@ -88,7 +72,7 @@
     "zh_hant": "他看了看手錶，發現是凌晨一點鐘，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "but the bell struck thirteen times before it stopped.",
     "start": 47.274,
     "end": 51.276,
@@ -96,7 +80,7 @@
     "zh_hant": "但鍾在停下來之前敲了十三下。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Armed with a torch, the vicar went up into the clock tower to see what was going on.",
     "start": 51.876,
     "end": 57.539,
@@ -104,7 +88,7 @@
     "zh_hant": "牧師拿著手電筒，走上鐘樓去看發生了什麼。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "In the torchlight, he caught sight of a figure",
     "start": 57.979,
     "end": 60.981,
@@ -112,7 +96,7 @@
     "zh_hant": "在手電光下，他看見了一個人影，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "whom he immediately recognized as Bill Wilkins, our local grocer.",
     "start": 60.631,
     "end": 65.803,
@@ -120,7 +104,7 @@
     "zh_hant": "他立刻認出那是比爾·威爾金斯，我們當地的雜貨商。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "'Whatever are you doing up here Bill?'",
     "start": 65.563,
     "end": 68.704,
@@ -128,7 +112,7 @@
     "zh_hant": "“你到底在上面幹什麼，比爾？”"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "asked the vicar in surprise.",
     "start": 68.665,
     "end": 70.845,
@@ -136,7 +120,7 @@
     "zh_hant": "牧師驚訝地問。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "'I'm trying to repair the bell, ' answered Bill.",
     "start": 70.726,
     "end": 74.587,
@@ -144,7 +128,7 @@
     "zh_hant": "“我在試著修鍾，”比爾回答。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "'I've been coming up here night after night for weeks now.",
     "start": 74.567,
     "end": 78.549,
@@ -152,7 +136,7 @@
     "zh_hant": "“幾個星期以來，我每天晚上都來這裡。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "You see, I was hoping to give you a surprise.'",
     "start": 78.569,
     "end": 81.611,
@@ -160,7 +144,7 @@
     "zh_hant": "你知道，我是想給你一個驚喜。”"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "'You certainly did give me a surprise!'",
     "start": 81.261,
     "end": 84.853,
@@ -168,7 +152,7 @@
     "zh_hant": "“你確實給了我一個驚喜！”"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "said the vicar.",
     "start": 84.593,
     "end": 85.733,
@@ -176,7 +160,7 @@
     "zh_hant": "牧師說。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "'You've probably woken up everyone in the village as well.",
     "start": 85.383,
     "end": 89.255,
@@ -184,7 +168,7 @@
     "zh_hant": "“你可能也把村裡所有人都吵醒了。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Still, I'm glad the bell is working again.'",
     "start": 89.496,
     "end": 92.837,
@@ -192,7 +176,7 @@
     "zh_hant": "不過，我很高興鍾又能響了。”"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "'That's the trouble, vicar, 'answered Bill.",
     "start": 92.487,
     "end": 95.619,
@@ -200,7 +184,7 @@
     "zh_hant": "“問題就在這兒，牧師，”比爾回答。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "'It's working all right,",
     "start": 95.269,
     "end": 97.24,
@@ -208,7 +192,7 @@
     "zh_hant": "“它確實能正常響，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'",
     "start": 98.06,
     "end": 104.543,
@@ -216,7 +200,7 @@
     "zh_hant": "但恐怕到一點鐘時它會敲十三下，而我也無能為力。”"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "'We'll get used to that, Bill, 'said the vicar.",
     "start": 104.944,
     "end": 107.825,
@@ -224,7 +208,7 @@
     "zh_hant": "“我們會習慣的，比爾，”牧師說。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "'Thirteen is not as good as one, but it's better than nothing.",
     "start": 107.886,
     "end": 112.448,
@@ -232,7 +216,7 @@
     "zh_hant": "“十三不如一，但總比沒有強。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Now let's go downstairs and have a cup of tea.'",
     "start": 112.868,
     "end": 116.75,

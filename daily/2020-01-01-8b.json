@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 15.",
+    "text": "Lesson 15 Your passports please.",
     "start": 0.53,
-    "end": 2.802,
-    "zh": "第15课。",
-    "zh_hant": "第15課。"
+    "end": 5.351,
+    "zh": "第15课 请出示护照",
+    "zh_hant": "第15課 請出示護照"
   },
   {
     "index": 1,
-    "text": "Your passports please.",
-    "start": 2.852,
-    "end": 5.333,
-    "zh": "请出示你们的护照。",
-    "zh_hant": "請出示你們的護照。"
+    "text": "Listen to the tape then answer this question.",
+    "start": 6.352,
+    "end": 11.053,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.353,
-    "end": 9.355,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.155,
-    "end": 11.055,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Is there a problem with the Customs officer?",
     "start": 12.256,
     "end": 16.198,
@@ -40,7 +24,7 @@
     "zh_hant": "海關官員那裡有問題嗎？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Are you Swedish?",
     "start": 18.8,
     "end": 20.66,
@@ -48,7 +32,7 @@
     "zh_hant": "你們是瑞典人嗎？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "No we are not.",
     "start": 21.361,
     "end": 23.782,
@@ -56,7 +40,7 @@
     "zh_hant": "不，我們不是。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "We are Danish.",
     "start": 23.942,
     "end": 25.683,
@@ -64,7 +48,7 @@
     "zh_hant": "我們是丹麥人。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Are your friends Danish too?",
     "start": 26.604,
     "end": 29.465,
@@ -72,7 +56,7 @@
     "zh_hant": "你們的朋友也是丹麥人嗎？"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "No they aren't.",
     "start": 30.225,
     "end": 32.726,
@@ -80,7 +64,7 @@
     "zh_hant": "不，他們不是。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "They are Norwegian.",
     "start": 33.747,
     "end": 36.028,
@@ -88,7 +72,7 @@
     "zh_hant": "他們是挪威人。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Your passports please.",
     "start": 37.449,
     "end": 39.83,
@@ -96,7 +80,7 @@
     "zh_hant": "請出示你們的護照。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Here they are.",
     "start": 40.471,
     "end": 43.792,
@@ -104,7 +88,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "these your cases?",
     "start": 43.442,
     "end": 45.293,
@@ -112,7 +96,7 @@
     "zh_hant": "這些是你們的箱子嗎？"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "No they aren't.",
     "start": 46.034,
     "end": 47.895,
@@ -120,7 +104,7 @@
     "zh_hant": "不，不是。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Our cases are brown.",
     "start": 48.896,
     "end": 51.477,
@@ -128,7 +112,7 @@
     "zh_hant": "我們的箱子是棕色的。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Here they are.",
     "start": 52.938,
     "end": 56.76,
@@ -136,7 +120,7 @@
     "zh_hant": "這些才是。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "you tourists?",
     "start": 56.41,
     "end": 57.981,
@@ -144,7 +128,7 @@
     "zh_hant": "你們是遊客嗎？"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Yes we are.",
     "start": 58.842,
     "end": 62.524,
@@ -152,7 +136,7 @@
     "zh_hant": "是的，我們是。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "your friends tourists too?",
     "start": 62.174,
     "end": 64.845,
@@ -160,7 +144,7 @@
     "zh_hant": "你們的朋友也是遊客嗎？"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Yes they are.",
     "start": 65.406,
     "end": 67.367,
@@ -168,7 +152,7 @@
     "zh_hant": "是的，他們是。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "That's fine.",
     "start": 68.648,
     "end": 70.048,
@@ -176,7 +160,7 @@
     "zh_hant": "那很好。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Thank you very much.",
     "start": 70.649,
     "end": 72.75,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 107.",
+    "text": "Lesson 107 It's too small.",
     "start": 0.69,
-    "end": 3.982,
-    "zh": "第107课。",
-    "zh_hant": "第107課。"
+    "end": 5.971,
+    "zh": "第107课 它太小了。",
+    "zh_hant": "第107課 它太小了。"
   },
   {
     "index": 1,
-    "text": "It's too small.",
-    "start": 4.032,
-    "end": 5.973,
-    "zh": "它太小了。",
-    "zh_hant": "它太小了。"
+    "text": "Listen to the tape then answer this question.",
+    "start": 7.331,
+    "end": 12.192,
+    "zh": "听录音,然后回答这个问题。",
+    "zh_hant": "聽錄音,然後回答這個問題。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.334,
-    "end": 10.415,
-    "zh": "先听录音，然后",
-    "zh_hant": "先聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 10.175,
-    "end": 12.196,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What kind of dress does the Lady want?",
     "start": 13.357,
     "end": 17.118,
@@ -40,7 +24,7 @@
     "zh_hant": "這位女士想要什麼樣的連衣裙？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Do you like this dress, madam?",
     "start": 19.2,
     "end": 22.321,
@@ -48,7 +32,7 @@
     "zh_hant": "夫人，您喜歡這條連衣裙嗎？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "I like the colour very much.",
     "start": 23.522,
     "end": 26.703,
@@ -56,7 +40,7 @@
     "zh_hant": "我非常喜歡這個顏色。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "It's a lovely dress,",
     "start": 27.023,
     "end": 29.264,
@@ -64,7 +48,7 @@
     "zh_hant": "這是一條可愛的連衣裙，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "but it's too small for me.",
     "start": 29.305,
     "end": 32.066,
@@ -72,7 +56,7 @@
     "zh_hant": "但對我來說太小了。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "What about this one?",
     "start": 33.227,
     "end": 35.487,
@@ -80,7 +64,7 @@
     "zh_hant": "這條怎麼樣？"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "It's a lovely dress.",
     "start": 35.768,
     "end": 38.069,
@@ -88,7 +72,7 @@
     "zh_hant": "這是一條可愛的連衣裙。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "It's very smart.",
     "start": 38.369,
     "end": 40.47,
@@ -96,7 +80,7 @@
     "zh_hant": "它很時髦。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Short skirts are in fashion now.",
     "start": 41.011,
     "end": 44.232,
@@ -104,7 +88,7 @@
     "zh_hant": "現在流行短裙。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Would you like to try it?",
     "start": 44.612,
     "end": 46.953,
@@ -112,7 +96,7 @@
     "zh_hant": "您想試試嗎？"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "All right.",
     "start": 47.654,
     "end": 48.854,
@@ -120,7 +104,7 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "I'm afraid this green dress",
     "start": 49.915,
     "end": 53.036,
@@ -128,7 +112,7 @@
     "zh_hant": "恐怕這條綠色的連衣裙"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "is too small for me as well.",
     "start": 52.997,
     "end": 56.738,
@@ -136,7 +120,7 @@
     "zh_hant": "對我來說也太小了。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "It's smaller than the blue one.",
     "start": 57.899,
     "end": 61.52,
@@ -144,7 +128,7 @@
     "zh_hant": "它比那條藍色的還小。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "I don't like the colour either.",
     "start": 62.681,
     "end": 65.642,
@@ -152,7 +136,7 @@
     "zh_hant": "我也不喜歡這個顏色。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "It doesn't suit me at all.",
     "start": 66.203,
     "end": 69.504,
@@ -160,7 +144,7 @@
     "zh_hant": "它完全不適合我。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "I think the blue dress is prettier.",
     "start": 70.185,
     "end": 73.927,
@@ -168,7 +152,7 @@
     "zh_hant": "我覺得藍色的那條更漂亮。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Could you show me another blue dress?",
     "start": 74.687,
     "end": 78.749,
@@ -176,7 +160,7 @@
     "zh_hant": "能給我看看另一條藍色的連衣裙嗎？"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "I want a dress like that one,",
     "start": 79.53,
     "end": 82.573,
@@ -184,7 +168,7 @@
     "zh_hant": "我想要一條像那樣的連衣裙，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "but it must be my size.",
     "start": 82.754,
     "end": 86.017,
@@ -192,7 +176,7 @@
     "zh_hant": "但必須是我的尺碼。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "I'm afraid I haven't got",
     "start": 87.379,
     "end": 90.462,
@@ -200,7 +184,7 @@
     "zh_hant": "恐怕我沒有"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "a larger dress.",
     "start": 90.203,
     "end": 92.124,
@@ -208,7 +192,7 @@
     "zh_hant": "更大號的連衣裙。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "This is the largest dress in the shop.",
     "start": 92.545,
     "end": 96.79,

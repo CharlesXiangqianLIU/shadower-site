@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 105.",
+    "text": "Lesson 105 Full of mistakes Listen to the tape then answer this question.",
     "start": 0.49,
-    "end": 3.382,
-    "zh": "第105课。",
-    "zh_hant": "第105課。"
+    "end": 12.371,
+    "zh": "第105课 错误百出 听录音,然后回答这个问题。",
+    "zh_hant": "第105課 錯誤百出 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Full of mistakes.",
-    "start": 3.432,
-    "end": 5.473,
-    "zh": "错误百出。",
-    "zh_hant": "錯誤百出。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape",
-    "start": 7.174,
-    "end": 9.415,
-    "zh": "听录音",
-    "zh_hant": "聽錄音"
-  },
-  {
-    "index": 3,
-    "text": "then answer this question.",
-    "start": 9.735,
-    "end": 12.376,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What was Sandra's present?",
     "start": 13.417,
     "end": 16.078,
@@ -40,7 +16,7 @@
     "zh_hant": "桑德拉的禮物是什麼？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Where's Sandra, Bob?",
     "start": 18.319,
     "end": 20.4,
@@ -48,7 +24,7 @@
     "zh_hant": "桑德拉在哪兒，鮑勃？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "I want her.",
     "start": 20.78,
     "end": 22.021,
@@ -56,7 +32,7 @@
     "zh_hant": "我要找她。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Do you want to speak to her?",
     "start": 23.342,
     "end": 26.043,
@@ -64,7 +40,7 @@
     "zh_hant": "你想和她說話嗎？"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "Yes, I do.",
     "start": 27.384,
     "end": 28.944,
@@ -72,7 +48,7 @@
     "zh_hant": "是的，我想。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "I want her to come to my office.",
     "start": 29.745,
     "end": 32.986,
@@ -80,7 +56,7 @@
     "zh_hant": "我要她到我辦公室來。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Tell her to come at once.",
     "start": 33.347,
     "end": 36.268,
@@ -88,7 +64,7 @@
     "zh_hant": "叫她馬上來。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Did you want to see me?",
     "start": 37.149,
     "end": 39.99,
@@ -96,7 +72,7 @@
     "zh_hant": "你想見我嗎？"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "Ah, yes, Sandra.",
     "start": 40.671,
     "end": 42.952,
@@ -104,7 +80,7 @@
     "zh_hant": "啊，是的，桑德拉。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "How do you spell 'intelligent'?",
     "start": 43.692,
     "end": 47.034,
@@ -112,7 +88,7 @@
     "zh_hant": "你怎麼拼寫‘intelligent’？"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Can you tell me?",
     "start": 47.174,
     "end": 48.955,
@@ -120,7 +96,7 @@
     "zh_hant": "你能告訴我嗎？"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "That's right.",
     "start": 60.821,
     "end": 62.202,
@@ -128,7 +104,7 @@
     "zh_hant": "對了。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "You've typed it with only one 'L'.",
     "start": 62.762,
     "end": 66.244,
@@ -136,7 +112,7 @@
     "zh_hant": "你只打了一個‘L’。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "This letter's full of mistakes.",
     "start": 66.765,
     "end": 70.226,
@@ -144,7 +120,7 @@
     "zh_hant": "這封信錯誤百出。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "I want you to type it again.",
     "start": 70.787,
     "end": 73.948,
@@ -152,7 +128,7 @@
     "zh_hant": "我要你再打一遍。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Yes, I'll do that.",
     "start": 74.869,
     "end": 76.489,
@@ -160,7 +136,7 @@
     "zh_hant": "好的，我會這麼做。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "I'm sorry about that.",
     "start": 76.139,
     "end": 77.29,
@@ -168,7 +144,7 @@
     "zh_hant": "對此我很抱歉。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "And here's a little present for you.",
     "start": 80.412,
     "end": 83.457,
@@ -176,7 +152,7 @@
     "zh_hant": "這有一份小禮物給你。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "What is it?",
     "start": 83.739,
     "end": 85.2,
@@ -184,7 +160,7 @@
     "zh_hant": "這是什麼？"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "It's a dictionary.",
     "start": 85.442,
     "end": 87.144,
@@ -192,7 +168,7 @@
     "zh_hant": "這是一本字典。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "I hope it'll help you.",
     "start": 87.826,
     "end": 89.769,

@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 127.",
+    "text": "Lesson 127 A famous actress Listen to the tape then answer this question.",
     "start": 0.63,
-    "end": 3.442,
-    "zh": "第127课。",
-    "zh_hant": "第127課。"
+    "end": 11.272,
+    "zh": "第127课 一位著名女演员 听录音,然后回答这个问题。",
+    "zh_hant": "第127課 一位著名女演員 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A famous actress.",
-    "start": 3.492,
-    "end": 5.453,
-    "zh": "一位著名的女演员。",
-    "zh_hant": "一位著名的女演員。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.533,
-    "end": 9.495,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.315,
-    "end": 11.275,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Who is only twenty-nine,",
     "start": 12.096,
     "end": 14.857,
@@ -40,7 +16,7 @@
     "zh_hant": "誰只有二十九歲，"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "and why is it so unclear?",
     "start": 14.958,
     "end": 18.379,
@@ -48,7 +24,7 @@
     "zh_hant": "為什麼這麼不清楚？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Can you recognize that woman, Liz?",
     "start": 20.52,
     "end": 24.522,
@@ -56,7 +32,7 @@
     "zh_hant": "你能認出那個女人嗎，莉茲？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "I think I can, Kate.",
     "start": 25.283,
     "end": 27.804,
@@ -64,7 +40,7 @@
     "zh_hant": "我想我能，凱特。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "It must be Karen Marsh,",
     "start": 28.244,
     "end": 31.386,
@@ -72,7 +48,7 @@
     "zh_hant": "一定是凱倫·馬什，"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "the actress.",
     "start": 31.286,
     "end": 32.766,
@@ -80,7 +56,7 @@
     "zh_hant": "那位女演員。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "I thought so.",
     "start": 33.427,
     "end": 34.687,
@@ -88,7 +64,7 @@
     "zh_hant": "我也這麼想。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Who's that beside her?",
     "start": 35.268,
     "end": 37.489,
@@ -96,7 +72,7 @@
     "zh_hant": "她旁邊是誰？"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "That must be Conrad Reeves.",
     "start": 38.289,
     "end": 41.951,
@@ -104,7 +80,7 @@
     "zh_hant": "那一定是康拉德·裡夫斯。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Conrad Reeves, the actor?",
     "start": 42.672,
     "end": 45.533,
@@ -112,7 +88,7 @@
     "zh_hant": "康拉德·裡夫斯，那個演員？"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "It can't be.",
     "start": 45.833,
     "end": 47.234,
@@ -120,7 +96,7 @@
     "zh_hant": "不可能。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "Let me have another look.",
     "start": 47.774,
     "end": 50.355,
@@ -128,7 +104,7 @@
     "zh_hant": "讓我再看一眼。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "I think you're right!",
     "start": 51.296,
     "end": 53.237,
@@ -136,7 +112,7 @@
     "zh_hant": "我想你是對的！"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Isn't he her third husband?",
     "start": 53.577,
     "end": 56.879,
@@ -144,7 +120,7 @@
     "zh_hant": "他不是她的第三任丈夫嗎？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "No.",
     "start": 57.499,
     "end": 58.119,
@@ -152,7 +128,7 @@
     "zh_hant": "不是。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "He must be her fourth or fifth.",
     "start": 58.82,
     "end": 62.501,
@@ -160,7 +136,7 @@
     "zh_hant": "他一定是她的第四或第五任。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Doesn't Karen Marsh look old!",
     "start": 63.762,
     "end": 66.903,
@@ -168,7 +144,7 @@
     "zh_hant": "凱倫·馬什看起來真老啊！"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "She does, doesn't she!",
     "start": 67.604,
     "end": 70.145,
@@ -176,7 +152,7 @@
     "zh_hant": "確實，不是嗎！"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "I read she's twenty-nine,",
     "start": 71.186,
     "end": 74.407,
@@ -184,7 +160,7 @@
     "zh_hant": "我讀到她說她二十九歲，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "but she must be at least forty.",
     "start": 74.748,
     "end": 78.129,
@@ -192,7 +168,7 @@
     "zh_hant": "但她肯定至少四十歲了。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "I'm sure she is.",
     "start": 79.23,
     "end": 81.452,
@@ -200,7 +176,7 @@
     "zh_hant": "我確信是這樣。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "She was a famous actress",
     "start": 82.514,
     "end": 85.056,
@@ -208,7 +184,7 @@
     "zh_hant": "她是個著名的女演員，"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "when I was still at school.",
     "start": 84.936,
     "end": 87.758,
@@ -216,7 +192,7 @@
     "zh_hant": "在我還在上學的時候。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "That was a long time ago, wasn't it?",
     "start": 88.86,
     "end": 92.763,
@@ -224,7 +200,7 @@
     "zh_hant": "那是很久以前了，不是嗎？"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "Not that long ago!",
     "start": 93.404,
     "end": 95.546,
@@ -232,7 +208,7 @@
     "zh_hant": "沒那麼久！"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "I'm not more than twenty-nine myself.",
     "start": 96.447,
     "end": 100.09,

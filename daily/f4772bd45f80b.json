@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 21.",
-    "start": 1.571,
-    "end": 3.602,
-    "zh": "第21课。",
-    "zh_hant": "第21課。"
+    "text": "Lesson 21 William S.Hart and the early 'Western' film",
+    "start": 2.79,
+    "end": 6.961,
+    "zh": "第21课 威廉·S·哈特与早期“西部片”",
+    "zh_hant": "第21課 威廉·S·哈特與早期“西部片”"
   },
   {
     "index": 1,
-    "text": "William S.Hart and the early 'Western' film.",
-    "start": 3.652,
-    "end": 7.313,
-    "zh": "威廉·S·哈特与早期‘西部’电影。",
-    "zh_hant": "威廉·S·哈特與早期‘西部’電影。"
+    "text": "How did William Hart's childhood prepare him for his acting role in Western films?",
+    "start": 13.661,
+    "end": 19.322,
+    "zh": "威廉·哈特的童年经历是如何为他日后在西部片中的表演做准备的？",
+    "zh_hant": "威廉·哈特的童年經歷是如何為他日後在西部片中的表演做準備的？"
   },
   {
     "index": 2,
-    "text": "How did William Hart's childhood prepare him for his acting role in Western films?",
-    "start": 13.636,
-    "end": 19.679,
-    "zh": "威廉·哈特的童年如何为他扮演西部电影角色做好准备？",
-    "zh_hant": "威廉·哈特的童年如何為他扮演西部電影角色做好準備？"
-  },
-  {
-    "index": 3,
     "text": "William S.Hart was, perhaps, the greatest of all Western stars,",
     "start": 22.061,
     "end": 27.143,
@@ -32,7 +24,7 @@
     "zh_hant": "威廉·S·哈特也許是所有西部明星中最偉大的一個，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "for unlike Gary Cooper and John Wayne he appeared in nothing but Westerns.",
     "start": 27.323,
     "end": 33.166,
@@ -40,7 +32,7 @@
     "zh_hant": "因為與加里·庫珀和約翰·韋恩不同，他只演西部片。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "From 1914 to 1924 he was supreme and unchallenged.",
     "start": 33.766,
     "end": 40.189,
@@ -48,7 +40,7 @@
     "zh_hant": "從1914年到1924年，他無與倫比，無人挑戰。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "It was Hart who created the basic formula of the Western film,",
     "start": 40.69,
     "end": 45.292,
@@ -56,7 +48,7 @@
     "zh_hant": "正是哈特創造了西部片的基本模式，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "and devised the protagonist he played in every film he made,",
     "start": 45.633,
     "end": 50.034,
@@ -64,7 +56,7 @@
     "zh_hant": "並設計了他每部影片中扮演的主角，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "the good-bad man, the accidental, noble outlaw,",
     "start": 50.295,
     "end": 54.637,
@@ -72,7 +64,7 @@
     "zh_hant": "即善惡兼備之人，偶然的、高尚的亡命之徒，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "or the honest, but framed cowboy, or the sheriff made suspect by vicious gossip;",
     "start": 54.797,
     "end": 61.18,
@@ -80,7 +72,7 @@
     "zh_hant": "或誠實但遭陷害的牛仔，或因惡毒流言而受懷疑的警長；"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "in short, the individual in conflict with himself and his frontier environment.",
     "start": 61.58,
     "end": 66.983,
@@ -88,7 +80,7 @@
     "zh_hant": "簡而言之，就是一個與自己及其邊疆環境相沖突的個體。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Unlike most of his contemporaries in Hollywood, Hart actually knew something of the old West.",
     "start": 68.064,
     "end": 73.786,
@@ -96,7 +88,7 @@
     "zh_hant": "與好萊塢同時代的大多數人不同，哈特確實對舊西部有所瞭解。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "He had lived in it as a child when it was already disappearing,",
     "start": 74.087,
     "end": 78.549,
@@ -104,7 +96,7 @@
     "zh_hant": "他小時候曾生活在其中，那時它已逐漸消失，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "and his hero was firmly rooted in his memories and experiences,",
     "start": 78.769,
     "end": 83.431,
@@ -112,7 +104,7 @@
     "zh_hant": "而他的英雄形象深深植根於他的記憶和經歷中，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "and in both the history and the mythology of the vanished frontier,",
     "start": 83.692,
     "end": 88.374,
@@ -120,7 +112,7 @@
     "zh_hant": "也植根於已消失邊疆的歷史和神話中。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "And although no period or place in American history has been more absurdly romanticized,",
     "start": 89.034,
     "end": 95.017,
@@ -128,7 +120,7 @@
     "zh_hant": "儘管美國歷史上沒有哪個時期或地點被更荒唐地浪漫化，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "myth and reality did join hands in at least one arena,",
     "start": 95.097,
     "end": 100.16,
@@ -136,7 +128,7 @@
     "zh_hant": "但神話與現實確實在至少一個領域攜手，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "the conflict between the individual and encroaching civilization.",
     "start": 100.4,
     "end": 105.182,
@@ -144,7 +136,7 @@
     "zh_hant": "即個體與不斷擴張的文明之間的衝突。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Men accustomed to struggling for survival against the elements",
     "start": 106.823,
     "end": 111.105,
@@ -152,7 +144,7 @@
     "zh_hant": "那些習慣於與自然抗爭以求生存的人"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "and Indians were bewildered by politicians, bankers and businessmen,",
     "start": 110.755,
     "end": 116.027,
@@ -160,7 +152,7 @@
     "zh_hant": "和印第安人，被政客、銀行家和商人搞得困惑不已，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "and unhorsed by fences, laws and alien taboos.",
     "start": 116.248,
     "end": 120.83,
@@ -168,7 +160,7 @@
     "zh_hant": "並被柵欄、法律和外來禁忌弄得失去立足之地。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Hart's good-bad man was always an outsider,",
     "start": 121.67,
     "end": 125.372,
@@ -176,7 +168,7 @@
     "zh_hant": "哈特的善惡兼備之人總是一個局外人，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "always one of the disinherited, and if",
     "start": 125.652,
     "end": 129.354,
@@ -184,7 +176,7 @@
     "zh_hant": "總是被剝奪繼承權的人之一，而如果"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "he found it necessary to shoot a sheriff or rob a bank along the way,",
     "start": 129.004,
     "end": 133.396,
@@ -192,7 +184,7 @@
     "zh_hant": "他覺得有必要沿途射殺警長或搶劫銀行，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "his early audiences found it easy to understand and forgive,",
     "start": 133.556,
     "end": 137.958,
@@ -200,7 +192,7 @@
     "zh_hant": "早期觀眾覺得這容易理解且值得原諒，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "especially when it was Hart who, in the end, overcame the attacking Indians.",
     "start": 138.098,
     "end": 143.881,
@@ -208,7 +200,7 @@
     "zh_hant": "尤其是當最後是哈特戰勝了進攻的印第安人時。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Audiences in the second decade of the twentieth century",
     "start": 145.362,
     "end": 148.903,
@@ -216,7 +208,7 @@
     "zh_hant": "二十世紀第二個十年的觀眾"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "found it pleasant to escape to a time when life,",
     "start": 148.864,
     "end": 151.945,
@@ -224,7 +216,7 @@
     "zh_hant": "覺得逃到一個生活雖然艱苦但相對簡單的時代很愜意。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "though hard, was relatively simple.",
     "start": 151.965,
     "end": 154.666,
@@ -232,7 +224,7 @@
     "zh_hant": "我們如今依然如此；"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "We still do; living in a world in which undeclared aggression,",
     "start": 155.027,
     "end": 159.609,
@@ -240,7 +232,7 @@
     "zh_hant": "生活在一個未經宣戰的侵略、"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "war, hypocrisy, chicanery, anarchy",
     "start": 159.749,
     "end": 164.016,
@@ -248,7 +240,7 @@
     "zh_hant": "戰爭、虛偽、欺詐、無政府狀態"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "and impending immolation are part of our daily lives,",
     "start": 164.097,
     "end": 168.204,
@@ -256,7 +248,7 @@
     "zh_hant": "和迫在眉睫的毀滅成為我們日常生活一部分的世界裡，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "we all want a code to live by.",
     "start": 168.345,
     "end": 170.829,

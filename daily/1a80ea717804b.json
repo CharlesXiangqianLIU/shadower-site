@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 45.",
-    "start": 1.511,
-    "end": 3.562,
-    "zh": "第45课。",
-    "zh_hant": "第45課。"
+    "text": "Lesson 45 Of men and galaxies",
+    "start": 2.5409999999999995,
+    "end": 7.993,
+    "zh": "第45课:论人类与星系",
+    "zh_hant": "第45課:論人類與星系"
   },
   {
     "index": 1,
-    "text": "Of men and galaxies.",
-    "start": 3.612,
-    "end": 8.334,
-    "zh": "人与星系。",
-    "zh_hant": "人與星系。"
+    "text": "What is the most influential factor in any human society?",
+    "start": 12.695,
+    "end": 16.656,
+    "zh": "在任何人类社会中,最具影响力的因素是什么?",
+    "zh_hant": "在任何人類社會中,最具影響力的因素是什麼?"
   },
   {
     "index": 2,
-    "text": "What is the most influential factor in any human society?",
-    "start": 12.656,
-    "end": 16.998,
-    "zh": "在任何人类社会中，最具影响力的因素是什么？",
-    "zh_hant": "在任何人類社會中，最具影響力的因素是什麼？"
-  },
-  {
-    "index": 3,
     "text": "In man's early days, competition with other creatures must have been critical.",
     "start": 19.359,
     "end": 25.162,
@@ -32,7 +24,7 @@
     "zh_hant": "在人類早期，與其他生物的競爭必定至關重要。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "But this phase of our development is now finished.",
     "start": 25.742,
     "end": 29.104,
@@ -40,7 +32,7 @@
     "zh_hant": "但這一發展階段現已結束。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Indeed, we lack practice and experience nowadays in dealing with primitive conditions.",
     "start": 29.604,
     "end": 35.607,
@@ -48,7 +40,7 @@
     "zh_hant": "確實，如今我們在應對原始條件方面缺乏實踐和經驗。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "I am sure that, without modern weapons,",
     "start": 36.428,
     "end": 39.229,
@@ -56,7 +48,7 @@
     "zh_hant": "我確信，如果沒有現代武器，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "I would make a very poor show of disputing the ownership of a cave with a bear,",
     "start": 39.229,
     "end": 44.092,
@@ -64,7 +56,7 @@
     "zh_hant": "我與熊爭奪洞穴所有權會表現得很差勁，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "and in this I do not think that I stand alone.",
     "start": 44.572,
     "end": 48.013,
@@ -72,7 +64,7 @@
     "zh_hant": "而且在這方面，我認為並非只有我一人如此。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "The last creature to compete with man was the mosquito.",
     "start": 48.614,
     "end": 52.356,
@@ -80,7 +72,7 @@
     "zh_hant": "最後一個與人類競爭的生物是蚊子。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "But even the mosquito has been subdued by attention to drainage and by chemical sprays.",
     "start": 52.716,
     "end": 58.839,
@@ -88,7 +80,7 @@
     "zh_hant": "但即使蚊子也已被排水措施和化學噴霧所制服。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Competition between ourselves, person against person, community against community,",
     "start": 59.82,
     "end": 65.482,
@@ -96,7 +88,7 @@
     "zh_hant": "我們之間的競爭，人對人，社群對社群，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "still persists, however; and it is as fierce as it ever was.",
     "start": 65.362,
     "end": 70.144,
@@ -104,7 +96,7 @@
     "zh_hant": "仍然持續存在；而且它一如既往地激烈。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "But the competition of man against man is not the simple process envisioned in biology.",
     "start": 70.785,
     "end": 76.608,
@@ -112,7 +104,7 @@
     "zh_hant": "但人與人之間的競爭並非生物學所設想的簡單過程。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "It is not a simple competition for a fixed amount of food determined by the physical environment,",
     "start": 77.328,
     "end": 83.671,
@@ -120,7 +112,7 @@
     "zh_hant": "這不是對由自然環境決定的固定食物量的簡單競爭，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "because the environment that determines our evolution is no longer essentially physical.",
     "start": 83.772,
     "end": 89.214,
@@ -128,7 +120,7 @@
     "zh_hant": "因為決定我們進化的環境已不再是本質上的自然環境。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Our environment is chiefly conditoned by the things we believe.",
     "start": 90.075,
     "end": 93.896,
@@ -136,7 +128,7 @@
     "zh_hant": "我們的環境主要由我們所信仰的事物所決定。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Morocco and California are bits of the Earth in very similar latitudes,",
     "start": 94.417,
     "end": 99.339,
@@ -144,7 +136,7 @@
     "zh_hant": "摩洛哥和加利福尼亞是地球上緯度相近的兩塊地方，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "both on the west coasts of continents with similar climates,",
     "start": 99.8,
     "end": 104.262,
@@ -152,7 +144,7 @@
     "zh_hant": "都位於大陸西海岸，氣候相似，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "and probably with rather similar natural resources.",
     "start": 104.522,
     "end": 108.023,
@@ -160,7 +152,7 @@
     "zh_hant": "而且可能擁有相當類似的自然資源。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Yet their present development is wholly different, not so much because of different people even,",
     "start": 108.744,
     "end": 114.507,
@@ -168,7 +160,7 @@
     "zh_hant": "然而它們目前的發展全然不同，甚至不主要是因為人民不同，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "but because of the different thoughts that exist in the minds of their inhabitants.",
     "start": 114.447,
     "end": 119.229,
@@ -176,7 +168,7 @@
     "zh_hant": "而是因為居民腦海中所存在的思想不同。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "This is the point I wish to emphasize.",
     "start": 120.11,
     "end": 123.411,
@@ -184,7 +176,7 @@
     "zh_hant": "這是我想強調的一點。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "The most important factor in our environment is the state of our own minds.",
     "start": 123.732,
     "end": 128.934,
@@ -192,7 +184,7 @@
     "zh_hant": "我們環境中最重要的因素是我們自己的心態。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "It is well known that where the white man has invaded a primitive culture,",
     "start": 130.035,
     "end": 135.257,
@@ -200,7 +192,7 @@
     "zh_hant": "眾所周知，白人入侵原始文化之處，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "the most destructive effects have come not from physical weapons but from ideas.",
     "start": 135.317,
     "end": 141.12,
@@ -208,7 +200,7 @@
     "zh_hant": "最具破壞性的影響並非來自物理武器，而是來自思想。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "are dangerous.",
     "start": 142.241,
     "end": 143.721,
@@ -216,7 +208,7 @@
     "zh_hant": "是危險的。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "The Holy Office knew this full well when it caused heretics to be burned in days gone by.",
     "start": 144.242,
     "end": 150.265,
@@ -224,7 +216,7 @@
     "zh_hant": "宗教法庭對此非常清楚，當年曾將異端燒死。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "Indeed, the concept of free speech only exists",
     "start": 150.905,
     "end": 154.807,
@@ -232,7 +224,7 @@
     "zh_hant": "事實上，言論自由的概念之所以存在，"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "in our modern society because when you are inside a community,",
     "start": 154.457,
     "end": 159.069,
@@ -240,7 +232,7 @@
     "zh_hant": "僅在我們現代社會，因為當你身處一個社群內部時，"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "you are conditioned by the conventions of the community",
     "start": 159.249,
     "end": 162.791,
@@ -248,7 +240,7 @@
     "zh_hant": "你受到社群習俗的制約，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "to such a degree that it is very difficult to conceive of anything really destructive.",
     "start": 162.651,
     "end": 167.974,
@@ -256,7 +248,7 @@
     "zh_hant": "以致於很難設想任何真正具有破壞性的東西。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "It is only someone looking on from outside that can inject the dangerous thoughts.",
     "start": 168.734,
     "end": 174.897,
@@ -264,7 +256,7 @@
     "zh_hant": "只有從外部觀察的人才能注入危險思想。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "I do not doubt that it would be possible",
     "start": 175.878,
     "end": 178.959,
@@ -272,7 +264,7 @@
     "zh_hant": "我毫不懷疑，有可能"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "to inject ideas into the modern world that would utterly destroy us.",
     "start": 178.609,
     "end": 183.321,
@@ -280,7 +272,7 @@
     "zh_hant": "向現代世界注入足以徹底摧毀我們的思想。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "I would like to give you an example, but fortunately I cannot do so.",
     "start": 184.002,
     "end": 188.824,
@@ -288,7 +280,7 @@
     "zh_hant": "我想給你舉個例子，但幸運的是我無法做到。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Perhaps it will suffice to mention the nuclear bomb.",
     "start": 189.404,
     "end": 193.226,
@@ -296,7 +288,7 @@
     "zh_hant": "或許提及核彈就已足夠了。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "Imagine the effect on a reasonably advanced technological society,",
     "start": 193.647,
     "end": 198.169,
@@ -304,7 +296,7 @@
     "zh_hant": "想象一下對一個相當先進的科技社會的影響，"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "one that still does not possess the bomb, of making it aware of the possibility,",
     "start": 198.409,
     "end": 203.351,
@@ -312,7 +304,7 @@
     "zh_hant": "一個尚未擁有核彈的社會，讓它意識到這種可能性，"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "of supplying suffcient details to enable the thing to be constructed.",
     "start": 203.412,
     "end": 208.24,
@@ -320,7 +312,7 @@
     "zh_hant": "提供足夠的細節使該物得以建造。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "20 or 30 pages of information",
     "start": 207.84,
     "end": 211.876,
@@ -328,7 +320,7 @@
     "zh_hant": "二十或三十頁的資訊"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "handed to any of the major world powers around the year 1925,",
     "start": 211.896,
     "end": 217.329,
@@ -336,7 +328,7 @@
     "zh_hant": "在1925年前後交給任何世界大國，"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "would have been sufficient to change the course of world history.",
     "start": 217.379,
     "end": 220.86,
@@ -344,7 +336,7 @@
     "zh_hant": "都足以改變世界歷史的程序。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "It is a strange thought, but I believe a correct one,",
     "start": 221.661,
     "end": 224.962,
@@ -352,7 +344,7 @@
     "zh_hant": "這是一個奇怪的想法，但我相信是正確的："
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "that twenty or thirty pages of ideas and information would be capable",
     "start": 224.982,
     "end": 230.045,
@@ -360,7 +352,7 @@
     "zh_hant": "二十或三十頁的思想和資訊能夠"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "of turning the present-day world upside down,",
     "start": 229.695,
     "end": 232.886,
@@ -368,7 +360,7 @@
     "zh_hant": "把當今世界顛倒過來，"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "or even destroying it.",
     "start": 232.766,
     "end": 234.567,
@@ -376,7 +368,7 @@
     "zh_hant": "甚至摧毀它。"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "I have often tried to conceive of what those pages might contain,",
     "start": 235.327,
     "end": 239.569,
@@ -384,7 +376,7 @@
     "zh_hant": "我常常試圖設想這些頁面可能包含什麼，"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "but of course I cannot do so because I am a prisoner of the present-day world,",
     "start": 239.73,
     "end": 245.395,
@@ -392,7 +384,7 @@
     "zh_hant": "但當然我做不到，因為我是當今世界的囚徒，"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "just as all of you are.",
     "start": 245.435,
     "end": 247.256,
@@ -400,7 +392,7 @@
     "zh_hant": "就像你們所有人一樣。"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "We cannot think outside the particular patterns that our brains are conditioned to,",
     "start": 247.757,
     "end": 253.102,
@@ -408,7 +400,7 @@
     "zh_hant": "我們無法超越大腦所受制約的特定模式去思考，"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "or, to be more accurate we can think only a very little way",
     "start": 253.302,
     "end": 257.986,
@@ -416,7 +408,7 @@
     "zh_hant": "或者更準確地說，我們只能稍微超出一點"
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "outside and then only if we are very original.",
     "start": 257.636,
     "end": 262.25,

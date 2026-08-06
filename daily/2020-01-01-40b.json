@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 79.",
+    "text": "Lesson 79 Carol's shopping list Listen to the tape then answer this question.",
     "start": 0.69,
-    "end": 3.362,
-    "zh": "第79课。",
-    "zh_hant": "第79課。"
+    "end": 11.293,
+    "zh": "第79课 卡罗尔的购物清单 听录音,然后回答这个问题。",
+    "zh_hant": "第79課 卡羅爾的購物清單 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Carol's shopping list.",
-    "start": 3.412,
-    "end": 5.873,
-    "zh": "卡罗尔的购物清单。",
-    "zh_hant": "卡羅爾的購物清單。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.693,
-    "end": 9.515,
-    "zh": "听磁带，然后",
-    "zh_hant": "聽磁帶，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.295,
-    "end": 11.295,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What is Carol not going to buy?",
     "start": 12.216,
     "end": 15.998,
@@ -40,7 +16,7 @@
     "zh_hant": "卡羅爾不打算買什麼？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "What are you doing, Carol?",
     "start": 17.939,
     "end": 20.42,
@@ -48,7 +24,7 @@
     "zh_hant": "你在幹什麼，卡羅爾？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "I'm making a shopping list, Tom.",
     "start": 21.821,
     "end": 25.443,
@@ -56,7 +32,7 @@
     "zh_hant": "我在列購物清單，湯姆。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "What do we need?",
     "start": 26.443,
     "end": 28.304,
@@ -64,7 +40,7 @@
     "zh_hant": "我們需要什麼？"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "We need a lot of things this week.",
     "start": 29.525,
     "end": 33.166,
@@ -72,7 +48,7 @@
     "zh_hant": "這周我們需要很多東西。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "I must go to the grocer's.",
     "start": 33.767,
     "end": 36.728,
@@ -80,7 +56,7 @@
     "zh_hant": "我得去食品雜貨店。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "We haven't got much tea or coffee,",
     "start": 37.189,
     "end": 40.791,
@@ -88,7 +64,7 @@
     "zh_hant": "我們的茶和咖啡不多了，"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "and we haven't got any sugar or jam.",
     "start": 41.211,
     "end": 45.093,
@@ -96,7 +72,7 @@
     "zh_hant": "而且也沒有糖和果醬了。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "What about vegetables?",
     "start": 46.574,
     "end": 48.915,
@@ -104,7 +80,7 @@
     "zh_hant": "蔬菜呢？"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "I must go to the greengroce's.",
     "start": 49.515,
     "end": 52.977,
@@ -112,7 +88,7 @@
     "zh_hant": "我得去蔬菜水果店。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "We haven't got many tomatoes,",
     "start": 53.477,
     "end": 56.698,
@@ -120,7 +96,7 @@
     "zh_hant": "我們的西紅柿不多了，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "but we've got a lot of potatoes.",
     "start": 56.919,
     "end": 60.64,
@@ -128,7 +104,7 @@
     "zh_hant": "但土豆還有很多。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "I must go to the butcher's, too.",
     "start": 61.621,
     "end": 64.702,
@@ -136,7 +112,7 @@
     "zh_hant": "我還得去肉店。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "We need some meat.",
     "start": 65.423,
     "end": 67.704,
@@ -144,7 +120,7 @@
     "zh_hant": "我們需要一些肉。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "We haven't got any meat at all.",
     "start": 68.184,
     "end": 71.766,
@@ -152,7 +128,7 @@
     "zh_hant": "我們一點肉都沒有了。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Have we got any beer and wine?",
     "start": 73.307,
     "end": 76.888,
@@ -160,7 +136,7 @@
     "zh_hant": "我們有啤酒和葡萄酒嗎？"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "No, we haven't.",
     "start": 77.329,
     "end": 79.67,
@@ -168,7 +144,7 @@
     "zh_hant": "沒有，我們沒有。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "And I'm not going to get any!",
     "start": 79.731,
     "end": 82.815,
@@ -176,7 +152,7 @@
     "zh_hant": "而且我不打算買任何酒！"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "I hope that you've got some money.",
     "start": 83.777,
     "end": 86.44,
@@ -184,7 +160,7 @@
     "zh_hant": "我希望你有一些錢。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "I haven't got much.",
     "start": 87.262,
     "end": 89.324,
@@ -192,7 +168,7 @@
     "zh_hant": "我的錢不多。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Well, I haven't got much either!",
     "start": 89.525,
     "end": 93.23,

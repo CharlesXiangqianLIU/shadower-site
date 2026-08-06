@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 137.",
+    "text": "Lesson 137 A pleasant dream Listen to the tape then answer this question.",
     "start": 0.77,
-    "end": 3.622,
-    "zh": "第137课。",
-    "zh_hant": "第137課。"
+    "end": 10.812,
+    "zh": "第137课 一个愉快的梦 听录音，然后回答这个问题。",
+    "zh_hant": "第137課 一個愉快的夢 聽錄音，然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "A pleasant dream.",
-    "start": 3.672,
-    "end": 5.473,
-    "zh": "一个美妙的梦。",
-    "zh_hant": "一個美妙的夢。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.453,
-    "end": 10.815,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "What would Julie like to do, if",
     "start": 11.676,
     "end": 15.317,
@@ -32,7 +16,7 @@
     "zh_hant": "如果朱莉有錢，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "she had the money?",
     "start": 15.018,
     "end": 16.598,
@@ -40,7 +24,7 @@
     "zh_hant": "她想做什麼？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Are you doing the football pools, Brain?",
     "start": 18.939,
     "end": 23.001,
@@ -48,7 +32,7 @@
     "zh_hant": "布萊恩，你在玩足球彩票嗎？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Yes, I've nearly finished, Julie.",
     "start": 23.542,
     "end": 26.583,
@@ -56,7 +40,7 @@
     "zh_hant": "是的，我快填完了，朱莉。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "I'm sure we'll win something this week.",
     "start": 26.943,
     "end": 30.045,
@@ -64,7 +48,7 @@
     "zh_hant": "我肯定這周我們會贏點什麼。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "You always say that,",
     "start": 30.605,
     "end": 33.246,
@@ -72,7 +56,7 @@
     "zh_hant": "你總是這麼說，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "but we never win anything!",
     "start": 33.187,
     "end": 36.228,
@@ -80,7 +64,7 @@
     "zh_hant": "可我們什麼也沒贏過！"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "What will you do if you win a lot of money?",
     "start": 36.788,
     "end": 40.871,
@@ -88,7 +72,7 @@
     "zh_hant": "如果你贏了很多錢，你會做什麼？"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "If I win a lot of money",
     "start": 41.671,
     "end": 44.092,
@@ -96,7 +80,7 @@
     "zh_hant": "如果我贏了很多錢，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "I'll buy you a mink coat.",
     "start": 44.653,
     "end": 47.294,
@@ -104,7 +88,7 @@
     "zh_hant": "我會給你買一件貂皮大衣。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "I don't want a mink coat!",
     "start": 47.974,
     "end": 50.695,
@@ -112,7 +96,7 @@
     "zh_hant": "我不要貂皮大衣！"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "I want to see the world.",
     "start": 51.296,
     "end": 54.097,
@@ -120,7 +104,7 @@
     "zh_hant": "我想去看看世界。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "All right.",
     "start": 54.818,
     "end": 55.898,
@@ -128,7 +112,7 @@
     "zh_hant": "好吧。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "If we win a lot of money",
     "start": 56.499,
     "end": 58.919,
@@ -136,7 +120,7 @@
     "zh_hant": "如果我們贏了很多錢，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "we'll travel round the world",
     "start": 59.14,
     "end": 61.861,
@@ -144,7 +128,7 @@
     "zh_hant": "我們就環遊世界，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "and we'll stay at the best hotels.",
     "start": 61.721,
     "end": 64.902,
@@ -152,7 +136,7 @@
     "zh_hant": "還要住最好的酒店。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Then we'll return home",
     "start": 65.403,
     "end": 67.684,
@@ -160,7 +144,7 @@
     "zh_hant": "然後我們回家，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "and buy a big house in the country.",
     "start": 67.824,
     "end": 71.346,
@@ -168,7 +152,7 @@
     "zh_hant": "在鄉下買一棟大房子。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "We'll have a beautiful garden and...",
     "start": 71.866,
     "end": 75.628,
@@ -176,7 +160,7 @@
     "zh_hant": "我們會有漂亮的花園，還有……"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "But if we spend all that money",
     "start": 75.768,
     "end": 79.049,
@@ -184,7 +168,7 @@
     "zh_hant": "但如果我們花光了所有的錢，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "we'll be poor again.",
     "start": 79.05,
     "end": 81.332,
@@ -192,7 +176,7 @@
     "zh_hant": "我們又會變窮。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "What'll we do then?",
     "start": 81.753,
     "end": 84.175,
@@ -200,7 +184,7 @@
     "zh_hant": "那到時候我們怎麼辦？"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "If we spend all the money",
     "start": 85.257,
     "end": 87.699,
@@ -208,7 +192,7 @@
     "zh_hant": "如果我們花光了所有的錢，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "we'll try and win the football pools again.",
     "start": 87.939,
     "end": 91.522,
@@ -216,7 +200,7 @@
     "zh_hant": "我們再去試著贏足球彩票。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "It's a pleasant dream",
     "start": 92.264,
     "end": 94.325,
@@ -224,7 +208,7 @@
     "zh_hant": "這真是一個美妙的夢，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "but everything depends on 'if' !",
     "start": 94.546,
     "end": 98.35,

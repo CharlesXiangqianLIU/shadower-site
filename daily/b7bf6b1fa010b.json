@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 22.",
-    "start": 1.491,
-    "end": 3.241,
-    "zh": "第22课。",
-    "zh_hant": "第22課。"
+    "text": "Lesson 22 Knowledge and progress",
+    "start": 2.4499999999999997,
+    "end": 8.541,
+    "zh": "第22课 知识与进步",
+    "zh_hant": "第22課 知識與進步"
   },
   {
     "index": 1,
-    "text": "Knowledge and progress.",
-    "start": 3.291,
-    "end": 8.894,
-    "zh": "知识与进步。",
-    "zh_hant": "知識與進步。"
+    "text": "In what two areas have people made no 'progress' at all?",
+    "start": 11.261,
+    "end": 15.001,
+    "zh": "在哪两个方面人类完全没有取得任何'进步'？",
+    "zh_hant": "在哪兩個方面人類完全沒有取得任何'進步'？"
   },
   {
     "index": 2,
-    "text": "In what two areas",
-    "start": 8.544,
-    "end": 12.916,
-    "zh": "在哪两个方面",
-    "zh_hant": "在哪兩個方面"
-  },
-  {
-    "index": 3,
-    "text": "have people made no 'progress' at all?",
-    "start": 12.716,
-    "end": 15.357,
-    "zh": "人们完全没有‘进步’？",
-    "zh_hant": "人們完全沒有‘進步’？"
-  },
-  {
-    "index": 4,
     "text": "Why does the idea of progress loom so large in the modern world?",
     "start": 17.738,
     "end": 22.781,
@@ -40,7 +24,7 @@
     "zh_hant": "為什麼進步的想法在現代世界中如此突出？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Surely because progress of a particular kind is actually taking place around us",
     "start": 23.601,
     "end": 28.884,
@@ -48,7 +32,7 @@
     "zh_hant": "無疑是因為某種特定的進步確實在我們周圍發生"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "and is becoming more and more manifest.",
     "start": 28.764,
     "end": 31.625,
@@ -56,7 +40,7 @@
     "zh_hant": "並且變得越來越明顯。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Although mankind has undergone no general improvement in intelligence or morality,",
     "start": 32.606,
     "end": 38.108,
@@ -64,7 +48,7 @@
     "zh_hant": "儘管人類在智力或道德上沒有普遍提高，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "it has made extraordinary progress in the accumulation of knowledge.",
     "start": 38.429,
     "end": 44.692,
@@ -72,7 +56,7 @@
     "zh_hant": "但在知識的積累上卻取得了非凡的進步。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "began to increase as soon as the thoughts of one individual",
     "start": 44.492,
     "end": 48.234,
@@ -80,7 +64,7 @@
     "zh_hant": "當一個人的思想"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "could be communicated to another by means of speech.",
     "start": 48.014,
     "end": 51.495,
@@ -88,7 +72,7 @@
     "zh_hant": "能透過語言傳達給另一個人時，知識就開始增長了。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "With the invention of writing, a great advance was made,",
     "start": 52.376,
     "end": 56.018,
@@ -96,7 +80,7 @@
     "zh_hant": "隨著文字的發明，取得了巨大進步，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "for knowledge could then be not only communicated but also stored.",
     "start": 56.198,
     "end": 61.4,
@@ -104,7 +88,7 @@
     "zh_hant": "因為知識那時不僅能被傳達，還能被儲存。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Libraries made education possible, and education in its turn",
     "start": 62.241,
     "end": 67.383,
@@ -112,7 +96,7 @@
     "zh_hant": "圖書館使教育成為可能，而教育反過來"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "added to libraries:",
     "start": 67.323,
     "end": 68.904,
@@ -120,7 +104,7 @@
     "zh_hant": "又豐富了圖書館："
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "the growth of knowledge followed a kind of compound interest law,",
     "start": 69.364,
     "end": 73.366,
@@ -128,7 +112,7 @@
     "zh_hant": "知識的增長遵循了一種複利法則，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "which was greatly enhanced by the invention of printing.",
     "start": 73.546,
     "end": 77.188,
@@ -136,7 +120,7 @@
     "zh_hant": "而印刷術的發明大大加速了這一過程。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "All this was comparatively slow until, with the coming of science,",
     "start": 78.249,
     "end": 82.491,
@@ -144,7 +128,7 @@
     "zh_hant": "這一切在科學到來之前相對緩慢，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "the tempo was suddenly raised.",
     "start": 82.431,
     "end": 85.232,
@@ -152,7 +136,7 @@
     "zh_hant": "隨後速度突然加快。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Then knowledge began to be accumulated according to a systematic plan.",
     "start": 86.013,
     "end": 90.915,
@@ -160,7 +144,7 @@
     "zh_hant": "於是知識開始按系統計劃積累。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "The trickle became a stream: the stream has now become a torrent.",
     "start": 91.816,
     "end": 96.718,
@@ -168,7 +152,7 @@
     "zh_hant": "涓涓細流變成了小溪，小溪如今已變成洪流。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Moreover, as soon as new knowledge is acquired, it is now turned to practical account.",
     "start": 97.299,
     "end": 103.281,
@@ -176,7 +160,7 @@
     "zh_hant": "此外，新知識一旦獲得，現在就會被用於實際應用。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "What is called 'modern civilization' is not the result",
     "start": 104.142,
     "end": 108.444,
@@ -184,7 +168,7 @@
     "zh_hant": "所謂的‘現代文明’並非"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "of a balanced development of all man's nature,",
     "start": 108.094,
     "end": 111.025,
@@ -192,7 +176,7 @@
     "zh_hant": "人類本性全面平衡發展的結果，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "but of accumulated knowledge applied to practical life.",
     "start": 111.165,
     "end": 115.287,
@@ -200,7 +184,7 @@
     "zh_hant": "而是應用於實際生活的積累知識的結果。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The problem now facing humanity is: What is going to be done with all this knowledge?",
     "start": 116.228,
     "end": 121.591,
@@ -208,7 +192,7 @@
     "zh_hant": "人類現在面臨的問題是：這些知識將被用來做什麼？"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "As is so often pointed out, knowledge is a two-edged weapon",
     "start": 121.951,
     "end": 126.294,
@@ -216,7 +200,7 @@
     "zh_hant": "正如人們常指出的，知識是一把雙刃劍，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "which can be used equally for good or evil.",
     "start": 126.434,
     "end": 129.376,
@@ -224,7 +208,7 @@
     "zh_hant": "既可以用於行善，也可以用於作惡。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "It is now being used indifferently for both.",
     "start": 130.116,
     "end": 133.138,
@@ -232,7 +216,7 @@
     "zh_hant": "現在它正被不加區分地用於兩者。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Could any spectacle, for instance, be more grimly whimsical",
     "start": 133.798,
     "end": 137.7,
@@ -240,7 +224,7 @@
     "zh_hant": "例如，還有什麼景象比"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "than that of gunners using science to shatter men's bodies while, close at hand,",
     "start": 137.561,
     "end": 142.964,
@@ -248,7 +232,7 @@
     "zh_hant": "炮手用科學摧毀人體，而近在咫尺，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "surgeons use it to restore them?",
     "start": 142.844,
     "end": 144.785,
@@ -256,7 +240,7 @@
     "zh_hant": "外科醫生卻用科學來修復它們更令人毛骨悚然的荒謬？"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "We have to ask ourselves very seriously what will happen if this twofold use of knowledge,",
     "start": 145.285,
     "end": 150.948,
@@ -264,7 +248,7 @@
     "zh_hant": "我們必須認真地問自己，如果這種對知識的雙重運用，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "with its ever-increasing power, continues.",
     "start": 150.769,
     "end": 153.71,

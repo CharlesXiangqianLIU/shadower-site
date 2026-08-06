@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 8.",
-    "start": 0.43,
-    "end": 1.501,
-    "zh": "第八课。",
-    "zh_hant": "第八課。"
+    "text": "Lesson 8 Trading standards What makes trading between rich countries difficult?",
+    "start": 0.44,
+    "end": 10.704,
+    "zh": "Lesson 8 贸易标准 富裕国家之间的贸易为何困难重重?",
+    "zh_hant": "Lesson 8 貿易標準 富裕國家之間的貿易為何困難重重?"
   },
   {
     "index": 1,
-    "text": "Trading standards.",
-    "start": 1.551,
-    "end": 4.412,
-    "zh": "贸易标准。",
-    "zh_hant": "貿易標準。"
-  },
-  {
-    "index": 2,
-    "text": "What makes trading between rich countries difficult?",
-    "start": 7.194,
-    "end": 10.695,
-    "zh": "是什么让富裕国家之间的贸易变得困难？",
-    "zh_hant": "是什麼讓富裕國家之間的貿易變得困難？"
-  },
-  {
-    "index": 3,
     "text": "Chickens slaughtered in the United States, claim officials in Brussels,",
     "start": 13.037,
     "end": 17.779,
@@ -32,7 +16,7 @@
     "zh_hant": "布魯塞爾的官員聲稱，在美國屠宰的雞"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "are not fit to grace European tables.",
     "start": 17.959,
     "end": 21.34,
@@ -40,7 +24,7 @@
     "zh_hant": "不適合登上歐洲的餐桌。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "No, say the Americans: our fowl are fine, we simply clean them in a different way.",
     "start": 22.041,
     "end": 28.404,
@@ -48,7 +32,7 @@
     "zh_hant": "美國人說，不對：我們的家禽沒問題，只是清洗方式不同。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "These days, it is differences in national regulations, far more than tariffs,",
     "start": 28.924,
     "end": 34.627,
@@ -56,7 +40,7 @@
     "zh_hant": "如今，國家法規的差異，遠比關稅更"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "that put sand in the wheels of trade between rich countries.",
     "start": 34.567,
     "end": 38.769,
@@ -64,7 +48,7 @@
     "zh_hant": "給富裕國家之間的貿易車輪添堵。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "It is not just farmers who are complaining.",
     "start": 39.31,
     "end": 42.071,
@@ -72,7 +56,7 @@
     "zh_hant": "抱怨的不只是農民。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "An electric razor that meets the European Union's safety standards",
     "start": 42.352,
     "end": 47.114,
@@ -80,7 +64,7 @@
     "zh_hant": "符合歐盟安全標準的電動剃鬚刀"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "must be approved by American testers before it can be sold in the United States,",
     "start": 47.074,
     "end": 52.636,
@@ -88,7 +72,7 @@
     "zh_hant": "在美國銷售前必須獲得美國測試機構的批准，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "and an American-made dialysis machine needs the EU's okay",
     "start": 52.757,
     "end": 57.779,
@@ -96,7 +80,7 @@
     "zh_hant": "而美國製造的透析機需要歐盟的許可"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "before it hits the market in Europe.",
     "start": 57.539,
     "end": 60.1,
@@ -104,7 +88,7 @@
     "zh_hant": "才能進入歐洲市場。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "As it happens, a razor that is safe in Europe is unlikely to electrocute Americans.",
     "start": 61.141,
     "end": 67.164,
@@ -112,7 +96,7 @@
     "zh_hant": "碰巧的是，在歐洲安全的剃鬚刀不太可能讓美國人觸電。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "So, ask businesses on both sides of the Atlantic,",
     "start": 67.604,
     "end": 71.446,
@@ -120,7 +104,7 @@
     "zh_hant": "所以，大西洋兩岸的企業都問，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "why have two lots of tests where one would do?",
     "start": 71.546,
     "end": 75.048,
@@ -128,7 +112,7 @@
     "zh_hant": "既然一次測試就夠，為什麼要做兩套？"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Politicians agree, in principle, so America and the EU have been trying to reach a deal",
     "start": 75.528,
     "end": 81.651,
@@ -136,7 +120,7 @@
     "zh_hant": "政客們原則上同意，因此美國和歐盟一直在試圖達成一項協議"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "which would eliminate the need to double-test many products.",
     "start": 81.391,
     "end": 84.913,
@@ -144,7 +128,7 @@
     "zh_hant": "以消除對許多產品進行雙重測試的需要。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "They hope to finish in time for a trade summit between America and the EU",
     "start": 85.173,
     "end": 90.015,
@@ -152,7 +136,7 @@
     "zh_hant": "他們希望在美歐貿易峰會前及時完成"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "on May 28th.",
     "start": 90.136,
     "end": 91.736,
@@ -160,7 +144,7 @@
     "zh_hant": "會議定於5月28日舉行。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Although negotiators are optimistic,",
     "start": 91.997,
     "end": 94.478,
@@ -168,7 +152,7 @@
     "zh_hant": "儘管談判代表們很樂觀，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "the details are complex enough that they may be hard-pressed to get a deal at all.",
     "start": 94.398,
     "end": 99.58,
@@ -176,7 +160,7 @@
     "zh_hant": "但細節複雜到他們可能很難達成任何協議。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Why?",
     "start": 100.061,
     "end": 100.861,
@@ -184,7 +168,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "One difficulty is to construct the agreements.",
     "start": 101.161,
     "end": 104.282,
@@ -192,7 +176,7 @@
     "zh_hant": "一個困難在於如何構建協議。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "The Americans would happily reach one accord on standards for medical devices",
     "start": 104.603,
     "end": 109.465,
@@ -200,7 +184,7 @@
     "zh_hant": "美國人會樂意就醫療器械標準達成一項協議"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "and then hammer out different pacts covering, say,",
     "start": 109.465,
     "end": 113.087,
@@ -208,7 +192,7 @@
     "zh_hant": "然後再就——比方說——"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "electronic goods and drug manufacturing.",
     "start": 113.147,
     "end": 115.988,
@@ -216,7 +200,7 @@
     "zh_hant": "電子產品及藥品製造敲定不同的協定。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "The EU -- following fine continental traditions -- wants agreement on general principles,",
     "start": 116.349,
     "end": 122.818,
@@ -224,7 +208,7 @@
     "zh_hant": "歐盟——遵循歐洲大陸的優良傳統——希望在總原則上達成一致，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "which could be applied to many types of products and perhaps extended to other countries.",
     "start": 122.679,
     "end": 128.73,

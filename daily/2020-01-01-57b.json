@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 113.",
+    "text": "Lesson 113 Small change Listen to the tape then answer this question.",
     "start": 0.69,
-    "end": 3.842,
-    "zh": "第113课。",
-    "zh_hant": "第113課。"
+    "end": 11.052,
+    "zh": "第113课 零钱 听录音,然后回答这个问题。",
+    "zh_hant": "第113課 零錢 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Small change.",
-    "start": 3.892,
-    "end": 5.573,
-    "zh": "零钱。",
-    "zh_hant": "零錢。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.453,
-    "end": 9.295,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.095,
-    "end": 11.055,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Who has got some small change?",
     "start": 11.956,
     "end": 15.258,
@@ -40,7 +16,7 @@
     "zh_hant": "誰有零錢？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Fares, please!",
     "start": 17.279,
     "end": 18.88,
@@ -48,7 +24,7 @@
     "zh_hant": "請買票！"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Trafalgar Square, please.",
     "start": 19.0,
     "end": 21.401,
@@ -56,7 +32,7 @@
     "zh_hant": "請到特拉法加廣場。"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "I'm sorry, sir.",
     "start": 21.741,
     "end": 23.422,
@@ -64,7 +40,7 @@
     "zh_hant": "對不起，先生。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "I can't change a ten-pound note.",
     "start": 24.263,
     "end": 27.864,
@@ -72,7 +48,7 @@
     "zh_hant": "我找不開十英鎊的鈔票。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Haven't you got any small change?",
     "start": 28.084,
     "end": 31.626,
@@ -80,7 +56,7 @@
     "zh_hant": "您沒有零錢嗎？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "I've got no small change, I am afraid.",
     "start": 32.067,
     "end": 35.768,
@@ -88,7 +64,7 @@
     "zh_hant": "恐怕我沒有零錢。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "I'll ask some of the passengers.",
     "start": 36.649,
     "end": 39.29,
@@ -96,7 +72,7 @@
     "zh_hant": "我去問問其他乘客。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "Have you any small change, sir?",
     "start": 40.14,
     "end": 43.321,
@@ -104,7 +80,7 @@
     "zh_hant": "先生，您有零錢嗎？"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "I'm sorry.",
     "start": 43.701,
     "end": 44.881,
@@ -112,7 +88,7 @@
     "zh_hant": "對不起。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "I've got none.",
     "start": 44.921,
     "end": 46.522,
@@ -120,7 +96,7 @@
     "zh_hant": "我沒有。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "I haven't got any either.",
     "start": 48.162,
     "end": 50.623,
@@ -128,7 +104,7 @@
     "zh_hant": "我也沒有。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Can you change this ten-pound note, madam?",
     "start": 51.703,
     "end": 55.984,
@@ -136,7 +112,7 @@
     "zh_hant": "夫人，您能換開這張十英鎊的鈔票嗎？"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "I'm afraid I can't.",
     "start": 56.904,
     "end": 59.525,
@@ -144,7 +120,7 @@
     "zh_hant": "恐怕我不能。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Neither can I. I'm",
     "start": 60.165,
     "end": 63.726,
@@ -152,7 +128,7 @@
     "zh_hant": "我也不能。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "very sorry, sir.",
     "start": 63.376,
     "end": 65.106,
@@ -160,7 +136,7 @@
     "zh_hant": "非常抱歉，先生。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "You must get off the bus.",
     "start": 65.266,
     "end": 68.027,
@@ -168,7 +144,7 @@
     "zh_hant": "您必須下車。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "None of our passengers",
     "start": 68.587,
     "end": 71.148,
@@ -176,7 +152,7 @@
     "zh_hant": "我們所有的乘客"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "can change this note.",
     "start": 70.808,
     "end": 73.188,
@@ -184,7 +160,7 @@
     "zh_hant": "都換不開這張鈔票。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "They're all millionaires!",
     "start": 73.608,
     "end": 75.989,
@@ -192,7 +168,7 @@
     "zh_hant": "他們都是百萬富翁！"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Except us.",
     "start": 76.429,
     "end": 78.329,
@@ -200,7 +176,7 @@
     "zh_hant": "除了我們。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "I've got some small change.",
     "start": 79.51,
     "end": 82.099,
@@ -208,7 +184,7 @@
     "zh_hant": "我有一些零錢。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "So have I.",
     "start": 82.965,
     "end": 84.549,

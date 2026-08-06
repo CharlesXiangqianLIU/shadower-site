@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 6.",
+    "text": "Lesson 6 Smash-and-grab How did Mr. Taylor try to stop the thieves?",
     "start": 0.47,
-    "end": 2.201,
-    "zh": "第六课。",
-    "zh_hant": "第六課。"
+    "end": 11.991,
+    "zh": "第6课 抢劫式盗窃 泰勒先生是如何试图阻止盗贼的？",
+    "zh_hant": "第6課 搶劫式盜竊 泰勒先生是如何試圖阻止盜賊的？"
   },
   {
     "index": 1,
-    "text": "Smash-and-grab.",
-    "start": 2.251,
-    "end": 7.534,
-    "zh": "砸抢案。",
-    "zh_hant": "砸搶案。"
-  },
-  {
-    "index": 2,
-    "text": "How did Mr. Taylor try to stop the thieves?",
-    "start": 8.634,
-    "end": 11.996,
-    "zh": "泰勒先生是怎么试图阻止盗贼的呢？",
-    "zh_hant": "泰勒先生是怎麼試圖阻止盜賊的呢？"
-  },
-  {
-    "index": 3,
     "text": "The expensive shops in a famous arcade near Piccadilly were just opening.",
     "start": 13.857,
     "end": 19.479,
@@ -32,7 +16,7 @@
     "zh_hant": "皮卡迪利附近一條著名拱廊裡的高檔商店剛剛開門。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "At this time of the morning, the arcade was almost empty.",
     "start": 19.84,
     "end": 23.962,
@@ -40,7 +24,7 @@
     "zh_hant": "早晨這個時候，拱廊裡幾乎空無一人。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Mr. Taylor, the owner of a jewellery shop was admiring a new window display.",
     "start": 24.462,
     "end": 30.325,
@@ -48,7 +32,7 @@
     "zh_hant": "珠寶店店主泰勒先生正在欣賞新的櫥窗陳列。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Two of his assistants had been working busily since 8 o'clock",
     "start": 30.865,
     "end": 35.627,
@@ -56,7 +40,7 @@
     "zh_hant": "他的兩個助手從八點鐘起就一直在忙碌工作，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "and had only just finished.",
     "start": 35.508,
     "end": 37.789,
@@ -64,7 +48,7 @@
     "zh_hant": "才剛剛完成。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Diamond necklaces and rings had been beautifully arranged",
     "start": 38.089,
     "end": 42.611,
@@ -72,7 +56,7 @@
     "zh_hant": "鑽石項鍊和戒指被精心擺放，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "on a background of black velvet.",
     "start": 42.312,
     "end": 44.873,
@@ -80,7 +64,7 @@
     "zh_hant": "背景是黑色天鵝絨。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "After gazing at the display for several minutes, Mr. Taylor went back into his shop.",
     "start": 45.373,
     "end": 51.436,
@@ -88,7 +72,7 @@
     "zh_hant": "泰勒先生盯著陳列看了幾分鐘後，便回到了店裡。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "The silence was suddenly broken when a large car,",
     "start": 52.096,
     "end": 56.118,
@@ -96,7 +80,7 @@
     "zh_hant": "寂靜突然被打破，一輛大汽車，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "with its headlights on and its horn blaring, roared down the arcade.",
     "start": 56.018,
     "end": 61.521,
@@ -104,7 +88,7 @@
     "zh_hant": "亮著車頭燈，喇叭鳴響，轟鳴著駛過拱廊。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "It came to a stop outside the jeweller's.",
     "start": 61.801,
     "end": 64.982,
@@ -112,7 +96,7 @@
     "zh_hant": "它在珠寶店門外停了下來。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "One man stayed at the wheel while two others with black stockings over their faces",
     "start": 65.763,
     "end": 71.686,
@@ -120,7 +104,7 @@
     "zh_hant": "一個人留在方向盤旁，而另外兩個戴黑色長襪遮臉的人"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "jumped out and smashed the window of the shop with iron bars.",
     "start": 71.666,
     "end": 76.348,
@@ -128,7 +112,7 @@
     "zh_hant": "跳出來，用鐵棍砸碎了店鋪的櫥窗。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "While this was going on, Mr. Taylor was upstairs.",
     "start": 76.848,
     "end": 81.031,
@@ -136,7 +120,7 @@
     "zh_hant": "這一切發生時，泰勒先生正在樓上。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "He and his staff began throwing furniture out of the window.",
     "start": 81.351,
     "end": 85.473,
@@ -144,7 +128,7 @@
     "zh_hant": "他和店員們開始從視窗往外扔傢俱。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Chairs and tables went flying into the arcade.",
     "start": 86.193,
     "end": 90.175,
@@ -152,7 +136,7 @@
     "zh_hant": "椅子和桌子飛進了拱廊。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "One of the thieves was struck by a heavy statue, but he was too busy helping",
     "start": 90.656,
     "end": 96.318,
@@ -160,7 +144,7 @@
     "zh_hant": "其中一名盜賊被一座沉重雕像擊中，但他太忙於"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "himself to diamonds to notice any pain.",
     "start": 95.968,
     "end": 99.6,
@@ -168,7 +152,7 @@
     "zh_hant": "搜刮鑽石，而無暇顧及疼痛。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "The raid was all over in three minutes,",
     "start": 100.3,
     "end": 103.302,
@@ -176,7 +160,7 @@
     "zh_hant": "整個搶劫在短短三分鐘內就結束了，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "for the men scrambled back into the car and it moved off at a fantastic speed.",
     "start": 103.202,
     "end": 109.565,
@@ -184,7 +168,7 @@
     "zh_hant": "因為那些人匆忙爬回車裡，以飛快的速度駛離。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Just as it was leaving,",
     "start": 110.105,
     "end": 111.906,
@@ -192,7 +176,7 @@
     "zh_hant": "就在它正要離開時，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Mr.Taylor rushed out and ran after it",
     "start": 111.826,
     "end": 115.408,
@@ -200,7 +184,7 @@
     "zh_hant": "泰勒先生衝出去追趕，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "throwing ashtrays and vases, but it was impossible to stop the thieves.",
     "start": 115.228,
     "end": 120.794,
@@ -208,7 +192,7 @@
     "zh_hant": "扔著菸灰缸和花瓶，但根本無法阻止小偷。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "They had got away with thousands of pounds worth of diamonds.",
     "start": 120.976,
     "end": 125.87,

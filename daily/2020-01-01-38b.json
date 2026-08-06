@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 75.",
-    "start": 0.951,
-    "end": 3.642,
-    "zh": "第75课。",
-    "zh_hant": "第75課。"
+    "text": "Lesson 75 Uncomfortable shoes Listen to the tape then answer this question.",
+    "start": 0.95,
+    "end": 11.511,
+    "zh": "第75课 不舒服的鞋子 听录音,然后回答这个问题。",
+    "zh_hant": "第75課 不舒服的鞋子 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "Uncomfortable shoes.",
-    "start": 3.692,
-    "end": 6.033,
-    "zh": "不舒服的鞋子。",
-    "zh_hant": "不舒服的鞋子。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.994,
-    "end": 9.755,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.555,
-    "end": 11.516,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "What's wrong with the fashionable shoes?",
     "start": 12.416,
     "end": 16.058,
@@ -40,7 +16,7 @@
     "zh_hant": "這雙時髦的鞋子怎麼了？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Do you have any shoes like these?",
     "start": 17.959,
     "end": 21.821,
@@ -48,7 +24,7 @@
     "zh_hant": "你有像這樣的鞋子嗎？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "What size?",
     "start": 22.041,
     "end": 23.462,
@@ -56,7 +32,7 @@
     "zh_hant": "什麼尺碼？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "five.",
     "start": 23.642,
     "end": 25.563,
@@ -64,7 +40,7 @@
     "zh_hant": "五。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "What colour?",
     "start": 25.803,
     "end": 27.063,
@@ -72,7 +48,7 @@
     "zh_hant": "什麼顏色？"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Black.",
     "start": 27.304,
     "end": 28.344,
@@ -80,7 +56,7 @@
     "zh_hant": "黑色。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "I'm sorry.",
     "start": 28.965,
     "end": 30.245,
@@ -88,7 +64,7 @@
     "zh_hant": "很抱歉。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "We don't have any.",
     "start": 30.165,
     "end": 32.146,
@@ -96,7 +72,7 @@
     "zh_hant": "我們沒有。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "But my sister bought this pair last month.",
     "start": 32.807,
     "end": 37.069,
@@ -104,7 +80,7 @@
     "zh_hant": "但我姐姐上個月買了這雙。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Did she buy them here?",
     "start": 37.449,
     "end": 39.71,
@@ -112,7 +88,7 @@
     "zh_hant": "她是在這裡買的嗎？"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "No, she bought them in the U. S.",
     "start": 39.99,
     "end": 43.752,
@@ -120,7 +96,7 @@
     "zh_hant": "不，她是在美國買的。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "We had some shoes like those a month ago,",
     "start": 44.293,
     "end": 48.274,
@@ -128,7 +104,7 @@
     "zh_hant": "一個月前我們有像那樣的鞋子，"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "but we don't have any now.",
     "start": 48.595,
     "end": 51.536,
@@ -136,7 +112,7 @@
     "zh_hant": "但現在沒有了。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Can you get a pair for me, please?",
     "start": 51.776,
     "end": 55.378,
@@ -144,7 +120,7 @@
     "zh_hant": "你能幫我弄一雙嗎？"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "I'm afraid that I can't.",
     "start": 55.598,
     "end": 58.119,
@@ -152,7 +128,7 @@
     "zh_hant": "恐怕不行。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "They were in fashion last year",
     "start": 58.52,
     "end": 61.401,
@@ -160,7 +136,7 @@
     "zh_hant": "去年它們很流行，"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "and the year before last.",
     "start": 61.541,
     "end": 64.002,
@@ -168,7 +144,7 @@
     "zh_hant": "前年也是。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "But they're not in fashion this year.",
     "start": 64.102,
     "end": 67.784,
@@ -176,7 +152,7 @@
     "zh_hant": "但今年它們不流行了。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "These shoes are in fashion now.",
     "start": 69.065,
     "end": 72.106,
@@ -184,7 +160,7 @@
     "zh_hant": "現在流行的是這些鞋子。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "They look very uncomfortable.",
     "start": 73.027,
     "end": 76.288,
@@ -192,7 +168,7 @@
     "zh_hant": "它們看起來很不舒服。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "They are very uncomfortable.",
     "start": 76.408,
     "end": 79.389,
@@ -200,7 +176,7 @@
     "zh_hant": "它們確實很不舒服。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "But women always wear uncomfortable shoes!",
     "start": 79.41,
     "end": 83.869,

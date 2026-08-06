@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 40.",
-    "start": 4.752,
-    "end": 4.01,
-    "zh": "第40课。",
-    "zh_hant": "第40課。"
+    "text": "Lesson 40",
+    "start": 0.39,
+    "end": 1.955,
+    "zh": "第40课",
+    "zh_hant": "第40課"
   },
   {
     "index": 1,
-    "text": "Waves What false impression does an ocean wave",
-    "start": 6.333,
-    "end": 11.976,
-    "zh": "海浪 海洋波浪会给观察者",
-    "zh_hant": "海浪 海洋波浪會給觀察者"
+    "text": "Waves What false impression does an ocean wave convey to the observer?",
+    "start": 6.935,
+    "end": 13.44,
+    "zh": "海浪给观察者带来了怎样一种错误的印象?",
+    "zh_hant": "海浪給觀察者帶來了怎樣一種錯誤的印象?"
   },
   {
     "index": 2,
-    "text": "convey to the observer?",
-    "start": 11.626,
-    "end": 13.437,
-    "zh": "留下什么错误印象？",
-    "zh_hant": "留下什麼錯誤印象？"
-  },
-  {
-    "index": 3,
     "text": "Waves are the children of the struggle between ocean and atmosphere,",
     "start": 15.358,
     "end": 19.54,
@@ -32,7 +24,7 @@
     "zh_hant": "波浪是海洋與大氣之間鬥爭的產物，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "the ongoing signatures of infinity.",
     "start": 19.72,
     "end": 22.501,
@@ -40,7 +32,7 @@
     "zh_hant": "是無限持續存在的印記。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Rays from the sun excite and energize the atmosphere of the earth,",
     "start": 23.202,
     "end": 27.944,
@@ -48,7 +40,7 @@
     "zh_hant": "太陽光線激發並賦予地球大氣能量，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "awakening it to flow, to movement, to rhythm, to life.",
     "start": 28.144,
     "end": 33.006,
@@ -56,7 +48,7 @@
     "zh_hant": "喚醒它流動、運動、節奏與生命。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "The wind then speaks the message of the sun to the sea",
     "start": 33.227,
     "end": 36.908,
@@ -64,7 +56,7 @@
     "zh_hant": "風便將太陽的資訊傳遞給大海，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "and the sea transmits it on through waves--an",
     "start": 37.109,
     "end": 41.451,
@@ -72,7 +64,7 @@
     "zh_hant": "大海再透過波浪將其傳遞——一個"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "ancient, exquisite powerful message.",
     "start": 41.211,
     "end": 44.893,
@@ -80,7 +72,7 @@
     "zh_hant": "古老、精緻而有力的資訊。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "These ocean waves are among the earth's most complicated natural phenomena.",
     "start": 45.453,
     "end": 50.295,
@@ -88,7 +80,7 @@
     "zh_hant": "這些海洋波浪是地球上最複雜的自然現象之一。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "The basic features include",
     "start": 51.356,
     "end": 53.337,
@@ -96,7 +88,7 @@
     "zh_hant": "基本特徵包括"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "a crest (the highest point of the wave), a trough (the lowest point),",
     "start": 52.987,
     "end": 58.619,
@@ -104,7 +96,7 @@
     "zh_hant": "波峰（波浪最高點）、波谷（最低點），"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "a height (the vertical distance from the trough to the crest),",
     "start": 58.84,
     "end": 63.382,
@@ -112,7 +104,7 @@
     "zh_hant": "波高（從波谷到波峰的垂直距離），"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "a wave length (the horizontal distance between two wave crests),",
     "start": 63.602,
     "end": 68.864,
@@ -120,7 +112,7 @@
     "zh_hant": "波長（兩個波峰之間的水平距離），"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "and a period (which is the time it takes awave crest to travel one wave length).",
     "start": 68.965,
     "end": 75.408,
@@ -128,7 +120,7 @@
     "zh_hant": "以及週期（即波峰移動一個波長所需的時間）。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Although an ocean wave gives the impression of a wall of water moving in your direction,",
     "start": 76.168,
     "end": 82.171,
@@ -136,7 +128,7 @@
     "zh_hant": "儘管海洋波浪給人一種水牆朝你方向移動的印象，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "in actuality waves move through the water leaving the water about where it was.",
     "start": 82.432,
     "end": 88.835,
@@ -144,7 +136,7 @@
     "zh_hant": "但實際上波浪穿過水體，水本身大致停留在原處。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "If the water was moving with the wave,",
     "start": 89.295,
     "end": 91.896,
@@ -152,7 +144,7 @@
     "zh_hant": "如果水隨波浪移動，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "the ocean and everything on it would be racing in to the shore",
     "start": 92.017,
     "end": 96.218,
@@ -160,7 +152,7 @@
     "zh_hant": "海洋及其上的一切會衝向岸邊，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "with obviously catastrophic results.",
     "start": 96.199,
     "end": 99.4,
@@ -168,7 +160,7 @@
     "zh_hant": "結果顯然是災難性的。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "An ocean wave passing through deep water",
     "start": 100.001,
     "end": 103.182,
@@ -176,7 +168,7 @@
     "zh_hant": "穿過深水的海洋波浪"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "causes a particle on the surface to move in a roughly circular orbit,",
     "start": 103.142,
     "end": 108.364,
@@ -184,7 +176,7 @@
     "zh_hant": "會使表面上的一個質點大致沿圓形軌道運動，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "drawing the particle first towards the advancing wave, then up into the wave,",
     "start": 108.385,
     "end": 114.467,
@@ -192,7 +184,7 @@
     "zh_hant": "先將質點拉向迎面而來的波浪，然後帶入波內向上，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "then forward with it and then--as",
     "start": 114.448,
     "end": 117.729,
@@ -200,7 +192,7 @@
     "zh_hant": "再隨著波浪向前，然後——當"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "the wave leaves the particles behind--back to its starting point again.",
     "start": 117.379,
     "end": 122.152,
@@ -208,7 +200,7 @@
     "zh_hant": "波浪把質點拋在身後時——又回到起點。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "From both maturity to death, a wave is subject to the same laws as any other 'living' thing.",
     "start": 123.233,
     "end": 129.716,
@@ -216,7 +208,7 @@
     "zh_hant": "從成熟到消亡，波浪與其他任何“有生命”的事物都遵循相同的規律。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "For a time it assumes a miraculous individuality",
     "start": 130.076,
     "end": 134.018,
@@ -224,7 +216,7 @@
     "zh_hant": "一段時間內，它展現出神奇的獨特性，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "that, in the end, is reabsorbed into the great ocean of life.",
     "start": 133.668,
     "end": 138.68,
@@ -232,7 +224,7 @@
     "zh_hant": "最終又被重新吸收進浩大的生命海洋中。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "The undulating waves of the open sea are generated by three natural causes:",
     "start": 139.0,
     "end": 145.023,
@@ -240,7 +232,7 @@
     "zh_hant": "公海中起伏的波浪由三種自然原因生成："
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "wind, earth movements or tremors, and the gravitational pull of the moon and the sun.",
     "start": 145.223,
     "end": 151.506,
@@ -248,7 +240,7 @@
     "zh_hant": "風、地球運動或震動，以及月球和太陽的引力。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Once waves have been generated,",
     "start": 151.987,
     "end": 153.968,
@@ -256,7 +248,7 @@
     "zh_hant": "一旦波浪生成，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "gravity is the force that drives them in a continual attempt to restore",
     "start": 154.048,
     "end": 159.497,
@@ -264,7 +256,7 @@
     "zh_hant": "重力便是驅動它們的力，不斷試圖恢復"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "the ocean surface to a flat plain.",
     "start": 159.147,
     "end": 162.169,

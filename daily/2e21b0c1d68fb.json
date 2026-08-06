@@ -1,38 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 38.",
-    "start": 1.51,
-    "end": 3.401,
-    "zh": "第38课。",
-    "zh_hant": "第38課。"
+    "text": "Lesson 38",
+    "start": 6.34,
+    "end": 6.74,
+    "zh": "第38课",
+    "zh_hant": "第38課"
   },
   {
     "index": 1,
-    "text": "The first calendar.",
-    "start": 3.451,
-    "end": 9.054,
-    "zh": "最早的日历。",
-    "zh_hant": "最早的日曆。"
+    "text": "The first calendar",
+    "start": 6.82,
+    "end": 9.68,
+    "zh": "第一部日历",
+    "zh_hant": "第一部日曆"
   },
   {
     "index": 2,
-    "text": "What is the importance of the dots, lines, and symbols engraved on stone,",
-    "start": 12.216,
-    "end": 17.838,
-    "zh": "刻在石头、骨头和象牙上的点、线和符号有什么重要性？",
-    "zh_hant": "刻在石頭、骨頭和象牙上的點、線和符號有什麼重要性？"
+    "text": "What is the importance of the dots, lines, and symbols engraved on stone, bones and ivory?",
+    "start": 12.241,
+    "end": 19.381,
+    "zh": "刻在石头、骨头和象牙上的点、线和符号有什么重要意义？",
+    "zh_hant": "刻在石頭、骨頭和象牙上的點、線和符號有什麼重要意義？"
   },
   {
     "index": 3,
-    "text": "bones and ivory?",
-    "start": 17.918,
-    "end": 19.739,
-    "zh": "骨头和象牙上？",
-    "zh_hant": "骨頭和象牙上？"
-  },
-  {
-    "index": 4,
     "text": "Future historians will be in a unique position when they come to record the history",
     "start": 22.04,
     "end": 27.223,
@@ -40,7 +32,7 @@
     "zh_hant": "未來的歷史學家在記錄我們時代的歷史時，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "of our own times.",
     "start": 27.063,
     "end": 28.743,
@@ -48,7 +40,7 @@
     "zh_hant": "將處於一個獨特的位置。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "They will hardly know which facts to select from the great mass of evidence",
     "start": 29.604,
     "end": 34.386,
@@ -56,7 +48,7 @@
     "zh_hant": "他們幾乎不知道該從大量不斷積累的證據中選擇哪些事實。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "that steadily accumulates.",
     "start": 34.226,
     "end": 36.187,
@@ -64,7 +56,7 @@
     "zh_hant": "這些證據在穩步積累。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "What is more, they will not have to rely solely on the written word.",
     "start": 37.228,
     "end": 41.81,
@@ -72,7 +64,7 @@
     "zh_hant": "而且，他們將不必僅僅依賴文字。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Films, videos, CDs and CD-ROMs",
     "start": 42.25,
     "end": 46.932,
@@ -80,7 +72,7 @@
     "zh_hant": "電影、錄影、CD和CD-ROM"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "are just some of the bewildering amount of information they will have.",
     "start": 46.832,
     "end": 50.714,
@@ -88,7 +80,7 @@
     "zh_hant": "只是他們將要獲得的令人眼花繚亂的大量資訊中的一部分。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "They will be able, as it were, to see and hear us in action.",
     "start": 50.854,
     "end": 55.236,
@@ -96,7 +88,7 @@
     "zh_hant": "他們可以說能夠看到和聽到我們行動中的樣子。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "But the historian attempting to reconstruct the distant past",
     "start": 55.537,
     "end": 59.839,
@@ -104,7 +96,7 @@
     "zh_hant": "但是試圖重建遙遠過去的歷史學家"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "is always faced with a difficult task.",
     "start": 59.779,
     "end": 62.62,
@@ -112,7 +104,7 @@
     "zh_hant": "總是面臨艱鉅的任務。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "He has to deduce what he can from the few scanty clues available.",
     "start": 63.16,
     "end": 67.702,
@@ -120,7 +112,7 @@
     "zh_hant": "他必須從僅有的少量線索中推斷出他能得到的資訊。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Even seemingly insignificant remains can shed interesting light on the history of early man.",
     "start": 68.563,
     "end": 74.646,
@@ -128,7 +120,7 @@
     "zh_hant": "即使是看似微不足道的遺物也能為早期人類的歷史提供有趣的見解。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Up to now, historians have assumed that calendars",
     "start": 75.446,
     "end": 79.028,
@@ -136,7 +128,7 @@
     "zh_hant": "迄今為止，歷史學家一直認為日曆"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "came into being with the advent of agriculture,",
     "start": 78.928,
     "end": 82.25,
@@ -144,7 +136,7 @@
     "zh_hant": "是隨著農業的出現而產生的，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "for then man was faced with a real need to understand something about the seasons.",
     "start": 82.21,
     "end": 87.613,
@@ -152,7 +144,7 @@
     "zh_hant": "因為那時人類真正需要了解一些關於季節的知識。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Recent scientific evidence seems to indicate that this assumption is incorrect.",
     "start": 88.073,
     "end": 93.636,
@@ -160,7 +152,7 @@
     "zh_hant": "最近的科學證據似乎表明這種假設是不正確的。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Historians have long been puzzled by dots, lines and symbols",
     "start": 94.396,
     "end": 99.639,
@@ -168,7 +160,7 @@
     "zh_hant": "歷史學家長期以來一直對刻在牆壁、骨頭和猛獁象象牙上的點、線和符號感到困惑。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "which have been engraved on walls, bones, and the ivory tusks of mammoths.",
     "start": 99.499,
     "end": 105.261,
@@ -176,7 +168,7 @@
     "zh_hant": "這些標記刻在牆壁、骨頭和猛獁象象牙上。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "The nomads who made these markings lived by hunting and fishing during the last Ice Age",
     "start": 105.662,
     "end": 111.664,
@@ -184,7 +176,7 @@
     "zh_hant": "製作這些標記的遊牧民族在最後一個冰河時期靠狩獵和捕魚為生，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "which began about 35, 000 B.C. and ended",
     "start": 111.645,
     "end": 116.547,
@@ -192,7 +184,7 @@
     "zh_hant": "這個時期大約始於公元前35,000年，結束於"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "about 10, 000 B.C. By correlating markings",
     "start": 116.307,
     "end": 120.849,
@@ -200,7 +192,7 @@
     "zh_hant": "公元前10,000年左右。透過關聯這些標記"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "made in various parts of the world,",
     "start": 120.499,
     "end": 122.81,
@@ -208,7 +200,7 @@
     "zh_hant": "在世界各地發現的標記，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "historians have been able to read this difficult code.",
     "start": 122.89,
     "end": 126.792,
@@ -216,7 +208,7 @@
     "zh_hant": "歷史學家已經能夠解讀這種困難的程式碼。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "They have found that it is connected with the passage of days and the phases of the moon.",
     "start": 127.092,
     "end": 132.835,
@@ -224,7 +216,7 @@
     "zh_hant": "他們發現這與日子的流逝和月相有關。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "It is, in fact, a primitive type of calendar.",
     "start": 133.215,
     "end": 136.537,
@@ -232,7 +224,7 @@
     "zh_hant": "事實上，這是一種原始型別的日曆。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "It has long been known that the hunting scenes depicted on walls",
     "start": 137.438,
     "end": 141.98,
@@ -240,7 +232,7 @@
     "zh_hant": "人們早就知道牆壁上描繪的狩獵場景"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "were not simply a form of artistic expression.",
     "start": 141.9,
     "end": 144.941,
@@ -248,7 +240,7 @@
     "zh_hant": "不僅僅是藝術表達的一種形式。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "They had a definite meaning, for they were as near as early man could get to writing.",
     "start": 145.141,
     "end": 150.984,
@@ -256,7 +248,7 @@
     "zh_hant": "它們有明確的含義，因為它們是早期人類最接近文字的東西。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "It is possible that there is a definite relation between these paintings",
     "start": 151.384,
     "end": 156.207,
@@ -264,7 +256,7 @@
     "zh_hant": "這些繪畫與有時伴隨它們的標記之間可能存在明確的聯絡。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "and the markings that sometimes accompany them.",
     "start": 156.107,
     "end": 158.988,
@@ -272,7 +264,7 @@
     "zh_hant": "這些標記有時伴隨繪畫出現。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "It seems that man was making a real effort to understand the seasons",
     "start": 159.388,
     "end": 164.02,
@@ -280,7 +272,7 @@
     "zh_hant": "看來人類在真正努力理解季節，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "20, 000 years earlier than has been supposed.",
     "start": 163.62,
     "end": 168.05,

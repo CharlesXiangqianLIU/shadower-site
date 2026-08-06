@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 13.",
-    "start": 6.373,
-    "end": 4.03,
-    "zh": "第13课。",
-    "zh_hant": "第13課。"
+    "text": "Lesson 13 The search for oil What do oilmen want to achieve as soon as they strike oil?",
+    "start": 6.375,
+    "end": 15.642,
+    "zh": "第13课 石油勘探 石油商一旦找到石油,首先想要做到的是什么?",
+    "zh_hant": "第13課 石油勘探 石油商一旦找到石油,首先想要做到的是什麼?"
   },
   {
     "index": 1,
-    "text": "The search for oil.",
-    "start": 7.214,
-    "end": 9.555,
-    "zh": "寻找石油。",
-    "zh_hant": "尋找石油。"
-  },
-  {
-    "index": 2,
-    "text": "What do oilmen want to achieve as soon as they strike oil?",
-    "start": 10.796,
-    "end": 15.638,
-    "zh": "石油工人一钻到石油，最想实现什么？",
-    "zh_hant": "石油工人一鑽到石油，最想實現什麼？"
-  },
-  {
-    "index": 3,
     "text": "The deepest holes of all are made for oil,",
     "start": 16.959,
     "end": 20.3,
@@ -32,7 +16,7 @@
     "zh_hant": "最深的洞都是為了石油而鑽的，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "and they go down to as much as 25, 000 feet.",
     "start": 20.541,
     "end": 24.983,
@@ -40,7 +24,7 @@
     "zh_hant": "深度可達25,000英尺。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "But we do not need to send man down to get the oil out,",
     "start": 26.063,
     "end": 30.746,
@@ -48,7 +32,7 @@
     "zh_hant": "但石油開採不需要把人送下去，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "as we must with other mineral deposits.",
     "start": 30.706,
     "end": 33.547,
@@ -56,7 +40,7 @@
     "zh_hant": "不像開採其他礦藏那樣。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "The holes are only borings, less than a foot in diameter.",
     "start": 34.308,
     "end": 39.21,
@@ -64,7 +48,7 @@
     "zh_hant": "這些洞只是鑽孔，直徑不到一英尺。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "My particular experience is largely in oil,",
     "start": 40.11,
     "end": 43.532,
@@ -72,7 +56,7 @@
     "zh_hant": "我的特殊經驗主要在石油方面，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and the search for oil has done more to improve deep drilling than any",
     "start": 43.612,
     "end": 49.014,
@@ -80,7 +64,7 @@
     "zh_hant": "對深鑽技術的改進，石油勘探的貢獻比任何"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "other mining activity.",
     "start": 48.935,
     "end": 50.955,
@@ -88,7 +72,7 @@
     "zh_hant": "其他採礦活動都大。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "When it has been decided where we are going to drill,",
     "start": 52.256,
     "end": 55.778,
@@ -96,7 +80,7 @@
     "zh_hant": "一旦確定鑽孔地點，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "we put up at the surface an oil derrick.",
     "start": 55.978,
     "end": 59.239,
@@ -104,7 +88,7 @@
     "zh_hant": "我們就在地表立起一座石油井架。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "It has to be tall because it is like a giant block and tackle and we have to lower",
     "start": 59.78,
     "end": 66.123,
@@ -112,7 +96,7 @@
     "zh_hant": "它必須很高，因為像個巨大的滑輪組，我們要把"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "into the ground and haul out of the ground great lengths of drill pipe",
     "start": 65.783,
     "end": 71.045,
@@ -120,7 +104,7 @@
     "zh_hant": "長長的鑽桿下到地裡，再提上來，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "which are rotated by an engine at the top and are fitted with a cutting bit at the bottom.",
     "start": 71.005,
     "end": 77.128,
@@ -128,7 +112,7 @@
     "zh_hant": "鑽桿頂部由引擎帶動旋轉，底部裝有鑽頭。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "The geologist needs to know what rocks the drill has reached,",
     "start": 77.929,
     "end": 82.371,
@@ -136,7 +120,7 @@
     "zh_hant": "地質學家需要知道鑽頭到達了什麼岩石層，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "so every so often a sample is obtained with a coring bit.",
     "start": 82.672,
     "end": 87.454,
@@ -144,7 +128,7 @@
     "zh_hant": "因此每隔一段時間就用取芯鑽頭取樣。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "It cuts a clean cylinder of rock,",
     "start": 88.054,
     "end": 90.735,
@@ -152,7 +136,7 @@
     "zh_hant": "它能切出一段乾淨的巖芯，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "from which can be seen the strata the drill has been cutting through.",
     "start": 91.156,
     "end": 95.578,
@@ -160,7 +144,7 @@
     "zh_hant": "從上面可以看到鑽頭穿過的地層。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Once we get down to the oil,",
     "start": 96.478,
     "end": 98.539,
@@ -168,7 +152,7 @@
     "zh_hant": "一旦我們鑽到石油，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "it usually flows to the surface because great pressure",
     "start": 98.579,
     "end": 102.641,
@@ -176,7 +160,7 @@
     "zh_hant": "由於巨大的壓力，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "either from gas or water, is pushing it.",
     "start": 102.842,
     "end": 106.183,
@@ -184,7 +168,7 @@
     "zh_hant": "無論是來自氣體還是水，通常會把它推上來。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "This pressure must be under control,",
     "start": 106.944,
     "end": 109.885,
@@ -192,7 +176,7 @@
     "zh_hant": "這種壓力必須得到控制，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "and we control it by means of the mud which we circulate down the drill pipe.",
     "start": 110.205,
     "end": 115.588,
@@ -200,7 +184,7 @@
     "zh_hant": "我們透過在鑽桿中迴圈泥漿來控制它。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "We endeavour to avoid the old, romantic idea of a gusher,",
     "start": 116.168,
     "end": 120.812,
@@ -208,7 +192,7 @@
     "zh_hant": "我們盡力避免那種老式的浪漫噴油井觀念，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "which wastes oil and gas.",
     "start": 121.454,
     "end": 123.758,
@@ -216,7 +200,7 @@
     "zh_hant": "那樣會浪費石油和氣體。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "We want it to stay down the hole until we can lead it off in a controlled manner.",
     "start": 124.3,
     "end": 129.849,

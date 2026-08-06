@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 9.",
-    "start": 1.57,
-    "end": 3.301,
-    "zh": "第九课。",
-    "zh_hant": "第九課。"
+    "text": "Lesson 9 Flying cats",
+    "start": 5.7509999999999994,
+    "end": 8.561,
+    "zh": "第九课:飞翔的猫",
+    "zh_hant": "第九課:飛翔的貓"
   },
   {
     "index": 1,
-    "text": "Flying cats.",
-    "start": 3.351,
-    "end": 8.914,
-    "zh": "飞行的猫。",
-    "zh_hant": "飛行的貓。"
+    "text": "How do cats try to protect themselves when falling from great heights?",
+    "start": 11.642,
+    "end": 16.242,
+    "zh": "猫从高处坠落时是如何自我保护的？",
+    "zh_hant": "貓從高處墜落時是如何自我保護的？"
   },
   {
     "index": 2,
-    "text": "How do cats try to protect themselves when falling from great heights?",
-    "start": 11.615,
-    "end": 16.598,
-    "zh": "猫从高处坠落时，是如何试图保护自己的呢？",
-    "zh_hant": "貓從高處墜落時，是如何試圖保護自己的呢？"
-  },
-  {
-    "index": 3,
     "text": "Cats never fail to fascinate human beings.",
     "start": 18.899,
     "end": 22.26,
@@ -32,7 +24,7 @@
     "zh_hant": "貓總能引起人類的興趣。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "They can be friendly and affectionate towards humans,",
     "start": 22.821,
     "end": 26.142,
@@ -40,7 +32,7 @@
     "zh_hant": "它們對人類可以友好且充滿深情，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "but they lead mysterious lives of their own as well.",
     "start": 26.443,
     "end": 29.804,
@@ -48,7 +40,7 @@
     "zh_hant": "但同時也過著屬於自己的神秘生活。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "They never become submissive like dogs and horses.",
     "start": 30.665,
     "end": 34.046,
@@ -56,7 +48,7 @@
     "zh_hant": "它們從不像狗和馬那樣順從。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "As a result, humans have learned to respect feline independence.",
     "start": 35.007,
     "end": 39.549,
@@ -64,7 +56,7 @@
     "zh_hant": "因此，人類學會了尊重貓的獨立性。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Most cats remain suspicious of humans all their lives.",
     "start": 40.47,
     "end": 44.672,
@@ -72,7 +64,7 @@
     "zh_hant": "大多數貓一生都對人類抱有戒心。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "One of the things that fascinates us most about cats",
     "start": 45.653,
     "end": 48.774,
@@ -80,7 +72,7 @@
     "zh_hant": "最讓我們著迷的一件事"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "is the popular belief that they have nine lives.",
     "start": 48.914,
     "end": 52.776,
@@ -88,7 +80,7 @@
     "zh_hant": "是普遍認為貓有九條命的說法。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Apparently, there is a good deal of truth in this idea.",
     "start": 53.336,
     "end": 56.678,
@@ -96,7 +88,7 @@
     "zh_hant": "顯然，這種說法有很大的真實性。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "A cat's ability to survive falls is based on fact.",
     "start": 57.098,
     "end": 61.06,
@@ -104,7 +96,7 @@
     "zh_hant": "貓從墜落中存活的能力是有事實依據的。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Recently the New York Animal Medical Centre made a study",
     "start": 62.201,
     "end": 66.763,
@@ -112,7 +104,7 @@
     "zh_hant": "最近，紐約動物醫療中心做了一項研究"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "of 132 cats over a period of five months.",
     "start": 66.543,
     "end": 70.805,
@@ -120,7 +112,7 @@
     "zh_hant": "在五個月的時間裡對132只貓進行了觀察。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "All these cats had one experience in common: they had fallen off high buildings,",
     "start": 71.825,
     "end": 77.748,
@@ -128,7 +120,7 @@
     "zh_hant": "這些貓都有一個共同的經歷：它們都曾從高樓墜落，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "yet only eight of them died from shock or injuries.",
     "start": 77.828,
     "end": 81.43,
@@ -136,7 +128,7 @@
     "zh_hant": "但其中只有八隻因休克或受傷而死亡。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Of course, New York is the ideal place for such an interesting study,",
     "start": 81.951,
     "end": 86.513,
@@ -144,7 +136,7 @@
     "zh_hant": "當然，紐約是進行這種有趣研究的理想地點，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "because there is no shortage of tall buildings.",
     "start": 86.793,
     "end": 89.794,
@@ -152,7 +144,7 @@
     "zh_hant": "因為那裡不缺高樓大廈。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "There are plenty of high-rise windowsills to fall from!",
     "start": 90.735,
     "end": 93.957,
@@ -160,7 +152,7 @@
     "zh_hant": "有的是高層的窗臺可供墜落！"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "One cat, Sabrina, fell 32 storeys,",
     "start": 94.897,
     "end": 99.559,
@@ -168,7 +160,7 @@
     "zh_hant": "有一隻名叫薩布麗娜的貓從32層樓上摔下，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "yet only suffered from a broken tooth.",
     "start": 99.7,
     "end": 102.481,
@@ -176,7 +168,7 @@
     "zh_hant": "卻只斷了一顆牙。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
     "start": 102.161,
     "end": 107.243,
@@ -184,7 +176,7 @@
     "zh_hant": "一位醫生說：“貓的行為像訓練有素的傘兵。”"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
     "start": 108.044,
     "end": 113.726,
@@ -192,7 +184,7 @@
     "zh_hant": "似乎貓摔得越遠，越不容易受傷。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
     "start": 114.347,
     "end": 119.389,
@@ -200,7 +192,7 @@
     "zh_hant": "在長距離墜落中，它們能達到每小時60英里甚至更高的速度。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "At high speeds, falling cats have time to relax.",
     "start": 119.93,
     "end": 124.015,
@@ -208,7 +200,7 @@
     "zh_hant": "高速墜落時，貓有時間放鬆。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "They stretch out their legs like flying squirrels.",
     "start": 124.416,
     "end": 127.5,
@@ -216,7 +208,7 @@
     "zh_hant": "它們像飛鼠一樣伸展四肢。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "This increases their air-resistance and reduces the shock of impact when they hit the ground.",
     "start": 128.101,
     "end": 134.39,

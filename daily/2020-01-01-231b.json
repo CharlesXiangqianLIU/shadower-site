@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 3.",
-    "start": 0.41,
-    "end": 2.021,
-    "zh": "第三课。",
-    "zh_hant": "第三課。"
+    "text": "Lesson 3 Matterhorn man",
+    "start": 0.42,
+    "end": 8.606,
+    "zh": "第3课 马特洪峰之人",
+    "zh_hant": "第3課 馬特洪峰之人"
   },
   {
     "index": 1,
-    "text": "Matterhorn man.",
-    "start": 2.071,
-    "end": 7.213,
-    "zh": "马特洪峰人。",
-    "zh_hant": "馬特洪峰人。"
+    "text": "What was the main objective of early mountain climbers?",
+    "start": 9.787,
+    "end": 14.01,
+    "zh": "早期登山者的主要目标是什么？",
+    "zh_hant": "早期登山者的主要目標是什麼？"
   },
   {
     "index": 2,
-    "text": "What was the main",
-    "start": 7.354,
-    "end": 11.375,
-    "zh": "早期登山者的主要",
-    "zh_hant": "早期登山者的主要"
-  },
-  {
-    "index": 3,
-    "text": "objective of early mountain climbers?",
-    "start": 11.036,
-    "end": 13.997,
-    "zh": "目标是什么？",
-    "zh_hant": "目標是什麼？"
-  },
-  {
-    "index": 4,
     "text": "Modern alpinists try to climb mountains by a route",
     "start": 15.298,
     "end": 19.96,
@@ -40,7 +24,7 @@
     "zh_hant": "現代登山者試圖透過一條路線攀登山峰，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "which will give them good sport, and the more difficult it is,",
     "start": 19.61,
     "end": 24.062,
@@ -48,7 +32,7 @@
     "zh_hant": "這條路線能給他們帶來良好的運動體驗，而且越困難，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "the more highly it is regarded.",
     "start": 24.262,
     "end": 26.623,
@@ -56,7 +40,7 @@
     "zh_hant": "就越受重視。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "In the pioneering days however, this was not the case at all.",
     "start": 27.364,
     "end": 32.846,
@@ -64,7 +48,7 @@
     "zh_hant": "然而，在開拓時代，情況完全不是這樣。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "The early climbers were looking for the easiest way to the top",
     "start": 33.627,
     "end": 37.969,
@@ -72,7 +56,7 @@
     "zh_hant": "早期登山者尋找最容易到達山頂的路，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "because the summit was the prize they sought,",
     "start": 38.289,
     "end": 41.531,
@@ -80,7 +64,7 @@
     "zh_hant": "因為山頂是他們追逐的獎品，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "especially if it had never been attained before.",
     "start": 41.871,
     "end": 45.733,
@@ -88,7 +72,7 @@
     "zh_hant": "尤其是如果以前從未有人登頂過。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "It is true that during their explorations they",
     "start": 46.193,
     "end": 49.955,
@@ -96,7 +80,7 @@
     "zh_hant": "誠然，在他們探險期間，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "often faced difficulties and dangers of the most perilous nature,",
     "start": 49.655,
     "end": 54.917,
@@ -104,7 +88,7 @@
     "zh_hant": "常常面臨極其危險的困難和危險，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "equipped in a manner which would make a modern climber shudder at the thought,",
     "start": 55.518,
     "end": 60.48,
@@ -112,7 +96,7 @@
     "zh_hant": "裝備的方式讓現代登山者一想起來就發抖，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "but they did not go out of their way to court such excitement.",
     "start": 61.101,
     "end": 65.282,
@@ -120,7 +104,7 @@
     "zh_hant": "但他們並沒有刻意去追求這種刺激。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "They had a single aim, a solitary goal -- the top!",
     "start": 65.883,
     "end": 71.425,
@@ -128,7 +112,7 @@
     "zh_hant": "他們只有一個目標，一個唯一的目的——山頂！"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "It is hard for us to realize nowadays how difficult it was for the pioneers.",
     "start": 72.546,
     "end": 78.669,
@@ -136,7 +120,7 @@
     "zh_hant": "今天我們很難體會到先驅們當時有多艱難。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Except for one or two places such as Zermatt and Chamonix,",
     "start": 79.19,
     "end": 84.492,
@@ -144,7 +128,7 @@
     "zh_hant": "除了像採爾馬特和夏蒙尼這樣的一兩個地方，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "which had rapidly become popular.",
     "start": 84.633,
     "end": 87.274,
@@ -152,7 +136,7 @@
     "zh_hant": "它們迅速變得受歡迎。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Alpine villages tended to be impoverished settlements",
     "start": 87.714,
     "end": 92.096,
@@ -160,7 +144,7 @@
     "zh_hant": "阿爾卑斯山的村莊往往是貧窮的定居點，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "cut off from civilization by the high mountains.",
     "start": 91.836,
     "end": 95.438,
@@ -168,7 +152,7 @@
     "zh_hant": "被高山與文明隔絕。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Such inns as there were were generally dirty and flea-ridden;",
     "start": 96.378,
     "end": 101.541,
@@ -176,7 +160,7 @@
     "zh_hant": "那裡僅有的客棧通常又髒又滿是跳蚤；"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "the food simply local cheese accompanied",
     "start": 102.001,
     "end": 105.223,
@@ -184,7 +168,7 @@
     "zh_hant": "食物只有當地乳酪，配上"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "by bread often twelve months old, all washed down with coarse wine.",
     "start": 104.873,
     "end": 110.905,
@@ -192,7 +176,7 @@
     "zh_hant": "經常放了一年的麵包，全用粗糙的酒送下。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Often a valley boasted no inn at all,",
     "start": 111.826,
     "end": 114.727,
@@ -200,7 +184,7 @@
     "zh_hant": "常常一個山谷根本沒有客棧，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "and climbers found shelter wherever they could --",
     "start": 115.068,
     "end": 118.68,
@@ -208,7 +192,7 @@
     "zh_hant": "登山者只能隨處找住處——"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "sometimes with the local priest (who was usually as poor as his parishioners),",
     "start": 118.349,
     "end": 124.253,
@@ -216,7 +200,7 @@
     "zh_hant": "有時和當地牧師（通常和他教區的居民一樣窮），"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "sometimes with shepherds or cheese-makers.",
     "start": 124.854,
     "end": 128.016,
@@ -224,7 +208,7 @@
     "zh_hant": "有時和牧羊人或乳酪製作者住在一起。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Invariably the background was the same:dirt and poverty,",
     "start": 128.737,
     "end": 134.02,
@@ -232,7 +216,7 @@
     "zh_hant": "背景總是相同的：骯髒和貧困，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "and very uncomfortable.",
     "start": 134.32,
     "end": 136.421,
@@ -240,7 +224,7 @@
     "zh_hant": "而且非常不舒服。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "For men accustomed to eating seven-course dinners",
     "start": 137.062,
     "end": 141.064,
@@ -248,7 +232,7 @@
     "zh_hant": "對於那些習慣在家吃七道菜晚餐"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "and sleeping between fine linen sheets at home,",
     "start": 140.845,
     "end": 144.427,
@@ -256,7 +240,7 @@
     "zh_hant": "和在精細亞麻床單間睡覺的人來說，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "the change to the Alps must have been very hard indeed.",
     "start": 144.667,
     "end": 149.19,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 52.",
-    "start": 1.51,
-    "end": 3.421,
-    "zh": "第52课。",
-    "zh_hant": "第52課。"
+    "text": "Lesson 52 Mud is mud",
+    "start": 7.516,
+    "end": 9.287,
+    "zh": "第52课 泥就是泥",
+    "zh_hant": "第52課 泥就是泥"
   },
   {
     "index": 1,
-    "text": "Mud is mud.",
-    "start": 3.471,
-    "end": 5.432,
-    "zh": "泥就是泥。",
-    "zh_hant": "泥就是泥。"
+    "text": "Why did Harry decide to give up his little game?",
+    "start": 11.909,
+    "end": 15.372,
+    "zh": "哈里为什么决定放弃他那个小把戏？",
+    "zh_hant": "哈里為什麼決定放棄他那個小把戲？"
   },
   {
     "index": 2,
-    "text": "Why did Harry",
-    "start": 9.094,
-    "end": 13.216,
-    "zh": "为什么哈里",
-    "zh_hant": "為什麼哈里"
-  },
-  {
-    "index": 3,
-    "text": "decide to give up his little game?",
-    "start": 12.866,
-    "end": 15.717,
-    "zh": "决定放弃他的小把戏？",
-    "zh_hant": "決定放棄他的小把戲？"
-  },
-  {
-    "index": 4,
     "text": "My cousin, Harry, keeps a large curiously-shaped bottle on permanent display in his study.",
     "start": 18.079,
     "end": 24.561,
@@ -40,7 +24,7 @@
     "zh_hant": "我的堂兄哈里在他的書房裡一直陳列著一個形狀奇特的大瓶子。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Despite the fact that the bottle is tinted a delicate shade of green,",
     "start": 25.282,
     "end": 29.964,
@@ -48,7 +32,7 @@
     "zh_hant": "儘管瓶子被染成了淡雅的綠色，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "an observant visitor would soon notice",
     "start": 30.144,
     "end": 33.126,
@@ -56,7 +40,7 @@
     "zh_hant": "細心的訪客很快就會注意到"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "that it is filled with what looks like a thick, greyish substance.",
     "start": 33.106,
     "end": 38.288,
@@ -64,7 +48,7 @@
     "zh_hant": "裡面裝的是看起來像濃稠灰白物質的東西。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "If you were to ask Harry what was in the bottle,",
     "start": 38.929,
     "end": 42.151,
@@ -72,7 +56,7 @@
     "zh_hant": "如果你問哈里瓶子裡裝的是什麼，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "he would tell you that it contained perfumed mud.",
     "start": 42.151,
     "end": 46.072,
@@ -80,7 +64,7 @@
     "zh_hant": "他會告訴你裡面裝的是帶香味的泥。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "If you expressed doubt or surprise,",
     "start": 46.853,
     "end": 49.414,
@@ -88,7 +72,7 @@
     "zh_hant": "如果你表示懷疑或驚訝，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "he would immediately invite you to smell it and then to rub some into your skin.",
     "start": 49.334,
     "end": 54.997,
@@ -96,7 +80,7 @@
     "zh_hant": "他會立刻邀請你聞一聞，然後把一些塗在皮膚上。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "The brief experiment would dispel any further doubts she might have.",
     "start": 55.557,
     "end": 59.919,
@@ -104,7 +88,7 @@
     "zh_hant": "這個簡短的實驗會打消她可能有的任何進一步疑慮。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The bottle really does contain perfumed mud.",
     "start": 60.22,
     "end": 64.121,
@@ -112,7 +96,7 @@
     "zh_hant": "瓶子裡確實裝著帶香味的泥。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "How Harry came into the possession of this outlandish stuff makes an interesting story",
     "start": 64.502,
     "end": 70.104,
@@ -120,7 +104,7 @@
     "zh_hant": "哈里是怎麼得到這種古怪東西的，這成了一個有趣的故事，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "which he is fond of relating.",
     "start": 70.265,
     "end": 72.365,
@@ -128,7 +112,7 @@
     "zh_hant": "他喜歡講這個故事。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Furthermore, the acquisition of this bottle cured him",
     "start": 72.866,
     "end": 76.547,
@@ -136,7 +120,7 @@
     "zh_hant": "而且，得到這個瓶子治癒了他"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "of a bad habit he had been developing for years.",
     "start": 76.348,
     "end": 79.809,
@@ -144,7 +128,7 @@
     "zh_hant": "多年來養成的一個壞習慣。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Harry used to consider it a great joke to go into expensive cosmetic shops",
     "start": 80.75,
     "end": 86.293,
@@ -152,7 +136,7 @@
     "zh_hant": "哈里過去常覺得進高檔化妝品店是個好玩的惡作劇，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and make outrageous requests for goods that do not exist.",
     "start": 86.153,
     "end": 90.455,
@@ -160,7 +144,7 @@
     "zh_hant": "並離譜地要一些不存在的商品。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "He would invent fanciful names on the spot.",
     "start": 90.915,
     "end": 93.856,
@@ -168,7 +152,7 @@
     "zh_hant": "他會當場編造一些稀奇古怪的名字。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "On entering a shop, he would ask for a new perfume called 'Scented Shadow'",
     "start": 94.197,
     "end": 99.699,
@@ -176,7 +160,7 @@
     "zh_hant": "一進店，他就會要一種叫‘影香’的新香水，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "or for 'insoluble bath cubes'.",
     "start": 99.539,
     "end": 102.521,
@@ -184,7 +168,7 @@
     "zh_hant": "或者要‘不溶沐浴方’。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "If a shop assistant told him she had not heard of it, he would pretend to be considerably put out.",
     "start": 102.961,
     "end": 109.344,
@@ -192,7 +176,7 @@
     "zh_hant": "如果店員告訴他沒聽說過，他會假裝很不高興。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "He loved to be told that one of his imaginary products was temporarily out of stock",
     "start": 109.964,
     "end": 115.827,
@@ -200,7 +184,7 @@
     "zh_hant": "他喜歡聽到他虛構的產品暫時缺貨的話，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "and he would faithfully promise to call again at some future date,",
     "start": 116.067,
     "end": 120.269,
@@ -208,7 +192,7 @@
     "zh_hant": "而且他會認真承諾以後某個時間再來，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "but of course he never did.",
     "start": 120.35,
     "end": 122.411,
@@ -216,7 +200,7 @@
     "zh_hant": "但他當然從沒回去過。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "How Harry managed to keep a straight face during these performances is quite beyond me.",
     "start": 122.951,
     "end": 128.474,
@@ -224,7 +208,7 @@
     "zh_hant": "哈里在這些表演中怎麼忍住不笑，我真是沒法理解。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Harry does not need to be prompted to explain how he bought his precious bottle of mud.",
     "start": 129.515,
     "end": 135.077,
@@ -232,7 +216,7 @@
     "zh_hant": "哈里不用人催就會解釋他怎麼買到那瓶珍貴的泥。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "One day, he went to an exclusive shop in London and asked for 'Myrolite'.",
     "start": 135.477,
     "end": 141.44,
@@ -240,7 +224,7 @@
     "zh_hant": "有一天，他去了倫敦一家高階商店，要了一樣叫‘閃石’的東西。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable.",
     "start": 141.66,
     "end": 148.143,
@@ -248,7 +232,7 @@
     "zh_hant": "店員一臉困惑，哈里重複了這個詞，慢慢地強調每個音節。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "When the woman shook her head in bewilderment,",
     "start": 148.284,
     "end": 150.805,
@@ -256,7 +240,7 @@
     "zh_hant": "當那個女店員困惑地搖頭時，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "Harry went on to explain that 'myrolite' was a hard, amber-like substance",
     "start": 151.065,
     "end": 157.148,
@@ -264,7 +248,7 @@
     "zh_hant": "哈里接著解釋說‘閃石’是一種堅硬的、像琥珀一樣的物質，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "which could be used to remove freckles.",
     "start": 157.208,
     "end": 159.989,
@@ -272,7 +256,7 @@
     "zh_hant": "可以用來去除雀斑。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "This explanation evidently conveyed something to the woman who searched shelf after shelf.",
     "start": 160.71,
     "end": 166.873,
@@ -280,7 +264,7 @@
     "zh_hant": "這個解釋顯然讓那女人明白了什麼，她一層一層地找。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "She produced all sorts of weird concoctions, but none of them met with Harry's requirements.",
     "start": 167.554,
     "end": 173.436,
@@ -288,7 +272,7 @@
     "zh_hant": "她拿出各種奇怪的混合物，但沒有一樣符合哈里的要求。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "When Harry put on his act of being mildly annoyed,",
     "start": 173.977,
     "end": 177.858,
@@ -296,7 +280,7 @@
     "zh_hant": "當哈里裝出有點生氣的樣子時，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "the assistant promised to order some for him.",
     "start": 177.959,
     "end": 180.52,
@@ -304,7 +288,7 @@
     "zh_hant": "店員答應給他訂一些。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "Intoxicated by his success, Harry then asked for perfumed mud.",
     "start": 181.04,
     "end": 186.183,
@@ -312,7 +296,7 @@
     "zh_hant": "被成功衝昏了頭，哈里接著要了帶香味的泥。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "He expected the assistant to look at him in blank astonishment.",
     "start": 186.463,
     "end": 190.405,
@@ -320,7 +304,7 @@
     "zh_hant": "他以為店員會茫然地瞪著他看。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "However, it was his turn to be surprised,",
     "start": 190.805,
     "end": 194.086,
@@ -328,7 +312,7 @@
     "zh_hant": "然而，這次輪到他吃驚了，"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "for the woman's eyes immediately lit up and she fetched several bottles",
     "start": 194.047,
     "end": 199.389,
@@ -336,7 +320,7 @@
     "zh_hant": "因為那個女人的眼睛立刻亮了起來，她拿了好幾瓶東西，"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "which she placed on the counter for Harry to inspect.",
     "start": 199.169,
     "end": 202.531,
@@ -344,7 +328,7 @@
     "zh_hant": "放在櫃檯上讓哈里檢查。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "For once, Harry had to admit defeat.",
     "start": 202.732,
     "end": 205.793,
@@ -352,7 +336,7 @@
     "zh_hant": "這次，哈里不得不認輸。"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "He picked up what seemed to be the smallest bottle and discreetly asked the price.",
     "start": 205.873,
     "end": 211.096,
@@ -360,7 +344,7 @@
     "zh_hant": "他拿起一個看起來最小的瓶子，低聲問了價格。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "He was glad to get away with a mere twenty pounds and he beat a hasty retreat,",
     "start": 211.416,
     "end": 216.859,
@@ -368,7 +352,7 @@
     "zh_hant": "他很慶幸只用二十英鎊就脫身了，於是匆匆撤退，"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "clutching the precious bottle under his arm.",
     "start": 217.02,
     "end": 220.001,
@@ -376,7 +360,7 @@
     "zh_hant": "腋下緊夾著那珍貴的瓶子。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "From then on, Harry decided that this little game he had invented might prove to be expensive.",
     "start": 220.462,
     "end": 226.705,
@@ -384,7 +368,7 @@
     "zh_hant": "從那時起，哈里決定他發明的這個小把戲可能很花錢。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "The curious bottle which now adorns the bookcase in his study",
     "start": 227.005,
     "end": 231.087,
@@ -392,7 +376,7 @@
     "zh_hant": "那個現在裝飾他書房書架的奇怪瓶子，"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "was his first and last purchase of rare cosmetics.",
     "start": 231.088,
     "end": 235.99,

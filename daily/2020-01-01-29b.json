@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 57.",
+    "text": "Lesson 57 An unusual day Listen to the tape then answer this question.",
     "start": 0.47,
-    "end": 3.022,
-    "zh": "第57课。",
-    "zh_hant": "第57課。"
+    "end": 11.012,
+    "zh": "第57课 不寻常的一天 听录音,然后回答这个问题。",
+    "zh_hant": "第57課 不尋常的一天 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "An unusual day.",
-    "start": 3.072,
-    "end": 5.272,
-    "zh": "不寻常的一天。",
-    "zh_hant": "不尋常的一天。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.573,
-    "end": 11.015,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "What is Mr. Sawyer doing tonight?",
     "start": 12.256,
     "end": 15.698,
@@ -32,7 +16,7 @@
     "zh_hant": "索耶先生今晚在做什麼？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "It is eight o'clock.",
     "start": 17.599,
     "end": 19.76,
@@ -40,7 +24,7 @@
     "zh_hant": "現在是八點鐘。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "The children go to school by car every day,",
     "start": 20.38,
     "end": 24.862,
@@ -48,7 +32,7 @@
     "zh_hant": "孩子們每天坐汽車去上學，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "but today, they are going to school",
     "start": 25.183,
     "end": 29.024,
@@ -56,7 +40,7 @@
     "zh_hant": "但今天，他們步行"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "on foot.",
     "start": 28.784,
     "end": 29.965,
@@ -64,7 +48,7 @@
     "zh_hant": "去上學。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "It is ten o'clock.",
     "start": 31.126,
     "end": 32.966,
@@ -72,7 +56,7 @@
     "zh_hant": "現在是十點鐘。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Mrs. Sawyer usually stays at home",
     "start": 33.527,
     "end": 37.288,
@@ -80,7 +64,7 @@
     "zh_hant": "索耶夫人通常待在"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "in the morning,",
     "start": 37.009,
     "end": 38.309,
@@ -88,7 +72,7 @@
     "zh_hant": "上午的家裡，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "but this morning, she is going",
     "start": 38.509,
     "end": 41.851,
@@ -96,7 +80,7 @@
     "zh_hant": "但今天上午，她要去"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "to the shops.",
     "start": 41.501,
     "end": 43.032,
@@ -104,7 +88,7 @@
     "zh_hant": "商店。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "It is four o'clock.",
     "start": 44.453,
     "end": 46.434,
@@ -112,7 +96,7 @@
     "zh_hant": "現在是四點鐘。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "In the afternoon,",
     "start": 47.094,
     "end": 48.635,
@@ -120,7 +104,7 @@
     "zh_hant": "下午，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Mrs. Sawyer usually drinks tea",
     "start": 48.955,
     "end": 52.216,
@@ -128,7 +112,7 @@
     "zh_hant": "索耶夫人通常喝茶"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "in the living room.",
     "start": 52.077,
     "end": 53.557,
@@ -136,7 +120,7 @@
     "zh_hant": "在客廳裡。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "But this afternoon,",
     "start": 54.038,
     "end": 56.118,
@@ -144,7 +128,7 @@
     "zh_hant": "但今天下午，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "she is drinking tea in the garden.",
     "start": 56.439,
     "end": 59.64,
@@ -152,7 +136,7 @@
     "zh_hant": "她在花園裡喝茶。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "It is six o'clock.",
     "start": 61.121,
     "end": 63.262,
@@ -160,7 +144,7 @@
     "zh_hant": "現在是六點鐘。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "In the evening, the children",
     "start": 63.783,
     "end": 66.724,
@@ -168,7 +152,7 @@
     "zh_hant": "晚上，孩子們"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "usually do their homework,",
     "start": 66.464,
     "end": 68.685,
@@ -176,7 +160,7 @@
     "zh_hant": "通常做作業，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "but this evening, they are not doing",
     "start": 68.865,
     "end": 72.507,
@@ -184,7 +168,7 @@
     "zh_hant": "但今晚，他們沒在"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "their homework.",
     "start": 72.157,
     "end": 73.387,
@@ -192,7 +176,7 @@
     "zh_hant": "做作業。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "At the moment, they are playing in the garden.",
     "start": 74.188,
     "end": 78.67,
@@ -200,7 +184,7 @@
     "zh_hant": "此刻，他們在花園裡玩耍。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It is nine o'clock.",
     "start": 79.953,
     "end": 82.074,
@@ -208,7 +192,7 @@
     "zh_hant": "現在是九點鐘。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Mr. Sawyer usually reads his newspaper",
     "start": 82.675,
     "end": 86.779,
@@ -216,7 +200,7 @@
     "zh_hant": "索耶先生通常看報紙"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "at night.",
     "start": 86.429,
     "end": 87.48,
@@ -224,7 +208,7 @@
     "zh_hant": "在晚上。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "But he's not reading his newspaper tonight.",
     "start": 87.981,
     "end": 91.865,
@@ -232,7 +216,7 @@
     "zh_hant": "但他今晚沒在看報紙。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "At the moment, he's reading an interesting book.",
     "start": 92.506,
     "end": 96.83,

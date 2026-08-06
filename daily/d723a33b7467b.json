@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 33.",
-    "start": 1.55,
-    "end": 3.381,
-    "zh": "第33课。",
-    "zh_hant": "第33課。"
+    "text": "Lesson 33 A day to remember",
+    "start": 2.59,
+    "end": 4.78,
+    "zh": "第33课 难忘的一天",
+    "zh_hant": "第33課 難忘的一天"
   },
   {
     "index": 1,
-    "text": "A day to remember.",
-    "start": 3.431,
-    "end": 8.674,
-    "zh": "难忘的一天。",
-    "zh_hant": "難忘的一天。"
+    "text": "What incident began the series of traffic accidents?",
+    "start": 11.801,
+    "end": 14.901,
+    "zh": "是什么事件引发了这一连串的交通事故？",
+    "zh_hant": "是什麼事件引發了這一連串的交通事故？"
   },
   {
     "index": 2,
-    "text": "What incident began the series of traffic accidents?",
-    "start": 11.776,
-    "end": 15.257,
-    "zh": "是什么事件引发了一系列交通事故？",
-    "zh_hant": "是什麼事件引發了一系列交通事故？"
-  },
-  {
-    "index": 3,
     "text": "We have all experienced days when everything goes wrong.",
     "start": 17.558,
     "end": 21.26,
@@ -32,7 +24,7 @@
     "zh_hant": "我們都經歷過諸事不順的日子。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "A day may begin well enough, but suddenly everything seems to get out of control.",
     "start": 21.781,
     "end": 27.283,
@@ -40,7 +32,7 @@
     "zh_hant": "一天可能開始時還不錯，但突然一切似乎都失控了。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "What invariably happens is that a great number of things",
     "start": 27.844,
     "end": 31.625,
@@ -48,7 +40,7 @@
     "zh_hant": "不可避免地發生的事情是，大量的事情"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "choose to go wrong at precisely the same moment.",
     "start": 31.505,
     "end": 34.987,
@@ -56,7 +48,7 @@
     "zh_hant": "偏偏在完全相同的時刻出錯。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "It is as if a single unimportant event set up a chain of reactions.",
     "start": 35.407,
     "end": 41.01,
@@ -64,7 +56,7 @@
     "zh_hant": "就好像一件無關緊要的小事引發了一連串的反應。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.",
     "start": 41.55,
     "end": 47.873,
@@ -72,7 +64,7 @@
     "zh_hant": "假設你正在做飯，同時看著嬰兒。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "The telephone rings and this marks the prelude",
     "start": 48.454,
     "end": 52.215,
@@ -80,7 +72,7 @@
     "zh_hant": "電話響了，這標誌著序曲的開始"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "to an unforeseen series of catastrophes.",
     "start": 51.995,
     "end": 55.117,
@@ -88,7 +80,7 @@
     "zh_hant": "一場無法預見的災難系列。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "While you are on the phone, the baby pulls the tablecloth off the table,",
     "start": 55.757,
     "end": 60.76,
@@ -96,7 +88,7 @@
     "zh_hant": "當你打電話時，嬰兒把桌布從桌子上拉下來，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "smashing half your best crockery and cutting himself in the process.",
     "start": 60.82,
     "end": 65.782,
@@ -104,7 +96,7 @@
     "zh_hant": "打碎了你一半最好的瓷器，並且在這個過程中割傷了自己。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "You hang up hurriedly and attend to baby, crockery, etc.",
     "start": 66.302,
     "end": 70.484,
@@ -112,7 +104,7 @@
     "zh_hant": "你匆忙結束通話電話，去照顧嬰兒和瓷器等。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Meanwhile, the meal gets burnt.",
     "start": 71.025,
     "end": 73.306,
@@ -120,7 +112,7 @@
     "zh_hant": "與此同時，飯菜燒焦了。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "As if this were not enough to reduce you to tears,",
     "start": 73.746,
     "end": 76.887,
@@ -128,7 +120,7 @@
     "zh_hant": "好像這還不夠讓你流淚，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "your husband arrives, unexpectedly bringing three guests to dinner.",
     "start": 77.048,
     "end": 82.01,
@@ -136,7 +128,7 @@
     "zh_hant": "你丈夫回來了，意外地帶了三個人來吃晚飯。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Things can go wrong on a big scale as a number of people recently discovered",
     "start": 82.911,
     "end": 88.254,
@@ -144,7 +136,7 @@
     "zh_hant": "事情可能在更大規模上出錯，正如許多人最近發現的那樣"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "in Parramatta,",
     "start": 88.114,
     "end": 89.574,
@@ -152,7 +144,7 @@
     "zh_hant": "在帕拉馬塔，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "a suburb of Sydney.",
     "start": 89.634,
     "end": 91.195,
@@ -160,7 +152,7 @@
     "zh_hant": "悉尼的一個郊區。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "During the rush hour one evening two cars collided and both drivers began to argue.",
     "start": 91.896,
     "end": 97.578,
@@ -168,7 +160,7 @@
     "zh_hant": "一天傍晚的交通高峰期，兩輛車相撞，兩位司機開始爭吵。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "The woman immediately behind the two cars happened to be a learner.",
     "start": 97.859,
     "end": 102.701,
@@ -176,7 +168,7 @@
     "zh_hant": "緊跟在兩輛車後面的女人碰巧是個新手司機。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "She suddenly got into a panic and stopped her car.",
     "start": 103.101,
     "end": 106.343,
@@ -184,7 +176,7 @@
     "zh_hant": "她突然驚慌起來，停下了車。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "This made the driver following her brake hard.",
     "start": 107.203,
     "end": 110.605,
@@ -192,7 +184,7 @@
     "zh_hant": "這使得她後面的司機急剎車。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "His wife was sitting beside him holding a large cake.",
     "start": 110.805,
     "end": 114.567,
@@ -200,7 +192,7 @@
     "zh_hant": "他妻子坐在他旁邊，拿著一個大蛋糕。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "As she was thrown forward, the cake went right through the windscreen and landed on the road.",
     "start": 114.887,
     "end": 121.07,
@@ -208,7 +200,7 @@
     "zh_hant": "當她被向前丟擲時，蛋糕直接飛過擋風玻璃，落在路上。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Seeing a cake flying through the air,",
     "start": 121.61,
     "end": 124.011,
@@ -216,7 +208,7 @@
     "zh_hant": "看到蛋糕在空中飛過，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
     "start": 124.092,
     "end": 129.654,
@@ -224,7 +216,7 @@
     "zh_hant": "一輛正在旁邊並行的卡車司機突然停了下來。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "The lorry was loaded with empty beer bottles and hundreds of them",
     "start": 130.015,
     "end": 134.376,
@@ -232,7 +224,7 @@
     "zh_hant": "卡車裝載著空啤酒瓶，其中數百個"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "slid off the back of the vehicle and on to the road.",
     "start": 134.257,
     "end": 137.878,
@@ -240,7 +232,7 @@
     "zh_hant": "從車尾滑落到路上。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "This led to yet another angry argument.",
     "start": 138.419,
     "end": 141.72,
@@ -248,7 +240,7 @@
     "zh_hant": "這又引發了另一場憤怒的爭吵。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Meanwhile, the traffic piled up behind.",
     "start": 142.181,
     "end": 145.282,
@@ -256,7 +248,7 @@
     "zh_hant": "與此同時，後面的交通堵塞起來。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "It took the police nearly an hour to get the traffic on the move again.",
     "start": 145.542,
     "end": 150.084,
@@ -264,7 +256,7 @@
     "zh_hant": "警察花了將近一個小時才讓交通重新流動起來。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "In the meantime, the lorry driver had to sweep up hundreds of broken bottles.",
     "start": 150.545,
     "end": 156.127,
@@ -272,7 +264,7 @@
     "zh_hant": "與此同時，卡車司機不得不掃掉數百個破碎的瓶子。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "Only two stray dogs benefited from all this confusion,",
     "start": 156.568,
     "end": 160.769,
@@ -280,7 +272,7 @@
     "zh_hant": "只有兩隻流浪狗從這混亂中獲益，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "for they greedily devoured what was left of the cake.",
     "start": 160.81,
     "end": 164.861,
@@ -288,7 +280,7 @@
     "zh_hant": "因為它們貪婪地吃掉了蛋糕的剩餘部分。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "It was just one of those days!",
     "start": 165.023,
     "end": 167.529,

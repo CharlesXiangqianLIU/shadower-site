@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 36.",
-    "start": 4.953,
-    "end": 3.87,
-    "zh": "第36课。",
-    "zh_hant": "第36課。"
+    "text": "Lesson 36 A chance in a million What was the chance in a million?",
+    "start": 4.951,
+    "end": 12.191,
+    "zh": "第36课 百万分之一的机会 那百万分之一的机会是什么？",
+    "zh_hant": "第36課 百萬分之一的機會 那百萬分之一的機會是什麼？"
   },
   {
     "index": 1,
-    "text": "A chance in a million.",
-    "start": 5.733,
-    "end": 8.834,
-    "zh": "百万分之一的机会。",
-    "zh_hant": "百萬分之一的機會。"
-  },
-  {
-    "index": 2,
-    "text": "What was the chance in a million?",
-    "start": 9.615,
-    "end": 12.196,
-    "zh": "百万分之一的机会是什么？",
-    "zh_hant": "百萬分之一的機會是什麼？"
-  },
-  {
-    "index": 3,
     "text": "We are less credulous than we used to be.",
     "start": 13.477,
     "end": 16.538,
@@ -32,7 +16,7 @@
     "zh_hant": "我們不像過去那樣輕信了。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "In the nineteenth century,",
     "start": 17.099,
     "end": 19.079,
@@ -40,7 +24,7 @@
     "zh_hant": "在19世紀，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "a novelist would bring his story to a conclusion by presenting",
     "start": 19.16,
     "end": 24.002,
@@ -48,7 +32,7 @@
     "zh_hant": "小說家常會以一連串的巧合來結束故事——"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "his readers with a series of coincidences--most of them wildly improbable.",
     "start": 23.652,
     "end": 29.945,
@@ -56,7 +40,7 @@
     "zh_hant": "其中大多數巧合極不真實。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Readers happily accepted the fact that an obscure maidservant",
     "start": 30.285,
     "end": 35.247,
@@ -64,7 +48,7 @@
     "zh_hant": "讀者樂於接受這樣的事實：一個不起眼的女僕"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "was really the hero's mother.",
     "start": 34.967,
     "end": 37.328,
@@ -72,7 +56,7 @@
     "zh_hant": "竟是主人公的母親。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "A long-lost brother, who was presumed dead,",
     "start": 37.729,
     "end": 41.371,
@@ -80,7 +64,7 @@
     "zh_hant": "一個被認為已死的失散多年的兄弟，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "was really alive all the time and wickedly",
     "start": 41.411,
     "end": 45.373,
@@ -88,7 +72,7 @@
     "zh_hant": "其實一直活著，並且邪惡地"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "plotting to bring about the hero's downfall.",
     "start": 45.023,
     "end": 47.994,
@@ -96,7 +80,7 @@
     "zh_hant": "策劃著要搞垮主人公。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "And so on.",
     "start": 48.154,
     "end": 49.375,
@@ -104,7 +88,7 @@
     "zh_hant": "諸如此類。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Modern readers would find such naive solutions totally unacceptable.",
     "start": 49.995,
     "end": 55.458,
@@ -112,7 +96,7 @@
     "zh_hant": "現代讀者會覺得這種天真的結局完全無法接受。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Yet, in real life,",
     "start": 56.098,
     "end": 57.919,
@@ -120,7 +104,7 @@
     "zh_hant": "然而，在現實生活中，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "circumstances do sometimes conspire to bring about coincidences",
     "start": 58.099,
     "end": 63.041,
@@ -128,7 +112,7 @@
     "zh_hant": "有時情況確實會巧合般地湊到一起，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "which anyone but a nineteenth century novelist would find incredible.",
     "start": 62.902,
     "end": 68.444,
@@ -136,7 +120,7 @@
     "zh_hant": "這種巧合除了19世紀的小說家，誰都會覺得難以置信。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "When I was a boy,",
     "start": 69.345,
     "end": 70.785,
@@ -144,7 +128,7 @@
     "zh_hant": "我小時候，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "my grandfather told me how a German taxi driver,",
     "start": 71.026,
     "end": 74.567,
@@ -152,7 +136,7 @@
     "zh_hant": "祖父告訴我，一個德國計程車司機"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "Franz Bussman, found a brother who was thought to have been killed twenty years before.",
     "start": 74.827,
     "end": 80.711,
@@ -160,7 +144,7 @@
     "zh_hant": "弗蘭茨·巴斯曼找到了一個被認為二十年前陣亡的兄弟。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "While on a walking tour with his wife, he stopped to talk to a workman.",
     "start": 81.371,
     "end": 86.533,
@@ -168,7 +152,7 @@
     "zh_hant": "他和妻子徒步旅行時，停下來和一個工人說話。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "After they had gone on,",
     "start": 86.934,
     "end": 88.654,
@@ -176,7 +160,7 @@
     "zh_hant": "他們繼續前行後，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Mrs. Bussman commented on the workman's close resemblance to her husband",
     "start": 88.855,
     "end": 94.177,
@@ -184,7 +168,7 @@
     "zh_hant": "巴斯曼太太評論說那工人長得和她丈夫非常像，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and even suggested that he might be his brother.",
     "start": 94.337,
     "end": 97.699,
@@ -192,7 +176,7 @@
     "zh_hant": "甚至建議他可能就是她丈夫的兄弟。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Franz poured scorn on the idea,",
     "start": 98.68,
     "end": 101.641,
@@ -200,7 +184,7 @@
     "zh_hant": "弗蘭茨對這一想法嗤之以鼻，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "pointing out that his brother had been killed in action during the war.",
     "start": 102.021,
     "end": 106.363,
@@ -208,7 +192,7 @@
     "zh_hant": "指出他兄弟已在戰爭期間陣亡。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Though Mrs. Bussman was fully acquainted with this story,",
     "start": 107.344,
     "end": 111.326,
@@ -216,7 +200,7 @@
     "zh_hant": "儘管巴斯曼太太完全瞭解這個故事，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "she thought that there was a chance in a million that she might be right.",
     "start": 111.686,
     "end": 116.308,
@@ -224,7 +208,7 @@
     "zh_hant": "她仍覺得自己有百萬分之一的機會可能是對的。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "A few days later, she sent a boy to the workman to ask him",
     "start": 117.049,
     "end": 121.891,
@@ -232,7 +216,7 @@
     "zh_hant": "幾天後，她派一個男孩去問那工人"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "if his name was Hans Bussman.",
     "start": 121.831,
     "end": 124.032,
@@ -240,7 +224,7 @@
     "zh_hant": "他的名字是不是漢斯·巴斯曼。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Needless to say, the man's name was Hans Bussman",
     "start": 124.993,
     "end": 129.435,
@@ -248,7 +232,7 @@
     "zh_hant": "不用說，那人的名字正是漢斯·巴斯曼，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "and he really was Franz's long-lost brother.",
     "start": 129.475,
     "end": 133.037,
@@ -256,7 +240,7 @@
     "zh_hant": "而且他確實是弗蘭茨失散多年的兄弟。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "When the brothers were reunited, Hans explained how it was that he was still alive.",
     "start": 133.897,
     "end": 139.54,
@@ -264,7 +248,7 @@
     "zh_hant": "兄弟重逢時，漢斯解釋了為什麼他還活著。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "After having been wounded towards the end of the war,",
     "start": 140.32,
     "end": 143.982,
@@ -272,7 +256,7 @@
     "zh_hant": "戰爭快結束時他受了傷，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "he had been sent to hospital and was separated from his unit.",
     "start": 144.683,
     "end": 149.245,
@@ -280,7 +264,7 @@
     "zh_hant": "被送進醫院，並和他的部隊失去了聯絡。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "The hospital had been bombed and Hans had made his way back into Western Germany",
     "start": 149.845,
     "end": 156.048,
@@ -288,7 +272,7 @@
     "zh_hant": "醫院遭到轟炸，漢斯只好步行"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "on foot.",
     "start": 155.808,
     "end": 156.888,
@@ -296,7 +280,7 @@
     "zh_hant": "回到了西德。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Meanwhile, his unit was lost and all records of him had been destroyed.",
     "start": 157.609,
     "end": 163.053,
@@ -304,7 +288,7 @@
     "zh_hant": "與此同時，他的部隊被殲滅，有關他的一切記錄也被銷燬。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "Hans returned to his family home,",
     "start": 163.694,
     "end": 166.216,
@@ -312,7 +296,7 @@
     "zh_hant": "漢斯回到家中，"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "but the house had been bombed and no one in the neighbourhood knew what had become of the inhabitants.",
     "start": 166.396,
     "end": 172.621,
@@ -320,7 +304,7 @@
     "zh_hant": "但房子已被炸燬，附近沒有人知道住戶的下落。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "Assuming that his family had been killed during an air raid,",
     "start": 172.982,
     "end": 176.624,
@@ -328,7 +312,7 @@
     "zh_hant": "漢斯以為家人在空襲中喪生，"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "Hans settled down in a village fifty miles away where he had remained ever since.",
     "start": 176.925,
     "end": 183.13,

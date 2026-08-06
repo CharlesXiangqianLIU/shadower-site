@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 135.",
-    "start": 0.891,
-    "end": 3.662,
-    "zh": "第135课。",
-    "zh_hant": "第135課。"
+    "text": "Lesson 135 The latest report Listen to the tape then answer this question.",
+    "start": 0.89,
+    "end": 11.291,
+    "zh": "第135课 最新报道 听录音,然后回答这个问题。",
+    "zh_hant": "第135課 最新報道 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "The latest report.",
-    "start": 3.712,
-    "end": 5.733,
-    "zh": "最新报道。",
-    "zh_hant": "最新報道。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then answer this question.",
-    "start": 6.814,
-    "end": 11.296,
-    "zh": "听录音，然后回答这个问题。",
-    "zh_hant": "聽錄音，然後回答這個問題。"
-  },
-  {
-    "index": 3,
     "text": "Is Karen Marsh going to retire,",
     "start": 12.196,
     "end": 15.638,
@@ -32,7 +16,7 @@
     "zh_hant": "卡倫·馬什真的要退休嗎，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "do you think?",
     "start": 15.598,
     "end": 16.938,
@@ -40,7 +24,7 @@
     "zh_hant": "你覺得呢？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Are you really going to retire, Miss Marsh?",
     "start": 18.8,
     "end": 22.661,
@@ -48,7 +32,7 @@
     "zh_hant": "您真的打算退休嗎，馬什小姐？"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "I may.",
     "start": 23.302,
     "end": 24.402,
@@ -56,7 +40,7 @@
     "zh_hant": "可能吧。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "I can't make up my mind.",
     "start": 24.803,
     "end": 27.564,
@@ -64,7 +48,7 @@
     "zh_hant": "我還沒下定決心。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "I will have to ask my future husband.",
     "start": 28.084,
     "end": 32.026,
@@ -72,7 +56,7 @@
     "zh_hant": "我得問問我的未婚夫。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "He won't let me make another film.",
     "start": 32.346,
     "end": 35.908,
@@ -80,7 +64,7 @@
     "zh_hant": "他不會讓我再拍電影了。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Your future husband, Miss Marsh?",
     "start": 36.609,
     "end": 39.69,
@@ -88,7 +72,7 @@
     "zh_hant": "您的未婚夫，馬什小姐？"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Yes.",
     "start": 39.971,
     "end": 41.051,
@@ -96,7 +80,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Let me introduce him to you.",
     "start": 41.131,
     "end": 43.812,
@@ -104,7 +88,7 @@
     "zh_hant": "讓我把他介紹給您。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "His name is Carlos.",
     "start": 44.153,
     "end": 47.234,
@@ -112,7 +96,7 @@
     "zh_hant": "他叫卡洛斯。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "We're going to get married next week.",
     "start": 47.634,
     "end": 51.796,
@@ -120,7 +104,7 @@
     "zh_hant": "我們下週就要結婚了。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Look, Liz!",
     "start": 53.037,
     "end": 54.437,
@@ -128,7 +112,7 @@
     "zh_hant": "看，莉茲！"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Here's another report about Karen Marsh.",
     "start": 54.598,
     "end": 58.98,
@@ -136,7 +120,7 @@
     "zh_hant": "這裡又有一篇關於卡倫·馬什的報道。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Listen: 'Karen",
     "start": 59.24,
     "end": 61.901,
@@ -144,7 +128,7 @@
     "zh_hant": "聽：“卡倫"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Marsh: The latest.",
     "start": 61.551,
     "end": 64.162,
@@ -152,7 +136,7 @@
     "zh_hant": "馬什：最新訊息。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "At her London Hotel today",
     "start": 64.623,
     "end": 67.564,
@@ -160,7 +144,7 @@
     "zh_hant": "今天在她倫敦的酒店裡"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Miss Marsh told reporters",
     "start": 67.884,
     "end": 71.046,
@@ -168,7 +152,7 @@
     "zh_hant": "馬什小姐告訴記者們"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "she might retire.",
     "start": 71.026,
     "end": 73.147,
@@ -176,7 +160,7 @@
     "zh_hant": "她可能退休。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "She said she couldn't make up her mind.",
     "start": 73.787,
     "end": 77.829,
@@ -184,7 +168,7 @@
     "zh_hant": "她說她還沒下定決心。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "She said",
     "start": 78.149,
     "end": 79.43,
@@ -192,7 +176,7 @@
     "zh_hant": "她說"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "she would have to ask her future husband.",
     "start": 79.37,
     "end": 83.653,
@@ -200,7 +184,7 @@
     "zh_hant": "她得問問她的未婚夫。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "She said her future husband",
     "start": 84.413,
     "end": 87.655,
@@ -208,7 +192,7 @@
     "zh_hant": "她說她的未婚夫"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "would not let her make another film.",
     "start": 87.575,
     "end": 91.337,
@@ -216,7 +200,7 @@
     "zh_hant": "不會讓她再拍電影。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Then she introduced us to Carlos",
     "start": 92.078,
     "end": 96.28,
@@ -224,7 +208,7 @@
     "zh_hant": "然後她把卡洛斯介紹給我們"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "and told us they would get married",
     "start": 96.34,
     "end": 99.782,
@@ -232,7 +216,7 @@
     "zh_hant": "並告訴我們他們將於"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "next week.'",
     "start": 99.642,
     "end": 101.463,
@@ -240,7 +224,7 @@
     "zh_hant": "下週結婚。”"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "That's sensational news,",
     "start": 101.763,
     "end": 104.745,
@@ -248,7 +232,7 @@
     "zh_hant": "這可是爆炸性新聞，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "isn't it, Kate?",
     "start": 104.745,
     "end": 106.766,
@@ -256,7 +240,7 @@
     "zh_hant": "是不是，凱特？"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "It certainly is.",
     "start": 107.427,
     "end": 109.568,
@@ -264,7 +248,7 @@
     "zh_hant": "的確如此。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "He'll be her sixth husband!",
     "start": 109.768,
     "end": 113.49,

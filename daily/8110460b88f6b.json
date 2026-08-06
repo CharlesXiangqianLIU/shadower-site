@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 23.",
-    "start": 1.57,
-    "end": 3.662,
-    "zh": "第23课。",
-    "zh_hant": "第23課。"
+    "text": "Lesson 23 Bird flight",
+    "start": 2.851,
+    "end": 8.681,
+    "zh": "第23课 鸟类飞行",
+    "zh_hant": "第23課 鳥類飛行"
   },
   {
     "index": 1,
-    "text": "Bird flight.",
-    "start": 3.712,
-    "end": 9.034,
-    "zh": "鸟类的飞行。",
-    "zh_hant": "鳥類的飛行。"
+    "text": "What are the two main types of bird flight described by the author?",
+    "start": 11.302,
+    "end": 15.102,
+    "zh": "作者描述了鸟类飞行的哪两种主要类型？",
+    "zh_hant": "作者描述了鳥類飛行的哪兩種主要型別？"
   },
   {
     "index": 2,
-    "text": "What are the two main types of bird flight described by the author?",
-    "start": 11.275,
-    "end": 15.457,
-    "zh": "作者描述的鸟类飞行主要有哪两种类型？",
-    "zh_hant": "作者描述的鳥類飛行主要有哪兩種型別？"
-  },
-  {
-    "index": 3,
     "text": "No two sorts of birds practise quite the same sort of flight;",
     "start": 17.878,
     "end": 22.1,
@@ -32,7 +24,7 @@
     "zh_hant": "沒有兩種鳥的飛行方式完全相同；"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "the varieties are infinite; but two classes may be roughly seen.",
     "start": 22.501,
     "end": 27.423,
@@ -40,7 +32,7 @@
     "zh_hant": "種類無窮無盡；但大致可分為兩類。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Any ship that crosses the Pacific is accompanied for many days by the smaller albatross,",
     "start": 28.464,
     "end": 34.686,
@@ -48,7 +40,7 @@
     "zh_hant": "任何穿越太平洋的船隻，都會有較小的信天翁伴隨多日，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "which may keep company with the vessel for an hour without visible",
     "start": 34.807,
     "end": 39.229,
@@ -56,7 +48,7 @@
     "zh_hant": "它能與船隻相伴一小時而不見扇動翅膀，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "or more than occasional movement of wing.",
     "start": 39.069,
     "end": 41.67,
@@ -64,7 +56,7 @@
     "zh_hant": "或僅偶爾動一下。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "The currents of air that the walls of the ship direct upwards,",
     "start": 42.511,
     "end": 46.412,
@@ -72,7 +64,7 @@
     "zh_hant": "船壁導引上升的氣流，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "as well as in the line of its course,",
     "start": 46.573,
     "end": 49.074,
@@ -80,7 +72,7 @@
     "zh_hant": "以及沿航線的氣流，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "are enough to give the great bird with its immense wings sufficient sustenance and progress.",
     "start": 49.154,
     "end": 55.096,
@@ -88,7 +80,7 @@
     "zh_hant": "足以給這擁有巨大翅膀的大鳥提供足夠的浮力和前進動力。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "The albatross is the king of the gliders,",
     "start": 55.857,
     "end": 58.958,
@@ -96,7 +88,7 @@
     "zh_hant": "信天翁是滑翔者之王，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "the class of fliers which harness the air to their purpose, but must yield to its opposition.",
     "start": 59.159,
     "end": 65.602,
@@ -104,7 +96,7 @@
     "zh_hant": "這一類飛行者利用空氣達到目的，但必須屈服於空氣的阻力。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "In the contrary school, the duck is supreme.",
     "start": 66.502,
     "end": 70.264,
@@ -112,7 +104,7 @@
     "zh_hant": "在相反的流派中，鴨子最為出色。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "It comes nearer to the engines with which man has 'conquered' the air, as he boasts.",
     "start": 70.925,
     "end": 76.327,
@@ -120,7 +112,7 @@
     "zh_hant": "它更接近人類自誇‘征服’了空氣所用的引擎。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Duck, and like them the pigeons,",
     "start": 76.707,
     "end": 79.709,
@@ -128,7 +120,7 @@
     "zh_hant": "鴨子，以及像它們一樣的鴿子，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "are endowed with steel-like muscles, that are a good part of the weight of the bird,",
     "start": 79.669,
     "end": 85.032,
@@ -136,7 +128,7 @@
     "zh_hant": "擁有鋼鐵般的肌肉，這類肌肉佔了鳥類體重的相當一部分，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "and these will ply the short wings with such irresistible power",
     "start": 85.492,
     "end": 89.914,
@@ -144,7 +136,7 @@
     "zh_hant": "這些肌肉以不可抗拒的力量驅動短翼，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "that they can bore for long distances through an opposing gale before exhaustion follows.",
     "start": 89.914,
     "end": 96.317,
@@ -152,7 +144,7 @@
     "zh_hant": "使它們能在逆風中長途穿行，直到筋疲力盡為止。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Their humbler followers, such as partridges,",
     "start": 97.218,
     "end": 100.599,
@@ -160,7 +152,7 @@
     "zh_hant": "它們較低等的追隨者，如鷓鴣，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "have a like power of strong propulsion, but soon tire.",
     "start": 100.56,
     "end": 104.641,
@@ -168,7 +160,7 @@
     "zh_hant": "也有強大的推進力，但很快就疲勞。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey.",
     "start": 105.222,
     "end": 111.645,
@@ -176,7 +168,7 @@
     "zh_hant": "如果海風迫使它們長距離飛行，你可以在它們精疲力竭時把它們撿起來。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "The swallow shares the virtues of both schools in highest measure.",
     "start": 112.426,
     "end": 116.327,
@@ -184,7 +176,7 @@
     "zh_hant": "燕子兼備兩類鳥的優點，達到最高程度。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "It tires not, nor does it boast of its power;",
     "start": 116.728,
     "end": 120.329,
@@ -192,7 +184,7 @@
     "zh_hant": "它不疲倦，也不誇耀自己的力量；"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "but belongs to the air travelling it may be six thousand miles",
     "start": 120.59,
     "end": 125.613,
@@ -200,7 +192,7 @@
     "zh_hant": "但它屬於空中旅行者，可能飛行六千英里，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "to and from its northern nesting home,",
     "start": 125.473,
     "end": 128.315,
@@ -208,7 +200,7 @@
     "zh_hant": "往返於它北方的築巢家園，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "feeding its flown young as it flies,",
     "start": 128.655,
     "end": 131.297,
@@ -216,7 +208,7 @@
     "zh_hant": "邊飛邊餵養已離巢的幼鳥，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "and slipping through a medium that seems to help its passage even when the wind is adverse.",
     "start": 131.417,
     "end": 137.581,
@@ -224,7 +216,7 @@
     "zh_hant": "即使在逆風時，也能在似乎有助於它通行的介質中穿梭。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "Such birds do us good, though we no longer take omens from their flight on this side and that;",
     "start": 138.321,
     "end": 144.685,
@@ -232,7 +224,7 @@
     "zh_hant": "這類鳥對我們有益，儘管我們不再從它們左右飛行的方向預卜吉凶；"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "and even the most superstitious villagers no longer take off their hats",
     "start": 144.866,
     "end": 149.288,
@@ -240,7 +232,7 @@
     "zh_hant": "甚至最迷信的村民也不再向喜鵲脫帽"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "to the magpie and wish it good-morning.",
     "start": 148.938,
     "end": 151.99,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 23.",
+    "text": "Lesson 23 One man's meat is another man's poison",
     "start": 0.33,
-    "end": 2.341,
-    "zh": "第23课。",
-    "zh_hant": "第23課。"
+    "end": 10.051,
+    "zh": "第23课 众口难调（一个人的美食是另一个人的毒药）",
+    "zh_hant": "第23課 眾口難調（一個人的美食是另一個人的毒藥）"
   },
   {
     "index": 1,
-    "text": "One man's meat is another man's poison.",
-    "start": 2.391,
-    "end": 10.055,
-    "zh": "一个人的佳肴，是另一个人的毒药。",
-    "zh_hant": "一個人的佳餚，是另一個人的毒藥。"
+    "text": "What was it about snails that made the writer collect them for his friend on that day in particular?",
+    "start": 11.531,
+    "end": 18.832,
+    "zh": "那天究竟是蜗牛的什么特点，让作者特意为朋友收集起来？",
+    "zh_hant": "那天究竟是蝸牛的什麼特點，讓作者特意為朋友收集起來？"
   },
   {
     "index": 2,
-    "text": "What was it about snails that made the writer collect them",
-    "start": 11.536,
-    "end": 15.878,
-    "zh": "蜗牛有什么特别之处，让作者偏偏在那天",
-    "zh_hant": "蝸牛有什麼特別之處，讓作者偏偏在那天"
-  },
-  {
-    "index": 3,
-    "text": "for his friend on that day in particular?",
-    "start": 15.528,
-    "end": 18.839,
-    "zh": "为朋友去收集它们呢？",
-    "zh_hant": "為朋友去收集它們呢？"
-  },
-  {
-    "index": 4,
     "text": "People become quite illogical when they try to decide",
     "start": 20.2,
     "end": 24.382,
@@ -40,7 +24,7 @@
     "zh_hant": "人們在決定什麼東西能吃、什麼東西不能吃時，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "what can be eaten and what cannot be eaten.",
     "start": 24.032,
     "end": 27.784,
@@ -48,7 +32,7 @@
     "zh_hant": "會變得相當不講邏輯。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "If you lived in the Mediterranean, for instance,",
     "start": 28.484,
     "end": 31.746,
@@ -56,7 +40,7 @@
     "zh_hant": "比如，如果你住在地中海地區，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "you would consider octopus a great delicacy.",
     "start": 31.906,
     "end": 35.427,
@@ -64,7 +48,7 @@
     "zh_hant": "你會把章魚視為一道美味佳餚。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "You would not be able to understand why some people find it repulsive.",
     "start": 35.908,
     "end": 41.171,
@@ -72,7 +56,7 @@
     "zh_hant": "你無法理解為什麼有些人會覺得它令人厭惡。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "On the other hand,",
     "start": 41.471,
     "end": 42.952,
@@ -80,7 +64,7 @@
     "zh_hant": "另一方面，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "your stomach would turn at the idea",
     "start": 43.132,
     "end": 46.313,
@@ -88,7 +72,7 @@
     "zh_hant": "一想到用動物脂肪煎土豆——"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "of frying potatoes in animal fat-the",
     "start": 45.973,
     "end": 50.015,
@@ -96,7 +80,7 @@
     "zh_hant": "許多北方國家的常見做法——"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "normally accepted practice in many northern countries.",
     "start": 49.665,
     "end": 53.137,
@@ -104,7 +88,7 @@
     "zh_hant": "你就會反胃。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The sad truth is that most of us have been brought up to eat",
     "start": 53.877,
     "end": 58.019,
@@ -112,7 +96,7 @@
     "zh_hant": "可悲的事實是，我們大多數人從小就被培養去吃"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "certain foods and we stick to them all our lives.",
     "start": 57.669,
     "end": 62.221,
@@ -120,7 +104,7 @@
     "zh_hant": "某些食物，並且一輩子都堅持吃這些。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "No creature has received more praise and abuse than the common garden snail.",
     "start": 63.222,
     "end": 69.024,
@@ -128,7 +112,7 @@
     "zh_hant": "沒有哪種生物比普通花園蝸牛得到過更多的讚美和詆譭。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Cooked in wine, snails are a great luxury in various parts of the world.",
     "start": 69.465,
     "end": 74.927,
@@ -136,7 +120,7 @@
     "zh_hant": "用酒烹製後，蝸牛在世界各地都是一種奢侈的美味。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "There are countless people",
     "start": 75.428,
     "end": 77.408,
@@ -144,7 +128,7 @@
     "zh_hant": "有無數人，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "who, ever since their early years, have learned to associate snails with food.",
     "start": 77.058,
     "end": 83.332,
@@ -152,7 +136,7 @@
     "zh_hant": "從早年就學會了把蝸牛和食物聯絡在一起。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "My friend, Robert, lives in a country where snails are despised.",
     "start": 84.192,
     "end": 89.455,
@@ -160,7 +144,7 @@
     "zh_hant": "我的朋友羅伯特住在一個蝸牛不受待見的國家。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "As his flat is in a large town, he has no garden of his own.",
     "start": 90.255,
     "end": 95.018,
@@ -168,7 +152,7 @@
     "zh_hant": "因為他的公寓在大城市裡，他沒有自己的花園。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "For years he has been asking me to collect snails from my garden",
     "start": 95.218,
     "end": 100.38,
@@ -176,7 +160,7 @@
     "zh_hant": "多年來，他一直讓我從我的花園裡收集蝸牛，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and take them to him.",
     "start": 100.36,
     "end": 101.861,
@@ -184,7 +168,7 @@
     "zh_hant": "然後帶給他。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "The idea never appealed to me very much, but one day, after a heavy shower,",
     "start": 102.401,
     "end": 108.884,
@@ -192,7 +176,7 @@
     "zh_hant": "這個想法我向來不太感興趣，但有一天，在一場大雨之後，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "I happened to be walking in my garden when I noticed a huge number of snails",
     "start": 109.265,
     "end": 114.667,
@@ -200,7 +184,7 @@
     "zh_hant": "我恰好在花園裡散步，注意到大量蝸牛"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "taking a stroll on some of my prize plants.",
     "start": 114.667,
     "end": 118.309,
@@ -208,7 +192,7 @@
     "zh_hant": "在我的一些珍貴植物上悠閒地爬行。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Acting on a sudden impulse,",
     "start": 118.549,
     "end": 120.791,
@@ -216,7 +200,7 @@
     "zh_hant": "一時衝動之下，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "I collected several dozen, put them in a paper bag,",
     "start": 120.851,
     "end": 124.773,
@@ -224,7 +208,7 @@
     "zh_hant": "我收集了幾十只，放進一個紙袋裡，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "and took them to Robert.",
     "start": 124.893,
     "end": 127.874,
@@ -232,7 +216,7 @@
     "zh_hant": "然後帶給了羅伯特。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "was delighted to see me and equally pleased with my little gift.",
     "start": 127.524,
     "end": 132.456,
@@ -240,7 +224,7 @@
     "zh_hant": "見到我非常高興，對我的小禮物也同樣滿意。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "I left the bag in the hall and Robert and I went",
     "start": 133.137,
     "end": 136.859,
@@ -248,7 +232,7 @@
     "zh_hant": "我把袋子放在門廳裡，然後羅伯特和我走進"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "into the living room where we talked for a couple of hours.",
     "start": 136.519,
     "end": 140.1,
@@ -256,7 +240,7 @@
     "zh_hant": "客廳，在那裡聊了幾個小時。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "I had forgotten all about the snails when Robert",
     "start": 140.621,
     "end": 144.482,
@@ -264,7 +248,7 @@
     "zh_hant": "我完全忘了蝸牛的事，這時羅伯特"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "suddenly said that I must stay to dinner.",
     "start": 144.132,
     "end": 147.144,
@@ -272,7 +256,7 @@
     "zh_hant": "突然說我必須留下來吃晚飯。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "Snails would, of course, be the main dish.",
     "start": 147.724,
     "end": 151.706,
@@ -280,7 +264,7 @@
     "zh_hant": "蝸牛當然會是主菜。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "I did not fancy the idea and I reluctantly followed Robert out of the room.",
     "start": 152.006,
     "end": 157.649,
@@ -288,7 +272,7 @@
     "zh_hant": "我不太喜歡這個主意，但還是不情願地跟著羅伯特走出了房間。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "To our dismay,",
     "start": 157.829,
     "end": 159.37,
@@ -296,7 +280,7 @@
     "zh_hant": "讓我們沮喪的是，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "we saw that there were snails everywhere:",
     "start": 159.652,
     "end": 162.776,
@@ -304,7 +288,7 @@
     "zh_hant": "我們看到到處都是蝸牛："
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "they had escaped from the paper bag and had taken complete possession of the hall!",
     "start": 162.977,
     "end": 168.363,
@@ -312,7 +296,7 @@
     "zh_hant": "它們從紙袋裡逃了出來，完全佔領了門廳！"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "I have never be able to look at a snail since then.",
     "start": 169.185,
     "end": 172.69,

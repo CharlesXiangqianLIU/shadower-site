@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 34.",
-    "start": 5.313,
-    "end": 4.17,
-    "zh": "第34课。",
-    "zh_hant": "第34課。"
+    "text": "Lesson 34 A happy discovery What was the 'happy discovery' ?",
+    "start": 5.31,
+    "end": 14.891,
+    "zh": "第34课 一个幸运的发现 “幸运的发现”指的是什么?",
+    "zh_hant": "第34課 一個幸運的發現 “幸運的發現”指的是什麼?"
   },
   {
     "index": 1,
-    "text": "A happy discovery.",
-    "start": 5.773,
-    "end": 9.214,
-    "zh": "一个愉快的发现。",
-    "zh_hant": "一個愉快的發現。"
-  },
-  {
-    "index": 2,
-    "text": "What was the 'happy discovery' ?",
-    "start": 10.015,
-    "end": 14.27,
-    "zh": "这个“愉快的发现”是什么？",
-    "zh_hant": "這個“愉快的發現”是什麼？"
-  },
-  {
-    "index": 3,
     "text": "Antique shops exert a peculiar fascination on a great many people.",
     "start": 14.497,
     "end": 19.72,
@@ -32,7 +16,7 @@
     "zh_hant": "古董店對許多人有一種特殊的吸引力。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "The more expensive kind of antique shop where rare objects are beautifully displayed",
     "start": 21.141,
     "end": 27.584,
@@ -40,7 +24,7 @@
     "zh_hant": "那些較昂貴的古董店，珍稀物品被精美地陳列著，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "in glass cases to keep them free from dust",
     "start": 27.264,
     "end": 31.205,
@@ -48,7 +32,7 @@
     "zh_hant": "放在玻璃櫃裡以防灰塵，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "is usually a forbidding place.",
     "start": 31.306,
     "end": 34.067,
@@ -56,7 +40,7 @@
     "zh_hant": "通常是個令人望而卻步的地方。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "But no one has to muster up courage to enter a less pretentious antique shop.",
     "start": 34.667,
     "end": 40.931,
@@ -64,7 +48,7 @@
     "zh_hant": "但進入一家不太炫耀的古董店，誰也不必鼓起勇氣。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "There is always hope that in its labyrinth of musty, dark,",
     "start": 41.611,
     "end": 46.514,
@@ -72,7 +56,7 @@
     "zh_hant": "總有希望在它那迷宮般的、發黴的、陰暗的、"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "disordered rooms",
     "start": 46.694,
     "end": 48.194,
@@ -80,7 +64,7 @@
     "zh_hant": "雜亂無章的房間裡，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "a real rarity will be found amongst the piles of assorted junk that litter the floors.",
     "start": 48.215,
     "end": 54.197,
@@ -88,7 +72,7 @@
     "zh_hant": "在散落滿地的各種破爛堆中，會發現一件真正的珍品。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "No one discovers a rarity by chance.",
     "start": 55.118,
     "end": 58.279,
@@ -96,7 +80,7 @@
     "zh_hant": "沒有人能碰巧發現珍品。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "A truly dedicated bargain hunter must have patience,",
     "start": 59.24,
     "end": 63.082,
@@ -104,7 +88,7 @@
     "zh_hant": "一個真正專注的淘便宜貨者必須要有耐心，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "and above all, the ability to recognize the worth of something when he sees it.",
     "start": 63.162,
     "end": 69.105,
@@ -112,7 +96,7 @@
     "zh_hant": "尤其是要有能力在見到某物時認出其價值。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "To do this, he must be at least as knowledgeable as the dealer.",
     "start": 69.665,
     "end": 75.148,
@@ -120,7 +104,7 @@
     "zh_hant": "要做到這一點，他至少得像商人一樣見多識廣。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Like a scientist bent on making a discovery,",
     "start": 75.688,
     "end": 79.09,
@@ -128,7 +112,7 @@
     "zh_hant": "就像一個立志於發現新事物的科學家一樣，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "he must cherish the hope that one day he will be amply rewarded.",
     "start": 79.331,
     "end": 84.613,
@@ -136,7 +120,7 @@
     "zh_hant": "他必須珍視這樣的希望：總有一天會得到豐厚的回報。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "My old friend, Frank Halliday, is just such a person.",
     "start": 85.153,
     "end": 90.236,
@@ -144,7 +128,7 @@
     "zh_hant": "我的老朋友弗蘭克·哈利迪就是這樣一個的人。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "He has often described to me how he picked up a masterpiece for a mere ￡50.",
     "start": 90.836,
     "end": 96.789,
@@ -152,7 +136,7 @@
     "zh_hant": "他常常向我描述他是如何僅用50英鎊就淘到了一件傑作。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "One Saturday morning, Frank",
     "start": 96.389,
     "end": 100.401,
@@ -160,7 +144,7 @@
     "zh_hant": "一個星期六的早晨，弗蘭克"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "visited an antique shop in my neighbourhood.",
     "start": 100.061,
     "end": 103.142,
@@ -168,7 +152,7 @@
     "zh_hant": "去了我家附近的一家古董店。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "As he had never been there before, he found a great deal to interest him.",
     "start": 104.143,
     "end": 109.485,
@@ -176,7 +160,7 @@
     "zh_hant": "因為他以前從沒去過那裡，他發現了許多令他感興趣的東西。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The morning passed rapidly and Frank was about to leave",
     "start": 110.226,
     "end": 114.668,
@@ -184,7 +168,7 @@
     "zh_hant": "上午很快過去了，弗蘭克正要離開時，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "when he noticed a large packing case lying on the floor.",
     "start": 114.628,
     "end": 118.53,
@@ -192,7 +176,7 @@
     "zh_hant": "他注意到地上放著一個大包裝箱。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "The dealer told him that it had just come in, but that he could not be bothered to open it.",
     "start": 119.211,
     "end": 125.153,
@@ -200,7 +184,7 @@
     "zh_hant": "店主告訴他，箱子剛送來，但他懶得去開啟它。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Frank begged him to do so and the dealer reluctantly prised it open.",
     "start": 126.274,
     "end": 131.656,
@@ -208,7 +192,7 @@
     "zh_hant": "弗蘭克懇求他開啟，店主勉強地撬開了箱子。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "The contents were disappointing.",
     "start": 132.137,
     "end": 134.438,
@@ -216,7 +200,7 @@
     "zh_hant": "裡面的東西令人失望。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Apart from an interesting-looking carved dagger,",
     "start": 134.778,
     "end": 138.1,
@@ -224,7 +208,7 @@
     "zh_hant": "除了一把看起來有趣的雕花匕首之外，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "the box was full of crockery, much of it broken.",
     "start": 138.32,
     "end": 142.061,
@@ -232,7 +216,7 @@
     "zh_hant": "箱子裡全是陶器，其中許多已經破碎。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Frank gently lifted the crockery out of the box",
     "start": 143.002,
     "end": 146.504,
@@ -240,7 +224,7 @@
     "zh_hant": "弗蘭克輕輕地把陶器從箱子裡拿出來，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "and suddenly noticed a miniature painting at the bottom of the packing case.",
     "start": 146.744,
     "end": 152.146,
@@ -248,7 +232,7 @@
     "zh_hant": "突然注意到包裝箱底部有一幅微型畫。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "As its composition and line reminded",
     "start": 153.127,
     "end": 156.669,
@@ -256,7 +240,7 @@
     "zh_hant": "因為它的構圖和線條讓"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "him of an Italian painting he knew well, he decided to buy it.",
     "start": 156.319,
     "end": 160.892,
@@ -264,7 +248,7 @@
     "zh_hant": "他想起了自己很熟悉的一幅義大利畫，他決定買下它。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "Glancing at it briefly the dealer told him that it was worth ￡50.",
     "start": 162.393,
     "end": 167.67,
@@ -272,7 +256,7 @@
     "zh_hant": "店主匆匆看了一眼，告訴他那幅畫值50英鎊。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "Frank could hardly conceal his excitement, for he",
     "start": 168.118,
     "end": 172.501,
@@ -280,7 +264,7 @@
     "zh_hant": "弗蘭克幾乎無法掩飾他的興奮，因為他"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "knew that he had made a real discovery.",
     "start": 172.151,
     "end": 174.882,
@@ -288,7 +272,7 @@
     "zh_hant": "知道自己有了一個真正的發現。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "The tiny painting proved to be an unknown masterpiece",
     "start": 175.403,
     "end": 179.566,
@@ -296,7 +280,7 @@
     "zh_hant": "那幅小小的畫被證明是一幅不知名的傑作，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "by Correggio and was worth hundreds and thousands of pounds.",
     "start": 179.606,
     "end": 184.57,

@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 6.",
+    "text": "Lesson 6 The sporting spirit How does the writer describe sport at the international level?",
     "start": 0.27,
-    "end": 3.81,
-    "zh": "第六课。",
-    "zh_hant": "第六課。"
+    "end": 11.754,
+    "zh": "第六课 体育精神——作者如何描述国际级体育运动？",
+    "zh_hant": "第六課 體育精神——作者如何描述國際級體育運動？"
   },
   {
     "index": 1,
-    "text": "The sporting spirit.",
-    "start": 4.692,
-    "end": 7.193,
-    "zh": "体育精神。",
-    "zh_hant": "體育精神。"
-  },
-  {
-    "index": 2,
-    "text": "How does the writer describe sport at the international level?",
-    "start": 7.574,
-    "end": 11.756,
-    "zh": "作者如何描述国际层面的体育运动？",
-    "zh_hant": "作者如何描述國際層面的體育運動？"
-  },
-  {
-    "index": 3,
     "text": "I am always amazed when I hear people saying that sport creates goodwill between the nations,",
     "start": 14.077,
     "end": 20.18,
@@ -32,7 +16,7 @@
     "zh_hant": "每當我聽到人們說體育能增進國家之間的友好關係時，我總是感到驚訝。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "and that if only the common peoples of the world could meet one another at football or cricket,",
     "start": 20.22,
     "end": 26.243,
@@ -40,7 +24,7 @@
     "zh_hant": "還說只要世界上普通民眾能在足球或板球場上相遇，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "they would have no inclination to meet on the battlefield.",
     "start": 26.283,
     "end": 30.065,
@@ -48,7 +32,7 @@
     "zh_hant": "他們就無意在戰場上兵戎相見。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Even if one didn't know from concrete examples",
     "start": 30.305,
     "end": 33.706,
@@ -56,7 +40,7 @@
     "zh_hant": "即使一個人不根據具體例子來了解——"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "(the 1936 Olympic Games, for instance)",
     "start": 33.687,
     "end": 37.128,
@@ -64,7 +48,7 @@
     "zh_hant": "（例如1936年奧運會）——"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "that international sporting contests lead to orgies of hatred,",
     "start": 37.068,
     "end": 41.751,
@@ -72,7 +56,7 @@
     "zh_hant": "知道國際體育賽事會導致狂熱的仇恨，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "one could deduce it from general principles.",
     "start": 41.931,
     "end": 44.952,
@@ -80,7 +64,7 @@
     "zh_hant": "他也能從一般原則中推斷出這一點。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Nearly all the sports practised nowadays are competitive.",
     "start": 45.493,
     "end": 49.315,
@@ -88,7 +72,7 @@
     "zh_hant": "如今幾乎所有運動都是競技性的。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "You play to win, and the game has little meaning unless you do your utmost to win.",
     "start": 49.335,
     "end": 55.278,
@@ -96,7 +80,7 @@
     "zh_hant": "你參賽是為了贏，除非你竭盡全力去贏，否則比賽就沒有多大意義。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "On the village green, where you pick up sides and no feeling of local patriotism is involved,",
     "start": 55.598,
     "end": 61.721,
@@ -104,7 +88,7 @@
     "zh_hant": "在鄉村草地上，你隨機分隊，沒有地方愛國情緒摻雜其中，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "it is possible to play simply for the fun and exercise:",
     "start": 61.841,
     "end": 65.663,
@@ -112,7 +96,7 @@
     "zh_hant": "這時才可能純粹為了樂趣和鍛鍊而玩："
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "but as soon as a the question of prestige arises,",
     "start": 65.743,
     "end": 69.264,
@@ -120,7 +104,7 @@
     "zh_hant": "但一旦涉及聲望的問題出現，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "as soon as you feel that you and some larger unit will be disgraced if you lose,",
     "start": 69.305,
     "end": 74.627,
@@ -128,7 +112,7 @@
     "zh_hant": "一旦你覺得如果輸了，你自己和某個更大的集體都會蒙羞，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "the most savage combative instincts are aroused.",
     "start": 74.707,
     "end": 78.909,
@@ -136,7 +120,7 @@
     "zh_hant": "最野蠻的好鬥本能就會被激起。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Anyone who has played even in a school football match knows this.",
     "start": 79.33,
     "end": 83.152,
@@ -144,7 +128,7 @@
     "zh_hant": "任何在學校足球賽中打過球的人都知道這一點。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "At the international level, sport is frankly mimic warfare.",
     "start": 83.613,
     "end": 88.275,
@@ -152,7 +136,7 @@
     "zh_hant": "在國際層面，體育無異於模擬戰爭。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "But the significant thing is not the behaviour of the players but the attitude of the spectators:",
     "start": 88.596,
     "end": 94.639,
@@ -160,7 +144,7 @@
     "zh_hant": "但關鍵點不在於球員的表現，而在於觀眾的態度："
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "and, behind the spectators, of the nations who work themselves into furies",
     "start": 94.74,
     "end": 99.742,
@@ -168,7 +152,7 @@
     "zh_hant": "以及，在觀眾背後，那些為此大動肝火的國家，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "over these absurd contests,",
     "start": 99.663,
     "end": 101.944,
@@ -176,7 +160,7 @@
     "zh_hant": "對這些荒謬的比賽感到憤怒，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and seriously believe -- at any rate for short periods --",
     "start": 101.904,
     "end": 106.13,
@@ -184,7 +168,7 @@
     "zh_hant": "並且認真相信——至少在短期內——"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "that running, jumping and kicking a ball are tests of national virtue.",
     "start": 106.087,
     "end": 111.67,

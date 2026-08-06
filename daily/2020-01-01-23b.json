@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 45.",
+    "text": "Lesson 45 The boss's letter Listen to the tape then answer this question.",
     "start": 0.35,
-    "end": 2.962,
-    "zh": "第二十四课。",
-    "zh_hant": "第二十四課。"
+    "end": 10.971,
+    "zh": "第45课 老板的信 听录音,然后回答这个问题。",
+    "zh_hant": "第45課 老闆的信 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "The boss's letter.",
-    "start": 3.012,
-    "end": 4.852,
-    "zh": "老板的信。",
-    "zh_hant": "老闆的信。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 6.153,
-    "end": 9.214,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.015,
-    "end": 10.975,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Why can't Pamela type the letter?",
     "start": 11.956,
     "end": 15.538,
@@ -40,7 +16,7 @@
     "zh_hant": "為什麼帕梅拉不能打這封信？"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "Can you come here a minute please, Bob?",
     "start": 17.579,
     "end": 21.32,
@@ -48,7 +24,7 @@
     "zh_hant": "鮑勃，你能過來一下嗎？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "Yes, sir?",
     "start": 21.761,
     "end": 22.901,
@@ -56,7 +32,7 @@
     "zh_hant": "什麼事，先生？"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "Where's Pamela?",
     "start": 23.942,
     "end": 25.523,
@@ -64,7 +40,7 @@
     "zh_hant": "帕梅拉在哪兒？"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "She's next door.",
     "start": 26.203,
     "end": 27.984,
@@ -72,7 +48,7 @@
     "zh_hant": "她在隔壁。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "She's in her office, sir.",
     "start": 28.244,
     "end": 30.505,
@@ -80,7 +56,7 @@
     "zh_hant": "她在她的辦公室裡，先生。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Can she type this letter for me?",
     "start": 31.426,
     "end": 34.567,
@@ -88,7 +64,7 @@
     "zh_hant": "她能幫我打這封信嗎？"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Ask her please.",
     "start": 35.188,
     "end": 36.868,
@@ -96,7 +72,7 @@
     "zh_hant": "請叫她一下。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "Yes, sir.",
     "start": 36.888,
     "end": 38.069,
@@ -104,7 +80,7 @@
     "zh_hant": "好的，先生。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Can you type this letter for the boss please,",
     "start": 39.25,
     "end": 43.193,
@@ -112,7 +88,7 @@
     "zh_hant": "請你幫老闆打這封信，"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Pamela?",
     "start": 42.913,
     "end": 43.853,
@@ -120,7 +96,7 @@
     "zh_hant": "帕梅拉？"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "Yes, of course I can.",
     "start": 44.074,
     "end": 46.996,
@@ -128,7 +104,7 @@
     "zh_hant": "好的，我當然可以。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Here you are.",
     "start": 47.697,
     "end": 49.037,
@@ -136,7 +112,7 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Thank you, Bob.",
     "start": 49.318,
     "end": 51.019,
@@ -144,7 +120,7 @@
     "zh_hant": "謝謝你，鮑勃。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Bob!",
     "start": 51.84,
     "end": 52.88,
@@ -152,7 +128,7 @@
     "zh_hant": "鮑勃！"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Yes?",
     "start": 53.101,
     "end": 54.101,
@@ -160,7 +136,7 @@
     "zh_hant": "怎麼了？"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "What's the matter?",
     "start": 54.162,
     "end": 55.622,
@@ -168,7 +144,7 @@
     "zh_hant": "怎麼回事？"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "I can't type this letter.",
     "start": 56.223,
     "end": 58.725,
@@ -176,7 +152,7 @@
     "zh_hant": "我打不了這封信。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "I can't read it!",
     "start": 59.346,
     "end": 61.227,
@@ -184,7 +160,7 @@
     "zh_hant": "我看不懂！"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "The boss's handwriting is terrible!",
     "start": 61.487,
     "end": 65.57,

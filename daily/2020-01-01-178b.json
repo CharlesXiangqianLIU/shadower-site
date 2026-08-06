@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 10.",
-    "start": 6.133,
-    "end": 4.77,
-    "zh": "第10课。",
-    "zh_hant": "第10課。"
+    "text": "Lesson 10 The loss of the Titanic What'd have happened if only two of the 16 water-tight compartments had been flooded?",
+    "start": 6.131,
+    "end": 17.152,
+    "zh": "第10课 泰坦尼克号的沉没 如果16个水密舱中只有两个进水,会发生什么?",
+    "zh_hant": "第10課 泰坦尼克號的沉沒 如果16個水密艙中只有兩個進水,會發生什麼?"
   },
   {
     "index": 1,
-    "text": "The loss of the Titanic.",
-    "start": 7.333,
-    "end": 9.494,
-    "zh": "泰坦尼克号的沉没。",
-    "zh_hant": "泰坦尼克號的沉沒。"
-  },
-  {
-    "index": 2,
-    "text": "What'd have happened if only two of the 16 water-tight compartments",
-    "start": 10.495,
-    "end": 16.218,
-    "zh": "如果16个水密隔舱中只有两个",
-    "zh_hant": "如果16個水密隔艙中只有兩個"
-  },
-  {
-    "index": 3,
-    "text": "had been flooded?",
-    "start": 15.868,
-    "end": 17.158,
-    "zh": "被淹没，会发生什么？",
-    "zh_hant": "被淹沒，會發生什麼？"
-  },
-  {
-    "index": 4,
     "text": "The great ship, Titanic sailed for New York from Southampton",
     "start": 19.239,
     "end": 24.121,
@@ -40,7 +16,7 @@
     "zh_hant": "這艘巨輪泰坦尼克號於1912年4月10日"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "on April 10th, 1912.",
     "start": 24.102,
     "end": 27.133,
@@ -48,7 +24,7 @@
     "zh_hant": "從南安普敦駛往紐約。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "She was carrying 1, 316 passengers",
     "start": 27.183,
     "end": 31.805,
@@ -56,7 +32,7 @@
     "zh_hant": "她載有1，316名乘客"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "and a crew of 891.",
     "start": 31.765,
     "end": 35.257,
@@ -64,7 +40,7 @@
     "zh_hant": "和891名船員。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "Even by modern standards, the 46, 000 ton Titanic",
     "start": 35.307,
     "end": 40.57,
@@ -72,7 +48,7 @@
     "zh_hant": "即使按照現代標準，46，000噸的泰坦尼克號"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "was a colossal ship.",
     "start": 40.45,
     "end": 42.291,
@@ -80,7 +56,7 @@
     "zh_hant": "也是一艘龐大的船。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "At that time, however, she was not only the largest ship that had ever been built,",
     "start": 42.691,
     "end": 48.474,
@@ -88,7 +64,7 @@
     "zh_hant": "然而，在當時，她不僅是建造過的最大船隻，"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "but was regarded as unsinkable, for she had sixteen",
     "start": 48.394,
     "end": 53.416,
@@ -96,7 +72,7 @@
     "zh_hant": "而且被認為永不沉沒，因為她有十六個"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "water-tight compartments.",
     "start": 53.156,
     "end": 55.317,
@@ -104,7 +80,7 @@
     "zh_hant": "水密隔艙。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Even if two of these were flooded, she would still be able to float.",
     "start": 55.658,
     "end": 60.3,
@@ -112,7 +88,7 @@
     "zh_hant": "即使其中兩個被淹，她仍然能夠漂浮。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "The tragic sinking of this great liner will always be remembered,",
     "start": 60.78,
     "end": 65.882,
@@ -120,7 +96,7 @@
     "zh_hant": "這艘巨輪悲劇性的沉沒將永遠被銘記，"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "for she went down on her first voyage with heavy loss of life.",
     "start": 65.783,
     "end": 70.845,
@@ -128,7 +104,7 @@
     "zh_hant": "因為她在首航時就沉沒，造成了嚴重的人員傷亡。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Four days after setting out, while the Titanic was sailing across the icy waters",
     "start": 71.805,
     "end": 77.588,
@@ -136,7 +112,7 @@
     "zh_hant": "出發四天後，當泰坦尼克號穿越冰冷的海域時"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "of the North Atlantic,",
     "start": 77.248,
     "end": 79.049,
@@ -144,7 +120,7 @@
     "zh_hant": "北大西洋"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "a huge iceberg was suddenly spotted by a lookout.",
     "start": 79.209,
     "end": 83.411,
@@ -152,7 +128,7 @@
     "zh_hant": "瞭望員突然發現了一座巨大的冰山。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "After the alarm had been given, the great ship",
     "start": 83.832,
     "end": 87.353,
@@ -160,7 +136,7 @@
     "zh_hant": "警報發出後，這艘巨輪"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "turned sharply to avoid a direct collision.",
     "start": 87.113,
     "end": 90.455,
@@ -168,7 +144,7 @@
     "zh_hant": "急轉彎以避免直接碰撞。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "The Titanic turned just in time,",
     "start": 91.155,
     "end": 94.117,
@@ -176,7 +152,7 @@
     "zh_hant": "泰坦尼克號及時轉向，"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "narrowly missing the immense wall",
     "start": 94.217,
     "end": 96.838,
@@ -184,7 +160,7 @@
     "zh_hant": "剛好避開了巨大的冰牆"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "of ice which rose over 100 feet out of the water beside her.",
     "start": 96.488,
     "end": 101.9,
@@ -192,7 +168,7 @@
     "zh_hant": "這堵冰牆高出水面超過100英尺，就在她旁邊。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Suddenly, there was a slight trembling sound from below,",
     "start": 102.681,
     "end": 107.283,
@@ -200,7 +176,7 @@
     "zh_hant": "突然，下方傳來輕微的震動聲，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "and the captain went down to see what had happened.",
     "start": 107.503,
     "end": 111.145,
@@ -208,7 +184,7 @@
     "zh_hant": "船長下去檢視發生了什麼。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "The noise had been so faint that no one thought that the ship had been damaged.",
     "start": 111.685,
     "end": 117.028,
@@ -216,7 +192,7 @@
     "zh_hant": "這聲音非常微弱，沒人認為船受到了損壞。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "Below, the captain realized to his horror that the Titanic was sinking rapidly,",
     "start": 117.348,
     "end": 123.793,
@@ -224,7 +200,7 @@
     "zh_hant": "在下面，船長驚恐地意識到泰坦尼克號正在迅速下沉，"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "for five of her sixteen watertight compartments had already been flooded!",
     "start": 123.913,
     "end": 129.598,
@@ -232,7 +208,7 @@
     "zh_hant": "因為她的十六個水密隔艙中已有五個被淹沒！"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "The order to abandon ship was given and hundreds of people plunged into the icy",
     "start": 129.938,
     "end": 136.143,
@@ -240,7 +216,7 @@
     "zh_hant": "棄船的命令下達了，數百人跳入冰冷的海水。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "water.",
     "start": 135.793,
     "end": 136.603,
@@ -248,7 +224,7 @@
     "zh_hant": "海水。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "As there were not enough life-boats for everybody,",
     "start": 137.204,
     "end": 140.407,
@@ -256,7 +232,7 @@
     "zh_hant": "由於救生艇不夠所有人使用，"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "1, 500 lives were lost.",
     "start": 140.27,
     "end": 144.15,

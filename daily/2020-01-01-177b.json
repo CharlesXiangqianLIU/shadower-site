@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 9.",
-    "start": 0.79,
-    "end": 2.561,
-    "zh": "第9课。",
-    "zh_hant": "第9課。"
+    "text": "Lesson 9 Flying cats How do cats try to protect themselves when falling from great heights?",
+    "start": 5.11,
+    "end": 15.251,
+    "zh": "第9课 会飞的猫 猫从高处坠落时如何自我保护?",
+    "zh_hant": "第9課 會飛的貓 貓從高處墜落時如何自我保護?"
   },
   {
     "index": 1,
-    "text": "Flying cats.",
-    "start": 2.611,
-    "end": 8.014,
-    "zh": "飞行的猫。",
-    "zh_hant": "飛行的貓。"
-  },
-  {
-    "index": 2,
-    "text": "How do cats try to protect themselves when falling from great heights?",
-    "start": 9.995,
-    "end": 15.257,
-    "zh": "猫从高处坠落时如何试图保护自己？",
-    "zh_hant": "貓從高處墜落時如何試圖保護自己？"
-  },
-  {
-    "index": 3,
     "text": "Cats never fail to fascinate human beings.",
     "start": 17.259,
     "end": 21.02,
@@ -32,7 +16,7 @@
     "zh_hant": "貓總能讓人著迷。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "They can be friendly and affectionate towards humans,",
     "start": 21.741,
     "end": 24.922,
@@ -40,7 +24,7 @@
     "zh_hant": "它們對人類可以友好親暱，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "but they lead mysterious lives of their own as well.",
     "start": 24.922,
     "end": 28.784,
@@ -48,7 +32,7 @@
     "zh_hant": "但它們也過著神秘自在的生活。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "They never become submissive like dogs and horses.",
     "start": 29.425,
     "end": 33.146,
@@ -56,7 +40,7 @@
     "zh_hant": "它們從不像狗和馬那樣順從。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "As a result, humans have learned to respect feline independence.",
     "start": 33.587,
     "end": 38.689,
@@ -64,7 +48,7 @@
     "zh_hant": "因此，人類學會了尊重貓的獨立。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Most cats remain suspicious of humans all their lives.",
     "start": 39.27,
     "end": 43.532,
@@ -72,7 +56,7 @@
     "zh_hant": "大多數貓一生都對人類保持警惕。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "One of the things that fascinates us most about cats",
     "start": 43.972,
     "end": 47.734,
@@ -80,7 +64,7 @@
     "zh_hant": "最讓我們著迷的一點"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "is the popular belief that they have nine lives.",
     "start": 47.914,
     "end": 51.456,
@@ -88,7 +72,7 @@
     "zh_hant": "是普遍認為貓有九條命的說法。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Apparently, there is a good deal of truth in this idea.",
     "start": 51.836,
     "end": 56.398,
@@ -96,7 +80,7 @@
     "zh_hant": "顯然，這種說法有不少道理。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "A cat's ability to survive falls is based on fact.",
     "start": 57.659,
     "end": 62.301,
@@ -104,7 +88,7 @@
     "zh_hant": "貓從墜落中存活的能力是有事實依據的。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Recently the New York Animal Medical Centre made a study",
     "start": 63.102,
     "end": 67.784,
@@ -112,7 +96,7 @@
     "zh_hant": "最近，紐約動物醫療中心進行了一項研究"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "of 132 cats over a period of five months.",
     "start": 67.444,
     "end": 72.546,
@@ -120,7 +104,7 @@
     "zh_hant": "在五個月期間對132只貓進行了觀察。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "All these cats had one experience in common:",
     "start": 72.987,
     "end": 76.548,
@@ -128,7 +112,7 @@
     "zh_hant": "所有這些貓都有一個共同經歷："
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "they had fallen off high buildings, yet only eight of them died from shock or injuries.",
     "start": 76.969,
     "end": 83.412,
@@ -136,7 +120,7 @@
     "zh_hant": "它們都從高樓墜落，但只有八隻因休克或受傷死亡。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Of course, New York is the ideal place for such an interesting study,",
     "start": 84.033,
     "end": 89.775,
@@ -144,7 +128,7 @@
     "zh_hant": "當然，紐約是進行這種有趣研究的理想地點，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "because there is no shortage of tall buildings.",
     "start": 90.055,
     "end": 93.297,
@@ -152,7 +136,7 @@
     "zh_hant": "因為那裡不乏高樓。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "There are plenty of high-rise windowsills to fall from!",
     "start": 93.817,
     "end": 97.779,
@@ -160,7 +144,7 @@
     "zh_hant": "有大量高層的窗臺可供墜落！"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "One cat, Sabrina, fell 32 storeys,",
     "start": 98.54,
     "end": 103.222,
@@ -168,7 +152,7 @@
     "zh_hant": "一隻名叫薩布麗娜的貓從32層樓墜落，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "yet only suffered from a broken tooth.",
     "start": 103.282,
     "end": 106.003,
@@ -176,7 +160,7 @@
     "zh_hant": "卻只斷了一顆牙。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
     "start": 105.723,
     "end": 111.726,
@@ -184,7 +168,7 @@
     "zh_hant": "“貓的行為就像訓練有素的傘兵，”一位醫生說。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "It seems that the further cats fall, the less they are likely",
     "start": 112.126,
     "end": 117.409,
@@ -192,7 +176,7 @@
     "zh_hant": "似乎貓墜落得越遠，它們越不太可能"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "to injure themselves.",
     "start": 117.059,
     "end": 118.749,
@@ -200,7 +184,7 @@
     "zh_hant": "傷到自己。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
     "start": 119.15,
     "end": 124.535,
@@ -208,7 +192,7 @@
     "zh_hant": "在長距離墜落中，它們能達到每小時60英里或更高的速度。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "At high speeds, falling cats have time to relax.",
     "start": 124.956,
     "end": 129.099,
@@ -216,7 +200,7 @@
     "zh_hant": "在高速下，墜落的貓有時間放鬆。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "They stretch out their legs like flying squirrels.",
     "start": 129.16,
     "end": 133.323,
@@ -224,7 +208,7 @@
     "zh_hant": "它們像飛鼠一樣伸展四肢。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "This increases their air-resistance",
     "start": 133.684,
     "end": 136.846,
@@ -232,7 +216,7 @@
     "zh_hant": "這增加了它們的空氣阻力"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "and reduces the shock of impact when they hit the ground.",
     "start": 136.506,
     "end": 140.51,

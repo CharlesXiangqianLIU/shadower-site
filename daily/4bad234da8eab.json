@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 26.",
-    "start": 1.55,
-    "end": 3.762,
-    "zh": "第26课。",
-    "zh_hant": "第26課。"
+    "text": "Lesson 26 Wanted: a large biscuit tin",
+    "start": 1.1300000000000001,
+    "end": 5.24,
+    "zh": "第26课 求购:一个大饼干盒",
+    "zh_hant": "第26課 求購:一個大餅乾盒"
   },
   {
     "index": 1,
-    "text": "Wanted: a large biscuit",
-    "start": 3.812,
-    "end": 9.854,
-    "zh": "征寻：大饼干",
-    "zh_hant": "徵尋：大餅乾"
-  },
-  {
-    "index": 2,
-    "text": "tin.",
-    "start": 10.295,
-    "end": 10.935,
-    "zh": "罐。",
-    "zh_hant": "罐。"
-  },
-  {
-    "index": 3,
     "text": "Who won the prize for the biggest biscuit?",
-    "start": 10.795,
-    "end": 16.518,
+    "start": 5.24,
+    "end": 10.481,
     "zh": "谁赢得了最大饼干奖？",
     "zh_hant": "誰贏得了最大餅乾獎？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "No one can avoid being influenced by advertisements.",
     "start": 18.819,
     "end": 22.38,
@@ -40,7 +24,7 @@
     "zh_hant": "沒有人能避免受到廣告的影響。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want,",
     "start": 23.061,
     "end": 29.384,
@@ -48,7 +32,7 @@
     "zh_hant": "儘管我們可能以自己良好的品味而自豪，但我們不再能自由選擇自己想要的東西，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "for advertising exerts a subtle influence on us.",
     "start": 29.804,
     "end": 33.606,
@@ -56,7 +40,7 @@
     "zh_hant": "因為廣告對我們施加了一種微妙的影響。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "In their efforts to persuade us to buy this or that product,",
     "start": 34.627,
     "end": 38.468,
@@ -64,7 +48,7 @@
     "zh_hant": "在努力說服我們購買這個或那個產品的過程中，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "advertisers have made a close study of human nature",
     "start": 38.909,
     "end": 42.551,
@@ -72,7 +56,7 @@
     "zh_hant": "廣告商對人性的進行了深入研究"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and have classified all our little weaknesses.",
     "start": 42.611,
     "end": 45.752,
@@ -80,7 +64,7 @@
     "zh_hant": "並對我們所有的小弱點進行了分類。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Advertisers discovered years ago that all of us love to get something for nothing.",
     "start": 47.053,
     "end": 52.075,
@@ -88,7 +72,7 @@
     "zh_hant": "廣告商多年前就發現，我們都喜歡不勞而獲。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "An advertisement which begins with the magic word FREE can rarely go wrong.",
     "start": 52.976,
     "end": 58.719,
@@ -96,7 +80,7 @@
     "zh_hant": "以神奇的“免費”二字開頭的廣告很少出錯。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "These days, advertisers not only offer free samples,",
     "start": 59.539,
     "end": 63.941,
@@ -104,7 +88,7 @@
     "zh_hant": "如今，廣告商不僅提供免費樣品，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "but free cars, free houses, and free trips round the world",
     "start": 64.042,
     "end": 70.004,
@@ -112,7 +96,7 @@
     "zh_hant": "還提供免費汽車、免費房子和免費環球旅行"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "as well.",
     "start": 69.764,
     "end": 70.745,
@@ -120,7 +104,7 @@
     "zh_hant": "等等。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "They devise hundreds of competitions which will enable us to win huge sums of money.",
     "start": 71.365,
     "end": 76.908,
@@ -128,7 +112,7 @@
     "zh_hant": "他們設計了成百上千的比賽，使我們有機會贏得大筆金錢。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Radio and television have made it possible",
     "start": 77.908,
     "end": 80.99,
@@ -136,7 +120,7 @@
     "zh_hant": "廣播和電視使廣告商有可能"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "for advertisers to capture the attention of millions of people in this way.",
     "start": 80.64,
     "end": 85.392,
@@ -144,7 +128,7 @@
     "zh_hant": "以這種方式吸引數百萬人的注意力。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "During a radio programme,",
     "start": 86.773,
     "end": 88.734,
@@ -152,7 +136,7 @@
     "zh_hant": "在廣播節目中，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "a company of biscuit manufacturers",
     "start": 88.774,
     "end": 91.195,
@@ -160,7 +144,7 @@
     "zh_hant": "一家餅乾製造公司"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "once asked listeners to bake biscuits and send them to their factory.",
     "start": 91.356,
     "end": 96.098,
@@ -168,7 +152,7 @@
     "zh_hant": "曾要求聽眾烤制餅乾並送到他們的工廠。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "They offered to pay $10 a pound for the biggest biscuit baked by a listener.",
     "start": 97.039,
     "end": 102.821,
@@ -176,7 +160,7 @@
     "zh_hant": "他們願意為聽眾烤出的最大餅乾支付每磅10美元。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The response to this competition was tremendous.",
     "start": 103.522,
     "end": 106.463,
@@ -184,7 +168,7 @@
     "zh_hant": "這次比賽的反應非常熱烈。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Before long, biscuits of all shapes and sizes began arriving at the factory.",
     "start": 107.064,
     "end": 112.666,
@@ -192,7 +176,7 @@
     "zh_hant": "不久，各種形狀和大小的餅乾開始送到工廠。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "One lady brought biscuit on a wheelbarrow.",
     "start": 113.547,
     "end": 117.289,
@@ -200,7 +184,7 @@
     "zh_hant": "一位女士用手推車帶來了一塊餅乾。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It weighed nearly 500 pounds.",
     "start": 117.589,
     "end": 120.01,
@@ -208,7 +192,7 @@
     "zh_hant": "它重近500磅。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "A little later, a man came along with a biscuit which occupied the whole boot of his car.",
     "start": 120.77,
     "end": 126.833,
@@ -216,7 +200,7 @@
     "zh_hant": "過了一會兒，一個男人帶著一塊佔據了他汽車後備箱整個空間的餅乾來了。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "All the biscuits that were sent were carefully weighed.",
     "start": 127.734,
     "end": 131.375,
@@ -224,7 +208,7 @@
     "zh_hant": "所有寄來的餅乾都被仔細稱重。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "The largest was 713 pounds.",
     "start": 131.816,
     "end": 135.537,
@@ -232,7 +216,7 @@
     "zh_hant": "最大的重713磅。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "It seemed certain that this would win the prize.",
     "start": 136.278,
     "end": 139.499,
@@ -240,7 +224,7 @@
     "zh_hant": "看來這塊餅乾肯定能贏得獎品。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "But just before the competition closed,",
     "start": 139.94,
     "end": 142.741,
@@ -248,7 +232,7 @@
     "zh_hant": "但就在比賽結束前，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "a lorry arrived at the factory with a truly colossal biscuit",
     "start": 142.701,
     "end": 146.963,
@@ -256,7 +240,7 @@
     "zh_hant": "一輛卡車運來了一塊真正巨大的餅乾到達工廠，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "which weighed 2, 400 pounds.",
     "start": 146.963,
     "end": 150.625,
@@ -264,7 +248,7 @@
     "zh_hant": "重達2400磅。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "It had been baked by a college student who had used over 1, 000 pounds",
     "start": 151.445,
     "end": 156.208,
@@ -272,7 +256,7 @@
     "zh_hant": "它是由一名大學生烤制的，他用了超過1000磅"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "of flour, 800 pounds of sugar, 200 pounds of fat,",
     "start": 155.858,
     "end": 161.471,
@@ -280,7 +264,7 @@
     "zh_hant": "麵粉、800磅糖、200磅油脂，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "and 400 pounds of various other ingredients.",
     "start": 161.732,
     "end": 164.974,
@@ -288,7 +272,7 @@
     "zh_hant": "以及400磅各種其他原料。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "It was so heavy that a crane had to be used to remove it from the lorry.",
     "start": 165.596,
     "end": 170.56,
@@ -296,7 +280,7 @@
     "zh_hant": "它太重了，必須用起重機才能從卡車上卸下來。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "The manufacturers had to pay more money than they had anticipated,",
     "start": 171.061,
     "end": 175.765,
@@ -304,7 +288,7 @@
     "zh_hant": "製造商不得不支付比預期更多的錢，"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "for they bought the biscuit from the student for $24, 000.",
     "start": 176.086,
     "end": 183.21,

@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 58.",
+    "text": "Lesson 58 A spot of bother What did the old lady find when she got home?",
     "start": 0.49,
-    "end": 2.381,
-    "zh": "第58课。",
-    "zh_hant": "第58課。"
+    "end": 12.896,
+    "zh": "第58课 一点小麻烦 老太太回家时发现了什么？",
+    "zh_hant": "第58課 一點小麻煩 老太太回家時發現了什麼？"
   },
   {
     "index": 1,
-    "text": "A spot of bother.",
-    "start": 2.431,
-    "end": 4.23,
-    "zh": "一点儿小麻烦。",
-    "zh_hant": "一點兒小麻煩。"
-  },
-  {
-    "index": 2,
-    "text": "What did the old lady find when she got home?",
-    "start": 8.474,
-    "end": 12.896,
-    "zh": "那位老太太回家时发现了什么？",
-    "zh_hant": "那位老太太回家時發現了什麼？"
-  },
-  {
-    "index": 3,
     "text": "The old lady was glad to be back at the block of flats where she lived.",
     "start": 14.637,
     "end": 20.34,
@@ -32,7 +16,7 @@
     "zh_hant": "老太太很高興回到她住的公寓樓。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Her shopping had tired her and her basket had grown heavier with every step of the way home.",
     "start": 20.76,
     "end": 27.744,
@@ -40,7 +24,7 @@
     "zh_hant": "購物讓她筋疲力盡，每走一步回家的路，籃子都變得更重。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor,",
     "start": 28.204,
     "end": 35.527,
@@ -48,7 +32,7 @@
     "zh_hant": "在電梯裡，她滿腦子想的是午飯和好好休息；但當她到了自己樓層出來時，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "both were forgotten in her sudden discovery that her front door was open.",
     "start": 35.688,
     "end": 41.351,
@@ -56,7 +40,7 @@
     "zh_hant": "這兩件事都被突然發現前門開著而拋到了腦後。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "She was thinking that she must reprimand her home help the next morning",
     "start": 42.031,
     "end": 47.094,
@@ -64,7 +48,7 @@
     "zh_hant": "她想著第二天早上一定要責罵她的家政助手，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "for such a monstrous piece of negligence, when she remembered",
     "start": 46.954,
     "end": 51.956,
@@ -72,7 +56,7 @@
     "zh_hant": "因為這種極其嚴重的疏忽，這時她突然想起，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "that she had gone shopping after the home help had left",
     "start": 51.816,
     "end": 55.878,
@@ -80,7 +64,7 @@
     "zh_hant": "她是在家政助手離開後才去購物的，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "and she knew that she had turned both keys in their locks.",
     "start": 55.978,
     "end": 60.12,
@@ -88,7 +72,7 @@
     "zh_hant": "而且她知道她把兩把鑰匙都鎖上了。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "She walked slowly into the hall and at once noticed that all the room doors were open,",
     "start": 60.6,
     "end": 67.103,
@@ -96,7 +80,7 @@
     "zh_hant": "她慢慢走進門廳，立刻注意到所有房間的門都敞開著，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "yet following her regular practice she had shut them before going out.",
     "start": 67.544,
     "end": 72.486,
@@ -104,7 +88,7 @@
     "zh_hant": "然而按照她平時的習慣，出門前她都會關上這些門。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
     "start": 72.666,
     "end": 78.929,
@@ -112,7 +96,7 @@
     "zh_hant": "她朝客廳裡望去，看到書桌那邊一片凌亂的景象。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "It was as clear as daylight then that burglars had forced an entry during her absence.",
     "start": 79.27,
     "end": 85.153,
@@ -120,7 +104,7 @@
     "zh_hant": "事情再明顯不過了——她不在時，竊賊強行闖入了。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Her first impulse was to go round all the rooms looking for the thieves,",
     "start": 85.833,
     "end": 90.976,
@@ -128,7 +112,7 @@
     "zh_hant": "她第一反應是去各個房間找小偷，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "but then she decided that at her age it might be more prudent to have someone with her,",
     "start": 91.156,
     "end": 97.379,
@@ -136,7 +120,7 @@
     "zh_hant": "但隨後她決定，以她這個年紀，找個人陪著可能更謹慎，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "so she went to fetch the porter from his basement.",
     "start": 97.639,
     "end": 100.98,
@@ -144,7 +128,7 @@
     "zh_hant": "於是她去地下室找門房。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "By this time her legs were beginning to tremble,",
     "start": 101.641,
     "end": 104.982,
@@ -152,7 +136,7 @@
     "zh_hant": "這時她的腿開始發抖，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "so she sat down and accepted a cup of very strong tea, while he telephoned the police.",
     "start": 105.003,
     "end": 111.886,
@@ -160,7 +144,7 @@
     "zh_hant": "所以她坐下來，接過一杯濃茶，而門房則打電話報了警。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Then, her composure regained,",
     "start": 112.266,
     "end": 115.147,
@@ -168,7 +152,7 @@
     "zh_hant": "接著，她恢復了鎮定，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "she was ready to set off with the porter's assistance",
     "start": 115.168,
     "end": 119.029,
@@ -176,7 +160,7 @@
     "zh_hant": "準備在門房的幫助下出發，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "to search for any intruders who might still be lurking in her flat.",
     "start": 118.869,
     "end": 123.792,
@@ -184,7 +168,7 @@
     "zh_hant": "去搜尋可能仍潛伏在她公寓裡的入侵者。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "They went through the rooms, being careful to touch nothing,",
     "start": 124.553,
     "end": 128.554,
@@ -192,7 +176,7 @@
     "zh_hant": "他們逐個房間走過，小心不去碰任何東西，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "as they did not want to hinder the police in their search for fingerprints.",
     "start": 128.535,
     "end": 133.397,
@@ -200,7 +184,7 @@
     "zh_hant": "因為他們不想妨礙警方尋找指紋。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The chaos was inconceivable.",
     "start": 133.717,
     "end": 136.939,
@@ -208,7 +192,7 @@
     "zh_hant": "混亂程度令人難以置信。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "She had lived in the flat for thirty years and was a veritable magpie at hoarding:",
     "start": 137.239,
     "end": 143.382,
@@ -216,7 +200,7 @@
     "zh_hant": "她在這間公寓住了三十年，是個名副其實的囤積癖："
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "and it seemed as though everything she possessed had been tossed out and turned over and over.",
     "start": 143.562,
     "end": 150.305,
@@ -224,7 +208,7 @@
     "zh_hant": "似乎她擁有的一切都被翻出來，翻來覆去。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "At least sorting out the things she should have discarded years ago was now being made easier for her.",
     "start": 150.946,
     "end": 157.769,
@@ -232,7 +216,7 @@
     "zh_hant": "至少，整理那些她多年前就該扔掉的東西現在變得容易多了。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Then a police inspector arrived with a constable",
     "start": 158.73,
     "end": 162.051,
@@ -240,7 +224,7 @@
     "zh_hant": "然後一位警探帶著一名警察來了，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "and she told them of her discovery of the ransacked flat.",
     "start": 162.072,
     "end": 166.454,
@@ -248,7 +232,7 @@
     "zh_hant": "她告訴他們她發現公寓被洗劫的情況。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "The inspector began to look for fingerprints,",
     "start": 167.054,
     "end": 169.815,
@@ -256,7 +240,7 @@
     "zh_hant": "警探開始尋找指紋，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "while the constable checked that the front door locks had not been forced,",
     "start": 169.755,
     "end": 174.277,
@@ -264,7 +248,7 @@
     "zh_hant": "而警察則檢查前門鎖是否被強行撬開，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
     "start": 174.338,
     "end": 181.541,
@@ -272,7 +256,7 @@
     "zh_hant": "從而證明竊賊要麼用了萬能鑰匙，要麼從陽臺進入。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "There was no trace of fingerprints, but the inspector found a dirty red bundle",
     "start": 181.961,
     "end": 188.024,
@@ -280,7 +264,7 @@
     "zh_hant": "沒有指紋痕跡，但警探發現了一個髒兮兮的紅色包裹，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "that contained jewellery which the old lady said was not hers.",
     "start": 187.884,
     "end": 192.646,
@@ -288,7 +272,7 @@
     "zh_hant": "裡面裝著首飾，老太太說那不是她的。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "So their entry into this flat was apparently not the burglars' first job",
     "start": 193.067,
     "end": 198.789,
@@ -296,7 +280,7 @@
     "zh_hant": "所以他們進入這間公寓顯然不是竊賊那天的第一單活兒，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "that day and they must have been disturbed.",
     "start": 198.439,
     "end": 201.672,
@@ -304,7 +288,7 @@
     "zh_hant": "而且他們一定是被打斷了。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "The inspector then asked the old lady to try to check what was missing by the next day,",
     "start": 201.732,
     "end": 208.096,
@@ -312,7 +296,7 @@
     "zh_hant": "警探隨後請老太太第二天儘量核對丟失了什麼，"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "and advised her not to stay alone in the flat for a few nights.",
     "start": 208.157,
     "end": 212.62,
@@ -320,7 +304,7 @@
     "zh_hant": "並建議她接下來幾晚不要獨自留在公寓裡。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "The old lady thought he was a fussy creature, but since the porter agreed with him,",
     "start": 212.82,
     "end": 219.004,
@@ -328,7 +312,7 @@
     "zh_hant": "老太太覺得他有點小題大做，但既然門房也同意他，"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "she rang up her daughter and asked for her help",
     "start": 218.984,
     "end": 222.446,
@@ -336,7 +320,7 @@
     "zh_hant": "她打電話給女兒求助，"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "in what she described as a little spot of bother.",
     "start": 222.387,
     "end": 227.21,

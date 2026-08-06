@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 12.",
-    "start": 1.53,
-    "end": 5.03,
-    "zh": "第12课。",
-    "zh_hant": "第12課。"
+    "text": "Lesson 12 Life on a desert island",
+    "start": 3.6499999999999995,
+    "end": 10.622,
+    "zh": "第12课 荒岛生活",
+    "zh_hant": "第12課 荒島生活"
   },
   {
     "index": 1,
-    "text": "Life on a desert island.",
-    "start": 7.753,
-    "end": 10.975,
-    "zh": "荒岛上的生活。",
-    "zh_hant": "荒島上的生活。"
+    "text": "What was exceptional about the two men's stay on the desert island?",
+    "start": 13.482,
+    "end": 17.703,
+    "zh": "这两个人在荒岛上的经历有什么特别之处？",
+    "zh_hant": "這兩個人在荒島上的經歷有什麼特別之處？"
   },
   {
     "index": 2,
-    "text": "What was exceptional about the two men's stay on the desert island?",
-    "start": 13.456,
-    "end": 18.058,
-    "zh": "这两个人在荒岛上的逗留有什么特别之处？",
-    "zh_hant": "這兩個人在荒島上的逗留有什麼特別之處？"
-  },
-  {
-    "index": 3,
     "text": "Most of us have formed an unrealistic picture of life on a desert island.",
     "start": 20.38,
     "end": 25.442,
@@ -32,7 +24,7 @@
     "zh_hant": "我們大多數人對荒島生活形成了一種不切實際的想象。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines.",
     "start": 26.283,
     "end": 32.625,
@@ -40,7 +32,7 @@
     "zh_hant": "我們有時想象荒島是一種天堂，那裡陽光總是照耀。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Life there is simple and good.",
     "start": 33.646,
     "end": 36.027,
@@ -48,7 +40,7 @@
     "zh_hant": "那裡的生活簡單而美好。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Ripe fruit falls from the trees and you never have to work.",
     "start": 36.568,
     "end": 40.329,
@@ -56,7 +48,7 @@
     "zh_hant": "成熟的果實從樹上落下，你永遠不必工作。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "The other side of the picture is quite the opposite.",
     "start": 40.73,
     "end": 43.531,
@@ -64,7 +56,7 @@
     "zh_hant": "另一面的景象恰恰相反。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Life on a desert island is wretched.",
     "start": 44.252,
     "end": 47.153,
@@ -72,7 +64,7 @@
     "zh_hant": "荒島上的生活是悲慘的。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "You either starve to death or live like Robinson Crusoe,",
     "start": 47.453,
     "end": 51.255,
@@ -80,7 +72,7 @@
     "zh_hant": "你要麼餓死，要麼像魯濱遜·克魯索那樣生活，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "waiting for a boat which never comes.",
     "start": 51.555,
     "end": 54.237,
@@ -88,7 +80,7 @@
     "zh_hant": "等待一艘永遠不會來的船。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Perhaps there is an element of truth in both these pictures,",
     "start": 55.217,
     "end": 58.879,
@@ -96,7 +88,7 @@
     "zh_hant": "也許這兩種景象都有一定的真實性，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "but few of us have had the opportunity to find out.",
     "start": 59.279,
     "end": 62.441,
@@ -104,7 +96,7 @@
     "zh_hant": "但我們很少有人有機會去弄清楚。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Two men who recently spent five days on a coral island wished they had stayed there longer.",
     "start": 63.581,
     "end": 69.424,
@@ -112,7 +104,7 @@
     "zh_hant": "最近有兩個人在一個珊瑚島上度過了五天，他們希望自己能在那裡待得更久。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
     "start": 70.205,
     "end": 76.327,
@@ -120,7 +112,7 @@
     "zh_hant": "他們正把一艘嚴重損壞的船從維爾京群島開到邁阿密去修理。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "During the journey, their boat began to sink.",
     "start": 76.788,
     "end": 79.889,
@@ -128,7 +120,7 @@
     "zh_hant": "在旅途中，他們的船開始下沉。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer",
     "start": 80.27,
     "end": 85.532,
@@ -136,7 +128,7 @@
     "zh_hant": "他們迅速在一個小橡皮艇裡裝上食物、火柴和幾罐啤酒，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.",
     "start": 85.493,
     "end": 91.355,
@@ -144,7 +136,7 @@
     "zh_hant": "然後劃了幾英里，穿過加勒比海，直到抵達一個很小的珊瑚島。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "There were hardly any trees on the island and there was no water,",
     "start": 92.536,
     "end": 96.438,
@@ -152,7 +144,7 @@
     "zh_hant": "島上幾乎沒有樹，也沒有水，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "but this did not prove to be a problem.",
     "start": 96.838,
     "end": 99.079,
@@ -160,7 +152,7 @@
     "zh_hant": "但這並沒有成為問題。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "The men collected rainwater in the rubber dinghy.",
     "start": 99.72,
     "end": 102.861,
@@ -168,7 +160,7 @@
     "zh_hant": "這兩個人用橡皮艇收集雨水。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "As they had brought a spear gun with them, they had plenty to eat.",
     "start": 103.561,
     "end": 107.183,
@@ -176,7 +168,7 @@
     "zh_hant": "因為他們帶了一支魚槍，所以有充足的食物可吃。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "They caught lobster and fish every day, and as one of them put it 'ate like kings'.",
     "start": 107.643,
     "end": 113.646,
@@ -184,7 +176,7 @@
     "zh_hant": "他們每天抓龍蝦和魚，正如其中一人所說，他們“吃得像國王一樣”。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "When a passing tanker rescued them five days later,",
     "start": 114.127,
     "end": 117.428,
@@ -192,7 +184,7 @@
     "zh_hant": "五天後，當一艘路過的油輪救了他們時，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "both men were genuinely sorry that they had to leave.",
     "start": 117.668,
     "end": 121.887,

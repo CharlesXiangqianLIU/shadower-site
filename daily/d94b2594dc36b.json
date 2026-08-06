@@ -1,38 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 12.",
-    "start": 1.55,
-    "end": 3.101,
-    "zh": "第十二课。",
-    "zh_hant": "第十二課。"
+    "text": "Lesson 12",
+    "start": 1.58,
+    "end": 1.98,
+    "zh": "第12课",
+    "zh_hant": "第12課"
   },
   {
     "index": 1,
-    "text": "Banks",
-    "start": 3.151,
-    "end": 7.993,
-    "zh": "银行",
-    "zh_hant": "銀行"
+    "text": "Banks and their customers",
+    "start": 3.18,
+    "end": 7.64,
+    "zh": "银行与客户",
+    "zh_hant": "銀行與客戶"
   },
   {
     "index": 2,
-    "text": "and their customers.",
-    "start": 7.974,
-    "end": 10.435,
-    "zh": "及其顾客。",
-    "zh_hant": "及其顧客。"
+    "text": "Why is there no risk to the customer when a bank prints the customer's name on his cheques?",
+    "start": 12.621,
+    "end": 18.361,
+    "zh": "为什么银行在客户的支票上印上客户的姓名，对客户来说没有任何风险？",
+    "zh_hant": "為什麼銀行在客戶的支票上印上客戶的姓名，對客戶來說沒有任何風險？"
   },
   {
     "index": 3,
-    "text": "Why is there no risk to the customer when a bank prints the customer's name on his cheques?",
-    "start": 12.596,
-    "end": 18.719,
-    "zh": "当银行把客户的名字印在支票上时，为什么客户没有风险？",
-    "zh_hant": "當銀行把客戶的名字印在支票上時，為什麼客戶沒有風險？"
-  },
-  {
-    "index": 4,
     "text": "When anyone opens a current account at a bank, he is lending the bank money,",
     "start": 21.1,
     "end": 26.222,
@@ -40,7 +32,7 @@
     "zh_hant": "任何人在銀行開活期賬戶時，就是在把錢借給銀行，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "repayment of which he may demand at any time",
     "start": 26.563,
     "end": 30.064,
@@ -48,7 +40,7 @@
     "zh_hant": "他可以隨時要求償還這筆錢"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "either in cash or by drawing a cheque in favour of another person.",
     "start": 30.265,
     "end": 35.007,
@@ -56,7 +48,7 @@
     "zh_hant": "或取現金，或開一張支付給他人的支票。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Primarily, the banker-customer relationship is that of debtor and creditor--",
     "start": 35.847,
     "end": 42.091,
@@ -64,7 +56,7 @@
     "zh_hant": "從根本上說，銀行與客戶的關係是債務人與債權人的關係——"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "who is which depending on whether the customer's account is in credit or is overdrawn.",
     "start": 42.991,
     "end": 49.074,
@@ -72,7 +64,7 @@
     "zh_hant": "誰是債務人和債權人，取決於客戶的賬戶是貸方餘額還是透支。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "But, in addition to that basically simple concept,",
     "start": 49.735,
     "end": 53.696,
@@ -80,7 +72,7 @@
     "zh_hant": "但除了這個基本概念之外，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "the bank and its customer owe a large number of obligations to one another.",
     "start": 53.877,
     "end": 58.879,
@@ -88,7 +80,7 @@
     "zh_hant": "銀行與其客戶還彼此承擔著許多義務。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Many of these obligations can give rise to problems and complications",
     "start": 60.02,
     "end": 64.642,
@@ -96,7 +88,7 @@
     "zh_hant": "其中許多義務可能引發問題和糾紛。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "but a bank customer, unlike, say, a buyer of goods,",
     "start": 64.782,
     "end": 69.104,
@@ -104,7 +96,7 @@
     "zh_hant": "但銀行客戶，不像比如買商品的買家那樣，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "cannot complain that the law is loaded against him.",
     "start": 69.184,
     "end": 72.906,
@@ -112,7 +104,7 @@
     "zh_hant": "不能說法律偏袒對方。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "The bank must obey its customer's instructions, and not those of anyone else.",
     "start": 74.087,
     "end": 79.429,
@@ -120,7 +112,7 @@
     "zh_hant": "銀行必須遵從客戶的指示，而不是任何其他人的指示。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "When, for example, a customer first opens an account,",
     "start": 79.949,
     "end": 83.511,
@@ -128,7 +120,7 @@
     "zh_hant": "例如，當客戶最初開戶時，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "he instructs the bank to debit his account only in respect of cheques drawn by himself.",
     "start": 83.712,
     "end": 89.634,
@@ -136,7 +128,7 @@
     "zh_hant": "他指示銀行僅根據他本人簽發的支票記入其賬戶借方。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "He gives the bank specimens of his signature,",
     "start": 90.735,
     "end": 93.736,
@@ -144,7 +136,7 @@
     "zh_hant": "他給銀行留下簽名樣本，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "and there is a very firm rule that the bank has no right or authority",
     "start": 93.897,
     "end": 98.699,
@@ -152,7 +144,7 @@
     "zh_hant": "並且有一條非常嚴格的規定：銀行無權或沒有權威"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "to pay out a customer's money on a cheque on which its customer's signature has been forged.",
     "start": 98.599,
     "end": 104.742,
@@ -160,7 +152,7 @@
     "zh_hant": "在客戶簽名被偽造的支票上支付客戶的錢。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "It makes no difference that the forgery may have been a very skillful one:",
     "start": 105.202,
     "end": 109.724,
@@ -168,7 +160,7 @@
     "zh_hant": "即使偽造非常巧妙，也沒有區別："
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "the bank must recognize its customer's signature.",
     "start": 109.945,
     "end": 113.706,
@@ -176,7 +168,7 @@
     "zh_hant": "銀行必須認出客戶的簽名。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "For this reason there is no risk to the customer in the practice,",
     "start": 114.347,
     "end": 118.429,
@@ -184,7 +176,7 @@
     "zh_hant": "因此，在銀行把客戶名字印在支票上的做法中，客戶沒有風險。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "adopted by banks, of printing the customer's name on his cheques.",
     "start": 118.209,
     "end": 122.595,
@@ -192,7 +184,7 @@
     "zh_hant": "這種做法是銀行採用的。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "If this facilitates forgery, it is the bank which will lose, not the customer.",
     "start": 123.638,
     "end": 129.589,

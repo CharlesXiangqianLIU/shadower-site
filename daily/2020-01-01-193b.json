@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 25.",
-    "start": 4.913,
-    "end": 4.01,
-    "zh": "第25课。",
-    "zh_hant": "第25課。"
+    "text": "Lesson 25 The Cutty Sark What piece of bad luck prevented the Cutty Sark from winning the race?",
+    "start": 4.91,
+    "end": 14.871,
+    "zh": "第25课 “卡蒂萨克”号 是什么厄运使“卡蒂萨克”号未能赢得比赛?",
+    "zh_hant": "第25課 “卡蒂薩克”號 是什麼厄運使“卡蒂薩克”號未能贏得比賽?"
   },
   {
     "index": 1,
-    "text": "The Cutty Sark.",
-    "start": 5.413,
-    "end": 7.774,
-    "zh": "卡蒂萨克号。",
-    "zh_hant": "卡蒂薩克號。"
-  },
-  {
-    "index": 2,
-    "text": "What piece of bad luck prevented the Cutty Sark from winning the race?",
-    "start": 9.495,
-    "end": 14.877,
-    "zh": "是什么不幸的事阻止了卡蒂萨克号赢得比赛？",
-    "zh_hant": "是什麼不幸的事阻止了卡蒂薩克號贏得比賽？"
-  },
-  {
-    "index": 3,
     "text": "One of the most famous sailing ships of the nineteenth century,",
     "start": 16.178,
     "end": 20.14,
@@ -32,7 +16,7 @@
     "zh_hant": "十九世紀最著名的帆船之一，"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "the Cutty Sark, can still be seen at Greenwich.",
     "start": 20.2,
     "end": 24.042,
@@ -40,7 +24,7 @@
     "zh_hant": "卡蒂薩克號，至今仍可在格林尼治看到。"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "She stands on dry land and is visited by thousands of people each year.",
     "start": 24.342,
     "end": 29.845,
@@ -48,7 +32,7 @@
     "zh_hant": "它矗立在陸地上，每年有成千上萬的人前來參觀。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "She serves as an impressive reminder of the great ships of the past.",
     "start": 30.245,
     "end": 35.788,
@@ -56,7 +40,7 @@
     "zh_hant": "它作為昔日偉大船隻的令人印象深刻的紀念物。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "Before they were replaced by steamships,",
     "start": 36.008,
     "end": 38.869,
@@ -64,7 +48,7 @@
     "zh_hant": "在它們被蒸汽船取代之前，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "sailing vessels like the Cutty Sark were used to carry tea from China",
     "start": 39.09,
     "end": 44.733,
@@ -72,7 +56,7 @@
     "zh_hant": "像卡蒂薩克號這樣的帆船曾被用來從中國運茶"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and wool from Australia.",
     "start": 44.693,
     "end": 46.734,
@@ -80,7 +64,7 @@
     "zh_hant": "和從澳大利亞運羊毛。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "The Cutty Sark was one of the fastest sailing ships that has ever been built.",
     "start": 47.254,
     "end": 52.897,
@@ -88,7 +72,7 @@
     "zh_hant": "卡蒂薩克號是曾經建造過的最快的帆船之一。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "The only other ship to match her was the Thermopylae.",
     "start": 53.157,
     "end": 57.619,
@@ -96,7 +80,7 @@
     "zh_hant": "唯一能與它匹敵的船是賽莫皮利號。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Both these ships set out from Shanghai on June 18th, 1872",
     "start": 58.159,
     "end": 64.532,
@@ -104,7 +88,7 @@
     "zh_hant": "這兩艘船於1872年6月18日從上海出發，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "on an exciting race to England.",
     "start": 64.582,
     "end": 67.304,
@@ -112,7 +96,7 @@
     "zh_hant": "展開一場激動人心的前往英國的比賽。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "This race, which went on for exactly four months,",
     "start": 67.844,
     "end": 72.126,
@@ -120,7 +104,7 @@
     "zh_hant": "這場比賽，恰好持續了四個月，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "was the last of its kind.",
     "start": 72.046,
     "end": 74.427,
@@ -128,7 +112,7 @@
     "zh_hant": "是同類比賽中的最後一次。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "It marked the end of the great tradition of ships with sails",
     "start": 74.567,
     "end": 79.129,
@@ -136,7 +120,7 @@
     "zh_hant": "它標誌著偉大帆船傳統的結束"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "and the beginning of a new era.",
     "start": 79.15,
     "end": 81.831,
@@ -144,7 +128,7 @@
     "zh_hant": "和一個新時代的開始。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "The first of the two ships to reach Java after the race had begun",
     "start": 82.512,
     "end": 87.354,
@@ -152,7 +136,7 @@
     "zh_hant": "比賽開始後，兩艘船中第一艘到達爪哇的"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "was the Thermopylae,",
     "start": 87.394,
     "end": 89.175,
@@ -160,7 +144,7 @@
     "zh_hant": "是賽莫皮利號，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "but on the Indian Ocean, the Cutty Sark took the lead.",
     "start": 89.235,
     "end": 93.577,
@@ -168,7 +152,7 @@
     "zh_hant": "但在印度洋上，卡蒂薩克號取得了領先。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "It seemed certain that she would be the first ship home,",
     "start": 93.837,
     "end": 97.559,
@@ -176,7 +160,7 @@
     "zh_hant": "看來它肯定會是第一艘回港的船，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "but during the race she had a lot of bad luck.",
     "start": 97.579,
     "end": 101.321,
@@ -184,7 +168,7 @@
     "zh_hant": "但在比賽中它遭遇了許多不幸。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "In August, she was struck by a very heavy storm",
     "start": 101.701,
     "end": 105.963,
@@ -192,7 +176,7 @@
     "zh_hant": "八月，它被一場非常猛烈的風暴襲擊，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "during which her rudder was torn away.",
     "start": 105.943,
     "end": 108.864,
@@ -200,7 +184,7 @@
     "zh_hant": "期間它的舵被撕掉了。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The Cutty Sark rolled from side to side and it became impossible to steer her.",
     "start": 109.285,
     "end": 115.268,
@@ -208,7 +192,7 @@
     "zh_hant": "卡蒂薩克號左右搖晃，變得無法操縱。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "A temporary rudder was made on board from spare planks",
     "start": 115.888,
     "end": 120.431,
@@ -216,7 +200,7 @@
     "zh_hant": "船上用備用木板製作了一個臨時舵，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "and it was fitted with great difficulty.",
     "start": 120.331,
     "end": 123.172,
@@ -224,7 +208,7 @@
     "zh_hant": "並且費了很大力氣才安裝好。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "This greatly reduced the speed of the ship,",
     "start": 123.613,
     "end": 126.754,
@@ -232,7 +216,7 @@
     "zh_hant": "這大大降低了船的速度，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "for there was a danger that if she travelled too quickly,",
     "start": 126.734,
     "end": 130.796,
@@ -240,7 +224,7 @@
     "zh_hant": "因為如果它航行太快，存在危險，"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "this rudder would be torn away as well.",
     "start": 130.856,
     "end": 133.837,
@@ -248,7 +232,7 @@
     "zh_hant": "這個舵也會被撕掉。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Because of this, the Cutty Sark lost her lead.",
     "start": 134.378,
     "end": 138.26,
@@ -256,7 +240,7 @@
     "zh_hant": "由於這個原因，卡蒂薩克號失去了領先地位。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "After crossing the Equator, the captain called in at a port",
     "start": 138.7,
     "end": 143.342,
@@ -264,7 +248,7 @@
     "zh_hant": "穿過赤道後，船長停靠了一個港口"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "to have a new rudder fitted,",
     "start": 143.202,
     "end": 145.383,
@@ -272,7 +256,7 @@
     "zh_hant": "去安裝一個新舵，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "but by now the Thermopylae was over five hundred miles ahead.",
     "start": 145.384,
     "end": 150.606,
@@ -280,7 +264,7 @@
     "zh_hant": "但此時賽莫皮利號已經領先五百多英里了。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "Though the new rudder was fitted at tremendous speed,",
     "start": 150.986,
     "end": 154.748,
@@ -288,7 +272,7 @@
     "zh_hant": "儘管新舵以極快的速度安裝好了，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "it was impossible for the Cutty Sark to win.",
     "start": 154.868,
     "end": 158.43,
@@ -296,7 +280,7 @@
     "zh_hant": "卡蒂薩克號也不可能贏了。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "She arrived in England a week after the Thermopylae.",
     "start": 159.171,
     "end": 162.955,
@@ -304,7 +288,7 @@
     "zh_hant": "它比賽莫皮利號晚一週到達英國。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "Even this was remarkable, considering that she had had so many delays.",
     "start": 163.316,
     "end": 168.842,
@@ -312,7 +296,7 @@
     "zh_hant": "考慮到它經歷了這麼多延誤，這已經很了不起了。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "There is no doubt that if she had not lost her rudder",
     "start": 169.183,
     "end": 173.207,
@@ -320,7 +304,7 @@
     "zh_hant": "毫無疑問，如果它沒有失去舵，"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "she would have won the race easily.",
     "start": 173.307,
     "end": 175.81,

@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 47.",
-    "start": 6.373,
-    "end": 5.27,
-    "zh": "第四十七课。",
-    "zh_hant": "第四十七課。"
+    "text": "Lesson 47 Too high a price?",
+    "start": 6.032,
+    "end": 9.183,
+    "zh": "第47课 代价太高了?",
+    "zh_hant": "第47課 代價太高了?"
   },
   {
     "index": 1,
-    "text": "Too high a price?",
-    "start": 6.653,
-    "end": 9.534,
-    "zh": "代价太高了吗？",
-    "zh_hant": "代價太高了嗎？"
-  },
-  {
-    "index": 2,
     "text": "What does the writer describe as an 'amusing",
     "start": 11.935,
     "end": 15.497,
@@ -24,7 +16,7 @@
     "zh_hant": "作者把什麼描述為一種‘有趣的"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "old-fashioned source of noise' ?",
     "start": 15.177,
     "end": 18.73,
@@ -32,7 +24,7 @@
     "zh_hant": "老式噪音來源’？"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Pollution is the price we pay for an overpopulated, overindustrialized planet.",
     "start": 19.579,
     "end": 25.222,
@@ -40,7 +32,7 @@
     "zh_hant": "汙染是我們為人口過剩、工業過度的星球付出的代價。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "When you come to think about it,",
     "start": 25.622,
     "end": 27.283,
@@ -48,7 +40,7 @@
     "zh_hant": "細想一下，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "there are only four ways you can deal with rubbish: dump it,",
     "start": 27.303,
     "end": 31.445,
@@ -56,7 +48,7 @@
     "zh_hant": "處理垃圾只有四種方法：傾倒，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "burn it, turn it into something you can use again, attempt to produce less of it.",
     "start": 31.765,
     "end": 37.348,
@@ -64,7 +56,7 @@
     "zh_hant": "焚燒，轉化為可再利用之物，或儘量少產生垃圾。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "We keep trying all four methods,",
     "start": 37.648,
     "end": 39.849,
@@ -72,7 +64,7 @@
     "zh_hant": "我們一直嘗試這四種方法，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "but sheer volume of rubbish we produce worldwide threatens to overwhelm us.",
     "start": 39.869,
     "end": 45.152,
@@ -80,7 +72,7 @@
     "zh_hant": "但全球產生的垃圾量之大，幾乎要把我們壓垮。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Rubbish, however, is only part of the problem of polluting our planet.",
     "start": 46.133,
     "end": 50.174,
@@ -88,7 +80,7 @@
     "zh_hant": "然而，垃圾只是汙染地球問題的一部分。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "The need to produce ever increasing quantities of cheap food leads to a different kind of pollution.",
     "start": 50.395,
     "end": 56.758,
@@ -96,7 +88,7 @@
     "zh_hant": "對廉價食品需求不斷增加，導致了另一種汙染。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Industriallized farming metheods produce cheap meat products:",
     "start": 57.378,
     "end": 61.4,
@@ -104,7 +96,7 @@
     "zh_hant": "工業化養殖方法生產出廉價的肉類產品："
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "beef, pork and chicken.",
     "start": 61.56,
     "end": 64.041,
@@ -112,7 +104,7 @@
     "zh_hant": "牛肉、豬肉和雞肉。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "The use of pesticides and fertilizers produces cheap grain and vegetables.",
     "start": 64.362,
     "end": 70.004,
@@ -120,7 +112,7 @@
     "zh_hant": "使用殺蟲劑和化肥生產出廉價的穀物和蔬菜。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "The price we pay for cheap food may be already too high:",
     "start": 70.565,
     "end": 74.547,
@@ -128,7 +120,7 @@
     "zh_hant": "我們為廉價食品付出的代價可能已經太高："
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Mad Cow Disease (BSE) in cattle,",
     "start": 75.027,
     "end": 78.649,
@@ -136,7 +128,7 @@
     "zh_hant": "牛身上的瘋牛病（BSE），"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "salmonella in chicken and eggs, and listeria in dairy products.",
     "start": 78.849,
     "end": 84.212,
@@ -144,7 +136,7 @@
     "zh_hant": "雞肉和雞蛋中的沙門氏菌，以及乳製品中的李斯特菌。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "And if you think you'll abandon meat and become a vegetarian,",
     "start": 84.612,
     "end": 88.094,
@@ -152,7 +144,7 @@
     "zh_hant": "如果你以為可以放棄肉類、成為素食者，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "you have the choice of very expensive organically-grown vegetables",
     "start": 88.314,
     "end": 92.916,
@@ -160,7 +152,7 @@
     "zh_hant": "你的選擇要麼是非常昂貴的有機蔬菜，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "or a steady diet of pesticides every time you think",
     "start": 93.016,
     "end": 96.878,
@@ -168,7 +160,7 @@
     "zh_hant": "要麼就是每次以為"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "you're eating fresh salads and vegetables, or just having an innocent glass of water!",
     "start": 96.528,
     "end": 102.401,
@@ -176,7 +168,7 @@
     "zh_hant": "在吃新鮮沙拉和蔬菜，或只是喝一杯純淨水時，攝入穩定的殺蟲劑！"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "However, there is an even more insidious kind of pollution",
     "start": 102.981,
     "end": 107.123,
@@ -184,7 +176,7 @@
     "zh_hant": "然而，還有一種更隱蔽的汙染，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "that particularly affects urban area and invades our daily lives,",
     "start": 107.063,
     "end": 111.585,
@@ -192,7 +184,7 @@
     "zh_hant": "它尤其影響城市地區，侵入我們的日常生活，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "and that is noise.",
     "start": 111.685,
     "end": 113.926,
@@ -200,7 +192,7 @@
     "zh_hant": "那就是噪音。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "Burglar alarms going off at any time of the day or night",
     "start": 114.407,
     "end": 118.128,
@@ -208,7 +200,7 @@
     "zh_hant": "防盜警報器在白天或夜晚的任何時候響起，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "serve only to annoy passers-by and actually assist burglars to burgle.",
     "start": 118.169,
     "end": 123.431,
@@ -216,7 +208,7 @@
     "zh_hant": "只會惹惱路人，實際上還幫助了入室竊賊。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "Car alarms constantly scream at us in the street and are a source of profound irritation.",
     "start": 123.912,
     "end": 129.614,
@@ -224,7 +216,7 @@
     "zh_hant": "汽車警報在街上不斷尖叫，令人極度煩躁。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "A recent survey of the effects of noise revealed (surprisingly?)",
     "start": 130.175,
     "end": 135.037,
@@ -232,7 +224,7 @@
     "zh_hant": "最近一項關於噪音影響的調查顯示（令人驚訝嗎？）"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "that dogs barking incessantly in the night",
     "start": 135.157,
     "end": 138.038,
@@ -240,7 +232,7 @@
     "zh_hant": "夜間狗不停地叫"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "rated the highest form of noise pollution on a scale ranging from 1 to 7.",
     "start": 138.299,
     "end": 144.112,
@@ -248,7 +240,7 @@
     "zh_hant": "在從1到7的等級上被評為最嚴重的噪音汙染。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "The survey revealed a large number of sources of noise that we really dislike.",
     "start": 144.162,
     "end": 149.704,
@@ -256,7 +248,7 @@
     "zh_hant": "調查揭示了許多我們真正厭惡的噪音來源。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "Lawn mowers whining on a summer's day,",
     "start": 150.525,
     "end": 153.566,
@@ -264,7 +256,7 @@
     "zh_hant": "夏日割草機的嗡嗡聲，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "late-night parties in apartment blocks, noisy neighbours,",
     "start": 154.007,
     "end": 158.108,
@@ -272,7 +264,7 @@
     "zh_hant": "公寓樓裡的深夜派對，吵鬧的鄰居，"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "vehicles of all kinds, especially large container trucks thundering through quiet villages,",
     "start": 158.469,
     "end": 164.832,
@@ -280,7 +272,7 @@
     "zh_hant": "各種車輛，尤其是大型集裝箱卡車隆隆駛過寧靜的村莊，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "planes and helicopters flying overhead,",
     "start": 165.172,
     "end": 167.774,
@@ -288,7 +280,7 @@
     "zh_hant": "飛機和直升機在頭頂飛過，"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "large radios carried round in public places and played at maximum volume.",
     "start": 168.254,
     "end": 173.856,
@@ -296,7 +288,7 @@
     "zh_hant": "公共場所隨身攜帶、以最大音量播放的大收音機。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "New technology has also made its own contribution to noise.",
     "start": 174.117,
     "end": 178.299,
@@ -304,7 +296,7 @@
     "zh_hant": "新技術也為噪音做出了自己的貢獻。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "A lot of people object to mobile phones,",
     "start": 178.579,
     "end": 181.68,
@@ -312,7 +304,7 @@
     "zh_hant": "很多人反對手機，"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "especially when they are used in public places like restaurant or on public transport.",
     "start": 181.701,
     "end": 187.163,
@@ -320,7 +312,7 @@
     "zh_hant": "尤其當它們在餐館或公共交通等公共場所使用時。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "Loud conversations on mobile phones invade our thoughts",
     "start": 187.483,
     "end": 191.645,
@@ -328,7 +320,7 @@
     "zh_hant": "手機上的大聲交談侵入我們的思緒，"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "or interrupt the pleasure of meeting friends for a quiet chat.",
     "start": 191.505,
     "end": 195.147,
@@ -336,7 +328,7 @@
     "zh_hant": "或打斷與朋友安靜聊天的樂趣。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "The noise pollution survey revealed a rather surprising",
     "start": 195.487,
     "end": 199.569,
@@ -344,7 +336,7 @@
     "zh_hant": "噪音汙染調查揭示了一個相當令人驚訝"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "and possibly amusing old-fashioned source of noise.",
     "start": 199.389,
     "end": 202.911,
@@ -352,7 +344,7 @@
     "zh_hant": "且可能有趣的老式噪音來源。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "It turned out to be snoring!",
     "start": 203.372,
     "end": 206.193,
@@ -360,7 +352,7 @@
     "zh_hant": "結果竟然是打鼾！"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "Men were found to be the worst offenders.",
     "start": 206.473,
     "end": 209.194,
@@ -368,7 +360,7 @@
     "zh_hant": "研究發現男性是最嚴重的打鼾者。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "It was revealed that 20% of men in their mid-thirties snore.",
     "start": 209.595,
     "end": 214.257,
@@ -376,7 +368,7 @@
     "zh_hant": "調查顯示，35歲左右的男性中有20%打鼾。"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "This figure rises to a staggering 60% of men in their sixties.",
     "start": 214.597,
     "end": 219.74,
@@ -384,7 +376,7 @@
     "zh_hant": "這一比例在60多歲的男性中上升到驚人的60%。"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "Against these figures,",
     "start": 220.18,
     "end": 221.741,
@@ -392,7 +384,7 @@
     "zh_hant": "與這些數字相比，"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "it was found that only 5% of women snore",
     "start": 221.701,
     "end": 225.483,
@@ -400,7 +392,7 @@
     "zh_hant": "研究發現只有5%的女性經常打鼾，"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "regularly, while the rest are constantly woken or kept awake by their trumpeting partners.",
     "start": 225.133,
     "end": 231.506,
@@ -408,7 +400,7 @@
     "zh_hant": "而其餘的則經常被她們如喇叭般的伴侶吵醒或無法入睡。"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "Whatever the source of noise, one thing is certain:",
     "start": 231.766,
     "end": 235.088,
@@ -416,7 +408,7 @@
     "zh_hant": "無論噪音來自何處，有一點是確定的："
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "silence, it seems, has become a golden memory.",
     "start": 235.308,
     "end": 239.49,

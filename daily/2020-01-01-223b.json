@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 55.",
+    "text": "Lesson 55 From the earth:",
     "start": 0.35,
-    "end": 2.401,
-    "zh": "第55课。",
-    "zh_hant": "第55課。"
+    "end": 3.931,
+    "zh": "第55课 来自地球:",
+    "zh_hant": "第55課 來自地球:"
   },
   {
     "index": 1,
-    "text": "From the earth:.",
-    "start": 2.451,
-    "end": 3.932,
-    "zh": "来自地球：",
-    "zh_hant": "來自地球："
+    "text": "Greetings Which life forms are most likely to develop on a distant planet?",
+    "start": 3.932,
+    "end": 15.356,
+    "zh": "问候语 哪种生命形式最有可能在遥远的行星上进化出来?",
+    "zh_hant": "問候語 哪種生命形式最有可能在遙遠的行星上進化出來?"
   },
   {
     "index": 2,
-    "text": "Greetings",
-    "start": 3.932,
-    "end": 6.293,
-    "zh": "问候",
-    "zh_hant": "問候"
-  },
-  {
-    "index": 3,
-    "text": "Which life forms are most likely to develop on a distant planet?",
-    "start": 10.295,
-    "end": 15.357,
-    "zh": "哪些生命形式最有可能在遥远的行星上发展？",
-    "zh_hant": "哪些生命形式最有可能在遙遠的行星上發展？"
-  },
-  {
-    "index": 4,
     "text": "Recent developments in astronomy have made it possible to detect",
     "start": 17.379,
     "end": 22.181,
@@ -40,7 +24,7 @@
     "zh_hant": "天文學的最新發展使我們能夠探測到"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "planets in our own Milky Way and in other galaxies.",
     "start": 21.831,
     "end": 26.243,
@@ -48,7 +32,7 @@
     "zh_hant": "我們自己的銀河系及其他星系中的行星。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "This is a major achievement because, in relative terms,",
     "start": 26.603,
     "end": 30.745,
@@ -56,7 +40,7 @@
     "zh_hant": "這是一項重大成就，因為相對而言，"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "planets are very small and do not emit light.",
     "start": 30.645,
     "end": 34.587,
@@ -64,7 +48,7 @@
     "zh_hant": "行星非常小，並且不發光。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Finding planets is proving hard enough,",
     "start": 34.927,
     "end": 37.588,
@@ -72,7 +56,7 @@
     "zh_hant": "發現行星已經夠難的了，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "but finding life on them will prove infinitely more difficult.",
     "start": 37.589,
     "end": 42.091,
@@ -80,7 +64,7 @@
     "zh_hant": "但在它們上面發現生命將無限困難。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "The first question to answer is whether a planet can actually support life.",
     "start": 42.512,
     "end": 48.094,
@@ -88,7 +72,7 @@
     "zh_hant": "首先要回答的問題是，一顆行星是否真的能支援生命。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "In our own solar system, for example,",
     "start": 48.455,
     "end": 51.236,
@@ -96,7 +80,7 @@
     "zh_hant": "例如，在我們自己的太陽系中，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Venus is far to hot and Mars is far too cold to support life.",
     "start": 51.216,
     "end": 56.798,
@@ -104,7 +88,7 @@
     "zh_hant": "金星太熱，火星太冷，無法支援生命。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Only the Earth provides ideal conditions,",
     "start": 56.979,
     "end": 60.32,
@@ -112,7 +96,7 @@
     "zh_hant": "只有地球提供了理想的條件，"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "and even here it has taken more than four billion years",
     "start": 60.36,
     "end": 64.562,
@@ -120,7 +104,7 @@
     "zh_hant": "即使在這裡，也花了四十多億年"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "for plant and animal life to evolve.",
     "start": 64.382,
     "end": 67.424,
@@ -128,7 +112,7 @@
     "zh_hant": "動植物生命才得以進化。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Whether a planet can support life",
     "start": 68.304,
     "end": 70.765,
@@ -136,7 +120,7 @@
     "zh_hant": "一顆行星能否支援生命"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "depends on the size and brightness of its star, that is its 'sun'.",
     "start": 70.415,
     "end": 76.048,
@@ -144,7 +128,7 @@
     "zh_hant": "取決於其恆星（即其“太陽”）的大小和亮度。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Imagine a star up to twenty times larger, brighter and hotter than our own sun.",
     "start": 75.698,
     "end": 81.611,
@@ -152,7 +136,7 @@
     "zh_hant": "想象一顆比我們的太陽大、亮、熱達二十倍的恆星。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "A planet would have to be a very long way from it to be capable of supporting life.",
     "start": 82.152,
     "end": 87.554,
@@ -160,7 +144,7 @@
     "zh_hant": "行星必須離它非常遠才能支援生命。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Alternatively, if the star were small,",
     "start": 87.854,
     "end": 91.136,
@@ -168,7 +152,7 @@
     "zh_hant": "或者，如果恆星很小，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "the life-supporting planet would have to have a close orbit round it",
     "start": 91.016,
     "end": 95.478,
@@ -176,7 +160,7 @@
     "zh_hant": "支援生命的行星就必須緊密地繞它執行，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and also provide the perfect conditions for life forms to develop.",
     "start": 95.418,
     "end": 100.62,
@@ -184,7 +168,7 @@
     "zh_hant": "並且還要為生命形式的發展提供完美的條件。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "But how would we find such a planet?",
     "start": 101.301,
     "end": 104.162,
@@ -192,7 +176,7 @@
     "zh_hant": "但我們如何找到這樣的行星呢？"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "At present, there is no telescope in existence",
     "start": 104.683,
     "end": 108.684,
@@ -200,7 +184,7 @@
     "zh_hant": "目前，還沒有任何望遠鏡"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "that is capable of detecting the presence of life.",
     "start": 108.485,
     "end": 111.826,
@@ -208,7 +192,7 @@
     "zh_hant": "能夠探測到生命的存在。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "The development of such a telescope",
     "start": 112.286,
     "end": 114.807,
@@ -216,7 +200,7 @@
     "zh_hant": "開發這樣的望遠鏡"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "will be one of the great astronomical projects of the 21st century.",
     "start": 114.648,
     "end": 120.271,
@@ -224,7 +208,7 @@
     "zh_hant": "將是21世紀偉大的天文專案之一。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "It is impossible to look for life on another planet using earth-based telescopes.",
     "start": 121.071,
     "end": 127.114,
@@ -232,7 +216,7 @@
     "zh_hant": "使用地面望遠鏡不可能在其他行星上尋找生命。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Our own warm atmosphere and the heat generated by the telescope",
     "start": 127.274,
     "end": 132.056,
@@ -240,7 +224,7 @@
     "zh_hant": "我們溫暖的大氣層和望遠鏡產生的熱量"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "would make it impossible to detect objects as small as planets.",
     "start": 131.877,
     "end": 136.499,
@@ -248,7 +232,7 @@
     "zh_hant": "會使其無法探測到像行星這樣小的物體。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Even a telescope in orbit round the earth, like the very successful Hubble telescope,",
     "start": 137.039,
     "end": 143.162,
@@ -256,7 +240,7 @@
     "zh_hant": "即使是繞地球軌道執行的望遠鏡，如非常成功的哈勃望遠鏡，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "would not be suitable because of the dust particles in our solar system.",
     "start": 143.202,
     "end": 148.444,
@@ -264,7 +248,7 @@
     "zh_hant": "也不適用，因為我們的太陽系中有塵埃粒子。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "A telescope would have to be as far away as the planet Jupiter",
     "start": 148.985,
     "end": 154.127,
@@ -272,7 +256,7 @@
     "zh_hant": "望遠鏡必須位於像木星那樣遠的地方，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "to look for life in outer space,",
     "start": 154.067,
     "end": 156.548,
@@ -280,7 +264,7 @@
     "zh_hant": "才能在外太空尋找生命，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "because the dust becomes thinner the further we travel towards the outer",
     "start": 156.428,
     "end": 161.311,
@@ -288,7 +272,7 @@
     "zh_hant": "因為我們越往太陽系的"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "edges of our own solar system.",
     "start": 160.971,
     "end": 163.392,
@@ -296,7 +280,7 @@
     "zh_hant": "外緣行進，塵埃就越稀薄。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Once we detected a planet, we would have to find a way of blotting out the light from its star,",
     "start": 164.053,
     "end": 170.276,
@@ -304,7 +288,7 @@
     "zh_hant": "一旦我們探測到一顆行星，就必須想辦法遮擋其恆星的光，"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "so that we would be able to 'see' the planet properly and analyse its atmosphere.",
     "start": 170.276,
     "end": 175.738,
@@ -312,7 +296,7 @@
     "zh_hant": "以便我們能夠適當地“看到”這顆行星並分析其大氣層。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "In the first instance, we would be looking for plant life,",
     "start": 176.299,
     "end": 180.22,
@@ -320,7 +304,7 @@
     "zh_hant": "首先，我們要尋找的是植物生命，"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "rather than 'little green men'.",
     "start": 180.061,
     "end": 182.922,
@@ -328,7 +312,7 @@
     "zh_hant": "而不是“小綠人”。"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "The life forms most likely to develop on a planet would be bacteria.",
     "start": 182.922,
     "end": 188.224,
@@ -336,7 +320,7 @@
     "zh_hant": "最有可能在行星上發展的生命形式是細菌。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "It is bacteria that have generated the oxygen we breathe on earth.",
     "start": 188.825,
     "end": 193.707,
@@ -344,7 +328,7 @@
     "zh_hant": "正是細菌產生了我們在地球上呼吸的氧氣。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "For most of the earth's history they have been the only form of life on our planet.",
     "start": 194.027,
     "end": 199.57,
@@ -352,7 +336,7 @@
     "zh_hant": "在地球歷史的大部分時間裡，它們是我們星球上唯一的生命形式。"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "As Earth-dwellers,",
     "start": 199.911,
     "end": 201.671,
@@ -360,7 +344,7 @@
     "zh_hant": "作為地球居民，"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "we always cherish the hope that we will be visited by little green men",
     "start": 201.591,
     "end": 206.774,
@@ -368,7 +352,7 @@
     "zh_hant": "我們總是抱著希望，期待小綠人來訪，"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "and that we will be able to communicate with them.",
     "start": 206.774,
     "end": 209.755,
@@ -376,7 +360,7 @@
     "zh_hant": "並且我們能與他們交流。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "But this hope is always in the realms of science fiction.",
     "start": 210.156,
     "end": 214.598,
@@ -384,7 +368,7 @@
     "zh_hant": "但這個希望總是停留在科幻小說的範疇。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "If we were able to discover lowly forms of life like bacteria on another planet,",
     "start": 215.339,
     "end": 221.281,
@@ -392,7 +376,7 @@
     "zh_hant": "如果我們能在另一顆行星上發現像細菌這樣低等的生命形式，"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "it would completely change our view of ourselves.",
     "start": 221.522,
     "end": 224.923,
@@ -400,7 +384,7 @@
     "zh_hant": "那將徹底改變我們對自己的看法。"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "As Daniel Goldin of NASA observed, 'Finding life elsewhere would change",
     "start": 225.384,
     "end": 231.367,
@@ -408,7 +392,7 @@
     "zh_hant": "正如美國宇航局的丹尼爾·戈爾丁所說：“在其他地方發現生命將改變"
   },
   {
-    "index": 51,
+    "index": 49,
     "text": "everything.",
     "start": 231.017,
     "end": 232.067,
@@ -416,7 +400,7 @@
     "zh_hant": "一切。"
   },
   {
-    "index": 52,
+    "index": 50,
     "text": "No human endeavour or thought would be unchanged by it.'",
     "start": 232.347,
     "end": 237.49,

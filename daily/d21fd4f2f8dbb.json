@@ -1,38 +1,30 @@
 [
   {
     "index": 0,
-    "text": "Lesson 30.",
-    "start": 1.57,
-    "end": 3.161,
-    "zh": "第30课。",
-    "zh_hant": "第30課。"
+    "text": "Lesson 30",
+    "start": 1.62,
+    "end": 2.26,
+    "zh": "第30课",
+    "zh_hant": "第30課"
   },
   {
     "index": 1,
-    "text": "Exploring",
-    "start": 3.211,
-    "end": 7.753,
-    "zh": "探索",
-    "zh_hant": "探索"
+    "text": "Exploring the sea-floor",
+    "start": 2.28,
+    "end": 7.22,
+    "zh": "探索海底",
+    "zh_hant": "探索海底"
   },
   {
     "index": 2,
-    "text": "the sea-floor.",
-    "start": 7.714,
-    "end": 9.774,
-    "zh": "海底。",
-    "zh_hant": "海底。"
+    "text": "How did people probably imagine the sea-floor before it was investigated?",
+    "start": 7.22,
+    "end": 20.181,
+    "zh": "在人们对海底进行考察之前，可能是如何想象海底的呢？",
+    "zh_hant": "在人們對海底進行考察之前，可能是如何想象海底的呢？"
   },
   {
     "index": 3,
-    "text": "How did people probably imagine the sea-floor before it was investigated?",
-    "start": 11.876,
-    "end": 17.718,
-    "zh": "在海底被调查之前，人们可能如何想象海底？",
-    "zh_hant": "在海底被調查之前，人們可能如何想象海底？"
-  },
-  {
-    "index": 4,
     "text": "Our knowledge of the oceans a hundred years ago was confined",
     "start": 20.08,
     "end": 24.501,
@@ -40,7 +32,7 @@
     "zh_hant": "一百年前，我們對海洋的認識僅限於"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "to the two-dimensional shape of the sea surface and the hazards of navigation",
     "start": 24.282,
     "end": 29.844,
@@ -48,7 +40,7 @@
     "zh_hant": "海面的二維形狀，以及航海中的危險"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "presented by the irregularities in depth of the shallow water close to the land.",
     "start": 29.494,
     "end": 35.467,
@@ -56,7 +48,7 @@
     "zh_hant": "這些危險來自靠近陸地的淺水區深度的不規則變化。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "The open sea was deep and mysterious,",
     "start": 36.448,
     "end": 39.809,
@@ -64,7 +56,7 @@
     "zh_hant": "開闊的海洋深邃而神秘，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "and anyone who gave more than a passing thought to the bottom confines of the oceans",
     "start": 40.069,
     "end": 45.372,
@@ -72,7 +64,7 @@
     "zh_hant": "任何對海洋底部稍加思考的人"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "probably assumed that the sea-bed was flat.",
     "start": 45.432,
     "end": 48.974,
@@ -80,7 +72,7 @@
     "zh_hant": "大概都會以為海床是平坦的。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Sir James Clark Ross had obtained",
     "start": 49.655,
     "end": 52.696,
@@ -88,7 +80,7 @@
     "zh_hant": "詹姆斯·克拉克·羅斯爵士曾獲得"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "a sounding of over 2, 400 fathoms in 1839,",
     "start": 52.346,
     "end": 57.328,
@@ -96,7 +88,7 @@
     "zh_hant": "1839年超過2400英尋的測深記錄，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "but it was not until 1869, when H.M.S. Porcupine",
     "start": 57.378,
     "end": 62.681,
@@ -104,7 +96,7 @@
     "zh_hant": "但是直到1869年，當H.M.S.豪豬號"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "was put at the disposal of the Royal Society",
     "start": 62.461,
     "end": 65.382,
@@ -112,7 +104,7 @@
     "zh_hant": "被交由皇家學會使用"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "for several cruises that a series of deep soundings was obtained",
     "start": 65.302,
     "end": 71.065,
@@ -120,7 +112,7 @@
     "zh_hant": "進行數次航行時，才在大西洋取得了一系列深水測深資料"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "in the Atlantic and the first samples were collected by dredging the bottom.",
     "start": 70.925,
     "end": 76.267,
@@ -128,7 +120,7 @@
     "zh_hant": "並透過拖網在海底收集了第一批樣本。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Shortly after this the famous H.M.S. Challenger expedition established",
     "start": 77.068,
     "end": 82.611,
@@ -136,7 +128,7 @@
     "zh_hant": "此後不久，著名的H.M.S.挑戰者號探險隊確立"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "the study of the sea-floor as a subject worthy of the most qualified physicists",
     "start": 82.261,
     "end": 87.653,
@@ -144,7 +136,7 @@
     "zh_hant": "了對海底的研究，認為它值得最資深的物理學家"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "and geologists.",
     "start": 87.494,
     "end": 88.974,
@@ -152,7 +144,7 @@
     "zh_hant": "和地質學家去研究。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "A burst of activity associated with the laying of submarine cables soon confirmed",
     "start": 89.635,
     "end": 95.737,
@@ -160,7 +152,7 @@
     "zh_hant": "與鋪設海底電纜相關的一陣活動熱潮很快證實了"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "the Challenger's observation that many parts of the ocean were two to three miles deep,",
     "start": 95.387,
     "end": 101.46,
@@ -168,7 +160,7 @@
     "zh_hant": "挑戰者號的觀察結果，即海洋的許多區域深達兩至三英里，"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "and the existence of underwater features of considerable magnitude.",
     "start": 101.761,
     "end": 106.403,
@@ -176,7 +168,7 @@
     "zh_hant": "並且存在規模可觀的海底地形特徵。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Today, enough soundings are available to enable a relief map of the Atlantic to be drawn",
     "start": 107.043,
     "end": 113.406,
@@ -184,7 +176,7 @@
     "zh_hant": "如今，已有足夠多的測深資料可以繪製大西洋的立體地圖，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "and we know something of the great variety of the sea bed's topography.",
     "start": 113.626,
     "end": 118.228,
@@ -192,7 +184,7 @@
     "zh_hant": "我們對海底地形的多樣性也有了一些瞭解。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "Since the sea covers the greater part of the earth's surface,",
     "start": 119.249,
     "end": 122.611,
@@ -200,7 +192,7 @@
     "zh_hant": "由于海洋覆蓋了地球表面的大部分，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "it is quite reasonable to regard the sea floor as the basic form of the crust of the earth,",
     "start": 122.911,
     "end": 128.874,
@@ -208,7 +200,7 @@
     "zh_hant": "因此將海底視為地殼的基本形態是相當合理的，"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "with superimposed upon it the continents,",
     "start": 129.074,
     "end": 132.496,
@@ -216,7 +208,7 @@
     "zh_hant": "而大陸則疊加在其上，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "together with the islands and other features of the oceans.",
     "start": 132.416,
     "end": 136.098,
@@ -224,7 +216,7 @@
     "zh_hant": "連同島嶼和海洋的其他特徵一起。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "The continents form rugged tablelands which stand",
     "start": 136.758,
     "end": 141.36,
@@ -232,7 +224,7 @@
     "zh_hant": "大陸形成崎嶇的高原，它們聳立"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "nearly three miles above the floor of the open ocean.",
     "start": 141.01,
     "end": 144.582,
@@ -240,7 +232,7 @@
     "zh_hant": "在開闊洋底之上近三英里處。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "From the shore line, out to a distance which may be anywhere",
     "start": 145.543,
     "end": 149.744,
@@ -248,7 +240,7 @@
     "zh_hant": "從海岸線向外，延伸一段距離，這段距離可能在"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "from a few miles to a few hundred miles,",
     "start": 149.524,
     "end": 152.346,
@@ -256,7 +248,7 @@
     "zh_hant": "幾英里到幾百英里之間，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "runs the gentle slope of the continental shelf, geologically",
     "start": 152.506,
     "end": 157.568,
@@ -264,7 +256,7 @@
     "zh_hant": "是大陸架的平緩斜坡，從地質學上說"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "part of the continents.",
     "start": 157.388,
     "end": 159.229,
@@ -272,7 +264,7 @@
     "zh_hant": "它是大陸的一部分。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "The real dividing line between continents and oceans occurs at the foot of a steeper slope.",
     "start": 159.95,
     "end": 166.433,
@@ -280,7 +272,7 @@
     "zh_hant": "大陸和海洋的真正分界線出現在更陡峭的坡腳處。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "This continental slope usually starts at a place somewhere near the 100-fathom mark",
     "start": 167.374,
     "end": 173.557,
@@ -288,7 +280,7 @@
     "zh_hant": "這個大陸坡通常從大約100英尋標記附近開始，"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "and in the course of a few hundred miles reaches the true ocean floor",
     "start": 173.797,
     "end": 178.499,
@@ -296,7 +288,7 @@
     "zh_hant": "在幾百英里的過程中到達真正的海底"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "at 2, 500-3, 500 fathoms.",
     "start": 178.519,
     "end": 183.441,
@@ -304,7 +296,7 @@
     "zh_hant": "深度為2500至3500英尋。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "The slope averages about 1 in 30,",
     "start": 184.202,
     "end": 187.314,
@@ -312,7 +304,7 @@
     "zh_hant": "這個坡度平均約為1比30，"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "but contains steep, probably vertical, cliffs,",
     "start": 187.364,
     "end": 191.145,
@@ -320,7 +312,7 @@
     "zh_hant": "但包含陡峭的、可能是垂直的懸崖，"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "and gentle sediment-covered terraces,",
     "start": 191.766,
     "end": 194.747,
@@ -328,7 +320,7 @@
     "zh_hant": "以及平緩的、被沉積物覆蓋的階地，"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "and near its lower reaches there is a long tailing-off",
     "start": 195.347,
     "end": 199.049,
@@ -336,7 +328,7 @@
     "zh_hant": "在其較低處附近有一段長長的逐漸變緩的斜坡，"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "which is almost certainly the result of material transported out to deep water",
     "start": 198.949,
     "end": 204.561,
@@ -344,7 +336,7 @@
     "zh_hant": "這幾乎肯定是物質被侵蝕後"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "after being eroded from the continental masses.",
     "start": 204.582,
     "end": 207.97,

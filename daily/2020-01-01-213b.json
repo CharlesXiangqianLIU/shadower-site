@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 45.",
-    "start": 5.193,
-    "end": 3.97,
-    "zh": "第45课。",
-    "zh_hant": "第45課。"
+    "text": "Lesson 45 The power of the press",
+    "start": 0.21,
+    "end": 8.692,
+    "zh": "第45课 新闻的力量",
+    "zh_hant": "第45課 新聞的力量"
   },
   {
     "index": 1,
-    "text": "The power of the press.",
-    "start": 5.573,
-    "end": 8.694,
-    "zh": "新闻界的威力。",
-    "zh_hant": "新聞界的威力。"
+    "text": "Does the writer think the parents were lucky or unlucky to gain prosperity in this way?",
+    "start": 9.972,
+    "end": 17.093,
+    "zh": "作者认为这对父母以这种方式获得富裕是幸运还是不幸?",
+    "zh_hant": "作者認為這對父母以這種方式獲得富裕是幸運還是不幸?"
   },
   {
     "index": 2,
-    "text": "Does the writer think the parents were lucky or unlucky",
-    "start": 9.975,
-    "end": 14.377,
-    "zh": "作者认为这对父母以这种方式获得成功是幸运还是不幸？",
-    "zh_hant": "作者認為這對父母以這種方式獲得成功是幸運還是不幸？"
-  },
-  {
-    "index": 3,
-    "text": "to gain prosperity in this way?",
-    "start": 14.257,
-    "end": 17.098,
-    "zh": "以此方式获得成功？",
-    "zh_hant": "以此方式獲得成功？"
-  },
-  {
-    "index": 4,
     "text": "Why?",
     "start": 17.519,
     "end": 18.319,
@@ -40,7 +24,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "In democratic countries",
     "start": 20.22,
     "end": 22.161,
@@ -48,7 +32,7 @@
     "zh_hant": "在民主國家裡，"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "any efforts to restrict the freedom of the press are rightly condemned.",
     "start": 22.061,
     "end": 28.184,
@@ -56,7 +40,7 @@
     "zh_hant": "任何限制新聞自由的企圖都理所應當地受到譴責。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "However, this freedom can easily be abused.",
     "start": 28.544,
     "end": 32.506,
@@ -64,7 +48,7 @@
     "zh_hant": "然而，這種自由很容易被濫用。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Stories about people often attract far more public attention than political events.",
     "start": 33.687,
     "end": 40.07,
@@ -72,7 +56,7 @@
     "zh_hant": "關於人們的故事往往比政治事件更能吸引公眾的注意。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Though we may enjoy reading about the lives of others,",
     "start": 40.751,
     "end": 44.612,
@@ -80,7 +64,7 @@
     "zh_hant": "儘管我們可能喜歡讀別人的生活，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "it is extremely doubtful whether we would equally enjoy reading about ourselves.",
     "start": 44.913,
     "end": 51.115,
@@ -88,7 +72,7 @@
     "zh_hant": "我們是否同樣喜歡讀自己的生活，這非常值得懷疑。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Acting on the contention that facts are sacred,",
     "start": 51.736,
     "end": 55.818,
@@ -96,7 +80,7 @@
     "zh_hant": "基於事實是神聖的這一論點，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "reporters can cause untold suffering to individuals",
     "start": 56.138,
     "end": 60.54,
@@ -104,7 +88,7 @@
     "zh_hant": "記者可以給個人帶來無盡的痛苦，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "by publishing details about their private lives.",
     "start": 60.5,
     "end": 64.762,
@@ -112,7 +96,7 @@
     "zh_hant": "透過公佈他們私生活的細節。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Newspapers exert such tremendous influence",
     "start": 65.743,
     "end": 69.624,
@@ -120,7 +104,7 @@
     "zh_hant": "報紙具有如此巨大的影響力，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "that they can not only bring about major changes to the lives of ordinary people",
     "start": 69.785,
     "end": 75.267,
@@ -128,7 +112,7 @@
     "zh_hant": "它們不僅能給普通人的生活帶來重大變化，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "but can even overthrow a government.",
     "start": 75.388,
     "end": 78.029,
@@ -136,7 +120,7 @@
     "zh_hant": "甚至還能推翻政府。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "The story of a poor family that acquired fame and fortune overnight,",
     "start": 79.229,
     "end": 84.492,
@@ -144,7 +128,7 @@
     "zh_hant": "一個一夜之間名利雙收的貧窮家庭的故事，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "dramatically illustrates the power of the press.",
     "start": 84.512,
     "end": 87.714,
@@ -152,7 +136,7 @@
     "zh_hant": "有力地說明了新聞界的威力。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "The family lived in Aberdeen, a small town of 23, 000 inhabitants",
     "start": 88.274,
     "end": 94.137,
@@ -160,7 +144,7 @@
     "zh_hant": "這個家庭住在阿伯丁，一個有23000居民的小鎮，"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "in South Dakota.",
     "start": 93.797,
     "end": 95.237,
@@ -168,7 +152,7 @@
     "zh_hant": "位於南達科他州。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "As the parents had five children, life was a perpetual struggle against poverty.",
     "start": 95.998,
     "end": 101.721,
@@ -176,7 +160,7 @@
     "zh_hant": "由於父母有五個孩子，生活就是一場與貧困的持久鬥爭。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "They were expecting their sixth child and were faced with even",
     "start": 102.101,
     "end": 106.703,
@@ -184,7 +168,7 @@
     "zh_hant": "他們正期待著第六個孩子，面臨更"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "more pressing economic problems.",
     "start": 106.353,
     "end": 108.864,
@@ -192,7 +176,7 @@
     "zh_hant": "緊迫的經濟問題。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "If they had only had one more child, the fact would have passed unnoticed.",
     "start": 109.485,
     "end": 115.187,
@@ -200,7 +184,7 @@
     "zh_hant": "如果他們只多生一個孩子，這件事就不會被注意。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "They would have continued to struggle against economic odds and would have lived in obscurity.",
     "start": 115.508,
     "end": 121.951,
@@ -208,7 +192,7 @@
     "zh_hant": "他們會繼續與經濟困難作鬥爭，並在默默無聞中生活。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "But they suddenly became the parents of quintuplets,",
     "start": 122.412,
     "end": 126.473,
@@ -216,7 +200,7 @@
     "zh_hant": "但他們突然成了五胞胎的父母，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "four girls and a boy, an event which radically changed their lives.",
     "start": 126.714,
     "end": 132.376,
@@ -224,7 +208,7 @@
     "zh_hant": "四個女孩和一個男孩，這一事件徹底改變了他們的生活。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "The day after the birth of the five children,",
     "start": 132.957,
     "end": 135.698,
@@ -232,7 +216,7 @@
     "zh_hant": "五個孩子出生後的第二天，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "an aeroplane arrived in Aberdeen bringing sixty reporters and photographers.",
     "start": 135.718,
     "end": 141.781,
@@ -240,7 +224,7 @@
     "zh_hant": "一架飛機抵達阿伯丁，載著六十名記者和攝影師。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "The rise to fame was swift.",
     "start": 142.381,
     "end": 144.602,
@@ -248,7 +232,7 @@
     "zh_hant": "成名來得很快。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Television cameras and newspapers carried the news to everyone in the country.",
     "start": 144.662,
     "end": 149.725,
@@ -256,7 +240,7 @@
     "zh_hant": "電視攝像機和報紙把訊息傳給了全國的每個人。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "Newspapers and magazines offered the family huge sums",
     "start": 149.945,
     "end": 154.507,
@@ -264,7 +248,7 @@
     "zh_hant": "報紙和雜誌向這個家庭提供了鉅額款項，"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "for the exclusive rights to publish stories and photographs.",
     "start": 154.157,
     "end": 158.109,
@@ -272,7 +256,7 @@
     "zh_hant": "以換取獨家釋出故事和照片的權利。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "Gifts poured in not only from unknown people,",
     "start": 158.529,
     "end": 161.891,
@@ -280,7 +264,7 @@
     "zh_hant": "禮物源源不斷，不僅來自陌生人，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "but from baby food and soap manufacturers who wished to advertise their products.",
     "start": 162.131,
     "end": 167.994,
@@ -288,7 +272,7 @@
     "zh_hant": "還有嬰兒食品和肥皂製造商，他們想借此做廣告。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "The old farmhouse the family lived in was to be replaced",
     "start": 168.755,
     "end": 173.097,
@@ -296,7 +280,7 @@
     "zh_hant": "這個家庭住的舊農舍將被替換，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "by a new $500, 000 home.",
     "start": 172.747,
     "end": 176.258,
@@ -304,7 +288,7 @@
     "zh_hant": "換成一座新建的價值50萬美元的家。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "Reporters kept pressing for interviews so lawyers had to be employed",
     "start": 176.739,
     "end": 182.421,
@@ -312,7 +296,7 @@
     "zh_hant": "記者不斷要求採訪，因此必須僱傭律師"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "to act as spokesmen for the family at press conferences.",
     "start": 182.301,
     "end": 186.143,
@@ -320,7 +304,7 @@
     "zh_hant": "在記者招待會上充當家庭的發言人。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "While the five babies were still quietly sleeping in oxygen tents in a hospital nursery,",
     "start": 186.804,
     "end": 193.166,
@@ -328,7 +312,7 @@
     "zh_hant": "當五個嬰兒還在醫院育兒室的氧氣帳篷裡安靜地睡覺時，"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "their parents were paying the price for fame.",
     "start": 193.587,
     "end": 196.948,
@@ -336,7 +320,7 @@
     "zh_hant": "他們的父母正在為名聲付出代價。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "It would never again be possible for them to lead normal lives.",
     "start": 197.249,
     "end": 201.472,
@@ -344,7 +328,7 @@
     "zh_hant": "他們再也不可能過上正常的生活了。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "They had become the victims of commercialization,",
     "start": 202.193,
     "end": 206.177,
@@ -352,7 +336,7 @@
     "zh_hant": "他們成了商業化的犧牲品，"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "for their names had acquired a market value.",
     "start": 206.298,
     "end": 209.861,
@@ -360,7 +344,7 @@
     "zh_hant": "因為他們的名字已經具有了市場價值。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "Instead of being five new family members,",
     "start": 210.202,
     "end": 213.425,
@@ -368,7 +352,7 @@
     "zh_hant": "而不是成為五個新的家庭成員，"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "these children had immediately become a commodity.",
     "start": 213.786,
     "end": 217.53,

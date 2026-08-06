@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 16.",
-    "start": 0.23,
-    "end": 2.441,
-    "zh": "第十六课。",
-    "zh_hant": "第十六課。"
+    "text": "Lesson 16 Mary had a little lamb Was Dimitri right to apologize to his neighbour?",
+    "start": 5.331,
+    "end": 13.972,
+    "zh": "第16课 玛丽有只小羊羔 迪米特里向邻居道歉对吗?",
+    "zh_hant": "第16課 瑪麗有隻小羊羔 迪米特里向鄰居道歉對嗎?"
   },
   {
     "index": 1,
-    "text": "Mary had a little lamb.",
-    "start": 2.491,
-    "end": 8.794,
-    "zh": "玛丽有一只小羊羔。",
-    "zh_hant": "瑪麗有一隻小羊羔。"
-  },
-  {
-    "index": 2,
-    "text": "Was Dimitri right to apologize to his neighbour?",
-    "start": 10.215,
-    "end": 13.977,
-    "zh": "迪米特里向邻居道歉对吗？",
-    "zh_hant": "迪米特里向鄰居道歉對嗎？"
-  },
-  {
-    "index": 3,
     "text": "Why not?",
     "start": 14.177,
     "end": 15.418,
@@ -32,7 +16,7 @@
     "zh_hant": "為什麼不對？"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "Mary and her husband Dimitri lived",
     "start": 17.279,
     "end": 20.46,
@@ -40,7 +24,7 @@
     "zh_hant": "瑪麗和她的丈夫迪米特里住在"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "in the tiny village of Perachora in southern Greece.",
     "start": 20.11,
     "end": 24.502,
@@ -48,7 +32,7 @@
     "zh_hant": "希臘南部的一個小村莊佩拉霍拉。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
     "start": 25.143,
     "end": 31.506,
@@ -56,7 +40,7 @@
     "zh_hant": "瑪麗最珍貴的財產之一是她丈夫送給她的一隻小白羊羔。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "She kept it tied to a tree in a field during the day",
     "start": 31.786,
     "end": 35.948,
@@ -64,7 +48,7 @@
     "zh_hant": "白天她把羊羔拴在田間的一棵樹上，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "and went to fetch it every evening.",
     "start": 36.128,
     "end": 38.829,
@@ -72,7 +56,7 @@
     "zh_hant": "每天晚上去把它帶回來。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "One evening, however the lamb was missing.",
     "start": 39.51,
     "end": 42.952,
@@ -80,7 +64,7 @@
     "zh_hant": "然而有一天晚上，羊羔不見了。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "The rope had been cut, so it was obvious that the lamb had been stolen.",
     "start": 43.152,
     "end": 48.614,
@@ -88,7 +72,7 @@
     "zh_hant": "繩子被割斷了，所以很明顯羊羔是被偷走的。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "When Dimitri came in from the fields, his wife told him what had happened.",
     "start": 49.435,
     "end": 54.557,
@@ -96,7 +80,7 @@
     "zh_hant": "迪米特里從田間回來時，他的妻子告訴了他發生的事。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Dimitri at once set out to find the thief.",
     "start": 54.938,
     "end": 58.579,
@@ -104,7 +88,7 @@
     "zh_hant": "迪米特里立刻出發去找小偷。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "He knew it would not prove difficult in such a small village.",
     "start": 58.84,
     "end": 63.002,
@@ -112,7 +96,7 @@
     "zh_hant": "他知道在這麼小的村莊裡這件事不會太難。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "After telling several of his friends about the theft,",
     "start": 64.162,
     "end": 67.684,
@@ -120,7 +104,7 @@
     "zh_hant": "把失竊的事告訴了幾個朋友之後，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "Dimitri found out that his neighbour, Aleko,",
     "start": 67.704,
     "end": 71.506,
@@ -128,7 +112,7 @@
     "zh_hant": "迪米特里發現他的鄰居阿萊科"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "had suddenly acquired a new lamb.",
     "start": 71.626,
     "end": 74.727,
@@ -136,7 +120,7 @@
     "zh_hant": "突然得到了一隻新羊羔。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "Dimitri immediately went to Aleko's house",
     "start": 75.148,
     "end": 78.669,
@@ -144,7 +128,7 @@
     "zh_hant": "迪米特里馬上去到阿萊科家，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "and angrily accused him of stealing the lamb.",
     "start": 78.609,
     "end": 82.211,
@@ -152,7 +136,7 @@
     "zh_hant": "憤怒地指責他偷了羊羔。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "He told him he had better return it or he would call the police.",
     "start": 82.592,
     "end": 87.074,
@@ -160,7 +144,7 @@
     "zh_hant": "他告訴他最好把羊還回來，否則就報警。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Aleko denied taking it and led Dimitri into his backyard.",
     "start": 87.594,
     "end": 92.596,
@@ -168,7 +152,7 @@
     "zh_hant": "阿萊科否認拿了羊，並帶迪米特里到他的後院。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "It was true that he had just bought a lamb he explained,",
     "start": 92.957,
     "end": 97.219,
@@ -176,7 +160,7 @@
     "zh_hant": "他解釋說，他確實剛買了一隻羊羔，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "but his lamb was black.",
     "start": 97.219,
     "end": 99.48,
@@ -184,7 +168,7 @@
     "zh_hant": "但他的羊羔是黑色的。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Ashamed of having acted so rashly,",
     "start": 100.341,
     "end": 103.262,
@@ -192,7 +176,7 @@
     "zh_hant": "為自己行事如此魯莽感到羞愧，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Dimitri apologized to Aleko for having accused him.",
     "start": 103.322,
     "end": 107.664,
@@ -200,7 +184,7 @@
     "zh_hant": "迪米特里為指責阿萊科而道歉。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "While they were talking it began to rain",
     "start": 108.244,
     "end": 111.366,
@@ -208,7 +192,7 @@
     "zh_hant": "他們交談時開始下雨了，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "and Dimitri stayed in Aleko's house until the rain stopped.",
     "start": 111.406,
     "end": 115.888,
@@ -216,7 +200,7 @@
     "zh_hant": "迪米特里在阿萊科家待到雨停。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "When he went outside half an hour later,",
     "start": 116.088,
     "end": 119.169,
@@ -224,7 +208,7 @@
     "zh_hant": "半小時後他走到外面時，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "he was astonished to find that the little black lamb was almost white.",
     "start": 119.27,
     "end": 125.119,
@@ -232,7 +216,7 @@
     "zh_hant": "他驚訝地發現那隻小黑羊羔幾乎變白了。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Its wool, which had been dyed black, had been washed clean by the rain!",
     "start": 125.421,
     "end": 131.55,

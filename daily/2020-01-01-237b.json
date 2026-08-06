@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 9.",
-    "start": 6.373,
-    "end": 3.93,
-    "zh": "第九课。",
-    "zh_hant": "第九課。"
+    "text": "Lesson 9 Royal espionage",
+    "start": 0.39,
+    "end": 9.436,
+    "zh": "第九课 皇家谍报",
+    "zh_hant": "第九課 皇家諜報"
   },
   {
     "index": 1,
-    "text": "Royal espionage.",
-    "start": 7.994,
-    "end": 9.795,
-    "zh": "皇家间谍活动。",
-    "zh_hant": "皇家間諜活動。"
+    "text": "What important thing did King Alfred learn when he penetrated the Danish camp of Guthrum?",
+    "start": 11.278,
+    "end": 18.882,
+    "zh": "阿尔弗雷德国王深入古思伦的丹麦营地时,发现了什么重要情报?",
+    "zh_hant": "阿爾弗雷德國王深入古思倫的丹麥營地時,發現了什麼重要情報?"
   },
   {
     "index": 2,
-    "text": "What important thing did King Alfred learn",
-    "start": 11.276,
-    "end": 15.137,
-    "zh": "阿尔弗雷德国王学到了什么重要的事情，",
-    "zh_hant": "阿爾弗雷德國王學到了什麼重要的事情，"
-  },
-  {
-    "index": 3,
-    "text": "when he penetrated the Danish camp of Guthrum?",
-    "start": 14.998,
-    "end": 18.879,
-    "zh": "当他潜入古斯鲁姆的丹麦营地时？",
-    "zh_hant": "當他潛入古斯魯姆的丹麥營地時？"
-  },
-  {
-    "index": 4,
     "text": "Alfred the Great acted as his own spy,",
     "start": 20.72,
     "end": 24.222,
@@ -40,7 +24,7 @@
     "zh_hant": "阿爾弗雷德大帝親自充當間諜，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "visiting Danish camps disguised as a minstrel.",
     "start": 24.582,
     "end": 28.484,
@@ -48,7 +32,7 @@
     "zh_hant": "裝扮成吟遊詩人探訪丹麥營地。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "In those days wandering minstrels were welcome everywhere.",
     "start": 29.485,
     "end": 33.827,
@@ -56,7 +40,7 @@
     "zh_hant": "那時，流浪吟遊詩人在各地都受歡迎。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "They were not fighting men, and their harp was their passport.",
     "start": 34.467,
     "end": 38.749,
@@ -64,7 +48,7 @@
     "zh_hant": "他們不是戰鬥人員，豎琴就是他們的通行證。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Alfred had learned many of their ballads in his youth",
     "start": 39.23,
     "end": 42.692,
@@ -72,7 +56,7 @@
     "zh_hant": "阿爾弗雷德年輕時學過許多他們的民謠，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "and could vary his programme with acrobatic tricks and simple conjuring.",
     "start": 42.832,
     "end": 48.254,
@@ -80,7 +64,7 @@
     "zh_hant": "並能用雜技把戲和簡單的魔術來變換節目。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "While Alfred's little army slowly began to gather at Athelney,",
     "start": 49.095,
     "end": 54.017,
@@ -88,7 +72,7 @@
     "zh_hant": "當阿爾弗雷德的小軍隊開始慢慢在阿塞爾尼集結時，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "the king himself set out to penetrate the camp of Guthrum,",
     "start": 54.457,
     "end": 59.06,
@@ -96,7 +80,7 @@
     "zh_hant": "國王親自出發去潛入古斯魯姆的營地，"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "the commander of the Danish invaders.",
     "start": 59.2,
     "end": 61.741,
@@ -104,7 +88,7 @@
     "zh_hant": "他是丹麥入侵者的指揮官。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "These had settled down for the winter at Chippenham: thither Alfred went.",
     "start": 62.281,
     "end": 68.364,
@@ -112,7 +96,7 @@
     "zh_hant": "這些入侵者已在奇彭納姆駐紮過冬：阿爾弗雷德便去了那裡。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "He noticed at once that discipline was slack:",
     "start": 69.265,
     "end": 72.946,
@@ -120,7 +104,7 @@
     "zh_hant": "他立刻注意到紀律鬆弛："
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "the Danes had the self-confidence of conquerors,",
     "start": 73.247,
     "end": 77.068,
@@ -128,7 +112,7 @@
     "zh_hant": "丹麥人具有征服者的自信，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "and their security precautions were casual.",
     "start": 77.169,
     "end": 80.35,
@@ -136,7 +120,7 @@
     "zh_hant": "他們的安全防備很隨意。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "They lived well, on the proceeds of raids on neighbouring regions.",
     "start": 81.031,
     "end": 86.093,
@@ -144,7 +128,7 @@
     "zh_hant": "他們靠掠奪鄰近地區的所得過著優裕的生活。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "There they collected women as well as food and drink,",
     "start": 86.773,
     "end": 90.795,
@@ -152,7 +136,7 @@
     "zh_hant": "在那裡，他們不僅收集食物和飲品，還收集婦女，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and a life of ease had made them soft.",
     "start": 90.835,
     "end": 93.917,
@@ -160,7 +144,7 @@
     "zh_hant": "安逸的生活使他們變得軟弱。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Alfred stayed in the camp a week before he returned to Athelney.",
     "start": 94.877,
     "end": 99.459,
@@ -168,7 +152,7 @@
     "zh_hant": "阿爾弗雷德在營地待了一星期後才返回阿塞爾尼。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "The force there assembled was trivial compared with the Danish horde.",
     "start": 100.18,
     "end": 104.582,
@@ -176,7 +160,7 @@
     "zh_hant": "那裡集結的兵力與丹麥大軍相比微不足道。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "But Alfred had deduced that the Danes were no longer fit for prolonged battle:",
     "start": 105.042,
     "end": 110.645,
@@ -184,7 +168,7 @@
     "zh_hant": "但阿爾弗雷德推斷丹麥人已不適於持久戰："
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "and that their commissariat had no organization,",
     "start": 111.085,
     "end": 114.907,
@@ -192,7 +176,7 @@
     "zh_hant": "而且他們的給養毫無組織，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "but depended on irregular raids.",
     "start": 115.107,
     "end": 117.808,
@@ -200,7 +184,7 @@
     "zh_hant": "只依賴零星的劫掠。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "So, faced with the Danish advance,",
     "start": 118.509,
     "end": 121.711,
@@ -208,7 +192,7 @@
     "zh_hant": "因此，面對丹麥人的推進，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Alfred did not risk open battle but harried the enemy.",
     "start": 122.052,
     "end": 126.194,
@@ -216,7 +200,7 @@
     "zh_hant": "阿爾弗雷德沒有冒險正面交鋒，而是不斷騷擾敵人。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "He was constantly on the move, drawing the Danes after him.",
     "start": 126.494,
     "end": 131.077,
@@ -224,7 +208,7 @@
     "zh_hant": "他不斷移動，引誘丹麥人緊隨其後。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "His patrols halted the raiding parties: hunger assailed the Danish army.",
     "start": 131.497,
     "end": 137.241,
@@ -232,7 +216,7 @@
     "zh_hant": "他的巡邏隊攔截了劫掠隊伍：飢餓襲擊了丹麥軍隊。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Now Alfred began a long series of skirmishes",
     "start": 137.962,
     "end": 141.44,
@@ -240,7 +224,7 @@
     "zh_hant": "這時阿爾弗雷德開始了一系列的小規模交鋒——"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "-- and within a month the Danes had surrendered.",
     "start": 141.04,
     "end": 144.745,
@@ -248,7 +232,7 @@
     "zh_hant": "不到一個月，丹麥人就投降了。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "The episode could reasonably serve as a unique epic of royal espionage!",
     "start": 145.746,
     "end": 151.65,

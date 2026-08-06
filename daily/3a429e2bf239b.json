@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 60.",
-    "start": 1.49,
-    "end": 3.321,
-    "zh": "第60课。",
-    "zh_hant": "第60課。"
+    "text": "Lesson 60 Too early and too late",
+    "start": 2.7529999999999997,
+    "end": 9.787,
+    "zh": "第60课 太早和太晚",
+    "zh_hant": "第60課 太早和太晚"
   },
   {
     "index": 1,
-    "text": "Too early and too late.",
-    "start": 3.371,
-    "end": 10.134,
-    "zh": "太早和太晚。",
-    "zh_hant": "太早和太晚。"
+    "text": "Why did the young girl miss the train?",
+    "start": 12.63,
+    "end": 15.131,
+    "zh": "为什么那个小女孩没赶上火车？",
+    "zh_hant": "為什麼那個小女孩沒趕上火車？"
   },
   {
     "index": 2,
-    "text": "Why did the young girl miss the train?",
-    "start": 12.596,
-    "end": 15.477,
-    "zh": "为什么那个年轻女孩错过了火车？",
-    "zh_hant": "為什麼那個年輕女孩錯過了火車？"
-  },
-  {
-    "index": 3,
     "text": "Punctuality is a necessary habit in all public affairs in civilized society.",
     "start": 17.758,
     "end": 23.701,
@@ -32,7 +24,7 @@
     "zh_hant": "準時是文明社會所有公共事務中必要的習慣。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Without it, nothing could ever be brought to a conclusion;",
     "start": 24.342,
     "end": 27.903,
@@ -40,7 +32,7 @@
     "zh_hant": "沒有它，任何事情都無法得出結論；"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "everything would be in a state of chaos.",
     "start": 28.684,
     "end": 31.925,
@@ -48,7 +40,7 @@
     "zh_hant": "一切都會陷入混亂狀態。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Only in a sparsely-populated rural community is it possible to disregard it.",
     "start": 32.686,
     "end": 38.588,
@@ -56,7 +48,7 @@
     "zh_hant": "只有在人煙稀少的鄉村社群，才可能忽視這一點。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "In ordinary living, there can be some tolerance of unpunctuality.",
     "start": 39.069,
     "end": 43.831,
@@ -64,7 +56,7 @@
     "zh_hant": "在日常生活中，對不準時可以有某種程度的容忍。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "The intellectual, who is working on some abstruse problem,",
     "start": 44.672,
     "end": 48.994,
@@ -72,7 +64,7 @@
     "zh_hant": "那位致力於某個深奧問題的知識分子，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "has everything coordinated and organized for the matter in hand.",
     "start": 49.074,
     "end": 53.476,
@@ -80,7 +72,7 @@
     "zh_hant": "已經為手頭的事情安排好了一切。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "He is therefore forgiven if late for a dinner party.",
     "start": 53.857,
     "end": 57.378,
@@ -88,7 +80,7 @@
     "zh_hant": "因此，如果他晚到宴會，會得到原諒。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "But people are often reproached for unpunctuality when their only fault is cutting things fine.",
     "start": 57.698,
     "end": 65.002,
@@ -96,7 +88,7 @@
     "zh_hant": "但人們常常因為不準時而受到指責，儘管他們唯一的過錯只是時間安排得太緊。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "It is hard for energetic, quick-minded people to waste time,",
     "start": 65.442,
     "end": 69.824,
@@ -104,7 +96,7 @@
     "zh_hant": "對於精力充沛、思維敏捷的人來說，浪費時間很難，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "so they are often tempted to finish a job before setting out to keep an appointment.",
     "start": 69.844,
     "end": 75.207,
@@ -112,7 +104,7 @@
     "zh_hant": "所以他們常常忍不住在赴約前先完成一項工作。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "If no accidents occur on the way,",
     "start": 75.607,
     "end": 78.008,
@@ -120,7 +112,7 @@
     "zh_hant": "如果路上沒有發生意外，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "like punctured tyres,",
     "start": 78.028,
     "end": 80.069,
@@ -128,7 +120,7 @@
     "zh_hant": "比如輪胎爆胎，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "diversions of traffic, sudden descent of fog, they will be on time.",
     "start": 80.149,
     "end": 85.972,
@@ -136,7 +128,7 @@
     "zh_hant": "交通改道，突然起霧，他們會準時到達。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "They are often more industrious, useful citizens than those who are never late.",
     "start": 86.473,
     "end": 92.216,
@@ -144,7 +136,7 @@
     "zh_hant": "他們往往比那些從不遲到的人更勤奮、更有用的公民。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "The over-punctual can be as much a trial to others as the unpunctual.",
     "start": 92.536,
     "end": 98.038,
@@ -152,7 +144,7 @@
     "zh_hant": "過於準時的人和不準時的人一樣，可能給別人帶來困擾。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "The guest who arrives half an hour too soon is the greatest nuisance.",
     "start": 98.319,
     "end": 103.241,
@@ -160,7 +152,7 @@
     "zh_hant": "早到半小時的客人是最讓人討厭的。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Some friends of my family had this irritating habit.",
     "start": 103.561,
     "end": 106.923,
@@ -168,7 +160,7 @@
     "zh_hant": "我家的一些朋友就有這個煩人的習慣。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "The only thing to do was ask them to come half an hour later than the other guests.",
     "start": 107.083,
     "end": 112.746,
@@ -176,7 +168,7 @@
     "zh_hant": "唯一的辦法是請他們比其他客人晚半小時來。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Then they arrived just when we wanted them.",
     "start": 112.906,
     "end": 116.307,
@@ -184,7 +176,7 @@
     "zh_hant": "那樣他們就能在我們想要的時候到達。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "If you are catching a train, it is always better to be comfortably early than even a fraction of a minute too late.",
     "start": 116.908,
     "end": 124.252,
@@ -192,7 +184,7 @@
     "zh_hant": "如果你要趕火車，寧可早到從容一些，也總比遲到哪怕一刻鐘好。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "Although being early may mean wasting a little time,",
     "start": 124.612,
     "end": 128.314,
@@ -200,7 +192,7 @@
     "zh_hant": "雖然早到可能意味著浪費一點時間，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "this will be less than if you miss the train and have to wait an hour or more for the next one;",
     "start": 128.394,
     "end": 134.097,
@@ -208,7 +200,7 @@
     "zh_hant": "但比錯過火車、不得不再等一個小時或更久等下一班要少；"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "and you avoid the frustration",
     "start": 134.217,
     "end": 136.158,
@@ -216,7 +208,7 @@
     "zh_hant": "而且你還能避免沮喪，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "of arriving at the very moment when the train is drawing out of the station and being unable to get on it.",
     "start": 136.018,
     "end": 142.441,
@@ -224,7 +216,7 @@
     "zh_hant": "就是剛好在火車駛出車站時到達卻無法上車的那種挫折。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "An even harder situation is to be on the platform in good time",
     "start": 142.621,
     "end": 147.763,
@@ -232,7 +224,7 @@
     "zh_hant": "更難的處境是準時站在站臺上，"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "for a train and still to see it go off without you.",
     "start": 147.413,
     "end": 151.025,
@@ -240,7 +232,7 @@
     "zh_hant": "卻看著火車在你面前駛離。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "Such an experience befell a certain young girl the first time she was travelling alone.",
     "start": 151.205,
     "end": 157.088,
@@ -248,7 +240,7 @@
     "zh_hant": "一個年輕女孩第一次獨自旅行時就遇到了這樣的經歷。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "She entered the station twenty minutes before the train was due,",
     "start": 157.568,
     "end": 161.45,
@@ -256,7 +248,7 @@
     "zh_hant": "她在火車預定到達前二十分鐘進了站，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "since her parents had impressed upon her that it would be unforgivable to miss it",
     "start": 161.891,
     "end": 166.973,
@@ -264,7 +256,7 @@
     "zh_hant": "因為她的父母曾告誡她，錯過火車是不可原諒的，"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "and cause the friends with whom she was going to stay to make two journeys to meet her.",
     "start": 166.873,
     "end": 172.056,
@@ -272,7 +264,7 @@
     "zh_hant": "還會讓她要借住的朋友們跑兩趟去接她。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "She gave her luggage to a porter and showed him her ticket.",
     "start": 172.436,
     "end": 176.218,
@@ -280,7 +272,7 @@
     "zh_hant": "她把行李交給搬運工，並給他看了車票。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "To her horror he said that she was two hours too soon.",
     "start": 176.478,
     "end": 180.64,
@@ -288,7 +280,7 @@
     "zh_hant": "令她驚恐的是，他說她早到了兩個小時。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "She felt in her handbag for the piece of paper",
     "start": 181.06,
     "end": 183.861,
@@ -296,7 +288,7 @@
     "zh_hant": "她在手提包裡摸索那張紙，"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "on which her father had written down all the details of the journey and gave it to the porter.",
     "start": 183.721,
     "end": 189.304,
@@ -304,7 +296,7 @@
     "zh_hant": "她父親在上面寫下了旅程的所有細節，然後把它交給搬運工。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "He agreed that a train did come into the station at the time on the paper",
     "start": 189.684,
     "end": 194.366,
@@ -312,7 +304,7 @@
     "zh_hant": "他承認確實有一趟火車按照紙上時間進站，"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "and that it did stop, but only to take on mail, not passengers.",
     "start": 194.267,
     "end": 199.629,
@@ -320,7 +312,7 @@
     "zh_hant": "而且確實停了，但只是裝郵件，不是載客。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "The girl asked to see a timetable, feeling sure that her father could not have made such a mistake.",
     "start": 199.909,
     "end": 205.893,
@@ -328,7 +320,7 @@
     "zh_hant": "女孩要求看時刻表，她確信父親不可能犯這樣的錯誤。"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "The porter went to fetch one and arrived back with the station master,",
     "start": 206.133,
     "end": 210.575,
@@ -336,7 +328,7 @@
     "zh_hant": "搬運工去拿時刻表，回來時帶來了站長，"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "who produced it with a flourish and pointed",
     "start": 210.675,
     "end": 213.696,
@@ -344,7 +336,7 @@
     "zh_hant": "站長得意地拿出時刻表，並指出"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "out a microscopic 'o' beside the time of the arrival of the train at his station;",
     "start": 213.346,
     "end": 218.759,
@@ -352,7 +344,7 @@
     "zh_hant": "在火車到站時間旁邊有一個微小的‘o’字母；"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "this little 'o' indicated that the train only stopped for mail.",
     "start": 218.919,
     "end": 224.181,
@@ -360,7 +352,7 @@
     "zh_hant": "這個小‘o’表示火車只停靠裝郵件。"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "Just as that moment the train came into the station.",
     "start": 224.702,
     "end": 228.804,
@@ -368,7 +360,7 @@
     "zh_hant": "就在那一刻，火車進站了。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "The girl, tears streaming down her face, begged to be allowed to slip into the guard's van.",
     "start": 229.184,
     "end": 235.987,
@@ -376,7 +368,7 @@
     "zh_hant": "女孩淚流滿面，懇求讓她溜進行李車廂。"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "But the station master was adamant: rules could not be broken.",
     "start": 236.388,
     "end": 241.29,
@@ -384,7 +376,7 @@
     "zh_hant": "但站長態度堅決：規定不能違背。"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "And she had to watch that train disappear towards her destination while she was left behind.",
     "start": 241.893,
     "end": 248.69,

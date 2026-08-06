@@ -1,38 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 121.",
+    "text": "Lesson 121 The man in a hat Listen to the tape then answer this question.",
     "start": 0.65,
-    "end": 3.962,
-    "zh": "第121课。",
-    "zh_hant": "第121課。"
+    "end": 11.892,
+    "zh": "第121课 戴帽子的男人 听录音,然后回答这个问题。",
+    "zh_hant": "第121課 戴帽子的男人 聽錄音,然後回答這個問題。"
   },
   {
     "index": 1,
-    "text": "The man in a hat.",
-    "start": 4.012,
-    "end": 6.273,
-    "zh": "戴帽子的男人。",
-    "zh_hant": "戴帽子的男人。"
-  },
-  {
-    "index": 2,
-    "text": "Listen to the tape then",
-    "start": 7.234,
-    "end": 10.115,
-    "zh": "听录音，然后",
-    "zh_hant": "聽錄音，然後"
-  },
-  {
-    "index": 3,
-    "text": "answer this question.",
-    "start": 9.935,
-    "end": 11.896,
-    "zh": "回答这个问题。",
-    "zh_hant": "回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Why didn't Caroline recognize the customer",
     "start": 12.917,
     "end": 17.298,
@@ -40,7 +16,7 @@
     "zh_hant": "為什麼卡羅琳沒有認出那位顧客"
   },
   {
-    "index": 5,
+    "index": 2,
     "text": "straight away?",
     "start": 17.139,
     "end": 18.439,
@@ -48,7 +24,7 @@
     "zh_hant": "立刻？"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "I bought two expensive dictionaries here",
     "start": 20.56,
     "end": 24.402,
@@ -56,7 +32,7 @@
     "zh_hant": "我在這裡買了兩本很貴的詞典"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "half an hour ago,",
     "start": 24.242,
     "end": 25.943,
@@ -64,7 +40,7 @@
     "zh_hant": "半小時前，"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "but I forgot to take them with me.",
     "start": 26.503,
     "end": 29.945,
@@ -72,7 +48,7 @@
     "zh_hant": "但我忘了帶走它們。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Who served you, sir?",
     "start": 30.625,
     "end": 32.586,
@@ -80,7 +56,7 @@
     "zh_hant": "先生，誰為您服務的？"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "The lady who is standing behind the counter.",
     "start": 33.507,
     "end": 37.148,
@@ -88,7 +64,7 @@
     "zh_hant": "站在櫃檯後面的那位女士。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Which books did you buy?",
     "start": 37.789,
     "end": 40.07,
@@ -96,7 +72,7 @@
     "zh_hant": "您買了哪些書？"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "The books which are on the counter.",
     "start": 41.151,
     "end": 44.032,
@@ -104,7 +80,7 @@
     "zh_hant": "櫃檯上的那些書。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Did you serve this gentleman half an hour ago,",
     "start": 44.872,
     "end": 48.834,
@@ -112,7 +88,7 @@
     "zh_hant": "半小時前您為這位先生服務過嗎，"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "Caroline?",
     "start": 48.674,
     "end": 49.715,
@@ -120,7 +96,7 @@
     "zh_hant": "卡羅琳？"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "He says he's the man who bought these books.",
     "start": 50.135,
     "end": 54.117,
@@ -128,7 +104,7 @@
     "zh_hant": "他說他就是買這些書的人。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "I can't remember.",
     "start": 54.917,
     "end": 56.998,
@@ -136,7 +112,7 @@
     "zh_hant": "我記不得了。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "The man who I served was wearing a hat.",
     "start": 57.479,
     "end": 61.941,
@@ -144,7 +120,7 @@
     "zh_hant": "我服務的那個男人當時戴著帽子。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "Have you got a hat, sir?",
     "start": 62.501,
     "end": 65.102,
@@ -152,7 +128,7 @@
     "zh_hant": "先生，您有帽子嗎？"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Yes, I have.",
     "start": 65.943,
     "end": 67.663,
@@ -160,7 +136,7 @@
     "zh_hant": "有的。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Would you put it on, please?",
     "start": 68.084,
     "end": 70.665,
@@ -168,7 +144,7 @@
     "zh_hant": "請戴上它，好嗎？"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "All right.",
     "start": 70.925,
     "end": 72.166,
@@ -176,7 +152,7 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Is this the man that you served, Caroline?",
     "start": 72.706,
     "end": 76.388,
@@ -184,7 +160,7 @@
     "zh_hant": "這就是您服務的那位男人嗎，卡羅琳？"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "Yes.",
     "start": 77.068,
     "end": 78.069,
@@ -192,7 +168,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "I recognize him now.",
     "start": 78.469,
     "end": 80.91,

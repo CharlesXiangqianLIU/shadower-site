@@ -1,30 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Lesson 24.",
-    "start": 1.15,
-    "end": 5.23,
-    "zh": "第二十四课。",
-    "zh_hant": "第二十四課。"
+    "text": "Lesson 24 Beauty What do glimpses of beauty, either in nature or art, often suggest to the human mind?",
+    "start": 9.682000000000002,
+    "end": 17.402,
+    "zh": "第24课 美 无论是自然中还是艺术中的美的一瞥,常常会给人的心灵带来怎样的启示?",
+    "zh_hant": "第24課 美 無論是自然中還是藝術中的美的一瞥,常常會給人的心靈帶來怎樣的啟示?"
   },
   {
     "index": 1,
-    "text": "Beauty.",
-    "start": 7.293,
-    "end": 9.234,
-    "zh": "美。",
-    "zh_hant": "美。"
-  },
-  {
-    "index": 2,
-    "text": "What do glimpses of beauty, either in nature or art, often suggest to the human mind?",
-    "start": 11.435,
-    "end": 17.758,
-    "zh": "自然或艺术中美的一瞥，常常向人心暗示些什么？",
-    "zh_hant": "自然或藝術中美的一瞥，常常向人心暗示些什麼？"
-  },
-  {
-    "index": 3,
     "text": "A young man sees a sunset.",
     "start": 20.079,
     "end": 22.4,
@@ -32,7 +16,7 @@
     "zh_hant": "一個年輕人看到日落。"
   },
   {
-    "index": 4,
+    "index": 2,
     "text": "and, unable to understand or to express the emotion that it rouses in him,",
     "start": 22.221,
     "end": 26.963,
@@ -40,7 +24,7 @@
     "zh_hant": "卻無法理解或表達它在他心中喚起的情感，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "concludes that it must be the gateway to a world that lies beyond It is difficult for any of us",
     "start": 27.243,
     "end": 34.566,
@@ -48,7 +32,7 @@
     "zh_hant": "便斷定它必是通往某個超越世界的大門。我們任何人"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "in moments of intense aesthetic experience",
     "start": 34.266,
     "end": 37.348,
@@ -56,7 +40,7 @@
     "zh_hant": "在強烈的審美體驗時刻"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "to resist the suggestion that we are catching a glimpse of a light that shines down to us",
     "start": 37.508,
     "end": 43.871,
@@ -64,7 +48,7 @@
     "zh_hant": "都難以抗拒這樣的暗示：我們瞥見了一道光照向我們，"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "from a different realm of existence,",
     "start": 43.712,
     "end": 45.932,
@@ -72,7 +56,7 @@
     "zh_hant": "來自另一個存在的領域，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "different and, because the experience is intensely moving, in some way higher.",
     "start": 46.193,
     "end": 52.035,
@@ -80,7 +64,7 @@
     "zh_hant": "不同，且因為體驗深切動人，所以在某種程度上更高。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "And, though the gleams blind and dazzle,",
     "start": 52.816,
     "end": 55.817,
@@ -88,7 +72,7 @@
     "zh_hant": "而且，雖然這些光芒令人目眩神迷，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "yet do they convey a hint of beauty and serenity greater than we have known or imagined.",
     "start": 55.798,
     "end": 62.121,
@@ -96,7 +80,7 @@
     "zh_hant": "它們卻傳遞出比我們已知或想象更美好的美與寧靜的暗示。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Greater too than we can describe; for language,",
     "start": 62.801,
     "end": 66.603,
@@ -104,7 +88,7 @@
     "zh_hant": "也比我們能描述的更美好；因為語言，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "which was invented to convey the meanings of this world cannot readily be fitted to the uses of another.",
     "start": 66.503,
     "end": 73.186,
@@ -112,7 +96,7 @@
     "zh_hant": "本為傳達此世意義而發明，難以適用於另一世界的用途。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "That all great art has this power of suggesting a world beyond is undeniable.",
     "start": 74.547,
     "end": 80.81,
@@ -120,7 +104,7 @@
     "zh_hant": "所有偉大藝術都有暗示超越世界的力量，這是不可否認的。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "In some moods, nature shares it.",
     "start": 81.631,
     "end": 84.132,
@@ -128,7 +112,7 @@
     "zh_hant": "在某些心境下，自然也有此能力。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "There is no sky in June so blue that it does not point forward to a bluer,",
     "start": 84.852,
     "end": 89.914,
@@ -136,7 +120,7 @@
     "zh_hant": "六月的天空再藍，也無不指向更藍之處，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "no sunset so beautiful that it does not waken the vision of a greater beauty,",
     "start": 90.515,
     "end": 95.657,
@@ -144,7 +128,7 @@
     "zh_hant": "日落再美，也無不喚醒對更美景象的幻想，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "a vision which passes before it is fully glimpsed,",
     "start": 96.298,
     "end": 100.179,
@@ -152,7 +136,7 @@
     "zh_hant": "一種景象，未及完全瞥見便已消逝，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and in passing leaves an indefinable longing and regret.",
     "start": 100.98,
     "end": 105.322,
@@ -160,7 +144,7 @@
     "zh_hant": "消逝時留下一種難以名狀的渴望與遺憾。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "But, if this world is not merely a bad joke,",
     "start": 105.802,
     "end": 108.924,
@@ -168,7 +152,7 @@
     "zh_hant": "但如果這個世界不僅僅是一個惡劣的笑話，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "life a vulgar flare amid the cool radiance of the stars,",
     "start": 108.944,
     "end": 112.906,
@@ -176,7 +160,7 @@
     "zh_hant": "生命不只是星辰冷輝中的粗俗閃光，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and existence an empty laugh braying across the mysteries;",
     "start": 113.046,
     "end": 117.288,
@@ -184,7 +168,7 @@
     "zh_hant": "存在也不只是對著奧秘吹響的空洞笑聲；"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "if these intimations of a something behind and beyond are not evil humour born of indigestion,",
     "start": 117.788,
     "end": 124.853,
@@ -192,7 +176,7 @@
     "zh_hant": "如果這些關於背後與超越之物的暗示，不是消化不良所生的惡意幽默，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "or whimsies sent by the devil to mock and madden us,",
     "start": 125.213,
     "end": 129.495,
@@ -200,7 +184,7 @@
     "zh_hant": "或魔鬼送來的怪念頭，用來嘲弄和使我們瘋狂，"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "if, in a word beauty means something yet we must not seek to interpret the meaning.",
     "start": 130.036,
     "end": 136.88,
@@ -208,7 +192,7 @@
     "zh_hant": "如果，一言以蔽之，美意味著什麼，但我們卻不必去解釋其含義。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "If we glimpse the unutterable, it is unwise to try to utter it,",
     "start": 137.841,
     "end": 142.383,
@@ -216,7 +200,7 @@
     "zh_hant": "如果我們一瞥不可言說之物，試圖言說它便不明智，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "nor should we seek to invest with significance that which we cannot grasp.",
     "start": 143.084,
     "end": 148.367,
@@ -224,7 +208,7 @@
     "zh_hant": "我們也不應試圖為無法把握的東西賦予意義。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Beauty in terms of our human meanings is meaningless.",
     "start": 148.868,
     "end": 153.27,

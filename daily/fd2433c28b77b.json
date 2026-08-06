@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 33.",
-    "start": 1.531,
-    "end": 5.25,
-    "zh": "第三十三课。",
-    "zh_hant": "第三十三課。"
+    "text": "Lesson 33 Education",
+    "start": 1.2100000000000002,
+    "end": 3.76,
+    "zh": "第33课 教育",
+    "zh_hant": "第33課 教育"
   },
   {
     "index": 1,
-    "text": "Education.",
-    "start": 7.033,
-    "end": 8.594,
-    "zh": "教育。",
-    "zh_hant": "教育。"
+    "text": "Why is education democratic in bookless tribal societies?",
+    "start": 3.76,
+    "end": 11.841,
+    "zh": "为什么在没有书籍的部落社会中，教育是民主的？",
+    "zh_hant": "為什麼在沒有書籍的部落社會中，教育是民主的？"
   },
   {
     "index": 2,
-    "text": "Why is education democratic in bookless tribal societies?",
-    "start": 10.715,
-    "end": 15.497,
-    "zh": "为什么在无文字的部落社会中教育是民主的？",
-    "zh_hant": "為什麼在無文字的部落社會中教育是民主的？"
-  },
-  {
-    "index": 3,
     "text": "Education is one of the key words of our time.",
     "start": 17.859,
     "end": 21.08,
@@ -32,7 +24,7 @@
     "zh_hant": "教育是我們這個時代的關鍵詞之一。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "A man without an education, many of us believe,",
     "start": 21.76,
     "end": 25.162,
@@ -40,7 +32,7 @@
     "zh_hant": "沒有受過教育的人，我們許多人認為，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "is an unfortunate victim of adverse circumstances,",
     "start": 25.222,
     "end": 28.864,
@@ -48,7 +40,7 @@
     "zh_hant": "是不利環境的不幸受害者，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "deprived of one of the greatest twentieth-century opportunities.",
     "start": 29.084,
     "end": 33.026,
@@ -56,7 +48,7 @@
     "zh_hant": "被剝奪了二十世紀最偉大的機會之一。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Convinced of the importance of education,",
     "start": 33.726,
     "end": 36.427,
@@ -64,7 +56,7 @@
     "zh_hant": "深信教育的重要性，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "modern states 'invest' in institutions of learning",
     "start": 36.468,
     "end": 40.329,
@@ -72,7 +64,7 @@
     "zh_hant": "現代國家“投資”於學習機構，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "to get back 'interest' in the form of a large group of enlightened young men",
     "start": 40.33,
     "end": 45.572,
@@ -80,7 +72,7 @@
     "zh_hant": "以獲取“利息”——即一大批開明的青年男子"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "and women who are potential leaders.",
     "start": 45.222,
     "end": 47.914,
@@ -88,7 +80,7 @@
     "zh_hant": "和女子，他們是潛在的領導者。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Education, with its cycles of instruction so carefully worked out,",
     "start": 48.614,
     "end": 53.336,
@@ -96,7 +88,7 @@
     "zh_hant": "教育，其教學週期經過精心安排，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "punctuated by textbooks--those purchasable wells of wisdom--what",
     "start": 53.577,
     "end": 59.539,
@@ -104,7 +96,7 @@
     "zh_hant": "以教科書——那些可購買的智慧之泉——作為間隔，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "would civilization be like without its benefits?",
     "start": 59.189,
     "end": 62.16,
@@ -112,7 +104,7 @@
     "zh_hant": "沒有它的益處，文明會變成什麼樣？"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "So much is certain: that we would have doctors and preachers, lawyers and defendants",
     "start": 63.181,
     "end": 68.924,
@@ -120,7 +112,7 @@
     "zh_hant": "有一點是確定的：我們會有醫生和傳教士、律師和被告、"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "marriages and births--but",
     "start": 69.124,
     "end": 71.605,
@@ -128,7 +120,7 @@
     "zh_hant": "婚姻和生育——但"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "our spiritual outlook would be different.",
     "start": 71.255,
     "end": 73.846,
@@ -136,7 +128,7 @@
     "zh_hant": "我們的精神面貌會有所不同。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "We would lay less stress on 'facts and figures' and more on a good memory,",
     "start": 74.447,
     "end": 79.509,
@@ -144,7 +136,7 @@
     "zh_hant": "我們會少強調“事實和數字”，而更多強調好記性、"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "on applied psychology, and on the capacity of a man to get along with his fellow-citizens.",
     "start": 79.809,
     "end": 85.912,
@@ -152,7 +144,7 @@
     "zh_hant": "應用心理學，以及一個人與同胞相處的能力。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "If our educational system were fashioned after its bookless past",
     "start": 86.733,
     "end": 91.175,
@@ -160,7 +152,7 @@
     "zh_hant": "如果我們的教育體系效仿其無文字時代的過去，"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "we would have the most democratic form of 'college' imaginable.",
     "start": 91.315,
     "end": 95.577,
@@ -168,7 +160,7 @@
     "zh_hant": "我們就會擁有可想象的最民主的“學院”形式。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Among tribal people all knowledge inherited by tradition is shared by all;",
     "start": 96.298,
     "end": 101.78,
@@ -176,7 +168,7 @@
     "zh_hant": "在部落人群中，傳統傳承的所有知識由所有人共享；"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "it is taught to every member of the tribe",
     "start": 102.341,
     "end": 105.242,
@@ -184,7 +176,7 @@
     "zh_hant": "它被傳授給部落的每個成員，"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "so that in this respect everybody is equally equipped for life.",
     "start": 105.362,
     "end": 110.104,
@@ -192,7 +184,7 @@
     "zh_hant": "因此在這方面每個人都為生活做好了平等準備。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "It is the ideal condition",
     "start": 111.525,
     "end": 113.506,
@@ -200,7 +192,7 @@
     "zh_hant": "這是一種理想狀態，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "of the 'equal start' which only our most progressive forms of modern education try to regain.",
     "start": 113.386,
     "end": 119.709,
@@ -208,7 +200,7 @@
     "zh_hant": "即“平等起點”，只有我們最先進的現代教育形式試圖重新實現。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "In primitive cultures the obligation to seek and to receive",
     "start": 120.59,
     "end": 125.072,
@@ -216,7 +208,7 @@
     "zh_hant": "在原始文化中，尋求並接受"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "the traditional instruction is binding to all.",
     "start": 124.722,
     "end": 127.874,
@@ -224,7 +216,7 @@
     "zh_hant": "傳統教導的義務對所有人都有約束力。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "There are no'illiterates' --if the term can be applied",
     "start": 128.754,
     "end": 132.436,
@@ -232,7 +224,7 @@
     "zh_hant": "沒有“文盲”——如果這個詞能適用於"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "to peoples without a script--while our own compulsory school attendance became law",
     "start": 132.086,
     "end": 137.158,
@@ -240,7 +232,7 @@
     "zh_hant": "沒有文字的民族——而我們自己的義務入學成為法律"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "in Germany in 1642, in France",
     "start": 136.978,
     "end": 140.58,
@@ -248,7 +240,7 @@
     "zh_hant": "是在德國1642年、法國"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "in 1806, and in England in 1876 and is still nonexistent",
     "start": 140.38,
     "end": 147.903,
@@ -256,7 +248,7 @@
     "zh_hant": "1806年、英國1876年，並且在許多"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "in a number of 'civilized' nations.",
     "start": 147.704,
     "end": 150.065,
@@ -264,7 +256,7 @@
     "zh_hant": "“文明”國家中至今仍不存在。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "This shows how long it was before we deemed it necessary",
     "start": 150.545,
     "end": 154.427,
@@ -272,7 +264,7 @@
     "zh_hant": "這表明過了多久我們才認為有必要"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "to make sure that all our children could share in the knowledge",
     "start": 154.287,
     "end": 158.169,
@@ -280,7 +272,7 @@
     "zh_hant": "確保我們所有的孩子都能分享知識，"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "accumulated by the 'happy few' during the past centuries.",
     "start": 157.949,
     "end": 162.411,
@@ -288,7 +280,7 @@
     "zh_hant": "這些知識是“少數幸運者”在過去幾個世紀積累的。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Education in the wilderness is not a matter of monetary means.",
     "start": 163.352,
     "end": 167.934,
@@ -296,7 +288,7 @@
     "zh_hant": "荒野中的教育不是金錢手段的問題。"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "All are entitled to an equal start.",
     "start": 168.394,
     "end": 170.715,
@@ -304,7 +296,7 @@
     "zh_hant": "所有人都享有平等的起點。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "There is none of the hurry which, in our society, often hampers the full development",
     "start": 171.696,
     "end": 177.238,
@@ -312,7 +304,7 @@
     "zh_hant": "那裡沒有匆忙——而在我們的社會中，這種匆忙常常阻礙"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "of a growing personality.",
     "start": 176.999,
     "end": 178.699,
@@ -320,7 +312,7 @@
     "zh_hant": "成長中人格的充分發展。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "There, a child grows up under the everpresent attention of his parents;",
     "start": 179.28,
     "end": 184.022,
@@ -328,7 +320,7 @@
     "zh_hant": "在那裡，孩子在父母始終如一的關注下成長；"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "therefore the jungles and the savannahs know of no 'juvenile delinquency'.",
     "start": 184.562,
     "end": 190.965,
@@ -336,7 +328,7 @@
     "zh_hant": "因此叢林和熱帶草原不知道“青少年犯罪”。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "No necessity of making a living away from home results in neglect of children,",
     "start": 191.266,
     "end": 197.288,
@@ -344,7 +336,7 @@
     "zh_hant": "沒有離家謀生的必要性導致忽視孩子，"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "and no father is confronted with his inability to 'buy' an education for his child.",
     "start": 197.569,
     "end": 203.789,
