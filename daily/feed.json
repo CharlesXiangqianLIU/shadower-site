@@ -99,6 +99,41 @@
       "level": "B2"
     },
     {
+      "id": "2026-08-06-5",
+      "title": "This is why young people are leaving Cornwall | BBC News",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-06-5",
+      "title": "This is why young people are leaving Cornwall | BBC News",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-06-5b",
+      "title": "This is why young people are leaving Cornwall | BBC News",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "wu-2026-08-05",
       "title": "The Westminster Kennel Club Dog Show, the ‘Super Bowl’ of Dog Shows",
       "date": "2026-08-05",
@@ -723,7 +758,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-02-3",
@@ -733,7 +768,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
@@ -867,7 +902,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-02-4b",

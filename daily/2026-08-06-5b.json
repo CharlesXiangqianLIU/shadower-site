@@ -1,0 +1,914 @@
+[
+  {
+    "index": 0,
+    "text": "It's not all ice creams and sandy beaches and turquoise seas.",
+    "start": 0.851,
+    "end": 5.112,
+    "zh": "这里不只是冰淇淋、沙滩和碧绿的海水。",
+    "zh_hant": "這裡不只是冰淇淋、沙灘和碧綠的海水。"
+  },
+  {
+    "index": 1,
+    "text": "Every year when we get GCSE results, there's a bit of a national debate about a north-south divide.",
+    "start": 4.993,
+    "end": 12.176,
+    "zh": "每年当我们拿到GCSE成绩时，全国都会有一场关于南北差距的辩论。",
+    "zh_hant": "每年當我們拿到GCSE成績時，全國都會有一場關於南北差距的辯論。"
+  },
+  {
+    "index": 2,
+    "text": "But that doesn't tell the full story.",
+    "start": 11.916,
+    "end": 14.917,
+    "zh": "但那并没有说出全部的故事。",
+    "zh_hant": "但那並沒有說出全部的故事。"
+  },
+  {
+    "index": 3,
+    "text": "I want to be able to grow as a person.",
+    "start": 14.898,
+    "end": 17.699,
+    "zh": "我想作为一个人的成长。",
+    "zh_hant": "我想作為一個人的成長。"
+  },
+  {
+    "index": 4,
+    "text": "There aren't many resources.",
+    "start": 17.349,
+    "end": 20.52,
+    "zh": "资源不多。",
+    "zh_hant": "資源不多。"
+  },
+  {
+    "index": 5,
+    "text": "It's a big change if I were to move, because I've been here my entire life.",
+    "start": 20.42,
+    "end": 24.822,
+    "zh": "如果我搬家，那是一个巨大的改变，因为我这一辈子都住在这里。",
+    "zh_hant": "如果我搬家，那是一個巨大的改變，因為我這一輩子都住在這裡。"
+  },
+  {
+    "index": 6,
+    "text": "I think I'd like to leave Cornwall.",
+    "start": 24.742,
+    "end": 26.763,
+    "zh": "我觉得我想离开康沃尔。",
+    "zh_hant": "我覺得我想離開康沃爾。"
+  },
+  {
+    "index": 7,
+    "text": "I'm Bradwyn Jefferies, the BBC's education editor,",
+    "start": 26.964,
+    "end": 30.265,
+    "zh": "我是布兰德温·杰弗里斯，BBC教育编辑，",
+    "zh_hant": "我是布蘭德溫·傑弗里斯，BBC教育編輯，"
+  },
+  {
+    "index": 8,
+    "text": "and I've come to Cornwall to investigate",
+    "start": 30.245,
+    "end": 33.427,
+    "zh": "我来到康沃尔调查",
+    "zh_hant": "我來到康沃爾調查"
+  },
+  {
+    "index": 9,
+    "text": "why some parts of the South West get grades that are similar",
+    "start": 33.077,
+    "end": 38.329,
+    "zh": "为什么西南部分地区获得的成绩与",
+    "zh_hant": "為什麼西南部分地區獲得的成績與"
+  },
+  {
+    "index": 10,
+    "text": "to the most disadvantaged parts of the North East of England.",
+    "start": 38.249,
+    "end": 42.292,
+    "zh": "英格兰东北部最贫困地区相似。",
+    "zh_hant": "英格蘭東北部最貧困地區相似。"
+  },
+  {
+    "index": 11,
+    "text": "On a summer's afternoon, this looks like a pretty idyllic place to grow up.",
+    "start": 44.453,
+    "end": 49.775,
+    "zh": "在夏天的午后，这里看起来像一个田园诗般的地方，适合成长。",
+    "zh_hant": "在夏天的午後，這裡看起來像一個田園詩般的地方，適合成長。"
+  },
+  {
+    "index": 12,
+    "text": "And of course, in many ways it is, being able to go to the beach after school.",
+    "start": 49.715,
+    "end": 54.437,
+    "zh": "当然，在很多方面确实如此，放学后可以去海滩。",
+    "zh_hant": "當然，在很多方面確實如此，放學後可以去海灘。"
+  },
+  {
+    "index": 13,
+    "text": "But teenagers here, when they start thinking about college or university or work,",
+    "start": 54.258,
+    "end": 60.36,
+    "zh": "但这里的青少年，当他们开始考虑大学、学院或工作时，",
+    "zh_hant": "但這裡的青少年，當他們開始考慮大學、學院或工作時，"
+  },
+  {
+    "index": 14,
+    "text": "face challenges that simply don't exist if you grow up in a city or a big town.",
+    "start": 60.521,
+    "end": 66.984,
+    "zh": "面临着在城市或大城镇长大的人根本不存在的挑战。",
+    "zh_hant": "面臨著在城市或大城鎮長大的人根本不存在的挑戰。"
+  },
+  {
+    "index": 15,
+    "text": "My team managed to get to the national finals in Harrogate.",
+    "start": 66.824,
+    "end": 70.685,
+    "zh": "我的团队成功打入了在哈罗盖特举办的全国总决赛。",
+    "zh_hant": "我的團隊成功打入了在哈羅蓋特舉辦的全國總決賽。"
+  },
+  {
+    "index": 16,
+    "text": "Obviously, from here to Harrogate, it's like seven hours.",
+    "start": 70.666,
+    "end": 74.627,
+    "zh": "显然，从这里到哈罗盖特，大概要七个多小时。",
+    "zh_hant": "顯然，從這裡到哈羅蓋特，大概要七個多小時。"
+  },
+  {
+    "index": 17,
+    "text": "Growing up in Bude, North Cornwall, these teenagers are full of hopes and plans.",
+    "start": 74.828,
+    "end": 81.151,
+    "zh": "在康沃尔北部的布德长大，这些青少年充满了希望和计划。",
+    "zh_hant": "在康沃爾北部的佈德長大，這些青少年充滿了希望和計劃。"
+  },
+  {
+    "index": 18,
+    "text": "It would be better if I stayed here for floristry and studied different wildlife flowers.",
+    "start": 80.951,
+    "end": 86.133,
+    "zh": "如果我留在这里学花艺、研究不同的野生花卉会更好。",
+    "zh_hant": "如果我留在這裡學花藝、研究不同的野生花卉會更好。"
+  },
+  {
+    "index": 19,
+    "text": "The reality?",
+    "start": 85.994,
+    "end": 87.254,
+    "zh": "现实呢？",
+    "zh_hant": "現實呢？"
+  },
+  {
+    "index": 20,
+    "text": "They don't have big employers or universities nearby.",
+    "start": 87.314,
+    "end": 91.116,
+    "zh": "他们附近没有大型雇主或大学。",
+    "zh_hant": "他們附近沒有大型僱主或大學。"
+  },
+  {
+    "index": 21,
+    "text": "When you actually look where those opportunities are based,",
+    "start": 91.136,
+    "end": 94.097,
+    "zh": "当你真正看看那些机会在哪里时，",
+    "zh_hant": "當你真正看看那些機會在哪裡時，"
+  },
+  {
+    "index": 22,
+    "text": "the amount of work it takes to actually get there, all the planning that's required.",
+    "start": 93.998,
+    "end": 99.1,
+    "zh": "要付多少努力才能到达那里，需要做多少规划。",
+    "zh_hant": "要付多少努力才能到達那裡，需要做多少規劃。"
+  },
+  {
+    "index": 23,
+    "text": "So their school spends extra cash from its budget on careers advice,",
+    "start": 99.04,
+    "end": 104.062,
+    "zh": "所以他们的学校从预算中拿出额外资金用于职业建议，",
+    "zh_hant": "所以他們的學校從預算中拿出額外資金用於職業建議，"
+  },
+  {
+    "index": 24,
+    "text": "supporting work experience and trips to universities.",
+    "start": 103.712,
+    "end": 107.844,
+    "zh": "支持工作经验和去大学的旅行。",
+    "zh_hant": "支援工作經驗和去大學的旅行。"
+  },
+  {
+    "index": 25,
+    "text": "I love being in the sea and just protecting its habitats and wildlife,",
+    "start": 107.744,
+    "end": 112.987,
+    "zh": "我喜欢在海里，保护它的栖息地和野生动物，",
+    "zh_hant": "我喜歡在海里，保護它的棲息地和野生動物，"
+  },
+  {
+    "index": 26,
+    "text": "it really makes me excited to do something like that.",
+    "start": 112.637,
+    "end": 115.648,
+    "zh": "做那样的事情真的让我很兴奋。",
+    "zh_hant": "做那樣的事情真的讓我很興奮。"
+  },
+  {
+    "index": 27,
+    "text": "I think Cornwall's amazing, and all my family are here,",
+    "start": 115.708,
+    "end": 119.43,
+    "zh": "我觉得康沃尔很棒，我所有的家人都在这里，",
+    "zh_hant": "我覺得康沃爾很棒，我所有的家人都在這裡，"
+  },
+  {
+    "index": 28,
+    "text": "but I think I want to be able to grow as a person.",
+    "start": 119.29,
+    "end": 123.893,
+    "zh": "但我觉得我想作为一个人的成长。",
+    "zh_hant": "但我覺得我想作為一個人的成長。"
+  },
+  {
+    "index": 29,
+    "text": "I think I can only do that by leaving and exploring new adventures.",
+    "start": 123.633,
+    "end": 127.734,
+    "zh": "我想只有离开、去探索新的冒险才能做到这一点。",
+    "zh_hant": "我想只有離開、去探索新的冒險才能做到這一點。"
+  },
+  {
+    "index": 30,
+    "text": "If you want to do floristry for big events,",
+    "start": 127.955,
+    "end": 130.656,
+    "zh": "如果你想为大型活动做花艺，",
+    "zh_hant": "如果你想為大型活動做花藝，"
+  },
+  {
+    "index": 31,
+    "text": "obviously, maybe moving to bigger mega cities might maybe give you better opportunities for bigger events,",
+    "start": 130.316,
+    "end": 137.9,
+    "zh": "显然，搬到更大的城市可能会给你提供更好的大型活动机会，",
+    "zh_hant": "顯然，搬到更大的城市可能會給你提供更好的大型活動機會，"
+  },
+  {
+    "index": 32,
+    "text": "but down here I feel like maybe smaller stuff.",
+    "start": 137.55,
+    "end": 141.121,
+    "zh": "但在这里我觉得可能更偏小型。",
+    "zh_hant": "但在這裡我覺得可能更偏小型。"
+  },
+  {
+    "index": 33,
+    "text": "I've literally wanted to sort of work in a business nearby for floristry, but they've closed down recently.",
+    "start": 141.081,
+    "end": 148.525,
+    "zh": "我真的想在家附近找一家花艺公司工作，但他们最近倒闭了。",
+    "zh_hant": "我真的想在家附近找一家花藝公司工作，但他們最近倒閉了。"
+  },
+  {
+    "index": 34,
+    "text": "It's harder to get to places which really love space,",
+    "start": 148.505,
+    "end": 154.408,
+    "zh": "去那些真正重视空间的地方更难，",
+    "zh_hant": "去那些真正重視空間的地方更難，"
+  },
+  {
+    "index": 35,
+    "text": "but I do think that as Cornwall isn't as polluted,",
+    "start": 154.208,
+    "end": 160.051,
+    "zh": "但我确实觉得，因为康沃尔没那么污染，",
+    "zh_hant": "但我確實覺得，因為康沃爾沒那麼汙染，"
+  },
+  {
+    "index": 36,
+    "text": "you do get a better view of the stars.",
+    "start": 160.091,
+    "end": 162.452,
+    "zh": "你能看到更好的星空。",
+    "zh_hant": "你能看到更好的星空。"
+  },
+  {
+    "index": 37,
+    "text": "I've been a school leader in the North West and I'm obviously a school leader in the South West",
+    "start": 162.653,
+    "end": 167.575,
+    "zh": "我曾在西北当学校领导，显然现在也在西南当学校领导，",
+    "zh_hant": "我曾在西北當學校領導，顯然現在也在西南當學校領導，"
+  },
+  {
+    "index": 38,
+    "text": "and it is really difficult to be a school leader here.",
+    "start": 167.515,
+    "end": 170.996,
+    "zh": "在这里当学校领导真的很难。",
+    "zh_hant": "在這裡當學校領導真的很難。"
+  },
+  {
+    "index": 39,
+    "text": "It's not all ice creams and sandy beaches and turquoise seas.",
+    "start": 170.877,
+    "end": 175.158,
+    "zh": "这里不只是冰淇淋、沙滩和碧绿的海水。",
+    "zh_hant": "這裡不只是冰淇淋、沙灘和碧綠的海水。"
+  },
+  {
+    "index": 40,
+    "text": "It's a really difficult place to work and can be a difficult place to live as well,",
+    "start": 175.659,
+    "end": 180.021,
+    "zh": "这是一个很难工作的地方，也可能是一个很难生活的地方，",
+    "zh_hant": "這是一個很難工作的地方，也可能是一個很難生活的地方，"
+  },
+  {
+    "index": 41,
+    "text": "because of the challenges that we've faced,",
+    "start": 179.861,
+    "end": 182.702,
+    "zh": "因为我们面临的挑战，",
+    "zh_hant": "因為我們面臨的挑戰，"
+  },
+  {
+    "index": 42,
+    "text": "because of the lack of access to resources, because of the lack of infrastructure.",
+    "start": 182.622,
+    "end": 186.944,
+    "zh": "因为缺乏资源获取，因为基础设施不足。",
+    "zh_hant": "因為缺乏資源獲取，因為基礎設施不足。"
+  },
+  {
+    "index": 43,
+    "text": "There was a brilliant company there offering work experience opportunities for young people.",
+    "start": 186.704,
+    "end": 191.887,
+    "zh": "那里有一家很棒的公司，为年轻人提供工作经验机会。",
+    "zh_hant": "那裡有一家很棒的公司，為年輕人提供工作經驗機會。"
+  },
+  {
+    "index": 44,
+    "text": "On a map it doesn't look that far away.",
+    "start": 192.067,
+    "end": 194.228,
+    "zh": "在地图上看，那并不远。",
+    "zh_hant": "在地圖上看，那並不遠。"
+  },
+  {
+    "index": 45,
+    "text": "When I put it into Google Maps",
+    "start": 194.468,
+    "end": 196.169,
+    "zh": "当我把它输入谷歌地图时",
+    "zh_hant": "當我把它輸入谷歌地圖時"
+  },
+  {
+    "index": 46,
+    "text": "it was over five hours each way to get to the placement and back, so that precluded",
+    "start": 195.849,
+    "end": 202.692,
+    "zh": "到那个岗位一个来回要五个多小时的行程，所以那排除了",
+    "zh_hant": "到那個崗位一個來回要五個多小時的行程，所以那排除了"
+  },
+  {
+    "index": 47,
+    "text": "those children from doing that.",
+    "start": 202.342,
+    "end": 203.613,
+    "zh": "那些孩子去做的可能性。",
+    "zh_hant": "那些孩子去做的可能性。"
+  },
+  {
+    "index": 48,
+    "text": "So how does this show up in real life?",
+    "start": 203.773,
+    "end": 206.734,
+    "zh": "那么这在现实生活中是怎么体现的呢？",
+    "zh_hant": "那麼這在現實生活中是怎麼體現的呢？"
+  },
+  {
+    "index": 49,
+    "text": "At first glance the South West seems to be doing okay,",
+    "start": 206.615,
+    "end": 210.516,
+    "zh": "乍一看，西南部似乎还不错，",
+    "zh_hant": "乍一看，西南部似乎還不錯，"
+  },
+  {
+    "index": 50,
+    "text": "but when you look deeper you see a different story,",
+    "start": 210.557,
+    "end": 213.578,
+    "zh": "但当你深入看时，你会看到一个不同的故事，",
+    "zh_hant": "但當你深入看時，你會看到一個不同的故事，"
+  },
+  {
+    "index": 51,
+    "text": "where children in parts of the South West are among the least likely",
+    "start": 213.558,
+    "end": 218.62,
+    "zh": "西南部分地区的孩子在英格兰",
+    "zh_hant": "西南部分地區的孩子在英格蘭"
+  },
+  {
+    "index": 52,
+    "text": "to pass GCSE English and Maths of anywhere in England.",
+    "start": 218.27,
+    "end": 223.303,
+    "zh": "通过GCSE英语和数学的可能性最低之一。",
+    "zh_hant": "透過GCSE英語和數學的可能性最低之一。"
+  },
+  {
+    "index": 53,
+    "text": "41% of 11-year-olds on free school meals in the South West",
+    "start": 223.05,
+    "end": 228.305,
+    "zh": "西南部41%的11岁免费午餐学生",
+    "zh_hant": "西南部41%的11歲免費午餐學生"
+  },
+  {
+    "index": 54,
+    "text": "met the expected standard in reading, writing, and maths.",
+    "start": 228.245,
+    "end": 232.267,
+    "zh": "达到了阅读、写作和数学的预期标准。",
+    "zh_hant": "達到了閱讀、寫作和數學的預期標準。"
+  },
+  {
+    "index": 55,
+    "text": "That's significantly below the 48% average for England.",
+    "start": 232.267,
+    "end": 237.229,
+    "zh": "这明显低于英格兰48%的平均水平。",
+    "zh_hant": "這明顯低於英格蘭48%的平均水平。"
+  },
+  {
+    "index": 56,
+    "text": "And at degree level,",
+    "start": 237.57,
+    "end": 239.451,
+    "zh": "而在学位水平上，",
+    "zh_hant": "而在學位水平上，"
+  },
+  {
+    "index": 57,
+    "text": "19% of students eligible for free school meals in the South West went on to university.",
+    "start": 239.101,
+    "end": 246.534,
+    "zh": "西南部19%有资格免费午餐的学生上了大学。",
+    "zh_hant": "西南部19%有資格免費午餐的學生上了大學。"
+  },
+  {
+    "index": 58,
+    "text": "The average for England was 29%.",
+    "start": 246.635,
+    "end": 250.987,
+    "zh": "英格兰的平均水平是29%。",
+    "zh_hant": "英格蘭的平均水平是29%。"
+  },
+  {
+    "index": 59,
+    "text": "Tanya is an academic who's looked at coastal and rural areas.",
+    "start": 251.037,
+    "end": 255.839,
+    "zh": "坦尼娅是一位研究沿海和农村地区的学者。",
+    "zh_hant": "坦尼婭是一位研究沿海和農村地區的學者。"
+  },
+  {
+    "index": 60,
+    "text": "When you looked at how things were being measured, were you surprised that Pallmore was being overlooked?",
+    "start": 255.659,
+    "end": 261.642,
+    "zh": "当你看事物被衡量的方式时，你对帕尔莫尔被忽视感到惊讶吗？",
+    "zh_hant": "當你看事物被衡量的方式時，你對帕爾莫爾被忽視感到驚訝嗎？"
+  },
+  {
+    "index": 61,
+    "text": "I wasn't surprised at all.",
+    "start": 261.662,
+    "end": 263.443,
+    "zh": "我一点也不惊讶。",
+    "zh_hant": "我一點也不驚訝。"
+  },
+  {
+    "index": 62,
+    "text": "Even now the measures that the government use underestimate rural deprivation and don't even consider coastal deprivation.",
+    "start": 263.263,
+    "end": 270.666,
+    "zh": "即使是现在，政府使用的衡量标准也低估了农村贫困，而且根本不考虑沿海贫困。",
+    "zh_hant": "即使是現在，政府使用的衡量標準也低估了農村貧困，而且根本不考慮沿海貧困。"
+  },
+  {
+    "index": 63,
+    "text": "She calls it pretty poverty.",
+    "start": 270.506,
+    "end": 272.767,
+    "zh": "她称之为“美丽的贫困”。",
+    "zh_hant": "她稱之為“美麗的貧困”。"
+  },
+  {
+    "index": 64,
+    "text": "The challenge is hidden, the funding lower, and that's because of what the government measures.",
+    "start": 272.747,
+    "end": 278.991,
+    "zh": "挑战是隐藏的，资金更低，这是因为政府的衡量方式。",
+    "zh_hant": "挑戰是隱藏的，資金更低，這是因為政府的衡量方式。"
+  },
+  {
+    "index": 65,
+    "text": "I'll give you an example, transport.",
+    "start": 278.641,
+    "end": 281.072,
+    "zh": "我给你举个例子，交通。",
+    "zh_hant": "我給你舉個例子，交通。"
+  },
+  {
+    "index": 66,
+    "text": "If you live in Cornwall, or if you live in other places like Cornwall, you have to own a car.",
+    "start": 280.792,
+    "end": 285.874,
+    "zh": "如果你住在康沃尔，或像康沃尔这样的地方，你必须有辆车。",
+    "zh_hant": "如果你住在康沃爾，或像康沃爾這樣的地方，你必須有輛車。"
+  },
+  {
+    "index": 67,
+    "text": "It's not a luxury, it's a necessity,",
+    "start": 285.794,
+    "end": 288.395,
+    "zh": "这不是奢侈品，而是必需品，",
+    "zh_hant": "這不是奢侈品，而是必需品，"
+  },
+  {
+    "index": 68,
+    "text": "because everything you do and everywhere you go involves some kind of travel",
+    "start": 288.496,
+    "end": 293.818,
+    "zh": "因为你做的每一件事、去的每一个地方都涉及某种出行",
+    "zh_hant": "因為你做的每一件事、去的每一個地方都涉及某種出行"
+  },
+  {
+    "index": 69,
+    "text": "that's not measured by the government's measures of deprivation.",
+    "start": 293.778,
+    "end": 297.5,
+    "zh": "而这不是政府贫困衡量标准所考虑的。",
+    "zh_hant": "而這不是政府貧困衡量標準所考慮的。"
+  },
+  {
+    "index": 70,
+    "text": "They look at transport, they look at public transport, but they don't see car ownership as a necessity.",
+    "start": 297.66,
+    "end": 303.723,
+    "zh": "他们看交通，看公共交通，但他们不把拥有汽车视为必需品。",
+    "zh_hant": "他們看交通，看公共交通，但他們不把擁有汽車視為必需品。"
+  },
+  {
+    "index": 71,
+    "text": "She says it's a toxic influence on young people's chance to do well at school,",
+    "start": 303.843,
+    "end": 309.726,
+    "zh": "她说这对年轻人在学校取得好成绩的机会有有害影响，",
+    "zh_hant": "她說這對年輕人在學校取得好成績的機會有有害影響，"
+  },
+  {
+    "index": 72,
+    "text": "limiting their experiences, ambitions and life chances.",
+    "start": 309.766,
+    "end": 314.448,
+    "zh": "限制了他们的经历、抱负和生活机会。",
+    "zh_hant": "限制了他們的經歷、抱負和生活機會。"
+  },
+  {
+    "index": 73,
+    "text": "Less of our children end up in the places",
+    "start": 314.288,
+    "end": 317.43,
+    "zh": "我们孩子中更少能去到",
+    "zh_hant": "我們孩子中更少能去到"
+  },
+  {
+    "index": 74,
+    "text": "that they could potentially get to because they haven't had those chances as a consequence of where they live.",
+    "start": 317.08,
+    "end": 324.133,
+    "zh": "他们本可能到达的地方，因为他们住在哪里而没得到那些机会。",
+    "zh_hant": "他們本可能到達的地方，因為他們住在哪裡而沒得到那些機會。"
+  },
+  {
+    "index": 75,
+    "text": "That's a tragic loss of talent, isn't it?",
+    "start": 324.074,
+    "end": 328.415,
+    "zh": "那是人才的悲剧性损失，不是吗？",
+    "zh_hant": "那是人才的悲劇性損失，不是嗎？"
+  },
+  {
+    "index": 76,
+    "text": "It's a massive loss of talent.",
+    "start": 328.776,
+    "end": 330.817,
+    "zh": "这是巨大的才华流失。",
+    "zh_hant": "這是巨大的才華流失。"
+  },
+  {
+    "index": 77,
+    "text": "And this is Nick, the teacher who got in touch with me, asking for the BBC to look at the South West.",
+    "start": 330.877,
+    "end": 337.32,
+    "zh": "这是尼克，那位联系我的老师，请求BBC关注西南部的。",
+    "zh_hant": "這是尼克，那位聯絡我的老師，請求BBC關注西南部的。"
+  },
+  {
+    "index": 78,
+    "text": "What is it about the way that exam results",
+    "start": 337.1,
+    "end": 341.182,
+    "zh": "考试成绩以什么方式",
+    "zh_hant": "考試成績以什麼方式"
+  },
+  {
+    "index": 79,
+    "text": "throw up this North-South divide issue that really made you get in touch?",
+    "start": 340.832,
+    "end": 345.224,
+    "zh": "呈现出这种南北差距问题，这让你真正决定联系我呢？",
+    "zh_hant": "呈現出這種南北差距問題，這讓你真正決定聯絡我呢？"
+  },
+  {
+    "index": 80,
+    "text": "I think it's the way that the oversimplification talking about North versus South,",
+    "start": 345.304,
+    "end": 349.646,
+    "zh": "我觉得是那种过度简化的南北对比说法，",
+    "zh_hant": "我覺得是那種過度簡化的南北對比說法，"
+  },
+  {
+    "index": 81,
+    "text": "it misses outcomes in places like this.",
+    "start": 349.306,
+    "end": 352.267,
+    "zh": "它忽略了像这样的地方的结果。",
+    "zh_hant": "它忽略了像這樣的地方的結果。"
+  },
+  {
+    "index": 82,
+    "text": "He's involved in the charity that supports the mentoring.",
+    "start": 352.167,
+    "end": 355.529,
+    "zh": "他参与了一个支持指导项目的慈善机构。",
+    "zh_hant": "他參與了一個支援指導專案的慈善機構。"
+  },
+  {
+    "index": 83,
+    "text": "For him, it's about each teenager's future and making sure",
+    "start": 355.509,
+    "end": 360.672,
+    "zh": "对他而言，关键是每个青少年的未来，并确保",
+    "zh_hant": "對他而言，關鍵是每個青少年的未來，並確保"
+  },
+  {
+    "index": 84,
+    "text": "their rural communities have a national voice.",
+    "start": 360.322,
+    "end": 363.793,
+    "zh": "他们的农村社区有全国性的声音。",
+    "zh_hant": "他們的農村社群有全國性的聲音。"
+  },
+  {
+    "index": 85,
+    "text": "I don't think the Southwest as a region",
+    "start": 363.674,
+    "end": 366.215,
+    "zh": "我觉得西南部作为一个地区",
+    "zh_hant": "我覺得西南部作為一個地區"
+  },
+  {
+    "index": 86,
+    "text": "and its interests are fairly represented in public policy making,",
+    "start": 366.115,
+    "end": 372.177,
+    "zh": "及其利益在公共政策制定中没有被公平代表，",
+    "zh_hant": "及其利益在公共政策制定中沒有被公平代表，"
+  },
+  {
+    "index": 87,
+    "text": "positions of influence in the country,",
+    "start": 372.118,
+    "end": 374.259,
+    "zh": "在国家的影响力位置上，",
+    "zh_hant": "在國家的影響力位置上，"
+  },
+  {
+    "index": 88,
+    "text": "and perhaps that's actually contributing back to the fact that the region isn't being recognised perhaps in the way it should be.",
+    "start": 373.909,
+    "end": 379.941,
+    "zh": "也许这反过来也导致了该地区没有以应有的方式被认可。",
+    "zh_hant": "也許這反過來也導致了該地區沒有以應有的方式被認可。"
+  },
+  {
+    "index": 89,
+    "text": "We can add that down as one of your targets for next year.",
+    "start": 379.822,
+    "end": 382.483,
+    "zh": "我们可以把这个记为你明年的目标之一。",
+    "zh_hant": "我們可以把這個記為你明年的目標之一。"
+  },
+  {
+    "index": 90,
+    "text": "So Libby in year seven gets regular mentoring through Nick's foundation.",
+    "start": 382.403,
+    "end": 387.605,
+    "zh": "所以七年级的利比通过尼克的基金会定期接受指导。",
+    "zh_hant": "所以七年級的利比透過尼克的基金會定期接受指導。"
+  },
+  {
+    "index": 91,
+    "text": "You wanted to talk to somebody about a specific thing in your subject, you're able to reach out to them.",
+    "start": 387.405,
+    "end": 393.408,
+    "zh": "如果你想和某人谈论你学科中的具体问题，你可以联系他们。",
+    "zh_hant": "如果你想和某人談論你學科中的具體問題，你可以聯絡他們。"
+  },
+  {
+    "index": 92,
+    "text": "She gets encouragement to aim high and has already visited a university.",
+    "start": 393.468,
+    "end": 398.511,
+    "zh": "她得到鼓励去追求高目标，而且已经参观过一所大学。",
+    "zh_hant": "她得到鼓勵去追求高目標，而且已經參觀過一所大學。"
+  },
+  {
+    "index": 93,
+    "text": "I've been able to share my thoughts with people more freely because I don't really talk to teachers as much as I should,",
+    "start": 398.611,
+    "end": 406.155,
+    "zh": "我能更自由地和人们分享我的想法，因为我不太和老师说话，不像我应该的那样，",
+    "zh_hant": "我能更自由地和人們分享我的想法，因為我不太和老師說話，不像我應該的那樣，"
+  },
+  {
+    "index": 94,
+    "text": "and I find it easier to talk to my mentor.",
+    "start": 406.195,
+    "end": 409.156,
+    "zh": "而且我发现和我的导师聊天更容易。",
+    "zh_hant": "而且我發現和我的導師聊天更容易。"
+  },
+  {
+    "index": 95,
+    "text": "When we're driving up to the trips,",
+    "start": 408.806,
+    "end": 411.978,
+    "zh": "当我们开车去旅行时，",
+    "zh_hant": "當我們開車去旅行時，"
+  },
+  {
+    "index": 96,
+    "text": "they gave me an idea of what life would be in university,",
+    "start": 411.718,
+    "end": 416.62,
+    "zh": "他们让我了解了大学的生活是什么样子的，",
+    "zh_hant": "他們讓我瞭解了大學的生活是什麼樣子的，"
+  },
+  {
+    "index": 97,
+    "text": "and I started questioning if",
+    "start": 416.82,
+    "end": 419.481,
+    "zh": "我开始质疑是否",
+    "zh_hant": "我開始質疑是否"
+  },
+  {
+    "index": 98,
+    "text": "I wanted to go to Falmouth because it seems like a really good university that actually cared for its students.",
+    "start": 419.131,
+    "end": 425.784,
+    "zh": "我想去法尔茅斯，因为它看起来是一个非常关心学生的好大学。",
+    "zh_hant": "我想去法爾茅斯，因為它看起來是一個非常關心學生的好大學。"
+  },
+  {
+    "index": 99,
+    "text": "On your marks, get set, go.",
+    "start": 425.765,
+    "end": 428.706,
+    "zh": "各就各位，预备，跑。",
+    "zh_hant": "各就各位，預備，跑。"
+  },
+  {
+    "index": 100,
+    "text": "It's Sports Day.",
+    "start": 428.826,
+    "end": 430.487,
+    "zh": "今天是运动会日。",
+    "zh_hant": "今天是運動會日。"
+  },
+  {
+    "index": 101,
+    "text": "It's the end of term.",
+    "start": 430.427,
+    "end": 432.248,
+    "zh": "学期结束了。",
+    "zh_hant": "學期結束了。"
+  },
+  {
+    "index": 102,
+    "text": "Everyone can relax.",
+    "start": 431.928,
+    "end": 433.508,
+    "zh": "每个人都可以放松了。",
+    "zh_hant": "每個人都可以放鬆了。"
+  },
+  {
+    "index": 103,
+    "text": "Exams are over.",
+    "start": 433.328,
+    "end": 434.889,
+    "zh": "考试结束了。",
+    "zh_hant": "考試結束了。"
+  },
+  {
+    "index": 104,
+    "text": "But when those GCSE results do land,",
+    "start": 435.589,
+    "end": 439.352,
+    "zh": "但当那些GCSE成绩真正出炉时，",
+    "zh_hant": "但當那些GCSE成績真正出爐時，"
+  },
+  {
+    "index": 105,
+    "text": "once again, they'll show what the South West is up against.",
+    "start": 439.492,
+    "end": 443.794,
+    "zh": "它们会再次显示出西南部所面临的困境。",
+    "zh_hant": "它們會再次顯示出西南部所面臨的困境。"
+  },
+  {
+    "index": 106,
+    "text": "Welcome to Sports Day 2026 here at Bute Haven.",
+    "start": 443.444,
+    "end": 446.695,
+    "zh": "欢迎来到2026年在此举行的运动会日。",
+    "zh_hant": "歡迎來到2026年在此舉行的運動會日。"
+  },
+  {
+    "index": 107,
+    "text": "There is a real push across the South West's schools,",
+    "start": 446.416,
+    "end": 450.918,
+    "zh": "西南部的学校、",
+    "zh_hant": "西南部的學校、"
+  },
+  {
+    "index": 108,
+    "text": "employers, universities",
+    "start": 450.658,
+    "end": 452.639,
+    "zh": "雇主、大学正在真正努力",
+    "zh_hant": "僱主、大學正在真正努力"
+  },
+  {
+    "index": 109,
+    "text": "working together with a message that Cornwall and Devon are great and young people here",
+    "start": 452.289,
+    "end": 459.402,
+    "zh": "共同传递一个信息：康沃尔和德文很棒，这里的年轻人",
+    "zh_hant": "共同傳遞一個資訊：康沃爾和德文很棒，這裡的年輕人"
+  },
+  {
+    "index": 110,
+    "text": "need more opportunities.",
+    "start": 459.162,
+    "end": 461.223,
+    "zh": "需要更多机会。",
+    "zh_hant": "需要更多機會。"
+  },
+  {
+    "index": 111,
+    "text": "The government is now looking at how to get better results in coastal communities",
+    "start": 461.263,
+    "end": 466.526,
+    "zh": "政府现在正在研究如何在沿海社区取得更好的成绩，",
+    "zh_hant": "政府現在正在研究如何在沿海社群取得更好的成績，"
+  },
+  {
+    "index": 112,
+    "text": "and says it's taking action on poverty to give families breathing space",
+    "start": 466.266,
+    "end": 471.268,
+    "zh": "并表示正在采取行动应对贫困，给家庭喘息的空间，",
+    "zh_hant": "並表示正在採取行動應對貧困，給家庭喘息的空間，"
+  },
+  {
+    "index": 113,
+    "text": "so children can learn and thrive.",
+    "start": 471.109,
+    "end": 474.09,
+    "zh": "让孩子们能学习并茁壮成长。",
+    "zh_hant": "讓孩子們能學習並茁壯成長。"
+  }
+]
