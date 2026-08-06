@@ -1,0 +1,426 @@
+[
+  {
+    "index": 0,
+    "text": "This is the VOA Special English Technology Report.",
+    "start": 1.211,
+    "end": 5.833,
+    "zh": "这里是美国之音特别英语技术报道。",
+    "zh_hant": "這裡是美國之音特別英語技術報道。"
+  },
+  {
+    "index": 1,
+    "text": "Kathy Hutchinson is a tetraplegic.",
+    "start": 6.153,
+    "end": 9.274,
+    "zh": "凯西·哈钦森是一位四肢瘫痪者。",
+    "zh_hant": "凱西·哈欽森是一位四肢癱瘓者。"
+  },
+  {
+    "index": 2,
+    "text": "She has not been able to move her arms, legs, or speak",
+    "start": 9.375,
+    "end": 14.177,
+    "zh": "她无法移动手臂、腿或说话",
+    "zh_hant": "她無法移動手臂、腿或說話"
+  },
+  {
+    "index": 3,
+    "text": "since suffering a stroke nearly 15 years ago.",
+    "start": 14.157,
+    "end": 17.479,
+    "zh": "因为大约15年前中风。",
+    "zh_hant": "因為大約15年前中風。"
+  },
+  {
+    "index": 4,
+    "text": "Recently, she learned how to control a robotic arm",
+    "start": 18.119,
+    "end": 22.601,
+    "zh": "最近，她学会了如何控制一只机械臂",
+    "zh_hant": "最近，她學會了如何控制一隻機械臂"
+  },
+  {
+    "index": 5,
+    "text": "using her thoughts.",
+    "start": 22.521,
+    "end": 24.642,
+    "zh": "用她的思想。",
+    "zh_hant": "用她的思想。"
+  },
+  {
+    "index": 6,
+    "text": "She now can use brain activity to serve herself a drink.",
+    "start": 25.103,
+    "end": 30.445,
+    "zh": "她现在可以用大脑活动给自己端饮料。",
+    "zh_hant": "她現在可以用大腦活動給自己端飲料。"
+  },
+  {
+    "index": 7,
+    "text": "The American woman is one of two people who took part in a research project",
+    "start": 31.006,
+    "end": 36.948,
+    "zh": "这位美国女性是参加研究项目的两个人之一",
+    "zh_hant": "這位美國女性是參加研究專案的兩個人之一"
+  },
+  {
+    "index": 8,
+    "text": "known as BrainGate 2.",
+    "start": 36.789,
+    "end": 40.501,
+    "zh": "名为BrainGate 2。",
+    "zh_hant": "名為BrainGate 2。"
+  },
+  {
+    "index": 9,
+    "text": "The researchers have spent years studying how to help people",
+    "start": 40.551,
+    "end": 45.413,
+    "zh": "研究人员多年来一直在研究如何帮助人们",
+    "zh_hant": "研究人員多年來一直在研究如何幫助人們"
+  },
+  {
+    "index": 10,
+    "text": "who are paralyzed regain movement in their arms and legs.",
+    "start": 45.233,
+    "end": 51.456,
+    "zh": "瘫痪者恢复手臂和腿部的运动能力。",
+    "zh_hant": "癱瘓者恢復手臂和腿部的運動能力。"
+  },
+  {
+    "index": 11,
+    "text": "John Donahue was part of the project.",
+    "start": 52.256,
+    "end": 56.218,
+    "zh": "约翰·多纳霍是这个项目的一员。",
+    "zh_hant": "約翰·多納霍是這個專案的一員。"
+  },
+  {
+    "index": 12,
+    "text": "He is a neuroscientist with Brown University",
+    "start": 56.419,
+    "end": 60.78,
+    "zh": "他是布朗大学的神经科学家",
+    "zh_hant": "他是布朗大學的神經科學家"
+  },
+  {
+    "index": 13,
+    "text": "and the Department of Veterans Affairs.",
+    "start": 61.041,
+    "end": 64.482,
+    "zh": "以及退伍军人事务部。",
+    "zh_hant": "以及退伍軍人事務部。"
+  },
+  {
+    "index": 14,
+    "text": "He says people who are paralyzed",
+    "start": 64.883,
+    "end": 67.664,
+    "zh": "他说，瘫痪的人",
+    "zh_hant": "他說，癱瘓的人"
+  },
+  {
+    "index": 15,
+    "text": "have their brain disconnected from their body.",
+    "start": 67.624,
+    "end": 72.286,
+    "zh": "他们的大脑与身体失去了连接。",
+    "zh_hant": "他們的大腦與身體失去了連線。"
+  },
+  {
+    "index": 16,
+    "text": "So he and other researchers decided to go",
+    "start": 72.887,
+    "end": 76.848,
+    "zh": "所以他和其他研究人员决定绕过",
+    "zh_hant": "所以他和其他研究人員決定繞過"
+  },
+  {
+    "index": 17,
+    "text": "around the damaged nervous system.",
+    "start": 76.729,
+    "end": 80.15,
+    "zh": "受损的神经系统。",
+    "zh_hant": "受損的神經系統。"
+  },
+  {
+    "index": 18,
+    "text": "They developed a way to go directly from the brain to the outside world.",
+    "start": 80.831,
+    "end": 86.593,
+    "zh": "他们开发了一种直接从大脑到外部世界的方法。",
+    "zh_hant": "他們開發了一種直接從大腦到外部世界的方法。"
+  },
+  {
+    "index": 19,
+    "text": "The two paralyzed people had small sensors",
+    "start": 87.434,
+    "end": 91.876,
+    "zh": "这两位瘫痪者体内有小型传感器",
+    "zh_hant": "這兩位癱瘓者體內有小型感測器"
+  },
+  {
+    "index": 20,
+    "text": "connected to the part of the brain that controls movement.",
+    "start": 91.796,
+    "end": 96.718,
+    "zh": "连接到控制运动的大脑部分。",
+    "zh_hant": "連線到控制運動的大腦部分。"
+  },
+  {
+    "index": 21,
+    "text": "The devices measured brain activity and sent that information",
+    "start": 97.219,
+    "end": 102.521,
+    "zh": "这些设备测量大脑活动并将信息发送",
+    "zh_hant": "這些裝置測量大腦活動並將資訊傳送"
+  },
+  {
+    "index": 22,
+    "text": "to a computer.",
+    "start": 102.441,
+    "end": 103.742,
+    "zh": "到计算机。",
+    "zh_hant": "到計算機。"
+  },
+  {
+    "index": 23,
+    "text": "The The computer has special software",
+    "start": 103.642,
+    "end": 107.664,
+    "zh": "计算机装有特殊软件",
+    "zh_hant": "計算機裝有特殊軟體"
+  },
+  {
+    "index": 24,
+    "text": "that turns the information into digital commands",
+    "start": 107.784,
+    "end": 112.586,
+    "zh": "将信息转换为数字指令",
+    "zh_hant": "將資訊轉換為數字指令"
+  },
+  {
+    "index": 25,
+    "text": "for operating other devices.",
+    "start": 112.586,
+    "end": 115.788,
+    "zh": "用于操作其他设备。",
+    "zh_hant": "用於操作其他裝置。"
+  },
+  {
+    "index": 26,
+    "text": "The researchers used a highly developed robotic arm",
+    "start": 116.408,
+    "end": 120.61,
+    "zh": "研究人员使用了一种高度开发的机械臂",
+    "zh_hant": "研究人員使用了一種高度開發的機械臂"
+  },
+  {
+    "index": 27,
+    "text": "to recreate human actions.",
+    "start": 120.571,
+    "end": 124.032,
+    "zh": "来重现人类动作。",
+    "zh_hant": "來重現人類動作。"
+  },
+  {
+    "index": 28,
+    "text": "Scientists from Massachusetts General Hospital,",
+    "start": 124.733,
+    "end": 128.394,
+    "zh": "来自马萨诸塞综合医院、",
+    "zh_hant": "來自馬薩諸塞綜合醫院、"
+  },
+  {
+    "index": 29,
+    "text": "Harvard Medical School, and the German Aerospace Space Center",
+    "start": 128.574,
+    "end": 133.617,
+    "zh": "哈佛医学院和德国航空航天中心",
+    "zh_hant": "哈佛醫學院和德國航空航天中心"
+  },
+  {
+    "index": 30,
+    "text": "also took part in the study.",
+    "start": 133.657,
+    "end": 136.258,
+    "zh": "的科学家也参与了这项研究。",
+    "zh_hant": "的科學家也參與了這項研究。"
+  },
+  {
+    "index": 31,
+    "text": "The BrainGate team had its first success in 2006.",
+    "start": 136.819,
+    "end": 143.432,
+    "zh": "BrainGate团队在2006年取得了首次成功。",
+    "zh_hant": "BrainGate團隊在2006年取得了首次成功。"
+  },
+  {
+    "index": 32,
+    "text": "A tetraplegic stabbing victim",
+    "start": 143.482,
+    "end": 145.963,
+    "zh": "一位四肢瘫痪的刺伤受害者",
+    "zh_hant": "一位四肢癱瘓的刺傷受害者"
+  },
+  {
+    "index": 33,
+    "text": "was able to use the Brain Computer Interface System",
+    "start": 146.083,
+    "end": 151.225,
+    "zh": "能够使用脑机接口系统",
+    "zh_hant": "能夠使用腦機介面系統"
+  },
+  {
+    "index": 34,
+    "text": "to control a computer cursor.",
+    "start": 151.366,
+    "end": 154.747,
+    "zh": "来控制计算机光标。",
+    "zh_hant": "來控制計算機游標。"
+  },
+  {
+    "index": 35,
+    "text": "John Donahue says",
+    "start": 155.888,
+    "end": 157.949,
+    "zh": "约翰·多纳霍说",
+    "zh_hant": "約翰·多納霍說"
+  },
+  {
+    "index": 36,
+    "text": "the latest development using robotic arms is a major victory.",
+    "start": 157.599,
+    "end": 163.652,
+    "zh": "使用机械臂的最新发展是一项重大胜利。",
+    "zh_hant": "使用機械臂的最新發展是一項重大勝利。"
+  },
+  {
+    "index": 37,
+    "text": "A video of the experiment shows Kathy Hutchinson using",
+    "start": 164.433,
+    "end": 169.995,
+    "zh": "实验视频显示凯西·哈钦森使用",
+    "zh_hant": "實驗影片顯示凱西·哈欽森使用"
+  },
+  {
+    "index": 38,
+    "text": "such an arm to pick up a cup of coffee.",
+    "start": 169.645,
+    "end": 173.797,
+    "zh": "这样一只手臂来拿起一杯咖啡。",
+    "zh_hant": "這樣一隻手臂來拿起一杯咖啡。"
+  },
+  {
+    "index": 39,
+    "text": "She guides the cup toward her mouth,",
+    "start": 174.337,
+    "end": 177.259,
+    "zh": "她将杯子引向嘴巴，",
+    "zh_hant": "她將杯子引向嘴巴，"
+  },
+  {
+    "index": 40,
+    "text": "moves it forward and drinks through a straw.",
+    "start": 177.379,
+    "end": 181.961,
+    "zh": "向前移动并用吸管喝。",
+    "zh_hant": "向前移動並用吸管喝。"
+  },
+  {
+    "index": 41,
+    "text": "The research team carried out almost 200 tests",
+    "start": 183.182,
+    "end": 187.964,
+    "zh": "研究团队进行了近200次测试",
+    "zh_hant": "研究團隊進行了近200次測試"
+  },
+  {
+    "index": 42,
+    "text": "with two two different robotic arms.",
+    "start": 187.884,
+    "end": 190.985,
+    "zh": "使用两种不同的机械臂。",
+    "zh_hant": "使用兩種不同的機械臂。"
+  },
+  {
+    "index": 43,
+    "text": "The two individuals were able to pick up their target objects",
+    "start": 191.326,
+    "end": 196.04,
+    "zh": "这两位个体能够拿起目标物体",
+    "zh_hant": "這兩位個體能夠拿起目標物體"
+  },
+  {
+    "index": 44,
+    "text": "43 to 66 percent of the time.",
+    "start": 195.64,
+    "end": 201.251,
+    "zh": "在43%到66%的时间里。",
+    "zh_hant": "在43%到66%的時間裡。"
+  },
+  {
+    "index": 45,
+    "text": "The researchers are calling the information very promising.",
+    "start": 202.032,
+    "end": 207.914,
+    "zh": "研究人员称这些信息非常有前景。",
+    "zh_hant": "研究人員稱這些資訊非常有前景。"
+  },
+  {
+    "index": 46,
+    "text": "But they say it will take years to fully develop the technology",
+    "start": 208.635,
+    "end": 213.837,
+    "zh": "但他们表示，要完全开发这项技术需要数年时间",
+    "zh_hant": "但他們表示，要完全開發這項技術需要數年時間"
+  },
+  {
+    "index": 47,
+    "text": "for everyday use.",
+    "start": 214.018,
+    "end": 216.699,
+    "zh": "以供日常使用。",
+    "zh_hant": "以供日常使用。"
+  },
+  {
+    "index": 48,
+    "text": "A report Support on the BrainGate study",
+    "start": 217.78,
+    "end": 220.881,
+    "zh": "关于BrainGate研究的报告",
+    "zh_hant": "關於BrainGate研究的報告"
+  },
+  {
+    "index": 49,
+    "text": "appeared in the scientific journal Nature.",
+    "start": 221.221,
+    "end": 225.303,
+    "zh": "发表在科学期刊《自然》上。",
+    "zh_hant": "發表在科學期刊《自然》上。"
+  },
+  {
+    "index": 50,
+    "text": "For VOA Special English, I'm Carolyn Frasuti.",
+    "start": 226.644,
+    "end": 230.746,
+    "zh": "这里是美国之音特别英语，我是卡罗琳·弗拉苏蒂。",
+    "zh_hant": "這裡是美國之音特別英語，我是卡羅琳·弗拉蘇蒂。"
+  },
+  {
+    "index": 51,
+    "text": "To read, listen, and learn English with our stories,",
+    "start": 230.986,
+    "end": 235.528,
+    "zh": "要阅读、收听并跟着我们的故事学英语，",
+    "zh_hant": "要閱讀、收聽並跟著我們的故事學英語，"
+  },
+  {
+    "index": 52,
+    "text": "go to voaspecialenglish .com.",
+    "start": 235.688,
+    "end": 239.15,
+    "zh": "请访问voaspecialenglish.com。",
+    "zh_hant": "請訪問voaspecialenglish.com。"
+  }
+]

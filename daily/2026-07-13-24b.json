@@ -1,0 +1,402 @@
+[
+  {
+    "index": 0,
+    "text": "This is the VOA Special English Agriculture Report.",
+    "start": 1.051,
+    "end": 5.993,
+    "zh": "这里是美国之音特别英语农业报道。",
+    "zh_hant": "這裡是美國之音特別英語農業報道。"
+  },
+  {
+    "index": 1,
+    "text": "Companion planting is the idea that some kinds of plants",
+    "start": 6.534,
+    "end": 11.096,
+    "zh": "伴生种植是指某些种类的植物",
+    "zh_hant": "伴生種植是指某些種類的植物"
+  },
+  {
+    "index": 2,
+    "text": "can help each other grow.",
+    "start": 11.036,
+    "end": 13.077,
+    "zh": "可以互相帮助生长的理念。",
+    "zh_hant": "可以互相幫助生長的理念。"
+  },
+  {
+    "index": 3,
+    "text": "Plants that are compatible together generally have similar needs",
+    "start": 13.957,
+    "end": 19.06,
+    "zh": "彼此相容的植物通常有相似的需求",
+    "zh_hant": "彼此相容的植物通常有相似的需求"
+  },
+  {
+    "index": 4,
+    "text": "in terms of nutrients,",
+    "start": 18.94,
+    "end": 20.781,
+    "zh": "在养分方面，",
+    "zh_hant": "在養分方面，"
+  },
+  {
+    "index": 5,
+    "text": "soil, and moisture levels.",
+    "start": 20.961,
+    "end": 23.382,
+    "zh": "以及土壤和湿度水平方面。",
+    "zh_hant": "以及土壤和溼度水平方面。"
+  },
+  {
+    "index": 6,
+    "text": "Advice about which plants are compatible",
+    "start": 24.643,
+    "end": 27.904,
+    "zh": "关于哪些植物相容的建议",
+    "zh_hant": "關於哪些植物相容的建議"
+  },
+  {
+    "index": 7,
+    "text": "is sometimes based more on tradition than proof.",
+    "start": 27.945,
+    "end": 32.087,
+    "zh": "有时更多基于传统而非证据。",
+    "zh_hant": "有時更多基於傳統而非證據。"
+  },
+  {
+    "index": 8,
+    "text": "But experts say there is evidence to support certain combinations.",
+    "start": 33.107,
+    "end": 38.47,
+    "zh": "但专家表示有证据支持某些组合。",
+    "zh_hant": "但專家表示有證據支援某些組合。"
+  },
+  {
+    "index": 9,
+    "text": "These can improve harvests, reduce disease,",
+    "start": 39.831,
+    "end": 43.472,
+    "zh": "这些可以提高收成、减少病害，",
+    "zh_hant": "這些可以提高收成、減少病害，"
+  },
+  {
+    "index": 10,
+    "text": "and help with pest control by attracting helpful insects.",
+    "start": 43.593,
+    "end": 48.675,
+    "zh": "并通过吸引有益昆虫帮助控制害虫。",
+    "zh_hant": "並透過吸引有益昆蟲幫助控制害蟲。"
+  },
+  {
+    "index": 11,
+    "text": "For example, some kinds of soil bacteria",
+    "start": 49.255,
+    "end": 53.197,
+    "zh": "例如，某些土壤细菌",
+    "zh_hant": "例如，某些土壤細菌"
+  },
+  {
+    "index": 12,
+    "text": "take nitrogen from the air and make it into a form that plants can use.",
+    "start": 52.897,
+    "end": 58.58,
+    "zh": "会从空气中吸收氮并将其转化为植物可用的形式。",
+    "zh_hant": "會從空氣中吸收氮並將其轉化為植物可用的形式。"
+  },
+  {
+    "index": 13,
+    "text": "The plants hold the nitrogen in their roots.",
+    "start": 59.06,
+    "end": 62.101,
+    "zh": "植物将氮保存在根部。",
+    "zh_hant": "植物將氮儲存在根部。"
+  },
+  {
+    "index": 14,
+    "text": "Legumes are especially good at this nitrogen fixing.",
+    "start": 62.842,
+    "end": 67.424,
+    "zh": "豆科植物特别擅长这种固氮作用。",
+    "zh_hant": "豆科植物特別擅長這種固氮作用。"
+  },
+  {
+    "index": 15,
+    "text": "Then, any crops that share the same space as the legumes",
+    "start": 68.425,
+    "end": 72.887,
+    "zh": "然后，与豆科植物共享空间的任何作物",
+    "zh_hant": "然後，與豆科植物共享空間的任何作物"
+  },
+  {
+    "index": 16,
+    "text": "can get the nitrogen as the roots decompose.",
+    "start": 72.927,
+    "end": 76.929,
+    "zh": "可以在根部分解时获得氮。",
+    "zh_hant": "可以在根部分解時獲得氮。"
+  },
+  {
+    "index": 17,
+    "text": "Beans and potatoes can also share territory well",
+    "start": 78.009,
+    "end": 82.332,
+    "zh": "豆类和土豆也能很好地共用土地，",
+    "zh_hant": "豆類和土豆也能很好地共用土地，"
+  },
+  {
+    "index": 18,
+    "text": "because their roots reach different levels in the soil.",
+    "start": 82.452,
+    "end": 86.514,
+    "zh": "因为它们的根在土壤中到达不同深度。",
+    "zh_hant": "因為它們的根在土壤中到達不同深度。"
+  },
+  {
+    "index": 19,
+    "text": "Deep -rooted vegetables get nutrients and moisture from lower down in the soil,",
+    "start": 87.494,
+    "end": 93.137,
+    "zh": "深根蔬菜从土壤更深处获取养分和水分，",
+    "zh_hant": "深根蔬菜從土壤更深處獲取養分和水分，"
+  },
+  {
+    "index": 20,
+    "text": "so they do not compete with plants with shallower roots.",
+    "start": 93.297,
+    "end": 98.66,
+    "zh": "因此它们不与浅根植物竞争。",
+    "zh_hant": "因此它們不與淺根植物競爭。"
+  },
+  {
+    "index": 21,
+    "text": "But some plants placed together may harm each other's development.",
+    "start": 99.881,
+    "end": 105.343,
+    "zh": "但有些植物放在一起可能会损害彼此的生长。",
+    "zh_hant": "但有些植物放在一起可能會損害彼此的生長。"
+  },
+  {
+    "index": 22,
+    "text": "For example, tomatoes do not like wet soil,",
+    "start": 106.384,
+    "end": 111.046,
+    "zh": "例如，西红柿不喜欢潮湿的土壤，",
+    "zh_hant": "例如，西紅柿不喜歡潮溼的土壤，"
+  },
+  {
+    "index": 23,
+    "text": "but watercress does.",
+    "start": 111.206,
+    "end": 113.127,
+    "zh": "但豆瓣菜喜欢。",
+    "zh_hant": "但豆瓣菜喜歡。"
+  },
+  {
+    "index": 24,
+    "text": "So you would probably want to keep them separated.",
+    "start": 113.687,
+    "end": 117.349,
+    "zh": "所以你可能想把它们分开种植。",
+    "zh_hant": "所以你可能想把它們分開種植。"
+  },
+  {
+    "index": 25,
+    "text": "Some kinds of produce should be kept apart even after being harvested.",
+    "start": 118.63,
+    "end": 124.893,
+    "zh": "某些农产品即使在收获后也应分开存放。",
+    "zh_hant": "某些農產品即使在收穫後也應分開存放。"
+  },
+  {
+    "index": 26,
+    "text": "This is This is because of ethylene gas.",
+    "start": 124.543,
+    "end": 128.635,
+    "zh": "这是因为乙烯气体。",
+    "zh_hant": "這是因為乙烯氣體。"
+  },
+  {
+    "index": 27,
+    "text": "Ethylene is a plant hormone that can cause some foods to ripen too quickly.",
+    "start": 129.375,
+    "end": 135.798,
+    "zh": "乙烯是一种植物激素，会导致某些食物过快成熟。",
+    "zh_hant": "乙烯是一種植物激素，會導致某些食物過快成熟。"
+  },
+  {
+    "index": 28,
+    "text": "Apples release ethylene gas.",
+    "start": 136.679,
+    "end": 139.18,
+    "zh": "苹果会释放乙烯气体。",
+    "zh_hant": "蘋果會釋放乙烯氣體。"
+  },
+  {
+    "index": 29,
+    "text": "Apricots, melons, and tomatoes also release a lot of ethylene.",
+    "start": 139.56,
+    "end": 144.923,
+    "zh": "杏、甜瓜和西红柿也会释放大量乙烯。",
+    "zh_hant": "杏、甜瓜和西紅柿也會釋放大量乙烯。"
+  },
+  {
+    "index": 30,
+    "text": "Some vegetables are easily affected by ethylene,",
+    "start": 145.583,
+    "end": 149.145,
+    "zh": "有些蔬菜容易受乙烯影响，",
+    "zh_hant": "有些蔬菜容易受乙烯影響，"
+  },
+  {
+    "index": 31,
+    "text": "including asparagus, broccoli, cabbage, and cucumbers.",
+    "start": 149.125,
+    "end": 154.648,
+    "zh": "包括芦笋、西兰花、卷心菜和黄瓜。",
+    "zh_hant": "包括蘆筍、西蘭花、捲心菜和黃瓜。"
+  },
+  {
+    "index": 32,
+    "text": "This risk of ripening too soon",
+    "start": 155.428,
+    "end": 157.949,
+    "zh": "这种过快成熟的风险",
+    "zh_hant": "這種過快成熟的風險"
+  },
+  {
+    "index": 33,
+    "text": "is why markets often separate high ethylene producing foods",
+    "start": 157.889,
+    "end": 163.012,
+    "zh": "是市场常将高乙烯释放食物分开的原因，",
+    "zh_hant": "是市場常將高乙烯釋放食物分開的原因，"
+  },
+  {
+    "index": 34,
+    "text": "from those that are sensitive to the gas.",
+    "start": 162.912,
+    "end": 166.154,
+    "zh": "将它们与对这种气体敏感的食物隔离。",
+    "zh_hant": "將它們與對這種氣體敏感的食物隔離。"
+  },
+  {
+    "index": 35,
+    "text": "But if you put an apple in a bag with a green banana,",
+    "start": 166.894,
+    "end": 170.956,
+    "zh": "但如果你把一个苹果和一根绿香蕉放在袋子里，",
+    "zh_hant": "但如果你把一個蘋果和一根綠香蕉放在袋子裡，"
+  },
+  {
+    "index": 36,
+    "text": "the ethylene from the apple will make the banana ready to eat sooner.",
+    "start": 171.156,
+    "end": 176.919,
+    "zh": "苹果释放的乙烯会让香蕉更快熟透可食。",
+    "zh_hant": "蘋果釋放的乙烯會讓香蕉更快熟透可食。"
+  },
+  {
+    "index": 37,
+    "text": "What about peaches, plums and nectarines that are too firm to eat?",
+    "start": 178.32,
+    "end": 183.362,
+    "zh": "那太硬无法食用的桃子、李子和油桃呢？",
+    "zh_hant": "那太硬無法食用的桃子、李子和油桃呢？"
+  },
+  {
+    "index": 38,
+    "text": "These kinds of fruit do not need any help from an apple.",
+    "start": 184.463,
+    "end": 189.205,
+    "zh": "这类水果不需要苹果的任何帮助。",
+    "zh_hant": "這類水果不需要蘋果的任何幫助。"
+  },
+  {
+    "index": 39,
+    "text": "They release enough ethylene to ripen themselves,",
+    "start": 189.665,
+    "end": 193.827,
+    "zh": "它们会释放足够的乙烯来自己成熟，",
+    "zh_hant": "它們會釋放足夠的乙烯來自己成熟，"
+  },
+  {
+    "index": 40,
+    "text": "but that does not mean there is no way to get the job done faster.",
+    "start": 194.608,
+    "end": 199.791,
+    "zh": "但这并不意味着没有办法加快这一过程。",
+    "zh_hant": "但這並不意味著沒有辦法加快這一過程。"
+  },
+  {
+    "index": 41,
+    "text": "Growers suggest placing the fruit in a fruit bowl",
+    "start": 201.192,
+    "end": 205.634,
+    "zh": "种植者建议把水果放在果盘中",
+    "zh_hant": "種植者建議把水果放在果盤中"
+  },
+  {
+    "index": 42,
+    "text": "or in a paper bag with the top folded over.",
+    "start": 205.734,
+    "end": 209.756,
+    "zh": "或折叠顶部的纸袋里。",
+    "zh_hant": "或摺疊頂部的紙袋裡。"
+  },
+  {
+    "index": 43,
+    "text": "Keep the fruit at at room temperature out of direct sunlight.",
+    "start": 210.716,
+    "end": 215.078,
+    "zh": "将水果放在室温下，避免阳光直射。",
+    "zh_hant": "將水果放在室溫下，避免陽光直射。"
+  },
+  {
+    "index": 44,
+    "text": "Once the fruit is soft enough to your liking,",
+    "start": 215.979,
+    "end": 219.08,
+    "zh": "一旦水果软到符合你的口味，",
+    "zh_hant": "一旦水果軟到符合你的口味，"
+  },
+  {
+    "index": 45,
+    "text": "it should be either used or refrigerated to keep it from getting too ripe.",
+    "start": 219.301,
+    "end": 225.523,
+    "zh": "就应该食用或冷藏，以免过熟。",
+    "zh_hant": "就應該食用或冷藏，以免過熟。"
+  },
+  {
+    "index": 46,
+    "text": "Yuck.",
+    "start": 226.084,
+    "end": 226.884,
+    "zh": "哎呀。",
+    "zh_hant": "哎呀。"
+  },
+  {
+    "index": 47,
+    "text": "For VOA Special English, I'm Mario Ritter.",
+    "start": 227.905,
+    "end": 231.667,
+    "zh": "这里是美国之音特别英语，我是马里奥·里特。",
+    "zh_hant": "這裡是美國之音特別英語，我是馬里奧·裡特。"
+  },
+  {
+    "index": 48,
+    "text": "You can download texts and MP3s of our programs",
+    "start": 231.907,
+    "end": 236.189,
+    "zh": "你可以下载我们节目的文本和MP3，",
+    "zh_hant": "你可以下載我們節目的文字和MP3，"
+  },
+  {
+    "index": 49,
+    "text": "and learn English at voaspecialenglish .com.",
+    "start": 236.169,
+    "end": 241.469,
+    "zh": "并在voaspecialenglish.com上学习英语。",
+    "zh_hant": "並在voaspecialenglish.com上學習英語。"
+  }
+]

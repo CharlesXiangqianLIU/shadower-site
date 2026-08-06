@@ -1,0 +1,442 @@
+[
+  {
+    "index": 0,
+    "text": "Canyonlands National Park.",
+    "start": 1.971,
+    "end": 4.232,
+    "zh": "峡谷地国家公园。",
+    "zh_hant": "峽谷地國家公園。"
+  },
+  {
+    "index": 1,
+    "text": "Vast Spectacular Canyonlands",
+    "start": 17.96,
+    "end": 23.643,
+    "zh": "广阔壮丽的峡谷地",
+    "zh_hant": "廣闊壯麗的峽谷地"
+  },
+  {
+    "index": 2,
+    "text": "National Park",
+    "start": 23.293,
+    "end": 24.584,
+    "zh": "国家公园",
+    "zh_hant": "國家公園"
+  },
+  {
+    "index": 3,
+    "text": "of the Colorado Plateau,",
+    "start": 27.286,
+    "end": 28.986,
+    "zh": "位于科罗拉多高原之上，",
+    "zh_hant": "位於科羅拉多高原之上，"
+  },
+  {
+    "index": 4,
+    "text": "the park is located in the southeastern part of Utah, an area rich in canyons.",
+    "start": 29.247,
+    "end": 34.93,
+    "zh": "公园坐落在犹他州东南部，一个峡谷密布的地区。",
+    "zh_hant": "公園坐落在猶他州東南部，一個峽谷密佈的地區。"
+  },
+  {
+    "index": 5,
+    "text": "At the confluence of the Colorado and Green Rivers,",
+    "start": 42.991,
+    "end": 46.212,
+    "zh": "在科罗拉多河与格林河交汇处，",
+    "zh_hant": "在科羅拉多河與格林河交匯處，"
+  },
+  {
+    "index": 6,
+    "text": "a mesa rises from sheer sandstone stone cliffs a thousand feet into the air,",
+    "start": 46.753,
+    "end": 52.315,
+    "zh": "一座台地从高耸的砂岩峭壁拔地而起，直插云霄千英尺，",
+    "zh_hant": "一座臺地從高聳的砂岩峭壁拔地而起，直插雲霄千英尺，"
+  },
+  {
+    "index": 7,
+    "text": "over the surrounding canyonlands panorama, the island in the sky,",
+    "start": 52.916,
+    "end": 58.079,
+    "zh": "俯瞰着周围峡谷地的全景，这就是“天空之岛”，",
+    "zh_hant": "俯瞰著周圍峽谷地的全景，這就是“天空之島”，"
+  },
+  {
+    "index": 8,
+    "text": "a 43 square mile wilderness mason.",
+    "start": 59.6,
+    "end": 62.661,
+    "zh": "一片43平方英里的荒野之岛。",
+    "zh_hant": "一片43平方英里的荒野之島。"
+  },
+  {
+    "index": 9,
+    "text": "Rugged.",
+    "start": 64.362,
+    "end": 65.162,
+    "zh": "崎岖不平。",
+    "zh_hant": "崎嶇不平。"
+  },
+  {
+    "index": 10,
+    "text": "maze of unexplored canyons.",
+    "start": 76.229,
+    "end": 78.55,
+    "zh": "迷宫般的未探索峡谷。",
+    "zh_hant": "迷宮般的未探索峽谷。"
+  },
+  {
+    "index": 11,
+    "text": "A winding labyrinth of hazardous chasms.",
+    "start": 86.031,
+    "end": 89.052,
+    "zh": "蜿蜒曲折、险象环生的幽深裂谷。",
+    "zh_hant": "蜿蜒曲折、險象環生的幽深裂谷。"
+  },
+  {
+    "index": 12,
+    "text": "One of the most inaccessible regions in the United States.",
+    "start": 90.153,
+    "end": 94.455,
+    "zh": "美国最难以到达的地区之一。",
+    "zh_hant": "美國最難以到達的地區之一。"
+  },
+  {
+    "index": 13,
+    "text": "Cross the Colorado River from the maze and you're in the needles.",
+    "start": 104.8,
+    "end": 108.982,
+    "zh": "从迷宫区渡过科罗拉多河，你就来到了针尖区。",
+    "zh_hant": "從迷宮區渡過科羅拉多河，你就來到了針尖區。"
+  },
+  {
+    "index": 14,
+    "text": "Wilderness.",
+    "start": 111.543,
+    "end": 112.624,
+    "zh": "荒野。",
+    "zh_hant": "荒野。"
+  },
+  {
+    "index": 15,
+    "text": "Massive spires of rust and coral standing in twisted formation.",
+    "start": 113.844,
+    "end": 117.946,
+    "zh": "铁锈色与珊瑚色的巨大石柱，扭曲错落地矗立着。",
+    "zh_hant": "鐵鏽色與珊瑚色的巨大石柱，扭曲錯落地矗立著。"
+  },
+  {
+    "index": 16,
+    "text": "Solid rock patterned with red and white bands, which were 270 million years in the making.",
+    "start": 119.507,
+    "end": 125.31,
+    "zh": "坚硬的岩石上布满红白相间的条纹，历经2.7亿年形成。",
+    "zh_hant": "堅硬的岩石上佈滿紅白相間的條紋，歷經2.7億年形成。"
+  },
+  {
+    "index": 17,
+    "text": "Search the landforms of Needles and you'll come across ancient Indian ruins",
+    "start": 127.131,
+    "end": 132.293,
+    "zh": "探寻针尖区的地貌，你会偶然发现古老的印第安遗址",
+    "zh_hant": "探尋針尖區的地貌，你會偶然發現古老的印第安遺址"
+  },
+  {
+    "index": 18,
+    "text": "and these prehistoric petroglyphs and pictographs.",
+    "start": 136.715,
+    "end": 140.197,
+    "zh": "以及这些史前的岩画和 pictograph。",
+    "zh_hant": "以及這些史前的巖畫和 pictograph。"
+  },
+  {
+    "index": 19,
+    "text": "Needles is also the site of the Cave Spring Trail.",
+    "start": 142.598,
+    "end": 146.04,
+    "zh": "针尖区也是“泉洞小径”的所在地。",
+    "zh_hant": "針尖區也是“泉洞小徑”的所在地。"
+  },
+  {
+    "index": 20,
+    "text": "Here is where cowboys used to herd their cattle.",
+    "start": 147.32,
+    "end": 150.282,
+    "zh": "这里是牛仔们曾经放牧牛群的地方。",
+    "zh_hant": "這裡是牛仔們曾經放牧牛群的地方。"
+  },
+  {
+    "index": 21,
+    "text": "Traces of what had been their camps are found here, in this cave.",
+    "start": 151.583,
+    "end": 156.065,
+    "zh": "他们营地的痕迹可以在这些洞穴里找到。",
+    "zh_hant": "他們營地的痕跡可以在這些洞穴裡找到。"
+  },
+  {
+    "index": 22,
+    "text": "Cowboys no longer come to the cave to get water, but birds do.",
+    "start": 157.906,
+    "end": 163.048,
+    "zh": "牛仔不再来洞里取水了，但鸟儿会。",
+    "zh_hant": "牛仔不再來洞裡取水了，但鳥兒會。"
+  },
+  {
+    "index": 23,
+    "text": "Nevertheless, this is cowboy country.",
+    "start": 165.049,
+    "end": 167.891,
+    "zh": "尽管如此，这里仍是牛仔之乡。",
+    "zh_hant": "儘管如此，這裡仍是牛仔之鄉。"
+  },
+  {
+    "index": 24,
+    "text": "Cowboys still tend cattle and acreage skirting the park.",
+    "start": 168.571,
+    "end": 172.193,
+    "zh": "牛仔们依然在公园周边的牧场上照料牛群和土地。",
+    "zh_hant": "牛仔們依然在公園周邊的牧場上照料牛群和土地。"
+  },
+  {
+    "index": 25,
+    "text": "Just outside the park is Robbers Roost, where the infamous Wild Bunch hit out.",
+    "start": 178.356,
+    "end": 184.039,
+    "zh": "公园外就是“强盗巢穴”，臭名昭著的“狂野帮”曾在此出没。",
+    "zh_hant": "公園外就是“強盜巢穴”，臭名昭著的“狂野幫”曾在此出沒。"
+  },
+  {
+    "index": 26,
+    "text": "The Roost's most celebrated outlaws are Butch Cassidy and the Sundance Kid,",
+    "start": 185.64,
+    "end": 190.042,
+    "zh": "巢穴里最著名的亡命之徒是布奇·卡西迪和“日舞小子”，",
+    "zh_hant": "巢穴裡最著名的亡命之徒是布奇·卡西迪和“日舞小子”，"
+  },
+  {
+    "index": 27,
+    "text": "hit,",
+    "start": 189.692,
+    "end": 190.122,
+    "zh": "悍匪，",
+    "zh_hant": "悍匪，"
+  },
+  {
+    "index": 28,
+    "text": "best known as they were portrayed in a classic Hollywood western.",
+    "start": 193.744,
+    "end": 197.485,
+    "zh": "他们因经典好莱坞西部片中的形象而广为人知。",
+    "zh_hant": "他們因經典好萊塢西部片中的形象而廣為人知。"
+  },
+  {
+    "index": 29,
+    "text": "Those runaway outlaws have long since fled,",
+    "start": 206.15,
+    "end": 209.131,
+    "zh": "那些亡命之徒早已逃之夭夭，",
+    "zh_hant": "那些亡命之徒早已逃之夭夭，"
+  },
+  {
+    "index": 30,
+    "text": "but the bighorn sheep are still here, though very wary.",
+    "start": 209.392,
+    "end": 213.554,
+    "zh": "但大角羊仍然在这里，尽管它们非常警惕。",
+    "zh_hant": "但大角羊仍然在這裡，儘管它們非常警惕。"
+  },
+  {
+    "index": 31,
+    "text": "Their skittishness is understandable.",
+    "start": 214.054,
+    "end": 216.355,
+    "zh": "它们的胆怯是可以理解的。",
+    "zh_hant": "它們的膽怯是可以理解的。"
+  },
+  {
+    "index": 32,
+    "text": "Before park protection, they'd been hunted almost to extinction.",
+    "start": 216.736,
+    "end": 221.057,
+    "zh": "在公园得到保护之前，它们曾被猎杀到几乎灭绝。",
+    "zh_hant": "在公園得到保護之前，它們曾被獵殺到幾乎滅絕。"
+  },
+  {
+    "index": 33,
+    "text": "It's simply amazing, their ability to skitter on the narrowest of ledges at the highest of heights.",
+    "start": 223.999,
+    "end": 230.322,
+    "zh": "它们能在最高处最窄的岩架上灵活跳跃，实在令人惊叹。",
+    "zh_hant": "它們能在最高處最窄的巖架上靈活跳躍，實在令人驚歎。"
+  },
+  {
+    "index": 34,
+    "text": "While hiking, should you stumble on remote Horseshoe Canyon,",
+    "start": 236.485,
+    "end": 240.207,
+    "zh": "如果你徒步时偶然来到偏远的马蹄峡谷，",
+    "zh_hant": "如果你徒步時偶然來到偏遠的馬蹄峽谷，"
+  },
+  {
+    "index": 35,
+    "text": "you'll encounter a great gallery of prehistoric rock art",
+    "start": 240.647,
+    "end": 244.569,
+    "zh": "你会遇到一个庞大的史前岩画画廊，",
+    "zh_hant": "你會遇到一個龐大的史前巖畫畫廊，"
+  },
+  {
+    "index": 36,
+    "text": "one of the most significant in North America.",
+    "start": 245.17,
+    "end": 247.751,
+    "zh": "北美最重要的岩画遗址之一。",
+    "zh_hant": "北美最重要的巖畫遺址之一。"
+  },
+  {
+    "index": 37,
+    "text": "Sinister, faceless, bigger -than -life figures hovering over you.",
+    "start": 249.932,
+    "end": 255.595,
+    "zh": "阴森、无脸、超乎常人的巨大形象俯视着你。",
+    "zh_hant": "陰森、無臉、超乎常人的巨大形象俯視著你。"
+  },
+  {
+    "index": 38,
+    "text": "Taller than humans, there are those who believe",
+    "start": 256.336,
+    "end": 259.617,
+    "zh": "比人还高，有些人相信",
+    "zh_hant": "比人還高，有些人相信"
+  },
+  {
+    "index": 39,
+    "text": "that they are pictures of one -time visitors from outer space.",
+    "start": 259.267,
+    "end": 264.079,
+    "zh": "这些是曾经来自外太空访客的画像。",
+    "zh_hant": "這些是曾經來自外太空訪客的畫像。"
+  },
+  {
+    "index": 40,
+    "text": "More likely, ritual rock art creations of nomadic archaic people",
+    "start": 265.66,
+    "end": 270.502,
+    "zh": "更可能的是，这些是古老游牧民族的仪式性岩画，",
+    "zh_hant": "更可能的是，這些是古老遊牧民族的儀式性巖畫，"
+  },
+  {
+    "index": 41,
+    "text": "who lived in these canyons several thousand years ago.",
+    "start": 270.543,
+    "end": 273.844,
+    "zh": "他们在几千年前生活在这些峡谷中。",
+    "zh_hant": "他們在幾千年前生活在這些峽谷中。"
+  },
+  {
+    "index": 42,
+    "text": "Where the two rivers collide, the Colorado and the Green, the rivers that carve these canyons,",
+    "start": 279.887,
+    "end": 286.291,
+    "zh": "两条河流交汇之处，科罗拉多河与格林河，正是雕刻这些峡谷的河流，",
+    "zh_hant": "兩條河流交匯之處，科羅拉多河與格林河，正是雕刻這些峽谷的河流，"
+  },
+  {
+    "index": 43,
+    "text": "they're transformed into raging whitewater.",
+    "start": 286.551,
+    "end": 289.492,
+    "zh": "它们变成了汹涌的激流。",
+    "zh_hant": "它們變成了洶湧的激流。"
+  },
+  {
+    "index": 44,
+    "text": "Rafters need permits to run the course, with a skilled river runner in charge.",
+    "start": 290.613,
+    "end": 295.535,
+    "zh": "漂流者需要许可证才能体验这段航程，并由经验丰富的领航员带队。",
+    "zh_hant": "漂流者需要許可證才能體驗這段航程，並由經驗豐富的領航員帶隊。"
+  },
+  {
+    "index": 45,
+    "text": "Here, the waters plunge 30 feet in just one mile.",
+    "start": 296.476,
+    "end": 301.198,
+    "zh": "在这里，水流在仅一英里内就落差30英尺。",
+    "zh_hant": "在這裡，水流在僅一英里內就落差30英尺。"
+  },
+  {
+    "index": 46,
+    "text": "A Jeep road over Elephant Hill is the most challenging trailway in the park.",
+    "start": 305.74,
+    "end": 310.382,
+    "zh": "象山上的吉普车道路是公园内最具挑战性的越野道。",
+    "zh_hant": "象山上的吉普車道路是公園內最具挑戰性的越野道。"
+  },
+  {
+    "index": 47,
+    "text": "You need a four -wheel drive vehicle to climb it.",
+    "start": 311.363,
+    "end": 314.044,
+    "zh": "你需要四驱车才能爬上它。",
+    "zh_hant": "你需要四驅車才能爬上它。"
+  },
+  {
+    "index": 48,
+    "text": "you'll see plenty of tricked -out cars chugging noisily up this rock -strewn slope.",
+    "start": 315.265,
+    "end": 320.407,
+    "zh": "你会看到许多改装车轰隆隆地爬过这片布满岩石的斜坡。",
+    "zh_hant": "你會看到許多改裝車轟隆隆地爬過這片佈滿岩石的斜坡。"
+  },
+  {
+    "index": 49,
+    "text": "A sportier and increasingly popular way to negotiate these tortuous dirt roads",
+    "start": 322.409,
+    "end": 328.053,
+    "zh": "一种更刺激且越来越流行的方式来征服这些蜿蜒的土路，",
+    "zh_hant": "一種更刺激且越來越流行的方式來征服這些蜿蜒的土路，"
+  },
+  {
+    "index": 50,
+    "text": "is mountain biking.",
+    "start": 327.933,
+    "end": 329.314,
+    "zh": "就是山地骑行。",
+    "zh_hant": "就是山地騎行。"
+  },
+  {
+    "index": 51,
+    "text": "Stand on a park overlook and gasp at the spectacle before you.",
+    "start": 333.077,
+    "end": 337.54,
+    "zh": "站在公园的观景点，眼前的景象会让你屏息惊叹。",
+    "zh_hant": "站在公園的觀景點，眼前的景象會讓你屏息驚歎。"
+  },
+  {
+    "index": 52,
+    "text": "Canyon after canyon reaching to the horizon.",
+    "start": 338.081,
+    "end": 341.503,
+    "zh": "一个又一个峡谷延伸至地平线。",
+    "zh_hant": "一個又一個峽谷延伸至地平線。"
+  },
+  {
+    "index": 53,
+    "text": "This isn't simply the Wild West.",
+    "start": 344.666,
+    "end": 347.207,
+    "zh": "这不仅仅是狂野西部。",
+    "zh_hant": "這不僅僅是狂野西部。"
+  },
+  {
+    "index": 54,
+    "text": "It's America at its wildest.",
+    "start": 347.408,
+    "end": 350.53,
+    "zh": "这是最狂野的美洲。",
+    "zh_hant": "這是最狂野的美洲。"
+  }
+]

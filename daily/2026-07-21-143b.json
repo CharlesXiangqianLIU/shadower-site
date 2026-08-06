@@ -1,0 +1,1066 @@
+[
+  {
+    "index": 0,
+    "text": "Hello, and thanks for downloading the More or Less podcast.",
+    "start": 6.271,
+    "end": 9.892,
+    "zh": "你好，感谢下载 More or Less 播客。",
+    "zh_hant": "你好，感謝下載 More or Less 播客。"
+  },
+  {
+    "index": 1,
+    "text": "We're the programme that looks at the numbers in the news and life and the 1970s.",
+    "start": 9.542,
+    "end": 15.285,
+    "zh": "我们是关注新闻和生活中数字以及1970年代数字的节目。",
+    "zh_hant": "我們是關注新聞和生活中數字以及1970年代數字的節目。"
+  },
+  {
+    "index": 2,
+    "text": "I'm Tim Harford.",
+    "start": 15.335,
+    "end": 16.536,
+    "zh": "我是蒂姆·哈福德。",
+    "zh_hant": "我是蒂姆·哈福德。"
+  },
+  {
+    "index": 3,
+    "text": "Loyal listener Milena Kopkowska got in touch to ask",
+    "start": 17.696,
+    "end": 21.258,
+    "zh": "忠实听众米莱娜·科普科夫斯卡联系了我们，要求",
+    "zh_hant": "忠實聽眾米萊娜·科普科夫斯卡聯絡了我們，要求"
+  },
+  {
+    "index": 4,
+    "text": "us to look into a claim to do with income and wealth inequality.",
+    "start": 20.908,
+    "end": 24.98,
+    "zh": "我们调查一个关于收入和财富不平等的主张。",
+    "zh_hant": "我們調查一個關於收入和財富不平等的主張。"
+  },
+  {
+    "index": 5,
+    "text": "Since 1975, $80 trillion has shifted from the bottom 90%",
+    "start": 25.14,
+    "end": 31.253,
+    "zh": "自1975年以来，8万亿美元已从底层90%",
+    "zh_hant": "自1975年以來，8萬億美元已從底層90%"
+  },
+  {
+    "index": 6,
+    "text": "to the top 1%.",
+    "start": 31.303,
+    "end": 33.354,
+    "zh": "转移到顶层1%。",
+    "zh_hant": "轉移到頂層1%。"
+  },
+  {
+    "index": 7,
+    "text": "In 2023 alone, it was $3.9 trillion.",
+    "start": 33.404,
+    "end": 37.446,
+    "zh": "仅2023年，就达到了3.9万亿美元。",
+    "zh_hant": "僅2023年，就達到了3.9萬億美元。"
+  },
+  {
+    "index": 8,
+    "text": "That's enough to give every full-time worker in the 90%",
+    "start": 37.096,
+    "end": 41.739,
+    "zh": "这足以给90%的每位全职员工",
+    "zh_hant": "這足以給90%的每位全職員工"
+  },
+  {
+    "index": 9,
+    "text": "an extra $32,000 a year.",
+    "start": 41.789,
+    "end": 44.97,
+    "zh": "每年额外增加3.2万美元。",
+    "zh_hant": "每年額外增加3.2萬美元。"
+  },
+  {
+    "index": 10,
+    "text": "The claim appears to have been popularized by left-wing Vermont Senator Bernie Sanders,",
+    "start": 45.811,
+    "end": 50.913,
+    "zh": "这一主张似乎由佛蒙特州左翼参议员伯尼·桑德斯推广开来，",
+    "zh_hant": "這一主張似乎由佛蒙特州左翼參議員伯尼·桑德斯推廣開來，"
+  },
+  {
+    "index": 11,
+    "text": "although he uses a slightly different figure.",
+    "start": 50.993,
+    "end": 53.734,
+    "zh": "尽管他使用的数字略有不同。",
+    "zh_hant": "儘管他使用的數字略有不同。"
+  },
+  {
+    "index": 12,
+    "text": "There has been a $50 trillion transfer",
+    "start": 53.474,
+    "end": 58.196,
+    "zh": "有一笔5万亿美元的财富转移",
+    "zh_hant": "有一筆5萬億美元的財富轉移"
+  },
+  {
+    "index": 13,
+    "text": "of wealth from the bottom 90% to the top 1%.",
+    "start": 57.846,
+    "end": 64.73,
+    "zh": "从底层90%转向顶层1%。",
+    "zh_hant": "從底層90%轉向頂層1%。"
+  },
+  {
+    "index": 14,
+    "text": "Are these numbers right?",
+    "start": 64.78,
+    "end": 66.34,
+    "zh": "这些数字正确吗？",
+    "zh_hant": "這些數字正確嗎？"
+  },
+  {
+    "index": 15,
+    "text": "And what do they mean?",
+    "start": 66.421,
+    "end": 67.861,
+    "zh": "它们又意味着什么？",
+    "zh_hant": "它們又意味著什麼？"
+  },
+  {
+    "index": 16,
+    "text": "My name is Carter Price.",
+    "start": 70.683,
+    "end": 72.443,
+    "zh": "我叫卡特·普赖斯。",
+    "zh_hant": "我叫卡特·普賴斯。"
+  },
+  {
+    "index": 17,
+    "text": "I am a senior mathematician at the Rand Corporation.",
+    "start": 72.304,
+    "end": 75.285,
+    "zh": "我是兰德公司的高级数学家。",
+    "zh_hant": "我是蘭德公司的高階數學家。"
+  },
+  {
+    "index": 18,
+    "text": "Carter knows all about these trillions of dollars.",
+    "start": 75.565,
+    "end": 78.746,
+    "zh": "卡特对这些数万亿美元了如指掌。",
+    "zh_hant": "卡特對這些數萬億美元瞭如指掌。"
+  },
+  {
+    "index": 19,
+    "text": "He's the author of the two reports that Alistair Molina and Bernie Sanders are talking about.",
+    "start": 78.567,
+    "end": 84.389,
+    "zh": "他是阿利斯泰尔·莫利纳和伯尼·桑德斯讨论的两份报告的作者。",
+    "zh_hant": "他是阿利斯泰爾·莫利納和伯尼·桑德斯討論的兩份報告的作者。"
+  },
+  {
+    "index": 20,
+    "text": "So how were these numbers worked out?",
+    "start": 84.61,
+    "end": 87.091,
+    "zh": "那么这些数字是如何计算出来的呢？",
+    "zh_hant": "那麼這些數字是如何計算出來的呢？"
+  },
+  {
+    "index": 21,
+    "text": "Step one, we took the economic growth rate and looked",
+    "start": 87.391,
+    "end": 91.353,
+    "zh": "第一步，我们考虑了经济增长率，并观察了",
+    "zh_hant": "第一步，我們考慮了經濟增長率，並觀察了"
+  },
+  {
+    "index": 22,
+    "text": "at the actual growth in pay",
+    "start": 91.003,
+    "end": 94.535,
+    "zh": "底层90%工人的实际工资增长",
+    "zh_hant": "底層90%工人的實際工資增長"
+  },
+  {
+    "index": 23,
+    "text": "for the bottom 90% of workers.",
+    "start": 94.775,
+    "end": 99.057,
+    "zh": "情况。",
+    "zh_hant": "情況。"
+  },
+  {
+    "index": 24,
+    "text": "This claim is about income,",
+    "start": 99.177,
+    "end": 101.118,
+    "zh": "这一主张涉及收入问题，",
+    "zh_hant": "這一主張涉及收入問題，"
+  },
+  {
+    "index": 25,
+    "text": "and Carter started by looking at the relationship",
+    "start": 100.918,
+    "end": 103.719,
+    "zh": "卡特首先审视了底层90%工人收入",
+    "zh_hant": "卡特首先審視了底層90%工人收入"
+  },
+  {
+    "index": 26,
+    "text": "between the incomes of the bottom 90% of workers and the economy more generally.",
+    "start": 103.369,
+    "end": 108.762,
+    "zh": "与整体经济之间的关系。",
+    "zh_hant": "與整體經濟之間的關係。"
+  },
+  {
+    "index": 27,
+    "text": "Now, there was a time, perhaps an unusual time,",
+    "start": 109.002,
+    "end": 112.804,
+    "zh": "曾经有一段时期，或许是不同寻常的时期，",
+    "zh_hant": "曾經有一段時期，或許是不同尋常的時期，"
+  },
+  {
+    "index": 28,
+    "text": "when this relationship was very stable.",
+    "start": 112.884,
+    "end": 115.525,
+    "zh": "这种关系非常稳定。",
+    "zh_hant": "這種關係非常穩定。"
+  },
+  {
+    "index": 29,
+    "text": "From shortly after the Second World War up to the mid-70s,",
+    "start": 115.365,
+    "end": 120.587,
+    "zh": "从二战后不久到70年代中期，",
+    "zh_hant": "從二戰後不久到70年代中期，"
+  },
+  {
+    "index": 30,
+    "text": "if the economy grew 5%, people's wages went up 5%.",
+    "start": 120.768,
+    "end": 125.39,
+    "zh": "如果经济增长5%，人们的工资就上涨5%。",
+    "zh_hant": "如果經濟增長5%，人們的工資就上漲5%。"
+  },
+  {
+    "index": 31,
+    "text": "If the economy grew 2%, people's wages went up 2%, more or less across the board.",
+    "start": 125.21,
+    "end": 130.273,
+    "zh": "如果经济增长2%，人们的工资就上涨2%，大致如此。",
+    "zh_hant": "如果經濟增長2%，人們的工資就上漲2%，大致如此。"
+  },
+  {
+    "index": 32,
+    "text": "And so we saw very even growth for that.",
+    "start": 131.153,
+    "end": 133.995,
+    "zh": "因此我们看到在那段",
+    "zh_hant": "因此我們看到在那段"
+  },
+  {
+    "index": 33,
+    "text": "25-ish year period.",
+    "start": 134.195,
+    "end": 135.395,
+    "zh": "大约25年的时期里，增长非常均匀。",
+    "zh_hant": "大約25年的時期裡，增長非常均勻。"
+  },
+  {
+    "index": 34,
+    "text": "So there was inequality, but the inequality was consistent, wasn't growing or shrinking over time.",
+    "start": 135.195,
+    "end": 140.818,
+    "zh": "所以存在不平等，但这种不平等是持续的，并没有随时间增长或缩小。",
+    "zh_hant": "所以存在不平等，但這種不平等是持續的，並沒有隨時間增長或縮小。"
+  },
+  {
+    "index": 35,
+    "text": "Correct.",
+    "start": 140.468,
+    "end": 141.118,
+    "zh": "正确。",
+    "zh_hant": "正確。"
+  },
+  {
+    "index": 36,
+    "text": "Yeah, it was more or less.",
+    "start": 140.898,
+    "end": 142.959,
+    "zh": "是的，大致如此。",
+    "zh_hant": "是的，大致如此。"
+  },
+  {
+    "index": 37,
+    "text": "The economy grew evenly.",
+    "start": 142.999,
+    "end": 144.72,
+    "zh": "经济增长是均匀的。",
+    "zh_hant": "經濟增長是均勻的。"
+  },
+  {
+    "index": 38,
+    "text": "That even income growth is certainly not the rule, and it did not continue forever.",
+    "start": 144.78,
+    "end": 151.123,
+    "zh": "这种均匀的收入增长当然不是常态，也没有永远持续下去。",
+    "zh_hant": "這種均勻的收入增長當然不是常態，也沒有永遠持續下去。"
+  },
+  {
+    "index": 39,
+    "text": "Beginning in the mid-70s, the top of the income distribution started to pull away,",
+    "start": 151.163,
+    "end": 156.065,
+    "zh": "从70年代中期开始，收入分布顶端开始拉开差距，",
+    "zh_hant": "從70年代中期開始，收入分佈頂端開始拉開差距，"
+  },
+  {
+    "index": 40,
+    "text": "and that expanded over time, so that in particular the top 1%,",
+    "start": 156.146,
+    "end": 162.159,
+    "zh": "而且这一差距随时间扩大，特别是顶层1%、",
+    "zh_hant": "而且這一差距隨時間擴大，特別是頂層1%、"
+  },
+  {
+    "index": 41,
+    "text": "the top 0.1%, and sort of the higher up the income distribution you grow, the faster Their incomes grew,",
+    "start": 162.209,
+    "end": 167.592,
+    "zh": "顶层0.1%，以及收入分布中位置越高，他们的收入增长越快，",
+    "zh_hant": "頂層0.1%，以及收入分佈中位置越高，他們的收入增長越快，"
+  },
+  {
+    "index": 42,
+    "text": "and that has more or less persisted",
+    "start": 168.152,
+    "end": 171.433,
+    "zh": "这种情况在1975年之后的",
+    "zh_hant": "這種情況在1975年之後的"
+  },
+  {
+    "index": 43,
+    "text": "in the 50 years since 1975.",
+    "start": 171.734,
+    "end": 176.966,
+    "zh": "50年间大致持续存在。",
+    "zh_hant": "50年間大致持續存在。"
+  },
+  {
+    "index": 44,
+    "text": "Carter wanted to work out what would have happened if",
+    "start": 177.016,
+    "end": 179.838,
+    "zh": "卡特想计算一下，如果这种",
+    "zh_hant": "卡特想計算一下，如果這種"
+  },
+  {
+    "index": 45,
+    "text": "this post-war era of even growth in incomes had continued into the 80s,",
+    "start": 179.488,
+    "end": 185.451,
+    "zh": "战后收入均匀增长的时代延续到80年代、",
+    "zh_hant": "戰後收入均勻增長的時代延續到80年代、"
+  },
+  {
+    "index": 46,
+    "text": "90s, noughties, and so on.",
+    "start": 185.501,
+    "end": 187.742,
+    "zh": "90年代、21世纪头十年等时期，会发生什么。",
+    "zh_hant": "90年代、21世紀頭十年等時期，會發生什麼。"
+  },
+  {
+    "index": 47,
+    "text": "So, step two, he did some maths,",
+    "start": 187.862,
+    "end": 191.263,
+    "zh": "于是第二步，他做了一些数学计算，",
+    "zh_hant": "於是第二步，他做了一些數學計算，"
+  },
+  {
+    "index": 48,
+    "text": "again looking at the bottom 90% of worker incomes.",
+    "start": 191.123,
+    "end": 194.865,
+    "zh": "再次关注底层90%工人的收入。",
+    "zh_hant": "再次關注底層90%工人的收入。"
+  },
+  {
+    "index": 49,
+    "text": "Instead of what their pay actually grew at, had it grown at the rate of the broader economy, what would have happened?",
+    "start": 194.765,
+    "end": 201.048,
+    "zh": "如果他们的工资不是按实际增长率增长，而是按整体经济增速增长，会发生什么？",
+    "zh_hant": "如果他們的工資不是按實際增長率增長，而是按整體經濟增速增長，會發生什麼？"
+  },
+  {
+    "index": 50,
+    "text": "And so we did that for each year.",
+    "start": 201.128,
+    "end": 203.469,
+    "zh": "我们对每一年都这样做了计算。",
+    "zh_hant": "我們對每一年都這樣做了計算。"
+  },
+  {
+    "index": 51,
+    "text": "That told us what that gap would have been for that given year.",
+    "start": 203.469,
+    "end": 207.972,
+    "zh": "这告诉我们当年本会出现的差距。",
+    "zh_hant": "這告訴我們當年本會出現的差距。"
+  },
+  {
+    "index": 52,
+    "text": "And then we added it all up to get the 50 trillion or the 80 trillion.",
+    "start": 208.392,
+    "end": 214.475,
+    "zh": "然后我们将这些差距加总，得到5万亿或80万亿美元。",
+    "zh_hant": "然後我們將這些差距加總，得到5萬億或80萬億美元。"
+  },
+  {
+    "index": 53,
+    "text": "These two figures are just numbers from two different papers.",
+    "start": 214.816,
+    "end": 218.797,
+    "zh": "这两个数字只是来自两份不同论文的数字。",
+    "zh_hant": "這兩個數字只是來自兩份不同論文的數字。"
+  },
+  {
+    "index": 54,
+    "text": "The first calculated the difference with this alternative universe up until 2018.",
+    "start": 218.777,
+    "end": 224.03,
+    "zh": "第一份计算了在另一个假设世界直到2018年的差距。",
+    "zh_hant": "第一份計算了在另一個假設世界直到2018年的差距。"
+  },
+  {
+    "index": 55,
+    "text": "The second moved it a few years on to 2023.",
+    "start": 224.08,
+    "end": 227.852,
+    "zh": "第二份将时间推移到2023年。",
+    "zh_hant": "第二份將時間推移到2023年。"
+  },
+  {
+    "index": 56,
+    "text": "And so the 50 trillion, which is the older figure, the more recent figure of 80 trillion,",
+    "start": 227.902,
+    "end": 234.205,
+    "zh": "所以50万亿是较旧的数字，80万亿是更近的数字，",
+    "zh_hant": "所以50萬億是較舊的數字，80萬億是更近的數字，"
+  },
+  {
+    "index": 57,
+    "text": "this is basically, if I understand it, this is foregone income.",
+    "start": 234.425,
+    "end": 238.567,
+    "zh": "如果我没理解错的话，这基本上是未实现的收入。",
+    "zh_hant": "如果我沒理解錯的話，這基本上是未實現的收入。"
+  },
+  {
+    "index": 58,
+    "text": "This is the total income that everybody in the bottom 90%,",
+    "start": 238.217,
+    "end": 242.499,
+    "zh": "这是底层90%所有人的总收入，",
+    "zh_hant": "這是底層90%所有人的總收入，"
+  },
+  {
+    "index": 59,
+    "text": "the extra income they would have made if the economy grew",
+    "start": 242.549,
+    "end": 247.332,
+    "zh": "如果经济像过去那样",
+    "zh_hant": "如果經濟像過去那樣"
+  },
+  {
+    "index": 60,
+    "text": "evenly as it used to,",
+    "start": 247.492,
+    "end": 249.133,
+    "zh": "均匀增长，他们本应获得的额外收入，",
+    "zh_hant": "均勻增長，他們本應獲得的額外收入，"
+  },
+  {
+    "index": 61,
+    "text": "but they Didn't, because it grew unevenly and more money went to the top 10%.",
+    "start": 249.613,
+    "end": 254.69,
+    "zh": "但因为他们没有，因为增长不均匀，更多的钱流向了顶层10%。",
+    "zh_hant": "但因為他們沒有，因為增長不均勻，更多的錢流向了頂層10%。"
+  },
+  {
+    "index": 62,
+    "text": "Correct.",
+    "start": 254.696,
+    "end": 255.496,
+    "zh": "正确。",
+    "zh_hant": "正確。"
+  },
+  {
+    "index": 63,
+    "text": "Yeah, we're summing up each year.",
+    "start": 255.146,
+    "end": 257.157,
+    "zh": "是的，我们对每年进行加总。",
+    "zh_hant": "是的，我們對每年進行加總。"
+  },
+  {
+    "index": 64,
+    "text": "So in 2018, it was about two,",
+    "start": 256.817,
+    "end": 261.679,
+    "zh": "所以在2018年，这个差距大约是2.5",
+    "zh_hant": "所以在2018年，這個差距大約是2.5"
+  },
+  {
+    "index": 65,
+    "text": "and a half trillion, was that gap.",
+    "start": 261.329,
+    "end": 264.06,
+    "zh": "万亿美元。",
+    "zh_hant": "萬億美元。"
+  },
+  {
+    "index": 66,
+    "text": "And since then, that gap has grown to more than three and a half,",
+    "start": 264.68,
+    "end": 269.443,
+    "zh": "自那时起，这个差距已增长到超过3.5万亿，",
+    "zh_hant": "自那時起，這個差距已增長到超過3.5萬億，"
+  },
+  {
+    "index": 67,
+    "text": "almost $4 trillion each year.",
+    "start": 269.093,
+    "end": 272.164,
+    "zh": "接近每年4万亿美元。",
+    "zh_hant": "接近每年4萬億美元。"
+  },
+  {
+    "index": 68,
+    "text": "But that's a number that makes more sense to me because you sum something up over 50 years,",
+    "start": 272.024,
+    "end": 277.667,
+    "zh": "但这对我说更有意义，因为你要在50年里加总一些东西，",
+    "zh_hant": "但這對我說更有意義，因為你要在50年裡加總一些東西，"
+  },
+  {
+    "index": 69,
+    "text": "half these people are dead and the other half have been Born.",
+    "start": 278.407,
+    "end": 282.269,
+    "zh": "一半人都死了，另一半人还没出生。",
+    "zh_hant": "一半人都死了，另一半人還沒出生。"
+  },
+  {
+    "index": 70,
+    "text": "I mean, it's such a long period of time, but $4 trillion a year, I can get my head around.",
+    "start": 281.919,
+    "end": 287.032,
+    "zh": "我的意思是，这是一段很长的时期，但每年4万亿美元，我能理解。",
+    "zh_hant": "我的意思是，這是一段很長的時期，但每年4萬億美元，我能理解。"
+  },
+  {
+    "index": 71,
+    "text": "Yes.",
+    "start": 286.792,
+    "end": 287.512,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 72,
+    "text": "This works out at something like $30,000 per full-time employee in the US,",
+    "start": 287.892,
+    "end": 293.975,
+    "zh": "这相当于美国每位全职员工约3万美元，",
+    "zh_hant": "這相當於美國每位全職員工約3萬美元，"
+  },
+  {
+    "index": 73,
+    "text": "which does look on the face of it like a big number.",
+    "start": 293.915,
+    "end": 297.497,
+    "zh": "表面上看起来确实是个大数字。",
+    "zh_hant": "表面上看起來確實是個大數字。"
+  },
+  {
+    "index": 74,
+    "text": "So what does it tell us?",
+    "start": 302.48,
+    "end": 304.02,
+    "zh": "那么这告诉我们什么呢？",
+    "zh_hant": "那麼這告訴我們什麼呢？"
+  },
+  {
+    "index": 75,
+    "text": "It's certainly a fresh way of visualising the magnitude of the increase in inequality.",
+    "start": 304.541,
+    "end": 309.743,
+    "zh": "这当然是可视化不平等加剧规模的一个新方式。",
+    "zh_hant": "這當然是視覺化不平等加劇規模的一個新方式。"
+  },
+  {
+    "index": 76,
+    "text": "What it doesn't tell us is what caused the increase,",
+    "start": 310.304,
+    "end": 313.065,
+    "zh": "但它并没有告诉我们不平等加剧的原因，",
+    "zh_hant": "但它並沒有告訴我們不平等加劇的原因，"
+  },
+  {
+    "index": 77,
+    "text": "nor whether we could actually have tweaked some policy",
+    "start": 313.145,
+    "end": 316.987,
+    "zh": "也没有告诉我们是否可以通过调整政策",
+    "zh_hant": "也沒有告訴我們是否可以透過調整政策"
+  },
+  {
+    "index": 78,
+    "text": "to land us in this counterfactual world where we get all of the extra growth,",
+    "start": 317.047,
+    "end": 321.449,
+    "zh": "让我们进入这个假设的世界，获得所有额外增长，",
+    "zh_hant": "讓我們進入這個假設的世界，獲得所有額外增長，"
+  },
+  {
+    "index": 79,
+    "text": "but none of the extra inequality.",
+    "start": 321.349,
+    "end": 323.73,
+    "zh": "却没有额外的不平等。",
+    "zh_hant": "卻沒有額外的不平等。"
+  },
+  {
+    "index": 80,
+    "text": "Perhaps pay at the top increased dramatically",
+    "start": 324.37,
+    "end": 327.232,
+    "zh": "也许顶层薪酬大幅增长是因为",
+    "zh_hant": "也許頂層薪酬大幅增長是因為"
+  },
+  {
+    "index": 81,
+    "text": "because American entrepreneurs started companies that brought in huge wealth to the US.",
+    "start": 326.882,
+    "end": 332.214,
+    "zh": "美国企业家创办了为美国带来巨额财富的公司。",
+    "zh_hant": "美國企業家創辦了為美國帶來鉅額財富的公司。"
+  },
+  {
+    "index": 82,
+    "text": "Perhaps without them, everyone would have earned less and been poorer.",
+    "start": 332.335,
+    "end": 336.556,
+    "zh": "也许没有他们，所有人的收入都会更低，更贫穷。",
+    "zh_hant": "也許沒有他們，所有人的收入都會更低，更貧窮。"
+  },
+  {
+    "index": 83,
+    "text": "Or perhaps if growth had been more inclusive, it would have been even higher.",
+    "start": 337.037,
+    "end": 341.939,
+    "zh": "或者，如果增长更具包容性，增长率可能会更高。",
+    "zh_hant": "或者，如果增長更具包容性，增長率可能會更高。"
+  },
+  {
+    "index": 84,
+    "text": "That's not a question that Carter's research seeks to answer.",
+    "start": 342.3,
+    "end": 346.021,
+    "zh": "这不是卡特的研究试图回答的问题。",
+    "zh_hant": "這不是卡特的研究試圖回答的問題。"
+  },
+  {
+    "index": 85,
+    "text": "Just so I'm clear, this is not to do with a change in growth rate",
+    "start": 347.082,
+    "end": 352.785,
+    "zh": "为了让我清楚，这与增长率的变化",
+    "zh_hant": "為了讓我清楚，這與增長率的變化"
+  },
+  {
+    "index": 86,
+    "text": "or anything like that.",
+    "start": 353.065,
+    "end": 354.425,
+    "zh": "或类似情况无关。",
+    "zh_hant": "或類似情況無關。"
+  },
+  {
+    "index": 87,
+    "text": "You're purely trying to track the change in inequality.",
+    "start": 354.146,
+    "end": 357.967,
+    "zh": "你纯粹是想追踪不平等的变化。",
+    "zh_hant": "你純粹是想追蹤不平等的變化。"
+  },
+  {
+    "index": 88,
+    "text": "Correct.",
+    "start": 358.048,
+    "end": 358.908,
+    "zh": "正确。",
+    "zh_hant": "正確。"
+  },
+  {
+    "index": 89,
+    "text": "Yes.",
+    "start": 359.188,
+    "end": 359.908,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 90,
+    "text": "And so the growth rate did decline during this time period.",
+    "start": 359.558,
+    "end": 365.732,
+    "zh": "所以在这段时期内增长率确实下降了。",
+    "zh_hant": "所以在這段時期內增長率確實下降了。"
+  },
+  {
+    "index": 91,
+    "text": "So in those early years, the economy was growing much faster,",
+    "start": 365.382,
+    "end": 369.393,
+    "zh": "在那些早年，经济增长要快得多，",
+    "zh_hant": "在那些早年，經濟增長要快得多，"
+  },
+  {
+    "index": 92,
+    "text": "and then there were sort of the stagflation period of the 70s,",
+    "start": 370.474,
+    "end": 375.917,
+    "zh": "然后出现了70年代的滞胀期，",
+    "zh_hant": "然後出現了70年代的滯脹期，"
+  },
+  {
+    "index": 93,
+    "text": "and then we entered a period of much slower growth following that.",
+    "start": 375.737,
+    "end": 380.279,
+    "zh": "之后我们进入了一个增长慢得多的时期。",
+    "zh_hant": "之後我們進入了一個增長慢得多的時期。"
+  },
+  {
+    "index": 94,
+    "text": "Now, Bernie Sanders has an explanation for why inequality has gone up,",
+    "start": 380.219,
+    "end": 386.442,
+    "zh": "现在，伯尼·桑德斯对不平等为何加剧有自己的解释，",
+    "zh_hant": "現在，伯尼·桑德斯對不平等為何加劇有自己的解釋，"
+  },
+  {
+    "index": 95,
+    "text": "and his story is workers became more productive,",
+    "start": 386.442,
+    "end": 389.683,
+    "zh": "他的说法是工人变得更有效率，",
+    "zh_hant": "他的說法是工人變得更有效率，"
+  },
+  {
+    "index": 96,
+    "text": "but the people who own the companies basically took all the benefits of that productivity.",
+    "start": 389.724,
+    "end": 395.526,
+    "zh": "但公司所有者基本上拿走了生产力提升的所有好处。",
+    "zh_hant": "但公司所有者基本上拿走了生產力提升的所有好處。"
+  },
+  {
+    "index": 97,
+    "text": "They added it to Their own pay packets or their share packages,",
+    "start": 396.067,
+    "end": 399.528,
+    "zh": "他们将这些好处加到自己的工资或股票包中，",
+    "zh_hant": "他們將這些好處加到自己的工資或股票包中，"
+  },
+  {
+    "index": 98,
+    "text": "and they didn't pay the workers in line with increasing productivity.",
+    "start": 399.428,
+    "end": 403.711,
+    "zh": "而没有按照生产力的提升给工人支付薪酬。",
+    "zh_hant": "而沒有按照生產力的提升給工人支付薪酬。"
+  },
+  {
+    "index": 99,
+    "text": "What do the data tell us about that story?",
+    "start": 404.932,
+    "end": 407.653,
+    "zh": "数据对这个故事怎么说？",
+    "zh_hant": "資料對這個故事怎麼說？"
+  },
+  {
+    "index": 100,
+    "text": "I think that lines up with the facts that you did not see",
+    "start": 409.334,
+    "end": 414.016,
+    "zh": "我认为这与事实相符，你并没有看到",
+    "zh_hant": "我認為這與事實相符，你並沒有看到"
+  },
+  {
+    "index": 101,
+    "text": "most workers' pay growing with the rate of productivity,",
+    "start": 414.456,
+    "end": 418.778,
+    "zh": "大多数工人的工资随生产率提升而增长，",
+    "zh_hant": "大多數工人的工資隨生產率提升而增長，"
+  },
+  {
+    "index": 102,
+    "text": "but the top, the highest earners,",
+    "start": 420.159,
+    "end": 424.201,
+    "zh": "但顶层高收入者，",
+    "zh_hant": "但頂層高收入者，"
+  },
+  {
+    "index": 103,
+    "text": "many of them would be corporate executives.",
+    "start": 424.341,
+    "end": 427.662,
+    "zh": "其中许多是公司高管，",
+    "zh_hant": "其中許多是公司高管，"
+  },
+  {
+    "index": 104,
+    "text": "Saw their wages growing much faster.",
+    "start": 428.163,
+    "end": 430.604,
+    "zh": "他们的工资增长要快得多。",
+    "zh_hant": "他們的工資增長要快得多。"
+  },
+  {
+    "index": 105,
+    "text": "Your data is all pre-tax, pre-transfer.",
+    "start": 430.464,
+    "end": 434.606,
+    "zh": "你的数据都是税前的、转移前的。",
+    "zh_hant": "你的資料都是稅前的、轉移前的。"
+  },
+  {
+    "index": 106,
+    "text": "Yes.",
+    "start": 434.256,
+    "end": 434.786,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 107,
+    "text": "So obviously, after that, the government kind of gets involved and moves money around,",
+    "start": 435.406,
+    "end": 440.629,
+    "zh": "显然，在此之后，政府会介入并转移资金，",
+    "zh_hant": "顯然，在此之後，政府會介入並轉移資金，"
+  },
+  {
+    "index": 108,
+    "text": "and taxes some people, and gives money to other people.",
+    "start": 440.279,
+    "end": 443.07,
+    "zh": "向一些人征税，给另一些人资金。",
+    "zh_hant": "向一些人徵稅，給另一些人資金。"
+  },
+  {
+    "index": 109,
+    "text": "Do we have any idea what difference that makes,",
+    "start": 443.751,
+    "end": 447.613,
+    "zh": "我们是否知道这会产生什么影响，",
+    "zh_hant": "我們是否知道這會產生什麼影響，"
+  },
+  {
+    "index": 110,
+    "text": "and whether the tax system has changed",
+    "start": 447.353,
+    "end": 450.854,
+    "zh": "以及税收制度是否发生了变化",
+    "zh_hant": "以及稅收制度是否發生了變化"
+  },
+  {
+    "index": 111,
+    "text": "to offset the trends that you describe,",
+    "start": 451.895,
+    "end": 455.397,
+    "zh": "来抵消你描述的趋势，",
+    "zh_hant": "來抵消你描述的趨勢，"
+  },
+  {
+    "index": 112,
+    "text": "or maybe it's changed to exacerbate the trend that you describe?",
+    "start": 455.117,
+    "end": 458.458,
+    "zh": "或者可能已经改变以加剧你描述的趋势？",
+    "zh_hant": "或者可能已經改變以加劇你描述的趨勢？"
+  },
+  {
+    "index": 113,
+    "text": "In some sense, it has exacerbated that change.",
+    "start": 459.319,
+    "end": 464.861,
+    "zh": "从某种意义上说，它加剧了这一变化。",
+    "zh_hant": "從某種意義上說，它加劇了這一變化。"
+  },
+  {
+    "index": 114,
+    "text": "In 1975, the top rate of income tax in the US was 70%.",
+    "start": 464.902,
+    "end": 470.614,
+    "zh": "1975年，美国最高所得税率为70%。",
+    "zh_hant": "1975年，美國最高所得稅率為70%。"
+  },
+  {
+    "index": 115,
+    "text": "In 2023, it was 37%.",
+    "start": 470.664,
+    "end": 474.816,
+    "zh": "2023年，这一数字为37%。",
+    "zh_hant": "2023年，這一數字為37%。"
+  },
+  {
+    "index": 116,
+    "text": "But that does raise a question, because when Senator Bernie Sanders used this number,",
+    "start": 474.866,
+    "end": 479.829,
+    "zh": "但这确实引发一个问题，因为当参议员伯尼·桑德斯使用这个数字时，",
+    "zh_hant": "但這確實引發一個問題，因為當參議員伯尼·桑德斯使用這個數字時，"
+  },
+  {
+    "index": 117,
+    "text": "he talked about a transfer of wealth.",
+    "start": 479.479,
+    "end": 482.13,
+    "zh": "他谈到的是一次财富转移。",
+    "zh_hant": "他談到的是一次財富轉移。"
+  },
+  {
+    "index": 118,
+    "text": "But Carter's analysis is looking at incomes over time,",
+    "start": 482.57,
+    "end": 486.112,
+    "zh": "但卡特的分析是关注随时间的收入变化，",
+    "zh_hant": "但卡特的分析是關注隨時間的收入變化，"
+  },
+  {
+    "index": 119,
+    "text": "and not wealth, and it doesn't include data about taxes at all.",
+    "start": 485.892,
+    "end": 490.814,
+    "zh": "而不是财富，而且根本不包含税收数据。",
+    "zh_hant": "而不是財富，而且根本不包含稅收資料。"
+  },
+  {
+    "index": 120,
+    "text": "That sort of language, wealth transfers and so on, is that the language you would use?",
+    "start": 490.915,
+    "end": 495.217,
+    "zh": "这种语言，比如财富转移等，是你使用的语言吗？",
+    "zh_hant": "這種語言，比如財富轉移等，是你使用的語言嗎？"
+  },
+  {
+    "index": 121,
+    "text": "Or would you have a That's certainly not the language I use.",
+    "start": 494.867,
+    "end": 499.579,
+    "zh": "这当然不是我使用的语言。",
+    "zh_hant": "這當然不是我使用的語言。"
+  },
+  {
+    "index": 122,
+    "text": "It's not wealth, it's income in some sense,",
+    "start": 499.229,
+    "end": 504.721,
+    "zh": "这不是财富，在某种意义上说这是收入，",
+    "zh_hant": "這不是財富，在某種意義上說這是收入，"
+  },
+  {
+    "index": 123,
+    "text": "because when we look at the cumulative effect of this,",
+    "start": 504.371,
+    "end": 507.583,
+    "zh": "因为当我们看待这种累积效应时，",
+    "zh_hant": "因為當我們看待這種累積效應時，"
+  },
+  {
+    "index": 124,
+    "text": "it is like wealth because it's income over time.",
+    "start": 507.603,
+    "end": 513.065,
+    "zh": "它就像财富，因为这是随时间的收入。",
+    "zh_hant": "它就像財富，因為這是隨時間的收入。"
+  },
+  {
+    "index": 125,
+    "text": "Obviously, a portion of that you spend, some of you save.",
+    "start": 514.406,
+    "end": 517.488,
+    "zh": "显然，其中一部分你花掉，一部分你储蓄。",
+    "zh_hant": "顯然，其中一部分你花掉，一部分你儲蓄。"
+  },
+  {
+    "index": 126,
+    "text": "So it would be correlated with wealth, but I would not.",
+    "start": 517.508,
+    "end": 520.489,
+    "zh": "所以它与财富相关，但我不会。",
+    "zh_hant": "所以它與財富相關，但我不會。"
+  },
+  {
+    "index": 127,
+    "text": "It is not wealth.",
+    "start": 520.509,
+    "end": 522.03,
+    "zh": "这不是财富。",
+    "zh_hant": "這不是財富。"
+  },
+  {
+    "index": 128,
+    "text": "And so that's, maybe not the best way to describe this.",
+    "start": 522.671,
+    "end": 526.715,
+    "zh": "所以，这也许不是描述这个的最好方式。",
+    "zh_hant": "所以，這也許不是描述這個的最好方式。"
+  },
+  {
+    "index": 129,
+    "text": "Thanks to Carter Price.",
+    "start": 527.236,
+    "end": 529.137,
+    "zh": "感谢卡特·普赖斯。",
+    "zh_hant": "感謝卡特·普賴斯。"
+  },
+  {
+    "index": 130,
+    "text": "And that's it for this episode of More or Less.",
+    "start": 529.078,
+    "end": 531.54,
+    "zh": "这就是本期 More or Less 的全部内容。",
+    "zh_hant": "這就是本期 More or Less 的全部內容。"
+  },
+  {
+    "index": 131,
+    "text": "If you've seen a number you want us to take a look at, email us at moreorless@bbc.co.uk.",
+    "start": 531.641,
+    "end": 538.007,
+    "zh": "如果你看到一个想让我们调查的数字，请发邮件至 moreorless@bbc.co.uk。",
+    "zh_hant": "如果你看到一個想讓我們調查的數字，請發郵件至 moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 132,
+    "text": "Until next time, goodbye.",
+    "start": 538.408,
+    "end": 540.73,
+    "zh": "下次见，再见。",
+    "zh_hant": "下次見，再見。"
+  }
+]

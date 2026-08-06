@@ -1,0 +1,1122 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC音频。",
+    "zh_hant": "BBC音訊。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 6.413,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello, and thanks for downloading the More or Less podcast.",
+    "start": 6.063,
+    "end": 9.334,
+    "zh": "你好，感谢下载《多或少》播客。",
+    "zh_hant": "你好，感謝下載《多或少》播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that delves into data, steeps itself in statistics,",
+    "start": 9.274,
+    "end": 13.816,
+    "zh": "我们是一档深入挖掘数据、沉浸于统计分析的节目，",
+    "zh_hant": "我們是一檔深入挖掘資料、沉浸於統計分析的節目，"
+  },
+  {
+    "index": 4,
+    "text": "and mulls over mathematical mysteries.",
+    "start": 13.466,
+    "end": 16.118,
+    "zh": "并思索数学之谜。",
+    "zh_hant": "並思索數學之謎。"
+  },
+  {
+    "index": 5,
+    "text": "And I'm Tim Harford.",
+    "start": 16.018,
+    "end": 17.438,
+    "zh": "我是蒂姆·哈福德。",
+    "zh_hant": "我是蒂姆·哈福德。"
+  },
+  {
+    "index": 6,
+    "text": "In early February 2025,",
+    "start": 21.12,
+    "end": 25.673,
+    "zh": "在2025年2月初，",
+    "zh_hant": "在2025年2月初，"
+  },
+  {
+    "index": 7,
+    "text": "something strange started happening across US government websites.",
+    "start": 25.723,
+    "end": 30.105,
+    "zh": "美国各政府网站上开始发生一些奇怪的事情。",
+    "zh_hant": "美國各政府網站上開始發生一些奇怪的事情。"
+  },
+  {
+    "index": 8,
+    "text": "Error.",
+    "start": 30.365,
+    "end": 31.105,
+    "zh": "错误。",
+    "zh_hant": "錯誤。"
+  },
+  {
+    "index": 9,
+    "text": "Decades of data began disappearing from web pages",
+    "start": 31.045,
+    "end": 34.587,
+    "zh": "数十年的数据开始从网页上消失，",
+    "zh_hant": "數十年的資料開始從網頁上消失，"
+  },
+  {
+    "index": 10,
+    "text": "of agencies such as the Centers for Disease Control and Prevention.",
+    "start": 34.367,
+    "end": 38.509,
+    "zh": "例如疾病控制与预防中心等机构的网站。",
+    "zh_hant": "例如疾病控制與預防中心等機構的網站。"
+  },
+  {
+    "index": 11,
+    "text": "The National Institutes of Health, and the Census Bureau.",
+    "start": 38.589,
+    "end": 42.371,
+    "zh": "国立卫生研究院和人口普查局。",
+    "zh_hant": "國立衛生研究院和人口普查局。"
+  },
+  {
+    "index": 12,
+    "text": "In many cases, the entire website went dark.",
+    "start": 46.773,
+    "end": 50.035,
+    "zh": "在许多情况下，整个网站都变暗了。",
+    "zh_hant": "在許多情況下，整個網站都變暗了。"
+  },
+  {
+    "index": 13,
+    "text": "Within a few days, some 8,000 government pages",
+    "start": 50.635,
+    "end": 54.377,
+    "zh": "几天之内，大约8000个政府页面",
+    "zh_hant": "幾天之內，大約8000個政府頁面"
+  },
+  {
+    "index": 14,
+    "text": "and 3,000 data sets had been taken down.",
+    "start": 54.027,
+    "end": 57.218,
+    "zh": "和3000个数据集被删除。",
+    "zh_hant": "和3000個資料集被刪除。"
+  },
+  {
+    "index": 15,
+    "text": "Since then, many have been reinstated, but some have not.",
+    "start": 57.499,
+    "end": 61.36,
+    "zh": "自那以后，许多已被恢复，但有些没有。",
+    "zh_hant": "自那以後，許多已被恢復，但有些沒有。"
+  },
+  {
+    "index": 16,
+    "text": "A curious case indeed.",
+    "start": 61.621,
+    "end": 63.722,
+    "zh": "这确实是一个奇怪的情况。",
+    "zh_hant": "這確實是一個奇怪的情況。"
+  },
+  {
+    "index": 17,
+    "text": "As data sleuths, we have questions.",
+    "start": 64.382,
+    "end": 66.783,
+    "zh": "作为数据侦探，我们有疑问。",
+    "zh_hant": "作為資料偵探，我們有疑問。"
+  },
+  {
+    "index": 18,
+    "text": "Why was this data taken away?",
+    "start": 66.943,
+    "end": 69.004,
+    "zh": "为什么这些数据被移除了？",
+    "zh_hant": "為什麼這些資料被移除了？"
+  },
+  {
+    "index": 19,
+    "text": "And why does any of it matter?",
+    "start": 69.184,
+    "end": 71.245,
+    "zh": "为什么这很重要？",
+    "zh_hant": "為什麼這很重要？"
+  },
+  {
+    "index": 20,
+    "text": "Let us delve into the case of the missing U.S. data.",
+    "start": 71.466,
+    "end": 76.088,
+    "zh": "让我们深入调查这起美国数据失踪案。",
+    "zh_hant": "讓我們深入調查這起美國資料失蹤案。"
+  },
+  {
+    "index": 21,
+    "text": "Lots and lots of data sets disappeared from access",
+    "start": 78.729,
+    "end": 82.371,
+    "zh": "大量数据集无法访问，",
+    "zh_hant": "大量資料集無法訪問，"
+  },
+  {
+    "index": 22,
+    "text": "because entire websites for agencies of the government came down,",
+    "start": 82.171,
+    "end": 86.373,
+    "zh": "因为政府机构的整个网站都下线了，",
+    "zh_hant": "因為政府機構的整個網站都下線了，"
+  },
+  {
+    "index": 23,
+    "text": "because of executive orders from the president",
+    "start": 86.353,
+    "end": 90.035,
+    "zh": "由于总统的行政命令，",
+    "zh_hant": "由於總統的行政命令，"
+  },
+  {
+    "index": 24,
+    "text": "questioning what could be made available.",
+    "start": 89.915,
+    "end": 93.176,
+    "zh": "质疑哪些内容可以公开。",
+    "zh_hant": "質疑哪些內容可以公開。"
+  },
+  {
+    "index": 25,
+    "text": "I'm Maggie Levenstein.",
+    "start": 93.277,
+    "end": 94.817,
+    "zh": "我是玛吉·莱文斯坦。",
+    "zh_hant": "我是瑪吉·萊文斯坦。"
+  },
+  {
+    "index": 26,
+    "text": "I'm a professor at the University of Michigan and director of ICPSR, the data consortium that's based here.",
+    "start": 94.467,
+    "end": 100.38,
+    "zh": "我是密歇根大学的教授，也是ICPSR（设在这里的数据联盟）的主任。",
+    "zh_hant": "我是密歇根大學的教授，也是ICPSR（設在這裡的資料聯盟）的主任。"
+  },
+  {
+    "index": 27,
+    "text": "At the start of President Trump's second term, he signed a flurry of executive orders.",
+    "start": 100.3,
+    "end": 105.943,
+    "zh": "在特朗普总统第二任期开始时，他签署了一系列行政命令。",
+    "zh_hant": "在特朗普總統第二任期開始時，他簽署了一系列行政命令。"
+  },
+  {
+    "index": 28,
+    "text": "For example, eradicating measures promoting diversity, equality,",
+    "start": 106.243,
+    "end": 110.665,
+    "zh": "例如，消除联邦政府中促进多样性、平等",
+    "zh_hant": "例如，消除聯邦政府中促進多樣性、平等"
+  },
+  {
+    "index": 29,
+    "text": "and inclusion in federal government.",
+    "start": 110.405,
+    "end": 112.786,
+    "zh": "和包容性的措施。",
+    "zh_hant": "和包容性的措施。"
+  },
+  {
+    "index": 30,
+    "text": "The order targeted websites over language about minorities,",
+    "start": 113.046,
+    "end": 116.688,
+    "zh": "该命令针对网站中涉及少数群体、",
+    "zh_hant": "該命令針對網站中涉及少數群體、"
+  },
+  {
+    "index": 31,
+    "text": "indigenous peoples, race, gender, sexuality, and disability.",
+    "start": 116.408,
+    "end": 120.71,
+    "zh": "原住民、种族、性别、性取向和残疾的语言。",
+    "zh_hant": "原住民、種族、性別、性取向和殘疾的語言。"
+  },
+  {
+    "index": 32,
+    "text": "Climate change was another banned topic.",
+    "start": 121.05,
+    "end": 123.732,
+    "zh": "气候变化是另一个被禁止的话题。",
+    "zh_hant": "氣候變化是另一個被禁止的話題。"
+  },
+  {
+    "index": 33,
+    "text": "Because agencies weren't sure that their websites would be consistent with the policies,",
+    "start": 123.912,
+    "end": 128.834,
+    "zh": "由于机构不确定其网站是否符合政策，",
+    "zh_hant": "由於機構不確定其網站是否符合政策，"
+  },
+  {
+    "index": 34,
+    "text": "they just brought the entire websites down,",
+    "start": 128.594,
+    "end": 131.075,
+    "zh": "他们干脆将整个网站下线，",
+    "zh_hant": "他們乾脆將整個網站下線，"
+  },
+  {
+    "index": 35,
+    "text": "and that meant that data that had been collected and was accessed through those websites became inaccessible.",
+    "start": 131.015,
+    "end": 137.178,
+    "zh": "这意味着通过那些网站访问的已收集数据变得不可访问。",
+    "zh_hant": "這意味著透過那些網站訪問的已收集資料變得不可訪問。"
+  },
+  {
+    "index": 36,
+    "text": "While this was happening, the Department of Government Efficiency",
+    "start": 137.198,
+    "end": 140.82,
+    "zh": "在这一切发生的同时，政府效率部",
+    "zh_hant": "在這一切發生的同時，政府效率部"
+  },
+  {
+    "index": 37,
+    "text": "was plowing on with their goal of cutting $2 trillion from government spending.",
+    "start": 140.48,
+    "end": 145.942,
+    "zh": "正继续推进削减2万亿美元政府支出的目标。",
+    "zh_hant": "正繼續推進削減2萬億美元政府支出的目標。"
+  },
+  {
+    "index": 38,
+    "text": "They haven't got anywhere close to those savings, by the way.",
+    "start": 145.743,
+    "end": 148.604,
+    "zh": "顺便说一句，他们远未达到那些节省。",
+    "zh_hant": "順便說一句，他們遠未達到那些節省。"
+  },
+  {
+    "index": 39,
+    "text": "Lots and lots of people were fired,",
+    "start": 148.484,
+    "end": 150.785,
+    "zh": "很多人被解雇了，",
+    "zh_hant": "很多人被解僱了，"
+  },
+  {
+    "index": 40,
+    "text": "and those people are often people who produce data or people who provide access to data.",
+    "start": 150.765,
+    "end": 156.548,
+    "zh": "而那些被解雇的人往往是生产数据或提供数据访问的人。",
+    "zh_hant": "而那些被解僱的人往往是生產資料或提供資料訪問的人。"
+  },
+  {
+    "index": 41,
+    "text": "And without those people in place, access was impossible.",
+    "start": 156.588,
+    "end": 160.67,
+    "zh": "没有这些人在位，访问就无法实现。",
+    "zh_hant": "沒有這些人在位，訪問就無法實現。"
+  },
+  {
+    "index": 42,
+    "text": "And there also were budget cuts that were affecting data access",
+    "start": 160.61,
+    "end": 164.912,
+    "zh": "而且还有预算削减影响了数据访问",
+    "zh_hant": "而且還有預算削減影響了資料訪問"
+  },
+  {
+    "index": 43,
+    "text": "and data collection going forward.",
+    "start": 164.933,
+    "end": 167.414,
+    "zh": "和未来的数据收集。",
+    "zh_hant": "和未來的資料收集。"
+  },
+  {
+    "index": 44,
+    "text": "Now, most of the government websites did eventually reappear.",
+    "start": 167.274,
+    "end": 171.015,
+    "zh": "现在，大多数政府网站最终确实重新出现。",
+    "zh_hant": "現在，大多數政府網站最終確實重新出現。"
+  },
+  {
+    "index": 45,
+    "text": "Some datasets were fully restored, but some datasets were discontinued.",
+    "start": 171.116,
+    "end": 176.118,
+    "zh": "一些数据集完全恢复，但一些数据集被终止。",
+    "zh_hant": "一些資料集完全恢復，但一些資料集被終止。"
+  },
+  {
+    "index": 46,
+    "text": "And some reappeared, although researchers soon noticed they'd been changed.",
+    "start": 176.158,
+    "end": 181.32,
+    "zh": "有些重新出现，尽管研究人员很快注意到它们已被更改。",
+    "zh_hant": "有些重新出現，儘管研究人員很快注意到它們已被更改。"
+  },
+  {
+    "index": 47,
+    "text": "There were actual decisions for particular datasets to alter them,",
+    "start": 181.861,
+    "end": 186.283,
+    "zh": "确实有决定要修改特定数据集，",
+    "zh_hant": "確實有決定要修改特定資料集，"
+  },
+  {
+    "index": 48,
+    "text": "to obscure information about gender identity, or about vaccines,",
+    "start": 186.303,
+    "end": 191.505,
+    "zh": "模糊关于性别认同、疫苗、",
+    "zh_hant": "模糊關於性別認同、疫苗、"
+  },
+  {
+    "index": 49,
+    "text": "or about sexual behavior, or about climate.",
+    "start": 191.155,
+    "end": 195.187,
+    "zh": "性行为或气候的信息。",
+    "zh_hant": "性行為或氣候的資訊。"
+  },
+  {
+    "index": 50,
+    "text": "Those were policy areas where there's a lot of data",
+    "start": 194.837,
+    "end": 198.309,
+    "zh": "这些是政策领域，其中有大量数据",
+    "zh_hant": "這些是政策領域，其中有大量資料"
+  },
+  {
+    "index": 51,
+    "text": "that the administration didn't want people to have access to,",
+    "start": 197.959,
+    "end": 202.231,
+    "zh": "是政府不希望人们访问的，",
+    "zh_hant": "是政府不希望人們訪問的，"
+  },
+  {
+    "index": 52,
+    "text": "that data about those questions.",
+    "start": 201.881,
+    "end": 203.792,
+    "zh": "关于那些问题的数据。",
+    "zh_hant": "關於那些問題的資料。"
+  },
+  {
+    "index": 53,
+    "text": "And so those data were removed or were altered.",
+    "start": 203.692,
+    "end": 207.193,
+    "zh": "因此那些数据被移除或篡改。",
+    "zh_hant": "因此那些資料被移除或篡改。"
+  },
+  {
+    "index": 54,
+    "text": "When data goes missing or is altered, it can have Very real-life consequences.",
+    "start": 207.334,
+    "end": 212.656,
+    "zh": "当数据丢失或被篡改时，它可能产生非常现实的影响。",
+    "zh_hant": "當資料丟失或被篡改時，它可能產生非常現實的影響。"
+  },
+  {
+    "index": 55,
+    "text": "For example, some might see the eradication of the non-binary gender category",
+    "start": 212.936,
+    "end": 218.179,
+    "zh": "例如，有些人可能认为消除非二元性别类别",
+    "zh_hant": "例如，有些人可能認為消除非二元性別類別"
+  },
+  {
+    "index": 56,
+    "text": "as purely a symbolic move.",
+    "start": 217.839,
+    "end": 219.9,
+    "zh": "仅仅是象征性的举动。",
+    "zh_hant": "僅僅是象徵性的舉動。"
+  },
+  {
+    "index": 57,
+    "text": "But we know that teenagers who identify as non-binary",
+    "start": 219.98,
+    "end": 223.361,
+    "zh": "但我们知道，认同为非二元性别的青少年",
+    "zh_hant": "但我們知道，認同為非二元性別的青少年"
+  },
+  {
+    "index": 58,
+    "text": "are more likely to be more vulnerable to certain risks than their peers.",
+    "start": 223.161,
+    "end": 227.163,
+    "zh": "比同龄人更容易受到某些风险的影响。",
+    "zh_hant": "比同齡人更容易受到某些風險的影響。"
+  },
+  {
+    "index": 59,
+    "text": "That's something we couldn't have known without collecting the data in the past and without the data now.",
+    "start": 227.424,
+    "end": 232.986,
+    "zh": "没有过去收集的数据和现在的数据，我们无法知道这一点。",
+    "zh_hant": "沒有過去收集的資料和現在的資料，我們無法知道這一點。"
+  },
+  {
+    "index": 60,
+    "text": "Are we providing the appropriate social supports to them?",
+    "start": 233.046,
+    "end": 236.788,
+    "zh": "我们是否为他们提供了适当的社会支持？",
+    "zh_hant": "我們是否為他們提供了適當的社會支援？"
+  },
+  {
+    "index": 61,
+    "text": "It's very hard to know without the data that was being collected",
+    "start": 236.808,
+    "end": 241.491,
+    "zh": "没有收集到的关于年轻人心理健康、",
+    "zh_hant": "沒有收集到的關於年輕人心理健康、"
+  },
+  {
+    "index": 62,
+    "text": "about the mental health of young people,",
+    "start": 241.151,
+    "end": 244.552,
+    "zh": "性别认同和性行为的数据，",
+    "zh_hant": "性別認同和性行為的資料，"
+  },
+  {
+    "index": 63,
+    "text": "and their gender identity, and their sexual behaviours.",
+    "start": 244.592,
+    "end": 249.415,
+    "zh": "就很难知道。",
+    "zh_hant": "就很難知道。"
+  },
+  {
+    "index": 64,
+    "text": "When we don't have that information,",
+    "start": 249.335,
+    "end": 251.315,
+    "zh": "当我们没有这些信息时，",
+    "zh_hant": "當我們沒有這些資訊時，"
+  },
+  {
+    "index": 65,
+    "text": "it's much harder to provide the resources that people need",
+    "start": 250.965,
+    "end": 255.718,
+    "zh": "就很难提供人们所需的资源",
+    "zh_hant": "就很難提供人們所需的資源"
+  },
+  {
+    "index": 66,
+    "text": "to live full and healthy lives.",
+    "start": 255.718,
+    "end": 257.899,
+    "zh": "来过上充实健康的生活。",
+    "zh_hant": "來過上充實健康的生活。"
+  },
+  {
+    "index": 67,
+    "text": "The data at risk spans all areas of life and society.",
+    "start": 257.999,
+    "end": 262.741,
+    "zh": "面临风险的数据涵盖了生活和社会的各个领域。",
+    "zh_hant": "面臨風險的資料涵蓋了生活和社會的各個領域。"
+  },
+  {
+    "index": 68,
+    "text": "Recently, The Bureau of Labor Statistics announced that when calculating CPI,",
+    "start": 262.921,
+    "end": 268.284,
+    "zh": "最近，劳工统计局宣布，在计算CPI时，",
+    "zh_hant": "最近，勞工統計局宣佈，在計算CPI時，"
+  },
+  {
+    "index": 69,
+    "text": "the Consumer Prices Index, they would stop collecting the data from three cities",
+    "start": 268.164,
+    "end": 273.306,
+    "zh": "即消费者价格指数，他们将停止从三个城市收集数据，",
+    "zh_hant": "即消費者價格指數，他們將停止從三個城市收集資料，"
+  },
+  {
+    "index": 70,
+    "text": "due to budgetary cuts.",
+    "start": 273.266,
+    "end": 274.767,
+    "zh": "由于预算削减。",
+    "zh_hant": "由於預算削減。"
+  },
+  {
+    "index": 71,
+    "text": "Businesses rely on these, and they rely on them to be high quality measures.",
+    "start": 274.627,
+    "end": 278.889,
+    "zh": "企业依赖这些数据，并依赖它们作为高质量的衡量标准。",
+    "zh_hant": "企業依賴這些資料，並依賴它們作為高質量的衡量標準。"
+  },
+  {
+    "index": 72,
+    "text": "When we reduce spending and the resources that the BLS has, then we get lower quality measures.",
+    "start": 278.889,
+    "end": 285.032,
+    "zh": "当我们减少BLS的支出和资源时，我们就会得到较低质量的衡量标准。",
+    "zh_hant": "當我們減少BLS的支出和資源時，我們就會得到較低質量的衡量標準。"
+  },
+  {
+    "index": 73,
+    "text": "And as a result, businesses are much more likely to be flying blind.",
+    "start": 285.013,
+    "end": 289.975,
+    "zh": "结果，企业更有可能盲目行事。",
+    "zh_hant": "結果，企業更有可能盲目行事。"
+  },
+  {
+    "index": 74,
+    "text": "Many websites also now have government-mandated disclaimers on their homepage,",
+    "start": 294.597,
+    "end": 299.9,
+    "zh": "许多网站现在在其首页上也有政府规定的免责声明，",
+    "zh_hant": "許多網站現在在其首頁上也有政府規定的免責宣告，"
+  },
+  {
+    "index": 75,
+    "text": "throwing doubt on the data.",
+    "start": 299.66,
+    "end": 301.401,
+    "zh": "对数据提出质疑。",
+    "zh_hant": "對資料提出質疑。"
+  },
+  {
+    "index": 76,
+    "text": "For example, if you go on the CDC,",
+    "start": 301.681,
+    "end": 304.662,
+    "zh": "例如，如果你访问CDC，即",
+    "zh_hant": "例如，如果你訪問CDC，即"
+  },
+  {
+    "index": 77,
+    "text": "the Centre for Disease Control and Prevention's homepage for national HIV surveillance systems,",
+    "start": 304.402,
+    "end": 310.565,
+    "zh": "疾病控制与预防中心的全国艾滋病毒监测系统首页，",
+    "zh_hant": "疾病控制與預防中心的全國艾滋病毒監測系統首頁，"
+  },
+  {
+    "index": 78,
+    "text": "you're met with this.",
+    "start": 310.765,
+    "end": 312.086,
+    "zh": "你会看到这个。",
+    "zh_hant": "你會看到這個。"
+  },
+  {
+    "index": 79,
+    "text": "Per a court order, HHS is required to restore this website as of 11:59",
+    "start": 311.946,
+    "end": 317.39,
+    "zh": "根据法院命令，HHS被要求在美国东部时间2025年2月11日晚上11:59",
+    "zh_hant": "根據法院命令，HHS被要求在美國東部時間2025年2月11日晚上11:59"
+  },
+  {
+    "index": 80,
+    "text": "pm Eastern Time,",
+    "start": 317.569,
+    "end": 319.53,
+    "zh": "之前恢复此网站。",
+    "zh_hant": "之前恢復此網站。"
+  },
+  {
+    "index": 81,
+    "text": "February 11th, 2025.",
+    "start": 319.45,
+    "end": 322.322,
+    "zh": "此页面上任何宣扬性别意识形态的信息都极其不准确，",
+    "zh_hant": "此頁面上任何宣揚性別意識形態的資訊都極其不準確，"
+  },
+  {
+    "index": 82,
+    "text": "Any information on this page promoting gender ideology is extremely inaccurate",
+    "start": 322.372,
+    "end": 328.254,
+    "zh": "并背离了不可改变的生物学现实，即存在两种性别，",
+    "zh_hant": "並背離了不可改變的生物學現實，即存在兩種性別，"
+  },
+  {
+    "index": 83,
+    "text": "and disconnected from the immutable biological reality that there are two sexes,",
+    "start": 328.094,
+    "end": 332.977,
+    "zh": "男性和女性。",
+    "zh_hant": "男性和女性。"
+  },
+  {
+    "index": 84,
+    "text": "male and female.",
+    "start": 332.937,
+    "end": 334.677,
+    "zh": "其他数据集的命运尚不确定。",
+    "zh_hant": "其他資料集的命運尚不確定。"
+  },
+  {
+    "index": 85,
+    "text": "The fate of other datasets is uncertain.",
+    "start": 337.159,
+    "end": 339.9,
+    "zh": "例如，一个监测美国出生结果的数十年数据集，",
+    "zh_hant": "例如，一個監測美國出生結果的數十年資料集，"
+  },
+  {
+    "index": 86,
+    "text": "For example, a decades-old dataset that monitors birth outcomes in the US,",
+    "start": 339.94,
+    "end": 344.902,
+    "zh": "PRAMS，",
+    "zh_hant": "PRAMS，"
+  },
+  {
+    "index": 87,
+    "text": "PRAMS.",
+    "start": 346.043,
+    "end": 346.983,
+    "zh": "或妊娠风险评估监测系统，是评估和监测",
+    "zh_hant": "或妊娠風險評估監測系統，是評估和監測"
+  },
+  {
+    "index": 88,
+    "text": "or the Pregnancy Risk Assessment Monitoring System, is kind of the gold standard",
+    "start": 346.633,
+    "end": 351.966,
+    "zh": "美国母婴健康的黄金标准，",
+    "zh_hant": "美國母嬰健康的黃金標準，"
+  },
+  {
+    "index": 89,
+    "text": "for assessing",
+    "start": 351.686,
+    "end": 353.246,
+    "zh": "这是美国一直落后于其他高收入国家的一个领域。",
+    "zh_hant": "這是美國一直落後於其他高收入國家的一個領域。"
+  },
+  {
+    "index": 90,
+    "text": "and monitoring maternal and child health in the U.S. That's",
+    "start": 352.896,
+    "end": 356.248,
+    "zh": "那是约翰·库巴利，密歇根大学研究助理教授，",
+    "zh_hant": "那是約翰·庫巴利，密歇根大學研究助理教授，"
+  },
+  {
+    "index": 91,
+    "text": "an area where the U.S. has consistently lagged behind other high-income countries.",
+    "start": 355.898,
+    "end": 361.731,
+    "zh": "专攻流行病学。",
+    "zh_hant": "專攻流行病學。"
+  },
+  {
+    "index": 92,
+    "text": "That's John Cubali, a research assistant professor at the University of Michigan,",
+    "start": 361.791,
+    "end": 366.633,
+    "zh": "卫生与公众服务部声明，",
+    "zh_hant": "衛生與公眾服務部宣告，"
+  },
+  {
+    "index": 93,
+    "text": "who specializes in epidemiology.",
+    "start": 366.414,
+    "end": 368.795,
+    "zh": "PRAMS的目的是通过影响旨在减少母婴健康问题的项目和政策，",
+    "zh_hant": "PRAMS的目的是透過影響旨在減少母嬰健康問題的專案和政策，"
+  },
+  {
+    "index": 94,
+    "text": "The Department of Health and Human Services states",
+    "start": 369.135,
+    "end": 372.496,
+    "zh": "降低婴儿发病率和死亡率。",
+    "zh_hant": "降低嬰兒發病率和死亡率。"
+  },
+  {
+    "index": 95,
+    "text": "that the purpose of PRAMS is to reduce infant morbidity and mortality",
+    "start": 372.146,
+    "end": 377.779,
+    "zh": "由于美国婴儿死亡的可能性大约是芬兰、日本或瑞典的三倍，",
+    "zh_hant": "由於美國嬰兒死亡的可能性大約是芬蘭、日本或瑞典的三倍，"
+  },
+  {
+    "index": 96,
+    "text": "by influencing programs and policies",
+    "start": 377.739,
+    "end": 380.26,
+    "zh": "这似乎是一个非常重要的数据集。",
+    "zh_hant": "這似乎是一個非常重要的資料集。"
+  },
+  {
+    "index": 97,
+    "text": "aimed at reducing health problems among mothers and infants.",
+    "start": 380.22,
+    "end": 383.862,
+    "zh": "它被政策制定者和研究人员使用。",
+    "zh_hant": "它被政策制定者和研究人員使用。"
+  },
+  {
+    "index": 98,
+    "text": "As an infant is around three times more likely to die in the US than in Finland,",
+    "start": 383.962,
+    "end": 389.185,
+    "zh": "真正了解我们母婴健康的不同方面如何随时间变化，",
+    "zh_hant": "真正瞭解我們母嬰健康的不同方面如何隨時間變化，"
+  },
+  {
+    "index": 99,
+    "text": "Japan, or Sweden, this seems like a pretty important data set.",
+    "start": 388.845,
+    "end": 393.387,
+    "zh": "以及哪些人群受影响最大。",
+    "zh_hant": "以及哪些人群受影響最大。"
+  },
+  {
+    "index": 100,
+    "text": "It's something that is used both by policymakers and by researchers.",
+    "start": 393.407,
+    "end": 398.389,
+    "zh": "如果你要考虑设计干预措施来应对这些挑战，",
+    "zh_hant": "如果你要考慮設計干預措施來應對這些挑戰，"
+  },
+  {
+    "index": 101,
+    "text": "Really, to understand how our different aspects of maternal and child health are changing over time",
+    "start": 398.039,
+    "end": 403.792,
+    "zh": "这确实是你需要的重要信息。",
+    "zh_hant": "這確實是你需要的重要資訊。"
+  },
+  {
+    "index": 102,
+    "text": "and what populations are most impacted.",
+    "start": 403.442,
+    "end": 406.854,
+    "zh": "这些数据由各州和政府收集，然后发送到",
+    "zh_hant": "這些資料由各州和政府收集，然後傳送到"
+  },
+  {
+    "index": 103,
+    "text": "That's really important information that you need to have if you're going to be considering",
+    "start": 406.894,
+    "end": 412.096,
+    "zh": "CDC进行合并和人口加权。",
+    "zh_hant": "CDC進行合併和人口加權。"
+  },
+  {
+    "index": 104,
+    "text": "how to design interventions",
+    "start": 411.856,
+    "end": 413.657,
+    "zh": "要访问这些数据，研究人员需要申请访问权限",
+    "zh_hant": "要訪問這些資料，研究人員需要申請訪問許可權"
+  },
+  {
+    "index": 105,
+    "text": "to address some of those challenges.",
+    "start": 413.307,
+    "end": 416.118,
+    "zh": "并签署声明承诺不会分享。",
+    "zh_hant": "並簽署宣告承諾不會分享。"
+  },
+  {
+    "index": 106,
+    "text": "This data is collected by local states and governments and then sent",
+    "start": 416.399,
+    "end": 420.44,
+    "zh": "数据，我开始接到研究人员的联系，",
+    "zh_hant": "資料，我開始接到研究人員的聯絡，"
+  },
+  {
+    "index": 107,
+    "text": "to the CDC to be merged and for population weighting to be added.",
+    "start": 420.09,
+    "end": 424.242,
+    "zh": "基本上这些请求都没有得到回应。",
+    "zh_hant": "基本上這些請求都沒有得到回應。"
+  },
+  {
+    "index": 108,
+    "text": "To access the data, researchers needed to apply for access",
+    "start": 424.523,
+    "end": 428.644,
+    "zh": "我自己提交了多次请求。",
+    "zh_hant": "我自己提交了多次請求。"
+  },
+  {
+    "index": 109,
+    "text": "and sign a declaration stating they wouldn't share.",
+    "start": 428.344,
+    "end": 431.306,
+    "zh": "我直接联系了那个办公室。",
+    "zh_hant": "我直接聯絡了那個辦公室。"
+  },
+  {
+    "index": 110,
+    "text": "The data, I started getting contacted by researchers,",
+    "start": 430.956,
+    "end": 435.028,
+    "zh": "从未收到任何回复。",
+    "zh_hant": "從未收到任何回覆。"
+  },
+  {
+    "index": 111,
+    "text": "and essentially these requests were just going unanswered.",
+    "start": 434.708,
+    "end": 437.529,
+    "zh": "所以基本上，过去10年（2016年或之后）的所有数据，",
+    "zh_hant": "所以基本上，過去10年（2016年或之後）的所有資料，"
+  },
+  {
+    "index": 112,
+    "text": "I submitted multiple requests myself.",
+    "start": 437.469,
+    "end": 439.83,
+    "zh": "都不是公开可用的。",
+    "zh_hant": "都不是公開可用的。"
+  },
+  {
+    "index": 113,
+    "text": "I reached out to that office directly.",
+    "start": 439.55,
+    "end": 441.731,
+    "zh": "如果你还没有访问权限，目前你运气不佳。",
+    "zh_hant": "如果你還沒有訪問許可權，目前你運氣不佳。"
+  },
+  {
+    "index": 114,
+    "text": "I never heard any response.",
+    "start": 441.972,
+    "end": 443.732,
+    "zh": "我们是否知道他们是否仍在收集数据？",
+    "zh_hant": "我們是否知道他們是否仍在收集資料？"
+  },
+  {
+    "index": 115,
+    "text": "And so essentially, any of the data from the last 10 years,",
+    "start": 443.382,
+    "end": 446.874,
+    "zh": "是的，这方面存在一些不确定性。",
+    "zh_hant": "是的，這方面存在一些不確定性。"
+  },
+  {
+    "index": 116,
+    "text": "so 2016 or later, that's not publicly available.",
+    "start": 446.524,
+    "end": 450.395,
+    "zh": "那个。",
+    "zh_hant": "那個。"
+  },
+  {
+    "index": 117,
+    "text": "And so if you did not have access to that already, you're kind of out of luck at this point.",
+    "start": 450.116,
+    "end": 455.558,
+    "zh": "我记得在2月初到中旬有一个公告，说，哦，我们要停止这项数据收集。",
+    "zh_hant": "我記得在2月初到中旬有一個公告，說，哦，我們要停止這項資料收集。"
+  },
+  {
+    "index": 118,
+    "text": "Do we know whether they're still collecting the data?",
+    "start": 455.538,
+    "end": 458.319,
+    "zh": "然后引起了巨大的反弹和抗议。",
+    "zh_hant": "然後引起了巨大的反彈和抗議。"
+  },
+  {
+    "index": 119,
+    "text": "Yeah, there is some uncertainty around.",
+    "start": 458.28,
+    "end": 460.56,
+    "zh": "然后有一个澄清，哦，不，我们不会停止这个，",
+    "zh_hant": "然後有一個澄清，哦，不，我們不會停止這個，"
+  },
+  {
+    "index": 120,
+    "text": "That.",
+    "start": 460.21,
+    "end": 460.801,
+    "zh": "但我们会把它推迟到2025年4月，然后我们会重新开始。",
+    "zh_hant": "但我們會把它推遲到2025年4月，然後我們會重新開始。"
+  },
+  {
+    "index": 121,
+    "text": "There was an announcement, I believe, in early to mid-February, saying, oh, we're going to discontinue this data collection.",
+    "start": 460.451,
+    "end": 466.343,
+    "zh": "但4月1日，整个PRAMS办公室基本上被解雇了。",
+    "zh_hant": "但4月1日，整個PRAMS辦公室基本上被解僱了。"
+  },
+  {
+    "index": 122,
+    "text": "And there was a massive backlash and outcry.",
+    "start": 466.123,
+    "end": 469.045,
+    "zh": "所以现在真的很不确定这对未来的数据收集意味着什么。",
+    "zh_hant": "所以現在真的很不確定這對未來的資料收集意味著什麼。"
+  },
+  {
+    "index": 123,
+    "text": "And there was kind of a clarification, oh, no, we're not going to discontinue this,",
+    "start": 468.765,
+    "end": 472.586,
+    "zh": "自2月以来，人们一直在努力尽可能多地保护数据。",
+    "zh_hant": "自2月以來，人們一直在努力儘可能多地保護資料。"
+  },
+  {
+    "index": 124,
+    "text": "but we're going to kind of push it back until April 2025, and then we'll start it up again.",
+    "start": 472.236,
+    "end": 477.349,
+    "zh": "玛吉和约翰都参与了这一过程。",
+    "zh_hant": "瑪吉和約翰都參與了這一過程。"
+  },
+  {
+    "index": 125,
+    "text": "But April 1st, the entire PRAMS office was essentially fired.",
+    "start": 477.469,
+    "end": 481.411,
+    "zh": "但旧网页的快照并不能构成完整的数据集。",
+    "zh_hant": "但舊網頁的快照並不能構成完整的資料集。"
+  },
+  {
+    "index": 126,
+    "text": "And so now it's really uncertain what this means for this data collection moving forward.",
+    "start": 481.111,
+    "end": 486.614,
+    "zh": "所以有些数据你完全无法获取。",
+    "zh_hant": "所以有些資料你完全無法獲取。"
+  },
+  {
+    "index": 127,
+    "text": "Since February, there's been a scramble to try and safeguard as much data as possible.",
+    "start": 489.455,
+    "end": 494.298,
+    "zh": "有些数据我们还不知道已经丢失了。",
+    "zh_hant": "有些資料我們還不知道已經丟失了。"
+  },
+  {
+    "index": 128,
+    "text": "Both Maggie and John are involved in this process.",
+    "start": 494.298,
+    "end": 497.139,
+    "zh": "也有一些数据被保存了，但我們不能确定它没有被更改。",
+    "zh_hant": "也有一些資料被儲存了，但我們不能確定它沒有被更改。"
+  },
+  {
+    "index": 129,
+    "text": "But snapshots of old web pages do not a full data set make.",
+    "start": 497.219,
+    "end": 502.041,
+    "zh": "而且你也没有上下文，即我们所说的元数据，即数据的描述。",
+    "zh_hant": "而且你也沒有上下文，即我們所說的後設資料，即資料的描述。"
+  },
+  {
+    "index": 130,
+    "text": "So there's some data that you can't get to at all.",
+    "start": 501.801,
+    "end": 504.182,
+    "zh": "数据，所有让你能从数据中进行推断的东西。",
+    "zh_hant": "資料，所有讓你能從資料中進行推斷的東西。"
+  },
+  {
+    "index": 131,
+    "text": "There's some data that we don't know is gone yet.",
+    "start": 504.063,
+    "end": 507.644,
+    "zh": "案件仍未解决。",
+    "zh_hant": "案件仍未解決。"
+  },
+  {
+    "index": 132,
+    "text": "There's also data that's been preserved, but we don't know for sure that it hasn't been changed.",
+    "start": 507.424,
+    "end": 513.547,
+    "zh": "感谢玛吉·莱文斯坦和约翰·库巴利。",
+    "zh_hant": "感謝瑪吉·萊文斯坦和約翰·庫巴利。"
+  },
+  {
+    "index": 133,
+    "text": "And you also don't have the context, what we call metadata, the description of the.",
+    "start": 513.407,
+    "end": 519.01,
+    "zh": "这就是我们本周的全部时间，但如果你有任何问题或评论，",
+    "zh_hant": "這就是我們本週的全部時間，但如果你有任何問題或評論，"
+  },
+  {
+    "index": 134,
+    "text": "Data, all the things that allow you to make inference from the data.",
+    "start": 518.66,
+    "end": 522.493,
+    "zh": "请发邮件至moreorless@bbc.co.uk。",
+    "zh_hant": "請發郵件至moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 135,
+    "text": "The case remains open.",
+    "start": 522.894,
+    "end": 525.196,
+    "zh": "下周见，再见。",
+    "zh_hant": "下週見，再見。"
+  },
+  {
+    "index": 136,
+    "text": "Thanks to Maggie Levenstein and John Cubali.",
+    "start": 525.557,
+    "end": 528.699,
+    "zh": "数据丢失或被篡改时，它可能产生非常现实的影响。",
+    "zh_hant": "資料丟失或被篡改時，它可能產生非常現實的影響。"
+  },
+  {
+    "index": 137,
+    "text": "That is all we have time for this week, but if you have any questions or comments,",
+    "start": 528.82,
+    "end": 532.783,
+    "zh": "例如，有些人可能认为消除非二元性别类别",
+    "zh_hant": "例如，有些人可能認為消除非二元性別類別"
+  },
+  {
+    "index": 138,
+    "text": "please email in to moreorless@bbc.co.uk.",
+    "start": 532.584,
+    "end": 536.807,
+    "zh": "仅仅是象征性的举动。",
+    "zh_hant": "僅僅是象徵性的舉動。"
+  },
+  {
+    "index": 139,
+    "text": "Until next week, goodbye.",
+    "start": 537.208,
+    "end": 539.57,
+    "zh": "但我们知道，认同为非二元性别的青少年",
+    "zh_hant": "但我們知道，認同為非二元性別的青少年"
+  }
+]

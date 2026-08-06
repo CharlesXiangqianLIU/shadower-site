@@ -1,0 +1,258 @@
+[
+  {
+    "index": 0,
+    "text": "Lesson 14.",
+    "start": 1.55,
+    "end": 3.281,
+    "zh": "第十四课。",
+    "zh_hant": "第十四課。"
+  },
+  {
+    "index": 1,
+    "text": "The Butterfly Effect.",
+    "start": 3.331,
+    "end": 8.854,
+    "zh": "蝴蝶效应。",
+    "zh_hant": "蝴蝶效應。"
+  },
+  {
+    "index": 2,
+    "text": "Why do small errors make it impossible to predict the weather system",
+    "start": 12.916,
+    "end": 17.898,
+    "zh": "为什么微小的误差会让我们无法高精度地预测天气系统呢？",
+    "zh_hant": "為什麼微小的誤差會讓我們無法高精度地預測天氣系統呢？"
+  },
+  {
+    "index": 3,
+    "text": "with a high degree of accuracy?",
+    "start": 17.678,
+    "end": 19.859,
+    "zh": "以高精度预测天气系统？",
+    "zh_hant": "以高精度預測天氣系統？"
+  },
+  {
+    "index": 4,
+    "text": "Beyond two or three days, the world's best weather forecasts are speculative,",
+    "start": 23.081,
+    "end": 29.204,
+    "zh": "超过两三天，世界上最好的天气预报也只能算是猜测。",
+    "zh_hant": "超過兩三天，世界上最好的天氣預報也只能算是猜測。"
+  },
+  {
+    "index": 5,
+    "text": "and beyond six or seven they are worthless.",
+    "start": 29.344,
+    "end": 32.625,
+    "zh": "超过六七天，它们就毫无价值了。",
+    "zh_hant": "超過六七天，它們就毫無價值了。"
+  },
+  {
+    "index": 6,
+    "text": "The Butterfly Effect is the reason.",
+    "start": 33.246,
+    "end": 35.467,
+    "zh": "蝴蝶效应就是原因。",
+    "zh_hant": "蝴蝶效應就是原因。"
+  },
+  {
+    "index": 7,
+    "text": "For small pieces of weather--",
+    "start": 36.087,
+    "end": 38.088,
+    "zh": "对于小范围的天气——",
+    "zh_hant": "對於小範圍的天氣——"
+  },
+  {
+    "index": 8,
+    "text": "and to a global forecaster, small can mean thunderstorms and blizzards--",
+    "start": 38.269,
+    "end": 43.931,
+    "zh": "对全球预报员来说，小范围可能意味着雷暴和暴风雪——",
+    "zh_hant": "對全球預報員來說，小範圍可能意味著雷暴和暴風雪——"
+  },
+  {
+    "index": 9,
+    "text": "any prediction deteriorates rapidly.",
+    "start": 44.432,
+    "end": 46.973,
+    "zh": "任何预测都会迅速失效。",
+    "zh_hant": "任何預測都會迅速失效。"
+  },
+  {
+    "index": 10,
+    "text": "Errors and uncertainties multiply, cascading upward through a chain of turbulent features,",
+    "start": 47.634,
+    "end": 53.736,
+    "zh": "误差和不确定性会成倍增长，沿着湍流特征的链条逐级向上扩散。",
+    "zh_hant": "誤差和不確定性會成倍增長，沿著湍流特徵的鏈條逐級向上擴散。"
+  },
+  {
+    "index": 11,
+    "text": "from dust devils and squalls up to continent-size eddies",
+    "start": 54.117,
+    "end": 58.939,
+    "zh": "从尘卷风和飑，一直到大陆规模的气旋。",
+    "zh_hant": "從塵捲風和颮，一直到大陸規模的氣旋。"
+  },
+  {
+    "index": 12,
+    "text": "that only satellites can see.",
+    "start": 58.759,
+    "end": 60.82,
+    "zh": "这些气旋只有卫星才能看到。",
+    "zh_hant": "這些氣旋只有衛星才能看到。"
+  },
+  {
+    "index": 13,
+    "text": "The modern weather models work with a grid of points of the order of sixty miles apart,",
+    "start": 62.641,
+    "end": 68.483,
+    "zh": "现代天气模型使用大约相隔六十英里的网格点。",
+    "zh_hant": "現代天氣模型使用大約相隔六十英里的網格點。"
+  },
+  {
+    "index": 14,
+    "text": "and even so, some starting data has to be guessed,",
+    "start": 68.784,
+    "end": 73.126,
+    "zh": "即便如此，有些初始数据仍然需要猜测。",
+    "zh_hant": "即便如此，有些初始資料仍然需要猜測。"
+  },
+  {
+    "index": 15,
+    "text": "since ground stations and satellites cannot see everywhere.",
+    "start": 73.246,
+    "end": 77.408,
+    "zh": "因为地面站和卫星无法观测到每个角落。",
+    "zh_hant": "因為地面站和衛星無法觀測到每個角落。"
+  },
+  {
+    "index": 16,
+    "text": "But suppose the earth could be covered with sensors spaced one foot apart,",
+    "start": 78.269,
+    "end": 83.671,
+    "zh": "但假设地球可以被覆盖上间距为一英尺的传感器。",
+    "zh_hant": "但假設地球可以被覆蓋上間距為一英尺的感測器。"
+  },
+  {
+    "index": 17,
+    "text": "rising at one-foot intervals all the way to the top of the atmosphere.",
+    "start": 83.892,
+    "end": 88.414,
+    "zh": "它们以每英尺的间隔向上延伸到大气层顶部。",
+    "zh_hant": "它們以每英尺的間隔向上延伸到大氣層頂部。"
+  },
+  {
+    "index": 18,
+    "text": "Suppose every sensor gives perfectly accurate readings of temperature,",
+    "start": 89.234,
+    "end": 94.377,
+    "zh": "假设每个传感器都能准确读取温度。",
+    "zh_hant": "假設每個感測器都能準確讀取溫度。"
+  },
+  {
+    "index": 19,
+    "text": "pressure, humidity, and any other quantity a meteorologist would want.",
+    "start": 94.537,
+    "end": 100.14,
+    "zh": "压力、湿度以及气象学家想知道的任何其他数据。",
+    "zh_hant": "壓力、溼度以及氣象學家想知道的任何其他資料。"
+  },
+  {
+    "index": 20,
+    "text": "Precisely at noon an infinitely powerful computer takes all the data and calculates",
+    "start": 100.98,
+    "end": 107.203,
+    "zh": "恰好在正午时分，一台拥有无限计算能力的电脑获取所有数据并计算。",
+    "zh_hant": "恰好在正午時分，一臺擁有無限計算能力的電腦獲取所有資料並計算。"
+  },
+  {
+    "index": 21,
+    "text": "what will happen at each point at 12.01,",
+    "start": 106.943,
+    "end": 110.855,
+    "zh": "在12点01分每个点会发生什么。",
+    "zh_hant": "在12點01分每個點會發生什麼。"
+  },
+  {
+    "index": 22,
+    "text": "then 12.02, then 12.03...",
+    "start": 110.905,
+    "end": 116.698,
+    "zh": "然后是12点02分，再然后是12点03分……",
+    "zh_hant": "然後是12點02分，再然後是12點03分……"
+  },
+  {
+    "index": 23,
+    "text": "The computer will still be unable to predict",
+    "start": 116.748,
+    "end": 119.929,
+    "zh": "这台电脑仍然无法预测。",
+    "zh_hant": "這臺電腦仍然無法預測。"
+  },
+  {
+    "index": 24,
+    "text": "whether Princeton, New Jersey, will have sun or rain on a day one month away.",
+    "start": 119.629,
+    "end": 125.333,
+    "zh": "一个月后的今天，新泽西州普林斯顿市会出太阳还是下雨。",
+    "zh_hant": "一個月後的今天，新澤西州普林斯頓市會出太陽還是下雨。"
+  },
+  {
+    "index": 25,
+    "text": "At noon the spaces between the sensors will hide fluctuations",
+    "start": 126.634,
+    "end": 131.237,
+    "zh": "正午时分，传感器之间的空间会藏匿波动。",
+    "zh_hant": "正午時分，感測器之間的空間會藏匿波動。"
+  },
+  {
+    "index": 26,
+    "text": "that the computer will not know about,",
+    "start": 130.997,
+    "end": 133.158,
+    "zh": "这些波动是电脑无法了解的。",
+    "zh_hant": "這些波動是電腦無法瞭解的。"
+  },
+  {
+    "index": 27,
+    "text": "tiny deviations from the average.",
+    "start": 133.539,
+    "end": 135.96,
+    "zh": "与平均值相比，它们只是一些微小的偏差。",
+    "zh_hant": "與平均值相比，它們只是一些微小的偏差。"
+  },
+  {
+    "index": 28,
+    "text": "By 12.01, those fluctuations will already have created small errors",
+    "start": 136.701,
+    "end": 142.604,
+    "zh": "到12点01分，这些波动已经在一英尺之外制造了微小的误差。",
+    "zh_hant": "到12點01分，這些波動已經在一英尺之外製造了微小的誤差。"
+  },
+  {
+    "index": 29,
+    "text": "one foot away.",
+    "start": 142.304,
+    "end": 143.505,
+    "zh": "误差出现在一英尺之外的地方。",
+    "zh_hant": "誤差出現在一英尺之外的地方。"
+  },
+  {
+    "index": 30,
+    "text": "Soon the errors will have multiplied to the ten-foot scale,",
+    "start": 144.086,
+    "end": 148.488,
+    "zh": "很快，误差会成倍扩大到十英尺的尺度。",
+    "zh_hant": "很快，誤差會成倍擴大到十英尺的尺度。"
+  },
+  {
+    "index": 31,
+    "text": "and so on up to the size of the globe.",
+    "start": 148.348,
+    "end": 151.27,
+    "zh": "然后继续扩大，直到全球范围。",
+    "zh_hant": "然後繼續擴大，直到全球範圍。"
+  }
+]
