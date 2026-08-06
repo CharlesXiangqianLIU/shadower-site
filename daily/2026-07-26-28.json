@@ -2,841 +2,761 @@
   {
     "index": 0,
     "text": "Hello.",
-    "start": 8.373,
-    "end": 9.093,
-    "zh": "大家好。",
-    "zh_hant": "大家好。"
+    "start": 8.371,
+    "end": 9.091,
+    "zh": "你好。",
+    "zh_hant": "你好。"
   },
   {
     "index": 1,
     "text": "Welcome to 6 Minute English from BBC Learning English.",
-    "start": 8.933,
-    "end": 13.214,
-    "zh": "欢迎收听BBC英语教学的《六分钟英语》节目。",
-    "zh_hant": "歡迎收聽BBC英語教學的《六分鐘英語》節目。"
+    "start": 8.931,
+    "end": 13.213,
+    "zh": "欢迎收听BBC英语学习的六分钟英语。",
+    "zh_hant": "歡迎收聽BBC英語學習的六分鐘英語。"
   },
   {
     "index": 2,
     "text": "I'm Becca.",
-    "start": 12.954,
-    "end": 13.814,
-    "zh": "我是Becca。",
-    "zh_hant": "我是Becca。"
+    "start": 12.953,
+    "end": 13.813,
+    "zh": "我是贝卡。",
+    "zh_hant": "我是貝卡。"
   },
   {
     "index": 3,
     "text": "And I'm Georgie.",
-    "start": 13.735,
-    "end": 15.055,
-    "zh": "我是Georgie。",
-    "zh_hant": "我是Georgie。"
+    "start": 13.733,
+    "end": 15.034,
+    "zh": "我是乔治。",
+    "zh_hant": "我是喬治。"
   },
   {
     "index": 4,
-    "text": "Remember, you can find all this episode's vocabulary along",
-    "start": 14.775,
-    "end": 18.376,
-    "zh": "记住,你可以在我们的网站bbclearningenglish.com上",
-    "zh_hant": "記住,你可以在我們的網站bbclearningenglish.com上"
+    "text": "Remember, you can find all this episode's vocabulary along with a transcript and worksheet on our website,",
+    "start": 14.774,
+    "end": 21.077,
+    "zh": "记住，你可以在我们网站上找到本集的所有词汇，还有文字稿和练习册。",
+    "zh_hant": "記住，你可以在我們網站上找到本集的所有詞彙，還有文字稿和練習冊。"
   },
   {
     "index": 5,
-    "text": "with a transcript and worksheet on our website, bbclearningenglish.com.",
-    "start": 17.976,
-    "end": 23.018,
-    "zh": "找到本期节目的全部词汇、文字稿和练习题。",
-    "zh_hant": "找到本期節目的全部詞彙、文字稿和練習題。"
+    "text": "bbclearningenglish.com.",
+    "start": 20.737,
+    "end": 22.998,
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
   },
   {
     "index": 6,
     "text": "Now, Becca, do you read a lot?",
-    "start": 23.078,
-    "end": 25.118,
-    "zh": "那么Becca,你经常读书吗?",
-    "zh_hant": "那麼Becca,你經常讀書嗎?"
+    "start": 23.098,
+    "end": 25.119,
+    "zh": "那么，贝卡，你经常读书吗？",
+    "zh_hant": "那麼，貝卡，你經常讀書嗎？"
   },
   {
     "index": 7,
     "text": "Hmm, I don't read often.",
-    "start": 24.918,
-    "end": 27.419,
-    "zh": "嗯,我不太常读书。",
-    "zh_hant": "嗯,我不太常讀書。"
+    "start": 24.919,
+    "end": 27.52,
+    "zh": "嗯，我不常读书。",
+    "zh_hant": "嗯，我不常讀書。"
   },
   {
     "index": 8,
     "text": "I just feel like I don't have the time, Georgie.",
-    "start": 27.019,
-    "end": 29.8,
-    "zh": "我总觉得没有时间,Georgie。",
-    "zh_hant": "我總覺得沒有時間,Georgie。"
+    "start": 27.28,
+    "end": 29.801,
+    "zh": "我只是觉得没时间，乔治。",
+    "zh_hant": "我只是覺得沒時間，喬治。"
   },
   {
     "index": 9,
     "text": "How about yourself?",
-    "start": 29.48,
-    "end": 30.74,
-    "zh": "你呢?",
-    "zh_hant": "你呢?"
+    "start": 29.481,
+    "end": 30.841,
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
   },
   {
     "index": 10,
     "text": "I would love to read more, but I don't read very much at the moment.",
-    "start": 30.34,
-    "end": 35.322,
-    "zh": "我很想多读些书,但目前读得并不多。",
-    "zh_hant": "我很想多讀些書,但目前讀得並不多。"
+    "start": 31.022,
+    "end": 35.324,
+    "zh": "我很想多读书，但现在读得不多。",
+    "zh_hant": "我很想多讀書，但現在讀得不多。"
   },
   {
     "index": 11,
     "text": "I read mostly before bed because I feel like it helps me relax and go to sleep.",
-    "start": 34.962,
-    "end": 40.063,
-    "zh": "我大多在睡前读书,因为我觉得这能帮助我放松、入睡。",
-    "zh_hant": "我大多在睡前讀書,因為我覺得這能幫助我放鬆、入睡。"
+    "start": 34.974,
+    "end": 40.066,
+    "zh": "我大多在睡前读，因为我觉得这能帮我放松并入睡。",
+    "zh_hant": "我大多在睡前讀，因為我覺得這能幫我放鬆併入睡。"
   },
   {
     "index": 12,
     "text": "And today we're talking all about reading.",
-    "start": 40.824,
-    "end": 43.384,
-    "zh": "今天我们要聊聊阅读这个话题。",
-    "zh_hant": "今天我們要聊聊閱讀這個話題。"
+    "start": 40.827,
+    "end": 43.388,
+    "zh": "今天我们聊的全是读书。",
+    "zh_hant": "今天我們聊的全是讀書。"
   },
   {
     "index": 13,
     "text": "We'll be hearing from some experts about how reading can change our brains,",
-    "start": 43.064,
-    "end": 47.206,
-    "zh": "我们将听听专家谈谈阅读如何改变我们的大脑,",
-    "zh_hant": "我們將聽聽專家談談閱讀如何改變我們的大腦,"
+    "start": 43.068,
+    "end": 47.21,
+    "zh": "我们会听一些专家讲读书如何改变我们的大脑。",
+    "zh_hant": "我們會聽一些專家講讀書如何改變我們的大腦。"
   },
   {
     "index": 14,
     "text": "and as usual we'll be learning some useful new words and phrases.",
-    "start": 47.086,
-    "end": 50.927,
-    "zh": "并且像往常一样,我们会学习一些实用的新词和短语。",
-    "zh_hant": "並且像往常一樣,我們會學習一些實用的新詞和短語。"
+    "start": 47.09,
+    "end": 50.912,
+    "zh": "和往常一样，我们也会学一些有用的新单词和短语。",
+    "zh_hant": "和往常一樣，我們也會學一些有用的新單詞和短語。"
   },
   {
     "index": 15,
     "text": "Let's start with a quiz question.",
-    "start": 50.987,
-    "end": 53.208,
-    "zh": "我们先从一个小测验开始吧。",
-    "zh_hant": "我們先從一個小測驗開始吧。"
+    "start": 50.972,
+    "end": 53.213,
+    "zh": "我们先从一个测验题开始吧。",
+    "zh_hant": "我們先從一個測驗題開始吧。"
   },
   {
     "index": 16,
-    "text": "The longest novel in the world",
-    "start": 53.108,
-    "end": 55.268,
-    "zh": "世界上最长的小说",
-    "zh_hant": "世界上最長的小說"
+    "text": "The longest novel in the world is widely thought to be by French author Marcel Proust,",
+    "start": 53.093,
+    "end": 59.176,
+    "zh": "世界上最长的小说普遍认为是法国作家马塞尔·普鲁斯特写的。",
+    "zh_hant": "世界上最長的小說普遍認為是法國作家馬塞爾·普魯斯特寫的。"
   },
   {
     "index": 17,
-    "text": "is widely thought to be by French author Marcel Proust, a book",
-    "start": 54.904,
-    "end": 60.096,
-    "zh": "普遍认为是法国作家马塞尔·普鲁斯特所著,这本书",
-    "zh_hant": "普遍認為是法國作家馬塞爾·普魯斯特所著,這本書"
+    "text": "a book which, when translated into English, means Remembrance of Things Past.",
+    "start": 59.176,
+    "end": 64.899,
+    "zh": "这本书译成英文后，意思是《追忆似水年华》。",
+    "zh_hant": "這本書譯成英文後，意思是《追憶似水年華》。"
   },
   {
     "index": 18,
-    "text": "which, when translated into English, means Remembrance of Things Past.",
-    "start": 59.936,
-    "end": 64.899,
-    "zh": "翻译成英文后名为《追忆似水年华》。",
-    "zh_hant": "翻譯成英文後名為《追憶似水年華》。"
+    "text": "But how many words does the book contain?",
+    "start": 64.659,
+    "end": 67.08,
+    "zh": "但这本书有多少个字呢？",
+    "zh_hant": "但這本書有多少個字呢？"
   },
   {
     "index": 19,
-    "text": "But how many words does the book contain?",
-    "start": 64.651,
-    "end": 67.072,
-    "zh": "但这本书到底有多少个单词呢?",
-    "zh_hant": "但這本書到底有多少個單詞呢?"
+    "text": "Is it: a) 130,000, b) 1.3 million,",
+    "start": 67.2,
+    "end": 72.742,
+    "zh": "是a）13万，b）130万，",
+    "zh_hant": "是a）13萬，b）130萬，"
   },
   {
     "index": 20,
-    "text": "Is it: a) 130,000,",
-    "start": 67.192,
-    "end": 70.033,
-    "zh": "是:a) 十三万,",
-    "zh_hant": "是:a) 十三萬,"
+    "text": "or c) 13 million?",
+    "start": 72.443,
+    "end": 74.763,
+    "zh": "还是c）1300万？",
+    "zh_hant": "還是c）1300萬？"
   },
   {
     "index": 21,
-    "text": "b) 1.3 million, or c) 13 million?",
-    "start": 69.633,
-    "end": 74.754,
-    "zh": "b) 一百三十万,还是 c) 一千三百万?",
-    "zh_hant": "b) 一百三十萬,還是 c) 一千三百萬?"
+    "text": "OK.",
+    "start": 74.624,
+    "end": 75.284,
+    "zh": "好。",
+    "zh_hant": "好。"
   },
   {
     "index": 22,
-    "text": "OK.",
-    "start": 74.615,
-    "end": 75.275,
-    "zh": "好的。",
-    "zh_hant": "好的。"
-  },
-  {
-    "index": 23,
     "text": "The longest novel in the world.",
-    "start": 75.055,
-    "end": 77.595,
+    "start": 75.064,
+    "end": 77.705,
     "zh": "世界上最长的小说。",
     "zh_hant": "世界上最長的小說。"
   },
   {
+    "index": 23,
+    "text": "I still think 13 million words sounds too many, so I'm going to go with b) 1.3 million.",
+    "start": 77.355,
+    "end": 83.888,
+    "zh": "我还是觉得1300万字太多了，所以我选b）130万。",
+    "zh_hant": "我還是覺得1300萬字太多了，所以我選b）130萬。"
+  },
+  {
     "index": 24,
-    "text": "I still think 13 million words sounds too many, so I'm going to go",
-    "start": 77.195,
-    "end": 81.757,
-    "zh": "我还是觉得一千三百万个单词听起来太多了,所以我选",
-    "zh_hant": "我還是覺得一千三百萬個單詞聽起來太多了,所以我選"
+    "text": "Alright.",
+    "start": 83.728,
+    "end": 84.828,
+    "zh": "好。",
+    "zh_hant": "好。"
   },
   {
     "index": 25,
-    "text": "with b) 1.3 million.",
-    "start": 81.437,
-    "end": 83.878,
-    "zh": "b) 一百三十万。",
-    "zh_hant": "b) 一百三十萬。"
+    "text": "We'll find out at the end of the programme.",
+    "start": 84.478,
+    "end": 86.949,
+    "zh": "我们节目结尾会揭晓答案。",
+    "zh_hant": "我們節目結尾會揭曉答案。"
   },
   {
     "index": 26,
-    "text": "Alright.",
-    "start": 83.718,
-    "end": 84.818,
-    "zh": "好的。",
-    "zh_hant": "好的。"
+    "text": "Now, we might think of reading as like speaking.",
+    "start": 86.95,
+    "end": 90.312,
+    "zh": "我们可能会觉得阅读像说话一样。",
+    "zh_hant": "我們可能會覺得閱讀像說話一樣。"
   },
   {
     "index": 27,
-    "text": "We'll find out at the end of the programme.",
-    "start": 84.438,
-    "end": 86.939,
-    "zh": "我们会在节目最后揭晓答案。",
-    "zh_hant": "我們會在節目最後揭曉答案。"
+    "text": "We're born with the potential to do it and then we learn.",
+    "start": 90.392,
+    "end": 93.653,
+    "zh": "我们天生有潜力去做到，然后我们学习。",
+    "zh_hant": "我們天生有潛力去做到，然後我們學習。"
   },
   {
     "index": 28,
-    "text": "Now, we might think of reading as like speaking.",
-    "start": 86.939,
-    "end": 90.32,
-    "zh": "那么,我们可能会认为阅读就像说话一样。",
-    "zh_hant": "那麼,我們可能會認為閱讀就像說話一樣。"
+    "text": "It's natural .",
+    "start": 93.573,
+    "end": 94.65,
+    "zh": "这是自然的。",
+    "zh_hant": "這是自然的。"
   },
   {
     "index": 29,
-    "text": "We're born with the potential to do it and then we learn.",
-    "start": 90.4,
-    "end": 93.661,
-    "zh": "我们生来就具备这种潜能,然后再去学习。",
-    "zh_hant": "我們生來就具備這種潛能,然後再去學習。"
+    "text": "If something is natural , it's something you were born with or that comes from nature.",
+    "start": 94.494,
+    "end": 99.496,
+    "zh": "如果某样东西是自然的，意思是它是你天生就有的，或来自自然的。",
+    "zh_hant": "如果某樣東西是自然的，意思是它是你天生就有的，或來自自然的。"
   },
   {
     "index": 30,
-    "text": "It's natural .",
-    "start": 93.581,
-    "end": 94.881,
-    "zh": "这是天生的(natural)。",
-    "zh_hant": "這是天生的(natural)。"
+    "text": "But Maryanne Wolf, author of the book Reader Come Home, says that this isn't true.",
+    "start": 99.396,
+    "end": 105.219,
+    "zh": "但《回家吧，读者》的作者玛丽安娜·沃尔夫说这不是真的。",
+    "zh_hant": "但《回家吧，讀者》的作者瑪麗安娜·沃爾夫說這不是真的。"
   },
   {
     "index": 31,
-    "text": "If something is natural , it's something you were born with or that comes from nature.",
-    "start": 94.481,
-    "end": 99.523,
-    "zh": "如果某样东西是natural(天生的),意思是你与生俱来的,或者源自天性的。",
-    "zh_hant": "如果某樣東西是natural(天生的),意思是你與生俱來的,或者源自天性的。"
+    "text": "We think of language as natural , and reading is written language so it must be natural .",
+    "start": 105.759,
+    "end": 112.93,
+    "zh": "我们认为语言是自然的，阅读是书面语言，所以它肯定是自然的。",
+    "zh_hant": "我們認為語言是自然的，閱讀是書面語言，所以它肯定是自然的。"
   },
   {
     "index": 32,
-    "text": "But Maryanne Wolf, author of the book Reader Come Home, says that this isn't true.",
-    "start": 99.403,
-    "end": 105.225,
-    "zh": "但《Reader Come Home》一书的作者Maryanne Wolf说,事实并非如此。",
-    "zh_hant": "但《Reader Come Home》一書的作者Maryanne Wolf說,事實並非如此。"
+    "text": "But it isn't.",
+    "start": 112.803,
+    "end": 113.983,
+    "zh": "但其实不是。",
+    "zh_hant": "但其實不是。"
   },
   {
     "index": 33,
-    "text": "We think of language as natural ,",
-    "start": 105.765,
-    "end": 108.886,
-    "zh": "我们认为语言是天生的,",
-    "zh_hant": "我們認為語言是天生的,"
+    "text": "It isn't natural at all.",
+    "start": 114.203,
+    "end": 116.464,
+    "zh": "它完全不自然。",
+    "zh_hant": "它完全不自然。"
   },
   {
     "index": 34,
-    "text": "and reading is written language so it must be natural .",
-    "start": 108.486,
-    "end": 113.207,
-    "zh": "而阅读是书面语言,所以它也应该是天生的。",
-    "zh_hant": "而閱讀是書面語言,所以它也應該是天生的。"
+    "text": "Scientific studies suggest that when we're born,",
+    "start": 116.585,
+    "end": 119.986,
+    "zh": "科学研究表明，当我们出生时，",
+    "zh_hant": "科學研究表明，當我們出生時，"
   },
   {
     "index": 35,
-    "text": "But it isn't.",
-    "start": 112.807,
-    "end": 113.988,
-    "zh": "但事实并非如此。",
-    "zh_hant": "但事實並非如此。"
+    "text": "our brains already have the networks that allow our eyes to see and our vocal cords to produce sounds,",
+    "start": 119.726,
+    "end": 126.269,
+    "zh": "我们的大脑已经有让眼睛看东西和声带发声的网络。",
+    "zh_hant": "我們的大腦已經有讓眼睛看東西和聲帶發聲的網路。"
   },
   {
     "index": 36,
-    "text": "It isn't natural at all.",
-    "start": 114.188,
-    "end": 116.448,
-    "zh": "它完全不是天生的。",
-    "zh_hant": "它完全不是天生的。"
+    "text": "but not with the pathways we need to read.",
+    "start": 126.209,
+    "end": 129.071,
+    "zh": "但还没有阅读所需的通路。",
+    "zh_hant": "但還沒有閱讀所需的通路。"
   },
   {
     "index": 37,
-    "text": "Scientific studies suggest that when we're born,",
-    "start": 116.589,
-    "end": 119.99,
-    "zh": "科学研究表明,我们出生时,",
-    "zh_hant": "科學研究表明,我們出生時,"
+    "text": "Let's hear more from psychologist and neuroscientist Rebecca Gotlieb, speaking to the BBC World Service.",
+    "start": 129.091,
+    "end": 135.374,
+    "zh": "我们来听听心理学家和神经科学家丽贝卡·戈特利布对BBC全球服务的讲话。",
+    "zh_hant": "我們來聽聽心理學家和神經科學家麗貝卡·戈特利布對BBC全球服務的講話。"
   },
   {
     "index": 38,
-    "text": "our brains already have the networks that allow our eyes to see",
-    "start": 119.71,
-    "end": 123.891,
-    "zh": "大脑中已经具备让眼睛能够看东西",
-    "zh_hant": "大腦中已經具備讓眼睛能夠看東西"
+    "text": "From an evolutionary timescale, our brain hasn't had enough time to develop a dedicated reading brain.",
+    "start": 135.394,
+    "end": 142.398,
+    "zh": "从进化的时间尺度来看，我们的大脑没有足够时间发展出专用的阅读脑。",
+    "zh_hant": "從進化的時間尺度來看，我們的大腦沒有足夠時間發展出專用的閱讀腦。"
   },
   {
     "index": 39,
-    "text": "and our vocal cords to produce sounds,",
-    "start": 123.611,
-    "end": 126.252,
-    "zh": "和声带能够发出声音的神经网络,",
-    "zh_hant": "和聲帶能夠發出聲音的神經網路,"
+    "text": "And so, to build a reading brain network,",
+    "start": 142.048,
+    "end": 144.859,
+    "zh": "因此，为了建立阅读脑网络，",
+    "zh_hant": "因此，為了建立閱讀腦網路，"
   },
   {
     "index": 40,
-    "text": "but not with the pathways we need to read.",
-    "start": 126.212,
-    "end": 129.073,
-    "zh": "但并没有我们阅读所需要的神经通路。",
-    "zh_hant": "但並沒有我們閱讀所需要的神經通路。"
+    "text": "we co-opt parts of the brain involved in vision and auditory processing,",
+    "start": 144.739,
+    "end": 150.242,
+    "zh": "我们借用大脑中涉及视觉和听觉处理的部分，",
+    "zh_hant": "我們借用大腦中涉及視覺和聽覺處理的部分，"
   },
   {
     "index": 41,
-    "text": "Let's hear more from psychologist and neuroscientist Rebecca Gotlieb, speaking to the BBC World Service.",
-    "start": 129.093,
-    "end": 135.375,
-    "zh": "我们来听听心理学家兼神经科学家Rebecca Gotlieb在BBC世界频道的访谈。",
-    "zh_hant": "我們來聽聽心理學家兼神經科學家Rebecca Gotlieb在BBC世界頻道的訪談。"
+    "text": "and language, and attention and affect.",
+    "start": 149.922,
+    "end": 153.703,
+    "zh": "还有语言、注意力和情感的部分。",
+    "zh_hant": "還有語言、注意力和情感的部分。"
   },
   {
     "index": 42,
-    "text": "From an evolutionary timescale, our brain hasn't had enough time",
-    "start": 135.395,
-    "end": 139.156,
-    "zh": "从进化的时间尺度来看,我们的大脑还没有足够的时间",
-    "zh_hant": "從進化的時間尺度來看,我們的大腦還沒有足夠的時間"
+    "text": "Reading is really a whole brain process.",
+    "start": 153.844,
+    "end": 156.565,
+    "zh": "阅读真的是一个全脑过程。",
+    "zh_hant": "閱讀真的是一個全腦過程。"
   },
   {
     "index": 43,
-    "text": "to develop a dedicated reading brain.",
-    "start": 138.756,
-    "end": 142.397,
-    "zh": "发展出专门用于阅读的脑区。",
-    "zh_hant": "發展出專門用於閱讀的腦區。"
+    "text": "It involves activation in all four lobes of the cortex.",
+    "start": 156.725,
+    "end": 162.147,
+    "zh": "它涉及大脑皮层所有四个叶的激活。",
+    "zh_hant": "它涉及大腦皮層所有四個葉的啟用。"
   },
   {
     "index": 44,
-    "text": "And so, to build a reading brain network,",
-    "start": 142.017,
-    "end": 144.858,
-    "zh": "因此,为了构建一个阅读脑网络,",
-    "zh_hant": "因此,為了構建一個閱讀腦網路,"
+    "text": "The process of developing a reading brain alters everything,",
+    "start": 162.108,
+    "end": 166.57,
+    "zh": "发展阅读脑的过程改变了一切。",
+    "zh_hant": "發展閱讀腦的過程改變了一切。"
   },
   {
     "index": 45,
-    "text": "we co-opt parts of the brain involved in vision and auditory processing,",
-    "start": 144.738,
-    "end": 150.24,
-    "zh": "我们会调用大脑中原本负责视觉、听觉处理、",
-    "zh_hant": "我們會呼叫大腦中原本負責視覺、聽覺處理、"
+    "text": "from brain activity to brain structure and brain connectivity.",
+    "start": 166.22,
+    "end": 172.853,
+    "zh": "从大脑活动到大脑结构和大脑连接。",
+    "zh_hant": "從大腦活動到大腦結構和大腦連線。"
   },
   {
     "index": 46,
-    "text": "and language, and attention and affect.",
-    "start": 149.94,
-    "end": 153.721,
-    "zh": "语言、注意力和情感的部分。",
-    "zh_hant": "語言、注意力和情感的部分。"
+    "text": "The power of deep reading is really fundamental to our humanity.",
+    "start": 172.954,
+    "end": 177.596,
+    "zh": "深度阅读的力量对我们的人性至关重要。",
+    "zh_hant": "深度閱讀的力量對我們的人性至關重要。"
   },
   {
     "index": 47,
-    "text": "Reading is really a whole brain process.",
-    "start": 153.861,
-    "end": 156.562,
-    "zh": "阅读其实是一个全脑参与的过程。",
-    "zh_hant": "閱讀其實是一個全腦參與的過程。"
+    "text": "When we read deeply, we change our brains and we change who we are.",
+    "start": 177.416,
+    "end": 182.318,
+    "zh": "当我们深度阅读时，我们改变大脑，也改变我们自己。",
+    "zh_hant": "當我們深度閱讀時，我們改變大腦，也改變我們自己。"
   },
   {
     "index": 48,
-    "text": "It involves activation in all four lobes of the cortex.",
-    "start": 156.722,
-    "end": 162.144,
-    "zh": "它涉及大脑皮层四个脑叶的激活。",
-    "zh_hant": "它涉及大腦皮層四個腦葉的啟用。"
+    "text": "Rebecca says that our brains haven't evolved to include a dedicated reading brain.",
+    "start": 182.178,
+    "end": 187.56,
+    "zh": "丽贝卡说我们的大脑没有进化出专用的阅读脑。",
+    "zh_hant": "麗貝卡說我們的大腦沒有進化出專用的閱讀腦。"
   },
   {
     "index": 49,
-    "text": "The process of developing a reading brain alters everything,",
-    "start": 162.104,
-    "end": 166.525,
-    "zh": "发展阅读脑的过程会改变一切,",
-    "zh_hant": "發展閱讀腦的過程會改變一切,"
+    "text": "here means designed and used for one particular purpose.",
+    "start": 188.121,
+    "end": 191.863,
+    "zh": "这里的“专用”意思是设计并用于某一特定目的。",
+    "zh_hant": "這裡的“專用”意思是設計並用於某一特定目的。"
   },
   {
     "index": 50,
-    "text": "from brain activity to brain structure",
-    "start": 166.125,
-    "end": 171.267,
-    "zh": "从大脑活动到大脑结构,",
-    "zh_hant": "從大腦活動到大腦結構,"
+    "text": "So, because we don't have a part of the brain designed specifically for reading,",
+    "start": 191.783,
+    "end": 196.065,
+    "zh": "所以，因为我们没有专门用于阅读的大脑部分。",
+    "zh_hant": "所以，因為我們沒有專門用於閱讀的大腦部分。"
   },
   {
     "index": 51,
-    "text": "and brain connectivity.",
-    "start": 171.207,
-    "end": 172.847,
-    "zh": "再到大脑连接方式。",
-    "zh_hant": "再到大腦連線方式。"
+    "text": "when we learn to read, we co-opt other parts of the brain.",
+    "start": 195.885,
+    "end": 199.226,
+    "zh": "当我们学习阅读时，我们借用大脑的其他部分。",
+    "zh_hant": "當我們學習閱讀時，我們借用大腦的其他部分。"
   },
   {
     "index": 52,
-    "text": "The power of deep reading is really fundamental to our humanity.",
-    "start": 172.947,
-    "end": 177.589,
-    "zh": "深度阅读的力量对我们的人性来说至关重要。",
-    "zh_hant": "深度閱讀的力量對我們的人性來說至關重要。"
+    "text": "Co-opt here means to include someone or something, often against their will.",
+    "start": 199.126,
+    "end": 203.868,
+    "zh": "这里“借用”的意思是包括某人或某物，常常违背其意愿。",
+    "zh_hant": "這裡“借用”的意思是包括某人或某物，常常違背其意願。"
   },
   {
     "index": 53,
-    "text": "When we read deeply, we change our brains and we change who we are.",
-    "start": 177.429,
-    "end": 182.31,
-    "zh": "当我们深入阅读时,我们改变了自己的大脑,也改变了我们自己。",
-    "zh_hant": "當我們深入閱讀時,我們改變了自己的大腦,也改變了我們自己。"
+    "text": "Right.",
+    "start": 203.849,
+    "end": 204.689,
+    "zh": "对。",
+    "zh_hant": "對。"
   },
   {
     "index": 54,
-    "text": "Rebecca says that our brains haven't evolved to include a dedicated reading brain.",
-    "start": 182.171,
-    "end": 187.572,
-    "zh": "Rebecca说,我们的大脑并没有进化出专门用于阅读的脑区。",
-    "zh_hant": "Rebecca說,我們的大腦並沒有進化出專門用於閱讀的腦區。"
+    "text": "Learning to read means using lots of different parts of the brain that are designed for other things,",
+    "start": 204.549,
+    "end": 210.212,
+    "zh": "学习阅读意味着要用许多用于其他用途的大脑区域。",
+    "zh_hant": "學習閱讀意味著要用許多用於其他用途的大腦區域。"
   },
   {
     "index": 55,
-    "text": "here means designed and used for one particular purpose.",
-    "start": 188.133,
-    "end": 191.874,
-    "zh": "这里的dedicated(专用的)指的是专为某一特定目的设计和使用的。",
-    "zh_hant": "這裡的dedicated(專用的)指的是專為某一特定目的設計和使用的。"
+    "text": "and this changes our brain structure compared to someone who hasn't learned to read.",
+    "start": 209.912,
+    "end": 214.834,
+    "zh": "这比没学过阅读的人在大脑结构上有所改变。",
+    "zh_hant": "這比沒學過閱讀的人在大腦結構上有所改變。"
   },
   {
     "index": 56,
-    "text": "So, because we don't have a part of the brain designed specifically for reading,",
-    "start": 191.794,
-    "end": 196.075,
-    "zh": "所以,由于我们没有专门为阅读设计的脑区,",
-    "zh_hant": "所以,由於我們沒有專門為閱讀設計的腦區,"
+    "text": "And the language we read also shapes our brain.",
+    "start": 214.834,
+    "end": 217.916,
+    "zh": "而且我们阅读的语言也塑造我们的大脑。",
+    "zh_hant": "而且我們閱讀的語言也塑造我們的大腦。"
   },
   {
     "index": 57,
-    "text": "when we learn to read, we co-opt other parts of the brain.",
-    "start": 195.875,
-    "end": 199.236,
-    "zh": "当我们学习阅读时,我们会调用大脑的其他部分。",
-    "zh_hant": "當我們學習閱讀時,我們會呼叫大腦的其他部分。"
+    "text": "Chinese characters, for example, use symbols instead of letters of the alphabet to represent words and ideas.",
+    "start": 217.736,
+    "end": 224.819,
+    "zh": "例如，汉字用符号而不是字母来表示词和想法。",
+    "zh_hant": "例如，漢字用符號而不是字母來表示詞和想法。"
   },
   {
     "index": 58,
-    "text": "Co-opt here means to include someone or something, often against their will.",
-    "start": 199.116,
-    "end": 203.858,
-    "zh": "这里的co-opt(借用/征用)指的是纳入某人或某物,常常是不由其自愿的。",
-    "zh_hant": "這裡的co-opt(借用/徵用)指的是納入某人或某物,常常是不由其自願的。"
+    "text": "Research suggests that learning to read these symbols activates different areas of the brain to reading an alphabet-based system.",
+    "start": 224.939,
+    "end": 232.263,
+    "zh": "研究表明，学习阅读这些符号会激活与基于字母系统阅读不同的大脑区域。",
+    "zh_hant": "研究表明，學習閱讀這些符號會啟用與基於字母系統閱讀不同的大腦區域。"
   },
   {
     "index": 59,
-    "text": "Right.",
-    "start": 203.838,
-    "end": 204.678,
-    "zh": "没错。",
-    "zh_hant": "沒錯。"
+    "text": "Scientists studied a bilingual man who could read and speak Chinese and English.",
+    "start": 232.323,
+    "end": 237.966,
+    "zh": "科学家研究了一个能读说中文和英语的双语男子。",
+    "zh_hant": "科學家研究了一個能讀說中文和英語的雙語男子。"
   },
   {
     "index": 60,
-    "text": "Learning to read means using lots of different parts of the brain that are designed for other things,",
-    "start": 204.538,
-    "end": 210.24,
-    "zh": "学习阅读意味着使用大脑中许多原本为其他功能设计的部分,",
-    "zh_hant": "學習閱讀意味著使用大腦中許多原本為其他功能設計的部分,"
+    "text": "The man suffered a stroke, which affected parts of his brain, including his ability to read Chinese.",
+    "start": 238.006,
+    "end": 244.449,
+    "zh": "这名男子中风，影响了他的部分大脑，包括读中文的能力。",
+    "zh_hant": "這名男子中風，影響了他的部分大腦，包括讀中文的能力。"
   },
   {
     "index": 61,
-    "text": "and this changes our brain structure compared to someone who hasn't learned to read.",
-    "start": 209.92,
-    "end": 214.841,
-    "zh": "这也使我们的大脑结构与没有学过阅读的人有所不同。",
-    "zh_hant": "這也使我們的大腦結構與沒有學過閱讀的人有所不同。"
+    "text": "But amazingly, he was still able to read English.",
+    "start": 244.389,
+    "end": 248.251,
+    "zh": "但令人惊讶的是，他仍然能读英语。",
+    "zh_hant": "但令人驚訝的是，他仍然能讀英語。"
   },
   {
     "index": 62,
-    "text": "And the language we read also shapes our brain.",
-    "start": 214.842,
-    "end": 217.902,
-    "zh": "而我们阅读的语言也会塑造我们的大脑。",
-    "zh_hant": "而我們閱讀的語言也會塑造我們的大腦。"
+    "text": "Maryanne Wolf explains more to the BBC World Service.",
+    "start": 248.231,
+    "end": 252.273,
+    "zh": "玛丽安娜·沃尔夫向BBC全球服务解释更多。",
+    "zh_hant": "瑪麗安娜·沃爾夫向BBC全球服務解釋更多。"
   },
   {
     "index": 63,
-    "text": "Chinese characters, for example, use symbols instead of letters",
-    "start": 217.722,
-    "end": 221.964,
-    "zh": "例如,汉字",
-    "zh_hant": "例如,漢字"
+    "text": "It's a beautiful example",
+    "start": 252.633,
+    "end": 254.494,
+    "zh": "这是一个很好的例子。",
+    "zh_hant": "這是一個很好的例子。"
   },
   {
     "index": 64,
-    "text": "of the alphabet to represent words and ideas.",
-    "start": 221.564,
-    "end": 224.825,
-    "zh": "使用符号而非字母来表示词语和概念。",
-    "zh_hant": "使用符號而非字母來表示詞語和概念。"
+    "text": "of how the brain's circuit reflects the requirements of Chinese,",
+    "start": 254.144,
+    "end": 261.718,
+    "zh": "说明大脑回路如何反映中文的要求。",
+    "zh_hant": "說明大腦回路如何反映中文的要求。"
   },
   {
     "index": 65,
-    "text": "Research suggests that learning to read these symbols activates",
-    "start": 224.925,
-    "end": 228.886,
-    "zh": "研究表明,学习这些符号会激活大脑中",
-    "zh_hant": "研究表明,學習這些符號會啟用大腦中"
+    "text": "which inevitably means more visual memory and visual processing",
+    "start": 261.538,
+    "end": 268.301,
+    "zh": "这必然意味着更多的视觉记忆和视觉处理。",
+    "zh_hant": "這必然意味著更多的視覺記憶和視覺處理。"
   },
   {
     "index": 66,
-    "text": "different areas of the brain to reading an alphabet-based system.",
-    "start": 228.486,
-    "end": 232.247,
-    "zh": "与阅读拼音文字系统不同的区域。",
-    "zh_hant": "與閱讀拼音文字系統不同的區域。"
+    "text": "of those beautifully intricate symbols or characters.",
+    "start": 267.951,
+    "end": 272.663,
+    "zh": "针对那些精美复杂的符号或汉字。",
+    "zh_hant": "針對那些精美複雜的符號或漢字。"
   },
   {
     "index": 67,
-    "text": "Scientists studied a bilingual man who could read and speak Chinese and English.",
-    "start": 232.307,
-    "end": 237.949,
-    "zh": "科学家们研究了一位既会读写中文也会读写英文的双语人士。",
-    "zh_hant": "科學家們研究了一位既會讀寫中文也會讀寫英文的雙語人士。"
+    "text": "Maryanne says that the brain's circuit is shaped by learning to read Chinese.",
+    "start": 272.763,
+    "end": 277.505,
+    "zh": "玛丽安娜说大脑回路是通过学习读中文来塑造的。",
+    "zh_hant": "瑪麗安娜說大腦回路是透過學習讀中文來塑造的。"
   },
   {
     "index": 68,
-    "text": "The man suffered a stroke, which affected parts of his brain, including his ability to read Chinese.",
-    "start": 237.989,
-    "end": 244.451,
-    "zh": "这名男子中风了,影响了他大脑的部分区域,包括他阅读中文的能力。",
-    "zh_hant": "這名男子中風了,影響了他大腦的部分割槽域,包括他閱讀中文的能力。"
+    "text": "A circuit is a system of connections.",
+    "start": 277.266,
+    "end": 279.827,
+    "zh": "回路是一套连接系统。",
+    "zh_hant": "迴路是一套連線系統。"
   },
   {
     "index": 69,
-    "text": "But amazingly, he was still able to read English.",
-    "start": 244.371,
-    "end": 248.252,
-    "zh": "但令人惊讶的是,他仍然能够阅读英文。",
-    "zh_hant": "但令人驚訝的是,他仍然能夠閱讀英文。"
+    "text": "The visual qualities of Chinese symbols inevitably mean more visual areas of the brain are developed.",
+    "start": 279.627,
+    "end": 286.49,
+    "zh": "中文符号的视觉特性必然意味着大脑更多视觉区域得到发展。",
+    "zh_hant": "中文符號的視覺特性必然意味著大腦更多視覺區域得到發展。"
   },
   {
     "index": 70,
-    "text": "Maryanne Wolf explains more to the BBC World Service.",
-    "start": 248.233,
-    "end": 252.274,
-    "zh": "Maryanne Wolf在BBC世界频道进一步解释道。",
-    "zh_hant": "Maryanne Wolf在BBC世界頻道進一步解釋道。"
+    "text": "means in a way that cannot be stopped or avoided.",
+    "start": 287.37,
+    "end": 290.872,
+    "zh": "“必然”意思是无法停止或避免的方式。",
+    "zh_hant": "“必然”意思是無法停止或避免的方式。"
   },
   {
     "index": 71,
-    "text": "It's a beautiful example",
-    "start": 252.654,
-    "end": 254.495,
-    "zh": "这是一个很好的例子,",
-    "zh_hant": "這是一個很好的例子,"
+    "text": "Maryanne describes the symbolic Chinese characters as beautifully intricate .",
+    "start": 290.812,
+    "end": 295.71,
+    "zh": "玛丽安娜形容中文符号是“精美复杂”的。",
+    "zh_hant": "瑪麗安娜形容中文符號是“精美複雜”的。"
   },
   {
     "index": 72,
-    "text": "of how the brain's circuit reflects the requirements",
-    "start": 254.095,
-    "end": 260.276,
-    "zh": "说明大脑的神经回路是如何反映",
-    "zh_hant": "說明大腦的神經迴路是如何反映"
+    "text": "If something is intricate , it has lots of detail.",
+    "start": 295.674,
+    "end": 298.776,
+    "zh": "如果某物是复杂的，它有很多细节。",
+    "zh_hant": "如果某物是複雜的，它有很多細節。"
   },
   {
     "index": 73,
-    "text": "of Chinese,",
-    "start": 260.297,
-    "end": 261.717,
-    "zh": "中文的",
-    "zh_hant": "中文的"
+    "text": "And something which also has lots of detail, or certainly lots of words – I asked you,",
+    "start": 298.676,
+    "end": 304.859,
+    "zh": "有些东西也有很多细节，或者当然有很多字——我问你，",
+    "zh_hant": "有些東西也有很多細節，或者當然有很多字——我問你，"
   },
   {
     "index": 74,
-    "text": "which inevitably means more visual memory",
-    "start": 261.557,
-    "end": 266.098,
-    "zh": "这必然意味着需要更多的视觉记忆",
-    "zh_hant": "這必然意味著需要更多的視覺記憶"
+    "text": "Georgie, how many words are in Marcel Proust's Remembrance of Things Past.",
+    "start": 304.509,
+    "end": 310.121,
+    "zh": "乔治，马塞尔·普鲁斯特《追忆似水年华》有多少字？",
+    "zh_hant": "喬治，馬塞爾·普魯斯特《追憶似水年華》有多少字？"
   },
   {
     "index": 75,
-    "text": "and visual processing of those beautifully intricate symbols or characters.",
-    "start": 266.219,
-    "end": 272.64,
-    "zh": "以及对那些精美繁复的符号或汉字进行视觉处理。",
-    "zh_hant": "以及對那些精美繁複的符號或漢字進行視覺處理。"
+    "text": "I said 1.3 million.",
+    "start": 310.021,
+    "end": 312.322,
+    "zh": "我说是130万。",
+    "zh_hant": "我說是130萬。"
   },
   {
     "index": 76,
-    "text": "Maryanne says that the brain's circuit is shaped by learning to read Chinese.",
-    "start": 272.761,
-    "end": 277.382,
-    "zh": "Maryanne说,大脑的神经回路是由学习阅读中文塑造而成的。",
-    "zh_hant": "Maryanne說,大腦的神經迴路是由學習閱讀中文塑造而成的。"
+    "text": "And you were correct!",
+    "start": 312.262,
+    "end": 314.283,
+    "zh": "你答对了！",
+    "zh_hant": "你答對了！"
   },
   {
     "index": 77,
-    "text": "A circuit is a system of connections.",
-    "start": 276.982,
-    "end": 279.823,
-    "zh": "circuit(回路)指的是一种连接系统。",
-    "zh_hant": "circuit(迴路)指的是一種連線系統。"
+    "text": "Yay!",
+    "start": 313.933,
+    "end": 314.703,
+    "zh": "耶！",
+    "zh_hant": "耶！"
   },
   {
     "index": 78,
-    "text": "The visual qualities of Chinese symbols inevitably mean",
-    "start": 279.623,
-    "end": 283.604,
-    "zh": "汉字的视觉特性必然意味着",
-    "zh_hant": "漢字的視覺特性必然意味著"
+    "text": "The book also contains lots of very long sentences,",
+    "start": 314.464,
+    "end": 318.425,
+    "zh": "这本书还有超长的句子。",
+    "zh_hant": "這本書還有超長的句子。"
   },
   {
     "index": 79,
-    "text": "more visual areas of the brain are developed.",
-    "start": 283.324,
-    "end": 286.465,
-    "zh": "大脑中更多的视觉区域会得到发展。",
-    "zh_hant": "大腦中更多的視覺區域會得到發展。"
+    "text": "including one with over 900 words.",
+    "start": 318.075,
+    "end": 321.507,
+    "zh": "包括一个有900多字的句子。",
+    "zh_hant": "包括一個有900多字的句子。"
   },
   {
     "index": 80,
-    "text": "means in a way that cannot be stopped or avoided.",
-    "start": 287.385,
-    "end": 290.886,
-    "zh": "inevitably的意思是以一种无法阻止或避免的方式。",
-    "zh_hant": "inevitably的意思是以一種無法阻止或避免的方式。"
+    "text": "One sentence with 900 words?",
+    "start": 321.227,
+    "end": 323.468,
+    "zh": "一个900字的句子？",
+    "zh_hant": "一個900字的句子？"
   },
   {
     "index": 81,
-    "text": "Maryanne describes the symbolic Chinese characters as beautifully intricate .",
-    "start": 290.827,
-    "end": 296.068,
-    "zh": "Maryanne将象形的汉字描述为beautifully intricate(精美繁复)。",
-    "zh_hant": "Maryanne將象形的漢字描述為beautifully intricate(精美繁複)。"
-  },
-  {
-    "index": 82,
-    "text": "If something is intricate , it has lots of detail.",
-    "start": 295.668,
-    "end": 298.789,
-    "zh": "如果某样东西是intricate(繁复的),说明它包含许多细节。",
-    "zh_hant": "如果某樣東西是intricate(繁複的),說明它包含許多細節。"
-  },
-  {
-    "index": 83,
-    "text": "And something which also has lots of detail, or certainly lots of words – I asked you,",
-    "start": 298.689,
-    "end": 304.811,
-    "zh": "还有一样东西也包含很多细节,或者说包含很多字——我之前问过你,",
-    "zh_hant": "還有一樣東西也包含很多細節,或者說包含很多字——我之前問過你,"
-  },
-  {
-    "index": 84,
-    "text": "Georgie, how many words are in Marcel Proust's Remembrance of Things Past.",
-    "start": 304.411,
-    "end": 310.013,
-    "zh": "Georgie,马塞尔·普鲁斯特的《追忆似水年华》一共有多少个单词。",
-    "zh_hant": "Georgie,馬塞爾·普魯斯特的《追憶似水年華》一共有多少個單詞。"
-  },
-  {
-    "index": 85,
-    "text": "I said 1.3 million.",
-    "start": 309.613,
-    "end": 312.334,
-    "zh": "我说是一百三十万。",
-    "zh_hant": "我說是一百三十萬。"
-  },
-  {
-    "index": 86,
-    "text": "And you were correct!",
-    "start": 312.254,
-    "end": 314.294,
-    "zh": "你答对了!",
-    "zh_hant": "你答對了!"
-  },
-  {
-    "index": 87,
-    "text": "Yay!",
-    "start": 313.894,
-    "end": 314.694,
-    "zh": "太棒了!",
-    "zh_hant": "太棒了!"
-  },
-  {
-    "index": 88,
-    "text": "The book also contains lots of very long sentences,",
-    "start": 314.474,
-    "end": 318.416,
-    "zh": "这本书里还有很多很长的句子,",
-    "zh_hant": "這本書裡還有很多很長的句子,"
-  },
-  {
-    "index": 89,
-    "text": "including one with over 900 words.",
-    "start": 318.036,
-    "end": 321.517,
-    "zh": "其中有一句甚至超过900个单词。",
-    "zh_hant": "其中有一句甚至超過900個單詞。"
-  },
-  {
-    "index": 90,
-    "text": "One sentence with 900 words?",
-    "start": 321.237,
-    "end": 323.477,
-    "zh": "一句话就有900个单词?",
-    "zh_hant": "一句話就有900個單詞?"
-  },
-  {
-    "index": 91,
     "text": "That is a lot.",
-    "start": 323.077,
-    "end": 324.457,
+    "start": 323.118,
+    "end": 324.468,
     "zh": "那可真多。",
     "zh_hant": "那可真多。"
   },
   {
-    "index": 92,
+    "index": 82,
     "text": "OK.",
-    "start": 324.577,
-    "end": 325.197,
+    "start": 324.609,
+    "end": 325.209,
     "zh": "好的。",
     "zh_hant": "好的。"
   },
   {
-    "index": 93,
+    "index": 83,
     "text": "It's time to recap the language we learned during this programme,",
-    "start": 324.877,
-    "end": 328.518,
-    "zh": "现在是时候回顾一下我们这期节目学到的词汇了,",
-    "zh_hant": "現在是時候回顧一下我們這期節目學到的詞彙了,"
+    "start": 324.909,
+    "end": 328.531,
+    "zh": "是时候回顾本期节目中学到的语言了。",
+    "zh_hant": "是時候回顧本期節目中學到的語言了。"
+  },
+  {
+    "index": 84,
+    "text": "starting with natural , which describes something you were born with or that comes from nature.",
+    "start": 328.191,
+    "end": 334.134,
+    "zh": "从“自然”开始，它描述天生就有的或来自自然的东西。",
+    "zh_hant": "從“自然”開始，它描述天生就有的或來自自然的東西。"
+  },
+  {
+    "index": 85,
+    "text": "can describe something that is designed and used for one particular purpose.",
+    "start": 333.794,
+    "end": 338.856,
+    "zh": "“专用”可以描述为设计并用于特定目的。",
+    "zh_hant": "“專用”可以描述為設計並用於特定目的。"
+  },
+  {
+    "index": 86,
+    "text": "If you co-opt someone or something, you involve them, sometimes against their will.",
+    "start": 338.696,
+    "end": 343.559,
+    "zh": "如果你“借用”某人或某物，你让他们参与，有时违背其意愿。",
+    "zh_hant": "如果你“借用”某人或某物，你讓他們參與，有時違背其意願。"
+  },
+  {
+    "index": 87,
+    "text": "A circuit is a system of connections – for example, in the brain.",
+    "start": 343.539,
+    "end": 348.561,
+    "zh": "“回路”是一套连接系统——例如，大脑中的。",
+    "zh_hant": "“迴路”是一套連線系統——例如，大腦中的。"
+  },
+  {
+    "index": 88,
+    "text": "means in a way that cannot be stopped or avoided.",
+    "start": 348.701,
+    "end": 351.783,
+    "zh": "“必然”意思是无法停止或避免的方式。",
+    "zh_hant": "“必然”意思是無法停止或避免的方式。"
+  },
+  {
+    "index": 89,
+    "text": "And intricate describes something which has lots of detail.",
+    "start": 351.663,
+    "end": 355.545,
+    "zh": "“复杂”描述有很多细节的东西。",
+    "zh_hant": "“複雜”描述有很多細節的東西。"
+  },
+  {
+    "index": 90,
+    "text": "That's it for this episode of 6 Minute English.",
+    "start": 355.485,
+    "end": 358.406,
+    "zh": "这就是本期六分钟英语的全部内容。",
+    "zh_hant": "這就是本期六分鐘英語的全部內容。"
+  },
+  {
+    "index": 91,
+    "text": "Test what you've learnt with the worksheet on our website, bbclearningenglish.com.",
+    "start": 358.266,
+    "end": 363.009,
+    "zh": "用我们网站bbclearningenglish.com上的练习册测试你学到的内容。",
+    "zh_hant": "用我們網站bbclearningenglish.com上的練習冊測試你學到的內容。"
+  },
+  {
+    "index": 92,
+    "text": "Thanks for joining us.",
+    "start": 362.729,
+    "end": 364.269,
+    "zh": "感谢你的收听。",
+    "zh_hant": "感謝你的收聽。"
+  },
+  {
+    "index": 93,
+    "text": "Goodbye!",
+    "start": 363.919,
+    "end": 364.79,
+    "zh": "再见！",
+    "zh_hant": "再見！"
   },
   {
     "index": 94,
-    "text": "starting with natural , which describes something you were born with or that comes from nature.",
-    "start": 328.198,
-    "end": 333.4,
-    "zh": "首先是natural(天生的),用来形容你与生俱来或源自天性的东西。",
-    "zh_hant": "首先是natural(天生的),用來形容你與生俱來或源自天性的東西。"
-  },
-  {
-    "index": 95,
-    "text": "can describe something that is designed and used for one particular purpose.",
-    "start": 333.8,
-    "end": 338.861,
-    "zh": "dedicated可以形容专为某一特定目的设计和使用的事物。",
-    "zh_hant": "dedicated可以形容專為某一特定目的設計和使用的事物。"
-  },
-  {
-    "index": 96,
-    "text": "If you co-opt someone or something, you involve them, sometimes against their will.",
-    "start": 338.681,
-    "end": 343.442,
-    "zh": "如果你co-opt某人或某物,就是让他们参与进来,有时并非出于自愿。",
-    "zh_hant": "如果你co-opt某人或某物,就是讓他們參與進來,有時並非出於自願。"
-  },
-  {
-    "index": 97,
-    "text": "A circuit is a system of connections – for example, in the brain.",
-    "start": 343.042,
-    "end": 348.563,
-    "zh": "circuit(回路)是一种连接系统——比如,大脑中的连接系统。",
-    "zh_hant": "circuit(迴路)是一種連線系統——比如,大腦中的連線系統。"
-  },
-  {
-    "index": 98,
-    "text": "means in a way that cannot be stopped or avoided.",
-    "start": 348.684,
-    "end": 351.784,
-    "zh": "inevitably的意思是以一种无法阻止或避免的方式。",
-    "zh_hant": "inevitably的意思是以一種無法阻止或避免的方式。"
-  },
-  {
-    "index": 99,
-    "text": "And intricate describes something which has lots of detail.",
-    "start": 351.664,
-    "end": 355.545,
-    "zh": "intricate用来形容包含许多细节的事物。",
-    "zh_hant": "intricate用來形容包含許多細節的事物。"
-  },
-  {
-    "index": 100,
-    "text": "That's it for this episode of 6 Minute English.",
-    "start": 355.465,
-    "end": 358.406,
-    "zh": "这就是本期《六分钟英语》的全部内容。",
-    "zh_hant": "這就是本期《六分鐘英語》的全部內容。"
-  },
-  {
-    "index": 101,
-    "text": "Test what you've learnt with the worksheet on our website, bbclearningenglish.com.",
-    "start": 358.246,
-    "end": 363.007,
-    "zh": "通过我们网站bbclearningenglish.com上的练习题,检测一下你学到的内容吧。",
-    "zh_hant": "透過我們網站bbclearningenglish.com上的練習題,檢測一下你學到的內容吧。"
-  },
-  {
-    "index": 102,
-    "text": "Thanks for joining us.",
-    "start": 362.727,
-    "end": 364.228,
-    "zh": "感谢大家的收听。",
-    "zh_hant": "感謝大家的收聽。"
-  },
-  {
-    "index": 103,
-    "text": "Goodbye!",
-    "start": 363.828,
-    "end": 364.768,
-    "zh": "再见!",
-    "zh_hant": "再見!"
-  },
-  {
-    "index": 104,
     "text": "Bye.",
-    "start": 364.508,
-    "end": 369.349,
-    "zh": "拜拜。",
-    "zh_hant": "拜拜。"
+    "start": 364.51,
+    "end": 365.35,
+    "zh": "再见。",
+    "zh_hant": "再見。"
   }
 ]

@@ -2,285 +2,277 @@
   {
     "index": 0,
     "text": "Hello, this is 6 Minute English from BBC Learning English.",
-    "start": 7.673,
-    "end": 11.354,
-    "zh": "大家好,这里是BBC英语教学的《六分钟英语》节目。",
-    "zh_hant": "大家好,這裡是BBC英語教學的《六分鐘英語》節目。"
+    "start": 7.691,
+    "end": 11.352,
+    "zh": "你好，这里是BBC学英语的六分钟英语。",
+    "zh_hant": "你好，這裡是BBC學英語的六分鐘英語。"
   },
   {
     "index": 1,
     "text": "I'm Neil.",
-    "start": 11.114,
-    "end": 11.954,
-    "zh": "我是Neil。",
-    "zh_hant": "我是Neil。"
+    "start": 11.112,
+    "end": 11.953,
+    "zh": "我是尼尔。",
+    "zh_hant": "我是尼爾。"
   },
   {
     "index": 2,
     "text": "And I'm Pippa.",
-    "start": 11.754,
-    "end": 13.074,
-    "zh": "我是Pippa。",
-    "zh_hant": "我是Pippa。"
+    "start": 11.753,
+    "end": 13.073,
+    "zh": "我是皮帕。",
+    "zh_hant": "我是皮帕。"
   },
   {
     "index": 3,
     "text": "In this episode we're discussing poetry.",
-    "start": 13.154,
+    "start": 13.153,
     "end": 16.055,
-    "zh": "在这一期节目中,我们要讨论诗歌。",
-    "zh_hant": "在這一期節目中,我們要討論詩歌。"
+    "zh": "本期节目我们讨论诗歌。",
+    "zh_hant": "本期節目我們討論詩歌。"
   },
   {
     "index": 4,
-    "text": "For some, poetry is what you study at school, then forget,",
+    "text": "For some, poetry is what you study at school, then",
     "start": 16.095,
-    "end": 20.217,
-    "zh": "对有些人来说,诗歌是学生时代要学的东西,学完就忘了,",
-    "zh_hant": "對有些人來說,詩歌是學生時代要學的東西,學完就忘了,"
+    "end": 19.696,
+    "zh": "对一些人来说，诗歌是你在学校学的东西，然后",
+    "zh_hant": "對一些人來說，詩歌是你在學校學的東西，然後"
   },
   {
     "index": 5,
-    "text": "while for others it becomes an important part of their life.",
-    "start": 20.117,
+    "text": "forget, while for others it becomes an important part of their life.",
+    "start": 19.346,
     "end": 24.038,
-    "zh": "而对另一些人来说,诗歌成了他们生活中重要的一部分。",
-    "zh_hant": "而對另一些人來說,詩歌成了他們生活中重要的一部分。"
+    "zh": "就忘了，而对另一些人来说，它成为他们生活中重要的一部分。",
+    "zh_hant": "就忘了，而對另一些人來說，它成為他們生活中重要的一部分。"
   },
   {
     "index": 6,
     "text": "Have you ever read or written any poetry, Neil?",
-    "start": 24.058,
-    "end": 27.299,
-    "zh": "Neil,你读过或写过诗吗?",
-    "zh_hant": "Neil,你讀過或寫過詩嗎?"
+    "start": 24.059,
+    "end": 27.3,
+    "zh": "尼尔，你读过或写过诗歌吗？",
+    "zh_hant": "尼爾，你讀過或寫過詩歌嗎？"
   },
   {
     "index": 7,
     "text": "Well, I haven't written any poetry since I was at school.",
-    "start": 27.239,
-    "end": 31.3,
-    "zh": "嗯,自从上学以后我就没写过诗了。",
-    "zh_hant": "嗯,自從上學以後我就沒寫過詩了。"
+    "start": 27.24,
+    "end": 31.402,
+    "zh": "嗯，我自从离开学校就没写过诗。",
+    "zh_hant": "嗯，我自從離開學校就沒寫過詩。"
   },
   {
     "index": 8,
     "text": "I would love to read more poetry, but I just don't get it, really.",
-    "start": 30.9,
-    "end": 36.442,
-    "zh": "我很想多读些诗,但说实话,我读不太懂。",
-    "zh_hant": "我很想多讀些詩,但說實話,我讀不太懂。"
+    "start": 31.362,
+    "end": 36.545,
+    "zh": "我很想多读点诗，但我就是理解不了，真的。",
+    "zh_hant": "我很想多讀點詩，但我就是理解不了，真的。"
   },
   {
     "index": 9,
     "text": "I find it difficult to understand.",
-    "start": 36.042,
-    "end": 38.503,
-    "zh": "我觉得理解诗歌很难。",
-    "zh_hant": "我覺得理解詩歌很難。"
+    "start": 36.485,
+    "end": 38.606,
+    "zh": "我觉得它很难懂。",
+    "zh_hant": "我覺得它很難懂。"
   },
   {
     "index": 10,
     "text": "A good place to hear poetry is an open mic night",
-    "start": 38.103,
-    "end": 42.044,
-    "zh": "聆听诗歌的一个好去处是开放麦之夜,",
-    "zh_hant": "聆聽詩歌的一個好去處是開放麥之夜,"
+    "start": 38.506,
+    "end": 41.98,
+    "zh": "听诗歌的好去处是开放麦克风之夜",
+    "zh_hant": "聽詩歌的好去處是開放麥克風之夜"
   },
   {
     "index": 11,
     "text": ", a live event where anyone is allowed to stand up on stage to sing or recite poems.",
-    "start": 41.644,
-    "end": 47.726,
-    "zh": "那是一种现场活动,任何人都可以上台唱歌或朗诵诗歌。",
-    "zh_hant": "那是一種現場活動,任何人都可以上臺唱歌或朗誦詩歌。"
+    "start": 41.58,
+    "end": 47.71,
+    "zh": "，这是一种现场活动，任何人都可以上台唱歌或朗诵诗歌。",
+    "zh_hant": "，這是一種現場活動，任何人都可以上臺唱歌或朗誦詩歌。"
   },
   {
     "index": 12,
-    "text": "Here, BBC reporter Maria recites her open mic poem about a friend who suffered a stroke,",
-    "start": 47.866,
-    "end": 53.868,
-    "zh": "在这里,BBC记者Maria朗诵了她在开放麦之夜创作的一首诗,内容是关于一位中风的朋友,",
-    "zh_hant": "在這裡,BBC記者Maria朗誦了她在開放麥之夜創作的一首詩,內容是關於一位中風的朋友,"
+    "text": "Here, BBC reporter Maria recites her open mic poem",
+    "start": 47.85,
+    "end": 51.932,
+    "zh": "在这里，BBC记者玛丽亚在BBC世界服务节目《修复世界》中",
+    "zh_hant": "在這裡，BBC記者瑪麗亞在BBC世界服務節目《修復世界》中"
   },
   {
     "index": 13,
-    "text": "for BBC World Service programme People Fixing the World.",
-    "start": 53.468,
-    "end": 56.989,
-    "zh": "这是为BBC世界服务节目《人们在解决世界难题》录制的。",
-    "zh_hant": "這是為BBC世界服務節目《人們在解決世界難題》錄製的。"
+    "text": "about a friend who suffered a stroke, for BBC World Service programme People Fixing the World.",
+    "start": 51.582,
+    "end": 56.995,
+    "zh": "朗诵了她关于一位中风朋友的开放麦克风诗歌。",
+    "zh_hant": "朗誦了她關於一位中風朋友的開放麥克風詩歌。"
   },
   {
     "index": 14,
     "text": "This first poem, I wrote it about a friend who I love dearly.",
-    "start": 56.829,
-    "end": 60.09,
-    "zh": "这第一首诗,是我为一位深爱的朋友写的。",
-    "zh_hant": "這第一首詩,是我為一位深愛的朋友寫的。"
+    "start": 56.815,
+    "end": 60.096,
+    "zh": "这第一首诗，我写的是关于一位我深爱的朋友。",
+    "zh_hant": "這第一首詩，我寫的是關於一位我深愛的朋友。"
   },
   {
     "index": 15,
     "text": "It's called Stroke.",
-    "start": 60.21,
-    "end": 61.65,
-    "zh": "它的名字叫《中风》。",
-    "zh_hant": "它的名字叫《中風》。"
+    "start": 60.217,
+    "end": 61.637,
+    "zh": "诗名叫《中风》。",
+    "zh_hant": "詩名叫《中風》。"
   },
   {
     "index": 16,
     "text": "You're awake And trying to grasp who it is.",
-    "start": 62.351,
-    "end": 65.271,
-    "zh": "你醒着,想弄明白眼前是谁。",
-    "zh_hant": "你醒著,想弄明白眼前是誰。"
+    "start": 62.358,
+    "end": 65.379,
+    "zh": "你醒着，试图辨认那是谁。",
+    "zh_hant": "你醒著，試圖辨認那是誰。"
   },
   {
     "index": 17,
     "text": "I pull my mask past my lips and you study my face, Eyes wide.",
-    "start": 64.871,
-    "end": 69.513,
-    "zh": "我把口罩拉过嘴唇,你打量着我的脸,眼睛睁得大大的。",
-    "zh_hant": "我把口罩拉過嘴唇,你打量著我的臉,眼睛睜得大大的。"
+    "start": 65.139,
+    "end": 69.521,
+    "zh": "我把口罩拉过嘴唇，你端详我的脸，眼睛睁大。",
+    "zh_hant": "我把口罩拉過嘴唇，你端詳我的臉，眼睛睜大。"
   },
   {
     "index": 18,
     "text": "I've enough stuff to tell you, I say, Sinking into a chair.",
-    "start": 70.553,
-    "end": 74.995,
-    "zh": "我说,我有很多话想告诉你,身子陷进椅子里。",
-    "zh_hant": "我說,我有很多話想告訴你,身子陷進椅子裡。"
+    "start": 70.562,
+    "end": 75.104,
+    "zh": "我说我有好多话要告诉你，然后陷进椅子里。",
+    "zh_hant": "我說我有好多話要告訴你，然後陷進椅子裡。"
   },
   {
     "index": 19,
     "text": "I stare.",
-    "start": 74.595,
-    "end": 77.435,
-    "zh": "我凝视着。",
-    "zh_hant": "我凝視著。"
+    "start": 76.424,
+    "end": 77.425,
+    "zh": "我盯着看。",
+    "zh_hant": "我盯著看。"
   },
   {
     "index": 20,
     "text": "Sometimes if you go to an open mic night , people can really touch your soul with what they're saying.",
-    "start": 77.736,
-    "end": 83.197,
-    "zh": "有时候,如果你去参加开放麦之夜,人们所说的话真的能触动你的灵魂。",
-    "zh_hant": "有時候,如果你去參加開放麥之夜,人們所說的話真的能觸動你的靈魂。"
+    "start": 77.745,
+    "end": 83.208,
+    "zh": "有时候你去开放麦克风之夜，人们说的话真的能触动你的灵魂。",
+    "zh_hant": "有時候你去開放麥克風之夜，人們說的話真的能觸動你的靈魂。"
   },
   {
     "index": 21,
     "text": "And even if you're having a bad day, life can feel so much better after going to an open mic night .",
-    "start": 83.117,
-    "end": 88.519,
-    "zh": "即使你度过了糟糕的一天,参加完开放麦之夜后,生活也会感觉好很多。",
-    "zh_hant": "即使你度過了糟糕的一天,參加完開放麥之夜後,生活也會感覺好很多。"
+    "start": 83.128,
+    "end": 88.07,
+    "zh": "即使你过得不好，去了开放麦克风之夜后，生活也会感觉好很多。",
+    "zh_hant": "即使你過得不好，去了開放麥克風之夜後，生活也會感覺好很多。"
   },
   {
     "index": 22,
-    "text": "For Maria, poetry has the power to heal emotions and touch your soul ,",
-    "start": 88.119,
-    "end": 93.401,
-    "zh": "对Maria来说,诗歌有治愈情感、触动灵魂的力量,",
-    "zh_hant": "對Maria來說,詩歌有治癒情感、觸動靈魂的力量,"
+    "text": "For Maria, poetry has the power to heal emotions",
+    "start": 88.111,
+    "end": 91.872,
+    "zh": "对玛丽亚来说，诗歌有治愈情感的力量",
+    "zh_hant": "對瑪麗亞來說，詩歌有治癒情感的力量"
   },
   {
     "index": 23,
-    "text": "meaning to affect you deeply on an emotional or spiritual level.",
-    "start": 93.001,
-    "end": 97.282,
-    "zh": "也就是说,能在情感或精神层面深深地打动你。",
-    "zh_hant": "也就是說,能在情感或精神層面深深地打動你。"
+    "text": "and touch your soul , meaning to affect you deeply on an emotional or spiritual level.",
+    "start": 91.522,
+    "end": 97.275,
+    "zh": "并触动你的灵魂，意思是深深地影响你的情感或精神层面。",
+    "zh_hant": "並觸動你的靈魂，意思是深深地影響你的情感或精神層面。"
   },
   {
     "index": 24,
     "text": "In this episode, we'll hear more about the positive power of poetry",
     "start": 97.235,
     "end": 101.777,
-    "zh": "在这一期节目中,我们会听到更多关于诗歌积极力量的内容,",
-    "zh_hant": "在這一期節目中,我們會聽到更多關於詩歌積極力量的內容,"
+    "zh": "本期节目我们将听到更多关于诗歌积极力量的内容",
+    "zh_hant": "本期節目我們將聽到更多關於詩歌積極力量的內容"
   },
   {
     "index": 25,
     "text": "and, as usual, we'll learn some useful new words and phrases.",
     "start": 101.777,
     "end": 105.819,
-    "zh": "一如既往,我们也会学到一些实用的新词汇和短语。",
-    "zh_hant": "一如既往,我們也會學到一些實用的新詞彙和短語。"
+    "zh": "和往常一样，我们也会学习一些有用的新单词和短语。",
+    "zh_hant": "和往常一樣，我們也會學習一些有用的新單詞和短語。"
   },
   {
     "index": 26,
-    "text": "And remember, you'll find all the vocabulary,",
-    "start": 105.785,
-    "end": 108.486,
-    "zh": "记住,你可以在我们的网站上找到所有词汇,",
-    "zh_hant": "記住,你可以在我們的網站上找到所有詞彙,"
+    "text": "And remember, you'll find all the vocabulary, plus a quiz and worksheet on our website, bbclearningenglish.com.",
+    "start": 105.779,
+    "end": 113.043,
+    "zh": "记住，你可以在我们的网站bbclearningenglish.com上找到所有词汇，以及测验和练习页。",
+    "zh_hant": "記住，你可以在我們的網站bbclearningenglish.com上找到所有詞彙，以及測驗和練習頁。"
   },
   {
     "index": 27,
-    "text": "plus a quiz and worksheet on our website, bbclearningenglish.com.",
-    "start": 108.126,
-    "end": 113.028,
-    "zh": "还有配套的测验和练习题,网址是bbclearningenglish.com。",
-    "zh_hant": "還有配套的測驗和練習題,網址是bbclearningenglish.com。"
+    "text": "But first, I have a question for you, Pippa.",
+    "start": 112.903,
+    "end": 115.944,
+    "zh": "但首先，我有一个问题要问你，皮帕。",
+    "zh_hant": "但首先，我有一個問題要問你，皮帕。"
   },
   {
     "index": 28,
-    "text": "But first, I have a question for you, Pippa.",
-    "start": 112.888,
-    "end": 115.929,
-    "zh": "不过首先,我有个问题要问你,Pippa。",
-    "zh_hant": "不過首先,我有個問題要問你,Pippa。"
+    "text": "Just now, you used the phrase the positive power of poetry, repeating",
+    "start": 115.904,
+    "end": 121.007,
+    "zh": "刚才你用了积极的诗歌力量这个短语，重复了",
+    "zh_hant": "剛才你用了積極的詩歌力量這個短語，重複了"
   },
   {
     "index": 29,
-    "text": "Just now, you used the phrase the positive power of poetry,",
-    "start": 115.889,
-    "end": 120.23,
-    "zh": "刚才,你用了“诗歌的积极力量”这个说法,",
-    "zh_hant": "剛才,你用了“詩歌的積極力量”這個說法,"
+    "text": "the same initial 'p' sound across a string of words.",
+    "start": 120.767,
+    "end": 125.249,
+    "zh": "一串单词中相同的首字母'p'音。",
+    "zh_hant": "一串單詞中相同的首字母'p'音。"
   },
   {
     "index": 30,
-    "text": "repeating the same initial 'p' sound across a string of words.",
-    "start": 119.95,
-    "end": 125.232,
-    "zh": "一连串的词都以相同的“p”音开头。",
-    "zh_hant": "一連串的詞都以相同的“p”音開頭。"
+    "text": "Doing this is a common feature of poetry, but what's it called?",
+    "start": 125.409,
+    "end": 129.571,
+    "zh": "这是诗歌中常见的特点，但它叫什么呢？",
+    "zh_hant": "這是詩歌中常見的特點，但它叫什麼呢？"
   },
   {
     "index": 31,
-    "text": "Doing this is a common feature of poetry, but what's it called?",
-    "start": 125.392,
-    "end": 129.573,
-    "zh": "这种手法在诗歌中很常见,但它叫什么呢?",
-    "zh_hant": "這種手法在詩歌中很常見,但它叫什麼呢?"
+    "text": "Is it: a) assonance, b) alliteration, or c) simile?",
+    "start": 129.491,
+    "end": 135.254,
+    "zh": "是：a) 谐音，b) 头韵，还是c) 明喻？",
+    "zh_hant": "是：a) 諧音，b) 頭韻，還是c) 明喻？"
   },
   {
     "index": 32,
-    "text": "Is it: a) assonance, b) alliteration, or c) simile?",
-    "start": 129.493,
-    "end": 135.255,
-    "zh": "是a) 谐音,b) 头韵,还是c) 明喻?",
-    "zh_hant": "是a) 諧音,b) 頭韻,還是c) 明喻?"
-  },
-  {
-    "index": 33,
     "text": "Hmm.",
-    "start": 135.335,
-    "end": 135.955,
+    "start": 135.314,
+    "end": 135.954,
     "zh": "嗯。",
     "zh_hant": "嗯。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "Finally, my English degree might come in handy!",
-    "start": 135.936,
+    "start": 135.935,
     "end": 138.776,
-    "zh": "终于,我的英语学位派上用场了!",
-    "zh_hant": "終於,我的英語學位派上用場了!"
+    "zh": "终于，我的英语学位可能派上用场了！",
+    "zh_hant": "終於，我的英語學位可能派上用場了！"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "And I'm going to say b) alliteration.",
     "start": 138.476,
     "end": 140.997,
@@ -288,459 +280,387 @@
     "zh_hant": "我要選b) 頭韻。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Well, we'll find out at the end, and I hope you don't get embarrassed, Pippa!",
     "start": 140.957,
-    "end": 144.818,
-    "zh": "好,我们最后会揭晓答案,希望你别太尴尬,Pippa!",
-    "zh_hant": "好,我們最後會揭曉答案,希望你別太尷尬,Pippa!"
+    "end": 144.819,
+    "zh": "好吧，我们最后会揭晓答案，希望你到时候别尴尬，皮帕！",
+    "zh_hant": "好吧，我們最後會揭曉答案，希望你到時候別尷尬，皮帕！"
+  },
+  {
+    "index": 36,
+    "text": "Now, poetry helped Maria overcome sadness, but could its power to heal work in other areas too?",
+    "start": 145.619,
+    "end": 152.903,
+    "zh": "现在，诗歌帮助玛丽亚克服了悲伤，但它的治愈力能在其他领域也起作用吗？",
+    "zh_hant": "現在，詩歌幫助瑪麗亞克服了悲傷，但它的治癒力能在其他領域也起作用嗎？"
   },
   {
     "index": 37,
-    "text": "Now, poetry helped Maria overcome sadness,",
-    "start": 145.619,
-    "end": 149.16,
-    "zh": "诗歌帮助Maria走出了悲伤,",
-    "zh_hant": "詩歌幫助Maria走出了悲傷,"
+    "text": "Hot Poets is a group helping people understand the science behind global issues like climate change.",
+    "start": 153.083,
+    "end": 159.586,
+    "zh": "热诗人是一个帮助人们理解气候变化等全球问题背后科学的团体。",
+    "zh_hant": "熱詩人是一個幫助人們理解氣候變化等全球問題背後科學的團體。"
   },
   {
     "index": 38,
-    "text": "but could its power to heal work in other areas too?",
-    "start": 149.16,
-    "end": 152.901,
-    "zh": "但这种治愈的力量能在其他领域也发挥作用吗?",
-    "zh_hant": "但這種治癒的力量能在其他領域也發揮作用嗎?"
+    "text": "They go to meetings like the UN Climate Conference and listen to scientific papers being presented.",
+    "start": 159.306,
+    "end": 164.949,
+    "zh": "他们参加像联合国气候会议这样的会议，倾听正在展示的科学论文。",
+    "zh_hant": "他們參加像聯合國氣候會議這樣的會議，傾聽正在展示的科學論文。"
   },
   {
     "index": 39,
-    "text": "Hot Poets is a group helping people understand the science behind global issues",
-    "start": 153.081,
-    "end": 158.503,
-    "zh": "“热诗人”是一个帮助人们理解全球性问题背后科学原理的团体,",
-    "zh_hant": "“熱詩人”是一個幫助人們理解全球性問題背後科學原理的團體,"
+    "text": "Then they write a poem about it all and perform that back to the audience.",
+    "start": 164.809,
+    "end": 169.531,
+    "zh": "然后他们把这一切写成诗，再向观众表演出来。",
+    "zh_hant": "然後他們把這一切寫成詩，再向觀眾表演出來。"
   },
   {
     "index": 40,
-    "text": "like climate change.",
-    "start": 158.103,
-    "end": 159.583,
-    "zh": "比如气候变化。",
-    "zh_hant": "比如氣候變化。"
+    "text": "Here's Hot Poet Liv Torc, reciting her poem to BBC World Service's People Fixing the World.",
+    "start": 169.531,
+    "end": 175.934,
+    "zh": "这是热诗人成员利夫·托克在BBC世界服务节目《修复世界》中朗诵她的诗。",
+    "zh_hant": "這是熱詩人成員利夫·托克在BBC世界服務節目《修復世界》中朗誦她的詩。"
   },
   {
     "index": 41,
-    "text": "They go to meetings like the UN Climate Conference and listen to scientific papers being presented.",
-    "start": 159.283,
-    "end": 164.945,
-    "zh": "他们参加像联合国气候大会这样的会议,聆听科学论文的发表。",
-    "zh_hant": "他們參加像聯合國氣候大會這樣的會議,聆聽科學論文的發表。"
+    "text": "It starts with an adventure at sea, A big blue murder mystery,",
+    "start": 176.135,
+    "end": 181.617,
+    "zh": "诗以海上冒险开始，一个巨大的蓝色谋杀谜案，",
+    "zh_hant": "詩以海上冒險開始，一個巨大的藍色謀殺謎案，"
   },
   {
     "index": 42,
-    "text": "Then they write a poem about it all and perform that back to the audience.",
-    "start": 164.805,
-    "end": 169.526,
-    "zh": "然后,他们把这一切写成诗,再朗诵给听众听。",
-    "zh_hant": "然後,他們把這一切寫成詩,再朗誦給聽眾聽。"
+    "text": "where the killer is not the whale But an epic humanity fail",
+    "start": 181.337,
+    "end": 185.899,
+    "zh": "凶手不是鲸鱼，而是人类史诗般的失败",
+    "zh_hant": "兇手不是鯨魚，而是人類史詩般的失敗"
   },
   {
     "index": 43,
-    "text": "Here's Hot Poet Liv Torc, reciting her poem to BBC World Service's People Fixing the World.",
-    "start": 169.526,
-    "end": 175.928,
-    "zh": "下面是“热诗人”成员Liv Torc,为BBC世界服务节目《人们在解决世界难题》朗诵她的诗。",
-    "zh_hant": "下面是“熱詩人”成員Liv Torc,為BBC世界服務節目《人們在解決世界難題》朗誦她的詩。"
+    "text": "Of overfishing and polluting at unimaginable scale.",
+    "start": 185.549,
+    "end": 189.121,
+    "zh": "——过度捕捞和污染，规模难以想象。",
+    "zh_hant": "——過度捕撈和汙染，規模難以想象。"
   },
   {
     "index": 44,
-    "text": "It starts with an adventure at sea, A big blue murder mystery,",
-    "start": 176.129,
-    "end": 181.63,
-    "zh": "它以一场海上冒险开始,一桩巨大的蓝色谋杀之谜,",
-    "zh_hant": "它以一場海上冒險開始,一樁巨大的藍色謀殺之謎,"
+    "text": "Liv's poem is based on a study into biodiversity.",
+    "start": 191.522,
+    "end": 195.384,
+    "zh": "利夫的诗基于一项关于生物多样性的研究。",
+    "zh_hant": "利夫的詩基於一項關於生物多樣性的研究。"
   },
   {
     "index": 45,
-    "text": "where the killer is not the whale But an epic humanity fail",
-    "start": 181.35,
-    "end": 185.832,
-    "zh": "凶手不是鲸鱼,而是人类史诗般的失败——",
-    "zh_hant": "兇手不是鯨魚,而是人類史詩般的失敗——"
+    "text": "It's a complex research project that many find hard to understand.",
+    "start": 195.564,
+    "end": 199.586,
+    "zh": "这是一个复杂的项目，很多人觉得很难理解。",
+    "zh_hant": "這是一個複雜的專案，很多人覺得很難理解。"
   },
   {
     "index": 46,
-    "text": "Of overfishing and polluting at unimaginable scale.",
-    "start": 185.432,
-    "end": 189.113,
-    "zh": "过度捕捞和污染,规模之大难以想象。",
-    "zh_hant": "過度捕撈和汙染,規模之大難以想象。"
+    "text": "Here, Liv discusses this with Myra Anubi for BBC World Service programme People Fixing the World:",
+    "start": 199.666,
+    "end": 205.729,
+    "zh": "在这里，利夫与迈拉·阿努比在BBC世界服务节目《修复世界》中讨论这一点：",
+    "zh_hant": "在這裡，利夫與邁拉·阿努比在BBC世界服務節目《修復世界》中討論這一點："
   },
   {
     "index": 47,
-    "text": "Liv's poem is based on a study into biodiversity.",
-    "start": 191.534,
-    "end": 195.395,
-    "zh": "Liv的这首诗基于一项关于生物多样性的研究。",
-    "zh_hant": "Liv的這首詩基於一項關於生物多樣性的研究。"
+    "text": "And Liv, I mean, so what you've identified is that there is an issue around the communication of science.",
+    "start": 205.989,
+    "end": 212.893,
+    "zh": "利夫，我的意思是，你发现的是科学传播存在问题。",
+    "zh_hant": "利夫，我的意思是，你發現的是科學傳播存在問題。"
   },
   {
     "index": 48,
-    "text": "It's a complex research project that many find hard to understand.",
-    "start": 195.555,
-    "end": 199.576,
-    "zh": "这是一个复杂的研究项目,许多人觉得难以理解。",
-    "zh_hant": "這是一個複雜的研究專案,許多人覺得難以理解。"
+    "text": "Yes, a lot of this jargon is really hard to understand,",
+    "start": 212.933,
+    "end": 216.775,
+    "zh": "是的，很多专业术语真的很难懂，",
+    "zh_hant": "是的，很多專業術語真的很難懂，"
   },
   {
     "index": 49,
-    "text": "Here, Liv discusses this with Myra Anubi for BBC World Service programme People Fixing the World:",
-    "start": 199.677,
-    "end": 205.738,
-    "zh": "在这里,Liv与Myra Anubi在BBC世界服务节目《人们在解决世界难题》中讨论了这个话题:",
-    "zh_hant": "在這裡,Liv與Myra Anubi在BBC世界服務節目《人們在解決世界難題》中討論了這個話題:"
+    "text": "or a lot of the science is quite impenetrable to normal people, so it's instantly a turn-off .",
+    "start": 216.425,
+    "end": 221.31,
+    "zh": "或者很多科学对普通人来说相当晦涩，所以立刻就让人厌烦。",
+    "zh_hant": "或者很多科學對普通人來說相當晦澀，所以立刻就讓人厭煩。"
   },
   {
     "index": 50,
-    "text": "And Liv, I mean, so what you've identified is that there is an issue around the communication",
-    "start": 205.999,
-    "end": 211.76,
-    "zh": "Liv,你发现的问题是,科学传播方面存在一些障碍,",
-    "zh_hant": "Liv,你發現的問題是,科學傳播方面存在一些障礙,"
+    "text": "Science uses lots of jargon – specialist or technical vocabulary which is quite different from everyday language.",
+    "start": 221.237,
+    "end": 228.341,
+    "zh": "科学使用很多专业术语——这是与日常语言相当不同的专业或技术词汇。",
+    "zh_hant": "科學使用很多專業術語——這是與日常語言相當不同的專業或技術詞彙。"
   },
   {
     "index": 51,
-    "text": "of science.",
-    "start": 211.5,
-    "end": 212.921,
-    "zh": "是这样吗?",
-    "zh_hant": "是這樣嗎?"
+    "text": "For example, a scientist might use the word precipitation, while in everyday English we would say rain.",
+    "start": 228.361,
+    "end": 235.224,
+    "zh": "比如，科学家可能用降水这个词，而在日常英语中我们会说下雨。",
+    "zh_hant": "比如，科學家可能用降水這個詞，而在日常英語中我們會說下雨。"
   },
   {
     "index": 52,
-    "text": "Yes, a lot of this jargon is really hard to understand,",
-    "start": 212.961,
-    "end": 216.762,
-    "zh": "是的,很多专业术语真的很难理解,",
-    "zh_hant": "是的,很多專業術語真的很難理解,"
+    "text": "can make scientific papers impenetrable , an adjective meaning impossible to understand.",
+    "start": 235.985,
+    "end": 242.107,
+    "zh": "能让科学论文变得晦涩难懂，这是一个形容词，意思是无法理解。",
+    "zh_hant": "能讓科學論文變得晦澀難懂，這是一個形容詞，意思是無法理解。"
   },
   {
     "index": 53,
-    "text": "or a lot of the science is quite impenetrable to normal people, so it's instantly a turn-off .",
-    "start": 216.402,
-    "end": 221.623,
-    "zh": "很多科学内容对普通人来说几乎无法理解,这一下子就让人失去兴趣。",
-    "zh_hant": "很多科學內容對普通人來說幾乎無法理解,這一下子就讓人失去興趣。"
+    "text": "And worse, it makes science a turn-off – something that people dislike or find uninteresting.",
+    "start": 242.168,
+    "end": 247.771,
+    "zh": "更糟的是，它让科学变得令人反感——人们不喜欢或觉得没兴趣的东西。",
+    "zh_hant": "更糟的是，它讓科學變得令人反感——人們不喜歡或覺得沒興趣的東西。"
   },
   {
     "index": 54,
-    "text": "Science uses lots of jargon – specialist or technical vocabulary",
-    "start": 221.223,
-    "end": 225.865,
-    "zh": "科学使用大量的“行话”——也就是专业或技术词汇,",
-    "zh_hant": "科學使用大量的“行話”——也就是專業或技術詞彙,"
+    "text": "Hot Poets try to change all of that by making complex environmental ideas easy to understand through poetry.",
+    "start": 247.731,
+    "end": 254.814,
+    "zh": "热诗人试图通过诗歌让复杂的环境理念变得容易理解，从而改变这一切。",
+    "zh_hant": "熱詩人試圖透過詩歌讓複雜的環境理念變得容易理解，從而改變這一切。"
   },
   {
     "index": 55,
-    "text": "which is quite different from everyday language.",
-    "start": 225.685,
-    "end": 228.326,
-    "zh": "这与日常语言有很大不同。",
-    "zh_hant": "這與日常語言有很大不同。"
+    "text": "And it works, says Kat Bruce,",
+    "start": 254.734,
+    "end": 257.095,
+    "zh": "而且这有效，卡特·布鲁斯说，",
+    "zh_hant": "而且這有效，卡特·布魯斯說，"
   },
   {
     "index": 56,
-    "text": "For example, a scientist might use the word precipitation,",
-    "start": 228.366,
-    "end": 232.147,
-    "zh": "比如,科学家可能会用“降水”这个词,",
-    "zh_hant": "比如,科學家可能會用“降水”這個詞,"
+    "text": "the environmental scientist whose study Liv based her poem on, talking here with Myra Anubi",
+    "start": 256.835,
+    "end": 262.798,
+    "zh": "她是利夫诗歌基础研究的环境科学家，在这里与迈拉·阿努比交谈",
+    "zh_hant": "她是利夫詩歌基礎研究的環境科學家，在這裡與邁拉·阿努比交談"
   },
   {
     "index": 57,
-    "text": "while in everyday English we would say rain.",
-    "start": 232.047,
-    "end": 235.208,
-    "zh": "而在日常英语中,我们会说“下雨”。",
-    "zh_hant": "而在日常英語中,我們會說“下雨”。"
+    "text": "for BBC World Service's People Fixing the World.",
+    "start": 262.478,
+    "end": 265.88,
+    "zh": "在BBC世界服务的《修复世界》节目中。",
+    "zh_hant": "在BBC世界服務的《修復世界》節目中。"
   },
   {
     "index": 58,
-    "text": "can make scientific papers impenetrable , an adjective meaning impossible to understand.",
-    "start": 235.968,
-    "end": 242.11,
-    "zh": "这会让科学论文变得晦涩难懂,impenetrable这个形容词的意思就是“难以理解的”。",
-    "zh_hant": "這會讓科學論文變得晦澀難懂,impenetrable這個形容詞的意思就是“難以理解的”。"
+    "text": "What did it mean for you, Kat, hearing the poem, having actually experienced everything she's saying?",
+    "start": 265.82,
+    "end": 271.462,
+    "zh": "卡特，听到这首诗，你实际经历了她说的一切，这对你意味着什么？",
+    "zh_hant": "卡特，聽到這首詩，你實際經歷了她說的一切，這對你意味著什麼？"
   },
   {
     "index": 59,
-    "text": "And worse, it makes science a turn-off – something that people dislike or find uninteresting.",
-    "start": 242.15,
-    "end": 247.792,
-    "zh": "更糟的是,这会让科学变成一种“turn-off”——也就是让人失去兴趣、不喜欢的东西。",
-    "zh_hant": "更糟的是,這會讓科學變成一種“turn-off”——也就是讓人失去興趣、不喜歡的東西。"
+    "text": "It still gives me goosebumps when I hear it now.",
+    "start": 271.583,
+    "end": 274.764,
+    "zh": "现在听到它我仍然会起鸡皮疙瘩。",
+    "zh_hant": "現在聽到它我仍然會起雞皮疙瘩。"
   },
   {
     "index": 60,
-    "text": "Hot Poets try to change all of that by making complex environmental ideas",
-    "start": 247.752,
-    "end": 252.794,
-    "zh": "“热诗人”正试图通过诗歌,",
-    "zh_hant": "“熱詩人”正試圖透過詩歌,"
+    "text": "I think it's everything that I wish I could say and put into words myself.",
+    "start": 275.184,
+    "end": 281.567,
+    "zh": "我觉得这就是我希望自己能说出并付诸文字的一切。",
+    "zh_hant": "我覺得這就是我希望自己能說出並付諸文字的一切。"
   },
   {
     "index": 61,
-    "text": "easy to understand through poetry.",
-    "start": 252.494,
-    "end": 254.814,
-    "zh": "让复杂的环境议题变得通俗易懂,从而改变这一切。",
-    "zh_hant": "讓複雜的環境議題變得通俗易懂,從而改變這一切。"
+    "text": "I feel like Liv just, you know, has done that.",
+    "start": 281.287,
+    "end": 284.469,
+    "zh": "我觉得利夫就是，你知道，做到了这一点。",
+    "zh_hant": "我覺得利夫就是，你知道，做到了這一點。"
   },
   {
     "index": 62,
-    "text": "And it works, says Kat Bruce, the environmental scientist whose study Liv based her poem on,",
-    "start": 254.735,
-    "end": 260.916,
-    "zh": "环境科学家Kat Bruce说,这确实奏效了,她的研究正是Liv那首诗的灵感来源,",
-    "zh_hant": "環境科學家Kat Bruce說,這確實奏效了,她的研究正是Liv那首詩的靈感來源,"
+    "text": "Liv's poem gave Kat goosebumps , meaning",
+    "start": 284.709,
+    "end": 287.851,
+    "zh": "利夫的诗让卡特起了鸡皮疙瘩，意思是",
+    "zh_hant": "利夫的詩讓卡特起了雞皮疙瘩，意思是"
   },
   {
     "index": 63,
-    "text": "talking here with Myra Anubi for BBC World Service's People Fixing the World.",
-    "start": 260.937,
-    "end": 265.878,
-    "zh": "她在BBC世界服务节目《人们在解决世界难题》中与Myra Anubi进行了交流。",
-    "zh_hant": "她在BBC世界服務節目《人們在解決世界難題》中與Myra Anubi進行了交流。"
+    "text": "she was so emotionally affected that the hairs on her skin stood up, making tiny bumps.",
+    "start": 287.501,
+    "end": 293.434,
+    "zh": "她情绪上受到如此大的影响，以至于皮肤上的汗毛竖了起来，形成小疙瘩。",
+    "zh_hant": "她情緒上受到如此大的影響，以至於皮膚上的汗毛豎了起來，形成小疙瘩。"
   },
   {
     "index": 64,
-    "text": "What did it mean for you, Kat, hearing the poem, having actually experienced everything she's saying?",
-    "start": 265.799,
-    "end": 271.44,
-    "zh": "Kat,你亲身经历了她所讲述的一切,听到这首诗时,对你来说意味着什么?",
-    "zh_hant": "Kat,你親身經歷了她所講述的一切,聽到這首詩時,對你來說意味著什麼?"
+    "text": "Maybe poetry can't fix everything, but for Kat, it's making an impact for good.",
+    "start": 293.574,
+    "end": 298.176,
+    "zh": "也许诗歌不能修复一切，但对卡特来说，它正在产生积极的影响。",
+    "zh_hant": "也許詩歌不能修復一切，但對卡特來說，它正在產生積極的影響。"
   },
   {
     "index": 65,
-    "text": "It still gives me goosebumps when I hear it now.",
-    "start": 271.561,
-    "end": 274.661,
-    "zh": "直到现在,我一听到它还是会起鸡皮疙瘩。",
-    "zh_hant": "直到現在,我一聽到它還是會起雞皮疙瘩。"
+    "text": "Now, what was the answer to your question, Neil?",
+    "start": 298.276,
+    "end": 300.837,
+    "zh": "现在，你问题的答案是什么，尼尔？",
+    "zh_hant": "現在，你問題的答案是什麼，尼爾？"
   },
   {
     "index": 66,
-    "text": "I think it's everything",
-    "start": 274.261,
-    "end": 277.182,
-    "zh": "我觉得,这就是",
-    "zh_hant": "我覺得,這就是"
+    "text": "Well, you seemed very clear, Pippa, that when you use a string of words beginning with the same sound,",
+    "start": 300.777,
+    "end": 307.961,
+    "zh": "嗯，你似乎很确定，皮帕，当你用一串以相同声音开头的单词时，",
+    "zh_hant": "嗯，你似乎很確定，皮帕，當你用一串以相同聲音開頭的單詞時，"
   },
   {
     "index": 67,
-    "text": "that I wish I could say and put into words myself.",
-    "start": 276.882,
-    "end": 281.464,
-    "zh": "我一直想说、却说不出口的一切。",
-    "zh_hant": "我一直想說、卻說不出口的一切。"
+    "text": "it's called alliteration...",
+    "start": 307.641,
+    "end": 309.801,
+    "zh": "这叫做头韵……",
+    "zh_hant": "這叫做頭韻……"
   },
   {
     "index": 68,
-    "text": "I feel like Liv just, you know, has done that.",
-    "start": 281.064,
-    "end": 284.465,
-    "zh": "我感觉Liv就那样,把它表达出来了。",
-    "zh_hant": "我感覺Liv就那樣,把它表達出來了。"
+    "text": "and you're absolutely right.",
+    "start": 309.922,
+    "end": 312.483,
+    "zh": "而且你完全正确。",
+    "zh_hant": "而且你完全正確。"
   },
   {
     "index": 69,
-    "text": "Liv's poem gave Kat goosebumps , meaning",
-    "start": 284.685,
-    "end": 287.806,
-    "zh": "Liv的诗让Kat起了鸡皮疙瘩,意思是",
-    "zh_hant": "Liv的詩讓Kat起了雞皮疙瘩,意思是"
+    "text": "Phew!",
+    "start": 312.363,
+    "end": 313.083,
+    "zh": "呼！",
+    "zh_hant": "呼！"
   },
   {
     "index": 70,
-    "text": "she was so emotionally affected that the hairs on her skin stood up,",
-    "start": 287.406,
-    "end": 292.027,
-    "zh": "她被深深地打动了,以至于皮肤上的汗毛都竖了起来,",
-    "zh_hant": "她被深深地打動了,以至於皮膚上的汗毛都豎了起來,"
+    "text": "OK.",
+    "start": 313.904,
+    "end": 314.544,
+    "zh": "好了。",
+    "zh_hant": "好了。"
   },
   {
     "index": 71,
-    "text": "making tiny bumps.",
-    "start": 291.707,
-    "end": 293.448,
-    "zh": "形成了一个个小疙瘩。",
-    "zh_hant": "形成了一個個小疙瘩。"
+    "text": "Let's recap the vocabulary we've learned, starting with open mic night ,",
+    "start": 314.344,
+    "end": 318.89,
+    "zh": "让我们回顾一下学到的词汇，从开放麦克风之夜开始，",
+    "zh_hant": "讓我們回顧一下學到的詞彙，從開放麥克風之夜開始，"
   },
   {
     "index": 72,
-    "text": "Maybe poetry can't fix everything, but for Kat, it's making an impact for good.",
-    "start": 293.568,
-    "end": 298.169,
-    "zh": "也许诗歌不能解决所有问题,但对Kat来说,它确实带来了积极的影响。",
-    "zh_hant": "也許詩歌不能解決所有問題,但對Kat來說,它確實帶來了積極的影響。"
+    "text": "a live event where anyone is allowed to perform poems or music on stage.",
+    "start": 318.886,
+    "end": 323.648,
+    "zh": "这是一个任何人都可以在台上表演诗歌或音乐的现场活动。",
+    "zh_hant": "這是一個任何人都可以在臺上表演詩歌或音樂的現場活動。"
   },
   {
     "index": 73,
-    "text": "Now, what was the answer to your question, Neil?",
-    "start": 298.289,
-    "end": 300.85,
-    "zh": "那么,Neil,你那个问题的答案是什么?",
-    "zh_hant": "那麼,Neil,你那個問題的答案是什麼?"
+    "text": "If something touches your soul , it affects you deeply on an emotional or spiritual level.",
+    "start": 323.588,
+    "end": 329.492,
+    "zh": "如果某事触动你的灵魂，它就在情感或精神层面深深影响你。",
+    "zh_hant": "如果某事觸動你的靈魂，它就在情感或精神層面深深影響你。"
   },
   {
     "index": 74,
-    "text": "Well, you seemed very clear, Pippa,",
-    "start": 300.79,
-    "end": 303.811,
-    "zh": "嗯,Pippa,你说得很肯定,",
-    "zh_hant": "嗯,Pippa,你說得很肯定,"
+    "text": "means special words and phrases that are used in a particular profession or subject.",
+    "start": 329.872,
+    "end": 334.794,
+    "zh": "意思是特定职业或学科中使用的特殊词汇和短语。",
+    "zh_hant": "意思是特定職業或學科中使用的特殊詞彙和短語。"
   },
   {
     "index": 75,
-    "text": "that when you use a string of words beginning with the same sound, it's called alliteration...",
-    "start": 303.831,
-    "end": 309.813,
-    "zh": "一连串词以相同的音开头,这叫做“头韵”……",
-    "zh_hant": "一連串詞以相同的音開頭,這叫做“頭韻”……"
+    "text": "The adjective impenetrable means impossible to understand.",
+    "start": 334.595,
+    "end": 338.656,
+    "zh": "形容词晦涩难懂的意思是难以理解。",
+    "zh_hant": "形容詞晦澀難懂的意思是難以理解。"
   },
   {
     "index": 76,
-    "text": "and you're absolutely right.",
-    "start": 309.933,
-    "end": 312.474,
-    "zh": "你完全说对了。",
-    "zh_hant": "你完全說對了。"
+    "text": "A turn-off is something that people dislike or find uninteresting.",
+    "start": 338.397,
+    "end": 342.879,
+    "zh": "令人反感的东西是人们不喜欢或觉得没兴趣的事物。",
+    "zh_hant": "令人反感的東西是人們不喜歡或覺得沒興趣的事物。"
   },
   {
     "index": 77,
-    "text": "Phew!",
-    "start": 312.354,
-    "end": 313.094,
-    "zh": "呼!",
-    "zh_hant": "呼!"
+    "text": "And finally, if you get goosebumps",
+    "start": 342.619,
+    "end": 344.94,
+    "zh": "最后，如果你起鸡皮疙瘩",
+    "zh_hant": "最後，如果你起雞皮疙瘩"
   },
   {
     "index": 78,
-    "text": "OK.",
-    "start": 313.895,
-    "end": 314.535,
-    "zh": "好的。",
-    "zh_hant": "好的。"
+    "text": ", the hairs on your skin stand up because you're cold, emotionally affected, or afraid.",
+    "start": 344.54,
+    "end": 350.963,
+    "zh": "，你皮肤上的汗毛竖起来，因为你冷、情绪受影响，或害怕。",
+    "zh_hant": "，你皮膚上的汗毛豎起來，因為你冷、情緒受影響，或害怕。"
   },
   {
     "index": 79,
-    "text": "Let's recap the vocabulary we've learned,",
-    "start": 314.355,
-    "end": 317.016,
-    "zh": "让我们来回顾一下今天学到的词汇,",
-    "zh_hant": "讓我們來回顧一下今天學到的詞彙,"
+    "text": "Once again, our six minutes are up, but remember, you'll find lots more episodes",
+    "start": 351.163,
+    "end": 356.145,
+    "zh": "再次，我们的六分钟时间到了，但记住，你会在我们的网站bbclearningenglish.com上找到",
+    "zh_hant": "再次，我們的六分鐘時間到了，但記住，你會在我們的網站bbclearningenglish.com上找到"
   },
   {
     "index": 80,
-    "text": "starting with open mic night , a live event where anyone is allowed to perform poems or music",
-    "start": 316.676,
-    "end": 322.916,
-    "zh": "首先是open mic night(开放麦之夜),指任何人都可以上台表演诗歌或音乐的现场活动。",
-    "zh_hant": "首先是open mic night(開放麥之夜),指任何人都可以上臺表演詩歌或音樂的現場活動。"
+    "text": "as well as a quiz and worksheet for this one on our website, bbclearningenglish.com.",
+    "start": 355.795,
+    "end": 362.028,
+    "zh": "更多剧集，以及这一集的测验和练习页。",
+    "zh_hant": "更多劇集，以及這一集的測驗和練習頁。"
   },
   {
     "index": 81,
-    "text": "on stage.",
-    "start": 322.556,
-    "end": 323.637,
-    "zh": "如果某样东西touch your soul(触动你的灵魂),意思是它在情感或精神层面深深打动了你。",
-    "zh_hant": "如果某樣東西touch your soul(觸動你的靈魂),意思是它在情感或精神層面深深打動了你。"
+    "text": "See you again soon.",
+    "start": 362.089,
+    "end": 363.429,
+    "zh": "我们很快再见。",
+    "zh_hant": "我們很快再見。"
   },
   {
     "index": 82,
-    "text": "If something touches your soul , it affects you deeply on an emotional or spiritual level.",
-    "start": 323.577,
-    "end": 329.497,
-    "zh": "jargon(行话)指某个行业或学科中使用的专门词汇和说法。",
-    "zh_hant": "jargon(行話)指某個行業或學科中使用的專門詞彙和說法。"
-  },
-  {
-    "index": 83,
-    "text": "means special words and phrases that are used in a particular profession or subject.",
-    "start": 329.877,
-    "end": 334.798,
-    "zh": "形容词impenetrable意思是难以理解的。",
-    "zh_hant": "形容詞impenetrable意思是難以理解的。"
-  },
-  {
-    "index": 84,
-    "text": "The adjective impenetrable means impossible to understand.",
-    "start": 334.578,
-    "end": 338.558,
-    "zh": "turn-off指让人不喜欢或觉得无趣的东西。",
-    "zh_hant": "turn-off指讓人不喜歡或覺得無趣的東西。"
-  },
-  {
-    "index": 85,
-    "text": "A turn-off is something that people dislike or find uninteresting.",
-    "start": 338.158,
-    "end": 342.859,
-    "zh": "最后,如果你get goosebumps(起鸡皮疙瘩),",
-    "zh_hant": "最後,如果你get goosebumps(起雞皮疙瘩),"
-  },
-  {
-    "index": 86,
-    "text": "And finally, if you get goosebumps ,",
-    "start": 342.619,
-    "end": 345.339,
-    "zh": "是指因为寒冷、情感触动或害怕,皮肤上的汗毛竖了起来。",
-    "zh_hant": "是指因為寒冷、情感觸動或害怕,皮膚上的汗毛豎了起來。"
-  },
-  {
-    "index": 87,
-    "text": "the hairs on your skin stand up because you're cold, emotionally affected, or afraid.",
-    "start": 344.939,
-    "end": 350.96,
-    "zh": "我们的六分钟又到了,不过别忘了,",
-    "zh_hant": "我們的六分鐘又到了,不過別忘了,"
-  },
-  {
-    "index": 88,
-    "text": "Once again, our six minutes are up, but remember,",
-    "start": 351.16,
-    "end": 354.46,
-    "zh": "你可以在我们的网站上找到更多期节目,",
-    "zh_hant": "你可以在我們的網站上找到更多期節目,"
-  },
-  {
-    "index": 89,
-    "text": "you'll find lots more episodes as well as a quiz and worksheet",
-    "start": 354.08,
-    "end": 358.08,
-    "zh": "以及这一期配套的测验和练习题,网址是bbclearningenglish.com。",
-    "zh_hant": "以及這一期配套的測驗和練習題,網址是bbclearningenglish.com。"
-  },
-  {
-    "index": 90,
-    "text": "for this one on our website, bbclearningenglish.com.",
-    "start": 357.68,
-    "end": 362.021,
-    "zh": "很快再见。",
-    "zh_hant": "很快再見。"
-  },
-  {
-    "index": 91,
-    "text": "See you again soon.",
-    "start": 362.061,
-    "end": 363.401,
-    "zh": "不过现在,先说再见。",
-    "zh_hant": "不過現在,先說再見。"
-  },
-  {
-    "index": 92,
     "text": "But for now, it's goodbye.",
-    "start": 363.021,
-    "end": 364.841,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "start": 363.079,
+    "end": 364.85,
+    "zh": "但现在，说再见。",
+    "zh_hant": "但現在，說再見。"
   }
 ]

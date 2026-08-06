@@ -12,8 +12,8 @@
     "text": "This is 6 Minute English from BBC Learning English.",
     "start": 8.121,
     "end": 11.653,
-    "zh": "这里是BBC英语学习的六分钟英语。",
-    "zh_hant": "這裡是BBC英語學習的六分鐘英語。"
+    "zh": "这里是BBC英语学习的《六分钟英语》。",
+    "zh_hant": "這裡是BBC英語學習的《六分鐘英語》。"
   },
   {
     "index": 2,
@@ -28,16 +28,16 @@
     "text": "And I'm Georgie.",
     "start": 11.953,
     "end": 13.334,
-    "zh": "我是乔吉。",
-    "zh_hant": "我是喬吉。"
+    "zh": "我是乔治。",
+    "zh_hant": "我是喬治。"
   },
   {
     "index": 4,
     "text": "Neil, I'm going to play you two sound recordings, and I want you to tell me how you feel when you hear them.",
     "start": 13.354,
     "end": 19.317,
-    "zh": "尼尔，我要给你播放两段录音，我想让你告诉我你听到它们时的感受。",
-    "zh_hant": "尼爾，我要給你播放兩段錄音，我想讓你告訴我你聽到它們時的感受。"
+    "zh": "尼尔，我要给你放两段录音，我想让你告诉我你听到它们时的感受。",
+    "zh_hant": "尼爾，我要給你放兩段錄音，我想讓你告訴我你聽到它們時的感受。"
   },
   {
     "index": 5,
@@ -52,24 +52,24 @@
     "text": "First this…",
     "start": 19.897,
     "end": 21.257,
-    "zh": "先听这个……",
-    "zh_hant": "先聽這個……"
+    "zh": "先放这段……",
+    "zh_hant": "先放這段……"
   },
   {
     "index": 7,
     "text": "And now this.",
     "start": 26.06,
     "end": 27.561,
-    "zh": "再听这个。",
-    "zh_hant": "再聽這個。"
+    "zh": "然后是这段。",
+    "zh_hant": "然後是這段。"
   },
   {
     "index": 8,
     "text": "Oh, well, that first clip made me feel really relaxed.",
     "start": 31.863,
     "end": 36.045,
-    "zh": "哦，嗯，第一段录音让我感觉非常放松。",
-    "zh_hant": "哦，嗯，第一段錄音讓我感覺非常放鬆。"
+    "zh": "哦，嗯，第一段剪辑让我感到非常放松。",
+    "zh_hant": "哦，嗯，第一段剪輯讓我感到非常放鬆。"
   },
   {
     "index": 9,
@@ -84,8 +84,8 @@
     "text": "I felt quite stressed out actually.",
     "start": 38.146,
     "end": 40.507,
-    "zh": "实际上我感觉压力很大。",
-    "zh_hant": "實際上我感覺壓力很大。"
+    "zh": "我实际上感到压力很大。",
+    "zh_hant": "我實際上感到壓力很大。"
   },
   {
     "index": 11,
@@ -100,35 +100,27 @@
     "text": "Well, this little experiment shows how much we are affected by the noise around us.",
     "start": 41.027,
     "end": 45.83,
-    "zh": "嗯，这个小实验表明我们受周围噪音影响有多大。",
-    "zh_hant": "嗯，這個小實驗表明我們受周圍噪音影響有多大。"
+    "zh": "好吧，这个小实验展示了我们周围噪音对我们影响有多大。",
+    "zh_hant": "好吧，這個小實驗展示了我們周圍噪音對我們影響有多大。"
   },
   {
     "index": 13,
     "text": "And that's a problem if you're one of the four billion people around the world who live in cities.",
     "start": 45.71,
     "end": 50.672,
-    "zh": "如果你是全世界四十亿城市居民中的一员，那这就是个问题。",
-    "zh_hant": "如果你是全世界四十億城市居民中的一員，那這就是個問題。"
+    "zh": "如果你是世界上40亿住在城市里的人之一，那就是个问题。",
+    "zh_hant": "如果你是世界上40億住在城市裡的人之一，那就是個問題。"
   },
   {
     "index": 14,
-    "text": "Yes, whether it's the rattle of train tracks, honking car horns,",
+    "text": "Yes, whether it's the rattle of train tracks, honking car horns, or the roar of aeroplanes overhead,",
     "start": 50.492,
-    "end": 55.054,
-    "zh": "是的，无论是铁轨的咔嗒声、汽车喇叭的鸣响，",
-    "zh_hant": "是的，無論是鐵軌的咔嗒聲、汽車喇叭的鳴響，"
+    "end": 57.216,
+    "zh": "是的，无论是铁轨的咔嗒声、汽车喇叭的鸣叫，还是头顶飞机的轰鸣声，",
+    "zh_hant": "是的，無論是鐵軌的咔嗒聲、汽車喇叭的鳴叫，還是頭頂飛機的轟鳴聲，"
   },
   {
     "index": 15,
-    "text": "or the roar of aeroplanes overhead,",
-    "start": 54.815,
-    "end": 57.216,
-    "zh": "还是头顶飞机的轰鸣声，",
-    "zh_hant": "還是頭頂飛機的轟鳴聲，"
-  },
-  {
-    "index": 16,
     "text": "modern cities are full of noise and this can have serious effects.",
     "start": 57.216,
     "end": 61.678,
@@ -136,643 +128,571 @@
     "zh_hant": "現代城市充滿了噪音，這可能會產生嚴重影響。"
   },
   {
-    "index": 17,
-    "text": "The World Health Organisation reports that by 2050,",
+    "index": 16,
+    "text": "The World Health Organisation reports that by 2050, around 2.5 billion people will experience hearing loss,",
     "start": 61.438,
-    "end": 64.81,
-    "zh": "世界卫生组织报告说，到2050年，",
-    "zh_hant": "世界衛生組織報告說，到2050年，"
-  },
-  {
-    "index": 18,
-    "text": "around 2.5 billion people will experience hearing loss,",
-    "start": 64.839,
     "end": 68.741,
-    "zh": "大约25亿人将经历听力损失，",
-    "zh_hant": "大約25億人將經歷聽力損失，"
+    "zh": "世界卫生组织报告称，到2050年，大约25亿人将经历听力损失，",
+    "zh_hant": "世界衛生組織報告稱，到2050年，大約25億人將經歷聽力損失，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and exposure to loud noise has been linked to stress and anxiety.",
     "start": 68.881,
     "end": 72.963,
-    "zh": "而暴露在嘈杂噪音中与压力和焦虑有关。",
-    "zh_hant": "而暴露在嘈雜噪音中與壓力和焦慮有關。"
+    "zh": "而且暴露在巨大噪音下与压力和焦虑有关。",
+    "zh_hant": "而且暴露在巨大噪音下與壓力和焦慮有關。"
+  },
+  {
+    "index": 18,
+    "text": "In this episode, we'll be hearing about ways to make our cities quieter, more relaxing places,",
+    "start": 72.963,
+    "end": 78.766,
+    "zh": "在本集中，我们将了解让城市变得更安静、更放松的方法，",
+    "zh_hant": "在本集中，我們將瞭解讓城市變得更安靜、更放鬆的方法，"
+  },
+  {
+    "index": 19,
+    "text": "using some useful new words and phrases.",
+    "start": 78.686,
+    "end": 81.327,
+    "zh": "并使用一些有用的新单词和短语。",
+    "zh_hant": "並使用一些有用的新單詞和短語。"
   },
   {
     "index": 20,
-    "text": "In this episode, we'll be hearing about ways to make our cities quieter,",
-    "start": 72.963,
-    "end": 77.205,
-    "zh": "在本期节目中，我们将听到让城市变得更安静、",
-    "zh_hant": "在本期節目中，我們將聽到讓城市變得更安靜、"
+    "text": "And remember, you'll find all the vocabulary along with a quiz and worksheet on our website, bbclearningenglish.com.",
+    "start": 81.087,
+    "end": 88.471,
+    "zh": "记住，你可以在我们的网站bbclearningenglish.com上找到所有词汇以及测验和练习表。",
+    "zh_hant": "記住，你可以在我們的網站bbclearningenglish.com上找到所有詞彙以及測驗和練習表。"
   },
   {
     "index": 21,
-    "text": "more relaxing places, using some useful new words and phrases.",
-    "start": 76.985,
-    "end": 81.327,
-    "zh": "更放松的方法，并学习一些有用的新词汇和短语。",
-    "zh_hant": "更放鬆的方法，並學習一些有用的新詞彙和短語。"
-  },
-  {
-    "index": 22,
-    "text": "And remember, you'll find all the vocabulary along with a quiz and worksheet",
-    "start": 81.087,
-    "end": 85.709,
-    "zh": "记住，你可以在我们的网站bbclearningenglish.com上找到所有词汇以及测验和练习册。",
-    "zh_hant": "記住，你可以在我們的網站bbclearningenglish.com上找到所有詞彙以及測驗和練習冊。"
-  },
-  {
-    "index": 23,
-    "text": "on our website, bbclearningenglish.com.",
-    "start": 85.37,
-    "end": 88.471,
-    "zh": "但现在我有个问题要问你，乔吉。",
-    "zh_hant": "但現在我有個問題要問你，喬吉。"
-  },
-  {
-    "index": 24,
     "text": "But now I have a question for you, Georgie.",
     "start": 88.552,
     "end": 91.373,
-    "zh": "声音是以分贝为单位来测量的。",
-    "zh_hant": "聲音是以分貝為單位來測量的。"
+    "zh": "但现在我给你出个问题，乔治。",
+    "zh_hant": "但現在我給你出個問題，喬治。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "Sound is measured in units called decibels .",
     "start": 91.373,
     "end": 94.37,
-    "zh": "但要是我轻声说话，那会是多少分贝呢？",
-    "zh_hant": "但要是我輕聲說話，那會是多少分貝呢？"
+    "zh": "声音用称为分贝的单位来测量。",
+    "zh_hant": "聲音用稱為分貝的單位來測量。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "But how many decibels would it be if I whispered?",
     "start": 94.154,
     "end": 98.076,
-    "zh": "耳语就是像这样说话。",
-    "zh_hant": "耳語就是像這樣說話。"
+    "zh": "如果我低语，那会是多少分贝？",
+    "zh_hant": "如果我低語，那會是多少分貝？"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "A whisper is speaking like this.",
     "start": 97.916,
     "end": 100.477,
-    "zh": "是a) 3分贝，b) 13分贝，还是c) 30分贝？",
-    "zh_hant": "是a) 3分貝，b) 13分貝，還是c) 30分貝？"
+    "zh": "低语就是像这样说话。",
+    "zh_hant": "低語就是像這樣說話。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "Is it: a) 3 decibels , b) 13 decibels , or c) 30 decibels ?",
     "start": 100.657,
     "end": 107.01,
-    "zh": "哦，这真的很难。",
-    "zh_hant": "哦，這真的很難。"
+    "zh": "是a）3分贝，b）13分贝，还是c）30分贝？",
+    "zh_hant": "是a）3分貝，b）13分貝，還是c）30分貝？"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "Oh, that's really hard.",
     "start": 106.981,
     "end": 108.601,
-    "zh": "我选b) 13分贝。",
-    "zh_hant": "我選b) 13分貝。"
+    "zh": "哦，那真难。",
+    "zh_hant": "哦，那真難。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "I'll go for b) 13 decibels .",
     "start": 108.281,
     "end": 111.47,
-    "zh": "嗯，我们会在节目结束时揭晓答案。",
-    "zh_hant": "嗯，我們會在節目結束時揭曉答案。"
+    "zh": "我选b）13分贝。",
+    "zh_hant": "我選b）13分貝。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "Well, we'll find out the answer at the end of the programme.",
     "start": 111.303,
     "end": 115.625,
-    "zh": "让我们从世界上最嘈杂的城市之一——印度的孟买开始，",
-    "zh_hant": "讓我們從世界上最嘈雜的城市之一——印度的孟買開始，"
+    "zh": "好吧，我们会在节目结束时揭晓答案。",
+    "zh_hant": "好吧，我們會在節目結束時揭曉答案。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "Let's start in one of the noisiest cities in the world – Mumbai in India,",
     "start": 115.345,
     "end": 120.047,
-    "zh": "那里的白天噪音水平经常达到80分贝，",
-    "zh_hant": "那裡的白天噪音水平經常達到80分貝，"
+    "zh": "让我们从世界上最吵闹的城市之一开始——印度的孟买，",
+    "zh_hant": "讓我們從世界上最吵鬧的城市之一開始——印度的孟買，"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "where daytime noise levels regularly hit 80 decibels ,",
     "start": 119.867,
     "end": 124.01,
-    "zh": "比世界卫生组织的建议高出20多分贝。",
-    "zh_hant": "比世界衛生組織的建議高出20多分貝。"
+    "zh": "那里白天的噪音水平通常达到80分贝，",
+    "zh_hant": "那裡白天的噪音水平通常達到80分貝，"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "which is over 20 decibels higher than World Health Organisation recommendations.",
     "start": 123.989,
     "end": 129.292,
-    "zh": "听一听孟买本地人查维·萨赫德夫在BBC世界服务节目《人们修复世界》中分享她在这座嘈杂城市生活的经历。",
-    "zh_hant": "聽一聽孟買本地人查維·薩赫德夫在BBC世界服務節目《人們修復世界》中分享她在這座嘈雜城市生活的經歷。"
+    "zh": "这比世界卫生组织的建议高出20多分贝。",
+    "zh_hant": "這比世界衛生組織的建議高出20多分貝。"
+  },
+  {
+    "index": 32,
+    "text": "Listen to Mumbai native Chhavi Sachdev share her experiences of living in this noisy city",
+    "start": 129.492,
+    "end": 135.395,
+    "zh": "听孟买当地人查维·萨赫德夫分享她在这一嘈杂城市生活的经历，",
+    "zh_hant": "聽孟買當地人查維·薩赫德夫分享她在這一嘈雜城市生活的經歷，"
+  },
+  {
+    "index": 33,
+    "text": "with BBC World Service programme People Fixing the World.",
+    "start": 135.315,
+    "end": 139.016,
+    "zh": "与BBC世界服务节目《修复世界的人们》一起。",
+    "zh_hant": "與BBC世界服務節目《修復世界的人們》一起。"
+  },
+  {
+    "index": 34,
+    "text": "I mean, India in general is just really loud.",
+    "start": 138.977,
+    "end": 142.338,
+    "zh": "我是说，印度整体上真的很吵。",
+    "zh_hant": "我是說，印度整體上真的很吵。"
   },
   {
     "index": 35,
-    "text": "Listen to Mumbai native Chhavi Sachdev share her experiences",
-    "start": 129.492,
-    "end": 133.794,
-    "zh": "我是说，印度总体上真的很吵。",
-    "zh_hant": "我是說，印度總體上真的很吵。"
-  },
-  {
-    "index": 36,
-    "text": "of living in this noisy city with BBC World Service programme People Fixing the World.",
-    "start": 133.444,
-    "end": 139.016,
+    "text": "We are a loud people.",
+    "start": 141.988,
+    "end": 143.439,
     "zh": "我们是一个喧闹的民族。",
     "zh_hant": "我們是一個喧鬧的民族。"
   },
   {
-    "index": 37,
-    "text": "I mean, India in general is just really loud.",
-    "start": 138.977,
-    "end": 142.338,
-    "zh": "我们穿得鲜艳，说得大声，庆祝得热闹，看电影也很大声。",
-    "zh_hant": "我們穿得鮮豔，說得大聲，慶祝得熱鬧，看電影也很大聲。"
-  },
-  {
-    "index": 38,
-    "text": "We are a loud people.",
-    "start": 141.988,
-    "end": 143.439,
-    "zh": "当人们问我怀念国外生活的什么时，我告诉他们那是宁静，",
-    "zh_hant": "當人們問我懷念國外生活的什麼時，我告訴他們那是寧靜，"
-  },
-  {
-    "index": 39,
+    "index": 36,
     "text": "We dress loud , we talk loud, we celebrate loud, we watch movies loud.",
     "start": 143.359,
     "end": 147.661,
-    "zh": "因为在欧美生活了12年后，当我回来时，我意识到我再也受不了了。",
-    "zh_hant": "因為在歐美生活了12年後，當我回來時，我意識到我再也受不了了。"
+    "zh": "我们穿着鲜艳，说话大声，庆祝热闹，看电影也大声。",
+    "zh_hant": "我們穿著鮮豔，說話大聲，慶祝熱鬧，看電影也大聲。"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "When people ask me what I miss about living abroad, I tell them it's the quiet,",
     "start": 147.521,
     "end": 152.043,
-    "zh": "我已经习惯了较低水平的噪音。",
-    "zh_hant": "我已經習慣了較低水平的噪音。"
+    "zh": "当人们问我怀念在国外生活的什么时，我告诉他们，是宁静，",
+    "zh_hant": "當人們問我懷念在國外生活的什麼時，我告訴他們，是寧靜，"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "because after 12 years of living in the US and Europe, when I got back, I realised I couldn't handle it anymore.",
     "start": 151.693,
     "end": 158.046,
-    "zh": "查维说：“印度人说话大声，庆祝热闹，穿得鲜艳。”",
-    "zh_hant": "查維說：“印度人說話大聲，慶祝熱鬧，穿得鮮豔。”"
+    "zh": "因为在欧美生活了12年后，当我回来时，我意识到我再也无法忍受了。",
+    "zh_hant": "因為在歐美生活了12年後，當我回來時，我意識到我再也無法忍受了。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "I'd gotten used to lower levels of noise.",
     "start": 157.766,
     "end": 160.267,
-    "zh": "“穿得鲜艳”意思是穿颜色明亮、图案大胆醒目的衣服。",
-    "zh_hant": "“穿得鮮豔”意思是穿顏色明亮、圖案大膽醒目的衣服。"
+    "zh": "我已经习惯了更低的噪音水平。",
+    "zh_hant": "我已經習慣了更低的噪音水平。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "Chhavi says, \"Indians talk loud, celebrate loud and dress loud .\"",
     "start": 160.107,
     "end": 164.79,
-    "zh": "当查维在国外生活后回到印度时，她说她受不了那种噪音。",
-    "zh_hant": "當查維在國外生活後回到印度時，她說她受不了那種噪音。"
+    "zh": "查维说：“印度人说话大声，庆祝热闹，穿着鲜艳。”",
+    "zh_hant": "查維說：“印度人說話大聲，慶祝熱鬧，穿著鮮豔。”"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "To dress loud means to wear clothes with bright colours and large, bold patterns.",
     "start": 164.489,
     "end": 169.312,
-    "zh": "如果你受不了某事，意思是你觉得很难应对或处理它。",
-    "zh_hant": "如果你受不了某事，意思是你覺得很難應對或處理它。"
+    "zh": "穿着鲜艳的意思是穿颜色明亮、图案大胆醒目的衣服。",
+    "zh_hant": "穿著鮮豔的意思是穿顏色明亮、圖案大膽醒目的衣服。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "When Chhavi returned to India after living overseas, she says she couldn't handle the noise.",
     "start": 169.092,
     "end": 174.714,
-    "zh": "那么，像孟买这样的城市能采取什么措施来解决噪音问题呢？",
-    "zh_hant": "那麼，像孟買這樣的城市能採取什麼措施來解決噪音問題呢？"
+    "zh": "查维在国外生活后回到印度，她说她无法忍受噪音。",
+    "zh_hant": "查維在國外生活後回到印度，她說她無法忍受噪音。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "If you can't handle something, you find it difficult to deal or cope with.",
     "start": 174.755,
     "end": 179.217,
-    "zh": "一个有趣的方法是使用声音本身来让事物感觉更安静。",
-    "zh_hant": "一個有趣的方法是使用聲音本身來讓事物感覺更安靜。"
+    "zh": "如果你无法忍受某事，你发现处理或应对它很困难。",
+    "zh_hant": "如果你無法忍受某事，你發現處理或應對它很困難。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "So, what can be done to tackle noise in cities like Mumbai?",
     "start": 179.037,
     "end": 182.858,
-    "zh": "声音景观设计是指在繁忙的公共空间中添加特定声音，",
-    "zh_hant": "聲音景觀設計是指在繁忙的公共空間中新增特定聲音，"
+    "zh": "那么，能采取什么措施来解决像孟买这样的城市的噪音问题呢？",
+    "zh_hant": "那麼，能採取什麼措施來解決像孟買這樣的城市的噪音問題呢？"
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "One interesting approach involves using sound itself to make things feel quieter.",
     "start": 182.939,
     "end": 187.941,
-    "zh": "使它们听起来和感觉上更放松。",
-    "zh_hant": "使它們聽起來和感覺上更放鬆。"
+    "zh": "一个有趣的方法涉及利用声音本身来让事物感觉更安静。",
+    "zh_hant": "一個有趣的方法涉及利用聲音本身來讓事物感覺更安靜。"
+  },
+  {
+    "index": 46,
+    "text": "Soundscaping is the idea of adding certain sounds to busy public spaces so that they sound and feel more relaxing.",
+    "start": 187.961,
+    "end": 195.244,
+    "zh": "声音景观设计是在繁忙的公共空间中添加某些声音，使它们听起来和感觉起来更放松。",
+    "zh_hant": "聲音景觀設計是在繁忙的公共空間中新增某些聲音，使它們聽起來和感覺起來更放鬆。"
+  },
+  {
+    "index": 47,
+    "text": "Sound artist Charles Montambault lives near the Parc des Madelinots, a busy city park in Montreal, Canada.",
+    "start": 195.425,
+    "end": 202.388,
+    "zh": "声音艺术家查尔斯·蒙塔姆博住在加拿大蒙特利尔繁忙的城市公园马德利诺公园附近。",
+    "zh_hant": "聲音藝術家查爾斯·蒙塔姆博住在加拿大蒙特利爾繁忙的城市公園馬德利諾公園附近。"
+  },
+  {
+    "index": 48,
+    "text": "Charles was inspired to recreate the ocean sounds he heard on holiday in the Magdalen Islands in his city park back home.",
+    "start": 202.428,
+    "end": 209.912,
+    "zh": "查尔斯受到启发，在回家的城市公园里重现他在马格达伦群岛度假时听到的海洋声音。",
+    "zh_hant": "查爾斯受到啟發，在回家的城市公園裡重現他在馬格達倫群島度假時聽到的海洋聲音。"
   },
   {
     "index": 49,
-    "text": "Soundscaping is the idea of adding certain sounds to busy public spaces",
-    "start": 187.961,
-    "end": 192.703,
-    "zh": "声音艺术家查尔斯·蒙塔博住在加拿大蒙特利尔繁忙的城市公园马德兰诺公园附近。",
-    "zh_hant": "聲音藝術家查爾斯·蒙塔博住在加拿大蒙特利爾繁忙的城市公園馬德蘭諾公園附近。"
+    "text": "On BBC World Service programme People Fixing the World, he tells reporter Natasha Fernandes",
+    "start": 210.173,
+    "end": 215.575,
+    "zh": "在英国广播公司世界服务节目《修复世界的人们》中，他告诉记者娜塔莎·费尔南德斯，",
+    "zh_hant": "在英國廣播公司世界服務節目《修復世界的人們》中，他告訴記者娜塔莎·費爾南德斯，"
   },
   {
     "index": 50,
-    "text": "so that they sound and feel more relaxing.",
-    "start": 192.563,
-    "end": 195.244,
-    "zh": "查尔斯受到启发，想把他度假时在马格达伦群岛听到的海洋声音重现到家乡的城市公园里。",
-    "zh_hant": "查爾斯受到啟發，想把他度假時在馬格達倫群島聽到的海洋聲音重現到家鄉的城市公園裡。"
+    "text": "that these sounds included ocean waves and some unusual-sounding sand.",
+    "start": 215.395,
+    "end": 220.497,
+    "zh": "这些声音包括海浪和一些听起来不寻常的沙子。",
+    "zh_hant": "這些聲音包括海浪和一些聽起來不尋常的沙子。"
   },
   {
     "index": 51,
-    "text": "Sound artist Charles Montambault lives near the Parc des Madelinots,",
-    "start": 195.425,
-    "end": 199.747,
-    "zh": "在BBC世界服务节目《人们修复世界》中，他告诉记者娜塔莎·费尔南德斯这些声音包括海浪和一些听起来不寻常的沙子。",
-    "zh_hant": "在BBC世界服務節目《人們修復世界》中，他告訴記者娜塔莎·費爾南德斯這些聲音包括海浪和一些聽起來不尋常的沙子。"
-  },
-  {
-    "index": 52,
-    "text": "a busy city park in Montreal, Canada.",
-    "start": 199.627,
-    "end": 202.388,
+    "text": "The sand on the Magdalen Islands can sing.",
+    "start": 220.478,
+    "end": 223.639,
     "zh": "马格达伦群岛的沙子会唱歌。",
     "zh_hant": "馬格達倫群島的沙子會唱歌。"
   },
   {
+    "index": 52,
+    "text": "When you walk into the sand firmly,",
+    "start": 223.399,
+    "end": 226.28,
+    "zh": "当你用力踩进沙子里时，",
+    "zh_hant": "當你用力踩進沙子裡時，"
+  },
+  {
     "index": 53,
-    "text": "Charles was inspired to recreate the ocean sounds he heard on holiday",
-    "start": 202.428,
-    "end": 206.551,
-    "zh": "当你用力踩进沙子里时，沙子会发出吱吱声，",
-    "zh_hant": "當你用力踩進沙子裡時，沙子會發出吱吱聲，"
+    "text": "the sand makes some squeaky sounds, so that's one sound that is kind of funny, kind of special.",
+    "start": 226.12,
+    "end": 232.023,
+    "zh": "沙子会发出吱吱声，所以那是一种有点滑稽、有点特别的声音。",
+    "zh_hant": "沙子會發出吱吱聲，所以那是一種有點滑稽、有點特別的聲音。"
   },
   {
     "index": 54,
-    "text": "in the Magdalen Islands in his city park back home.",
-    "start": 206.331,
-    "end": 209.912,
-    "zh": "所以那是一种有点滑稽、有点特别的声音。",
-    "zh_hant": "所以那是一種有點滑稽、有點特別的聲音。"
+    "text": "Inside the small park,",
+    "start": 232.043,
+    "end": 233.784,
+    "zh": "在小型公园内，",
+    "zh_hant": "在小型公園內，"
   },
   {
     "index": 55,
-    "text": "On BBC World Service programme People Fixing the World, he tells reporter Natasha Fernandes",
-    "start": 210.173,
-    "end": 215.575,
-    "zh": "在这个被繁忙道路环绕的小公园里，",
-    "zh_hant": "在這個被繁忙道路環繞的小公園裡，"
+    "text": "surrounded by busy roads, Charles and his team set",
+    "start": 233.504,
+    "end": 237.006,
+    "zh": "被繁忙道路环绕，查尔斯和他的团队设置",
+    "zh_hant": "被繁忙道路環繞，查爾斯和他的團隊設定"
   },
   {
     "index": 56,
-    "text": "that these sounds included ocean waves and some unusual-sounding sand.",
-    "start": 215.395,
-    "end": 220.497,
-    "zh": "查尔斯和他的团队设置了一个沉浸式声音艺术装置，形式是种在花坛里的扬声器。",
-    "zh_hant": "查爾斯和他的團隊設定了一個沉浸式聲音藝術裝置，形式是種在花壇裡的揚聲器。"
+    "text": "up an immersive sound art installation in the form of speakers planted in flower beds.",
+    "start": 236.656,
+    "end": 241.728,
+    "zh": "了一个沉浸式声音艺术装置，形式是植在花坛中的扬声器。",
+    "zh_hant": "了一個沉浸式聲音藝術裝置，形式是植在花壇中的揚聲器。"
   },
   {
     "index": 57,
-    "text": "The sand on the Magdalen Islands can sing.",
-    "start": 220.478,
-    "end": 223.639,
-    "zh": "所以，这个艺术装置实际上是为了通过添加一些安静的声音让公园更安静一些。",
-    "zh_hant": "所以，這個藝術裝置實際上是為了透過新增一些安靜的聲音讓公園更安靜一些。"
+    "text": "So, the art installation was really to make this park a little quieter by adding some quiet noises.",
+    "start": 241.468,
+    "end": 248.792,
+    "zh": "所以，艺术装置确实是通过添加一些安静的声音让这个公园变得更安静。",
+    "zh_hant": "所以，藝術裝置確實是透過新增一些安靜的聲音讓這個公園變得更安靜。"
   },
   {
     "index": 58,
-    "text": "When you walk into the sand firmly, the sand makes some squeaky sounds,",
-    "start": 223.399,
-    "end": 228.521,
-    "zh": "所以，这有点反直觉，但你可以通过添加一些更平静的声音让公园不那么吵闹。",
-    "zh_hant": "所以，這有點反直覺，但你可以透過新增一些更平靜的聲音讓公園不那麼吵鬧。"
+    "text": "So, it's counterintuitive ,",
+    "start": 248.652,
+    "end": 251.45,
+    "zh": "所以，这有悖直觉，",
+    "zh_hant": "所以，這有悖直覺，"
   },
   {
     "index": 59,
-    "text": "so that's one sound that is kind of funny, kind of special.",
-    "start": 228.171,
-    "end": 232.023,
-    "zh": "马格达伦群岛的沙子是吱吱作响的——踩上去会发出一种叫吱吱声的高音调声音。",
-    "zh_hant": "馬格達倫群島的沙子是吱吱作響的——踩上去會發出一種叫吱吱聲的高音調聲音。"
+    "text": "but you can make a park less noisy by adding some calmer sounds.",
+    "start": 251.573,
+    "end": 258.176,
+    "zh": "但你可以通过添加一些平静的声音让公园不那么吵。",
+    "zh_hant": "但你可以透過新增一些平靜的聲音讓公園不那麼吵。"
   },
   {
     "index": 60,
-    "text": "Inside the small park, surrounded by busy roads,",
-    "start": 232.043,
-    "end": 235.505,
-    "zh": "查尔斯通过隐藏在公园里的扬声器播放这些沙子、海浪和其他放松声音的录音。",
-    "zh_hant": "查爾斯透過隱藏在公園裡的揚聲器播放這些沙子、海浪和其他放鬆聲音的錄音。"
+    "text": "The sand on the Magdalen Islands is squeaky – it makes a high-pitched sound called a squeak when stepped on.",
+    "start": 258.457,
+    "end": 264.96,
+    "zh": "马格达伦群岛的沙子吱吱作响——踩上去时会产生一种称为吱吱声的高音声音。",
+    "zh_hant": "馬格達倫群島的沙子吱吱作響——踩上去時會產生一種稱為吱吱聲的高音聲音。"
   },
   {
     "index": 61,
-    "text": "Charles and his team set up an immersive sound art installation in the form of speakers planted in flower beds.",
-    "start": 235.285,
-    "end": 241.728,
-    "zh": "他创作了一个艺术装置——一种旨在给人们提供互动体验的艺术作品。",
-    "zh_hant": "他創作了一個藝術裝置——一種旨在給人們提供互動體驗的藝術作品。"
+    "text": "Charles played recordings of this sand, ocean waves and other relaxing sounds through speakers hidden in the park.",
+    "start": 264.9,
+    "end": 271.763,
+    "zh": "他通过藏在公园里的扬声器播放了这些沙子、海浪和其他放松声音的录音。",
+    "zh_hant": "他透過藏在公園裡的揚聲器播放了這些沙子、海浪和其他放鬆聲音的錄音。"
   },
   {
     "index": 62,
-    "text": "So, the art installation was really to make this park a little quieter",
-    "start": 241.468,
-    "end": 245.65,
-    "zh": "通过添加更多放松的声音，查尔斯的艺术装置实际上让公园感觉更安静了。",
-    "zh_hant": "透過新增更多放鬆的聲音，查爾斯的藝術裝置實際上讓公園感覺更安靜了。"
+    "text": "He created an art installation – a work of art designed to give people an interactive experience.",
+    "start": 271.623,
+    "end": 278.126,
+    "zh": "他创作了一个艺术装置——一件旨在给人们互动体验的艺术作品。",
+    "zh_hant": "他創作了一個藝術裝置——一件旨在給人們互動體驗的藝術作品。"
   },
   {
     "index": 63,
-    "text": "by adding some quiet noises.",
-    "start": 245.731,
-    "end": 248.792,
-    "zh": "这是一个反直觉的例子，意思是它发生的",
-    "zh_hant": "這是一個反直覺的例子，意思是它發生的"
-  },
-  {
-    "index": 64,
-    "text": "So, it's counterintuitive , but you can make",
-    "start": 248.652,
-    "end": 253.234,
-    "zh": "方式与你预期的不同。",
-    "zh_hant": "方式與你預期的不同。"
-  },
-  {
-    "index": 65,
-    "text": "a park less noisy by adding some calmer sounds.",
-    "start": 253.234,
-    "end": 258.176,
-    "zh": "多么棒的主意！",
-    "zh_hant": "多麼棒的主意！"
-  },
-  {
-    "index": 66,
-    "text": "The sand on the Magdalen Islands is squeaky – it makes a high-pitched sound called a squeak",
-    "start": 258.457,
-    "end": 264.139,
-    "zh": "类似的声音景观现在也在帮助其他城市的居民放松，",
-    "zh_hant": "類似的聲音景觀現在也在幫助其他城市的居民放鬆，"
-  },
-  {
-    "index": 67,
-    "text": "when stepped on.",
-    "start": 263.789,
-    "end": 264.96,
-    "zh": "包括东京和巴塞罗那。",
-    "zh_hant": "包括東京和巴塞羅那。"
-  },
-  {
-    "index": 68,
-    "text": "Charles played recordings of this sand, ocean waves and other relaxing sounds",
-    "start": 264.9,
-    "end": 269.882,
-    "zh": "现在尼尔，你问了我一个关于非常安静的声音——耳语的问题。",
-    "zh_hant": "現在尼爾，你問了我一個關於非常安靜的聲音——耳語的問題。"
-  },
-  {
-    "index": 69,
-    "text": "through speakers hidden in the park.",
-    "start": 269.532,
-    "end": 271.763,
-    "zh": "那么，你打算揭晓正确答案了吗？",
-    "zh_hant": "那麼，你打算揭曉正確答案了嗎？"
-  },
-  {
-    "index": 70,
-    "text": "He created an art installation – a work of art designed to give people",
-    "start": 271.623,
-    "end": 276.185,
-    "zh": "我问你耳语有多响。",
-    "zh_hant": "我問你耳語有多響。"
-  },
-  {
-    "index": 71,
-    "text": "an interactive experience.",
-    "start": 275.835,
-    "end": 278.126,
-    "zh": "是的，我说了是13分贝。",
-    "zh_hant": "是的，我說了是13分貝。"
-  },
-  {
-    "index": 72,
     "text": "By adding more relaxing sounds, Charles' art installation actually made the park feel quieter.",
     "start": 277.966,
     "end": 283.829,
-    "zh": "嗯，13是个不吉利的数字，而你答错了。",
-    "zh_hant": "嗯，13是個不吉利的數字，而你答錯了。"
+    "zh": "通过添加更放松的声音，查尔斯的艺术装置实际上让公园感觉更安静。",
+    "zh_hant": "透過新增更放鬆的聲音，查爾斯的藝術裝置實際上讓公園感覺更安靜。"
   },
   {
-    "index": 73,
-    "text": "It's an example of something that's counterintuitive , meaning it happens",
+    "index": 64,
+    "text": "It's an example of something that's counterintuitive , meaning it happens differently from how you would expect.",
     "start": 283.909,
-    "end": 288.412,
+    "end": 290.433,
+    "zh": "这是一个有悖常理的事物的例子，意思是它以与你预期不同的方式发生。",
+    "zh_hant": "這是一個有悖常理的事物的例子，意思是它以與你預期不同的方式發生。"
+  },
+  {
+    "index": 65,
+    "text": "What a great idea!",
+    "start": 290.193,
+    "end": 291.613,
+    "zh": "多棒的主意！",
+    "zh_hant": "多棒的主意！"
+  },
+  {
+    "index": 66,
+    "text": "And similar soundscapes are now helping city dwellers relax in other cities too, including Tokyo and Barcelona.",
+    "start": 291.674,
+    "end": 298.657,
+    "zh": "类似的声景现在也正在帮助其他城市的居民放松，包括东京和巴塞罗那。",
+    "zh_hant": "類似的聲景現在也正在幫助其他城市的居民放鬆，包括東京和巴塞羅那。"
+  },
+  {
+    "index": 67,
+    "text": "Now Neil, you asked me a question about a very quiet sound – a whisper.",
+    "start": 298.657,
+    "end": 303.959,
+    "zh": "现在尼尔，你问了我一个关于非常安静的声音——低语的问题。",
+    "zh_hant": "現在尼爾，你問了我一個關於非常安靜的聲音——低語的問題。"
+  },
+  {
+    "index": 68,
+    "text": "So, are you going to reveal the correct answer?",
+    "start": 303.86,
+    "end": 306.661,
+    "zh": "那么，你打算揭晓正确答案吗？",
+    "zh_hant": "那麼，你打算揭曉正確答案嗎？"
+  },
+  {
+    "index": 69,
+    "text": "I asked you how loud a whisper is.",
+    "start": 306.801,
+    "end": 310.643,
+    "zh": "我问过你低语有多大声。",
+    "zh_hant": "我問過你低語有多大聲。"
+  },
+  {
+    "index": 70,
+    "text": "Yes, and I said 13 decibels .",
+    "start": 310.383,
+    "end": 313.45,
+    "zh": "是的，我回答13分贝。",
+    "zh_hant": "是的，我回答13分貝。"
+  },
+  {
+    "index": 71,
+    "text": "Well, 13 is an unlucky number and you are wrong.",
+    "start": 313.1,
+    "end": 316.225,
+    "zh": "嗯，13是个不吉利的数字，你错了。",
+    "zh_hant": "嗯，13是個不吉利的數字，你錯了。"
+  },
+  {
+    "index": 72,
+    "text": "Ah!",
+    "start": 315.986,
+    "end": 316.726,
     "zh": "啊！",
     "zh_hant": "啊！"
   },
   {
-    "index": 74,
-    "text": "differently from how you would expect.",
-    "start": 288.092,
-    "end": 290.433,
-    "zh": "其实是30。",
-    "zh_hant": "其實是30。"
-  },
-  {
-    "index": 75,
-    "text": "What a great idea!",
-    "start": 290.193,
-    "end": 291.613,
-    "zh": "好的。",
-    "zh_hant": "好的。"
-  },
-  {
-    "index": 76,
-    "text": "And similar soundscapes are now helping city dwellers relax",
-    "start": 291.674,
-    "end": 295.235,
-    "zh": "让我们回顾一下学过的词汇，从分贝开始——测量声音的单位。",
-    "zh_hant": "讓我們回顧一下學過的詞彙，從分貝開始——測量聲音的單位。"
-  },
-  {
-    "index": 77,
-    "text": "in other cities too, including Tokyo and Barcelona.",
-    "start": 294.895,
-    "end": 298.657,
-    "zh": "穿得鲜艳的人喜欢穿颜色明亮、图案大胆的衣服。",
-    "zh_hant": "穿得鮮豔的人喜歡穿顏色明亮、圖案大膽的衣服。"
-  },
-  {
-    "index": 78,
-    "text": "Now Neil, you asked me a question about a very quiet sound – a whisper.",
-    "start": 298.657,
-    "end": 303.959,
-    "zh": "如果你受不了某事，你觉得很难处理它。",
-    "zh_hant": "如果你受不了某事，你覺得很難處理它。"
-  },
-  {
-    "index": 79,
-    "text": "So, are you going to reveal the correct answer?",
-    "start": 303.86,
-    "end": 306.661,
-    "zh": "艺术装置是一种设计来在特定空间中创造互动体验的艺术品。",
-    "zh_hant": "藝術裝置是一種設計來在特定空間中創造互動體驗的藝術品。"
-  },
-  {
-    "index": 80,
-    "text": "I asked you how loud a whisper is.",
-    "start": 306.801,
-    "end": 310.643,
-    "zh": "形容词“吱吱作响的”描述像老鼠一样发出高音调声音的事物。",
-    "zh_hant": "形容詞“吱吱作響的”描述像老鼠一樣發出高音調聲音的事物。"
-  },
-  {
-    "index": 81,
-    "text": "Yes, and I said 13 decibels .",
-    "start": 310.383,
-    "end": 313.45,
-    "zh": "吱吱，吱吱！",
-    "zh_hant": "吱吱，吱吱！"
-  },
-  {
-    "index": 82,
-    "text": "Well, 13 is an unlucky number and you are wrong.",
-    "start": 313.1,
-    "end": 316.225,
-    "zh": "最后，如果你称某事为反直觉的，你的意思是它发生的",
-    "zh_hant": "最後，如果你稱某事為反直覺的，你的意思是它發生的"
-  },
-  {
-    "index": 83,
-    "text": "Ah!",
-    "start": 315.986,
-    "end": 316.726,
-    "zh": "方式与你预期的不同。",
-    "zh_hant": "方式與你預期的不同。"
-  },
-  {
-    "index": 84,
+    "index": 73,
     "text": "It was actually 30.",
     "start": 317.366,
     "end": 319.797,
-    "zh": "再次，我们的六分钟时间到了，但如果你想了解更多关于这个以及许多其他热门话题的信息，",
-    "zh_hant": "再次，我們的六分鐘時間到了，但如果你想了解更多關於這個以及許多其他熱門話題的資訊，"
+    "zh": "实际上是30。",
+    "zh_hant": "實際上是30。"
   },
   {
-    "index": 85,
+    "index": 74,
     "text": "OK.",
     "start": 319.847,
     "end": 320.487,
-    "zh": "你可以在我们的网站bbclearningenglish.com上找到更多节目和学习活动。",
-    "zh_hant": "你可以在我們的網站bbclearningenglish.com上找到更多節目和學習活動。"
+    "zh": "好吧。",
+    "zh_hant": "好吧。"
   },
   {
-    "index": 86,
+    "index": 75,
     "text": "Let's recap the vocabulary we've learned, starting with decibel – the unit for measuring sound.",
     "start": 320.228,
     "end": 325.811,
-    "zh": "我们很快再见。",
-    "zh_hant": "我們很快再見。"
+    "zh": "让我们回顾一下我们学过的词汇，从分贝开始——测量声音的单位。",
+    "zh_hant": "讓我們回顧一下我們學過的詞彙，從分貝開始——測量聲音的單位。"
   },
   {
-    "index": 87,
+    "index": 76,
     "text": "Someone who dresses loud likes to wear clothes with bright colours and bold designs.",
     "start": 325.731,
     "end": 330.693,
-    "zh": "但现在，是时候说再见了。",
-    "zh_hant": "但現在，是時候說再見了。"
+    "zh": "穿着鲜艳的人喜欢穿颜色明亮、设计大胆的衣服。",
+    "zh_hant": "穿著鮮豔的人喜歡穿顏色明亮、設計大膽的衣服。"
   },
   {
-    "index": 88,
+    "index": 77,
     "text": "If you can't handle something, you find it difficult to deal with.",
     "start": 330.673,
     "end": 334.495,
-    "zh": "艺术装置是一种旨在在特定空间创造互动体验的艺术品。",
-    "zh_hant": "藝術裝置是一種旨在在特定空間創造互動體驗的藝術品。"
+    "zh": "如果你无法忍受某事，你发现处理它很困难。",
+    "zh_hant": "如果你無法忍受某事，你發現處理它很困難。"
   },
   {
-    "index": 89,
+    "index": 78,
     "text": "An art installation is an artwork designed to create an interactive experience in a certain space.",
     "start": 334.255,
     "end": 340.338,
-    "zh": "形容词吱吱作响描述发出像老鼠那样高音调声音的东西。",
-    "zh_hant": "形容詞吱吱作響描述發出像老鼠那樣高音調聲音的東西。"
+    "zh": "艺术装置是一种旨在在特定空间中创造互动体验的艺术作品。",
+    "zh_hant": "藝術裝置是一種旨在在特定空間中創造互動體驗的藝術作品。"
   },
   {
-    "index": 90,
+    "index": 79,
     "text": "The adjective squeaky describes things which make a high-pitched sound like a mouse.",
     "start": 340.178,
     "end": 346.14,
+    "zh": "形容词吱吱作响描述发出像老鼠一样高音声音的事物。",
+    "zh_hant": "形容詞吱吱作響描述發出像老鼠一樣高音聲音的事物。"
+  },
+  {
+    "index": 80,
+    "text": "Squeak, squeak!",
+    "start": 345.881,
+    "end": 347.001,
     "zh": "吱吱，吱吱！",
     "zh_hant": "吱吱，吱吱！"
   },
   {
-    "index": 91,
-    "text": "Squeak, squeak!",
-    "start": 345.881,
-    "end": 347.001,
-    "zh": "最后，如果你称某事物为反直觉，你的意思是它以你预期之外的方式发生。",
-    "zh_hant": "最後，如果你稱某事物為反直覺，你的意思是它以你預期之外的方式發生。"
-  },
-  {
-    "index": 92,
+    "index": 81,
     "text": "And finally, if you call something counterintuitive , you mean it happens differently from how you would expect.",
     "start": 347.301,
     "end": 353.244,
-    "zh": "再次的，我们的六分钟到了，但如果你想更多了解这个和许多其他热门话题，",
-    "zh_hant": "再次的，我們的六分鐘到了，但如果你想更多瞭解這個和許多其他熱門話題，"
+    "zh": "最后，如果你称某事物有悖直觉，你的意思是它以与你预期不同的方式发生。",
+    "zh_hant": "最後，如果你稱某事物有悖直覺，你的意思是它以與你預期不同的方式發生。"
   },
   {
-    "index": 93,
-    "text": "Once again, our six minutes are up, but if you'd like to hear more about this and many other trending topics,",
+    "index": 82,
+    "text": "Once again, our six minutes are up,",
     "start": 353.224,
-    "end": 359.107,
-    "zh": "你会在我们的网站bbclearningenglish.com上找到更多剧集和学习活动。",
-    "zh_hant": "你會在我們的網站bbclearningenglish.com上找到更多劇集和學習活動。"
+    "end": 355.225,
+    "zh": "再次，我们的六分钟结束了，",
+    "zh_hant": "再次，我們的六分鐘結束了，"
   },
   {
-    "index": 94,
-    "text": "you'll find more episodes and learning activities on our website, bbclearningenglish.com.",
-    "start": 358.757,
+    "index": 83,
+    "text": "but if you'd like to hear more about this and many other trending topics, you'll find more episodes and learning activities on our website,",
+    "start": 354.875,
+    "end": 362.448,
+    "zh": "但如果你想了解更多关于这个和许多其他热门话题的内容，你可以在我们的网站上找到更多剧集和学习活动，",
+    "zh_hant": "但如果你想了解更多關於這個和許多其他熱門話題的內容，你可以在我們的網站上找到更多劇集和學習活動，"
+  },
+  {
+    "index": 84,
+    "text": "bbclearningenglish.com.",
+    "start": 362.249,
     "end": 364.489,
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
+  },
+  {
+    "index": 85,
+    "text": "See you again soon.",
+    "start": 364.31,
+    "end": 365.597,
     "zh": "下次再见。",
     "zh_hant": "下次再見。"
   },
   {
-    "index": 95,
-    "text": "See you again soon.",
-    "start": 364.31,
-    "end": 365.597,
-    "zh": "但现在，是时候说再见了。",
-    "zh_hant": "但現在，是時候說再見了。"
-  },
-  {
-    "index": 96,
+    "index": 86,
     "text": "But for now, it's goodbye.",
     "start": 365.247,
     "end": 367.188,
-    "zh": "但现在，只能说再见了。",
-    "zh_hant": "但現在，只能說再見了。"
+    "zh": "但现在，再见了。",
+    "zh_hant": "但現在，再見了。"
   }
 ]

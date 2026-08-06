@@ -1,1 +1,754 @@
-[{"index": 0, "text": "Hello.", "start": 7.873, "end": 8.573, "zh": "你好。", "zh_hant": "你好。"}, {"index": 1, "text": "This is 6 Minute English from BBC Learning English.", "start": 8.353, "end": 11.774, "zh": "这里是BBC英语教学的六分钟英语节目。", "zh_hant": "這裡是BBC英語教學的六分鐘英語節目。"}, {"index": 2, "text": "I'm Phil.", "start": 11.474, "end": 12.334, "zh": "我是菲尔。", "zh_hant": "我是菲爾。"}, {"index": 3, "text": "And I'm Pippa.", "start": 12.154, "end": 13.454, "zh": "我是皮帕。", "zh_hant": "我是皮帕。"}, {"index": 4, "text": "If you've eaten anything today,", "start": 13.815, "end": 16.095, "zh": "如果你今天吃过东西,", "zh_hant": "如果你今天吃過東西,"}, {"index": 5, "text": "then it's likely that some of your food was ultra-processed –", "start": 15.895, "end": 20.717, "zh": "那么你吃的食物很可能有一些是超加工食品——", "zh_hant": "那麼你吃的食物很可能有一些是超加工食品——"}, {"index": 6, "text": "food containing artificial ingredients like additives and sweeteners.", "start": 20.317, "end": 24.638, "zh": "含有人工添加剂和甜味剂等成分的食品。", "zh_hant": "含有人工新增劑和甜味劑等成分的食品。"}, {"index": 7, "text": "Ultra-processed foods are everywhere, from sliced bread to chocolate biscuits and crisps.", "start": 24.998, "end": 30.34, "zh": "超加工食品无处不在,从切片面包到巧克力饼干和薯片。", "zh_hant": "超加工食品無處不在,從切片面包到巧克力餅乾和薯片。"}, {"index": 8, "text": "They might taste good, but the bad news is that ultra-processed foods have been linked to poor health.", "start": 30.48, "end": 36.802, "zh": "它们可能味道不错,但坏消息是,超加工食品与不良健康状况有关。", "zh_hant": "它們可能味道不錯,但壞訊息是,超加工食品與不良健康狀況有關。"}, {"index": 9, "text": "They often contain lots of sugar and salt and have been linked to problems like obesity", "start": 36.962, "end": 42.344, "zh": "它们通常含有大量糖分和盐分,与肥胖等问题有关", "zh_hant": "它們通常含有大量糖分和鹽分,與肥胖等問題有關"}, {"index": 10, "text": "and diabetes.", "start": 42.104, "end": 43.524, "zh": "糖尿病。", "zh_hant": "糖尿病。"}, {"index": 11, "text": "So, how can we tell what food is ultra-processed and what's not?", "start": 43.705, "end": 47.946, "zh": "那么,我们怎么判断哪些食物是超加工食品,哪些不是呢?", "zh_hant": "那麼,我們怎麼判斷哪些食物是超加工食品,哪些不是呢?"}, {"index": 12, "text": "Here's health reporter Annabel Rackham on BBC World Service programme What in the World?", "start": 48.006, "end": 53.388, "zh": "BBC世界服务频道《What in the World》节目的健康记者安娜贝尔·拉克姆。", "zh_hant": "BBC世界服務頻道《What in the World》節目的健康記者安娜貝爾·拉克姆。"}, {"index": 13, "text": "Ultra-processed foods are things that contain five or more ingredients,", "start": 53.408, "end": 58.189, "zh": "超加工食品是指含有五种或以上成分的食品,", "zh_hant": "超加工食品是指含有五種或以上成分的食品,"}, {"index": 14, "text": "and things that you wouldn't find in your average kitchen.", "start": 58.269, "end": 61.57, "zh": "你在普通厨房里找不到的东西。", "zh_hant": "你在普通廚房裡找不到的東西。"}, {"index": 15, "text": "It's going to have things on there, like emulsifiers, preservatives, additives, dyes and sweeteners.", "start": 61.45, "end": 66.952, "zh": "上面会有一些成分,比如乳化剂、防腐剂、添加剂、色素和甜味剂。", "zh_hant": "上面會有一些成分,比如乳化劑、防腐劑、新增劑、色素和甜味劑。"}, {"index": 16, "text": "Annabel describes ultra-processed foods as things containing ingredients", "start": 66.992, "end": 71.934, "zh": "安娜贝尔将超加工食品描述为含有(某些特殊成分)的食品", "zh_hant": "安娜貝爾將超加工食品描述為含有(某些特殊成分)的食品"}, {"index": 17, "text": "you wouldn't find in your kitchen.", "start": 71.574, "end": 73.634, "zh": "你在自己家厨房里找不到的东西。", "zh_hant": "你在自己家廚房裡找不到的東西。"}, {"index": 18, "text": "Do you eat much ultra-processed food, Pippa, or do you try to avoid it?", "start": 74.195, "end": 78.516, "zh": "Pippa,你经常吃超加工食品吗,还是尽量避免吃?", "zh_hant": "Pippa,你經常吃超加工食品嗎,還是儘量避免吃?"}, {"index": 19, "text": "I used to eat a lot of ultra-processed foods,", "start": 78.116, "end": 82.337, "zh": "我以前经常吃很多超加工食品。", "zh_hant": "我以前經常吃很多超加工食品。"}, {"index": 20, "text": "and now I try to cook everything myself and not eat things", "start": 82.317, "end": 87.639, "zh": "现在我尽量自己做饭,不吃外面的东西。", "zh_hant": "現在我儘量自己做飯,不吃外面的東西。"}, {"index": 21, "text": "like chocolate and snacks all day.", "start": 87.239, "end": 90.42, "zh": "我整天都喜欢吃巧克力和零食。", "zh_hant": "我整天都喜歡吃巧克力和零食。"}, {"index": 22, "text": "How about you?", "start": 90.38, "end": 91.24, "zh": "你呢?", "zh_hant": "你呢?"}, {"index": 23, "text": "I think the same.", "start": 90.84, "end": 92.681, "zh": "我也这么想。", "zh_hant": "我也這麼想。"}, {"index": 24, "text": "I try to cook things using just normal ingredients, just so you know what's gone into it.", "start": 92.281, "end": 97.922, "zh": "我做饭尽量只用普通食材,这样你就知道里面放了什么了。", "zh_hant": "我做飯儘量只用普通食材,這樣你就知道里面放了什麼了。"}, {"index": 25, "text": "In this episode, we'll be discussing ultra-processed food", "start": 98.023, "end": 101.884, "zh": "在这一集里,我们将讨论超加工食品", "zh_hant": "在這一集裡,我們將討論超加工食品"}, {"index": 26, "text": "as well as learning some useful new vocabulary.", "start": 101.704, "end": 104.625, "zh": "同时学习一些有用的新词汇", "zh_hant": "同時學習一些有用的新詞彙"}, {"index": 27, "text": "And remember, there's also a quiz and worksheet available", "start": 104.725, "end": 108.606, "zh": "别忘了,还有一份小测验和练习题可以使用", "zh_hant": "別忘了,還有一份小測驗和練習題可以使用"}, {"index": 28, "text": "on our website, bbclearningenglish.com.", "start": 108.226, "end": 111.887, "zh": "我们的网站是bbclearningenglish.com。", "zh_hant": "我們的網站是bbclearningenglish.com。"}, {"index": 29, "text": "But now I have a question for you, Pippa.", "start": 112.067, "end": 115.068, "zh": "不过现在我有个问题要问你,皮帕。", "zh_hant": "不過現在我有個問題要問你,皮帕。"}, {"index": 30, "text": "Fizzy drinks, like cola and lemonade, are another example of popular", "start": 115.188, "end": 120.07, "zh": "像可乐和柠檬水这样的碳酸饮料是另一个例子", "zh_hant": "像可樂和檸檬水這樣的碳酸飲料是另一個例子"}, {"index": 31, "text": "ultra-processed foods,", "start": 119.73, "end": 121.73, "zh": "超加工食品", "zh_hant": "超加工食品"}, {"index": 32, "text": "but when were fizzy drinks invented?", "start": 121.871, "end": 125.312, "zh": "汽水是什么时候发明的?", "zh_hant": "汽水是什麼時候發明的?"}, {"index": 33, "text": "Was it: a) 1772,", "start": 125.092, "end": 129.073, "zh": "a) 1772年", "zh_hant": "a) 1772年"}, {"index": 34, "text": "b) 1872,", "start": 128.673, "end": 132.314, "zh": "1872年", "zh_hant": "1872年"}, {"index": 35, "text": "or c) 1972?", "start": 131.914, "end": 135.535, "zh": "c)1972年?", "zh_hant": "c)1972年?"}, {"index": 36, "text": "Well, I think it was before 1972,", "start": 135.135, "end": 139.756, "zh": "我记得是在1972年之前。", "zh_hant": "我記得是在1972年之前。"}, {"index": 37, "text": "but 1772 sounds like too early,", "start": 139.356, "end": 143.438, "zh": "1772年听起来太早了", "zh_hant": "1772年聽起來太早了"}, {"index": 38, "text": "so I'm going to say b) 1872.", "start": 143.038, "end": 146.959, "zh": "我选b) 1872年。", "zh_hant": "我選b) 1872年。"}, {"index": 39, "text": "We'll find out the answer at the end of the programme.", "start": 146.559, "end": 149.94, "zh": "我们会在节目结尾找到答案。", "zh_hant": "我們會在節目結尾找到答案。"}, {"index": 40, "text": "One reason for the popularity of ultra-processed food is convenience.", "start": 150.04, "end": 155.081, "zh": "超加工食品受欢迎的一个原因是方便。", "zh_hant": "超加工食品受歡迎的一個原因是方便。"}, {"index": 41, "text": "Let's hear more from health reporter Annabel,", "start": 155.222, "end": 157.902, "zh": "我们来听听健康记者安娜贝尔带来的更多报道。", "zh_hant": "我們來聽聽健康記者安娜貝爾帶來的更多報道。"}, {"index": 42, "text": "who talks here with Hannah Gelbart, presenter of BBC World Service's What in the World.", "start": 157.602, "end": 163.804, "zh": "在这里与BBC世界服务《What in the World》节目主持人汉娜·格尔巴特(Hannah Gelbart)交谈的人", "zh_hant": "在這裡與BBC世界服務《What in the World》節目主持人漢娜·格爾巴特(Hannah Gelbart)交談的人"}, {"index": 43, "text": "So, I do think convenience – it is the main issue there.", "start": 163.744, "end": 166.985, "zh": "我确实认为便利性是这里的主要问题。", "zh_hant": "我確實認為便利性是這裡的主要問題。"}, {"index": 44, "text": "And again, with a ready meal , you put it in the microwave for a couple of minutes.", "start": 166.885, "end": 170.666, "zh": "即食食品的话,你只需要放进微波炉里加热几分钟。", "zh_hant": "即食食品的話,你只需要放進微波爐里加熱幾分鐘。"}, {"index": 45, "text": "It's done.", "start": 170.286, "end": 171.247, "zh": "搞定了。", "zh_hant": "搞定了。"}, {"index": 46, "text": "It's hot.", "start": 170.927, "end": 171.727, "zh": "天气很热。", "zh_hant": "天氣很熱。"}, {"index": 47, "text": "It serves you.", "start": 171.327, "end": 172.527, "zh": "它为你服务。", "zh_hant": "它為你服務。"}, {"index": 48, "text": "Whereas, you know, sometimes cooking a fresh meal from scratch – that can take a really long time.", "start": 172.427, "end": 177.489, "zh": "而做一顿新鲜的饭菜,你知道,有时候真的要花很长时间。", "zh_hant": "而做一頓新鮮的飯菜,你知道,有時候真的要花很長時間。"}, {"index": 49, "text": "What's your ultra-processed guilty food?", "start": 177.169, "end": 179.529, "zh": "你最喜欢吃的超加工\"罪恶食物\"是什么?", "zh_hant": "你最喜歡吃的超加工\"罪惡食物\"是什麼?"}, {"index": 50, "text": "I'm a chocolate girl.", "start": 179.589, "end": 180.81, "zh": "我是个喜欢巧克力的女孩。", "zh_hant": "我是個喜歡巧克力的女孩。"}, {"index": 51, "text": "A packet of biscuits – something like that.", "start": 180.41, "end": 182.87, "zh": "一包饼干之类的东西。", "zh_hant": "一包餅乾之類的東西。"}, {"index": 52, "text": "A cake.", "start": 182.47, "end": 183.971, "zh": "一块蛋糕。", "zh_hant": "一塊蛋糕。"}, {"index": 53, "text": "That is my...", "start": 184.231, "end": 185.271, "zh": "那是我的……", "zh_hant": "那是我的……"}, {"index": 54, "text": "that's my guilty pleasure .", "start": 184.931, "end": 186.812, "zh": "那是我的小小罪恶快感。", "zh_hant": "那是我的小小罪惡快感。"}, {"index": 55, "text": "Ultra-processed foods like ready meals are convenient.", "start": 186.412, "end": 190.273, "zh": "即食食品等超加工食品很方便。", "zh_hant": "即食食品等超加工食品很方便。"}, {"index": 56, "text": "A ready meal is a meal from a supermarket", "start": 189.873, "end": 193.194, "zh": "超市里卖的即食餐", "zh_hant": "超市裡賣的即食餐"}, {"index": 57, "text": "that has already been prepared and can be heated up quickly in a microwave.", "start": 192.834, "end": 197.815, "zh": "已经做好、可以用微波炉快速加热的(食物)。", "zh_hant": "已經做好、可以用微波爐快速加熱的(食物)。"}, {"index": 58, "text": "That's a lot quicker and easier than cooking from scratch –", "start": 197.615, "end": 201.797, "zh": "这比从头开始做饭要快捷方便多了——", "zh_hant": "這比從頭開始做飯要快捷方便多了——"}, {"index": 59, "text": "an idiom meaning to do something from the very beginning without using anything", "start": 201.397, "end": 205.838, "zh": "白手起家", "zh_hant": "白手起家"}, {"index": 60, "text": "that's already been made.", "start": 205.438, "end": 213.681, "zh": "这已经做好了。", "zh_hant": "這已經做好了。"}, {"index": 61, "text": "Even though ultra-processed foods are often unhealthy, they taste good.", "start": 213.281, "end": 215.342, "zh": "尽管超加工食品通常不健康,但它们很好吃。", "zh_hant": "儘管超加工食品通常不健康,但它們很好吃。"}, {"index": 62, "text": "That's why Annabel calls chocolate her guilty pleasure .", "start": 214.942, "end": 216.792, "zh": "所以安娜贝尔把巧克力称为她难以抗拒的诱惑。", "zh_hant": "所以安娜貝爾把巧克力稱為她難以抗拒的誘惑。"}, {"index": 63, "text": "A guilty pleasure is something you enjoy but think you shouldn't", "start": 216.392, "end": 221.164, "zh": "明知不该喜欢却依然喜欢的东西,就是\"罪恶的快感\"。", "zh_hant": "明知不該喜歡卻依然喜歡的東西,就是\"罪惡的快感\"。"}, {"index": 64, "text": "and feel a little embarrassed about.", "start": 220.904, "end": 223.064, "zh": "并因此感到有点尴尬的", "zh_hant": "並因此感到有點尷尬的"}, {"index": 65, "text": "Ultra-processed food is a tricky topic.", "start": 223.204, "end": 226.065, "zh": "超加工食品是一个棘手的话题。", "zh_hant": "超加工食品是一個棘手的話題。"}, {"index": 66, "text": "We know these foods have been linked to poor health,", "start": 226.065, "end": 229.226, "zh": "我们知道这些食物与不良健康状况有关", "zh_hant": "我們知道這些食物與不良健康狀況有關"}, {"index": 67, "text": "but at the same time they're cheap, convenient and taste good.", "start": 229.126, "end": 233.648, "zh": "但同时它们又便宜、方便,而且好吃。", "zh_hant": "但同時它們又便宜、方便,而且好吃。"}, {"index": 68, "text": "So, what should we do?", "start": 233.688, "end": 235.008, "zh": "那我们该怎么办?", "zh_hant": "那我們該怎麼辦?"}, {"index": 69, "text": "Here's Hannah and Annabel discussing this for BBC programme What in the World:", "start": 235.428, "end": 240.11, "zh": "汉娜和安娜贝尔正在为BBC节目《What in the World》讨论这个话题。", "zh_hant": "漢娜和安娜貝爾正在為BBC節目《What in the World》討論這個話題。"}, {"index": 70, "text": "Is it OK for me to have a packet of crisps once in a while ?", "start": 240.11, "end": 243.611, "zh": "我偶尔吃一包薯片可以吗?", "zh_hant": "我偶爾吃一包薯片可以嗎?"}, {"index": 71, "text": "Should we be cutting ultra-processed foods out of our diets completely,", "start": 243.211, "end": 247.392, "zh": "我们是否应该在饮食中完全戒掉超加工食品,", "zh_hant": "我們是否應該在飲食中完全戒掉超加工食品,"}, {"index": 72, "text": "or is there a way for us to still enjoy them from time to time ?", "start": 247.192, "end": 250.944, "zh": "或者我们是否还有办法偶尔享受一下这些东西呢?", "zh_hant": "或者我們是否還有辦法偶爾享受一下這些東西呢?"}, {"index": 73, "text": "I think the best thing to do is just not to panic.", "start": 250.544, "end": 253.434, "zh": "我觉得最好的办法就是不要慌。", "zh_hant": "我覺得最好的辦法就是不要慌。"}, {"index": 74, "text": "is fine in moderation .", "start": 254.015, "end": 256.475, "zh": "适量食用没问题。", "zh_hant": "適量食用沒問題。"}, {"index": 75, "text": "Hannah asks if it's OK to eat ultra-processed foods", "start": 256.075, "end": 260.137, "zh": "汉娜问吃超加工食品是否可以。", "zh_hant": "漢娜問吃超加工食品是否可以。"}, {"index": 76, "text": "once in a while , or from time to time .", "start": 259.897, "end": 263.178, "zh": "偶尔,或者说有时候。", "zh_hant": "偶爾,或者說有時候。"}, {"index": 77, "text": "The phrases once in a while and from time to time mean occasionally", "start": 262.778, "end": 268.78, "zh": "“once in a while”和“from time to time”这两个短语的意思是“偶尔”。", "zh_hant": "“once in a while”和“from time to time”這兩個短語的意思是“偶爾”。"}, {"index": 78, "text": "– sometimes, but not very often.", "start": 268.38, "end": 271.08, "zh": "有时候会,但不是很常。", "zh_hant": "有時候會,但不是很常。"}, {"index": 79, "text": "Annabel replies using the phrase everything in moderation ,", "start": 270.92, "end": 275.762, "zh": "安娜贝尔回答说凡事都要适度。", "zh_hant": "安娜貝爾回答說凡事都要適度。"}, {"index": 80, "text": "which advises us that it's best to avoid too much of anything.", "start": 275.362, "end": 279.343, "zh": "建议我们最好凡事都不要过量。", "zh_hant": "建議我們最好凡事都不要過量。"}, {"index": 81, "text": "That sounds sensible to me, and it also means I won't feel bad about eating chocolate now and then.", "start": 279.143, "end": 284.825, "zh": "这听起来很合理,而且这样我偶尔吃巧克力也不会有负罪感了。", "zh_hant": "這聽起來很合理,而且這樣我偶爾吃巧克力也不會有負罪感了。"}, {"index": 82, "text": "OK.", "start": 285.205, "end": 285.825, "zh": "好的。", "zh_hant": "好的。"}, {"index": 83, "text": "Pippa, it's time to reveal the answer to my question.", "start": 285.525, "end": 290.067, "zh": "皮帕,是时候公布我这个问题的答案了。", "zh_hant": "皮帕,是時候公佈我這個問題的答案了。"}, {"index": 84, "text": "Now, I asked you when fizzy drinks were invented.", "start": 289.807, "end": 295.288, "zh": "我刚才问你汽水是什么时候发明的。", "zh_hant": "我剛才問你汽水是什麼時候發明的。"}, {"index": 85, "text": "You said 1872.", "start": 295.449, "end": 298.049, "zh": "你说的是1872年。", "zh_hant": "你說的是1872年。"}, {"index": 86, "text": "I'm afraid the correct answer was 1772.", "start": 297.649, "end": 302.191, "zh": "正确答案其实是1772年。", "zh_hant": "正確答案其實是1772年。"}, {"index": 87, "text": "Apparently carbonated water was used to try to prevent scurvy on sea voyages.", "start": 301.791, "end": 307.472, "zh": "据说碳酸水曾被用来试图预防海上航行中的坏血病。", "zh_hant": "據說碳酸水曾被用來試圖預防海上航行中的壞血病。"}, {"index": 88, "text": "Wow, that is amazing.", "start": 307.473, "end": 309.593, "zh": "哇,太厉害了。", "zh_hant": "哇,太厲害了。"}, {"index": 89, "text": "I wouldn't have thought it was that long ago.", "start": 309.193, "end": 311.894, "zh": "我没想到已经过去那么久了。", "zh_hant": "我沒想到已經過去那麼久了。"}, {"index": 90, "text": "Right.", "start": 312.114, "end": 312.894, "zh": "对。", "zh_hant": "對。"}, {"index": 91, "text": "Let's recap the vocabulary we've learned,", "start": 312.494, "end": 315.195, "zh": "我们来复习一下学过的词汇吧。", "zh_hant": "我們來複習一下學過的詞彙吧。"}, {"index": 92, "text": "starting with ready meal – a meal from a supermarket", "start": 314.795, "end": 318.396, "zh": "超市速食便当", "zh_hant": "超市速食便當"}, {"index": 93, "text": "that has already been prepared so you can heat it up quickly.", "start": 318.056, "end": 321.637, "zh": "那已经提前准备好了,你可以很快加热一下。", "zh_hant": "那已經提前準備好了,你可以很快加熱一下。"}, {"index": 94, "text": "If you do something from scratch , you do it from the very beginning,", "start": 321.697, "end": 325.958, "zh": "如果你从零开始做某事，就是从最初的阶段开始做。", "zh_hant": "如果你從零開始做某事，就是從最初的階段開始做。"}, {"index": 95, "text": "without using anything that's already been made.", "start": 325.638, "end": 328.659, "zh": "不使用任何已经制作好的东西。", "zh_hant": "不使用任何已經製作好的東西。"}, {"index": 96, "text": "A guilty pleasure is something you enjoy", "start": 328.259, "end": 331.62, "zh": "明知不该但还是喜欢的东西", "zh_hant": "明知不該但還是喜歡的東西"}, {"index": 97, "text": "but feel guilty or embarrassed about because you think you shouldn't do it.", "start": 331.62, "end": 336.202, "zh": "但因为觉得不应该这样做而感到内疚或尴尬", "zh_hant": "但因為覺得不應該這樣做而感到內疚或尷尬"}, {"index": 98, "text": "The phrases once in a while and from time to time mean occasionally, not very often.", "start": 336.402, "end": 342.764, "zh": "“once in a while”和“from time to time”表示“偶尔,不常”。", "zh_hant": "“once in a while”和“from time to time”表示“偶爾,不常”。"}, {"index": 99, "text": "And finally, the phrase everything in moderation", "start": 342.764, "end": 346.265, "zh": "凡事适度", "zh_hant": "凡事適度"}, {"index": 100, "text": "is used to advise someone that it's best to avoid too much of anything.", "start": 346.185, "end": 350.947, "zh": "凡事适度为好,过犹不及。", "zh_hant": "凡事適度為好,過猶不及。"}, {"index": 101, "text": "Once again, our six minutes are up, but if you're hungry for more,", "start": 351.407, "end": 355.428, "zh": "欢迎大家继续收看,时间过得真快,我们的六分钟又到了,如果你还意犹未尽,", "zh_hant": "歡迎大家繼續收看,時間過得真快,我們的六分鐘又到了,如果你還意猶未盡,"}, {"index": 102, "text": "head over to our website, bbclearningenglish.com,", "start": 355.568, "end": 358.909, "zh": "请访问我们的网站 bbclearningenglish.com,", "zh_hant": "請訪問我們的網站 bbclearningenglish.com,"}, {"index": 103, "text": "for more tasty topics and useful vocabulary.", "start": 358.93, "end": 362.37, "zh": "更多有趣的话题和实用词汇。", "zh_hant": "更多有趣的話題和實用詞彙。"}, {"index": 104, "text": "See you again soon.", "start": 362.611, "end": 363.811, "zh": "期待很快再见到你。", "zh_hant": "期待很快再見到你。"}, {"index": 105, "text": "But for now, it's goodbye.", "start": 363.571, "end": 365.652, "zh": "不过现在,先说再见吧。", "zh_hant": "不過現在,先說再見吧。"}, {"index": 106, "text": "Bye!", "start": 369.377, "end": 370.878, "zh": "再见!", "zh_hant": "再見!"}]
+[
+  {
+    "index": 0,
+    "text": "Hello.",
+    "start": 7.851,
+    "end": 8.571,
+    "zh": "你好。",
+    "zh_hant": "你好。"
+  },
+  {
+    "index": 1,
+    "text": "This is 6 Minute English from BBC Learning English.",
+    "start": 8.351,
+    "end": 11.772,
+    "zh": "这里是BBC学英语的《6分钟英语》节目。",
+    "zh_hant": "這裡是BBC學英語的《6分鐘英語》節目。"
+  },
+  {
+    "index": 2,
+    "text": "I'm Phil.",
+    "start": 11.473,
+    "end": 12.333,
+    "zh": "我是菲尔。",
+    "zh_hant": "我是菲爾。"
+  },
+  {
+    "index": 3,
+    "text": "And I'm Pippa.",
+    "start": 12.153,
+    "end": 13.453,
+    "zh": "我是皮帕。",
+    "zh_hant": "我是皮帕。"
+  },
+  {
+    "index": 4,
+    "text": "If you've eaten anything today,",
+    "start": 13.814,
+    "end": 16.095,
+    "zh": "如果你今天吃了任何东西，",
+    "zh_hant": "如果你今天吃了任何東西，"
+  },
+  {
+    "index": 5,
+    "text": "then it's likely that some of your food was ultra-processed",
+    "start": 15.895,
+    "end": 19.57,
+    "zh": "那么很可能你吃的一些食物是超加工食品，",
+    "zh_hant": "那麼很可能你吃的一些食物是超加工食品，"
+  },
+  {
+    "index": 6,
+    "text": "– food containing artificial ingredients like additives and sweeteners.",
+    "start": 19.17,
+    "end": 24.639,
+    "zh": "即含有添加剂和甜味剂等人工成分的食品。",
+    "zh_hant": "即含有新增劑和甜味劑等人工成分的食品。"
+  },
+  {
+    "index": 7,
+    "text": "Ultra-processed foods are everywhere, from sliced bread to chocolate biscuits and crisps.",
+    "start": 24.979,
+    "end": 30.342,
+    "zh": "超加工食品无处不在，从切片面包到巧克力饼干和薯片都有。",
+    "zh_hant": "超加工食品無處不在，從切片面包到巧克力餅乾和薯片都有。"
+  },
+  {
+    "index": 8,
+    "text": "They might taste good, but the bad news is that ultra-processed foods have been linked to poor health.",
+    "start": 30.482,
+    "end": 36.805,
+    "zh": "它们可能味道不错，但坏消息是，超加工食品与不良健康有关。",
+    "zh_hant": "它們可能味道不錯，但壞訊息是，超加工食品與不良健康有關。"
+  },
+  {
+    "index": 9,
+    "text": "They often contain lots of sugar and salt and have been linked to problems like obesity and diabetes.",
+    "start": 36.965,
+    "end": 43.528,
+    "zh": "它们通常含有大量糖和盐，并与肥胖和糖尿病等问题有关。",
+    "zh_hant": "它們通常含有大量糖和鹽，並與肥胖和糖尿病等問題有關。"
+  },
+  {
+    "index": 10,
+    "text": "So, how can we tell what food is ultra-processed and what's not?",
+    "start": 43.708,
+    "end": 47.931,
+    "zh": "那么，我们怎么区分哪些食物是超加工食品，哪些不是呢？",
+    "zh_hant": "那麼，我們怎麼區分哪些食物是超加工食品，哪些不是呢？"
+  },
+  {
+    "index": 11,
+    "text": "Here's health reporter Annabel Rackham on BBC World Service programme What in the World?",
+    "start": 47.991,
+    "end": 53.373,
+    "zh": "这里是健康记者安娜贝尔·拉克姆在BBC世界服务节目《世界怎么了》中的讲述。",
+    "zh_hant": "這裡是健康記者安娜貝爾·拉克姆在BBC世界服務節目《世界怎麼了》中的講述。"
+  },
+  {
+    "index": 12,
+    "text": "Ultra-processed foods are things that contain five or more ingredients,",
+    "start": 53.374,
+    "end": 58.196,
+    "zh": "超加工食品是指含有五种或更多成分的东西，",
+    "zh_hant": "超加工食品是指含有五種或更多成分的東西，"
+  },
+  {
+    "index": 13,
+    "text": "and things that you wouldn't find in your average kitchen.",
+    "start": 58.276,
+    "end": 61.577,
+    "zh": "以及你通常厨房里找不到的东西。",
+    "zh_hant": "以及你通常廚房裡找不到的東西。"
+  },
+  {
+    "index": 14,
+    "text": "It's going to have things on there, like emulsifiers, preservatives, additives, dyes and sweeteners.",
+    "start": 61.457,
+    "end": 66.96,
+    "zh": "上面会有像乳化剂、防腐剂、添加剂、色素和甜味剂这类成分。",
+    "zh_hant": "上面會有像乳化劑、防腐劑、新增劑、色素和甜味劑這類成分。"
+  },
+  {
+    "index": 15,
+    "text": "Annabel describes ultra-processed foods as things containing ingredients you wouldn't find in your kitchen.",
+    "start": 67.0,
+    "end": 73.643,
+    "zh": "安娜贝尔把超加工食品描述为含有你厨房里找不到的成分的东西。",
+    "zh_hant": "安娜貝爾把超加工食品描述為含有你廚房裡找不到的成分的東西。"
+  },
+  {
+    "index": 16,
+    "text": "Do you eat much ultra-processed food, Pippa, or do you try to avoid it?",
+    "start": 74.184,
+    "end": 78.626,
+    "zh": "皮帕，你吃很多超加工食品吗，还是尽量避开？",
+    "zh_hant": "皮帕，你吃很多超加工食品嗎，還是儘量避開？"
+  },
+  {
+    "index": 17,
+    "text": "I used to eat a lot of ultra-processed foods,",
+    "start": 78.706,
+    "end": 82.347,
+    "zh": "我以前吃很多超加工食品，",
+    "zh_hant": "我以前吃很多超加工食品，"
+  },
+  {
+    "index": 18,
+    "text": "and now I try to cook everything myself",
+    "start": 82.328,
+    "end": 86.449,
+    "zh": "现在尽量自己做饭，",
+    "zh_hant": "現在儘量自己做飯，"
+  },
+  {
+    "index": 19,
+    "text": "and not eat things like chocolate and snacks all day.",
+    "start": 86.15,
+    "end": 90.412,
+    "zh": "不整天吃巧克力和零食。",
+    "zh_hant": "不整天吃巧克力和零食。"
+  },
+  {
+    "index": 20,
+    "text": "How about you?",
+    "start": 90.372,
+    "end": 91.312,
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
+  },
+  {
+    "index": 21,
+    "text": "I think the same.",
+    "start": 91.533,
+    "end": 92.773,
+    "zh": "我觉得我也是。",
+    "zh_hant": "我覺得我也是。"
+  },
+  {
+    "index": 22,
+    "text": "I try to cook things using just normal ingredients, just so you know what's gone into it.",
+    "start": 92.423,
+    "end": 97.916,
+    "zh": "我尽量只用普通食材做饭，这样就知道里面放了什么。",
+    "zh_hant": "我儘量只用普通食材做飯，這樣就知道里面放了什麼。"
+  },
+  {
+    "index": 23,
+    "text": "In this episode, we'll be discussing ultra-processed food as well as learning some useful new vocabulary.",
+    "start": 98.016,
+    "end": 104.599,
+    "zh": "本期节目中，我们将讨论超加工食品，并学习一些有用的新词汇。",
+    "zh_hant": "本期節目中，我們將討論超加工食品，並學習一些有用的新詞彙。"
+  },
+  {
+    "index": 24,
+    "text": "And remember, there's also a quiz and worksheet available on our website, bbclearningenglish.com.",
+    "start": 104.699,
+    "end": 111.903,
+    "zh": "记住，我们的网站bbclearningenglish.com上还有测验和练习材料。",
+    "zh_hant": "記住，我們的網站bbclearningenglish.com上還有測驗和練習材料。"
+  },
+  {
+    "index": 25,
+    "text": "But now I have a question for you, Pippa.",
+    "start": 112.083,
+    "end": 115.084,
+    "zh": "但现在我给你提个问题，皮帕。",
+    "zh_hant": "但現在我給你提個問題，皮帕。"
+  },
+  {
+    "index": 26,
+    "text": "Fizzy drinks, like cola and lemonade, are another example of popular ultra-processed foods,",
+    "start": 115.204,
+    "end": 121.727,
+    "zh": "像可乐和柠檬水这样的汽水饮料是另一种受欢迎的超加工食品，",
+    "zh_hant": "像可樂和檸檬水這樣的汽水飲料是另一種受歡迎的超加工食品，"
+  },
+  {
+    "index": 27,
+    "text": "but when were fizzy drinks invented?",
+    "start": 121.888,
+    "end": 125.309,
+    "zh": "但汽水是什么时候发明的？",
+    "zh_hant": "但汽水是什麼時候發明的？"
+  },
+  {
+    "index": 28,
+    "text": "Was it: a) 1772, b) 1872, or c)",
+    "start": 125.089,
+    "end": 132.8,
+    "zh": "是a) 1772年，b) 1872年，还是c)",
+    "zh_hant": "是a) 1772年，b) 1872年，還是c)"
+  },
+  {
+    "index": 29,
+    "text": "1972?",
+    "start": 132.4,
+    "end": 135.065,
+    "zh": "1972年？",
+    "zh_hant": "1972年？"
+  },
+  {
+    "index": 30,
+    "text": "Well, I think it was before 1972,",
+    "start": 135.115,
+    "end": 139.307,
+    "zh": "嗯，我觉得是在1972年之前，",
+    "zh_hant": "嗯，我覺得是在1972年之前，"
+  },
+  {
+    "index": 31,
+    "text": "but 1772 sounds like too early, so I'm going to say b) 1872.",
+    "start": 139.357,
+    "end": 146.51,
+    "zh": "但1772年听起来太早了，所以我选b) 1872年。",
+    "zh_hant": "但1772年聽起來太早了，所以我選b) 1872年。"
+  },
+  {
+    "index": 32,
+    "text": "We'll find out the answer at the end of the programme.",
+    "start": 146.56,
+    "end": 149.942,
+    "zh": "我们会在节目最后揭晓答案。",
+    "zh_hant": "我們會在節目最後揭曉答案。"
+  },
+  {
+    "index": 33,
+    "text": "One reason for the popularity of ultra-processed food is convenience.",
+    "start": 150.042,
+    "end": 155.084,
+    "zh": "超加工食品受欢迎的一个原因是方便。",
+    "zh_hant": "超加工食品受歡迎的一個原因是方便。"
+  },
+  {
+    "index": 34,
+    "text": "Let's hear more from health reporter Annabel, who talks here with Hannah Gelbart,",
+    "start": 155.205,
+    "end": 160.107,
+    "zh": "让我们再听听健康记者安娜贝尔和汉娜·格尔巴特的对话，",
+    "zh_hant": "讓我們再聽聽健康記者安娜貝爾和漢娜·格爾巴特的對話，"
+  },
+  {
+    "index": 35,
+    "text": "presenter of BBC World Service's What in the World.",
+    "start": 160.027,
+    "end": 163.809,
+    "zh": "汉娜是BBC世界服务节目《世界怎么了》的主持人。",
+    "zh_hant": "漢娜是BBC世界服務節目《世界怎麼了》的主持人。"
+  },
+  {
+    "index": 36,
+    "text": "So, I do think convenience – it is the main issue there.",
+    "start": 163.769,
+    "end": 166.991,
+    "zh": "所以，我确实觉得方便——这是主要问题。",
+    "zh_hant": "所以，我確實覺得方便——這是主要問題。"
+  },
+  {
+    "index": 37,
+    "text": "And again, with a ready meal , you put it in the microwave for a couple of minutes.",
+    "start": 166.891,
+    "end": 170.672,
+    "zh": "再说速食餐，你放进微波炉加热几分钟。",
+    "zh_hant": "再說速食餐，你放進微波爐加熱幾分鐘。"
+  },
+  {
+    "index": 38,
+    "text": "It's done.",
+    "start": 170.322,
+    "end": 171.253,
+    "zh": "就好了。",
+    "zh_hant": "就好了。"
+  },
+  {
+    "index": 39,
+    "text": "It's hot.",
+    "start": 170.913,
+    "end": 171.773,
+    "zh": "是热的。",
+    "zh_hant": "是熱的。"
+  },
+  {
+    "index": 40,
+    "text": "It serves you.",
+    "start": 171.423,
+    "end": 172.533,
+    "zh": "它就能吃了。",
+    "zh_hant": "它就能吃了。"
+  },
+  {
+    "index": 41,
+    "text": "Whereas, you know, sometimes cooking a fresh meal from scratch – that can take a really long time.",
+    "start": 172.434,
+    "end": 177.496,
+    "zh": "而有时候，从零开始做一顿新鲜饭菜——那可能要花很长时间。",
+    "zh_hant": "而有時候，從零開始做一頓新鮮飯菜——那可能要花很長時間。"
+  },
+  {
+    "index": 42,
+    "text": "What's your ultra-processed guilty food?",
+    "start": 177.176,
+    "end": 179.537,
+    "zh": "你最想吃的超加工食品是什么？",
+    "zh_hant": "你最想吃的超加工食品是什麼？"
+  },
+  {
+    "index": 43,
+    "text": "I'm a chocolate girl.",
+    "start": 179.597,
+    "end": 180.917,
+    "zh": "我是巧克力控。",
+    "zh_hant": "我是巧克力控。"
+  },
+  {
+    "index": 44,
+    "text": "A packet of biscuits – something like that.",
+    "start": 180.618,
+    "end": 182.978,
+    "zh": "一包饼干之类的。",
+    "zh_hant": "一包餅乾之類的。"
+  },
+  {
+    "index": 45,
+    "text": "A cake.",
+    "start": 182.959,
+    "end": 183.979,
+    "zh": "或者蛋糕。",
+    "zh_hant": "或者蛋糕。"
+  },
+  {
+    "index": 46,
+    "text": "That is my...",
+    "start": 184.239,
+    "end": 185.28,
+    "zh": "这是我的……",
+    "zh_hant": "這是我的……"
+  },
+  {
+    "index": 47,
+    "text": "that's my guilty pleasure .",
+    "start": 184.94,
+    "end": 186.76,
+    "zh": "这是我的快乐小秘密。",
+    "zh_hant": "這是我的快樂小秘密。"
+  },
+  {
+    "index": 48,
+    "text": "Ultra-processed foods like ready meals are convenient.",
+    "start": 186.41,
+    "end": 190.382,
+    "zh": "像速食餐这样的超加工食品很方便。",
+    "zh_hant": "像速食餐這樣的超加工食品很方便。"
+  },
+  {
+    "index": 49,
+    "text": "A ready meal is a meal from a supermarket that has already been prepared and can be heated up quickly in a microwave.",
+    "start": 190.382,
+    "end": 197.826,
+    "zh": "速食餐是从超市买的已经准备好的餐食，可以在微波炉里快速加热。",
+    "zh_hant": "速食餐是從超市買的已經準備好的餐食，可以在微波爐裡快速加熱。"
+  },
+  {
+    "index": 50,
+    "text": "That's a lot quicker and easier than cooking from scratch – an idiom meaning",
+    "start": 197.626,
+    "end": 202.808,
+    "zh": "这比从零开始做饭更快更容易——从零开始是个习语，意思是",
+    "zh_hant": "這比從零開始做飯更快更容易——從零開始是個習語，意思是"
+  },
+  {
+    "index": 51,
+    "text": "to do something from the very beginning without using anything that's already been made.",
+    "start": 202.458,
+    "end": 207.151,
+    "zh": "从最开始做起，不利用任何现成的东西。",
+    "zh_hant": "從最開始做起，不利用任何現成的東西。"
+  },
+  {
+    "index": 52,
+    "text": "Even though ultra-processed foods are often unhealthy, they taste good.",
+    "start": 207.191,
+    "end": 212.613,
+    "zh": "尽管超加工食品往往不健康，但味道很好。",
+    "zh_hant": "儘管超加工食品往往不健康，但味道很好。"
+  },
+  {
+    "index": 53,
+    "text": "That's why Annabel calls chocolate her guilty pleasure .",
+    "start": 212.614,
+    "end": 216.29,
+    "zh": "这就是为什么安娜贝尔说巧克力是她的快乐小秘密。",
+    "zh_hant": "這就是為什麼安娜貝爾說巧克力是她的快樂小秘密。"
+  },
+  {
+    "index": 54,
+    "text": "A guilty pleasure is something you enjoy but think you shouldn't and feel a little embarrassed about.",
+    "start": 216.275,
+    "end": 223.079,
+    "zh": "快乐小秘密是指你享受但觉得自己不该享受，并有点不好意思的事情。",
+    "zh_hant": "快樂小秘密是指你享受但覺得自己不該享受，並有點不好意思的事情。"
+  },
+  {
+    "index": 55,
+    "text": "Ultra-processed food is a tricky topic.",
+    "start": 223.199,
+    "end": 226.06,
+    "zh": "超加工食品是个棘手的话题。",
+    "zh_hant": "超加工食品是個棘手的話題。"
+  },
+  {
+    "index": 56,
+    "text": "We know these foods have been linked to poor health,",
+    "start": 226.08,
+    "end": 229.222,
+    "zh": "我们知道这些食物与不良健康有关，",
+    "zh_hant": "我們知道這些食物與不良健康有關，"
+  },
+  {
+    "index": 57,
+    "text": "but at the same time they're cheap, convenient and taste good.",
+    "start": 229.142,
+    "end": 233.664,
+    "zh": "但同时它们价格便宜、方便又好吃。",
+    "zh_hant": "但同時它們價格便宜、方便又好吃。"
+  },
+  {
+    "index": 58,
+    "text": "So, what should we do?",
+    "start": 233.684,
+    "end": 235.024,
+    "zh": "那我们该怎么办？",
+    "zh_hant": "那我們該怎麼辦？"
+  },
+  {
+    "index": 59,
+    "text": "Here's Hannah and Annabel discussing this for BBC programme What in the World:",
+    "start": 235.425,
+    "end": 240.127,
+    "zh": "这是汉娜和安娜贝尔在BBC节目《世界怎么了》中的讨论：",
+    "zh_hant": "這是漢娜和安娜貝爾在BBC節目《世界怎麼了》中的討論："
+  },
+  {
+    "index": 60,
+    "text": "Is it OK for me to have a packet of crisps once in a while ?",
+    "start": 240.127,
+    "end": 243.39,
+    "zh": "我偶尔吃一包薯片可以吗？",
+    "zh_hant": "我偶爾吃一包薯片可以嗎？"
+  },
+  {
+    "index": 61,
+    "text": "Should we be cutting ultra-processed foods out of our diets completely,",
+    "start": 243.229,
+    "end": 247.371,
+    "zh": "我们应该把超加工食品从饮食中完全去除，",
+    "zh_hant": "我們應該把超加工食品從飲食中完全去除，"
+  },
+  {
+    "index": 62,
+    "text": "or is there a way for us to still enjoy them from time to time ?",
+    "start": 247.191,
+    "end": 250.91,
+    "zh": "还是有办法让我们时不时地享受它们？",
+    "zh_hant": "還是有辦法讓我們時不時地享受它們？"
+  },
+  {
+    "index": 63,
+    "text": "I think the best thing to do is just not to panic.",
+    "start": 250.653,
+    "end": 253.414,
+    "zh": "我觉得最好是不要惊慌。",
+    "zh_hant": "我覺得最好是不要驚慌。"
+  },
+  {
+    "index": 64,
+    "text": "is fine in moderation .",
+    "start": 254.014,
+    "end": 255.57,
+    "zh": "适量就行。",
+    "zh_hant": "適量就行。"
+  },
+  {
+    "index": 65,
+    "text": "Hannah asks if it's OK to eat ultra-processed foods once in a while , or from time to time .",
+    "start": 256.075,
+    "end": 262.71,
+    "zh": "汉娜问偶尔吃点超加工食品是否可以，或者时不时吃点。",
+    "zh_hant": "漢娜問偶爾吃點超加工食品是否可以，或者時不時吃點。"
+  },
+  {
+    "index": 66,
+    "text": "The phrases once in a while and from time to time",
+    "start": 262.779,
+    "end": 267.061,
+    "zh": "“偶尔”和“时不时”这两个短语",
+    "zh_hant": "“偶爾”和“時不時”這兩個短語"
+  },
+  {
+    "index": 67,
+    "text": "mean occasionally – sometimes, but not very often.",
+    "start": 266.941,
+    "end": 271.083,
+    "zh": "意思是偶尔——有时，但不常发生。",
+    "zh_hant": "意思是偶爾——有時，但不常發生。"
+  },
+  {
+    "index": 68,
+    "text": "Annabel replies using the phrase everything in moderation ,",
+    "start": 270.943,
+    "end": 275.35,
+    "zh": "安娜贝尔用“凡事适度”这个短语回答，",
+    "zh_hant": "安娜貝爾用“凡事適度”這個短語回答，"
+  },
+  {
+    "index": 69,
+    "text": "which advises us that it's best to avoid too much of anything.",
+    "start": 275.365,
+    "end": 279.347,
+    "zh": "它建议我们最好避免过量摄入任何东西。",
+    "zh_hant": "它建議我們最好避免過量攝入任何東西。"
+  },
+  {
+    "index": 70,
+    "text": "That sounds sensible to me, and it also means I won't feel bad about eating chocolate now and then.",
+    "start": 279.167,
+    "end": 284.829,
+    "zh": "这对我来说很有道理，也意味着我偶尔吃巧克力不会觉得愧疚了。",
+    "zh_hant": "這對我來說很有道理，也意味著我偶爾吃巧克力不會覺得愧疚了。"
+  },
+  {
+    "index": 71,
+    "text": "OK.",
+    "start": 285.21,
+    "end": 285.85,
+    "zh": "好的。",
+    "zh_hant": "好的。"
+  },
+  {
+    "index": 72,
+    "text": "Pippa, it's time to reveal the answer to my question.",
+    "start": 285.53,
+    "end": 290.072,
+    "zh": "皮帕，是时候揭晓我问题的答案了。",
+    "zh_hant": "皮帕，是時候揭曉我問題的答案了。"
+  },
+  {
+    "index": 73,
+    "text": "Now, I asked you when fizzy drinks were invented.",
+    "start": 289.792,
+    "end": 295.275,
+    "zh": "我问你汽水是什么时候发明的。",
+    "zh_hant": "我問你汽水是什麼時候發明的。"
+  },
+  {
+    "index": 74,
+    "text": "You said 1872.",
+    "start": 295.435,
+    "end": 297.69,
+    "zh": "你说是1872年。",
+    "zh_hant": "你說是1872年。"
+  },
+  {
+    "index": 75,
+    "text": "I'm afraid the correct answer was 1772.",
+    "start": 297.636,
+    "end": 301.728,
+    "zh": "恐怕正确答案是1772年。",
+    "zh_hant": "恐怕正確答案是1772年。"
+  },
+  {
+    "index": 76,
+    "text": "Apparently carbonated water was used to try to prevent scurvy on sea voyages.",
+    "start": 301.778,
+    "end": 307.481,
+    "zh": "据说碳酸水曾被用来在航海途中预防坏血病。",
+    "zh_hant": "據說碳酸水曾被用來在航海途中預防壞血病。"
+  },
+  {
+    "index": 77,
+    "text": "Wow, that is amazing.",
+    "start": 307.481,
+    "end": 309.682,
+    "zh": "哇，真惊人。",
+    "zh_hant": "哇，真驚人。"
+  },
+  {
+    "index": 78,
+    "text": "I wouldn't have thought it was that long ago.",
+    "start": 309.332,
+    "end": 311.883,
+    "zh": "我没想到那是那么久以前的事。",
+    "zh_hant": "我沒想到那是那麼久以前的事。"
+  },
+  {
+    "index": 79,
+    "text": "Right.",
+    "start": 312.103,
+    "end": 312.884,
+    "zh": "好。",
+    "zh_hant": "好。"
+  },
+  {
+    "index": 80,
+    "text": "Let's recap the vocabulary we've learned,",
+    "start": 312.534,
+    "end": 315.225,
+    "zh": "让我们回顾一下学过的词汇，",
+    "zh_hant": "讓我們回顧一下學過的詞彙，"
+  },
+  {
+    "index": 81,
+    "text": "starting with ready meal – a meal from a supermarket that has already been prepared so you can heat it up quickly.",
+    "start": 314.875,
+    "end": 321.648,
+    "zh": "首先是速食餐——从超市买的已经准备好的餐食，可以快速加热。",
+    "zh_hant": "首先是速食餐——從超市買的已經準備好的餐食，可以快速加熱。"
+  },
+  {
+    "index": 82,
+    "text": "If you do something from scratch , you do it from the very beginning,",
+    "start": 321.708,
+    "end": 325.971,
+    "zh": "如果你从零开始做某事，就是从最开始做起，",
+    "zh_hant": "如果你從零開始做某事，就是從最開始做起，"
+  },
+  {
+    "index": 83,
+    "text": "without using anything that's already been made.",
+    "start": 325.631,
+    "end": 328.752,
+    "zh": "不利用任何现成的东西。",
+    "zh_hant": "不利用任何現成的東西。"
+  },
+  {
+    "index": 84,
+    "text": "A guilty pleasure is something you enjoy but feel guilty or embarrassed about because you think you shouldn't do it.",
+    "start": 328.872,
+    "end": 336.196,
+    "zh": "快乐小秘密是指你享受但感到愧疚或不好意思的事情，因为你觉得自己不该做。",
+    "zh_hant": "快樂小秘密是指你享受但感到愧疚或不好意思的事情，因為你覺得自己不該做。"
+  },
+  {
+    "index": 85,
+    "text": "The phrases once in a while and from time to time mean occasionally, not very often.",
+    "start": 336.396,
+    "end": 342.759,
+    "zh": "“偶尔”和“时不时”这两个短语意思是偶尔，不常发生。",
+    "zh_hant": "“偶爾”和“時不時”這兩個短語意思是偶爾，不常發生。"
+  },
+  {
+    "index": 86,
+    "text": "And finally, the phrase everything in moderation",
+    "start": 342.759,
+    "end": 346.261,
+    "zh": "最后，短语“凡事适度”",
+    "zh_hant": "最後，短語“凡事適度”"
+  },
+  {
+    "index": 87,
+    "text": "is used to advise someone that it's best to avoid too much of anything.",
+    "start": 346.201,
+    "end": 350.943,
+    "zh": "用来建议某人最好避免过量摄入任何东西。",
+    "zh_hant": "用來建議某人最好避免過量攝入任何東西。"
+  },
+  {
+    "index": 88,
+    "text": "Once again, our six minutes are up, but if you're hungry for more,",
+    "start": 351.423,
+    "end": 355.425,
+    "zh": "再次提醒，我们的6分钟时间到了，但如果你还想了解更多，",
+    "zh_hant": "再次提醒，我們的6分鐘時間到了，但如果你還想了解更多，"
+  },
+  {
+    "index": 89,
+    "text": "head over to our website, bbclearningenglish.com,",
+    "start": 355.565,
+    "end": 358.907,
+    "zh": "可以访问我们的网站bbclearningenglish.com，",
+    "zh_hant": "可以訪問我們的網站bbclearningenglish.com，"
+  },
+  {
+    "index": 90,
+    "text": "for more tasty topics and useful vocabulary.",
+    "start": 358.927,
+    "end": 362.388,
+    "zh": "获取更多有趣的话题和实用词汇。",
+    "zh_hant": "獲取更多有趣的話題和實用詞彙。"
+  },
+  {
+    "index": 91,
+    "text": "See you again soon.",
+    "start": 362.609,
+    "end": 363.809,
+    "zh": "下次再见。",
+    "zh_hant": "下次再見。"
+  },
+  {
+    "index": 92,
+    "text": "But for now, it's goodbye.",
+    "start": 363.569,
+    "end": 365.863,
+    "zh": "但现在，要告别了。",
+    "zh_hant": "但現在，要告別了。"
+  },
+  {
+    "index": 93,
+    "text": "Bye!",
+    "start": 365.525,
+    "end": 366.489,
+    "zh": "再见！",
+    "zh_hant": "再見！"
+  }
+]

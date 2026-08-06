@@ -4,8 +4,8 @@
     "text": "This is 6 Minute English from BBC Learning English.",
     "start": 8.19,
     "end": 11.492,
-    "zh": "这里是BBC英语学习的六分钟英语。",
-    "zh_hant": "這裡是BBC英語學習的六分鐘英語。"
+    "zh": "这里是BBC学习英语的六分钟英语。",
+    "zh_hant": "這裡是BBC學習英語的六分鐘英語。"
   },
   {
     "index": 1,
@@ -33,22 +33,14 @@
   },
   {
     "index": 4,
-    "text": "Well, I'm not sure about the kind of little green men that you see",
+    "text": "Well, I'm not sure about the kind of little green men that you see in science fiction movies.",
     "start": 17.615,
-    "end": 22.497,
-    "zh": "嗯，我不确定你看到的那些小绿人",
-    "zh_hant": "嗯，我不確定你看到的那些小綠人"
+    "end": 24.298,
+    "zh": "嗯，我不太确定科幻电影里那种小绿人是否存在。",
+    "zh_hant": "嗯，我不太確定科幻電影裡那種小綠人是否存在。"
   },
   {
     "index": 5,
-    "text": "in science fiction movies.",
-    "start": 22.277,
-    "end": 24.298,
-    "zh": "在科幻电影里出现的。",
-    "zh_hant": "在科幻電影裡出現的。"
-  },
-  {
-    "index": 6,
     "text": "But also, I think we cannot be alone in the universe.",
     "start": 23.948,
     "end": 28.46,
@@ -56,15 +48,15 @@
     "zh_hant": "但我也覺得，我們在宇宙中不可能是孤獨的。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "What about you, Bekka?",
     "start": 28.36,
     "end": 29.841,
-    "zh": "你呢，贝卡？",
-    "zh_hant": "你呢，貝卡？"
+    "zh": "那你呢，贝卡？",
+    "zh_hant": "那你呢，貝卡？"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "What do you think?",
     "start": 29.491,
     "end": 30.601,
@@ -72,7 +64,7 @@
     "zh_hant": "你怎麼看？"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "I agree.",
     "start": 30.541,
     "end": 31.582,
@@ -80,159 +72,119 @@
     "zh_hant": "我同意。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "I think that maybe life does exist beyond our planet,",
     "start": 31.442,
     "end": 35.623,
-    "zh": "我觉得生命可能确实存在于我们的星球之外，",
-    "zh_hant": "我覺得生命可能確實存在於我們的星球之外，"
+    "zh": "我觉得也许生命确实存在于我们星球之外，",
+    "zh_hant": "我覺得也許生命確實存在於我們星球之外，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "but maybe not as we see in alien movies.",
     "start": 35.464,
     "end": 39.305,
-    "zh": "但也许不像我们在外星人电影里看到的那样。",
-    "zh_hant": "但也許不像我們在外星人電影裡看到的那樣。"
+    "zh": "但可能不像外星电影里那样。",
+    "zh_hant": "但可能不像外星電影裡那樣。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Well, in this episode, we'll be learning from science and space experts",
     "start": 39.446,
     "end": 43.567,
-    "zh": "好吧，在本期节目中，我们将向科学和太空专家学习",
-    "zh_hant": "好吧，在本期節目中，我們將向科學和太空專家學習"
+    "zh": "嗯，在本期节目中，我们将向科学和太空专家学习",
+    "zh_hant": "嗯，在本期節目中，我們將向科學和太空專家學習"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "about whether the conditions for life exist on a planet 40 light years away.",
     "start": 43.308,
     "end": 49.311,
-    "zh": "关于40光年外的一颗行星上是否存在适合生命的条件。",
-    "zh_hant": "關於40光年外的一顆行星上是否存在適合生命的條件。"
+    "zh": "关于40光年外的一颗行星上是否存在生命条件。",
+    "zh_hant": "關於40光年外的一顆行星上是否存在生命條件。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Yes, and as usual, you can find a transcript for this episode,",
     "start": 49.791,
     "end": 54.053,
-    "zh": "是的，像往常一样，你可以在我们的网站bbclearningenglish.com上",
-    "zh_hant": "是的，像往常一樣，你可以在我們的網站bbclearningenglish.com上"
+    "zh": "是的，和往常一样，你可以在我们的网站bbclearningenglish.com上找到本期节目的文字稿，",
+    "zh_hant": "是的，和往常一樣，你可以在我們的網站bbclearningenglish.com上找到本期節目的文字稿，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "along with all the vocabulary and a worksheet, on our website, bbclearningenglish.com.",
     "start": 53.703,
     "end": 59.235,
-    "zh": "找到本期节目的文本，以及所有词汇和练习表。",
-    "zh_hant": "找到本期節目的文字，以及所有詞彙和練習表。"
+    "zh": "以及所有词汇和工作表。",
+    "zh_hant": "以及所有詞彙和工作表。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "OK, a quiz question for you, Bekka.",
     "start": 59.576,
     "end": 61.877,
-    "zh": "好，贝卡，给你出个测验题。",
-    "zh_hant": "好，貝卡，給你出個測驗題。"
+    "zh": "好，给你出一个测验题，贝卡。",
+    "zh_hant": "好，給你出一個測驗題，貝卡。"
+  },
+  {
+    "index": 16,
+    "text": "How long would it take to drive a car to the sun at 100 kilometres an hour?",
+    "start": 61.657,
+    "end": 68.2,
+    "zh": "以每小时100公里的速度开车到太阳需要多长时间？",
+    "zh_hant": "以每小時100公里的速度開車到太陽需要多長時間？"
   },
   {
     "index": 17,
-    "text": "How long would it take to drive a car to the sun",
-    "start": 61.657,
-    "end": 66.179,
-    "zh": "以每小时100公里的速度开车到太阳",
-    "zh_hant": "以每小時100公里的速度開車到太陽"
+    "text": "Is it a, 70 years, b, 170 years, or c, 1,700 years?",
+    "start": 68.24,
+    "end": 75.924,
+    "zh": "是a，70年，b，170年，还是c，1700年？",
+    "zh_hant": "是a，70年，b，170年，還是c，1700年？"
   },
   {
     "index": 18,
-    "text": "at 100 kilometres an hour?",
-    "start": 66.139,
-    "end": 68.2,
-    "zh": "需要多长时间？",
-    "zh_hant": "需要多長時間？"
+    "text": "Well, Neil, the sun seems very far away, so I'll go for 1,700 years.",
+    "start": 75.964,
+    "end": 83.207,
+    "zh": "嗯，尼尔，太阳看起来很遥远，所以我选1700年。",
+    "zh_hant": "嗯，尼爾，太陽看起來很遙遠，所以我選1700年。"
   },
   {
     "index": 19,
-    "text": "Is it a, 70 years, b, 170 years,",
-    "start": 68.24,
-    "end": 72.782,
-    "zh": "是a，70年，b，170年，",
-    "zh_hant": "是a，70年，b，170年，"
-  },
-  {
-    "index": 20,
-    "text": "or c, 1,700 years?",
-    "start": 72.462,
-    "end": 75.924,
-    "zh": "还是c，1700年？",
-    "zh_hant": "還是c，1700年？"
-  },
-  {
-    "index": 21,
-    "text": "Well, Neil, the sun seems very far away,",
-    "start": 75.964,
-    "end": 79.345,
-    "zh": "嗯，尼尔，太阳看起来非常远，",
-    "zh_hant": "嗯，尼爾，太陽看起來非常遠，"
-  },
-  {
-    "index": 22,
-    "text": "so I'll go for 1,700 years.",
-    "start": 79.025,
-    "end": 83.207,
-    "zh": "所以我选1700年。",
-    "zh_hant": "所以我選1700年。"
-  },
-  {
-    "index": 23,
     "text": "I hope you have enough petrol for that?",
     "start": 83.688,
     "end": 85.508,
-    "zh": "我希望你有足够的汽油？",
-    "zh_hant": "我希望你有足夠的汽油？"
+    "zh": "希望你有足够的汽油开到那儿？",
+    "zh_hant": "希望你有足夠的汽油開到那兒？"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "Well, we'll find out the answer to the question later.",
     "start": 85.509,
     "end": 88.55,
-    "zh": "好吧，我们稍后会揭晓答案。",
-    "zh_hant": "好吧，我們稍後會揭曉答案。"
+    "zh": "嗯，我们稍后会揭晓问题的答案。",
+    "zh_hant": "嗯，我們稍後會揭曉問題的答案。"
   },
   {
-    "index": 25,
-    "text": "Now though, some science and space experts are excited",
+    "index": 21,
+    "text": "Now though, some science and space experts are excited about a planet in a different solar system from our own.",
     "start": 88.811,
-    "end": 92.352,
-    "zh": "现在，一些科学和太空专家对",
-    "zh_hant": "現在，一些科學和太空專家對"
-  },
-  {
-    "index": 26,
-    "text": "about a planet in a different solar system from our own.",
-    "start": 92.002,
     "end": 95.514,
-    "zh": "一个与我们太阳系不同的行星感到兴奋。",
-    "zh_hant": "一個與我們太陽系不同的行星感到興奮。"
+    "zh": "现在，一些科学和太空专家对一个与我们不同的太阳系中的行星感到兴奋。",
+    "zh_hant": "現在，一些科學和太空專家對一個與我們不同的太陽系中的行星感到興奮。"
   },
   {
-    "index": 27,
-    "text": "Science journalist Caroline Steele talks about this discovery",
+    "index": 22,
+    "text": "Science journalist Caroline Steele talks about this discovery on the BBC World Service programme What in the World?",
     "start": 95.714,
-    "end": 99.556,
-    "zh": "科学记者卡罗琳·斯蒂尔在BBC世界服务节目《世上何事》中",
-    "zh_hant": "科學記者卡羅琳·斯蒂爾在BBC世界服務節目《世上何事》中"
-  },
-  {
-    "index": 28,
-    "text": "on the BBC World Service programme What in the World?",
-    "start": 99.356,
     "end": 102.577,
-    "zh": "谈论了这一发现。",
-    "zh_hant": "談論了這一發現。"
+    "zh": "科学记者卡罗琳·斯蒂尔在BBC世界服务节目《世界有什么》中讨论了这一发现。",
+    "zh_hant": "科學記者卡羅琳·斯蒂爾在BBC世界服務節目《世界有什麼》中討論了這一發現。"
   },
   {
-    "index": 29,
+    "index": 23,
     "text": "So, scientists have been looking at an exoplanet,",
     "start": 102.437,
     "end": 106.019,
@@ -240,103 +192,95 @@
     "zh_hant": "所以，科學家們一直在研究一顆系外行星，"
   },
   {
-    "index": 30,
+    "index": 24,
     "text": "so that's a planet that exists in a solar system that isn't our own, called TRAPPIST-1e.",
     "start": 105.669,
     "end": 111.501,
-    "zh": "那是一颗存在于非我们太阳系中的行星，名为TRAPPIST-1e。",
-    "zh_hant": "那是一顆存在於非我們太陽系中的行星，名為TRAPPIST-1e。"
+    "zh": "也就是存在于我们太阳系之外的行星，名为TRAPPIST-1e。",
+    "zh_hant": "也就是存在於我們太陽系之外的行星，名為TRAPPIST-1e。"
   },
   {
-    "index": 31,
+    "index": 25,
     "text": "And it's a rocky planet like Earth.",
     "start": 111.902,
     "end": 114.543,
-    "zh": "它是一颗像地球一样的岩石行星。",
-    "zh_hant": "它是一顆像地球一樣的岩石行星。"
+    "zh": "它像地球一样是一颗岩石行星。",
+    "zh_hant": "它像地球一樣是一顆岩石行星。"
   },
   {
-    "index": 32,
-    "text": "It's a similar size to Earth, and it exists in the habitable zone around",
+    "index": 26,
+    "text": "It's a similar size to Earth, and it exists in the habitable zone around its sun.",
     "start": 114.193,
-    "end": 119.785,
-    "zh": "它的大小与地球相似，并且存在于其恒星周围",
-    "zh_hant": "它的大小與地球相似，並且存在於其恆星周圍"
-  },
-  {
-    "index": 33,
-    "text": "its sun.",
-    "start": 119.566,
     "end": 120.986,
-    "zh": "的宜居带中。",
-    "zh_hant": "的宜居帶中。"
+    "zh": "它与地球大小相似，并且存在于其太阳周围的可居住区。",
+    "zh_hant": "它與地球大小相似，並且存在於其太陽周圍的可居住區。"
   },
   {
-    "index": 34,
+    "index": 27,
     "text": "And its sun is called TRAPPIST-1.",
     "start": 120.886,
     "end": 123.067,
-    "zh": "它的恒星叫做TRAPPIST-1。",
-    "zh_hant": "它的恆星叫做TRAPPIST-1。"
+    "zh": "它的太阳叫做TRAPPIST-1。",
+    "zh_hant": "它的太陽叫做TRAPPIST-1。"
   },
   {
-    "index": 35,
-    "text": "Caroline explains that scientists have discovered that the planet",
+    "index": 28,
+    "text": "Caroline explains that scientists have discovered",
     "start": 122.847,
-    "end": 127.749,
-    "zh": "卡罗琳解释说，科学家们发现这颗行星",
-    "zh_hant": "卡羅琳解釋說，科學家們發現這顆行星"
+    "end": 126.949,
+    "zh": "卡罗琳解释说，科学家们已经发现",
+    "zh_hant": "卡羅琳解釋說，科學家們已經發現"
   },
   {
-    "index": 36,
-    "text": "TRAPPIST-1e exists in the habitable zone around its sun.",
-    "start": 127.489,
+    "index": 29,
+    "text": "that the planet TRAPPIST-1e exists in the habitable zone around its sun.",
+    "start": 126.599,
     "end": 131.952,
-    "zh": "TRAPPIST-1e存在于其恒星周围的宜居带中。",
-    "zh_hant": "TRAPPIST-1e存在於其恆星周圍的宜居帶中。"
+    "zh": "TRAPPIST-1e行星存在于其太阳周围的可居住区。",
+    "zh_hant": "TRAPPIST-1e行星存在於其太陽周圍的可居住區。"
   },
   {
-    "index": 37,
+    "index": 30,
     "text": "The adjective habitable describes a place or habitat that is suitable for something to live.",
     "start": 132.272,
     "end": 138.035,
-    "zh": "形容词“habitable”描述的是一个适合生物生存的地方或栖息地。",
-    "zh_hant": "形容詞“habitable”描述的是一個適合生物生存的地方或棲息地。"
+    "zh": "形容词habitable描述的是适合某物生存的地方或栖息地。",
+    "zh_hant": "形容詞habitable描述的是適合某物生存的地方或棲息地。"
   },
   {
-    "index": 38,
+    "index": 31,
     "text": "Yes, and a zone is an area with a particular feature.",
     "start": 138.155,
     "end": 141.797,
-    "zh": "是的，“zone”是指具有特定特征的区域。",
-    "zh_hant": "是的，“zone”是指具有特定特徵的區域。"
+    "zh": "是的，而zone是具有特定特征的区域。",
+    "zh_hant": "是的，而zone是具有特定特徵的區域。"
   },
   {
-    "index": 39,
+    "index": 32,
     "text": "For example, people who live in earthquake zones have to be prepared for danger.",
     "start": 141.537,
     "end": 146.779,
-    "zh": "例如，住在震区的人必须为危险做好准备。",
-    "zh_hant": "例如，住在震區的人必須為危險做好準備。"
+    "zh": "例如，住在地震带的人必须做好应对危险的准备。",
+    "zh_hant": "例如，住在地震帶的人必須做好應對危險的準備。"
   },
   {
-    "index": 40,
+    "index": 33,
     "text": "So a habitable zone is an area where something could live.",
     "start": 147.2,
     "end": 151.341,
-    "zh": "所以“habitable zone”是指某个生物可以生存的区域。",
-    "zh_hant": "所以“habitable zone”是指某個生物可以生存的區域。"
+    "zh": "所以可居住区是某物可以生存的区域。",
+    "zh_hant": "所以可居住區是某物可以生存的區域。"
   },
   {
-    "index": 41,
+    "index": 34,
     "text": "Caroline goes on to explain why they think TRAPPIST-1e may be habitable.",
     "start": 151.262,
     "end": 156.084,
-    "zh": "卡罗琳接着解释了为什么他们认为TRAPPIST-1e可能宜居。",
-    "zh_hant": "卡羅琳接著解釋了為什麼他們認為TRAPPIST-1e可能宜居。"
+    "zh": "卡罗琳接着解释为什么他们认为TRAPPIST-1e可能适合居住。",
+    "zh_hant": "卡羅琳接著解釋為什麼他們認為TRAPPIST-1e可能適合居住。"
   },
   {
-    "index": 42,
+    "index": 35,
     "text": "Scientists have been looking at the potential atmosphere around TRAPPIST-1e,",
     "start": 155.764,
     "end": 160.346,
@@ -344,7 +288,7 @@
     "zh_hant": "科學家們一直在研究TRAPPIST-1e周圍潛在的大氣層，"
   },
   {
-    "index": 43,
+    "index": 36,
     "text": "and they've ruled out that it's really full of hydrogen or carbon dioxide,",
     "start": 160.026,
     "end": 164.088,
@@ -352,39 +296,31 @@
     "zh_hant": "他們已經排除了它充滿氫氣或二氧化碳的可能性，"
   },
   {
-    "index": 44,
+    "index": 37,
     "text": "which is a great thing because they're greenhouse gases which would make the planet really hot.",
     "start": 163.738,
     "end": 168.51,
-    "zh": "这是件好事，因为这些温室气体会让行星变得非常热。",
-    "zh_hant": "這是件好事，因為這些溫室氣體會讓行星變得非常熱。"
+    "zh": "这是好事，因为温室气体会使行星变得非常热。",
+    "zh_hant": "這是好事，因為溫室氣體會使行星變得非常熱。"
   },
   {
-    "index": 45,
-    "text": "And there are some small clues",
+    "index": 38,
+    "text": "And there are some small clues that it might be a nitrogen-dominated atmosphere,",
     "start": 168.591,
-    "end": 170.931,
-    "zh": "而且有一些小线索",
-    "zh_hant": "而且有一些小線索"
+    "end": 174.893,
+    "zh": "而且有一些小线索表明它可能是以氮为主的大气层，",
+    "zh_hant": "而且有一些小線索表明它可能是以氮為主的大氣層，"
   },
   {
-    "index": 46,
-    "text": "that it might be a nitrogen-dominated atmosphere, which, again,",
-    "start": 170.792,
-    "end": 176.134,
-    "zh": "表明它可能是以氮为主的大气层，这再次",
-    "zh_hant": "表明它可能是以氮為主的大氣層，這再次"
-  },
-  {
-    "index": 47,
-    "text": "is another sort of clue that there could be life there.",
-    "start": 175.784,
+    "index": 39,
+    "text": "which, again, is another sort of clue that there could be life there.",
+    "start": 174.734,
     "end": 178.515,
-    "zh": "是可能有生命的另一个线索。",
-    "zh_hant": "是可能有生命的另一個線索。"
+    "zh": "这再次是那里可能存在生命的另一个线索。",
+    "zh_hant": "這再次是那裡可能存在生命的另一個線索。"
   },
   {
-    "index": 48,
+    "index": 40,
     "text": "Caroline Steele says that scientists are looking at the potential atmosphere around TRAPPIST-1e.",
     "start": 178.165,
     "end": 184.438,
@@ -392,31 +328,31 @@
     "zh_hant": "卡羅琳·斯蒂爾說，科學家們正在研究TRAPPIST-1e周圍潛在的大氣層。"
   },
   {
-    "index": 49,
+    "index": 41,
     "text": "That is, they want to find out if the atmosphere is capable or likely to become able to host life.",
     "start": 184.458,
     "end": 190.781,
-    "zh": "也就是说，他们想弄清大气层是否能够或可能成为支持生命的环境。",
-    "zh_hant": "也就是說，他們想弄清大氣層是否能夠或可能成為支援生命的環境。"
+    "zh": "也就是说，他们想弄清楚大气是否具备或可能具备承载生命的能力。",
+    "zh_hant": "也就是說，他們想弄清楚大氣是否具備或可能具備承載生命的能力。"
   },
   {
-    "index": 50,
+    "index": 42,
     "text": "If something has potential, it already has the qualities or abilities to do something.",
     "start": 190.921,
     "end": 196.144,
-    "zh": "如果某物有“potential”，它就已经具备做某事的特质或能力。",
-    "zh_hant": "如果某物有“potential”，它就已經具備做某事的特質或能力。"
+    "zh": "如果某物具有潜力，它已经拥有做某事的品质或能力。",
+    "zh_hant": "如果某物具有潛力，它已經擁有做某事的品質或能力。"
   },
   {
-    "index": 51,
+    "index": 43,
     "text": "The adjective potential has a similar meaning but refers to future capability.",
     "start": 196.044,
     "end": 201.286,
-    "zh": "形容词“potential”含义相似，但指的是未来的能力。",
-    "zh_hant": "形容詞“potential”含義相似，但指的是未來的能力。"
+    "zh": "形容词potential含义相似，但指的是未来的能力。",
+    "zh_hant": "形容詞potential含義相似，但指的是未來的能力。"
   },
   {
-    "index": 52,
+    "index": 44,
     "text": "Exactly.",
     "start": 201.187,
     "end": 202.247,
@@ -424,127 +360,111 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 53,
+    "index": 45,
     "text": "We could say the data has potential, in that it shows signs of helping the research.",
     "start": 202.347,
     "end": 207.169,
-    "zh": "我们可以说这个数据有潜力，因为它显示出能帮助研究的迹象。",
-    "zh_hant": "我們可以說這個資料有潛力，因為它顯示出能幫助研究的跡象。"
+    "zh": "我们可以说这些数据有潜力，因为它显示出有助于研究的迹象。",
+    "zh_hant": "我們可以說這些資料有潛力，因為它顯示出有助於研究的跡象。"
   },
   {
-    "index": 54,
+    "index": 46,
     "text": "But when we talk about potential data, we're referring to data that could help us with future research.",
     "start": 206.969,
     "end": 212.772,
-    "zh": "但当我们谈到潜在的数据时，我们指的是可能帮助我们未来研究的数据。",
-    "zh_hant": "但當我們談到潛在的資料時，我們指的是可能幫助我們未來研究的資料。"
+    "zh": "但当我们谈论潜在的数据时，我们指的是可能有助于未来研究的数据。",
+    "zh_hant": "但當我們談論潛在的資料時，我們指的是可能有助於未來研究的資料。"
   },
   {
-    "index": 55,
-    "text": "She also mentions how scientists have ruled out that TRAPPIST-1e",
+    "index": 47,
+    "text": "She also mentions how scientists have ruled out that TRAPPIST-1e is full of hydrogen or carbon dioxide.",
     "start": 213.113,
-    "end": 217.615,
-    "zh": "她还提到科学家们如何排除了TRAPPIST-1e",
-    "zh_hant": "她還提到科學家們如何排除了TRAPPIST-1e"
-  },
-  {
-    "index": 56,
-    "text": "is full of hydrogen or carbon dioxide.",
-    "start": 217.375,
     "end": 220.236,
-    "zh": "充满氢气或二氧化碳的可能性。",
-    "zh_hant": "充滿氫氣或二氧化碳的可能性。"
+    "zh": "她还提到科学家们已经排除了TRAPPIST-1e充满氢气或二氧化碳的可能性。",
+    "zh_hant": "她還提到科學家們已經排除了TRAPPIST-1e充滿氫氣或二氧化碳的可能性。"
   },
   {
-    "index": 57,
+    "index": 48,
     "text": "The phrasal verb rule out means to dismiss the possibility or idea of something.",
     "start": 220.256,
     "end": 225.499,
-    "zh": "短语动词“rule out”意思是排除某事发生的可能性或想法。",
-    "zh_hant": "短語動詞“rule out”意思是排除某事發生的可能性或想法。"
+    "zh": "短语动词rule out意思是排除某事的可能性或想法。",
+    "zh_hant": "短語動詞rule out意思是排除某事的可能性或想法。"
   },
   {
-    "index": 58,
+    "index": 49,
     "text": "Scientists have found that TRAPPIST-1e is not full of those greenhouse gases.",
     "start": 225.579,
     "end": 230.201,
-    "zh": "科学家们发现TRAPPIST-1e并没有充满那些温室气体。",
-    "zh_hant": "科學家們發現TRAPPIST-1e並沒有充滿那些溫室氣體。"
+    "zh": "科学家们发现TRAPPIST-1e并不充满那些温室气体。",
+    "zh_hant": "科學家們發現TRAPPIST-1e並不充滿那些溫室氣體。"
   },
   {
-    "index": 59,
+    "index": 50,
     "text": "They've ruled it out, indeed.",
     "start": 229.981,
     "end": 232.422,
-    "zh": "他们确实已经排除了这种可能。",
-    "zh_hant": "他們確實已經排除了這種可能。"
+    "zh": "他们已经排除这一点了，确实如此。",
+    "zh_hant": "他們已經排除這一點了，確實如此。"
   },
   {
-    "index": 60,
+    "index": 51,
     "text": "And Caroline goes on to say how the atmosphere of TRAPPIST-1e is dominated by nitrogen.",
     "start": 232.342,
     "end": 238.125,
-    "zh": "卡罗琳接着谈到TRAPPIST-1e的大气层是如何以氮为主的。",
-    "zh_hant": "卡羅琳接著談到TRAPPIST-1e的大氣層是如何以氮為主的。"
+    "zh": "卡罗琳接着说，TRAPPIST-1e的大气层如何以氮为主。",
+    "zh_hant": "卡羅琳接著說，TRAPPIST-1e的大氣層如何以氮為主。"
   },
   {
-    "index": 61,
+    "index": 52,
     "text": "If something is dominated by something else, it is controlled by it or is the most significant element of it.",
     "start": 238.525,
     "end": 244.668,
-    "zh": "如果某物被另一物主导，就是受其控制或它是其中最显著的元素。",
-    "zh_hant": "如果某物被另一物主導，就是受其控制或它是其中最顯著的元素。"
+    "zh": "如果某物被其他东西主导，那就是被它所控制，或者它是最重要的元素。",
+    "zh_hant": "如果某物被其他東西主導，那就是被它所控制，或者它是最重要的元素。"
   },
   {
-    "index": 62,
-    "text": "Trappist-1e is full of nitrogen, which is exciting",
+    "index": 53,
+    "text": "Trappist-1e is full of nitrogen, which is exciting because nitrogen is a sign of life and habitability.",
     "start": 244.708,
-    "end": 248.531,
-    "zh": "TRAPPIST-1e充满氮气，这令人兴奋，",
-    "zh_hant": "TRAPPIST-1e充滿氮氣，這令人興奮，"
-  },
-  {
-    "index": 63,
-    "text": "because nitrogen is a sign of life and habitability.",
-    "start": 248.191,
     "end": 251.752,
-    "zh": "因为氮是生命和宜居性的标志。",
-    "zh_hant": "因為氮是生命和宜居性的標誌。"
+    "zh": "TRAPPIST-1e充满氮气，这令人兴奋，因为氮是生命和可居住性的标志。",
+    "zh_hant": "TRAPPIST-1e充滿氮氣，這令人興奮，因為氮是生命和可居住性的標誌。"
   },
   {
-    "index": 64,
+    "index": 54,
     "text": "So, what if nitrogen is actually found on this planet?",
     "start": 252.493,
     "end": 256.174,
-    "zh": "那么，如果这颗行星上真的发现了氮呢？",
-    "zh_hant": "那麼，如果這顆行星上真的發現了氮呢？"
+    "zh": "那么，如果在这颗行星上真的发现氮气呢？",
+    "zh_hant": "那麼，如果在這顆行星上真的發現氮氣呢？"
   },
   {
-    "index": 65,
+    "index": 55,
     "text": "Caroline Steele has more.",
     "start": 256.015,
     "end": 258.075,
-    "zh": "卡罗琳·斯蒂尔有更多内容。",
-    "zh_hant": "卡羅琳·斯蒂爾有更多內容。"
+    "zh": "卡罗琳·斯蒂尔还有更多内容。",
+    "zh_hant": "卡羅琳·斯蒂爾還有更多內容。"
   },
   {
-    "index": 66,
+    "index": 56,
     "text": "My guess is what we'll do is try and see what other gases are in the atmosphere,",
     "start": 257.935,
     "end": 262.137,
-    "zh": "我猜我们会尝试看看大气层中还有哪些其他气体，",
-    "zh_hant": "我猜我們會嘗試看看大氣層中還有哪些其他氣體，"
+    "zh": "我猜我们要做的是尝试看看大气层中还有什么其他气体，",
+    "zh_hant": "我猜我們要做的是嘗試看看大氣層中還有什麼其他氣體，"
   },
   {
-    "index": 67,
+    "index": 57,
     "text": "and use models to work out how warm the planet could be,",
     "start": 261.787,
     "end": 265.739,
-    "zh": "并使用模型来计算出这颗行星可能有多温暖，",
-    "zh_hant": "並使用模型來計算出這顆行星可能有多溫暖，"
+    "zh": "并用模型来计算出这颗行星可能有多温暖，",
+    "zh_hant": "並用模型來計算出這顆行星可能有多溫暖，"
   },
   {
-    "index": 68,
+    "index": 58,
     "text": "and whether or not it's a temperature that Basically, could support life, or maybe it's too hot or too cold.",
     "start": 265.499,
     "end": 270.942,
@@ -552,39 +472,39 @@
     "zh_hant": "以及溫度是否基本上能夠支援生命，或者可能太熱或太冷。"
   },
   {
-    "index": 69,
+    "index": 59,
     "text": "But fingers crossed, it has nitrogen, there's enough of it to keep the planet a decent temperature,",
     "start": 270.592,
     "end": 275.864,
-    "zh": "但希望如此，它能有氮，并且氮的量足以让行星保持适宜的温度，",
-    "zh_hant": "但希望如此，它能有氮，並且氮的量足以讓行星保持適宜的溫度，"
+    "zh": "但祈祷好运，希望它有足够的氮气来维持行星适宜的温度，",
+    "zh_hant": "但祈禱好運，希望它有足夠的氮氣來維持行星適宜的溫度，"
   },
   {
-    "index": 70,
+    "index": 60,
     "text": "and then that's one step closer to finding life.",
     "start": 275.844,
     "end": 278.365,
-    "zh": "那样我们就离找到生命更近了一步。",
-    "zh_hant": "那樣我們就離找到生命更近了一步。"
+    "zh": "然后那就离发现生命更近一步了。",
+    "zh_hant": "然後那就離發現生命更近一步了。"
   },
   {
-    "index": 71,
+    "index": 61,
     "text": "Caroline guesses that scientists will focus on the planet's temperature and whether it could support life.",
     "start": 278.045,
     "end": 283.788,
-    "zh": "卡罗琳猜测科学家们将关注这颗行星的温度以及它是否能支持生命。",
-    "zh_hant": "卡羅琳猜測科學家們將關注這顆行星的溫度以及它是否能支援生命。"
+    "zh": "卡罗琳猜测科学家们将重点关注行星的温度以及它是否能支持生命。",
+    "zh_hant": "卡羅琳猜測科學家們將重點關注行星的溫度以及它是否能支援生命。"
   },
   {
-    "index": 72,
+    "index": 62,
     "text": "She uses the expression \"fingers crossed\" to express hope for a positive outcome.",
     "start": 283.788,
     "end": 288.731,
-    "zh": "她用了“fingers crossed”这个表达来表达对积极结果的期望。",
-    "zh_hant": "她用了“fingers crossed”這個表達來表達對積極結果的期望。"
+    "zh": "她用了“fingers crossed”这个表达来表示对积极结果的期望。",
+    "zh_hant": "她用了“fingers crossed”這個表達來表示對積極結果的期望。"
   },
   {
-    "index": 73,
+    "index": 63,
     "text": "Yes, we often make the physical gesture of crossing our fingers for good luck.",
     "start": 288.871,
     "end": 293.613,
@@ -592,127 +512,119 @@
     "zh_hant": "是的，我們經常做交叉手指的肢體動作來祈求好運。"
   },
   {
-    "index": 74,
+    "index": 64,
     "text": "We do.",
     "start": 293.533,
     "end": 294.334,
-    "zh": "我们确实如此。",
-    "zh_hant": "我們確實如此。"
+    "zh": "我们确实这样做。",
+    "zh_hant": "我們確實這樣做。"
   },
   {
-    "index": 75,
+    "index": 65,
     "text": "That reminds me, Neil, the answer to your question, fingers crossed that I answered correctly.",
     "start": 294.334,
     "end": 299.376,
-    "zh": "这提醒了我，尼尔，你问题的答案，希望我答对了。",
-    "zh_hant": "這提醒了我，尼爾，你問題的答案，希望我答對了。"
+    "zh": "这提醒我，尼尔，你问题的答案，祈祷我答对了。",
+    "zh_hant": "這提醒我，尼爾，你問題的答案，祈禱我答對了。"
   },
   {
-    "index": 76,
+    "index": 66,
     "text": "I see what you've done there, Becca.",
     "start": 299.396,
     "end": 301.077,
-    "zh": "我明白你在这做什么了，贝卡。",
-    "zh_hant": "我明白你在這做什麼了，貝卡。"
+    "zh": "我看出来你在做什么了，贝卡。",
+    "zh_hant": "我看出來你在做什麼了，貝卡。"
   },
   {
-    "index": 77,
-    "text": "Yes, I asked you how long it would take to drive to the sun",
+    "index": 67,
+    "text": "Yes, I asked you how long it would take to drive to the sun at 100 kilometres an hour,",
     "start": 301.217,
-    "end": 305.299,
-    "zh": "是的，我问你以每小时100公里的速度开车到太阳",
-    "zh_hant": "是的，我問你以每小時100公里的速度開車到太陽"
+    "end": 307.04,
+    "zh": "是的，我问你以每小时100公里的速度开车到太阳需要多长时间，",
+    "zh_hant": "是的，我問你以每小時100公里的速度開車到太陽需要多長時間，"
   },
   {
-    "index": 78,
-    "text": "at 100 kilometres an hour, and you answered c,",
-    "start": 305.139,
-    "end": 308.08,
-    "zh": "需要多长时间，你回答了c，",
-    "zh_hant": "需要多長時間，你回答了c，"
-  },
-  {
-    "index": 79,
-    "text": "1700 years.",
-    "start": 307.68,
+    "index": 68,
+    "text": "and you answered c, 1700 years.",
+    "start": 306.7,
     "end": 310.341,
-    "zh": "1700年。",
-    "zh_hant": "1700年。"
+    "zh": "你回答了c，1700年。",
+    "zh_hant": "你回答了c，1700年。"
   },
   {
-    "index": 80,
+    "index": 69,
     "text": "Well, the Sun is very far away, but the answer was b, only 170 years.",
     "start": 310.422,
     "end": 316.284,
-    "zh": "太阳确实很远，但答案是b，只有170年。",
-    "zh_hant": "太陽確實很遠，但答案是b，只有170年。"
+    "zh": "嗯，太阳非常远，但答案是b，只要170年。",
+    "zh_hant": "嗯，太陽非常遠，但答案是b，只要170年。"
   },
   {
-    "index": 81,
+    "index": 70,
     "text": "Ah well, that's still longer than my lifetime.",
     "start": 316.164,
     "end": 319.366,
-    "zh": "哎，那还是比我一辈子长。",
-    "zh_hant": "哎，那還是比我一輩子長。"
+    "zh": "啊，好吧，那还是比我的寿命长。",
+    "zh_hant": "啊，好吧，那還是比我的壽命長。"
   },
   {
-    "index": 82,
+    "index": 71,
     "text": "Now let's have a recap of the language we've learnt in this episode,",
     "start": 319.466,
     "end": 322.988,
-    "zh": "现在我们来回顾一下本期学到的语言，",
-    "zh_hant": "現在我們來回顧一下本期學到的語言，"
+    "zh": "现在让我们回顾一下本期节目中学到的语言，",
+    "zh_hant": "現在讓我們回顧一下本期節目中學到的語言，"
   },
   {
-    "index": 83,
+    "index": 72,
     "text": "starting with habitable, which describes a place or habitat that is suitable for something to live.",
     "start": 322.728,
     "end": 328.551,
-    "zh": "从“habitable”开始，它描述的是一个适合生物生存的地方或栖息地。",
-    "zh_hant": "從“habitable”開始，它描述的是一個適合生物生存的地方或棲息地。"
+    "zh": "从habitable开始，它描述适合某物生存的地方或栖息地。",
+    "zh_hant": "從habitable開始，它描述適合某物生存的地方或棲息地。"
   },
   {
-    "index": 84,
+    "index": 73,
     "text": "A zone is an area with a particular feature.",
     "start": 328.471,
     "end": 331.332,
-    "zh": "“zone”是有特定特征的区域。",
-    "zh_hant": "“zone”是有特定特徵的區域。"
+    "zh": "Zone是具有特定特征的区域。",
+    "zh_hant": "Zone是具有特定特徵的區域。"
   },
   {
-    "index": 85,
+    "index": 74,
     "text": "Potential describes having possible qualities or abilities to do something.",
     "start": 331.232,
     "end": 335.794,
-    "zh": "“Potential”描述的是具备做某事的可能特质或能力。",
-    "zh_hant": "“Potential”描述的是具備做某事的可能特質或能力。"
+    "zh": "Potential描述具有做某事的潜在品质或能力。",
+    "zh_hant": "Potential描述具有做某事的潛在品質或能力。"
   },
   {
-    "index": 86,
+    "index": 75,
     "text": "The phrasal verb rule out means to dismiss the possibility or idea of something.",
     "start": 335.775,
     "end": 340.837,
-    "zh": "短语动词“rule out”意思是排除某事发生的可能性或想法。",
-    "zh_hant": "短語動詞“rule out”意思是排除某事發生的可能性或想法。"
+    "zh": "短语动词rule out意思是排除某事的可能性或想法。",
+    "zh_hant": "短語動詞rule out意思是排除某事的可能性或想法。"
   },
   {
-    "index": 87,
+    "index": 76,
     "text": "We also had dominated.",
     "start": 340.917,
     "end": 343.338,
-    "zh": "我们还有“dominated”。",
-    "zh_hant": "我們還有“dominated”。"
+    "zh": "我们还有dominated。",
+    "zh_hant": "我們還有dominated。"
   },
   {
-    "index": 88,
+    "index": 77,
     "text": "If something is dominated by something else, it is controlled by it or is the most significant element of it.",
     "start": 343.278,
     "end": 349.401,
-    "zh": "如果某物被另一物主导，就是受其控制或它是其中最显著的元素。",
-    "zh_hant": "如果某物被另一物主導，就是受其控制或它是其中最顯著的元素。"
+    "zh": "如果某物被其他东西主导，那就是被它所控制，或者它是最重要的元素。",
+    "zh_hant": "如果某物被其他東西主導，那就是被它所控制，或者它是最重要的元素。"
   },
   {
-    "index": 89,
+    "index": 78,
     "text": "And finally, the expression \"fingers crossed\" is used to wish for hope or luck.",
     "start": 349.922,
     "end": 355.264,
@@ -720,31 +632,23 @@
     "zh_hant": "最後，“fingers crossed”這個表達用來祝願希望或好運。"
   },
   {
-    "index": 90,
-    "text": "Once again, our six minutes are up, but head over to our website,",
+    "index": 79,
+    "text": "Once again, our six minutes are up, but head over to our website, bbclearningenglish.com, for a quiz and worksheet for this episode.",
     "start": 355.304,
-    "end": 358.926,
-    "zh": "再次，我们的六分钟时间到了，但请前往我们的网站，",
-    "zh_hant": "再次，我們的六分鐘時間到了，但請前往我們的網站，"
-  },
-  {
-    "index": 91,
-    "text": "bbclearningenglish.com, for a quiz and worksheet for this episode.",
-    "start": 358.576,
     "end": 362.788,
-    "zh": "bbclearningenglish.com，获取本期节目的测验和练习表。",
-    "zh_hant": "bbclearningenglish.com，獲取本期節目的測驗和練習表。"
+    "zh": "再次，我们的六分钟到了，但请访问我们的网站bbclearningenglish.com，获取本期节目的测验和工作表。",
+    "zh_hant": "再次，我們的六分鐘到了，但請訪問我們的網站bbclearningenglish.com，獲取本期節目的測驗和工作表。"
   },
   {
-    "index": 92,
+    "index": 80,
     "text": "See you soon.",
     "start": 362.728,
     "end": 363.788,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "zh": "很快再见。",
+    "zh_hant": "很快再見。"
   },
   {
-    "index": 93,
+    "index": 81,
     "text": "Goodbye for now.",
     "start": 363.508,
     "end": 364.608,
@@ -752,7 +656,7 @@
     "zh_hant": "暫時告別。"
   },
   {
-    "index": 94,
+    "index": 82,
     "text": "Bye.",
     "start": 364.549,
     "end": 365.369,
@@ -760,18 +664,10 @@
     "zh_hant": "再見。"
   },
   {
-    "index": 95,
+    "index": 83,
     "text": "Bye.",
     "start": 367.13,
     "end": 367.69,
-    "zh": "再见。",
-    "zh_hant": "再見。"
-  },
-  {
-    "index": 96,
-    "text": "Bye.",
-    "start": 368.066,
-    "end": 368.728,
     "zh": "再见。",
     "zh_hant": "再見。"
   }

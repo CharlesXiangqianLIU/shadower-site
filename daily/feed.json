@@ -26,6 +26,30 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-06b",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06b.json",
+      "folder": "VOA American Stories·基础版",
+      "folderEn": "VOA American Stories Basic",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-08-06-2",
+      "title": "Weight loss drugs",
+      "date": "2026-08-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-2.json",
+      "folder": "BBC Learning English·基础版",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
       "id": "2026-08-05",
       "title": "The Westminster Kennel Club Dog Show, the ‘Super Bowl’ of Dog Shows",
       "date": "2026-08-05",
@@ -624,7 +648,7 @@
       "folder": "BBC Learning English·基础版",
       "folderEn": "BBC Learning English Basic",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -635,7 +659,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"

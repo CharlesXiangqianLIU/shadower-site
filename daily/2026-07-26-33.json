@@ -44,8 +44,8 @@
     "text": "One trip to the supermarket and we can buy anything we want, whether that's fruit grown in South America,",
     "start": 18.076,
     "end": 23.598,
-    "zh": "去一趟超市，我们就能买到任何想要的东西，不管是南美种的水果，",
-    "zh_hant": "去一趟超市，我們就能買到任何想要的東西，不管是南美種的水果，"
+    "zh": "去一趟超市，我们就能买到任何想要的东西，无论是南美种的水果，",
+    "zh_hant": "去一趟超市，我們就能買到任何想要的東西，無論是南美種的水果，"
   },
   {
     "index": 6,
@@ -60,24 +60,24 @@
     "text": "Do you know where the food you buy comes from, Neil?",
     "start": 27.44,
     "end": 30.442,
-    "zh": "尼尔，你知道你买的食物从哪儿来的吗？",
-    "zh_hant": "尼爾，你知道你買的食物從哪兒來的嗎？"
+    "zh": "尼尔，你知道你买的食物来自哪里吗？",
+    "zh_hant": "尼爾，你知道你買的食物來自哪裡嗎？"
   },
   {
     "index": 8,
     "text": "I try to pay attention and buy stuff that's locally produced,",
     "start": 30.442,
     "end": 35.464,
-    "zh": "我尽量注意，买当地产的东西，",
-    "zh_hant": "我儘量注意，買當地產的東西，"
+    "zh": "我尽量注意，买本地生产的东西，",
+    "zh_hant": "我儘量注意，買本地生產的東西，"
   },
   {
     "index": 9,
     "text": "but actually sometimes I don't really look.",
     "start": 35.114,
     "end": 37.805,
-    "zh": "但有时候我真不怎么细看。",
-    "zh_hant": "但有時候我真不怎麼細看。"
+    "zh": "但有时候我真不太看。",
+    "zh_hant": "但有時候我真不太看。"
   },
   {
     "index": 10,
@@ -92,16 +92,16 @@
     "text": "I actually have a calendar on my kitchen wall",
     "start": 38.906,
     "end": 42.187,
-    "zh": "我厨房墙上其实有个日历，",
-    "zh_hant": "我廚房牆上其實有個日曆，"
+    "zh": "我厨房墙上有个日历，",
+    "zh_hant": "我廚房牆上有個日曆，"
   },
   {
     "index": 12,
     "text": "which tells me which fruits and vegetables are grown at what times of year.",
     "start": 42.048,
     "end": 46.67,
-    "zh": "上面标明哪些水果蔬菜在一年中什么时候种植。",
-    "zh_hant": "上面標明哪些水果蔬菜在一年中什麼時候種植。"
+    "zh": "上面标明哪些水果蔬菜在一年中的什么时间种植。",
+    "zh_hant": "上面標明哪些水果蔬菜在一年中的什麼時間種植。"
   },
   {
     "index": 13,
@@ -116,27 +116,19 @@
     "text": "The UK imports around 40% of its food,",
     "start": 51.312,
     "end": 54.734,
-    "zh": "英国大约40%的食物依赖进口，",
-    "zh_hant": "英國大約40%的食物依賴進口，"
+    "zh": "英国约40%的食物依赖进口，",
+    "zh_hant": "英國約40%的食物依賴進口，"
   },
   {
     "index": 15,
-    "text": "and this supply chain can easily be disrupted by wars,",
+    "text": "and this supply chain can easily be disrupted by wars, shortages, and increasingly by climate change.",
     "start": 54.594,
-    "end": 58.296,
-    "zh": "这条供应链很容易被战争干扰，",
-    "zh_hant": "這條供應鏈很容易被戰爭干擾，"
+    "end": 61.557,
+    "zh": "这条供应链很容易被战争、短缺，以及日益严重的气候变化所扰乱。",
+    "zh_hant": "這條供應鏈很容易被戰爭、短缺，以及日益嚴重的氣候變化所擾亂。"
   },
   {
     "index": 16,
-    "text": "shortages, and increasingly by climate change.",
-    "start": 58.056,
-    "end": 61.557,
-    "zh": "短缺，以及越来越严重的气候变化。",
-    "zh_hant": "短缺，以及越來越嚴重的氣候變化。"
-  },
-  {
-    "index": 17,
     "text": "In fact, the UK Government's Department for Environment, Food and Rural Affairs recently reported",
     "start": 61.798,
     "end": 68.1,
@@ -144,63 +136,63 @@
     "zh_hant": "事實上，英國政府的環境、食品和農村事務部最近報告說"
   },
   {
-    "index": 18,
-    "text": "on the importance of food security – the term for having",
+    "index": 17,
+    "text": "on the importance of food security",
     "start": 67.75,
-    "end": 71.902,
-    "zh": "粮食安全的重要性——这个术语指的是拥有",
-    "zh_hant": "糧食安全的重要性——這個術語指的是擁有"
+    "end": 70.32,
+    "zh": "食品安全的重要性——",
+    "zh_hant": "食品安全的重要性——"
+  },
+  {
+    "index": 18,
+    "text": "– the term for having a reliable enough supply of affordable, healthy food to feed everyone.",
+    "start": 69.92,
+    "end": 76.284,
+    "zh": "这个术语指的是有足够可靠、负担得起且健康的食物供应来养活所有人。",
+    "zh_hant": "這個術語指的是有足夠可靠、負擔得起且健康的食物供應來養活所有人。"
   },
   {
     "index": 19,
-    "text": "a reliable enough supply of affordable, healthy food to feed everyone.",
-    "start": 71.552,
-    "end": 76.284,
-    "zh": "足够可靠、负担得起且健康的食品供应来养活所有人。",
-    "zh_hant": "足夠可靠、負擔得起且健康的食品供應來養活所有人。"
-  },
-  {
-    "index": 20,
     "text": "In this episode, we'll be investigating the issues affecting food production in the UK.",
     "start": 76.165,
     "end": 81.867,
-    "zh": "本期节目中，我们将调查影响英国食品生产的问题。",
-    "zh_hant": "本期節目中，我們將調查影響英國食品生產的問題。"
+    "zh": "在本期节目中，我们将调查影响英国食品生产的问题。",
+    "zh_hant": "在本期節目中，我們將調查影響英國食品生產的問題。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "As usual, we'll learn some useful new vocabulary and remember there's a quiz,",
     "start": 82.188,
     "end": 87.21,
-    "zh": "像往常一样，我们会学习一些有用的新词汇，并且记住还有一个小测验，",
-    "zh_hant": "像往常一樣，我們會學習一些有用的新詞彙，並且記住還有一個小測驗，"
+    "zh": "和往常一样，我们会学习一些有用的新词汇，并记住有个小测验，",
+    "zh_hant": "和往常一樣，我們會學習一些有用的新詞彙，並記住有個小測驗，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "worksheet and transcript of this episode on our website bbclearningenglish.com.",
     "start": 86.89,
     "end": 92.773,
-    "zh": "我们网站bbclearningenglish.com上有练习表和本集文字稿。",
-    "zh_hant": "我們網站bbclearningenglish.com上有練習表和本集文字稿。"
+    "zh": "我们网站上bbclearningenglish.com有本期的测验、工作表和文字稿。",
+    "zh_hant": "我們網站上bbclearningenglish.com有本期的測驗、工作表和文字稿。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "But first, of course, Pippa, I have a quiz question for you.",
     "start": 92.633,
     "end": 96.555,
-    "zh": "但首先，当然，皮帕，我有一个测验问题要问你。",
-    "zh_hant": "但首先，當然，皮帕，我有一個測驗問題要問你。"
+    "zh": "但首先，当然，皮帕，我给你准备了一个问题。",
+    "zh_hant": "但首先，當然，皮帕，我給你準備了一個問題。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "I mentioned that Britain imports 40% of its food from other producers, mostly in Europe.",
     "start": 96.375,
     "end": 102.578,
-    "zh": "我提到英国从其他生产国进口40%的食物，大部分来自欧洲。",
-    "zh_hant": "我提到英國從其他生產國進口40%的食物，大部分來自歐洲。"
+    "zh": "我之前提到英国从其他生产国进口40%的食物，主要来自欧洲。",
+    "zh_hant": "我之前提到英國從其他生產國進口40%的食物，主要來自歐洲。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "But which European country does the UK import the most food from?",
     "start": 102.498,
     "end": 107.06,
@@ -208,55 +200,47 @@
     "zh_hant": "但英國從哪個歐洲國家進口的食物最多？"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Is it a, France, b, the Netherlands, or c, Ireland?",
     "start": 107.08,
     "end": 111.342,
-    "zh": "是A，法国，B，荷兰，还是C，爱尔兰？",
-    "zh_hant": "是A，法國，B，荷蘭，還是C，愛爾蘭？"
+    "zh": "是a，法国，b，荷兰，还是c，爱尔兰？",
+    "zh_hant": "是a，法國，b，荷蘭，還是c，愛爾蘭？"
+  },
+  {
+    "index": 26,
+    "text": "I've seen the Netherlands on a lot of food packaging in the UK, so I'm going to say b, the Netherlands.",
+    "start": 112.163,
+    "end": 119.246,
+    "zh": "我在英国很多食品包装上看到荷兰，所以我选b，荷兰。",
+    "zh_hant": "我在英國很多食品包裝上看到荷蘭，所以我選b，荷蘭。"
   },
   {
     "index": 27,
-    "text": "I've seen the Netherlands on a lot of food packaging in the UK, so I'm going to say b,",
-    "start": 112.163,
-    "end": 118.045,
-    "zh": "我在英国很多食品包装上见过荷兰，所以我选B，",
-    "zh_hant": "我在英國很多食品包裝上見過荷蘭，所以我選B，"
-  },
-  {
-    "index": 28,
-    "text": "the Netherlands.",
-    "start": 118.046,
-    "end": 119.246,
-    "zh": "荷兰。",
-    "zh_hant": "荷蘭。"
-  },
-  {
-    "index": 29,
     "text": "OK, well we'll find out if you're right later in the programme.",
     "start": 119.146,
     "end": 122.728,
-    "zh": "好的，我们稍后会在节目中揭晓你是否答对。",
-    "zh_hant": "好的，我們稍後會在節目中揭曉你是否答對。"
+    "zh": "好的，我们稍后会在节目中看看你是否答对了。",
+    "zh_hant": "好的，我們稍後會在節目中看看你是否答對了。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "According to the UK government's recent report, there are many issues affecting Britain's food supply.",
     "start": 123.008,
     "end": 128.971,
-    "zh": "根据英国政府最近的报告，有多个问题影响英国的食品供应。",
-    "zh_hant": "根據英國政府最近的報告，有多個問題影響英國的食品供應。"
+    "zh": "根据英国政府最近的报告，影响英国食品供应的问题很多。",
+    "zh_hant": "根據英國政府最近的報告，影響英國食品供應的問題很多。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Geopolitical conflicts like those in Ukraine and Iran, droughts and water shortages,",
     "start": 129.052,
     "end": 134.714,
-    "zh": "像乌克兰和伊朗的地缘政治冲突，干旱和水资源短缺，",
-    "zh_hant": "像烏克蘭和伊朗的地緣政治衝突，乾旱和水資源短缺，"
+    "zh": "地缘政治冲突如乌克兰和伊朗的冲突，干旱和水资源短缺，",
+    "zh_hant": "地緣政治衝突如烏克蘭和伊朗的衝突，乾旱和水資源短缺，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "loss of biodiversity caused by climate change.",
     "start": 134.574,
     "end": 138.216,
@@ -264,47 +248,47 @@
     "zh_hant": "氣候變化導致的生物多樣性喪失。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "The list goes on and on.",
     "start": 138.236,
     "end": 139.837,
-    "zh": "清单数不胜数。",
-    "zh_hant": "清單數不勝數。"
+    "zh": "问题清单还在不断增加。",
+    "zh_hant": "問題清單還在不斷增加。"
+  },
+  {
+    "index": 32,
+    "text": "Here, climate reporter Mark Pointing discusses",
+    "start": 139.937,
+    "end": 143.959,
+    "zh": "在这里，气候记者马克·波因廷讨论",
+    "zh_hant": "在這裡，氣候記者馬克·波因廷討論"
+  },
+  {
+    "index": 33,
+    "text": "the report's conclusions with BBC Radio 4's The Food Programme.",
+    "start": 143.609,
+    "end": 147.701,
+    "zh": "该报告的结论，并接受BBC广播4台《食品节目》的采访。",
+    "zh_hant": "該報告的結論，並接受BBC廣播4臺《食品節目》的採訪。"
   },
   {
     "index": 34,
-    "text": "Here, climate reporter Mark Pointing discusses the report's conclusions",
-    "start": 139.937,
-    "end": 145.219,
-    "zh": "这里，气候记者马克·波因廷与BBC广播四台的《食品节目》讨论报告结论。",
-    "zh_hant": "這裡，氣候記者馬克·波因廷與BBC廣播四臺的《食品節目》討論報告結論。"
+    "text": "And it really draws on scientific research",
+    "start": 147.581,
+    "end": 150.622,
+    "zh": "它确实依赖于科学研究",
+    "zh_hant": "它確實依賴於科學研究"
   },
   {
     "index": 35,
-    "text": "with BBC Radio 4's The Food Programme.",
-    "start": 144.869,
-    "end": 147.701,
-    "zh": "这里，气候记者马克·波因廷与BBC广播四台的《食品节目》讨论报告结论。",
-    "zh_hant": "這裡，氣候記者馬克·波因廷與BBC廣播四臺的《食品節目》討論報告結論。"
+    "text": "to come up with what it calls as a reasonable worst-case scenario",
+    "start": 150.502,
+    "end": 154.544,
+    "zh": "来提出它所谓的合理的最坏情况",
+    "zh_hant": "來提出它所謂的合理的最壞情況"
   },
   {
     "index": 36,
-    "text": "And it really draws on scientific research to come up with what it calls",
-    "start": 147.581,
-    "end": 152.403,
-    "zh": "它确实借鉴科学研究，提出了它所谓的",
-    "zh_hant": "它確實借鑑科學研究，提出了它所謂的"
-  },
-  {
-    "index": 37,
-    "text": "as a reasonable worst-case scenario",
-    "start": 152.083,
-    "end": 154.544,
-    "zh": "合理的“最坏情景”",
-    "zh_hant": "合理的“最壞情景”"
-  },
-  {
-    "index": 38,
     "text": "for how biodiversity loss could affect UK security.",
     "start": 154.204,
     "end": 158.346,
@@ -312,15 +296,15 @@
     "zh_hant": "關於生物多樣性喪失如何影響英國安全。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "And its conclusions are really quite stark.",
     "start": 158.506,
     "end": 161.367,
-    "zh": "其结论确实非常严峻。",
-    "zh_hant": "其結論確實非常嚴峻。"
+    "zh": "它的结论相当严峻。",
+    "zh_hant": "它的結論相當嚴峻。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "The first line of the report says",
     "start": 161.127,
     "end": 163.328,
@@ -328,71 +312,63 @@
     "zh_hant": "報告的第一行說"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "global ecosystem degradation and collapse threatens the UK's national security.",
     "start": 163.289,
     "end": 169.532,
-    "zh": "全球生态系统退化和崩溃威胁英国的国家安全。",
-    "zh_hant": "全球生態系統退化和崩潰威脅英國的國家安全。"
+    "zh": "全球生态系统的退化和崩溃威胁到英国的国家安全。",
+    "zh_hant": "全球生態系統的退化和崩潰威脅到英國的國家安全。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "The report describes a worst-case scenario, where Britain runs out of food.",
     "start": 169.592,
     "end": 175.115,
-    "zh": "报告描述了一种最坏情景，即英国耗尽食物。",
-    "zh_hant": "報告描述了一種最壞情景，即英國耗盡食物。"
+    "zh": "报告描述了一个最坏情况，即英国耗尽食物。",
+    "zh_hant": "報告描述了一個最壞情況，即英國耗盡食物。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "A worst-case scenario is the worst possible thing that could happen in a particular situation.",
     "start": 175.135,
     "end": 181.077,
-    "zh": "最坏情景是指在特定情况下可能发生的最坏事情。",
-    "zh_hant": "最壞情景是指在特定情況下可能發生的最壞事情。"
+    "zh": "最坏情况是在特定情况下可能发生的最糟糕的事情。",
+    "zh_hant": "最壞情況是在特定情況下可能發生的最糟糕的事情。"
   },
   {
-    "index": 44,
-    "text": "Mark says the report's conclusions are stark – an adjective",
+    "index": 42,
+    "text": "Mark says the report's conclusions are stark – an adjective which in this case means obvious or severe.",
     "start": 181.058,
-    "end": 185.159,
-    "zh": "马克说报告的结论是stark——一个形容词",
-    "zh_hant": "馬克說報告的結論是stark——一個形容詞"
-  },
-  {
-    "index": 45,
-    "text": "which in this case means obvious or severe.",
-    "start": 184.809,
     "end": 188.041,
-    "zh": "这里意思是明显或严重。",
-    "zh_hant": "這裡意思是明顯或嚴重。"
+    "zh": "马克说报告的结论是严峻的——这个形容词在这里意味着明显或严重。",
+    "zh_hant": "馬克說報告的結論是嚴峻的——這個形容詞在這裡意味著明顯或嚴重。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "Another problem with food security relates to climate change.",
     "start": 188.001,
     "end": 192.303,
-    "zh": "另一个与粮食安全相关的问题涉及气候变化。",
-    "zh_hant": "另一個與糧食安全相關的問題涉及氣候變化。"
+    "zh": "食品安全的另一个问题与气候变化有关。",
+    "zh_hant": "食品安全的另一個問題與氣候變化有關。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Carbon emissions from food production make up around a third of all greenhouse gases,",
     "start": 192.063,
     "end": 198.206,
-    "zh": "食品生产中的碳排放约占所有温室气体的三分之一，",
-    "zh_hant": "食品生產中的碳排放約佔所有溫室氣體的三分之一，"
+    "zh": "食品生产的碳排放约占所有温室气体的三分之一，",
+    "zh_hant": "食品生產的碳排放約佔所有溫室氣體的三分之一，"
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "from the diesel used to drive tractors, to fertilisers, to cows and sheep producing methane.",
     "start": 198.066,
     "end": 204.369,
-    "zh": "从驱动拖拉机的柴油，到肥料，再到产生甲烷的牛和羊。",
-    "zh_hant": "從驅動拖拉機的柴油，到肥料，再到產生甲烷的牛和羊。"
+    "zh": "从驱动拖拉机的柴油，到化肥，再到牛和羊产生的甲烷。",
+    "zh_hant": "從驅動拖拉機的柴油，到化肥，再到牛和羊產生的甲烷。"
   },
   {
-    "index": 49,
+    "index": 46,
     "text": "Emma Pinchbeck is the chief executive of the UK's Climate Change Committee.",
     "start": 204.669,
     "end": 209.092,
@@ -400,175 +376,151 @@
     "zh_hant": "艾瑪·平奇貝克是英國氣候變化委員會的執行長。"
   },
   {
-    "index": 50,
+    "index": 47,
     "text": "She spoke about this problem with BBC Radio 4's The Food Programme.",
     "start": 209.072,
     "end": 213.354,
-    "zh": "她与BBC广播四台的《食品节目》讨论了这个问题。",
-    "zh_hant": "她與BBC廣播四臺的《食品節目》討論了這個問題。"
+    "zh": "她与BBC广播4台《食品节目》谈到了这个问题。",
+    "zh_hant": "她與BBC廣播4臺《食品節目》談到了這個問題。"
   },
   {
-    "index": 51,
+    "index": 48,
     "text": "The biggest chunk of emissions from agriculture comes from simply having livestock on the land.",
     "start": 213.234,
     "end": 218.636,
-    "zh": "农业排放的最大一部分来自仅仅是在土地上放养牲畜。",
-    "zh_hant": "農業排放的最大一部分來自僅僅是在土地上放養牲畜。"
+    "zh": "农业排放的最大部分来自土地上饲养的牲畜。",
+    "zh_hant": "農業排放的最大部分來自土地上飼養的牲畜。"
   },
   {
-    "index": 52,
+    "index": 49,
     "text": "That's the bit of the puzzle that we need to think about going forward.",
     "start": 218.637,
     "end": 221.458,
-    "zh": "这是我们未来需要思考的难题的一部分。",
-    "zh_hant": "這是我們未來需要思考的難題的一部分。"
+    "zh": "这是我们在前进中需要考虑的问题的一环。",
+    "zh_hant": "這是我們在前進中需要考慮的問題的一環。"
   },
   {
-    "index": 53,
-    "text": "And in the way that we've thought about it, for every cow or sheep we take off the land,",
+    "index": 50,
+    "text": "And in the way that we've thought about it, for every cow or sheep we take off the land, we put on something else.",
     "start": 221.478,
-    "end": 227.221,
-    "zh": "在我们考虑的方式中，每从土地上移走一头牛或羊，",
-    "zh_hant": "在我們考慮的方式中，每從土地上移走一頭牛或羊，"
-  },
-  {
-    "index": 54,
-    "text": "we put on something else.",
-    "start": 226.961,
     "end": 228.661,
-    "zh": "我们就会种上别的东西。",
-    "zh_hant": "我們就會種上別的東西。"
+    "zh": "在我们之前的思考方式中，每从土地上减少一头牛或羊，我们就种上其他东西。",
+    "zh_hant": "在我們之前的思考方式中，每從土地上減少一頭牛或羊，我們就種上其他東西。"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "And what that does overall is it makes farmers and landowners part of the solution to climate change, not the problem.",
     "start": 228.561,
     "end": 234.364,
-    "zh": "总体而言，这使得农民和土地所有者成为气候变化解决方案的一部分，而不是问题。",
-    "zh_hant": "總體而言，這使得農民和土地所有者成為氣候變化解決方案的一部分，而不是問題。"
+    "zh": "总体而言，这使农民和土地所有者成为气候变化解决方案的一部分，而不是问题。",
+    "zh_hant": "總體而言，這使農民和土地所有者成為氣候變化解決方案的一部分，而不是問題。"
   },
   {
-    "index": 56,
-    "text": "Livestock, that's farm animals such as cattle, sheep and pigs,",
+    "index": 52,
+    "text": "Livestock, that's farm animals such as cattle, sheep and pigs, contribute most of the carbon emissions from agriculture.",
     "start": 234.524,
-    "end": 238.606,
-    "zh": "牲畜，也就是农场动物如牛、羊和猪，",
-    "zh_hant": "牲畜，也就是農場動物如牛、羊和豬，"
-  },
-  {
-    "index": 57,
-    "text": "contribute most of the carbon emissions from agriculture.",
-    "start": 238.306,
     "end": 241.768,
-    "zh": "贡献了农业碳排放的大部分。",
-    "zh_hant": "貢獻了農業碳排放的大部分。"
+    "zh": "牲畜，即农场动物如牛、羊和猪，贡献了农业中大部分的碳排�放。",
+    "zh_hant": "牲畜，即農場動物如牛、羊和豬，貢獻了農業中大部分的碳排�放。"
   },
   {
-    "index": 58,
-    "text": "Moving towards a sustainable food supply",
+    "index": 53,
+    "text": "Moving towards a sustainable food supply involves reducing the amount of meat and dairy we eat",
     "start": 241.648,
-    "end": 244.589,
-    "zh": "迈向可持续的食品供应",
-    "zh_hant": "邁向可持續的食品供應"
+    "end": 247.891,
+    "zh": "走向可持续食品供应涉及减少我们吃的肉类和奶制品量，",
+    "zh_hant": "走向可持續食品供應涉及減少我們吃的肉類和奶製品量，"
   },
   {
-    "index": 59,
-    "text": "involves reducing the amount of meat and dairy we eat in favour of non-animal protein",
-    "start": 244.509,
-    "end": 249.832,
-    "zh": "涉及减少我们吃的肉类和乳制品，转向非动物蛋白，",
-    "zh_hant": "涉及減少我們吃的肉類和乳製品，轉向非動物蛋白，"
-  },
-  {
-    "index": 60,
-    "text": "such as beans and lentils.",
-    "start": 249.632,
+    "index": 54,
+    "text": "in favour of non-animal protein such as beans and lentils.",
+    "start": 247.541,
     "end": 251.493,
-    "zh": "比如豆类和扁豆。",
-    "zh_hant": "比如豆類和扁豆。"
+    "zh": "转而选择非动物蛋白，如豆类和扁豆。",
+    "zh_hant": "轉而選擇非動物蛋白，如豆類和扁豆。"
   },
   {
-    "index": 61,
+    "index": 55,
     "text": "Encouraging farmers and consumers to move away from meat is a piece of the puzzle, according to Emma.",
     "start": 251.553,
     "end": 257.876,
-    "zh": "根据艾玛的说法，鼓励农民和消费者远离肉类是难题的一部分。",
-    "zh_hant": "根據艾瑪的說法，鼓勵農民和消費者遠離肉類是難題的一部分。"
+    "zh": "鼓励农民和消费者远离肉类是解决问题的一部分，艾玛说。",
+    "zh_hant": "鼓勵農民和消費者遠離肉類是解決問題的一部分，艾瑪說。"
   },
   {
-    "index": 62,
+    "index": 56,
     "text": "A piece of the puzzle means a part of the solution to a problem,",
     "start": 258.096,
     "end": 261.758,
-    "zh": "“难题的一部分”意味着解决问题的一部分，",
-    "zh_hant": "“難題的一部分”意味著解決問題的一部分，"
+    "zh": "“解决问题的一部分”意思是问题解决方案中的一部分，",
+    "zh_hant": "“解決問題的一部分”意思是問題解決方案中的一部分，"
   },
   {
-    "index": 63,
+    "index": 57,
     "text": "in this case the twin problems of food security and climate change.",
     "start": 261.518,
     "end": 266.32,
-    "zh": "在这个情况下是粮食安全和气候变化这两个问题。",
-    "zh_hant": "在這個情況下是糧食安全和氣候變化這兩個問題。"
+    "zh": "在这种情况下，是食品安全和气候变化这对孪生问题的解决方案。",
+    "zh_hant": "在這種情況下，是食品安全和氣候變化這對孿生問題的解決方案。"
   },
   {
-    "index": 64,
+    "index": 58,
     "text": "Emma says it's important to think again about how farmland is used.",
     "start": 266.28,
     "end": 270.742,
-    "zh": "艾玛说重新思考农田的使用方式很重要。",
-    "zh_hant": "艾瑪說重新思考農田的使用方式很重要。"
+    "zh": "艾玛说重新考虑农田使用方式很重要。",
+    "zh_hant": "艾瑪說重新考慮農田使用方式很重要。"
   },
   {
-    "index": 65,
+    "index": 59,
     "text": "For every cow or sheep taken off the land,",
     "start": 270.623,
     "end": 273.484,
-    "zh": "每从土地上移走一头牛或羊，",
-    "zh_hant": "每從土地上移走一頭牛或羊，"
+    "zh": "每从土地上减少一头牛或羊，",
+    "zh_hant": "每從土地上減少一頭牛或羊，"
   },
   {
-    "index": 66,
+    "index": 60,
     "text": "something else, such as a fruit tree or vegetable crop, is put in its place.",
     "start": 273.244,
     "end": 277.826,
-    "zh": "就会有别的东西，比如果树或蔬菜作物，种在其位置。",
-    "zh_hant": "就會有別的東西，比如果樹或蔬菜作物，種在其位置。"
+    "zh": "就在其位置种上其他东西，比如果树或蔬菜作物。",
+    "zh_hant": "就在其位置種上其他東西，比如果樹或蔬菜作物。"
   },
   {
-    "index": 67,
+    "index": 61,
     "text": "That way farmers become part of the solution, not the problem.",
     "start": 278.046,
     "end": 282.088,
-    "zh": "这样，农民就成为解决方案的一部分，而不是问题。",
-    "zh_hant": "這樣，農民就成為解決方案的一部分，而不是問題。"
+    "zh": "这样农民就成为解决方案的一部分，而不是问题。",
+    "zh_hant": "這樣農民就成為解決方案的一部分，而不是問題。"
   },
   {
-    "index": 68,
+    "index": 62,
     "text": "An idiom meaning that if you are not actively trying to fix a problem, you are helping it continue.",
     "start": 281.848,
     "end": 287.831,
-    "zh": "一个习语，意思是如果你不积极尝试解决问题，你就在帮助它继续存在。",
-    "zh_hant": "一個習語，意思是如果你不積極嘗試解決問題，你就在幫助它繼續存在。"
+    "zh": "一个习语，意思是如果你没有积极尝试解决问题，那么你就是在助长它的持续。",
+    "zh_hant": "一個習語，意思是如果你沒有積極嘗試解決問題，那麼你就是在助長它的持續。"
   },
   {
-    "index": 69,
+    "index": 63,
     "text": "Lots of ideas to chew over there, Neil.",
     "start": 287.691,
     "end": 290.412,
-    "zh": "这里有很多想法值得咀嚼，尼尔。",
-    "zh_hant": "這裡有很多想法值得咀嚼，尼爾。"
+    "zh": "这里有很多想法可以思考，尼尔。",
+    "zh_hant": "這裡有很多想法可以思考，尼爾。"
   },
   {
-    "index": 70,
+    "index": 64,
     "text": "But now, isn't it time you revealed the answer to your question?",
     "start": 290.132,
     "end": 294.094,
-    "zh": "但现在是时候揭晓你问题的答案了吗？",
-    "zh_hant": "但現在是時候揭曉你問題的答案了嗎？"
+    "zh": "但是，现在是不是该揭晓你问题的答案了？",
+    "zh_hant": "但是，現在是不是該揭曉你問題的答案了？"
   },
   {
-    "index": 71,
+    "index": 65,
     "text": "My question was, which European country does the UK import the most food from?",
     "start": 293.874,
     "end": 299.757,
@@ -576,7 +528,7 @@
     "zh_hant": "我的問題是，英國從哪個歐洲國家進口的食物最多？"
   },
   {
-    "index": 72,
+    "index": 66,
     "text": "And you said the Netherlands.",
     "start": 299.557,
     "end": 302.378,
@@ -584,7 +536,7 @@
     "zh_hant": "你說是荷蘭。"
   },
   {
-    "index": 73,
+    "index": 67,
     "text": "And you were absolutely correct, Pippa.",
     "start": 302.158,
     "end": 304.799,
@@ -592,7 +544,7 @@
     "zh_hant": "你完全正確，皮帕。"
   },
   {
-    "index": 74,
+    "index": 68,
     "text": "It is the Netherlands.",
     "start": 304.74,
     "end": 306.12,
@@ -600,95 +552,71 @@
     "zh_hant": "就是荷蘭。"
   },
   {
-    "index": 75,
-    "text": "The UK imports £7.6 billion worth of imports,",
+    "index": 69,
+    "text": "The UK imports £7.6 billion worth of imports, especially vegetables and dairy.",
     "start": 305.96,
-    "end": 310.722,
-    "zh": "英国进口价值76亿英镑的货物，",
-    "zh_hant": "英國進口價值76億英鎊的貨物，"
-  },
-  {
-    "index": 76,
-    "text": "especially vegetables and dairy.",
-    "start": 310.542,
     "end": 313.043,
-    "zh": "尤其是蔬菜和乳制品。",
-    "zh_hant": "尤其是蔬菜和乳製品。"
+    "zh": "英国进口价值76亿英镑的货物，特别是蔬菜和乳制品。",
+    "zh_hant": "英國進口價值76億英鎊的貨物，特別是蔬菜和乳製品。"
   },
   {
-    "index": 77,
+    "index": 70,
     "text": "OK, let's recap the vocabulary we've learned,",
     "start": 313.424,
     "end": 316.385,
-    "zh": "好了，让我们回顾一下学到的词汇，",
-    "zh_hant": "好了，讓我們回顧一下學到的詞彙，"
+    "zh": "好了，让我们回顾一下学过的词汇，",
+    "zh_hant": "好了，讓我們回顧一下學過的詞彙，"
   },
   {
-    "index": 78,
+    "index": 71,
     "text": "starting with food security",
     "start": 316.045,
     "end": 317.96,
-    "zh": "从粮食安全开始",
-    "zh_hant": "從糧食安全開始"
+    "zh": "从食品安全开始",
+    "zh_hant": "從食品安全開始"
   },
   {
-    "index": 79,
-    "text": "– the situation where a country has a reliable enough supply of food",
+    "index": 72,
+    "text": "– the situation where a country has a reliable enough supply of food to feed its population.",
     "start": 317.56,
-    "end": 322.788,
-    "zh": "——即一个国家拥有足够可靠的食品供应的情况",
-    "zh_hant": "——即一個國家擁有足夠可靠的食品供應的情況"
-  },
-  {
-    "index": 80,
-    "text": "to feed its population.",
-    "start": 322.438,
     "end": 324.269,
-    "zh": "来养活其人口。",
-    "zh_hant": "來養活其人口。"
+    "zh": "——即一个国家有足够可靠的食物供应来养活其人口的情况。",
+    "zh_hant": "——即一個國家有足夠可靠的食物供應來養活其人口的情況。"
   },
   {
-    "index": 81,
-    "text": "The worst-case scenario is the worst possible thing that could happen",
+    "index": 73,
+    "text": "The worst-case scenario is the worst possible thing that could happen in a particular situation.",
     "start": 324.169,
-    "end": 329.032,
-    "zh": "最坏情景是特定情况下可能发生的最坏事情",
-    "zh_hant": "最壞情景是特定情況下可能發生的最壞事情"
-  },
-  {
-    "index": 82,
-    "text": "in a particular situation.",
-    "start": 328.682,
     "end": 330.773,
-    "zh": "在特定情况下。",
-    "zh_hant": "在特定情況下。"
+    "zh": "最坏情况是在特定情况下可能发生的最糟糕的事情。",
+    "zh_hant": "最壞情況是在特定情況下可能發生的最糟糕的事情。"
   },
   {
-    "index": 83,
+    "index": 74,
     "text": "The adjective stark has several meanings, including obvious and severe.",
     "start": 330.693,
     "end": 335.835,
-    "zh": "形容词stark有几个含义，包括明显和严重。",
-    "zh_hant": "形容詞stark有幾個含義，包括明顯和嚴重。"
+    "zh": "形容词“严峻的”有几个含义，包括明显和严重。",
+    "zh_hant": "形容詞“嚴峻的”有幾個含義，包括明顯和嚴重。"
   },
   {
-    "index": 84,
+    "index": 75,
     "text": "Livestock are animals and birds that are kept on a farm, such as cows, sheep or chickens.",
     "start": 335.755,
     "end": 341.878,
-    "zh": "牲畜是在农场饲养的动物和鸟类，如牛、羊或鸡。",
-    "zh_hant": "牲畜是在農場飼養的動物和鳥類，如牛、羊或雞。"
+    "zh": "牲畜是农场饲养的动物和鸟类，如牛、羊或鸡。",
+    "zh_hant": "牲畜是農場飼養的動物和鳥類，如牛、羊或雞。"
   },
   {
-    "index": 85,
+    "index": 76,
     "text": "The phrase a piece of the puzzle means a part of the solution to a problem.",
     "start": 341.798,
     "end": 346.34,
-    "zh": "短语“难题的一部分”意味着解决问题的一部分。",
-    "zh_hant": "短語“難題的一部分”意味著解決問題的一部分。"
+    "zh": "短语“解决问题的一部分”意思是问题解决方案中的一部分。",
+    "zh_hant": "短語“解決問題的一部分”意思是問題解決方案中的一部分。"
   },
   {
-    "index": 86,
+    "index": 77,
     "text": "And finally, the idiom be part of the solution, not the problem,",
     "start": 346.201,
     "end": 350.663,
@@ -696,31 +624,31 @@
     "zh_hant": "最後，習語“成為解決方案的一部分，而不是問題”"
   },
   {
-    "index": 87,
+    "index": 78,
     "text": "means that if you are not actively trying to fix a problem, you are helping it continue.",
     "start": 350.543,
     "end": 356.025,
-    "zh": "意思是如果你不积极尝试解决问题，你就在帮助它继续存在。",
-    "zh_hant": "意思是如果你不積極嘗試解決問題，你就在幫助它繼續存在。"
+    "zh": "意味着如果你没有积极尝试解决问题，那么你就是在助长它的持续。",
+    "zh_hant": "意味著如果你沒有積極嘗試解決問題，那麼你就是在助長它的持續。"
   },
   {
-    "index": 88,
+    "index": 79,
     "text": "Once again, our six minutes are up, but if this topic has made you hungry for more,",
     "start": 356.086,
     "end": 360.908,
-    "zh": "再次，我们的六分钟结束了，但如果这个话题让你渴望更多，",
-    "zh_hant": "再次，我們的六分鐘結束了，但如果這個話題讓你渴望更多，"
+    "zh": "再次，我们的六分钟结束了，但如果这个话题让你想了解更多，",
+    "zh_hant": "再次，我們的六分鐘結束了，但如果這個話題讓你想了解更多，"
   },
   {
-    "index": 89,
+    "index": 80,
     "text": "why not check out our food topic page on our website bbclearningenglish.com.",
     "start": 360.708,
     "end": 365.53,
-    "zh": "为什么不看看我们网站bbclearningenglish.com上的食品专题页面呢。",
-    "zh_hant": "為什麼不看看我們網站bbclearningenglish.com上的食品專題頁面呢。"
+    "zh": "为什么不去我们网站bbclearningenglish.com上的食物专题页面看看呢。",
+    "zh_hant": "為什麼不去我們網站bbclearningenglish.com上的食物專題頁面看看呢。"
   },
   {
-    "index": 90,
+    "index": 81,
     "text": "Bye for now.",
     "start": 366.178,
     "end": 367.203,
@@ -728,7 +656,7 @@
     "zh_hant": "再見。"
   },
   {
-    "index": 91,
+    "index": 82,
     "text": "Goodbye.",
     "start": 366.945,
     "end": 367.849,
