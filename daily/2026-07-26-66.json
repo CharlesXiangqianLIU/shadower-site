@@ -1,1 +1,650 @@
-[{"index": 0, "text": "Hello, this is 6 Minute English from BBC Learning English.", "start": 7.793, "end": 11.854, "zh": "大家好,欢迎收听BBC英语教学的《六分钟英语》节目。", "zh_hant": "大家好,歡迎收聽BBC英語教學的《六分鐘英語》節目。"}, {"index": 1, "text": "I'm Phil.", "start": 11.734, "end": 12.514, "zh": "我是菲尔。", "zh_hant": "我是菲爾。"}, {"index": 2, "text": "And I'm Beth.", "start": 12.414, "end": 13.794, "zh": "我是贝丝。", "zh_hant": "我是貝絲。"}, {"index": 3, "text": "Do you like honey, Phil?", "start": 13.875, "end": 16.015, "zh": "菲尔,你喜欢蜂蜜吗?", "zh_hant": "菲爾,你喜歡蜂蜜嗎?"}, {"index": 4, "text": "Hmm, I use it a lot in cooking, so yes.", "start": 16.055, "end": 18.636, "zh": "我做饭经常用到,所以是的。", "zh_hant": "我做飯經常用到,所以是的。"}, {"index": 5, "text": "Well, the relationship between humans, honey and the bees", "start": 18.476, "end": 22.858, "zh": "人类、蜂蜜和蜜蜂之间的关系", "zh_hant": "人類、蜂蜜和蜜蜂之間的關係"}, {"index": 6, "text": "which make it goes back thousands of years.", "start": 22.458, "end": 25.838, "zh": "这使它的历史可以追溯到几千年前。", "zh_hant": "這使它的歷史可以追溯到幾千年前。"}, {"index": 7, "text": "Prized for its taste and medicinal properties,", "start": 25.879, "end": 29.18, "zh": "因其味道和药用价值而备受推崇", "zh_hant": "因其味道和藥用價值而備受推崇"}, {"index": 8, "text": "in ancient times honey was known as 'liquid gold'.", "start": 29.16, "end": 32.801, "zh": "古代蜂蜜被称为“液体黄金”。", "zh_hant": "古代蜂蜜被稱為“液體黃金”。"}, {"index": 9, "text": "But now, thanks to modern farming methods,", "start": 32.841, "end": 35.882, "zh": "但现在,多亏了现代农业方法,", "zh_hant": "但現在,多虧了現代農業方法,"}, {"index": 10, "text": "populations of many insects, including bees, are in decline.", "start": 35.742, "end": 40.483, "zh": "包括蜜蜂在内的许多昆虫的数量正在减少。", "zh_hant": "包括蜜蜂在內的許多昆蟲的數量正在減少。"}, {"index": 11, "text": "Saoirse, a worried listener from London,", "start": 40.624, "end": 43.544, "zh": "来自伦敦的一位忧心忡忡的听众Saoirse", "zh_hant": "來自倫敦的一位憂心忡忡的聽眾Saoirse"}, {"index": 12, "text": "called BBC World Service programme CrowdScience about the problem.", "start": 43.425, "end": 48.026, "zh": "就这个问题联系了BBC世界服务台的《CrowdScience》节目。", "zh_hant": "就這個問題聯絡了BBC世界服務檯的《CrowdScience》節目。"}, {"index": 13, "text": "I'm Saoirse from the UK and my question is: can honey help save bees?", "start": 48.266, "end": 53.468, "zh": "我是来自英国的Saoirse,我的问题是:蜂蜜能帮助拯救蜜蜂吗?", "zh_hant": "我是來自英國的Saoirse,我的問題是:蜂蜜能幫助拯救蜜蜂嗎?"}, {"index": 14, "text": "I've been vegan for about nine years and I don't eat honey myself,", "start": 53.868, "end": 58.329, "zh": "我吃素(纯素)大概九年了,自己不吃蜂蜜。", "zh_hant": "我吃素(純素)大概九年了,自己不吃蜂蜜。"}, {"index": 15, "text": "but I still have a question mark around it", "start": 57.989, "end": 61.71, "zh": "不过我对此仍有疑问", "zh_hant": "不過我對此仍有疑問"}, {"index": 16, "text": "because I know that our bee populations are declining.", "start": 61.33, "end": 65.131, "zh": "因为我知道我们的蜜蜂数量正在减少。", "zh_hant": "因為我知道我們的蜜蜂數量正在減少。"}, {"index": 17, "text": "Saoirse is a vegan – someone who doesn't eat anything which comes from animals.", "start": 65.352, "end": 70.653, "zh": "Saoirse是素食主义者——不吃任何动物制品的人。", "zh_hant": "Saoirse是素食主義者——不吃任何動物製品的人。"}, {"index": 18, "text": "Not just meat, but things like milk, eggs and honey too.", "start": 70.653, "end": 75.395, "zh": "不仅是肉,还有牛奶、鸡蛋和蜂蜜之类的东西。", "zh_hant": "不僅是肉,還有牛奶、雞蛋和蜂蜜之類的東西。"}, {"index": 19, "text": "Although Saoirse doesn't eat honey herself, she says", "start": 75.355, "end": 79.096, "zh": "尽管Saoirse自己不吃蜂蜜,但她说", "zh_hant": "儘管Saoirse自己不吃蜂蜜,但她說"}, {"index": 20, "text": "there's a question mark around eating honey.", "start": 78.756, "end": 81.857, "zh": "吃蜂蜜这件事还存在争议。", "zh_hant": "吃蜂蜜這件事還存在爭議。"}, {"index": 21, "text": "The phrase a question mark around something means there's doubt or uncertainty about something.", "start": 82.157, "end": 88.379, "zh": "a question mark around something\" 这个短语的意思是对某事存在疑问或不确定性。", "zh_hant": "a question mark around something\" 這個短語的意思是對某事存在疑問或不確定性。"}, {"index": 22, "text": "And what Saoirse is uncertain about is whether eating honey might actually save bees.", "start": 88.359, "end": 94.381, "zh": "而Saoirse不确定的是,吃蜂蜜是否真的能拯救蜜蜂。", "zh_hant": "而Saoirse不確定的是,吃蜂蜜是否真的能拯救蜜蜂。"}, {"index": 23, "text": "So, would it be better for declining bee populations if more people ate honey?", "start": 94.661, "end": 100.683, "zh": "如果更多人吃蜂蜜,对日益减少的蜜蜂数量来说会更好吗?", "zh_hant": "如果更多人吃蜂蜜,對日益減少的蜜蜂數量來說會更好嗎?"}, {"index": 24, "text": "That's what we'll be discussing, using some useful new words and phrases.", "start": 100.943, "end": 105.365, "zh": "我们将使用一些有用的新词汇和短语来讨论这个话题。", "zh_hant": "我們將使用一些有用的新詞彙和短語來討論這個話題。"}, {"index": 25, "text": "Plus, you'll find all the vocabulary from this episode on our website,", "start": 105.445, "end": 110.086, "zh": "此外,您还可以在我们的网站上找到本期节目的所有词汇。", "zh_hant": "此外,您還可以在我們的網站上找到本期節目的所有詞彙。"}, {"index": 26, "text": "bbclearningenglish.com.", "start": 109.967, "end": 112.507, "zh": "bbclearningenglish.com", "zh_hant": "bbclearningenglish.com"}, {"index": 27, "text": "But bee-fore that I have a question for you, Phil.", "start": 112.427, "end": 116.729, "zh": "不过在那之前,我有个问题要问你,菲尔。", "zh_hant": "不過在那之前,我有個問題要問你,菲爾。"}, {"index": 28, "text": "The buzzing sound bees are famous for is made by flapping their four wings", "start": 116.849, "end": 122.05, "zh": "蜜蜂闻名于世的嗡嗡声是靠扇动四只翅膀发出的。", "zh_hant": "蜜蜂聞名於世的嗡嗡聲是靠扇動四隻翅膀發出的。"}, {"index": 29, "text": "incredibly fast,", "start": 121.69, "end": 123.411, "zh": "快得令人难以置信", "zh_hant": "快得令人難以置信"}, {"index": 30, "text": "but how fast?", "start": 123.411, "end": 125.291, "zh": "但是有多快?", "zh_hant": "但是有多快?"}, {"index": 31, "text": "Do honey bees flap their wings:", "start": 125.492, "end": 127.552, "zh": "蜜蜂会扇动翅膀吗?", "zh_hant": "蜜蜂會扇動翅膀嗎?"}, {"index": 32, "text": "a) 90 times per second, b) 190 times per", "start": 127.152, "end": 133.174, "zh": "a) 每秒90次,b) 每秒190次", "zh_hant": "a) 每秒90次,b) 每秒190次"}, {"index": 33, "text": "second,", "start": 132.774, "end": 133.714, "zh": "第二,", "zh_hant": "第二,"}, {"index": 34, "text": "or c) 290 times per second?", "start": 133.734, "end": 137.195, "zh": "每秒290次?", "zh_hant": "每秒290次?"}, {"index": 35, "text": "Well, I have absolutely no idea,", "start": 137.276, "end": 140.296, "zh": "我完全不知道。", "zh_hant": "我完全不知道。"}, {"index": 36, "text": "so I'm going to guess 190 times per second.", "start": 139.977, "end": 144.698, "zh": "我猜大概每秒190次。", "zh_hant": "我猜大概每秒190次。"}, {"index": 37, "text": "OK.", "start": 144.578, "end": 145.238, "zh": "好的。", "zh_hant": "好的。"}, {"index": 38, "text": "Well, we'll find out the answer later in the programme.", "start": 145.138, "end": 148.139, "zh": "好了,我们稍后会在节目中揭晓答案。", "zh_hant": "好了,我們稍後會在節目中揭曉答案。"}, {"index": 39, "text": "We've been talking about honey bees,", "start": 148.239, "end": 150.92, "zh": "我们一直在谈论蜜蜂,", "zh_hant": "我們一直在談論蜜蜂,"}, {"index": 40, "text": "but these are just one of the 20,000 species of bee which exist around the world.", "start": 150.52, "end": 156.522, "zh": "但这些只是全世界现存的两万种蜜蜂中的一种。", "zh_hant": "但這些只是全世界現存的兩萬種蜜蜂中的一種。"}, {"index": 41, "text": "In fact, honey bees are one of the most widespread insects on the planet and not endangered at all.", "start": 156.762, "end": 162.884, "zh": "事实上,蜜蜂是地球上分布最广的昆虫之一,根本没有濒临灭绝。", "zh_hant": "事實上,蜜蜂是地球上分佈最廣的昆蟲之一,根本沒有瀕臨滅絕。"}, {"index": 42, "text": "But the picture isn't so good for wild bees, including the bumble bee,", "start": 163.124, "end": 168.766, "zh": "但对于野生蜜蜂来说,情况就没那么好了,包括大黄蜂。", "zh_hant": "但對於野生蜜蜂來說,情況就沒那麼好了,包括大黃蜂。"}, {"index": 43, "text": "as biologist Dave Goulson, from the University of Sussex,", "start": 168.746, "end": 172.627, "zh": "来自苏塞克斯大学的生物学家戴夫·古尔森(Dave Goulson)", "zh_hant": "來自蘇塞克斯大學的生物學家戴夫·古爾森(Dave Goulson)"}, {"index": 44, "text": "explained to BBC World Service programme CrowdScience:", "start": 172.607, "end": 176.388, "zh": "向BBC世界频道节目《CrowdScience》解释道", "zh_hant": "向BBC世界頻道節目《CrowdScience》解釋道"}, {"index": 45, "text": "In the UK, we have 26 bumblebee species but three have gone extinct.", "start": 176.568, "end": 181.43, "zh": "在英国,有26种大黄蜂,但其中三种已经灭绝。", "zh_hant": "在英國,有26種大黃蜂,但其中三種已經滅絕。"}, {"index": 46, "text": "Many of the others are now clinging on in little isolated pockets of good habitat.", "start": 181.63, "end": 186.672, "zh": "现在,许多其他物种只能在一些孤立的小片良好栖息地中苟延残喘。", "zh_hant": "現在,許多其他物種只能在一些孤立的小片良好棲息地中苟延殘喘。"}, {"index": 47, "text": "Honey bees have beekeepers to look after them, but nobody's looking out for the wild bees.", "start": 186.892, "end": 191.773, "zh": "蜜蜂有养蜂人照顾,但没有人照看野生蜂。", "zh_hant": "蜜蜂有養蜂人照顧,但沒有人照看野生蜂。"}, {"index": 48, "text": "Three of the 26 species of British bumblebee have gone extinct,", "start": 191.794, "end": 195.955, "zh": "英国有26种大黄蜂,其中三种已经灭绝。", "zh_hant": "英國有26種大黃蜂,其中三種已經滅絕。"}, {"index": 49, "text": "and Dave says other species are clinging on , meaning barely continuing to survive with great effort.", "start": 195.895, "end": 202.297, "zh": "戴夫说,其他物种也在苦苦支撑,意思是勉强努力维持生存。", "zh_hant": "戴夫說,其他物種也在苦苦支撐,意思是勉強努力維持生存。"}, {"index": 50, "text": "This happens in isolated pockets – small areas of habitat", "start": 202.537, "end": 207.138, "zh": "这种情况发生在孤立的小块区域——即小片栖息地中", "zh_hant": "這種情況發生在孤立的小塊區域——即小片棲息地中"}, {"index": 51, "text": "in which a particular insect or animal can survive.", "start": 206.758, "end": 210.019, "zh": "昆虫或动物能够在其中生存的(环境)", "zh_hant": "昆蟲或動物能夠在其中生存的(環境)"}, {"index": 52, "text": "So, while honey bees may not be endangered, lots of other bee species are,", "start": 210.56, "end": 216.021, "zh": "尽管蜜蜂可能并未濒危,但许多其他蜂类物种却濒临灭绝。", "zh_hant": "儘管蜜蜂可能並未瀕危,但許多其他蜂類物種卻瀕臨滅絕。"}, {"index": 53, "text": "and this is bad news because we rely on insects", "start": 215.961, "end": 219.703, "zh": "而这是个坏消息,因为我们依赖昆虫。", "zh_hant": "而這是個壞訊息,因為我們依賴昆蟲。"}, {"index": 54, "text": "to pollinate crops and to keep ecosystems functioning.", "start": 219.303, "end": 222.844, "zh": "为农作物授粉,维持生态系统的正常运作。", "zh_hant": "為農作物授粉,維持生態系統的正常運作。"}, {"index": 55, "text": "That's right, Beth.", "start": 222.784, "end": 223.984, "zh": "没错,贝丝。", "zh_hant": "沒錯,貝絲。"}, {"index": 56, "text": "87% of all plant species need insects for pollination,", "start": 223.584, "end": 229.066, "zh": "87%的植物物种需要昆虫来授粉,", "zh_hant": "87%的植物物種需要昆蟲來授粉,"}, {"index": 57, "text": "so without them most plants on Earth would disappear, which would obviously be catastrophic.", "start": 229.006, "end": 235.248, "zh": "如果没有它们,地球上大多数植物都会消失,这显然将是灾难性的。", "zh_hant": "如果沒有它們,地球上大多數植物都會消失,這顯然將是災難性的。"}, {"index": 58, "text": "But according to Dave Goulson, pollination is just", "start": 235.348, "end": 239.529, "zh": "但根据戴夫·古尔森的说法,传粉只是", "zh_hant": "但根據戴夫·古爾森的說法,傳粉只是"}, {"index": 59, "text": "one of the many things bees do for us,", "start": 239.409, "end": 242.23, "zh": "蜜蜂为我们做的众多事情之一", "zh_hant": "蜜蜂為我們做的眾多事情之一"}, {"index": 60, "text": "as he explained to BBC World Service's CrowdScience:", "start": 242.29, "end": 246.371, "zh": "正如他向BBC世界服务台的CrowdScience节目解释的那样:", "zh_hant": "正如他向BBC世界服務檯的CrowdScience節目解釋的那樣:"}, {"index": 61, "text": "That isn't the only thing that insects are doing and there are much less glamorous, less well-known things,", "start": 246.652, "end": 253.014, "zh": "昆虫做的不只是这些,还有很多不那么引人注目、不那么广为人知的事情。", "zh_hant": "昆蟲做的不只是這些,還有很多不那麼引人注目、不那麼廣為人知的事情。"}, {"index": 62, "text": "like recycling cow poo", "start": 252.614, "end": 255.775, "zh": "像回收牛粪一样", "zh_hant": "像回收牛糞一樣"}, {"index": 63, "text": "and helping to keep the soil healthy and helping to control crop pests and so on,", "start": 255.735, "end": 260.176, "zh": "并帮助保持土壤健康、帮助控制农作物害虫等等", "zh_hant": "並幫助保持土壤健康、幫助控制農作物害蟲等等"}, {"index": 64, "text": "all of which are also really important.", "start": 260.456, "end": 262.797, "zh": "这些也都非常重要。", "zh_hant": "這些也都非常重要。"}, {"index": 65, "text": "And we, kind of, take them for granted or are just oblivious that they're even happening.", "start": 262.397, "end": 267.178, "zh": "而我们往往对此习以为常,甚至根本没意识到它们正在发生。", "zh_hant": "而我們往往對此習以為常,甚至根本沒意識到它們正在發生。"}, {"index": 66, "text": "Recycling cow poo and keeping the soil healthy are two important jobs", "start": 267.519, "end": 273.0, "zh": "回收牛粪和保持土壤健康是两项重要的工作", "zh_hant": "回收牛糞和保持土壤健康是兩項重要的工作"}, {"index": 67, "text": "bees do which we take for granted .", "start": 272.62, "end": 275.861, "zh": "我们习以为常的蜜蜂", "zh_hant": "我們習以為常的蜜蜂"}, {"index": 68, "text": "If you take something for granted , you fail to value or appreciate something which benefits you.", "start": 275.461, "end": 281.463, "zh": "如果你把某件事视为理所当然,你就不懂得珍惜或感激那些让你受益的事物。", "zh_hant": "如果你把某件事視為理所當然,你就不懂得珍惜或感激那些讓你受益的事物。"}, {"index": 69, "text": "We humans are oblivious ,", "start": 281.703, "end": 284.384, "zh": "我们人类浑然不觉,", "zh_hant": "我們人類渾然不覺,"}, {"index": 70, "text": "meaning unaware or unmindful of the many things bees do to support life on Earth.", "start": 283.984, "end": 290.206, "zh": "没有意识到蜜蜂为维持地球生命所做的种种贡献。", "zh_hant": "沒有意識到蜜蜂為維持地球生命所做的種種貢獻。"}, {"index": 71, "text": "So, while eating more honey probably won't do much to save wild bees,", "start": 290.366, "end": 294.868, "zh": "多吃蜂蜜可能对拯救野生蜜蜂起不了多大作用", "zh_hant": "多吃蜂蜜可能對拯救野生蜜蜂起不了多大作用"}, {"index": 72, "text": "there are things you can do, such as growing bee-friendly plants which flower in spring, like lavender.", "start": 294.768, "end": 300.51, "zh": "你可以做一些事情,比如种植一些春天开花的对蜜蜂友好的植物,像薰衣草。", "zh_hant": "你可以做一些事情,比如種植一些春天開花的對蜜蜂友好的植物,像薰衣草。"}, {"index": 73, "text": "OK.", "start": 300.91, "end": 301.51, "zh": "好的。", "zh_hant": "好的。"}, {"index": 74, "text": "Phil, I think it's time to reveal the answer to my question.", "start": 301.21, "end": 304.891, "zh": "Phil,我觉得是时候公布我那个问题的答案了。", "zh_hant": "Phil,我覺得是時候公佈我那個問題的答案了。"}, {"index": 75, "text": "I asked you how many times bees flap their wings per second.", "start": 304.491, "end": 310.573, "zh": "我问过你蜜蜂每秒扇动翅膀多少次。", "zh_hant": "我問過你蜜蜂每秒扇動翅膀多少次。"}, {"index": 76, "text": "You said 190, which was…", "start": 310.613, "end": 314.154, "zh": "你说的是190,这个……", "zh_hant": "你說的是190,這個……"}, {"index": 77, "text": "the correct answer.", "start": 313.914, "end": 315.414, "zh": "正确答案。", "zh_hant": "正確答案。"}, {"index": 78, "text": "Well done!", "start": 315.154, "end": 316.035, "zh": "做得好!", "zh_hant": "做得好!"}, {"index": 79, "text": "Ooh!", "start": 315.815, "end": 316.495, "zh": "哦!", "zh_hant": "哦!"}, {"index": 80, "text": "OK, let's recap the vocabulary we've learnt,", "start": 316.415, "end": 319.376, "zh": "好,我们来复习一下学过的词汇。", "zh_hant": "好,我們來複習一下學過的詞彙。"}, {"index": 81, "text": "starting with vegan – someone who doesn't consume any animal products.", "start": 319.156, "end": 324.097, "zh": "从纯素食者说起——不食用任何动物制品的人。", "zh_hant": "從純素食者說起——不食用任何動物製品的人。"}, {"index": 82, "text": "If you say there's a question mark around something , you mean there's some doubt", "start": 324.077, "end": 329.259, "zh": "如果你说某事存在问号,意思是对此存有疑问。", "zh_hant": "如果你說某事存在問號,意思是對此存有疑問。"}, {"index": 83, "text": "or uncertainty about it.", "start": 328.919, "end": 330.779, "zh": "对此的不确定性", "zh_hant": "對此的不確定性"}, {"index": 84, "text": "If an animal species is clinging on , it's holding on to existence with great effort.", "start": 330.94, "end": 336.982, "zh": "如果一个物种正在苦苦支撑,那就是它在竭尽全力维持生存。", "zh_hant": "如果一個物種正在苦苦支撐,那就是它在竭盡全力維持生存。"}, {"index": 85, "text": "Isolated pockets refer to small areas of habitat", "start": 337.322, "end": 340.883, "zh": "孤立斑块指的是小块的栖息地区域", "zh_hant": "孤立斑塊指的是小塊的棲息地區域"}, {"index": 86, "text": "in which a particular insect or animal can survive.", "start": 340.543, "end": 343.904, "zh": "昆虫或动物能够生存的环境", "zh_hant": "昆蟲或動物能夠生存的環境"}, {"index": 87, "text": "To take something for granted means to not appreciate or show gratitude for something which helps you.", "start": 343.964, "end": 350.186, "zh": "把某事视为理所当然,意思是不珍惜或不感激那些对你有帮助的事物。", "zh_hant": "把某事視為理所當然,意思是不珍惜或不感激那些對你有幫助的事物。"}, {"index": 88, "text": "And finally, the adjective oblivious means unaware.", "start": 350.406, "end": 354.767, "zh": "最后,形容词 \"oblivious\" 意思是\"未察觉的、没注意到的\"。", "zh_hant": "最後,形容詞 \"oblivious\" 意思是\"未察覺的、沒注意到的\"。"}, {"index": 89, "text": "Once again, our six minutes are up, but if you're keen for more then head over to our website,", "start": 354.988, "end": 360.089, "zh": "我们的六分钟又到时间了,如果你还想学到更多,请访问我们的网站。", "zh_hant": "我們的六分鐘又到時間了,如果你還想學到更多,請訪問我們的網站。"}, {"index": 90, "text": "bbclearningenglish.com,", "start": 359.769, "end": 361.95, "zh": "bbclearningenglish.com", "zh_hant": "bbclearningenglish.com"}, {"index": 91, "text": "and download the worksheet and try the quiz on this episode.", "start": 361.89, "end": 365.551, "zh": "下载练习册,试做本期测验。", "zh_hant": "下載練習冊,試做本期測驗。"}, {"index": 92, "text": "Goodbye", "start": 365.491, "end": 369.814, "zh": "再见", "zh_hant": "再見"}, {"index": 93, "text": "for now.", "start": 370.154, "end": 372.055, "zh": "暂时", "zh_hant": "暫時"}, {"index": 94, "text": "Goodbye!", "start": 371.655, "end": 373.036, "zh": "再见!", "zh_hant": "再見!"}]
+[
+  {
+    "index": 0,
+    "text": "Hello, this is 6 Minute English from BBC Learning English.",
+    "start": 7.791,
+    "end": 11.852,
+    "zh": "你好，这里是BBC英语学习的六分钟英语。",
+    "zh_hant": "你好，這裡是BBC英語學習的六分鐘英語。"
+  },
+  {
+    "index": 1,
+    "text": "I'm Phil.",
+    "start": 11.733,
+    "end": 12.513,
+    "zh": "我是菲尔。",
+    "zh_hant": "我是菲爾。"
+  },
+  {
+    "index": 2,
+    "text": "And I'm Beth.",
+    "start": 12.413,
+    "end": 13.793,
+    "zh": "我是贝丝。",
+    "zh_hant": "我是貝絲。"
+  },
+  {
+    "index": 3,
+    "text": "Do you like honey, Phil?",
+    "start": 13.874,
+    "end": 16.015,
+    "zh": "你喜欢蜂蜜吗，菲尔？",
+    "zh_hant": "你喜歡蜂蜜嗎，菲爾？"
+  },
+  {
+    "index": 4,
+    "text": "Hmm, I use it a lot in cooking, so yes.",
+    "start": 16.055,
+    "end": 18.616,
+    "zh": "嗯，我做饭经常用，所以喜欢。",
+    "zh_hant": "嗯，我做飯經常用，所以喜歡。"
+  },
+  {
+    "index": 5,
+    "text": "Well, the relationship between humans,",
+    "start": 18.476,
+    "end": 21.297,
+    "zh": "嗯，人类、蜂蜜和制造蜂蜜的蜜蜂之间的关系",
+    "zh_hant": "嗯，人類、蜂蜜和製造蜂蜜的蜜蜂之間的關係"
+  },
+  {
+    "index": 6,
+    "text": "honey and the bees which make it goes back thousands of years.",
+    "start": 21.097,
+    "end": 25.839,
+    "zh": "可以追溯到几千年前。",
+    "zh_hant": "可以追溯到幾千年前。"
+  },
+  {
+    "index": 7,
+    "text": "Prized for its taste and medicinal properties,",
+    "start": 25.88,
+    "end": 29.181,
+    "zh": "因其味道和药用价值而备受珍视，",
+    "zh_hant": "因其味道和藥用價值而備受珍視，"
+  },
+  {
+    "index": 8,
+    "text": "in ancient times honey was known as 'liquid gold'.",
+    "start": 29.161,
+    "end": 32.783,
+    "zh": "在古代，蜂蜜被称为‘液体黄金’。",
+    "zh_hant": "在古代，蜂蜜被稱為‘液體黃金’。"
+  },
+  {
+    "index": 9,
+    "text": "But now, thanks to modern farming methods,",
+    "start": 32.843,
+    "end": 35.884,
+    "zh": "但现在，由于现代农业方式，",
+    "zh_hant": "但現在，由於現代農業方式，"
+  },
+  {
+    "index": 10,
+    "text": "populations of many insects, including bees, are in decline.",
+    "start": 35.744,
+    "end": 40.486,
+    "zh": "许多昆虫种群，包括蜜蜂，正在减少。",
+    "zh_hant": "許多昆蟲種群，包括蜜蜂，正在減少。"
+  },
+  {
+    "index": 11,
+    "text": "Saoirse, a worried listener from London,",
+    "start": 40.627,
+    "end": 43.548,
+    "zh": "来自伦敦的一位担忧的听众西尔莎，",
+    "zh_hant": "來自倫敦的一位擔憂的聽眾西爾莎，"
+  },
+  {
+    "index": 12,
+    "text": "called BBC World Service programme CrowdScience about the problem.",
+    "start": 43.428,
+    "end": 48.011,
+    "zh": "就这个问题致电了BBC世界服务节目《大众科学》。",
+    "zh_hant": "就這個問題致電了BBC世界服務節目《大眾科學》。"
+  },
+  {
+    "index": 13,
+    "text": "I'm Saoirse from the UK and my question is: can honey help save bees?",
+    "start": 48.251,
+    "end": 53.453,
+    "zh": "我是来自英国的西尔莎，我的问题是：蜂蜜能帮助拯救蜜蜂吗？",
+    "zh_hant": "我是來自英國的西爾莎，我的問題是：蜂蜜能幫助拯救蜜蜂嗎？"
+  },
+  {
+    "index": 14,
+    "text": "I've been vegan for about nine years and I don't eat honey myself,",
+    "start": 53.874,
+    "end": 58.336,
+    "zh": "我吃素大约九年了，自己不吃蜂蜜，",
+    "zh_hant": "我吃素大約九年了，自己不吃蜂蜜，"
+  },
+  {
+    "index": 15,
+    "text": "but I still have a question mark around it because I know that our bee populations are declining.",
+    "start": 57.996,
+    "end": 65.159,
+    "zh": "但我对此仍有疑问，因为我知道我们的蜜蜂种群正在减少。",
+    "zh_hant": "但我對此仍有疑問，因為我知道我們的蜜蜂種群正在減少。"
+  },
+  {
+    "index": 16,
+    "text": "Saoirse is a vegan – someone who doesn't eat anything which comes from animals.",
+    "start": 65.359,
+    "end": 70.642,
+    "zh": "西尔莎是纯素食者——即不吃任何来自动物的食物的人。",
+    "zh_hant": "西爾莎是純素食者——即不吃任何來自動物的食物的人。"
+  },
+  {
+    "index": 17,
+    "text": "Not just meat, but things like milk, eggs and honey too.",
+    "start": 70.662,
+    "end": 75.384,
+    "zh": "不仅是不吃肉，还包括牛奶、鸡蛋和蜂蜜等。",
+    "zh_hant": "不僅是不吃肉，還包括牛奶、雞蛋和蜂蜜等。"
+  },
+  {
+    "index": 18,
+    "text": "Although Saoirse doesn't eat honey herself, she says there's a question mark around eating honey.",
+    "start": 75.364,
+    "end": 81.867,
+    "zh": "虽然西尔莎自己不吃蜂蜜，但她说吃蜂蜜这件事存在疑问。",
+    "zh_hant": "雖然西爾莎自己不吃蜂蜜，但她說吃蜂蜜這件事存在疑問。"
+  },
+  {
+    "index": 19,
+    "text": "The phrase a question mark around something means there's doubt or uncertainty about something.",
+    "start": 82.168,
+    "end": 88.351,
+    "zh": "短语‘对某事有疑问’表示对某件事有怀疑或不确定。",
+    "zh_hant": "短語‘對某事有疑問’表示對某件事有懷疑或不確定。"
+  },
+  {
+    "index": 20,
+    "text": "And what Saoirse is uncertain about is whether eating honey might actually save bees.",
+    "start": 88.351,
+    "end": 94.374,
+    "zh": "而西尔莎不确定的是，吃蜂蜜是否真的可能拯救蜜蜂。",
+    "zh_hant": "而西爾莎不確定的是，吃蜂蜜是否真的可能拯救蜜蜂。"
+  },
+  {
+    "index": 21,
+    "text": "So, would it be better for declining bee populations if more people ate honey?",
+    "start": 94.654,
+    "end": 100.677,
+    "zh": "那么，如果更多人吃蜂蜜，对减少的蜜蜂种群会更有利吗？",
+    "zh_hant": "那麼，如果更多人吃蜂蜜，對減少的蜜蜂種群會更有利嗎？"
+  },
+  {
+    "index": 22,
+    "text": "That's what we'll be discussing, using some useful new words and phrases.",
+    "start": 100.937,
+    "end": 105.379,
+    "zh": "这就是我们将要讨论的内容，并会用到一些有用的新词和短语。",
+    "zh_hant": "這就是我們將要討論的內容，並會用到一些有用的新詞和短語。"
+  },
+  {
+    "index": 23,
+    "text": "Plus, you'll find all the vocabulary from this episode on our website, bbclearningenglish.com.",
+    "start": 105.439,
+    "end": 112.523,
+    "zh": "另外，你可以在我们的网站bbclearningenglish.com上找到本集的所有词汇。",
+    "zh_hant": "另外，你可以在我們的網站bbclearningenglish.com上找到本集的所有詞彙。"
+  },
+  {
+    "index": 24,
+    "text": "But bee-fore that I have a question for you, Phil.",
+    "start": 112.443,
+    "end": 116.745,
+    "zh": "但在那之前，我有一个问题要问你，菲尔。",
+    "zh_hant": "但在那之前，我有一個問題要問你，菲爾。"
+  },
+  {
+    "index": 25,
+    "text": "The buzzing sound bees are famous for is made by flapping their four wings incredibly fast,",
+    "start": 116.845,
+    "end": 123.408,
+    "zh": "蜜蜂著名的嗡嗡声是由它们极快地扇动四只翅膀发出的，",
+    "zh_hant": "蜜蜂著名的嗡嗡聲是由它們極快地扇動四隻翅膀發出的，"
+  },
+  {
+    "index": 26,
+    "text": "but how fast?",
+    "start": 123.408,
+    "end": 125.309,
+    "zh": "但有多快呢？",
+    "zh_hant": "但有多快呢？"
+  },
+  {
+    "index": 27,
+    "text": "Do honey bees flap their wings: a) 90 times per second,",
+    "start": 125.509,
+    "end": 130.252,
+    "zh": "蜜蜂扇动翅膀的次数是：a) 每秒90次，",
+    "zh_hant": "蜜蜂扇動翅膀的次數是：a) 每秒90次，"
+  },
+  {
+    "index": 28,
+    "text": "b) 190 times per second, or c) 290 times per second?",
+    "start": 130.572,
+    "end": 137.175,
+    "zh": "b) 每秒190次，还是c) 每秒290次？",
+    "zh_hant": "b) 每秒190次，還是c) 每秒290次？"
+  },
+  {
+    "index": 29,
+    "text": "Well, I have absolutely no idea,",
+    "start": 137.276,
+    "end": 140.277,
+    "zh": "嗯，我完全不知道，",
+    "zh_hant": "嗯，我完全不知道，"
+  },
+  {
+    "index": 30,
+    "text": "so I'm going to guess 190 times per second.",
+    "start": 139.977,
+    "end": 144.699,
+    "zh": "所以我猜是每秒190次。",
+    "zh_hant": "所以我猜是每秒190次。"
+  },
+  {
+    "index": 31,
+    "text": "OK.",
+    "start": 144.559,
+    "end": 145.219,
+    "zh": "好的。",
+    "zh_hant": "好的。"
+  },
+  {
+    "index": 32,
+    "text": "Well, we'll find out the answer later in the programme.",
+    "start": 145.119,
+    "end": 148.121,
+    "zh": "嗯，我们稍后会在节目中揭晓答案。",
+    "zh_hant": "嗯，我們稍後會在節目中揭曉答案。"
+  },
+  {
+    "index": 33,
+    "text": "We've been talking about honey bees,",
+    "start": 148.221,
+    "end": 150.922,
+    "zh": "我们一直在讨论蜜蜂，",
+    "zh_hant": "我們一直在討論蜜蜂，"
+  },
+  {
+    "index": 34,
+    "text": "but these are just one of the 20,000 species of bee which exist around the world.",
+    "start": 150.572,
+    "end": 156.525,
+    "zh": "但这些只是全世界存在的两万种蜜蜂中的一种。",
+    "zh_hant": "但這些只是全世界存在的兩萬種蜜蜂中的一種。"
+  },
+  {
+    "index": 35,
+    "text": "In fact, honey bees are one of the most widespread insects on the planet and not endangered at all.",
+    "start": 156.765,
+    "end": 162.908,
+    "zh": "事实上，蜜蜂是地球上分布最广的昆虫之一，完全不在濒危之列。",
+    "zh_hant": "事實上，蜜蜂是地球上分佈最廣的昆蟲之一，完全不在瀕危之列。"
+  },
+  {
+    "index": 36,
+    "text": "But the picture isn't so good for wild bees,",
+    "start": 163.128,
+    "end": 166.97,
+    "zh": "但野生蜜蜂的情况就没那么好了，",
+    "zh_hant": "但野生蜜蜂的情況就沒那麼好了，"
+  },
+  {
+    "index": 37,
+    "text": "including the bumble bee, as biologist Dave Goulson,",
+    "start": 166.85,
+    "end": 170.912,
+    "zh": "包括大黄蜂，正如生物学家戴夫·古尔森",
+    "zh_hant": "包括大黃蜂，正如生物學家戴夫·古爾森"
+  },
+  {
+    "index": 38,
+    "text": "from the University of Sussex, explained to BBC World Service programme CrowdScience:",
+    "start": 170.652,
+    "end": 176.395,
+    "zh": "在苏塞克斯大学向BBC世界服务节目《大众科学》解释的那样：",
+    "zh_hant": "在蘇塞克斯大學向BBC世界服務節目《大眾科學》解釋的那樣："
+  },
+  {
+    "index": 39,
+    "text": "In the UK, we have 26 bumblebee species but three have gone extinct.",
+    "start": 176.575,
+    "end": 181.437,
+    "zh": "在英国，我们有26种大黄蜂，但其中三种已经灭绝。",
+    "zh_hant": "在英國，我們有26種大黃蜂，但其中三種已經滅絕。"
+  },
+  {
+    "index": 40,
+    "text": "Many of the others are now clinging on in little isolated pockets of good habitat.",
+    "start": 181.638,
+    "end": 186.66,
+    "zh": "许多其他种类现在正勉强存活在零散的优质栖息地小块区域中。",
+    "zh_hant": "許多其他種類現在正勉強存活在零散的優質棲息地小塊區域中。"
+  },
+  {
+    "index": 41,
+    "text": "Honey bees have beekeepers to look after them, but nobody's looking out for the wild bees.",
+    "start": 186.88,
+    "end": 191.762,
+    "zh": "蜜蜂有养蜂人照顾，但没人照看野生蜜蜂。",
+    "zh_hant": "蜜蜂有養蜂人照顧，但沒人照看野生蜜蜂。"
+  },
+  {
+    "index": 42,
+    "text": "Three of the 26 species of British bumblebee have gone extinct,",
+    "start": 191.803,
+    "end": 195.944,
+    "zh": "英国26种大黄蜂中有三种已经灭绝，",
+    "zh_hant": "英國26種大黃蜂中有三種已經滅絕，"
+  },
+  {
+    "index": 43,
+    "text": "and Dave says other species are clinging on , meaning barely continuing to survive with great effort.",
+    "start": 195.885,
+    "end": 202.287,
+    "zh": "戴夫说其他种类正在‘勉强存活’，意思是靠着巨大努力才勉强继续生存。",
+    "zh_hant": "戴夫說其他種類正在‘勉強存活’，意思是靠著巨大努力才勉強繼續生存。"
+  },
+  {
+    "index": 44,
+    "text": "This happens in isolated pockets – small areas of habitat in which a particular insect or animal can survive.",
+    "start": 202.528,
+    "end": 210.012,
+    "zh": "这发生在‘零星小块区域’——即某种昆虫或动物能生存的小面积栖息地。",
+    "zh_hant": "這發生在‘零星小塊區域’——即某種昆蟲或動物能生存的小面積棲息地。"
+  },
+  {
+    "index": 45,
+    "text": "So, while honey bees may not be endangered, lots of other bee species are,",
+    "start": 210.572,
+    "end": 216.035,
+    "zh": "所以，虽然蜜蜂可能不濒危，但许多其他蜜蜂种类很危险，",
+    "zh_hant": "所以，雖然蜜蜂可能不瀕危，但許多其他蜜蜂種類很危險，"
+  },
+  {
+    "index": 46,
+    "text": "and this is bad news because we rely on insects to pollinate crops and to keep ecosystems functioning.",
+    "start": 215.975,
+    "end": 222.858,
+    "zh": "这是坏消息，因为我们依靠昆虫来给作物授粉并维持生态系统运转。",
+    "zh_hant": "這是壞訊息，因為我們依靠昆蟲來給作物授粉並維持生態系統運轉。"
+  },
+  {
+    "index": 47,
+    "text": "That's right, Beth.",
+    "start": 222.778,
+    "end": 224.099,
+    "zh": "没错，贝丝。",
+    "zh_hant": "沒錯，貝絲。"
+  },
+  {
+    "index": 48,
+    "text": "87% of all plant species need insects for pollination,",
+    "start": 223.749,
+    "end": 229.061,
+    "zh": "87%的植物种类需要昆虫授粉，",
+    "zh_hant": "87%的植物種類需要昆蟲授粉，"
+  },
+  {
+    "index": 49,
+    "text": "so without them most plants on Earth would disappear, which would obviously be catastrophic.",
+    "start": 229.021,
+    "end": 235.244,
+    "zh": "所以没有它们，地球上大多数植物都会消失，那显然是灾难性的。",
+    "zh_hant": "所以沒有它們，地球上大多數植物都會消失，那顯然是災難性的。"
+  },
+  {
+    "index": 50,
+    "text": "But according to Dave Goulson, pollination is just one of the many things bees do for us,",
+    "start": 235.365,
+    "end": 242.228,
+    "zh": "但根据戴夫·古尔森的说法，授粉只是蜜蜂为我们做的许多事情之一，",
+    "zh_hant": "但根據戴夫·古爾森的說法，授粉只是蜜蜂為我們做的許多事情之一，"
+  },
+  {
+    "index": 51,
+    "text": "as he explained to BBC World Service's CrowdScience:",
+    "start": 242.288,
+    "end": 246.39,
+    "zh": "正如他向BBC世界服务的《大众科学》解释的那样：",
+    "zh_hant": "正如他向BBC世界服務的《大眾科學》解釋的那樣："
+  },
+  {
+    "index": 52,
+    "text": "That isn't the only thing that insects are doing and there are much less glamorous, less well-known things,",
+    "start": 246.631,
+    "end": 253.014,
+    "zh": "那并不是昆虫所做的唯一事情，还有更不引人注目、不太为人所知的事情，",
+    "zh_hant": "那並不是昆蟲所做的唯一事情，還有更不引人注目、不太為人所知的事情，"
+  },
+  {
+    "index": 53,
+    "text": "like recycling cow poo and helping to keep the soil healthy and helping to control crop pests and so on,",
+    "start": 252.664,
+    "end": 260.177,
+    "zh": "比如回收牛粪、帮助保持土壤健康以及帮助控制作物害虫等等，",
+    "zh_hant": "比如回收牛糞、幫助保持土壤健康以及幫助控制作物害蟲等等，"
+  },
+  {
+    "index": 54,
+    "text": "all of which are also really important.",
+    "start": 260.458,
+    "end": 262.838,
+    "zh": "这些也都非常重要。",
+    "zh_hant": "這些也都非常重要。"
+  },
+  {
+    "index": 55,
+    "text": "And we, kind of, take them for granted or are just oblivious that they're even happening.",
+    "start": 262.488,
+    "end": 267.181,
+    "zh": "而且我们有点习以为常，或者根本没意识到它们正在发生。",
+    "zh_hant": "而且我們有點習以為常，或者根本沒意識到它們正在發生。"
+  },
+  {
+    "index": 56,
+    "text": "Recycling cow poo and keeping the soil healthy",
+    "start": 267.521,
+    "end": 271.063,
+    "zh": "回收牛粪和保持土壤健康",
+    "zh_hant": "回收牛糞和保持土壤健康"
+  },
+  {
+    "index": 57,
+    "text": "are two important jobs bees do which we take for granted .",
+    "start": 271.063,
+    "end": 275.33,
+    "zh": "是蜜蜂做的两项重要工作，我们却认为理所当然。",
+    "zh_hant": "是蜜蜂做的兩項重要工作，我們卻認為理所當然。"
+  },
+  {
+    "index": 58,
+    "text": "If you take something for granted , you fail to value or appreciate something which benefits you.",
+    "start": 275.465,
+    "end": 281.468,
+    "zh": "如果你把某事视为理所当然，你就是没有重视或珍惜对你有益的事物。",
+    "zh_hant": "如果你把某事視為理所當然，你就是沒有重視或珍惜對你有益的事物。"
+  },
+  {
+    "index": 59,
+    "text": "We humans are oblivious ,",
+    "start": 281.708,
+    "end": 284.09,
+    "zh": "我们人类很‘无意识’，",
+    "zh_hant": "我們人類很‘無意識’，"
+  },
+  {
+    "index": 60,
+    "text": "meaning unaware or unmindful of the many things bees do to support life on Earth.",
+    "start": 283.989,
+    "end": 290.192,
+    "zh": "意思是没察觉到或没留意蜜蜂为维持地球生命所做的许多事情。",
+    "zh_hant": "意思是沒察覺到或沒留意蜜蜂為維持地球生命所做的許多事情。"
+  },
+  {
+    "index": 61,
+    "text": "So, while eating more honey probably won't do much to save wild bees,",
+    "start": 290.373,
+    "end": 294.855,
+    "zh": "所以，虽然多吃蜂蜜可能对拯救野生蜜蜂没多大帮助，",
+    "zh_hant": "所以，雖然多吃蜂蜜可能對拯救野生蜜蜂沒多大幫助，"
+  },
+  {
+    "index": 62,
+    "text": "there are things you can do, such as growing bee-friendly plants which flower in spring, like lavender.",
+    "start": 294.755,
+    "end": 300.518,
+    "zh": "但你可以做些事情，比如种植春天开花的有利于蜜蜂的植物，如薰衣草。",
+    "zh_hant": "但你可以做些事情，比如種植春天開花的有利於蜜蜂的植物，如薰衣草。"
+  },
+  {
+    "index": 63,
+    "text": "OK.",
+    "start": 300.898,
+    "end": 301.518,
+    "zh": "好的。",
+    "zh_hant": "好的。"
+  },
+  {
+    "index": 64,
+    "text": "Phil, I think it's time to reveal the answer to my question.",
+    "start": 301.218,
+    "end": 304.98,
+    "zh": "菲尔，我觉得是时候揭晓我问题的答案了。",
+    "zh_hant": "菲爾，我覺得是時候揭曉我問題的答案了。"
+  },
+  {
+    "index": 65,
+    "text": "I asked you how many times bees flap their wings per second.",
+    "start": 305.34,
+    "end": 310.562,
+    "zh": "我问你蜜蜂每秒扇动翅膀多少次。",
+    "zh_hant": "我問你蜜蜂每秒扇動翅膀多少次。"
+  },
+  {
+    "index": 66,
+    "text": "You said 190, which was…",
+    "start": 310.603,
+    "end": 314.144,
+    "zh": "你说是190次，那是……",
+    "zh_hant": "你說是190次，那是……"
+  },
+  {
+    "index": 67,
+    "text": "the correct answer.",
+    "start": 313.904,
+    "end": 315.425,
+    "zh": "正确答案。",
+    "zh_hant": "正確答案。"
+  },
+  {
+    "index": 68,
+    "text": "Well done!",
+    "start": 315.165,
+    "end": 316.065,
+    "zh": "干得好！",
+    "zh_hant": "幹得好！"
+  },
+  {
+    "index": 69,
+    "text": "Ooh!",
+    "start": 315.825,
+    "end": 316.505,
+    "zh": "哦！",
+    "zh_hant": "哦！"
+  },
+  {
+    "index": 70,
+    "text": "OK, let's recap the vocabulary we've learnt,",
+    "start": 316.426,
+    "end": 319.447,
+    "zh": "好的，让我们回顾一下学过的词汇，",
+    "zh_hant": "好的，讓我們回顧一下學過的詞彙，"
+  },
+  {
+    "index": 71,
+    "text": "starting with vegan – someone who doesn't consume any animal products.",
+    "start": 319.167,
+    "end": 324.129,
+    "zh": "从‘纯素食者’开始——即不消费任何动物产品的人。",
+    "zh_hant": "從‘純素食者’開始——即不消費任何動物產品的人。"
+  },
+  {
+    "index": 72,
+    "text": "If you say there's a question mark around something , you mean there's some doubt or uncertainty about it.",
+    "start": 324.089,
+    "end": 330.773,
+    "zh": "如果你说对某事‘有疑问’，你的意思是那件事存在一些怀疑或不确定。",
+    "zh_hant": "如果你說對某事‘有疑問’，你的意思是那件事存在一些懷疑或不確定。"
+  },
+  {
+    "index": 73,
+    "text": "If an animal species is clinging on , it's holding on to existence with great effort.",
+    "start": 330.933,
+    "end": 336.976,
+    "zh": "如果一个动物种类‘勉强存活’，它就是靠着巨大努力维持存在。",
+    "zh_hant": "如果一個動物種類‘勉強存活’，它就是靠著巨大努力維持存在。"
+  },
+  {
+    "index": 74,
+    "text": "Isolated pockets refer to small areas of habitat in which a particular insect or animal can survive.",
+    "start": 337.316,
+    "end": 343.899,
+    "zh": "‘零星小块区域’指某种昆虫或动物能生存的小面积栖息地。",
+    "zh_hant": "‘零星小塊區域’指某種昆蟲或動物能生存的小面積棲息地。"
+  },
+  {
+    "index": 75,
+    "text": "To take something for granted means to not appreciate or show gratitude for something which helps you.",
+    "start": 343.96,
+    "end": 350.182,
+    "zh": "‘视为理所当然’意思是未能重视或感谢帮助你的东西。",
+    "zh_hant": "‘視為理所當然’意思是未能重視或感謝幫助你的東西。"
+  },
+  {
+    "index": 76,
+    "text": "And finally, the adjective oblivious means unaware.",
+    "start": 350.403,
+    "end": 354.765,
+    "zh": "最后，形容词‘无意识的’意思是没察觉到。",
+    "zh_hant": "最後，形容詞‘無意識的’意思是沒察覺到。"
+  },
+  {
+    "index": 77,
+    "text": "Once again, our six minutes are up, but if you're keen for more then head over to our website,",
+    "start": 354.985,
+    "end": 360.087,
+    "zh": "又到时间了，六分钟结束，但如果你想了解更多，可以去我们的网站，",
+    "zh_hant": "又到時間了，六分鐘結束，但如果你想了解更多，可以去我們的網站，"
+  },
+  {
+    "index": 78,
+    "text": "bbclearningenglish.com, and download the worksheet and try the quiz on this episode.",
+    "start": 359.787,
+    "end": 365.201,
+    "zh": "bbclearningenglish.com，下载工作表并尝试本集的测验。",
+    "zh_hant": "bbclearningenglish.com，下載工作表並嘗試本集的測驗。"
+  },
+  {
+    "index": 79,
+    "text": "Goodbye for now.",
+    "start": 364.801,
+    "end": 366.703,
+    "zh": "再见。",
+    "zh_hant": "再見。"
+  },
+  {
+    "index": 80,
+    "text": "Goodbye!",
+    "start": 366.465,
+    "end": 367.389,
+    "zh": "再见！",
+    "zh_hant": "再見！"
+  }
+]

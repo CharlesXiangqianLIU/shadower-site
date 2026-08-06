@@ -2,23 +2,23 @@
   {
     "index": 0,
     "text": "Hello, this is 6 Minute English from BBC Learning English.",
-    "start": 7.793,
-    "end": 11.454,
-    "zh": "大家好,欢迎收听BBC英语教学的“六分钟英语”节目。",
-    "zh_hant": "大家好,歡迎收聽BBC英語教學的“六分鐘英語”節目。"
+    "start": 7.791,
+    "end": 11.453,
+    "zh": "你好，这里是BBC学英语的六分钟英语。",
+    "zh_hant": "你好，這裡是BBC學英語的六分鐘英語。"
   },
   {
     "index": 1,
     "text": "I'm Neil.",
-    "start": 11.194,
-    "end": 12.014,
+    "start": 11.173,
+    "end": 12.013,
     "zh": "我是尼尔。",
     "zh_hant": "我是尼爾。"
   },
   {
     "index": 2,
     "text": "And I'm Pippa.",
-    "start": 11.814,
+    "start": 11.813,
     "end": 13.134,
     "zh": "我是皮帕。",
     "zh_hant": "我是皮帕。"
@@ -28,751 +28,679 @@
     "text": "Whatever you think of social media, in less than a generation it has changed the internet.",
     "start": 13.334,
     "end": 19.036,
-    "zh": "无论你怎么看待社交媒体,不到一代人的时间,它就改变了互联网。",
-    "zh_hant": "無論你怎麼看待社交媒體,不到一代人的時間,它就改變了網際網路。"
+    "zh": "不管你对社交媒体怎么看，它在不到一代人的时间里已经改变了互联网。",
+    "zh_hant": "不管你對社交媒體怎麼看，它在不到一代人的時間裡已經改變了網際網路。"
   },
   {
     "index": 4,
-    "text": "Facebook, Twitter, now known as X, and in the early days MySpace used to be places",
-    "start": 18.996,
-    "end": 25.218,
-    "zh": "Facebook、现在改名为X的Twitter,以及早年的MySpace,曾经都是……的地方",
-    "zh_hant": "Facebook、現在改名為X的Twitter,以及早年的MySpace,曾經都是……的地方"
+    "text": "Facebook, Twitter, now known as X, and in the early days MySpace",
+    "start": 18.997,
+    "end": 23.839,
+    "zh": "脸书、推特（现在叫X），还有早期的MySpace",
+    "zh_hant": "臉書、推特（現在叫X），還有早期的MySpace"
   },
   {
     "index": 5,
-    "text": "to post messages to friends or share photos of your breakfast.",
-    "start": 24.818,
-    "end": 28.699,
-    "zh": "给朋友发消息,或者分享你早餐的照片。",
-    "zh_hant": "給朋友發訊息,或者分享你早餐的照片。"
+    "text": "used to be places to post messages to friends or share photos of your breakfast.",
+    "start": 23.839,
+    "end": 28.701,
+    "zh": "曾是用来给朋友发消息或分享早餐照片的地方。",
+    "zh_hant": "曾是用來給朋友發訊息或分享早餐照片的地方。"
   },
   {
     "index": 6,
     "text": "But with the rise of AI, the fun of connecting with friends changed into something much stranger,",
-    "start": 28.82,
-    "end": 34.701,
-    "zh": "但随着人工智能的兴起,与朋友交流的乐趣变得奇怪了许多。",
-    "zh_hant": "但隨著人工智慧的興起,與朋友交流的樂趣變得奇怪了許多。"
+    "start": 28.822,
+    "end": 34.704,
+    "zh": "但随着AI的兴起，和朋友互动的乐趣变成了一些更奇怪的东西，",
+    "zh_hant": "但隨著AI的興起，和朋友互動的樂趣變成了一些更奇怪的東西，"
   },
   {
     "index": 7,
     "text": "as Tristan and Asma, presenters of BBC World Service programme The Global Story, found out.",
-    "start": 34.642,
-    "end": 40.403,
-    "zh": "特里斯坦(Tristan)和阿斯玛(Asma)是BBC世界服务频道节目《The Global Story》的主持人,他们对此进行了调查了解。",
-    "zh_hant": "特里斯坦(Tristan)和阿斯瑪(Asma)是BBC世界服務頻道節目《The Global Story》的主持人,他們對此進行了調查瞭解。"
+    "start": 34.644,
+    "end": 40.407,
+    "zh": "BBC世界服务节目《全球故事》的主持人特里斯坦和阿斯玛就发现了这一点。",
+    "zh_hant": "BBC世界服務節目《全球故事》的主持人特里斯坦和阿斯瑪就發現了這一點。"
   },
   {
     "index": 8,
     "text": "Oh...",
-    "start": 40.644,
-    "end": 41.384,
+    "start": 40.647,
+    "end": 41.388,
     "zh": "哦……",
     "zh_hant": "哦……"
   },
   {
     "index": 9,
     "text": "What is this?",
-    "start": 41.504,
-    "end": 42.484,
-    "zh": "这是什么?",
-    "zh_hant": "這是什麼?"
+    "start": 41.508,
+    "end": 42.588,
+    "zh": "这是什么？",
+    "zh_hant": "這是什麼？"
   },
   {
     "index": 10,
     "text": "I think it's a man who's supposed to look like Jesus...",
-    "start": 42.084,
-    "end": 46.105,
-    "zh": "我觉得那是一个打扮成耶稣样子的男人……",
-    "zh_hant": "我覺得那是一個打扮成耶穌樣子的男人……"
+    "start": 42.628,
+    "end": 46.09,
+    "zh": "我觉得是个看起来像耶稣的男人……",
+    "zh_hant": "我覺得是個看起來像耶穌的男人……"
   },
   {
     "index": 11,
     "text": "It's a man who looks a bit like...",
-    "start": 46.165,
-    "end": 47.746,
-    "zh": "他长得有点像……",
-    "zh_hant": "他長得有點像……"
+    "start": 46.15,
+    "end": 47.831,
+    "zh": "是个看起来有点像……",
+    "zh_hant": "是個看起來有點像……"
   },
   {
     "index": 12,
     "text": "...who also looks like his dog.",
-    "start": 47.346,
-    "end": 49.266,
-    "zh": "他看起来也像他的狗。",
-    "zh_hant": "他看起來也像他的狗。"
+    "start": 47.481,
+    "end": 49.252,
+    "zh": "……也像他的狗的人。",
+    "zh_hant": "……也像他的狗的人。"
   },
   {
     "index": 13,
     "text": "He's been AI-ed, right?",
-    "start": 49.427,
-    "end": 51.247,
-    "zh": "他被AI换脸了,对吧?",
-    "zh_hant": "他被AI換臉了,對吧?"
+    "start": 49.432,
+    "end": 51.253,
+    "zh": "他被AI过了，对吧？",
+    "zh_hant": "他被AI過了，對吧？"
   },
   {
     "index": 14,
     "text": "Has to be AI-ed.",
-    "start": 51.127,
-    "end": 52.467,
-    "zh": "必须用AI处理。",
-    "zh_hant": "必須用AI處理。"
+    "start": 51.113,
+    "end": 52.473,
+    "zh": "肯定是被AI过了。",
+    "zh_hant": "肯定是被AI過了。"
   },
   {
     "index": 15,
     "text": "He's holding his dog and his face looks like his dog, so he's half Jesus, half dog.",
-    "start": 52.388,
-    "end": 57.189,
-    "zh": "他抱着他的狗,他的脸看起来像他的狗,所以他一半是耶稣,一半是狗。",
-    "zh_hant": "他抱著他的狗,他的臉看起來像他的狗,所以他一半是耶穌,一半是狗。"
+    "start": 52.373,
+    "end": 57.276,
+    "zh": "他抱着他的狗，脸看起来像他的狗，所以他是半耶稣半狗。",
+    "zh_hant": "他抱著他的狗，臉看起來像他的狗，所以他是半耶穌半狗。"
   },
   {
     "index": 16,
     "text": "A half-dog, half-Jesus photo is generated by AI and posted online.",
-    "start": 56.789,
-    "end": 63.231,
-    "zh": "AI生成了一张半狗半耶稣的照片,并发布到了网上。",
-    "zh_hant": "AI生成了一張半狗半耶穌的照片,併發布到了網上。"
+    "start": 57.416,
+    "end": 63.239,
+    "zh": "一张半狗半耶稣的照片由AI生成并发布到网上。",
+    "zh_hant": "一張半狗半耶穌的照片由AI生成併發布到網上。"
   },
   {
     "index": 17,
-    "text": "It's an example of how the use of AI in social media has evolved so much that today",
-    "start": 63.171,
-    "end": 68.773,
-    "zh": "这是一个例子,说明人工智能在社交媒体中的应用已经发展到今天这种程度",
-    "zh_hant": "這是一個例子,說明人工智慧在社交媒體中的應用已經發展到今天這種程度"
+    "text": "It's an example of how the use of AI in social media has evolved",
+    "start": 63.179,
+    "end": 67.541,
+    "zh": "这说明了AI在社交媒体中的应用已经发展到",
+    "zh_hant": "這說明了AI在社交媒體中的應用已經發展到"
   },
   {
     "index": 18,
-    "text": "it's hard to know",
-    "start": 68.653,
-    "end": 69.773,
-    "zh": "很难说",
-    "zh_hant": "很難說"
+    "text": "so much that today it's hard to know what's created by humans and what's not.",
+    "start": 67.191,
+    "end": 72.003,
+    "zh": "今天很难分辨哪些是人的创作、哪些不是的程度。",
+    "zh_hant": "今天很難分辨哪些是人的創作、哪些不是的程度。"
   },
   {
     "index": 19,
-    "text": "what's created by humans and what's not.",
-    "start": 69.373,
-    "end": 71.994,
-    "zh": "人类创造的与非人类创造的。",
-    "zh_hant": "人類創造的與非人類創造的。"
+    "text": "In this episode, we'll discuss how social media is changing",
+    "start": 71.923,
+    "end": 76.125,
+    "zh": "在本集节目中，我们将讨论社交媒体在AI时代如何变化，",
+    "zh_hant": "在本集節目中，我們將討論社交媒體在AI時代如何變化，"
   },
   {
     "index": 20,
-    "text": "In this episode, we'll discuss how social media is changing in the age of AI",
-    "start": 71.923,
-    "end": 77.526,
-    "zh": "在本期节目中,我们将探讨社交媒体在人工智能时代如何变化,以及",
-    "zh_hant": "在本期節目中,我們將探討社交媒體在人工智慧時代如何變化,以及"
+    "text": "in the age of AI and, as usual, we'll learn some useful new words and phrases.",
+    "start": 75.775,
+    "end": 81.307,
+    "zh": "和往常一样，我们还会学一些有用的新单词和短语。",
+    "zh_hant": "和往常一樣，我們還會學一些有用的新單詞和短語。"
   },
   {
     "index": 21,
-    "text": "and, as usual, we'll learn some useful new words and phrases.",
-    "start": 77.426,
-    "end": 81.307,
-    "zh": "像往常一样,我们将学习一些有用的新单词和短语。",
-    "zh_hant": "像往常一樣,我們將學習一些有用的新單詞和短語。"
+    "text": "And remember, you'll find all the vocabulary along with a transcript on our website bbclearningenglish.com.",
+    "start": 81.368,
+    "end": 88.191,
+    "zh": "记住，你可以在我们的网站bbclearningenglish.com上找到所有词汇和文字稿。",
+    "zh_hant": "記住，你可以在我們的網站bbclearningenglish.com上找到所有詞彙和文字稿。"
   },
   {
     "index": 22,
-    "text": "And remember, you'll find all the vocabulary along with a transcript",
-    "start": 81.357,
-    "end": 85.238,
-    "zh": "记住,你可以找到所有词汇和文字记录",
-    "zh_hant": "記住,你可以找到所有詞彙和文字記錄"
+    "text": "But first, I have a question for you, Pippa.",
+    "start": 88.152,
+    "end": 90.673,
+    "zh": "但首先，皮帕，我有个问题要问你。",
+    "zh_hant": "但首先，皮帕，我有個問題要問你。"
   },
   {
     "index": 23,
-    "text": "on our website bbclearningenglish.com.",
-    "start": 84.878,
-    "end": 88.199,
-    "zh": "我们的网站bbclearningenglish.com上",
-    "zh_hant": "我們的網站bbclearningenglish.com上"
+    "text": "You mentioned MySpace as one of the earliest social media platforms,",
+    "start": 90.633,
+    "end": 95.495,
+    "zh": "你提到MySpace是最早的社交媒体平台之一，",
+    "zh_hant": "你提到MySpace是最早的社交媒體平臺之一，"
   },
   {
     "index": 24,
-    "text": "But first, I have a question for you, Pippa.",
-    "start": 88.159,
-    "end": 90.68,
-    "zh": "不过在这之前,我有个问题想问你,皮帕。",
-    "zh_hant": "不過在這之前,我有個問題想問你,皮帕。"
+    "text": "but the first electronic message was actually sent much earlier, in 1844,",
+    "start": 95.415,
+    "end": 101.748,
+    "zh": "但第一条电子消息其实更早，是在1844年发送的，",
+    "zh_hant": "但第一條電子訊息其實更早，是在1844年傳送的，"
   },
   {
     "index": 25,
-    "text": "You mentioned MySpace as one of the earliest social media platforms,",
-    "start": 90.64,
-    "end": 95.501,
-    "zh": "你提到MySpace是最早的社交媒体平台之一",
-    "zh_hant": "你提到MySpace是最早的社交媒體平臺之一"
+    "text": "using a series of dots and dashes tapped out by hand on a telegraph wire.",
+    "start": 101.798,
+    "end": 106.981,
+    "zh": "当时是在电报线上用手敲出的一系列点和划。",
+    "zh_hant": "當時是在電報線上用手敲出的一系列點和劃。"
   },
   {
     "index": 26,
-    "text": "but the first electronic message was actually sent much earlier,",
-    "start": 95.422,
-    "end": 99.683,
-    "zh": "但第一封电子邮件实际上发送的时间要早得多,",
-    "zh_hant": "但第一封電子郵件實際上傳送的時間要早得多,"
+    "text": "So, what was this new form of communication called?",
+    "start": 107.101,
+    "end": 110.803,
+    "zh": "那么，这种新的通讯形式叫什么？",
+    "zh_hant": "那麼，這種新的通訊形式叫什麼？"
   },
   {
     "index": 27,
-    "text": "in 1844,",
-    "start": 99.603,
-    "end": 102.204,
-    "zh": "1844年",
-    "zh_hant": "1844年"
+    "text": "Was it: a) semaphore, b) dial-up, or c) Morse code?",
+    "start": 110.763,
+    "end": 116.825,
+    "zh": "是：a）旗语，b）拨号上网，还是c）摩尔斯电码？",
+    "zh_hant": "是：a）旗語，b）撥號上網，還是c）摩爾斯電碼？"
   },
   {
     "index": 28,
-    "text": "using a series of dots and dashes tapped out by hand on a telegraph wire.",
-    "start": 101.804,
-    "end": 107.005,
-    "zh": "用手在电报线上敲出一连串的点和划。",
-    "zh_hant": "用手在電報線上敲出一連串的點和劃。"
+    "text": "I think Morse code.",
+    "start": 117.026,
+    "end": 119.067,
+    "zh": "我觉得是摩尔斯电码。",
+    "zh_hant": "我覺得是摩爾斯電碼。"
   },
   {
     "index": 29,
-    "text": "So, what was this new form of communication called?",
-    "start": 107.105,
-    "end": 110.787,
-    "zh": "这种新的交流方式叫什么?",
-    "zh_hant": "這種新的交流方式叫什麼?"
+    "text": "OK.",
+    "start": 119.327,
+    "end": 119.967,
+    "zh": "好的。",
+    "zh_hant": "好的。"
   },
   {
     "index": 30,
-    "text": "Was it: a) semaphore, b) dial-up, or c) Morse code?",
-    "start": 110.747,
-    "end": 116.729,
-    "zh": "是:a) 旗语,b) 拨号上网,还是c) 摩尔斯电码?",
-    "zh_hant": "是:a) 旗語,b) 撥號上網,還是c) 摩爾斯電碼?"
+    "text": "We'll find out the answer later.",
+    "start": 119.747,
+    "end": 121.808,
+    "zh": "我们稍后揭晓答案。",
+    "zh_hant": "我們稍後揭曉答案。"
   },
   {
     "index": 31,
-    "text": "I think Morse code.",
-    "start": 116.329,
-    "end": 119.07,
-    "zh": "我用摩尔斯电码思考。",
-    "zh_hant": "我用摩爾斯電碼思考。"
+    "text": "The introduction of AI has turned some users away from social media.",
+    "start": 122.529,
+    "end": 127.071,
+    "zh": "AI的引入让一些用户远离了社交媒体。",
+    "zh_hant": "AI的引入讓一些使用者遠離了社交媒體。"
   },
   {
     "index": 32,
-    "text": "OK.",
-    "start": 119.31,
-    "end": 119.95,
-    "zh": "好的。",
-    "zh_hant": "好的。"
+    "text": "Indeed, a recent report found that social media activity peaked in 2022",
+    "start": 126.911,
+    "end": 132.464,
+    "zh": "事实上，最近一份报告发现社交媒体活跃度在2022年达到顶峰，",
+    "zh_hant": "事實上，最近一份報告發現社交媒體活躍度在2022年達到頂峰，"
   },
   {
     "index": 33,
-    "text": "We'll find out the answer later.",
-    "start": 119.73,
-    "end": 121.81,
-    "zh": "我们稍后会知道答案。",
-    "zh_hant": "我們稍後會知道答案。"
+    "text": "and has been going down ever since.",
+    "start": 132.514,
+    "end": 135.095,
+    "zh": "此后一直在下降。",
+    "zh_hant": "此後一直在下降。"
   },
   {
     "index": 34,
-    "text": "The introduction of AI has turned some users away from social media.",
-    "start": 122.511,
-    "end": 127.092,
-    "zh": "人工智能的引入使一些用户放弃了社交媒体。",
-    "zh_hant": "人工智慧的引入使一些使用者放棄了社交媒體。"
+    "text": "Millennial and digital native Kyle Chayka is a writer specialising in social media.",
+    "start": 135.195,
+    "end": 140.618,
+    "zh": "千禧一代和数字原住民凯尔·查伊卡是专攻社交媒体的作家。",
+    "zh_hant": "千禧一代和數字原住民凱爾·查伊卡是專攻社交媒體的作家。"
   },
   {
     "index": 35,
-    "text": "Indeed, a recent report found that social media activity peaked in 2022",
-    "start": 126.912,
-    "end": 132.914,
-    "zh": "事实上,最近的一份报告发现,社交媒体活跃度在2022年达到了顶峰。",
-    "zh_hant": "事實上,最近的一份報告發現,社交媒體活躍度在2022年達到了頂峰。"
+    "text": "He spoke about the problem to Tristan Redmond for BBC World Service programme The Global Story.",
+    "start": 140.478,
+    "end": 145.94,
+    "zh": "他在BBC世界服务节目《全球故事》中与特里斯坦·雷德蒙谈到了这个问题。",
+    "zh_hant": "他在BBC世界服務節目《全球故事》中與特里斯坦·雷德蒙談到了這個問題。"
   },
   {
     "index": 36,
-    "text": "and has been going down ever since.",
-    "start": 132.514,
-    "end": 135.115,
-    "zh": "从那以后就一直在下降。",
-    "zh_hant": "從那以後就一直在下降。"
-  },
-  {
-    "index": 37,
-    "text": "Millennial and digital native Kyle Chayka is a writer specialising in social media.",
-    "start": 135.195,
-    "end": 140.617,
-    "zh": "凯尔·查伊卡(Kyle Chayka)是一位千禧一代和数字原住民作家,专注于社交媒体领域。",
-    "zh_hant": "凱爾·查伊卡(Kyle Chayka)是一位千禧一代和數字原住民作家,專注於社交媒體領域。"
-  },
-  {
-    "index": 38,
-    "text": "He spoke about the problem to Tristan Redmond for BBC World Service programme The Global Story.",
-    "start": 140.477,
-    "end": 145.938,
-    "zh": "他就这个问题接受了BBC世界服务频道《全球故事》节目Tristan Redmond的采访。",
-    "zh_hant": "他就這個問題接受了BBC世界服務頻道《全球故事》節目Tristan Redmond的採訪。"
-  },
-  {
-    "index": 39,
     "text": "OK.",
-    "start": 146.239,
-    "end": 146.839,
+    "start": 146.241,
+    "end": 146.841,
     "zh": "好的。",
     "zh_hant": "好的。"
   },
   {
-    "index": 40,
-    "text": "Kyle, was there a moment for you",
-    "start": 146.519,
-    "end": 149.78,
-    "zh": "凯尔,你有没有那样的时刻",
-    "zh_hant": "凱爾,你有沒有那樣的時刻"
+    "index": 37,
+    "text": "Kyle, was there a moment for you when you felt like social media changed?",
+    "start": 146.521,
+    "end": 153.864,
+    "zh": "凯尔，有没有某个时刻让你觉得社交媒体变了？",
+    "zh_hant": "凱爾，有沒有某個時刻讓你覺得社交媒體變了？"
   },
   {
-    "index": 41,
-    "text": "when you felt like social media changed?",
-    "start": 150.0,
-    "end": 153.861,
-    "zh": "你觉得社交媒体发生变化的时候",
-    "zh_hant": "你覺得社交媒體發生變化的時候"
-  },
-  {
-    "index": 42,
+    "index": 38,
     "text": "Oh man!",
-    "start": 153.861,
-    "end": 154.861,
-    "zh": "哦,天哪!",
-    "zh_hant": "哦,天哪!"
+    "start": 153.864,
+    "end": 154.965,
+    "zh": "天哪！",
+    "zh_hant": "天哪！"
   },
   {
-    "index": 43,
+    "index": 39,
     "text": "I mean...",
-    "start": 154.461,
-    "end": 155.582,
+    "start": 154.705,
+    "end": 155.585,
     "zh": "我是说……",
     "zh_hant": "我是說……"
   },
   {
-    "index": 44,
+    "index": 40,
     "text": "In 2015/2016, I think, in the United States,",
-    "start": 155.982,
-    "end": 160.383,
-    "zh": "我记得是在2015或2016年,在美国,",
-    "zh_hant": "我記得是在2015或2016年,在美國,"
+    "start": 155.985,
+    "end": 160.387,
+    "zh": "我觉得是2015年或2016年，在美国，",
+    "zh_hant": "我覺得是2015年或2016年，在美國，"
+  },
+  {
+    "index": 41,
+    "text": "when Twitter became the hub of election discourse,",
+    "start": 160.348,
+    "end": 165.59,
+    "zh": "当时推特成了选举讨论的中心，",
+    "zh_hant": "當時推特成了選舉討論的中心，"
+  },
+  {
+    "index": 42,
+    "text": "it kind of shattered the illusion that the internet was a space you could go to,",
+    "start": 165.63,
+    "end": 170.292,
+    "zh": "它某种程度上粉碎了互联网是一个你可以去的地方的幻想，",
+    "zh_hant": "它某種程度上粉碎了網際網路是一個你可以去的地方的幻想，"
+  },
+  {
+    "index": 43,
+    "text": "just like, have fun and express yourself and find cool friends",
+    "start": 169.942,
+    "end": 175.735,
+    "zh": "就像，去那里找乐子、表达自己、交到很酷的朋友",
+    "zh_hant": "就像，去那裡找樂子、表達自己、交到很酷的朋友"
+  },
+  {
+    "index": 44,
+    "text": "and discuss the latest cultural happenings .",
+    "start": 175.385,
+    "end": 179.747,
+    "zh": "以及讨论最新的文化事件。",
+    "zh_hant": "以及討論最新的文化事件。"
   },
   {
     "index": 45,
-    "text": "when Twitter became the hub of election discourse,",
-    "start": 160.343,
-    "end": 165.605,
-    "zh": "Twitter成为大选讨论中心时,",
-    "zh_hant": "Twitter成為大選討論中心時,"
+    "text": "Kyle uses the informal expression, \" Oh man!",
+    "start": 179.347,
+    "end": 182.22,
+    "zh": "凯尔用了非正式表达“天哪！”",
+    "zh_hant": "凱爾用了非正式表達“天哪！”"
   },
   {
     "index": 46,
-    "text": "it kind of shattered the illusion that the internet was a space",
-    "start": 165.625,
-    "end": 169.646,
-    "zh": "有点打破了“互联网是一个空间”这种幻觉",
-    "zh_hant": "有點打破了“網際網路是一個空間”這種幻覺"
+    "text": "\"– an exclamation showing excitement or enthusiasm.",
+    "start": 181.82,
+    "end": 185.56,
+    "zh": "——这是一个表示兴奋或热情的语气词。",
+    "zh_hant": "——這是一個表示興奮或熱情的語氣詞。"
   },
   {
     "index": 47,
-    "text": "you could go to, just like, have fun and express yourself and find cool friends",
-    "start": 169.246,
-    "end": 175.708,
-    "zh": "你可以去玩得开心,展现自我,找到一些很棒的朋友",
-    "zh_hant": "你可以去玩得開心,展現自我,找到一些很棒的朋友"
+    "text": "He remembers the internet in 2016, when Twitter was full of angry political debate about the US elections.",
+    "start": 185.6,
+    "end": 192.203,
+    "zh": "他记得2016年的互联网，当时推特上满是关于美国大选的激烈政治争论。",
+    "zh_hant": "他記得2016年的網際網路，當時推特上滿是關於美國大選的激烈政治爭論。"
   },
   {
     "index": 48,
-    "text": "and discuss the latest cultural happenings .",
-    "start": 175.308,
-    "end": 179.59,
-    "zh": "并讨论最新的文化动态。",
-    "zh_hant": "並討論最新的文化動態。"
+    "text": "For Kyle, this shattered the illusion that the internet was fun.",
+    "start": 192.163,
+    "end": 196.225,
+    "zh": "对凯尔来说，这粉碎了互联网很好玩的幻想。",
+    "zh_hant": "對凱爾來說，這粉碎了網際網路很好玩的幻想。"
   },
   {
     "index": 49,
-    "text": "Kyle uses the informal expression, \" Oh man!",
-    "start": 179.19,
-    "end": 182.33,
-    "zh": "哦,天哪!",
-    "zh_hant": "哦,天哪!"
+    "text": "If something shatters your illusions , it destroys a false belief you hold,",
+    "start": 196.365,
+    "end": 200.927,
+    "zh": "如果某事物粉碎了你的幻想，它摧毁了你持有的错误信念，",
+    "zh_hant": "如果某事物粉碎了你的幻想，它摧毀了你持有的錯誤信念，"
   },
   {
     "index": 50,
-    "text": "\"– an exclamation showing excitement or enthusiasm.",
-    "start": 181.93,
-    "end": 185.552,
-    "zh": "表示兴奋或热情的感叹词。",
-    "zh_hant": "表示興奮或熱情的感嘆詞。"
+    "text": "making you realise an unpleasant truth.",
+    "start": 200.628,
+    "end": 203.449,
+    "zh": "让你意识到一个不愉快的真相。",
+    "zh_hant": "讓你意識到一個不愉快的真相。"
   },
   {
     "index": 51,
-    "text": "He remembers the internet in 2016, when Twitter was full of angry political debate",
-    "start": 185.612,
-    "end": 190.853,
-    "zh": "他记得2016年的互联网,那时推特上充斥着愤怒的政治争论。",
-    "zh_hant": "他記得2016年的網際網路,那時推特上充斥著憤怒的政治爭論。"
+    "text": "Kyle thinks social media was friendlier before –",
+    "start": 203.369,
+    "end": 206.87,
+    "zh": "凯尔认为社交媒体以前更友好——",
+    "zh_hant": "凱爾認為社交媒體以前更友好——"
   },
   {
     "index": 52,
-    "text": "about the US elections.",
-    "start": 190.473,
-    "end": 192.194,
-    "zh": "关于美国大选。",
-    "zh_hant": "關於美國大選。"
+    "text": "an online space to make friends, have fun and discuss the latest cultural happenings .",
+    "start": 206.811,
+    "end": 212.15,
+    "zh": "一个交朋友、找乐子、讨论最新文化事件的在线空间。",
+    "zh_hant": "一個交朋友、找樂子、討論最新文化事件的線上空間。"
   },
   {
     "index": 53,
-    "text": "For Kyle, this shattered the illusion that the internet was fun.",
-    "start": 192.154,
-    "end": 196.215,
-    "zh": "对凯尔来说,这打破了互联网很有趣的幻觉。",
-    "zh_hant": "對凱爾來說,這打破了網際網路很有趣的幻覺。"
+    "text": "A cultural happening is an event that embodies the values and interests of a particular group at a particular time in history.",
+    "start": 212.214,
+    "end": 219.137,
+    "zh": "文化事件是指在特定历史时期体现特定群体价值观和兴趣的事件。",
+    "zh_hant": "文化事件是指在特定歷史時期體現特定群體價值觀和興趣的事件。"
   },
   {
     "index": 54,
-    "text": "If something shatters your illusions , it destroys a false belief you hold,",
-    "start": 196.355,
-    "end": 200.917,
-    "zh": "如果某事打破了你的幻想,它摧毁了你所持有的一个错误信念。",
-    "zh_hant": "如果某事打破了你的幻想,它摧毀了你所持有的一個錯誤信念。"
+    "text": "For example, the hit television show Game of Thrones was a cultural happening for millennials in the 2010s.",
+    "start": 219.217,
+    "end": 225.34,
+    "zh": "例如，热播剧《权力的游戏》是2010年代千禧一代的文化事件。",
+    "zh_hant": "例如，熱播劇《權力的遊戲》是2010年代千禧一代的文化事件。"
   },
   {
     "index": 55,
-    "text": "making you realise an unpleasant truth.",
-    "start": 200.637,
-    "end": 203.457,
-    "zh": "让你意识到一个令人不快的真相。",
-    "zh_hant": "讓你意識到一個令人不快的真相。"
+    "text": "So, what's the future of social media?",
+    "start": 225.34,
+    "end": 228.041,
+    "zh": "那么，社交媒体的未来是什么？",
+    "zh_hant": "那麼，社交媒體的未來是什麼？"
   },
   {
     "index": 56,
-    "text": "Kyle thinks social media was friendlier before – an online space",
-    "start": 203.378,
-    "end": 208.179,
-    "zh": "凯尔认为以前的社交媒体氛围更友好——一个网络空间",
-    "zh_hant": "凱爾認為以前的社交媒體氛圍更友好——一個網路空間"
+    "text": "Will the amount of AI-generated content continue to grow?",
+    "start": 228.142,
+    "end": 231.963,
+    "zh": "AI生成内容的数量会继续增长吗？",
+    "zh_hant": "AI生成內容的數量會繼續增長嗎？"
   },
   {
     "index": 57,
-    "text": "to make friends, have fun and discuss the latest cultural happenings .",
-    "start": 207.779,
-    "end": 212.38,
-    "zh": "交朋友、找乐子、聊聊最新的文化热点。",
-    "zh_hant": "交朋友、找樂子、聊聊最新的文化熱點。"
+    "text": "Here's Kyle Chayka again, sharing his thoughts with BBC World Service's The Global Story:",
+    "start": 232.144,
+    "end": 237.566,
+    "zh": "凯尔·查伊卡再次分享了他的想法，接受BBC世界服务《全球故事》的采访：",
+    "zh_hant": "凱爾·查伊卡再次分享了他的想法，接受BBC世界服務《全球故事》的採訪："
   },
   {
     "index": 58,
-    "text": "A cultural happening is an event",
-    "start": 211.98,
-    "end": 216.422,
-    "zh": "一场文化盛事就是一次活动",
-    "zh_hant": "一場文化盛事就是一次活動"
+    "text": "We see the large social networks and the tech behemoths leaning into generated content,",
+    "start": 237.806,
+    "end": 244.169,
+    "zh": "我们看到大型社交网络和科技巨头都在大力推进生成内容，",
+    "zh_hant": "我們看到大型社交網路和科技巨頭都在大力推進生成內容，"
   },
   {
     "index": 59,
-    "text": "that embodies the values and interests of a particular group at a particular time in history.",
-    "start": 216.022,
-    "end": 219.143,
-    "zh": "体现了历史上某一特定时期特定群体的价值观和利益。",
-    "zh_hant": "體現了歷史上某一特定時期特定群體的價值觀和利益。"
-  },
-  {
-    "index": 60,
-    "text": "For example, the hit television show Game of Thrones was a cultural happening",
-    "start": 219.223,
-    "end": 223.504,
-    "zh": "例如,热门电视剧《权力的游戏》就是一个文化盛事。",
-    "zh_hant": "例如,熱門電視劇《權力的遊戲》就是一個文化盛事。"
-  },
-  {
-    "index": 61,
-    "text": "for millennials in the 2010s.",
-    "start": 223.124,
-    "end": 225.725,
-    "zh": "2010年代的千禧一代来说",
-    "zh_hant": "2010年代的千禧一代來說"
-  },
-  {
-    "index": 62,
-    "text": "So, what's the future of social media?",
-    "start": 225.325,
-    "end": 228.026,
-    "zh": "社交媒体的未来是什么?",
-    "zh_hant": "社交媒體的未來是什麼?"
-  },
-  {
-    "index": 63,
-    "text": "Will the amount of AI-generated content continue to grow?",
-    "start": 228.146,
-    "end": 231.967,
-    "zh": "人工智能生成的内容会持续增长吗?",
-    "zh_hant": "人工智慧生成的內容會持續增長嗎?"
-  },
-  {
-    "index": 64,
-    "text": "Here's Kyle Chayka again, sharing his thoughts with BBC World Service's The Global Story:",
-    "start": 232.147,
-    "end": 237.549,
-    "zh": "凯尔·查伊卡(Kyle Chayka)再次与BBC世界服务频道的《The Global Story》节目分享了他的看法。",
-    "zh_hant": "凱爾·查伊卡(Kyle Chayka)再次與BBC世界服務頻道的《The Global Story》節目分享了他的看法。"
-  },
-  {
-    "index": 65,
-    "text": "We see the large social networks and the tech behemoths leaning into generated content,",
-    "start": 237.789,
-    "end": 244.171,
-    "zh": "我们看到大型社交网络和科技巨头都在积极拥抱生成式内容,",
-    "zh_hant": "我們看到大型社交網路和科技巨頭都在積極擁抱生成式內容,"
-  },
-  {
-    "index": 66,
     "text": "and I think users don't actually want that.",
-    "start": 244.231,
-    "end": 246.612,
+    "start": 244.249,
+    "end": 246.711,
     "zh": "我认为用户其实并不想要那样。",
     "zh_hant": "我認為使用者其實並不想要那樣。"
   },
   {
-    "index": 67,
+    "index": 60,
     "text": "I think it's a novelty for now and people will drift away from it.",
-    "start": 246.212,
-    "end": 251.094,
-    "zh": "我觉得这只是暂时的新鲜感,大家过一阵子就会失去兴趣了。",
-    "zh_hant": "我覺得這只是暫時的新鮮感,大家過一陣子就會失去興趣了。"
+    "start": 246.361,
+    "end": 251.093,
+    "zh": "我觉得现在它只是个新鲜事物，人们会慢慢远离它。",
+    "zh_hant": "我覺得現在它只是個新鮮事物，人們會慢慢遠離它。"
+  },
+  {
+    "index": 61,
+    "text": "So instead, I see people gravitating towards smaller online spaces,",
+    "start": 251.233,
+    "end": 256.336,
+    "zh": "所以相反，我看到人们在转向更小的在线空间，",
+    "zh_hant": "所以相反，我看到人們在轉向更小的線上空間，"
+  },
+  {
+    "index": 62,
+    "text": "connecting more closely with individual voices,",
+    "start": 256.516,
+    "end": 259.877,
+    "zh": "更紧密地与个人声音连接，",
+    "zh_hant": "更緊密地與個人聲音連線，"
+  },
+  {
+    "index": 63,
+    "text": "like creator types, and just posting less in general.",
+    "start": 259.527,
+    "end": 264.94,
+    "zh": "比如创作者类型的人，而且总体上发帖更少。",
+    "zh_hant": "比如創作者型別的人，而且總體上發帖更少。"
+  },
+  {
+    "index": 64,
+    "text": "Kyle thinks the tech behemoths , meaning large and powerful companies, will continue pushing AI.",
+    "start": 265.26,
+    "end": 271.843,
+    "zh": "凯尔认为科技巨头——意思是大型且强大的公司——会继续推动AI。",
+    "zh_hant": "凱爾認為科技巨頭——意思是大型且強大的公司——會繼續推動AI。"
+  },
+  {
+    "index": 65,
+    "text": "However, many people want content which is more personal and meaningful.",
+    "start": 271.944,
+    "end": 276.526,
+    "zh": "然而，许多人想要更个人化、更有意义的内容。",
+    "zh_hant": "然而，許多人想要更個人化、更有意義的內容。"
+  },
+  {
+    "index": 66,
+    "text": "They think AI is a novelty – something which is new and unusual and therefore exciting, but which probably won't last.",
+    "start": 276.746,
+    "end": 284.309,
+    "zh": "他们认为AI是个新奇事物——某种新颖、不寻常因而令人兴奋的东西，但可能不会持久。",
+    "zh_hant": "他們認為AI是個新奇事物——某種新穎、不尋常因而令人興奮的東西，但可能不會持久。"
+  },
+  {
+    "index": 67,
+    "text": "Instead, Kyle thinks people will gravitate towards smaller online communities.",
+    "start": 284.27,
+    "end": 289.572,
+    "zh": "相反，凯尔认为人们会倾向于更小的在线社区。",
+    "zh_hant": "相反，凱爾認為人們會傾向於更小的線上社群。"
   },
   {
     "index": 68,
-    "text": "So instead, I see people gravitating towards smaller online spaces,",
-    "start": 251.234,
-    "end": 256.355,
-    "zh": "因此,我看到人们更倾向于转向较小的网络空间",
-    "zh_hant": "因此,我看到人們更傾向於轉向較小的網路空間"
+    "text": "If you gravitate towards something, you are naturally drawn or attracted to it.",
+    "start": 289.513,
+    "end": 294.255,
+    "zh": "如果你倾向于某事物，你是被它自然吸引或拉过去的。",
+    "zh_hant": "如果你傾向於某事物，你是被它自然吸引或拉過去的。"
   },
   {
     "index": 69,
-    "text": "connecting more closely with individual voices,",
-    "start": 256.536,
-    "end": 259.897,
-    "zh": "更加深入地与个体的声音建立联系",
-    "zh_hant": "更加深入地與個體的聲音建立聯絡"
+    "text": "Social media has changed fast and is still in motion.",
+    "start": 294.115,
+    "end": 298.197,
+    "zh": "社交媒体变化很快，而且还在变化中。",
+    "zh_hant": "社交媒體變化很快，而且還在變化中。"
   },
   {
     "index": 70,
-    "text": "like creator types, and just posting less in general.",
-    "start": 259.497,
-    "end": 264.958,
-    "zh": "比如创作者类型,以及总体上少发一些内容。",
-    "zh_hant": "比如創作者型別,以及總體上少發一些內容。"
+    "text": "It's come a long way from the first electronic messages of 1844 which you mentioned in your question, Neil.",
+    "start": 298.277,
+    "end": 304.5,
+    "zh": "它已经从你问题里提到的1844年第一条电子消息走了很远，尼尔。",
+    "zh_hant": "它已經從你問題裡提到的1844年第一條電子訊息走了很遠，尼爾。"
   },
   {
     "index": 71,
-    "text": "Kyle thinks the tech behemoths , meaning large and powerful",
-    "start": 265.278,
-    "end": 271.16,
-    "zh": "Kyle认为这些科技巨头,也就是那些大型且强大的公司",
-    "zh_hant": "Kyle認為這些科技巨頭,也就是那些大型且強大的公司"
+    "text": "So, did I get the correct answer?",
+    "start": 304.42,
+    "end": 306.621,
+    "zh": "所以，我答对了吗？",
+    "zh_hant": "所以，我答對了嗎？"
   },
   {
     "index": 72,
-    "text": "companies, will continue pushing AI.",
-    "start": 270.76,
-    "end": 272.321,
-    "zh": "企业将继续推动人工智能的发展。",
-    "zh_hant": "企業將繼續推動人工智慧的發展。"
+    "text": "I asked what this new form of communication was,",
+    "start": 306.881,
+    "end": 310.563,
+    "zh": "我问这种新的通讯形式是什么，",
+    "zh_hant": "我問這種新的通訊形式是什麼，"
   },
   {
     "index": 73,
-    "text": "However, many people want content which is more personal and meaningful.",
-    "start": 271.921,
-    "end": 276.502,
-    "zh": "然而,许多人想要更加个性化、更有意义的内容。",
-    "zh_hant": "然而,許多人想要更加個性化、更有意義的內容。"
+    "text": "and you said that it was c) Morse code.",
+    "start": 310.663,
+    "end": 313.924,
+    "zh": "你说它是c）摩尔斯电码。",
+    "zh_hant": "你說它是c）摩爾斯電碼。"
   },
   {
     "index": 74,
-    "text": "They think AI is a novelty – something",
-    "start": 276.722,
-    "end": 279.663,
-    "zh": "他们认为人工智能只是个新奇玩意儿",
-    "zh_hant": "他們認為人工智慧只是個新奇玩意兒"
+    "text": "And that, Pippa, is the correct answer.",
+    "start": 313.584,
+    "end": 316.346,
+    "zh": "皮帕，这就是正确答案。",
+    "zh_hant": "皮帕，這就是正確答案。"
   },
   {
     "index": 75,
-    "text": "which is new and unusual and therefore exciting, but which probably won't last.",
-    "start": 279.263,
-    "end": 284.285,
-    "zh": "这种感觉新奇独特,因此令人兴奋,但可能不会持久。",
-    "zh_hant": "這種感覺新奇獨特,因此令人興奮,但可能不會持久。"
-  },
-  {
-    "index": 76,
-    "text": "Instead, Kyle thinks people will gravitate towards smaller online communities.",
-    "start": 284.265,
-    "end": 289.587,
-    "zh": "Kyle认为,人们反而会更倾向于选择较小的网络社区。",
-    "zh_hant": "Kyle認為,人們反而會更傾向於選擇較小的網路社群。"
-  },
-  {
-    "index": 77,
-    "text": "If you gravitate towards something, you are naturally drawn or attracted to it.",
-    "start": 289.527,
-    "end": 294.248,
-    "zh": "如果你偏爱某样东西,你就是自然而然地被它吸引。",
-    "zh_hant": "如果你偏愛某樣東西,你就是自然而然地被它吸引。"
-  },
-  {
-    "index": 78,
-    "text": "Social media has changed fast and is still in motion.",
-    "start": 294.128,
-    "end": 298.209,
-    "zh": "社交媒体变化很快，而且仍在不断演变。",
-    "zh_hant": "社交媒體變化很快，而且仍在不斷演變。"
-  },
-  {
-    "index": 79,
-    "text": "It's come a long way from the first electronic messages of 1844 which you mentioned in your question, Neil.",
-    "start": 298.29,
-    "end": 304.512,
-    "zh": "Neil,这与你在问题中提到的1844年最早的电子讯息相比,已经取得了长足的进步。",
-    "zh_hant": "Neil,這與你在問題中提到的1844年最早的電子訊息相比,已經取得了長足的進步。"
-  },
-  {
-    "index": 80,
-    "text": "So, did I get the correct answer?",
-    "start": 304.432,
-    "end": 306.512,
-    "zh": "我答对了吗?",
-    "zh_hant": "我答對了嗎?"
-  },
-  {
-    "index": 81,
-    "text": "I asked what this new form of communication was,",
-    "start": 306.112,
-    "end": 310.574,
-    "zh": "我问这种新的交流方式是什么,",
-    "zh_hant": "我問這種新的交流方式是什麼,"
-  },
-  {
-    "index": 82,
-    "text": "and you said that it was c) Morse code.",
-    "start": 310.674,
-    "end": 313.935,
-    "zh": "你说是c)摩尔斯电码。",
-    "zh_hant": "你說是c)摩爾斯電碼。"
-  },
-  {
-    "index": 83,
-    "text": "And that, Pippa, is the correct answer.",
-    "start": 313.575,
-    "end": 316.336,
-    "zh": "皮帕,这就是正确答案。",
-    "zh_hant": "皮帕,這就是正確答案。"
-  },
-  {
-    "index": 84,
     "text": "OK.",
-    "start": 316.596,
-    "end": 317.216,
+    "start": 316.606,
+    "end": 317.206,
     "zh": "好的。",
     "zh_hant": "好的。"
   },
   {
-    "index": 85,
+    "index": 76,
     "text": "Let's recap the vocabulary we've learned, starting with the exclamation, \" Oh man!",
-    "start": 316.876,
-    "end": 321.836,
-    "zh": "我们来复习一下学过的单词,先从感叹词“天哪!”开始。",
-    "zh_hant": "我們來複習一下學過的單詞,先從感嘆詞“天哪!”開始。"
+    "start": 316.866,
+    "end": 321.72,
+    "zh": "让我们复习一下学过的词汇，从感叹词“天哪！”开始，",
+    "zh_hant": "讓我們複習一下學過的詞彙，從感嘆詞“天哪！”開始，"
   },
   {
-    "index": 86,
+    "index": 77,
     "text": "\" used to show excitement or enthusiasm.",
-    "start": 321.436,
-    "end": 324.537,
+    "start": 321.32,
+    "end": 324.55,
     "zh": "用来表示兴奋或热情。",
     "zh_hant": "用來表示興奮或熱情。"
   },
   {
-    "index": 87,
+    "index": 78,
     "text": "To shatter an illusion is to destroy someone's misconceptions,",
-    "start": 324.417,
-    "end": 329.077,
-    "zh": "打破幻想就是摧毁一个人的错误认知",
-    "zh_hant": "打破幻想就是摧毀一個人的錯誤認知"
+    "start": 324.45,
+    "end": 329.092,
+    "zh": "粉碎幻想是摧毁某人的错误观念，",
+    "zh_hant": "粉碎幻想是摧毀某人的錯誤觀念，"
   },
   {
-    "index": 88,
+    "index": 79,
     "text": "causing them to realise an unpleasant reality.",
-    "start": 328.837,
-    "end": 331.717,
-    "zh": "让他们意识到一个残酷的现实。",
-    "zh_hant": "讓他們意識到一個殘酷的現實。"
+    "start": 328.832,
+    "end": 331.814,
+    "zh": "让他们意识到一个不愉快的现实。",
+    "zh_hant": "讓他們意識到一個不愉快的現實。"
   },
   {
-    "index": 89,
-    "text": "A cultural happening is an event",
-    "start": 331.317,
-    "end": 334.318,
-    "zh": "一场文化盛事就是一次活动",
-    "zh_hant": "一場文化盛事就是一次活動"
+    "index": 80,
+    "text": "A cultural happening is an event that embodies the values and interests of a particular social group at a particular time.",
+    "start": 332.034,
+    "end": 339.517,
+    "zh": "文化事件是在特定时间体现特定社会群体价值观和兴趣的事件。",
+    "zh_hant": "文化事件是在特定時間體現特定社會群體價值觀和興趣的事件。"
   },
   {
-    "index": 90,
-    "text": "that embodies the values and interests of a particular social group at a particular time.",
-    "start": 333.918,
-    "end": 339.418,
-    "zh": "体现了特定社会群体在特定时期的价值观和利益。",
-    "zh_hant": "體現了特定社會群體在特定時期的價值觀和利益。"
-  },
-  {
-    "index": 91,
+    "index": 81,
     "text": "A behemoth is an extremely large and powerful company or organisation.",
-    "start": 339.018,
-    "end": 344.099,
-    "zh": "“庞然大物”指规模极大、势力极强的公司或组织。",
-    "zh_hant": "“龐然大物”指規模極大、勢力極強的公司或組織。"
+    "start": 339.478,
+    "end": 344.2,
+    "zh": "巨头是极其庞大且强大的公司或组织。",
+    "zh_hant": "巨頭是極其龐大且強大的公司或組織。"
   },
   {
-    "index": 92,
+    "index": 82,
     "text": "A novelty is something which is new and unusual and therefore exciting.",
-    "start": 343.699,
-    "end": 348.639,
-    "zh": "新奇的东西是指新颖、不同寻常因而令人兴奋的事物。",
-    "zh_hant": "新奇的東西是指新穎、不同尋常因而令人興奮的事物。"
+    "start": 344.08,
+    "end": 348.662,
+    "zh": "新奇事物是新颖、不寻常因而令人兴奋的东西。",
+    "zh_hant": "新奇事物是新穎、不尋常因而令人興奮的東西。"
   },
   {
-    "index": 93,
+    "index": 83,
     "text": "And finally, if you gravitate towards something, you are naturally attracted to it.",
-    "start": 348.559,
-    "end": 353.62,
-    "zh": "如果你 gravitate towards(倾向于)某事物,就是说你自然而然地被它吸引。",
-    "zh_hant": "如果你 gravitate towards(傾向於)某事物,就是說你自然而然地被它吸引。"
+    "start": 348.582,
+    "end": 353.624,
+    "zh": "最后，如果你倾向于某事物，你会被它自然吸引。",
+    "zh_hant": "最後，如果你傾向於某事物，你會被它自然吸引。"
   },
   {
-    "index": 94,
-    "text": "Once again, our six minutes are up, but if you're still using the internet,",
-    "start": 353.66,
-    "end": 357.96,
-    "zh": "我们的六分钟又到了,不过如果你还在用互联网",
-    "zh_hant": "我們的六分鐘又到了,不過如果你還在用網際網路"
+    "index": 84,
+    "text": "Once again, our six minutes are up,",
+    "start": 353.685,
+    "end": 355.845,
+    "zh": "再一次，我们的六分钟时间到了，",
+    "zh_hant": "再一次，我們的六分鐘時間到了，"
   },
   {
-    "index": 95,
-    "text": "head over to our website, bbclearningenglish.com, where you'll find a worksheet and quiz for this episode.",
-    "start": 357.62,
-    "end": 364.101,
-    "zh": "请访问我们的网站bbclearningenglish.com,那里有本期节目的练习题和测验。",
-    "zh_hant": "請訪問我們的網站bbclearningenglish.com,那裡有本期節目的練習題和測驗。"
+    "index": 85,
+    "text": "but if you're still using the internet, head over to our website, bbclearningenglish.com,",
+    "start": 355.645,
+    "end": 361.248,
+    "zh": "但如果你还在用互联网，就去我们的网站bbclearningenglish.com吧，",
+    "zh_hant": "但如果你還在用網際網路，就去我們的網站bbclearningenglish.com吧，"
   },
   {
-    "index": 96,
+    "index": 86,
+    "text": "where you'll find a worksheet and quiz for this episode.",
+    "start": 361.148,
+    "end": 364.109,
+    "zh": "那里有本集的工作表和测验。",
+    "zh_hant": "那裡有本集的工作表和測驗。"
+  },
+  {
+    "index": 87,
     "text": "See you again soon but, for now, it's goodbye!",
-    "start": 364.001,
-    "end": 366.921,
-    "zh": "很快就能再见到你,不过现在,再见啦!",
-    "zh_hant": "很快就能再見到你,不過現在,再見啦!"
+    "start": 364.01,
+    "end": 366.949,
+    "zh": "下次再见，但现在，是时候说再见了！",
+    "zh_hant": "下次再見，但現在，是時候說再見了！"
   }
 ]

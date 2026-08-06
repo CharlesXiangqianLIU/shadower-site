@@ -4,8 +4,8 @@
     "text": "This is 6 Minute English from BBC Learning English.",
     "start": 8.25,
     "end": 12.232,
-    "zh": "这里是BBC英语学习的六分钟英语。",
-    "zh_hant": "這裡是BBC英語學習的六分鐘英語。"
+    "zh": "这是BBC学英语的六分钟英语。",
+    "zh_hant": "這是BBC學英語的六分鐘英語。"
   },
   {
     "index": 1,
@@ -28,139 +28,147 @@
     "text": "In English, what we say and what we mean are sometimes two very different things.",
     "start": 14.553,
     "end": 20.676,
-    "zh": "在英语中，我们说的话和我们的意思有时是截然不同的两回事。",
-    "zh_hant": "在英語中，我們說的話和我們的意思有時是截然不同的兩回事。"
+    "zh": "在英语中，我们说的和我们的意思有时是两件非常不同的事。",
+    "zh_hant": "在英語中，我們說的和我們的意思有時是兩件非常不同的事。"
   },
   {
     "index": 4,
     "text": "We often use exaggeration for emphasis or for humour – something known as hyperbole.",
     "start": 20.736,
     "end": 26.839,
-    "zh": "我们经常为了强调或幽默而使用夸张，这被称为夸张修辞。",
-    "zh_hant": "我們經常為了強調或幽默而使用誇張，這被稱為誇張修辭。"
+    "zh": "我们经常用夸张来强调或幽默——这叫做夸张法。",
+    "zh_hant": "我們經常用誇張來強調或幽默——這叫做誇張法。"
   },
   {
     "index": 5,
     "text": "For example, people say, \"I am so hungry I could eat a horse.\"",
     "start": 27.1,
     "end": 31.962,
-    "zh": "例如，人们会说：“我饿得能吃下一匹马。”",
-    "zh_hant": "例如，人們會說：“我餓得能吃下一匹馬。”"
+    "zh": "例如，人们说，“我太饿了，能吃下一匹马。”",
+    "zh_hant": "例如，人們說，“我太餓了，能吃下一匹馬。”"
   },
   {
     "index": 6,
     "text": "But of course, no one really could.",
     "start": 31.842,
     "end": 34.063,
-    "zh": "但当然，没有人真的能做到。",
-    "zh_hant": "但當然，沒有人真的能做到。"
+    "zh": "但当然，没人真能做到。",
+    "zh_hant": "但當然，沒人真能做到。"
   },
   {
     "index": 7,
-    "text": "Here's presenter Michael Rosen and linguist Derek Bousfield",
+    "text": "Here's presenter Michael Rosen",
     "start": 34.243,
-    "end": 38.725,
-    "zh": "这里是主持人迈克尔·罗森和语言学家德里克·布斯菲尔德",
-    "zh_hant": "這裡是主持人邁克爾·羅森和語言學家德里克·布斯菲爾德"
+    "end": 36.564,
+    "zh": "这里是主持人迈克尔·罗森",
+    "zh_hant": "這裡是主持人邁克爾·羅森"
   },
   {
     "index": 8,
-    "text": "discussing one example of hyperbole on BBC Radio 4's Word of Mouth.",
-    "start": 38.585,
-    "end": 43.948,
-    "zh": "在BBC广播4台的《口口相传》节目中讨论一个夸张的例子。",
-    "zh_hant": "在BBC廣播4臺的《口口相傳》節目中討論一個誇張的例子。"
+    "text": "and linguist Derek Bousfield discussing one example of hyperbole on BBC Radio",
+    "start": 36.244,
+    "end": 42.607,
+    "zh": "和语言学家德里克·布斯菲尔德在BBC广播",
+    "zh_hant": "和語言學家德里克·布斯菲爾德在BBC廣播"
   },
   {
     "index": 9,
-    "text": "People do say \"absolute nightmare.\"",
-    "start": 43.848,
-    "end": 46.129,
-    "zh": "人们确实会说“彻头彻尾的噩梦”。",
-    "zh_hant": "人們確實會說“徹頭徹尾的噩夢”。"
+    "text": "4's Word of Mouth.",
+    "start": 42.487,
+    "end": 43.948,
+    "zh": "4台的《口耳相传》中讨论一个夸张的例子。",
+    "zh_hant": "4臺的《口耳相傳》中討論一個誇張的例子。"
   },
   {
     "index": 10,
-    "text": "Yeah, or as my daughters would say, \"I've had a mare today.\"",
-    "start": 45.889,
-    "end": 49.531,
-    "zh": "是的，或者就像我女儿们会说的：“我今天倒霉透了。”",
-    "zh_hant": "是的，或者就像我女兒們會說的：“我今天倒黴透了。”"
+    "text": "People do say \"absolute nightmare.\"",
+    "start": 43.848,
+    "end": 46.129,
+    "zh": "人们确实会说“绝对的噩梦。”",
+    "zh_hant": "人們確實會說“絕對的噩夢。”"
   },
   {
     "index": 11,
-    "text": "And when they say mare, which is obviously shortened for nightmare,",
-    "start": 49.181,
-    "end": 51.752,
-    "zh": "当她们说mare这个词，显然是nightmare的缩写，",
-    "zh_hant": "當她們說mare這個詞，顯然是nightmare的縮寫，"
+    "text": "Yeah, or as my daughters would say, \"I've had a mare today.\"",
+    "start": 45.889,
+    "end": 49.531,
+    "zh": "是的，或者像我女儿会说的，“我今天真是糟透了。”",
+    "zh_hant": "是的，或者像我女兒會說的，“我今天真是糟透了。”"
   },
   {
     "index": 12,
-    "text": "what it basically means is they've had a mild and potentially slightly humorous occurrence at work.",
-    "start": 51.402,
-    "end": 56.734,
-    "zh": "它基本上意思是她们在工作中遇到了轻微且可能有点好笑的小事。",
-    "zh_hant": "它基本上意思是她們在工作中遇到了輕微且可能有點好笑的小事。"
+    "text": "And when they say mare, which is obviously shortened for nightmare,",
+    "start": 49.181,
+    "end": 51.752,
+    "zh": "当她们说mare，这显然是nightmare的缩写，",
+    "zh_hant": "當她們說mare，這顯然是nightmare的縮寫，"
   },
   {
     "index": 13,
-    "text": "You might call an unpleasant or difficult experience a nightmare.",
-    "start": 56.715,
-    "end": 60.916,
-    "zh": "你可以把不愉快或困难的经历称为噩梦。",
-    "zh_hant": "你可以把不愉快或困難的經歷稱為噩夢。"
+    "text": "what it basically means is they've had a mild and potentially slightly humorous occurrence at work.",
+    "start": 51.402,
+    "end": 56.734,
+    "zh": "它基本上意味着她们在工作中遇到了一点轻微且可能有点好笑的事。",
+    "zh_hant": "它基本上意味著她們在工作中遇到了一點輕微且可能有點好笑的事。"
   },
   {
     "index": 14,
-    "text": "Derek's daughter used the word mare, short for nightmare, to describe her terrible day at work.",
-    "start": 60.857,
-    "end": 66.699,
-    "zh": "德里克的女儿用了mare这个词，是nightmare的简称，来形容她糟糕的工作日。",
-    "zh_hant": "德里克的女兒用了mare這個詞，是nightmare的簡稱，來形容她糟糕的工作日。"
+    "text": "You might call an unpleasant or difficult experience a nightmare.",
+    "start": 56.715,
+    "end": 60.916,
+    "zh": "你可能会称一次不愉快或困难的经历为噩梦。",
+    "zh_hant": "你可能會稱一次不愉快或困難的經歷為噩夢。"
   },
   {
     "index": 15,
-    "text": "But she was exaggerating.",
-    "start": 66.599,
-    "end": 68.42,
-    "zh": "但她是在夸大其词。",
-    "zh_hant": "但她是在誇大其詞。"
+    "text": "Derek's daughter used the word mare, short for nightmare, to describe her terrible day at work.",
+    "start": 60.857,
+    "end": 66.699,
+    "zh": "德里克的女儿用了mare这个词，是nightmare的缩写，来描述她糟糕的工作日。",
+    "zh_hant": "德里克的女兒用了mare這個詞，是nightmare的縮寫，來描述她糟糕的工作日。"
   },
   {
     "index": 16,
-    "text": "Her day wasn't really terrible, more like strange or annoying.",
-    "start": 68.07,
-    "end": 72.502,
-    "zh": "她的一天并不是真的糟糕，更像是奇怪或令人烦恼。",
-    "zh_hant": "她的一天並不是真的糟糕，更像是奇怪或令人煩惱。"
+    "text": "But she was exaggerating.",
+    "start": 66.599,
+    "end": 68.42,
+    "zh": "但她是在夸张。",
+    "zh_hant": "但她是在誇張。"
   },
   {
     "index": 17,
-    "text": "Can you remember a time when what you said wasn't really what you meant, Beth?",
-    "start": 72.622,
-    "end": 76.484,
-    "zh": "贝丝，你能记得有哪次你说的话并不是你真心的意思吗？",
-    "zh_hant": "貝絲，你能記得有哪次你說的話並不是你真心的意思嗎？"
+    "text": "Her day wasn't really terrible, more like strange or annoying.",
+    "start": 68.07,
+    "end": 72.502,
+    "zh": "她的日子并不真的糟糕，更像是奇怪或烦人。",
+    "zh_hant": "她的日子並不真的糟糕，更像是奇怪或煩人。"
   },
   {
     "index": 18,
-    "text": "Well, sometimes we say, hi, you all right?",
-    "start": 76.564,
-    "end": 79.746,
-    "zh": "嗯，有时我们会说：“嗨，你好吗？”",
-    "zh_hant": "嗯，有時我們會說：“嗨，你好嗎？”"
+    "text": "Can you remember a time when what you said wasn't really what you meant, Beth?",
+    "start": 72.622,
+    "end": 76.484,
+    "zh": "贝丝，你能记得什么时候你说的并不是你真正想的意思吗？",
+    "zh_hant": "貝絲，你能記得什麼時候你說的並不是你真正想的意思嗎？"
   },
   {
     "index": 19,
-    "text": "Which means, hi, are you all right?",
-    "start": 79.396,
-    "end": 81.687,
-    "zh": "意思是：“嗨，你还好吗？”",
-    "zh_hant": "意思是：“嗨，你還好嗎？”"
+    "text": "Well, sometimes we say, hi, you all right?",
+    "start": 76.564,
+    "end": 79.746,
+    "zh": "嗯，有时我们会说，嗨，你好吗？",
+    "zh_hant": "嗯，有時我們會說，嗨，你好嗎？"
   },
   {
     "index": 20,
+    "text": "Which means, hi, are you all right?",
+    "start": 79.396,
+    "end": 81.687,
+    "zh": "意思是，嗨，你还好吗？",
+    "zh_hant": "意思是，嗨，你還好嗎？"
+  },
+  {
+    "index": 21,
     "text": "Like, are you OK?",
     "start": 81.337,
     "end": 82.367,
@@ -168,55 +176,55 @@
     "zh_hant": "就像，你沒事吧？"
   },
   {
-    "index": 21,
+    "index": 22,
     "text": "But actually we don't really want to hear the answer.",
     "start": 82.147,
     "end": 86.349,
-    "zh": "但实际上我们并不真的想听到答案。",
-    "zh_hant": "但實際上我們並不真的想聽到答案。"
-  },
-  {
-    "index": 22,
-    "text": "It just means hello, doesn't it?",
-    "start": 86.329,
-    "end": 88.01,
-    "zh": "它只是意味着你好，不是吗？",
-    "zh_hant": "它只是意味著你好，不是嗎？"
+    "zh": "但实际上我们并不真的想听答案。",
+    "zh_hant": "但實際上我們並不真的想聽答案。"
   },
   {
     "index": 23,
-    "text": "Yeah, I have a friend who actually just says, alright, and they just mean hello.",
-    "start": 88.271,
-    "end": 92.592,
-    "zh": "是的，我有一个朋友实际上只说“好”，意思就是“你好”。",
-    "zh_hant": "是的，我有一個朋友實際上只說“好”，意思就是“你好”。"
+    "text": "It just means hello, doesn't it?",
+    "start": 86.329,
+    "end": 88.01,
+    "zh": "它只是意味着你好，对吧？",
+    "zh_hant": "它只是意味著你好，對吧？"
   },
   {
     "index": 24,
-    "text": "They don't mean, are you okay?",
-    "start": 92.292,
-    "end": 94.533,
-    "zh": "他们并不是指“你还好吗？”",
-    "zh_hant": "他們並不是指“你還好嗎？”"
+    "text": "Yeah, I have a friend who actually just says, alright, and they just mean hello.",
+    "start": 88.271,
+    "end": 92.592,
+    "zh": "是的，我有一个朋友其实只说“好”，他们只是指你好。",
+    "zh_hant": "是的，我有一個朋友其實只說“好”，他們只是指你好。"
   },
   {
     "index": 25,
-    "text": "They don't want to hear about my day.",
-    "start": 94.554,
-    "end": 96.334,
-    "zh": "他们不想听关于我一天的事情。",
-    "zh_hant": "他們不想聽關於我一天的事情。"
+    "text": "They don't mean, are you okay?",
+    "start": 92.292,
+    "end": 94.533,
+    "zh": "他们不是指，你没事吧？",
+    "zh_hant": "他們不是指，你沒事吧？"
   },
   {
     "index": 26,
-    "text": "No, if you're having a bad day, they don't want to know.",
-    "start": 96.254,
-    "end": 99.356,
-    "zh": "不，如果你过得不好，他们也不想知道。",
-    "zh_hant": "不，如果你過得不好，他們也不想知道。"
+    "text": "They don't want to hear about my day.",
+    "start": 94.554,
+    "end": 96.334,
+    "zh": "他们不想听我的一天。",
+    "zh_hant": "他們不想聽我的一天。"
   },
   {
     "index": 27,
+    "text": "No, if you're having a bad day, they don't want to know.",
+    "start": 96.254,
+    "end": 99.356,
+    "zh": "不，如果你过得不好，他们不想知道。",
+    "zh_hant": "不，如果你過得不好，他們不想知道。"
+  },
+  {
+    "index": 28,
     "text": "They're just saying hello.",
     "start": 99.006,
     "end": 100.496,
@@ -224,36 +232,28 @@
     "zh_hant": "他們只是打個招呼。"
   },
   {
-    "index": 28,
+    "index": 29,
     "text": "In this episode, we'll be finding out more about how the meaning of words changes in English.",
     "start": 100.476,
     "end": 106.879,
-    "zh": "在本集节目中，我们将了解更多关于英语中词义如何变化的内容。",
-    "zh_hant": "在本集節目中，我們將瞭解更多關於英語中詞義如何變化的內容。"
-  },
-  {
-    "index": 29,
-    "text": "As usual, we'll be learning some useful new words and phrases, and remember,",
-    "start": 106.84,
-    "end": 111.862,
-    "zh": "像往常一样，我们会学习一些有用的新单词和短语，并记住，",
-    "zh_hant": "像往常一樣，我們會學習一些有用的新單詞和短語，並記住，"
+    "zh": "在这一集中，我们将了解更多关于英语中词义如何变化的内容。",
+    "zh_hant": "在這一集中，我們將瞭解更多關於英語中詞義如何變化的內容。"
   },
   {
     "index": 30,
-    "text": "you'll find all the vocabulary from this episode on our website,",
-    "start": 111.582,
-    "end": 115.944,
-    "zh": "你会在我们的网站上找到本集的所有词汇，",
-    "zh_hant": "你會在我們的網站上找到本集的所有詞彙，"
+    "text": "As usual, we'll be learning some useful new words and phrases, and remember,",
+    "start": 106.84,
+    "end": 111.862,
+    "zh": "像往常一样，我们会学到一些有用的新单词和短语，记住，",
+    "zh_hant": "像往常一樣，我們會學到一些有用的新單詞和短語，記住，"
   },
   {
     "index": 31,
-    "text": "bbclearningenglish.com.",
-    "start": 115.864,
+    "text": "you'll find all the vocabulary from this episode on our website, bbclearningenglish.com.",
+    "start": 111.582,
     "end": 118.225,
-    "zh": "bbclearningenglish.com。",
-    "zh_hant": "bbclearningenglish.com。"
+    "zh": "你会在我们网站bbclearningenglish.com上找到这一集的所有词汇。",
+    "zh_hant": "你會在我們網站bbclearningenglish.com上找到這一集的所有詞彙。"
   },
   {
     "index": 32,
@@ -265,46 +265,38 @@
   },
   {
     "index": 33,
-    "text": "The word hyperbole comes from two ancient Greek words, hupa and balo,",
+    "text": "The word hyperbole comes from two ancient Greek words,",
     "start": 121.207,
-    "end": 126.929,
-    "zh": "hyperbole这个词来自两个古希腊词，hupa和balo，",
-    "zh_hant": "hyperbole這個詞來自兩個古希臘詞，hupa和balo，"
+    "end": 125.328,
+    "zh": "hyperbole这个词来自两个古希腊词，",
+    "zh_hant": "hyperbole這個詞來自兩個古希臘詞，"
   },
   {
     "index": 34,
-    "text": "but what is their literal meaning?",
-    "start": 127.029,
+    "text": "hupa and balo, but what is their literal meaning?",
+    "start": 125.109,
     "end": 129.451,
-    "zh": "但它们的字面意思是什么？",
-    "zh_hant": "但它們的字面意思是什麼？"
+    "zh": "hupa和balo，但它们字面意思是什么？",
+    "zh_hant": "hupa和balo，但它們字面意思是什麼？"
   },
   {
     "index": 35,
-    "text": "Is it a, to overthrow, b, to overspeak, or c,",
+    "text": "Is it a, to overthrow, b, to overspeak, or c, to overthink?",
     "start": 129.471,
-    "end": 135.034,
-    "zh": "是a，推翻，b，说过头，还是c，",
-    "zh_hant": "是a，推翻，b，說過頭，還是c，"
+    "end": 136.615,
+    "zh": "是a，推翻，b，说过头，还是c，想太多？",
+    "zh_hant": "是a，推翻，b，說過頭，還是c，想太多？"
   },
   {
     "index": 36,
-    "text": "to overthink?",
-    "start": 135.054,
-    "end": 136.615,
-    "zh": "想太多？",
-    "zh_hant": "想太多？"
-  },
-  {
-    "index": 37,
     "text": "I have no idea, Pippa.",
     "start": 137.095,
     "end": 139.196,
-    "zh": "我完全不知道，皮帕。",
-    "zh_hant": "我完全不知道，皮帕。"
+    "zh": "我不知道，皮帕。",
+    "zh_hant": "我不知道，皮帕。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "I'm going to say to overspeak.",
     "start": 139.096,
     "end": 141.557,
@@ -312,7 +304,7 @@
     "zh_hant": "我猜是說過頭。"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "OK, we'll find out the answer at the end of the programme.",
     "start": 141.878,
     "end": 144.959,
@@ -320,47 +312,47 @@
     "zh_hant": "好的，我們會在節目結束時揭曉答案。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "It's not just hyperbole that changes the meaning of words.",
     "start": 145.179,
     "end": 149.361,
-    "zh": "改变词义的不仅仅是夸张。",
-    "zh_hant": "改變詞義的不僅僅是誇張。"
+    "zh": "不仅仅是夸张改变了词义。",
+    "zh_hant": "不僅僅是誇張改變了詞義。"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "Its opposite, something called understatement, has the same effect too.",
     "start": 149.282,
     "end": 153.644,
-    "zh": "它的对立面，所谓的低调陈述，也有同样的效果。",
-    "zh_hant": "它的對立面，所謂的低調陳述，也有同樣的效果。"
+    "zh": "它的反面，叫做低调陈述，也有同样的效果。",
+    "zh_hant": "它的反面，叫做低調陳述，也有同樣的效果。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "Understatement involves de-emphasising something.",
     "start": 153.904,
     "end": 157.165,
-    "zh": "低调陈述涉及对某事进行弱化。",
-    "zh_hant": "低調陳述涉及對某事進行弱化。"
+    "zh": "低调陈述涉及弱化某事。",
+    "zh_hant": "低調陳述涉及弱化某事。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "For example, imagine you were served an awful meal in a restaurant,",
     "start": 156.885,
     "end": 160.947,
-    "zh": "例如，想象你在餐厅吃到一顿糟糕的饭，",
-    "zh_hant": "例如，想象你在餐廳吃到一頓糟糕的飯，"
+    "zh": "例如，想象你在餐馆吃到了一顿糟糕的饭，",
+    "zh_hant": "例如，想象你在餐館吃到了一頓糟糕的飯，"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "but instead of saying how bad the food was, you just said it was less than perfect.",
     "start": 160.787,
     "end": 166.05,
-    "zh": "但你没有说食物有多差，只是说它不够完美。",
-    "zh_hant": "但你沒有說食物有多差，只是說它不夠完美。"
+    "zh": "但没说食物有多差，你只说它不够完美。",
+    "zh_hant": "但沒說食物有多差，你只說它不夠完美。"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "We love understatement as a way of kind of signalling that something much more serious has gone on.",
     "start": 172.29,
     "end": 177.933,
@@ -368,79 +360,71 @@
     "zh_hant": "我們喜歡用低調陳述來暗示發生了更嚴重的事情。"
   },
   {
-    "index": 46,
-    "text": "It's a kind of performative, sardonic, not-taking-oneself-too-seriously",
+    "index": 45,
+    "text": "It's a kind of performative, sardonic, not-taking-oneself-too-seriously identity when you do that,",
     "start": 177.583,
-    "end": 183.135,
-    "zh": "当你这样做的时候，这是一种表演性的、讽刺的、不把自己太当回事的",
-    "zh_hant": "當你這樣做的時候，這是一種表演性的、諷刺的、不把自己太當回事的"
-  },
-  {
-    "index": 47,
-    "text": "identity when you do that,",
-    "start": 182.796,
     "end": 184.316,
-    "zh": "身份表达，",
-    "zh_hant": "身份表達，"
+    "zh": "当你这样做时，这体现了一种做作的、讽刺的、不自视过高的身份，",
+    "zh_hant": "當你這樣做時，這體現了一種做作的、諷刺的、不自視過高的身份，"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "because taking yourself too seriously is a no-no in British culture.",
     "start": 184.276,
     "end": 188.118,
-    "zh": "因为在英国文化中，把自己太当回事是禁忌。",
-    "zh_hant": "因為在英國文化中，把自己太當回事是禁忌。"
+    "zh": "因为自视过高在英国文化中是大忌。",
+    "zh_hant": "因為自視過高在英國文化中是大忌。"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "Yes, and so linguistically, not taking yourself too seriously is really the done thing.",
     "start": 187.958,
     "end": 192.54,
-    "zh": "是的，所以从语言上讲，不把自己太当回事确实是得体之举。",
-    "zh_hant": "是的，所以從語言上講，不把自己太當回事確實是得體之舉。"
+    "zh": "是的，所以在语言上，不自视过高确实是得体之举。",
+    "zh_hant": "是的，所以在語言上，不自視過高確實是得體之舉。"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "Understatement is valued in British culture, unlike taking yourself too seriously.",
     "start": 192.66,
     "end": 199.063,
-    "zh": "在英国文化中，低调陈述是受重视的，不像把自己太当回事。",
-    "zh_hant": "在英國文化中，低調陳述是受重視的，不像把自己太當回事。"
+    "zh": "低调陈述在英国文化中受到重视，不像自视过高。",
+    "zh_hant": "低調陳述在英國文化中受到重視，不像自視過高。"
   },
   {
-    "index": 51,
+    "index": 49,
     "text": "If you take yourself too seriously, you think you're more important than you really are.",
     "start": 199.244,
     "end": 204.766,
-    "zh": "如果你把自己太当回事，你会认为自己比自己实际上更重要。",
-    "zh_hant": "如果你把自己太當回事，你會認為自己比自己實際上更重要。"
+    "zh": "如果你自视过高，你会认为自己比实际更重要。",
+    "zh_hant": "如果你自視過高，你會認為自己比實際更重要。"
   },
   {
-    "index": 52,
+    "index": 50,
     "text": "In Britain, this is a no-no – a way of behaving that is not socially acceptable.",
     "start": 204.966,
     "end": 211.029,
-    "zh": "在英国，这是no-no——一种在社会上不被接受的行为方式。",
-    "zh_hant": "在英國，這是no-no——一種在社會上不被接受的行為方式。"
+    "zh": "在英国，这是大忌——一种社交上不可接受的行为方式。",
+    "zh_hant": "在英國，這是大忌——一種社交上不可接受的行為方式。"
   },
   {
-    "index": 53,
+    "index": 51,
     "text": "In other words, it's not the done thing,",
     "start": 211.21,
     "end": 213.871,
-    "zh": "换句话说，这不是the done thing，",
-    "zh_hant": "換句話說，這不是the done thing，"
+    "zh": "换句话说，这不是得体之举，",
+    "zh_hant": "換句話說，這不是得體之舉，"
   },
   {
-    "index": 54,
+    "index": 52,
     "text": "meaning it's not what you're expected to do in a particular social situation.",
     "start": 213.851,
     "end": 218.853,
-    "zh": "意思是在特定社交场合下，这不是你被期望做的事情。",
-    "zh_hant": "意思是在特定社交場合下，這不是你被期望做的事情。"
+    "zh": "意思是这不是你在特定社交场合应该做的事。",
+    "zh_hant": "意思是這不是你在特定社交場合應該做的事。"
   },
   {
-    "index": 55,
+    "index": 53,
     "text": "Another area where the meaning of words can be easily misunderstood is apologising.",
     "start": 219.034,
     "end": 224.596,
@@ -448,47 +432,39 @@
     "zh_hant": "另一個詞義容易被誤解的領域是道歉。"
   },
   {
-    "index": 56,
-    "text": "Here, Michael Rosen responds to an imaginary situation",
+    "index": 54,
+    "text": "Here, Michael Rosen responds to an imaginary situation where his toe gets accidentally",
     "start": 224.516,
-    "end": 228.078,
-    "zh": "在这里，迈克尔·罗森回应一个假设的场景，",
-    "zh_hant": "在這裡，邁克爾·羅森回應一個假設的場景，"
+    "end": 230.119,
+    "zh": "在这里，迈克尔·罗森回应一个假想情况，他的脚趾被德里克·布斯菲尔德",
+    "zh_hant": "在這裡，邁克爾·羅森回應一個假想情況，他的腳趾被德里克·布斯菲爾德"
   },
   {
-    "index": 57,
-    "text": "where his toe gets accidentally stepped on by Derek Bousfield",
-    "start": 227.728,
-    "end": 231.82,
-    "zh": "他的脚趾被德里克·布斯菲尔德不小心踩到，",
-    "zh_hant": "他的腳趾被德里克·布斯菲爾德不小心踩到，"
-  },
-  {
-    "index": 58,
-    "text": "for BBC Radio 4 programme Word of Mouth.",
-    "start": 231.52,
+    "index": 55,
+    "text": "stepped on by Derek Bousfield for BBC Radio 4 programme Word of Mouth.",
+    "start": 229.769,
     "end": 234.501,
-    "zh": "这是为BBC广播4台的《口口相传》节目。",
-    "zh_hant": "這是為BBC廣播4臺的《口口相傳》節目。"
+    "zh": "不小心踩到，为BBC广播4台节目《口耳相传》。",
+    "zh_hant": "不小心踩到，為BBC廣播4臺節目《口耳相傳》。"
   },
   {
-    "index": 59,
+    "index": 56,
     "text": "Imagine I stepped on your toe and I said, \"Michael, I'm really sorry,\" and you said, \"It's all good.\"",
     "start": 234.521,
     "end": 239.644,
-    "zh": "想象我踩了你的脚趾，我说：“迈克尔，我真的很抱歉，”你说：“没事。”",
-    "zh_hant": "想象我踩了你的腳趾，我說：“邁克爾，我真的很抱歉，”你說：“沒事。”"
+    "zh": "想象我踩了你的脚趾，我说，“迈克尔，我真对不起，”然后你说，“没事。”",
+    "zh_hant": "想象我踩了你的腳趾，我說，“邁克爾，我真對不起，”然後你說，“沒事。”"
   },
   {
-    "index": 60,
+    "index": 57,
     "text": "Oh, right.",
     "start": 239.544,
     "end": 240.864,
-    "zh": "哦，对。",
-    "zh_hant": "哦，對。"
+    "zh": "哦，这样。",
+    "zh_hant": "哦，這樣。"
   },
   {
-    "index": 61,
+    "index": 58,
     "text": "That probably means it isn't.",
     "start": 240.804,
     "end": 242.625,
@@ -496,31 +472,31 @@
     "zh_hant": "那可能意味著其實不是沒事。"
   },
   {
-    "index": 62,
+    "index": 59,
     "text": "Yes, I'm actually a bit miffed, a little bit annoyed, but then I don't want to have a Barney with you.",
     "start": 243.126,
     "end": 248.428,
-    "zh": "是的，我其实有点不高兴，有点恼火，但我不想和你吵架。",
-    "zh_hant": "是的，我其實有點不高興，有點惱火，但我不想和你吵架。"
+    "zh": "是的，我其实有点不高兴，有点生气，但我不想和你吵架。",
+    "zh_hant": "是的，我其實有點不高興，有點生氣，但我不想和你吵架。"
   },
   {
-    "index": 63,
+    "index": 60,
     "text": "You're a stranger, so I don't want to get into a whole thing.",
     "start": 248.208,
     "end": 251.189,
-    "zh": "你是陌生人，所以我不想把事情闹大。",
-    "zh_hant": "你是陌生人，所以我不想把事情鬧大。"
+    "zh": "你是陌生人，所以我不想纠缠起来。",
+    "zh_hant": "你是陌生人，所以我不想糾纏起來。"
   },
   {
-    "index": 64,
+    "index": 61,
     "text": "So I say, yeah, it's all good.",
     "start": 251.17,
     "end": 253.351,
-    "zh": "所以我说：“嗯，没事。”",
-    "zh_hant": "所以我說：“嗯，沒事。”"
+    "zh": "所以我说，是的，没事。",
+    "zh_hant": "所以我說，是的，沒事。"
   },
   {
-    "index": 65,
+    "index": 62,
     "text": "It's all good, exactly.",
     "start": 253.011,
     "end": 254.291,
@@ -528,119 +504,119 @@
     "zh_hant": "沒事，正是如此。"
   },
   {
-    "index": 66,
+    "index": 63,
     "text": "It's a bit like, I mean, that's a British English one, an equivalent American English one would be no worries.",
     "start": 253.941,
     "end": 258.613,
-    "zh": "这有点像，我是说，这是英式英语的说法，对应的美式英语可能是no worries。",
-    "zh_hant": "這有點像，我是說，這是英式英語的說法，對應的美式英語可能是no worries。"
+    "zh": "这有点像，我的意思是，这是英式英语的说法，美式英语的对应说法是no worries。",
+    "zh_hant": "這有點像，我的意思是，這是英式英語的說法，美式英語的對應說法是no worries。"
   },
   {
-    "index": 67,
+    "index": 64,
     "text": "If someone tells you it's all good, they could actually be feeling miffed,",
     "start": 258.734,
     "end": 263.916,
-    "zh": "如果有人告诉你“没事”，他们实际上可能在生气，",
-    "zh_hant": "如果有人告訴你“沒事”，他們實際上可能在生氣，"
+    "zh": "如果有人告诉你“没事”，他们可能其实感到不高兴，",
+    "zh_hant": "如果有人告訴你“沒事”，他們可能其實感到不高興，"
   },
   {
-    "index": 68,
+    "index": 65,
     "text": "an adjective meaning slightly annoyed or hurt by someone's behaviour.",
     "start": 263.796,
     "end": 268.498,
-    "zh": "这是一个形容词，意思是因为某人的行为而稍感恼火或受伤。",
-    "zh_hant": "這是一個形容詞，意思是因為某人的行為而稍感惱火或受傷。"
+    "zh": "这是一个形容词，意思是被某人的行为稍微惹恼或伤害。",
+    "zh_hant": "這是一個形容詞，意思是被某人的行為稍微惹惱或傷害。"
   },
   {
-    "index": 69,
+    "index": 66,
     "text": "But no matter how annoyed you are,",
     "start": 268.619,
     "end": 271.16,
-    "zh": "但无论你多么恼火，",
-    "zh_hant": "但無論你多麼惱火，"
+    "zh": "但无论你有多生气，",
+    "zh_hant": "但無論你有多生氣，"
   },
   {
-    "index": 70,
+    "index": 67,
     "text": "you probably don't want to get into a barney, a loud argument or quarrel.",
     "start": 270.81,
     "end": 275.882,
-    "zh": "你可能都不想陷入一场争吵，即大声的争论或吵架。",
-    "zh_hant": "你可能都不想陷入一場爭吵，即大聲的爭論或吵架。"
+    "zh": "你可能不想陷入一场barney，即一场大声的争执或争吵。",
+    "zh_hant": "你可能不想陷入一場barney，即一場大聲的爭執或爭吵。"
   },
   {
-    "index": 71,
+    "index": 68,
     "text": "So you say something like, it's all good, or no worries, and move on.",
     "start": 275.802,
     "end": 279.964,
-    "zh": "所以你就说“没事”或“别担心”，然后继续前进。",
-    "zh_hant": "所以你就說“沒事”或“別擔心”，然後繼續前進。"
+    "zh": "所以你会说像“没事”或“别担心”之类的话，然后继续往前走。",
+    "zh_hant": "所以你會說像“沒事”或“別擔心”之類的話，然後繼續往前走。"
   },
   {
-    "index": 72,
+    "index": 69,
     "text": "As an English learner, unclear word meanings are a challenge.",
     "start": 280.204,
     "end": 284.626,
-    "zh": "作为英语学习者，不清楚的词义是一个挑战。",
-    "zh_hant": "作為英語學習者，不清楚的詞義是一個挑戰。"
+    "zh": "作为英语学习者，含义不清的词是一个挑战。",
+    "zh_hant": "作為英語學習者，含義不清的詞是一個挑戰。"
   },
   {
-    "index": 73,
+    "index": 70,
     "text": "A lot depends on the situation and on the relationship between speaker and listener.",
     "start": 284.606,
     "end": 290.009,
-    "zh": "很多取决于情境以及说话者和听者之间的关系。",
-    "zh_hant": "很多取決於情境以及說話者和聽者之間的關係。"
+    "zh": "很大程度上取决于情境以及说话者和听者之间的关系。",
+    "zh_hant": "很大程度上取決於情境以及說話者和聽者之間的關係。"
   },
   {
-    "index": 74,
+    "index": 71,
     "text": "So don't be shy, get talking to others in English.",
     "start": 290.009,
     "end": 293.611,
-    "zh": "所以不要害羞，用英语和别人多交流。",
-    "zh_hant": "所以不要害羞，用英語和別人多交流。"
+    "zh": "所以不要害羞，去和别人用英语交谈。",
+    "zh_hant": "所以不要害羞，去和別人用英語交談。"
   },
   {
-    "index": 75,
+    "index": 72,
     "text": "And if you make a mistake, say no worries and carry on.",
     "start": 293.611,
     "end": 297.173,
-    "zh": "如果你犯了错，就说“别担心”，然后继续。",
-    "zh_hant": "如果你犯了錯，就說“別擔心”，然後繼續。"
+    "zh": "如果你犯了错误，说声“别担心”然后继续。",
+    "zh_hant": "如果你犯了錯誤，說聲“別擔心”然後繼續。"
   },
   {
-    "index": 76,
+    "index": 73,
     "text": "OK Pippa, I think it's time to reveal the answer to your question.",
     "start": 297.393,
     "end": 301.375,
-    "zh": "好的，皮帕，我想是时候揭晓你问题的答案了。",
-    "zh_hant": "好的，皮帕，我想是時候揭曉你問題的答案了。"
+    "zh": "好的皮帕，我想是时候揭晓你问题的答案了。",
+    "zh_hant": "好的皮帕，我想是時候揭曉你問題的答案了。"
   },
   {
-    "index": 77,
-    "text": "Yes, you thought the ancient Greek words hooper and ballo",
+    "index": 74,
+    "text": "Yes, you thought the ancient Greek words hooper and ballo meant over-speak,",
     "start": 301.715,
-    "end": 306.017,
-    "zh": "是的，你认为古希腊词hupa和balo",
-    "zh_hant": "是的，你認為古希臘詞hupa和balo"
+    "end": 307.798,
+    "zh": "是的，你猜古希腊词hooper和ballo意思是“说过头”，",
+    "zh_hant": "是的，你猜古希臘詞hooper和ballo意思是“說過頭”，"
   },
   {
-    "index": 78,
-    "text": "meant over-speak, but the answer was actually A – to overthrow.",
-    "start": 306.057,
+    "index": 75,
+    "text": "but the answer was actually A – to overthrow.",
+    "start": 307.638,
     "end": 311.22,
-    "zh": "意思是“说过头”，但答案实际上是A——推翻。",
-    "zh_hant": "意思是“說過頭”，但答案實際上是A——推翻。"
+    "zh": "但答案其实是A——推翻。",
+    "zh_hant": "但答案其實是A——推翻。"
   },
   {
-    "index": 79,
+    "index": 76,
     "text": "Hyperbole means beyond and ballo means I throw.",
     "start": 311.22,
     "end": 314.861,
-    "zh": "hyper意思是“超过”，ballo意思是“我扔”。",
-    "zh_hant": "hyper意思是“超過”，ballo意思是“我扔”。"
+    "zh": "Hyperbole意思是“超过”，ballo意思是“我扔”。",
+    "zh_hant": "Hyperbole意思是“超過”，ballo意思是“我扔”。"
   },
   {
-    "index": 80,
+    "index": 77,
     "text": "Oh well.",
     "start": 314.662,
     "end": 315.542,
@@ -648,103 +624,95 @@
     "zh_hant": "哦，好吧。"
   },
   {
-    "index": 81,
-    "text": "OK, let's recap the vocabulary we've learnt,",
+    "index": 78,
+    "text": "OK, let's recap the vocabulary we've learnt, starting with mare, short for nightmare,",
     "start": 315.522,
-    "end": 318.763,
-    "zh": "好的，让我们回顾一下我们学到的词汇，",
-    "zh_hant": "好的，讓我們回顧一下我們學到的詞彙，"
+    "end": 321.525,
+    "zh": "好的，让我们回顾一下学过的词汇，从mare开始，是nightmare的缩写，",
+    "zh_hant": "好的，讓我們回顧一下學過的詞彙，從mare開始，是nightmare的縮寫，"
   },
   {
-    "index": 82,
-    "text": "starting with mare, short for nightmare, meaning an unpleasant or difficult experience.",
-    "start": 318.504,
+    "index": 79,
+    "text": "meaning an unpleasant or difficult experience.",
+    "start": 321.445,
     "end": 324.886,
-    "zh": "从mare开始，它是nightmare的简称，意思是不愉快或困难的经历。",
-    "zh_hant": "從mare開始，它是nightmare的簡稱，意思是不愉快或困難的經歷。"
+    "zh": "意思是一次不愉快或困难的经历。",
+    "zh_hant": "意思是一次不愉快或困難的經歷。"
   },
   {
-    "index": 83,
+    "index": 80,
     "text": "If you take yourself too seriously, you consider yourself and your actions more important than they really are.",
     "start": 324.847,
     "end": 330.969,
-    "zh": "如果你把自己太当回事，你就会认为自己和自己的行为比实际更重要。",
-    "zh_hant": "如果你把自己太當回事，你就會認為自己和自己的行為比實際更重要。"
+    "zh": "如果你自视过高，你会认为自己和你的行动比实际更重要。",
+    "zh_hant": "如果你自視過高，你會認為自己和你的行動比實際更重要。"
   },
   {
-    "index": 84,
+    "index": 81,
     "text": "In Britain, this is a no-no, a way of behaving that is not socially acceptable.",
     "start": 330.93,
     "end": 335.752,
-    "zh": "在英国，这是no-no，一种在社会上不被接受的行为方式。",
-    "zh_hant": "在英國，這是no-no，一種在社會上不被接受的行為方式。"
+    "zh": "在英国，这是大忌——一种社交上不可接受的行为方式。",
+    "zh_hant": "在英國，這是大忌——一種社交上不可接受的行為方式。"
   },
   {
-    "index": 85,
-    "text": "The done thing, on the other hand, is what you are expected to do in a particular",
+    "index": 82,
+    "text": "The done thing, on the other hand, is what you are expected to do in a particular social situation.",
     "start": 335.633,
-    "end": 341.235,
-    "zh": "另一方面，the done thing是你被期望在特定",
-    "zh_hant": "另一方面，the done thing是你被期望在特定"
-  },
-  {
-    "index": 86,
-    "text": "social situation.",
-    "start": 340.885,
     "end": 342.296,
-    "zh": "社交场合下做的事情。",
-    "zh_hant": "社交場合下做的事情。"
+    "zh": "另一方面，得体之举是你在特定社交场合应该做的事。",
+    "zh_hant": "另一方面，得體之舉是你在特定社交場合應該做的事。"
   },
   {
-    "index": 87,
+    "index": 83,
     "text": "If you're miffed, you're slightly annoyed by someone's behaviour.",
     "start": 342.316,
     "end": 345.838,
-    "zh": "如果你感到miffed，你是对某人的行为稍感恼火。",
-    "zh_hant": "如果你感到miffed，你是對某人的行為稍感惱火。"
+    "zh": "如果你感到miffed，你就是被某人的行为稍微惹恼了。",
+    "zh_hant": "如果你感到miffed，你就是被某人的行為稍微惹惱了。"
   },
   {
-    "index": 88,
+    "index": 84,
     "text": "And finally, a barney is a loud argument or quarrel.",
     "start": 345.718,
     "end": 350.14,
-    "zh": "最后，barney是大声的争论或吵架。",
-    "zh_hant": "最後，barney是大聲的爭論或吵架。"
+    "zh": "最后，barney是一场大声的争执或争吵。",
+    "zh_hant": "最後，barney是一場大聲的爭執或爭吵。"
   },
   {
-    "index": 89,
+    "index": 85,
     "text": "Once again, our six minutes are up, but if you're keen to practice these new words and phrases,",
     "start": 350.621,
     "end": 356.504,
-    "zh": "再一次，我们的六分钟结束了，但如果你想练习这些新单词和短语，",
-    "zh_hant": "再一次，我們的六分鐘結束了，但如果你想練習這些新單詞和短語，"
+    "zh": "又一次，我们的六分钟结束了，但如果你想练习这些新单词和短语，",
+    "zh_hant": "又一次，我們的六分鐘結束了，但如果你想練習這些新單詞和短語，"
   },
   {
-    "index": 90,
-    "text": "then check out our website,",
+    "index": 86,
+    "text": "then check out our website, bbclearningenglish.com,",
     "start": 356.364,
-    "end": 358.305,
-    "zh": "那就看看我们的网站，",
-    "zh_hant": "那就看看我們的網站，"
+    "end": 360.666,
+    "zh": "那就看看我们的网站bbclearningenglish.com，",
+    "zh_hant": "那就看看我們的網站bbclearningenglish.com，"
   },
   {
-    "index": 91,
-    "text": "bbclearningenglish.com, where you'll find a worksheet and quiz for this episode.",
-    "start": 358.085,
+    "index": 87,
+    "text": "where you'll find a worksheet and quiz for this episode.",
+    "start": 360.686,
     "end": 364.288,
-    "zh": "bbclearningenglish.com，在那里你会找到本集的工作表和测验。",
-    "zh_hant": "bbclearningenglish.com，在那裡你會找到本集的工作表和測驗。"
+    "zh": "在那里你会找到这一集的工作表和测验。",
+    "zh_hant": "在那裡你會找到這一集的工作表和測驗。"
   },
   {
-    "index": 92,
+    "index": 88,
     "text": "See you again soon, but for now, goodbye!",
     "start": 364.308,
     "end": 367.07,
-    "zh": "我们很快再见，但暂时告别！",
-    "zh_hant": "我們很快再見，但暫時告別！"
+    "zh": "我们很快再见，但现在，再见！",
+    "zh_hant": "我們很快再見，但現在，再見！"
   },
   {
-    "index": 93,
+    "index": 89,
     "text": "Bye!",
     "start": 366.89,
     "end": 367.71,

@@ -4,8 +4,8 @@
     "text": "Hello, this is 6 Minute English from BBC Learning English.",
     "start": 7.871,
     "end": 11.652,
-    "zh": "你好，这里是BBC Learning English的六分钟英语。",
-    "zh_hant": "你好，這裡是BBC Learning English的六分鐘英語。"
+    "zh": "你好，这里是BBC英语学习的六分钟英语。",
+    "zh_hant": "你好，這裡是BBC英語學習的六分鐘英語。"
   },
   {
     "index": 1,
@@ -20,8 +20,8 @@
     "text": "And I'm Georgie.",
     "start": 12.013,
     "end": 13.393,
-    "zh": "我是乔吉。",
-    "zh_hant": "我是喬吉。"
+    "zh": "我是乔治。",
+    "zh_hant": "我是喬治。"
   },
   {
     "index": 3,
@@ -44,16 +44,16 @@
     "text": "I can't say that I enjoyed it much.",
     "start": 17.245,
     "end": 19.836,
-    "zh": "不过说不上喜欢。",
-    "zh_hant": "不過說不上喜歡。"
+    "zh": "不能说我很享受。",
+    "zh_hant": "不能說我很享受。"
   },
   {
     "index": 6,
     "text": "I was a bit scared to be honest.",
     "start": 19.696,
     "end": 21.537,
-    "zh": "说实话，我当时有点害怕。",
-    "zh_hant": "說實話，我當時有點害怕。"
+    "zh": "说实话我有点害怕。",
+    "zh_hant": "說實話我有點害怕。"
   },
   {
     "index": 7,
@@ -68,163 +68,147 @@
     "text": "I used to ride horses a lot actually.",
     "start": 22.498,
     "end": 24.719,
-    "zh": "其实我经常骑马。",
-    "zh_hant": "其實我經常騎馬。"
+    "zh": "其实我以前经常骑马。",
+    "zh_hant": "其實我以前經常騎馬。"
   },
   {
     "index": 9,
     "text": "My favourite thing was to ride a horse through the countryside.",
     "start": 25.259,
     "end": 29.061,
-    "zh": "我最喜欢的就是骑马穿过乡村。",
-    "zh_hant": "我最喜歡的就是騎馬穿過鄉村。"
+    "zh": "我最喜欢的事就是骑马穿过乡村。",
+    "zh_hant": "我最喜歡的事就是騎馬穿過鄉村。"
   },
   {
     "index": 10,
     "text": "I love horses, they're so majestic and lovely.",
     "start": 29.161,
     "end": 32.222,
-    "zh": "我喜欢马，它们既威严又可爱。",
-    "zh_hant": "我喜歡馬，它們既威嚴又可愛。"
+    "zh": "我喜欢马，它们太雄伟可爱了。",
+    "zh_hant": "我喜歡馬，它們太雄偉可愛了。"
   },
   {
     "index": 11,
     "text": "The relationship between humans and horses has been close throughout history,",
     "start": 32.403,
     "end": 36.424,
-    "zh": "人类和马之间的关系在历史上一直很密切，",
-    "zh_hant": "人類和馬之間的關係在歷史上一直很密切，"
+    "zh": "人类和马的关系在历史上一直很密切，",
+    "zh_hant": "人類和馬的關係在歷史上一直很密切，"
   },
   {
     "index": 12,
     "text": "but recently this has gone beyond riding horses for fun or using them for work.",
     "start": 36.265,
     "end": 41.047,
-    "zh": "但最近这种关系已经超越了骑马娱乐或劳作。",
-    "zh_hant": "但最近這種關係已經超越了騎馬娛樂或勞作。"
+    "zh": "但最近这已经超越了骑马玩乐或用它们工作。",
+    "zh_hant": "但最近這已經超越了騎馬玩樂或用它們工作。"
   },
   {
     "index": 13,
-    "text": "Equine-assisted services, sometimes called horse therapy,",
+    "text": "Equine-assisted services, sometimes called horse therapy, is a health trend",
     "start": 41.107,
-    "end": 44.668,
-    "zh": "马辅助服务，有时也叫马疗法，",
-    "zh_hant": "馬輔助服務，有時也叫馬療法，"
+    "end": 45.969,
+    "zh": "马辅助服务，有时称为马疗法，是一种健康趋势，",
+    "zh_hant": "馬輔助服務，有時稱為馬療法，是一種健康趨勢，"
   },
   {
     "index": 14,
-    "text": "is a health trend where caring and interacting with horses",
-    "start": 44.649,
-    "end": 48.271,
-    "zh": "是一种健康趋势，通过照顾和与马互动",
-    "zh_hant": "是一種健康趨勢，透過照顧和與馬互動"
+    "text": "where caring and interacting with horses is used to heal physical and mental illness.",
+    "start": 45.709,
+    "end": 51.172,
+    "zh": "通过照料和与马互动来治疗身心疾病。",
+    "zh_hant": "透過照料和與馬互動來治療身心疾病。"
   },
   {
     "index": 15,
-    "text": "is used to heal physical and mental illness.",
-    "start": 48.151,
-    "end": 51.172,
-    "zh": "来治疗身体和心理疾病。",
-    "zh_hant": "來治療身體和心理疾病。"
-  },
-  {
-    "index": 16,
     "text": "Here's Daciani Navanayaga, presenter of BBC World Service programme The Conversation, to explain.",
     "start": 51.112,
     "end": 57.315,
-    "zh": "下面是BBC世界服务节目《对话》的主持人达希亚尼·纳瓦纳亚加的解释。",
-    "zh_hant": "下面是BBC世界服務節目《對話》的主持人達希亞尼·納瓦納亞加的解釋。"
+    "zh": "以下是BBC世界服务节目《对话》的主持人达西亚尼·纳瓦纳亚加的说明。",
+    "zh_hant": "以下是BBC世界服務節目《對話》的主持人達西亞尼·納瓦納亞加的說明。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Equine Assisted Services is now an umbrella term which encompasses a whole range of treatments",
     "start": 57.495,
     "end": 63.278,
-    "zh": "马辅助服务现在是一个总称，涵盖了各种治疗方法",
-    "zh_hant": "馬輔助服務現在是一個總稱，涵蓋了各種治療方法"
+    "zh": "马辅助服务现在是一个总括术语，涵盖一系列治疗，",
+    "zh_hant": "馬輔助服務現在是一個總括術語，涵蓋一系列治療，"
+  },
+  {
+    "index": 17,
+    "text": "involving activities and interactions with horses to promote better human wellbeing.",
+    "start": 63.138,
+    "end": 68.461,
+    "zh": "包括与马互动的活动，以促进人类福祉。",
+    "zh_hant": "包括與馬互動的活動，以促進人類福祉。"
   },
   {
     "index": 18,
-    "text": "involving",
-    "start": 63.138,
-    "end": 64.078,
-    "zh": "涉及",
-    "zh_hant": "涉及"
-  },
-  {
-    "index": 19,
-    "text": "activities and interactions with horses to promote better human wellbeing.",
-    "start": 63.728,
-    "end": 68.461,
-    "zh": "与马互动和活动，以促进人类更好的福祉。",
-    "zh_hant": "與馬互動和活動，以促進人類更好的福祉。"
-  },
-  {
-    "index": 20,
     "text": "Equine Assisted Services is an umbrella term,",
     "start": 68.501,
     "end": 71.982,
-    "zh": "马辅助服务是一个总称，",
-    "zh_hant": "馬輔助服務是一個總稱，"
+    "zh": "马辅助服务是一个总括术语，",
+    "zh_hant": "馬輔助服務是一個總括術語，"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "a term for a large number of different things which all belong to a single common category.",
     "start": 71.802,
     "end": 77.245,
-    "zh": "一个涵盖许多不同事物、但都属于单一共同类别的术语。",
-    "zh_hant": "一個涵蓋許多不同事物、但都屬於單一共同類別的術語。"
+    "zh": "指的是属于一个共同类别的许多不同事物的统称。",
+    "zh_hant": "指的是屬於一個共同類別的許多不同事物的統稱。"
+  },
+  {
+    "index": 20,
+    "text": "So, horse therapy includes many activities,",
+    "start": 77.245,
+    "end": 80.446,
+    "zh": "所以，马疗法包括许多活动，",
+    "zh_hant": "所以，馬療法包括許多活動，"
+  },
+  {
+    "index": 21,
+    "text": "from feeling the horse's movement, which can help children with muscle disorders like cerebral palsy,",
+    "start": 80.307,
+    "end": 85.929,
+    "zh": "从感受马的移动，这能帮助肌肉障碍儿童比如脑瘫患者，",
+    "zh_hant": "從感受馬的移動，這能幫助肌肉障礙兒童比如腦癱患者，"
   },
   {
     "index": 22,
-    "text": "So, horse therapy includes many activities, from feeling the horse's movement,",
-    "start": 77.245,
-    "end": 82.267,
-    "zh": "所以，马疗法包含许多活动，从感受马的移动——",
-    "zh_hant": "所以，馬療法包含許多活動，從感受馬的移動——"
-  },
-  {
-    "index": 23,
-    "text": "which can help children with muscle disorders like cerebral palsy,",
-    "start": 82.088,
-    "end": 85.929,
-    "zh": "这可以帮助患有脑瘫等肌肉疾病的儿童——",
-    "zh_hant": "這可以幫助患有腦癱等肌肉疾病的兒童——"
-  },
-  {
-    "index": 24,
     "text": "to simply grooming the horse, which can help calm anxiety.",
     "start": 85.869,
     "end": 89.792,
-    "zh": "到简单地为马梳毛，这有助于缓解焦虑。",
-    "zh_hant": "到簡單地為馬梳毛，這有助於緩解焦慮。"
+    "zh": "到简单的梳理马毛，这能帮助平静焦虑。",
+    "zh_hant": "到簡單的梳理馬毛，這能幫助平靜焦慮。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Grooming a horse means cleaning and brushing the horse's coat of hair.",
     "start": 89.892,
     "end": 93.874,
-    "zh": "给马梳毛意味着清洁和刷洗马的毛发。",
-    "zh_hant": "給馬梳毛意味著清潔和刷洗馬的毛髮。"
+    "zh": "梳理马匹意味着清洁和刷马的毛发。",
+    "zh_hant": "梳理馬匹意味著清潔和刷馬的毛髮。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Various animals can be used in therapy,",
     "start": 93.954,
     "end": 96.435,
-    "zh": "各种动物都可以用于治疗，",
-    "zh_hant": "各種動物都可以用於治療，"
+    "zh": "各种动物可以用于治疗，",
+    "zh_hant": "各種動物可以用於治療，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "but horses are particularly suitable as they're very sensitive to human emotions.",
     "start": 96.235,
     "end": 101.257,
-    "zh": "但马特别适合，因为它们对人类情绪非常敏感。",
-    "zh_hant": "但馬特別適合，因為它們對人類情緒非常敏感。"
+    "zh": "但马特别合适，因为它们对人类情绪非常敏感。",
+    "zh_hant": "但馬特別合適，因為它們對人類情緒非常敏感。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Being in contact with them affects the limbic area of the brain dealing with stress.",
     "start": 101.337,
     "end": 105.979,
@@ -232,79 +216,55 @@
     "zh_hant": "與它們接觸會影響大腦中處理壓力的邊緣區域。"
   },
   {
-    "index": 29,
-    "text": "In this episode, we'll hear more about the horses helping people work through mental,",
+    "index": 27,
+    "text": "In this episode, we'll hear more about the horses helping people work through mental, emotional, and physical challenges.",
     "start": 106.04,
-    "end": 110.962,
-    "zh": "在本期节目中，我们将听到更多关于马如何帮助人们克服心理、",
-    "zh_hant": "在本期節目中，我們將聽到更多關於馬如何幫助人們克服心理、"
-  },
-  {
-    "index": 30,
-    "text": "emotional, and physical challenges.",
-    "start": 110.822,
     "end": 113.083,
-    "zh": "情感和身体挑战的故事。",
-    "zh_hant": "情感和身體挑戰的故事。"
+    "zh": "在本期节目中，我们会听到更多关于帮助人们解决心理、情感和身体挑战的马的故事。",
+    "zh_hant": "在本期節目中，我們會聽到更多關於幫助人們解決心理、情感和身體挑戰的馬的故事。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "And as usual, we'll learn some useful new vocabulary.",
     "start": 113.023,
     "end": 116.405,
-    "zh": "和往常一样，我们还会学习一些有用的新词汇。",
-    "zh_hant": "和往常一樣，我們還會學習一些有用的新詞彙。"
+    "zh": "像往常一样，我们会学习一些有用的新词汇。",
+    "zh_hant": "像往常一樣，我們會學習一些有用的新詞彙。"
   },
   {
-    "index": 32,
-    "text": "And remember, you'll find all the words and phrases from this episode on our website,",
+    "index": 29,
+    "text": "And remember, you'll find all the words and phrases from this episode on our website, bbclearningenglish.com.",
     "start": 116.725,
-    "end": 121.427,
-    "zh": "记住，你可以在我们的网站上找到本期所有单词和短语，",
-    "zh_hant": "記住，你可以在我們的網站上找到本期所有單詞和短語，"
-  },
-  {
-    "index": 33,
-    "text": "bbclearningenglish.com.",
-    "start": 121.367,
     "end": 123.588,
-    "zh": "bbclearningenglish.com。",
-    "zh_hant": "bbclearningenglish.com。"
+    "zh": "记住，你会在我们的网站bbclearningenglish.com上找到本集的所有词汇和短语。",
+    "zh_hant": "記住，你會在我們的網站bbclearningenglish.com上找到本集的所有詞彙和短語。"
   },
   {
-    "index": 34,
+    "index": 30,
     "text": "But now I have a question for you, Neil.",
     "start": 123.388,
     "end": 126.069,
-    "zh": "但现在，我有个问题要问你，尼尔。",
-    "zh_hant": "但現在，我有個問題要問你，尼爾。"
+    "zh": "但现在我有个问题要问你，尼尔。",
+    "zh_hant": "但現在我有個問題要問你，尼爾。"
   },
   {
-    "index": 35,
-    "text": "We've heard some of the special qualities horses possess, but which of the following about horses",
+    "index": 31,
+    "text": "We've heard some of the special qualities horses possess, but which of the following about horses is also true?",
     "start": 126.09,
-    "end": 131.612,
-    "zh": "我们听到了马拥有的一些特殊品质，但下面关于马的哪项",
-    "zh_hant": "我們聽到了馬擁有的一些特殊品質，但下面關於馬的哪項"
-  },
-  {
-    "index": 36,
-    "text": "is also true?",
-    "start": 131.293,
     "end": 132.873,
-    "zh": "也是真的？",
-    "zh_hant": "也是真的？"
+    "zh": "我们已经听说马拥有的一些特殊品质，但下列关于马的说法中哪个也是真的？",
+    "zh_hant": "我們已經聽說馬擁有的一些特殊品質，但下列關於馬的說法中哪個也是真的？"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "Is it a, horses always sleep standing up?",
     "start": 132.873,
     "end": 136.455,
-    "zh": "是A，马总是站着睡觉吗？",
-    "zh_hant": "是A，馬總是站著睡覺嗎？"
+    "zh": "是A，马总是站着睡觉？",
+    "zh_hant": "是A，馬總是站著睡覺？"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "B, horses can make over 100 sounds?",
     "start": 136.495,
     "end": 139.937,
@@ -312,23 +272,23 @@
     "zh_hant": "B，馬能發出超過100種聲音？"
   },
   {
-    "index": 39,
+    "index": 34,
     "text": "Or c, horses have almost 360 degree vision?",
     "start": 139.777,
     "end": 144.699,
-    "zh": "还是C，马几乎有360度的视野？",
-    "zh_hant": "還是C，馬幾乎有360度的視野？"
+    "zh": "还是C，马有近360度视力？",
+    "zh_hant": "還是C，馬有近360度視力？"
   },
   {
-    "index": 40,
+    "index": 35,
     "text": "Well, I'm sure I've seen a horse lying down, so I don't know about its vision, though.",
     "start": 144.839,
     "end": 150.982,
-    "zh": "嗯，我肯定见过马躺着，所以我不知道它的视野怎么样。",
-    "zh_hant": "嗯，我肯定見過馬躺著，所以我不知道它的視野怎麼樣。"
+    "zh": "嗯，我确定见过马躺下，不过我不太清楚它的视力。",
+    "zh_hant": "嗯，我確定見過馬躺下，不過我不太清楚它的視力。"
   },
   {
-    "index": 41,
+    "index": 36,
     "text": "So I'm going to say B: a horse can make over 100 sounds.",
     "start": 150.632,
     "end": 154.504,
@@ -336,239 +296,207 @@
     "zh_hant": "所以我選B：馬能發出超過100種聲音。"
   },
   {
-    "index": 42,
+    "index": 37,
     "text": "OK, well, we'll find out the answer later in the programme.",
     "start": 154.384,
     "end": 157.825,
-    "zh": "好，我们稍后在节目中揭晓答案。",
-    "zh_hant": "好，我們稍後在節目中揭曉答案。"
+    "zh": "好，我们稍后会在节目中揭晓答案。",
+    "zh_hant": "好，我們稍後會在節目中揭曉答案。"
   },
   {
-    "index": 43,
+    "index": 38,
     "text": "Horse therapist Claudia Nicholson first felt the healing power of horses as a child.",
     "start": 158.146,
     "end": 163.468,
-    "zh": "马治疗师克劳迪娅·尼科尔森小时候第一次感受到马的治愈力量。",
-    "zh_hant": "馬治療師克勞迪婭·尼科爾森小時候第一次感受到馬的治癒力量。"
+    "zh": "马疗师克劳迪娅·尼科尔森小时候第一次感受到马的治愈力量。",
+    "zh_hant": "馬療師克勞迪婭·尼科爾森小時候第一次感受到馬的治癒力量。"
   },
   {
-    "index": 44,
+    "index": 39,
     "text": "She now runs her own centre for equine assisted learning in the south of England,",
     "start": 163.428,
     "end": 167.951,
-    "zh": "她现在在英格兰南部经营着自己的马辅助学习中心，",
-    "zh_hant": "她現在在英格蘭南部經營著自己的馬輔助學習中心，"
+    "zh": "她现在在英国南部经营自己的马辅助学习中心，",
+    "zh_hant": "她現在在英國南部經營自己的馬輔助學習中心，"
   },
   {
-    "index": 45,
+    "index": 40,
     "text": "where she spoke with BBC World Service programme, The Conversation.",
     "start": 167.711,
     "end": 171.352,
-    "zh": "她在那里接受了BBC世界服务节目《对话》的采访。",
-    "zh_hant": "她在那裡接受了BBC世界服務節目《對話》的採訪。"
+    "zh": "在那里她接受了BBC世界服务节目《对话》的采访。",
+    "zh_hant": "在那裡她接受了BBC世界服務節目《對話》的採訪。"
   },
   {
-    "index": 46,
-    "text": "I would spend hours on end",
+    "index": 41,
+    "text": "I would spend hours on end sitting in a stable with my pony.",
     "start": 171.813,
-    "end": 175.214,
-    "zh": "我会连续数小时",
-    "zh_hant": "我會連續數小時"
-  },
-  {
-    "index": 47,
-    "text": "sitting in a stable with my pony.",
-    "start": 174.914,
     "end": 178.756,
-    "zh": "坐在马厩里陪我的小马。",
-    "zh_hant": "坐在馬廄裡陪我的小馬。"
+    "zh": "我会连续几个小时坐在马厩里和我的小马待着。",
+    "zh_hant": "我會連續幾個小時坐在馬廄裡和我的小馬待著。"
   },
   {
-    "index": 48,
+    "index": 42,
     "text": "I was going through puberty,",
     "start": 178.936,
     "end": 181.697,
-    "zh": "我那时正在经历青春期，",
-    "zh_hant": "我那時正在經歷青春期，"
+    "zh": "我当时正在经历青春期，",
+    "zh_hant": "我當時正在經歷青春期，"
   },
   {
-    "index": 49,
+    "index": 43,
     "text": "my parents had separated, I had a lot of unanswered questions,",
     "start": 181.618,
     "end": 186.42,
-    "zh": "父母分开了，我有许多未解的疑问，",
-    "zh_hant": "父母分開了，我有許多未解的疑問，"
+    "zh": "父母分开了，我有很多没解答的问题，",
+    "zh_hant": "父母分開了，我有很多沒解答的問題，"
   },
   {
-    "index": 50,
+    "index": 44,
     "text": "and I would feel met and safe and held,",
     "start": 186.74,
     "end": 192.703,
-    "zh": "但我会感到被接纳、安全和被支持，",
-    "zh_hant": "但我會感到被接納、安全和被支援，"
+    "zh": "而且我会感到被接纳、安全和支持，",
+    "zh_hant": "而且我會感到被接納、安全和支援，"
   },
   {
-    "index": 51,
+    "index": 45,
     "text": "with the connection of the pony.",
     "start": 192.643,
     "end": 195.784,
-    "zh": "通过和小马的联系。",
-    "zh_hant": "透過和小馬的聯絡。"
+    "zh": "因为和小马的联系。",
+    "zh_hant": "因為和小馬的聯絡。"
   },
   {
-    "index": 52,
+    "index": 46,
     "text": "As a child, Claudia spent hours on end with her pony.",
     "start": 196.305,
     "end": 199.906,
-    "zh": "小时候，克劳迪娅连续数小时和小马待在一起。",
-    "zh_hant": "小時候，克勞迪婭連續數小時和小馬待在一起。"
+    "zh": "小时候，克劳迪娅连续数小时和小马在一起。",
+    "zh_hant": "小時候，克勞迪婭連續數小時和小馬在一起。"
   },
   {
-    "index": 53,
-    "text": "Phrases like days or hours on end mean days or hours",
+    "index": 47,
+    "text": "Phrases like days or hours on end mean days or hours doing something continuously, without stopping.",
     "start": 199.967,
-    "end": 203.908,
-    "zh": "像“days on end”或“hours on end”这样的短语意味着连续几天或几小时",
-    "zh_hant": "像“days on end”或“hours on end”這樣的短語意味著連續幾天或幾小時"
-  },
-  {
-    "index": 54,
-    "text": "doing something continuously, without stopping.",
-    "start": 203.558,
     "end": 206.55,
-    "zh": "不间断地做某事。",
-    "zh_hant": "不間斷地做某事。"
+    "zh": "像days或hours on end这样的短语意味着连续不断地做某事，不停止。",
+    "zh_hant": "像days或hours on end這樣的短語意味著連續不斷地做某事，不停止。"
   },
   {
-    "index": 55,
+    "index": 48,
     "text": "Spending time with her pony helped Claudia through puberty,",
     "start": 206.25,
     "end": 209.532,
-    "zh": "和小马在一起帮助克劳迪娅度过了青春期，",
-    "zh_hant": "和小馬在一起幫助克勞迪婭度過了青春期，"
+    "zh": "和小马待在一起帮助克劳迪娅度过了青春期，",
+    "zh_hant": "和小馬待在一起幫助克勞迪婭度過了青春期，"
   },
   {
-    "index": 56,
+    "index": 49,
     "text": "the stage of life when a child grows into an adult because of changes in their body which allow them to have children.",
     "start": 209.392,
     "end": 215.715,
-    "zh": "这是孩子因身体变化而成长为成人的阶段，这些变化使他们能够生育孩子。",
-    "zh_hant": "這是孩子因身體變化而成長為成人的階段，這些變化使他們能夠生育孩子。"
+    "zh": "青春期是孩子成长为成人的生命阶段，因为身体变化使其能生育孩子。",
+    "zh_hant": "青春期是孩子成長為成人的生命階段，因為身體變化使其能生育孩子。"
   },
   {
-    "index": 57,
+    "index": 50,
     "text": "It was her teenage experiences that led Claudia to start her own horse therapy centre.",
     "start": 215.675,
     "end": 220.777,
-    "zh": "正是她青少年时期的经历促使克劳迪娅创办了自己的马疗法中心。",
-    "zh_hant": "正是她青少年時期的經歷促使克勞迪婭創辦了自己的馬療法中心。"
+    "zh": "正是她青少年时期的经历促使克劳迪娅开办了自己的马疗中心。",
+    "zh_hant": "正是她青少年時期的經歷促使克勞迪婭開辦了自己的馬療中心。"
   },
   {
-    "index": 58,
+    "index": 51,
     "text": "She works a lot with teenage girls and children in care.",
     "start": 220.617,
     "end": 223.979,
-    "zh": "她与许多少女和寄养儿童一起工作。",
-    "zh_hant": "她與許多少女和寄養兒童一起工作。"
+    "zh": "她与许多青少年女孩和寄养儿童合作很多。",
+    "zh_hant": "她與許多青少年女孩和寄養兒童合作很多。"
   },
   {
-    "index": 59,
+    "index": 52,
     "text": "A child in care is a child who's being looked after by the local authorities.",
     "start": 223.959,
     "end": 228.521,
-    "zh": "“child in care”指由地方政府照顾的儿童。",
-    "zh_hant": "“child in care”指由地方政府照顧的兒童。"
+    "zh": "寄养儿童是指由地方当局照看的儿童。",
+    "zh_hant": "寄養兒童是指由地方當局照看的兒童。"
   },
   {
-    "index": 60,
+    "index": 53,
     "text": "Because they cannot be cared for by their parents or family.",
     "start": 228.401,
     "end": 231.863,
-    "zh": "因为他们无法由父母或家人照顾。",
-    "zh_hant": "因為他們無法由父母或家人照顧。"
+    "zh": "因为他们不能由父母或家人照顾。",
+    "zh_hant": "因為他們不能由父母或家人照顧。"
   },
   {
-    "index": 61,
-    "text": "Here, Claudia talks more about her work with children and horses",
+    "index": 54,
+    "text": "Here, Claudia talks more about her work with children and horses to BBC World Service's The Conversation.",
     "start": 232.263,
-    "end": 236.125,
-    "zh": "这里，克劳迪娅更多谈论了她与儿童和马的工作",
-    "zh_hant": "這裡，克勞迪婭更多談論了她與兒童和馬的工作"
-  },
-  {
-    "index": 62,
-    "text": "to BBC World Service's The Conversation.",
-    "start": 235.905,
     "end": 238.806,
-    "zh": "在BBC世界服务的《对话》节目中。",
-    "zh_hant": "在BBC世界服務的《對話》節目中。"
+    "zh": "这里，克劳迪娅向BBC世界服务《对话》节目更多讲述了她与儿童和马的工作。",
+    "zh_hant": "這裡，克勞迪婭向BBC世界服務《對話》節目更多講述了她與兒童和馬的工作。"
   },
   {
-    "index": 63,
-    "text": "It would take maybe a few sessions for a relationship",
+    "index": 55,
+    "text": "It would take maybe a few sessions for a relationship of trust to be formed,",
     "start": 238.986,
-    "end": 243.848,
-    "zh": "建立信任关系可能",
-    "zh_hant": "建立信任關係可能"
-  },
-  {
-    "index": 64,
-    "text": "of trust to be formed,",
-    "start": 243.498,
     "end": 245.529,
-    "zh": "需要几次疗程，",
-    "zh_hant": "需要幾次療程，"
+    "zh": "可能需要几次课程才能建立信任关系，",
+    "zh_hant": "可能需要幾次課程才能建立信任關係，"
   },
   {
-    "index": 65,
-    "text": "and it's quite extraordinary to see a child that's experienced a lot of trauma,",
+    "index": 56,
+    "text": "and it's quite extraordinary to see",
     "start": 245.85,
-    "end": 252.153,
-    "zh": "看到经历过很多创伤的孩子真是非同寻常，",
-    "zh_hant": "看到經歷過很多創傷的孩子真是非同尋常，"
+    "end": 249.492,
+    "zh": "而且看到这个过程相当非凡，",
+    "zh_hant": "而且看到這個過程相當非凡，"
   },
   {
-    "index": 66,
-    "text": "especially these children in care.",
-    "start": 251.803,
+    "index": 57,
+    "text": "a child that's experienced a lot of trauma, especially these children in care.",
+    "start": 249.142,
     "end": 253.994,
-    "zh": "尤其是这些寄养儿童。",
-    "zh_hant": "尤其是這些寄養兒童。"
+    "zh": "尤其是经历过很多创伤的孩子，特别是这些寄养儿童。",
+    "zh_hant": "尤其是經歷過很多創傷的孩子，特別是這些寄養兒童。"
   },
   {
-    "index": 67,
+    "index": 58,
     "text": "They can be brushing the pony's body.",
     "start": 254.054,
     "end": 258.136,
-    "zh": "他们可以刷小马的毛发。",
-    "zh_hant": "他們可以刷小馬的毛髮。"
+    "zh": "他们可以刷小马的身体。",
+    "zh_hant": "他們可以刷小馬的身體。"
   },
   {
-    "index": 68,
+    "index": 59,
     "text": "They might want to have a cry, which they've been holding on to.",
     "start": 258.576,
     "end": 262.058,
-    "zh": "他们可能想哭，那是他们一直压抑着的。",
-    "zh_hant": "他們可能想哭，那是他們一直壓抑著的。"
+    "zh": "他们可能想哭，这他们一直压抑着。",
+    "zh_hant": "他們可能想哭，這他們一直壓抑著。"
   },
   {
-    "index": 69,
+    "index": 60,
     "text": "The horse regulates them.",
     "start": 262.058,
     "end": 264.039,
-    "zh": "马会让他们平静下来。",
-    "zh_hant": "馬會讓他們平靜下來。"
+    "zh": "马会调节他们。",
+    "zh_hant": "馬會調節他們。"
   },
   {
-    "index": 70,
+    "index": 61,
     "text": "Many of the children Claudia works with suffer trauma.",
     "start": 264.319,
     "end": 267.501,
-    "zh": "克劳迪娅合作的许多孩子都经历过创伤。",
-    "zh_hant": "克勞迪婭合作的許多孩子都經歷過創傷。"
+    "zh": "克劳迪娅合作的许多儿童都遭受创伤。",
+    "zh_hant": "克勞迪婭合作的許多兒童都遭受創傷。"
   },
   {
-    "index": 71,
+    "index": 62,
     "text": "It takes time for them to build a bond of trust with their horse.",
     "start": 267.461,
     "end": 271.142,
@@ -576,15 +504,15 @@
     "zh_hant": "他們需要時間與馬建立信任紐帶。"
   },
   {
-    "index": 72,
+    "index": 63,
     "text": "The phrase \"bond of trust\" is a strong feeling of reliance and confidence between two people.",
     "start": 270.942,
     "end": 276.205,
-    "zh": "短语“bond of trust”是两个人之间强烈的依赖和信任感。",
-    "zh_hant": "短語“bond of trust”是兩個人之間強烈的依賴和信任感。"
+    "zh": "“信任纽带”一词是两个人之间强烈的依赖和信心感觉。",
+    "zh_hant": "“信任紐帶”一詞是兩個人之間強烈的依賴和信心感覺。"
   },
   {
-    "index": 73,
+    "index": 64,
     "text": "Horses really are special animals.",
     "start": 276.085,
     "end": 278.686,
@@ -592,23 +520,23 @@
     "zh_hant": "馬真是特別的動物。"
   },
   {
-    "index": 74,
+    "index": 65,
     "text": "They sense human feelings like fear or sadness through breath,",
     "start": 278.666,
     "end": 282.568,
-    "zh": "它们通过呼吸、心率和动作感知人类的恐惧或悲伤等情绪，",
-    "zh_hant": "它們透過呼吸、心率和動作感知人類的恐懼或悲傷等情緒，"
+    "zh": "它们通过呼吸、心率和动作感知恐惧或悲伤等人类情绪，",
+    "zh_hant": "它們透過呼吸、心率和動作感知恐懼或悲傷等人類情緒，"
   },
   {
-    "index": 75,
+    "index": 66,
     "text": "heart rate and movement, and respond with gentleness and calm.",
     "start": 282.368,
     "end": 286.47,
-    "zh": "并以温柔和平静回应。",
-    "zh_hant": "並以溫柔和平靜回應。"
+    "zh": "并温和平静地回应。",
+    "zh_hant": "並溫和平靜地回應。"
   },
   {
-    "index": 76,
+    "index": 67,
     "text": "This makes them perfect animal therapists.",
     "start": 286.55,
     "end": 289.392,
@@ -616,23 +544,23 @@
     "zh_hant": "這使它們成為完美的動物治療師。"
   },
   {
-    "index": 77,
+    "index": 68,
     "text": "And that's not all, right Georgie?",
     "start": 289.492,
     "end": 291.393,
-    "zh": "而且还不止这些，对吧，乔吉？",
-    "zh_hant": "而且還不止這些，對吧，喬吉？"
+    "zh": "而且还不止这些，对吧乔治？",
+    "zh_hant": "而且還不止這些，對吧喬治？"
   },
   {
-    "index": 78,
+    "index": 69,
     "text": "Let's find out the answer to your question.",
     "start": 291.453,
     "end": 293.894,
-    "zh": "我们来看看你问题的答案。",
-    "zh_hant": "我們來看看你問題的答案。"
+    "zh": "让我们找出你问题的答案。",
+    "zh_hant": "讓我們找出你問題的答案。"
   },
   {
-    "index": 79,
+    "index": 70,
     "text": "Yes, Neil.",
     "start": 293.834,
     "end": 295.034,
@@ -640,7 +568,7 @@
     "zh_hant": "好的，尼爾。"
   },
   {
-    "index": 80,
+    "index": 71,
     "text": "Well, I asked you which sentence about horses was true,",
     "start": 294.684,
     "end": 298.376,
@@ -648,31 +576,31 @@
     "zh_hant": "嗯，我問你關於馬的哪句話是真的，"
   },
   {
-    "index": 81,
+    "index": 72,
     "text": "and you said that horses can make over 100 sounds.",
     "start": 298.396,
     "end": 302.798,
-    "zh": "你选了马能发出超过100种声音。",
-    "zh_hant": "你選了馬能發出超過100種聲音。"
+    "zh": "你说马能发出超过100种声音。",
+    "zh_hant": "你說馬能發出超過100種聲音。"
   },
   {
-    "index": 82,
+    "index": 73,
     "text": "Sadly, that was the wrong answer.",
     "start": 303.099,
     "end": 305.7,
-    "zh": "遗憾的是，那是个错误答案。",
-    "zh_hant": "遺憾的是，那是個錯誤答案。"
+    "zh": "可惜，那是错误答案。",
+    "zh_hant": "可惜，那是錯誤答案。"
   },
   {
-    "index": 83,
+    "index": 74,
     "text": "The correct answer was C – horses have near 360 degree vision, which is surprising.",
     "start": 305.42,
     "end": 311.843,
-    "zh": "正确答案是C——马的视野几乎达到360度，这很令人惊讶。",
-    "zh_hant": "正確答案是C——馬的視野幾乎達到360度，這很令人驚訝。"
+    "zh": "正确答案是C——马有近360度视力，这很惊人。",
+    "zh_hant": "正確答案是C——馬有近360度視力，這很驚人。"
   },
   {
-    "index": 84,
+    "index": 75,
     "text": "Wow, that's amazing!",
     "start": 311.743,
     "end": 313.243,
@@ -680,107 +608,91 @@
     "zh_hant": "哇，太神奇了！"
   },
   {
-    "index": 85,
-    "text": "OK, let's recap the vocabulary we've learnt, starting with umbrella term,",
+    "index": 76,
+    "text": "OK, let's recap the vocabulary we've learnt,",
     "start": 313.044,
-    "end": 317.726,
-    "zh": "好，让我们回顾一下学过的词汇，从“umbrella term”开始，",
-    "zh_hant": "好，讓我們回顧一下學過的詞彙，從“umbrella term”開始，"
+    "end": 315.825,
+    "zh": "好，让我们回顾我们学过的词汇，",
+    "zh_hant": "好，讓我們回顧我們學過的詞彙，"
   },
   {
-    "index": 86,
-    "text": "a term used to describe many different things which all belong to a single common category.",
-    "start": 317.566,
+    "index": 77,
+    "text": "starting with umbrella term, a term used to describe many different things which all belong to a single common category.",
+    "start": 315.745,
     "end": 322.788,
-    "zh": "一个用来描述许多不同事物、但都属于单一共同类别的术语。",
-    "zh_hant": "一個用來描述許多不同事物、但都屬於單一共同類別的術語。"
+    "zh": "从umbrella term开始，指描述属于一个共同类别的许多不同事物的术语。",
+    "zh_hant": "從umbrella term開始，指描述屬於一個共同類別的許多不同事物的術語。"
   },
   {
-    "index": 87,
+    "index": 78,
     "text": "Grooming an animal, like a horse or a dog, means brushing and cleaning its coat of hair.",
     "start": 323.028,
     "end": 328.331,
-    "zh": "给动物（如马或狗）梳理毛发意味着刷洗和清洁它的毛发。",
-    "zh_hant": "給動物（如馬或狗）梳理毛髮意味著刷洗和清潔它的毛髮。"
+    "zh": "梳理动物，比如马或狗，意味着刷和清洁它的毛发。",
+    "zh_hant": "梳理動物，比如馬或狗，意味著刷和清潔它的毛髮。"
   },
   {
-    "index": 88,
+    "index": 79,
     "text": "If you do something for hours on end, you do it continuously without stopping.",
     "start": 328.292,
     "end": 332.714,
-    "zh": "如果你连续数小时做某事，你就是不间断地做。",
-    "zh_hant": "如果你連續數小時做某事，你就是不間斷地做。"
+    "zh": "如果你连续数小时做某事，你是不间断地持续做。",
+    "zh_hant": "如果你連續數小時做某事，你是不間斷地持續做。"
   },
   {
-    "index": 89,
-    "text": "Puberty is the stage of life when a child grows into an adult",
+    "index": 80,
+    "text": "Puberty is the stage of life when a child grows into an adult because of changes in their body which allow them to have children.",
     "start": 332.494,
-    "end": 336.576,
-    "zh": "“Puberty”是孩子因身体变化而成长为成人的阶段，",
-    "zh_hant": "“Puberty”是孩子因身體變化而成長為成人的階段，"
-  },
-  {
-    "index": 90,
-    "text": "because of changes in their body which allow them to have children.",
-    "start": 336.276,
     "end": 339.837,
-    "zh": "这些变化使他们能够生育孩子。",
-    "zh_hant": "這些變化使他們能夠生育孩子。"
+    "zh": "Puberty是孩子成长为成人的生命阶段，因为身体变化使其能生育孩子。",
+    "zh_hant": "Puberty是孩子成長為成人的生命階段，因為身體變化使其能生育孩子。"
   },
   {
-    "index": 91,
-    "text": "A child who is in care is being looked after by the local authorities",
+    "index": 81,
+    "text": "A child who is in care is being looked after by the local authorities because they cannot be cared for by their parents.",
     "start": 339.677,
-    "end": 344.139,
-    "zh": "“In care”的儿童由地方政府照顾，",
-    "zh_hant": "“In care”的兒童由地方政府照顧，"
-  },
-  {
-    "index": 92,
-    "text": "because they cannot be cared for by their parents.",
-    "start": 343.789,
     "end": 346.601,
-    "zh": "因为他们无法由父母照顾。",
-    "zh_hant": "因為他們無法由父母照顧。"
+    "zh": "寄养儿童是由地方当局照看的儿童，因为他们不能由父母照顾。",
+    "zh_hant": "寄養兒童是由地方當局照看的兒童，因為他們不能由父母照顧。"
   },
   {
-    "index": 93,
+    "index": 82,
     "text": "And finally, a bond of trust is a strong feeling of reliance and confidence between two people.",
     "start": 346.341,
     "end": 352.303,
-    "zh": "最后，“bond of trust”是两个人之间强烈的依赖和信任感。",
-    "zh_hant": "最後，“bond of trust”是兩個人之間強烈的依賴和信任感。"
+    "zh": "最后，信任纽带是两个人之间强烈的依赖和信心感觉。",
+    "zh_hant": "最後，信任紐帶是兩個人之間強烈的依賴和信心感覺。"
   },
   {
-    "index": 94,
-    "text": "Once again, our six minutes are up, but remember, you'll find a quiz and worksheet for this episode over on our website,",
+    "index": 83,
+    "text": "Once again, our six minutes are up, but remember,",
     "start": 352.764,
-    "end": 359.147,
-    "zh": "再次，我们的六分钟结束了，但记住，你可以在我们的网站上找到本期的小测验和练习册，",
-    "zh_hant": "再次，我們的六分鐘結束了，但記住，你可以在我們的網站上找到本期的小測驗和練習冊，"
+    "end": 355.365,
+    "zh": "又一次，我们的六分钟结束了，但记住，",
+    "zh_hant": "又一次，我們的六分鐘結束了，但記住，"
   },
   {
-    "index": 95,
-    "text": "bbclearningenglish.com.",
-    "start": 358.797,
+    "index": 84,
+    "text": "you'll find a quiz and worksheet for this episode over on our website, bbclearningenglish.com.",
+    "start": 355.015,
     "end": 360.908,
-    "zh": "bbclearningenglish.com。",
-    "zh_hant": "bbclearningenglish.com。"
+    "zh": "你会在我们的网站bbclearningenglish.com上找到本集的测验和练习表。",
+    "zh_hant": "你會在我們的網站bbclearningenglish.com上找到本集的測驗和練習表。"
   },
   {
-    "index": 96,
+    "index": 85,
     "text": "See you there soon, but for now, it's goodbye.",
     "start": 360.948,
     "end": 363.68,
-    "zh": "很快在那里见，但现在，再见。",
-    "zh_hant": "很快在那裡見，但現在，再見。"
+    "zh": "很快在那里见，但现在，再见了。",
+    "zh_hant": "很快在那裡見，但現在，再見了。"
   },
   {
-    "index": 97,
+    "index": 86,
     "text": "6 Minute English from BBC Learning English.",
     "start": 363.28,
     "end": 369.449,
-    "zh": "来自BBC Learning English的六分钟英语。",
-    "zh_hant": "來自BBC Learning English的六分鐘英語。"
+    "zh": "BBC英语学习的六分钟英语。",
+    "zh_hant": "BBC英語學習的六分鐘英語。"
   }
 ]

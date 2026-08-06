@@ -4,8 +4,8 @@
     "text": "Hello, this is 6 Minute English from BBC Learning English.",
     "start": 7.891,
     "end": 11.812,
-    "zh": "你好，这里是BBC英语学习的六分钟英语。",
-    "zh_hant": "你好，這裡是BBC英語學習的六分鐘英語。"
+    "zh": "你好，这里是BBC学英语的六分钟英语。",
+    "zh_hant": "你好，這裡是BBC學英語的六分鐘英語。"
   },
   {
     "index": 1,
@@ -44,27 +44,19 @@
     "text": "Well, actually, a bit of both.",
     "start": 17.755,
     "end": 20.597,
-    "zh": "嗯，实际上，两者都有点。",
-    "zh_hant": "嗯，實際上，兩者都有點。"
+    "zh": "嗯，其实两者都有点。",
+    "zh_hant": "嗯，其實兩者都有點。"
   },
   {
     "index": 6,
-    "text": "I like to spend money on nice things, but I also",
+    "text": "I like to spend money on nice things, but I also try to save, mainly because I've got children.",
     "start": 20.897,
-    "end": 24.418,
-    "zh": "我喜欢在好东西上花钱，但我也",
-    "zh_hant": "我喜歡在好東西上花錢，但我也"
+    "end": 27.6,
+    "zh": "我喜欢把钱花在好东西上，但我也试着存钱，主要是因为我有孩子。",
+    "zh_hant": "我喜歡把錢花在好東西上，但我也試著存錢，主要是因為我有孩子。"
   },
   {
     "index": 7,
-    "text": "try to save, mainly because I've got children.",
-    "start": 24.459,
-    "end": 27.6,
-    "zh": "试着存钱，主要是因为我有孩子。",
-    "zh_hant": "試著存錢，主要是因為我有孩子。"
-  },
-  {
-    "index": 8,
     "text": "How about you?",
     "start": 27.36,
     "end": 28.44,
@@ -72,23 +64,23 @@
     "zh_hant": "你呢？"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Yeah, I'm the same.",
     "start": 28.601,
     "end": 30.481,
-    "zh": "是的，我也一样。",
-    "zh_hant": "是的，我也一樣。"
+    "zh": "嗯，我也一样。",
+    "zh_hant": "嗯，我也一樣。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "I like to save money, or I try to, for the future.",
     "start": 30.282,
     "end": 34.103,
-    "zh": "我喜欢存钱，或者我试着存钱，为了将来。",
-    "zh_hant": "我喜歡存錢，或者我試著存錢，為了將來。"
+    "zh": "我喜欢存钱，或者说我试着存钱，为了将来。",
+    "zh_hant": "我喜歡存錢，或者說我試著存錢，為了將來。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "But I also do spend it.",
     "start": 34.624,
     "end": 37.065,
@@ -96,15 +88,15 @@
     "zh_hant": "但我也確實花錢。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "I don't count every penny that I spend and save every single penny that I earn.",
     "start": 36.725,
     "end": 42.067,
-    "zh": "我不会数每一分钱的花费和存下我赚的每一分钱。",
-    "zh_hant": "我不會數每一分錢的花費和存下我賺的每一分錢。"
+    "zh": "我不会数着每一分钱花，也不会存下赚到的每一分钱。",
+    "zh_hant": "我不會數著每一分錢花，也不會存下賺到的每一分錢。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "Mmm.",
     "start": 41.947,
     "end": 42.547,
@@ -112,207 +104,191 @@
     "zh_hant": "嗯。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Well, whether you're a saver or a spender, being in debt is common in the UK.",
     "start": 42.408,
     "end": 48.111,
-    "zh": "嗯，无论你是存钱的人还是花钱的人，负债在英国很常见。",
-    "zh_hant": "嗯，無論你是存錢的人還是花錢的人，負債在英國很常見。"
+    "zh": "不管你是存钱派还是花钱派，在英国，负债是很常见的。",
+    "zh_hant": "不管你是存錢派還是花錢派，在英國，負債是很常見的。"
+  },
+  {
+    "index": 14,
+    "text": "refers to money a person has borrowed to buy something and which they have to pay back ,",
+    "start": 48.871,
+    "end": 54.19,
+    "zh": "指的是一个人为了买东西而借的钱，之后必须还回去，",
+    "zh_hant": "指的是一個人為了買東西而借的錢，之後必須還回去，"
   },
   {
     "index": 15,
-    "text": "refers to money a person has borrowed to buy something",
-    "start": 48.871,
-    "end": 52.413,
-    "zh": "指的是一个人借款购买某物所欠的钱",
-    "zh_hant": "指的是一個人借款購買某物所欠的錢"
+    "text": "usually to a bank, a credit card company, or another person.",
+    "start": 54.034,
+    "end": 58.116,
+    "zh": "通常是还给银行、信用卡公司，或者另一个人。",
+    "zh_hant": "通常是還給銀行、信用卡公司，或者另一個人。"
   },
   {
     "index": 16,
-    "text": "and which they have to pay back , usually to a bank, a credit card company, or another person.",
-    "start": 52.333,
-    "end": 58.116,
-    "zh": "并且必须偿还，通常是还给银行、信用卡公司或另一个人。",
-    "zh_hant": "並且必須償還，通常是還給銀行、信用卡公司或另一個人。"
-  },
-  {
-    "index": 17,
     "text": "Many people avoid talking about debt , but it affects us all.",
     "start": 58.456,
     "end": 63.178,
-    "zh": "很多人避免谈论债务，但它影响我们所有人。",
-    "zh_hant": "很多人避免談論債務，但它影響我們所有人。"
+    "zh": "很多人回避谈论债务，但它影响着我们所有人。",
+    "zh_hant": "很多人迴避談論債務，但它影響著我們所有人。"
+  },
+  {
+    "index": 17,
+    "text": "In 2025, over 1000 people contacted the UK Citizens Advice Bureau every single day",
+    "start": 63.178,
+    "end": 70.362,
+    "zh": "2025年，英国公民咨询局每天都有超过一千人联系他们，",
+    "zh_hant": "2025年，英國公民諮詢局每天都有超過一千人聯絡他們，"
   },
   {
     "index": 18,
-    "text": "In 2025, over 1000 people",
-    "start": 63.178,
-    "end": 66.26,
-    "zh": "2025年，超过1000人",
-    "zh_hant": "2025年，超過1000人"
+    "text": "of the year for help with their debt .",
+    "start": 70.012,
+    "end": 72.23,
+    "zh": "全年如此，来寻求债务方面的帮助。",
+    "zh_hant": "全年如此，來尋求債務方面的幫助。"
   },
   {
     "index": 19,
-    "text": "contacted the UK Citizens Advice Bureau every single day of the year for help with their debt .",
-    "start": 65.91,
-    "end": 72.23,
-    "zh": "在一年中的每一天都联系英国公民咨询局寻求债务帮助。",
-    "zh_hant": "在一年中的每一天都聯絡英國公民諮詢局尋求債務幫助。"
-  },
-  {
-    "index": 20,
     "text": "And when debt gets out of control, it causes stress and worry.",
     "start": 72.283,
     "end": 76.224,
-    "zh": "当债务失控时，会造成压力和担忧。",
-    "zh_hant": "當債務失控時，會造成壓力和擔憂。"
+    "zh": "当债务失控时，它会造成压力与担忧。",
+    "zh_hant": "當債務失控時，它會造成壓力與擔憂。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "BBC Radio 4 programme Thinking Allowed interviewed one young man, Jason, about his debt .",
     "start": 76.445,
     "end": 82.85,
-    "zh": "BBC广播4台的节目《思想允许》采访了一位年轻人杰森，谈了他的债务。",
-    "zh_hant": "BBC廣播4臺的節目《思想允許》採訪了一位年輕人傑森，談了他的債務。"
+    "zh": "BBC广播四台的节目《思考允许》采访了一位叫杰森的年轻人，聊了他的债务。",
+    "zh_hant": "BBC廣播四臺的節目《思考允許》採訪了一位叫傑森的年輕人，聊了他的債務。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Whatever jobs there are aren't enough to provide for a family.",
     "start": 82.708,
     "end": 85.549,
-    "zh": "无论有什么工作，都不足以养活一个家庭。",
-    "zh_hant": "無論有什麼工作，都不足以養活一個家庭。"
+    "zh": "现有的工作都不足以养活一个家庭。",
+    "zh_hant": "現有的工作都不足以養活一個家庭。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "Sometimes you need to take out loans.",
     "start": 85.349,
     "end": 86.7,
-    "zh": "有时你需要贷款。",
-    "zh_hant": "有時你需要貸款。"
+    "zh": "有时候你需要去贷款。",
+    "zh_hant": "有時候你需要去貸款。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "I've done it a few times, but you can't ever pay it back .",
     "start": 86.3,
     "end": 89.81,
-    "zh": "我做过了几次，但你永远还不清。",
-    "zh_hant": "我做過了幾次，但你永遠還不清。"
+    "zh": "我做过几次，但你永远还不清。",
+    "zh_hant": "我做過幾次，但你永遠還不清。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "You can't see a way out, other than winning the lottery or something.",
     "start": 89.712,
     "end": 92.613,
-    "zh": "你看不到出路，除了中彩票之类的事。",
-    "zh_hant": "你看不到出路，除了中彩票之類的事。"
+    "zh": "你看不到出路，除非中彩票之类的。",
+    "zh_hant": "你看不到出路，除非中彩票之類的。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "I'd like to think I could clear them all one day, even if it means, like, five years paying them off .",
     "start": 92.713,
     "end": 97.79,
-    "zh": "我希望有一天能还清所有债务，即使意味着，比如，五年才能付清。",
-    "zh_hant": "我希望有一天能還清所有債務，即使意味著，比如，五年才能付清。"
+    "zh": "我愿意相信有一天我能还清它们，哪怕意味着要花五年时间来偿还。",
+    "zh_hant": "我願意相信有一天我能還清它們，哪怕意味著要花五年時間來償還。"
+  },
+  {
+    "index": 26,
+    "text": "Jason uses three phrases, pay back , pay off , and clear debt ,",
+    "start": 97.596,
+    "end": 104.05,
+    "zh": "杰森用了三个短语：pay back、pay off和clear debt，",
+    "zh_hant": "傑森用了三個短語：pay back、pay off和clear debt，"
   },
   {
     "index": 27,
-    "text": "Jason uses three phrases,",
-    "start": 97.596,
-    "end": 100.337,
-    "zh": "杰森用了三个短语，",
-    "zh_hant": "傑森用了三個短語，"
+    "text": "all of which mean the same thing – to give back the money you've borrowed.",
+    "start": 104.099,
+    "end": 108.321,
+    "zh": "它们意思都一样——把借来的钱还回去。",
+    "zh_hant": "它們意思都一樣——把借來的錢還回去。"
   },
   {
     "index": 28,
-    "text": "pay back , pay off , and clear debt",
-    "start": 100.397,
-    "end": 103.82,
-    "zh": "pay back、pay off和clear debt",
-    "zh_hant": "pay back、pay off和clear debt"
-  },
-  {
-    "index": 29,
-    "text": ", all of which mean the same thing – to give back the money you've borrowed.",
-    "start": 103.42,
-    "end": 108.321,
-    "zh": "，这些都意味着同一件事——还给你借的钱。",
-    "zh_hant": "，這些都意味著同一件事——還給你借的錢。"
-  },
-  {
-    "index": 30,
     "text": "In this episode, we'll hear more about living with debt by learning some useful new words and phrases.",
     "start": 108.461,
     "end": 114.904,
-    "zh": "在这一集中，我们将通过学习一些有用的新词汇和短语来了解更多关于与债务共存的信息。",
-    "zh_hant": "在這一集中，我們將透過學習一些有用的新詞彙和短語來了解更多關於與債務共存的資訊。"
+    "zh": "在本期节目中，我们会通过学一些有用的新词和短语，来了解更多关于背负债务的生活。",
+    "zh_hant": "在本期節目中，我們會透過學一些有用的新詞和短語，來了解更多關於揹負債務的生活。"
+  },
+  {
+    "index": 29,
+    "text": "And remember, you'll find all the vocabulary used, plus a quiz and worksheet,",
+    "start": 114.904,
+    "end": 119.746,
+    "zh": "记住，你会在我们的网站bbclearningenglish.com上找到所有用到的词汇，",
+    "zh_hant": "記住，你會在我們的網站bbclearningenglish.com上找到所有用到的詞彙，"
+  },
+  {
+    "index": 30,
+    "text": "on our website, bbclearningenglish.com.",
+    "start": 119.396,
+    "end": 122.788,
+    "zh": "还有小测验和练习表。",
+    "zh_hant": "還有小測驗和練習表。"
   },
   {
     "index": 31,
-    "text": "And remember, you'll find all the vocabulary used,",
-    "start": 114.904,
-    "end": 118.045,
-    "zh": "记住，你会在我们的网站bbclearningenglish.com上找到所有使用的词汇，",
-    "zh_hant": "記住，你會在我們的網站bbclearningenglish.com上找到所有使用的詞彙，"
-  },
-  {
-    "index": 32,
-    "text": "plus a quiz and worksheet, on our website, bbclearningenglish.com.",
-    "start": 117.695,
-    "end": 122.788,
-    "zh": "还有测验和工作表。",
-    "zh_hant": "還有測驗和工作表。"
-  },
-  {
-    "index": 33,
     "text": "But first, I have a question for you, Pippa.",
     "start": 122.668,
     "end": 125.429,
-    "zh": "但首先，我有一个问题要问你，皮帕。",
-    "zh_hant": "但首先，我有一個問題要問你，皮帕。"
+    "zh": "但首先，我有个问题要问你，皮帕。",
+    "zh_hant": "但首先，我有個問題要問你，皮帕。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "According to debt support group The Money Charity,",
     "start": 125.529,
     "end": 129.151,
-    "zh": "根据债务支持团体“金钱慈善”的数据，",
-    "zh_hant": "根據債務支援團體“金錢慈善”的資料，"
+    "zh": "根据债务支持组织“金钱慈善”的数据，",
+    "zh_hant": "根據債務支援組織“金錢慈善”的資料，"
   },
   {
-    "index": 35,
-    "text": "roughly how much is the average British adult in debt",
+    "index": 33,
+    "text": "roughly how much is the average British adult",
     "start": 129.192,
-    "end": 133.794,
-    "zh": "平均每个英国成年人的债务大约是多少",
-    "zh_hant": "平均每個英國成年人的債務大約是多少"
+    "end": 133.033,
+    "zh": "英国成年人平均大约欠多少债务，",
+    "zh_hant": "英國成年人平均大約欠多少債務，"
   },
   {
-    "index": 36,
-    "text": "through credit cards, overdrafts and personal loans?",
-    "start": 133.574,
+    "index": 34,
+    "text": "in debt through credit cards, overdrafts and personal loans?",
+    "start": 132.753,
     "end": 137.615,
     "zh": "通过信用卡、透支和个人贷款？",
     "zh_hant": "透過信用卡、透支和個人貸款？"
   },
   {
-    "index": 37,
-    "text": "Is it: a) £2,200, b) £4,200,",
+    "index": 35,
+    "text": "Is it: a) £2,200, b) £4,200, or c) £6,200?",
     "start": 137.656,
-    "end": 142.768,
-    "zh": "是a) 2200英镑，b) 4200英镑，",
-    "zh_hant": "是a) 2200英鎊，b) 4200英鎊，"
-  },
-  {
-    "index": 38,
-    "text": "or c) £6,200?",
-    "start": 142.818,
     "end": 146.21,
-    "zh": "还是c) 6200英镑？",
-    "zh_hant": "還是c) 6200英鎊？"
+    "zh": "是a) 2200英镑，b) 4200英镑，还是c) 6200英镑？",
+    "zh_hant": "是a) 2200英鎊，b) 4200英鎊，還是c) 6200英鎊？"
   },
   {
-    "index": 39,
+    "index": 36,
     "text": "Hmm.",
     "start": 146.26,
     "end": 146.84,
@@ -320,7 +296,7 @@
     "zh_hant": "嗯。"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "I'm not sure.",
     "start": 146.78,
     "end": 147.88,
@@ -328,15 +304,15 @@
     "zh_hant": "我不確定。"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "I'll say £2,200.",
     "start": 147.621,
     "end": 150.272,
-    "zh": "我说2200英镑。",
-    "zh_hant": "我說2200英鎊。"
+    "zh": "我就说2200英镑吧。",
+    "zh_hant": "我就說2200英鎊吧。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "OK.",
     "start": 150.322,
     "end": 150.942,
@@ -344,7 +320,7 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "Well, we will find out the answer later in the programme.",
     "start": 150.742,
     "end": 154.143,
@@ -352,127 +328,103 @@
     "zh_hant": "嗯，我們稍後會在節目中揭曉答案。"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "Jason's story features in a new book by sociologist Ryan Davey.",
     "start": 154.104,
     "end": 158.806,
-    "zh": "杰森的故事出现在社会学家瑞安·戴维的一本新书中。",
-    "zh_hant": "傑森的故事出現在社會學家瑞安·戴維的一本新書中。"
+    "zh": "杰森的故事收录在社会学家瑞安·戴维的一本新书中。",
+    "zh_hant": "傑森的故事收錄在社會學家瑞安·戴維的一本新書中。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "Ryan spent months living in a low-income housing estate, which he gave the fictional name Woldham.",
     "start": 158.846,
     "end": 165.309,
-    "zh": "瑞安花了好几个月住在一个低收入住宅区，他给它取了个虚构的名字叫沃尔德姆。",
-    "zh_hant": "瑞安花了好幾個月住在一個低收入住宅區，他給它取了個虛構的名字叫沃爾德姆。"
+    "zh": "瑞安在低收入住宅区住了几个月，他给它起了一个虚构的名字叫沃尔德姆。",
+    "zh_hant": "瑞安在低收入住宅區住了幾個月，他給它起了一個虛構的名字叫沃爾德姆。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "He talked with residents and listened to their money worries.",
     "start": 165.469,
     "end": 168.551,
-    "zh": "他与居民交谈，倾听他们的金钱烦恼。",
-    "zh_hant": "他與居民交談，傾聽他們的金錢煩惱。"
+    "zh": "他和居民交谈，倾听他们的金钱烦恼。",
+    "zh_hant": "他和居民交談，傾聽他們的金錢煩惱。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Here, Ryan explains more to BBC Radio 4's Thinking Allowed:",
     "start": 168.631,
     "end": 173.233,
-    "zh": "在这里，瑞安向BBC广播4台的《思想允许》节目进一步解释：",
-    "zh_hant": "在這裡，瑞安向BBC廣播4臺的《思想允許》節目進一步解釋："
+    "zh": "在这里，瑞安在BBC广播四台的《思考允许》中进一步解释：",
+    "zh_hant": "在這裡，瑞安在BBC廣播四臺的《思考允許》中進一步解釋："
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "My approach was to let people know that I was interested in learning about their lives and how they were making ends meet ,",
     "start": 173.274,
     "end": 179.17,
-    "zh": "我的方法是让人们知道我有兴趣了解他们的生活以及他们如何维持生计，",
-    "zh_hant": "我的方法是讓人們知道我有興趣瞭解他們的生活以及他們如何維持生計，"
+    "zh": "我的方法是让人们知道，我有兴趣了解他们的生活以及他们如何勉强度日，",
+    "zh_hant": "我的方法是讓人們知道，我有興趣瞭解他們的生活以及他們如何勉強度日，"
   },
   {
-    "index": 49,
+    "index": 46,
     "text": "so I did some interviews with residents, and I paid attention to where debt came up in everyday conversations.",
     "start": 178.82,
     "end": 185.259,
-    "zh": "所以我做了一些居民访谈，我注意到债务在日常对话中出现的地方。",
-    "zh_hant": "所以我做了一些居民訪談，我注意到債務在日常對話中出現的地方。"
+    "zh": "所以我做了一些对居民的采访，并留意债务在日常生活谈话中出现的地方。",
+    "zh_hant": "所以我做了一些對居民的採訪，並留意債務在日常生活談話中出現的地方。"
   },
   {
-    "index": 50,
-    "text": "For many people in Woldham, Jason included, debt was an ordinary feature",
+    "index": 47,
+    "text": "For many people in Woldham, Jason included, debt was an ordinary feature of daily life.",
     "start": 184.999,
-    "end": 191.122,
-    "zh": "对于沃尔德姆的许多人，包括杰森，债务是日常生活的一个普通特征",
-    "zh_hant": "對於沃爾德姆的許多人，包括傑森，債務是日常生活的一個普通特徵"
-  },
-  {
-    "index": 51,
-    "text": "of daily life.",
-    "start": 190.772,
     "end": 191.942,
-    "zh": "。",
-    "zh_hant": "。"
+    "zh": "对沃尔德姆的许多人来说，包括杰森在内，债务是日常生活的普通一部分。",
+    "zh_hant": "對沃爾德姆的許多人來說，包括傑森在內，債務是日常生活的普通一部分。"
   },
   {
-    "index": 52,
-    "text": "And beyond that, being in arrears – so, being behind with one or more monthly payment commitments –",
+    "index": 48,
+    "text": "And beyond that, being in arrears – so, being behind with one or more monthly payment commitments – was part of daily life.",
     "start": 191.592,
-    "end": 196.85,
-    "zh": "此外，拖欠——也就是说，落后于一个或多个每月付款承诺——",
-    "zh_hant": "此外，拖欠——也就是說，落後於一個或多個每月付款承諾——"
-  },
-  {
-    "index": 53,
-    "text": "was part of daily life.",
-    "start": 196.785,
     "end": 198.546,
-    "zh": "是日常生活的一部分。",
-    "zh_hant": "是日常生活的一部分。"
+    "zh": "而且除此之外，拖欠还款——也就是未能按时支付一个或多个月度还款——是日常生活的一部分。",
+    "zh_hant": "而且除此之外，拖欠還款——也就是未能按時支付一個或多個月度還款——是日常生活的一部分。"
   },
   {
-    "index": 54,
+    "index": 49,
     "text": "The people of Woldham were making ends meet .",
     "start": 198.466,
     "end": 202.03,
-    "zh": "沃尔德姆的人们在维持生计。",
-    "zh_hant": "沃爾德姆的人們在維持生計。"
+    "zh": "沃尔德姆的人们在勉强度日。",
+    "zh_hant": "沃爾德姆的人們在勉強度日。"
   },
   {
-    "index": 55,
-    "text": "To make ends meet means having just enough money to pay for basic living expenses",
+    "index": 50,
+    "text": "To make ends meet means having just enough money to pay for basic living expenses like food, bills and rent.",
     "start": 201.908,
-    "end": 206.54,
-    "zh": "维持生计意味着只有足够的钱支付基本生活费用",
-    "zh_hant": "維持生計意味著只有足夠的錢支付基本生活費用"
-  },
-  {
-    "index": 56,
-    "text": "like food, bills and rent.",
-    "start": 206.14,
     "end": 209.211,
-    "zh": "比如食物、账单和房租。",
-    "zh_hant": "比如食物、賬單和房租。"
+    "zh": "“make ends meet”意思是只有刚好够支付基本生活开销的钱，比如食物、账单和房租。",
+    "zh_hant": "“make ends meet”意思是隻有剛好夠支付基本生活開銷的錢，比如食物、賬單和房租。"
   },
   {
-    "index": 57,
-    "text": "Ryan found that many residents were in arrears ,",
+    "index": 51,
+    "text": "Ryan found that many residents were in arrears , a phrase meaning",
     "start": 209.412,
-    "end": 212.61,
-    "zh": "瑞安发现许多居民拖欠款项，",
-    "zh_hant": "瑞安發現許多居民拖欠款項，"
+    "end": 213.894,
+    "zh": "瑞安发现许多居民拖欠还款，这个短语意思是",
+    "zh_hant": "瑞安發現許多居民拖欠還款，這個短語意思是"
   },
   {
-    "index": 58,
-    "text": "a phrase meaning to still owe money that should have already been repaid.",
-    "start": 212.593,
+    "index": 52,
+    "text": "to still owe money that should have already been repaid.",
+    "start": 213.544,
     "end": 217.135,
-    "zh": "这个短语指的是仍然欠着本应已经偿还的钱。",
-    "zh_hant": "這個短語指的是仍然欠著本應已經償還的錢。"
+    "zh": "还欠着本该早已还清的钱。",
+    "zh_hant": "還欠著本該早已還清的錢。"
   },
   {
-    "index": 59,
+    "index": 53,
     "text": "For most residents, debt was a normal part of daily life.",
     "start": 217.256,
     "end": 221.297,
@@ -480,151 +432,143 @@
     "zh_hant": "對大多數居民來說，債務是日常生活的正常部分。"
   },
   {
-    "index": 60,
+    "index": 54,
     "text": "With a regular income, debt can be managed,",
     "start": 221.638,
     "end": 225.099,
-    "zh": "有固定收入，债务可以管理，",
-    "zh_hant": "有固定收入，債務可以管理，"
+    "zh": "有了固定收入，债务可以管理，",
+    "zh_hant": "有了固定收入，債務可以管理，"
   },
   {
-    "index": 61,
+    "index": 55,
     "text": "but for those who are unemployed or on low incomes, it can cause serious distress.",
     "start": 224.979,
     "end": 230.562,
-    "zh": "但对于失业或低收入的人来说，它可能造成严重的痛苦。",
-    "zh_hant": "但對於失業或低收入的人來說，它可能造成嚴重的痛苦。"
+    "zh": "但对于失业或低收入的人来说，它会造成严重的痛苦。",
+    "zh_hant": "但對於失業或低收入的人來說，它會造成嚴重的痛苦。"
   },
   {
-    "index": 62,
-    "text": "Here, Ryan discusses how the residents he met felt about their debt with BBC",
+    "index": 56,
+    "text": "Here, Ryan discusses how the residents he met felt about their debt with BBC Radio 4's",
     "start": 230.682,
-    "end": 235.524,
-    "zh": "在这里，瑞安与BBC广播4台的《思想允许》节目讨论了",
-    "zh_hant": "在這裡，瑞安與BBC廣播4臺的《思想允許》節目討論了"
+    "end": 236.445,
+    "zh": "在这里，瑞安在BBC广播四台的《思考允许》中讨论了",
+    "zh_hant": "在這裡，瑞安在BBC廣播四臺的《思考允許》中討論了"
   },
   {
-    "index": 63,
-    "text": "Radio 4's Thinking Allowed:",
-    "start": 235.204,
-    "end": 237.265,
-    "zh": "他遇到的居民对债务的感受：",
-    "zh_hant": "他遇到的居民對債務的感受："
+    "index": 57,
+    "text": "Thinking Allowed: Jason actually fluctuated",
+    "start": 236.095,
+    "end": 239.646,
+    "zh": "他遇到的居民对债务的看法：杰森实际上在摇摆不定，",
+    "zh_hant": "他遇到的居民對債務的看法：傑森實際上在搖擺不定，"
   },
   {
-    "index": 64,
-    "text": "Jason actually fluctuated between wanting to clear all of his debts on the one hand,",
-    "start": 237.265,
+    "index": 58,
+    "text": "between wanting to clear all of his debts on the one hand,",
+    "start": 239.296,
     "end": 243.168,
-    "zh": "杰森实际上在一边想还清所有债务，",
-    "zh_hant": "傑森實際上在一邊想還清所有債務，"
+    "zh": "一方面想还清所有债务，",
+    "zh_hant": "一方面想還清所有債務，"
   },
   {
-    "index": 65,
+    "index": 59,
     "text": "and on the other what he described as living on the never-never",
     "start": 243.128,
     "end": 247.291,
-    "zh": "另一边他描述为“永远永远”地生活",
-    "zh_hant": "另一邊他描述為“永遠永遠”地生活"
+    "zh": "另一方面是他所说的“分期赊购活着”，",
+    "zh_hant": "另一方面是他所說的“分期賒購活著”，"
   },
   {
-    "index": 66,
+    "index": 60,
     "text": "and actually questioning the supposed moral obligation to pay his debts .",
     "start": 247.071,
     "end": 252.09,
-    "zh": "并且质疑所谓的还债道德义务。",
-    "zh_hant": "並且質疑所謂的還債道德義務。"
+    "zh": "并且真的质疑那种所谓的还债道德义务。",
+    "zh_hant": "並且真的質疑那種所謂的還債道德義務。"
   },
   {
-    "index": 67,
-    "text": "Over the months that I knew him, the financial strain on him and his partner",
+    "index": 61,
+    "text": "Over the months that I knew him, the financial strain on him and his partner increased.",
     "start": 252.093,
-    "end": 257.856,
-    "zh": "在我认识他的几个月里，他和伴侣的经济压力",
-    "zh_hant": "在我認識他的幾個月裡，他和伴侶的經濟壓力"
-  },
-  {
-    "index": 68,
-    "text": "increased.",
-    "start": 257.516,
     "end": 258.656,
-    "zh": "增加了。",
-    "zh_hant": "增加了。"
+    "zh": "在我认识他的几个月里，他和伴侣的经济压力增加了。",
+    "zh_hant": "在我認識他的幾個月裡，他和伴侶的經濟壓力增加了。"
   },
   {
-    "index": 69,
+    "index": 62,
     "text": "They missed some of their bills.",
     "start": 258.306,
     "end": 261.037,
-    "zh": "他们错过了一些账单。",
-    "zh_hant": "他們錯過了一些賬單。"
+    "zh": "他们漏缴了一些账单。",
+    "zh_hant": "他們漏繳了一些賬單。"
   },
   {
-    "index": 70,
+    "index": 63,
     "text": "Their internet was disconnected.",
     "start": 260.687,
     "end": 262.398,
-    "zh": "他们的互联网被切断了。",
-    "zh_hant": "他們的網際網路被切斷了。"
+    "zh": "他们的网络被断了。",
+    "zh_hant": "他們的網路被斷了。"
   },
   {
-    "index": 71,
-    "text": "Jason was living on the never-never , an informal phrase",
+    "index": 64,
+    "text": "Jason was living on the never-never , an informal phrase for buying",
     "start": 262.358,
-    "end": 266.7,
-    "zh": "杰森生活在“永远永远”里，这是一个非正式短语，",
-    "zh_hant": "傑森生活在“永遠永遠”裡，這是一個非正式短語，"
+    "end": 267.3,
+    "zh": "杰森在“分期赊购”地生活，这是一种非正式说法，意思是",
+    "zh_hant": "傑森在“分期賒購”地生活，這是一種非正式說法，意思是"
   },
   {
-    "index": 72,
-    "text": "for buying the things you need by making regular small payments over a long time.",
-    "start": 266.35,
+    "index": 65,
+    "text": "the things you need by making regular small payments over a long time.",
+    "start": 266.95,
     "end": 271.642,
-    "zh": "意指通过在一段时间内定期进行小额付款来购买你需要的东西。",
-    "zh_hant": "意指透過在一段時間內定期進行小額付款來購買你需要的東西。"
+    "zh": "通过在一段时间内做定期小额付款来买你需要的东西。",
+    "zh_hant": "透過在一段時間內做定期小額付款來買你需要的東西。"
   },
   {
-    "index": 73,
+    "index": 66,
     "text": "It's called the never-never because it seems the debt will never be repaid.",
     "start": 271.563,
     "end": 276.245,
-    "zh": "之所以叫“永远永远”，是因为看起来债务永远还不清。",
-    "zh_hant": "之所以叫“永遠永遠”，是因為看起來債務永遠還不清。"
+    "zh": "它叫“永远还不完”，因为债务看起来永远还不清。",
+    "zh_hant": "它叫“永遠還不完”，因為債務看起來永遠還不清。"
   },
   {
-    "index": 74,
+    "index": 67,
     "text": "Jason experienced financial strain – emotional stress",
     "start": 276.085,
     "end": 280.707,
-    "zh": "杰森经历了经济压力——情感上的压力",
-    "zh_hant": "傑森經歷了經濟壓力——情感上的壓力"
+    "zh": "杰森经历了经济压力——一种情绪上的紧张，",
+    "zh_hant": "傑森經歷了經濟壓力——一種情緒上的緊張，"
   },
   {
-    "index": 75,
+    "index": 68,
     "text": "caused by a lack of money to meet his basic needs or to repay his debt .",
     "start": 280.357,
     "end": 285.79,
-    "zh": "由于缺乏资金来满足基本需求或偿还债务。",
-    "zh_hant": "由於缺乏資金來滿足基本需求或償還債務。"
+    "zh": "由缺乏满足基本需求或还债的钱所引起。",
+    "zh_hant": "由缺乏滿足基本需求或還債的錢所引起。"
   },
   {
-    "index": 76,
+    "index": 69,
     "text": "is a serious issue.",
     "start": 285.53,
     "end": 287.131,
-    "zh": "是一个严重的问题。",
-    "zh_hant": "是一個嚴重的問題。"
+    "zh": "债务是一个严重的问题。",
+    "zh_hant": "債務是一個嚴重的問題。"
   },
   {
-    "index": 77,
+    "index": 70,
     "text": "It affects many people and there are support groups who can help if you need it.",
     "start": 286.911,
     "end": 291.072,
-    "zh": "它影响很多人，如果你需要帮助，有支持团体可以提供帮助。",
-    "zh_hant": "它影響很多人，如果你需要幫助，有支援團體可以提供幫助。"
+    "zh": "它影响很多人，如果你需要的话，有支持团体可以帮忙。",
+    "zh_hant": "它影響很多人，如果你需要的話，有支援團體可以幫忙。"
   },
   {
-    "index": 78,
+    "index": 71,
     "text": "OK.",
     "start": 291.293,
     "end": 291.893,
@@ -632,7 +576,7 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 79,
+    "index": 72,
     "text": "Neil, what was the answer to your question?",
     "start": 291.833,
     "end": 294.454,
@@ -640,15 +584,15 @@
     "zh_hant": "尼爾，你問題的答案是什麼？"
   },
   {
-    "index": 80,
+    "index": 73,
     "text": "I asked what the average amount of debt a British adult has through credit cards,",
     "start": 294.554,
     "end": 300.437,
-    "zh": "我问的是英国成年人的平均债务是多少，通过信用卡、",
-    "zh_hant": "我問的是英國成年人的平均債務是多少，透過信用卡、"
+    "zh": "我问的是英国成年人通过信用卡、透支和个人贷款平均欠债多少。",
+    "zh_hant": "我問的是英國成年人透過信用卡、透支和個人貸款平均欠債多少。"
   },
   {
-    "index": 81,
+    "index": 74,
     "text": "overdrafts and personal loans.",
     "start": 300.217,
     "end": 302.558,
@@ -656,23 +600,23 @@
     "zh_hant": "透支和個人貸款。"
   },
   {
-    "index": 82,
+    "index": 75,
     "text": "I said it was around £2,200.",
     "start": 302.818,
     "end": 305.79,
-    "zh": "我说大约是2200英镑。",
-    "zh_hant": "我說大約是2200英鎊。"
+    "zh": "我说大概是2200英镑。",
+    "zh_hant": "我說大概是2200英鎊。"
   },
   {
-    "index": 83,
+    "index": 76,
     "text": "I'm afraid that's not the right answer.",
     "start": 305.84,
     "end": 308.461,
-    "zh": "恐怕那不是正确答案。",
-    "zh_hant": "恐怕那不是正確答案。"
+    "zh": "恐怕这不是正确答案。",
+    "zh_hant": "恐怕這不是正確答案。"
   },
   {
-    "index": 84,
+    "index": 77,
     "text": "In fact, it's £4,232.",
     "start": 308.281,
     "end": 311.693,
@@ -680,7 +624,7 @@
     "zh_hant": "事實上，是4232英鎊。"
   },
   {
-    "index": 85,
+    "index": 78,
     "text": "OK.",
     "start": 311.743,
     "end": 313.363,
@@ -688,127 +632,95 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 86,
-    "text": "Let's recap the vocabulary we've learned, starting with debt",
+    "index": 79,
+    "text": "Let's recap the vocabulary we've learned, starting with debt – money a person has borrowed and needs to give back.",
     "start": 313.163,
-    "end": 316.68,
-    "zh": "让我们回顾一下我们学到的词汇，从债务开始",
-    "zh_hant": "讓我們回顧一下我們學到的詞彙，從債務開始"
-  },
-  {
-    "index": 87,
-    "text": "– money a person has borrowed and needs to give back.",
-    "start": 316.28,
     "end": 320.147,
-    "zh": "——一个人借了并需要还回去的钱。",
-    "zh_hant": "——一個人借了並需要還回去的錢。"
+    "zh": "让我们回顾一下学过的词汇，从debt开始——指一个人借来的、需要还回去的钱。",
+    "zh_hant": "讓我們回顧一下學過的詞彙，從debt開始——指一個人借來的、需要還回去的錢。"
   },
   {
-    "index": 88,
-    "text": "The phrases to pay back , to pay off , and to clear a debt",
+    "index": 80,
+    "text": "The phrases to pay back , to pay off , and to clear a debt all mean to give back money you have borrowed.",
     "start": 320.427,
-    "end": 324.649,
-    "zh": "短语“pay back”、“pay off”和“clear a debt”",
-    "zh_hant": "短語“pay back”、“pay off”和“clear a debt”"
-  },
-  {
-    "index": 89,
-    "text": "all mean to give back money you have borrowed.",
-    "start": 324.429,
     "end": 327.091,
-    "zh": "都意味着还给你借的钱。",
-    "zh_hant": "都意味著還給你借的錢。"
+    "zh": "短语pay back、pay off和clear a debt都表示把借来的钱还回去。",
+    "zh_hant": "短語pay back、pay off和clear a debt都表示把借來的錢還回去。"
   },
   {
-    "index": 90,
+    "index": 81,
     "text": "If someone is making ends meet , they have just enough money to pay for basic living expenses.",
     "start": 327.091,
     "end": 333.294,
-    "zh": "如果某人“维持生计”，他们只有足够的钱支付基本生活费用。",
-    "zh_hant": "如果某人“維持生計”，他們只有足夠的錢支付基本生活費用。"
+    "zh": "如果某人在勉强维持生计，meaning他们只有刚好够支付基本生活开销的钱。",
+    "zh_hant": "如果某人在勉強維持生計，meaning他們只有剛好夠支付基本生活開銷的錢。"
   },
   {
-    "index": 91,
+    "index": 82,
     "text": "And if they are in arrears , they still owe money that should have been repaid already.",
     "start": 333.274,
     "end": 338.176,
-    "zh": "如果他们“拖欠款项”，他们仍然欠着本应已经偿还的钱。",
-    "zh_hant": "如果他們“拖欠款項”，他們仍然欠著本應已經償還的錢。"
+    "zh": "如果他们拖欠还款，他们仍欠着本该早已还清的钱。",
+    "zh_hant": "如果他們拖欠還款，他們仍欠著本該早已還清的錢。"
   },
   {
-    "index": 92,
-    "text": "If you buy something on the never-never , you buy it by making small",
+    "index": 83,
+    "text": "If you buy something on the never-never , you buy it by making small regular payments over a long period.",
     "start": 338.556,
-    "end": 342.978,
-    "zh": "如果你通过“永远永远”方式买东西，你通过在一段时间内",
-    "zh_hant": "如果你透過“永遠永遠”方式買東西，你透過在一段時間內"
-  },
-  {
-    "index": 93,
-    "text": "regular payments over a long period.",
-    "start": 342.658,
     "end": 345.379,
-    "zh": "定期进行小额付款来购买。",
-    "zh_hant": "定期進行小額付款來購買。"
+    "zh": "如果你分期赊购买东西，你通过在一段时间内做定期小额付款来购买它。",
+    "zh_hant": "如果你分期賒購買東西，你透過在一段時間內做定期小額付款來購買它。"
   },
   {
-    "index": 94,
-    "text": "And finally, financial strain is emotional stress caused by a lack of money",
+    "index": 84,
+    "text": "And finally, financial strain is emotional stress caused by a lack of money to meet your basic needs.",
     "start": 345.28,
-    "end": 350.302,
-    "zh": "最后，经济压力是由于缺乏资金",
-    "zh_hant": "最後，經濟壓力是由於缺乏資金"
-  },
-  {
-    "index": 95,
-    "text": "to meet your basic needs.",
-    "start": 349.952,
     "end": 351.823,
-    "zh": "来满足你的基本需求而导致的情感压力。",
-    "zh_hant": "來滿足你的基本需求而導致的情感壓力。"
+    "zh": "最后，financial strain是经济压力，由缺乏满足基本需求的钱所引起的情感紧张。",
+    "zh_hant": "最後，financial strain是經濟壓力，由缺乏滿足基本需求的錢所引起的情感緊張。"
   },
   {
-    "index": 96,
+    "index": 85,
     "text": "Once again, our six minutes are up,",
     "start": 351.923,
     "end": 354.104,
-    "zh": "再一次，我们的六分钟到了，",
-    "zh_hant": "再一次，我們的六分鐘到了，"
+    "zh": "再一次，我们的六分钟时间到了，",
+    "zh_hant": "再一次，我們的六分鐘時間到了，"
   },
   {
-    "index": 97,
+    "index": 86,
     "text": "but if you'd like to know how debt is spelled and all the other words from this episode,",
     "start": 353.784,
     "end": 359.506,
-    "zh": "但如果你想了解债务的拼写和本集中的所有其他词汇，",
-    "zh_hant": "但如果你想了解債務的拼寫和本集中的所有其他詞彙，"
+    "zh": "但如果你想知道debt怎么拼写以及本期所有其他单词，",
+    "zh_hant": "但如果你想知道debt怎麼拼寫以及本期所有其他單詞，"
   },
   {
-    "index": 98,
+    "index": 87,
     "text": "visit our website, bbclearningenglish.com, to find a full vocabulary list.",
     "start": 359.246,
     "end": 364.509,
-    "zh": "请访问我们的网站bbclearningenglish.com，找到完整的词汇表。",
-    "zh_hant": "請訪問我們的網站bbclearningenglish.com，找到完整的詞彙表。"
+    "zh": "访问我们的网站bbclearningenglish.com，找到完整的词汇列表。",
+    "zh_hant": "訪問我們的網站bbclearningenglish.com，找到完整的詞彙列表。"
   },
   {
-    "index": 99,
+    "index": 88,
     "text": "See you again soon.",
     "start": 364.509,
     "end": 365.849,
-    "zh": "下次再见。",
-    "zh_hant": "下次再見。"
+    "zh": "很快再见。",
+    "zh_hant": "很快再見。"
   },
   {
-    "index": 100,
+    "index": 89,
     "text": "But for now, it's goodbye.",
     "start": 365.499,
     "end": 367.162,
-    "zh": "但现在，再见。",
-    "zh_hant": "但現在，再見。"
+    "zh": "但现在，该说再见了。",
+    "zh_hant": "但現在，該說再見了。"
   },
   {
-    "index": 101,
+    "index": 90,
     "text": "Bye!",
     "start": 366.812,
     "end": 367.688,
