@@ -4,29 +4,29 @@
     "text": "Hello and welcome to Real Easy English.",
     "start": 0.0,
     "end": 3.291,
-    "zh": "大家好,欢迎收看《Real Easy English》。",
-    "zh_hant": "大家好,歡迎收看《Real Easy English》。"
+    "zh": "你好，欢迎收听《简易英语》。",
+    "zh_hant": "你好，歡迎收聽《簡易英語》。"
   },
   {
     "index": 1,
-    "text": "In this podcast, we have real conversations",
-    "start": 3.062,
+    "text": "In this podcast, we have real conversations.",
+    "start": 3.112,
     "end": 6.353,
-    "zh": "这个播客里,我们有真实的对话",
-    "zh_hant": "這個播客裡,我們有真實的對話"
+    "zh": "在这个播客中，我们有真实的对话。",
+    "zh_hant": "在這個播客中，我們有真實的對話。"
   },
   {
     "index": 2,
     "text": "in easy English to help you learn.",
-    "start": 5.983,
+    "start": 6.033,
     "end": 8.454,
-    "zh": "用简单的英语帮助你学习。",
-    "zh_hant": "用簡單的英語幫助你學習。"
+    "zh": "用简易英语来帮助你学习。",
+    "zh_hant": "用簡易英語來幫助你學習。"
   },
   {
     "index": 3,
     "text": "I'm Georgie.",
-    "start": 8.204,
+    "start": 8.254,
     "end": 9.174,
     "zh": "我是乔治。",
     "zh_hant": "我是喬治。"
@@ -34,7 +34,7 @@
   {
     "index": 4,
     "text": "And I'm Beth.",
-    "start": 9.265,
+    "start": 9.315,
     "end": 10.815,
     "zh": "我是贝丝。",
     "zh_hant": "我是貝絲。"
@@ -42,7 +42,7 @@
   {
     "index": 5,
     "text": "You can find a video of this podcast",
-    "start": 10.886,
+    "start": 10.936,
     "end": 14.077,
     "zh": "你可以找到这个播客的视频",
     "zh_hant": "你可以找到這個播客的影片"
@@ -50,279 +50,279 @@
   {
     "index": 6,
     "text": "and a worksheet to help you learn on our website,",
-    "start": 13.927,
+    "start": 13.977,
     "end": 17.439,
-    "zh": "我们网站上还有一份帮助你学习的练习册",
-    "zh_hant": "我們網站上還有一份幫助你學習的練習冊"
+    "zh": "和帮助你学习的工作表，在我们的网站上，",
+    "zh_hant": "和幫助你學習的工作表，在我們的網站上，"
   },
   {
     "index": 7,
     "text": "bbclearningenglish.com.",
-    "start": 17.289,
+    "start": 17.339,
     "end": 19.8,
-    "zh": "bbclearningenglish.com",
-    "zh_hant": "bbclearningenglish.com"
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
   },
   {
     "index": 8,
     "text": "Hi Beth, how are you today?",
-    "start": 25.473,
+    "start": 25.523,
     "end": 27.323,
-    "zh": "嗨,贝丝,你今天怎么样?",
-    "zh_hant": "嗨,貝絲,你今天怎麼樣?"
+    "zh": "嗨，贝丝，你今天好吗？",
+    "zh_hant": "嗨，貝絲，你今天好嗎？"
   },
   {
     "index": 9,
     "text": "I'm good, thank you.",
-    "start": 27.234,
+    "start": 27.284,
     "end": 28.424,
-    "zh": "我很好,谢谢。",
-    "zh_hant": "我很好,謝謝。"
+    "zh": "我很好，谢谢。",
+    "zh_hant": "我很好，謝謝。"
   },
   {
     "index": 10,
     "text": "I am very busy.",
-    "start": 28.434,
+    "start": 28.484,
     "end": 29.845,
-    "zh": "我很忙。",
-    "zh_hant": "我很忙。"
+    "zh": "我非常忙。",
+    "zh_hant": "我非常忙。"
   },
   {
     "index": 11,
     "text": "I have a lot of meetings.",
-    "start": 29.595,
-    "end": 32.166,
+    "start": 29.645,
+    "end": 32.186,
     "zh": "我有很多会议。",
     "zh_hant": "我有很多會議。"
   },
   {
     "index": 12,
     "text": "How are you?",
-    "start": 31.716,
+    "start": 31.836,
     "end": 32.606,
-    "zh": "你好吗?",
-    "zh_hant": "你好嗎?"
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
   },
   {
     "index": 13,
     "text": "I'm okay, thank you, Beth.",
-    "start": 33.077,
+    "start": 33.127,
     "end": 34.687,
-    "zh": "我很好,谢谢你,贝丝。",
-    "zh_hant": "我很好,謝謝你,貝絲。"
+    "zh": "我还可以，谢谢，贝丝。",
+    "zh_hant": "我還可以，謝謝，貝絲。"
   },
   {
     "index": 14,
     "text": "I don't have many meetings today,",
-    "start": 34.377,
+    "start": 34.427,
     "end": 36.448,
-    "zh": "我今天没有很多会议。",
-    "zh_hant": "我今天沒有很多會議。"
+    "zh": "我今天没有很多会议，",
+    "zh_hant": "我今天沒有很多會議，"
   },
   {
     "index": 15,
     "text": "but today we are talking about meetings,",
-    "start": 36.558,
+    "start": 36.608,
     "end": 39.53,
-    "zh": "今天我们要谈的是会议",
-    "zh_hant": "今天我們要談的是會議"
+    "zh": "但今天我们要谈论会议，",
+    "zh_hant": "但今天我們要談論會議，"
   },
   {
     "index": 16,
-    "text": "in particular work meetings,",
-    "start": 39.44,
-    "end": 41.851,
-    "zh": "尤其是工作会议",
-    "zh_hant": "尤其是工作會議"
+    "text": "in particular work meetings, where you talk to colleagues",
+    "start": 39.49,
+    "end": 43.432,
+    "zh": "特别是工作会议，你和同事交谈",
+    "zh_hant": "特別是工作會議，你和同事交談"
   },
   {
     "index": 17,
-    "text": "where you talk to colleagues and discuss",
-    "start": 41.401,
-    "end": 44.252,
-    "zh": "你在那里和同事交谈、讨论问题",
-    "zh_hant": "你在那裡和同事交談、討論問題"
+    "text": "and discuss ideas or make decisions.",
+    "start": 43.292,
+    "end": 46.253,
+    "zh": "讨论想法或做决定。",
+    "zh_hant": "討論想法或做決定。"
   },
   {
     "index": 18,
-    "text": "ideas or make decisions.",
-    "start": 43.882,
-    "end": 46.253,
-    "zh": "想法或做决定。",
-    "zh_hant": "想法或做決定。"
-  },
-  {
-    "index": 19,
     "text": "That's right.",
-    "start": 46.224,
+    "start": 46.274,
     "end": 47.314,
     "zh": "没错。",
     "zh_hant": "沒錯。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Okay, shall we get started?",
-    "start": 47.144,
+    "start": 47.194,
     "end": 49.135,
-    "zh": "好的,我们开始吧?",
-    "zh_hant": "好的,我們開始吧?"
+    "zh": "好的，我们开始吧？",
+    "zh_hant": "好的，我們開始吧？"
+  },
+  {
+    "index": 20,
+    "text": "Yes.",
+    "start": 48.875,
+    "end": 49.615,
+    "zh": "好的。",
+    "zh_hant": "好的。"
   },
   {
     "index": 21,
-    "text": "Yes.",
-    "start": 48.825,
-    "end": 49.615,
-    "zh": "是的。",
-    "zh_hant": "是的。"
+    "text": "So, Beth, you have a lot of meetings today.",
+    "start": 49.795,
+    "end": 52.917,
+    "zh": "那么，贝丝，你今天有很多会议。",
+    "zh_hant": "那麼，貝絲，你今天有很多會議。"
   },
   {
     "index": 22,
-    "text": "So, Beth, you have a lot of meetings today.",
-    "start": 49.745,
-    "end": 52.917,
-    "zh": "Beth,你今天有很多会议。",
-    "zh_hant": "Beth,你今天有很多會議。"
+    "text": "Do you generally have a lot of meetings at work?",
+    "start": 52.737,
+    "end": 55.938,
+    "zh": "你通常工作中会议很多吗？",
+    "zh_hant": "你通常工作中會議很多嗎？"
   },
   {
     "index": 23,
-    "text": "Do you generally have a lot of meetings at work?",
-    "start": 52.687,
-    "end": 55.938,
-    "zh": "你工作中一般会有很多会议吗?",
-    "zh_hant": "你工作中一般會有很多會議嗎?"
+    "text": "It really depends on what I'm working on.",
+    "start": 57.339,
+    "end": 61.521,
+    "zh": "真的取决于我在做什么。",
+    "zh_hant": "真的取決於我在做什麼。"
   },
   {
     "index": 24,
-    "text": "It really depends on what I'm working on.",
-    "start": 57.289,
-    "end": 61.521,
-    "zh": "这真的要看我在忙什么。",
-    "zh_hant": "這真的要看我在忙什麼。"
+    "text": "So if I have a project",
+    "start": 61.961,
+    "end": 64.862,
+    "zh": "所以如果我有项目",
+    "zh_hant": "所以如果我有專案"
   },
   {
     "index": 25,
-    "text": "So if I have a project",
-    "start": 61.911,
-    "end": 64.862,
-    "zh": "那如果我有一个项目",
-    "zh_hant": "那如果我有一個專案"
+    "text": "where I need to meet a lot of people,",
+    "start": 65.023,
+    "end": 68.564,
+    "zh": "需要见很多人的话，",
+    "zh_hant": "需要見很多人的話，"
   },
   {
     "index": 26,
-    "text": "where I need to meet a lot of people,",
-    "start": 64.973,
-    "end": 68.564,
-    "zh": "我需要认识很多人的地方",
-    "zh_hant": "我需要認識很多人的地方"
+    "text": "then I might have quite a few meetings.",
+    "start": 68.664,
+    "end": 71.486,
+    "zh": "那我可能会有不少会议。",
+    "zh_hant": "那我可能會有不少會議。"
   },
   {
     "index": 27,
-    "text": "then I might have quite a few meetings.",
-    "start": 68.614,
-    "end": 71.486,
-    "zh": "那我可能会有不少会议要开。",
-    "zh_hant": "那我可能會有不少會議要開。"
+    "text": "And that's why I'm busy now.",
+    "start": 72.046,
+    "end": 73.827,
+    "zh": "这也是我现在忙的原因。",
+    "zh_hant": "這也是我現在忙的原因。"
   },
   {
     "index": 28,
-    "text": "And that's why I'm busy now.",
-    "start": 71.996,
-    "end": 73.827,
-    "zh": "这就是我现在很忙的原因。",
-    "zh_hant": "這就是我現在很忙的原因。"
+    "text": "But generally,",
+    "start": 73.987,
+    "end": 75.648,
+    "zh": "但一般来说，",
+    "zh_hant": "但一般來說，"
   },
   {
     "index": 29,
-    "text": "But generally,",
-    "start": 73.937,
-    "end": 75.648,
-    "zh": "但一般来说,",
-    "zh_hant": "但一般來說,"
+    "text": "we have a few meetings together",
+    "start": 76.168,
+    "end": 80.29,
+    "zh": "我们团队会一起开几个会，",
+    "zh_hant": "我們團隊會一起開幾個會，"
   },
   {
     "index": 30,
-    "text": "we have a few meetings together",
-    "start": 76.118,
-    "end": 80.29,
-    "zh": "我们一起开过几次会。",
-    "zh_hant": "我們一起開過幾次會。"
+    "text": "as a team,",
+    "start": 80.291,
+    "end": 81.371,
+    "zh": "作为团队，",
+    "zh_hant": "作為團隊，"
   },
   {
     "index": 31,
-    "text": "as a team,",
-    "start": 80.241,
-    "end": 81.371,
-    "zh": "作为一个团队",
-    "zh_hant": "作為一個團隊"
+    "text": "but I don't think we have loads of meetings.",
+    "start": 81.831,
+    "end": 85.213,
+    "zh": "但我觉得我们会议不算多。",
+    "zh_hant": "但我覺得我們會議不算多。"
   },
   {
     "index": 32,
-    "text": "but I don't think we have loads of meetings.",
-    "start": 81.781,
-    "end": 85.213,
-    "zh": "不过我觉得我们没有很多会议。",
-    "zh_hant": "不過我覺得我們沒有很多會議。"
+    "text": "Compared to other jobs, I don't think we have many meetings.",
+    "start": 85.533,
+    "end": 89.275,
+    "zh": "和其他工作相比，我觉得我们的会议不多。",
+    "zh_hant": "和其他工作相比，我覺得我們的會議不多。"
   },
   {
     "index": 33,
-    "text": "Compared to other jobs, I don't think we have many meetings.",
-    "start": 85.483,
-    "end": 89.275,
-    "zh": "和其他工作相比,我觉得我们的会议不算多。",
-    "zh_hant": "和其他工作相比,我覺得我們的會議不算多。"
+    "text": "Most of our work is producing things",
+    "start": 89.155,
+    "end": 92.897,
+    "zh": "我们大部分工作是制作内容",
+    "zh_hant": "我們大部分工作是製作內容"
   },
   {
     "index": 34,
-    "text": "Most of our work is producing things",
-    "start": 89.105,
-    "end": 92.897,
-    "zh": "我们的大部分工作都是生产东西。",
-    "zh_hant": "我們的大部分工作都是生產東西。"
+    "text": "and editing and writing.",
+    "start": 92.737,
+    "end": 95.298,
+    "zh": "以及编辑和写作。",
+    "zh_hant": "以及編輯和寫作。"
   },
   {
     "index": 35,
-    "text": "and editing and writing.",
-    "start": 92.687,
-    "end": 95.298,
-    "zh": "编辑和写作。",
-    "zh_hant": "編輯和寫作。"
+    "text": "But you're right, when there are lots of big projects",
+    "start": 95.858,
+    "end": 99.16,
+    "zh": "但你说得对，当有很多大项目时，",
+    "zh_hant": "但你說得對，當有很多大專案時，"
   },
   {
     "index": 36,
-    "text": "But you're right, when there are lots of big projects that we need to talk to other people on the project,",
-    "start": 95.298,
+    "text": "that we need to talk to other people on the project,",
+    "start": 98.81,
     "end": 102.882,
-    "zh": "不过你说得对,当有很多大项目需要和项目里的其他人沟通时,",
-    "zh_hant": "不過你說得對,當有很多大專案需要和專案裡的其他人溝通時,"
+    "zh": "我们需要和项目中的其他人交流，",
+    "zh_hant": "我們需要和專案中的其他人交流，"
   },
   {
     "index": 37,
     "text": "we have more meetings.",
-    "start": 102.572,
+    "start": 102.622,
     "end": 104.122,
-    "zh": "我们有更多会议。",
-    "zh_hant": "我們有更多會議。"
+    "zh": "我们的会议会多一些。",
+    "zh_hant": "我們的會議會多一些。"
   },
   {
     "index": 38,
     "text": "But yeah, like you, it really depends.",
-    "start": 104.133,
+    "start": 104.183,
     "end": 106.904,
-    "zh": "不过说真的,跟你一样,这真的要看情况。",
-    "zh_hant": "不過說真的,跟你一樣,這真的要看情況。"
+    "zh": "但是啊，像你一样，真的要看情况。",
+    "zh_hant": "但是啊，像你一樣，真的要看情況。"
   },
   {
     "index": 39,
     "text": "So when do you think meetings are useful?",
-    "start": 106.774,
+    "start": 106.824,
     "end": 109.865,
-    "zh": "你觉得什么时候开会才是有用的?",
-    "zh_hant": "你覺得什麼時候開會才是有用的?"
+    "zh": "那你觉得什么时候会议是有用的？",
+    "zh_hant": "那你覺得什麼時候會議是有用的？"
   },
   {
     "index": 40,
     "text": "I think when you",
-    "start": 111.336,
+    "start": 111.386,
     "end": 114.087,
     "zh": "我觉得当你",
     "zh_hant": "我覺得當你"
@@ -330,527 +330,599 @@
   {
     "index": 41,
     "text": "need to brainstorm,",
-    "start": 114.678,
+    "start": 114.728,
     "end": 117.149,
-    "zh": "需要集思广益",
-    "zh_hant": "需要集思廣益"
+    "zh": "需要头脑风暴时，",
+    "zh_hant": "需要頭腦風暴時，"
   },
   {
     "index": 42,
     "text": "so brainstorm is when you have lots of new",
-    "start": 116.719,
+    "start": 116.799,
     "end": 120.991,
-    "zh": "所以头脑风暴就是当你有很多新想法的时候",
-    "zh_hant": "所以頭腦風暴就是當你有很多新想法的時候"
+    "zh": "头脑风暴就是当你有很多新的",
+    "zh_hant": "頭腦風暴就是當你有很多新的"
   },
   {
     "index": 43,
-    "text": "ideas and you need to talk about them together,",
-    "start": 120.641,
-    "end": 123.492,
-    "zh": "这些想法,你们需要一起讨论。",
-    "zh_hant": "這些想法,你們需要一起討論。"
+    "text": "ideas",
+    "start": 120.691,
+    "end": 121.591,
+    "zh": "想法",
+    "zh_hant": "想法"
   },
   {
     "index": 44,
-    "text": "I think then meetings are really useful.",
-    "start": 123.523,
-    "end": 126.554,
-    "zh": "我觉得那么开会真的很有用。",
-    "zh_hant": "我覺得那麼開會真的很有用。"
+    "text": "and you need to talk about them together, I think",
+    "start": 121.241,
+    "end": 124.373,
+    "zh": "需要一起讨论，我觉得",
+    "zh_hant": "需要一起討論，我覺得"
   },
   {
     "index": 45,
-    "text": "Because you hear lots of new ideas,",
-    "start": 126.104,
-    "end": 129.735,
-    "zh": "因为你会听到很多新想法,",
-    "zh_hant": "因為你會聽到很多新想法,"
+    "text": "then meetings are really useful.",
+    "start": 124.023,
+    "end": 126.554,
+    "zh": "那时候会议真的很有用。",
+    "zh_hant": "那時候會議真的很有用。"
   },
   {
     "index": 46,
-    "text": "and when you're in a room with other people,",
-    "start": 129.406,
-    "end": 133.617,
-    "zh": "当你和其他人在同一个房间里时,",
-    "zh_hant": "當你和其他人在同一個房間裡時,"
+    "text": "Because you hear lots of new ideas,",
+    "start": 126.204,
+    "end": 129.735,
+    "zh": "因为你能听到很多新想法，",
+    "zh_hant": "因為你能聽到很多新想法，"
   },
   {
     "index": 47,
-    "text": "if, for example, I have an idea and you say, that's good,",
-    "start": 133.247,
-    "end": 137.679,
-    "zh": "如果,比如说,我有一个想法,而你说,这个不错",
-    "zh_hant": "如果,比如說,我有一個想法,而你說,這個不錯"
+    "text": "and when you're in a room with other people,",
+    "start": 129.456,
+    "end": 133.617,
+    "zh": "而且当你在房间里和其他人在一起时，",
+    "zh_hant": "而且當你在房間裡和其他人在一起時，"
   },
   {
     "index": 48,
-    "text": "and we can also do this and we can all",
-    "start": 137.57,
-    "end": 141.841,
-    "zh": "我们也可以这样做,我们都可以",
-    "zh_hant": "我們也可以這樣做,我們都可以"
+    "text": "if, for example, I have an idea and you say, that's good,",
+    "start": 133.297,
+    "end": 137.679,
+    "zh": "比如，如果我有个想法，你说很好，",
+    "zh_hant": "比如，如果我有個想法，你說很好，"
   },
   {
     "index": 49,
-    "text": "work together,",
-    "start": 141.391,
-    "end": 142.722,
-    "zh": "一起工作",
-    "zh_hant": "一起工作"
+    "text": "and we can also do this and we can all",
+    "start": 137.62,
+    "end": 141.861,
+    "zh": "我们还可以这样做，我们可以一起",
+    "zh_hant": "我們還可以這樣做，我們可以一起"
   },
   {
     "index": 50,
-    "text": "and I think those kind of meetings are really useful.",
-    "start": 142.332,
-    "end": 146.284,
-    "zh": "我觉得这种会议真的很有用。",
-    "zh_hant": "我覺得這種會議真的很有用。"
+    "text": "work together,",
+    "start": 141.511,
+    "end": 142.722,
+    "zh": "合作，",
+    "zh_hant": "合作，"
   },
   {
     "index": 51,
-    "text": "Yeah, I think that way of doing it is also",
-    "start": 146.194,
-    "end": 149.885,
-    "zh": "这种做法我觉得也可以",
-    "zh_hant": "這種做法我覺得也可以"
+    "text": "and I think those kind of meetings are really useful.",
+    "start": 142.382,
+    "end": 146.284,
+    "zh": "我觉得那种会议真的很有用。",
+    "zh_hant": "我覺得那種會議真的很有用。"
   },
   {
     "index": 52,
-    "text": "more efficient.",
-    "start": 149.495,
-    "end": 151.346,
-    "zh": "更高效。",
-    "zh_hant": "更高效。"
+    "text": "Yeah, I think that way of doing it is also",
+    "start": 146.244,
+    "end": 149.885,
+    "zh": "是的，我觉得那种方式也更",
+    "zh_hant": "是的，我覺得那種方式也更"
   },
   {
     "index": 53,
-    "text": "So sometimes it's better to just have one hour,",
-    "start": 150.996,
-    "end": 154.768,
-    "zh": "有时候只上一个小时反而更好",
-    "zh_hant": "有時候只上一個小時反而更好"
+    "text": "more efficient.",
+    "start": 149.545,
+    "end": 151.346,
+    "zh": "高效。",
+    "zh_hant": "高效。"
   },
   {
     "index": 54,
-    "text": "come up with ideas and decide on the ideas.",
-    "start": 155.058,
-    "end": 159.03,
-    "zh": "想出主意并做出决定。",
-    "zh_hant": "想出主意並做出決定。"
+    "text": "So sometimes it's better to just have one hour,",
+    "start": 151.046,
+    "end": 154.768,
+    "zh": "所以有时候最好只花一个小时，",
+    "zh_hant": "所以有時候最好只花一個小時，"
   },
   {
     "index": 55,
-    "text": "Yeah, definitely.",
-    "start": 158.82,
-    "end": 160.271,
-    "zh": "是的，绝对是这样。",
-    "zh_hant": "是的，絕對是這樣。"
+    "text": "come up with ideas and decide on the ideas.",
+    "start": 155.108,
+    "end": 159.03,
+    "zh": "想出想法并做出决定。",
+    "zh_hant": "想出想法並做出決定。"
   },
   {
     "index": 56,
-    "text": "Do you tend to speak up in meetings?",
-    "start": 160.421,
-    "end": 164.933,
-    "zh": "你在会议上会主动发言吗?",
-    "zh_hant": "你在會議上會主動發言嗎?"
+    "text": "Yeah, definitely.",
+    "start": 158.87,
+    "end": 160.271,
+    "zh": "是的，当然。",
+    "zh_hant": "是的，當然。"
   },
   {
     "index": 57,
-    "text": "So that means do you ask questions and feel",
-    "start": 164.483,
-    "end": 168.835,
-    "zh": "这是不是意味着你要提问并感受一下?",
-    "zh_hant": "這是不是意味著你要提問並感受一下?"
+    "text": "Do you tend to speak up in meetings?",
+    "start": 160.471,
+    "end": 164.953,
+    "zh": "你在会议上通常会发言吗？",
+    "zh_hant": "你在會議上通常會發言嗎？"
   },
   {
     "index": 58,
-    "text": "confident to speak?",
-    "start": 168.385,
-    "end": 170.136,
-    "zh": "你有信心说话吗?",
-    "zh_hant": "你有信心說話嗎?"
+    "text": "So that means do you ask questions",
+    "start": 164.603,
+    "end": 168.435,
+    "zh": "就是说你会提问",
+    "zh_hant": "就是說你會提問"
   },
   {
     "index": 59,
-    "text": "I think if the meeting",
-    "start": 170.546,
-    "end": 173.798,
-    "zh": "我觉得如果开会的话",
-    "zh_hant": "我覺得如果開會的話"
+    "text": "and feel confident to speak?",
+    "start": 168.085,
+    "end": 170.136,
+    "zh": "并且有信心讲话吗？",
+    "zh_hant": "並且有信心講話嗎？"
   },
   {
     "index": 60,
-    "text": "has lots of people,",
-    "start": 173.348,
-    "end": 175.598,
-    "zh": "人很多",
-    "zh_hant": "人很多"
+    "text": "I think if the meeting",
+    "start": 170.596,
+    "end": 173.817,
+    "zh": "我觉得如果会议",
+    "zh_hant": "我覺得如果會議"
   },
   {
     "index": 61,
-    "text": "I find it a bit more stressful to speak up",
-    "start": 175.489,
-    "end": 179.08,
-    "zh": "我觉得主动发言压力更大一些",
-    "zh_hant": "我覺得主動發言壓力更大一些"
+    "text": "has lots of people,",
+    "start": 173.467,
+    "end": 175.598,
+    "zh": "有很多人，",
+    "zh_hant": "有很多人，"
   },
   {
     "index": 62,
-    "text": "because I get a bit nervous to speak in front of lots of people,",
-    "start": 179.771,
-    "end": 183.802,
-    "zh": "因为在很多人面前讲话我会有点紧张",
-    "zh_hant": "因為在很多人面前講話我會有點緊張"
+    "text": "I find it a bit more stressful to speak up",
+    "start": 175.539,
+    "end": 179.08,
+    "zh": "我会觉得发言有点压力",
+    "zh_hant": "我會覺得發言有點壓力"
   },
   {
     "index": 63,
-    "text": "but if it's a meeting with just",
-    "start": 183.853,
-    "end": 186.944,
-    "zh": "但如果只是一场普通的会面",
-    "zh_hant": "但如果只是一場普通的會面"
+    "text": "because I get a bit nervous to speak in front of lots of people,",
+    "start": 179.821,
+    "end": 183.802,
+    "zh": "因为在很多人面前讲话我会有点紧张，",
+    "zh_hant": "因為在很多人面前講話我會有點緊張，"
   },
   {
     "index": 64,
-    "text": "our team, for example you guys I like and trust,",
-    "start": 186.944,
-    "end": 191.206,
-    "zh": "比如说我们团队,你们这些人我很喜欢也很信任,",
-    "zh_hant": "比如說我們團隊,你們這些人我很喜歡也很信任,"
+    "text": "but if it's a meeting with just our team,",
+    "start": 183.903,
+    "end": 187.664,
+    "zh": "但如果只是我们团队的会议，",
+    "zh_hant": "但如果只是我們團隊的會議，"
   },
   {
     "index": 65,
-    "text": "I don't mind speaking up that much.",
-    "start": 193.217,
-    "end": 195.848,
-    "zh": "我不太介意主动发言。",
-    "zh_hant": "我不太介意主動發言。"
+    "text": "for example you guys I like and trust,",
+    "start": 187.314,
+    "end": 191.206,
+    "zh": "比如你们这些我喜欢和信任的人，",
+    "zh_hant": "比如你們這些我喜歡和信任的人，"
   },
   {
     "index": 66,
-    "text": "And sometimes we have meetings",
-    "start": 195.679,
-    "end": 199.07,
-    "zh": "有时候我们还要开会",
-    "zh_hant": "有時候我們還要開會"
+    "text": "I don't mind speaking up that much.",
+    "start": 193.267,
+    "end": 195.848,
+    "zh": "我不介意多发言。",
+    "zh_hant": "我不介意多發言。"
   },
   {
     "index": 67,
-    "text": "in person,",
-    "start": 198.761,
-    "end": 200.331,
-    "zh": "亲自",
-    "zh_hant": "親自"
+    "text": "And sometimes we have meetings",
+    "start": 195.729,
+    "end": 199.07,
+    "zh": "有时候我们有会议",
+    "zh_hant": "有時候我們有會議"
   },
   {
     "index": 68,
-    "text": "sometimes you have meetings on a call, so a video call.",
-    "start": 200.441,
-    "end": 204.513,
-    "zh": "有时候你需要开电话会议,也就是视频通话。",
-    "zh_hant": "有時候你需要開電話會議,也就是視訊通話。"
+    "text": "in person,",
+    "start": 198.811,
+    "end": 200.331,
+    "zh": "是面对面的，",
+    "zh_hant": "是面對面的，"
   },
   {
     "index": 69,
-    "text": "Do you prefer meeting in person",
-    "start": 204.583,
-    "end": 208.595,
-    "zh": "你更喜欢面谈吗?",
-    "zh_hant": "你更喜歡面談嗎?"
+    "text": "sometimes you have meetings on a call, so a video call.",
+    "start": 200.491,
+    "end": 204.513,
+    "zh": "有时候你在电话上开会，就是视频通话。",
+    "zh_hant": "有時候你在電話上開會，就是視訊通話。"
   },
   {
     "index": 70,
-    "text": "or having calls?",
-    "start": 208.365,
-    "end": 209.916,
-    "zh": "还是打电话?",
-    "zh_hant": "還是打電話?"
+    "text": "Do you prefer meeting in person",
+    "start": 204.633,
+    "end": 208.595,
+    "zh": "你更喜欢面对面会议",
+    "zh_hant": "你更喜歡面對面會議"
   },
   {
     "index": 71,
-    "text": "I think I prefer meetings in person",
-    "start": 210.256,
-    "end": 213.818,
-    "zh": "我觉得我更喜欢面对面开会,因为",
-    "zh_hant": "我覺得我更喜歡面對面開會,因為"
+    "text": "or having calls?",
+    "start": 208.415,
+    "end": 209.916,
+    "zh": "还是打电话呢？",
+    "zh_hant": "還是打電話呢？"
   },
   {
     "index": 72,
-    "text": "because you can kind of see the facial expressions and body language more easily,",
-    "start": 213.468,
-    "end": 220.341,
-    "zh": "这样你能更容易看清面部表情和肢体语言,",
-    "zh_hant": "這樣你能更容易看清面部表情和肢體語言,"
+    "text": "I think I prefer meetings",
+    "start": 210.256,
+    "end": 212.817,
+    "zh": "我觉得我更喜欢面对面",
+    "zh_hant": "我覺得我更喜歡面對面"
   },
   {
     "index": 73,
-    "text": "I think, and it's easier to know",
-    "start": 220.431,
-    "end": 224.123,
-    "zh": "我认为,这样更容易知道",
-    "zh_hant": "我認為,這樣更容易知道"
+    "text": "in person because you can kind of see",
+    "start": 212.557,
+    "end": 216.779,
+    "zh": "会议，因为你能更容易地看到",
+    "zh_hant": "會議，因為你能更容易地看到"
   },
   {
     "index": 74,
-    "text": "when a person wants to speak, these kinds of things.",
-    "start": 223.873,
-    "end": 228.225,
-    "zh": "人想说话的时候,诸如此类的事情。",
-    "zh_hant": "人想說話的時候,諸如此類的事情。"
+    "text": "the facial expressions and body language more easily,",
+    "start": 216.899,
+    "end": 220.341,
+    "zh": "面部表情和肢体语言，",
+    "zh_hant": "面部表情和肢體語言，"
   },
   {
     "index": 75,
-    "text": "Yeah, no, I agree with what you're saying.",
-    "start": 228.215,
-    "end": 231.346,
-    "zh": "对,不,我同意你说的。",
-    "zh_hant": "對,不,我同意你說的。"
+    "text": "I think, and it's easier to know",
+    "start": 220.481,
+    "end": 224.123,
+    "zh": "我觉得，也更容易知道",
+    "zh_hant": "我覺得，也更容易知道"
   },
   {
     "index": 76,
-    "text": "A lot of the meetings that I have had recently",
-    "start": 231.657,
-    "end": 234.988,
-    "zh": "我最近参加的很多会议",
-    "zh_hant": "我最近參加的很多會議"
+    "text": "when a person wants to speak, these kinds of things.",
+    "start": 223.923,
+    "end": 228.225,
+    "zh": "一个人什么时候想说话之类的。",
+    "zh_hant": "一個人什麼時候想說話之類的。"
   },
   {
     "index": 77,
-    "text": "have been with people in different time zones in different countries.",
-    "start": 234.988,
-    "end": 239.831,
-    "zh": "曾经和身处不同国家、不同时区的人们在一起过。",
-    "zh_hant": "曾經和身處不同國家、不同時區的人們在一起過。"
+    "text": "Yeah, no, I agree with what you're saying.",
+    "start": 228.265,
+    "end": 231.346,
+    "zh": "是的，不，我同意你说的。",
+    "zh_hant": "是的，不，我同意你說的。"
   },
   {
     "index": 78,
-    "text": "So definitely then a call is better because it's the best way to speak without having to go to different countries.",
-    "start": 239.831,
-    "end": 251.977,
-    "zh": "所以打电话确实更好，因为这样不用跑到不同国家就能交流，是最方便的方式。",
-    "zh_hant": "所以打電話確實更好，因為這樣不用跑到不同國家就能交流，是最方便的方式。"
+    "text": "A lot of the meetings that I have had recently",
+    "start": 231.707,
+    "end": 234.988,
+    "zh": "我最近很多会议",
+    "zh_hant": "我最近很多會議"
   },
   {
     "index": 79,
-    "text": "But I agree,",
-    "start": 252.868,
-    "end": 254.258,
-    "zh": "但我同意,",
-    "zh_hant": "但我同意,"
+    "text": "have been with people in different time zones",
+    "start": 234.668,
+    "end": 238.45,
+    "zh": "都是和在不同时区的人",
+    "zh_hant": "都是和在不同時區的人"
   },
   {
     "index": 80,
-    "text": "I think it's nice to be able to see body language better in a face to face meeting.",
-    "start": 254.258,
-    "end": 262.562,
-    "zh": "我觉得面对面交流能更好地看到肢体语言,这一点很不错。",
-    "zh_hant": "我覺得面對面交流能更好地看到肢體語言,這一點很不錯。"
+    "text": "in different countries.",
+    "start": 238.1,
+    "end": 239.831,
+    "zh": "不同国家的人。",
+    "zh_hant": "不同國家的人。"
   },
   {
     "index": 81,
-    "text": "But meetings on calls now are so normal,",
-    "start": 262.172,
-    "end": 266.584,
-    "zh": "现在打电话开会已经很正常了",
-    "zh_hant": "現在打電話開會已經很正常了"
+    "text": "So definitely then a call",
+    "start": 239.951,
+    "end": 243.973,
+    "zh": "所以那时打电话",
+    "zh_hant": "所以那時打電話"
   },
   {
     "index": 82,
-    "text": "that there's not loads of difference.",
-    "start": 266.654,
-    "end": 269.886,
-    "zh": "没有太大区别。",
-    "zh_hant": "沒有太大區別。"
+    "text": "is better",
+    "start": 243.753,
+    "end": 244.833,
+    "zh": "更好",
+    "zh_hant": "更好"
   },
   {
     "index": 83,
-    "text": "It is also really nice to be able to take calls",
-    "start": 269.936,
-    "end": 274.228,
-    "zh": "也可以接电话,这一点真的很不错",
-    "zh_hant": "也可以接電話,這一點真的很不錯"
+    "text": "because it's the best way to speak",
+    "start": 245.914,
+    "end": 249.035,
+    "zh": "因为这是最好的讲话方式",
+    "zh_hant": "因為這是最好的講話方式"
   },
   {
     "index": 84,
-    "text": "in your own house.",
-    "start": 273.798,
-    "end": 275.288,
-    "zh": "在你自己家里",
-    "zh_hant": "在你自己家裡"
+    "text": "without having to go to different countries.",
+    "start": 248.685,
+    "end": 251.977,
+    "zh": "不用去不同的国家。",
+    "zh_hant": "不用去不同的國家。"
   },
   {
     "index": 85,
-    "text": "So working from home can be really nice",
-    "start": 275.018,
-    "end": 278.23,
-    "zh": "在家工作真的很不错",
-    "zh_hant": "在家工作真的很不錯"
+    "text": "But I agree,",
+    "start": 252.918,
+    "end": 254.258,
+    "zh": "但我同意，",
+    "zh_hant": "但我同意，"
   },
   {
     "index": 86,
-    "text": "because you can have your snacks and drinks nearby.",
-    "start": 277.78,
-    "end": 282.072,
-    "zh": "因为你可以把零食和饮料放在旁边。",
-    "zh_hant": "因為你可以把零食和飲料放在旁邊。"
+    "text": "I think it's",
+    "start": 253.908,
+    "end": 254.998,
+    "zh": "我觉得能够",
+    "zh_hant": "我覺得能夠"
   },
   {
     "index": 87,
-    "text": "So yeah, they both have their pros and cons.",
-    "start": 282.843,
-    "end": 285.594,
-    "zh": "所以嗯,两者各有利弊。",
-    "zh_hant": "所以嗯,兩者各有利弊。"
+    "text": "nice to be able to see body language",
+    "start": 255.299,
+    "end": 259.46,
+    "zh": "看到肢体语言很好",
+    "zh_hant": "看到肢體語言很好"
   },
   {
     "index": 88,
-    "text": "That's true. Okay, let's recap the language we heard during the conversation,",
-    "start": 291.668,
-    "end": 297.299,
-    "zh": "没错。好的,我们来回顾一下对话中出现的表达,",
-    "zh_hant": "沒錯。好的,我們來回顧一下對話中出現的表達,"
+    "text": "better",
+    "start": 259.521,
+    "end": 260.401,
+    "zh": "更清楚地",
+    "zh_hant": "更清楚地"
   },
   {
     "index": 89,
-    "text": "starting with brainstorm,",
-    "start": 297.25,
-    "end": 299.22,
-    "zh": "先从头脑风暴开始",
-    "zh_hant": "先從頭腦風暴開始"
+    "text": "in a face to face meeting.",
+    "start": 260.161,
+    "end": 262.562,
+    "zh": "在面对面会议中。",
+    "zh_hant": "在面對面會議中。"
   },
   {
     "index": 90,
-    "text": "which is when you get together with a group of people",
-    "start": 298.911,
-    "end": 302.042,
-    "zh": "你和一群人聚在一起的时候",
-    "zh_hant": "你和一群人聚在一起的時候"
+    "text": "But meetings on calls now are so normal,",
+    "start": 262.222,
+    "end": 266.584,
+    "zh": "但现在电话会议太常见了，",
+    "zh_hant": "但現在電話會議太常見了，"
   },
   {
     "index": 91,
-    "text": "to come up with ideas.",
-    "start": 301.892,
-    "end": 303.603,
-    "zh": "想出主意",
-    "zh_hant": "想出主意"
+    "text": "that there's not loads of difference.",
+    "start": 266.704,
+    "end": 269.886,
+    "zh": "所以没什么太大区别。",
+    "zh_hant": "所以沒什麼太大區別。"
   },
   {
     "index": 92,
-    "text": "If you speak up in a meeting,",
-    "start": 304.373,
-    "end": 307.004,
-    "zh": "如果你在会议上发言,",
-    "zh_hant": "如果你在會議上發言,"
+    "text": "It is also really nice to be able",
+    "start": 269.986,
+    "end": 272.307,
+    "zh": "能够在自己家里",
+    "zh_hant": "能夠在自己家裡"
   },
   {
     "index": 93,
-    "text": "you express your opinion using your voice.",
-    "start": 306.854,
-    "end": 310.286,
-    "zh": "你用自己的声音表达观点。",
-    "zh_hant": "你用自己的聲音表達觀點。"
+    "text": "to take calls in your own house.",
+    "start": 271.957,
+    "end": 275.288,
+    "zh": "接电话也真的很好。",
+    "zh_hant": "接電話也真的很好。"
   },
   {
     "index": 94,
-    "text": "In an in-person meeting,",
-    "start": 311.016,
-    "end": 313.287,
-    "zh": "面对面开会时,",
-    "zh_hant": "面對面開會時,"
+    "text": "So working from home can be really nice",
+    "start": 275.068,
+    "end": 278.27,
+    "zh": "所以在家工作可以很好",
+    "zh_hant": "所以在家工作可以很好"
   },
   {
     "index": 95,
-    "text": "everyone is in the same physical place.",
-    "start": 312.997,
-    "end": 316.089,
-    "zh": "每个人都在同一个物理位置。",
-    "zh_hant": "每個人都在同一個物理位置。"
+    "text": "because you can have your snacks and drinks nearby.",
+    "start": 277.92,
+    "end": 282.072,
+    "zh": "因为你附近可以有零食和饮料。",
+    "zh_hant": "因為你附近可以有零食和飲料。"
   },
   {
     "index": 96,
-    "text": "We can also call this a face-to-face meeting.",
-    "start": 315.839,
-    "end": 318.971,
-    "zh": "这也可以叫做面对面会议。",
-    "zh_hant": "這也可以叫做面對面會議。"
+    "text": "So yeah, they both have their pros and cons.",
+    "start": 282.893,
+    "end": 285.594,
+    "zh": "所以是的，两者各有优缺点。",
+    "zh_hant": "所以是的，兩者各有優缺點。"
   },
   {
     "index": 97,
-    "text": "And we also talked about having a call.",
-    "start": 319.462,
-    "end": 322.693,
-    "zh": "我们还谈到了要打个电话。",
-    "zh_hant": "我們還談到了要打個電話。"
+    "text": "That's true.",
+    "start": 285.254,
+    "end": 286.194,
+    "zh": "确实。",
+    "zh_hant": "確實。"
   },
   {
     "index": 98,
-    "text": "This could be a phone call or a video call.",
-    "start": 322.624,
-    "end": 326.176,
-    "zh": "这可能是电话或者视频通话。",
-    "zh_hant": "這可能是電話或者視訊通話。"
+    "text": "Okay, let's recap the language we heard during the conversation,",
+    "start": 293.158,
+    "end": 297.299,
+    "zh": "好的，让我们回顾一下对话中听到的词汇，",
+    "zh_hant": "好的，讓我們回顧一下對話中聽到的詞彙，"
   },
   {
     "index": 99,
-    "text": "And we can also describe this as a remote meeting.",
-    "start": 325.966,
-    "end": 329.799,
-    "zh": "我们也可以把这称为远程会议。",
-    "zh_hant": "我們也可以把這稱為遠端會議。"
+    "text": "starting with brainstorm, which is when you get together",
+    "start": 297.3,
+    "end": 300.921,
+    "zh": "从“头脑风暴”开始，就是你和一群",
+    "zh_hant": "從“頭腦風暴”開始，就是你和一群"
   },
   {
     "index": 100,
-    "text": "That's it for this episode of Real Easy English.",
-    "start": 330.149,
-    "end": 333.561,
-    "zh": "本期《Real Easy English》就到这里。",
-    "zh_hant": "本期《Real Easy English》就到這裡。"
+    "text": "with a group of people to come up with ideas.",
+    "start": 300.571,
+    "end": 303.603,
+    "zh": "人聚在一起想出想法。",
+    "zh_hant": "人聚在一起想出想法。"
   },
   {
     "index": 101,
-    "text": "Why not test what you've learned using the worksheet on our website,",
-    "start": 333.352,
-    "end": 337.244,
-    "zh": "何不用我们网站上的练习题来测试一下你学到的知识呢?",
-    "zh_hant": "何不用我們網站上的練習題來測試一下你學到的知識呢?"
+    "text": "If you speak up in a meeting,",
+    "start": 304.423,
+    "end": 307.004,
+    "zh": "如果你在会议上发言，",
+    "zh_hant": "如果你在會議上發言，"
   },
   {
     "index": 102,
-    "text": "bbclearningenglish.com.",
-    "start": 336.934,
-    "end": 339.325,
-    "zh": "bbclearningenglish.com",
-    "zh_hant": "bbclearningenglish.com"
+    "text": "you express your opinion using your voice.",
+    "start": 306.904,
+    "end": 310.286,
+    "zh": "你就是用声音表达你的意见。",
+    "zh_hant": "你就是用聲音表達你的意見。"
   },
   {
     "index": 103,
-    "text": "And we'll be back next week with another conversation",
-    "start": 339.176,
-    "end": 342.768,
-    "zh": "我们下周再见,继续下一期对话。",
-    "zh_hant": "我們下週再見,繼續下一期對話。"
+    "text": "In an in-person meeting,",
+    "start": 311.066,
+    "end": 313.287,
+    "zh": "在面对面会议中，",
+    "zh_hant": "在面對面會議中，"
   },
   {
     "index": 104,
-    "text": "in Easy English.",
-    "start": 342.438,
-    "end": 344.089,
-    "zh": "用简单英语写的。",
-    "zh_hant": "用簡單英語寫的。"
+    "text": "everyone is in the same physical place.",
+    "start": 313.047,
+    "end": 316.089,
+    "zh": "每个人都在同一个实际地点。",
+    "zh_hant": "每個人都在同一個實際地點。"
   },
   {
     "index": 105,
-    "text": "See you then.",
-    "start": 343.899,
-    "end": 344.889,
-    "zh": "到时候见。",
-    "zh_hant": "到時候見。"
+    "text": "We can also call this a face-to-face meeting.",
+    "start": 315.889,
+    "end": 318.971,
+    "zh": "我们也可以叫它面对面会议。",
+    "zh_hant": "我們也可以叫它面對面會議。"
   },
   {
     "index": 106,
+    "text": "And we also talked about having a call.",
+    "start": 319.512,
+    "end": 322.693,
+    "zh": "我们还谈到了打电话。",
+    "zh_hant": "我們還談到了打電話。"
+  },
+  {
+    "index": 107,
+    "text": "This could be a phone call or a video call.",
+    "start": 322.674,
+    "end": 326.176,
+    "zh": "这可以是电话或视频通话。",
+    "zh_hant": "這可以是電話或視訊通話。"
+  },
+  {
+    "index": 108,
+    "text": "And we can also describe this as a remote meeting.",
+    "start": 326.016,
+    "end": 329.799,
+    "zh": "我们也可以描述为远程会议。",
+    "zh_hant": "我們也可以描述為遠端會議。"
+  },
+  {
+    "index": 109,
+    "text": "That's it for this episode of Real Easy English.",
+    "start": 330.199,
+    "end": 333.561,
+    "zh": "这就是本期《简易英语》的全部内容。",
+    "zh_hant": "這就是本期《簡易英語》的全部內容。"
+  },
+  {
+    "index": 110,
+    "text": "Why not test what you've learned using the worksheet on our website,",
+    "start": 333.402,
+    "end": 337.244,
+    "zh": "为什么不试试用我们网站上的工作表来测试你学到的内容呢？",
+    "zh_hant": "為什麼不試試用我們網站上的工作表來測試你學到的內容呢？"
+  },
+  {
+    "index": 111,
+    "text": "bbclearningenglish.com.",
+    "start": 336.984,
+    "end": 339.325,
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
+  },
+  {
+    "index": 112,
+    "text": "And we'll be back next week with another conversation",
+    "start": 339.226,
+    "end": 342.768,
+    "zh": "我们下周会再回来，带来另一个对话",
+    "zh_hant": "我們下週會再回來，帶來另一個對話"
+  },
+  {
+    "index": 113,
+    "text": "in Easy English.",
+    "start": 342.488,
+    "end": 344.089,
+    "zh": "用简易英语。",
+    "zh_hant": "用簡易英語。"
+  },
+  {
+    "index": 114,
+    "text": "See you then.",
+    "start": 343.949,
+    "end": 344.889,
+    "zh": "到时见。",
+    "zh_hant": "到時見。"
+  },
+  {
+    "index": 115,
     "text": "Goodbye.",
-    "start": 344.54,
+    "start": 344.59,
     "end": 345.51,
     "zh": "再见。",
     "zh_hant": "再見。"
