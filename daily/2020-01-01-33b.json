@@ -12,8 +12,8 @@
     "text": "Not a baby.",
     "start": 3.332,
     "end": 4.992,
-    "zh": "不是小婴儿了。",
-    "zh_hant": "不是小嬰兒了。"
+    "zh": "不是婴儿。",
+    "zh_hant": "不是嬰兒。"
   },
   {
     "index": 2,
@@ -44,8 +44,8 @@
     "text": "I'm going to meet some friends, Dad.",
     "start": 22.741,
     "end": 26.323,
-    "zh": "爸爸，我要去见一些朋友。",
-    "zh_hant": "爸爸，我要去見一些朋友。"
+    "zh": "我打算去见几个朋友，爸爸。",
+    "zh_hant": "我打算去見幾個朋友，爸爸。"
   },
   {
     "index": 6,
@@ -60,35 +60,27 @@
     "text": "You must be home at half past ten.",
     "start": 30.145,
     "end": 34.227,
-    "zh": "你必须在十点半到家。",
-    "zh_hant": "你必須在十點半到家。"
+    "zh": "你必须在十点半回家。",
+    "zh_hant": "你必須在十點半回家。"
   },
   {
     "index": 8,
     "text": "I can't get home so early, Dad!",
     "start": 34.987,
     "end": 38.789,
-    "zh": "爸爸，我不能这么早回家！",
-    "zh_hant": "爸爸，我不能這麼早回家！"
+    "zh": "我这么早回不了家，爸爸！",
+    "zh_hant": "我這麼早回不了家，爸爸！"
   },
   {
     "index": 9,
-    "text": "Can I have the key to the front",
+    "text": "Can I have the key to the front door, please?",
     "start": 39.31,
-    "end": 42.491,
-    "zh": "我能拿前门的",
-    "zh_hant": "我能拿前門的"
+    "end": 44.012,
+    "zh": "我能拿前门的钥匙吗？",
+    "zh_hant": "我能拿前門的鑰匙嗎？"
   },
   {
     "index": 10,
-    "text": "door, please?",
-    "start": 42.292,
-    "end": 44.012,
-    "zh": "钥匙吗？",
-    "zh_hant": "鑰匙嗎？"
-  },
-  {
-    "index": 11,
     "text": "No, you can't.",
     "start": 44.453,
     "end": 46.413,
@@ -96,23 +88,23 @@
     "zh_hant": "不，你不能。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Jill's eighteen years old, Tom.",
     "start": 47.594,
     "end": 51.456,
-    "zh": "汤姆，吉尔已经十八岁了。",
-    "zh_hant": "湯姆，吉爾已經十八歲了。"
+    "zh": "吉尔十八岁了，汤姆。",
+    "zh_hant": "吉爾十八歲了，湯姆。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "She's not a baby.",
     "start": 51.936,
     "end": 54.237,
-    "zh": "她不是小婴儿了。",
-    "zh_hant": "她不是小嬰兒了。"
+    "zh": "她不是婴儿。",
+    "zh_hant": "她不是嬰兒。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Give her the key.",
     "start": 54.698,
     "end": 56.418,
@@ -120,15 +112,15 @@
     "zh_hant": "把鑰匙給她。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "She always comes home early.",
     "start": 56.979,
     "end": 60.22,
-    "zh": "她总是很早回家。",
-    "zh_hant": "她總是很早回家。"
+    "zh": "她总是早回家。",
+    "zh_hant": "她總是早回家。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "Oh, all right!",
     "start": 61.081,
     "end": 63.302,
@@ -136,7 +128,7 @@
     "zh_hant": "哦，好吧！"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Here you are.",
     "start": 64.403,
     "end": 65.943,
@@ -144,31 +136,23 @@
     "zh_hant": "給你。"
   },
   {
-    "index": 18,
-    "text": "But you mustn't come home after",
+    "index": 17,
+    "text": "But you mustn't come home after a quarter past eleven.",
     "start": 66.224,
-    "end": 69.425,
-    "zh": "但你不能在十一点",
-    "zh_hant": "但你不能在十一點"
-  },
-  {
-    "index": 19,
-    "text": "a quarter past eleven.",
-    "start": 69.085,
     "end": 71.226,
-    "zh": "一刻后回家。",
-    "zh_hant": "一刻後回家。"
+    "zh": "但你十一点一刻之后不能回家。",
+    "zh_hant": "但你十一點一刻之後不能回家。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Do you hear?",
     "start": 71.426,
     "end": 72.947,
-    "zh": "听到了吗？",
-    "zh_hant": "聽到了嗎？"
+    "zh": "你听见了吗？",
+    "zh_hant": "你聽見了嗎？"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Yes, Dad.",
     "start": 73.567,
     "end": 75.148,
@@ -176,7 +160,7 @@
     "zh_hant": "是的，爸爸。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "Thanks, Mum.",
     "start": 75.728,
     "end": 77.289,
@@ -184,15 +168,15 @@
     "zh_hant": "謝謝，媽媽。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "That's all right.",
     "start": 77.849,
     "end": 79.53,
-    "zh": "不客气。",
-    "zh_hant": "不客氣。"
+    "zh": "没关系。",
+    "zh_hant": "沒關係。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Goodbye.",
     "start": 79.812,
     "end": 81.073,
@@ -200,7 +184,7 @@
     "zh_hant": "再見。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Enjoy yourself!",
     "start": 81.495,
     "end": 83.379,
@@ -208,15 +192,15 @@
     "zh_hant": "玩得開心！"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "We always enjoy ourselves, Mum.",
     "start": 84.362,
     "end": 87.868,
-    "zh": "妈妈，我们总是玩得很开心。",
-    "zh_hant": "媽媽，我們總是玩得很開心。"
+    "zh": "我们总是玩得很开心，妈妈。",
+    "zh_hant": "我們總是玩得很開心，媽媽。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Bye-bye.",
     "start": 87.518,
     "end": 87.989,

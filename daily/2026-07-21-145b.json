@@ -4,8 +4,8 @@
     "text": "BBC Sounds.",
     "start": 1.291,
     "end": 2.651,
-    "zh": "BBC 声音。",
-    "zh_hant": "BBC 聲音。"
+    "zh": "BBC声音。",
+    "zh_hant": "BBC聲音。"
   },
   {
     "index": 1,
@@ -17,19 +17,19 @@
   },
   {
     "index": 2,
-    "text": "Hello, and thanks for downloading the More or Less podcast,",
+    "text": "Hello, and thanks for downloading the More or Less podcast, a programme that looks at the numbers in the news,",
     "start": 6.253,
-    "end": 10.075,
-    "zh": "你好，感谢下载 More or Less 播客，",
-    "zh_hant": "你好，感謝下載 More or Less 播客，"
+    "end": 12.376,
+    "zh": "你好，感谢下载《或多或少》播客，这档节目关注新闻中的数字，",
+    "zh_hant": "你好，感謝下載《或多或少》播客，這檔節目關注新聞中的數字，"
   },
   {
     "index": 3,
-    "text": "a programme that looks at the numbers in the news, and in life, and in your marriage.",
-    "start": 10.115,
+    "text": "and in life, and in your marriage.",
+    "start": 12.176,
     "end": 15.217,
-    "zh": "这是一个探讨新闻、生活以及婚姻中数字的节目。",
-    "zh_hant": "這是一個探討新聞、生活以及婚姻中數字的節目。"
+    "zh": "生活中的数字，还有你婚姻里的数字。",
+    "zh_hant": "生活中的數字，還有你婚姻裡的數字。"
   },
   {
     "index": 4,
@@ -44,16 +44,16 @@
     "text": "Do you ever have fights with your partner about who does more of the housework, and whether it's fair?",
     "start": 19.96,
     "end": 25.882,
-    "zh": "你是否曾经和伴侣因为谁做的家务更多、是否公平而争吵？",
-    "zh_hant": "你是否曾經和伴侶因為誰做的家務更多、是否公平而爭吵？"
+    "zh": "你有没有和伴侣吵过架，争论谁做的家务更多，或者这样是否公平？",
+    "zh_hant": "你有沒有和伴侶吵過架，爭論誰做的家務更多，或者這樣是否公平？"
   },
   {
     "index": 6,
     "text": "Well, data might have the answer.",
     "start": 26.183,
     "end": 28.724,
-    "zh": "嗯，数据可能能给出答案。",
-    "zh_hant": "嗯，資料可能能給出答案。"
+    "zh": "那么，数据或许能给出答案。",
+    "zh_hant": "那麼，資料或許能給出答案。"
   },
   {
     "index": 7,
@@ -68,1087 +68,991 @@
     "text": "She analyses surveys of how people spend their time,",
     "start": 34.707,
     "end": 38.649,
-    "zh": "她分析人们如何分配时间的调查数据，",
-    "zh_hant": "她分析人們如何分配時間的調查資料，"
+    "zh": "她分析关于人们如何分配时间的调查数据，",
+    "zh_hant": "她分析關於人們如何分配時間的調查資料，"
   },
   {
     "index": 9,
-    "text": "particularly in terms of home production, that is,",
+    "text": "particularly in terms of home production, that is, things such as cooking and cleaning,",
     "start": 38.569,
-    "end": 42.211,
-    "zh": "特别是家庭生产方面，也就是说，",
-    "zh_hant": "特別是家庭生產方面，也就是說，"
+    "end": 43.912,
+    "zh": "尤其是家庭生产方面，也就是做饭、打扫这类事情，",
+    "zh_hant": "尤其是家庭生產方面，也就是做飯、打掃這類事情，"
   },
   {
     "index": 10,
-    "text": "things such as cooking and cleaning, and market work, that is, paid work.",
-    "start": 41.951,
+    "text": "and market work, that is, paid work.",
+    "start": 43.832,
     "end": 47.313,
-    "zh": "比如做饭和打扫，以及市场工作，也就是有薪工作。",
-    "zh_hant": "比如做飯和打掃，以及市場工作，也就是有薪工作。"
+    "zh": "以及市场工作，也就是有偿工作。",
+    "zh_hant": "以及市場工作，也就是有償工作。"
   },
   {
     "index": 11,
     "text": "If you're the male half of a heterosexual couple, I'm afraid it's bad news.",
     "start": 48.454,
     "end": 54.157,
-    "zh": "如果你是异性恋伴侣中的男性一方，恐怕这是个坏消息。",
-    "zh_hant": "如果你是異性戀伴侶中的男性一方，恐怕這是個壞訊息。"
+    "zh": "如果你是异性恋情侣中的男性那一方，恐怕这是个坏消息。",
+    "zh_hant": "如果你是異性戀情侶中的男性那一方，恐怕這是個壞訊息。"
   },
   {
     "index": 12,
     "text": "Or, depending on your point of view, maybe good news, but good news that you need to make sure your partner doesn't hear.",
     "start": 54.517,
     "end": 60.38,
-    "zh": "或者，看你的观点，也许是好消息，但这是个你最好别让伴侣听到的好消息。",
-    "zh_hant": "或者，看你的觀點，也許是好訊息，但這是個你最好別讓伴侶聽到的好訊息。"
+    "zh": "或者，这可能是好消息，取决于你的观点，但如果是好消息，你得确保你的伴侣没听到。",
+    "zh_hant": "或者，這可能是好訊息，取決於你的觀點，但如果是好訊息，你得確保你的伴侶沒聽到。"
   },
   {
     "index": 13,
     "text": "We sat down to talk it all over while Corinne was in the UK to promote her new book on the subject,",
     "start": 60.66,
     "end": 66.083,
-    "zh": "我们坐下来讨论这一切，当时科琳在英国宣传她的新书，",
-    "zh_hant": "我們坐下來討論這一切，當時科琳在英國宣傳她的新書，"
+    "zh": "科琳来英国推广她关于这个话题的新书时，我们坐下来好好聊了聊，",
+    "zh_hant": "科琳來英國推廣她關於這個話題的新書時，我們坐下來好好聊了聊，"
   },
   {
     "index": 14,
     "text": "titled Feminomics in the UK and Having It All in the US.",
     "start": 66.043,
     "end": 70.925,
-    "zh": "书名叫《女性经济》（英国版），美国版叫《拥有一切》。",
-    "zh_hant": "書名叫《女性經濟》（英國版），美國版叫《擁有一切》。"
+    "zh": "这本书在英国叫《女性经济学》，在美国叫《拥有一切》。",
+    "zh_hant": "這本書在英國叫《女性經濟學》，在美國叫《擁有一切》。"
   },
   {
     "index": 15,
     "text": "So Corinne, welcome to More or Less.",
     "start": 70.575,
     "end": 75.927,
-    "zh": "那么，科琳，欢迎来到 More or Less。",
-    "zh_hant": "那麼，科琳，歡迎來到 More or Less。"
+    "zh": "那么，科琳，欢迎来到《或多或少》。",
+    "zh_hant": "那麼，科琳，歡迎來到《或多或少》。"
   },
   {
     "index": 16,
-    "text": "You've been looking at, among other things, how time is spent differently by men and women",
+    "text": "You've been looking at, among other things, how time is spent differently by men and women in the home.",
     "start": 75.968,
-    "end": 81.951,
-    "zh": "你一直在研究，除了其他方面，男性和女性在家中的时间分配差异。",
-    "zh_hant": "你一直在研究，除了其他方面，男性和女性在家中的時間分配差異。"
+    "end": 83.071,
+    "zh": "你一直在研究，除其他事情外，男性和女性在家中时间的分配差异。",
+    "zh_hant": "你一直在研究，除其他事情外，男性和女性在家中時間的分配差異。"
   },
   {
     "index": 17,
-    "text": "in the home.",
-    "start": 81.931,
-    "end": 83.071,
-    "zh": "让我们看看美国的情况，给我们讲讲那里的统计数据吧。",
-    "zh_hant": "讓我們看看美國的情況，給我們講講那裡的統計資料吧。"
-  },
-  {
-    "index": 18,
     "text": "So looking at the US, give us the statistical story there.",
     "start": 82.952,
     "end": 86.493,
-    "zh": "好，这非常有趣",
-    "zh_hant": "好，這非常有趣"
+    "zh": "那么着眼于美国，给我们讲讲那里的统计数据吧。",
+    "zh_hant": "那麼著眼於美國，給我們講講那裡的統計資料吧。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Yeah, it is fascinating",
     "start": 86.873,
     "end": 89.294,
-    "zh": "因为我在时间使用数据中看到，女性经历了一场性别革命，",
-    "zh_hant": "因為我在時間使用資料中看到，女性經歷了一場性別革命，"
+    "zh": "是的，这非常有趣，",
+    "zh_hant": "是的，這非常有趣，"
+  },
+  {
+    "index": 19,
+    "text": "because what I see in the time use data is that women have undergone a gender revolution, but men haven't.",
+    "start": 88.944,
+    "end": 95.698,
+    "zh": "因为我在时间使用数据中看到，女性经历了一场性别革命，但男性没有。",
+    "zh_hant": "因為我在時間使用資料中看到，女性經歷了一場性別革命，但男性沒有。"
   },
   {
     "index": 20,
-    "text": "because what I see in the time use data is that women have undergone a gender revolution,",
-    "start": 88.944,
-    "end": 94.657,
-    "zh": "但男性没有。",
-    "zh_hant": "但男性沒有。"
-  },
-  {
-    "index": 21,
-    "text": "but men haven't.",
-    "start": 94.437,
-    "end": 95.698,
-    "zh": "所以我看到女性在市场工作上的时间开始飙升，",
-    "zh_hant": "所以我看到女性在市場工作上的時間開始飆升，"
-  },
-  {
-    "index": 22,
     "text": "So I see women's time in market work start to skyrocket",
     "start": 95.478,
     "end": 101.6,
+    "zh": "我看到女性的市场工作时间开始急剧上升，",
+    "zh_hant": "我看到女性的市場工作時間開始急劇上升，"
+  },
+  {
+    "index": 21,
+    "text": "beginning in the 1960s.",
+    "start": 102.021,
+    "end": 104.002,
     "zh": "从20世纪60年代开始。",
     "zh_hant": "從20世紀60年代開始。"
   },
   {
-    "index": 23,
-    "text": "beginning in the 1960s.",
-    "start": 102.021,
-    "end": 104.002,
-    "zh": "而她们在家务上的时间",
-    "zh_hant": "而她們在家務上的時間"
-  },
-  {
-    "index": 24,
-    "text": "And you see their time on housework",
+    "index": 22,
+    "text": "And you see their time on housework going down because we get those time-saving technologies,",
     "start": 103.922,
-    "end": 107.483,
-    "zh": "在减少，因为有了节省时间的科技，",
-    "zh_hant": "在減少，因為有了節省時間的科技，"
+    "end": 110.425,
+    "zh": "同时，她们花在家务上的时间在下降，因为有了节省时间的技术，",
+    "zh_hant": "同時，她們花在家務上的時間在下降，因為有了節省時間的技術，"
   },
   {
-    "index": 25,
-    "text": "going down because we get those time-saving technologies,",
-    "start": 107.384,
-    "end": 110.425,
+    "index": 23,
+    "text": "the dishwasher and the microwave.",
+    "start": 110.185,
+    "end": 112.646,
     "zh": "比如洗碗机和微波炉。",
     "zh_hant": "比如洗碗機和微波爐。"
   },
   {
-    "index": 26,
-    "text": "the dishwasher and the microwave.",
-    "start": 110.185,
-    "end": 112.646,
-    "zh": "然后这趋于平稳，逐渐稳定下来。",
-    "zh_hant": "然後這趨於平穩，逐漸穩定下來。"
-  },
-  {
-    "index": 27,
+    "index": 24,
     "text": "And that kind of plateaus, that kind of levels out.",
     "start": 113.046,
     "end": 115.567,
-    "zh": "我们已经到了机器在家能帮我们做的极限。",
-    "zh_hant": "我們已經到了機器在家能幫我們做的極限。"
+    "zh": "然后这种变化趋于平稳，逐渐达到平衡。",
+    "zh_hant": "然後這種變化趨於平穩，逐漸達到平衡。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "We're at the limit of what machines can do for us at home.",
     "start": 115.217,
     "end": 118.829,
-    "zh": "现在仍然有一些任务需要我们去操作这些机器。",
-    "zh_hant": "現在仍然有一些任務需要我們去操作這些機器。"
+    "zh": "我们已经接近了机器在家里能为我们做到的极限。",
+    "zh_hant": "我們已經接近了機器在家裡能為我們做到的極限。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "There's still now these tasks that kind of require us operating those machines.",
     "start": 118.479,
     "end": 122.391,
-    "zh": "而我们看到男性方面，他们的时间是完全平稳的。",
-    "zh_hant": "而我們看到男性方面，他們的時間是完全平穩的。"
+    "zh": "现在还有一些任务需要我们操作那些机器来完成。",
+    "zh_hant": "現在還有一些任務需要我們操作那些機器來完成。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "And what we see for men is that their time is just completely flat.",
     "start": 122.972,
     "end": 128.094,
-    "zh": "市场工作保持不变，每周40到45小时。",
-    "zh_hant": "市場工作保持不變，每週40到45小時。"
+    "zh": "而我们看到的是，男性的时间完全没什么变化。",
+    "zh_hant": "而我們看到的是，男性的時間完全沒什麼變化。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "So market work stays the same, 40, 45 hours a week.",
     "start": 127.874,
     "end": 131.756,
+    "zh": "市场工作时间保持不变，每周40到45小时。",
+    "zh_hant": "市場工作時間保持不變，每週40到45小時。"
+  },
+  {
+    "index": 29,
+    "text": "Time doing housework stays the same.",
+    "start": 132.116,
+    "end": 134.537,
     "zh": "做家务的时间也保持不变。",
     "zh_hant": "做家務的時間也保持不變。"
   },
   {
-    "index": 32,
-    "text": "Time doing housework stays the same.",
-    "start": 132.116,
-    "end": 134.537,
-    "zh": "自20世纪70年代中期以来就没有动过。",
-    "zh_hant": "自20世紀70年代中期以來就沒有動過。"
-  },
-  {
-    "index": 33,
+    "index": 30,
     "text": "It hasn't budged since the mid-1970s.",
     "start": 134.187,
     "end": 136.938,
-    "zh": "就是一直平稳。",
-    "zh_hant": "就是一直平穩。"
+    "zh": "自20世纪70年代中期以来，这就没动过。",
+    "zh_hant": "自20世紀70年代中期以來，這就沒動過。"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "It just stays flat.",
     "start": 136.588,
     "end": 137.919,
-    "zh": "所以我认为我们这场性别革命非常不完整，",
-    "zh_hant": "所以我認為我們這場性別革命非常不完整，"
+    "zh": "一直保持原样。",
+    "zh_hant": "一直保持原樣。"
   },
   {
-    "index": 35,
-    "text": "And so I think we have this very partial gender revolution,",
+    "index": 32,
+    "text": "And so I think we have this very partial gender revolution, which is leaving us in an awkward spot.",
     "start": 137.679,
-    "end": 141.44,
-    "zh": "这让我们陷入了一个尴尬的境地。",
-    "zh_hant": "這讓我們陷入了一個尷尬的境地。"
-  },
-  {
-    "index": 36,
-    "text": "which is leaving us in an awkward spot.",
-    "start": 141.401,
     "end": 144.362,
-    "zh": "是的，所以你在描述女性做更多的有薪工作，",
-    "zh_hant": "是的，所以你在描述女性做更多的有薪工作，"
+    "zh": "所以我认为，我们经历了一场非常不完整的性别革命，这让我们处于一个尴尬的境地。",
+    "zh_hant": "所以我認為，我們經歷了一場非常不完整的性別革命，這讓我們處於一個尷尬的境地。"
   },
   {
-    "index": 37,
+    "index": 33,
     "text": "Yeah, so you're describing women doing more paid work,",
     "start": 144.402,
     "end": 148.224,
-    "zh": "而且因为节省时间的科技，在家里做的无薪工作更少。",
-    "zh_hant": "而且因為節省時間的科技，在家裡做的無薪工作更少。"
+    "zh": "是的，你在描述女性做更多有偿工作，",
+    "zh_hant": "是的，你在描述女性做更多有償工作，"
   },
   {
-    "index": 38,
+    "index": 34,
     "text": "and because of time-saving technology, less unpaid work in the home.",
     "start": 149.445,
     "end": 153.887,
-    "zh": "男性的习惯基本上没怎么变。",
-    "zh_hant": "男性的習慣基本上沒怎麼變。"
+    "zh": "同时因为节省时间的技术，在家里做的无偿工作更少。",
+    "zh_hant": "同時因為節省時間的技術，在家裡做的無償工作更少。"
   },
   {
-    "index": 39,
+    "index": 35,
     "text": "Men's habits haven't changed at all much.",
     "start": 155.047,
     "end": 157.268,
-    "zh": "那如果女性做的无薪工作更少，",
-    "zh_hant": "那如果女性做的無薪工作更少，"
+    "zh": "而男性的习惯几乎没怎么改变。",
+    "zh_hant": "而男性的習慣幾乎沒怎麼改變。"
   },
   {
-    "index": 40,
+    "index": 36,
     "text": "So if women are doing less unpaid work,",
     "start": 157.809,
     "end": 161.811,
-    "zh": "这是否意味着两性之间的无薪工作量",
-    "zh_hant": "這是否意味著兩性之間的無薪工作量"
+    "zh": "那么，如果女性做的无偿工作变少了，",
+    "zh_hant": "那麼，如果女性做的無償工作變少了，"
   },
   {
-    "index": 41,
-    "text": "does that then mean that the amount of unpaid work between the sexes",
+    "index": 37,
+    "text": "does that then mean that the amount of unpaid work between the sexes is the same now?",
     "start": 161.811,
-    "end": 167.674,
-    "zh": "现在是一样的了？",
-    "zh_hant": "現在是一樣的了？"
+    "end": 168.534,
+    "zh": "这是否意味着现在两性之间的无偿工作量相同了呢？",
+    "zh_hant": "這是否意味著現在兩性之間的無償工作量相同了呢？"
   },
   {
-    "index": 42,
-    "text": "is the same now?",
-    "start": 167.324,
-    "end": 168.534,
+    "index": 38,
+    "text": "No, not at all.",
+    "start": 169.115,
+    "end": 170.975,
     "zh": "不，完全不是。",
     "zh_hant": "不，完全不是。"
   },
   {
-    "index": 43,
-    "text": "No, not at all.",
-    "start": 169.115,
-    "end": 170.975,
-    "zh": "女性仍然在做着多得多的无薪工作。",
-    "zh_hant": "女性仍然在做著多得多的無薪工作。"
-  },
-  {
-    "index": 44,
+    "index": 39,
     "text": "So women are still doing massively more unpaid work.",
     "start": 171.036,
     "end": 175.378,
-    "zh": "从经济学角度看，这也许是可以的，",
-    "zh_hant": "從經濟學角度看，這也許是可以的，"
+    "zh": "女性仍然在做大量更多的无偿工作。",
+    "zh_hant": "女性仍然在做大量更多的無償工作。"
   },
   {
-    "index": 45,
+    "index": 40,
     "text": "And from an economics perspective, that could be okay,",
     "start": 175.418,
     "end": 178.919,
-    "zh": "因为我们相信一个叫做家庭专业化的概念，",
-    "zh_hant": "因為我們相信一個叫做家庭專業化的概念，"
+    "zh": "从经济学角度看，这可能没问题，",
+    "zh_hant": "從經濟學角度看，這可能沒問題，"
   },
   {
-    "index": 46,
+    "index": 41,
     "text": "because we believe in something called specialization in the household,",
     "start": 178.569,
     "end": 183.001,
-    "zh": "通常，当你组建家庭时，这样更高效。",
-    "zh_hant": "通常，當你組建家庭時，這樣更高效。"
+    "zh": "因为我们相信一种叫做家庭内专业化的概念，",
+    "zh_hant": "因為我們相信一種叫做家庭內專業化的概念，"
   },
   {
-    "index": 47,
+    "index": 42,
     "text": "which is often, when you form a household, it's more efficient.",
     "start": 182.651,
     "end": 187.383,
-    "zh": "假设你是做法律工作的，也许你们在法学院认识，所以两个人都有法律职业，那么……",
-    "zh_hant": "假設你是做法律工作的，也許你們在法學院認識，所以兩個人都有法律職業，那麼……"
+    "zh": "通常情况下，当你组建一个家庭时，这样做效率更高。",
+    "zh_hant": "通常情況下，當你組建一個家庭時，這樣做效率更高。"
   },
   {
-    "index": 48,
+    "index": 43,
     "text": "Let's say you have a law career, and maybe you met at law school, so two people have a law career, well...",
     "start": 187.033,
     "end": 192.426,
-    "zh": "也许更高效的安排是，这里说的是美国的情况，",
-    "zh_hant": "也許更高效的安排是，這裡說的是美國的情況，"
+    "zh": "假设你从事法律职业，也许你们在法学院认识，那么两个人都有法律职业，嗯……",
+    "zh_hant": "假設你從事法律職業，也許你們在法學院認識，那麼兩個人都有法律職業，嗯……"
   },
   {
-    "index": 49,
+    "index": 44,
     "text": "It might be more efficient to have it, talking about the U.S. here,",
     "start": 192.076,
     "end": 195.627,
-    "zh": "一个人每周工作80小时并成为合伙人，",
-    "zh_hant": "一個人每週工作80小時併成為合夥人，"
+    "zh": "这样可能更有效率，我说的是在美国这里，",
+    "zh_hant": "這樣可能更有效率，我說的是在美國這裡，"
   },
   {
-    "index": 50,
+    "index": 45,
     "text": "having one person work 80 hours a week and make partner,",
     "start": 195.277,
     "end": 198.789,
-    "zh": "而不是两人都每周工作40小时却都达不到那个标准。",
-    "zh_hant": "而不是兩人都每週工作40小時卻都達不到那個標準。"
+    "zh": "让一个人每周工作80小时并成为合伙人，",
+    "zh_hant": "讓一個人每週工作80小時併成為合夥人，"
   },
   {
-    "index": 51,
+    "index": 46,
     "text": "then both people work 40 hours a week and both miss that bar.",
     "start": 198.449,
     "end": 202.191,
-    "zh": "是的，这里可能有大回报，我们称之为凸性回报，",
-    "zh_hant": "是的，這裡可能有大回報，我們稱之為凸性回報，"
+    "zh": "而不是两个人都每周工作40小时，结果都达不到那个标准。",
+    "zh_hant": "而不是兩個人都每週工作40小時，結果都達不到那個標準。"
   },
   {
-    "index": 52,
+    "index": 47,
     "text": "Right there, there can be these kind of big returns, what we call convex returns,",
     "start": 201.841,
     "end": 205.933,
-    "zh": "即你在劳动力市场上多付出一点努力，回报就会猛增。",
-    "zh_hant": "即你在勞動力市場上多付出一點努力，回報就會猛增。"
+    "zh": "在那里，可能会有这些大的回报，我们称之为凸性回报，",
+    "zh_hant": "在那裡，可能會有這些大的回報，我們稱之為凸性回報，"
   },
   {
-    "index": 53,
+    "index": 48,
     "text": "where it kind of skyrockets if you put a little bit more effort into your labor in the workforce.",
     "start": 205.583,
     "end": 210.475,
-    "zh": "所以这就是那个理念，要追溯到诺贝尔奖得主加里·贝克尔，在……",
-    "zh_hant": "所以這就是那個理念，要追溯到諾貝爾獎得主加里·貝克爾，在……"
+    "zh": "当你在劳动力市场上多投入一点努力时，它就会急剧增长。",
+    "zh_hant": "當你在勞動力市場上多投入一點努力時，它就會急劇增長。"
   },
   {
-    "index": 54,
+    "index": 49,
     "text": "And so this is the idea, going back to Gary Becker, right, Nobel Prize winner, in...",
     "start": 210.125,
     "end": 215.718,
-    "zh": "所以如果专业化，你过得更好。",
-    "zh_hant": "所以如果專業化，你過得更好。"
+    "zh": "所以这个想法，可以追溯到诺贝尔奖得主加里·贝克尔，在……",
+    "zh_hant": "所以這個想法，可以追溯到諾貝爾獎得主加里·貝克爾，在……"
   },
   {
-    "index": 55,
+    "index": 50,
     "text": "So you're better off if you specialize.",
     "start": 216.398,
     "end": 218.659,
-    "zh": "所以我们也许是这样。",
-    "zh_hant": "所以我們也許是這樣。"
+    "zh": "所以如果你专业化，你会过得更好。",
+    "zh_hant": "所以如果你專業化，你會過得更好。"
   },
   {
-    "index": 56,
+    "index": 51,
     "text": "So we might be.",
     "start": 218.309,
     "end": 219.26,
-    "zh": "因此你可能觉得这完全没问题。",
-    "zh_hant": "因此你可能覺得這完全沒問題。"
+    "zh": "我们可能是这样。",
+    "zh_hant": "我們可能是這樣。"
   },
   {
-    "index": 57,
+    "index": 52,
     "text": "And so you might think that that's totally fine.",
     "start": 218.96,
     "end": 221.281,
+    "zh": "所以你可能觉得这完全没问题。",
+    "zh_hant": "所以你可能覺得這完全沒問題。"
+  },
+  {
+    "index": 53,
+    "text": "Okay.",
+    "start": 220.931,
+    "end": 221.561,
     "zh": "好的。",
     "zh_hant": "好的。"
   },
   {
-    "index": 58,
-    "text": "Okay.",
-    "start": 220.931,
-    "end": 221.561,
-    "zh": "但这里有个问题。",
-    "zh_hant": "但這裡有個問題。"
-  },
-  {
-    "index": 59,
+    "index": 54,
     "text": "But here's the catch.",
     "start": 221.281,
     "end": 222.641,
-    "zh": "我们没有看到相反的情况。",
-    "zh_hant": "我們沒有看到相反的情況。"
+    "zh": "但问题是。",
+    "zh_hant": "但問題是。"
   },
   {
-    "index": 60,
+    "index": 55,
     "text": "We don't see it in the reverse.",
     "start": 222.561,
     "end": 224.962,
-    "zh": "所以如果女性做更多家庭生产，只是因为平均来说她们比男性做更少的市场工作，",
-    "zh_hant": "所以如果女性做更多家庭生產，只是因為平均來說她們比男性做更少的市場工作，"
+    "zh": "我们在反向情况下看不到这种情况。",
+    "zh_hant": "我們在反向情況下看不到這種情況。"
   },
   {
-    "index": 61,
+    "index": 56,
     "text": "So if women were just doing more home production because they did less market work on average than men,",
     "start": 224.903,
     "end": 231.065,
-    "zh": "或者她们的市场工作收入更低，那倒没问题。",
-    "zh_hant": "或者她們的市場工作收入更低，那倒沒問題。"
+    "zh": "所以如果女性只是因为平均而言她们的市场工作比男性少，",
+    "zh_hant": "所以如果女性只是因為平均而言她們的市場工作比男性少，"
   },
   {
-    "index": 62,
+    "index": 57,
     "text": "or earned less for their market work, that would be fine.",
     "start": 230.715,
     "end": 233.487,
-    "zh": "只是有效的专业化而已。",
-    "zh_hant": "只是有效的專業化而已。"
+    "zh": "或者她们的市场工作收入更低，而做更多家庭生产，那没问题。",
+    "zh_hant": "或者她們的市場工作收入更低，而做更多家庭生產，那沒問題。"
   },
   {
-    "index": 63,
+    "index": 58,
     "text": "Just efficient specialization.",
     "start": 233.137,
     "end": 234.847,
-    "zh": "但我在我的论文《既养家又做饭》中发现",
-    "zh_hant": "但我在我的論文《既養家又做飯》中發現"
+    "zh": "只是高效的专业化。",
+    "zh_hant": "只是高效的專業化。"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "But what I find in my paper that I call \"Winning the Bread",
     "start": 234.827,
     "end": 238.949,
-    "zh": "当女性实际上是养家者时，",
-    "zh_hant": "當女性實際上是養家者時，"
+    "zh": "但我在我称之为《赚钱又烤面包》的论文中发现，",
+    "zh_hant": "但我在我稱之為《賺錢又烤麵包》的論文中發現，"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "and Baking It Too\" is that when the Woman is actually the breadwinner,",
     "start": 238.609,
     "end": 243.012,
+    "zh": "当女性实际上是养家糊口的人时，",
+    "zh_hant": "當女性實際上是養家餬口的人時，"
+  },
+  {
+    "index": 61,
+    "text": "she still does more home production.",
+    "start": 243.052,
+    "end": 245.493,
     "zh": "她仍然做更多的家庭生产。",
     "zh_hant": "她仍然做更多的家庭生產。"
   },
   {
-    "index": 66,
-    "text": "she still does more home production.",
-    "start": 243.052,
-    "end": 245.493,
-    "zh": "我以为这一定是育儿导致的。",
-    "zh_hant": "我以為這一定是育兒導致的。"
-  },
-  {
-    "index": 67,
+    "index": 62,
     "text": "And I thought that must be driven by child care.",
     "start": 246.093,
     "end": 248.634,
-    "zh": "我基于这个推测，这有点像我自己的经验，",
-    "zh_hant": "我基於這個推測，這有點像我自己的經驗，"
+    "zh": "我以为那一定是育儿驱动的。",
+    "zh_hant": "我以為那一定是育兒驅動的。"
   },
   {
-    "index": 68,
+    "index": 63,
     "text": "And I was going off of, this was a little bit of me search, I was going off of my own experience here,",
     "start": 248.284,
     "end": 253.117,
-    "zh": "心想，也许这是因为她是默认照顾者，孩子黏妈妈什么的。",
-    "zh_hant": "心想，也許這是因為她是預設照顧者，孩子黏媽媽什麼的。"
+    "zh": "我凭自己的经验出发，这有点是我的个人探索，",
+    "zh_hant": "我憑自己的經驗出發，這有點是我的個人探索，"
   },
   {
-    "index": 69,
+    "index": 64,
     "text": "and being like, well, maybe this is because she's the default parent and the kid wants mom and whatever.",
     "start": 252.767,
     "end": 257.559,
-    "zh": "所以我把育儿排除在外。",
-    "zh_hant": "所以我把育兒排除在外。"
+    "zh": "心想，好吧，这可能是因为她是默认的家长，孩子想要妈妈之类的。",
+    "zh_hant": "心想，好吧，這可能是因為她是預設的家長，孩子想要媽媽之類的。"
   },
   {
-    "index": 70,
+    "index": 65,
     "text": "So I excluded child care.",
     "start": 257.579,
     "end": 259.62,
-    "zh": "当我这么做时，我发现了",
-    "zh_hant": "當我這麼做時，我發現了"
+    "zh": "所以我排除了育儿。",
+    "zh_hant": "所以我排除了育兒。"
   },
   {
-    "index": 71,
+    "index": 66,
     "text": "And when I did, I found",
     "start": 259.54,
     "end": 261.361,
-    "zh": "女性做的做饭和打扫的量是",
-    "zh_hant": "女性做的做飯和打掃的量是"
+    "zh": "当我这么做时，我发现",
+    "zh_hant": "當我這麼做時，我發現"
   },
   {
-    "index": 72,
-    "text": "that women do twice as much cooking and cleaning",
+    "index": 67,
+    "text": "that women do twice as much cooking and cleaning as their lower earning male Partner.",
     "start": 261.011,
-    "end": 265.503,
-    "zh": "收入较低的男性伴侣的两倍。",
-    "zh_hant": "收入較低的男性伴侶的兩倍。"
-  },
-  {
-    "index": 73,
-    "text": "as their lower earning male Partner.",
-    "start": 265.663,
     "end": 267.844,
-    "zh": "即使她是养家者，她做的做饭和打扫仍是两倍。",
-    "zh_hant": "即使她是養家者，她做的做飯和打掃仍是兩倍。"
+    "zh": "女性做饭和打扫的时间是收入较低的男性伴侣的两倍。",
+    "zh_hant": "女性做飯和打掃的時間是收入較低的男性伴侶的兩倍。"
   },
   {
-    "index": 74,
+    "index": 68,
     "text": "When she's the breadwinner, she still does almost twice as much cooking and cleaning.",
     "start": 267.504,
     "end": 271.646,
-    "zh": "现在很多夫妻中，两个人都有工作，但有一个人是养家者。",
-    "zh_hant": "現在很多夫妻中，兩個人都有工作，但有一個人是養家者。"
+    "zh": "当她成为养家者时，她仍然做几乎两倍的做饭和打扫。",
+    "zh_hant": "當她成為養家者時，她仍然做幾乎兩倍的做飯和打掃。"
   },
   {
-    "index": 75,
+    "index": 69,
     "text": "In a lot of couples now, two people work, but one is the breadwinner.",
     "start": 275.008,
     "end": 279.089,
+    "zh": "现在很多情侣中，两个人都工作，但有一个是养家糊口的人。",
+    "zh_hant": "現在很多情侶中，兩個人都工作，但有一個是養家餬口的人。"
+  },
+  {
+    "index": 70,
+    "text": "One earns more, right?",
+    "start": 278.749,
+    "end": 280.49,
     "zh": "一个人赚得更多，对吧？",
     "zh_hant": "一個人賺得更多，對吧？"
   },
   {
-    "index": 76,
-    "text": "One earns more, right?",
-    "start": 278.749,
-    "end": 280.49,
-    "zh": "在大多数夫妻类型中，当我看到异性恋夫妻中有男性养家者时，",
-    "zh_hant": "在大多數夫妻型別中，當我看到異性戀夫妻中有男性養家者時，"
-  },
-  {
-    "index": 77,
+    "index": 71,
     "text": "And in most couple types, when I see a heterosexual couple with a male breadwinner,",
     "start": 280.411,
     "end": 285.693,
+    "zh": "在大多数情侣类型中，当我看到异性恋情侣中男性是养家者时，",
+    "zh_hant": "在大多數情侶型別中，當我看到異性戀情侶中男性是養家者時，"
+  },
+  {
+    "index": 72,
+    "text": "that breadwinner does less of the housework.",
+    "start": 285.553,
+    "end": 288.394,
     "zh": "那个养家者做的家务更少。",
     "zh_hant": "那個養家者做的家務更少。"
   },
   {
-    "index": 78,
-    "text": "that breadwinner does less of the housework.",
-    "start": 285.553,
-    "end": 288.394,
-    "zh": "当我看到女同性恋夫妻时，不管谁是养家者，做的家务更少。",
-    "zh_hant": "當我看到女同性戀夫妻時，不管誰是養家者，做的家務更少。"
-  },
-  {
-    "index": 79,
+    "index": 73,
     "text": "When I see a lesbian couple, whoever the breadwinner is does less of the housework.",
     "start": 288.335,
     "end": 293.117,
-    "zh": "当我看到两个男性在一起，即男同性恋时，不管谁是养家者，做的家务更少。",
-    "zh_hant": "當我看到兩個男性在一起，即男同性戀時，不管誰是養家者，做的家務更少。"
+    "zh": "当我看到女同性恋情侣时，无论谁是养家者，做的家务都更少。",
+    "zh_hant": "當我看到女同性戀情侶時，無論誰是養家者，做的家務都更少。"
   },
   {
-    "index": 80,
+    "index": 74,
     "text": "And then when I see two men together, gay men, whoever's the breadwinner does less of the housework.",
     "start": 293.057,
     "end": 298.939,
+    "zh": "然后当我看到两个男人在一起，男同性恋时，无论谁是养家者，做的家务都更少。",
+    "zh_hant": "然後當我看到兩個男人在一起，男同性戀時，無論誰是養家者，做的家務都更少。"
+  },
+  {
+    "index": 75,
+    "text": "Right?",
+    "start": 298.589,
+    "end": 299.3,
     "zh": "对吧？",
     "zh_hant": "對吧？"
   },
   {
-    "index": 81,
-    "text": "Right?",
-    "start": 298.589,
-    "end": 299.3,
-    "zh": "但当一对异性恋夫妻中女性是养家者时，",
-    "zh_hant": "但當一對異性戀夫妻中女性是養家者時，"
-  },
-  {
-    "index": 82,
+    "index": 76,
     "text": "But when it is a heterosexual couple with a female breadwinner,",
     "start": 299.24,
     "end": 303.542,
-    "zh": "这是唯一一种养家者做更多家务的情况。",
-    "zh_hant": "這是唯一一種養家者做更多家務的情況。"
+    "zh": "但如果是一个异性恋情侣中女性是养家者，",
+    "zh_hant": "但如果是一個異性戀情侶中女性是養家者，"
   },
   {
-    "index": 83,
+    "index": 77,
     "text": "that's the only time the breadwinner does more of the housework.",
     "start": 303.682,
     "end": 306.963,
-    "zh": "不过，科琳不想急于下结论。",
-    "zh_hant": "不過，科琳不想急於下結論。"
+    "zh": "那是唯一一次养家者做更多家务的情况。",
+    "zh_hant": "那是唯一一次養家者做更多家務的情況。"
   },
   {
-    "index": 84,
+    "index": 78,
     "text": "Now, Corinne didn't want to jump to conclusions.",
     "start": 306.964,
     "end": 309.885,
-    "zh": "也许在女性收入更高的夫妻中，还有其他因素导致了这些结果。",
-    "zh_hant": "也許在女性收入更高的夫妻中，還有其他因素導致了這些結果。"
+    "zh": "现在，科琳不想草率下结论。",
+    "zh_hant": "現在，科琳不想草率下結論。"
   },
   {
-    "index": 85,
+    "index": 79,
     "text": "Perhaps there was something else going on with couples where the women earned more, which led to these outcomes.",
     "start": 309.825,
     "end": 315.948,
-    "zh": "一种理论是，男性在做家务方面实在糟糕透顶，",
-    "zh_hant": "一種理論是，男性在做家務方面實在糟糕透頂，"
+    "zh": "也许在女性收入更高的情侣中，还有其他因素导致了这些结果。",
+    "zh_hant": "也許在女性收入更高的情侶中，還有其他因素導致了這些結果。"
   },
   {
-    "index": 86,
+    "index": 80,
     "text": "One theory would be that men are so utterly terrible at household tasks,",
     "start": 316.348,
     "end": 321.151,
-    "zh": "而女性则非常高效，所以从经济角度看，让她来做这些事更合理。",
-    "zh_hant": "而女性則非常高效，所以從經濟角度看，讓她來做這些事更合理。"
+    "zh": "一种理论是，男性在做家务方面极其糟糕，",
+    "zh_hant": "一種理論是，男性在做家務方面極其糟糕，"
   },
   {
-    "index": 87,
+    "index": 81,
     "text": "and women so efficient, that it makes economic sense for her to do the work.",
     "start": 320.801,
     "end": 326.453,
-    "zh": "科琳通过已经分居的夫妻验证了这个理论。",
-    "zh_hant": "科琳透過已經分居的夫妻驗證了這個理論。"
+    "zh": "而女性非常高效，所以她来做这些工作在经济上是合理的。",
+    "zh_hant": "而女性非常高效，所以她來做這些工作在經濟上是合理的。"
   },
   {
-    "index": 88,
+    "index": 82,
     "text": "Corinne tested that theory using couples who've separated.",
     "start": 326.754,
     "end": 330.615,
-    "zh": "当他们离婚后，女性做家务的时间减少了，",
-    "zh_hant": "當他們離婚後，女性做家務的時間減少了，"
+    "zh": "科琳用已经分居的情侣测试了这个理论。",
+    "zh_hant": "科琳用已經分居的情侶測試了這個理論。"
   },
   {
-    "index": 89,
-    "text": "When they're divorced, the woman's time doing housework goes down",
+    "index": 83,
+    "text": "When they're divorced, the woman's time doing housework goes down and the man's time doing housework goes up.",
     "start": 330.536,
-    "end": 335.218,
-    "zh": "而男性做家务的时间增加了。",
-    "zh_hant": "而男性做家務的時間增加了。"
-  },
-  {
-    "index": 90,
-    "text": "and the man's time doing housework goes up.",
-    "start": 335.018,
     "end": 337.559,
-    "zh": "如果我们考虑做这些家务所隐含的时间成本，",
-    "zh_hant": "如果我們考慮做這些家務所隱含的時間成本，"
+    "zh": "离婚后，女性做家务的时间下降，男性做家务的时间上升。",
+    "zh_hant": "離婚後，女性做家務的時間下降，男性做家務的時間上升。"
   },
   {
-    "index": 91,
+    "index": 84,
     "text": "And if we take the sort of implied time cost of producing that housework,",
     "start": 337.819,
     "end": 343.722,
-    "zh": "即他们花的时间乘以他们的工资，这个隐含时间成本在离婚后降低了，",
-    "zh_hant": "即他們花的時間乘以他們的工資，這個隱含時間成本在離婚後降低了，"
+    "zh": "如果我们考虑做家务隐含的时间成本，",
+    "zh_hant": "如果我們考慮做家務隱含的時間成本，"
   },
   {
-    "index": 92,
+    "index": 85,
     "text": "so we take the time they spend multiplied by their wage, that implied time cost goes down in divorce,",
     "start": 343.562,
     "end": 349.845,
-    "zh": "因为实际上她做的相对于她的工资来说太多了，而他做得太少了。",
-    "zh_hant": "因為實際上她做的相對於她的工資來說太多了，而他做得太少了。"
+    "zh": "也就是他们花费的时间乘以他们的工资，那么离婚后这个隐含时间成本会下降，",
+    "zh_hant": "也就是他們花費的時間乘以他們的工資，那麼離婚後這個隱含時間成本會下降，"
   },
   {
-    "index": 93,
+    "index": 86,
     "text": "because it's actually she was doing too much relative to her wages, he was doing too little.",
     "start": 349.645,
     "end": 355.128,
+    "zh": "因为实际上，她相对于自己的工资做得太多了，而他做得太少了。",
+    "zh_hant": "因為實際上，她相對於自己的工資做得太多了，而他做得太少了。"
+  },
+  {
+    "index": 87,
+    "text": "And then suddenly, when they get divorced, he finds the broom.",
+    "start": 354.778,
+    "end": 357.709,
     "zh": "然后突然，他们离婚后，他找到了扫帚。",
     "zh_hant": "然後突然，他們離婚後，他找到了掃帚。"
   },
   {
-    "index": 94,
-    "text": "And then suddenly, when they get divorced, he finds the broom.",
-    "start": 354.778,
-    "end": 357.709,
+    "index": 88,
+    "text": "He learns how to boil the water, right?",
+    "start": 357.769,
+    "end": 360.13,
     "zh": "他学会了烧水，对吧？",
     "zh_hant": "他學會了燒水，對吧？"
   },
   {
-    "index": 95,
-    "text": "He learns how to boil the water, right?",
-    "start": 357.769,
-    "end": 360.13,
-    "zh": "科琳还有第二个测试来检验这种决策是否经济理性，",
-    "zh_hant": "科琳還有第二個測試來檢驗這種決策是否經濟理性，"
-  },
-  {
-    "index": 96,
+    "index": 89,
     "text": "Corinne had a second test for whether the decision-making is economically rational,",
     "start": 360.711,
     "end": 365.633,
-    "zh": "那就是看在收入分配方式不同时，家务会发生什么变化。",
-    "zh_hant": "那就是看在收入分配方式不同時，家務會發生什麼變化。"
+    "zh": "科琳有第二个测试，看看这种决策是否经济上合理，",
+    "zh_hant": "科琳有第二個測試，看看這種決策是否經濟上合理，"
   },
   {
-    "index": 97,
+    "index": 90,
     "text": "and that's to look at what happens to housework when the earnings are divided differently.",
     "start": 365.533,
     "end": 370.636,
-    "zh": "你可能会认为，在妻子收入远高于丈夫的夫妻中——",
-    "zh_hant": "你可能會認為，在妻子收入遠高於丈夫的夫妻中——"
+    "zh": "那就是看看当收入分配方式不同时，家务会怎么变化。",
+    "zh_hant": "那就是看看當收入分配方式不同時，家務會怎麼變化。"
   },
   {
-    "index": 98,
+    "index": 91,
     "text": "You might think that in couples where the wife earns a lot more than the husband,",
     "start": 371.116,
     "end": 375.078,
-    "zh": "这里工资可能大概能代表工作的要求——",
-    "zh_hant": "這裡工資可能大概能代表工作的要求——"
+    "zh": "你可能会认为，在妻子收入远高于丈夫的情侣中，",
+    "zh_hant": "你可能會認為，在妻子收入遠高於丈夫的情侶中，"
   },
   {
-    "index": 99,
-    "text": "the wages here are probably a reasonable proxy for the demands of the job,",
+    "index": 92,
+    "text": "the wages here are probably a reasonable proxy for the demands of the job, the husband would do more housework.",
     "start": 375.118,
-    "end": 379.28,
-    "zh": "丈夫会做更多的家务。",
-    "zh_hant": "丈夫會做更多的家務。"
-  },
-  {
-    "index": 100,
-    "text": "the husband would do more housework.",
-    "start": 379.48,
     "end": 382.001,
-    "zh": "所以我们做的是，按家庭中的收入比例把所有人排好，然后我们看那些……",
-    "zh_hant": "所以我們做的是，按家庭中的收入比例把所有人排好，然後我們看那些……"
+    "zh": "这里的工资可能是工作需求的一个合理代理，丈夫会做更多家务。",
+    "zh_hant": "這裡的工資可能是工作需求的一個合理代理，丈夫會做更多家務。"
   },
   {
-    "index": 101,
+    "index": 93,
     "text": "So what we did is we lined everybody up by the earnings ratio in the household, and we said, let's look at the couples where...",
     "start": 381.841,
     "end": 388.084,
-    "zh": "丈夫赚取80%收入的家庭。",
-    "zh_hant": "丈夫賺取80%收入的家庭。"
+    "zh": "所以我们做的是，按家庭的收入比例把所有人排起来，然后说，让我们看看这些情侣，其中……",
+    "zh_hant": "所以我們做的是，按家庭的收入比例把所有人排起來，然後說，讓我們看看這些情侶，其中……"
   },
   {
-    "index": 102,
+    "index": 94,
     "text": "The husband earns 80% of the income.",
     "start": 388.565,
     "end": 391.306,
-    "zh": "一直到丈夫只赚20%收入的家庭。",
-    "zh_hant": "一直到丈夫只賺20%收入的家庭。"
+    "zh": "丈夫赚取收入的80%。",
+    "zh_hant": "丈夫賺取收入的80%。"
   },
   {
-    "index": 103,
+    "index": 95,
     "text": "And then all the way to the couples where the husband only earns 20% of the income.",
     "start": 390.956,
     "end": 394.867,
-    "zh": "我们发现的男性时间在这些比例中完全没有变化。",
-    "zh_hant": "我們發現的男性時間在這些比例中完全沒有變化。"
+    "zh": "然后一直到丈夫只赚取收入20%的情侣。",
+    "zh_hant": "然後一直到丈夫只賺取收入20%的情侶。"
   },
   {
-    "index": 104,
+    "index": 96,
     "text": "And what we found is that men's time just doesn't budge across those ratios.",
     "start": 394.948,
     "end": 400.751,
-    "zh": "对经济激励没有反应。",
-    "zh_hant": "對經濟激勵沒有反應。"
+    "zh": "我们发现在这些比例中，男性的时间根本不动。",
+    "zh_hant": "我們發現在這些比例中，男性的時間根本不動。"
   },
   {
-    "index": 105,
+    "index": 97,
     "text": "No response to the economic incentives.",
     "start": 400.401,
     "end": 403.512,
-    "zh": "对于她那边负担那么重，其隐含成本即她的工资，没有反应。",
-    "zh_hant": "對於她那邊負擔那麼重，其隱含成本即她的工資，沒有反應。"
+    "zh": "对经济激励没有任何反应。",
+    "zh_hant": "對經濟激勵沒有任何反應。"
   },
   {
-    "index": 106,
+    "index": 98,
     "text": "There's no response to what should be the implied cost of having so much on her plate, which is her wage.",
     "start": 403.162,
     "end": 409.255,
-    "zh": "在数据中，我看到了这些夫妻，因为人们接下来会说，男性工作弹性低。",
-    "zh_hant": "在資料中，我看到了這些夫妻，因為人們接下來會說，男性工作彈性低。"
+    "zh": "对于应该是她肩上有这么多负担的隐含成本，也就是她的工资，没有反应。",
+    "zh_hant": "對於應該是她肩上有這麼多負擔的隱含成本，也就是她的工資，沒有反應。"
   },
   {
-    "index": 107,
+    "index": 99,
     "text": "And in the data, I see these couples, because then the next thing people say is, well, men's jobs are inflexible.",
     "start": 408.905,
     "end": 414.798,
-    "zh": "他们没法调整工作时间来做更多家务。",
-    "zh_hant": "他們沒法調整工作時間來做更多家務。"
+    "zh": "在数据中，我看到这些情侣，因为接下来人们会说，好吧，男性的工作不灵活。",
+    "zh_hant": "在資料中，我看到這些情侶，因為接下來人們會說，好吧，男性的工作不靈活。"
   },
   {
-    "index": 108,
+    "index": 100,
     "text": "They can't take the time to adjust their work hours and do more housework.",
     "start": 414.448,
     "end": 419.66,
-    "zh": "所以我看了双方都有工资收入的夫妻。",
-    "zh_hant": "所以我看了雙方都有工資收入的夫妻。"
+    "zh": "他们不能腾出时间调整工作小时数，做更多家务。",
+    "zh_hant": "他們不能騰出時間調整工作小時數，做更多家務。"
   },
   {
-    "index": 109,
+    "index": 101,
     "text": "So I look at couples where they both work for a wage.",
     "start": 419.48,
     "end": 423.342,
-    "zh": "在美国，最常见的情况，最普遍的安排是，",
-    "zh_hant": "在美國，最常見的情況，最普遍的安排是，"
+    "zh": "所以我看了那些双方都挣工资的情侣。",
+    "zh_hant": "所以我看了那些雙方都掙工資的情侶。"
   },
   {
-    "index": 110,
+    "index": 102,
     "text": "And in the U.S., the modal couple, being this is the most common arrangement,",
     "start": 423.322,
     "end": 427.724,
-    "zh": "她是护士，他是做运输的，开卡车或开优步。",
-    "zh_hant": "她是護士，他是做運輸的，開卡車或開優步。"
+    "zh": "在美国，最常见的情侣类型，也就是最普遍的组合，",
+    "zh_hant": "在美國，最常見的情侶型別，也就是最普遍的組合，"
   },
   {
-    "index": 111,
+    "index": 103,
     "text": "is that she's a nurse and he's in transportation, truck driving or Uber driver.",
     "start": 427.925,
     "end": 432.967,
-    "zh": "没错。",
-    "zh_hant": "沒錯。"
+    "zh": "是她是个护士，他是搞运输的，开卡车或者当优步司机。",
+    "zh_hant": "是她是個護士，他是搞運輸的，開卡車或者當優步司機。"
   },
   {
-    "index": 112,
+    "index": 104,
     "text": "Right.",
     "start": 432.617,
     "end": 433.267,
-    "zh": "这只是这些双方按小时计酬的夫妻的一个例子。",
-    "zh_hant": "這只是這些雙方按小時計酬的夫妻的一個例子。"
+    "zh": "对吧。",
+    "zh_hant": "對吧。"
   },
   {
-    "index": 113,
+    "index": 105,
     "text": "That's just an example of these couples where they're both hourly paid.",
     "start": 432.917,
     "end": 436.609,
-    "zh": "在这些夫妻中，即使她的工资是他的两倍以上，",
-    "zh_hant": "在這些夫妻中，即使她的工資是他的兩倍以上，"
+    "zh": "这只是这些按小时计酬的情侣的一个例子。",
+    "zh_hant": "這只是這些按小時計酬的情侶的一個例子。"
   },
   {
-    "index": 114,
-    "text": "And in those couples, even when her wage is more than twice as much",
+    "index": 106,
+    "text": "And in those couples, even when her wage is more than twice as much as his wage,",
     "start": 437.369,
-    "end": 443.132,
-    "zh": "还是说，她的工资是他的两倍以上，",
-    "zh_hant": "還是說，她的工資是他的兩倍以上，"
-  },
-  {
-    "index": 115,
-    "text": "as his wage,",
-    "start": 443.112,
     "end": 444.473,
-    "zh": "对，她仍然做着大量更多的家务。",
-    "zh_hant": "對，她仍然做著大量更多的家務。"
+    "zh": "在这些情侣中，即使她的工资是他工资的两倍多，",
+    "zh_hant": "在這些情侶中，即使她的工資是他工資的兩倍多，"
   },
   {
-    "index": 116,
+    "index": 107,
     "text": "right, she's still doing a massive amount more housework.",
     "start": 444.193,
     "end": 448.335,
-    "zh": "然后最要命的是：她工作的时间仍然比他少。",
-    "zh_hant": "然後最要命的是：她工作的時間仍然比他少。"
+    "zh": "对吧，她仍然要做大量更多的家务。",
+    "zh_hant": "對吧，她仍然要做大量更多的家務。"
   },
   {
-    "index": 117,
+    "index": 108,
     "text": "And then here's the kicker: she still works fewer hours than him.",
     "start": 448.295,
     "end": 453.617,
-    "zh": "他在市场上的工作时间更长。",
-    "zh_hant": "他在市場上的工作時間更長。"
+    "zh": "然后最要命的是：她的工作时间仍然比他少。",
+    "zh_hant": "然後最要命的是：她的工作時間仍然比他少。"
   },
   {
-    "index": 118,
+    "index": 109,
     "text": "He works more hours in the market.",
     "start": 453.778,
     "end": 456.299,
-    "zh": "所以这对夫妻，如果他愿意去托儿所接孩子，",
-    "zh_hant": "所以這對夫妻，如果他願意去託兒所接孩子，"
+    "zh": "他在市场上工作的时间更多。",
+    "zh_hant": "他在市場上工作的時間更多。"
   },
   {
-    "index": 119,
-    "text": "So this couple, if he would pick the kids up from daycare",
+    "index": 110,
+    "text": "So this couple, if he would pick the kids up from daycare so that she could pick up a shift as a nurse,",
     "start": 456.199,
-    "end": 460.081,
-    "zh": "让她能多上一个护理班，",
-    "zh_hant": "讓她能多上一個護理班，"
-  },
-  {
-    "index": 120,
-    "text": "so that she could pick up a shift as a nurse,",
-    "start": 459.901,
     "end": 462.842,
-    "zh": "他们的家庭预算就会多出真金白银，",
-    "zh_hant": "他們的家庭預算就會多出真金白銀，"
+    "zh": "所以这样的情侣，如果他愿意从日托接孩子，让她能多上一个护士班，",
+    "zh_hant": "所以這樣的情侶，如果他願意從日託接孩子，讓她能多上一個護士班，"
   },
   {
-    "index": 121,
+    "index": 111,
     "text": "they would literally have more money in their household budget,",
     "start": 462.682,
     "end": 466.284,
-    "zh": "因为她的工资是他的两倍以上。",
-    "zh_hant": "因為她的工資是他的兩倍以上。"
+    "zh": "他们的家庭预算实际上会有更多的钱，",
+    "zh_hant": "他們的家庭預算實際上會有更多的錢，"
   },
   {
-    "index": 122,
+    "index": 112,
     "text": "because her wage is more than twice his wage.",
     "start": 465.934,
     "end": 469.385,
+    "zh": "因为她的工资是他的两倍多。",
+    "zh_hant": "因為她的工資是他的兩倍多。"
+  },
+  {
+    "index": 113,
+    "text": "But something's holding...",
+    "start": 469.505,
+    "end": 471.026,
     "zh": "但有什么东西在阻止……",
     "zh_hant": "但有什麼東西在阻止……"
   },
   {
-    "index": 123,
-    "text": "But something's holding...",
-    "start": 469.505,
-    "end": 471.026,
-    "zh": "他们，我们别无选择，只能得出结论：这个“东西”就是性别角色。",
-    "zh_hant": "他們，我們別無選擇，只能得出結論：這個“東西”就是性別角色。"
-  },
-  {
-    "index": 124,
+    "index": 114,
     "text": "Them back, and we were left with no choice but to conclude that something is gender roles.",
     "start": 470.676,
     "end": 475.408,
-    "zh": "这就是美国的情况。",
-    "zh_hant": "這就是美國的情況。"
+    "zh": "他们这么做，我们别无选择，只能得出结论，那就是性别角色在作祟。",
+    "zh_hant": "他們這麼做，我們別無選擇，只能得出結論，那就是性別角色在作祟。"
   },
   {
-    "index": 125,
+    "index": 115,
     "text": "That is the situation in the US then.",
     "start": 477.069,
     "end": 479.35,
-    "zh": "你对美国的情况讲得很详细。",
-    "zh_hant": "你對美國的情況講得很詳細。"
+    "zh": "那么这就是美国的情况。",
+    "zh_hant": "那麼這就是美國的情況。"
   },
   {
-    "index": 126,
+    "index": 116,
     "text": "You've gone into great detail about the American situation.",
     "start": 479.271,
     "end": 482.152,
-    "zh": "关于异性恋伴侣如何分配时间，",
-    "zh_hant": "關於異性戀伴侶如何分配時間，"
+    "zh": "你对美国的情况做了非常详细的描述。",
+    "zh_hant": "你對美國的情況做了非常詳細的描述。"
   },
   {
-    "index": 127,
+    "index": 117,
     "text": "Is there anything we can say more globally",
     "start": 482.412,
     "end": 485.353,
-    "zh": "有没有什么更全球性的发现？",
-    "zh_hant": "有沒有什麼更全球性的發現？"
+    "zh": "我们能不能更全球地说点什么",
+    "zh_hant": "我們能不能更全球地說點什麼"
   },
   {
-    "index": 128,
+    "index": 118,
     "text": "about how heterosexual couples divide their time?",
     "start": 485.374,
     "end": 490.176,
-    "zh": "我们复制了这个研究，因为我们想，这会不会是美国特有的性别角色？",
-    "zh_hant": "我們複製了這個研究，因為我們想，這會不會是美國特有的性別角色？"
+    "zh": "关于异性恋情侣如何分配时间？",
+    "zh_hant": "關於異性戀情侶如何分配時間？"
   },
   {
-    "index": 129,
+    "index": 119,
     "text": "So we replicated this because we were like, is this American gender roles?",
     "start": 490.756,
     "end": 495.278,
-    "zh": "所以我们也在英国和澳大利亚进行了复制研究，",
-    "zh_hant": "所以我們也在英國和澳大利亞進行了複製研究，"
+    "zh": "我们复制了这个研究，因为我们想，这是美国特有的性别角色吗？",
+    "zh_hant": "我們複製了這個研究，因為我們想，這是美國特有的性別角色嗎？"
   },
   {
-    "index": 130,
+    "index": 120,
     "text": "So we replicated this in the UK and in Australia as well,",
     "start": 495.018,
     "end": 499.58,
-    "zh": "在那里我们也发现了同样的结果：女性养家者仍然做更多的家务。",
-    "zh_hant": "在那裡我們也發現了同樣的結果：女性養家者仍然做更多的家務。"
+    "zh": "所以我们在英国和澳大利亚也复制了这项研究，",
+    "zh_hant": "所以我們在英國和澳大利亞也複製了這項研究，"
   },
   {
-    "index": 131,
+    "index": 121,
     "text": "and we have the same findings there about the female breadwinners still doing More of the housework.",
     "start": 499.23,
     "end": 504.463,
-    "zh": "所以我们认为这不仅仅是美国的现象。",
-    "zh_hant": "所以我們認為這不僅僅是美國的現象。"
+    "zh": "在那些地方，我们也发现了同样的结果，即女性养家者仍然做更多家务。",
+    "zh_hant": "在那些地方，我們也發現了同樣的結果，即女性養家者仍然做更多家務。"
   },
   {
-    "index": 132,
+    "index": 122,
     "text": "So we don't think that this is just an American phenomenon.",
     "start": 504.113,
     "end": 507.024,
-    "zh": "我们还看了全球数据，发现这种家务不平等在很多其他国家非常普遍，",
-    "zh_hant": "我們還看了全球資料，發現這種家務不平等在很多其他國家非常普遍，"
+    "zh": "所以我们不认为这只是美国的现象。",
+    "zh_hant": "所以我們不認為這只是美國的現象。"
   },
   {
-    "index": 133,
-    "text": "We also just looking at sort of the global data, we saw that this housework inequality was very common",
+    "index": 123,
+    "text": "We also just looking at sort of the global data, we saw that this housework inequality was very common in a lot of other countries,",
     "start": 507.024,
-    "end": 512.487,
-    "zh": "在很多其他国家非常常见，",
-    "zh_hant": "在很多其他國家非常常見，"
-  },
-  {
-    "index": 134,
-    "text": "in a lot of other countries,",
-    "start": 512.137,
     "end": 513.827,
-    "zh": "而且随着女性赚钱能力的提升——这在全球都在发生——这个问题变得更加突出。",
-    "zh_hant": "而且隨著女性賺錢能力的提升——這在全球都在發生——這個問題變得更加突出。"
+    "zh": "我们还看了全球的数据，我们发现在很多其他国家，这种家务不平等非常普遍，",
+    "zh_hant": "我們還看了全球的資料，我們發現在很多其他國家，這種家務不平等非常普遍，"
   },
   {
-    "index": 135,
+    "index": 124,
     "text": "and it becomes more of an issue, as I said, as women's earning power grows, which it is globally.",
     "start": 514.008,
     "end": 520.292,
-    "zh": "感谢科琳·洛，她是《女性经济》的作者",
-    "zh_hant": "感謝科琳·洛，她是《女性經濟》的作者"
+    "zh": "而且随着女性赚钱能力的增长（这在全球都在发生），这个问题变得更加突出。",
+    "zh_hant": "而且隨著女性賺錢能力的增長（這在全球都在發生），這個問題變得更加突出。"
   },
   {
-    "index": 136,
-    "text": "Thanks to Corinne Lowe, author of Feminomics",
+    "index": 125,
+    "text": "Thanks to Corinne Lowe, author of Feminomics if you're in the UK, or Having It All if you're in the US.",
     "start": 521.093,
-    "end": 524.656,
-    "zh": "如果你在英国，或者在美国则是《拥有一切》。",
-    "zh_hant": "如果你在英國，或者在美國則是《擁有一切》。"
-  },
-  {
-    "index": 137,
-    "text": "if you're in the UK, or Having It All if you're in the US.",
-    "start": 524.306,
     "end": 528.159,
-    "zh": "本期节目就到这里。",
-    "zh_hant": "本期節目就到這裡。"
+    "zh": "感谢科琳·洛，如果你在英国，她的书是《女性经济学》，在美国则是《拥有一切》。",
+    "zh_hant": "感謝科琳·洛，如果你在英國，她的書是《女性經濟學》，在美國則是《擁有一切》。"
   },
   {
-    "index": 138,
+    "index": 126,
     "text": "And that's it for this week.",
     "start": 528.239,
     "end": 529.68,
+    "zh": "本周的节目就到这里。",
+    "zh_hant": "本週的節目就到這裡。"
+  },
+  {
+    "index": 127,
+    "text": "If you've seen...",
+    "start": 529.48,
+    "end": 530.381,
     "zh": "如果你看到了……",
     "zh_hant": "如果你看到了……"
   },
   {
-    "index": 139,
-    "text": "If you've seen...",
-    "start": 529.48,
-    "end": 530.381,
-    "zh": "一个你认为我们应该关注的数据？",
-    "zh_hant": "一個你認為我們應該關注的資料？"
-  },
-  {
-    "index": 140,
+    "index": 128,
     "text": "A number you think we should take a look at?",
     "start": 530.031,
     "end": 532.182,
-    "zh": "发邮件到 moreorless@bbc.co.uk。",
-    "zh_hant": "發郵件到 moreorless@bbc.co.uk。"
+    "zh": "一个你觉得我们应该关注的数据？",
+    "zh_hant": "一個你覺得我們應該關注的資料？"
   },
   {
-    "index": 141,
+    "index": 129,
     "text": "Email us at moreorless@bbc.co.uk.",
     "start": 532.003,
     "end": 536.166,
+    "zh": "请发邮件到 moreorless@bbc.co.uk。",
+    "zh_hant": "請發郵件到 moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 130,
+    "text": "We will be back next week.",
+    "start": 536.467,
+    "end": 538.628,
     "zh": "我们下周再见。",
     "zh_hant": "我們下週再見。"
   },
   {
-    "index": 142,
-    "text": "We will be back next week.",
-    "start": 536.467,
-    "end": 538.628,
-    "zh": "在此之前，再见。",
-    "zh_hant": "在此之前，再見。"
-  },
-  {
-    "index": 143,
+    "index": 131,
     "text": "Until then, goodbye.",
     "start": 538.629,
     "end": 540.53,
-    "zh": "那，再见了。",
-    "zh_hant": "那，再見了。"
+    "zh": "在那之前，再见。",
+    "zh_hant": "在那之前，再見。"
   }
 ]

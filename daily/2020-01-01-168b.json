@@ -4,8 +4,8 @@
     "text": "What happens to the lanterns at the end of the festival?",
     "start": 11.031,
     "end": 15.473,
-    "zh": "节日结束时，灯笼会怎样？",
-    "zh_hant": "節日結束時，燈籠會怎樣？"
+    "zh": "节日结束时，灯笼会怎样处理？",
+    "zh_hant": "節日結束時，燈籠會怎樣處理？"
   },
   {
     "index": 1,
@@ -20,143 +20,127 @@
     "text": "This festival is a cheerful occasion, for on this day,",
     "start": 22.737,
     "end": 27.479,
-    "zh": "这个节日是个欢乐的场合，因为在这一天，",
-    "zh_hant": "這個節日是個歡樂的場合，因為在這一天，"
+    "zh": "这个节日是一个欢乐的场合，因为在这一天，",
+    "zh_hant": "這個節日是一個歡樂的場合，因為在這一天，"
   },
   {
     "index": 3,
     "text": "the dead are said to return to their homes and they are welcomed by the living.",
     "start": 27.68,
     "end": 33.322,
-    "zh": "据说死者会回到家中，生者会欢迎他们。",
-    "zh_hant": "據說死者會回到家中，生者會歡迎他們。"
+    "zh": "据说死者会返回家中，生者会欢迎他们。",
+    "zh_hant": "據說死者會返回家中，生者會歡迎他們。"
   },
   {
     "index": 4,
-    "text": "As they are expected to be hungry after their long journey,",
+    "text": "As they are expected to be hungry after their long journey, food is laid out for them.",
     "start": 34.303,
-    "end": 38.625,
-    "zh": "由于他们长途跋涉后预计会饿，",
-    "zh_hant": "由於他們長途跋涉後預計會餓，"
+    "end": 41.166,
+    "zh": "因为他们长途跋涉后预计会饥饿，所以为他们准备了食物。",
+    "zh_hant": "因為他們長途跋涉後預計會飢餓，所以為他們準備了食物。"
   },
   {
     "index": 5,
-    "text": "food is laid out for them.",
-    "start": 39.085,
-    "end": 41.166,
-    "zh": "食物为他们摆好了。",
-    "zh_hant": "食物為他們擺好了。"
+    "text": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
+    "start": 41.807,
+    "end": 48.45,
+    "zh": "每户人家外面都挂着特制的灯笼，以帮助死者找到回家的路。",
+    "zh_hant": "每戶人家外面都掛著特製的燈籠，以幫助死者找到回家的路。"
   },
   {
     "index": 6,
-    "text": "Specially-made lanterns are hung outside",
-    "start": 41.807,
-    "end": 45.308,
-    "zh": "特制的灯笼挂在外面",
-    "zh_hant": "特製的燈籠掛在外面"
-  },
-  {
-    "index": 7,
-    "text": "each house to help the dead to find their way.",
-    "start": 44.988,
-    "end": 48.45,
-    "zh": "每户人家外，以帮助死者找到路。",
-    "zh_hant": "每戶人家外，以幫助死者找到路。"
-  },
-  {
-    "index": 8,
     "text": "All night long, people dance and sing.",
     "start": 49.851,
     "end": 53.532,
-    "zh": "人们整夜跳舞唱歌。",
-    "zh_hant": "人們整夜跳舞唱歌。"
+    "zh": "人们整夜载歌载舞。",
+    "zh_hant": "人們整夜載歌載舞。"
+  },
+  {
+    "index": 7,
+    "text": "In the early morning the food that had been laid out for the dead",
+    "start": 54.033,
+    "end": 59.295,
+    "zh": "清晨，为死者准备的食物",
+    "zh_hant": "清晨，為死者準備的食物"
+  },
+  {
+    "index": 8,
+    "text": "is thrown into a river or into the sea",
+    "start": 59.455,
+    "end": 63.097,
+    "zh": "被扔进河里或海里，",
+    "zh_hant": "被扔進河裡或海里，"
   },
   {
     "index": 9,
-    "text": "In the early morning the food that had been laid out",
-    "start": 54.033,
-    "end": 58.495,
-    "zh": "清晨，摆好的食物",
-    "zh_hant": "清晨，擺好的食物"
-  },
-  {
-    "index": 10,
-    "text": "for the dead is thrown into a river or into the sea",
-    "start": 58.145,
-    "end": 63.097,
-    "zh": "为死者准备的，被扔进河里或海里，",
-    "zh_hant": "為死者準備的，被扔進河裡或海里，"
-  },
-  {
-    "index": 11,
     "text": "as it is considered unlucky for anyone living to eat it.",
     "start": 63.357,
     "end": 68.199,
-    "zh": "因为活人吃它被认为不吉利。",
-    "zh_hant": "因為活人吃它被認為不吉利。"
+    "zh": "因为活人吃它被认为是不吉利的。",
+    "zh_hant": "因為活人吃它被認為是不吉利的。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "In towns that are near the sea,",
     "start": 69.24,
     "end": 71.661,
-    "zh": "在靠近海的城镇里，",
-    "zh_hant": "在靠近海的城鎮裡，"
+    "zh": "在海边的城镇里，",
+    "zh_hant": "在海邊的城鎮裡，"
+  },
+  {
+    "index": 11,
+    "text": "the tiny lanterns which had been hung in the streets the night before, are placed",
+    "start": 72.001,
+    "end": 78.805,
+    "zh": "前一天晚上挂在街上的小灯笼在节日结束时被放置",
+    "zh_hant": "前一天晚上掛在街上的小燈籠在節日結束時被放置"
+  },
+  {
+    "index": 12,
+    "text": "into the water when the festival is over.",
+    "start": 78.455,
+    "end": 81.326,
+    "zh": "进水中。",
+    "zh_hant": "進水中。"
   },
   {
     "index": 13,
-    "text": "the tiny lanterns which had been hung in the streets the night before,",
-    "start": 72.001,
-    "end": 77.244,
-    "zh": "前一晚挂在街上的小灯笼，",
-    "zh_hant": "前一晚掛在街上的小燈籠，"
-  },
-  {
-    "index": 14,
-    "text": "are placed into the water when the festival is over.",
-    "start": 77.784,
-    "end": 81.326,
-    "zh": "节日结束时被放入水中。",
-    "zh_hant": "節日結束時被放入水中。"
-  },
-  {
-    "index": 15,
     "text": "Thousands of lanterns slowly drift out to sea",
     "start": 82.046,
     "end": 86.228,
-    "zh": "数千盏灯笼缓缓漂向大海，",
-    "zh_hant": "數千盞燈籠緩緩漂向大海，"
+    "zh": "成千上万的灯笼缓缓漂向大海，",
+    "zh_hant": "成千上萬的燈籠緩緩漂向大海，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "guiding the dead on their return journey to the other world.",
     "start": 86.529,
     "end": 90.793,
-    "zh": "引导死者踏上返回另一个世界的归程。",
-    "zh_hant": "引導死者踏上返回另一個世界的歸程。"
+    "zh": "指引死者踏上返回另一个世界的旅程。",
+    "zh_hant": "指引死者踏上返回另一個世界的旅程。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "This is a moving spectacle,",
     "start": 91.595,
     "end": 93.917,
-    "zh": "这是一个动人的景象，",
-    "zh_hant": "這是一個動人的景象，"
+    "zh": "这是一个感人的景象，",
+    "zh_hant": "這是一個感人的景象，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "for crowds of people stand on the shore",
     "start": 94.198,
     "end": 97.482,
-    "zh": "因为成群的人站在岸边",
-    "zh_hant": "因為成群的人站在岸邊"
+    "zh": "因为成群的人站在岸边，",
+    "zh_hant": "因為成群的人站在岸邊，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "watching the lanterns drifting away until they can be seen no more.",
     "start": 97.163,
     "end": 102.55,
-    "zh": "看着灯笼漂远，直到再也看不见。",
-    "zh_hant": "看著燈籠漂遠，直到再也看不見。"
+    "zh": "注视着灯笼漂远，直到看不见为止。",
+    "zh_hant": "注視著燈籠漂遠，直到看不見為止。"
   }
 ]

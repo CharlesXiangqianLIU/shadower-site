@@ -11,7 +11,7 @@
     "index": 1,
     "text": "The hovercraft.",
     "start": 3.452,
-    "end": 8.994,
+    "end": 4.55,
     "zh": "气垫船。",
     "zh_hant": "氣墊船。"
   },
@@ -28,16 +28,16 @@
     "text": "Many strange new means of transport have been developed in our century,",
     "start": 17.558,
     "end": 21.74,
-    "zh": "本世纪研制了许多新奇特的交通工具，",
-    "zh_hant": "本世紀研製了許多新奇特的交通工具，"
+    "zh": "本世纪已研制出许多新奇的运输方式，",
+    "zh_hant": "本世紀已研製出許多新奇的運輸方式，"
   },
   {
     "index": 4,
     "text": "the strangest of them being perhaps the hovercraft.",
     "start": 22.101,
     "end": 25.982,
-    "zh": "其中最奇特的或许要数气垫船了。",
-    "zh_hant": "其中最奇特的或許要數氣墊船了。"
+    "zh": "其中最新奇的也许要数气垫船。",
+    "zh_hant": "其中最新奇的也許要數氣墊船。"
   },
   {
     "index": 5,
@@ -60,131 +60,115 @@
     "text": "who had turned to boat-building on the Norfolk Broads,",
     "start": 33.967,
     "end": 37.508,
-    "zh": "他已转而从事诺福克湖区的造船业，",
-    "zh_hant": "他已轉而從事諾福克湖區的造船業，"
+    "zh": "转行在诺福克湖区的布罗兹从事造船业，",
+    "zh_hant": "轉行在諾福克湖區的布羅茲從事造船業，"
   },
   {
     "index": 8,
-    "text": "suggested an idea on which he had been working for many years",
+    "text": "suggested an idea on which he had been working for many years to the British Government and industrial circles.",
     "start": 37.888,
-    "end": 42.511,
-    "zh": "向英国政府和工业界提出了一项他多年来一直在研究的设想。",
-    "zh_hant": "向英國政府和工業界提出了一項他多年來一直在研究的設想。"
+    "end": 45.092,
+    "zh": "向英国政府和工业界提出了一个他研究多年的设想。",
+    "zh_hant": "向英國政府和工業界提出了一個他研究多年的設想。"
   },
   {
     "index": 9,
-    "text": "to the British Government and industrial circles.",
-    "start": 42.161,
-    "end": 45.092,
-    "zh": "向英国政府和工业界提出了这项设想。",
-    "zh_hant": "向英國政府和工業界提出了這項設想。"
-  },
-  {
-    "index": 10,
     "text": "It was the idea of supporting a craft on a 'pad',",
     "start": 45.853,
     "end": 50.175,
-    "zh": "这个设想是用一个低压空气的“垫子”或气垫来支撑船体，",
-    "zh_hant": "這個設想是用一個低壓空氣的“墊子”或氣墊來支撐船體，"
+    "zh": "这个设想是用一个低压空气的“垫”，",
+    "zh_hant": "這個設想是用一個低壓空氣的“墊”，"
+  },
+  {
+    "index": 10,
+    "text": "or cushion, of low-pressure air,",
+    "start": 50.555,
+    "end": 53.576,
+    "zh": "即气垫，来支撑船体，",
+    "zh_hant": "即氣墊，來支撐船體，"
   },
   {
     "index": 11,
-    "text": "or cushion, of low-pressure air, ringed with a curtain of higher pressure air.",
-    "start": 50.555,
+    "text": "ringed with a curtain of higher pressure air.",
+    "start": 53.917,
     "end": 56.798,
-    "zh": "周围用高压空气的帘幕环绕。",
-    "zh_hant": "周圍用高壓空氣的簾幕環繞。"
+    "zh": "四周用更高压的空气幕环绕。",
+    "zh_hant": "四周用更高壓的空氣幕環繞。"
   },
   {
     "index": 12,
-    "text": "Ever since, people have had difficulty in deciding whether the craft should be ranged among",
+    "text": "Ever since, people have had difficulty in deciding",
     "start": 57.739,
-    "end": 63.961,
-    "zh": "从那以后，人们一直难以确定这种船应归入哪一类——",
-    "zh_hant": "從那以後，人們一直難以確定這種船應歸入哪一類——"
+    "end": 61.54,
+    "zh": "从那以后，人们一直难以确定",
+    "zh_hant": "從那以後，人們一直難以確定"
   },
   {
     "index": 13,
-    "text": "ships,",
-    "start": 63.802,
-    "end": 64.622,
-    "zh": "船舶，",
-    "zh_hant": "船舶，"
+    "text": "whether the craft should be ranged among ships, planes, or land vehicles--for",
+    "start": 61.36,
+    "end": 68.164,
+    "zh": "这种船应归类于船舶、飞机还是陆上交通工具——因为",
+    "zh_hant": "這種船應歸類於船舶、飛機還是陸上交通工具——因為"
   },
   {
     "index": 14,
-    "text": "planes, or land vehicles--for it is something in between a boat",
-    "start": 64.782,
-    "end": 70.184,
-    "zh": "飞机，还是陆上交通工具——因为它介于船",
-    "zh_hant": "飛機，還是陸上交通工具——因為它介於船"
+    "text": "it is something in between a boat and an aircraft.",
+    "start": 67.814,
+    "end": 71.385,
+    "zh": "它介于船和飞机之间。",
+    "zh_hant": "它介於船和飛機之間。"
   },
   {
     "index": 15,
-    "text": "and an aircraft.",
-    "start": 70.045,
-    "end": 71.385,
-    "zh": "和飞机之间。",
-    "zh_hant": "和飛機之間。"
-  },
-  {
-    "index": 16,
     "text": "As a shipbuilder, Cockerell was trying to find a solution to the problem of the wave resistance",
     "start": 72.226,
     "end": 78.709,
-    "zh": "作为造船者，科克雷尔试图解决波浪阻力问题，",
-    "zh_hant": "作為造船者，科克雷爾試圖解決波浪阻力問題，"
+    "zh": "作为造船商，科克雷尔试图解决波浪阻力的问题，",
+    "zh_hant": "作為造船商，科克雷爾試圖解決波浪阻力的問題，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "which wastes a good deal of a surface ship's power and limits its speed.",
     "start": 78.689,
     "end": 83.952,
-    "zh": "这种阻力浪费了水面船舶的大量动力并限制其速度。",
-    "zh_hant": "這種阻力浪費了水面船舶的大量動力並限制其速度。"
+    "zh": "这种阻力浪费了水面船只的大量动力并限制了其速度。",
+    "zh_hant": "這種阻力浪費了水面船隻的大量動力並限制了其速度。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "His answer was to lift the vessel out of the water by making it ride on a cushion of air,",
     "start": 84.572,
     "end": 90.935,
-    "zh": "他的解决办法是让船体悬浮在水面上方，使其行驶在气垫上，",
-    "zh_hant": "他的解決辦法是讓船體懸浮在水面上方，使其行駛在氣墊上，"
+    "zh": "他的解决办法是让船体骑在气垫上从而脱离水面，",
+    "zh_hant": "他的解決辦法是讓船體騎在氣墊上從而脫離水面，"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "no more than one or two feet thick.",
     "start": 91.596,
     "end": 94.237,
-    "zh": "气垫仅有一两英尺厚。",
-    "zh_hant": "氣墊僅有一兩英尺厚。"
+    "zh": "气垫厚度仅一两英尺。",
+    "zh_hant": "氣墊厚度僅一兩英尺。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "This is done by a great number of ring-shaped air jets on the bottom of the craft.",
     "start": 94.957,
     "end": 100.84,
-    "zh": "这是通过船底大量的环形喷气嘴实现的。",
-    "zh_hant": "這是透過船底大量的環形噴氣嘴實現的。"
+    "zh": "这是通过船底大量的环形喷气口实现的。",
+    "zh_hant": "這是透過船底大量的環形噴氣口實現的。"
+  },
+  {
+    "index": 20,
+    "text": "It 'flies', therefore, but it cannot fly higher--its action depends on the surface,",
+    "start": 101.701,
+    "end": 109.024,
+    "zh": "因此它“飞行”，但飞不高——它的运行依赖于其下方的表面，",
+    "zh_hant": "因此它“飛行”，但飛不高——它的執行依賴於其下方的表面，"
   },
   {
     "index": 21,
-    "text": "It 'flies', therefore, but it cannot fly",
-    "start": 101.701,
-    "end": 105.542,
-    "zh": "因此，它可以“飞行”，但不能飞得",
-    "zh_hant": "因此，它可以“飛行”，但不能飛得"
-  },
-  {
-    "index": 22,
-    "text": "higher--its action depends on the surface,",
-    "start": 105.192,
-    "end": 109.024,
-    "zh": "更高——它的运行依赖于它所经过的表面，",
-    "zh_hant": "更高——它的執行依賴於它所經過的表面，"
-  },
-  {
-    "index": 23,
     "text": "water or ground, over which it rides.",
     "start": 109.004,
     "end": 112.066,
@@ -192,7 +176,7 @@
     "zh_hant": "無論是水面還是地面。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "The first tests on the Solent in 1959 caused a sensation.",
     "start": 113.787,
     "end": 119.289,
@@ -200,71 +184,71 @@
     "zh_hant": "1959年在索倫特海峽的首次試驗引起了轟動。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The hovercraft travelled first over the water, then mounted the beach,",
     "start": 119.709,
     "end": 124.352,
-    "zh": "气垫船先在水面上行驶，然后登上沙滩，",
-    "zh_hant": "氣墊船先在水面上行駛，然後登上沙灘，"
+    "zh": "气垫船先在水上行驶，然后驶上沙滩，",
+    "zh_hant": "氣墊船先在水上行駛，然後駛上沙灘，"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "climbed up the dunes, and sat down on a road.",
     "start": 124.512,
     "end": 128.414,
-    "zh": "爬过沙丘，最后停在一条路上。",
-    "zh_hant": "爬過沙丘，最後停在一條路上。"
+    "zh": "爬上沙丘，最后在一条路上停下。",
+    "zh_hant": "爬上沙丘，最後在一條路上停下。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "Later it crossed the Channel, riding smoothly over the waves, which presented no problem.",
     "start": 129.015,
     "end": 135.377,
-    "zh": "后来，它横渡了英吉利海峡，在波浪上平稳行驶，毫无问题。",
-    "zh_hant": "後來，它橫渡了英吉利海峽，在波浪上平穩行駛，毫無問題。"
+    "zh": "后来它横渡英吉利海峡，在波浪上平稳行驶，波浪根本不是问题。",
+    "zh_hant": "後來它橫渡英吉利海峽，在波浪上平穩行駛，波浪根本不是問題。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Since that time, various types of hovercraft have appeared and taken up regular service.",
     "start": 136.458,
     "end": 142.521,
-    "zh": "自那以后，各种类型的气垫船相继出现，并投入了定期营运。",
-    "zh_hant": "自那以後，各種型別的氣墊船相繼出現，並投入了定期營運。"
+    "zh": "自那时起，各种类型的气垫船相继出现并投入定期运营。",
+    "zh_hant": "自那時起，各種型別的氣墊船相繼出現並投入定期運營。"
+  },
+  {
+    "index": 27,
+    "text": "The hovercraft is particularly useful in large areas with poor communications",
+    "start": 143.242,
+    "end": 149.184,
+    "zh": "气垫船在交通不便的大片地区特别有用，",
+    "zh_hant": "氣墊船在交通不便的大片地區特別有用，"
+  },
+  {
+    "index": 28,
+    "text": "such as Africa or Australia;",
+    "start": 149.104,
+    "end": 152.026,
+    "zh": "如非洲或澳大利亚；",
+    "zh_hant": "如非洲或澳大利亞；"
   },
   {
     "index": 29,
-    "text": "The hovercraft is particularly useful in large areas",
-    "start": 143.242,
-    "end": 147.543,
-    "zh": "气垫船在交通不便的广阔地区特别有用，",
-    "zh_hant": "氣墊船在交通不便的廣闊地區特別有用，"
-  },
-  {
-    "index": 30,
-    "text": "with poor communications such as Africa or Australia;",
-    "start": 147.324,
-    "end": 152.026,
-    "zh": "例如非洲或澳大利亚；",
-    "zh_hant": "例如非洲或澳大利亞；"
-  },
-  {
-    "index": 31,
     "text": "it can become a 'flying fruit-bowl', carrying bananas from the plantations to the ports;",
     "start": 152.246,
     "end": 158.469,
-    "zh": "它可以变成“会飞的果篮”，把香蕉从种植园运到港口；",
-    "zh_hant": "它可以變成“會飛的果籃”，把香蕉從種植園運到港口；"
+    "zh": "它能成为“飞行水果篮”，把香蕉从种植园运到港口；",
+    "zh_hant": "它能成為“飛行水果籃”，把香蕉從種植園運到港口；"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "giant hovercraft liners could span the Atlantic;",
     "start": 159.029,
     "end": 162.813,
-    "zh": "大型气垫客轮可以横渡大西洋；",
-    "zh_hant": "大型氣墊客輪可以橫渡大西洋；"
+    "zh": "巨型气垫客轮可以横跨大西洋；",
+    "zh_hant": "巨型氣墊客輪可以橫跨大西洋；"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "and the railway of the future may well be the 'hovertrain',",
     "start": 163.053,
     "end": 167.758,
@@ -272,27 +256,27 @@
     "zh_hant": "未來的鐵路很可能就是“氣墊火車”，"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "riding on its air cushion over a single rail,",
     "start": 168.118,
     "end": 171.721,
-    "zh": "在单轨上靠气垫行驶，",
-    "zh_hant": "在單軌上靠氣墊行駛，"
+    "zh": "在单轨上依靠气垫行驶，",
+    "zh_hant": "在單軌上依靠氣墊行駛，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "which it never touches, at speeds, up to 300 m.p.h.--the",
     "start": 171.622,
     "end": 177.707,
-    "zh": "它从不接触轨道，速度可达每小时300英里——",
-    "zh_hant": "它從不接觸軌道，速度可達每小時300英里——"
+    "zh": "从不接触轨道，速度可达每小时300英里——",
+    "zh_hant": "從不接觸軌道，速度可達每小時300英里——"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "possibilities appear unlimited.",
     "start": 177.357,
     "end": 180.49,
-    "zh": "其可能性似乎无限。",
-    "zh_hant": "其可能性似乎無限。"
+    "zh": "其可能性似乎无穷无尽。",
+    "zh_hant": "其可能性似乎無窮無盡。"
   }
 ]

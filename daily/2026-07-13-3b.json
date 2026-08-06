@@ -4,16 +4,16 @@
     "text": "is the VOA Special English Health Report.",
     "start": 15.971,
     "end": 19.912,
-    "zh": "这是VOA特别英语健康报道。",
-    "zh_hant": "這是VOA特別英語健康報道。"
+    "zh": "这里是美国之音特别英语健康报道。",
+    "zh_hant": "這裡是美國之音特別英語健康報道。"
   },
   {
     "index": 1,
     "text": "Cardiovascular disease is the world's leading cause of death.",
     "start": 20.293,
     "end": 25.375,
-    "zh": "心血管疾病是世界上主要的死亡原因。",
-    "zh_hant": "心血管疾病是世界上主要的死亡原因。"
+    "zh": "心血管疾病是世界上导致死亡的主要原因。",
+    "zh_hant": "心血管疾病是世界上導致死亡的主要原因。"
   },
   {
     "index": 2,
@@ -28,83 +28,67 @@
     "text": "Over the years,",
     "start": 32.019,
     "end": 33.459,
-    "zh": "多年以来，",
-    "zh_hant": "多年以來，"
+    "zh": "多年来，",
+    "zh_hant": "多年來，"
   },
   {
     "index": 4,
-    "text": "researchers have identified several substances in the blood",
+    "text": "researchers have identified several substances",
     "start": 33.579,
-    "end": 38.201,
-    "zh": "研究人员已经在血液中识别出几种物质，",
-    "zh_hant": "研究人員已經在血液中識別出幾種物質，"
+    "end": 37.521,
+    "zh": "研究人员已经确定了几种物质",
+    "zh_hant": "研究人員已經確定了幾種物質"
   },
   {
     "index": 5,
-    "text": "that can serve as what they call cardiac biomarkers.",
-    "start": 38.142,
+    "text": "in the blood that can serve as what they call cardiac biomarkers.",
+    "start": 37.171,
     "end": 42.924,
-    "zh": "它们可以被称为心脏生物标志物。",
-    "zh_hant": "它們可以被稱為心臟生物標誌物。"
+    "zh": "在血液中可以作为他们所谓的心脏生物标志物。",
+    "zh_hant": "在血液中可以作為他們所謂的心臟生物標誌物。"
   },
   {
     "index": 6,
-    "text": "These are used to measure the presence and development",
+    "text": "These are used to measure the presence and development of cardiovascular disease.",
     "start": 43.384,
-    "end": 47.626,
-    "zh": "这些用于衡量心血管疾病的",
-    "zh_hant": "這些用於衡量心血管疾病的"
+    "end": 50.047,
+    "zh": "这些用于衡量心血管疾病的存在和发展。",
+    "zh_hant": "這些用於衡量心血管疾病的存在和發展。"
   },
   {
     "index": 7,
-    "text": "of cardiovascular disease.",
-    "start": 47.566,
-    "end": 50.047,
-    "zh": "存在和发展情况。",
-    "zh_hant": "存在和發展情況。"
+    "text": "Researchers have increasingly tried to use these biomarkers to identify people",
+    "start": 51.508,
+    "end": 59.052,
+    "zh": "研究人员越来越多地尝试使用这些生物标志物来识别",
+    "zh_hant": "研究人員越來越多地嘗試使用這些生物標誌物來識別"
   },
   {
     "index": 8,
-    "text": "Researchers have increasingly tried to use",
-    "start": 51.508,
-    "end": 55.75,
-    "zh": "研究人员越来越多地尝试使用",
-    "zh_hant": "研究人員越來越多地嘗試使用"
-  },
-  {
-    "index": 9,
-    "text": "these biomarkers to identify people",
-    "start": 55.4,
-    "end": 59.052,
-    "zh": "这些生物标志物来识别那些",
-    "zh_hant": "這些生物標誌物來識別那些"
-  },
-  {
-    "index": 10,
     "text": "who are at high risk of developing heart disease,",
     "start": 58.792,
     "end": 63.274,
-    "zh": "有高风险患心脏病的人，",
-    "zh_hant": "有高風險患心臟病的人，"
+    "zh": "那些患心脏病风险高的人群，",
+    "zh_hant": "那些患心臟病風險高的人群，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "but a new study has found that they offer little help in this way.",
     "start": 64.035,
     "end": 70.298,
-    "zh": "但一项新研究发现，它们在这方面提供的帮助不大。",
-    "zh_hant": "但一項新研究發現，它們在這方面提供的幫助不大。"
+    "zh": "但一项新研究发现它们在这一点上帮助不大。",
+    "zh_hant": "但一項新研究發現它們在這一點上幫助不大。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "A A team from Massachusetts General Hospital",
     "start": 71.078,
     "end": 74.82,
-    "zh": "一个来自马萨诸塞总医院",
-    "zh_hant": "一個來自馬薩諸塞總醫院"
+    "zh": "一个来自马萨诸塞州总医院",
+    "zh_hant": "一個來自馬薩諸塞州總醫院"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "and Sweden's Lund University studied",
     "start": 75.08,
     "end": 79.322,
@@ -112,207 +96,175 @@
     "zh_hant": "和瑞典隆德大學的團隊研究了"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "how effective the biomarkers are as predictors.",
     "start": 79.002,
     "end": 83.064,
-    "zh": "这些生物标志物作为预测指标的有效性。",
-    "zh_hant": "這些生物標誌物作為預測指標的有效性。"
+    "zh": "这些生物标志物作为预测指标的效果如何。",
+    "zh_hant": "這些生物標誌物作為預測指標的效果如何。"
+  },
+  {
+    "index": 13,
+    "text": "Thomas Wang at the Mass General Heart Center was the senior author of the study.",
+    "start": 83.884,
+    "end": 90.527,
+    "zh": "马萨诸塞州总医院心脏中心的托马斯·王是这项研究的资深作者。",
+    "zh_hant": "馬薩諸塞州總醫院心臟中心的托馬斯·王是這項研究的資深作者。"
+  },
+  {
+    "index": 14,
+    "text": "Dr. Wang said that even after measuring those additional biomarkers,",
+    "start": 92.329,
+    "end": 99.692,
+    "zh": "王博士说即使测量了那些额外的生物标志物，",
+    "zh_hant": "王博士說即使測量了那些額外的生物標誌物，"
   },
   {
     "index": 15,
-    "text": "Thomas Wang at the Mass General Heart Center",
-    "start": 83.884,
-    "end": 87.886,
-    "zh": "马萨诸塞总医院心脏中心的托马斯·王",
-    "zh_hant": "馬薩諸塞總醫院心臟中心的托馬斯·王"
+    "text": "they were not able to fully understand who was more likely to develop heart disease.",
+    "start": 99.933,
+    "end": 107.336,
+    "zh": "他们也无法完全理解谁更可能患心脏病。",
+    "zh_hant": "他們也無法完全理解誰更可能患心臟病。"
   },
   {
     "index": 16,
-    "text": "was the senior author of the study.",
-    "start": 87.966,
-    "end": 90.527,
-    "zh": "是这项研究的高级作者。",
-    "zh_hant": "是這項研究的高階作者。"
-  },
-  {
-    "index": 17,
-    "text": "Dr. Wang said that even after",
-    "start": 92.329,
-    "end": 96.211,
-    "zh": "王博士表示，即使",
-    "zh_hant": "王博士表示，即使"
-  },
-  {
-    "index": 18,
-    "text": "measuring those additional biomarkers,",
-    "start": 95.861,
-    "end": 99.692,
-    "zh": "测量了那些额外的生物标志物，",
-    "zh_hant": "測量了那些額外的生物標誌物，"
-  },
-  {
-    "index": 19,
-    "text": "they were not able to fully understand",
-    "start": 99.933,
-    "end": 103.534,
-    "zh": "他们仍然无法完全理解",
-    "zh_hant": "他們仍然無法完全理解"
-  },
-  {
-    "index": 20,
-    "text": "who was more likely to develop heart disease.",
-    "start": 103.475,
-    "end": 107.336,
-    "zh": "谁更有可能患上心脏病。",
-    "zh_hant": "誰更有可能患上心臟病。"
-  },
-  {
-    "index": 21,
     "text": "Dr. Wang says",
     "start": 108.797,
     "end": 110.658,
-    "zh": "王博士说，",
-    "zh_hant": "王博士說，"
+    "zh": "王博士说",
+    "zh_hant": "王博士說"
   },
   {
-    "index": 22,
-    "text": "they did identify some combinations of biomarkers",
+    "index": 17,
+    "text": "they did identify some combinations of biomarkers that improved predictions",
     "start": 110.338,
-    "end": 115.18,
-    "zh": "他们确实识别出了一些生物标志物的组合，",
-    "zh_hant": "他們確實識別出了一些生物標誌物的組合，"
+    "end": 117.421,
+    "zh": "他们确实发现了一些生物标志物的组合，改善了预测",
+    "zh_hant": "他們確實發現了一些生物標誌物的組合，改善了預測"
   },
   {
-    "index": 23,
-    "text": "that improved predictions of of heart attacks and strokes.",
-    "start": 115.161,
+    "index": 18,
+    "text": "of of heart attacks and strokes.",
+    "start": 117.071,
     "end": 119.442,
-    "zh": "这些组合改善了心脏病发作和中风的预测。",
-    "zh_hant": "這些組合改善了心臟病發作和中風的預測。"
+    "zh": "对心脏病发作和中风的预测。",
+    "zh_hant": "對心臟病發作和中風的預測。"
   },
   {
-    "index": 24,
+    "index": 19,
     "text": "He said it is possible that in certain patients,",
     "start": 120.903,
     "end": 125.866,
-    "zh": "他说，在某些患者中，",
-    "zh_hant": "他說，在某些患者中，"
+    "zh": "他说在某些患者中，",
+    "zh_hant": "他說在某些患者中，"
   },
   {
-    "index": 25,
+    "index": 20,
     "text": "measuring these biomarkers would be helpful.",
     "start": 126.146,
     "end": 130.148,
-    "zh": "测量这些生物标志物可能是有帮助的。",
-    "zh_hant": "測量這些生物標誌物可能是有幫助的。"
+    "zh": "测量这些生物标志物可能会有帮助。",
+    "zh_hant": "測量這些生物標誌物可能會有幫助。"
   },
   {
-    "index": 26,
+    "index": 21,
     "text": "But for the majority of patients,",
     "start": 131.489,
     "end": 134.35,
-    "zh": "但对于大多数患者来说，",
-    "zh_hant": "但對於大多數患者來說，"
+    "zh": "但大多数患者来说，",
+    "zh_hant": "但大多數患者來說，"
   },
   {
-    "index": 27,
-    "text": "having the information of the biomarker",
+    "index": 22,
+    "text": "having the information of the biomarker probably would not make a difference.",
     "start": 134.731,
-    "end": 138.232,
-    "zh": "拥有生物标志物的信息",
-    "zh_hant": "擁有生物標誌物的資訊"
-  },
-  {
-    "index": 28,
-    "text": "probably would not make a difference.",
-    "start": 138.412,
     "end": 141.794,
-    "zh": "可能不会产生影响。",
-    "zh_hant": "可能不會產生影響。"
+    "zh": "拥有生物标志物的信息可能不会产生太大影响。",
+    "zh_hant": "擁有生物標誌物的資訊可能不會產生太大影響。"
   },
   {
-    "index": 29,
+    "index": 23,
     "text": "Dr. Wang hopes future research will discover biomarkers",
     "start": 144.115,
     "end": 149.418,
-    "zh": "王博士希望未来的研究能发现更能",
-    "zh_hant": "王博士希望未來的研究能發現更能"
+    "zh": "王博士希望未来的研究会发现生物标志物",
+    "zh_hant": "王博士希望未來的研究會發現生物標誌物"
   },
   {
-    "index": 30,
+    "index": 24,
     "text": "that are better able to predict the risk of cardiovascular disease.",
     "start": 149.178,
     "end": 155.261,
-    "zh": "预测心血管疾病风险的生物标志物。",
-    "zh_hant": "預測心血管疾病風險的生物標誌物。"
+    "zh": "能够更好地预测心血管疾病风险的标志物。",
+    "zh_hant": "能夠更好地預測心血管疾病風險的標誌物。"
   },
   {
-    "index": 31,
+    "index": 25,
     "text": "But for now, he says, doctors should depend on traditional risk factors.",
     "start": 155.841,
     "end": 162.224,
-    "zh": "但他表示，目前医生应依赖传统的风险因素。",
-    "zh_hant": "但他表示，目前醫生應依賴傳統的風險因素。"
+    "zh": "但就目前而言，他说医生应该依赖传统的风险因素。",
+    "zh_hant": "但就目前而言，他說醫生應該依賴傳統的風險因素。"
   },
   {
-    "index": 32,
+    "index": 26,
     "text": "These include a history of high blood pressure,",
     "start": 162.584,
     "end": 166.566,
-    "zh": "这些包括高血压病史、",
-    "zh_hant": "這些包括高血壓病史、"
+    "zh": "这些包括高血压病史，",
+    "zh_hant": "這些包括高血壓病史，"
   },
   {
-    "index": 33,
-    "text": "high cholesterol, tobacco use, diabetes, obesity,",
+    "index": 27,
+    "text": "high cholesterol, tobacco use, diabetes, obesity, physical inactivity,",
     "start": 166.846,
-    "end": 172.209,
-    "zh": "高胆固醇、吸烟、糖尿病、肥胖、",
-    "zh_hant": "高膽固醇、吸菸、糖尿病、肥胖、"
+    "end": 174.25,
+    "zh": "高胆固醇、吸烟、糖尿病、肥胖、缺乏运动，",
+    "zh_hant": "高膽固醇、吸菸、糖尿病、肥胖、缺乏運動，"
   },
   {
-    "index": 34,
-    "text": "physical inactivity, or poor nutrition.",
-    "start": 172.369,
+    "index": 28,
+    "text": "or poor nutrition.",
+    "start": 174.13,
     "end": 175.931,
-    "zh": "缺乏运动或营养不良。",
-    "zh_hant": "缺乏運動或營養不良。"
+    "zh": "或营养不良。",
+    "zh_hant": "或營養不良。"
   },
   {
-    "index": 35,
+    "index": 29,
     "text": "A separate study found no support for a theory",
     "start": 177.212,
     "end": 181.794,
-    "zh": "另一项研究发现，没有证据支持一种理论，",
-    "zh_hant": "另一項研究發現，沒有證據支援一種理論，"
+    "zh": "另一项研究发现没有支持一种理论",
+    "zh_hant": "另一項研究發現沒有支援一種理論"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "that a biomarker called C -reactive protein causes heart disease.",
     "start": 181.444,
     "end": 187.517,
-    "zh": "即一种名为C反应蛋白的生物标志物会导致心脏病。",
-    "zh_hant": "即一種名為C反應蛋白的生物標誌物會導致心臟病。"
+    "zh": "即一种叫做C反应蛋白的生物标志物会导致心脏病。",
+    "zh_hant": "即一種叫做C反應蛋白的生物標誌物會導致心臟病。"
   },
   {
-    "index": 37,
+    "index": 31,
     "text": "Earlier research suggested that the more of the protein in people's blood,",
     "start": 187.997,
     "end": 193.66,
-    "zh": "早期研究表明，人们血液中这种蛋白质越多，",
-    "zh_hant": "早期研究表明，人們血液中這種蛋白質越多，"
+    "zh": "早先的研究表明人们血液中这种蛋白质越多，",
+    "zh_hant": "早先的研究表明人們血液中這種蛋白質越多，"
   },
   {
-    "index": 38,
+    "index": 32,
     "text": "the more likely they are to develop heart disease.",
     "start": 194.0,
     "end": 198.222,
-    "zh": "他们越有可能患上心脏病。",
-    "zh_hant": "他們越有可能患上心臟病。"
+    "zh": "他们越有可能患心脏病。",
+    "zh_hant": "他們越有可能患心臟病。"
   },
   {
-    "index": 39,
+    "index": 33,
     "text": "The new study confirmed a link,",
     "start": 198.943,
     "end": 201.804,
@@ -320,55 +272,47 @@
     "zh_hant": "新研究證實了這種聯絡，"
   },
   {
-    "index": 40,
-    "text": "but did not find evidence that the C -reactive protein",
+    "index": 34,
+    "text": "but did not find evidence that the C -reactive protein causes the disease.",
     "start": 202.084,
-    "end": 206.866,
-    "zh": "但没有发现证据表明C反应蛋白",
-    "zh_hant": "但沒有發現證據表明C反應蛋白"
-  },
-  {
-    "index": 41,
-    "text": "causes the disease.",
-    "start": 206.966,
     "end": 208.967,
-    "zh": "会导致这种疾病。",
-    "zh_hant": "會導致這種疾病。"
+    "zh": "但没有发现证据表明C反应蛋白导致该疾病。",
+    "zh_hant": "但沒有發現證據表明C反應蛋白導致該疾病。"
   },
   {
-    "index": 42,
+    "index": 35,
     "text": "Both studies appeared in the Journal of the American Medical Association.",
     "start": 209.788,
     "end": 215.311,
-    "zh": "两项研究都发表在《美国医学会杂志》上。",
-    "zh_hant": "兩項研究都發表在《美國醫學會雜誌》上。"
+    "zh": "这两项研究都发表在《美国医学会杂志》上。",
+    "zh_hant": "這兩項研究都發表在《美國醫學會雜誌》上。"
   },
   {
-    "index": 43,
+    "index": 36,
     "text": "The World Health Organization estimates",
     "start": 216.412,
     "end": 219.813,
-    "zh": "世界卫生组织估计，",
-    "zh_hant": "世界衛生組織估計，"
+    "zh": "世界卫生组织估计",
+    "zh_hant": "世界衛生組織估計"
   },
   {
-    "index": 44,
+    "index": 37,
     "text": "that cardiovascular disease killed 17 .5",
     "start": 219.463,
     "end": 224.71,
-    "zh": "2005年心血管疾病导致1750",
-    "zh_hant": "2005年心血管疾病導致1750"
+    "zh": "心血管疾病在2005年导致1750万",
+    "zh_hant": "心血管疾病在2005年導致1750萬"
   },
   {
-    "index": 45,
+    "index": 38,
     "text": "million people in 2005.",
     "start": 225.056,
     "end": 228.848,
-    "zh": "万人死亡。",
-    "zh_hant": "萬人死亡。"
+    "zh": "人死亡。",
+    "zh_hant": "人死亡。"
   },
   {
-    "index": 46,
+    "index": 39,
     "text": "That was 30 % of all deaths.",
     "start": 228.898,
     "end": 232.76,
@@ -376,7 +320,7 @@
     "zh_hant": "這佔所有死亡人數的30%。"
   },
   {
-    "index": 47,
+    "index": 40,
     "text": "Eight out of ten deaths were in low - and middle -income countries.",
     "start": 233.34,
     "end": 238.763,
@@ -384,27 +328,27 @@
     "zh_hant": "每10例死亡中有8例發生在低收入和中等收入國家。"
   },
   {
-    "index": 48,
+    "index": 41,
     "text": "At current growth rates,",
     "start": 239.443,
     "end": 241.344,
-    "zh": "按照目前的增长速度，",
-    "zh_hant": "按照目前的增長速度，"
+    "zh": "按目前的增长率，",
+    "zh_hant": "按目前的增長率，"
   },
   {
-    "index": 49,
+    "index": 42,
     "text": "the WHO expects the number to reach 20 million by 2015.",
     "start": 241.304,
     "end": 248.918,
-    "zh": "世卫组织预计到2015年这一数字将达到2000万。",
-    "zh_hant": "世衛組織預計到2015年這一數字將達到2000萬。"
+    "zh": "世界卫生组织预计到2015年这一数字将达到2000万。",
+    "zh_hant": "世界衛生組織預計到2015年這一數字將達到2000萬。"
   },
   {
-    "index": 50,
+    "index": 43,
     "text": "And that's the VOA Special English Health Report.",
     "start": 248.968,
     "end": 252.83,
-    "zh": "这就是VOA特别英语健康报道。",
-    "zh_hant": "這就是VOA特別英語健康報道。"
+    "zh": "以上就是美国之音特别英语健康报道。",
+    "zh_hant": "以上就是美國之音特別英語健康報道。"
   }
 ]

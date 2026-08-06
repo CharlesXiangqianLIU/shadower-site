@@ -4,8 +4,8 @@
     "text": "Lesson 15.",
     "start": 7.093,
     "end": 5.27,
-    "zh": "第十五课。",
-    "zh_hant": "第十五課。"
+    "zh": "第15课。",
+    "zh_hant": "第15課。"
   },
   {
     "index": 1,
@@ -20,123 +20,115 @@
     "text": "Why is secrecy particularly important in the chemical industries?",
     "start": 12.296,
     "end": 17.358,
-    "zh": "为什么保密在化学工业中尤为重要？",
-    "zh_hant": "為什麼保密在化學工業中尤為重要？"
+    "zh": "为什么保密在化学工业中特别重要？",
+    "zh_hant": "為什麼保密在化學工業中特別重要？"
   },
   {
     "index": 3,
     "text": "Two factors weigh heavily against the effectiveness of scientific research in industry.",
     "start": 19.699,
     "end": 25.582,
-    "zh": "有两个因素严重影响了工业科学研究的有效性。",
-    "zh_hant": "有兩個因素嚴重影響了工業科學研究的有效性。"
+    "zh": "有两个因素严重不利于工业中的科学研究效率。",
+    "zh_hant": "有兩個因素嚴重不利於工業中的科學研究效率。"
   },
   {
     "index": 4,
-    "text": "One is the general atmosphere of secrecy in which it is carried out,",
+    "text": "One is the general atmosphere of secrecy in which it is carried out, the other",
     "start": 26.563,
-    "end": 31.485,
-    "zh": "一是研究进行时所处的普遍保密氛围。",
-    "zh_hant": "一是研究進行時所處的普遍保密氛圍。"
+    "end": 32.786,
+    "zh": "一个是研究进行时普遍的保密氛围，另一个",
+    "zh_hant": "一個是研究進行時普遍的保密氛圍，另一個"
   },
   {
     "index": 5,
-    "text": "the other the lack of freedom of the individual research worker.",
-    "start": 31.885,
+    "text": "the lack of freedom of the individual research worker.",
+    "start": 32.626,
     "end": 35.947,
-    "zh": "二是缺乏个人研究者的自由。",
-    "zh_hant": "二是缺乏個人研究者的自由。"
+    "zh": "是研究人员个人缺乏自由。",
+    "zh_hant": "是研究人員個人缺乏自由。"
   },
   {
     "index": 6,
     "text": "In so far as any inquiry is a secret one,",
     "start": 37.008,
     "end": 40.469,
-    "zh": "只要某项研究是保密的，",
-    "zh_hant": "只要某項研究是保密的，"
+    "zh": "任何调查只要属于秘密性质，",
+    "zh_hant": "任何調查只要屬於秘密性質，"
   },
   {
     "index": 7,
-    "text": "it naturally limits all those engaged in carrying it out",
+    "text": "it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists",
     "start": 40.75,
-    "end": 44.672,
-    "zh": "它自然就限制了所有参与其研究的人，",
-    "zh_hant": "它自然就限制了所有參與其研究的人，"
+    "end": 47.914,
+    "zh": "自然就限制了所有参与人员与同行科学家的有效交流，",
+    "zh_hant": "自然就限制了所有參與人員與同行科學家的有效交流，"
   },
   {
     "index": 8,
-    "text": "from effective contact with their fellow scientists either in other countries or in universities,",
-    "start": 44.532,
+    "text": "either in other countries or in universities,",
+    "start": 47.774,
     "end": 50.855,
-    "zh": "使他们无法与国外或大学里的同行科学家进行有效接触，",
-    "zh_hant": "使他們無法與國外或大學裡的同行科學家進行有效接觸，"
+    "zh": "无论是其他国家的还是大学里的同行，",
+    "zh_hant": "無論是其他國家的還是大學裡的同行，"
   },
   {
     "index": 9,
     "text": "or even, often enough, in other departments of the same firm.",
     "start": 51.075,
     "end": 55.517,
-    "zh": "甚至经常无法与同一公司的其他部门接触。",
-    "zh_hant": "甚至經常無法與同一公司的其他部門接觸。"
+    "zh": "甚至常常连同一公司的其他部门也不例外。",
+    "zh_hant": "甚至常常連同一公司的其他部門也不例外。"
   },
   {
     "index": 10,
     "text": "The degree of secrecy naturally varies considerably.",
     "start": 56.698,
     "end": 60.44,
-    "zh": "保密程度自然差异很大。",
-    "zh_hant": "保密程度自然差異很大。"
+    "zh": "保密程度自然差别很大。",
+    "zh_hant": "保密程度自然差別很大。"
   },
   {
     "index": 11,
-    "text": "Some of the bigger firms are engaged in researches",
+    "text": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature",
     "start": 61.12,
-    "end": 64.682,
-    "zh": "一些大型公司从事的研究项目，",
-    "zh_hant": "一些大型公司從事的研究專案，"
+    "end": 67.823,
+    "zh": "一些大公司从事的研究具有普遍性和基础性，",
+    "zh_hant": "一些大公司從事的研究具有普遍性和基礎性，"
   },
   {
     "index": 12,
-    "text": "which are of such general and fundamental nature",
-    "start": 64.542,
-    "end": 67.823,
-    "zh": "具有如此普遍和基础的性质，",
-    "zh_hant": "具有如此普遍和基礎的性質，"
-  },
-  {
-    "index": 13,
     "text": "that it is a positive advantage to them not to keep them secret.",
     "start": 67.864,
     "end": 72.746,
-    "zh": "以至于不保密对它们来说反而是有利的。",
-    "zh_hant": "以至於不保密對它們來說反而是有利的。"
+    "zh": "因此不保密对他们反而是明显的好处。",
+    "zh_hant": "因此不保密對他們反而是明顯的好處。"
+  },
+  {
+    "index": 13,
+    "text": "Yet a great many processes depending on such research are sought for with complete secrecy",
+    "start": 73.626,
+    "end": 80.329,
+    "zh": "然而，许多依赖这类研究的过程却是在完全保密下进行探索的，",
+    "zh_hant": "然而，許多依賴這類研究的過程卻是在完全保密下進行探索的，"
   },
   {
     "index": 14,
-    "text": "Yet a great many processes depending on such research",
-    "start": 73.626,
-    "end": 77.588,
-    "zh": "然而，许多依赖此类研究的过程，",
-    "zh_hant": "然而，許多依賴此類研究的過程，"
+    "text": "until the stage at which patents can be taken out.",
+    "start": 80.33,
+    "end": 83.712,
+    "zh": "直到可以申请专利的阶段。",
+    "zh_hant": "直到可以申請專利的階段。"
   },
   {
     "index": 15,
-    "text": "are sought for with complete secrecy until the stage at which patents can be taken out.",
-    "start": 77.548,
-    "end": 83.712,
-    "zh": "都在完全保密的状态下进行，直到能够申请专利的阶段。",
-    "zh_hant": "都在完全保密的狀態下進行，直到能夠申請專利的階段。"
-  },
-  {
-    "index": 16,
     "text": "Even more processes are never patented at all but kept as secret processes.",
     "start": 84.572,
     "end": 90.495,
-    "zh": "还有更多的过程从未申请专利，而是作为秘密流程保留。",
-    "zh_hant": "還有更多的過程從未申請專利，而是作為秘密流程保留。"
+    "zh": "更多的过程根本从未申请专利，而是作为秘密工艺保留。",
+    "zh_hant": "更多的過程根本從未申請專利，而是作為秘密工藝保留。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "This applies particularly to chemical industries,",
     "start": 91.155,
     "end": 94.717,
@@ -144,75 +136,43 @@
     "zh_hant": "這一點尤其適用於化學工業，"
   },
   {
-    "index": 18,
-    "text": "where chance discoveries play a much larger part",
+    "index": 17,
+    "text": "where chance discoveries play a much larger part than they do in physical and mechanical industries.",
     "start": 94.917,
-    "end": 98.539,
-    "zh": "因为在化学工业中，偶然发现所起的作用，",
-    "zh_hant": "因為在化學工業中，偶然發現所起的作用，"
+    "end": 101.82,
+    "zh": "因为其中偶然发现所起的作用远大于物理和机械工业。",
+    "zh_hant": "因為其中偶然發現所起的作用遠大於物理和機械工業。"
+  },
+  {
+    "index": 18,
+    "text": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
+    "start": 102.181,
+    "end": 109.064,
+    "zh": "有时保密程度甚至到连研究的整个性质都不能提及。",
+    "zh_hant": "有時保密程度甚至到連研究的整個性質都不能提及。"
   },
   {
     "index": 19,
-    "text": "than they do in physical and mechanical industries.",
-    "start": 98.359,
-    "end": 101.82,
-    "zh": "比在物理和机械工业中重要得多。",
-    "zh_hant": "比在物理和機械工業中重要得多。"
+    "text": "Many firms, for instance have great difficulty in obtaining technical or scientific books",
+    "start": 109.664,
+    "end": 115.867,
+    "zh": "例如，许多公司从图书馆获取技术或科学书籍就遇到很大困难，",
+    "zh_hant": "例如，許多公司從圖書館獲取技術或科學書籍就遇到很大困難，"
   },
   {
     "index": 20,
-    "text": "Sometimes the secrecy goes to such an extent",
-    "start": 102.181,
-    "end": 105.722,
-    "zh": "有时保密程度如此之深，",
-    "zh_hant": "有時保密程度如此之深，"
+    "text": "from libraries because they are unwilling to have their names entered as having taken out such and such a book,",
+    "start": 115.517,
+    "end": 122.113,
+    "zh": "因为他们不愿登记自己的名字借了某本特定的书，",
+    "zh_hant": "因為他們不願登記自己的名字借了某本特定的書，"
   },
   {
     "index": 21,
-    "text": "that the whole nature of the research cannot be mentioned.",
-    "start": 105.642,
-    "end": 109.064,
-    "zh": "以至于连研究的整个性质都不能提及。",
-    "zh_hant": "以至於連研究的整個性質都不能提及。"
-  },
-  {
-    "index": 22,
-    "text": "Many firms, for instance have great difficulty",
-    "start": 109.664,
-    "end": 112.986,
-    "zh": "例如，许多公司从图书馆获取技术或科学书籍时遇到很大困难，",
-    "zh_hant": "例如，許多公司從圖書館獲取技術或科學書籍時遇到很大困難，"
-  },
-  {
-    "index": 23,
-    "text": "in obtaining technical or scientific books from libraries",
-    "start": 112.846,
-    "end": 116.788,
-    "zh": "因为不愿让名字被登记为借阅了某本书，",
-    "zh_hant": "因為不願讓名字被登記為借閱了某本書，"
-  },
-  {
-    "index": 24,
-    "text": "because they are unwilling to have their names entered as having taken out such and such a book,",
-    "start": 116.608,
-    "end": 122.113,
-    "zh": "生怕其他公司的代理人能追踪到，",
-    "zh_hant": "生怕其他公司的代理人能追蹤到，"
-  },
-  {
-    "index": 25,
-    "text": "for fear the agents of other firms should be able to trace",
+    "text": "for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.",
     "start": 122.135,
-    "end": 126.583,
-    "zh": "他们可能正在进行的研究类型。",
-    "zh_hant": "他們可能正在進行的研究型別。"
-  },
-  {
-    "index": 26,
-    "text": "the kind of research they are likely to be undertaking.",
-    "start": 126.233,
     "end": 129.59,
-    "zh": "这一点尤其如此。",
-    "zh_hant": "這一點尤其如此。"
+    "zh": "生怕其他公司的代理人能追踪到他们可能正在开展的研究类型。",
+    "zh_hant": "生怕其他公司的代理人能追蹤到他們可能正在開展的研究型別。"
   }
 ]

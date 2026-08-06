@@ -12,32 +12,32 @@
     "text": "The cost of government.",
     "start": 3.431,
     "end": 7.693,
-    "zh": "政府的开支。",
-    "zh_hant": "政府的開支。"
+    "zh": "政府的成本。",
+    "zh_hant": "政府的成本。"
   },
   {
     "index": 2,
     "text": "What's the most important factor, both in government or business,",
     "start": 11.375,
     "end": 15.957,
-    "zh": "在政府或企业中，保持运营成本低廉的最重要因素是什么？",
-    "zh_hant": "在政府或企業中，保持運營成本低廉的最重要因素是什麼？"
+    "zh": "在政府或企业中，最重要的因素是哪些，",
+    "zh_hant": "在政府或企業中，最重要的因素是哪些，"
   },
   {
     "index": 3,
     "text": "for keeping running costs low?",
     "start": 16.038,
     "end": 18.679,
-    "zh": "用于维持低成本运营？",
-    "zh_hant": "用於維持低成本運營？"
+    "zh": "用于保持运营成本低廉？",
+    "zh_hant": "用於保持運營成本低廉？"
   },
   {
     "index": 4,
     "text": "If a nation is essentialy disunited, it is left to the government to hold it together.",
     "start": 21.08,
     "end": 26.743,
-    "zh": "如果一个国家本质上是不团结的，就只好由政府来维持它的统一。",
-    "zh_hant": "如果一個國家本質上是不團結的，就只好由政府來維持它的統一。"
+    "zh": "如果一个国家本质上不团结，就需由政府来维持其统一。",
+    "zh_hant": "如果一個國家本質上不團結，就需由政府來維持其統一。"
   },
   {
     "index": 5,
@@ -49,282 +49,242 @@
   },
   {
     "index": 6,
-    "text": "and reduces correspondingly the amount of economic resources",
+    "text": "and reduces correspondingly the amount of economic resources that could be used for developing the country.",
     "start": 30.305,
-    "end": 34.726,
-    "zh": "并相应地减少了可用于发展国家的经济资源数量。",
-    "zh_hant": "並相應地減少了可用於發展國家的經濟資源數量。"
+    "end": 37.288,
+    "zh": "并相应减少了可用于国家发展的经济资源数量。",
+    "zh_hant": "並相應減少了可用於國家發展的經濟資源數量。"
   },
   {
     "index": 7,
-    "text": "that could be used for developing the country.",
-    "start": 34.527,
-    "end": 37.288,
-    "zh": "这些资源本可用于国家发展。",
-    "zh_hant": "這些資源本可用於國家發展。"
-  },
-  {
-    "index": 8,
     "text": "And it should not be forgotten how small those resources are in a poor and backward country.",
     "start": 38.108,
     "end": 44.031,
-    "zh": "而且不应忘记，在贫穷落后的国家里，这些资源是多么有限。",
-    "zh_hant": "而且不應忘記，在貧窮落後的國家裡，這些資源是多麼有限。"
+    "zh": "不应忘记在贫穷落后的国家，这些资源是多么有限。",
+    "zh_hant": "不應忘記在貧窮落後的國家，這些資源是多麼有限。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Where the cost of government is high, resources for development are correspondingly low.",
     "start": 44.832,
     "end": 50.515,
-    "zh": "政府开支高昂的地方，发展资源相应就少。",
-    "zh_hant": "政府開支高昂的地方，發展資源相應就少。"
+    "zh": "政府成本高，发展资源就相应低。",
+    "zh_hant": "政府成本高，發展資源就相應低。"
+  },
+  {
+    "index": 9,
+    "text": "This may be illustrated by comparing the position of a nation with that of a private business enterprise.",
+    "start": 51.756,
+    "end": 58.319,
+    "zh": "这可以通过比较国家与私营企业的状况来说明。",
+    "zh_hant": "這可以透過比較國家與私營企業的狀況來說明。"
   },
   {
     "index": 10,
-    "text": "This may be illustrated by comparing the position of a nation",
-    "start": 51.756,
-    "end": 55.617,
-    "zh": "这可以通过比较一个国家的情况来说明，",
-    "zh_hant": "這可以透過比較一個國家的情況來說明，"
-  },
-  {
-    "index": 11,
-    "text": "with that of a private business enterprise.",
-    "start": 55.457,
-    "end": 58.319,
-    "zh": "与一家私营企业的状况进行对比。",
-    "zh_hant": "與一傢俬營企業的狀況進行對比。"
-  },
-  {
-    "index": 12,
     "text": "An enterprise has to incur certain costs and expenses in order to stay in business.",
     "start": 59.279,
     "end": 65.202,
-    "zh": "企业为了维持运营，必须承担某些成本和费用。",
-    "zh_hant": "企業為了維持運營，必須承擔某些成本和費用。"
+    "zh": "企业为了维持运营，必须承担一定的成本与开支。",
+    "zh_hant": "企業為了維持運營，必須承擔一定的成本與開支。"
   },
   {
-    "index": 13,
-    "text": "For our purposes, we are concerned only with one kind of cost--the",
+    "index": 11,
+    "text": "For our purposes, we are concerned only with one kind",
     "start": 65.902,
-    "end": 71.445,
+    "end": 69.984,
     "zh": "就我们的目的而言，我们只关心一种成本——",
     "zh_hant": "就我們的目的而言，我們只關心一種成本——"
   },
   {
-    "index": 14,
-    "text": "cost of managing and administering the business.",
-    "start": 71.095,
+    "index": 12,
+    "text": "of cost--the cost of managing and administering the business.",
+    "start": 69.634,
     "end": 74.807,
-    "zh": "即管理和经营企业的成本。",
-    "zh_hant": "即管理和經營企業的成本。"
+    "zh": "即管理和运营企业的成本。",
+    "zh_hant": "即管理和運營企業的成本。"
+  },
+  {
+    "index": 13,
+    "text": "Such administrative overheads in a business are analogous to the cost of government in a nation.",
+    "start": 75.787,
+    "end": 82.371,
+    "zh": "企业中的这类行政开销与国家中的政府成本类似。",
+    "zh_hant": "企業中的這類行政開銷與國家中的政府成本類似。"
+  },
+  {
+    "index": 14,
+    "text": "The administrative overheads of a business are low to the extent that everyone",
+    "start": 83.091,
+    "end": 88.654,
+    "zh": "企业的行政开销在每个人都能被信任、",
+    "zh_hant": "企業的行政開銷在每個人都能被信任、"
   },
   {
     "index": 15,
-    "text": "Such administrative overheads in a business are analogous",
-    "start": 75.787,
-    "end": 80.189,
-    "zh": "企业中的这类行政管理开支类似于一个国家的政府开支。",
-    "zh_hant": "企業中的這類行政管理開支類似於一個國家的政府開支。"
+    "text": "working in the business can be trusted to behave in a way that best promotes the interests of the firm.",
+    "start": 88.304,
+    "end": 94.637,
+    "zh": "以最有利于公司利益的方式行事时，会保持较低。",
+    "zh_hant": "以最有利於公司利益的方式行事時，會保持較低。"
   },
   {
     "index": 16,
-    "text": "to the cost of government in a nation.",
-    "start": 80.069,
-    "end": 82.371,
-    "zh": "企业的行政开支与国家的政府开支相似。",
-    "zh_hant": "企業的行政開支與國家的政府開支相似。"
-  },
-  {
-    "index": 17,
-    "text": "The administrative overheads of a business are low",
-    "start": 83.091,
-    "end": 86.793,
-    "zh": "企业的行政管理开支低廉的程度，",
-    "zh_hant": "企業的行政管理開支低廉的程度，"
-  },
-  {
-    "index": 18,
-    "text": "to the extent that everyone working in the business can be trusted to behave",
-    "start": 86.853,
-    "end": 91.415,
-    "zh": "取决于企业中的每位员工是否都能被信赖，以最有利于公司利益的方式行事。",
-    "zh_hant": "取決於企業中的每位員工是否都能被信賴，以最有利於公司利益的方式行事。"
-  },
-  {
-    "index": 19,
-    "text": "in a way that best promotes the interests of the firm.",
-    "start": 91.065,
-    "end": 94.637,
-    "zh": "每位员工以此方式行事。",
-    "zh_hant": "每位員工以此方式行事。"
-  },
-  {
-    "index": 20,
     "text": "If they can each be trusted to take such responsibilities,",
     "start": 95.658,
     "end": 99.319,
-    "zh": "如果每个人都能被信赖来承担这些责任，",
-    "zh_hant": "如果每個人都能被信賴來承擔這些責任，"
+    "zh": "如果每个人都能被信任去承担这些责任，",
+    "zh_hant": "如果每個人都能被信任去承擔這些責任，"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "and to exercise such initiative as falls within their sphere,",
     "start": 99.339,
     "end": 103.761,
-    "zh": "并在各自职责范围内发挥主动性，",
-    "zh_hant": "並在各自職責範圍內發揮主動性，"
+    "zh": "并能发挥其职责范围内的主动性，",
+    "zh_hant": "並能發揮其職責範圍內的主動性，"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "then administrative overheads will be low.",
     "start": 103.962,
     "end": 107.163,
-    "zh": "那么行政管理开支就会很低。",
-    "zh_hant": "那麼行政管理開支就會很低。"
+    "zh": "那么行政开销就会很低。",
+    "zh_hant": "那麼行政開銷就會很低。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "It will be low because it will be necessary to have only one man looking after each job",
     "start": 108.204,
     "end": 114.046,
-    "zh": "开支会低，因为每项工作只需一人负责，",
-    "zh_hant": "開支會低，因為每項工作只需一人負責，"
+    "zh": "它会低，因为每项工作只需一人照看，",
+    "zh_hant": "它會低，因為每項工作只需一人照看，"
   },
   {
-    "index": 24,
-    "text": "without",
+    "index": 20,
+    "text": "without having another man to check upon what he is doing,",
     "start": 114.107,
-    "end": 114.887,
-    "zh": "无需",
-    "zh_hant": "無需"
-  },
-  {
-    "index": 25,
-    "text": "having another man to check upon what he is doing,",
-    "start": 114.537,
     "end": 117.568,
-    "zh": "另一个人来检查他正在做的事情，",
-    "zh_hant": "另一個人來檢查他正在做的事情，"
+    "zh": "而不需要另一个人检查他的工作，",
+    "zh_hant": "而不需要另一個人檢查他的工作，"
   },
   {
-    "index": 26,
+    "index": 21,
     "text": "keep him in line, and report on him to someone else.",
     "start": 117.788,
     "end": 121.931,
-    "zh": "监督他、约束他，并向别人汇报他。",
-    "zh_hant": "監督他、約束他，並向別人彙報他。"
+    "zh": "使他循规蹈矩，并向他人汇报。",
+    "zh_hant": "使他循規蹈矩，並向他人彙報。"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "But if no one can be trusted to act in a loyal and responsible manner towards his job,",
     "start": 122.371,
     "end": 128.814,
-    "zh": "但如果没有人能被信赖以忠诚负责的态度对待工作，",
-    "zh_hant": "但如果沒有人能被信賴以忠誠負責的態度對待工作，"
+    "zh": "但如果没有人能被信任以忠诚和负责的态度对待工作，",
+    "zh_hant": "但如果沒有人能被信任以忠誠和負責的態度對待工作，"
   },
   {
-    "index": 28,
-    "text": "then the business will require armies of administrators, checkers and foremen",
+    "index": 23,
+    "text": "then the business will require armies of administrators,",
     "start": 129.074,
-    "end": 135.177,
-    "zh": "那么企业就需要大批的管理人员、检查员和领班，",
-    "zh_hant": "那麼企業就需要大批的管理人員、檢查員和領班，"
+    "end": 132.936,
+    "zh": "企业就需要大量管理人员、",
+    "zh_hant": "企業就需要大量管理人員、"
   },
   {
-    "index": 29,
-    "text": "and administrative overheads will rise correspondingly.",
-    "start": 135.237,
+    "index": 24,
+    "text": "checkers and foremen and administrative overheads will rise correspondingly.",
+    "start": 133.076,
     "end": 138.799,
-    "zh": "行政管理开支也会相应增加。",
-    "zh_hant": "行政管理開支也會相應增加。"
+    "zh": "检查员和监工，行政开销将相应上升。",
+    "zh_hant": "檢查員和監工，行政開銷將相應上升。"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "As administrative overheads rise,",
     "start": 140.02,
     "end": 142.701,
-    "zh": "随着行政管理开支的上升，",
-    "zh_hant": "隨著行政管理開支的上升，"
+    "zh": "随着行政开销的上升，",
+    "zh_hant": "隨著行政開銷的上升，"
   },
   {
-    "index": 31,
-    "text": "so the earnings of the business after meeting the expense of administration,",
+    "index": 26,
+    "text": "so the earnings of the business after meeting the expense of administration, will fall;",
     "start": 142.781,
-    "end": 147.343,
-    "zh": "企业在支付管理费用后的收益也会下降；",
-    "zh_hant": "企業在支付管理費用後的收益也會下降；"
+    "end": 148.344,
+    "zh": "企业在支付管理费用后的收益将下降；",
+    "zh_hant": "企業在支付管理費用後的收益將下降；"
   },
   {
-    "index": 32,
-    "text": "will fall; and the business will have less money",
-    "start": 147.303,
-    "end": 150.985,
-    "zh": "因此，企业会拥有更少的资金",
-    "zh_hant": "因此，企業會擁有更少的資金"
+    "index": 27,
+    "text": "and the business will have less money to distribute as dividends",
+    "start": 148.664,
+    "end": 152.786,
+    "zh": "企业能分配为红利或",
+    "zh_hant": "企業能分配為紅利或"
   },
   {
-    "index": 33,
-    "text": "to distribute as dividends or invest directly in its future progress and development.",
-    "start": 150.635,
+    "index": 28,
+    "text": "or invest directly in its future progress and development.",
+    "start": 152.746,
     "end": 156.408,
-    "zh": "来分配股息，或者直接投资于其未来的进步与发展。",
-    "zh_hant": "來分配股息，或者直接投資於其未來的進步與發展。"
+    "zh": "直接投资于未来进步与发展的资金将减少。",
+    "zh_hant": "直接投資於未來進步與發展的資金將減少。"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "It is precisely the same with a nation.",
     "start": 157.508,
     "end": 160.009,
-    "zh": "一个国家的情况也正是如此。",
-    "zh_hant": "一個國家的情況也正是如此。"
+    "zh": "国家情况完全相同。",
+    "zh_hant": "國家情況完全相同。"
   },
   {
-    "index": 35,
+    "index": 30,
     "text": "To the extent that the people can be relied on to behave in a loyal and responsible manner,",
     "start": 160.37,
     "end": 166.394,
-    "zh": "人民能被信赖以忠诚负责的态度行事的程度越高，",
-    "zh_hant": "人民能被信賴以忠誠負責的態度行事的程度越高，"
+    "zh": "人民在多大程度上可以被信赖以忠诚和负责的态度行事，",
+    "zh_hant": "人民在多大程度上可以被信賴以忠誠和負責的態度行事，"
   },
   {
-    "index": 36,
+    "index": 31,
     "text": "the government does not require armies of police and civil servants to keep them in order.",
     "start": 166.554,
     "end": 171.977,
-    "zh": "政府就越不需要大批警察和文职人员来维持秩序。",
-    "zh_hant": "政府就越不需要大批警察和文職人員來維持秩序。"
+    "zh": "政府就不需要大量警察和公务员来维持秩序。",
+    "zh_hant": "政府就不需要大量警察和公務員來維持秩序。"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "But if a nation is disunited,",
     "start": 172.398,
     "end": 175.139,
-    "zh": "但如果一个国家不团结，",
-    "zh_hant": "但如果一個國家不團結，"
+    "zh": "但如果国家不团结，",
+    "zh_hant": "但如果國家不團結，"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "the government cannot be sure that the actions of the people will be in the interests of the nation;",
     "start": 175.16,
     "end": 180.663,
-    "zh": "政府就无法确保人民的行为符合国家利益；",
-    "zh_hant": "政府就無法確保人民的行為符合國家利益；"
+    "zh": "政府就无法确定人民的行为是否符合国家利益；",
+    "zh_hant": "政府就無法確定人民的行為是否符合國家利益；"
   },
   {
-    "index": 39,
+    "index": 34,
     "text": "and it will have to watch, check, and control the people accordingly.",
     "start": 180.963,
     "end": 185.866,
-    "zh": "因此，政府必须对人民进行监视、检查和管控。",
-    "zh_hant": "因此，政府必須對人民進行監視、檢查和管控。"
+    "zh": "政府将不得不相应地监督、检查和管制人民。",
+    "zh_hant": "政府將不得不相應地監督、檢查和管制人民。"
   },
   {
-    "index": 40,
+    "index": 35,
     "text": "A disunited nation therefore has to incur unduly high costs of government.",
     "start": 186.387,
     "end": 191.95,
-    "zh": "因此，一个不团结的国家不得不承担过高的政府开支。",
-    "zh_hant": "因此，一個不團結的國家不得不承擔過高的政府開支。"
+    "zh": "因此，不团结的国家必须承担过高的政府成本。",
+    "zh_hant": "因此，不團結的國家必須承擔過高的政府成本。"
   }
 ]

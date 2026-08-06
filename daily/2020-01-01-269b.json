@@ -12,24 +12,24 @@
     "text": "Training elephants At what point.",
     "start": 7.114,
     "end": 11.856,
-    "zh": "训练大象在什么时刻",
-    "zh_hant": "訓練大象在什麼時刻"
+    "zh": "训练大象——在什么时刻",
+    "zh_hant": "訓練大象——在什麼時刻"
   },
   {
     "index": 2,
     "text": "does the training of a captive wild elephant begin?",
     "start": 11.506,
     "end": 15.678,
-    "zh": "一头被捕获的野生大象的训练才算开始？",
-    "zh_hant": "一頭被捕獲的野生大象的訓練才算開始？"
+    "zh": "一头被捕获的野生大象的训练才开始呢？",
+    "zh_hant": "一頭被捕獲的野生大象的訓練才開始呢？"
   },
   {
     "index": 3,
     "text": "Two main techniques have been used for training elephants,",
     "start": 17.679,
     "end": 21.641,
-    "zh": "训练大象已采用两种主要技术，",
-    "zh_hant": "訓練大象已採用兩種主要技術，"
+    "zh": "训练大象主要采用过两种技术，",
+    "zh_hant": "訓練大象主要採用過兩種技術，"
   },
   {
     "index": 4,
@@ -44,16 +44,16 @@
     "text": "The former method simply consists of setting an elephant to work",
     "start": 27.224,
     "end": 32.006,
-    "zh": "前一种方法仅仅是让大象干活，",
-    "zh_hant": "前一種方法僅僅是讓大象幹活，"
+    "zh": "前一种方法只是让大象干活，",
+    "zh_hant": "前一種方法只是讓大象幹活，"
   },
   {
     "index": 6,
     "text": "and beating him until he does what is expected of him.",
     "start": 31.906,
     "end": 36.088,
-    "zh": "然后鞭打它，直到它做出所期望的动作。",
-    "zh_hant": "然後鞭打它，直到它做出所期望的動作。"
+    "zh": "然后打它，直到它做出所期望的行为。",
+    "zh_hant": "然後打它，直到它做出所期望的行為。"
   },
   {
     "index": 7,
@@ -65,22 +65,14 @@
   },
   {
     "index": 8,
-    "text": "for it produces a resentful animal who at a later stage may well turn",
+    "text": "for it produces a resentful animal who at a later stage may well turn man-killer.",
     "start": 42.212,
-    "end": 47.894,
-    "zh": "因为它会产生一头怨恨的动物，日后很可能变成",
-    "zh_hant": "因為它會產生一頭怨恨的動物，日後很可能變成"
+    "end": 49.055,
+    "zh": "因为它会使动物心怀怨恨，日后很可能变成杀人的猛兽。",
+    "zh_hant": "因為它會使動物心懷怨恨，日後很可能變成殺人的猛獸。"
   },
   {
     "index": 9,
-    "text": "man-killer.",
-    "start": 47.774,
-    "end": 49.055,
-    "zh": "杀人象。",
-    "zh_hant": "殺人象。"
-  },
-  {
-    "index": 10,
     "text": "The gentle method requires more patience in the early stages,",
     "start": 49.315,
     "end": 53.337,
@@ -88,159 +80,127 @@
     "zh_hant": "溫和法在早期階段需要更多耐心，"
   },
   {
-    "index": 11,
-    "text": "but produce a cheerful good-tempered elephant",
+    "index": 10,
+    "text": "but produce a cheerful good-tempered elephant who will give many years of loyal service.",
     "start": 53.677,
-    "end": 57.399,
-    "zh": "但会产生一头愉快、性情温和的大象，",
-    "zh_hant": "但會產生一頭愉快、性情溫和的大象，"
+    "end": 60.56,
+    "zh": "但能培养出一头性情愉快、脾气好的大象，它会忠诚服务多年。",
+    "zh_hant": "但能培養出一頭性情愉快、脾氣好的大象，它會忠誠服務多年。"
+  },
+  {
+    "index": 11,
+    "text": "The first essential in elephant training is to assign",
+    "start": 61.821,
+    "end": 65.603,
+    "zh": "训练大象的首要关键是",
+    "zh_hant": "訓練大象的首要關鍵是"
   },
   {
     "index": 12,
-    "text": "who will give many years of loyal service.",
-    "start": 57.519,
-    "end": 60.56,
-    "zh": "它会提供多年忠诚的服务。",
-    "zh_hant": "它會提供多年忠誠的服務。"
+    "text": "to the animal a single mahout who will be entirely responsible for the job.",
+    "start": 65.253,
+    "end": 71.426,
+    "zh": "为它指定一名专职的驯象人，全权负责这项工作。",
+    "zh_hant": "為它指定一名專職的馴象人，全權負責這項工作。"
   },
   {
     "index": 13,
-    "text": "The first essential in elephant training is to assign to the animal",
-    "start": 61.821,
-    "end": 66.283,
-    "zh": "训练大象的首要关键是给动物指派",
-    "zh_hant": "訓練大象的首要關鍵是給動物指派"
-  },
-  {
-    "index": 14,
-    "text": "a single mahout who will be entirely responsible for the job.",
-    "start": 66.263,
-    "end": 71.426,
-    "zh": "一名专职负责此工作的驯象人。",
-    "zh_hant": "一名專職負責此工作的馴象人。"
-  },
-  {
-    "index": 15,
     "text": "Elephants like to have one master just as dogs do,",
     "start": 72.006,
     "end": 75.708,
-    "zh": "大象喜欢有一个主人，就像狗一样，",
-    "zh_hant": "大象喜歡有一個主人，就像狗一樣，"
+    "zh": "大象像狗一样喜欢只有一个主人，",
+    "zh_hant": "大象像狗一樣喜歡只有一個主人，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "and are capable of a considerable degree of personal affection.",
     "start": 76.288,
     "end": 80.851,
-    "zh": "并且能够有相当程度的个人感情。",
-    "zh_hant": "並且能夠有相當程度的個人感情。"
+    "zh": "并且能够产生相当程度的个人情感。",
+    "zh_hant": "並且能夠產生相當程度的個人情感。"
+  },
+  {
+    "index": 15,
+    "text": "There are even stories of half-trained elephant calves who have refused to feed",
+    "start": 81.651,
+    "end": 88.094,
+    "zh": "甚至有故事提到，半训练的小象会拒绝进食，",
+    "zh_hant": "甚至有故事提到，半訓練的小象會拒絕進食，"
+  },
+  {
+    "index": 16,
+    "text": "and pined to death when by some unavoidable circumstance",
+    "start": 88.255,
+    "end": 93.477,
+    "zh": "当由于某些不可避免的情况",
+    "zh_hant": "當由於某些不可避免的情況"
   },
   {
     "index": 17,
-    "text": "There are even stories of half-trained elephant calves",
-    "start": 81.651,
-    "end": 85.873,
-    "zh": "甚至有故事提到半训练过的小象，",
-    "zh_hant": "甚至有故事提到半訓練過的小象，"
+    "text": "they have been deprived of their own trainer.",
+    "start": 93.958,
+    "end": 96.859,
+    "zh": "被夺走了自己的驯象师时，它们会忧伤而死。",
+    "zh_hant": "被奪走了自己的馴象師時，它們會憂傷而死。"
   },
   {
     "index": 18,
-    "text": "who have refused to feed and pined to death",
-    "start": 85.713,
-    "end": 90.255,
-    "zh": "它们拒绝进食并因思念而死去，",
-    "zh_hant": "它們拒絕進食並因思念而死去，"
-  },
-  {
-    "index": 19,
-    "text": "when by some unavoidable circumstance they have been deprived of their own trainer.",
-    "start": 90.476,
-    "end": 96.859,
-    "zh": "因为一些无法避免的情况使它们失去了自己的驯象人。",
-    "zh_hant": "因為一些無法避免的情況使它們失去了自己的馴象人。"
-  },
-  {
-    "index": 20,
     "text": "Such extreme cases must probably be taken with a grain of salt,",
     "start": 98.38,
     "end": 102.962,
-    "zh": "这种极端情况可能不应全信，",
-    "zh_hant": "這種極端情況可能不應全信，"
+    "zh": "这类极端案例或许应半信半疑，",
+    "zh_hant": "這類極端案例或許應半信半疑，"
+  },
+  {
+    "index": 19,
+    "text": "but they do underline the general principle",
+    "start": 103.182,
+    "end": 106.663,
+    "zh": "但它们确实强调了这样一个总原则：",
+    "zh_hant": "但它們確實強調了這樣一個總原則："
+  },
+  {
+    "index": 20,
+    "text": "that the relationship between elephant and mahout is the key to successful training.",
+    "start": 106.444,
+    "end": 113.107,
+    "zh": "大象与驯象人之间的关系是训练成功的关键。",
+    "zh_hant": "大象與馴象人之間的關係是訓練成功的關鍵。"
   },
   {
     "index": 21,
-    "text": "but they do underline",
-    "start": 103.182,
-    "end": 105.263,
-    "zh": "但它们的确实出强调了",
-    "zh_hant": "但它們的確實出強調了"
+    "text": "The most economical age to capture an elephant for training is between 15 and 20 years,",
+    "start": 114.147,
+    "end": 120.831,
+    "zh": "捕捉大象进行训练最经济年龄是15到20岁之间，",
+    "zh_hant": "捕捉大象進行訓練最經濟年齡是15到20歲之間，"
   },
   {
     "index": 22,
-    "text": "the general principle that the relationship between elephant",
-    "start": 104.913,
-    "end": 109.005,
-    "zh": "一般原则，即大象与",
-    "zh_hant": "一般原則，即大象與"
+    "text": "for it is then almost ready to undertake heavy work and can begin to earn its keep straight away.",
+    "start": 121.431,
+    "end": 128.675,
+    "zh": "因为那时它几乎可以承担重活，并能立即开始挣回自己的饲养费。",
+    "zh_hant": "因為那時它幾乎可以承擔重活，並能立即開始掙回自己的飼養費。"
   },
   {
     "index": 23,
-    "text": "and mahout is the key to successful training.",
-    "start": 109.205,
-    "end": 113.107,
-    "zh": "驯象人之间的关系是成功训练的关键。",
-    "zh_hant": "馴象人之間的關係是成功訓練的關鍵。"
-  },
-  {
-    "index": 24,
-    "text": "The most economical age to capture an elephant for training",
-    "start": 114.147,
-    "end": 118.329,
-    "zh": "捕获大象进行训练的最经济年龄",
-    "zh_hant": "捕獲大象進行訓練的最經濟年齡"
-  },
-  {
-    "index": 25,
-    "text": "is between 15 and 20 years,",
-    "start": 117.979,
-    "end": 120.831,
-    "zh": "在15到20岁之间，",
-    "zh_hant": "在15到20歲之間，"
-  },
-  {
-    "index": 26,
-    "text": "for it is then almost ready to undertake heavy work",
-    "start": 121.431,
-    "end": 125.293,
-    "zh": "因为那时它几乎准备好承担繁重的工作，",
-    "zh_hant": "因為那時它幾乎準備好承擔繁重的工作，"
-  },
-  {
-    "index": 27,
-    "text": "and can begin to earn its keep straight away.",
-    "start": 125.353,
-    "end": 128.675,
-    "zh": "并能立即开始赚取自己的食宿费用。",
-    "zh_hant": "並能立即開始賺取自己的食宿費用。"
-  },
-  {
-    "index": 28,
     "text": "But animals of this age do not easily become subservient to man,",
     "start": 129.195,
     "end": 134.438,
-    "zh": "但这个年龄的动物不易变得顺从于人，",
-    "zh_hant": "但這個年齡的動物不易變得順從於人，"
+    "zh": "但这个年龄的动物不容易变得顺从于人类，",
+    "zh_hant": "但這個年齡的動物不容易變得順從於人類，"
   },
   {
-    "index": 29,
+    "index": 24,
     "text": "and a very firm hand must be employed in the early stages.",
     "start": 134.858,
     "end": 138.76,
-    "zh": "早期阶段必须使用非常强硬的手段。",
-    "zh_hant": "早期階段必須使用非常強硬的手段。"
+    "zh": "在早期阶段必须采取非常强硬的手段。",
+    "zh_hant": "在早期階段必須採取非常強硬的手段。"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "The captive elephant, still roped to a tree,",
     "start": 139.3,
     "end": 142.662,
@@ -248,47 +208,39 @@
     "zh_hant": "被捕獲的大象仍拴在樹上，"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "plunges and screams every time a man approaches,",
     "start": 142.662,
     "end": 147.004,
-    "zh": "每当有人靠近时，它就会猛冲并尖叫，",
-    "zh_hant": "每當有人靠近時，它就會猛衝並尖叫，"
+    "zh": "每当有人靠近时，它就猛冲尖叫，",
+    "zh_hant": "每當有人靠近時，它就猛衝尖叫，"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "and for several days will probably refuse all food through anger and fear.",
     "start": 147.324,
     "end": 153.207,
-    "zh": "好几天可能因愤怒和恐惧拒绝一切食物。",
-    "zh_hant": "好幾天可能因憤怒和恐懼拒絕一切食物。"
+    "zh": "而且好几天可能会因愤怒和恐惧而拒绝一切食物。",
+    "zh_hant": "而且好幾天可能會因憤怒和恐懼而拒絕一切食物。"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "Sometimes a tame elephant is tethered nearby to give the wild one confidence,",
     "start": 154.268,
     "end": 159.67,
-    "zh": "有时会在附近拴一头驯化的大象给予野生象信心，",
-    "zh_hant": "有時會在附近拴一頭馴化的大象給予野生象信心，"
+    "zh": "有时会在附近拴一头驯服的大象，给野生象以信心，",
+    "zh_hant": "有時會在附近拴一頭馴服的大象，給野生象以信心，"
   },
   {
-    "index": 34,
-    "text": "and in most cases the captive gradually quietens down",
+    "index": 29,
+    "text": "and in most cases the captive gradually quietens down and begins to accept its food.",
     "start": 160.251,
-    "end": 164.993,
-    "zh": "在大多数情况下，捕获的大象逐渐安静下来",
-    "zh_hant": "在大多數情況下，捕獲的大象逐漸安靜下來"
-  },
-  {
-    "index": 35,
-    "text": "and begins to accept its food.",
-    "start": 164.993,
     "end": 167.254,
-    "zh": "并开始接受食物。",
-    "zh_hant": "並開始接受食物。"
+    "zh": "大多数情况下，被捕获的大象会逐渐安静下来，并开始接受食物。",
+    "zh_hant": "大多數情況下，被捕獲的大象會逐漸安靜下來，並開始接受食物。"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "The next stage is to get the elephant to the training establishment,",
     "start": 167.694,
     "end": 171.696,
@@ -296,71 +248,63 @@
     "zh_hant": "下一階段是把大象帶到訓練場所，"
   },
   {
-    "index": 37,
-    "text": "a ticklish business which is achieved with the aid of two tame elephants",
+    "index": 31,
+    "text": "a ticklish business which is achieved with the aid of two tame elephants roped to the captive on either side.",
     "start": 171.796,
-    "end": 176.638,
-    "zh": "这是一件棘手的事情，需要借助两头驯化大象来完成，",
-    "zh_hant": "這是一件棘手的事情，需要藉助兩頭馴化大象來完成，"
-  },
-  {
-    "index": 38,
-    "text": "roped to the captive on either side.",
-    "start": 176.659,
     "end": 179.38,
-    "zh": "它们被拴在捕获象的两侧。",
-    "zh_hant": "它們被拴在捕獲象的兩側。"
+    "zh": "这是一件棘手的事情，需要借助两头驯服大象，分别拴在被捕获象的两侧来完成。",
+    "zh_hant": "這是一件棘手的事情，需要藉助兩頭馴服大象，分別拴在被捕獲象的兩側來完成。"
   },
   {
-    "index": 39,
+    "index": 32,
     "text": "When several elephants are being trained at one time,",
     "start": 179.94,
     "end": 183.642,
-    "zh": "当几头大象同时训练时，",
-    "zh_hant": "當幾頭大象同時訓練時，"
+    "zh": "当几头大象同时接受训练时，",
+    "zh_hant": "當幾頭大象同時接受訓練時，"
   },
   {
-    "index": 40,
-    "text": "it is customary for the new arrival to be placed between the stalls",
+    "index": 33,
+    "text": "it is customary for the new arrival to be placed between the stalls of two captives",
     "start": 184.022,
-    "end": 188.644,
-    "zh": "习惯上让新来者放置在两头",
-    "zh_hant": "習慣上讓新來者放置在兩頭"
+    "end": 190.065,
+    "zh": "通常习惯是把新来的象放在两头训练已有进展的俘虏象的隔栏之间，",
+    "zh_hant": "通常習慣是把新來的象放在兩頭訓練已有進展的俘虜象的隔欄之間，"
   },
   {
-    "index": 41,
-    "text": "of two captives whose training is already well advanced.",
-    "start": 188.304,
+    "index": 34,
+    "text": "whose training is already well advanced.",
+    "start": 190.245,
     "end": 193.086,
-    "zh": "训练已相当先进的捕获象的栏位之间。",
-    "zh_hant": "訓練已相當先進的捕獲象的欄位之間。"
+    "zh": "它们的训练已相当深入。",
+    "zh_hant": "它們的訓練已相當深入。"
   },
   {
-    "index": 42,
-    "text": "It is then left completely undisturbed with plenty of food and water",
+    "index": 35,
+    "text": "It is then left completely undisturbed",
     "start": 193.867,
-    "end": 198.969,
-    "zh": "然后让它完全不受打扰，配足食物和水，",
-    "zh_hant": "然後讓它完全不受打擾，配足食物和水，"
+    "end": 196.868,
+    "zh": "然后让它完全不受打扰，",
+    "zh_hant": "然後讓它完全不受打擾，"
   },
   {
-    "index": 43,
-    "text": "so that it can absorb the atmosphere of its new home",
-    "start": 199.15,
-    "end": 202.732,
-    "zh": "以便它吸收新家的氛围",
-    "zh_hant": "以便它吸收新家的氛圍"
+    "index": 36,
+    "text": "with plenty of food and water so that it can absorb the atmosphere",
+    "start": 196.788,
+    "end": 201.811,
+    "zh": "提供充足的食物和水，以便它适应新环境的气氛，",
+    "zh_hant": "提供充足的食物和水，以便它適應新環境的氣氛，"
   },
   {
-    "index": 44,
-    "text": "and see that nothing particularly alarming is happening to its companions.",
-    "start": 202.382,
+    "index": 37,
+    "text": "of its new home and see that nothing particularly alarming is happening to its companions.",
+    "start": 201.461,
     "end": 207.474,
-    "zh": "并看到同伴们并没有发生特别可怕的事情。",
-    "zh_hant": "並看到同伴們並沒有發生特別可怕的事情。"
+    "zh": "并看到同伴们没有发生什么特别可怕的事情。",
+    "zh_hant": "並看到同伴們沒有發生什麼特別可怕的事情。"
   },
   {
-    "index": 45,
+    "index": 38,
     "text": "When it is eating normally, its own training begins.",
     "start": 208.355,
     "end": 212.456,
@@ -368,123 +312,115 @@
     "zh_hant": "當它正常進食時，自己的訓練就開始了。"
   },
   {
-    "index": 46,
+    "index": 39,
     "text": "The trainer stands in front of the elephant holding a long stick with a sharp metal point.",
     "start": 213.177,
     "end": 218.9,
-    "zh": "驯象师站在大象前面，手持一根带锋利金属尖的长棍。",
-    "zh_hant": "馴象師站在大象前面，手持一根帶鋒利金屬尖的長棍。"
+    "zh": "训练员站在大象前面，手持一根带有锋利金属尖的长棍。",
+    "zh_hant": "訓練員站在大象前面，手持一根帶有鋒利金屬尖的長棍。"
   },
   {
-    "index": 47,
-    "text": "Two assistants, mounted on tame elephants,",
+    "index": 40,
+    "text": "Two assistants, mounted on tame elephants, control the captive from either side,",
     "start": 219.6,
-    "end": 223.442,
-    "zh": "两名助手骑在驯化大象上，",
-    "zh_hant": "兩名助手騎在馴化大象上，"
-  },
-  {
-    "index": 48,
-    "text": "control the captive from either side,",
-    "start": 223.682,
     "end": 226.223,
-    "zh": "从两侧控制捕获象，",
-    "zh_hant": "從兩側控制捕獲象，"
+    "zh": "两名助手骑在驯服大象上，从两侧控制被捕获的象，",
+    "zh_hant": "兩名助手騎在馴服大象上，從兩側控制被捕獲的象，"
   },
   {
-    "index": 49,
+    "index": 41,
     "text": "while others rub their hands over his skin",
     "start": 226.584,
     "end": 229.625,
-    "zh": "而其他人用手摩擦它的皮肤，",
-    "zh_hant": "而其他人用手摩擦它的皮膚，"
+    "zh": "同时其他人用手摩擦它的皮肤，",
+    "zh_hant": "同時其他人用手摩擦它的皮膚，"
   },
   {
-    "index": 50,
+    "index": 42,
     "text": "to the accompaniment of a monotonous and soothing chant.",
     "start": 229.805,
     "end": 234.287,
-    "zh": "伴随着单调而安抚的吟唱。",
-    "zh_hant": "伴隨著單調而安撫的吟唱。"
+    "zh": "伴着单调而安抚的吟唱声。",
+    "zh_hant": "伴著單調而安撫的吟唱聲。"
   },
   {
-    "index": 51,
+    "index": 43,
     "text": "This is supposed to induce pleasurable sensations in the elephant,",
     "start": 235.088,
     "end": 239.39,
-    "zh": "这被认为能在大象身上引起愉快的感觉，",
-    "zh_hant": "這被認為能在大象身上引起愉快的感覺，"
+    "zh": "这被认为能让大象产生愉悦的感觉，",
+    "zh_hant": "這被認為能讓大象產生愉悅的感覺，"
   },
   {
-    "index": 52,
+    "index": 44,
     "text": "and its effects are reinforced by the use of endearing epithets, such as 'ho!",
     "start": 239.691,
     "end": 245.293,
-    "zh": "其效果通过使用亲昵的称呼得到加强，如“嗬！",
-    "zh_hant": "其效果透過使用親暱的稱呼得到加強，如“嗬！"
+    "zh": "并用亲切的称呼来强化效果，如‘嗬！",
+    "zh_hant": "並用親切的稱呼來強化效果，如‘嗬！"
   },
   {
-    "index": 53,
+    "index": 45,
     "text": "my son', or 'ho!",
     "start": 245.213,
     "end": 247.734,
-    "zh": "我的儿子”，或“嗬！",
-    "zh_hant": "我的兒子”，或“嗬！"
+    "zh": "我的儿子’，或‘嗬！",
+    "zh_hant": "我的兒子’，或‘嗬！"
   },
   {
-    "index": 54,
-    "text": "my father', or 'my mother',",
+    "index": 46,
+    "text": "my father', or 'my mother', according to the age and sex of the captive.",
     "start": 247.575,
-    "end": 251.036,
-    "zh": "我的父亲”，或“我的母亲”，",
-    "zh_hant": "我的父親”，或“我的母親”，"
-  },
-  {
-    "index": 55,
-    "text": "according to the age and sex of the captive.",
-    "start": 251.777,
     "end": 254.858,
-    "zh": "根据捕获象的年龄和性别而定。",
-    "zh_hant": "根據捕獲象的年齡和性別而定。"
+    "zh": "我的父亲’，或‘我的母亲’，视被捕获象的年龄和性别而定。",
+    "zh_hant": "我的父親’，或‘我的母親’，視被捕獲象的年齡和性別而定。"
   },
   {
-    "index": 56,
+    "index": 47,
     "text": "The elephant is not immediately susceptible to such blandishments,",
     "start": 255.679,
     "end": 259.78,
-    "zh": "大象并不会立即对这些甜言蜜语产生反应，",
-    "zh_hant": "大象並不會立即對這些甜言蜜語產生反應，"
+    "zh": "大象不会立刻对这些甜言蜜语作出反应，",
+    "zh_hant": "大象不會立刻對這些甜言蜜語作出反應，"
   },
   {
-    "index": 57,
+    "index": 48,
     "text": "however, and usually lashes fiercely with its trunk in all directions.",
     "start": 259.43,
     "end": 264.783,
-    "zh": "而且通常会猛烈地甩动鼻子四处攻击。",
-    "zh_hant": "而且通常會猛烈地甩動鼻子四處攻擊。"
+    "zh": "然而，通常它会猛烈地四面甩动鼻子。",
+    "zh_hant": "然而，通常它會猛烈地四面甩動鼻子。"
   },
   {
-    "index": 58,
+    "index": 49,
     "text": "These movements are controlled by the trainer with the metal-pointed stick,",
     "start": 265.383,
     "end": 269.585,
-    "zh": "这些动作由驯象师用带金属尖的棍子控制，",
-    "zh_hant": "這些動作由馴象師用帶金屬尖的棍子控制，"
+    "zh": "这些动作由训练员用带金属尖的棍子来控制，",
+    "zh_hant": "這些動作由訓練員用帶金屬尖的棍子來控制，"
   },
   {
-    "index": 59,
+    "index": 50,
     "text": "and the trunk eventually becomes so sore",
     "start": 269.966,
     "end": 273.487,
-    "zh": "鼻子最终变得非常疼痛，",
-    "zh_hant": "鼻子最終變得非常疼痛，"
+    "zh": "最终鼻子会变得非常疼痛，",
+    "zh_hant": "最終鼻子會變得非常疼痛，"
   },
   {
-    "index": 60,
-    "text": "that the elephant curls it up and seldom afterwards uses it for offensive purposes.",
+    "index": 51,
+    "text": "that the elephant curls it up and seldom afterwards uses it",
     "start": 273.807,
+    "end": 278.309,
+    "zh": "以致大象蜷起鼻子，此后很少再把它用于",
+    "zh_hant": "以致大象蜷起鼻子，此後很少再把它用於"
+  },
+  {
+    "index": 52,
+    "text": "for offensive purposes.",
+    "start": 277.959,
     "end": 279.948,
-    "zh": "以至于大象卷起鼻子，此后很少用其进行攻击。",
-    "zh_hant": "以至於大象捲起鼻子，此後很少用其進行攻擊。"
+    "zh": "攻击目的。",
+    "zh_hant": "攻擊目的。"
   }
 ]

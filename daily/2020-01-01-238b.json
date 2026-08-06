@@ -20,56 +20,56 @@
     "text": "What does the computer industry thrive on apart from anarchy?",
     "start": 8.054,
     "end": 12.276,
-    "zh": "除了无政府状态，计算机行业还靠什么繁荣？",
-    "zh_hant": "除了無政府狀態，計算機行業還靠什麼繁榮？"
+    "zh": "计算机行业除了混乱之外还靠什么兴旺发展？",
+    "zh_hant": "計算機行業除了混亂之外還靠什麼興旺發展？"
   },
   {
     "index": 3,
     "text": "Technology trends may push Silicon Valley back to the future.",
     "start": 14.517,
     "end": 18.599,
-    "zh": "技术趋势可能会把硅谷推回未来。",
-    "zh_hant": "技術趨勢可能會把矽谷推回未來。"
+    "zh": "技术趋势可能推动硅谷回到未来。",
+    "zh_hant": "技術趨勢可能推動矽谷回到未來。"
   },
   {
     "index": 4,
-    "text": "Carver Mead, a pioneer in integrated circuits and a professor of computer science",
+    "text": "Carver Mead, a pioneer in integrated circuits",
     "start": 19.0,
-    "end": 25.162,
-    "zh": "卡弗·米德，集成电路的先驱和计算机科学教授，",
-    "zh_hant": "卡弗·米德，積體電路的先驅和電腦科學教授，"
+    "end": 22.861,
+    "zh": "卡弗·米德，集成电路的先驱",
+    "zh_hant": "卡弗·米德，積體電路的先驅"
   },
   {
     "index": 5,
-    "text": "at the California Institute of Technology,",
-    "start": 25.043,
+    "text": "and a professor of computer science at the California Institute of Technology,",
+    "start": 22.541,
     "end": 28.124,
-    "zh": "在加州理工学院，",
-    "zh_hant": "在加州理工學院，"
+    "zh": "也是加州理工学院的计算机科学教授，",
+    "zh_hant": "也是加州理工學院的電腦科學教授，"
   },
   {
     "index": 6,
-    "text": "notes there are now workstations that enable engineers",
+    "text": "notes there are now workstations that enable",
     "start": 28.264,
-    "end": 32.746,
-    "zh": "他指出，现在有工作站能让工程师们",
-    "zh_hant": "他指出，現在有工作站能讓工程師們"
+    "end": 32.026,
+    "zh": "指出现在有工作站可以让",
+    "zh_hant": "指出現在有工作站可以讓"
   },
   {
     "index": 7,
-    "text": "to design, test and produce chips right on their desks,",
-    "start": 32.406,
-    "end": 37.088,
-    "zh": "在办公桌上设计、测试和生产芯片，",
-    "zh_hant": "在辦公桌上設計、測試和生產晶片，"
+    "text": "engineers to design, test and produce",
+    "start": 31.676,
+    "end": 35.408,
+    "zh": "工程师设计、测试并生产",
+    "zh_hant": "工程師設計、測試並生產"
   },
   {
     "index": 8,
-    "text": "much the way and editor creates a newsletter on a Macintosh.",
-    "start": 37.269,
+    "text": "chips right on their desks, much the way and editor creates a newsletter on a Macintosh.",
+    "start": 35.058,
     "end": 41.391,
-    "zh": "就像编辑在Macintosh上制作简报一样。",
-    "zh_hant": "就像編輯在Macintosh上製作簡報一樣。"
+    "zh": "芯片，直接在他们的办公桌上，就像编辑在麦金塔上制作通讯稿一样。",
+    "zh_hant": "晶片，直接在他們的辦公桌上，就像編輯在麥金塔上製作通訊稿一樣。"
   },
   {
     "index": 9,
@@ -81,134 +81,110 @@
   },
   {
     "index": 10,
-    "text": "engineers may soon be free to let their imaginations soar",
+    "text": "engineers may soon be free to let their imaginations soar without being penalized by expensive failures.",
     "start": 47.434,
-    "end": 51.656,
-    "zh": "工程师们可能很快就会自由地让想象力飞翔，",
-    "zh_hant": "工程師們可能很快就會自由地讓想象力飛翔，"
+    "end": 54.818,
+    "zh": "工程师可能很快就能自由驰骋想象力，而不会因昂贵的失败而受罚。",
+    "zh_hant": "工程師可能很快就能自由馳騁想象力，而不會因昂貴的失敗而受罰。"
   },
   {
     "index": 11,
-    "text": "without being penalized by expensive failures.",
-    "start": 51.696,
-    "end": 54.818,
-    "zh": "而不受昂贵失败的惩罚。",
-    "zh_hant": "而不受昂貴失敗的懲罰。"
-  },
-  {
-    "index": 12,
     "text": "Mead predicts that inventors will be able to perfect powerful customized chips",
     "start": 54.938,
     "end": 60.46,
-    "zh": "米德预测，发明家将能在周末",
-    "zh_hant": "米德預測，發明家將能在週末"
+    "zh": "米德预测，发明者将能在办公室的一个周末内完善强大的定制芯片——",
+    "zh_hant": "米德預測，發明者將能在辦公室的一個週末內完善強大的定製晶片——"
+  },
+  {
+    "index": 12,
+    "text": "over a weekend at the office -- spawning a new generation of garage start-ups",
+    "start": 60.14,
+    "end": 65.923,
+    "zh": "催生新一代车库初创企业，",
+    "zh_hant": "催生新一代車庫初創企業，"
   },
   {
     "index": 13,
-    "text": "over a weekend",
-    "start": 60.14,
-    "end": 61.461,
-    "zh": "在办公室完善强大的定制芯片——",
-    "zh_hant": "在辦公室完善強大的定製晶片——"
+    "text": "and giving the U. S. a jump on its foreign rivals in getting new products to market fast.",
+    "start": 65.783,
+    "end": 72.426,
+    "zh": "并让美国在快速将新产品推向市场方面领先于外国竞争对手。",
+    "zh_hant": "並讓美國在快速將新產品推向市場方面領先於外國競爭對手。"
   },
   {
     "index": 14,
-    "text": "at the office -- spawning a new generation of garage start-ups",
-    "start": 61.111,
-    "end": 65.923,
-    "zh": "催生新一代车库创业公司，",
-    "zh_hant": "催生新一代車庫創業公司，"
-  },
-  {
-    "index": 15,
-    "text": "and giving the U. S. a jump on its foreign rivals",
-    "start": 65.783,
-    "end": 69.665,
-    "zh": "并让美国在快速将新产品推向市场方面",
-    "zh_hant": "並讓美國在快速將新產品推向市場方面"
-  },
-  {
-    "index": 16,
-    "text": "in getting new products to market fast.",
-    "start": 69.485,
-    "end": 72.426,
-    "zh": "领先于外国对手。",
-    "zh_hant": "領先於外國對手。"
-  },
-  {
-    "index": 17,
     "text": "'We've got more garages with smart people,' Mead observes.",
     "start": 72.166,
     "end": 77.449,
-    "zh": "“我们有更多藏着聪明人的车库，”米德观察道。",
-    "zh_hant": "“我們有更多藏著聰明人的車庫，”米德觀察道。"
+    "zh": "“我们有更多藏龙卧虎的车库，”米德观察到。",
+    "zh_hant": "“我們有更多藏龍臥虎的車庫，”米德觀察到。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "'We really thrive on anarchy.",
     "start": 77.099,
     "end": 79.83,
-    "zh": "“我们确实靠无政府状态繁荣。",
-    "zh_hant": "“我們確實靠無政府狀態繁榮。"
+    "zh": "“我们确实靠混乱兴旺。",
+    "zh_hant": "“我們確實靠混亂興旺。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "' And on Asians.",
     "start": 80.791,
     "end": 82.592,
-    "zh": "”还有亚洲人。",
-    "zh_hant": "”還有亞洲人。"
+    "zh": "”还有靠亚洲人。",
+    "zh_hant": "”還有靠亞洲人。"
+  },
+  {
+    "index": 17,
+    "text": "Already, orientals and Asian Americans constitute the majority of the engineering staffs",
+    "start": 82.612,
+    "end": 89.055,
+    "zh": "如今，东方人和亚裔美国人已经构成许多硅谷公司工程人员的大多数。",
+    "zh_hant": "如今，東方人和亞裔美國人已經構成許多矽谷公司工程人員的大多數。"
+  },
+  {
+    "index": 18,
+    "text": "at many Valley firms.",
+    "start": 88.955,
+    "end": 90.876,
+    "zh": "在加州的许多公司，工程人员中多数是东方人和亚裔美国人。",
+    "zh_hant": "在加州的許多公司，工程人員中多數是東方人和亞裔美國人。"
+  },
+  {
+    "index": 19,
+    "text": "And Chinese, Korean, Filipino and Indian engineers",
+    "start": 91.056,
+    "end": 95.278,
+    "zh": "而中国、韩国、菲律宾和印度的工程师",
+    "zh_hant": "而中國、韓國、菲律賓和印度的工程師"
   },
   {
     "index": 20,
-    "text": "Already, orientals and Asian Americans",
-    "start": 82.612,
-    "end": 85.813,
-    "zh": "已经，东方人和亚裔美国人",
-    "zh_hant": "已經，東方人和亞裔美國人"
+    "text": "are graduating in droves from California's colleges.",
+    "start": 95.318,
+    "end": 99.5,
+    "zh": "正大量从加州的高校毕业。",
+    "zh_hant": "正大量從加州的高校畢業。"
   },
   {
     "index": 21,
-    "text": "constitute the majority of the engineering staffs at many Valley firms.",
-    "start": 85.463,
-    "end": 90.876,
-    "zh": "构成了许多硅谷公司工程人员的大多数。",
-    "zh_hant": "構成了許多矽谷公司工程人員的大多數。"
-  },
-  {
-    "index": 22,
-    "text": "And Chinese, Korean, Filipino and Indian engineers are graduating",
-    "start": 91.056,
-    "end": 96.719,
-    "zh": "而中国、韩国、菲律宾和印度的工程师正从加州大学",
-    "zh_hant": "而中國、韓國、菲律賓和印度的工程師正從加州大學"
-  },
-  {
-    "index": 23,
-    "text": "in droves from California's colleges.",
-    "start": 96.369,
-    "end": 99.5,
-    "zh": "大量毕业。",
-    "zh_hant": "大量畢業。"
-  },
-  {
-    "index": 24,
     "text": "As the heads of next-generation start-ups,",
     "start": 100.101,
     "end": 102.942,
-    "zh": "作为下一代创业公司的领头人，",
-    "zh_hant": "作為下一代創業公司的領頭人，"
+    "zh": "作为下一代初创企业的领军人物，",
+    "zh_hant": "作為下一代初創企業的領軍人物，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "these Asian innovators can draw on customs and languages",
     "start": 102.822,
     "end": 107.444,
-    "zh": "这些亚洲创新者可以利用习俗和语言",
-    "zh_hant": "這些亞洲創新者可以利用習俗和語言"
+    "zh": "这些亚洲创新者可以借助传统习俗和语言",
+    "zh_hant": "這些亞洲創新者可以藉助傳統習俗和語言"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "to forge tighter links with crucial Pacific Rim markets.",
     "start": 107.364,
     "end": 111.866,
@@ -216,67 +192,59 @@
     "zh_hant": "與關鍵的環太平洋市場建立更緊密的聯絡。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "For instance, Alex Au, a Stanford Ph.",
     "start": 112.086,
     "end": 116.228,
-    "zh": "例如，来自香港的斯坦福博士Alex Au",
-    "zh_hant": "例如，來自香港的斯坦福博士Alex Au"
+    "zh": "例如，来自香港的斯坦福博士亚历克斯·欧",
+    "zh_hant": "例如，來自香港的斯坦福博士亞歷克斯·歐"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "D. from Hong Kong, has set up a Taiwan factory",
     "start": 115.878,
     "end": 119.461,
-    "zh": "已在台湾建厂，",
-    "zh_hant": "已在臺灣建廠，"
+    "zh": "已在台湾设立工厂，",
+    "zh_hant": "已在臺灣設立工廠，"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "to challenge Japan's near lock on the memory-chip market.",
     "start": 119.061,
     "end": 124.034,
-    "zh": "挑战日本在存储芯片市场近乎垄断的地位。",
-    "zh_hant": "挑戰日本在儲存晶片市場近乎壟斷的地位。"
+    "zh": "以挑战日本在存储芯片市场的近乎垄断地位。",
+    "zh_hant": "以挑戰日本在儲存晶片市場的近乎壟斷地位。"
   },
   {
-    "index": 30,
-    "text": "India-born N. Damodar Reddy's tiny California company reopened",
+    "index": 27,
+    "text": "India-born N. Damodar Reddy's tiny California company",
     "start": 124.475,
-    "end": 130.379,
-    "zh": "出生于印度的N. Damodar Reddy的小型加州公司，今年春天",
-    "zh_hant": "出生於印度的N. Damodar Reddy的小型加州公司，今年春天"
+    "end": 129.218,
+    "zh": "生于印度的N. 达莫达·雷迪在加州的小公司",
+    "zh_hant": "生於印度的N. 達莫達·雷迪在加州的小公司"
   },
   {
-    "index": 31,
-    "text": "an AT&T chip plant in Kansas City last spring",
-    "start": 130.029,
+    "index": 28,
+    "text": "reopened an AT&T chip plant in Kansas City last spring",
+    "start": 129.339,
     "end": 134.042,
-    "zh": "在密苏里州融资下，",
-    "zh_hant": "在密蘇里州融資下，"
+    "zh": "去年春天在堪萨斯城重新启动了AT&T的芯片工厂，",
+    "zh_hant": "去年春天在堪薩斯城重新啟動了AT&T的晶片工廠，"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "with financing from the state of Missouri.",
     "start": 134.042,
     "end": 136.744,
-    "zh": "重新开放了堪萨斯城的AT&T芯片工厂。",
-    "zh_hant": "重新開放了堪薩斯城的AT&T晶片工廠。"
+    "zh": "依靠密苏里州的资金支持。",
+    "zh_hant": "依靠密蘇里州的資金支援。"
   },
   {
-    "index": 33,
-    "text": "Before it becomes a retirement village, Silicon Valley may prove a classroom",
+    "index": 30,
+    "text": "Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business.",
     "start": 137.185,
-    "end": 142.388,
-    "zh": "在成为退休村之前，硅谷可能会证明是一个教室，",
-    "zh_hant": "在成為退休村之前，矽谷可能會證明是一個教室，"
-  },
-  {
-    "index": 34,
-    "text": "for building a global business.",
-    "start": 142.109,
     "end": 144.31,
-    "zh": "用于建设全球业务。",
-    "zh_hant": "用於建設全球業務。"
+    "zh": "在硅谷变成退休村之前，它可能证明是一个建设全球企业的课堂。",
+    "zh_hant": "在矽谷變成退休村之前，它可能證明是一個建設全球企業的課堂。"
   }
 ]

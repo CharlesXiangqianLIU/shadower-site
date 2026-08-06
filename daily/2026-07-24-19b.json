@@ -4,35 +4,27 @@
     "text": "Sulmasy’s path, to a career in medicine and ethics, was not a typical path.",
     "start": 0.81,
     "end": 6.193,
-    "zh": "苏尔马西通往医学与伦理学生涯的道路，并非一条典型的道路。",
-    "zh_hant": "蘇爾馬西通往醫學與倫理學生涯的道路，並非一條典型的道路。"
+    "zh": "苏尔马西通往医学与伦理学职业的道路，并非一条典型之路。",
+    "zh_hant": "蘇爾馬西通往醫學與倫理學職業的道路，並非一條典型之路。"
   },
   {
     "index": 1,
     "text": "After his first year in an internal-medicine residency,",
     "start": 5.843,
     "end": 9.174,
-    "zh": "在完成内科住院医师培训的第一年后，",
-    "zh_hant": "在完成內科住院醫師培訓的第一年後，"
+    "zh": "在内科住院实习的第一年之后，",
+    "zh_hant": "在內科住院實習的第一年之後，"
   },
   {
     "index": 2,
-    "text": "at Johns Hopkins, he joined a Franciscan order,",
+    "text": "at Johns Hopkins, he joined a Franciscan order, and he lived as a friar for more than 25 years.",
     "start": 8.914,
-    "end": 12.776,
-    "zh": "在约翰霍普金斯大学，他加入了一个方济各会修会，",
-    "zh_hant": "在約翰霍普金斯大學，他加入了一個方濟各會修會，"
+    "end": 15.518,
+    "zh": "在约翰斯·霍普金斯，他加入了方济各会，并作为修士生活了超过25年。",
+    "zh_hant": "在約翰斯·霍普金斯，他加入了方濟各會，並作為修士生活了超過25年。"
   },
   {
     "index": 3,
-    "text": "and he lived as a friar for more than 25 years.",
-    "start": 12.516,
-    "end": 15.518,
-    "zh": "并以修士身份生活了超过25年。",
-    "zh_hant": "並以修士身份生活了超過25年。"
-  },
-  {
-    "index": 4,
     "text": "He left the order after falling in love and deciding to marry.",
     "start": 15.498,
     "end": 19.319,
@@ -40,7 +32,7 @@
     "zh_hant": "他在墜入愛河並決定結婚後離開了修會。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "While the Catholic Church opposes assisted suicide,",
     "start": 19.54,
     "end": 23.221,
@@ -48,47 +40,47 @@
     "zh_hant": "儘管天主教會反對協助自殺，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Sulmasy says his views come more from his experience as a physician, at the bedside.",
     "start": 23.182,
     "end": 28.944,
-    "zh": "苏尔马西表示，他的观点更多来自他作为医生的床边经验。",
-    "zh_hant": "蘇爾馬西表示，他的觀點更多來自他作為醫生的床邊經驗。"
+    "zh": "苏尔马西说他的观点更多来自他作为医生在病床边的工作经验。",
+    "zh_hant": "蘇爾馬西說他的觀點更多來自他作為醫生在病床邊的工作經驗。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "As a medical student,",
     "start": 28.984,
     "end": 31.605,
-    "zh": "作为一名医学生，",
-    "zh_hant": "作為一名醫學生，"
+    "zh": "作为医学生时，",
+    "zh_hant": "作為醫學生時，"
+  },
+  {
+    "index": 7,
+    "text": "I was drawn, actually, to caring for patients",
+    "start": 31.426,
+    "end": 36.568,
+    "zh": "我其实被吸引去照顾那些病人，",
+    "zh_hant": "我其實被吸引去照顧那些病人，"
   },
   {
     "index": 8,
-    "text": "I was drawn,",
-    "start": 31.426,
-    "end": 33.687,
-    "zh": "我确实被吸引，",
-    "zh_hant": "我確實被吸引，"
+    "text": "who were ill and dying and at a time",
+    "start": 36.228,
+    "end": 40.55,
+    "zh": "那些生病将死的人，而且在那个时期，",
+    "zh_hant": "那些生病將死的人，而且在那個時期，"
   },
   {
     "index": 9,
-    "text": "actually, to caring for patients who were ill",
-    "start": 33.337,
-    "end": 37.969,
-    "zh": "去照顾那些生病",
-    "zh_hant": "去照顧那些生病"
+    "text": "when other people would sort of run away from them.",
+    "start": 40.2,
+    "end": 43.992,
+    "zh": "当其他人往往会躲开他们的时候。",
+    "zh_hant": "當其他人往往會躲開他們的時候。"
   },
   {
     "index": 10,
-    "text": "and dying and at a time when other people would sort of run away from them.",
-    "start": 38.109,
-    "end": 43.992,
-    "zh": "且濒临死亡的病人，而那时其他人往往会避开他们。",
-    "zh_hant": "且瀕臨死亡的病人，而那時其他人往往會避開他們。"
-  },
-  {
-    "index": 11,
     "text": "There’s nothing more to do, right?",
     "start": 43.642,
     "end": 45.313,
@@ -96,63 +88,63 @@
     "zh_hant": "沒什麼可做的了，對吧？"
   },
   {
-    "index": 12,
-    "text": "It was experiences like that and an interest in philosophy, theology",
+    "index": 11,
+    "text": "It was experiences like that and an interest",
     "start": 44.963,
-    "end": 49.195,
-    "zh": "正是这样的经历，加上对哲学和神学的兴趣，",
-    "zh_hant": "正是這樣的經歷，加上對哲學和神學的興趣，"
+    "end": 47.654,
+    "zh": "正是那样的经历，加上对哲学、神学的兴趣，",
+    "zh_hant": "正是那樣的經歷，加上對哲學、神學的興趣，"
+  },
+  {
+    "index": 12,
+    "text": "in philosophy, theology that led to me to really think that my contribution in medicine",
+    "start": 47.304,
+    "end": 53.477,
+    "zh": "让我真正觉得我在医学中的贡献",
+    "zh_hant": "讓我真正覺得我在醫學中的貢獻"
   },
   {
     "index": 13,
-    "text": "that led to me to really think that my contribution in medicine",
-    "start": 48.895,
-    "end": 53.477,
-    "zh": "让我真正觉得我在医学上的贡献",
-    "zh_hant": "讓我真正覺得我在醫學上的貢獻"
-  },
-  {
-    "index": 14,
     "text": "would be through medical ethics.",
     "start": 53.127,
     "end": 55.258,
-    "zh": "会通过医学伦理来实现。",
-    "zh_hant": "會透過醫學倫理來實現。"
+    "zh": "会是通过医学伦理学来实现。",
+    "zh_hant": "會是透過醫學倫理學來實現。"
+  },
+  {
+    "index": 14,
+    "text": "So recent polling — which is imperfect, polling,",
+    "start": 55.178,
+    "end": 59.5,
+    "zh": "所以最近的民调——这是不完美的民调，",
+    "zh_hant": "所以最近的民調——這是不完美的民調，"
   },
   {
     "index": 15,
-    "text": "So recent polling —",
-    "start": 55.178,
-    "end": 57.41,
-    "zh": "所以最近的民调——",
-    "zh_hant": "所以最近的民調——"
+    "text": "we have to admit that, and it also shifts a lot over time,",
+    "start": 59.15,
+    "end": 62.721,
+    "zh": "我们得承认这一点，而且它也随时间变化很大，",
+    "zh_hant": "我們得承認這一點，而且它也隨時間變化很大，"
   },
   {
     "index": 16,
-    "text": "which is imperfect, polling, we have to admit that, and it also shifts a lot over time,",
-    "start": 57.199,
-    "end": 62.721,
-    "zh": "这种民调并不完美，我们必须承认，而且它也会随时间大幅变化，",
-    "zh_hant": "這種民調並不完美，我們必須承認，而且它也會隨時間大幅變化，"
-  },
-  {
-    "index": 17,
     "text": "and it shifts depending on how the question is asked and who’s asking the question — but recent polling on the topic shows",
     "start": 62.371,
     "end": 68.644,
-    "zh": "并且会根据问题的提问方式和提问者而变化——但最近关于这个话题的民调显示，",
-    "zh_hant": "並且會根據問題的提問方式和提問者而變化——但最近關於這個話題的民調顯示，"
+    "zh": "它还会根据问题的问法和提问者是谁而变化——但最近关于这个主题的民调显示，",
+    "zh_hant": "它還會根據問題的問法和提問者是誰而變化——但最近關於這個主題的民調顯示，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "that roughly-two thirds of Americans are in support of some form of medical aid in dying.",
     "start": 68.294,
     "end": 73.667,
-    "zh": "大约三分之二的美国人支持某种形式的临终医疗援助。",
-    "zh_hant": "大約三分之二的美國人支援某種形式的臨終醫療援助。"
+    "zh": "大约三分之二的美国人支持某种形式的临终医疗协助。",
+    "zh_hant": "大約三分之二的美國人支援某種形式的臨終醫療協助。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "You are among the one-third who is not in support of that.",
     "start": 73.407,
     "end": 77.428,
@@ -160,39 +152,39 @@
     "zh_hant": "你是那不支援的另外三分之一中的一員。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Give me the main arguments against that, please.",
     "start": 77.469,
     "end": 80.55,
-    "zh": "请给我讲讲反对的主要论点。",
-    "zh_hant": "請給我講講反對的主要論點。"
+    "zh": "请给我讲讲反对它的主要论点。",
+    "zh_hant": "請給我講講反對它的主要論點。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Sure, I think it’s bad medicine, bad ethics, and bad public policy,",
     "start": 80.631,
     "end": 85.633,
-    "zh": "当然，我认为这是糟糕的医学、糟糕的伦理和糟糕的公共政策，",
-    "zh_hant": "當然，我認為這是糟糕的醫學、糟糕的倫理和糟糕的公共政策，"
+    "zh": "好的，我认为这是糟糕的医学、糟糕的伦理和糟糕的公共政策，",
+    "zh_hant": "好的，我認為這是糟糕的醫學、糟糕的倫理和糟糕的公共政策，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "and a grave mistake for society.",
     "start": 85.593,
     "end": 88.714,
-    "zh": "也是对社会的一个严重错误。",
-    "zh_hant": "也是對社會的一個嚴重錯誤。"
+    "zh": "而且对社会来说是一个严重的错误。",
+    "zh_hant": "而且對社會來說是一個嚴重的錯誤。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "Okay, walk me through those.",
     "start": 88.675,
     "end": 90.395,
-    "zh": "好，请逐一说明。",
-    "zh_hant": "好，請逐一說明。"
+    "zh": "好，请逐一解释。",
+    "zh_hant": "好，請逐一解釋。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "Bad medicine, why?",
     "start": 90.045,
     "end": 91.336,
@@ -200,44 +192,52 @@
     "zh_hant": "糟糕的醫學，為什麼？"
   },
   {
-    "index": 25,
-    "text": "I think it’s bad medicine because at this point in history",
+    "index": 24,
+    "text": "I think it’s bad medicine",
     "start": 91.516,
-    "end": 95.878,
-    "zh": "我认为这是糟糕的医学，因为在历史的这个节点上，",
-    "zh_hant": "我認為這是糟糕的醫學，因為在歷史的這個節點上，"
+    "end": 93.557,
+    "zh": "我认为这是糟糕的医学，",
+    "zh_hant": "我認為這是糟糕的醫學，"
+  },
+  {
+    "index": 25,
+    "text": "because at this point in history we can do more than we have ever been able",
+    "start": 93.207,
+    "end": 98.439,
+    "zh": "因为在历史这个节点，我们能比以往任何时候",
+    "zh_hant": "因為在歷史這個節點，我們能比以往任何時候"
   },
   {
     "index": 26,
-    "text": "we can do more than we have ever been able to do to treat patient symptoms,",
-    "start": 95.528,
+    "text": "to do to treat patient symptoms,",
+    "start": 98.239,
     "end": 100.921,
-    "zh": "我们在治疗患者症状方面能做的比以往任何时候都多，",
-    "zh_hant": "我們在治療患者症狀方面能做的比以往任何時候都多，"
+    "zh": "做得更多来治疗病人的症状，",
+    "zh_hant": "做得更多來治療病人的症狀，"
   },
   {
     "index": 27,
     "text": "and the data will bear out that the reason people want euthanasia or assisted suicide",
     "start": 101.221,
     "end": 107.384,
-    "zh": "数据也会证明，人们真正实施安乐死或协助自杀的原因",
-    "zh_hant": "資料也會證明，人們真正實施安樂死或協助自殺的原因"
+    "zh": "而且数据会证明，人们想要安乐死或协助自杀的原因，",
+    "zh_hant": "而且資料會證明，人們想要安樂死或協助自殺的原因，"
   },
   {
     "index": 28,
-    "text": "when they actually follow through are reasons like",
+    "text": "when they actually follow through are reasons like loss of control,",
     "start": 107.034,
-    "end": 111.946,
-    "zh": "实际是诸如",
-    "zh_hant": "實際是諸如"
+    "end": 113.727,
+    "zh": "当他们真正付诸行动时，是诸如失去控制、",
+    "zh_hant": "當他們真正付諸行動時，是諸如失去控制、"
   },
   {
     "index": 29,
-    "text": "loss of control, feeling like a burden to other people, loss of autonomy.",
-    "start": 112.026,
+    "text": "feeling like a burden to other people, loss of autonomy.",
+    "start": 113.887,
     "end": 118.449,
-    "zh": "失去控制、觉得自己是别人的负担、失去自主权。",
-    "zh_hant": "失去控制、覺得自己是別人的負擔、失去自主權。"
+    "zh": "感觉成为他人的负担、失去自主性。",
+    "zh_hant": "感覺成為他人的負擔、失去自主性。"
   },
   {
     "index": 30,
@@ -252,48 +252,48 @@
     "text": "and they’re not good reasons to give lethal medication.",
     "start": 121.001,
     "end": 126.133,
-    "zh": "也不是开具致命药物的正当理由。",
-    "zh_hant": "也不是開具致命藥物的正當理由。"
+    "zh": "也不是开致命药物的好理由。",
+    "zh_hant": "也不是開致命藥物的好理由。"
   },
   {
     "index": 32,
-    "text": "I also think that it’s bad medicine because the trust",
+    "text": "I also think that it’s bad medicine because the trust that is necessary",
     "start": 126.094,
-    "end": 130.696,
-    "zh": "我还认为这是糟糕的医学，因为信任",
-    "zh_hant": "我還認為這是糟糕的醫學，因為信任"
+    "end": 131.856,
+    "zh": "我还认为这是糟糕的医学，因为病人能够在医生面前",
+    "zh_hant": "我還認為這是糟糕的醫學，因為病人能夠在醫生面前"
   },
   {
     "index": 33,
-    "text": "that is necessary for a patient to be able",
-    "start": 130.346,
-    "end": 134.658,
-    "zh": "是患者能够",
-    "zh_hant": "是患者能夠"
+    "text": "for a patient to be able to bare their body,",
+    "start": 131.837,
+    "end": 136.379,
+    "zh": "袒露身体、",
+    "zh_hant": "袒露身體、"
   },
   {
     "index": 34,
-    "text": "to bare their body, bare their soul, all their intimate secrets, before",
-    "start": 134.308,
-    "end": 140.22,
-    "zh": "在医生面前袒露身体、袒露灵魂、所有隐秘的必需，",
-    "zh_hant": "在醫生面前袒露身體、袒露靈魂、所有隱秘的必需，"
+    "text": "bare their soul, all their intimate secrets, before a physician",
+    "start": 136.319,
+    "end": 140.881,
+    "zh": "袒露灵魂、所有私密秘密所需的信任，",
+    "zh_hant": "袒露靈魂、所有私密秘密所需的信任，"
   },
   {
     "index": 35,
-    "text": "a physician requires some very fundamental basic rules.",
-    "start": 139.87,
+    "text": "requires some very fundamental basic rules.",
+    "start": 141.201,
     "end": 145.883,
-    "zh": "这要求一些非常基本的规则。",
-    "zh_hant": "這要求一些非常基本的規則。"
+    "zh": "要求一些非常基本根本的规则。",
+    "zh_hant": "要求一些非常基本根本的規則。"
   },
   {
     "index": 36,
     "text": "And these go back to Hippocrates.",
     "start": 146.104,
     "end": 147.984,
-    "zh": "这些可以追溯到希波克拉底。",
-    "zh_hant": "這些可以追溯到希波克拉底。"
+    "zh": "而这些要追溯到希波克拉底。",
+    "zh_hant": "而這些要追溯到希波克拉底。"
   },
   {
     "index": 37,
@@ -324,83 +324,75 @@
     "text": "As you well know, the medical-aid-in-dying movement is growing.",
     "start": 157.769,
     "end": 162.612,
-    "zh": "如你所知，临终医疗援助运动正在增长。",
-    "zh_hant": "如你所知，臨終醫療援助運動正在增長。"
+    "zh": "如你所知，临终医疗协助运动正在增长。",
+    "zh_hant": "如你所知，臨終醫療協助運動正在增長。"
   },
   {
     "index": 41,
-    "text": "More and more states are legalizing it,",
+    "text": "More and more states are legalizing it, including New York, where I live, and we’ve interviewed for this program",
     "start": 162.412,
-    "end": 165.133,
-    "zh": "越来越多的州将其合法化，",
-    "zh_hant": "越來越多的州將其合法化，"
+    "end": 168.675,
+    "zh": "越来越多的州将其合法化，包括我居住的纽约州，我们为本节目采访了",
+    "zh_hant": "越來越多的州將其合法化，包括我居住的紐約州，我們為本節目採訪了"
   },
   {
     "index": 42,
-    "text": "including New York, where I live, and we’ve interviewed for this program New York governor Kathy Hochul —",
-    "start": 164.783,
-    "end": 170.23,
-    "zh": "包括我居住的纽约州，我们节目采访过纽约州州长凯西·霍楚尔——",
-    "zh_hant": "包括我居住的紐約州，我們節目採訪過紐約州州長凱西·霍楚爾——"
+    "text": "New York governor Kathy Hochul — who has advocated for the policy,",
+    "start": 168.325,
+    "end": 174.157,
+    "zh": "纽约州州长凯西·霍楚尔——她倡导这项政策，",
+    "zh_hant": "紐約州州長凱西·霍楚爾——她倡導這項政策，"
   },
   {
     "index": 43,
-    "text": "who has advocated for the policy,",
-    "start": 169.88,
-    "end": 174.157,
-    "zh": "她一直倡导这项政策，",
-    "zh_hant": "她一直倡導這項政策，"
-  },
-  {
-    "index": 44,
     "text": "although hers is a little bit different from other states in part, because she says she watched her mother die",
     "start": 173.807,
     "end": 178.44,
-    "zh": "尽管她的版本与其他州略有不同，部分是因为她说她目睹了母亲死于",
-    "zh_hant": "儘管她的版本與其他州略有不同，部分是因為她說她目睹了母親死於"
+    "zh": "尽管她的政策部分与其他州略有不同，因为她说她看着母亲死于",
+    "zh_hant": "儘管她的政策部分與其他州略有不同，因為她說她看著母親死於"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "of A.L.S. and came away believing that people should have this option.",
     "start": 178.09,
     "end": 182.402,
-    "zh": "肌萎缩侧索硬化症，并因此相信人们应该拥有这个选择。",
-    "zh_hant": "肌萎縮側索硬化症，並因此相信人們應該擁有這個選擇。"
+    "zh": "肌萎缩侧索硬化症，并最终相信人们应该有这个选择。",
+    "zh_hant": "肌萎縮側索硬化症，並最終相信人們應該有這個選擇。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "How do you feel seeing these laws pass in more jurisdictions?",
     "start": 182.642,
     "end": 187.504,
-    "zh": "看到这些法律在更多地区通过，你有何感受？",
-    "zh_hant": "看到這些法律在更多地區透過，你有何感受？"
+    "zh": "看到这些法律在更多司法管辖区通过，你有什么感受？",
+    "zh_hant": "看到這些法律在更多司法管轄區透過，你有什麼感受？"
   },
   {
-    "index": 47,
+    "index": 46,
     "text": "Do you feel like you’re losing the battle?",
     "start": 187.154,
     "end": 190.205,
-    "zh": "你是否觉得自己在输掉这场战斗？",
-    "zh_hant": "你是否覺得自己在輸掉這場戰鬥？"
+    "zh": "你觉得自己在输掉这场战斗吗？",
+    "zh_hant": "你覺得自己在輸掉這場戰鬥嗎？"
   },
   {
-    "index": 48,
+    "index": 47,
     "text": "Do you try to avoid the framing of this being a fight?",
     "start": 189.965,
     "end": 193.527,
-    "zh": "你是否试图避免将其视为一场斗争？",
-    "zh_hant": "你是否試圖避免將其視為一場鬥爭？"
+    "zh": "你会试图避免把这件事框定为一场斗争吗？",
+    "zh_hant": "你會試圖避免把這件事框定為一場鬥爭嗎？"
   },
   {
-    "index": 49,
+    "index": 48,
     "text": "Do you feel like we’re just in the early stages?",
     "start": 193.267,
     "end": 196.168,
-    "zh": "你是否觉得我们只是处于早期阶段？",
-    "zh_hant": "你是否覺得我們只是處於早期階段？"
+    "zh": "你觉得我们只是处于早期阶段吗？",
+    "zh_hant": "你覺得我們只是處於早期階段嗎？"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "How do you see that?",
     "start": 195.818,
     "end": 196.909,
@@ -408,7 +400,7 @@
     "zh_hant": "你怎麼看？"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "I think I’m fighting a battle,",
     "start": 196.929,
     "end": 199.29,
@@ -416,55 +408,55 @@
     "zh_hant": "我覺得我在打一場仗，"
   },
   {
-    "index": 52,
-    "text": "and I think that it is a difficult",
+    "index": 51,
+    "text": "and I think that it is a difficult one",
     "start": 199.01,
-    "end": 202.632,
-    "zh": "而且这是一场艰难的",
-    "zh_hant": "而且這是一場艱難的"
+    "end": 203.392,
+    "zh": "而且我认为这是一场艰难的战斗，",
+    "zh_hant": "而且我認為這是一場艱難的戰鬥，"
+  },
+  {
+    "index": 52,
+    "text": "because of the social valuing of control,",
+    "start": 203.272,
+    "end": 207.774,
+    "zh": "因为社会对控制的重视，",
+    "zh_hant": "因為社會對控制的重視，"
   },
   {
     "index": 53,
-    "text": "one because of the social valuing of control,",
-    "start": 202.692,
-    "end": 207.774,
-    "zh": "战斗，因为社会对控制的重视，",
-    "zh_hant": "戰鬥，因為社會對控制的重視，"
+    "text": "most of the people, if you see, who really, in the end, want",
+    "start": 207.815,
+    "end": 211.516,
+    "zh": "大多数人，你会看到，那些最终真正想要",
+    "zh_hant": "大多數人，你會看到，那些最終真正想要"
   },
   {
     "index": 54,
-    "text": "most of the people, if you see, who really, in the end, want this and do it,",
-    "start": 207.815,
-    "end": 213.017,
-    "zh": "大多数最终真正想要并实施的人，如果你看的话，",
-    "zh_hant": "大多數最終真正想要並實施的人，如果你看的話，"
+    "text": "this and do it, at least in the United States, are people who are probably your listeners.",
+    "start": 211.166,
+    "end": 217.099,
+    "zh": "这个并去做的人，至少在美国，可能是你的听众。",
+    "zh_hant": "這個並去做的人，至少在美國，可能是你的聽眾。"
   },
   {
     "index": 55,
-    "text": "at least in the United States, are people who are probably your listeners.",
-    "start": 212.667,
-    "end": 217.099,
-    "zh": "至少在美国，是那些可能是你听众的人。",
-    "zh_hant": "至少在美國，是那些可能是你聽眾的人。"
+    "text": "They’re very educated, typically well-off, largely white people",
+    "start": 217.199,
+    "end": 222.362,
+    "zh": "他们受过良好教育，通常生活富裕，大多是白人，",
+    "zh_hant": "他們受過良好教育，通常生活富裕，大多是白人，"
   },
   {
     "index": 56,
-    "text": "They’re very educated,",
-    "start": 217.199,
-    "end": 219.16,
-    "zh": "他们受教育程度很高，",
-    "zh_hant": "他們受教育程度很高，"
+    "text": "who are used to being in control of everything.",
+    "start": 222.302,
+    "end": 224.963,
+    "zh": "习惯掌控一切。",
+    "zh_hant": "習慣掌控一切。"
   },
   {
     "index": 57,
-    "text": "typically well-off, largely white people who are used to being in control of everything.",
-    "start": 218.84,
-    "end": 224.963,
-    "zh": "通常富裕，大部分是习惯于掌控一切的白人。",
-    "zh_hant": "通常富裕，大部分是習慣於掌控一切的白人。"
-  },
-  {
-    "index": 58,
     "text": "And the moment they lose control, they want to have this.",
     "start": 224.683,
     "end": 228.585,
@@ -472,111 +464,103 @@
     "zh_hant": "而一旦他們失去控制，他們就想要這個。"
   },
   {
-    "index": 59,
+    "index": 58,
     "text": "They want to have it in their back pocket, even if they don’t use it.",
     "start": 228.545,
     "end": 232.006,
-    "zh": "他们想把它留在后手，即使不用。",
-    "zh_hant": "他們想把它留在後手，即使不用。"
+    "zh": "他们想把它放在口袋里备用，即使他们不用它。",
+    "zh_hant": "他們想把它放在口袋裡備用，即使他們不用它。"
   },
   {
-    "index": 60,
+    "index": 59,
     "text": "And there’s a sense in which they’re indifferent",
     "start": 232.087,
     "end": 235.768,
-    "zh": "而且在某种意义上，他们对",
-    "zh_hant": "而且在某種意義上，他們對"
+    "zh": "而且在某种意义上，他们漠不关心",
+    "zh_hant": "而且在某種意義上，他們漠不關心"
   },
   {
-    "index": 61,
+    "index": 60,
     "text": "to what the legalization of this does to countless other people.",
     "start": 235.488,
     "end": 240.851,
-    "zh": "这合法化对无数其他人造成的影响漠不关心。",
-    "zh_hant": "這合法化對無數其他人造成的影響漠不關心。"
+    "zh": "这合法化对数不清的其他人的影响。",
+    "zh_hant": "這合法化對數不清的其他人的影響。"
+  },
+  {
+    "index": 61,
+    "text": "Like you probably saw in New York,",
+    "start": 240.501,
+    "end": 243.572,
+    "zh": "比如你可能在纽约看到过，",
+    "zh_hant": "比如你可能在紐約看到過，"
   },
   {
     "index": 62,
-    "text": "Like you probably saw in New York ,",
-    "start": 240.501,
-    "end": 243.49,
-    "zh": "就像你可能在纽约看到的，",
-    "zh_hant": "就像你可能在紐約看到的，"
+    "text": "as in other places, the way in which the disabled community",
+    "start": 243.222,
+    "end": 247.154,
+    "zh": "在其他地方也一样，残障群体",
+    "zh_hant": "在其他地方也一樣，殘障群體"
   },
   {
     "index": 63,
-    "text": "as in other places, the way in which the disabled community",
-    "start": 243.14,
-    "end": 247.154,
-    "zh": "和其他地方一样，残障社区",
-    "zh_hant": "和其他地方一樣，殘障社群"
-  },
-  {
-    "index": 64,
-    "text": "really is very fearful of these kinds of laws .",
+    "text": "really is very fearful of these kinds of laws.",
     "start": 247.415,
-    "end": 250.87,
+    "end": 251.076,
     "zh": "真的非常害怕这类法律。",
     "zh_hant": "真的非常害怕這類法律。"
   },
   {
-    "index": 65,
+    "index": 64,
     "text": "And it’s not because they think they’re going to be lined up in wheelchairs and forcibly injected.",
-    "start": 250.616,
+    "start": 250.726,
     "end": 256.839,
-    "zh": "这不是因为他们认为他们会排着轮椅被强制注射。",
-    "zh_hant": "這不是因為他們認為他們會排著輪椅被強制注射。"
+    "zh": "这不是因为他们觉得会被排成轮椅队强行注射。",
+    "zh_hant": "這不是因為他們覺得會被排成輪椅隊強行注射。"
+  },
+  {
+    "index": 65,
+    "text": "But the fact that people say what’s most important,",
+    "start": 256.899,
+    "end": 260.601,
+    "zh": "而是因为人们说什么最重要，",
+    "zh_hant": "而是因為人們說什麼最重要，"
   },
   {
     "index": 66,
-    "text": "But the fact that people say what’s most important, and the state has now given sanction to this,",
-    "start": 256.899,
-    "end": 262.742,
-    "zh": "但人们说最重要的是控制，而国家现在已认可这一点，",
-    "zh_hant": "但人們說最重要的是控制，而國家現在已認可這一點，"
+    "text": "and the state has now given sanction to this, is being in control,",
+    "start": 260.251,
+    "end": 264.643,
+    "zh": "而且国家现在支持了这一点，那就是掌控一切、",
+    "zh_hant": "而且國家現在支援了這一點，那就是掌控一切、"
   },
   {
     "index": 67,
-    "text": "is being in control, being independent of other people,",
-    "start": 262.762,
-    "end": 267.144,
-    "zh": "那就是掌控、不依赖他人、",
-    "zh_hant": "那就是掌控、不依賴他人、"
+    "text": "being independent of other people, not having disfigurement, being in control",
+    "start": 264.683,
+    "end": 270.966,
+    "zh": "不依赖他人、没有身体畸形、能控制",
+    "zh_hant": "不依賴他人、沒有身體畸形、能控制"
   },
   {
     "index": 68,
-    "text": "not having disfigurement, being in control of your bowels,",
-    "start": 267.164,
-    "end": 271.846,
-    "zh": "没有毁容、能控制自己的排泄，",
-    "zh_hant": "沒有毀容、能控制自己的排洩，"
+    "text": "of your bowels, right, that this is a justification for state-sanctioned suicide.",
+    "start": 270.616,
+    "end": 276.829,
+    "zh": "自己的排便，对吧，这就是国家认可自杀的理由。",
+    "zh_hant": "自己的排便，對吧，這就是國家認可自殺的理由。"
   },
   {
     "index": 69,
-    "text": "right, that this is a justification for state-sanctioned suicide.",
-    "start": 271.546,
-    "end": 276.829,
-    "zh": "对吧，这就成了国家认可自杀的理由。",
-    "zh_hant": "對吧，這就成了國家認可自殺的理由。"
+    "text": "And the person who’s in a wheelchair and needs help with toileting every day says,",
+    "start": 277.049,
+    "end": 283.924,
+    "zh": "而那些坐在轮椅上每天需要人帮忙上厕所的人说，",
+    "zh_hant": "而那些坐在輪椅上每天需要人幫忙上廁所的人說，"
   },
   {
     "index": 70,
-    "text": "And the person who’s in a wheelchair and needs help with toileting every day",
-    "start": 277.049,
-    "end": 282.921,
-    "zh": "而那个坐在轮椅上、每天需要帮助如厕的人",
-    "zh_hant": "而那個坐在輪椅上、每天需要幫助如廁的人"
-  },
-  {
-    "index": 71,
-    "text": "says,",
-    "start": 283.103,
-    "end": 283.924,
-    "zh": "会说，",
-    "zh_hant": "會說，"
-  },
-  {
-    "index": 72,
     "text": "this is an affront to my dignity.",
     "start": 283.645,
     "end": 286.069,

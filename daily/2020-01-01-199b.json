@@ -12,8 +12,8 @@
     "text": "A lovable eccentric.",
     "start": 5.933,
     "end": 9.094,
-    "zh": "一位可爱的怪人。",
-    "zh_hant": "一位可愛的怪人。"
+    "zh": "一个可爱的怪人。",
+    "zh_hant": "一個可愛的怪人。"
   },
   {
     "index": 2,
@@ -28,35 +28,27 @@
     "text": "True eccentrics never deliberately set out to draw attention to themselves.",
     "start": 16.278,
     "end": 21.781,
-    "zh": "真正的怪人从不刻意引人注目。",
-    "zh_hant": "真正的怪人從不刻意引人注目。"
+    "zh": "真正的怪人从不故意引人注目。",
+    "zh_hant": "真正的怪人從不故意引人注目。"
   },
   {
     "index": 4,
-    "text": "They disregard social conventions",
+    "text": "They disregard social conventions without being conscious that they are doing anything extraordinary.",
     "start": 22.121,
-    "end": 24.842,
-    "zh": "他们无视社会习俗，",
-    "zh_hant": "他們無視社會習俗，"
+    "end": 29.245,
+    "zh": "他们无视社会习俗，却未意识到自己在做不寻常的事。",
+    "zh_hant": "他們無視社會習俗，卻未意識到自己在做不尋常的事。"
   },
   {
     "index": 5,
-    "text": "without being conscious that they are doing anything extraordinary.",
-    "start": 24.703,
-    "end": 29.245,
-    "zh": "却不觉得自己在做任何不寻常的事。",
-    "zh_hant": "卻不覺得自己在做任何不尋常的事。"
-  },
-  {
-    "index": 6,
     "text": "This invariably wins them the love and respect of others,",
     "start": 29.685,
     "end": 34.507,
-    "zh": "这总能赢得他人的喜爱和尊重，",
-    "zh_hant": "這總能贏得他人的喜愛和尊重，"
+    "zh": "这常常为他们赢得他人的喜爱和尊重，",
+    "zh_hant": "這常常為他們贏得他人的喜愛和尊重，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "for they add colour to the dull routine of everyday life.",
     "start": 34.508,
     "end": 39.45,
@@ -64,31 +56,23 @@
     "zh_hant": "因為他們為單調的日常生活增添了色彩。"
   },
   {
-    "index": 8,
-    "text": "Up to the time of his death, Richard Colson",
+    "index": 7,
+    "text": "Up to the time of his death, Richard Colson was one of the most notable figures in our town.",
     "start": 40.531,
-    "end": 44.072,
-    "zh": "直到去世前，理查德·科尔森",
-    "zh_hant": "直到去世前，理查德·科爾森"
-  },
-  {
-    "index": 9,
-    "text": "was one of the most notable figures in our town.",
-    "start": 43.952,
     "end": 47.474,
-    "zh": "一直是我们镇上最著名的人物之一。",
-    "zh_hant": "一直是我們鎮上最著名的人物之一。"
+    "zh": "直到去世前，理查德·科尔森一直是我们镇上最著名的人物之一。",
+    "zh_hant": "直到去世前，理查德·科爾森一直是我們鎮上最著名的人物之一。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "He was a shrewd and wealthy businessman,",
     "start": 47.794,
     "end": 50.915,
-    "zh": "他是个精明富有的商人，",
-    "zh_hant": "他是個精明富有的商人，"
+    "zh": "他是个精明而富有的商人，",
+    "zh_hant": "他是個精明而富有的商人，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "but most people in the town hardly knew anything about this side of his life.",
     "start": 50.916,
     "end": 56.618,
@@ -96,47 +80,39 @@
     "zh_hant": "但鎮上大多數人對他生活的這一面幾乎一無所知。"
   },
   {
-    "index": 12,
-    "text": "He was known to us all as Dickie",
+    "index": 10,
+    "text": "He was known to us all as Dickie and his eccentricity had become legendary",
     "start": 57.079,
-    "end": 59.88,
-    "zh": "我们都叫他迪基，",
-    "zh_hant": "我們都叫他迪基，"
+    "end": 63.361,
+    "zh": "我们所有人都认识他，叫他迪基，他的怪癖早已成为传奇，",
+    "zh_hant": "我們所有人都認識他，叫他迪基，他的怪癖早已成為傳奇，"
   },
   {
-    "index": 13,
-    "text": "and his eccentricity had become legendary long before he died.",
-    "start": 59.94,
+    "index": 11,
+    "text": "long before he died.",
+    "start": 63.302,
     "end": 65.242,
-    "zh": "而且早在去世之前，他的古怪就已闻名遐迩。",
-    "zh_hant": "而且早在去世之前，他的古怪就已聞名遐邇。"
+    "zh": "早在他去世之前。",
+    "zh_hant": "早在他去世之前。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Dickie disliked snobs intensely.",
     "start": 65.703,
     "end": 68.564,
-    "zh": "迪基极其厌恶势利小人。",
-    "zh_hant": "迪基極其厭惡勢利小人。"
+    "zh": "迪基极度厌恶势利小人。",
+    "zh_hant": "迪基極度厭惡勢利小人。"
   },
   {
-    "index": 15,
-    "text": "Though he owned a large car, he hardly ever used it,",
+    "index": 13,
+    "text": "Though he owned a large car, he hardly ever used it, preferring always to go on foot.",
     "start": 68.844,
-    "end": 72.806,
-    "zh": "虽然他有一辆大车，却几乎从不使用，",
-    "zh_hant": "雖然他有一輛大車，卻幾乎從不使用，"
-  },
-  {
-    "index": 16,
-    "text": "preferring always to go on foot.",
-    "start": 72.746,
     "end": 75.387,
-    "zh": "总是喜欢步行。",
-    "zh_hant": "總是喜歡步行。"
+    "zh": "虽然他有一辆大车，却几乎从不使用，总是喜欢步行。",
+    "zh_hant": "雖然他有一輛大車，卻幾乎從不使用，總是喜歡步行。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Even when it was raining heavily, he refused to carry an umbrella.",
     "start": 75.808,
     "end": 80.57,
@@ -144,23 +120,15 @@
     "zh_hant": "即使下大雨，他也拒絕帶傘。"
   },
   {
-    "index": 18,
-    "text": "One day, he walked into an expensive shop after",
+    "index": 15,
+    "text": "One day, he walked into an expensive shop after having been caught in a particularly heavy shower.",
     "start": 81.131,
-    "end": 85.353,
-    "zh": "有一天，他在一场特别大的阵雨后",
-    "zh_hant": "有一天，他在一場特別大的陣雨後"
-  },
-  {
-    "index": 19,
-    "text": "having been caught in a particularly heavy shower.",
-    "start": 85.003,
     "end": 88.554,
-    "zh": "走进了一家昂贵的商店。",
-    "zh_hant": "走進了一家昂貴的商店。"
+    "zh": "有一天，他遇上一场特别大的阵雨，浑身湿透地走进一家昂贵的商店。",
+    "zh_hant": "有一天，他遇上一場特別大的陣雨，渾身溼透地走進一家昂貴的商店。"
   },
   {
-    "index": 20,
+    "index": 16,
     "text": "He wanted to buy a ￡300 watch for his wife,",
     "start": 89.075,
     "end": 93.797,
@@ -168,31 +136,31 @@
     "zh_hant": "他想給妻子買一塊300英鎊的手錶，"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "but he was in such a bedraggled condition that an assistant refused to serve him.",
     "start": 93.837,
     "end": 99.98,
-    "zh": "但他浑身湿透，狼狈不堪，以至于店员拒绝为他服务。",
-    "zh_hant": "但他渾身溼透，狼狽不堪，以至於店員拒絕為他服務。"
+    "zh": "但他浑身狼狈不堪，以至于店员拒绝为他服务。",
+    "zh_hant": "但他渾身狼狽不堪，以至於店員拒絕為他服務。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "Dickie left the shop without a word and returned carrying a large cloth bag.",
     "start": 100.741,
     "end": 106.924,
-    "zh": "迪基一言不发地离开了商店，回来时拎着一个大布袋。",
-    "zh_hant": "迪基一言不發地離開了商店，回來時拎著一個大布袋。"
+    "zh": "迪基一言不发地离开商店，回来时提着一个大布袋。",
+    "zh_hant": "迪基一言不發地離開商店，回來時提著一個大布袋。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "As it was extremely heavy, he dumped it on the counter.",
     "start": 107.144,
     "end": 111.306,
-    "zh": "由于袋子非常重，他把袋子扔在柜台上。",
-    "zh_hant": "由於袋子非常重，他把袋子扔在櫃檯上。"
+    "zh": "因为袋子极重，他把它砰地放在柜台上。",
+    "zh_hant": "因為袋子極重，他把它砰地放在櫃檯上。"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "The assistant asked him to leave,",
     "start": 111.706,
     "end": 114.147,
@@ -200,15 +168,15 @@
     "zh_hant": "店員要求他離開，"
   },
   {
-    "index": 25,
+    "index": 21,
     "text": "but Dickie paid no attention to him and requested to see the manager.",
     "start": 114.048,
     "end": 119.25,
-    "zh": "但迪基不理睬他，并要求见经理。",
-    "zh_hant": "但迪基不理睬他，並要求見經理。"
+    "zh": "但迪基不理他，要求见经理。",
+    "zh_hant": "但迪基不理他，要求見經理。"
   },
   {
-    "index": 26,
+    "index": 22,
     "text": "Recognizing who the customer was,",
     "start": 120.05,
     "end": 122.771,
@@ -216,15 +184,15 @@
     "zh_hant": "經理認出顧客是誰後，"
   },
   {
-    "index": 27,
+    "index": 23,
     "text": "the manager was most apologetic and reprimanded the assistant severely.",
     "start": 122.852,
     "end": 129.075,
-    "zh": "非常抱歉，并严厉斥责了店员。",
-    "zh_hant": "非常抱歉，並嚴厲斥責了店員。"
+    "zh": "非常抱歉，并严厉训斥了店员。",
+    "zh_hant": "非常抱歉，並嚴厲訓斥了店員。"
   },
   {
-    "index": 28,
+    "index": 24,
     "text": "When Dickie was given the watch, he presented the assistant with the cloth bag.",
     "start": 129.595,
     "end": 135.258,
@@ -232,55 +200,39 @@
     "zh_hant": "當迪基拿到手錶時，他把布袋遞給了店員。"
   },
   {
-    "index": 29,
+    "index": 25,
     "text": "It contained ￡300 in pennies.",
     "start": 135.558,
     "end": 140.08,
-    "zh": "袋子里装着300英镑的便士。",
-    "zh_hant": "袋子裡裝著300英鎊的便士。"
+    "zh": "里面装着300英镑的便士。",
+    "zh_hant": "裡面裝著300英鎊的便士。"
   },
   {
-    "index": 30,
-    "text": "He insisted on the assistant's counting the money before",
+    "index": 26,
+    "text": "He insisted on the assistant's counting the money before he left--30, 000 pennies in all!",
     "start": 140.36,
-    "end": 144.402,
-    "zh": "他坚持让店员数清钱才",
-    "zh_hant": "他堅持讓店員數清錢才"
-  },
-  {
-    "index": 31,
-    "text": "he left--30, 000 pennies in all!",
-    "start": 144.052,
     "end": 147.904,
-    "zh": "离开——总共3万枚便士！",
-    "zh_hant": "離開——總共3萬枚便士！"
+    "zh": "他坚持让店员点完钱再离开——总共3万枚便士！",
+    "zh_hant": "他堅持讓店員點完錢再離開——總共3萬枚便士！"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "On another occasion,",
     "start": 148.524,
     "end": 150.125,
-    "zh": "还有一次，",
-    "zh_hant": "還有一次，"
+    "zh": "另一次，",
+    "zh_hant": "另一次，"
   },
   {
-    "index": 33,
-    "text": "he invited a number of important critics to see his private collection of modern",
+    "index": 28,
+    "text": "he invited a number of important critics to see his private collection of modern paintings.",
     "start": 150.065,
-    "end": 155.948,
-    "zh": "他邀请了一些重要的评论家来参观他私人的现代绘画",
-    "zh_hant": "他邀請了一些重要的評論家來參觀他私人的現代繪畫"
-  },
-  {
-    "index": 34,
-    "text": "paintings.",
-    "start": 155.598,
     "end": 156.688,
-    "zh": "收藏。",
-    "zh_hant": "收藏。"
+    "zh": "他邀请了许多重要评论家来观看他的私人现代画收藏。",
+    "zh_hant": "他邀請了許多重要評論家來觀看他的私人現代畫收藏。"
   },
   {
-    "index": 35,
+    "index": 29,
     "text": "This exhibition received a great deal of attention in the press,",
     "start": 157.209,
     "end": 161.512,
@@ -288,15 +240,15 @@
     "zh_hant": "這次展覽在媒體上引起了廣泛關注，"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "for though the pictures were supposed to be the work of famous artists,",
     "start": 161.672,
     "end": 166.396,
-    "zh": "因为虽然这些画据说是著名艺术家的作品，",
-    "zh_hant": "因為雖然這些畫據說是著名藝術家的作品，"
+    "zh": "因为虽然这些画被认为是著名艺术家的作品，",
+    "zh_hant": "因為雖然這些畫被認為是著名藝術家的作品，"
   },
   {
-    "index": 37,
+    "index": 31,
     "text": "they had in fact been painted by Dickie.",
     "start": 166.497,
     "end": 170.2,
@@ -304,19 +256,19 @@
     "zh_hant": "實際上卻是迪基畫的。"
   },
   {
-    "index": 38,
+    "index": 32,
     "text": "It took him four years to stage this elaborate joke",
     "start": 170.621,
     "end": 175.345,
-    "zh": "他花了四年时间策划这个精心的玩笑，",
-    "zh_hant": "他花了四年時間策劃這個精心的玩笑，"
+    "zh": "他花了四年时间策划这个精心设计的玩笑，",
+    "zh_hant": "他花了四年時間策劃這個精心設計的玩笑，"
   },
   {
-    "index": 39,
+    "index": 33,
     "text": "simply to prove that critics do not always know what they are talking about.",
     "start": 175.245,
     "end": 180.45,
-    "zh": "只是为了证明评论家们并不总是知道自己在说什么。",
-    "zh_hant": "只是為了證明評論家們並不總是知道自己在說什麼。"
+    "zh": "仅仅是为了证明评论家并不总懂他们谈论的东西。",
+    "zh_hant": "僅僅是為了證明評論家並不總懂他們談論的東西。"
   }
 ]

@@ -4,75 +4,67 @@
     "text": "This is Cumbria, home of the Lake District, England's biggest national park.",
     "start": 3.59,
     "end": 9.693,
-    "zh": "这里是坎布里亚，湖区所在地，英格兰最大的国家公园。",
-    "zh_hant": "這裡是坎布里亞，湖區所在地，英格蘭最大的國家公園。"
+    "zh": "这里是坎布里亚郡，湖区所在地，英格兰最大的国家公园。",
+    "zh_hant": "這裡是坎布里亞郡，湖區所在地，英格蘭最大的國家公園。"
   },
   {
     "index": 1,
     "text": "With its stunning countryside and pristine lakes, it draws 20 million visitors a year.",
     "start": 9.633,
     "end": 15.676,
-    "zh": "这里拥有令人惊叹的乡村风光和纯净的湖泊，每年吸引2000万游客。",
-    "zh_hant": "這裡擁有令人驚歎的鄉村風光和純淨的湖泊，每年吸引2000萬遊客。"
+    "zh": "凭借其迷人的乡村风光和清澈的湖泊，这里每年吸引2000万游客。",
+    "zh_hant": "憑藉其迷人的鄉村風光和清澈的湖泊，這裡每年吸引2000萬遊客。"
   },
   {
     "index": 2,
     "text": "But I'm not here for the views.",
     "start": 15.897,
     "end": 17.497,
-    "zh": "但我来这里不是为了风景。",
-    "zh_hant": "但我來這裡不是為了風景。"
+    "zh": "但我不是来看风景的。",
+    "zh_hant": "但我不是來看風景的。"
   },
   {
     "index": 3,
-    "text": "I'm here because somewhere on a farm up ahead,",
+    "text": "I'm here because somewhere on a farm up ahead, something that hasn't been seen here for six thousand years is making a comeback.",
     "start": 17.397,
-    "end": 20.178,
-    "zh": "我来是因为在前面某处农场，",
-    "zh_hant": "我來是因為在前面某處農場，"
+    "end": 25.041,
+    "zh": "我来是因为在前方某个农场上，有一样在这里消失六千年的东西正在回归。",
+    "zh_hant": "我來是因為在前方某個農場上，有一樣在這裡消失六千年的東西正在迴歸。"
   },
   {
     "index": 4,
-    "text": "something that hasn't been seen here for six thousand years is making a comeback.",
-    "start": 20.119,
-    "end": 25.041,
-    "zh": "有一样六千年未见的东西正在回归。",
-    "zh_hant": "有一樣六千年未見的東西正在迴歸。"
-  },
-  {
-    "index": 5,
     "text": "Bison, the largest land animal in Europe.",
     "start": 29.083,
     "end": 34.506,
-    "zh": "欧洲野牛，欧洲最大的陆地动物。",
-    "zh_hant": "歐洲野牛，歐洲最大的陸地動物。"
+    "zh": "野牛，欧洲最大的陆地动物。",
+    "zh_hant": "野牛，歐洲最大的陸地動物。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "They can reach two meters in height and weigh as much as a car.",
     "start": 34.826,
     "end": 39.208,
-    "zh": "它们可以长到两米高，体重堪比一辆汽车。",
-    "zh_hant": "它們可以長到兩米高，體重堪比一輛汽車。"
+    "zh": "它们可以长到两米高，重达一辆汽车。",
+    "zh_hant": "它們可以長到兩米高，重達一輛汽車。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "For thousands of years, these giants roamed from Scotland to Siberia.",
     "start": 39.828,
     "end": 44.631,
-    "zh": "数千年来，这些巨兽从苏格兰一直漫游到西伯利亚。",
-    "zh_hant": "數千年來，這些巨獸從蘇格蘭一直漫遊到西伯利亞。"
+    "zh": "几千年来，这些庞然大物从苏格兰一直漫游到西伯利亚。",
+    "zh_hant": "幾千年來，這些龐然大物從蘇格蘭一直漫遊到西伯利亞。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "But by 1927, the species was hunted to extinction,",
     "start": 44.571,
     "end": 49.033,
-    "zh": "但到1927年，这个物种因捕猎而灭绝，",
-    "zh_hant": "但到1927年，這個物種因捕獵而滅絕，"
+    "zh": "但到了1927年，这个物种被猎杀至灭绝，",
+    "zh_hant": "但到了1927年，這個物種被獵殺至滅絕，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "and the European bison disappeared from the wild.",
     "start": 48.933,
     "end": 52.575,
@@ -80,87 +72,79 @@
     "zh_hant": "歐洲野牛從野外消失了。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "In 2022, the Wildwood Trust, a small zoo in Kent,",
     "start": 53.115,
     "end": 57.157,
-    "zh": "2022年，Wildwood Trust，肯特郡的一个小型动物园，",
-    "zh_hant": "2022年，Wildwood Trust，肯特郡的一個小型動物園，"
+    "zh": "2022年，怀尔德伍德信托基金会，肯特郡的一个小型动物园，",
+    "zh_hant": "2022年，懷爾德伍德信託基金會，肯特郡的一個小型動物園，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "launched an ambitious project to bring wild bison back to Britain.",
     "start": 57.017,
     "end": 62.76,
-    "zh": "发起了一个雄心勃勃的项目，要把野牛带回英国。",
-    "zh_hant": "發起了一個雄心勃勃的專案，要把野牛帶回英國。"
+    "zh": "发起了一项雄心勃勃的项目，计划将野生野牛带回英国。",
+    "zh_hant": "發起了一項雄心勃勃的專案，計劃將野生野牛帶回英國。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "And today, they're releasing them in a new location for the very first time.",
     "start": 63.02,
     "end": 67.862,
-    "zh": "而今天，他们首次将野牛放归到一个新地点。",
-    "zh_hant": "而今天，他們首次將野牛放歸到一個新地點。"
+    "zh": "而今天，他们首次将野牛放归到新地点。",
+    "zh_hant": "而今天，他們首次將野牛放歸到新地點。"
+  },
+  {
+    "index": 12,
+    "text": "Here to oversee the release is Donovan Wright, one of the only two bison rangers in the country.",
+    "start": 69.944,
+    "end": 76.887,
+    "zh": "负责监督放归的是多诺万·赖特，全国仅有的两名野牛护林员之一。",
+    "zh_hant": "負責監督放歸的是多諾萬·賴特，全國僅有的兩名野牛護林員之一。"
   },
   {
     "index": 13,
-    "text": "Here to oversee the release is Donovan Wright,",
-    "start": 69.944,
-    "end": 73.265,
-    "zh": "负责监督放归的是多诺万·赖特，",
-    "zh_hant": "負責監督放歸的是多諾萬·賴特，"
+    "text": "They are extraordinary.",
+    "start": 81.87,
+    "end": 84.351,
+    "zh": "它们非同寻常。",
+    "zh_hant": "它們非同尋常。"
   },
   {
     "index": 14,
-    "text": "one of the only two bison rangers in the country.",
-    "start": 73.405,
-    "end": 76.887,
-    "zh": "他是全国仅有的两名野牛管理员之一。",
-    "zh_hant": "他是全國僅有的兩名野牛管理員之一。"
-  },
-  {
-    "index": 15,
-    "text": "They are extraordinary.",
-    "start": 76.667,
-    "end": 84.351,
-    "zh": "它们太了不起了。",
-    "zh_hant": "它們太了不起了。"
-  },
-  {
-    "index": 16,
     "text": "The herd was transported here thirty days ago and has been in quarantine ahead of its release.",
     "start": 85.392,
     "end": 90.774,
-    "zh": "这群野牛三十天前被运到这里，放归前一直处于隔离状态。",
-    "zh_hant": "這群野牛三十天前被運到這裡，放歸前一直處於隔離狀態。"
+    "zh": "这群野牛在三十天前被运到这里，放归前一直处于隔离状态。",
+    "zh_hant": "這群野牛在三十天前被運到這裡，放歸前一直處於隔離狀態。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "How almost mythical.",
     "start": 93.796,
     "end": 95.296,
-    "zh": "几乎是神话般的存在。",
-    "zh_hant": "幾乎是神話般的存在。"
+    "zh": "多么近乎神话般的存在。",
+    "zh_hant": "多麼近乎神話般的存在。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Tell me, Doc, why are bison so special?",
     "start": 96.657,
     "end": 99.398,
-    "zh": "跟我说说，博士，野牛为什么这么特别？",
-    "zh_hant": "跟我說說，博士，野牛為什麼這麼特別？"
+    "zh": "告诉我，多克，野牛为什么这么特别？",
+    "zh_hant": "告訴我，多克，野牛為什麼這麼特別？"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "How close did we come to losing them?",
     "start": 99.218,
     "end": 101.079,
-    "zh": "我们差点就彻底失去它们了，是吗？",
-    "zh_hant": "我們差點就徹底失去它們了，是嗎？"
+    "zh": "我们差一点就失去它们了，有多接近？",
+    "zh_hant": "我們差一點就失去它們了，有多接近？"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "They were officially extinct in the wild.",
     "start": 101.059,
     "end": 103.62,
@@ -168,39 +152,39 @@
     "zh_hant": "它們在野外已經正式滅絕了。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "That was it.",
     "start": 103.27,
     "end": 104.201,
-    "zh": "就这样了。",
-    "zh_hant": "就這樣了。"
+    "zh": "就是那样。",
+    "zh_hant": "就是那樣。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "But they found fifty-four animals that were kept in zoos and wildlife sanctuaries.",
     "start": 104.201,
     "end": 109.123,
-    "zh": "但他们找到了54只被养在动物园和野生动物保护区的野牛。",
-    "zh_hant": "但他們找到了54只被養在動物園和野生動物保護區的野牛。"
+    "zh": "但他们找到了五十四只被圈养在动物园和野生动物保护区里的野牛。",
+    "zh_hant": "但他們找到了五十四隻被圈養在動物園和野生動物保護區裡的野牛。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "And from those animals, twelve of them bred.",
     "start": 109.143,
     "end": 111.704,
-    "zh": "其中12只进行了繁殖。",
-    "zh_hant": "其中12只進行了繁殖。"
+    "zh": "其中，有十二只成功繁殖。",
+    "zh_hant": "其中，有十二隻成功繁殖。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "And all The European bison in the world today can be traced back to those 12 bison.",
     "start": 111.805,
     "end": 116.827,
-    "zh": "今天世界上所有欧洲野牛都可以追溯到那12头野牛。",
-    "zh_hant": "今天世界上所有歐洲野牛都可以追溯到那12頭野牛。"
+    "zh": "今天世界上所有的欧洲野牛都可以追溯到那十二头野牛。",
+    "zh_hant": "今天世界上所有的歐洲野牛都可以追溯到那十二頭野牛。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It's history in the making.",
     "start": 116.947,
     "end": 118.768,
@@ -208,15 +192,15 @@
     "zh_hant": "這是正在創造的歷史。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "The bison are being released",
     "start": 118.418,
     "end": 124.151,
-    "zh": "野牛被放归",
-    "zh_hant": "野牛被放歸"
+    "zh": "野牛正被放归",
+    "zh_hant": "野牛正被放歸"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "onto 5,000 acres of farmland,",
     "start": 123.801,
     "end": 126.872,
@@ -224,7 +208,7 @@
     "zh_hant": "到5000英畝的農田上，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "where their presence will transform the ecosystem.",
     "start": 126.752,
     "end": 130.334,
@@ -232,23 +216,23 @@
     "zh_hant": "它們的存在將改變這裡的生態系統。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "So this is bison debarking.",
     "start": 133.135,
     "end": 136.077,
-    "zh": "这就是野牛剥树皮。",
-    "zh_hant": "這就是野牛剝樹皮。"
+    "zh": "这就是野牛的剥皮行为。",
+    "zh_hant": "這就是野牛的剝皮行為。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "You can actually see the bite marks, the teeth marks.",
     "start": 138.238,
     "end": 140.839,
-    "zh": "你确实能看到咬痕和齿印。",
-    "zh_hant": "你確實能看到咬痕和齒印。"
+    "zh": "你可以看到清晰的咬痕和齿印。",
+    "zh_hant": "你可以看到清晰的咬痕和齒印。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "When you see a bison debarking a tree, oh my goodness, their teeth are like chisels.",
     "start": 140.599,
     "end": 145.561,
@@ -256,39 +240,39 @@
     "zh_hant": "當你看到野牛剝樹皮時，天哪，它們的牙齒就像鑿子一樣。"
   },
   {
-    "index": 32,
-    "text": "The superpower of European bison is their ability to create",
+    "index": 30,
+    "text": "The superpower of European bison",
     "start": 145.742,
-    "end": 150.444,
-    "zh": "欧洲野牛的超能力是它们能够创造",
-    "zh_hant": "歐洲野牛的超能力是它們能夠創造"
+    "end": 148.203,
+    "zh": "欧洲野牛的超能力",
+    "zh_hant": "歐洲野牛的超能力"
   },
   {
-    "index": 33,
-    "text": "these micro-habitats or homes for other species.",
-    "start": 150.094,
+    "index": 31,
+    "text": "is their ability to create these micro-habitats or homes for other species.",
+    "start": 147.863,
     "end": 153.565,
-    "zh": "这些微栖息地，也就是其他物种的家园。",
-    "zh_hant": "這些微棲息地，也就是其他物種的家園。"
+    "zh": "在于它们能够为其他物种创造微栖息地或家园。",
+    "zh_hant": "在於它們能夠為其他物種創造微棲息地或家園。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "You can imagine bats would be roosting in the cracks in the tree.",
     "start": 153.525,
     "end": 157.867,
-    "zh": "你可以想象蝙蝠会在树缝里栖息。",
-    "zh_hant": "你可以想象蝙蝠會在樹縫裡棲息。"
+    "zh": "你可以想象蝙蝠会在树的裂缝中栖息。",
+    "zh_hant": "你可以想象蝙蝠會在樹的裂縫中棲息。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "Songbirds would make use of those hollows and nest in the sides.",
     "start": 157.788,
     "end": 161.829,
-    "zh": "鸣禽会利用那些树洞在侧面筑巢。",
-    "zh_hant": "鳴禽會利用那些樹洞在側面築巢。"
+    "zh": "鸣禽会利用那些空洞在树侧筑巢。",
+    "zh_hant": "鳴禽會利用那些空洞在樹側築巢。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "They're kind of opening up the forest for other creatures.",
     "start": 161.479,
     "end": 164.431,
@@ -296,7 +280,7 @@
     "zh_hant": "它們是在為其他生物開啟森林。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "It's amazing.",
     "start": 164.081,
     "end": 165.012,
@@ -304,23 +288,23 @@
     "zh_hant": "太神奇了。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "With everything in place, 6,000 years of waiting is about to come to an end.",
     "start": 167.073,
     "end": 173.037,
-    "zh": "一切就绪，6000年的等待即将结束。",
-    "zh_hant": "一切就緒，6000年的等待即將結束。"
+    "zh": "一切准备就绪，六千年的等待即将结束。",
+    "zh_hant": "一切準備就緒，六千年的等待即將結束。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "I can't believe what we're about to do.",
     "start": 174.158,
     "end": 176.159,
-    "zh": "我不敢相信我们即将要做什么。",
-    "zh_hant": "我不敢相信我們即將要做什麼。"
+    "zh": "我不敢相信我们即将要做的事。",
+    "zh_hant": "我不敢相信我們即將要做的事。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "It's surreal.",
     "start": 175.809,
     "end": 176.899,
@@ -328,39 +312,39 @@
     "zh_hant": "太不真實了。"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "We're making wild history right.",
     "start": 176.68,
     "end": 182.303,
-    "zh": "我们正在创造正确的野性历史。",
-    "zh_hant": "我們正在創造正確的野性歷史。"
+    "zh": "我们在正确地书写野生历史。",
+    "zh_hant": "我們在正確地書寫野生歷史。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "I'm so excited.",
     "start": 181.953,
     "end": 183.123,
-    "zh": "我太兴奋了。",
-    "zh_hant": "我太興奮了。"
+    "zh": "我太激动了。",
+    "zh_hant": "我太激動了。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "This is the moment that we live for.",
     "start": 183.064,
     "end": 185.065,
-    "zh": "这是我们为之而活的时刻。",
-    "zh_hant": "這是我們為之而活的時刻。"
+    "zh": "这是我们梦寐以求的时刻。",
+    "zh_hant": "這是我們夢寐以求的時刻。"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "I mean, this is three years of hard work to get to this point.",
     "start": 184.845,
     "end": 188.667,
-    "zh": "我的意思是，为了这一刻，我们辛苦工作了三年。",
-    "zh_hant": "我的意思是，為了這一刻，我們辛苦工作了三年。"
+    "zh": "我是说，为了这一刻，我们付出了三年的努力。",
+    "zh_hant": "我是說，為了這一刻，我們付出了三年的努力。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "Don, I feel like we should do this together, really.",
     "start": 188.707,
     "end": 190.668,
@@ -368,15 +352,15 @@
     "zh_hant": "唐，我覺得我們應該一起做這件事，真的。"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "Come on, let's do it.",
     "start": 190.318,
     "end": 191.869,
-    "zh": "来吧，我们一起。",
-    "zh_hant": "來吧，我們一起。"
+    "zh": "来吧，我们动手吧。",
+    "zh_hant": "來吧，我們動手吧。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "Ready?",
     "start": 191.529,
     "end": 192.129,
@@ -384,47 +368,47 @@
     "zh_hant": "準備好了嗎？"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "One, two, three.",
     "start": 191.779,
     "end": 192.69,
-    "zh": "一，二，三。",
-    "zh_hant": "一，二，三。"
+    "zh": "一、二、三。",
+    "zh_hant": "一、二、三。"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "So excited.",
     "start": 203.771,
     "end": 206.452,
-    "zh": "太激动了。",
-    "zh_hant": "太激動了。"
+    "zh": "太兴奋了。",
+    "zh_hant": "太興奮了。"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "There are no words, there's no words, right?",
     "start": 206.102,
     "end": 208.613,
-    "zh": "无法形容，真的无法形容，对吧？",
-    "zh_hant": "無法形容，真的無法形容，對吧？"
+    "zh": "无法用言语形容，简直无法用言语形容，对吧？",
+    "zh_hant": "無法用言語形容，簡直無法用言語形容，對吧？"
   },
   {
-    "index": 51,
+    "index": 49,
     "text": "Oh, look at that.",
     "start": 208.293,
     "end": 209.674,
-    "zh": "哦，看那个。",
-    "zh_hant": "哦，看那個。"
+    "zh": "哦，看那边。",
+    "zh_hant": "哦，看那邊。"
   },
   {
-    "index": 52,
+    "index": 50,
     "text": "It's just, look, he's going to have a dust bowl.",
     "start": 210.094,
     "end": 212.996,
-    "zh": "你看，它马上要打滚了。",
-    "zh_hant": "你看，它馬上要打滾了。"
+    "zh": "你看，它要打滚扬尘了。",
+    "zh_hant": "你看，它要打滾揚塵了。"
   },
   {
-    "index": 53,
+    "index": 51,
     "text": "Immediately.",
     "start": 212.646,
     "end": 213.536,
@@ -432,55 +416,55 @@
     "zh_hant": "立刻。"
   },
   {
-    "index": 54,
+    "index": 52,
     "text": "It just feels right.",
     "start": 213.186,
     "end": 218.539,
-    "zh": "感觉就是对的。",
-    "zh_hant": "感覺就是對的。"
+    "zh": "感觉刚刚好。",
+    "zh_hant": "感覺剛剛好。"
   },
   {
-    "index": 55,
+    "index": 53,
     "text": "This is where they belong, out there in the world.",
     "start": 218.98,
     "end": 221.541,
-    "zh": "这就是它们该在的地方，在广阔的世界里。",
-    "zh_hant": "這就是它們該在的地方，在廣闊的世界裡。"
+    "zh": "这就是它们该在的地方，在那广阔的世界里。",
+    "zh_hant": "這就是它們該在的地方，在那廣闊的世界裡。"
   },
   {
-    "index": 56,
+    "index": 54,
     "text": "Getting on with bison business is perfect.",
     "start": 222.402,
     "end": 224.963,
-    "zh": "继续野牛的生活，太完美了。",
-    "zh_hant": "繼續野牛的生活，太完美了。"
+    "zh": "继续野牛的事业，完美极了。",
+    "zh_hant": "繼續野牛的事業，完美極了。"
+  },
+  {
+    "index": 55,
+    "text": "Working in conservation,",
+    "start": 226.465,
+    "end": 228.485,
+    "zh": "在保护工作中，",
+    "zh_hant": "在保護工作中，"
+  },
+  {
+    "index": 56,
+    "text": "guys, there's so many battles that we lose, and this is one that we won.",
+    "start": 230.207,
+    "end": 235.43,
+    "zh": "伙计们，我们输掉了太多战役，而这是我们赢下的一场。",
+    "zh_hant": "夥計們，我們輸掉了太多戰役，而這是我們贏下的一場。"
   },
   {
     "index": 57,
-    "text": "Working in conservation, guys,",
-    "start": 226.465,
-    "end": 230.907,
-    "zh": "做保护工作，伙计们，",
-    "zh_hant": "做保護工作，夥計們，"
-  },
-  {
-    "index": 58,
-    "text": "there's so many battles that we lose, and this is one that we won.",
-    "start": 231.247,
-    "end": 235.43,
-    "zh": "我们输掉的战斗太多了，而这一场我们赢了。",
-    "zh_hant": "我們輸掉的戰鬥太多了，而這一場我們贏了。"
-  },
-  {
-    "index": 59,
     "text": "The Travel Show.",
     "start": 243.473,
     "end": 244.755,
-    "zh": "《旅行秀》。",
-    "zh_hant": "《旅行秀》。"
+    "zh": "旅游节目。",
+    "zh_hant": "旅遊節目。"
   },
   {
-    "index": 60,
+    "index": 58,
     "text": "Your essential guide wherever you're heading.",
     "start": 244.576,
     "end": 247.302,
@@ -488,7 +472,7 @@
     "zh_hant": "無論你去哪裡，這都是你的必備指南。"
   },
   {
-    "index": 61,
+    "index": 59,
     "text": "Every weekend on BBC News.",
     "start": 247.424,
     "end": 249.989,

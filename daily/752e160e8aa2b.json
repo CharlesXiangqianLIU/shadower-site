@@ -11,206 +11,198 @@
     "index": 1,
     "text": "Seeing hands.",
     "start": 3.111,
-    "end": 9.334,
-    "zh": "用手看见。",
-    "zh_hant": "用手看見。"
+    "end": 4.27,
+    "zh": "看见的手。",
+    "zh_hant": "看見的手。"
   },
   {
     "index": 2,
     "text": "How did Vera disover she had this gift of second sight?",
     "start": 11.716,
     "end": 15.917,
-    "zh": "维拉是怎么发现自己有这种第二视觉的天赋的？",
-    "zh_hant": "維拉是怎麼發現自己有這種第二視覺的天賦的？"
+    "zh": "薇拉是如何发现她有这种第二视觉的天赋的？",
+    "zh_hant": "薇拉是如何發現她有這種第二視覺的天賦的？"
   },
   {
     "index": 3,
-    "text": "Several cases have been reported in Russia recently",
+    "text": "Several cases have been reported in Russia recently of people who can read and detect colours with their fingers,",
     "start": 18.379,
-    "end": 21.72,
-    "zh": "最近在俄罗斯报道了几例这样的案例，",
-    "zh_hant": "最近在俄羅斯報道了幾例這樣的案例，"
+    "end": 25.962,
+    "zh": "最近俄罗斯报道了几例能用手指阅读和感知颜色的人。",
+    "zh_hant": "最近俄羅斯報道了幾例能用手指閱讀和感知顏色的人。"
   },
   {
     "index": 4,
-    "text": "of people who can read and detect colours with their fingers,",
-    "start": 21.76,
-    "end": 25.962,
-    "zh": "有人能用手指阅读和辨别颜色，",
-    "zh_hant": "有人能用手指閱讀和辨別顏色，"
-  },
-  {
-    "index": 5,
     "text": "and even see through solid doors and walls.",
     "start": 26.123,
     "end": 29.204,
-    "zh": "甚至能看穿坚固的门和墙壁。",
-    "zh_hant": "甚至能看穿堅固的門和牆壁。"
+    "zh": "甚至能看穿实心门和墙壁。",
+    "zh_hant": "甚至能看穿實心門和牆壁。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "One case concerns an 11-year-old schoolgirl Vera Petrova,",
     "start": 30.285,
     "end": 35.747,
-    "zh": "其中一个案例是关于11岁的女学生维拉·彼得罗娃的，",
-    "zh_hant": "其中一個案例是關於11歲的女學生維拉·彼得羅娃的，"
+    "zh": "其中一例涉及一个11岁的女学生薇拉·彼得罗娃。",
+    "zh_hant": "其中一例涉及一個11歲的女學生薇拉·彼得羅娃。"
+  },
+  {
+    "index": 6,
+    "text": "who has normal vision but who can also perceive things",
+    "start": 36.007,
+    "end": 39.969,
+    "zh": "她视力正常，但也能感知事物。",
+    "zh_hant": "她視力正常，但也能感知事物。"
   },
   {
     "index": 7,
-    "text": "who has normal vision but who can also perceive things with different parts of her skin,",
-    "start": 36.007,
-    "end": 41.63,
-    "zh": "她视力正常，但也能通过身体不同部位的皮肤感知事物，",
-    "zh_hant": "她視力正常，但也能透過身體不同部位的皮膚感知事物，"
+    "text": "with different parts of her skin, and through solid walls.",
+    "start": 39.649,
+    "end": 44.032,
+    "zh": "通过她皮肤的不同部位，以及穿透实心墙。",
+    "zh_hant": "透過她皮膚的不同部位，以及穿透實心牆。"
   },
   {
     "index": 8,
-    "text": "and through solid walls.",
-    "start": 41.771,
-    "end": 44.032,
-    "zh": "甚至能看穿坚固的墙壁。",
-    "zh_hant": "甚至能看穿堅固的牆壁。"
-  },
-  {
-    "index": 9,
     "text": "This ability was first noticed by her father.",
     "start": 44.912,
     "end": 47.954,
-    "zh": "这种能力最初是她父亲注意到的。",
-    "zh_hant": "這種能力最初是她父親注意到的。"
+    "zh": "这种能力最早是她父亲注意到的。",
+    "zh_hant": "這種能力最早是她父親注意到的。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "One day she came into his office and happened to put her hands on the door of a locked safe.",
     "start": 49.154,
     "end": 55.237,
-    "zh": "一天，她走进父亲的办公室，碰巧把手放在一个锁着的保险柜门上。",
-    "zh_hant": "一天，她走進父親的辦公室，碰巧把手放在一個鎖著的保險櫃門上。"
+    "zh": "一天她走进他的办公室，碰巧把手放在一个上锁的保险柜门上。",
+    "zh_hant": "一天她走進他的辦公室，碰巧把手放在一個上鎖的保險櫃門上。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Suddenly she asked her father why he kept so many old newspapers locked away there,",
     "start": 55.778,
     "end": 61.68,
-    "zh": "她突然问父亲，为什么把那么多旧报纸锁在里面，",
-    "zh_hant": "她突然問父親，為什麼把那麼多舊報紙鎖在裡面，"
+    "zh": "突然她问父亲为什么把那么多旧报纸锁在那里。",
+    "zh_hant": "突然她問父親為什麼把那麼多舊報紙鎖在那裡。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "and even described the way they were done up in bundles.",
     "start": 61.821,
     "end": 65.702,
-    "zh": "甚至还能描述出它们捆扎起来的方式。",
-    "zh_hant": "甚至還能描述出它們捆紮起來的方式。"
+    "zh": "甚至描述了它们捆扎起来的样子。",
+    "zh_hant": "甚至描述了它們捆紮起來的樣子。"
+  },
+  {
+    "index": 12,
+    "text": "Vera's curious talent was brought to the notice of a scientific research institute",
+    "start": 66.723,
+    "end": 72.446,
+    "zh": "薇拉奇特的天赋引起了科研机构的注意。",
+    "zh_hant": "薇拉奇特的天賦引起了科研機構的注意。"
   },
   {
     "index": 13,
-    "text": "Vera's curious talent was brought to the notice",
-    "start": 66.723,
-    "end": 70.124,
-    "zh": "维拉奇特的天赋引起了注意，",
-    "zh_hant": "維拉奇特的天賦引起了注意，"
+    "text": "in the town of Ulyanovsk, near where she lives,",
+    "start": 72.386,
+    "end": 75.887,
+    "zh": "在她居住地附近的乌里扬诺夫斯克市。",
+    "zh_hant": "在她居住地附近的烏里揚諾夫斯克市。"
   },
   {
     "index": 14,
-    "text": "of a scientific research institute in the town of Ulyanovsk,",
-    "start": 69.865,
-    "end": 74.547,
-    "zh": "引起了乌里扬诺夫斯克市一个科研机构的注意，",
-    "zh_hant": "引起了烏里揚諾夫斯克市一個科研機構的注意，"
+    "text": "and in April she was given a series of tests by a special commission",
+    "start": 76.308,
+    "end": 80.76,
+    "zh": "四月她接受了一个特别委员会的系列测试。",
+    "zh_hant": "四月她接受了一個特別委員會的系列測試。"
   },
   {
     "index": 15,
-    "text": "near where she lives, and in April she was given a series of tests",
-    "start": 74.427,
-    "end": 79.549,
-    "zh": "该市就在她居住的地方附近，四月份她接受了一系列测试，",
-    "zh_hant": "該市就在她居住的地方附近，四月份她接受了一系列測試，"
+    "text": "of the Ministry of Health of the Russian Federal Republic.",
+    "start": 80.36,
+    "end": 84.432,
+    "zh": "该委员会来自俄罗斯联邦共和国卫生部。",
+    "zh_hant": "該委員會來自俄羅斯聯邦共和國衛生部。"
   },
   {
     "index": 16,
-    "text": "by a special commission of the Ministry of Health of the Russian Federal Republic.",
-    "start": 79.389,
-    "end": 84.432,
-    "zh": "测试由俄罗斯联邦共和国卫生部的一个特别委员会进行。",
-    "zh_hant": "測試由俄羅斯聯邦共和國衛生部的一個特別委員會進行。"
+    "text": "During these tests she was able to read a newspaper through an opaque screen and, stranger still,",
+    "start": 85.373,
+    "end": 92.536,
+    "zh": "在这些测试中，她能透过不透明屏幕读报纸，更奇怪的是。",
+    "zh_hant": "在這些測試中，她能透過不透明螢幕讀報紙，更奇怪的是。"
   },
   {
     "index": 17,
-    "text": "During these tests she was able to read a newspaper through an opaque screen",
-    "start": 85.373,
-    "end": 90.575,
-    "zh": "在这些测试中，她能透过不透明的屏幕阅读报纸，",
-    "zh_hant": "在這些測試中，她能透過不透明的螢幕閱讀報紙，"
+    "text": "by moving her elbow over a child's game of Lotto",
+    "start": 92.636,
+    "end": 96.398,
+    "zh": "通过用手肘在儿童乐透游戏上移动。",
+    "zh_hant": "透過用手肘在兒童樂透遊戲上移動。"
   },
   {
     "index": 18,
-    "text": "and, stranger still, by moving her elbow over a child's game of Lotto",
-    "start": 90.655,
-    "end": 96.398,
-    "zh": "更奇怪的是，她用手肘在儿童乐透游戏上移动，",
-    "zh_hant": "更奇怪的是，她用手肘在兒童樂透遊戲上移動，"
-  },
-  {
-    "index": 19,
     "text": "she was able to describe the figures and colours printed on it;",
     "start": 96.758,
     "end": 100.96,
-    "zh": "就能描述出印在上面的数字和颜色；",
-    "zh_hant": "就能描述出印在上面的數字和顏色；"
+    "zh": "她能描述印在上面的图形和颜色。",
+    "zh_hant": "她能描述印在上面的圖形和顏色。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "and, in another instance, wearing stockings and slippers,",
     "start": 101.541,
     "end": 105.743,
-    "zh": "还有一次，她穿着袜子和拖鞋，",
-    "zh_hant": "還有一次，她穿著襪子和拖鞋，"
+    "zh": "另外一次，穿着袜子和拖鞋。",
+    "zh_hant": "另外一次，穿著襪子和拖鞋。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "to make out with her foot the outlines and colours of a picture hidden under a carpet.",
     "start": 105.803,
     "end": 112.226,
-    "zh": "用脚辨认出藏在地毯下的一幅画的轮廓和颜色。",
-    "zh_hant": "用腳辨認出藏在地毯下的一幅畫的輪廓和顏色。"
+    "zh": "用脚辨认出藏在地毯下图片的轮廓和颜色。",
+    "zh_hant": "用腳辨認出藏在地毯下圖片的輪廓和顏色。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Other experiments showed that her knees and shoulders had a similar sensitivity.",
     "start": 113.066,
     "end": 118.469,
-    "zh": "其他实验表明，她的膝盖和肩膀也有类似的敏感性。",
-    "zh_hant": "其他實驗表明，她的膝蓋和肩膀也有類似的敏感性。"
+    "zh": "其他实验表明她的膝盖和肩膀也有类似的敏感度。",
+    "zh_hant": "其他實驗表明她的膝蓋和肩膀也有類似的敏感度。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "During all these tests Vera was blindfold;",
     "start": 119.229,
     "end": 123.113,
-    "zh": "在所有这些测试中，维拉都被蒙住眼睛；",
-    "zh_hant": "在所有這些測試中，維拉都被矇住眼睛；"
+    "zh": "在所有测试中薇拉都被蒙住眼睛。",
+    "zh_hant": "在所有測試中薇拉都被矇住眼睛。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "and indeed, except when blindfold she lacked the ability to perceive things with her skin.",
     "start": 123.254,
     "end": 129.44,
-    "zh": "事实上，除了被蒙住眼睛的时候，她无法用皮肤感知事物。",
-    "zh_hant": "事實上，除了被矇住眼睛的時候，她無法用皮膚感知事物。"
+    "zh": "事实上，除了被蒙眼时，她缺乏用皮肤感知事物的能力。",
+    "zh_hant": "事實上，除了被矇眼時，她缺乏用皮膚感知事物的能力。"
+  },
+  {
+    "index": 24,
+    "text": "It was also found that although she could perceive things with her fingers",
+    "start": 130.161,
+    "end": 134.985,
+    "zh": "还发现虽然她能用手指感知事物。",
+    "zh_hant": "還發現雖然她能用手指感知事物。"
   },
   {
     "index": 25,
-    "text": "It was also found that although she could perceive things",
-    "start": 130.161,
-    "end": 133.864,
-    "zh": "人们还发现，虽然她能用手指感知事物，",
-    "zh_hant": "人們還發現，雖然她能用手指感知事物，"
-  },
-  {
-    "index": 26,
-    "text": "with her fingers this ability ceased the moment her hands were wet.",
-    "start": 133.624,
+    "text": "this ability ceased the moment her hands were wet.",
+    "start": 135.166,
     "end": 139.35,
     "zh": "但她的手一湿，这种能力就立刻消失了。",
     "zh_hant": "但她的手一溼，這種能力就立刻消失了。"

@@ -4,80 +4,80 @@
     "text": "Pints of beer have got more expensive.",
     "start": 0.73,
     "end": 3.351,
-    "zh": "一品脱啤酒的价格变得更贵了。",
-    "zh_hant": "一品脫啤酒的價格變得更貴了。"
+    "zh": "一品脱啤酒变得更贵了。",
+    "zh_hant": "一品脫啤酒變得更貴了。"
   },
   {
     "index": 1,
     "text": "It's quite extortionate.",
     "start": 3.172,
     "end": 5.452,
-    "zh": "这相当离谱。",
-    "zh_hant": "這相當離譜。"
+    "zh": "价格相当离谱。",
+    "zh_hant": "價格相當離譜。"
   },
   {
     "index": 2,
     "text": "It has gone very high.",
     "start": 5.102,
     "end": 6.713,
-    "zh": "价格涨得很高。",
-    "zh_hant": "價格漲得很高。"
+    "zh": "涨得很高。",
+    "zh_hant": "漲得很高。"
   },
   {
     "index": 3,
     "text": "It's not ideal.",
     "start": 6.453,
     "end": 7.594,
-    "zh": "这不理想。",
-    "zh_hant": "這不理想。"
+    "zh": "这不太理想。",
+    "zh_hant": "這不太理想。"
   },
   {
     "index": 4,
     "text": "Do some of your customers sometimes complain about the price of a pint?",
     "start": 7.334,
     "end": 10.495,
-    "zh": "你的一些顾客有时会抱怨一品脱啤酒的价格吗？",
-    "zh_hant": "你的一些顧客有時會抱怨一品脫啤酒的價格嗎？"
+    "zh": "你的一些顾客有时会抱怨一品脱的价格吗？",
+    "zh_hant": "你的一些顧客有時會抱怨一品脫的價格嗎？"
   },
   {
     "index": 5,
     "text": "The price of a pint has gone up and up and up.",
     "start": 12.036,
     "end": 14.917,
-    "zh": "一品脱啤酒的价格一直在涨，涨了又涨。",
-    "zh_hant": "一品脫啤酒的價格一直在漲，漲了又漲。"
+    "zh": "一品脱的价格一直在涨，涨了又涨。",
+    "zh_hant": "一品脫的價格一直在漲，漲了又漲。"
   },
   {
     "index": 6,
     "text": "And by my count, there are at least four main reasons why.",
     "start": 14.977,
     "end": 18.479,
-    "zh": "据我统计，至少四个主要原因。",
-    "zh_hant": "據我統計，至少四個主要原因。"
+    "zh": "据我统计，至少有四个主要原因。",
+    "zh_hant": "據我統計，至少有四個主要原因。"
   },
   {
     "index": 7,
     "text": "Last year in the UK, we bought 3.1 billion pints.",
     "start": 18.519,
     "end": 22.401,
-    "zh": "去年在英国，我们买了31亿品脱啤酒。",
-    "zh_hant": "去年在英國，我們買了31億品脫啤酒。"
+    "zh": "去年在英国，我们买了31亿品脱。",
+    "zh_hant": "去年在英國，我們買了31億品脫。"
   },
   {
     "index": 8,
     "text": "And that's about more than just getting a drink.",
     "start": 22.241,
     "end": 24.662,
-    "zh": "这不仅仅是喝一杯那么简单。",
-    "zh_hant": "這不僅僅是喝一杯那麼簡單。"
+    "zh": "这不仅仅是喝一杯饮料那么简单。",
+    "zh_hant": "這不僅僅是喝一杯飲料那麼簡單。"
   },
   {
     "index": 9,
     "text": "It's a community.",
     "start": 24.602,
     "end": 25.723,
-    "zh": "它是一种社区。",
-    "zh_hant": "它是一種社群。"
+    "zh": "这是一种社区感。",
+    "zh_hant": "這是一種社群感。"
   },
   {
     "index": 10,
@@ -92,88 +92,88 @@
     "text": "In the summer, we drink a lot of pints.",
     "start": 28.634,
     "end": 31.085,
-    "zh": "夏天，我们喝很多品脱啤酒。",
-    "zh_hant": "夏天，我們喝很多品脫啤酒。"
+    "zh": "夏天我们喝很多品脱。",
+    "zh_hant": "夏天我們喝很多品脫。"
   },
   {
     "index": 12,
     "text": "Not as much as at Christmas, but still a lot.",
     "start": 31.185,
     "end": 34.267,
-    "zh": "没有圣诞节那么多，但仍然很多。",
-    "zh_hant": "沒有聖誕節那麼多，但仍然很多。"
+    "zh": "虽然不如圣诞节多，但仍然很多。",
+    "zh_hant": "雖然不如聖誕節多，但仍然很多。"
   },
   {
     "index": 13,
     "text": "And this summer, we're buying even more beer because of the World Cup.",
     "start": 34.067,
     "end": 38.029,
-    "zh": "而今年夏天，因为世界杯，我们购买更多啤酒。",
-    "zh_hant": "而今年夏天，因為世界盃，我們購買更多啤酒。"
+    "zh": "今年夏天，因为世界杯，我们买更多啤酒。",
+    "zh_hant": "今年夏天，因為世界盃，我們買更多啤酒。"
   },
   {
     "index": 14,
     "text": "But the pints that we're buying when we watch the games are costing more than ever before.",
     "start": 38.129,
     "end": 42.571,
-    "zh": "但看比赛时买的一品脱啤酒比以往任何时候都贵。",
-    "zh_hant": "但看比賽時買的一品脫啤酒比以往任何時候都貴。"
+    "zh": "但我们看比赛时买的品脱比以往任何时候都贵。",
+    "zh_hant": "但我們看比賽時買的品脫比以往任何時候都貴。"
   },
   {
     "index": 15,
     "text": "For example, in 1990, the average price of a pint of lager was £1.22.",
     "start": 42.531,
     "end": 48.104,
-    "zh": "例如，1990年，一品脱拉格啤酒的平均价格是1.22英镑。",
-    "zh_hant": "例如，1990年，一品脫拉格啤酒的平均價格是1.22英鎊。"
+    "zh": "例如，1990年一品脱拉格啤酒的平均价格是1.22英镑。",
+    "zh_hant": "例如，1990年一品脫拉格啤酒的平均價格是1.22英鎊。"
   },
   {
     "index": 16,
     "text": "In 2000, it was £2.",
     "start": 48.154,
     "end": 49.95,
-    "zh": "2000年，是2英镑。",
-    "zh_hant": "2000年，是2英鎊。"
+    "zh": "2000年是2英镑。",
+    "zh_hant": "2000年是2英鎊。"
   },
   {
     "index": 17,
     "text": "In 2010, £2.96.",
     "start": 49.795,
     "end": 50.845,
-    "zh": "2010年，是2.96英镑。",
-    "zh_hant": "2010年，是2.96英鎊。"
+    "zh": "2010年是2.96英镑。",
+    "zh_hant": "2010年是2.96英鎊。"
   },
   {
     "index": 18,
     "text": "In 2020, £3.79.",
     "start": 50.445,
     "end": 55.868,
-    "zh": "2020年，是3.79英镑。",
-    "zh_hant": "2020年，是3.79英鎊。"
+    "zh": "2020年是3.79英镑。",
+    "zh_hant": "2020年是3.79英鎊。"
   },
   {
     "index": 19,
     "text": "And in early 2025, it was £4.83.",
     "start": 55.918,
     "end": 60.15,
-    "zh": "2025年初，是4.83英镑。",
-    "zh_hant": "2025年初，是4.83英鎊。"
+    "zh": "2025年初是4.83英镑。",
+    "zh_hant": "2025年初是4.83英鎊。"
   },
   {
     "index": 20,
     "text": "The price hasn't just gone up.",
     "start": 60.2,
     "end": 61.801,
-    "zh": "价格不只是涨了。",
-    "zh_hant": "價格不只是漲了。"
+    "zh": "价格不仅仅是上涨了。",
+    "zh_hant": "價格不僅僅是上漲了。"
   },
   {
     "index": 21,
     "text": "In recent years, the rate at which it's going up has increased.",
     "start": 61.721,
     "end": 65.543,
-    "zh": "近年来，涨速加快了。",
-    "zh_hant": "近年來，漲速加快了。"
+    "zh": "近年来，上涨的速度也加快了。",
+    "zh_hant": "近年來，上漲的速度也加快了。"
   },
   {
     "index": 22,
@@ -188,72 +188,72 @@
     "text": "We're going to use its data to help us explain this story.",
     "start": 68.424,
     "end": 71.465,
-    "zh": "我们将使用它的数据来帮助解释这个新闻。",
-    "zh_hant": "我們將使用它的資料來幫助解釋這個新聞。"
+    "zh": "我们将使用它的数据来帮助我们解释这件事。",
+    "zh_hant": "我們將使用它的資料來幫助我們解釋這件事。"
   },
   {
     "index": 24,
-    "text": "It's looked across a range of beers and estimates",
+    "text": "It's looked across a range of beers and estimates that the average price of a pint has,",
     "start": 71.606,
-    "end": 74.547,
-    "zh": "它考察了一系列啤酒并估计",
-    "zh_hant": "它考察了一系列啤酒並估計"
+    "end": 76.648,
+    "zh": "它考察了一系列啤酒，估计一品脱的平均价格已经，",
+    "zh_hant": "它考察了一系列啤酒，估計一品脫的平均價格已經，"
   },
   {
     "index": 25,
-    "text": "that the average price of a pint has, for the first time, gone over a fiver.",
-    "start": 74.197,
+    "text": "for the first time, gone over a fiver.",
+    "start": 76.408,
     "end": 79.469,
-    "zh": "一品脱啤酒的平均价格首次超过5英镑。",
-    "zh_hant": "一品脫啤酒的平均價格首次超過5英鎊。"
+    "zh": "首次超过了五英镑。",
+    "zh_hant": "首次超過了五英鎊。"
   },
   {
     "index": 26,
     "text": "So what's going on?",
     "start": 80.11,
     "end": 81.091,
-    "zh": "那到底发生了什么？",
-    "zh_hant": "那到底發生了什麼？"
+    "zh": "那么这是怎么回事？",
+    "zh_hant": "那麼這是怎麼回事？"
   },
   {
     "index": 27,
     "text": "What goes into the price of a pint, and why is it going up?",
     "start": 80.871,
     "end": 84.492,
-    "zh": "一品脱啤酒的价格由什么构成，又为什么在上涨？",
-    "zh_hant": "一品脫啤酒的價格由什麼構成，又為什麼在上漲？"
+    "zh": "一品脱的价格由什么构成，为什么在上涨？",
+    "zh_hant": "一品脫的價格由什麼構成，為什麼在上漲？"
   },
   {
     "index": 28,
     "text": "Well, it seems only right that I should use one of these to explain what's happening to the price of a pint.",
     "start": 84.493,
     "end": 90.155,
-    "zh": "好吧，我觉得用这个来解释一品脱啤酒价格的变化很合适。",
-    "zh_hant": "好吧，我覺得用這個來解釋一品脫啤酒價格的變化很合適。"
+    "zh": "好吧，似乎我应该用这个来解释一品脱价格的变化。",
+    "zh_hant": "好吧，似乎我應該用這個來解釋一品脫價格的變化。"
   },
   {
     "index": 29,
     "text": "But to offer you a little more precision than beer in a glass can offer, I'll also be using this graphic.",
     "start": 90.135,
     "end": 95.798,
-    "zh": "但为了比杯装啤酒提供更精确的信息，我还会用这个图表。",
-    "zh_hant": "但為了比杯裝啤酒提供更精確的資訊，我還會用這個圖表。"
+    "zh": "但为了比杯中的啤酒提供更精确的信息，我还会用这个图表。",
+    "zh_hant": "但為了比杯中的啤酒提供更精確的資訊，我還會用這個圖表。"
   },
   {
     "index": 30,
     "text": "I want to start.",
     "start": 95.698,
     "end": 96.878,
-    "zh": "我想开始。",
-    "zh_hant": "我想開始。"
+    "zh": "我想从",
+    "zh_hant": "我想從"
   },
   {
     "index": 31,
     "text": "With the cost of making the beer and getting it to a pub.",
     "start": 96.538,
     "end": 100.52,
-    "zh": "从啤酒的生产成本以及运到酒吧的成本说起。",
-    "zh_hant": "從啤酒的生產成本以及運到酒吧的成本說起。"
+    "zh": "酿造啤酒并将其送到酒吧的成本开始。",
+    "zh_hant": "釀造啤酒並將其送到酒吧的成本開始。"
   },
   {
     "index": 32,
@@ -268,8 +268,8 @@
     "text": "For example, barley.",
     "start": 102.982,
     "end": 104.402,
-    "zh": "比如大麦。",
-    "zh_hant": "比如大麥。"
+    "zh": "例如大麦。",
+    "zh_hant": "例如大麥。"
   },
   {
     "index": 34,
@@ -284,16 +284,16 @@
     "text": "And in recent years, the price has gone up.",
     "start": 109.685,
     "end": 112.346,
-    "zh": "而近年来，价格一直在上涨。",
-    "zh_hant": "而近年來，價格一直在上漲。"
+    "zh": "近年来价格已经上涨。",
+    "zh_hant": "近年來價格已經上漲。"
   },
   {
     "index": 36,
     "text": "In the early 2020s, the pandemic affected supply chain costs and the war in Ukraine affected grain prices.",
     "start": 112.626,
     "end": 119.109,
-    "zh": "2020年代初，疫情影响了供应链成本，乌克兰战争影响了谷物价格。",
-    "zh_hant": "2020年代初，疫情影響了供應鏈成本，烏克蘭戰爭影響了穀物價格。"
+    "zh": "2020年代初期，疫情影响了供应链成本，乌克兰战争影响了谷物价格。",
+    "zh_hant": "2020年代初期，疫情影響了供應鏈成本，烏克蘭戰爭影響了穀物價格。"
   },
   {
     "index": 37,
@@ -308,8 +308,8 @@
     "text": "And other ingredients like hops are an issue too.",
     "start": 122.892,
     "end": 126.493,
-    "zh": "其他原料如啤酒花也是个问题。",
-    "zh_hant": "其他原料如啤酒花也是個問題。"
+    "zh": "其他原料如啤酒花也是问题。",
+    "zh_hant": "其他原料如啤酒花也是問題。"
   },
   {
     "index": 39,
@@ -332,75 +332,67 @@
     "text": "Breweries use it to heat, boil, and cool beer, and store it, and transport it.",
     "start": 130.776,
     "end": 136.238,
-    "zh": "酿酒厂用它来加热、煮沸、冷却啤酒，以及储存和运输。",
-    "zh_hant": "釀酒廠用它來加熱、煮沸、冷卻啤酒，以及儲存和運輸。"
+    "zh": "酿酒厂用它来加热、煮沸、冷却啤酒，储存和运输。",
+    "zh_hant": "釀酒廠用它來加熱、煮沸、冷卻啤酒，儲存和運輸。"
   },
   {
     "index": 42,
     "text": "All of that requires energy, and that's been costing more again.",
     "start": 135.978,
     "end": 140.14,
-    "zh": "所有这些都需要能源，而这又增加了成本。",
-    "zh_hant": "所有這些都需要能源，而這又增加了成本。"
+    "zh": "所有这些都需要能源，而这些成本又增加了。",
+    "zh_hant": "所有這些都需要能源，而這些成本又增加了。"
   },
   {
     "index": 43,
     "text": "Ukraine's played a part, so is the war with Iran.",
     "start": 139.86,
     "end": 142.761,
-    "zh": "乌克兰是一个因素，与伊朗的战争也是如此。",
-    "zh_hant": "烏克蘭是一個因素，與伊朗的戰爭也是如此。"
+    "zh": "乌克兰起了一定作用，与伊朗的战争也是如此。",
+    "zh_hant": "烏克蘭起了一定作用，與伊朗的戰爭也是如此。"
   },
   {
     "index": 44,
     "text": "But hold on, since the first year of the war in Ukraine,",
     "start": 142.581,
     "end": 146.423,
-    "zh": "但等等，自乌克兰战争第一年以来，",
-    "zh_hant": "但等等，自烏克蘭戰爭第一年以來，"
+    "zh": "但等等，自从乌克兰战争的第一年以来，",
+    "zh_hant": "但等等，自從烏克蘭戰爭的第一年以來，"
   },
   {
     "index": 45,
     "text": "some costs that had increased have since reduced.",
     "start": 146.073,
     "end": 149.825,
-    "zh": "一些曾上涨的成本已经回落。",
-    "zh_hant": "一些曾上漲的成本已經回落。"
+    "zh": "一些曾经上涨的成本已经下降。",
+    "zh_hant": "一些曾經上漲的成本已經下降。"
   },
   {
     "index": 46,
     "text": "But the price of beer keeps going up.",
     "start": 149.475,
     "end": 152.446,
-    "zh": "但啤酒的价格持续上涨。",
-    "zh_hant": "但啤酒的價格持續上漲。"
+    "zh": "但啤酒价格持续上涨。",
+    "zh_hant": "但啤酒價格持續上漲。"
   },
   {
     "index": 47,
-    "text": "Of course, since the peak of those increases we saw in 2023, 2024 have come down",
+    "text": "Of course, since the peak of those increases we saw in 2023, 2024 have come down a little.",
     "start": 152.486,
-    "end": 158.869,
-    "zh": "当然，相对于我们在2023年看到的峰值增长，2024年的成本已经下降",
-    "zh_hant": "當然，相對於我們在2023年看到的峰值增長，2024年的成本已經下降"
+    "end": 159.289,
+    "zh": "当然，自2023年我们看到的那些涨幅峰值以来，2024年有所下降。",
+    "zh_hant": "當然，自2023年我們看到的那些漲幅峰值以來，2024年有所下降。"
   },
   {
     "index": 48,
-    "text": "a little.",
-    "start": 158.519,
-    "end": 159.289,
-    "zh": "一点。",
-    "zh_hant": "一點。"
-  },
-  {
-    "index": 49,
     "text": "But energy costs in the sector are still 86% higher than they were pre-pandemic.",
     "start": 158.939,
     "end": 165.013,
-    "zh": "但该行业的能源成本仍比疫情前高86%。",
-    "zh_hant": "但該行業的能源成本仍比疫情前高86%。"
+    "zh": "但该行业的能源成本仍比疫情前高出86%。",
+    "zh_hant": "但該行業的能源成本仍比疫情前高出86%。"
   },
   {
-    "index": 50,
+    "index": 49,
     "text": "OK, we've looked at ingredients and energy.",
     "start": 164.993,
     "end": 167.694,
@@ -408,23 +400,23 @@
     "zh_hant": "好，我們已經看了原料和能源。"
   },
   {
-    "index": 51,
+    "index": 50,
     "text": "Staffing is also costing more, not least because of national insurance.",
     "start": 167.934,
     "end": 172.876,
-    "zh": "人力成本也在增加，尤其是因为国民保险。",
-    "zh_hant": "人力成本也在增加，尤其是因為國民保險。"
+    "zh": "人员成本也在增加，尤其是因为国民保险。",
+    "zh_hant": "人員成本也在增加，尤其是因為國民保險。"
   },
   {
-    "index": 52,
+    "index": 51,
     "text": "This is a tax that employers pay on top of staff wages.",
     "start": 172.797,
     "end": 176.558,
-    "zh": "这是雇主在员工工资之上支付的一种税。",
-    "zh_hant": "這是僱主在員工工資之上支付的一種稅。"
+    "zh": "这是雇主在员工工资之外缴纳的税。",
+    "zh_hant": "這是僱主在員工工資之外繳納的稅。"
   },
   {
-    "index": 53,
+    "index": 52,
     "text": "In 2024, the Labour government raised it to, it said,",
     "start": 176.719,
     "end": 180.66,
@@ -432,7 +424,7 @@
     "zh_hant": "2024年，工黨政府提高了它，據稱是為了"
   },
   {
-    "index": 54,
+    "index": 53,
     "text": "fund public services and restore economic stability.",
     "start": 180.46,
     "end": 183.822,
@@ -440,63 +432,63 @@
     "zh_hant": "資助公共服務並恢復經濟穩定。"
   },
   {
-    "index": 55,
+    "index": 54,
     "text": "The trade body for the UK hospitality industry called this devastating.",
     "start": 184.162,
     "end": 188.604,
-    "zh": "英国酒店业的行业组织称这是毁灭性的。",
-    "zh_hant": "英國酒店業的行業組織稱這是毀滅性的。"
+    "zh": "英国酒店业的行业机构称这具有毁灭性。",
+    "zh_hant": "英國酒店業的行業機構稱這具有毀滅性。"
   },
   {
-    "index": 56,
+    "index": 55,
     "text": "Whatever the arguments, this and other factors have made staffing more expensive.",
     "start": 188.764,
     "end": 194.247,
-    "zh": "无论争论如何，这个和其他因素使人力更昂贵。",
-    "zh_hant": "無論爭論如何，這個和其他因素使人力更昂貴。"
+    "zh": "无论争论如何，这个和其他因素使人员成本更高。",
+    "zh_hant": "無論爭論如何，這個和其他因素使人員成本更高。"
   },
   {
-    "index": 57,
+    "index": 56,
     "text": "And if we put all the brewery's costs together, including making and transporting the beer,",
     "start": 194.267,
     "end": 199.149,
-    "zh": "如果我们将酿酒厂的所有成本加在一起，包括生产和运输啤酒，",
-    "zh_hant": "如果我們將釀酒廠的所有成本加在一起，包括生產和運輸啤酒，"
+    "zh": "如果我们将酿酒厂的所有成本加在一起，包括酿造和运输啤酒，",
+    "zh_hant": "如果我們將釀酒廠的所有成本加在一起，包括釀造和運輸啤酒，"
   },
   {
-    "index": 58,
+    "index": 57,
     "text": "this accounts for over 25% of the price of a pint.",
     "start": 199.029,
     "end": 202.772,
-    "zh": "这占一品脱啤酒价格的25%以上。",
-    "zh_hant": "這佔一品脫啤酒價格的25%以上。"
+    "zh": "这占一品脱价格的超过25%。",
+    "zh_hant": "這佔一品脫價格的超過25%。"
   },
   {
-    "index": 59,
+    "index": 58,
     "text": "Something like this.",
     "start": 202.932,
     "end": 204.913,
-    "zh": "大约是这样。",
-    "zh_hant": "大約是這樣。"
+    "zh": "大约是这样的。",
+    "zh_hant": "大約是這樣的。"
   },
   {
-    "index": 60,
+    "index": 59,
     "text": "The next thing we have to factor in is taxes.",
     "start": 204.833,
     "end": 207.854,
-    "zh": "接下来我们必须考虑的是税收。",
-    "zh_hant": "接下來我們必須考慮的是稅收。"
+    "zh": "我们必须考虑的下一件事是税收。",
+    "zh_hant": "我們必須考慮的下一件事是稅收。"
   },
   {
-    "index": 61,
+    "index": 60,
     "text": "Did you know that the UK has some of the highest tax on beer in the world?",
     "start": 207.734,
     "end": 212.596,
-    "zh": "你知道吗，英国是世界上啤酒税最高的国家之一？",
-    "zh_hant": "你知道嗎，英國是世界上啤酒稅最高的國家之一？"
+    "zh": "你知道吗，英国是世界上啤酒税最高的国家之一。",
+    "zh_hant": "你知道嗎，英國是世界上啤酒稅最高的國家之一。"
   },
   {
-    "index": 62,
+    "index": 61,
     "text": "In Germany, it works out to 4p a pint.",
     "start": 212.597,
     "end": 216.038,
@@ -504,95 +496,95 @@
     "zh_hant": "在德國，每品脫約4便士。"
   },
   {
-    "index": 63,
+    "index": 62,
     "text": "In France, it's 17p.",
     "start": 216.278,
     "end": 218.299,
-    "zh": "在法国，是17便士。",
-    "zh_hant": "在法國，是17便士。"
+    "zh": "在法国是17便士。",
+    "zh_hant": "在法國是17便士。"
   },
   {
-    "index": 64,
+    "index": 63,
     "text": "In Greece, 26p.",
     "start": 218.379,
     "end": 220.22,
-    "zh": "在希腊，是26便士。",
-    "zh_hant": "在希臘，是26便士。"
+    "zh": "在希腊是26便士。",
+    "zh_hant": "在希臘是26便士。"
   },
   {
-    "index": 65,
+    "index": 64,
     "text": "In the UK, it's 48p.",
     "start": 220.5,
     "end": 223.302,
-    "zh": "在英国，是48便士。",
-    "zh_hant": "在英國，是48便士。"
+    "zh": "在英国是48便士。",
+    "zh_hant": "在英國是48便士。"
   },
   {
-    "index": 66,
+    "index": 65,
     "text": "This tax on beer is known as duty, and the whole area of duty on alcohol is pretty complicated.",
     "start": 223.662,
     "end": 229.965,
-    "zh": "这种啤酒税被称为消费税，酒精消费税整个领域相当复杂。",
-    "zh_hant": "這種啤酒稅被稱為消費稅，酒精消費稅整個領域相當複雜。"
+    "zh": "这种啤酒税称为消费税，酒精消费税的整个领域相当复杂。",
+    "zh_hant": "這種啤酒稅稱為消費稅，酒精消費稅的整個領域相當複雜。"
   },
   {
-    "index": 67,
+    "index": 66,
     "text": "But suffice to say, for a good while, duty on draft beer stayed the same.",
     "start": 229.615,
     "end": 235.047,
-    "zh": "不过可以说，很长一段时间，生啤的消费税保持不变。",
-    "zh_hant": "不過可以說，很長一段時間，生啤的消費稅保持不變。"
+    "zh": "但可以说，相当长一段时间内，生啤的消费税保持不变。",
+    "zh_hant": "但可以說，相當長一段時間內，生啤的消費稅保持不變。"
   },
   {
-    "index": 68,
+    "index": 67,
     "text": "But recently, it's started to rise.",
     "start": 235.148,
     "end": 237.769,
-    "zh": "但最近，它开始上升。",
-    "zh_hant": "但最近，它開始上升。"
+    "zh": "但最近开始上升。",
+    "zh_hant": "但最近開始上升。"
   },
   {
-    "index": 69,
+    "index": 68,
     "text": "Let's add duty into the total.",
     "start": 238.169,
     "end": 240.27,
-    "zh": "让我们把消费税加进总数。",
-    "zh_hant": "讓我們把消費稅加進總數。"
+    "zh": "让我们把消费税加入总额中。",
+    "zh_hant": "讓我們把消費稅加入總額中。"
   },
   {
-    "index": 70,
+    "index": 69,
     "text": "At the moment, when you're getting a beer, it makes up 9.6% of the price.",
     "start": 240.331,
     "end": 245.333,
-    "zh": "目前，买啤酒时，它占价格的9.6%。",
-    "zh_hant": "目前，買啤酒時，它佔價格的9.6%。"
+    "zh": "目前，当你买啤酒时，它占价格的9.6%。",
+    "zh_hant": "目前，當你買啤酒時，它佔價格的9.6%。"
   },
   {
-    "index": 71,
+    "index": 70,
     "text": "Put with the brewery's cost, that gets us this far.",
     "start": 245.453,
     "end": 248.914,
-    "zh": "加上酿酒厂的成本，我们就到了这里。",
-    "zh_hant": "加上釀酒廠的成本，我們就到了這裡。"
+    "zh": "加上酿酒厂的成本，我们到了这个程度。",
+    "zh_hant": "加上釀酒廠的成本，我們到了這個程度。"
   },
   {
-    "index": 72,
+    "index": 71,
     "text": "But that's not the end of the taxes.",
     "start": 248.615,
     "end": 250.955,
-    "zh": "但这还不是税收的尽头。",
-    "zh_hant": "但這還不是稅收的盡頭。"
+    "zh": "但这还不是税收的结束。",
+    "zh_hant": "但這還不是稅收的結束。"
   },
   {
-    "index": 73,
+    "index": 72,
     "text": "There's also VAT, value added tax.",
     "start": 251.176,
     "end": 254.377,
-    "zh": "还有增值税。",
-    "zh_hant": "還有增值稅。"
+    "zh": "还有增值税，即增值税。",
+    "zh_hant": "還有增值稅，即增值稅。"
   },
   {
-    "index": 74,
+    "index": 73,
     "text": "We pay this when we buy goods and services.",
     "start": 254.497,
     "end": 257.139,
@@ -600,167 +592,167 @@
     "zh_hant": "我們購買商品和服務時支付這個。"
   },
   {
-    "index": 75,
+    "index": 74,
     "text": "It's 20% of the price added on top.",
     "start": 256.819,
     "end": 260.34,
-    "zh": "它是价格的20%附加在上面。",
-    "zh_hant": "它是價格的20%附加在上面。"
+    "zh": "这是在价格基础上额外增加的20%。",
+    "zh_hant": "這是在價格基礎上額外增加的20%。"
   },
   {
-    "index": 76,
+    "index": 75,
     "text": "It's been at that level since 2011.",
     "start": 260.38,
     "end": 262.892,
-    "zh": "自2011年以来一直在这个水平。",
-    "zh_hant": "自2011年以來一直在這個水平。"
+    "zh": "自2011年以来一直保持这个水平。",
+    "zh_hant": "自2011年以來一直保持這個水平。"
   },
   {
-    "index": 77,
+    "index": 76,
     "text": "And we pay it on beer.",
     "start": 262.942,
     "end": 264.362,
-    "zh": "我们买啤酒时支付它。",
-    "zh_hant": "我們買啤酒時支付它。"
+    "zh": "我们买啤酒也要支付它。",
+    "zh_hant": "我們買啤酒也要支付它。"
   },
   {
-    "index": 78,
+    "index": 77,
     "text": "So there's VAT as part of the overall cost of the pint.",
     "start": 264.222,
     "end": 267.784,
-    "zh": "所以增值税是一品脱啤酒总成本的一部分。",
-    "zh_hant": "所以增值稅是一品脫啤酒總成本的一部分。"
+    "zh": "所以增值税是品脱总成本的一部分。",
+    "zh_hant": "所以增值稅是品脫總成本的一部分。"
   },
   {
-    "index": 79,
+    "index": 78,
     "text": "And there's more taxes, that is.",
     "start": 268.004,
     "end": 271.145,
-    "zh": "还有更多税，确实。",
-    "zh_hant": "還有更多稅，確實。"
+    "zh": "还有更多税收，就是这样。",
+    "zh_hant": "還有更多稅收，就是這樣。"
   },
   {
-    "index": 80,
+    "index": 79,
     "text": "Business rates are a tax that pubs pay to their local council.",
     "start": 271.186,
     "end": 275.147,
-    "zh": "营业房产税是酒吧向当地议会支付的税。",
-    "zh_hant": "營業房產稅是酒吧向當地議會支付的稅。"
+    "zh": "商业税是酒吧向当地议会缴纳的税。",
+    "zh_hant": "商業稅是酒吧向當地議會繳納的稅。"
   },
   {
-    "index": 81,
+    "index": 80,
     "text": "The rates connect to the value of the buildings in which pubs operate.",
     "start": 275.028,
     "end": 279.309,
-    "zh": "税率与酒吧经营所在建筑的价值相关。",
-    "zh_hant": "稅率與酒吧經營所在建築的價值相關。"
+    "zh": "税率与酒吧运营所在建筑的价值相关。",
+    "zh_hant": "稅率與酒吧運營所在建築的價值相關。"
   },
   {
-    "index": 82,
+    "index": 81,
     "text": "The amount paid is linked to what a property could rent for.",
     "start": 279.19,
     "end": 283.012,
-    "zh": "支付金额与房产可能出租的价格挂钩。",
-    "zh_hant": "支付金額與房產可能出租的價格掛鉤。"
+    "zh": "支付金额与物业可能的租金相关联。",
+    "zh_hant": "支付金額與物業可能的租金相關聯。"
   },
   {
-    "index": 83,
+    "index": 82,
     "text": "And in England, for example, the figures used to calculate pubs' business rates are on course to rise,",
     "start": 282.732,
     "end": 289.095,
-    "zh": "例如在英格兰，用于计算酒吧营业房产税的数值预计将上涨，",
-    "zh_hant": "例如在英格蘭，用於計算酒吧營業房產稅的數值預計將上漲，"
+    "zh": "例如在英格兰，用于计算酒吧商业税的数值预计将上升，",
+    "zh_hant": "例如在英格蘭，用於計算酒吧商業稅的數值預計將上升，"
   },
   {
-    "index": 84,
+    "index": 83,
     "text": "on average, by around 30% this year.",
     "start": 288.775,
     "end": 292.396,
-    "zh": "平均今年上涨约30%。",
-    "zh_hant": "平均今年上漲約30%。"
+    "zh": "今年平均约30%。",
+    "zh_hant": "今年平均約30%。"
   },
   {
-    "index": 85,
+    "index": 84,
     "text": "The government's offered a rates reduction to certain pubs, but even with that,",
     "start": 292.897,
     "end": 297.079,
-    "zh": "政府为某些酒吧提供了税率减免，但即使这样，",
-    "zh_hant": "政府為某些酒吧提供了稅率減免，但即使這樣，"
+    "zh": "政府为某些酒吧提供了税率减免，但即使如此，",
+    "zh_hant": "政府為某些酒吧提供了稅率減免，但即使如此，"
   },
   {
-    "index": 86,
+    "index": 85,
     "text": "rates are up quite a lot in some cases.",
     "start": 296.739,
     "end": 300.44,
-    "zh": "一些情况下税率上涨了不少。",
-    "zh_hant": "一些情況下稅率上漲了不少。"
+    "zh": "在某些情况下税率仍然大幅上升。",
+    "zh_hant": "在某些情況下稅率仍然大幅上升。"
   },
   {
-    "index": 87,
+    "index": 86,
     "text": "And all of that feeds into the price we pay at the bar.",
     "start": 300.09,
     "end": 303.862,
-    "zh": "所有这些都会影响我们在吧台支付的价格。",
-    "zh_hant": "所有這些都會影響我們在吧檯支付的價格。"
+    "zh": "所有这些都融入我们在酒吧支付的价格中。",
+    "zh_hant": "所有這些都融入我們在酒吧支付的價格中。"
   },
   {
-    "index": 88,
+    "index": 87,
     "text": "As part of his bid to become prime minister there, Andy Burnham has promised to reform business rates to support pubs.",
     "start": 304.443,
     "end": 310.525,
-    "zh": "作为他竞选首相努力的一部分，安迪·伯纳姆承诺改革营业房产税以支持酒吧。",
-    "zh_hant": "作為他競選首相努力的一部分，安迪·伯納姆承諾改革營業房產稅以支援酒吧。"
+    "zh": "作为竞选首相的一部分，安迪·伯纳姆承诺改革商业税以支持酒吧。",
+    "zh_hant": "作為競選首相的一部分，安迪·伯納姆承諾改革商業稅以支援酒吧。"
   },
   {
-    "index": 89,
+    "index": 88,
     "text": "He says they bring social benefits to communities.",
     "start": 310.345,
     "end": 313.447,
-    "zh": "他说它们为社区带来社会效益。",
-    "zh_hant": "他說它們為社群帶來社會效益。"
+    "zh": "他说酒吧给社区带来社会效益。",
+    "zh_hant": "他說酒吧給社群帶來社會效益。"
   },
   {
-    "index": 90,
+    "index": 89,
     "text": "But as they are now, business rates make up 2.2% of the price of a pint.",
     "start": 313.547,
     "end": 318.589,
-    "zh": "但就目前而言，营业房产税占一品脱啤酒价格的2.2%。",
-    "zh_hant": "但就目前而言，營業房產稅佔一品脫啤酒價格的2.2%。"
+    "zh": "但目前，商业税占一品脱价格的2.2%。",
+    "zh_hant": "但目前，商業稅佔一品脫價格的2.2%。"
   },
   {
-    "index": 91,
+    "index": 90,
     "text": "Believe it or not, there are some other taxes too.",
     "start": 318.99,
     "end": 321.471,
-    "zh": "信不信由你，还有其他一些税。",
-    "zh_hant": "信不信由你，還有其他一些稅。"
+    "zh": "信不信由你，还有一些其他税收。",
+    "zh_hant": "信不信由你，還有一些其他稅收。"
   },
   {
-    "index": 92,
+    "index": 91,
     "text": "Let's factor them in as well.",
     "start": 321.611,
     "end": 323.392,
-    "zh": "让我们也把它们加进去。",
-    "zh_hant": "讓我們也把它們加進去。"
+    "zh": "让我们也把它们算进去。",
+    "zh_hant": "讓我們也把它們算進去。"
   },
   {
-    "index": 93,
+    "index": 92,
     "text": "We've now explained over 57% of the price of a pint.",
     "start": 323.772,
     "end": 328.154,
-    "zh": "我们现在已经解释了一品脱啤酒价格的57%以上。",
-    "zh_hant": "我們現在已經解釋了一品脫啤酒價格的57%以上。"
+    "zh": "我们现在已经解释了一品脱价格的超过57%。",
+    "zh_hant": "我們現在已經解釋了一品脫價格的超過57%。"
   },
   {
-    "index": 94,
+    "index": 93,
     "text": "And next we need to go back to those increased staffing costs and increased energy costs,",
     "start": 327.804,
     "end": 333.137,
-    "zh": "接下来我们需要回到那些增加的人力成本和能源成本，",
-    "zh_hant": "接下來我們需要回到那些增加的人力成本和能源成本，"
+    "zh": "接下来我们需要回到那些增加的人员成本和能源成本，",
+    "zh_hant": "接下來我們需要回到那些增加的人員成本和能源成本，"
   },
   {
-    "index": 95,
+    "index": 94,
     "text": "because they're not just affecting breweries, they're affecting pubs too,",
     "start": 332.787,
     "end": 336.979,
@@ -768,7 +760,7 @@
     "zh_hant": "因為它們不僅影響釀酒廠，也影響酒吧，"
   },
   {
-    "index": 96,
+    "index": 95,
     "text": "which in turn affects the price that we're paying for beer.",
     "start": 336.859,
     "end": 340.58,
@@ -776,87 +768,87 @@
     "zh_hant": "這反過來影響我們為啤酒支付的價格。"
   },
   {
-    "index": 97,
+    "index": 96,
     "text": "19.6% of the price of a...",
     "start": 340.18,
     "end": 343.242,
-    "zh": "一品脱价格的19.6%——",
-    "zh_hant": "一品脫價格的19.6%——"
+    "zh": "一品脱价格的19.6%是",
+    "zh_hant": "一品脫價格的19.6%是"
   },
   {
-    "index": 98,
+    "index": 97,
     "text": "Point is staffing costs for pubs and venues.",
     "start": 342.892,
     "end": 346.043,
-    "zh": "重点是酒吧和场所的人力成本。",
-    "zh_hant": "重點是酒吧和場所的人力成本。"
+    "zh": "酒吧和场所的人员成本。",
+    "zh_hant": "酒吧和場所的人員成本。"
   },
   {
-    "index": 99,
+    "index": 98,
     "text": "Point 4 is for utilities, that's electricity and water too.",
     "start": 346.924,
     "end": 351.586,
-    "zh": "第4点是公用事业，包括电力和水。",
-    "zh_hant": "第4點是公用事業，包括電力和水。"
+    "zh": "第四点是公用事业，包括电和水。",
+    "zh_hant": "第四點是公用事業，包括電和水。"
   },
   {
-    "index": 100,
+    "index": 99,
     "text": "And there are other costs for pubs, including insurance, waste disposal, sport on TV.",
     "start": 352.286,
     "end": 357.609,
-    "zh": "酒吧还有其他成本，包括保险、垃圾处理、电视体育。",
-    "zh_hant": "酒吧還有其他成本，包括保險、垃圾處理、電視體育。"
+    "zh": "酒吧还有其他成本，包括保险、废物处理、体育电视。",
+    "zh_hant": "酒吧還有其他成本，包括保險、廢物處理、體育電視。"
   },
   {
-    "index": 101,
+    "index": 100,
     "text": "Let's add those in as well.",
     "start": 357.989,
     "end": 359.95,
-    "zh": "让我们也把这些加进去。",
-    "zh_hant": "讓我們也把這些加進去。"
+    "zh": "让我们也加上这些。",
+    "zh_hant": "讓我們也加上這些。"
   },
   {
-    "index": 102,
+    "index": 101,
     "text": "Okay, we're getting close to the full cost of a pint.",
     "start": 359.891,
     "end": 363.432,
-    "zh": "好，我们快接近一品脱啤酒的全部成本了。",
-    "zh_hant": "好，我們快接近一品脫啤酒的全部成本了。"
+    "zh": "好，我们快接近一品脱的全部成本了。",
+    "zh_hant": "好，我們快接近一品脫的全部成本了。"
   },
   {
-    "index": 103,
+    "index": 102,
     "text": "Ingredients, energy, staffing, taxes, and other costs too.",
     "start": 363.432,
     "end": 368.475,
-    "zh": "原料、能源、人力、税收，还有其他成本。",
-    "zh_hant": "原料、能源、人力、稅收，還有其他成本。"
+    "zh": "原料、能源、人员、税收和其他成本。",
+    "zh_hant": "原料、能源、人員、稅收和其他成本。"
   },
   {
-    "index": 104,
+    "index": 103,
     "text": "But which ones of those are really pushing up the price?",
     "start": 368.615,
     "end": 371.796,
-    "zh": "但哪些才是真正推高价格的因素？",
-    "zh_hant": "但哪些才是真正推高價格的因素？"
+    "zh": "但哪些真正推高了价格？",
+    "zh_hant": "但哪些真正推高了價格？"
   },
   {
-    "index": 105,
+    "index": 104,
     "text": "Probably in terms of the big drivers for the pub,",
     "start": 371.756,
     "end": 375.958,
-    "zh": "可能从酒吧的主要驱动因素来说，",
-    "zh_hant": "可能從酒吧的主要驅動因素來說，"
+    "zh": "可能从酒吧的主要驱动因素来看，",
+    "zh_hant": "可能從酒吧的主要驅動因素來看，"
   },
   {
-    "index": 106,
+    "index": 105,
     "text": "it's more the employment costs and the energy costs that have been the biggest challenge recently.",
     "start": 375.638,
     "end": 381.261,
-    "zh": "最近最大的挑战更多是人力成本和能源成本。",
-    "zh_hant": "最近最大的挑戰更多是人力成本和能源成本。"
+    "zh": "最近最大的挑战更多是人员成本和能源成本。",
+    "zh_hant": "最近最大的挑戰更多是人員成本和能源成本。"
   },
   {
-    "index": 107,
+    "index": 106,
     "text": "But there's one more thing: profit.",
     "start": 381.261,
     "end": 384.322,
@@ -864,7 +856,7 @@
     "zh_hant": "但還有一件事：利潤。"
   },
   {
-    "index": 108,
+    "index": 107,
     "text": "12 pence a minute.",
     "start": 384.21,
     "end": 386.203,
@@ -872,7 +864,7 @@
     "zh_hant": "每分鐘12便士。"
   },
   {
-    "index": 109,
+    "index": 108,
     "text": "Yes, you heard that right.",
     "start": 386.184,
     "end": 387.584,
@@ -880,55 +872,55 @@
     "zh_hant": "是的，你沒聽錯。"
   },
   {
-    "index": 110,
+    "index": 109,
     "text": "According to the biggest industry body, 12p is the average profit made by a pub on a pint.",
     "start": 387.464,
     "end": 393.247,
-    "zh": "根据最大行业机构的说法，酒吧卖一品脱啤酒的平均利润是12便士。",
-    "zh_hant": "根據最大行業機構的說法，酒吧賣一品脫啤酒的平均利潤是12便士。"
+    "zh": "根据最大的行业机构，一品脱酒吧平均利润是12便士。",
+    "zh_hant": "根據最大的行業機構，一品脫酒吧平均利潤是12便士。"
   },
   {
-    "index": 111,
+    "index": 110,
     "text": "And I don't know about you, but I thought it would be more than that.",
     "start": 393.487,
     "end": 397.009,
-    "zh": "我不知道你怎么想，但我本以为会更多。",
-    "zh_hant": "我不知道你怎麼想，但我本以為會更多。"
+    "zh": "我不知道你怎么想，但我以为会更多。",
+    "zh_hant": "我不知道你怎麼想，但我以為會更多。"
   },
   {
-    "index": 112,
+    "index": 111,
     "text": "But, I'm told, far from it.",
     "start": 396.949,
     "end": 399.53,
-    "zh": "但，我被告知，远非如此。",
-    "zh_hant": "但，我被告知，遠非如此。"
+    "zh": "但有人告诉我，远非如此。",
+    "zh_hant": "但有人告訴我，遠非如此。"
   },
   {
-    "index": 113,
+    "index": 112,
     "text": "I think a lot of the public don't realise this.",
     "start": 399.51,
     "end": 402.051,
-    "zh": "我觉得很多公众不知道这点。",
-    "zh_hant": "我覺得很多公眾不知道這點。"
+    "zh": "我觉得很多公众没有意识到这一点。",
+    "zh_hant": "我覺得很多公眾沒有意識到這一點。"
   },
   {
-    "index": 114,
+    "index": 113,
     "text": "Is your cost for a pint five, six, seven pounds?",
     "start": 401.701,
     "end": 404.513,
-    "zh": "你的一品脱啤酒成本是五、六、七英镑吗？",
-    "zh_hant": "你的一品脫啤酒成本是五、六、七英鎊嗎？"
+    "zh": "你的品脱成本是五、六、七英镑吗？",
+    "zh_hant": "你的品脫成本是五、六、七英鎊嗎？"
   },
   {
-    "index": 115,
+    "index": 114,
     "text": "They may think, oh, breweries are making a lot of money,",
     "start": 404.413,
     "end": 408.114,
-    "zh": "他们可能认为，哦，酿酒厂赚很多钱，",
-    "zh_hant": "他們可能認為，哦，釀酒廠賺很多錢，"
+    "zh": "他们可能想，哦，酿酒厂赚很多钱，",
+    "zh_hant": "他們可能想，哦，釀酒廠賺很多錢，"
   },
   {
-    "index": 116,
+    "index": 115,
     "text": "but brewing is notoriously a small margin business.",
     "start": 408.035,
     "end": 412.597,
@@ -936,95 +928,87 @@
     "zh_hant": "但釀酒是出了名的低利潤行業。"
   },
   {
-    "index": 117,
+    "index": 116,
     "text": "12p per pint in profit it is, which means the profit makes up 2.4% of our total.",
     "start": 412.837,
     "end": 418.9,
-    "zh": "每品脱利润是12便士，这意味着利润占我们总数的2.4%。",
-    "zh_hant": "每品脫利潤是12便士，這意味著利潤佔我們總數的2.4%。"
+    "zh": "每品脱利润12便士，这意味着利润占我们总额的2.4%。",
+    "zh_hant": "每品脫利潤12便士，這意味著利潤佔我們總額的2.4%。"
+  },
+  {
+    "index": 117,
+    "text": "And if we bring all of this together, we get to our average price of a pint: five pounds and one pence.",
+    "start": 418.9,
+    "end": 425.543,
+    "zh": "如果我们把所有这些加在一起，我们得到一品脱的平均价格：五英镑一便士。",
+    "zh_hant": "如果我們把所有這些加在一起，我們得到一品脫的平均價格：五英鎊一便士。"
   },
   {
     "index": 118,
-    "text": "And if we bring all of this together, we get to our average price of a pint:",
-    "start": 418.9,
-    "end": 423.322,
-    "zh": "如果把这些全部加在一起，我们得到一品脱啤酒的平均价格：",
-    "zh_hant": "如果把這些全部加在一起，我們得到一品脫啤酒的平均價格："
-  },
-  {
-    "index": 119,
-    "text": "five pounds and one pence.",
-    "start": 423.302,
-    "end": 425.543,
-    "zh": "5英镑1便士。",
-    "zh_hant": "5英鎊1便士。"
-  },
-  {
-    "index": 120,
     "text": "Where you are in the country, where you're buying your drinks, what kind of beer you're drinking,",
     "start": 425.723,
     "end": 430.926,
-    "zh": "你在全国哪里，在哪里买酒，喝什么类型的啤酒，",
-    "zh_hant": "你在全國哪裡，在哪裡買酒，喝什麼型別的啤酒，"
+    "zh": "你在国家的哪个位置，在哪里买饮料，喝什么啤酒，",
+    "zh_hant": "你在國家的哪個位置，在哪裡買飲料，喝什麼啤酒，"
   },
   {
-    "index": 121,
+    "index": 119,
     "text": "of course, all of this will affect how much you're paying at the bar.",
     "start": 430.576,
     "end": 434.367,
-    "zh": "当然，所有这些都会影响你在吧台付多少钱。",
-    "zh_hant": "當然，所有這些都會影響你在吧檯付多少錢。"
+    "zh": "当然，所有这些都会影响你在酒吧支付的价格。",
+    "zh_hant": "當然，所有這些都會影響你在酒吧支付的價格。"
   },
   {
-    "index": 122,
+    "index": 120,
     "text": "But the long and the short of it is that if pints this summer are feeling more expensive, that's because they are.",
     "start": 434.267,
     "end": 440.091,
-    "zh": "但总而言之，如果今年夏天的品脱啤酒感觉更贵，那是因为它们确实更贵。",
-    "zh_hant": "但總而言之，如果今年夏天的品脫啤酒感覺更貴，那是因為它們確實更貴。"
+    "zh": "但总而言之，如果今年夏天品脱感觉更贵，那是因为确实更贵。",
+    "zh_hant": "但總而言之，如果今年夏天品脫感覺更貴，那是因為確實更貴。"
   },
   {
-    "index": 123,
+    "index": 121,
     "text": "And if you're in the pub and someone says, \"What's happened to the price of a pint?\"",
     "start": 439.971,
     "end": 443.732,
-    "zh": "如果你在酒吧里有人说：“一品脱啤酒的价格怎么了？”",
-    "zh_hant": "如果你在酒吧裡有人說：“一品脫啤酒的價格怎麼了？”"
+    "zh": "如果你在酒吧有人说：“一品脱的价格怎么了？”",
+    "zh_hant": "如果你在酒吧有人說：“一品脫的價格怎麼了？”"
   },
   {
-    "index": 124,
+    "index": 122,
     "text": "Well, you could say, \"Oh, there's this great BBC video all about this,\" or you could simply say, \"The cost...\"",
     "start": 443.382,
     "end": 449.315,
-    "zh": "好吧，你可以说：“哦，有个很棒的BBC视频专门讲这个，”或者你可以简单地说：“成本……”",
-    "zh_hant": "好吧，你可以說：“哦，有個很棒的BBC影片專門講這個，”或者你可以簡單地說：“成本……”"
+    "zh": "你可以说：“哦，有个很棒的BBC视频讲这个，”或者你可以简单说：“成本……”",
+    "zh_hant": "你可以說：“哦，有個很棒的BBC影片講這個，”或者你可以簡單說：“成本……”"
   },
   {
-    "index": 125,
+    "index": 123,
     "text": "Of ingredients, energy, staffing, and some taxes has gone up.",
     "start": 448.965,
     "end": 453.777,
-    "zh": "原料、能源、人力，以及一些税的成本上涨了。",
-    "zh_hant": "原料、能源、人力，以及一些稅的成本上漲了。"
+    "zh": "原料、能源、人员和一些税收上涨了。",
+    "zh_hant": "原料、能源、人員和一些稅收上漲了。"
   },
   {
-    "index": 126,
+    "index": 124,
     "text": "That's what's happened.",
     "start": 453.757,
     "end": 455.478,
-    "zh": "这就是发生的事情。",
-    "zh_hant": "這就是發生的事情。"
+    "zh": "这就是发生的事。",
+    "zh_hant": "這就是發生的事。"
   },
   {
-    "index": 127,
+    "index": 125,
     "text": "And there's a concern that this cost of a pint is putting people off.",
     "start": 455.278,
     "end": 459.32,
-    "zh": "有人担忧一品脱啤酒的成本正在让人望而却步。",
-    "zh_hant": "有人擔憂一品脫啤酒的成本正在讓人望而卻步。"
+    "zh": "有人担心一品脱的成本正在让人望而却步。",
+    "zh_hant": "有人擔心一品脫的成本正在讓人望而卻步。"
   },
   {
-    "index": 128,
+    "index": 126,
     "text": "It's definitely a lot more expensive than what it was.",
     "start": 459.06,
     "end": 462.121,
@@ -1032,47 +1016,39 @@
     "zh_hant": "它肯定比以前貴多了。"
   },
   {
-    "index": 129,
+    "index": 127,
     "text": "I think for a lot of people, it's definitely become prohibitive.",
     "start": 462.122,
     "end": 464.703,
-    "zh": "我觉得对很多人来说，它肯定变得难以承受。",
-    "zh_hant": "我覺得對很多人來說，它肯定變得難以承受。"
+    "zh": "我觉得对很多人来说，它确实变得难以负担。",
+    "zh_hant": "我覺得對很多人來說，它確實變得難以負擔。"
   },
   {
-    "index": 130,
+    "index": 128,
     "text": "Well, this is how the situation was described to us.",
     "start": 464.683,
     "end": 467.604,
-    "zh": "好吧，这就是情况被描述给我们的样子。",
-    "zh_hant": "好吧，這就是情況被描述給我們的樣子。"
+    "zh": "好吧，这就是情况被描述给我们的方式。",
+    "zh_hant": "好吧，這就是情況被描述給我們的方式。"
   },
   {
-    "index": 131,
-    "text": "When we see this massive increase happening across the sector, and we",
+    "index": 129,
+    "text": "When we see this massive increase happening across the sector, and we see breweries squeezed so much,",
     "start": 467.544,
-    "end": 472.386,
-    "zh": "当我们看到整个行业出现这种大规模增长，我们",
-    "zh_hant": "當我們看到整個行業出現這種大規模增長，我們"
-  },
-  {
-    "index": 132,
-    "text": "see breweries squeezed so much,",
-    "start": 472.036,
     "end": 474.247,
-    "zh": "看到酿酒厂被挤压得如此厉害，",
-    "zh_hant": "看到釀酒廠被擠壓得如此厲害，"
+    "zh": "当我们看到整个行业发生这种巨大增长，看到酿酒厂被挤压得如此厉害，",
+    "zh_hant": "當我們看到整個行業發生這種巨大增長，看到釀酒廠被擠壓得如此厲害，"
   },
   {
-    "index": 133,
+    "index": 130,
     "text": "and we see pubs having to charge so much, I mean, have the public not Been able to afford it?",
     "start": 474.067,
     "end": 479.53,
-    "zh": "看到酒吧不得不收那么多钱，我是说，公众难道负担不起吗？",
-    "zh_hant": "看到酒吧不得不收那麼多錢，我是說，公眾難道負擔不起嗎？"
+    "zh": "看到酒吧不得不收取这么多费用，公众是不是负担不起了？",
+    "zh_hant": "看到酒吧不得不收取這麼多費用，公眾是不是負擔不起了？"
   },
   {
-    "index": 134,
+    "index": 131,
     "text": "You have almost a trifecta of chaos.",
     "start": 479.33,
     "end": 484.673,
@@ -1080,95 +1056,87 @@
     "zh_hant": "你幾乎有一個混亂的三重奏。"
   },
   {
-    "index": 135,
-    "text": "A trifecta of chaos, not a phrase I've used with reference to buying a pint before,",
+    "index": 132,
+    "text": "A trifecta of chaos,",
     "start": 484.323,
-    "end": 489.935,
-    "zh": "混乱的三重奏，我以前没用过这个说法来形容买一品脱啤酒，",
-    "zh_hant": "混亂的三重奏，我以前沒用過這個說法來形容買一品脫啤酒，"
+    "end": 486.434,
+    "zh": "混乱的三重奏，",
+    "zh_hant": "混亂的三重奏，"
   },
   {
-    "index": 136,
-    "text": "but the strength of that language gets across that something,",
-    "start": 489.585,
+    "index": 133,
+    "text": "not a phrase I've used with reference to buying a pint before, but the strength of that language gets across that something,",
+    "start": 486.434,
     "end": 493.157,
-    "zh": "但这种措辞的力度传达出某种东西，",
-    "zh_hant": "但這種措辭的力度傳達出某種東西，"
+    "zh": "我以前没在买一品脱时用过这个短语，但那种强烈的措辞传达出某事，",
+    "zh_hant": "我以前沒在買一品脫時用過這個短語，但那種強烈的措辭傳達出某事，"
   },
   {
-    "index": 137,
-    "text": "buying a drink in a pub that has been for everyone,",
+    "index": 134,
+    "text": "buying a drink in a pub that has been for everyone, now risks not being that anymore.",
     "start": 493.337,
-    "end": 497.239,
-    "zh": "在酒吧买一杯饮料，这曾经对所有人开放，",
-    "zh_hant": "在酒吧買一杯飲料，這曾經對所有人開放，"
-  },
-  {
-    "index": 138,
-    "text": "now risks not being that anymore.",
-    "start": 497.439,
     "end": 499.98,
-    "zh": "现在可能不再是这样了。",
-    "zh_hant": "現在可能不再是這樣了。"
+    "zh": "在酒吧喝一杯曾是人人皆宜的，现在可能不再是那样了。",
+    "zh_hant": "在酒吧喝一杯曾是人人皆宜的，現在可能不再是那樣了。"
   },
   {
-    "index": 139,
+    "index": 135,
     "text": "In the first three months of 2026, 161 pubs in England, Scotland, and Wales have closed.",
     "start": 500.141,
     "end": 505.643,
-    "zh": "2026年头三个月，英格兰、苏格兰和威尔士有161家酒吧关闭。",
-    "zh_hant": "2026年頭三個月，英格蘭、蘇格蘭和威爾士有161家酒吧關閉。"
+    "zh": "在2026年的前三个月，英格兰、苏格兰和威尔士有161家酒吧关闭。",
+    "zh_hant": "在2026年的前三個月，英格蘭、蘇格蘭和威爾士有161家酒吧關閉。"
   },
   {
-    "index": 140,
+    "index": 136,
     "text": "There's a whole range of reasons for the decline in pub numbers, not least, according to some research,",
     "start": 505.623,
     "end": 510.766,
-    "zh": "酒吧数量下降有各种原因，尤其根据一些研究，",
-    "zh_hant": "酒吧數量下降有各種原因，尤其根據一些研究，"
+    "zh": "酒吧数量下降的原因有很多，尤其是根据某些研究，",
+    "zh_hant": "酒吧數量下降的原因有很多，尤其是根據某些研究，"
   },
   {
-    "index": 141,
+    "index": 137,
     "text": "that UK adults are drinking less, but would lower prices make a difference?",
     "start": 510.646,
     "end": 516.108,
-    "zh": "英国成年人喝酒减少了，但降低价格会有区别吗？",
-    "zh_hant": "英國成年人喝酒減少了，但降低價格會有區別嗎？"
+    "zh": "英国成年人饮酒减少，但更低的价格会有影响吗？",
+    "zh_hant": "英國成年人飲酒減少，但更低的價格會有影響嗎？"
   },
   {
-    "index": 142,
+    "index": 138,
     "text": "We've seen a decline in the way the pub's been over the years.",
     "start": 516.088,
     "end": 520.011,
-    "zh": "多年来，我们看到酒吧的状况在衰退。",
-    "zh_hant": "多年來，我們看到酒吧的狀況在衰退。"
+    "zh": "多年来我们看到酒吧状况的衰退。",
+    "zh_hant": "多年來我們看到酒吧狀況的衰退。"
   },
   {
-    "index": 143,
+    "index": 139,
     "text": "People just haven't got the money no more.",
     "start": 520.271,
     "end": 522.152,
-    "zh": "人们就是没有钱了。",
-    "zh_hant": "人們就是沒有錢了。"
+    "zh": "人们只是没有钱了。",
+    "zh_hant": "人們只是沒有錢了。"
   },
   {
-    "index": 144,
+    "index": 140,
     "text": "It's sad to see, but they haven't.",
     "start": 522.152,
     "end": 524.613,
-    "zh": "看到这样很难过，但确实如此。",
-    "zh_hant": "看到這樣很難過，但確實如此。"
+    "zh": "看到这个很伤心，但他们确实没有。",
+    "zh_hant": "看到這個很傷心，但他們確實沒有。"
   },
   {
-    "index": 145,
+    "index": 141,
     "text": "And years ago, you used to get the groups would buy the round.",
     "start": 524.653,
     "end": 529.696,
-    "zh": "多年前，你会看到一群人会买一整轮。",
-    "zh_hant": "多年前，你會看到一群人會買一整輪。"
+    "zh": "多年前，你会看到一群人买一轮。",
+    "zh_hant": "多年前，你會看到一群人買一輪。"
   },
   {
-    "index": 146,
+    "index": 142,
     "text": "Now everybody's just buying individual.",
     "start": 529.346,
     "end": 531.317,
@@ -1176,59 +1144,59 @@
     "zh_hant": "現在每個人都只買自己的。"
   },
   {
-    "index": 147,
+    "index": 143,
     "text": "Years ago, when you used to put a pint up two P or five P, now it's like 30 P,",
     "start": 531.457,
     "end": 536.72,
-    "zh": "多年前，一品脱涨2便士或5便士，现在涨30便士，",
-    "zh_hant": "多年前，一品脫漲2便士或5便士，現在漲30便士，"
+    "zh": "多年前，你加两便士或五便士一品脱，现在像30便士，",
+    "zh_hant": "多年前，你加兩便士或五便士一品脫，現在像30便士，"
   },
   {
-    "index": 148,
+    "index": 144,
     "text": "40 P. One of them, I'm 50p, but you have to actually go under.",
     "start": 536.32,
     "end": 542.082,
-    "zh": "40便士。有一次，我涨了50便士，但你不得不这么做。",
-    "zh_hant": "40便士。有一次，我漲了50便士，但你不得不這麼做。"
+    "zh": "40便士。有一次，我加50便士，但你得真的降下来。",
+    "zh_hant": "40便士。有一次，我加50便士，但你得真的降下來。"
   },
   {
-    "index": 149,
+    "index": 145,
     "text": "How do you feel when you do it though?",
     "start": 542.043,
     "end": 543.643,
-    "zh": "你这么做时的感觉如何？",
-    "zh_hant": "你這麼做時的感覺如何？"
+    "zh": "但你这样做时感觉如何？",
+    "zh_hant": "但你這樣做時感覺如何？"
   },
   {
-    "index": 150,
+    "index": 146,
     "text": "I don't feel great.",
     "start": 544.504,
     "end": 545.544,
-    "zh": "我不好受。",
-    "zh_hant": "我不好受。"
+    "zh": "我感觉不太好。",
+    "zh_hant": "我感覺不太好。"
   },
   {
-    "index": 151,
+    "index": 147,
     "text": "I've got a mirror, but it's something that's got to be done.",
     "start": 545.194,
     "end": 547.845,
-    "zh": "我照镜子，但这是不得不做的事。",
-    "zh_hant": "我照鏡子，但這是不得不做的事。"
+    "zh": "我有镜子，但这是必须做的事。",
+    "zh_hant": "我有鏡子，但這是必須做的事。"
   },
   {
-    "index": 152,
+    "index": 148,
     "text": "Getting a drink in a pub is one of life's simple pleasures, but as we've seen,",
     "start": 547.986,
     "end": 552.028,
-    "zh": "在酒吧喝一杯是生活中简单的乐趣之一，但正如我们所见，",
-    "zh_hant": "在酒吧喝一杯是生活中簡單的樂趣之一，但正如我們所見，"
+    "zh": "在酒吧喝一杯是生活中简单的快乐之一，但如我们所见，",
+    "zh_hant": "在酒吧喝一杯是生活中簡單的快樂之一，但如我們所見，"
   },
   {
-    "index": 153,
+    "index": 149,
     "text": "when we buy a pint, there's a whole story behind the price that we're paying.",
     "start": 551.678,
     "end": 556.17,
-    "zh": "当我们买一品脱啤酒时，我们支付的价格背后有整个故事。",
-    "zh_hant": "當我們買一品脫啤酒時，我們支付的價格背後有整個故事。"
+    "zh": "当我们买一品脱时，我们支付的价格背后有整个故事。",
+    "zh_hant": "當我們買一品脫時，我們支付的價格背後有整個故事。"
   }
 ]

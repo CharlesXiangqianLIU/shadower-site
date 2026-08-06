@@ -4,179 +4,171 @@
     "text": "Hello, and thanks for downloading the More or Less podcast.",
     "start": 0.0,
     "end": 3.231,
-    "zh": "你好，感谢下载《或多或少》播客。",
-    "zh_hant": "你好，感謝下載《或多或少》播客。"
+    "zh": "你好，感谢下载《More or Less》播客。",
+    "zh_hant": "你好，感謝下載《More or Less》播客。"
   },
   {
     "index": 1,
     "text": "We're the program that looks at the numbers in the news, life, and on the streets.",
     "start": 3.272,
     "end": 7.994,
-    "zh": "我们是一档关注新闻、生活和街头数字的节目。",
-    "zh_hant": "我們是一檔關注新聞、生活和街頭數字的節目。"
+    "zh": "我们是一档关注新闻、生活以及街头巷尾中数字的节目。",
+    "zh_hant": "我們是一檔關注新聞、生活以及街頭巷尾中數字的節目。"
   },
   {
     "index": 2,
     "text": "And I'm Lizzie McNeill.",
     "start": 7.694,
     "end": 9.455,
-    "zh": "我是Lizzie McNeill。",
-    "zh_hant": "我是Lizzie McNeill。"
+    "zh": "我是莉齐·麦克尼尔。",
+    "zh_hant": "我是莉齊·麥克尼爾。"
   },
   {
     "index": 3,
-    "text": "Loyal listener Ambarish Chowpurya got in touch to ask",
+    "text": "Loyal listener Ambarish Chowpurya got in touch to ask about a post he saw on social media",
     "start": 12.076,
-    "end": 16.298,
-    "zh": "忠实听众Ambarish Chowpurya联系我们提问：",
-    "zh_hant": "忠實聽眾Ambarish Chowpurya聯絡我們提問："
+    "end": 18.399,
+    "zh": "忠实听众安巴里什·乔普拉联系我们，询问他在社交媒体上看到的一篇帖子。",
+    "zh_hant": "忠實聽眾安巴里什·喬普拉聯絡我們，詢問他在社交媒體上看到的一篇帖子。"
   },
   {
     "index": 4,
-    "text": "about a post he saw on social media that made some suspicious looking claims about the safety of cars driven",
-    "start": 15.948,
-    "end": 22.201,
-    "zh": "关于他在社交媒体上看到的一篇帖子，其中对自动驾驶汽车与",
-    "zh_hant": "關於他在社交媒體上看到的一篇帖子，其中對自動駕駛汽車與"
+    "text": "that made some suspicious looking claims about the safety of cars driven by humans",
+    "start": 18.099,
+    "end": 22.841,
+    "zh": "那篇帖子对由人类驾驶的汽车的安全性提出了一些令人怀疑的说法。",
+    "zh_hant": "那篇帖子對由人類駕駛的汽車的安全性提出了一些令人懷疑的說法。"
   },
   {
     "index": 5,
-    "text": "by humans versus cars that drive by themselves.",
-    "start": 21.851,
+    "text": "versus cars that drive by themselves.",
+    "start": 22.842,
     "end": 25.643,
-    "zh": "人类驾驶汽车的安全性问题提出了一些可疑的说法。",
-    "zh_hant": "人類駕駛汽車的安全性問題提出了一些可疑的說法。"
+    "zh": "与自动驾驶汽车进行了对比。",
+    "zh_hant": "與自動駕駛汽車進行了對比。"
   },
   {
     "index": 6,
     "text": "The Post stated that Tesla's cars are 10 times safer than human-driven cars,",
     "start": 26.143,
     "end": 30.825,
-    "zh": "该帖子称，特斯拉的汽车比人类驾驶的汽车安全10倍，",
-    "zh_hant": "該帖子稱，特斯拉的汽車比人類駕駛的汽車安全10倍，"
+    "zh": "帖子声称特斯拉的汽车比人类驾驶的汽车安全10倍。",
+    "zh_hant": "帖子聲稱特斯拉的汽車比人類駕駛的汽車安全10倍。"
   },
   {
     "index": 7,
     "text": "and Waymo's self-driving taxis are five times safer.",
     "start": 30.906,
     "end": 34.227,
-    "zh": "而Waymo的自动驾驶出租车安全5倍。",
-    "zh_hant": "而Waymo的自動駕駛計程車安全5倍。"
+    "zh": "而Waymo的自动驾驶出租车则安全5倍。",
+    "zh_hant": "而Waymo的自動駕駛計程車則安全5倍。"
   },
   {
     "index": 8,
     "text": "Now, we've checked, and these claims do come from reports published by the companies themselves.",
     "start": 34.368,
     "end": 39.73,
-    "zh": "我们已经核实过，这些说法确实来自公司自己发布的报告。",
-    "zh_hant": "我們已經核實過，這些說法確實來自公司自己釋出的報告。"
+    "zh": "我们核实过，这些说法确实来自公司自己发布的报告。",
+    "zh_hant": "我們核實過，這些說法確實來自公司自己釋出的報告。"
   },
   {
     "index": 9,
     "text": "Now, I've been driving for a while.",
     "start": 40.31,
     "end": 42.291,
-    "zh": "我已经开车有一阵子了。",
-    "zh_hant": "我已經開車有一陣子了。"
+    "zh": "我开车已经有一段时间了。",
+    "zh_hant": "我開車已經有一段時間了。"
   },
   {
     "index": 10,
     "text": "I've come across plenty of really, really bad human drivers,",
     "start": 42.111,
     "end": 47.354,
-    "zh": "遇到过很多非常非常差劲的人类司机，",
-    "zh_hant": "遇到過很多非常非常差勁的人類司機，"
+    "zh": "我遇到过很多很多非常糟糕的人类司机。",
+    "zh_hant": "我遇到過很多很多非常糟糕的人類司機。"
   },
   {
     "index": 11,
     "text": "but I also know self-driving cars aren't perfect either.",
     "start": 47.004,
     "end": 50.655,
-    "zh": "但我也知道自动驾驶汽车并非完美。",
-    "zh_hant": "但我也知道自動駕駛汽車並非完美。"
+    "zh": "但我也知道自动驾驶汽车并非完美无缺。",
+    "zh_hant": "但我也知道自動駕駛汽車並非完美無缺。"
   },
   {
     "index": 12,
     "text": "I mean, even the Batmobile crashed into Superman in that one film.",
     "start": 50.335,
     "end": 53.597,
-    "zh": "我是说，连蝙蝠车都在那部电影里撞过超人。",
-    "zh_hant": "我是說，連蝙蝠車都在那部電影裡撞過超人。"
+    "zh": "我是说，在那部电影里连蝙蝠车都撞上了超人。",
+    "zh_hant": "我是說，在那部電影裡連蝙蝠車都撞上了超人。"
   },
   {
     "index": 13,
     "text": "Anyway, back to Ambrish's question.",
     "start": 53.837,
     "end": 56.258,
-    "zh": "总之，回到Ambrish的问题。",
-    "zh_hant": "總之，回到Ambrish的問題。"
+    "zh": "言归正传，回到安巴里什的问题。",
+    "zh_hant": "言歸正傳，回到安巴里什的問題。"
   },
   {
     "index": 14,
     "text": "Is the difference in safety between self-driving cars and human-operated cars really that high?",
     "start": 56.178,
     "end": 62.141,
-    "zh": "自动驾驶汽车和人类驾驶汽车之间的安全差距真的有那么大吗？",
-    "zh_hant": "自動駕駛汽車和人類駕駛汽車之間的安全差距真的有那麼大嗎？"
+    "zh": "自动驾驶汽车和人类驾驶汽车之间的安全性差异真的有那么大吗？",
+    "zh_hant": "自動駕駛汽車和人類駕駛汽車之間的安全性差異真的有那麼大嗎？"
   },
   {
     "index": 15,
     "text": "You hear the stories about how human drivers are terrible.",
     "start": 63.922,
     "end": 67.684,
-    "zh": "你常听到人类司机多么糟糕的故事。",
-    "zh_hant": "你常聽到人類司機多麼糟糕的故事。"
+    "zh": "你会听到关于人类司机有多糟糕的故事。",
+    "zh_hant": "你會聽到關於人類司機有多糟糕的故事。"
   },
   {
     "index": 16,
     "text": "They get drunk.",
     "start": 67.604,
     "end": 68.864,
-    "zh": "他们喝醉。",
-    "zh_hant": "他們喝醉。"
+    "zh": "他们会酒驾。",
+    "zh_hant": "他們會酒駕。"
   },
   {
     "index": 17,
     "text": "They don't pay attention.",
     "start": 68.624,
     "end": 70.085,
-    "zh": "他们不注意。",
-    "zh_hant": "他們不注意。"
+    "zh": "他们不专心。",
+    "zh_hant": "他們不專心。"
   },
   {
     "index": 18,
     "text": "They get distracted.",
     "start": 69.925,
     "end": 71.485,
-    "zh": "他们分心。",
-    "zh_hant": "他們分心。"
+    "zh": "他们容易分心。",
+    "zh_hant": "他們容易分心。"
   },
   {
     "index": 19,
-    "text": "That's Mark McCarthy, a senior fellow at the Brookings Institute Centre",
+    "text": "That's Mark McCarthy, a senior fellow at the Brookings Institute Centre for Technology Innovation.",
     "start": 71.646,
-    "end": 76.808,
-    "zh": "这是Mark McCarthy，布鲁金斯学会中心的高级研究员，",
-    "zh_hant": "這是Mark McCarthy，布魯金斯學會中心的高階研究員，"
+    "end": 78.429,
+    "zh": "这是马克·麦卡锡，布鲁金斯学会技术创新中心的高级研究员。",
+    "zh_hant": "這是馬克·麥卡錫，布魯金斯學會技術創新中心的高階研究員。"
   },
   {
     "index": 20,
-    "text": "for Technology Innovation.",
-    "start": 76.488,
-    "end": 78.429,
-    "zh": "研究技术创新领域。",
-    "zh_hant": "研究技術創新領域。"
-  },
-  {
-    "index": 21,
     "text": "And then you think, you've got this automatic machine that doesn't get drunk.",
     "start": 78.269,
     "end": 83.492,
-    "zh": "然后你会想，你有一个不会喝醉的自动机器。",
-    "zh_hant": "然後你會想，你有一個不會喝醉的自動機器。"
+    "zh": "然后你会想，你有了这台自动机器，它不会喝醉。",
+    "zh_hant": "然後你會想，你有了這臺自動機器，它不會喝醉。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "It doesn't get distracted.",
     "start": 83.142,
     "end": 84.913,
@@ -184,39 +176,39 @@
     "zh_hant": "它不會分心。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "It doesn't get confused, but it's a mistake in logic.",
     "start": 85.033,
     "end": 88.114,
-    "zh": "它不会困惑，但这是逻辑上的错误。",
-    "zh_hant": "它不會困惑，但這是邏輯上的錯誤。"
+    "zh": "它不会困惑，但这是一个逻辑上的错误。",
+    "zh_hant": "它不會困惑，但這是一個邏輯上的錯誤。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "I mean, monkeys don't get drunk, but we don't think that they're going to be any better at driving than people are.",
     "start": 87.954,
     "end": 93.997,
-    "zh": "我的意思是，猴子不会喝醉，但我们不认为它们开车会比人更好。",
-    "zh_hant": "我的意思是，猴子不會喝醉，但我們不認為它們開車會比人更好。"
+    "zh": "我是说，猴子不会喝醉，但我们不认为它们会比人类开车开得更好。",
+    "zh_hant": "我是說，猴子不會喝醉，但我們不認為它們會比人類開車開得更好。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "Now, I can hear our loyal listeners begin to type.",
     "start": 94.037,
     "end": 96.899,
-    "zh": "我听到忠实听众开始打字了。",
-    "zh_hant": "我聽到忠實聽眾開始打字了。"
+    "zh": "我能听到我们的忠实听众开始打字了。",
+    "zh_hant": "我能聽到我們的忠實聽眾開始打字了。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "So, yes, some monkey species actually do get purposefully drunk.",
     "start": 96.549,
     "end": 101.001,
-    "zh": "所以，是的，有些猴子品种确实会故意喝醉。",
-    "zh_hant": "所以，是的，有些猴子品種確實會故意喝醉。"
+    "zh": "所以是的，有些猴子物种确实会故意喝醉。",
+    "zh_hant": "所以是的，有些猴子物種確實會故意喝醉。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "We're aware, we support, we don't judge.",
     "start": 100.781,
     "end": 103.322,
@@ -224,199 +216,175 @@
     "zh_hant": "我們知道，我們支援，我們不評判。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "But that's by the by.",
     "start": 103.262,
     "end": 105.183,
-    "zh": "但那是题外话。",
-    "zh_hant": "但那是題外話。"
+    "zh": "但那都是题外话。",
+    "zh_hant": "但那都是題外話。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "The point is that people sometimes automatically assume that machines aren't as fallible as humans,",
     "start": 104.983,
     "end": 111.326,
-    "zh": "关键是人们有时会自动认为机器不像人类那样容易犯错，",
-    "zh_hant": "關鍵是人們有時會自動認為機器不像人類那樣容易犯錯，"
+    "zh": "重点是人们有时会下意识地认为机器不会像人类那样容易出错。",
+    "zh_hant": "重點是人們有時會下意識地認為機器不會像人類那樣容易出錯。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "so they're not as prone to error.",
     "start": 111.306,
     "end": 113.327,
-    "zh": "所以它们不易出错。",
-    "zh_hant": "所以它們不易出錯。"
+    "zh": "所以它们不太容易犯错误。",
+    "zh_hant": "所以它們不太容易犯錯誤。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Computers still make mistakes, as many of the safety engineers have pointed out about autonomous cars.",
     "start": 113.327,
     "end": 119.69,
-    "zh": "计算机仍然会犯错，许多安全工程师已经指出自动驾驶汽车的问题。",
-    "zh_hant": "計算機仍然會犯錯，許多安全工程師已經指出自動駕駛汽車的問題。"
+    "zh": "计算机仍然会犯错误，正如许多安全工程师指出的自动驾驶汽车那样。",
+    "zh_hant": "計算機仍然會犯錯誤，正如許多安全工程師指出的自動駕駛汽車那樣。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "They make the kind of mistakes that people would never make.",
     "start": 119.791,
     "end": 123.452,
-    "zh": "它们会犯人们永远不会犯的错误。",
-    "zh_hant": "它們會犯人們永遠不會犯的錯誤。"
+    "zh": "它们会犯人类永远不会犯的那种错误。",
+    "zh_hant": "它們會犯人類永遠不會犯的那種錯誤。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "Well, it's probably good to know what we're measuring self-driving cars up against.",
     "start": 123.452,
     "end": 128.334,
-    "zh": "了解我们拿自动驾驶汽车和什么对比是有好处的。",
-    "zh_hant": "瞭解我們拿自動駕駛汽車和什麼對比是有好處的。"
+    "zh": "好吧，了解我们拿来和自动驾驶汽车做比较的标准大概是件好事。",
+    "zh_hant": "好吧，瞭解我們拿來和自動駕駛汽車做比較的標準大概是件好事。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "How good are humans actually at driving?",
     "start": 128.375,
     "end": 131.536,
-    "zh": "人类驾驶技术到底有多好？",
-    "zh_hant": "人類駕駛技術到底有多好？"
+    "zh": "人类实际的驾驶水平到底有多好？",
+    "zh_hant": "人類實際的駕駛水平到底有多好？"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "In the United States, humans drive a little over 3 trillion miles a year,",
     "start": 135.398,
     "end": 140.16,
-    "zh": "在美国，人类每年驾驶超过3万亿英里，",
-    "zh_hant": "在美國，人類每年駕駛超過3萬億英里，"
+    "zh": "在美国，人类每年驾驶里程略超过3万亿英里。",
+    "zh_hant": "在美國，人類每年駕駛里程略超過3萬億英里。"
+  },
+  {
+    "index": 35,
+    "text": "and there may be 40,000 or so fatalities, for a fatality rate of roughly 1 in 100 million.",
+    "start": 140.301,
+    "end": 147.944,
+    "zh": "可能会有大约4万人死亡，死亡率约为每1亿英里1人。",
+    "zh_hant": "可能會有大約4萬人死亡，死亡率約為每1億英里1人。"
   },
   {
     "index": 36,
-    "text": "and there may be 40,000 or so fatalities,",
-    "start": 140.301,
-    "end": 144.462,
-    "zh": "可能有大约4万人死亡，",
-    "zh_hant": "可能有大約4萬人死亡，"
-  },
-  {
-    "index": 37,
-    "text": "for a fatality rate of roughly 1 in 100 million.",
-    "start": 144.263,
-    "end": 147.944,
-    "zh": "致死率大约为每1亿英里1人。",
-    "zh_hant": "致死率大約為每1億英里1人。"
-  },
-  {
-    "index": 38,
     "text": "And so you're really going to have to Go to some good degree to get a better safety record than that.",
     "start": 147.784,
     "end": 154.127,
-    "zh": "所以要达到更好的安全记录，你确实得相当努力。",
-    "zh_hant": "所以要達到更好的安全記錄，你確實得相當努力。"
+    "zh": "所以要超越这个安全记录，你得做到相当好的程度才行。",
+    "zh_hant": "所以要超越這個安全記錄，你得做到相當好的程度才行。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "So for every 100 million miles driven, there is one death.",
     "start": 154.227,
     "end": 158.149,
-    "zh": "因此每行驶1亿英里就有一人死亡。",
-    "zh_hant": "因此每行駛1億英里就有一人死亡。"
+    "zh": "所以每行驶1亿英里就有1人死亡。",
+    "zh_hant": "所以每行駛1億英里就有1人死亡。"
   },
   {
-    "index": 40,
-    "text": "Now, these are just fatalities, and there's an approximate 6 million car accidents each year",
+    "index": 38,
+    "text": "Now, these are just fatalities, and there's an approximate 6 million car accidents each year in the US,",
     "start": 158.069,
-    "end": 164.373,
-    "zh": "这些只是死亡数字，美国每年约有600万起车祸，",
-    "zh_hant": "這些只是死亡數字，美國每年約有600萬起車禍，"
-  },
-  {
-    "index": 41,
-    "text": "in the US,",
-    "start": 164.073,
     "end": 165.193,
-    "zh": "在美国，",
-    "zh_hant": "在美國，"
+    "zh": "这只是死亡人数，美国每年大约有600万起车祸。",
+    "zh_hant": "這只是死亡人數，美國每年大約有600萬起車禍。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "which sounds like quite a big number,",
     "start": 165.073,
     "end": 167.574,
-    "zh": "听起来这数字挺大的，",
-    "zh_hant": "聽起來這數字挺大的，"
+    "zh": "听起来是个相当大的数字。",
+    "zh_hant": "聽起來是個相當大的數字。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "but considering there's almost 280 million registered vehicles in the US,",
     "start": 167.254,
     "end": 172.637,
-    "zh": "但考虑到美国注册车辆接近2.8亿辆，",
-    "zh_hant": "但考慮到美國註冊車輛接近2.8億輛，"
+    "zh": "但考虑到美国有近2.8亿辆注册车辆。",
+    "zh_hant": "但考慮到美國有近2.8億輛註冊車輛。"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "that's only a rate of 2.15%.",
     "start": 172.537,
     "end": 176.809,
-    "zh": "那只有2.15%的比例。",
-    "zh_hant": "那只有2.15%的比例。"
+    "zh": "这其实只有2.15%的比例。",
+    "zh_hant": "這其實只有2.15%的比例。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "Right, so that's the humans, not as bad as you might think.",
     "start": 176.859,
     "end": 181.241,
-    "zh": "好，那就是人类，没你想象的那么糟。",
-    "zh_hant": "好，那就是人類，沒你想象的那麼糟。"
+    "zh": "好吧，这就是人类，并没有你想象的那么糟糕。",
+    "zh_hant": "好吧，這就是人類，並沒有你想象的那麼糟糕。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "Enter the machines.",
     "start": 181.481,
     "end": 182.942,
-    "zh": "轮到机器登场了。",
-    "zh_hant": "輪到機器登場了。"
+    "zh": "现在轮到机器登场了。",
+    "zh_hant": "現在輪到機器登場了。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Tesla's had driver-assisted cars for many, many years.",
     "start": 185.763,
     "end": 190.105,
-    "zh": "特斯拉的辅助驾驶汽车已经存在很多年了。",
-    "zh_hant": "特斯拉的輔助駕駛汽車已經存在很多年了。"
+    "zh": "特斯拉生产辅助驾驶汽车已经很多很多年了。",
+    "zh_hant": "特斯拉生產輔助駕駛汽車已經很多很多年了。"
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "Those are the kind of cars that will drive by themselves in certain circumstances.",
     "start": 191.266,
     "end": 196.128,
-    "zh": "这类车在某些特定情况下可以自动驾驶。",
-    "zh_hant": "這類車在某些特定情況下可以自動駕駛。"
+    "zh": "这类汽车在特定情况下可以自动驾驶。",
+    "zh_hant": "這類汽車在特定情況下可以自動駕駛。"
   },
   {
-    "index": 49,
+    "index": 46,
     "text": "They'll do the steering, they'll do the acceleration, they'll do the braking, all by themselves.",
     "start": 195.778,
     "end": 201.071,
-    "zh": "它们会自己转向、加速、刹车，",
-    "zh_hant": "它們會自己轉向、加速、剎車，"
+    "zh": "它们会自己转向、自己加速、自己刹车。",
+    "zh_hant": "它們會自己轉向、自己加速、自己剎車。"
   },
   {
-    "index": 50,
-    "text": "But they're not fully autonomous, because they require having a human driver behind the wheel, ready to take control",
+    "index": 47,
+    "text": "But they're not fully autonomous, because they require having a human driver behind the wheel, ready to take control at any moment.",
     "start": 201.151,
-    "end": 207.254,
-    "zh": "但它们不是完全自动驾驶，因为需要有一个人类司机坐在方向盘后，随时准备接管",
-    "zh_hant": "但它們不是完全自動駕駛，因為需要有一個人類司機坐在方向盤後，隨時準備接管"
-  },
-  {
-    "index": 51,
-    "text": "at any moment.",
-    "start": 207.034,
     "end": 208.215,
-    "zh": "在任何时刻。",
-    "zh_hant": "在任何時刻。"
+    "zh": "但它们的自动驾驶并非完全自主，因为需要驾驶员坐在方向盘后面，随时准备接管控制权。",
+    "zh_hant": "但它們的自動駕駛並非完全自主，因為需要駕駛員坐在方向盤後面，隨時準備接管控制權。"
   },
   {
-    "index": 52,
+    "index": 48,
     "text": "Self-driving cars cover two different types of vehicle.",
     "start": 208.255,
     "end": 211.416,
@@ -424,7 +392,7 @@
     "zh_hant": "自動駕駛汽車涵蓋兩種不同型別的車輛。"
   },
   {
-    "index": 53,
+    "index": 49,
     "text": "Ones like the Tesla need a human co-pilot.",
     "start": 211.536,
     "end": 214.818,
@@ -432,23 +400,23 @@
     "zh_hant": "像特斯拉這樣的需要人類副駕駛。"
   },
   {
-    "index": 54,
+    "index": 50,
     "text": "But what about the ones without a human at the wheel?",
     "start": 214.998,
     "end": 218.099,
-    "zh": "但那些方向盘后没有人的呢？",
-    "zh_hant": "但那些方向盤後沒有人的呢？"
+    "zh": "但那些没有人类坐在驾驶座上的呢？",
+    "zh_hant": "但那些沒有人類坐在駕駛座上的呢？"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "The fully autonomous ones, the Waymos, have no driver in the car, just passenger only.",
     "start": 218.26,
     "end": 223.902,
-    "zh": "完全自动驾驶的Waymo汽车，车内没有司机，只有乘客。",
-    "zh_hant": "完全自動駕駛的Waymo汽車，車內沒有司機，只有乘客。"
+    "zh": "完全自动驾驶的Waymo汽车内没有司机，只有乘客。",
+    "zh_hant": "完全自動駕駛的Waymo汽車內沒有司機，只有乘客。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "In the United States, they exist in four cities:",
     "start": 223.702,
     "end": 227.964,
@@ -456,31 +424,31 @@
     "zh_hant": "在美國，它們存在於四個城市："
   },
   {
-    "index": 57,
+    "index": 53,
     "text": "San Francisco, Los Angeles, Phoenix, and Austin.",
     "start": 227.844,
     "end": 231.406,
-    "zh": "旧金山、洛杉矶、凤凰城和奥斯汀。",
-    "zh_hant": "舊金山、洛杉磯、鳳凰城和奧斯汀。"
+    "zh": "旧金山、洛杉矶、菲尼克斯和奥斯汀。",
+    "zh_hant": "舊金山、洛杉磯、菲尼克斯和奧斯汀。"
   },
   {
-    "index": 58,
+    "index": 54,
     "text": "These are the self-driving taxis by Waymo, so let's start with them.",
     "start": 231.486,
     "end": 235.908,
-    "zh": "这些就是Waymo的自动驾驶出租车，让我们从它们开始。",
-    "zh_hant": "這些就是Waymo的自動駕駛計程車，讓我們從它們開始。"
+    "zh": "这些是Waymo的自动驾驶出租车，那我们先从它们说起吧。",
+    "zh_hant": "這些是Waymo的自動駕駛計程車，那我們先從它們說起吧。"
   },
   {
-    "index": 59,
+    "index": 55,
     "text": "The fully autonomous, space-age vibe, self-driving car.",
     "start": 236.068,
     "end": 239.75,
-    "zh": "完全自动驾驶、未来感十足的汽车。",
-    "zh_hant": "完全自動駕駛、未來感十足的汽車。"
+    "zh": "完全自主、有太空时代氛围的自动驾驶汽车。",
+    "zh_hant": "完全自主、有太空時代氛圍的自動駕駛汽車。"
   },
   {
-    "index": 60,
+    "index": 56,
     "text": "Are they really five times safer than cars?",
     "start": 239.891,
     "end": 242.592,
@@ -488,15 +456,15 @@
     "zh_hant": "它們真的比汽車安全5倍嗎？"
   },
   {
-    "index": 61,
+    "index": 57,
     "text": "Driven by humans?",
     "start": 242.242,
     "end": 243.372,
-    "zh": "相对于人类驾驶的汽车？",
-    "zh_hant": "相對於人類駕駛的汽車？"
+    "zh": "由人类驾驶的汽车？",
+    "zh_hant": "由人類駕駛的汽車？"
   },
   {
-    "index": 62,
+    "index": 58,
     "text": "Well, according to Weiman's own reports,",
     "start": 243.453,
     "end": 245.853,
@@ -504,71 +472,71 @@
     "zh_hant": "根據Waymo自己的報告，"
   },
   {
-    "index": 63,
+    "index": 59,
     "text": "conducted by scientists and looked at by journalists,",
     "start": 245.534,
     "end": 248.515,
-    "zh": "报告由科学家进行、记者审阅，",
-    "zh_hant": "報告由科學家進行、記者審閱，"
+    "zh": "这些报告由科学家完成，也经过了记者的审视。",
+    "zh_hant": "這些報告由科學家完成，也經過了記者的審視。"
   },
   {
-    "index": 64,
+    "index": 60,
     "text": "yeah, ish, with one big caveat.",
     "start": 248.495,
     "end": 253.277,
-    "zh": "是的，差不多，但有一个重大前提。",
-    "zh_hant": "是的，差不多，但有一個重大前提。"
+    "zh": "嗯，差不多，但有一个重要的前提。",
+    "zh_hant": "嗯，差不多，但有一個重要的前提。"
   },
   {
-    "index": 65,
+    "index": 61,
     "text": "These cars do not drive everywhere.",
     "start": 253.337,
     "end": 255.658,
-    "zh": "这些车并不是到处都开。",
-    "zh_hant": "這些車並不是到處都開。"
+    "zh": "这些车并不是到处都能开。",
+    "zh_hant": "這些車並不是到處都能開。"
   },
   {
-    "index": 66,
+    "index": 62,
     "text": "They have a very limited area in which they operate.",
     "start": 255.759,
     "end": 259.26,
-    "zh": "它们只在非常有限的区域内运营。",
-    "zh_hant": "它們只在非常有限的區域內運營。"
+    "zh": "它们能在非常有限的区域运行。",
+    "zh_hant": "它們能在非常有限的區域執行。"
   },
   {
-    "index": 67,
-    "text": "They restrict themselves to the streets, and the areas,",
+    "index": 63,
+    "text": "They restrict themselves to the streets,",
     "start": 259.22,
-    "end": 263.042,
-    "zh": "它们限制自己行驶在街道和区域内，",
-    "zh_hant": "它們限制自己行駛在街道和區域內，"
+    "end": 262.242,
+    "zh": "它们把自己限制在街道上。",
+    "zh_hant": "它們把自己限制在街道上。"
   },
   {
-    "index": 68,
-    "text": "and the speeds, and the weather conditions where they know they can drive safely.",
-    "start": 262.692,
+    "index": 64,
+    "text": "and the areas, and the speeds, and the weather conditions where they know they can drive safely.",
+    "start": 261.892,
     "end": 266.684,
-    "zh": "包括速度、天气条件，只在它们知道能安全驾驶的地方行驶。",
-    "zh_hant": "包括速度、天氣條件，只在它們知道能安全駕駛的地方行駛。"
+    "zh": "以及它们知道自己能安全行驶的区域、速度和天气条件下。",
+    "zh_hant": "以及它們知道自己能安全行駛的區域、速度和天氣條件下。"
   },
   {
-    "index": 69,
+    "index": 65,
     "text": "They don't go on highways, where many of the most dangerous accidents take place.",
     "start": 266.884,
     "end": 271.346,
-    "zh": "它们不上高速公路，而许多最危险的事故发生在高速公路上。",
-    "zh_hant": "它們不上高速公路，而許多最危險的事故發生在高速公路上。"
+    "zh": "它们不上高速，而许多最危险的事故都发生在高速上。",
+    "zh_hant": "它們不上高速，而許多最危險的事故都發生在高速上。"
   },
   {
-    "index": 70,
+    "index": 66,
     "text": "So when they do the studies, they have to compare their accident rate with...",
     "start": 271.366,
     "end": 277.269,
-    "zh": "所以做研究时，它们必须将事故率与……比较。",
-    "zh_hant": "所以做研究時，它們必須將事故率與……比較。"
+    "zh": "所以当他们做研究时，他们必须将事故率与……相比，",
+    "zh_hant": "所以當他們做研究時，他們必須將事故率與……相比，"
   },
   {
-    "index": 71,
+    "index": 67,
     "text": "Human accident rates,",
     "start": 276.919,
     "end": 278.89,
@@ -576,143 +544,135 @@
     "zh_hant": "人類的事故率，"
   },
   {
-    "index": 72,
-    "text": "just in the area that matches the area that they drive in —",
+    "index": 68,
+    "text": "just in the area that matches the area that they drive in — that matching is very hard to get right.",
     "start": 278.811,
-    "end": 282.81,
-    "zh": "只在与之行驶区域匹配的区域内比较——",
-    "zh_hant": "只在與之行駛區域匹配的區域內比較——"
-  },
-  {
-    "index": 73,
-    "text": "that matching is very hard to get right.",
-    "start": 282.552,
     "end": 285.494,
-    "zh": "这种匹配很难做到精确。",
-    "zh_hant": "這種匹配很難做到精確。"
+    "zh": "仅在与其行驶区域相匹配的区域——这种匹配很难做到准确。",
+    "zh_hant": "僅在與其行駛區域相匹配的區域——這種匹配很難做到準確。"
   },
   {
-    "index": 74,
+    "index": 69,
     "text": "The first issue with this statistic is that Waymo cars do not drive everywhere.",
     "start": 285.414,
     "end": 290.636,
-    "zh": "这个统计数据的第一个问题是Waymo汽车并不到处行驶。",
-    "zh_hant": "這個統計資料的第一個問題是Waymo汽車並不到處行駛。"
+    "zh": "这个统计数据的第一个问题是Waymo汽车并非到处都能行驶。",
+    "zh_hant": "這個統計資料的第一個問題是Waymo汽車並非到處都能行駛。"
   },
   {
-    "index": 75,
+    "index": 70,
     "text": "The kinds of accidents that have been reported are relatively minor ones.",
     "start": 290.576,
     "end": 296.179,
-    "zh": "报告的事故类型相对较轻微。",
-    "zh_hant": "報告的事故型別相對較輕微。"
+    "zh": "报告中所涉及的事故类型都是相对轻微的事故。",
+    "zh_hant": "報告中所涉及的事故型別都是相對輕微的事故。"
   },
   {
-    "index": 76,
+    "index": 71,
     "text": "Some have no injuries at all.",
     "start": 296.199,
     "end": 298.38,
-    "zh": "有些完全没有受伤。",
-    "zh_hant": "有些完全沒有受傷。"
+    "zh": "有些完全没有人员受伤。",
+    "zh_hant": "有些完全沒有人員受傷。"
   },
   {
-    "index": 77,
+    "index": 72,
     "text": "Only two had severe injuries.",
     "start": 298.58,
     "end": 300.641,
-    "zh": "只有两起造成严重伤害。",
-    "zh_hant": "只有兩起造成嚴重傷害。"
+    "zh": "只有两起造成了重伤。",
+    "zh_hant": "只有兩起造成了重傷。"
   },
   {
-    "index": 78,
+    "index": 73,
     "text": "The results really say very little about the kind of safety that the public is interested in,",
     "start": 300.401,
     "end": 306.404,
-    "zh": "这些结果实际上对公众关心的安全问题说明很少，",
-    "zh_hant": "這些結果實際上對公眾關心的安全問題說明很少，"
+    "zh": "这些结果其实很难说明公众关心的那种安全性。",
+    "zh_hant": "這些結果其實很難說明公眾關心的那種安全性。"
   },
   {
-    "index": 79,
+    "index": 74,
     "text": "namely fatalities and serious injuries on the road generally,",
     "start": 306.624,
     "end": 312.027,
-    "zh": "即总体上的死亡和重伤，",
-    "zh_hant": "即總體上的死亡和重傷，"
+    "zh": "即道路上的死亡和重伤事故整体情况。",
+    "zh_hant": "即道路上的死亡和重傷事故整體情況。"
   },
   {
-    "index": 80,
+    "index": 75,
     "text": "not just in a Limited area in a few select cities.",
     "start": 312.087,
     "end": 315.989,
-    "zh": "不仅仅是在少数几个城市中的有限区域。",
-    "zh_hant": "不僅僅是在少數幾個城市中的有限區域。"
+    "zh": "而不仅仅是在少数几个城市中的有限区域内。",
+    "zh_hant": "而不僅僅是在少數幾個城市中的有限區域內。"
   },
   {
-    "index": 81,
+    "index": 76,
     "text": "These cars also haven't driven as much as human drivers.",
     "start": 315.869,
     "end": 319.331,
-    "zh": "此外，这些车行驶里程远不及人类司机。",
-    "zh_hant": "此外，這些車行駛里程遠不及人類司機。"
+    "zh": "这些车的行驶里程也不如人类司机多。",
+    "zh_hant": "這些車的行駛里程也不如人類司機多。"
   },
   {
-    "index": 82,
+    "index": 77,
     "text": "Waymo cars have driven about 70 million miles, but that's a fraction of what human drivers drive.",
     "start": 319.211,
     "end": 325.534,
-    "zh": "Waymo汽车行驶了约7000万英里，但这只是人类司机行驶的一小部分。",
-    "zh_hant": "Waymo汽車行駛了約7000萬英里，但這只是人類司機行駛的一小部分。"
+    "zh": "Waymo汽车已经行驶了大约7000万英里，但这只是人类司机驾驶里程的一小部分。",
+    "zh_hant": "Waymo汽車已經行駛了大約7000萬英里，但這只是人類司機駕駛里程的一小部分。"
   },
   {
-    "index": 83,
+    "index": 78,
     "text": "As I said, human drivers in the United States drive over 3 trillion miles a year.",
     "start": 325.184,
     "end": 330.496,
-    "zh": "如前所述，美国人类司机每年行驶超过3万亿英里。",
-    "zh_hant": "如前所述，美國人類司機每年行駛超過3萬億英里。"
+    "zh": "我之前说过，美国的人类司机每年行驶超过3万亿英里。",
+    "zh_hant": "我之前說過，美國的人類司機每年行駛超過3萬億英里。"
   },
   {
-    "index": 84,
-    "text": "So Waymo would have to drive hundreds of millions of miles before",
+    "index": 79,
+    "text": "So Waymo would have to drive hundreds of millions of miles",
     "start": 330.156,
-    "end": 335.419,
-    "zh": "所以Waymo需要行驶数亿英里才能",
-    "zh_hant": "所以Waymo需要行駛數億英里才能"
+    "end": 334.478,
+    "zh": "所以Waymo必须行驶数亿英里。",
+    "zh_hant": "所以Waymo必須行駛數億英里。"
   },
   {
-    "index": 85,
-    "text": "it could generate statistically reliable data on serious injuries and fatalities.",
-    "start": 335.069,
+    "index": 80,
+    "text": "before it could generate statistically reliable data on serious injuries and fatalities.",
+    "start": 334.518,
     "end": 340.341,
-    "zh": "产生关于重伤和死亡的统计可靠数据。",
-    "zh_hant": "產生關於重傷和死亡的統計可靠資料。"
+    "zh": "才能生成关于重伤和死亡的统计学上可靠的数据。",
+    "zh_hant": "才能生成關於重傷和死亡的統計學上可靠的資料。"
   },
   {
-    "index": 86,
+    "index": 81,
     "text": "This means that Waymo have a long way to go before they can prove they match,",
     "start": 340.201,
     "end": 344.583,
-    "zh": "这意味着Waymo在证明自己能达到人类司机",
-    "zh_hant": "這意味著Waymo在證明自己能達到人類司機"
+    "zh": "这意味着Waymo距离证明他们能达到人类司机的水平还有很长的路要走。",
+    "zh_hant": "這意味著Waymo距離證明他們能達到人類司機的水平還有很長的路要走。"
   },
   {
-    "index": 87,
+    "index": 82,
     "text": "Or ideally better, that one death per million mile rate that human drivers have.",
     "start": 344.233,
     "end": 349.125,
-    "zh": "或理想情况下更好，即每1亿英里一人死亡这一水平之前，还有很长的路要走。",
-    "zh_hant": "或理想情況下更好，即每1億英里一人死亡這一水平之前，還有很長的路要走。"
+    "zh": "或者理想情况下更低，即每1亿英里死亡1人的比率。",
+    "zh_hant": "或者理想情況下更低，即每1億英里死亡1人的比率。"
   },
   {
-    "index": 88,
+    "index": 83,
     "text": "We contacted Waymo, and they told us that during the 70 million miles their cars have driven,",
     "start": 349.185,
     "end": 354.068,
-    "zh": "我们联系了Waymo，他们告诉我们，在他们的汽车行驶的7000万英里中，",
-    "zh_hant": "我們聯絡了Waymo，他們告訴我們，在他們的汽車行駛的7000萬英里中，"
+    "zh": "我们联系了Waymo，他们告诉我们，在他们的汽车行驶的7000万英里中。",
+    "zh_hant": "我們聯絡了Waymo，他們告訴我們，在他們的汽車行駛的7000萬英里中。"
   },
   {
-    "index": 89,
+    "index": 84,
     "text": "they were only involved in 48 accidents.",
     "start": 354.188,
     "end": 357.129,
@@ -720,111 +680,103 @@
     "zh_hant": "只涉及48起事故。"
   },
   {
-    "index": 90,
+    "index": 85,
     "text": "Most of these were minor, but two did result in fatalities.",
     "start": 356.929,
     "end": 360.711,
-    "zh": "其中大多数是轻微的，但两起导致了死亡。",
-    "zh_hant": "其中大多數是輕微的，但兩起導致了死亡。"
+    "zh": "其中大部分是轻微事故，但确实有两起导致了死亡。",
+    "zh_hant": "其中大部分是輕微事故，但確實有兩起導致了死亡。"
   },
   {
-    "index": 91,
-    "text": "Also, this figure only counts if",
+    "index": 86,
+    "text": "Also, this figure only counts if you acknowledge the caveat that these cars were driven",
     "start": 360.752,
-    "end": 363.012,
-    "zh": "此外，这个数字只在承认",
-    "zh_hant": "此外，這個數字只在承認"
+    "end": 365.534,
+    "zh": "此外，这个数字只有在考虑到以下前提才算数：这些车是在特定区域的行驶条件下行驶的。",
+    "zh_hant": "此外，這個數字只有在考慮到以下前提才算數：這些車是在特定區域的行駛條件下行駛的。"
   },
   {
-    "index": 92,
-    "text": "you acknowledge the caveat that these cars were driven in specific areas of four cities",
-    "start": 362.662,
-    "end": 367.575,
-    "zh": "前提的情况下才算数：这些车是在四个城市的特定区域行驶的，",
-    "zh_hant": "前提的情況下才算數：這些車是在四個城市的特定區域行駛的，"
-  },
-  {
-    "index": 93,
-    "text": "during safe weather conditions,",
-    "start": 367.275,
+    "index": 87,
+    "text": "in specific areas of four cities during safe weather conditions,",
+    "start": 365.184,
     "end": 369.336,
-    "zh": "在安全的天气条件下，",
-    "zh_hant": "在安全的天氣條件下，"
+    "zh": "在四个城市的安全天气条件下。",
+    "zh_hant": "在四個城市的安全天氣條件下。"
   },
   {
-    "index": 94,
+    "index": 88,
     "text": "not most humans' driving reality.",
     "start": 369.476,
     "end": 371.877,
-    "zh": "而不是大多数人类司机驾驶的实际情况。",
-    "zh_hant": "而不是大多數人類司機駕駛的實際情況。"
+    "zh": "而不是大多数人类的实际驾驶情况。",
+    "zh_hant": "而不是大多數人類的實際駕駛情況。"
   },
   {
-    "index": 95,
+    "index": 89,
     "text": "So what about when you add a human into the equation?",
     "start": 372.577,
     "end": 376.379,
-    "zh": "那么，当把人类加入等式会怎样？",
-    "zh_hant": "那麼，當把人類加入等式會怎樣？"
+    "zh": "那如果把人类加入这个等式呢？",
+    "zh_hant": "那如果把人類加入這個等式呢？"
   },
   {
-    "index": 96,
+    "index": 90,
     "text": "Do you end up with the perfect match?",
     "start": 376.499,
     "end": 378.44,
-    "zh": "最终会成为完美匹配吗？",
-    "zh_hant": "最終會成為完美匹配嗎？"
+    "zh": "你会得到完美的组合吗？",
+    "zh_hant": "你會得到完美的組合嗎？"
   },
   {
-    "index": 97,
+    "index": 91,
     "text": "Well, according to Tesla's Q2 2025 report,",
     "start": 378.5,
     "end": 382.302,
-    "zh": "根据特斯拉2025年第二季度报告，",
-    "zh_hant": "根據特斯拉2025年第二季度報告，"
+    "zh": "根据特斯拉2025年第二季度的报告。",
+    "zh_hant": "根據特斯拉2025年第二季度的報告。"
   },
   {
-    "index": 98,
-    "text": "Teslas with autopilot engaged were ten times safer than human-driven cars, making them",
+    "index": 92,
+    "text": "Teslas with autopilot engaged were ten times safer than human-driven cars,",
     "start": 382.362,
-    "end": 387.585,
-    "zh": "开启自动驾驶模式的特斯拉比人类驾驶的汽车安全10倍，使其",
-    "zh_hant": "開啟自動駕駛模式的特斯拉比人類駕駛的汽車安全10倍，使其"
+    "end": 387.184,
+    "zh": "开启自动驾驶辅助功能的特斯拉比人类驾驶的汽车安全10倍。",
+    "zh_hant": "開啟自動駕駛輔助功能的特斯拉比人類駕駛的汽車安全10倍。"
   },
   {
-    "index": 99,
-    "text": "twice as safe as Waymo cars.",
-    "start": 387.305,
+    "index": 93,
+    "text": "making them twice as safe as Waymo cars.",
+    "start": 386.834,
     "end": 389.305,
-    "zh": "比Waymo汽车安全2倍。",
-    "zh_hant": "比Waymo汽車安全2倍。"
+    "zh": "使其安全性是Waymo汽车的两倍。",
+    "zh_hant": "使其安全性是Waymo汽車的兩倍。"
   },
   {
-    "index": 100,
+    "index": 94,
     "text": "But Mark isn't convinced.",
     "start": 389.466,
     "end": 391.827,
-    "zh": "但Mark并不信服。",
-    "zh_hant": "但Mark並不信服。"
+    "zh": "但马克并不信服。",
+    "zh_hant": "但馬克並不信服。"
   },
   {
-    "index": 101,
+    "index": 95,
     "text": "The idea that Tesla cars are safer than Waymo cars is totally bogus at this point.",
     "start": 391.707,
     "end": 397.689,
-    "zh": "特斯拉汽车比Waymo汽车更安全的说法目前完全是无稽之谈。",
-    "zh_hant": "特斯拉汽車比Waymo汽車更安全的說法目前完全是無稽之談。"
+    "zh": "认为特斯拉汽车比Waymo汽车更安全的说法目前完全是无稽之谈。",
+    "zh_hant": "認為特斯拉汽車比Waymo汽車更安全的說法目前完全是無稽之談。"
   },
   {
-    "index": 102,
+    "index": 96,
     "text": "OK, he's really not convinced.",
     "start": 397.69,
     "end": 399.871,
-    "zh": "好吧，他确实不太信服。",
-    "zh_hant": "好吧，他確實不太信服。"
+    "zh": "好吧，他确实不怎么信服。",
+    "zh_hant": "好吧，他確實不怎麼信服。"
   },
   {
-    "index": 103,
+    "index": 97,
     "text": "Tesla cars can drive by themselves.",
     "start": 399.671,
     "end": 402.812,
@@ -832,79 +784,71 @@
     "zh_hant": "特斯拉汽車可以自動駕駛。"
   },
   {
-    "index": 104,
+    "index": 98,
     "text": "They can steer, and they can brake and accelerate.",
     "start": 402.462,
     "end": 404.933,
-    "zh": "它们能转向、刹车和加速。",
-    "zh_hant": "它們能轉向、剎車和加速。"
+    "zh": "它们可以转向、刹车和加速。",
+    "zh_hant": "它們可以轉向、剎車和加速。"
   },
   {
-    "index": 105,
-    "text": "But there's a human behind the wheel at all times, and if something begins to go",
+    "index": 99,
+    "text": "But there's a human behind the wheel at all times, and if something begins to go wrong, they can correct it.",
     "start": 404.974,
-    "end": 410.356,
-    "zh": "但始终有一个人类坐在方向盘后，如果出现问题，",
-    "zh_hant": "但始終有一個人類坐在方向盤後，如果出現問題，"
-  },
-  {
-    "index": 106,
-    "text": "wrong, they can correct it.",
-    "start": 410.006,
     "end": 411.557,
-    "zh": "他们可以纠正。",
-    "zh_hant": "他們可以糾正。"
+    "zh": "但始终有人类坐在方向盘后面，如果出现问题，他们可以纠正。",
+    "zh_hant": "但始終有人類坐在方向盤後面，如果出現問題，他們可以糾正。"
   },
   {
-    "index": 107,
+    "index": 100,
     "text": "So you can't measure their accident rate and compare that to the accident rate of Waymo,",
     "start": 411.537,
     "end": 417.179,
-    "zh": "所以你不能拿它们的事故率与Waymo的事故率比较，",
-    "zh_hant": "所以你不能拿它們的事故率與Waymo的事故率比較，"
+    "zh": "所以你不能拿它们的事故率和Waymo的事故率进行比较。",
+    "zh_hant": "所以你不能拿它們的事故率和Waymo的事故率進行比較。"
   },
   {
-    "index": 108,
+    "index": 101,
     "text": "where there's no one there to take control if something goes wrong.",
     "start": 417.2,
     "end": 421.261,
-    "zh": "因为Waymo那边没有人在出问题时接管。",
-    "zh_hant": "因為Waymo那邊沒有人在出問題時接管。"
+    "zh": "因为Waymo在出事时没有人能接管控制。",
+    "zh_hant": "因為Waymo在出事時沒有人能接管控制。"
   },
   {
-    "index": 109,
+    "index": 102,
     "text": "So any statement that Tesla cars are safer than Waymo is just bogus, period, full stop.",
     "start": 421.142,
     "end": 426.844,
-    "zh": "所以任何说特斯拉比Waymo安全的说法就是无稽之谈，句号，完。",
-    "zh_hant": "所以任何說特斯拉比Waymo安全的說法就是無稽之談，句號，完。"
+    "zh": "所以任何声称特斯拉汽车比Waymo更安全的说法都是无稽之谈，句号。",
+    "zh_hant": "所以任何聲稱特斯拉汽車比Waymo更安全的說法都是無稽之談，句號。"
   },
   {
-    "index": 110,
+    "index": 103,
     "text": "As Mark points out, you cannot pit the two cars against each other, as you're not comparing like for like.",
     "start": 427.065,
     "end": 432.487,
-    "zh": "正如Mark所指出的，你不能把这两款车对立比较，因为不是在比较同类。",
-    "zh_hant": "正如Mark所指出的，你不能把這兩款車對立比較，因為不是在比較同類。"
+    "zh": "正如马克指出的，你不能拿这两款车直接对比，因为你比较的并不是同类事物。",
+    "zh_hant": "正如馬克指出的，你不能拿這兩款車直接對比，因為你比較的並不是同類事物。"
   },
   {
-    "index": 111,
+    "index": 104,
     "text": "So while yes, Tesla on Autopilot does have good safety stats,",
     "start": 432.607,
     "end": 437.009,
-    "zh": "所以虽然特斯拉自动驾驶确实有不错的统计数据，",
-    "zh_hant": "所以雖然特斯拉自動駕駛確實有不錯的統計資料，"
+    "zh": "所以虽然特斯拉开启自动驾驶辅助时确实有良好的安全数据。",
+    "zh_hant": "所以雖然特斯拉開啟自動駕駛輔助時確實有良好的安全資料。"
   },
   {
-    "index": 112,
+    "index": 105,
     "text": "it's difficult to disentangle whether the incident avoidance was more to do with the human or the computer.",
     "start": 437.069,
     "end": 442.692,
-    "zh": "但很难分辨事故避免更多是归功于人类还是计算机。",
-    "zh_hant": "但很難分辨事故避免更多是歸功於人類還是計算機。"
+    "zh": "但很难区分出事时的避让行为更多是人类的功劳还是电脑的作用。",
+    "zh_hant": "但很難區分出事時的避讓行為更多是人類的功勞還是電腦的作用。"
   },
   {
-    "index": 113,
+    "index": 106,
     "text": "There are also other issues with this data.",
     "start": 442.853,
     "end": 445.154,
@@ -912,183 +856,159 @@
     "zh_hant": "這些資料還有其他問題。"
   },
   {
-    "index": 114,
+    "index": 107,
     "text": "For example, they're comparing a global fleet of Teslas with cars being driven in the US.",
     "start": 445.394,
     "end": 451.097,
-    "zh": "例如，他们是在把全球的特斯拉车队与美国驾驶的汽车进行比较。",
-    "zh_hant": "例如，他們是在把全球的特斯拉車隊與美國駕駛的汽車進行比較。"
+    "zh": "例如，他们是将全球范围的特斯拉与美国驾驶的汽车进行比较。",
+    "zh_hant": "例如，他們是將全球範圍的特斯拉與美國駕駛的汽車進行比較。"
   },
   {
-    "index": 115,
-    "text": "So some of these Teslas are being driven in countries like Norway,",
+    "index": 108,
+    "text": "So some of these Teslas are being driven in countries like Norway, with really good driving safety records.",
     "start": 451.237,
-    "end": 455.619,
-    "zh": "所以有些特斯拉在挪威等国家行驶，",
-    "zh_hant": "所以有些特斯拉在挪威等國家行駛，"
-  },
-  {
-    "index": 116,
-    "text": "with really good driving safety records.",
-    "start": 455.269,
     "end": 458.42,
-    "zh": "这些国家有很好的驾驶安全记录。",
-    "zh_hant": "這些國家有很好的駕駛安全記錄。"
+    "zh": "所以其中一些特斯拉是在挪威等国行驶的，那些国家的驾驶安全记录非常好。",
+    "zh_hant": "所以其中一些特斯拉是在挪威等國行駛的，那些國家的駕駛安全記錄非常好。"
   },
   {
-    "index": 117,
+    "index": 109,
     "text": "And number two, the miles are different.",
     "start": 458.46,
     "end": 461.202,
-    "zh": "第二，里程数不同。",
-    "zh_hant": "第二，里程數不同。"
+    "zh": "第二点，行驶里程不同。",
+    "zh_hant": "第二點，行駛里程不同。"
   },
   {
-    "index": 118,
+    "index": 110,
     "text": "The majority of autopilot miles will be on a highway.",
     "start": 460.902,
     "end": 464.323,
-    "zh": "大部分自动驾驶里程是在高速公路上。",
-    "zh_hant": "大部分自動駕駛里程是在高速公路上。"
+    "zh": "大部分自动驾驶辅助的里程是在高速公路上。",
+    "zh_hant": "大部分自動駕駛輔助的里程是在高速公路上。"
   },
   {
-    "index": 119,
-    "text": "Tesla's own safety manual states",
+    "index": 111,
+    "text": "Tesla's own safety manual states that autopilot should not be used on city streets",
     "start": 464.303,
-    "end": 466.384,
-    "zh": "特斯拉自己的安全手册指出",
-    "zh_hant": "特斯拉自己的安全手冊指出"
-  },
-  {
-    "index": 120,
-    "text": "that autopilot should not be used on city streets",
-    "start": 466.034,
     "end": 469.766,
-    "zh": "自动驾驶不应在城市街道上使用，",
-    "zh_hant": "自動駕駛不應在城市街道上使用，"
+    "zh": "特斯拉自己的安全手册指出，自动驾驶辅助不应在城市街道上使用。",
+    "zh_hant": "特斯拉自己的安全手冊指出，自動駕駛輔助不應在城市街道上使用。"
   },
   {
-    "index": 121,
+    "index": 112,
     "text": "or on roads where traffic conditions are constantly changing,",
     "start": 469.506,
     "end": 473.207,
-    "zh": "也不应在交通状况不断变化的道路上使用，",
-    "zh_hant": "也不應在交通狀況不斷變化的道路上使用，"
+    "zh": "或在交通状况不断变化的道路上使用。",
+    "zh_hant": "或在交通狀況不斷變化的道路上使用。"
   },
   {
-    "index": 122,
+    "index": 113,
     "text": "which sounds like exactly the kind of roads and conditions where most accidents happen.",
     "start": 473.108,
     "end": 479.351,
-    "zh": "听起来这恰恰是大多数事故发生的道路和条件。",
-    "zh_hant": "聽起來這恰恰是大多數事故發生的道路和條件。"
+    "zh": "这听起来正是大多数事故发生的道路和条件。",
+    "zh_hant": "這聽起來正是大多數事故發生的道路和條件。"
   },
   {
-    "index": 123,
+    "index": 114,
     "text": "Tesla don't make this claim about their self-driving robo-taxis,",
     "start": 479.591,
     "end": 483.393,
-    "zh": "特斯拉并未对其自动驾驶出租车做出这种声明，",
-    "zh_hant": "特斯拉並未對其自動駕駛計程車做出這種宣告，"
+    "zh": "特斯拉并没有对其无人驾驶出租车做出这一声明。",
+    "zh_hant": "特斯拉並沒有對其無人駕駛計程車做出這一宣告。"
   },
   {
-    "index": 124,
+    "index": 115,
     "text": "and there are currently no private vehicles that do not require a human in the driver's seat.",
     "start": 483.353,
     "end": 488.155,
-    "zh": "目前没有任何私人车辆可以不要求人类坐在驾驶员座位上。",
-    "zh_hant": "目前沒有任何私人車輛可以不要求人類坐在駕駛員座位上。"
+    "zh": "目前也没有不需要人类坐在驾驶座上的私人车辆。",
+    "zh_hant": "目前也沒有不需要人類坐在駕駛座上的私人車輛。"
   },
   {
-    "index": 125,
+    "index": 116,
     "text": "There are also strict rules about where and when a driver can activate self-drive mode,",
     "start": 488.175,
     "end": 493.478,
-    "zh": "关于司机何时何地可以启动自动驾驶模式也有严格规定，",
-    "zh_hant": "關於司機何時何地可以啟動自動駕駛模式也有嚴格規定，"
+    "zh": "关于驾驶员何时何地可以激活自动驾驶模式也有严格的规定。",
+    "zh_hant": "關於駕駛員何時何地可以啟用自動駕駛模式也有嚴格的規定。"
   },
   {
-    "index": 126,
+    "index": 117,
     "text": "largely because the self-drive technology isn't good at Tackling unknowns.",
     "start": 493.458,
     "end": 498.08,
-    "zh": "主要是因为自动驾驶技术在应对未知情况方面不够好。",
-    "zh_hant": "主要是因為自動駕駛技術在應對未知情況方面不夠好。"
+    "zh": "主要是因为自动驾驶技术不擅长处理未知情况。",
+    "zh_hant": "主要是因為自動駕駛技術不擅長處理未知情況。"
   },
   {
-    "index": 127,
-    "text": "The fundamental problem that they're dealing with is they have a machine learning system",
+    "index": 118,
+    "text": "The fundamental problem that they're dealing with is they have a machine learning system that recognises the world around them,",
     "start": 497.96,
-    "end": 502.702,
-    "zh": "他们面临的根本问题是他们有一个机器学习系统，",
-    "zh_hant": "他們面臨的根本問題是他們有一個機器學習系統，"
-  },
-  {
-    "index": 128,
-    "text": "that recognises the world around them,",
-    "start": 502.603,
     "end": 504.983,
-    "zh": "它识别周围的世界，",
-    "zh_hant": "它識別周圍的世界，"
+    "zh": "他们面临的根本问题是，他们有一个能识别周围世界的机器学习系统。",
+    "zh_hant": "他們面臨的根本問題是，他們有一個能識別周圍世界的機器學習系統。"
   },
   {
-    "index": 129,
-    "text": "and they train this machine learning system on thousands and thousands of hours of videos",
+    "index": 119,
+    "text": "and they train this machine learning system",
     "start": 504.633,
-    "end": 511.107,
-    "zh": "他们用成千上万小时的视频和实际驾驶条件",
-    "zh_hant": "他們用成千上萬小時的影片和實際駕駛條件"
+    "end": 507.665,
+    "zh": "他们训练这个机器学习系统。",
+    "zh_hant": "他們訓練這個機器學習系統。"
   },
   {
-    "index": 130,
-    "text": "and actual driving conditions.",
-    "start": 510.757,
+    "index": 120,
+    "text": "on thousands and thousands of hours of videos and actual driving conditions.",
+    "start": 507.315,
     "end": 513.027,
-    "zh": "来训练这个机器学习系统。",
-    "zh_hant": "來訓練這個機器學習系統。"
+    "zh": "使用数千小时的视频和实际驾驶条件数据。",
+    "zh_hant": "使用數千小時的影片和實際駕駛條件資料。"
   },
   {
-    "index": 131,
+    "index": 121,
     "text": "But the real conditions that cause accidents are extraordinarily rare.",
     "start": 513.168,
     "end": 517.87,
-    "zh": "但真正导致事故的条件非常罕见。",
-    "zh_hant": "但真正導致事故的條件非常罕見。"
+    "zh": "但真正导致事故的条件极为罕见。",
+    "zh_hant": "但真正導致事故的條件極為罕見。"
   },
   {
-    "index": 132,
+    "index": 122,
     "text": "It's unlikely to be represented in the training data.",
     "start": 517.691,
     "end": 521.014,
-    "zh": "这可能不会在训练数据中体现。",
-    "zh_hant": "這可能不會在訓練資料中體現。"
+    "zh": "不太可能出现在训练数据中。",
+    "zh_hant": "不太可能出現在訓練資料中。"
   },
   {
-    "index": 133,
+    "index": 123,
     "text": "Thanks to Mark McCarthy.",
     "start": 522.777,
     "end": 524.458,
-    "zh": "感谢Mark McCarthy。",
-    "zh_hant": "感謝Mark McCarthy。"
+    "zh": "感谢马克·麦卡锡。",
+    "zh_hant": "感謝馬克·麥卡錫。"
   },
   {
-    "index": 134,
+    "index": 124,
     "text": "And that's all we have time for this week.",
     "start": 524.298,
     "end": 526.62,
-    "zh": "这就是本周的全部内容。",
-    "zh_hant": "這就是本週的全部內容。"
+    "zh": "本周的节目时间就到这里了。",
+    "zh_hant": "本週的節目時間就到這裡了。"
   },
   {
-    "index": 135,
+    "index": 125,
     "text": "If you've seen a number in the news you want us to take a look at, email the programme at moreorless@bbc.co.uk.",
     "start": 526.381,
     "end": 532.867,
-    "zh": "如果你在新闻中看到某个数字想让我们分析，请发送邮件至moreorless@bbc.co.uk。",
-    "zh_hant": "如果你在新聞中看到某個數字想讓我們分析，請傳送郵件至moreorless@bbc.co.uk。"
+    "zh": "如果你在新闻中看到什么数字想让我们研究一下，请发邮件到moreorless@bbc.co.uk联系我们。",
+    "zh_hant": "如果你在新聞中看到什麼數字想讓我們研究一下，請發郵件到moreorless@bbc.co.uk聯絡我們。"
   },
   {
-    "index": 136,
+    "index": 126,
     "text": "Until next time, goodbye.",
     "start": 533.088,
     "end": 535.23,

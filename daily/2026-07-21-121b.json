@@ -20,16 +20,16 @@
     "text": "Hello and thanks for downloading the More or Less podcast.",
     "start": 5.953,
     "end": 9.614,
-    "zh": "你好，感谢下载《多或少》播客。",
-    "zh_hant": "你好，感謝下載《多或少》播客。"
+    "zh": "你好，感谢下载“多或少”播客。",
+    "zh_hant": "你好，感謝下載“多或少”播客。"
   },
   {
     "index": 3,
     "text": "We're the programme that looks at the numbers in the news, and in life, and in the sky.",
     "start": 9.615,
     "end": 14.917,
-    "zh": "我们是关注新闻、生活以及天空中数字的节目。",
-    "zh_hant": "我們是關注新聞、生活以及天空中數字的節目。"
+    "zh": "我们是关注新闻、生活和天空中数字的节目。",
+    "zh_hant": "我們是關注新聞、生活和天空中數字的節目。"
   },
   {
     "index": 4,
@@ -44,8 +44,8 @@
     "text": "If there's one thing Donald Trump definitely doesn't like,",
     "start": 18.559,
     "end": 22.501,
-    "zh": "如果说有一件事唐纳德·特朗普肯定不喜欢，",
-    "zh_hant": "如果說有一件事唐納德·特朗普肯定不喜歡，"
+    "zh": "如果有一件事唐纳德·特朗普绝对不喜欢，",
+    "zh_hant": "如果有一件事唐納德·特朗普絕對不喜歡，"
   },
   {
     "index": 6,
@@ -60,91 +60,75 @@
     "text": "The windmills, they kill so many birds.",
     "start": 26.663,
     "end": 32.165,
-    "zh": "这些风车杀死了太多鸟。",
-    "zh_hant": "這些風車殺死了太多鳥。"
+    "zh": "那些风车，它们杀死了很多鸟。",
+    "zh_hant": "那些風車，它們殺死了很多鳥。"
   },
   {
     "index": 8,
     "text": "You look underneath some of those windmills, it's like a killing field of birds.",
     "start": 31.815,
     "end": 35.747,
-    "zh": "你看那些风车下面，就像鸟类的杀戮场。",
-    "zh_hant": "你看那些風車下面，就像鳥類的殺戮場。"
+    "zh": "你到那些风车下面看看，就像鸟类的屠杀场。",
+    "zh_hant": "你到那些風車下面看看，就像鳥類的屠殺場。"
   },
   {
     "index": 9,
     "text": "It's been suggested that Trump's dislike of windmills goes back to a golfing dispute.",
     "start": 36.288,
     "end": 41.63,
-    "zh": "有人提出，特朗普对风车的反感源于一场高尔夫纠纷。",
-    "zh_hant": "有人提出，特朗普對風車的反感源於一場高爾夫糾紛。"
+    "zh": "有人提出，特朗普对风车的不满源于一场高尔夫纠纷。",
+    "zh_hant": "有人提出，特朗普對風車的不滿源於一場高爾夫糾紛。"
   },
   {
     "index": 10,
-    "text": "In the early 2010s, a brave soul proposed",
+    "text": "In the early 2010s,",
     "start": 42.111,
-    "end": 46.032,
-    "zh": "2010年代初，一位勇敢的人提议",
-    "zh_hant": "2010年代初，一位勇敢的人提議"
+    "end": 44.151,
+    "zh": "在2010年代初，",
+    "zh_hant": "在2010年代初，"
   },
   {
     "index": 11,
-    "text": "building a wind farm off the coast of a golf course he owns in Scotland.",
-    "start": 45.682,
+    "text": "a brave soul proposed building a wind farm off the coast of a golf course he owns in Scotland.",
+    "start": 43.931,
     "end": 50.414,
-    "zh": "在他拥有的苏格兰高尔夫球场海岸外建一座海上风电场。",
-    "zh_hant": "在他擁有的蘇格蘭高爾夫球場海岸外建一座海上風電場。"
+    "zh": "一个勇敢的人提议在他在苏格兰拥有的一座高尔夫球场附近海域建设风电场。",
+    "zh_hant": "一個勇敢的人提議在他在蘇格蘭擁有的一座高爾夫球場附近海域建設風電場。"
   },
   {
     "index": 12,
-    "text": "Trump fought back,",
+    "text": "Trump fought back, labelling the wind turbines monsters,",
     "start": 50.775,
-    "end": 52.235,
-    "zh": "特朗普进行了反击，",
-    "zh_hant": "特朗普進行了反擊，"
+    "end": 55.157,
+    "zh": "特朗普反击，称风力涡轮机为怪物，",
+    "zh_hant": "特朗普反擊，稱風力渦輪機為怪物，"
   },
   {
     "index": 13,
-    "text": "labelling the wind turbines monsters, and even",
-    "start": 52.476,
-    "end": 56.057,
-    "zh": "称风力涡轮机为怪物，甚至",
-    "zh_hant": "稱風力渦輪機為怪物，甚至"
+    "text": "and even testifying against the plan to the Scottish Parliament.",
+    "start": 55.157,
+    "end": 59.179,
+    "zh": "甚至向苏格兰议会作证反对该计划。",
+    "zh_hant": "甚至向蘇格蘭議會作證反對該計劃。"
   },
   {
     "index": 14,
-    "text": "testifying against the plan to the Scottish Parliament.",
-    "start": 55.707,
-    "end": 59.179,
-    "zh": "向苏格兰议会作证反对该计划。",
-    "zh_hant": "向蘇格蘭議會作證反對該計劃。"
-  },
-  {
-    "index": 15,
     "text": "But it's the cost to bird life that now seems his main concern.",
     "start": 59.399,
     "end": 64.581,
-    "zh": "但对鸟类生命的代价现在似乎是他主要关心的。",
-    "zh_hant": "但對鳥類生命的代價現在似乎是他主要關心的。"
+    "zh": "但如今，似乎对鸟类生命的代价才是他的主要担忧。",
+    "zh_hant": "但如今，似乎對鳥類生命的代價才是他的主要擔憂。"
+  },
+  {
+    "index": 15,
+    "text": "But I've restricted windmills in the United States because they also kill all your birds, they wipe out.",
+    "start": 64.842,
+    "end": 71.805,
+    "zh": "但我在美国限制了风车，因为它们也杀光你所有的鸟，它们灭绝了。",
+    "zh_hant": "但我在美國限制了風車，因為它們也殺光你所有的鳥，它們滅絕了。"
   },
   {
     "index": 16,
-    "text": "But I've restricted windmills in the United States",
-    "start": 64.842,
-    "end": 68.023,
-    "zh": "但我在美国限制了风车，",
-    "zh_hant": "但我在美國限制了風車，"
-  },
-  {
-    "index": 17,
-    "text": "because they also kill all your birds, they wipe out.",
-    "start": 67.673,
-    "end": 71.805,
-    "zh": "因为它们也会杀死你所有的鸟，它们会被消灭掉。",
-    "zh_hant": "因為它們也會殺死你所有的鳥，它們會被消滅掉。"
-  },
-  {
-    "index": 18,
     "text": "It's interesting.",
     "start": 71.545,
     "end": 72.725,
@@ -152,55 +136,55 @@
     "zh_hant": "這很有趣。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "If you shoot a bald eagle in the United States, they put you in jail for five years.",
     "start": 72.746,
     "end": 77.308,
-    "zh": "如果你在美国射杀一只秃鹰，他们会判你入狱五年。",
-    "zh_hant": "如果你在美國射殺一隻禿鷹，他們會判你入獄五年。"
+    "zh": "如果你在美国射杀一只白头鹰，他们会把你关进监狱五年。",
+    "zh_hant": "如果你在美國射殺一隻白頭鷹，他們會把你關進監獄五年。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "And yet windmills knock out hundreds of them.",
     "start": 78.068,
     "end": 80.689,
-    "zh": "然而风车却会干掉数百只。",
-    "zh_hant": "然而風車卻會幹掉數百隻。"
+    "zh": "然而风车却击落了数百只。",
+    "zh_hant": "然而風車卻擊落了數百隻。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "They don't do anything.",
     "start": 80.85,
     "end": 82.311,
-    "zh": "他们却什么也不做。",
-    "zh_hant": "他們卻什麼也不做。"
+    "zh": "他们什么都不做。",
+    "zh_hant": "他們什麼都不做。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "The thing makes it so...",
     "start": 84.172,
     "end": 85.632,
-    "zh": "这件事让情况变得如此……",
-    "zh_hant": "這件事讓情況變得如此……"
+    "zh": "这件事让它变得如此……",
+    "zh_hant": "這件事讓它變得如此……"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "And of course, it's like a graveyard for birds.",
     "start": 85.652,
     "end": 88.313,
-    "zh": "而且当然，就像鸟类的墓地。",
-    "zh_hant": "而且當然，就像鳥類的墓地。"
+    "zh": "当然，这就像鸟类的墓地。",
+    "zh_hant": "當然，這就像鳥類的墓地。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "If you love birds, you'd never want to walk under a windmill, because it's a very sad, sad sight.",
     "start": 89.654,
     "end": 95.057,
-    "zh": "如果你爱鸟，你绝不会想走在风车下面，因为那是一个非常非常悲伤的景象。",
-    "zh_hant": "如果你愛鳥，你絕不會想走在風車下面，因為那是一個非常非常悲傷的景象。"
+    "zh": "如果你爱鸟，你绝不会想在风车下面走，因为那是一个非常非常悲伤的景象。",
+    "zh_hant": "如果你愛鳥，你絕不會想在風車下面走，因為那是一個非常非常悲傷的景象。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It's like a cemetery.",
     "start": 94.817,
     "end": 96.237,
@@ -208,39 +192,31 @@
     "zh_hant": "就像一片公墓。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "We put a little statue for the poor birds.",
     "start": 97.698,
     "end": 100.359,
-    "zh": "我们为那些可怜的鸟立了一座小雕像。",
-    "zh_hant": "我們為那些可憐的鳥立了一座小雕像。"
+    "zh": "我们为可怜的鸟儿立了一座小雕像。",
+    "zh_hant": "我們為可憐的鳥兒立了一座小雕像。"
   },
   {
-    "index": 27,
-    "text": "Earlier this year, he posted on Truth Social claiming wind turbines were killing",
+    "index": 25,
+    "text": "Earlier this year, he posted on Truth Social claiming wind turbines were killing birds by the millions.",
     "start": 101.02,
-    "end": 106.162,
-    "zh": "今年早些时候，他在Truth Social上发帖声称风力涡轮机正在杀死",
-    "zh_hant": "今年早些時候，他在Truth Social上發帖聲稱風力渦輪機正在殺死"
-  },
-  {
-    "index": 28,
-    "text": "birds by the millions.",
-    "start": 105.812,
     "end": 107.743,
-    "zh": "数百万计的鸟类。",
-    "zh_hant": "數百萬計的鳥類。"
+    "zh": "今年早些时候，他在“真相社交”上发文声称风力涡轮机正以数百万计杀死鸟类。",
+    "zh_hant": "今年早些時候，他在“真相社交”上發文聲稱風力渦輪機正以數百萬計殺死鳥類。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "But is he right?",
     "start": 108.143,
     "end": 109.364,
-    "zh": "但他说的对吗？",
-    "zh_hant": "但他說的對嗎？"
+    "zh": "但他说得对吗？",
+    "zh_hant": "但他說得對嗎？"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "Do wind turbines kill millions of birds a year?",
     "start": 109.684,
     "end": 113.126,
@@ -248,7 +224,7 @@
     "zh_hant": "風力渦輪機每年真的殺死數百萬只鳥嗎？"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "It's not completely wrong.",
     "start": 116.287,
     "end": 117.988,
@@ -256,79 +232,71 @@
     "zh_hant": "這並非完全錯誤。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "I think with this statement, the \"s\" on the millions is probably doing some heavy lifting.",
     "start": 118.008,
     "end": 122.551,
-    "zh": "我觉得对于这个说法，'数百万'中的'数'可能承担了不少分量。",
-    "zh_hant": "我覺得對於這個說法，'數百萬'中的'數'可能承擔了不少分量。"
+    "zh": "我觉得对于这个说法，“数百万”中的“数”可能承担了很大分量。",
+    "zh_hant": "我覺得對於這個說法，“數百萬”中的“數”可能承擔了很大分量。"
   },
   {
-    "index": 33,
-    "text": "This is Dr. Hannah Ritchie, Deputy Editor at Our World in Data",
+    "index": 30,
+    "text": "This is Dr. Hannah Ritchie, Deputy Editor at Our World in Data and Senior Researcher at the University of Oxford.",
     "start": 122.531,
-    "end": 127.293,
-    "zh": "这是汉娜·里奇博士，《我们的数据世界》副主编",
-    "zh_hant": "這是漢娜·裡奇博士，《我們的資料世界》副主編"
-  },
-  {
-    "index": 34,
-    "text": "and Senior Researcher at the University of Oxford.",
-    "start": 127.093,
     "end": 130.074,
-    "zh": "以及牛津大学高级研究员。",
-    "zh_hant": "以及牛津大學高階研究員。"
+    "zh": "这是汉娜·里奇博士，“我们的数据世界”副主编，牛津大学高级研究员。",
+    "zh_hant": "這是漢娜·裡奇博士，“我們的資料世界”副主編，牛津大學高階研究員。"
   },
   {
-    "index": 35,
+    "index": 31,
     "text": "I think my best estimate is that in the US,",
     "start": 130.255,
     "end": 133.396,
-    "zh": "我认为我最好的估计是，在美国，",
-    "zh_hant": "我認為我最好的估計是，在美國，"
+    "zh": "我觉得我的最佳估计是，在美国，",
+    "zh_hant": "我覺得我的最佳估計是，在美國，"
   },
   {
-    "index": 36,
+    "index": 32,
     "text": "wind turbines probably kill between one and two million birds every year.",
     "start": 133.046,
     "end": 138.178,
-    "zh": "风力涡轮机每年可能杀死100万到200万只鸟。",
-    "zh_hant": "風力渦輪機每年可能殺死100萬到200萬隻鳥。"
+    "zh": "风力涡轮机可能每年杀死一百到两百万只鸟。",
+    "zh_hant": "風力渦輪機可能每年殺死一百到兩百萬只鳥。"
   },
   {
-    "index": 37,
+    "index": 33,
     "text": "So, with the million statement, that's broadly right, but I think it's missing a lot of context.",
     "start": 138.339,
     "end": 144.001,
-    "zh": "所以，关于百万的说法大致正确，但我认为它缺少了很多背景。",
-    "zh_hant": "所以，關於百萬的說法大致正確，但我認為它缺少了很多背景。"
+    "zh": "所以，就“百万”的说法而言，大体正确，但我觉得缺少了很多背景。",
+    "zh_hant": "所以，就“百萬”的說法而言，大體正確，但我覺得缺少了很多背景。"
   },
   {
-    "index": 38,
+    "index": 34,
     "text": "OK, let's get into the details of this number, and let's start with the basics.",
     "start": 143.801,
     "end": 148.864,
-    "zh": "好，让我们深入了解这个数字的细节，从基础开始。",
-    "zh_hant": "好，讓我們深入瞭解這個數字的細節，從基礎開始。"
+    "zh": "好，我们来深入了解这个数字的细节，先从基础开始。",
+    "zh_hant": "好，我們來深入瞭解這個數字的細節，先從基礎開始。"
   },
   {
-    "index": 39,
+    "index": 35,
     "text": "We're going to focus on the United States,",
     "start": 148.864,
     "end": 151.525,
-    "zh": "我们将专注于美国，",
-    "zh_hant": "我們將專注於美國，"
+    "zh": "我们将重点关注美国，",
+    "zh_hant": "我們將重點關注美國，"
   },
   {
-    "index": 40,
+    "index": 36,
     "text": "because that's what Trump's comments were referring to, and it's where we have reasonable data.",
     "start": 151.325,
     "end": 156.227,
-    "zh": "因为那是特朗普言论所指的，而且那里有合理的数据。",
-    "zh_hant": "因為那是特朗普言論所指的，而且那裡有合理的資料。"
+    "zh": "因为那是特朗普言论所指的地方，而且那里我们有合理的数据。",
+    "zh_hant": "因為那是特朗普言論所指的地方，而且那裡我們有合理的資料。"
   },
   {
-    "index": 41,
+    "index": 37,
     "text": "How do we count how many birds are killed by wind turbines each year?",
     "start": 156.828,
     "end": 160.809,
@@ -336,39 +304,31 @@
     "zh_hant": "我們如何計算每年被風力渦輪機殺死的鳥的數量？"
   },
   {
-    "index": 42,
+    "index": 38,
     "text": "It turns out those bird cemeteries Trump was talking about aren't far from the truth.",
     "start": 160.85,
     "end": 165.632,
-    "zh": "事实证明，特朗普谈到的那些鸟类墓地并非离真相很远。",
-    "zh_hant": "事實證明，特朗普談到的那些鳥類墓地並非離真相很遠。"
+    "zh": "事实证明，特朗普所说的那些鸟类墓地并非离真相很远。",
+    "zh_hant": "事實證明，特朗普所說的那些鳥類墓地並非離真相很遠。"
   },
   {
-    "index": 43,
+    "index": 39,
     "text": "Yeah, so figuring this number is very difficult.",
     "start": 166.013,
     "end": 168.954,
-    "zh": "是的，所以弄清楚这个数字非常困难。",
-    "zh_hant": "是的，所以弄清楚這個數字非常困難。"
+    "zh": "是的，算出这个数字非常困难。",
+    "zh_hant": "是的，算出這個數字非常困難。"
   },
   {
-    "index": 44,
-    "text": "I mean, there's no big national database where we store all of the different birds killed by wind",
+    "index": 40,
+    "text": "I mean, there's no big national database where we store all of the different birds killed by wind turbines every year.",
     "start": 168.604,
-    "end": 173.976,
-    "zh": "我的意思是，没有大型的国家数据库来存储每年被风",
-    "zh_hant": "我的意思是，沒有大型的國家資料庫來儲存每年被風"
-  },
-  {
-    "index": 45,
-    "text": "turbines every year.",
-    "start": 173.626,
     "end": 175.377,
-    "zh": "力涡轮机杀死的所有不同种类的鸟。",
-    "zh_hant": "力渦輪機殺死的所有不同種類的鳥。"
+    "zh": "我的意思是，没有一个全国性的大型数据库存储每年被风力涡轮机杀死的所有种类的鸟。",
+    "zh_hant": "我的意思是，沒有一個全國性的大型資料庫儲存每年被風力渦輪機殺死的所有種類的鳥。"
   },
   {
-    "index": 46,
+    "index": 41,
     "text": "It's often extrapolated from the smaller scale studies.",
     "start": 175.397,
     "end": 179.019,
@@ -376,23 +336,23 @@
     "zh_hant": "這通常是從較小規模的研究中推斷出來的。"
   },
   {
-    "index": 47,
+    "index": 42,
     "text": "So what researchers will do is that they'll go out to a wind farm,",
     "start": 178.779,
     "end": 182.521,
-    "zh": "所以研究人员会去到一个风电场，",
-    "zh_hant": "所以研究人員會去到一個風電場，"
+    "zh": "所以研究人员会做的是，他们会去一个风电场，",
+    "zh_hant": "所以研究人員會做的是，他們會去一個風電場，"
   },
   {
-    "index": 48,
+    "index": 43,
     "text": "and they'll basically count the number of bird carcasses that they find.",
     "start": 182.581,
     "end": 187.403,
-    "zh": "然后他们会基本上数一下找到的鸟尸数量。",
-    "zh_hant": "然後他們會基本上數一下找到的鳥屍數量。"
+    "zh": "然后他们基本上会清点找到的鸟类尸体数量。",
+    "zh_hant": "然後他們基本上會清點找到的鳥類屍體數量。"
   },
   {
-    "index": 49,
+    "index": 44,
     "text": "Sounds like a fun way to spend your weekend.",
     "start": 187.963,
     "end": 190.444,
@@ -400,55 +360,39 @@
     "zh_hant": "聽起來是度過週末的有趣方式。"
   },
   {
-    "index": 50,
+    "index": 45,
     "text": "It's important to note that these studies only measure the birds killed by onshore wind farms.",
     "start": 190.545,
     "end": 196.267,
-    "zh": "重要的是要注意，这些研究只测量了陆上风电场杀死的鸟。",
-    "zh_hant": "重要的是要注意，這些研究只測量了陸上風電場殺死的鳥。"
+    "zh": "需要注意的是，这些研究只测量陆上风电场杀死的鸟。",
+    "zh_hant": "需要注意的是，這些研究只測量陸上風電場殺死的鳥。"
   },
   {
-    "index": 51,
-    "text": "It's much harder to measure birds killed by wind turbines in the ocean,",
+    "index": 46,
+    "text": "It's much harder to measure birds killed by wind turbines in the ocean, and the data on that isn't reliable.",
     "start": 196.067,
-    "end": 200.409,
-    "zh": "测量海洋中风力涡轮机杀死的鸟要困难得多，",
-    "zh_hant": "測量海洋中風力渦輪機殺死的鳥要困難得多，"
-  },
-  {
-    "index": 52,
-    "text": "and the data on that isn't reliable.",
-    "start": 200.47,
     "end": 202.871,
-    "zh": "而且这些数据并不可靠。",
-    "zh_hant": "而且這些資料並不可靠。"
+    "zh": "测量海洋中风力涡轮机杀死的鸟要困难得多，而且这方面的数据不可靠。",
+    "zh_hant": "測量海洋中風力渦輪機殺死的鳥要困難得多，而且這方面的資料不可靠。"
   },
   {
-    "index": 53,
-    "text": "Anyway, you can use the data from counting dead birds to calculate a rate of deaths",
+    "index": 47,
+    "text": "Anyway, you can use the data from counting dead birds to calculate a rate of deaths per wind turbine.",
     "start": 203.051,
-    "end": 208.194,
-    "zh": "无论如何，你可以使用数死鸟的数据来计算死亡率",
-    "zh_hant": "無論如何，你可以使用數死鳥的資料來計算死亡率"
-  },
-  {
-    "index": 54,
-    "text": "per wind turbine.",
-    "start": 208.054,
     "end": 209.654,
-    "zh": "每台风力涡轮机。",
-    "zh_hant": "每颱風力渦輪機。"
+    "zh": "无论如何，你可以用清点死鸟的数据来计算出每台风力涡轮机的死亡比率。",
+    "zh_hant": "無論如何，你可以用清點死鳥的資料來計算出每颱風力渦輪機的死亡比率。"
   },
   {
-    "index": 55,
+    "index": 48,
     "text": "Hannah found all the studies she could that did this to see if they agree.",
     "start": 209.615,
     "end": 214.197,
-    "zh": "汉娜找到了所有能找到的做这件事的研究，看看它们是否一致。",
-    "zh_hant": "漢娜找到了所有能找到的做這件事的研究，看看它們是否一致。"
+    "zh": "汉娜找到了所有她能找到的、做过这类研究的数据，看看它们是否一致。",
+    "zh_hant": "漢娜找到了所有她能找到的、做過這類研究的資料，看看它們是否一致。"
   },
   {
-    "index": 56,
+    "index": 49,
     "text": "They did not.",
     "start": 214.777,
     "end": 216.037,
@@ -456,23 +400,23 @@
     "zh_hant": "它們並不一致。"
   },
   {
-    "index": 57,
-    "text": "So most of the studies I looked at were in the range of four",
+    "index": 50,
+    "text": "So most of the studies I looked at were in the range of four to 18 birds killed",
     "start": 216.498,
-    "end": 221.24,
-    "zh": "所以我查看的大多数研究范围是在每台风力涡轮机每年杀死4",
-    "zh_hant": "所以我檢視的大多數研究範圍是在每颱風力渦輪機每年殺死4"
+    "end": 223.561,
+    "zh": "所以我查看的大多数研究范围是每台风力涡轮机每年杀死四到十八只鸟，",
+    "zh_hant": "所以我檢視的大多數研究範圍是每颱風力渦輪機每年殺死四到十八隻鳥，"
   },
   {
-    "index": 58,
-    "text": "to 18 birds killed per wind turbine per year.",
-    "start": 220.89,
+    "index": 51,
+    "text": "per wind turbine per year.",
+    "start": 223.341,
     "end": 225.422,
-    "zh": "到18只鸟之间。",
-    "zh_hant": "到18只鳥之間。"
+    "zh": "每台风力涡轮机每年。",
+    "zh_hant": "每颱風力渦輪機每年。"
   },
   {
-    "index": 59,
+    "index": 52,
     "text": "So that's a fourfold difference.",
     "start": 225.222,
     "end": 227.163,
@@ -480,15 +424,15 @@
     "zh_hant": "所以這是四倍的差異。"
   },
   {
-    "index": 60,
+    "index": 53,
     "text": "So the difference there is large.",
     "start": 226.813,
     "end": 229.064,
-    "zh": "所以那里的差异很大。",
-    "zh_hant": "所以那裡的差異很大。"
+    "zh": "那里的差异很大。",
+    "zh_hant": "那裡的差異很大。"
   },
   {
-    "index": 61,
+    "index": 54,
     "text": "The problem is that dead birds are hard to count.",
     "start": 229.204,
     "end": 232.185,
@@ -496,23 +440,23 @@
     "zh_hant": "問題在於死鳥很難計數。"
   },
   {
-    "index": 62,
+    "index": 55,
     "text": "Sometimes small birds get missed.",
     "start": 232.286,
     "end": 234.827,
-    "zh": "有时小鸟会被漏掉。",
-    "zh_hant": "有時小鳥會被漏掉。"
+    "zh": "有时小鸟会被遗漏。",
+    "zh_hant": "有時小鳥會被遺漏。"
   },
   {
-    "index": 63,
+    "index": 56,
     "text": "Sometimes wild animals eat dead birds before they're counted.",
     "start": 234.707,
     "end": 238.328,
-    "zh": "有时野生动物在计数前就吃掉了死鸟。",
-    "zh_hant": "有時野生動物在計數前就吃掉了死鳥。"
+    "zh": "有时野生动物会在计数之前吃掉死鸟。",
+    "zh_hant": "有時野生動物會在計數之前吃掉死鳥。"
   },
   {
-    "index": 64,
+    "index": 57,
     "text": "The number and type of dead birds also varies depending on the location.",
     "start": 238.829,
     "end": 243.511,
@@ -520,23 +464,23 @@
     "zh_hant": "死鳥的數量和種類也因地點而異。"
   },
   {
-    "index": 65,
+    "index": 58,
     "text": "Some particular species, such as eagles, raptors,",
     "start": 243.732,
     "end": 247.934,
-    "zh": "一些特定物种，如鹰、猛禽、",
-    "zh_hant": "一些特定物種，如鷹、猛禽、"
+    "zh": "某些特定物种，比如鹰、猛禽、",
+    "zh_hant": "某些特定物種，比如鷹、猛禽、"
   },
   {
-    "index": 66,
+    "index": 59,
     "text": "shorebirds, they tend to be at higher risk.",
     "start": 247.584,
     "end": 250.935,
-    "zh": "滨鸟，它们往往风险更高。",
-    "zh_hant": "濱鳥，它們往往風險更高。"
+    "zh": "滨鸟，它们往往面临更高的风险。",
+    "zh_hant": "濱鳥，它們往往面臨更高的風險。"
   },
   {
-    "index": 67,
+    "index": 60,
     "text": "And that's for a couple of reasons.",
     "start": 250.975,
     "end": 253.016,
@@ -544,23 +488,23 @@
     "zh_hant": "這有幾個原因。"
   },
   {
-    "index": 68,
+    "index": 61,
     "text": "The main one being that they will often use kind of ridge tops to get lift when they're flying,",
     "start": 252.666,
     "end": 257.999,
-    "zh": "主要原因是它们飞行时常利用山脊顶部获得升力，",
-    "zh_hant": "主要原因是它們飛行時常利用山脊頂部獲得升力，"
+    "zh": "最主要的原因是它们常常利用山脊顶部在飞行时获得升力，",
+    "zh_hant": "最主要的原因是它們常常利用山脊頂部在飛行時獲得升力，"
   },
   {
-    "index": 69,
+    "index": 62,
     "text": "and that's obviously a very, very good spot to put a wind turbine.",
     "start": 257.839,
     "end": 261.0,
-    "zh": "而这显然是非常非常好的放置风力涡轮机的位置。",
-    "zh_hant": "而這顯然是非常非常好的放置風力渦輪機的位置。"
+    "zh": "而这显然是一个非常非常适合安装风力涡轮机的地方。",
+    "zh_hant": "而這顯然是一個非常非常適合安裝風力渦輪機的地方。"
   },
   {
-    "index": 70,
+    "index": 63,
     "text": "It's very windy there.",
     "start": 260.65,
     "end": 262.061,
@@ -568,271 +512,231 @@
     "zh_hant": "那裡風很大。"
   },
   {
-    "index": 71,
+    "index": 64,
     "text": "You'll also get migratory birds that will go through the same spot over and over again through migration patterns,",
     "start": 262.181,
     "end": 268.344,
-    "zh": "还有候鸟会在迁徙模式中一次又一次地经过同一个点，",
-    "zh_hant": "還有候鳥會在遷徙模式中一次又一次地經過同一個點，"
+    "zh": "你还会看到候鸟在迁徙模式中一遍又一遍地经过同一个地方，",
+    "zh_hant": "你還會看到候鳥在遷徙模式中一遍又一遍地經過同一個地方，"
   },
   {
-    "index": 72,
+    "index": 65,
     "text": "and they also tend to be at higher risk.",
     "start": 267.994,
     "end": 270.725,
-    "zh": "它们也往往面临更高风险。",
-    "zh_hant": "它們也往往面臨更高風險。"
+    "zh": "它们也往往面临更高的风险。",
+    "zh_hant": "它們也往往面臨更高的風險。"
   },
   {
-    "index": 73,
-    "text": "To account For the bird count problems,",
+    "index": 66,
+    "text": "To account For the bird count problems, scientists try to model the number of birds that might die but not be counted,",
     "start": 270.465,
-    "end": 272.646,
-    "zh": "为了解决鸟类计数的问题，",
-    "zh_hant": "為了解決鳥類計數的問題，"
+    "end": 277.408,
+    "zh": "为了应对鸟类计数的问题，科学家们试图模拟可能死亡但未被计数的鸟的数量，",
+    "zh_hant": "為了應對鳥類計數的問題，科學家們試圖模擬可能死亡但未被計數的鳥的數量，"
   },
   {
-    "index": 74,
-    "text": "scientists try to model the number of birds that might die",
-    "start": 272.386,
-    "end": 276.107,
-    "zh": "科学家们尝试模拟可能死亡但未被计数的鸟的数量，",
-    "zh_hant": "科學家們嘗試模擬可能死亡但未被計數的鳥的數量，"
-  },
-  {
-    "index": 75,
-    "text": "but not be counted, hence the big range of answers.",
-    "start": 276.028,
+    "index": 67,
+    "text": "hence the big range of answers.",
+    "start": 277.308,
     "end": 279.649,
-    "zh": "因此答案范围很大。",
-    "zh_hant": "因此答案範圍很大。"
+    "zh": "因此出现了很大的答案范围。",
+    "zh_hant": "因此出現了很大的答案範圍。"
   },
   {
-    "index": 76,
-    "text": "So if we take the range of figures",
+    "index": 68,
+    "text": "So if we take the range of figures for the number of birds killed per turbine per year in the US,",
     "start": 279.609,
-    "end": 282.991,
-    "zh": "所以如果我们取美国每年每台涡轮机杀死的鸟的数量范围内的数字，",
-    "zh_hant": "所以如果我們取美國每年每臺渦輪機殺死的鳥的數量範圍內的數字，"
-  },
-  {
-    "index": 77,
-    "text": "for the number of birds killed per turbine per year in the US,",
-    "start": 282.641,
     "end": 287.113,
-    "zh": "即4到18只，",
-    "zh_hant": "即4到18只，"
+    "zh": "所以如果我们取美国每台风力涡轮机每年杀死的鸟的数量范围，",
+    "zh_hant": "所以如果我們取美國每颱風力渦輪機每年殺死的鳥的數量範圍，"
   },
   {
-    "index": 78,
+    "index": 69,
     "text": "so 4 to 18, we multiply that by the number of turbines in the US,",
     "start": 286.763,
     "end": 292.496,
-    "zh": "我们乘以美国涡轮机的数量，",
-    "zh_hant": "我們乘以美國渦輪機的數量，"
+    "zh": "即4到18，我们乘以美国风力涡轮机的数量，",
+    "zh_hant": "即4到18，我們乘以美國風力渦輪機的數量，"
   },
   {
-    "index": 79,
+    "index": 70,
     "text": "we get this estimate between 300,000 and about 1.3 million birds",
     "start": 292.176,
     "end": 297.879,
-    "zh": "得到这个估计值，即每年在美国",
-    "zh_hant": "得到這個估計值，即每年在美國"
+    "zh": "我们得到这个估计值，在30万到约130万只鸟之间，",
+    "zh_hant": "我們得到這個估計值，在30萬到約130萬隻鳥之間，"
   },
   {
-    "index": 80,
+    "index": 71,
     "text": "killed across the US every year.",
     "start": 297.529,
     "end": 300.18,
-    "zh": "被杀死的鸟在30万到约130万之间。",
-    "zh_hant": "被殺死的鳥在30萬到約130萬之間。"
+    "zh": "每年在美国各地被杀死。",
+    "zh_hant": "每年在美國各地被殺死。"
   },
   {
-    "index": 81,
+    "index": 72,
     "text": "Hannah thinks that because there's a risk of under-reporting in the dead bird count,",
     "start": 300.5,
     "end": 305.182,
-    "zh": "汉娜认为由于死鸟计数存在漏报风险，",
-    "zh_hant": "漢娜認為由於死鳥計數存在漏報風險，"
+    "zh": "汉娜认为，由于死鸟计数存在漏报风险，",
+    "zh_hant": "漢娜認為，由於死鳥計數存在漏報風險，"
   },
   {
-    "index": 82,
+    "index": 73,
     "text": "the higher numbers are more likely to be in the right ballpark.",
     "start": 305.243,
     "end": 308.784,
-    "zh": "较高的数字更有可能接近真实情况。",
-    "zh_hant": "較高的數字更有可能接近真實情況。"
+    "zh": "较高的数字更可能在正确的范围内。",
+    "zh_hant": "較高的數字更可能在正確的範圍內。"
   },
   {
-    "index": 83,
+    "index": 74,
     "text": "So naturally, picking the higher number is maybe more honest, and adjust for that.",
     "start": 308.964,
     "end": 314.647,
-    "zh": "所以自然，选择较高的数字可能更诚实，并进行调整。",
-    "zh_hant": "所以自然，選擇較高的數字可能更誠實，並進行調整。"
+    "zh": "所以自然地，选择较高的数字可能更诚实，并据此进行调整。",
+    "zh_hant": "所以自然地，選擇較高的數字可能更誠實，並據此進行調整。"
   },
   {
-    "index": 84,
-    "text": "So Hannah reckons a figure of maybe one to two million birds being killed every year",
+    "index": 75,
+    "text": "So Hannah reckons a figure of maybe one to two million birds being killed every year looks justifiable.",
     "start": 314.487,
-    "end": 319.79,
-    "zh": "所以汉娜认为每年可能有100万到200万只鸟被杀",
-    "zh_hant": "所以漢娜認為每年可能有100萬到200萬隻鳥被殺"
-  },
-  {
-    "index": 85,
-    "text": "looks justifiable.",
-    "start": 319.59,
     "end": 321.051,
-    "zh": "这个数字看起来是合理的。",
-    "zh_hant": "這個數字看起來是合理的。"
+    "zh": "所以汉娜认为，每年可能有一到两百万只鸟被杀死这个数字看起来是合理的。",
+    "zh_hant": "所以漢娜認為，每年可能有一到兩百萬只鳥被殺死這個數字看起來是合理的。"
   },
   {
-    "index": 86,
+    "index": 76,
     "text": "President Trump is roughly right,",
     "start": 321.431,
     "end": 323.432,
-    "zh": "特朗普总统大致上是正确的，",
-    "zh_hant": "特朗普總統大致上是正確的，"
+    "zh": "特朗普总统大体正确，",
+    "zh_hant": "特朗普總統大體正確，"
   },
   {
-    "index": 87,
+    "index": 77,
     "text": "as long as you think millions means two million and not a hundred million.",
     "start": 323.332,
     "end": 329.055,
-    "zh": "只要你认为百万指的是200万而不是一亿。",
-    "zh_hant": "只要你認為百萬指的是200萬而不是一億。"
+    "zh": "只要你认为“数百万”指两百万，而不是一亿。",
+    "zh_hant": "只要你認為“數百萬”指兩百萬，而不是一億。"
   },
   {
-    "index": 88,
+    "index": 78,
     "text": "But as so often on this programme, the numbers don't tell the whole story.",
     "start": 329.595,
     "end": 334.637,
-    "zh": "但正如本节目经常发生的那样，数字并不能说明全部情况。",
-    "zh_hant": "但正如本節目經常發生的那樣，數字並不能說明全部情況。"
+    "zh": "但正如本节目经常出现的情况，数字并不说明全部情况。",
+    "zh_hant": "但正如本節目經常出現的情況，數字並不說明全部情況。"
   },
   {
-    "index": 89,
-    "text": "Yeah, so my estimate is that wind turbines probably kill between one to two million",
+    "index": 79,
+    "text": "Yeah, so my estimate is that wind turbines probably kill between one to two million birds every year in the US.",
     "start": 338.039,
-    "end": 343.622,
-    "zh": "是的，所以我的估计是风力涡轮机可能每年在美国杀死",
-    "zh_hant": "是的，所以我的估計是風力渦輪機可能每年在美國殺死"
-  },
-  {
-    "index": 90,
-    "text": "birds every year in the US.",
-    "start": 343.272,
     "end": 345.583,
-    "zh": "100万到200万只鸟。",
-    "zh_hant": "100萬到200萬隻鳥。"
+    "zh": "是的，所以我估计风力涡轮机可能每年在美国杀死一到两百万只鸟。",
+    "zh_hant": "是的，所以我估計風力渦輪機可能每年在美國殺死一到兩百萬只鳥。"
   },
   {
-    "index": 91,
+    "index": 80,
     "text": "But to put that in context of other hazards, kind of top of the list is cats.",
     "start": 345.683,
     "end": 349.965,
-    "zh": "但与其他危险相比，名单上最顶端的是猫。",
-    "zh_hant": "但與其他危險相比，名單上最頂端的是貓。"
+    "zh": "但要放在其他危险的背景中，榜首是猫。",
+    "zh_hant": "但要放在其他危險的背景中，榜首是貓。"
   },
   {
-    "index": 92,
-    "text": "Now, cats probably kill just over 2 billion,",
+    "index": 81,
+    "text": "Now, cats probably kill just",
     "start": 349.725,
-    "end": 353.306,
-    "zh": "现在，猫可能每年杀死超过20亿只，",
-    "zh_hant": "現在，貓可能每年殺死超過20億隻，"
+    "end": 352.246,
+    "zh": "现在，猫可能每年杀死略超过",
+    "zh_hant": "現在，貓可能每年殺死略超過"
   },
   {
-    "index": 93,
-    "text": "so a thousand times higher than my estimates for wind turbines.",
-    "start": 353.547,
+    "index": 82,
+    "text": "over 2 billion, so a thousand times higher than my estimates for wind turbines.",
+    "start": 351.896,
     "end": 357.649,
-    "zh": "这比我估计的风力涡轮机高出千倍。",
-    "zh_hant": "這比我估計的風力渦輪機高出千倍。"
+    "zh": "20亿只，所以比我对风力涡轮机的估计高出一千倍。",
+    "zh_hant": "20億隻，所以比我對風力渦輪機的估計高出一千倍。"
   },
   {
-    "index": 94,
+    "index": 83,
     "text": "Those figures come with a lot of uncertainty.",
     "start": 357.809,
     "end": 359.88,
-    "zh": "这些数字带有很多不确定性。",
-    "zh_hant": "這些數字帶有很多不確定性。"
+    "zh": "这些数字带有很大的不确定性。",
+    "zh_hant": "這些數字帶有很大的不確定性。"
   },
   {
-    "index": 95,
+    "index": 84,
     "text": "They're not precise in any way.",
     "start": 359.48,
     "end": 361.831,
-    "zh": "它们绝不是精确的。",
-    "zh_hant": "它們絕不是精確的。"
+    "zh": "它们无论如何都不精确。",
+    "zh_hant": "它們無論如何都不精確。"
   },
   {
-    "index": 96,
+    "index": 85,
     "text": "I tried to figure out how many birds do they kill per cat,",
     "start": 361.591,
     "end": 365.333,
-    "zh": "我试图弄清楚每只猫杀死多少只鸟，",
-    "zh_hant": "我試圖弄清楚每隻貓殺死多少隻鳥，"
+    "zh": "我试图算出每只猫杀死多少只鸟，",
+    "zh_hant": "我試圖算出每隻貓殺死多少隻鳥，"
   },
   {
-    "index": 97,
+    "index": 86,
     "text": "and it works out around 20 per year for a kind of feral outdoor cat.",
     "start": 365.513,
     "end": 371.616,
-    "zh": "结果大约是每年每只流浪或户外猫杀死20只。",
-    "zh_hant": "結果大約是每年每隻流浪或戶外貓殺死20只。"
+    "zh": "结果大约是每只野生户外猫每年大约20只。",
+    "zh_hant": "結果大約是每隻野生戶外貓每年大約20只。"
   },
   {
-    "index": 98,
+    "index": 87,
     "text": "Now, that probably seems reasonable to me.",
     "start": 371.416,
     "end": 373.957,
-    "zh": "这对我来说可能看起来是合理的。",
-    "zh_hant": "這對我來說可能看起來是合理的。"
+    "zh": "现在，这对我来说可能看起来合理。",
+    "zh_hant": "現在，這對我來說可能看起來合理。"
   },
   {
-    "index": 99,
+    "index": 88,
     "text": "And it's not just cats that are more deadly for birds than wind turbines.",
     "start": 374.097,
     "end": 378.219,
-    "zh": "而且不仅仅是猫对鸟类的致命性高于风力涡轮机。",
-    "zh_hant": "而且不僅僅是貓對鳥類的致命性高於風力渦輪機。"
+    "zh": "而且不仅仅是猫对鸟类来说比风力涡轮机更致命。",
+    "zh_hant": "而且不僅僅是貓對鳥類來說比風力渦輪機更致命。"
   },
   {
-    "index": 100,
+    "index": 89,
     "text": "Buildings and cars and trucks are also very high on that list.",
     "start": 378.359,
     "end": 383.282,
-    "zh": "建筑物、汽车和卡车在这个名单上也排名很高。",
-    "zh_hant": "建築物、汽車和卡車在這個名單上也排名很高。"
+    "zh": "建筑物和汽车卡车也在那个列表上非常高。",
+    "zh_hant": "建築物和汽車卡車也在那個列表上非常高。"
   },
   {
-    "index": 101,
-    "text": "So they kill maybe 600 million for buildings and around",
+    "index": 90,
+    "text": "So they kill maybe 600 million for buildings and around 200 million for cars and trucks.",
     "start": 382.932,
-    "end": 386.94,
-    "zh": "所以建筑物可能杀死约6亿只，而汽车和卡车",
-    "zh_hant": "所以建築物可能殺死約6億隻，而汽車和卡車"
-  },
-  {
-    "index": 102,
-    "text": "200 million for cars and trucks.",
-    "start": 386.54,
     "end": 390.085,
-    "zh": "约2亿只。",
-    "zh_hant": "約2億隻。"
+    "zh": "所以建筑物可能杀死大约6亿，汽车和卡车大约2亿。",
+    "zh_hant": "所以建築物可能殺死大約6億，汽車和卡車大約2億。"
   },
   {
-    "index": 103,
+    "index": 91,
     "text": "There are other big hazards, like pesticides, communication towers.",
     "start": 390.045,
     "end": 393.867,
-    "zh": "还有其他重大危险，如杀虫剂、通信塔。",
-    "zh_hant": "還有其他重大危險，如殺蟲劑、通訊塔。"
+    "zh": "还有其他大的危险，比如农药、通信塔。",
+    "zh_hant": "還有其他大的危險，比如農藥、通訊塔。"
   },
   {
-    "index": 104,
+    "index": 92,
     "text": "They are kind of in the order of magnitude of millions to tens of millions.",
     "start": 393.517,
     "end": 398.949,
@@ -840,71 +744,63 @@
     "zh_hant": "它們的數量級在數百萬到數千萬之間。"
   },
   {
-    "index": 105,
-    "text": "And obviously, these hazards just don't get the same attention in terms of policy",
+    "index": 93,
+    "text": "And obviously, these hazards just don't get the same attention in terms of policy and media attention as wind turbines do.",
     "start": 398.889,
-    "end": 403.052,
-    "zh": "显然，这些危险在政策",
-    "zh_hant": "顯然，這些危險在政策"
-  },
-  {
-    "index": 106,
-    "text": "and media attention as wind turbines do.",
-    "start": 403.292,
     "end": 405.913,
-    "zh": "和媒体关注度上并没有像风力涡轮机那样受到同等关注。",
-    "zh_hant": "和媒體關注度上並沒有像風力渦輪機那樣受到同等關注。"
+    "zh": "显然，这些危险在政策和媒体关注方面没有得到与风力涡轮机相同的关注。",
+    "zh_hant": "顯然，這些危險在政策和媒體關注方面沒有得到與風力渦輪機相同的關注。"
   },
   {
-    "index": 107,
+    "index": 94,
     "text": "So I think the number is maybe correct, but I think the context surrounding it is missing.",
     "start": 405.973,
     "end": 411.196,
-    "zh": "所以我认为数字可能是正确的，但我认为缺少了背景。",
-    "zh_hant": "所以我認為數字可能是正確的，但我認為缺少了背景。"
+    "zh": "所以我认为这个数字可能正确，但我觉得围绕它的背景缺失了。",
+    "zh_hant": "所以我認為這個數字可能正確，但我覺得圍繞它的背景缺失了。"
   },
   {
-    "index": 108,
+    "index": 95,
     "text": "To help us understand whether there should be a barrier to us deploying wind power or not.",
     "start": 410.856,
     "end": 415.438,
-    "zh": "帮助我们理解是否应该成为我们部署风电的障碍。",
-    "zh_hant": "幫助我們理解是否應該成為我們部署風電的障礙。"
+    "zh": "为了帮助我们理解是否应该对部署风力发电设置障碍。",
+    "zh_hant": "為了幫助我們理解是否應該對部署風力發電設定障礙。"
   },
   {
-    "index": 109,
+    "index": 96,
     "text": "One thing that's definitely not true is that wind turbines are killing all the birds.",
     "start": 416.138,
     "end": 422.261,
-    "zh": "有一件事绝对不真实的是，风力涡轮机正在杀死所有的鸟。",
-    "zh_hant": "有一件事絕對不真實的是，風力渦輪機正在殺死所有的鳥。"
+    "zh": "有一件事绝对不真实，那就是风力涡轮机正在杀死所有鸟。",
+    "zh_hant": "有一件事絕對不真實，那就是風力渦輪機正在殺死所有鳥。"
   },
   {
-    "index": 110,
+    "index": 97,
     "text": "The back of an envelope calculation is even harder for the total US bird population,",
     "start": 422.381,
     "end": 427.143,
-    "zh": "对美国鸟类总数进行粗略计算甚至更难，",
-    "zh_hant": "對美國鳥類總數進行粗略計算甚至更難，"
+    "zh": "信封背面的粗略计算对美国总鸟类种群来说甚至更难，",
+    "zh_hant": "信封背面的粗略計算對美國總鳥類種群來說甚至更難，"
   },
   {
-    "index": 111,
+    "index": 98,
     "text": "but Hannah had a look at the data to try and give us a rough idea.",
     "start": 427.124,
     "end": 430.705,
-    "zh": "但汉娜查看了数据，试图给我们一个粗略的概念。",
-    "zh_hant": "但漢娜檢視了資料，試圖給我們一個粗略的概念。"
+    "zh": "但汉娜查看了数据，试图给我们一个大致的概念。",
+    "zh_hant": "但漢娜檢視了資料，試圖給我們一個大致的概念。"
   },
   {
-    "index": 112,
+    "index": 99,
     "text": "Some of the best estimates I've seen have been in the range of maybe 10 to 20 billion.",
     "start": 431.266,
     "end": 436.248,
-    "zh": "我看到的一些最佳估计在100亿到200亿之间。",
-    "zh_hant": "我看到的一些最佳估計在100億到200億之間。"
+    "zh": "我看到的一些最佳估计在100亿到200亿的范围内。",
+    "zh_hant": "我看到的一些最佳估計在100億到200億的範圍內。"
   },
   {
-    "index": 113,
+    "index": 100,
     "text": "So when you're thinking about the threat from wind turbines,",
     "start": 436.628,
     "end": 439.93,
@@ -912,47 +808,39 @@
     "zh_hant": "所以當你考慮風力渦輪機的威脅時，"
   },
   {
-    "index": 114,
-    "text": "you're talking about maybe 1 million relative",
+    "index": 101,
+    "text": "you're talking about maybe 1 million relative to 10 to 20 billion birds in total.",
     "start": 439.58,
-    "end": 443.512,
-    "zh": "你谈论的相对于总体100亿到200亿只鸟",
-    "zh_hant": "你談論的相對於總體100億到200億隻鳥"
-  },
-  {
-    "index": 115,
-    "text": "to 10 to 20 billion birds in total.",
-    "start": 443.162,
     "end": 447.054,
-    "zh": "可能只有100万只。",
-    "zh_hant": "可能只有100萬隻。"
+    "zh": "你谈论的可能是相对于总共有100到200亿只鸟中的100万。",
+    "zh_hant": "你談論的可能是相對於總共有100到200億隻鳥中的100萬。"
   },
   {
-    "index": 116,
+    "index": 102,
     "text": "So as a share of the total bird population, the threat is reasonably small.",
     "start": 447.094,
     "end": 451.756,
-    "zh": "所以作为鸟类总种群的一部分，威胁相对较小。",
-    "zh_hant": "所以作為鳥類總種群的一部分，威脅相對較小。"
+    "zh": "所以作为总鸟类种群的比例，威胁相当小。",
+    "zh_hant": "所以作為總鳥類種群的比例，威脅相當小。"
   },
   {
-    "index": 117,
+    "index": 103,
     "text": "Birds also often reproduce pretty fast and have quite short lifespans.",
     "start": 451.876,
     "end": 456.318,
-    "zh": "鸟类也常常繁殖很快，寿命较短。",
-    "zh_hant": "鳥類也常常繁殖很快，壽命較短。"
+    "zh": "鸟类通常也繁殖很快，寿命相当短。",
+    "zh_hant": "鳥類通常也繁殖很快，壽命相當短。"
   },
   {
-    "index": 118,
+    "index": 104,
     "text": "So there's a lot going on in this number.",
     "start": 456.298,
     "end": 458.379,
-    "zh": "所以这个数字中有很多信息。",
-    "zh_hant": "所以這個數字中有很多資訊。"
+    "zh": "所以这个数字中涉及的因素很多。",
+    "zh_hant": "所以這個數字中涉及的因素很多。"
   },
   {
-    "index": 119,
+    "index": 105,
     "text": "So, what's the final verdict?",
     "start": 459.04,
     "end": 461.101,
@@ -960,7 +848,7 @@
     "zh_hant": "那麼，最終結論是什麼？"
   },
   {
-    "index": 120,
+    "index": 106,
     "text": "Should the number of birds being killed make us reconsider our use of wind turbines?",
     "start": 461.161,
     "end": 466.163,
@@ -968,47 +856,39 @@
     "zh_hant": "被殺死的鳥的數量是否應該讓我們重新考慮使用風力渦輪機？"
   },
   {
-    "index": 121,
-    "text": "I don't think the death toll from wind turbines should stop us from deploying",
+    "index": 107,
+    "text": "I don't think the death toll from wind turbines should stop us from deploying wind power, for a couple of reasons.",
     "start": 466.143,
-    "end": 471.085,
-    "zh": "我认为风力涡轮机造成的死亡人数不应该阻止我们部署",
-    "zh_hant": "我認為風力渦輪機造成的死亡人數不應該阻止我們部署"
-  },
-  {
-    "index": 122,
-    "text": "wind power, for a couple of reasons.",
-    "start": 470.866,
     "end": 473.046,
-    "zh": "风电，有以下几个原因。",
-    "zh_hant": "風電，有以下幾個原因。"
+    "zh": "我认为风力涡轮机造成的死亡人数不应该阻止我们部署风力发电，原因有几个。",
+    "zh_hant": "我認為風力渦輪機造成的死亡人數不應該阻止我們部署風力發電，原因有幾個。"
   },
   {
-    "index": 123,
+    "index": 108,
     "text": "I think the first one is that we are actually deploying clean energy for a reason,",
     "start": 472.696,
     "end": 476.928,
-    "zh": "我认为首先是我们实际上部署清洁能源是有原因的，",
-    "zh_hant": "我認為首先是我們實際上部署清潔能源是有原因的，"
+    "zh": "我认为第一个是我们实际上是为了一个原因部署清洁能源，",
+    "zh_hant": "我認為第一個是我們實際上是為了一個原因部署清潔能源，"
   },
   {
-    "index": 124,
+    "index": 109,
     "text": "and part of that reason is to mitigate climate change,",
     "start": 477.249,
     "end": 480.711,
-    "zh": "部分原因是为了缓解气候变化，",
-    "zh_hant": "部分原因是為了緩解氣候變化，"
+    "zh": "那个原因的一部分是减缓气候变化，",
+    "zh_hant": "那個原因的一部分是減緩氣候變化，"
   },
   {
-    "index": 125,
+    "index": 110,
     "text": "and also has the side benefit of mitigating air pollution.",
     "start": 480.371,
     "end": 484.753,
-    "zh": "并且也有减少空气污染的附带好处。",
-    "zh_hant": "並且也有減少空氣汙染的附帶好處。"
+    "zh": "并且还有减少空气污染的附带好处。",
+    "zh_hant": "並且還有減少空氣汙染的附帶好處。"
   },
   {
-    "index": 126,
+    "index": 111,
     "text": "And both of those are relatively large threats to birds and wildlife at Large.",
     "start": 484.853,
     "end": 490.976,
@@ -1016,7 +896,7 @@
     "zh_hant": "這兩者對鳥類和整個野生動物來說都是相對較大的威脅。"
   },
   {
-    "index": 127,
+    "index": 112,
     "text": "So there is some downsides in terms of bird loss to wind turbines,",
     "start": 490.656,
     "end": 496.358,
@@ -1024,47 +904,47 @@
     "zh_hant": "所以風力渦輪機在鳥類損失方面有一些缺點，"
   },
   {
-    "index": 128,
+    "index": 113,
     "text": "but on the flip side, the problem we're trying to solve also has downsides for this wildlife.",
     "start": 496.008,
     "end": 501.301,
-    "zh": "但另一方面，我们试图解决的问题对于这些野生动物也有缺点。",
-    "zh_hant": "但另一方面，我們試圖解決的問題對於這些野生動物也有缺點。"
+    "zh": "但另一方面，我们试图解决的问题对这些野生动物也有缺点。",
+    "zh_hant": "但另一方面，我們試圖解決的問題對這些野生動物也有缺點。"
   },
   {
-    "index": 129,
+    "index": 114,
     "text": "I think what it does mean, though, and I think this comes back to the types of birds that are most at risk,",
     "start": 501.461,
     "end": 507.284,
-    "zh": "我认为这确实意味着，而且我认为这又回到了最受风险的鸟类类型，",
-    "zh_hant": "我認為這確實意味著，而且我認為這又回到了最受風險的鳥類型別，"
+    "zh": "然而，我认为这确实意味着，而且我认为这又回到了面临最高风险的鸟类种类上，",
+    "zh_hant": "然而，我認為這確實意味著，而且我認為這又回到了面臨最高風險的鳥類種類上，"
   },
   {
-    "index": 130,
+    "index": 115,
     "text": "is that I think we also need to think carefully about where we're putting wind turbines",
     "start": 506.934,
     "end": 511.486,
-    "zh": "就是我认为我们也需要仔细考虑在哪里放置风力涡轮机，",
-    "zh_hant": "就是我認為我們也需要仔細考慮在哪裡放置風力渦輪機，"
+    "zh": "那就是我认为我们也需要仔细考虑我们把风力涡轮机放在哪里",
+    "zh_hant": "那就是我認為我們也需要仔細考慮我們把風力渦輪機放在哪裡"
   },
   {
-    "index": 131,
+    "index": 116,
     "text": "and what we're putting in place to try to mitigate those risks.",
     "start": 511.136,
     "end": 514.547,
-    "zh": "以及采取什么措施来减轻这些风险。",
-    "zh_hant": "以及採取什麼措施來減輕這些風險。"
+    "zh": "以及我们采取什么措施来试图减轻这些风险。",
+    "zh_hant": "以及我們採取什麼措施來試圖減輕這些風險。"
   },
   {
-    "index": 132,
+    "index": 117,
     "text": "I don't think this is purely about total.",
     "start": 514.467,
     "end": 516.668,
-    "zh": "我认为这不仅仅是关于总数。",
-    "zh_hant": "我認為這不僅僅是關於總數。"
+    "zh": "我认为这不纯粹是关于总数。",
+    "zh_hant": "我認為這不純粹是關於總數。"
   },
   {
-    "index": 133,
+    "index": 118,
     "text": "Numbers.",
     "start": 516.318,
     "end": 517.248,
@@ -1072,55 +952,47 @@
     "zh_hant": "數字。"
   },
   {
-    "index": 134,
+    "index": 119,
     "text": "I think there are genuine risks to specific and often rarer species,",
     "start": 516.929,
     "end": 521.872,
-    "zh": "我认为对特定且往往更稀有的物种确实存在真正的风险，",
-    "zh_hant": "我認為對特定且往往更稀有的物種確實存在真正的風險，"
+    "zh": "我认为对特定且往往较稀有的物种存在真正的风险，",
+    "zh_hant": "我認為對特定且往往較稀有的物種存在真正的風險，"
   },
   {
-    "index": 135,
+    "index": 120,
     "text": "and I think we do need to take that selection process quite carefully.",
     "start": 521.792,
     "end": 526.175,
-    "zh": "我认为我们确实需要非常谨慎地进行这个选择过程。",
-    "zh_hant": "我認為我們確實需要非常謹慎地進行這個選擇過程。"
+    "zh": "我认为我们确实需要相当谨慎地进行那个选择过程。",
+    "zh_hant": "我認為我們確實需要相當謹慎地進行那個選擇過程。"
   },
   {
-    "index": 136,
-    "text": "Thanks to Hannah Ritchie, Deputy Editor at Our World in Data",
+    "index": 121,
+    "text": "Thanks to Hannah Ritchie, Deputy Editor at Our World in Data and Senior Researcher at the University of Oxford.",
     "start": 527.656,
-    "end": 531.779,
-    "zh": "感谢汉娜·里奇，我们的数据世界副主编",
-    "zh_hant": "感謝漢娜·裡奇，我們的資料世界副主編"
-  },
-  {
-    "index": 137,
-    "text": "and Senior Researcher at the University of Oxford.",
-    "start": 531.659,
     "end": 534.721,
-    "zh": "以及牛津大学高级研究员。",
-    "zh_hant": "以及牛津大學高階研究員。"
+    "zh": "感谢汉娜·里奇，“我们的数据世界”副主编，牛津大学高级研究员。",
+    "zh_hant": "感謝漢娜·裡奇，“我們的資料世界”副主編，牛津大學高階研究員。"
   },
   {
-    "index": 138,
+    "index": 122,
     "text": "If you've seen a number or another bird-related hazard you think we should look at,",
     "start": 534.962,
     "end": 539.065,
-    "zh": "如果你看到一个数字或另一个与鸟类相关的危险，你认为我们应该关注，",
-    "zh_hant": "如果你看到一個數字或另一個與鳥類相關的危險，你認為我們應該關注，"
+    "zh": "如果你看到一个数字或另一种与鸟类相关的危险，认为我们应该关注的话，",
+    "zh_hant": "如果你看到一個數字或另一種與鳥類相關的危險，認為我們應該關注的話，"
   },
   {
-    "index": 139,
+    "index": 123,
     "text": "email moreorless@bbc.co.uk.",
     "start": 538.945,
     "end": 543.488,
-    "zh": "请发送邮件至 moreorless@bbc.co.uk。",
-    "zh_hant": "請傳送郵件至 moreorless@bbc.co.uk。"
+    "zh": "请发送邮件至moreorless@bbc.co.uk。",
+    "zh_hant": "請傳送郵件至moreorless@bbc.co.uk。"
   },
   {
-    "index": 140,
+    "index": 124,
     "text": "Until next week, goodbye.",
     "start": 543.708,
     "end": 546.13,

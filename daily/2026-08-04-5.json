@@ -1,198 +1,190 @@
 [
   {
     "index": 0,
-    "text": "Hello and welcome",
+    "text": "Hello and welcome.",
     "start": 0.27,
     "end": 2.251,
-    "zh": "你好，欢迎",
-    "zh_hant": "你好，歡迎"
+    "zh": "你好，欢迎。",
+    "zh_hant": "你好，歡迎。"
   },
   {
     "index": 1,
     "text": "to Real Easy English from BBC Learning English.",
     "start": 1.901,
     "end": 5.973,
-    "zh": "收听BBC Learning English的Real Easy English节目。",
-    "zh_hant": "收聽BBC Learning English的Real Easy English節目。"
+    "zh": "欢迎收听BBC英语学习频道的《简易英语》。",
+    "zh_hant": "歡迎收聽BBC英語學習頻道的《簡易英語》。"
   },
   {
     "index": 2,
     "text": "Each week we have a real conversation.",
     "start": 6.453,
     "end": 9.535,
-    "zh": "每周我们都会有一段真实的对话。",
-    "zh_hant": "每週我們都會有一段真實的對話。"
+    "zh": "每周我们都会进行一段真实的对话。",
+    "zh_hant": "每週我們都會進行一段真實的對話。"
   },
   {
     "index": 3,
     "text": "in easy English to help you learn.",
     "start": 9.535,
     "end": 12.476,
-    "zh": "用简单的英语帮助你们学习。",
-    "zh_hant": "用簡單的英語幫助你們學習。"
+    "zh": "用简单的英语帮助你学习。",
+    "zh_hant": "用簡單的英語幫助你學習。"
   },
   {
     "index": 4,
     "text": "I'm Phil.",
     "start": 12.736,
     "end": 13.717,
-    "zh": "我是Phil。",
-    "zh_hant": "我是Phil。"
+    "zh": "我是菲尔。",
+    "zh_hant": "我是菲爾。"
   },
   {
     "index": 5,
     "text": "And I'm Becca.",
     "start": 13.697,
     "end": 14.897,
-    "zh": "我是Becca。",
-    "zh_hant": "我是Becca。"
+    "zh": "我是贝卡。",
+    "zh_hant": "我是貝卡。"
   },
   {
     "index": 6,
     "text": "You can find a video version of this podcast on our website,",
     "start": 14.897,
     "end": 19.66,
-    "zh": "你可以在我们的网站上找到这个播客的视频版本,",
-    "zh_hant": "你可以在我們的網站上找到這個播客的影片版本,"
+    "zh": "你可以在我们的网站上找到这个播客的视频版本，",
+    "zh_hant": "你可以在我們的網站上找到這個播客的影片版本，"
   },
   {
     "index": 7,
-    "text": "along with a free worksheet,",
+    "text": "along with a free worksheet, subtitles, and a transcript.",
     "start": 19.31,
-    "end": 21.4,
-    "zh": "还有免费的工作表,",
-    "zh_hant": "還有免費的工作表,"
+    "end": 23.321,
+    "zh": "还有免费的练习册、字幕和文字稿。",
+    "zh_hant": "還有免費的練習冊、字幕和文字稿。"
   },
   {
     "index": 8,
-    "text": "subtitles, and a transcript.",
-    "start": 21.06,
-    "end": 23.321,
-    "zh": "字幕和文字稿。",
-    "zh_hant": "字幕和文字稿。"
-  },
-  {
-    "index": 9,
     "text": "That's at bbclearningenglish.com.",
     "start": 23.101,
     "end": 26.343,
-    "zh": "网址是bbclearningenglish.com。",
-    "zh_hant": "網址是bbclearningenglish.com。"
+    "zh": "就在bbclearningenglish.com。",
+    "zh_hant": "就在bbclearningenglish.com。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "So, how are things, Becca?",
     "start": 32.046,
     "end": 34.227,
-    "zh": "那么，Becca，你最近怎么样？",
-    "zh_hant": "那麼，Becca，你最近怎麼樣？"
+    "zh": "那么，贝卡，你最近怎么样？",
+    "zh_hant": "那麼，貝卡，你最近怎麼樣？"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Yeah, things are going really well, thank you, Phil.",
     "start": 34.007,
     "end": 36.948,
-    "zh": "嗯，一切都很顺利，谢谢，Phil。",
-    "zh_hant": "嗯，一切都很順利，謝謝，Phil。"
+    "zh": "嗯，一切都很顺利，谢谢你，菲尔。",
+    "zh_hant": "嗯，一切都很順利，謝謝你，菲爾。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "We've just had a really lovely weekend.",
     "start": 36.628,
     "end": 39.429,
-    "zh": "我们刚过了一个非常愉快的周末。",
-    "zh_hant": "我們剛過了一個非常愉快的週末。"
+    "zh": "我们刚过了一个非常美好的周末。",
+    "zh_hant": "我們剛過了一個非常美好的週末。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "It's very sunny, very nice.",
     "start": 40.09,
     "end": 42.031,
-    "zh": "阳光很好，非常舒适。",
-    "zh_hant": "陽光很好，非常舒適。"
+    "zh": "阳光明媚，非常惬意。",
+    "zh_hant": "陽光明媚，非常愜意。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "How are things for you?",
     "start": 41.681,
     "end": 42.831,
-    "zh": "你呢？",
-    "zh_hant": "你呢？"
+    "zh": "你呢，你怎么样？",
+    "zh_hant": "你呢，你怎麼樣？"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Well, they're very good.",
     "start": 43.432,
     "end": 44.612,
-    "zh": "嗯，我挺好的。",
-    "zh_hant": "嗯，我挺好的。"
+    "zh": "嗯，我也很好。",
+    "zh_hant": "嗯，我也很好。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "As you said, it was a very sunny weekend.",
     "start": 44.473,
     "end": 47.554,
-    "zh": "就像你说的，周末阳光很充足。",
-    "zh_hant": "就像你說的，週末陽光很充足。"
+    "zh": "就像你说的，这个周末阳光很充足。",
+    "zh_hant": "就像你說的，這個週末陽光很充足。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "And yeah, I love the sunshine.",
     "start": 47.554,
     "end": 50.595,
-    "zh": "而且，我喜欢阳光。",
-    "zh_hant": "而且，我喜歡陽光。"
+    "zh": "是的，我特别喜欢阳光。",
+    "zh_hant": "是的，我特別喜歡陽光。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "I love it when the weather is a bit warmer.",
     "start": 50.245,
     "end": 53.217,
-    "zh": "我喜欢天气暖和一点的时候。",
-    "zh_hant": "我喜歡天氣暖和一點的時候。"
+    "zh": "我喜欢天气稍微暖和一点的时候。",
+    "zh_hant": "我喜歡天氣稍微暖和一點的時候。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "And that's what we're going to be talking about today.",
     "start": 53.617,
     "end": 56.618,
-    "zh": "这就是我们今天要聊的内容。",
-    "zh_hant": "這就是我們今天要聊的內容。"
+    "zh": "这就是我们今天要聊的话题。",
+    "zh_hant": "這就是我們今天要聊的話題。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "We're going to be talking about hot weather and what you do to stay cool.",
     "start": 57.119,
     "end": 61.401,
-    "zh": "我们要聊聊炎热的天气，以及你如何保持凉爽。",
-    "zh_hant": "我們要聊聊炎熱的天氣，以及你如何保持涼爽。"
+    "zh": "我们要聊的是炎热的天气以及你如何保持凉爽。",
+    "zh_hant": "我們要聊的是炎熱的天氣以及你如何保持涼爽。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Yeah, I love hot weather.",
     "start": 61.341,
     "end": 63.662,
-    "zh": "嗯，我喜欢炎热的天气。",
-    "zh_hant": "嗯，我喜歡炎熱的天氣。"
+    "zh": "是的，我热爱炎热的天气。",
+    "zh_hant": "是的，我熱愛炎熱的天氣。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "I'm very excited for summer to come here soon.",
     "start": 64.062,
     "end": 68.864,
-    "zh": "我很期待夏天快点到来。",
-    "zh_hant": "我很期待夏天快點到來。"
+    "zh": "我很期待夏天很快到来。",
+    "zh_hant": "我很期待夏天很快到來。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "I really enjoy eating ice cream when it is very hot.",
     "start": 70.085,
     "end": 74.507,
-    "zh": "天气很热的时候，我很喜欢吃冰淇淋。",
-    "zh_hant": "天氣很熱的時候，我很喜歡吃冰淇淋。"
+    "zh": "我非常喜欢吃冰淇淋，尤其是在很热的时候。",
+    "zh_hant": "我非常喜歡吃冰淇淋，尤其是在很熱的時候。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "That helps me to stay cool.",
     "start": 74.187,
     "end": 75.868,
@@ -200,39 +192,39 @@
     "zh_hant": "這能幫我保持涼爽。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "Yeah.",
     "start": 76.048,
     "end": 76.688,
-    "zh": "嗯。",
-    "zh_hant": "嗯。"
+    "zh": "是的。",
+    "zh_hant": "是的。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Are there any other things?",
     "start": 76.828,
     "end": 78.549,
-    "zh": "还有其他的吗？",
-    "zh_hant": "還有其他的嗎？"
+    "zh": "还有别的吗？",
+    "zh_hant": "還有別的嗎？"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "Are there any activities that you do when the weather's hot?",
     "start": 78.199,
     "end": 81.991,
-    "zh": "天气热的时候，你会做哪些活动？",
-    "zh_hant": "天氣熱的時候，你會做哪些活動？"
+    "zh": "天气热的时候，你还会做什么活动吗？",
+    "zh_hant": "天氣熱的時候，你還會做什麼活動嗎？"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "You mean apart from eating ice cream?",
     "start": 81.641,
     "end": 83.592,
-    "zh": "你的意思是除了吃冰淇淋？",
-    "zh_hant": "你的意思是除了吃冰淇淋？"
+    "zh": "你是说除了吃冰淇淋之外？",
+    "zh_hant": "你是說除了吃冰淇淋之外？"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "Apart from eating ice cream, yeah.",
     "start": 83.242,
     "end": 86.433,
@@ -240,63 +232,63 @@
     "zh_hant": "對，除了吃冰淇淋。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "I really don't like being hot when I'm in the city.",
     "start": 86.083,
     "end": 88.874,
-    "zh": "我在城市里真不喜欢太热的感觉,",
-    "zh_hant": "我在城市裡真不喜歡太熱的感覺,"
+    "zh": "我真的很不喜欢在城里的时候感到热。",
+    "zh_hant": "我真的很不喜歡在城裡的時候感到熱。"
+  },
+  {
+    "index": 30,
+    "text": "because I feel like the heat",
+    "start": 89.155,
+    "end": 92.116,
+    "zh": "因为我觉得热气",
+    "zh_hant": "因為我覺得熱氣"
   },
   {
     "index": 31,
-    "text": "because I feel like the heat kind of stays",
-    "start": 89.155,
-    "end": 93.837,
-    "zh": "因为我觉得热气好像散不出去,",
-    "zh_hant": "因為我覺得熱氣好像散不出去,"
+    "text": "kind of stays and it's very difficult",
+    "start": 92.336,
+    "end": 94.897,
+    "zh": "好像会停留不散，而且很难",
+    "zh_hant": "好像會停留不散，而且很難"
   },
   {
     "index": 32,
-    "text": "and it's very difficult to find a swimming pool,",
-    "start": 93.487,
-    "end": 97.399,
-    "zh": "而且很难找到游泳池,",
-    "zh_hant": "而且很難找到游泳池,"
+    "text": "to find a swimming pool, or I love to go to the beach.",
+    "start": 94.547,
+    "end": 99.099,
+    "zh": "找不到游泳池，或者我喜欢去海滩。",
+    "zh_hant": "找不到游泳池，或者我喜歡去海灘。"
   },
   {
     "index": 33,
-    "text": "or I love to go to the beach.",
-    "start": 97.079,
-    "end": 99.099,
-    "zh": "或者我喜欢去海滩。",
-    "zh_hant": "或者我喜歡去海灘。"
-  },
-  {
-    "index": 34,
     "text": "I think being in water can really help you cool down.",
     "start": 98.749,
     "end": 102.461,
-    "zh": "我觉得待在水里真的能帮你凉快下来。",
-    "zh_hant": "我覺得待在水裡真的能幫你涼快下來。"
+    "zh": "我觉得待在水里真的能帮助你降温。",
+    "zh_hant": "我覺得待在水裡真的能幫助你降溫。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "How about yourself,",
     "start": 102.301,
     "end": 103.682,
-    "zh": "那你呢,",
-    "zh_hant": "那你呢,"
+    "zh": "那你呢，",
+    "zh_hant": "那你呢，"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "when it's really hot, when we get a heat wave,",
     "start": 103.542,
     "end": 107.143,
-    "zh": "天气特别热的时候，比如热浪来袭的时候,",
-    "zh_hant": "天氣特別熱的時候，比如熱浪來襲的時候,"
+    "zh": "当天气真的很热，我们遇到热浪时，",
+    "zh_hant": "當天氣真的很熱，我們遇到熱浪時，"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "which is when you get a few days and it's",
     "start": 106.864,
     "end": 109.565,
@@ -304,116 +296,124 @@
     "zh_hant": "也就是連續幾天"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "A long way above normal temperatures,",
     "start": 110.065,
     "end": 112.666,
-    "zh": "温度远高于正常水平的时候,",
-    "zh_hant": "溫度遠高於正常水平的時候,"
+    "zh": "温度远高于正常水平时，",
+    "zh_hant": "溫度遠高於正常水平時，"
+  },
+  {
+    "index": 38,
+    "text": "then I like to put a paddling pool",
+    "start": 112.927,
+    "end": 115.528,
+    "zh": "我喜欢在后花园放一个儿童戏水池，",
+    "zh_hant": "我喜歡在後花園放一個兒童戲水池，"
   },
   {
     "index": 39,
-    "text": "then I like to put a paddling pool in the back garden,",
-    "start": 112.927,
-    "end": 117.148,
-    "zh": "我喜欢在后花园放一个戏水池,",
-    "zh_hant": "我喜歡在後花園放一個戲水池,"
+    "text": "in the back garden, which is like a little swimming pool,",
+    "start": 115.588,
+    "end": 118.909,
+    "zh": "就像一个迷你游泳池，",
+    "zh_hant": "就像一個迷你游泳池，"
   },
   {
     "index": 40,
-    "text": "which is like a little swimming pool, and you just fill it with water and then jump in.",
-    "start": 116.889,
+    "text": "and you just fill it with water and then jump in.",
+    "start": 118.709,
     "end": 122.151,
-    "zh": "就像一个小游泳池，你只需装满水然后跳进去。",
-    "zh_hant": "就像一個小游泳池，你只需裝滿水然後跳進去。"
+    "zh": "你只要装满水然后跳进去。",
+    "zh_hant": "你只要裝滿水然後跳進去。"
   },
   {
     "index": 41,
     "text": "Yeah, water can really help you cool off or cool down, to become cold.",
     "start": 121.991,
     "end": 126.654,
-    "zh": "嗯，水真的能帮你降降温，也就是变凉快。",
-    "zh_hant": "嗯，水真的能幫你降降溫，也就是變涼快。"
+    "zh": "是的，水真的能帮你降温，变得凉爽。",
+    "zh_hant": "是的，水真的能幫你降溫，變得涼爽。"
   },
   {
     "index": 42,
     "text": "So how do you make the most of hot weather, then?",
     "start": 126.614,
     "end": 129.935,
-    "zh": "那你怎样充分利用炎热的天气呢？",
-    "zh_hant": "那你怎樣充分利用炎熱的天氣呢？"
+    "zh": "那你如何充分利用炎热的天气呢？",
+    "zh_hant": "那你如何充分利用炎熱的天氣呢？"
   },
   {
     "index": 43,
     "text": "Because you mentioned",
     "start": 129.585,
     "end": 130.996,
-    "zh": "因为你提到过",
-    "zh_hant": "因為你提到過"
+    "zh": "因为你提到",
+    "zh_hant": "因為你提到"
   },
   {
     "index": 44,
     "text": "we don't have many days",
     "start": 130.646,
     "end": 133.777,
-    "zh": "我们这里很少",
-    "zh_hant": "我們這裡很少"
+    "zh": "我们这里（英国）一年中",
+    "zh_hant": "我們這裡（英國）一年中"
   },
   {
     "index": 45,
     "text": "of very hot weather here in the UK.",
     "start": 133.427,
     "end": 135.958,
-    "zh": "有非常炎热的天气，在英国。",
-    "zh_hant": "有非常炎熱的天氣，在英國。"
+    "zh": "非常热的天数并不多。",
+    "zh_hant": "非常熱的天數並不多。"
   },
   {
     "index": 46,
-    "text": "I spend a lot more time outside",
+    "text": "I spend a lot more time outside than",
     "start": 135.898,
-    "end": 138.9,
-    "zh": "我待在户外的时间多得多,",
-    "zh_hant": "我待在戶外的時間多得多,"
+    "end": 140.1,
+    "zh": "我会花更多时间在户外，",
+    "zh_hant": "我會花更多時間在戶外，"
   },
   {
     "index": 47,
-    "text": "than I do during the winter, for example.",
-    "start": 139.48,
+    "text": "I do during the winter, for example.",
+    "start": 139.75,
     "end": 142.321,
-    "zh": "比冬天的时候多，比如。",
-    "zh_hant": "比冬天的時候多，比如。"
+    "zh": "比如相比冬天。",
+    "zh_hant": "比如相比冬天。"
   },
   {
     "index": 48,
     "text": "If we've got nice warm weather and it's not raining,",
     "start": 142.361,
     "end": 145.403,
-    "zh": "如果天气温暖而且不下雨,",
-    "zh_hant": "如果天氣溫暖而且不下雨,"
+    "zh": "如果天气温暖且不下雨时，",
+    "zh_hant": "如果天氣溫暖且不下雨時，"
   },
   {
     "index": 49,
-    "text": "it's nice to be outside,",
+    "text": "it's nice to be outside, just to sit,",
     "start": 146.263,
-    "end": 148.664,
-    "zh": "待在户外很好,",
-    "zh_hant": "待在戶外很好,"
+    "end": 150.525,
+    "zh": "在外面坐坐挺好的，",
+    "zh_hant": "在外面坐坐挺好的，"
   },
   {
     "index": 50,
-    "text": "just to sit, spend some time reading, whatever,",
-    "start": 149.285,
+    "text": "spend some time reading, whatever,",
+    "start": 150.565,
     "end": 153.407,
-    "zh": "就是坐着，花点时间看书什么的,",
-    "zh_hant": "就是坐著，花點時間看書什麼的,"
+    "zh": "花点时间读读书，之类的事情，",
+    "zh_hant": "花點時間讀讀書，之類的事情，"
   },
   {
     "index": 51,
     "text": "cooking outside, having a barbecue,",
     "start": 153.867,
     "end": 157.309,
-    "zh": "在户外做饭、烧烤,",
-    "zh_hant": "在戶外做飯、燒烤,"
+    "zh": "在户外做饭、烧烤，",
+    "zh_hant": "在戶外做飯、燒烤，"
   },
   {
     "index": 52,
@@ -428,107 +428,99 @@
     "text": "You could sit in the garden and eat dinner outside.",
     "start": 159.34,
     "end": 163.232,
-    "zh": "你可以坐在花园里，在户外吃晚餐。",
-    "zh_hant": "你可以坐在花園裡，在戶外吃晚餐。"
+    "zh": "你可以坐在花园里，在户外吃晚饭。",
+    "zh_hant": "你可以坐在花園裡，在戶外吃晚飯。"
   },
   {
     "index": 54,
     "text": "All of those things you can do in the summer when it's warm,",
     "start": 163.372,
     "end": 167.174,
-    "zh": "所有这些事情你都可以在夏天天气暖和的时候做,",
-    "zh_hant": "所有這些事情你都可以在夏天天氣暖和的時候做,"
+    "zh": "这些都是在夏天天气暖和时可以做的事情，",
+    "zh_hant": "這些都是在夏天天氣暖和時可以做的事情，"
   },
   {
     "index": 55,
     "text": "and of course when it's not raining.",
     "start": 167.134,
     "end": 168.895,
-    "zh": "当然别下雨的时候。",
-    "zh_hant": "當然別下雨的時候。"
+    "zh": "当然前提是不下雨。",
+    "zh_hant": "當然前提是不下雨。"
   },
   {
     "index": 56,
     "text": "But that sounds lovely.",
     "start": 168.715,
     "end": 170.155,
-    "zh": "那听起来很棒。",
-    "zh_hant": "那聽起來很棒。"
+    "zh": "听起来真不错。",
+    "zh_hant": "聽起來真不錯。"
   },
   {
     "index": 57,
     "text": "Really making the most of those long, hot days.",
     "start": 169.815,
     "end": 173.237,
-    "zh": "真的充分利用了那些漫长的、炎热的日子。",
-    "zh_hant": "真的充分利用了那些漫長的、炎熱的日子。"
+    "zh": "真正充分利用那些漫长而炎热的日子。",
+    "zh_hant": "真正充分利用那些漫長而炎熱的日子。"
   },
   {
     "index": 58,
     "text": "Yeah.",
     "start": 173.417,
     "end": 174.017,
-    "zh": "嗯。",
-    "zh_hant": "嗯。"
+    "zh": "是的。",
+    "zh_hant": "是的。"
   },
   {
     "index": 59,
     "text": "So, to make the most of something",
     "start": 173.667,
     "end": 175.398,
-    "zh": "所以，make the most of something",
-    "zh_hant": "所以，make the most of something"
+    "zh": "那么，“充分利用某事物”",
+    "zh_hant": "那麼，“充分利用某事物”"
   },
   {
     "index": 60,
     "text": "is to do as much as you can within the time or the space",
     "start": 175.048,
     "end": 179.94,
-    "zh": "就是在你所在的时间或空间里尽可能多地做事。",
-    "zh_hant": "就是在你所在的時間或空間裡儘可能多地做事。"
+    "zh": "的意思是你在所处的时间或空间内",
+    "zh_hant": "的意思是你在所處的時間或空間內"
   },
   {
     "index": 61,
     "text": "that you're in.",
     "start": 179.98,
     "end": 181.081,
-    "zh": "如果你在一个非常热的日子,",
-    "zh_hant": "如果你在一個非常熱的日子,"
+    "zh": "尽可能多做事情。",
+    "zh_hant": "儘可能多做事情。"
   },
   {
     "index": 62,
     "text": "If it's a very hot day,",
     "start": 180.801,
     "end": 182.641,
-    "zh": "你更喜欢待在户外",
-    "zh_hant": "你更喜歡待在戶外"
+    "zh": "如果天气非常热，",
+    "zh_hant": "如果天氣非常熱，"
   },
   {
     "index": 63,
-    "text": "do you prefer to be outside",
+    "text": "do you prefer to be outside in the sun",
     "start": 183.002,
-    "end": 185.903,
-    "zh": "阳光下，还是待在室内靠近风扇",
-    "zh_hant": "陽光下，還是待在室內靠近風扇"
+    "end": 186.944,
+    "zh": "你更喜欢待在户外享受阳光，",
+    "zh_hant": "你更喜歡待在戶外享受陽光，"
   },
   {
     "index": 64,
-    "text": "in the sun or to be inside near a fan",
-    "start": 185.743,
-    "end": 190.205,
-    "zh": "或者空调？",
-    "zh_hant": "或者空調？"
+    "text": "or to be inside near a fan or near the air conditioner?",
+    "start": 187.364,
+    "end": 191.586,
+    "zh": "还是在室内靠近风扇或空调？",
+    "zh_hant": "還是在室內靠近風扇或空調？"
   },
   {
     "index": 65,
-    "text": "or near the air conditioner?",
-    "start": 189.985,
-    "end": 191.586,
-    "zh": "好的。",
-    "zh_hant": "好的。"
-  },
-  {
-    "index": 66,
     "text": "OK.",
     "start": 192.327,
     "end": 192.987,
@@ -536,403 +528,371 @@
     "zh_hant": "嗯。"
   },
   {
-    "index": 67,
+    "index": 66,
     "text": "Yeah.",
     "start": 192.767,
     "end": 195.308,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 67,
+    "text": "I prefer to be outside.",
+    "start": 194.958,
+    "end": 197.369,
     "zh": "我更喜欢待在户外。",
     "zh_hant": "我更喜歡待在戶外。"
   },
   {
     "index": 68,
-    "text": "I prefer to be outside.",
-    "start": 194.958,
-    "end": 197.369,
-    "zh": "我记得和朋友一起去度假的时候",
-    "zh_hant": "我記得和朋友一起去度假的時候"
-  },
-  {
-    "index": 69,
     "text": "I remember going on holiday with my friends",
     "start": 198.75,
     "end": 201.491,
-    "zh": "他们想待在商场里面,",
-    "zh_hant": "他們想待在商場裡面,"
+    "zh": "我记得和朋友们一起去度假时",
+    "zh_hant": "我記得和朋友們一起去度假時"
+  },
+  {
+    "index": 69,
+    "text": "and they wanted to stay inside shopping",
+    "start": 201.171,
+    "end": 204.133,
+    "zh": "他们想待在购物",
+    "zh_hant": "他們想待在購物"
   },
   {
     "index": 70,
-    "text": "and they wanted to stay inside shopping centers",
-    "start": 201.171,
-    "end": 204.793,
-    "zh": "因为有空调,",
-    "zh_hant": "因為有空調,"
+    "text": "centers where there was an air con,",
+    "start": 203.783,
+    "end": 207.194,
+    "zh": "中心里，那里有空调，",
+    "zh_hant": "中心裡，那裡有空調，"
   },
   {
     "index": 71,
-    "text": "where there was an air con,",
-    "start": 204.443,
-    "end": 207.194,
-    "zh": "就是AC，但我想出去走走,",
-    "zh_hant": "就是AC，但我想出去走走,"
-  },
-  {
-    "index": 72,
     "text": "an AC, but I wanted to be out and walking,",
     "start": 206.914,
     "end": 210.536,
-    "zh": "虽然在户外很重要,",
-    "zh_hant": "雖然在戶外很重要,"
+    "zh": "也就是AC，但我想要出去走走，",
+    "zh_hant": "也就是AC，但我想要出去走走，"
+  },
+  {
+    "index": 72,
+    "text": "although it's very important",
+    "start": 210.186,
+    "end": 212.657,
+    "zh": "不过很重要的一点是",
+    "zh_hant": "不過很重要的一點是"
   },
   {
     "index": 73,
-    "text": "although it's very important that if you are outside",
-    "start": 210.186,
-    "end": 214.338,
-    "zh": "天气很热的时候,",
-    "zh_hant": "天氣很熱的時候,"
+    "text": "that if you are outside when it's very hot,",
+    "start": 212.307,
+    "end": 215.438,
+    "zh": "如果你在天气很热时在户外，",
+    "zh_hant": "如果你在天氣很熱時在戶外，"
   },
   {
     "index": 74,
-    "text": "when it's very hot,",
-    "start": 214.098,
-    "end": 215.438,
-    "zh": "要喝水，而且要找",
-    "zh_hant": "要喝水，而且要找"
+    "text": "that you drink water",
+    "start": 215.088,
+    "end": 217.579,
+    "zh": "你需要喝水",
+    "zh_hant": "你需要喝水"
   },
   {
     "index": 75,
-    "text": "that you drink water and you find",
-    "start": 215.088,
-    "end": 218.8,
-    "zh": "地方",
-    "zh_hant": "地方"
+    "text": "and you find places where you can cool down.",
+    "start": 217.299,
+    "end": 221.721,
+    "zh": "并且找地方降温。",
+    "zh_hant": "並且找地方降溫。"
   },
   {
     "index": 76,
-    "text": "places",
-    "start": 219.46,
-    "end": 220.381,
-    "zh": "能凉快一下。",
-    "zh_hant": "能涼快一下。"
+    "text": "It depends as well on the country as well, I guess,",
+    "start": 221.842,
+    "end": 224.583,
+    "zh": "我觉得这也取决于国家，我猜，",
+    "zh_hant": "我覺得這也取決於國家，我猜，"
   },
   {
     "index": 77,
-    "text": "where you can cool down.",
-    "start": 220.031,
-    "end": 221.721,
-    "zh": "这也取决于国家吧,",
-    "zh_hant": "這也取決於國家吧,"
+    "text": "because in England, the summers are never Very hot.",
+    "start": 224.233,
+    "end": 228.945,
+    "zh": "因为在英国，夏天从来不是特别热。",
+    "zh_hant": "因為在英國，夏天從來不是特別熱。"
   },
   {
     "index": 78,
-    "text": "It depends as well on the country as well,",
-    "start": 221.842,
-    "end": 224.243,
-    "zh": "我猜，因为在英格兰，夏天从来不会特别热。",
-    "zh_hant": "我猜，因為在英格蘭，夏天從來不會特別熱。"
-  },
-  {
-    "index": 79,
-    "text": "I guess, because in England, the summers are never Very hot.",
-    "start": 223.893,
-    "end": 228.945,
-    "zh": "但在世界其他地方，我猜可能相当危险。",
-    "zh_hant": "但在世界其他地方，我猜可能相當危險。"
-  },
-  {
-    "index": 80,
     "text": "But in other parts of the world, I guess it can probably be quite dangerous.",
     "start": 228.625,
     "end": 232.467,
+    "zh": "但在世界其他地方，我觉得可能相当危险。",
+    "zh_hant": "但在世界其他地方，我覺得可能相當危險。"
+  },
+  {
+    "index": 79,
+    "text": "Yes, yeah.",
+    "start": 232.367,
+    "end": 233.787,
     "zh": "是的，没错。",
     "zh_hant": "是的，沒錯。"
   },
   {
-    "index": 81,
-    "text": "Yes, yeah.",
-    "start": 232.367,
-    "end": 233.787,
-    "zh": "而且接着这一点说，因为不经常",
-    "zh_hant": "而且接著這一點說，因為不經常"
-  },
-  {
-    "index": 82,
+    "index": 80,
     "text": "And also adding on to that, because it isn't",
     "start": 233.487,
     "end": 237.129,
-    "zh": "很热",
-    "zh_hant": "很熱"
+    "zh": "而且补充一点，因为英国不",
+    "zh_hant": "而且補充一點，因為英國不"
+  },
+  {
+    "index": 81,
+    "text": "very hot often in the UK, in England,",
+    "start": 237.409,
+    "end": 242.472,
+    "zh": "经常很热，在英国（英格兰），",
+    "zh_hant": "經常很熱，在英國（英格蘭），"
+  },
+  {
+    "index": 82,
+    "text": "we aren't very well prepared for the heat.",
+    "start": 243.253,
+    "end": 247.875,
+    "zh": "我们对高温没有充分准备。",
+    "zh_hant": "我們對高溫沒有充分準備。"
   },
   {
     "index": 83,
-    "text": "very hot often",
-    "start": 237.409,
-    "end": 239.05,
-    "zh": "在英国,",
-    "zh_hant": "在英國,"
-  },
-  {
-    "index": 84,
-    "text": "in the UK,",
-    "start": 240.311,
-    "end": 241.572,
-    "zh": "在英格兰，我们不怎么",
-    "zh_hant": "在英格蘭，我們不怎麼"
-  },
-  {
-    "index": 85,
-    "text": "in England, we aren't very well",
-    "start": 241.392,
-    "end": 245.894,
-    "zh": "为炎热做好准备。",
-    "zh_hant": "為炎熱做好準備。"
-  },
-  {
-    "index": 86,
-    "text": "prepared for the heat.",
-    "start": 245.544,
-    "end": 247.875,
-    "zh": "所以，是的，如果你来英国玩,",
-    "zh_hant": "所以，是的，如果你來英國玩,"
-  },
-  {
-    "index": 87,
     "text": "So, yeah, if you do come and visit the UK,",
     "start": 247.695,
     "end": 252.417,
-    "zh": "要知道在非常非常热的日子里，可能会很难",
-    "zh_hant": "要知道在非常非常熱的日子裡，可能會很難"
+    "zh": "所以，如果你来英国旅游，",
+    "zh_hant": "所以，如果你來英國旅遊，"
   },
   {
-    "index": 88,
+    "index": 84,
     "text": "just know that on a very, very hot day, it could be quite difficult",
     "start": 252.277,
     "end": 256.979,
+    "zh": "要知道在非常非常热的日子里，可能很难",
+    "zh_hant": "要知道在非常非常熱的日子裡，可能很難"
+  },
+  {
+    "index": 85,
+    "text": "to find an area that does have a fan or air conditioning.",
+    "start": 256.629,
+    "end": 260.401,
     "zh": "找到有风扇或空调的地方。",
     "zh_hant": "找到有風扇或空調的地方。"
   },
   {
-    "index": 89,
-    "text": "to find an area that does have a fan or air conditioning.",
-    "start": 256.629,
-    "end": 260.401,
-    "zh": "好的，咱们复习一下词汇",
-    "zh_hant": "好的，咱們複習一下詞彙"
-  },
-  {
-    "index": 90,
-    "text": "OK, let's recap the vocabulary",
+    "index": 86,
+    "text": "OK, let's recap",
     "start": 266.244,
-    "end": 269.325,
-    "zh": "对话中听到的,",
-    "zh_hant": "對話中聽到的,"
+    "end": 268.465,
+    "zh": "好的，让我们回顾一下",
+    "zh_hant": "好的，讓我們回顧一下"
   },
   {
-    "index": 91,
-    "text": "that we heard during the conversation,",
-    "start": 268.975,
+    "index": 87,
+    "text": "the vocabulary that we heard during the conversation,",
+    "start": 268.115,
     "end": 271.947,
-    "zh": "从heat wave开始。",
-    "zh_hant": "從heat wave開始。"
+    "zh": "对话中听到的词汇，",
+    "zh_hant": "對話中聽到的詞彙，"
   },
   {
-    "index": 92,
+    "index": 88,
     "text": "starting with heat wave.",
     "start": 272.167,
     "end": 275.008,
-    "zh": "那么，heatwave",
-    "zh_hant": "那麼，heatwave"
+    "zh": "从“heat wave”（热浪）开始。",
+    "zh_hant": "從“heat wave”（熱浪）開始。"
   },
   {
-    "index": 93,
-    "text": "Now, a heatwave",
+    "index": 89,
+    "text": "Now, a heatwave is a period of time",
     "start": 275.068,
-    "end": 276.849,
-    "zh": "是一段天气非常炎热的时期。",
-    "zh_hant": "是一段天氣非常炎熱的時期。"
+    "end": 278.71,
+    "zh": "现在，“热浪”指的是一段",
+    "zh_hant": "現在，“熱浪”指的是一段"
   },
   {
-    "index": 94,
-    "text": "is a period of time with very hot weather.",
-    "start": 276.869,
+    "index": 90,
+    "text": "with very hot weather.",
+    "start": 278.571,
     "end": 280.491,
-    "zh": "如果你make the most of something，就是尽可能享受它。",
-    "zh_hant": "如果你make the most of something，就是儘可能享受它。"
+    "zh": "天气非常热的时间。",
+    "zh_hant": "天氣非常熱的時間。"
   },
   {
-    "index": 95,
+    "index": 91,
     "text": "If you make the most of something, you enjoy it as much as you can.",
     "start": 280.612,
     "end": 285.714,
-    "zh": "比如,",
-    "zh_hant": "比如,"
+    "zh": "如果你“make the most of something”，就是尽可能多地享受它。",
+    "zh_hant": "如果你“make the most of something”，就是儘可能多地享受它。"
   },
   {
-    "index": 96,
-    "text": "For example,",
+    "index": 92,
+    "text": "For example, I make the most of hot days",
     "start": 285.734,
-    "end": 287.154,
-    "zh": "我充分利用炎热的日子",
-    "zh_hant": "我充分利用炎熱的日子"
-  },
-  {
-    "index": 97,
-    "text": "I make the most of hot days",
-    "start": 287.055,
     "end": 289.155,
-    "zh": "出去散步、买冰淇淋吃。",
-    "zh_hant": "出去散步、買冰淇淋吃。"
+    "zh": "例如，我充分利用炎热的日子，",
+    "zh_hant": "例如，我充分利用炎熱的日子，"
   },
   {
-    "index": 98,
+    "index": 93,
     "text": "by going outside for walks and getting an ice cream.",
     "start": 288.805,
     "end": 292.617,
-    "zh": "我们还听到了“cool down”,",
-    "zh_hant": "我們還聽到了“cool down”,"
+    "zh": "出去散步、买个冰淇淋。",
+    "zh_hant": "出去散步、買個冰淇淋。"
   },
   {
-    "index": 99,
-    "text": "We also heard \"cool down,\"",
+    "index": 94,
+    "text": "We also heard \"cool down,\" which means",
     "start": 292.918,
-    "end": 295.579,
-    "zh": "意思是感觉没那么热。",
-    "zh_hant": "意思是感覺沒那麼熱。"
+    "end": 296.659,
+    "zh": "我们还听到了“cool down”（降温），意思是",
+    "zh_hant": "我們還聽到了“cool down”（降溫），意思是"
   },
   {
-    "index": 100,
-    "text": "which means to feel less hot.",
-    "start": 295.639,
+    "index": 95,
+    "text": "to feel less hot.",
+    "start": 296.309,
     "end": 298.72,
-    "zh": "所以，比如，天气真的很热的时候,",
-    "zh_hant": "所以，比如，天氣真的很熱的時候,"
+    "zh": "感觉不那么热了。",
+    "zh_hant": "感覺不那麼熱了。"
   },
   {
-    "index": 101,
+    "index": 96,
     "text": "So, for example, when it's really hot,",
     "start": 298.8,
     "end": 301.822,
-    "zh": "我喜欢跳进戏水池来凉快一下。",
-    "zh_hant": "我喜歡跳進戲水池來涼快一下。"
+    "zh": "所以，例如，当天气真的很热时，",
+    "zh_hant": "所以，例如，當天氣真的很熱時，"
   },
   {
-    "index": 102,
+    "index": 97,
     "text": "I like to cool down by jumping in a paddling pool.",
     "start": 301.822,
     "end": 305.744,
-    "zh": "我们也可以说“cool off”，在这个语境里意思一样。",
-    "zh_hant": "我們也可以說“cool off”，在這個語境裡意思一樣。"
+    "zh": "我喜欢跳进戏水池来降温。",
+    "zh_hant": "我喜歡跳進戲水池來降溫。"
   },
   {
-    "index": 103,
+    "index": 98,
     "text": "And we can also say \"cool off,\" which means the same in this context.",
     "start": 305.804,
     "end": 310.346,
-    "zh": "我们还听到了“air conditioning”。",
-    "zh_hant": "我們還聽到了“air conditioning”。"
+    "zh": "我们还可以说“cool off”，在这个语境下意思相同。",
+    "zh_hant": "我們還可以說“cool off”，在這個語境下意思相同。"
   },
   {
-    "index": 104,
+    "index": 99,
     "text": "And we had \"air conditioning.\"",
     "start": 310.806,
     "end": 312.947,
-    "zh": "那是一台帮助你所处空间降温的机器。",
-    "zh_hant": "那是一臺幫助你所處空間降溫的機器。"
+    "zh": "我们还听到了“air conditioning”（空调）。",
+    "zh_hant": "我們還聽到了“air conditioning”（空調）。"
   },
   {
-    "index": 105,
+    "index": 100,
     "text": "That is a machine that helps the space that you're in.",
     "start": 312.597,
     "end": 316.429,
-    "zh": "可以是你的房子或者办公室。",
-    "zh_hant": "可以是你的房子或者辦公室。"
+    "zh": "这是一种帮助你所处空间降温的机器。",
+    "zh_hant": "這是一種幫助你所處空間降溫的機器。"
   },
   {
-    "index": 106,
+    "index": 101,
     "text": "So it could be your house or your work office.",
     "start": 316.489,
     "end": 319.811,
+    "zh": "可以是你的家或办公室。",
+    "zh_hant": "可以是你的家或辦公室。"
+  },
+  {
+    "index": 102,
+    "text": "It helps that space feel less hot.",
+    "start": 319.852,
+    "end": 322.833,
     "zh": "它帮助那个空间感觉不那么热。",
     "zh_hant": "它幫助那個空間感覺不那麼熱。"
   },
   {
-    "index": 107,
-    "text": "It helps that space feel less hot.",
-    "start": 319.852,
-    "end": 322.833,
+    "index": 103,
+    "text": "It helps it feel colder.",
+    "start": 322.573,
+    "end": 324.334,
     "zh": "让它感觉更凉爽。",
     "zh_hant": "讓它感覺更涼爽。"
   },
   {
-    "index": 108,
-    "text": "It helps it feel colder.",
-    "start": 322.573,
-    "end": 324.334,
-    "zh": "你可能会听到它被缩写成air con或AC。",
-    "zh_hant": "你可能會聽到它被縮寫成air con或AC。"
-  },
-  {
-    "index": 109,
+    "index": 104,
     "text": "You might hear it shortened to air con or AC.",
     "start": 324.495,
     "end": 327.456,
-    "zh": "这期Real Easy English就到这里了。",
-    "zh_hant": "這期Real Easy English就到這裡了。"
+    "zh": "你可能会听到它缩写为“air con”或“AC”。",
+    "zh_hant": "你可能會聽到它縮寫為“air con”或“AC”。"
   },
   {
-    "index": 110,
+    "index": 105,
     "text": "That's it for this episode of Real Easy English.",
     "start": 327.557,
     "end": 331.799,
-    "zh": "试试我们网站上的工作表，测试你学到的东西,",
-    "zh_hant": "試試我們網站上的工作表，測試你學到的東西,"
+    "zh": "这就是本期《简易英语》的全部内容。",
+    "zh_hant": "這就是本期《簡易英語》的全部內容。"
   },
   {
-    "index": 111,
+    "index": 106,
     "text": "Try the worksheet on our website to test what you've learned,",
     "start": 331.88,
     "end": 335.882,
+    "zh": "试试我们网站上的练习册，测试你学到的东西，",
+    "zh_hant": "試試我們網站上的練習冊，測試你學到的東西，"
+  },
+  {
+    "index": 107,
+    "text": "and that's at bbclearningenglish.com.",
+    "start": 335.642,
+    "end": 339.444,
     "zh": "网址是bbclearningenglish.com。",
     "zh_hant": "網址是bbclearningenglish.com。"
   },
   {
-    "index": 112,
-    "text": "and that's at bbclearningenglish.com.",
-    "start": 335.642,
-    "end": 339.444,
-    "zh": "我们下周见",
-    "zh_hant": "我們下週見"
-  },
-  {
-    "index": 113,
+    "index": 108,
     "text": "And we'll see you next week",
     "start": 339.905,
     "end": 341.906,
-    "zh": "带来另一段用简单英语进行的真实对话。",
-    "zh_hant": "帶來另一段用簡單英語進行的真實對話。"
+    "zh": "我们下周见，",
+    "zh_hant": "我們下週見，"
   },
   {
-    "index": 114,
+    "index": 109,
     "text": "with another real conversation in Easy English.",
     "start": 341.586,
     "end": 345.748,
-    "zh": "但现在，该说再见了。",
-    "zh_hant": "但現在，該說再見了。"
+    "zh": "带来另一段《简易英语》中的真实对话。",
+    "zh_hant": "帶來另一段《簡易英語》中的真實對話。"
   },
   {
-    "index": 115,
+    "index": 110,
     "text": "But for now, it's goodbye.",
     "start": 345.529,
     "end": 347.109,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "zh": "但现在，再见。",
+    "zh_hant": "但現在，再見。"
   },
   {
-    "index": 116,
+    "index": 111,
     "text": "Bye.",
     "start": 347.03,
     "end": 347.93,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "zh": "拜。",
+    "zh_hant": "拜。"
   }
 ]

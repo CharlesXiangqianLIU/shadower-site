@@ -20,163 +20,131 @@
     "text": "as the song goes, is purple mountain majesties.",
     "start": 24.602,
     "end": 28.523,
-    "zh": "正如歌中所唱，是紫色山峦的壮丽。",
-    "zh_hant": "正如歌中所唱，是紫色山巒的壯麗。"
+    "zh": "正如歌中所唱，是紫色的山峦壮丽。",
+    "zh_hant": "正如歌中所唱，是紫色的山巒壯麗。"
   },
   {
     "index": 3,
     "text": "And none more majestic than those of Great Smoky Mountains National Park.",
     "start": 32.065,
     "end": 37.748,
-    "zh": "而没有任何山比大烟山国家公园的山更壮丽。",
-    "zh_hant": "而沒有任何山比大煙山國家公園的山更壯麗。"
+    "zh": "没有什么比大烟山国家公园的山峦更壮丽了。",
+    "zh_hant": "沒有什麼比大煙山國家公園的山巒更壯麗了。"
   },
   {
     "index": 4,
-    "text": "Sprawling over half a million acres across the borders of two states,",
+    "text": "Sprawling over half a million acres across the borders of two states, Tennessee and North Carolina,",
     "start": 40.029,
-    "end": 44.391,
-    "zh": "横跨五十多万英亩，跨越两个州的边界，",
-    "zh_hant": "橫跨五十多萬英畝，跨越兩個州的邊界，"
+    "end": 46.573,
+    "zh": "它横跨五十多万英亩，覆盖田纳西州和北卡罗来纳州两州边界，",
+    "zh_hant": "它橫跨五十多萬英畝，覆蓋田納西州和北卡羅來納州兩州邊界，"
   },
   {
     "index": 5,
-    "text": "Tennessee and North Carolina, Great Smoky Mountains National Park",
-    "start": 44.452,
-    "end": 49.694,
-    "zh": "田纳西州和北卡罗来纳州，大烟山国家公园",
-    "zh_hant": "田納西州和北卡羅來納州，大煙山國家公園"
+    "text": "Great Smoky Mountains National Park straddles ridge upon ridge of some of the oldest mountains in the world.",
+    "start": 46.973,
+    "end": 54.336,
+    "zh": "大烟山国家公园层峦叠嶂，拥有世界上最古老的一些山脉。",
+    "zh_hant": "大煙山國家公園層巒疊嶂，擁有世界上最古老的一些山脈。"
   },
   {
     "index": 6,
-    "text": "straddles ridge upon ridge of some of the oldest mountains in the world.",
-    "start": 49.694,
-    "end": 54.336,
-    "zh": "绵延着一道道山脊，这些山是世界上最古老的山脉之一。",
-    "zh_hant": "綿延著一道道山脊，這些山是世界上最古老的山脈之一。"
+    "text": "To the Cherokee, the Native Americans of this region, these were the shakana, meaning blue like smoke.",
+    "start": 57.478,
+    "end": 64.701,
+    "zh": "对于切罗基人——这片地区的原住民——这些山被称为“沙卡纳”，意为“如烟般的蓝”。",
+    "zh_hant": "對於切羅基人——這片地區的原住民——這些山被稱為“沙卡納”，意為“如煙般的藍”。"
   },
   {
     "index": 7,
-    "text": "To the Cherokee, the Native Americans of this region,",
-    "start": 57.478,
-    "end": 60.599,
-    "zh": "对于切罗基人，这个地区的原住民来说，",
-    "zh_hant": "對於切羅基人，這個地區的原住民來說，"
-  },
-  {
-    "index": 8,
-    "text": "these were the shakana, meaning blue like smoke.",
-    "start": 60.6,
-    "end": 64.701,
-    "zh": "这些山被称为“沙卡纳”，意为“像烟一样的蓝”。",
-    "zh_hant": "這些山被稱為“沙卡納”，意為“像煙一樣的藍”。"
-  },
-  {
-    "index": 9,
     "text": "Rising mists veil the mountain heights.",
     "start": 66.122,
     "end": 69.004,
-    "zh": "升腾的雾气笼罩着山巅。",
-    "zh_hant": "升騰的霧氣籠罩著山巔。"
+    "zh": "升腾的雾气遮掩了山峰的高处。",
+    "zh_hant": "升騰的霧氣遮掩了山峰的高處。"
+  },
+  {
+    "index": 8,
+    "text": "lays sleepily in the valleys and clings to the forests",
+    "start": 72.506,
+    "end": 76.507,
+    "zh": "懒洋洋地躺在山谷中，依附在森林间",
+    "zh_hant": "懶洋洋地躺在山谷中，依附在森林間"
+  },
+  {
+    "index": 9,
+    "text": "like ghostly shrouds we call them the smokies",
+    "start": 76.157,
+    "end": 82.811,
+    "zh": "如同幽灵般的罩纱，我们称它们为“烟山”。",
+    "zh_hant": "如同幽靈般的罩紗，我們稱它們為“煙山”。"
   },
   {
     "index": 10,
-    "text": "lays sleepily in the valleys and clings to the forests like ghostly shrouds",
-    "start": 72.506,
-    "end": 77.988,
-    "zh": "慵懒地躺在山谷中，像幽灵般的裹尸布一样依附在森林上",
-    "zh_hant": "慵懶地躺在山谷中，像幽靈般的裹屍布一樣依附在森林上"
+    "text": "and to those who penetrate its foggy curtain it's a place A place of wonders.",
+    "start": 85.112,
+    "end": 90.49,
+    "zh": "对于穿透这迷雾帷幕的人来说，这里是一个充满奇迹的地方。",
+    "zh_hant": "對於穿透這迷霧帷幕的人來說，這裡是一個充滿奇蹟的地方。"
   },
   {
     "index": 11,
-    "text": "we call them the smokies",
-    "start": 80.71,
-    "end": 82.811,
-    "zh": "我们称它们为“烟山”。",
-    "zh_hant": "我們稱它們為“煙山”。"
+    "text": "forests are ancient, survivors of the Ice Age.",
+    "start": 98.319,
+    "end": 102.3,
+    "zh": "森林古老，是冰河时代的幸存者。",
+    "zh_hant": "森林古老，是冰河時代的倖存者。"
   },
   {
     "index": 12,
-    "text": "and to those who penetrate its foggy curtain it's a place",
-    "start": 85.112,
-    "end": 89.394,
-    "zh": "对于穿透雾幕的人来说，这是一个地方",
-    "zh_hant": "對於穿透霧幕的人來說，這是一個地方"
+    "text": "In 1830, the United States government forced the Cherokee Native Americans of North Carolina",
+    "start": 110.144,
+    "end": 116.027,
+    "zh": "1830年，美国政府强迫北卡罗来纳和",
+    "zh_hant": "1830年，美國政府強迫北卡羅來納和"
   },
   {
     "index": 13,
-    "text": "A place of wonders.",
-    "start": 89.454,
-    "end": 98.739,
-    "zh": "一个充满奇迹的地方。",
-    "zh_hant": "一個充滿奇蹟的地方。"
+    "text": "and Tennessee sea in dreadful weather and with little time and much anguish",
+    "start": 115.677,
+    "end": 121.089,
+    "zh": "田纳西的切罗基原住民在恶劣的天气中，时间紧迫、充满痛苦",
+    "zh_hant": "田納西的切羅基原住民在惡劣的天氣中，時間緊迫、充滿痛苦"
   },
   {
     "index": 14,
-    "text": "forests are ancient, survivors of the Ice Age.",
-    "start": 98.389,
-    "end": 102.3,
-    "zh": "森林是古老的，是冰河时代的幸存者。",
-    "zh_hant": "森林是古老的，是冰河時代的倖存者。"
-  },
-  {
-    "index": 15,
-    "text": "In 1830, the United States government forced the Cherokee",
-    "start": 110.144,
-    "end": 114.066,
-    "zh": "1830年，美国政府强迫切罗基人",
-    "zh_hant": "1830年，美國政府強迫切羅基人"
-  },
-  {
-    "index": 16,
-    "text": "Native Americans of North Carolina and Tennessee",
-    "start": 113.716,
-    "end": 116.687,
-    "zh": "北卡罗来纳州和田纳西州的北美原住民",
-    "zh_hant": "北卡羅來納州和田納西州的北美原住民"
-  },
-  {
-    "index": 17,
-    "text": "sea in dreadful weather and with little time and much anguish",
-    "start": 116.337,
-    "end": 121.089,
-    "zh": "在恶劣的天气中，时间紧迫，心中充满痛苦",
-    "zh_hant": "在惡劣的天氣中，時間緊迫，心中充滿痛苦"
-  },
-  {
-    "index": 18,
     "text": "to gather their belongings and relocate to a faraway territory unknown to them",
     "start": 121.17,
     "end": 127.033,
-    "zh": "收拾行装，搬迁到他们不熟悉的遥远领地",
-    "zh_hant": "收拾行裝，搬遷到他們不熟悉的遙遠領地"
+    "zh": "收拾行装，迁徙到遥远而陌生的地方。",
+    "zh_hant": "收拾行裝，遷徙到遙遠而陌生的地方。"
   },
   {
-    "index": 19,
-    "text": "but a handful of Cherokees",
+    "index": 15,
+    "text": "but a handful of Cherokees led by a renegade warrior",
     "start": 129.995,
-    "end": 131.955,
-    "zh": "但少数切罗基人",
-    "zh_hant": "但少數切羅基人"
+    "end": 133.716,
+    "zh": "但少数切罗基人在一个叛逆勇士的带领下",
+    "zh_hant": "但少數切羅基人在一個叛逆勇士的帶領下"
   },
   {
-    "index": 20,
-    "text": "led by a renegade warrior disobeyed the edict and hid in the groves of this great forest",
-    "start": 131.796,
+    "index": 16,
+    "text": "disobeyed the edict and hid in the groves of this great forest",
+    "start": 133.596,
     "end": 137.818,
-    "zh": "在一个叛逆战士的带领下，违抗了法令，藏身于这片大森林的树丛中",
-    "zh_hant": "在一個叛逆戰士的帶領下，違抗了法令，藏身於這片大森林的樹叢中"
+    "zh": "违抗命令，躲藏在这片大森林的树林中。",
+    "zh_hant": "違抗命令，躲藏在這片大森林的樹林中。"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "then came a large -scale logging operation",
     "start": 139.82,
     "end": 142.961,
-    "zh": "随后出现了大规模的伐木作业",
-    "zh_hant": "隨後出現了大規模的伐木作業"
+    "zh": "随后，大规模伐木作业来临了。",
+    "zh_hant": "隨後，大規模伐木作業來臨了。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "more than 90 % of the region's trees were felled.",
     "start": 143.441,
     "end": 146.983,
@@ -184,39 +152,31 @@
     "zh_hant": "該地區超過90%的樹木被砍伐。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "Alarmed, the United States Congress authorized the park in 1926.",
     "start": 147.363,
     "end": 154.51,
-    "zh": "感到震惊，美国国会在1926年批准建立了这座公园。",
-    "zh_hant": "感到震驚，美國國會在1926年批准建立了這座公園。"
+    "zh": "忧心忡忡的美国国会在1926年批准建立这座公园。",
+    "zh_hant": "憂心忡忡的美國國會在1926年批准建立這座公園。"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "It protects one of the few old growth forests in eastern North America.",
     "start": 155.808,
     "end": 160.79,
-    "zh": "它保护着北美东部为数不多的原始森林之一。",
-    "zh_hant": "它保護著北美東部為數不多的原始森林之一。"
+    "zh": "它保护了北美东部为数不多的原始森林之一。",
+    "zh_hant": "它保護了北美東部為數不多的原始森林之一。"
   },
   {
-    "index": 25,
-    "text": "Today, a scenic highway, the newfound Gap Road",
+    "index": 21,
+    "text": "Today, a scenic highway, the newfound Gap Road provides access to unforgettable sights.",
     "start": 170.311,
-    "end": 174.072,
-    "zh": "如今，一条风景优美的高速公路——新发现峡道",
-    "zh_hant": "如今，一條風景優美的高速公路——新發現峽道"
-  },
-  {
-    "index": 26,
-    "text": "provides access to unforgettable sights.",
-    "start": 173.722,
     "end": 177.614,
-    "zh": "提供了通往难忘景色的通道。",
-    "zh_hant": "提供了通往難忘景色的通道。"
+    "zh": "如今，一条风景优美的公路——新发现峡道——为人们提供了通往难忘景色的通道。",
+    "zh_hant": "如今，一條風景優美的公路——新發現峽道——為人們提供了通往難忘景色的通道。"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "nights.",
     "start": 182.277,
     "end": 182.917,
@@ -224,111 +184,95 @@
     "zh_hant": "夜晚。"
   },
   {
-    "index": 28,
+    "index": 23,
     "text": "One might even observe the park's prodigal elk.",
     "start": 186.939,
     "end": 189.74,
-    "zh": "人们甚至可能观察到公园里丰饶的麋鹿。",
-    "zh_hant": "人們甚至可能觀察到公園裡豐饒的麋鹿。"
+    "zh": "人们甚至可能观察到公园里失而复得的麋鹿。",
+    "zh_hant": "人們甚至可能觀察到公園裡失而復得的麋鹿。"
   },
   {
-    "index": 29,
+    "index": 24,
     "text": "have reappeared in the Great Smokies.",
     "start": 192.702,
     "end": 195.383,
-    "zh": "它们重新出现在大烟山。",
-    "zh_hant": "它們重新出現在大煙山。"
+    "zh": "它们重新出现在大烟山中。",
+    "zh_hant": "它們重新出現在大煙山中。"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "Once abundant, they were wiped out by hunting and by the loss of their wild grazing grounds.",
     "start": 195.743,
     "end": 201.406,
-    "zh": "曾经数量众多，却因狩猎和野生牧场的丧失而灭绝。",
-    "zh_hant": "曾經數量眾多，卻因狩獵和野生牧場的喪失而滅絕。"
+    "zh": "曾经数量繁多，却因狩猎和野生牧场的丧失而被灭绝。",
+    "zh_hant": "曾經數量繁多，卻因狩獵和野生牧場的喪失而被滅絕。"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "The last elk in these environs was killed in the late 1700s.",
     "start": 201.846,
     "end": 206.379,
-    "zh": "该地区最后一头麋鹿在18世纪末被杀死。",
-    "zh_hant": "該地區最後一頭麋鹿在18世紀末被殺死。"
+    "zh": "该地区最后一只麋鹿在18世纪末被猎杀。",
+    "zh_hant": "該地區最後一隻麋鹿在18世紀末被獵殺。"
   },
   {
-    "index": 32,
-    "text": "In the present 21st century, elk have been reintroduced to the area",
+    "index": 27,
+    "text": "In the present 21st century, elk have been reintroduced to the area and they are thriving.",
     "start": 206.429,
-    "end": 210.931,
-    "zh": "在如今的21世纪，麋鹿已被重新引入该地区",
-    "zh_hant": "在如今的21世紀，麋鹿已被重新引入該地區"
-  },
-  {
-    "index": 33,
-    "text": "and they are thriving.",
-    "start": 211.031,
     "end": 213.092,
-    "zh": "并且它们正在繁盛生长。",
-    "zh_hant": "並且它們正在繁盛生長。"
+    "zh": "在当今的21世纪，麋鹿已被重新引入该地区，并且繁衍兴旺。",
+    "zh_hant": "在當今的21世紀，麋鹿已被重新引入該地區，並且繁衍興旺。"
   },
   {
-    "index": 34,
+    "index": 28,
     "text": "Visitors come here for renewal.",
     "start": 217.975,
     "end": 220.356,
-    "zh": "游客来这里寻求更新。",
-    "zh_hant": "遊客來這裡尋求更新。"
+    "zh": "游客来这里寻求心灵的焕新。",
+    "zh_hant": "遊客來這裡尋求心靈的煥新。"
   },
   {
-    "index": 35,
+    "index": 29,
     "text": "Or to test themselves.",
     "start": 221.857,
     "end": 223.877,
-    "zh": "或者测试自己。",
-    "zh_hant": "或者測試自己。"
+    "zh": "或者挑战自我。",
+    "zh_hant": "或者挑戰自我。"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "To see if they can still meet the challenge of the wilderness.",
     "start": 224.338,
     "end": 227.759,
-    "zh": "看看自己是否还能应对荒野的挑战。",
-    "zh_hant": "看看自己是否還能應對荒野的挑戰。"
+    "zh": "看看自己是否还能迎接荒野的考验。",
+    "zh_hant": "看看自己是否還能迎接荒野的考驗。"
   },
   {
-    "index": 37,
+    "index": 31,
     "text": "The park offers some 850 miles of trails and unpaved roads for hiking.",
     "start": 229.62,
     "end": 235.503,
-    "zh": "公园提供约850英里的小径和未铺砌的道路供徒步旅行。",
-    "zh_hant": "公園提供約850英里的小徑和未鋪砌的道路供徒步旅行。"
+    "zh": "公园提供约850英里的步道和未铺装道路供远足之用。",
+    "zh_hant": "公園提供約850英里的步道和未鋪裝道路供遠足之用。"
   },
   {
-    "index": 38,
+    "index": 32,
     "text": "The rewards are the making of fond memories,",
     "start": 238.165,
     "end": 241.406,
-    "zh": "回报是创造美好回忆，",
-    "zh_hant": "回報是創造美好回憶，"
+    "zh": "回报是留下美好回忆，",
+    "zh_hant": "回報是留下美好回憶，"
   },
   {
-    "index": 39,
-    "text": "flowering trees, wild flowers",
+    "index": 33,
+    "text": "flowering trees, wild flowers in bloom,",
     "start": 242.807,
-    "end": 248.93,
-    "zh": "开花的树木、野花",
-    "zh_hant": "開花的樹木、野花"
-  },
-  {
-    "index": 40,
-    "text": "in bloom,",
-    "start": 248.58,
     "end": 249.39,
-    "zh": "盛开中，",
-    "zh_hant": "盛開中，"
+    "zh": "开花的树木、盛开的野花，",
+    "zh_hant": "開花的樹木、盛開的野花，"
   },
   {
-    "index": 41,
+    "index": 34,
     "text": "waterfalls,",
     "start": 254.593,
     "end": 255.873,
@@ -336,39 +280,39 @@
     "zh_hant": "瀑布，"
   },
   {
-    "index": 42,
+    "index": 35,
     "text": "glimpses of elk or deer,",
     "start": 260.896,
     "end": 263.037,
-    "zh": "瞥见麋鹿或鹿，",
-    "zh_hant": "瞥見麋鹿或鹿，"
+    "zh": "瞥见麋鹿或白尾鹿，",
+    "zh_hant": "瞥見麋鹿或白尾鹿，"
   },
   {
-    "index": 43,
+    "index": 36,
     "text": "of black bears, and wild turkeys.",
     "start": 264.698,
     "end": 270.681,
-    "zh": "黑熊和野火鸡。",
-    "zh_hant": "黑熊和野火雞。"
+    "zh": "还有黑熊和野生火鸡。",
+    "zh_hant": "還有黑熊和野生火雞。"
   },
   {
-    "index": 44,
+    "index": 37,
     "text": "One trail leads to Chimney Tops, a twin summit so named for its double capstone peaks.",
     "start": 278.865,
     "end": 284.948,
-    "zh": "一条小径通往烟囱顶，那是一个双峰，因其双顶石峰而得名。",
-    "zh_hant": "一條小徑通往煙囪頂，那是一個雙峰，因其雙頂石峰而得名。"
+    "zh": "一条步道通往“烟囱顶”——双峰山，因其双顶岩峰而得名。",
+    "zh_hant": "一條步道通往“煙囪頂”——雙峰山，因其雙頂巖峰而得名。"
   },
   {
-    "index": 45,
+    "index": 38,
     "text": "Some come for sport.",
     "start": 288.149,
     "end": 289.77,
-    "zh": "有些人为运动而来。",
-    "zh_hant": "有些人為運動而來。"
+    "zh": "有些人来此是为了运动。",
+    "zh_hant": "有些人來此是為了運動。"
   },
   {
-    "index": 46,
+    "index": 39,
     "text": "Exploring on horseback.",
     "start": 294.693,
     "end": 296.394,
@@ -376,47 +320,47 @@
     "zh_hant": "騎馬探索。"
   },
   {
-    "index": 47,
+    "index": 40,
     "text": "Abounding brooks and streams attract fishermen.",
     "start": 302.617,
     "end": 305.398,
-    "zh": "充沛的溪流吸引了钓鱼者。",
-    "zh_hant": "充沛的溪流吸引了釣魚者。"
+    "zh": "丰富的溪流和河流吸引着钓鱼者。",
+    "zh_hant": "豐富的溪流和河流吸引著釣魚者。"
   },
   {
-    "index": 48,
+    "index": 41,
     "text": "And fisherwomen.",
     "start": 308.6,
     "end": 310.081,
-    "zh": "以及钓鱼的女性。",
-    "zh_hant": "以及釣魚的女性。"
+    "zh": "还有女钓鱼者。",
+    "zh_hant": "還有女釣魚者。"
   },
   {
-    "index": 49,
+    "index": 42,
     "text": "Brook trout are native to these waters.",
     "start": 310.641,
     "end": 313.442,
-    "zh": "溪鳟鱼是这些水域的本地物种。",
-    "zh_hant": "溪鱒魚是這些水域的本地物種。"
+    "zh": "溪红点鲑是这片水域的原生鱼种。",
+    "zh_hant": "溪紅點鮭是這片水域的原生魚種。"
   },
   {
-    "index": 50,
+    "index": 43,
     "text": "come to discover how their forefathers lived.",
     "start": 322.327,
     "end": 325.088,
-    "zh": "来发现他们的祖先是如何生活的。",
-    "zh_hant": "來發現他們的祖先是如何生活的。"
+    "zh": "前来探寻祖先的生活。",
+    "zh_hant": "前來探尋祖先的生活。"
   },
   {
-    "index": 51,
+    "index": 44,
     "text": "Here history is preserved and here it can be relived.",
     "start": 328.25,
     "end": 333.473,
-    "zh": "这里保存着历史，这里也可以重演历史。",
-    "zh_hant": "這裡儲存著歷史，這裡也可以重演歷史。"
+    "zh": "在这里，历史得到保存，也可以重新体验。",
+    "zh_hant": "在這裡，歷史得到儲存，也可以重新體驗。"
   },
   {
-    "index": 52,
+    "index": 45,
     "text": "These are the log cabins and frame houses where the first white settlers lived.",
     "start": 341.717,
     "end": 346.279,
@@ -424,7 +368,7 @@
     "zh_hant": "這些是第一批白人定居者居住的原木小屋和框架房屋。"
   },
   {
-    "index": 53,
+    "index": 46,
     "text": "Going back almost 200 years to 1819.",
     "start": 350.361,
     "end": 356.454,
@@ -432,95 +376,79 @@
     "zh_hant": "追溯到近200年前的1819年。"
   },
   {
-    "index": 54,
-    "text": "Here they planted crops,",
+    "index": 47,
+    "text": "Here they planted crops, and harvested,",
     "start": 356.504,
-    "end": 358.385,
-    "zh": "他们在这里种植庄稼，",
-    "zh_hant": "他們在這裡種植莊稼，"
+    "end": 361.146,
+    "zh": "他们在这里种植作物，收获，",
+    "zh_hant": "他們在這裡種植作物，收穫，"
   },
   {
-    "index": 55,
-    "text": "and harvested, and raised children,",
-    "start": 359.946,
-    "end": 364.608,
-    "zh": "收割，养育孩子，",
-    "zh_hant": "收割，養育孩子，"
-  },
-  {
-    "index": 56,
-    "text": "red livestock.",
-    "start": 367.089,
+    "index": 48,
+    "text": "and raised children, red livestock.",
+    "start": 363.128,
     "end": 368.39,
-    "zh": "饲养牲畜。",
-    "zh_hant": "飼養牲畜。"
+    "zh": "养育子女和牲畜。",
+    "zh_hant": "養育子女和牲畜。"
   },
   {
-    "index": 57,
+    "index": 49,
     "text": "Cades Cove is a broad verdant valley surrounded",
     "start": 373.37,
     "end": 377.012,
-    "zh": "凯兹湾是一个被山脉环绕的宽阔翠绿山谷",
-    "zh_hant": "凱茲灣是一個被山脈環繞的寬闊翠綠山谷"
+    "zh": "凯兹湾是一个宽广翠绿的山谷，四周被",
+    "zh_hant": "凱茲灣是一個寬廣翠綠的山谷，四周被"
   },
   {
-    "index": 58,
+    "index": 50,
     "text": "by mountains and is one of the most popular destinations in the Great Smokies.",
     "start": 376.662,
     "end": 381.754,
-    "zh": "是大烟山最受欢迎的目的地之一。",
-    "zh_hant": "是大煙山最受歡迎的目的地之一。"
+    "zh": "群山环绕，是大烟山中最受欢迎的目的地之一。",
+    "zh_hant": "群山環繞，是大煙山中最受歡迎的目的地之一。"
   },
   {
-    "index": 59,
+    "index": 51,
     "text": "Scattered along the 11 mile one -way loop road are three churches,",
     "start": 382.595,
     "end": 386.837,
-    "zh": "沿着11英里单向环路散布着三座教堂，",
-    "zh_hant": "沿著11英里單向環路散佈著三座教堂，"
+    "zh": "沿着11英里长的单向环路上散布着三座教堂，",
+    "zh_hant": "沿著11英里長的單向環路上散佈著三座教堂，"
   },
   {
-    "index": 60,
+    "index": 52,
     "text": "a working grist mill, barns, log houses,",
     "start": 389.478,
     "end": 395.421,
-    "zh": "一座仍在运作的磨坊、谷仓、原木房屋，",
-    "zh_hant": "一座仍在運作的磨坊、穀倉、原木房屋，"
+    "zh": "一座仍在运转的磨坊、谷仓、原木房屋，",
+    "zh_hant": "一座仍在運轉的磨坊、穀倉、原木房屋，"
   },
   {
-    "index": 61,
+    "index": 53,
     "text": "and many other faithfully restored 18th and 19th century structures.",
     "start": 398.123,
     "end": 402.765,
-    "zh": "以及许多其他忠实修复的18世纪和19世纪建筑。",
-    "zh_hant": "以及許多其他忠實修復的18世紀和19世紀建築。"
+    "zh": "以及许多忠实修复的18和19世纪建筑。",
+    "zh_hant": "以及許多忠實修復的18和19世紀建築。"
   },
   {
-    "index": 62,
-    "text": "worshipped in simple churches, like Palmer Chapel",
+    "index": 54,
+    "text": "worshipped in simple churches, like Palmer Chapel in Cataloochee Valley.",
     "start": 408.708,
-    "end": 412.37,
-    "zh": "在简朴的教堂里礼拜，如帕尔默教堂",
-    "zh_hant": "在簡樸的教堂裡禮拜，如帕爾默教堂"
+    "end": 413.91,
+    "zh": "在简朴的教堂里礼拜，如卡塔卢奇山谷的帕尔默教堂。",
+    "zh_hant": "在簡樸的教堂裡禮拜，如卡塔盧奇山谷的帕爾默教堂。"
   },
   {
-    "index": 63,
-    "text": "in Cataloochee Valley.",
-    "start": 412.43,
-    "end": 420.634,
-    "zh": "在卡塔卢奇山谷。",
-    "zh_hant": "在卡塔盧奇山谷。"
-  },
-  {
-    "index": 64,
+    "index": 55,
     "text": "is where they ground their grain.",
     "start": 420.314,
     "end": 422.075,
-    "zh": "那里是他们磨谷物的地方。",
-    "zh_hant": "那裡是他們磨穀物的地方。"
+    "zh": "这里是他们磨谷物的地方。",
+    "zh_hant": "這裡是他們磨穀物的地方。"
   },
   {
-    "index": 65,
+    "index": 56,
     "text": "A water powered grist mill.",
     "start": 423.696,
     "end": 425.697,
@@ -528,15 +456,15 @@
     "zh_hant": "一座水力磨坊。"
   },
   {
-    "index": 66,
+    "index": 57,
     "text": "This mill is still operating.",
     "start": 430.599,
     "end": 432.94,
-    "zh": "这座磨坊仍在运作。",
-    "zh_hant": "這座磨坊仍在運作。"
+    "zh": "这座磨坊至今仍在运转。",
+    "zh_hant": "這座磨坊至今仍在運轉。"
   },
   {
-    "index": 67,
+    "index": 58,
     "text": "On warm summer nights in the Elkmont area of the park,",
     "start": 443.185,
     "end": 446.767,
@@ -544,15 +472,15 @@
     "zh_hant": "在公園埃爾克蒙特地區溫暖的夏夜，"
   },
   {
-    "index": 68,
+    "index": 59,
     "text": "there is what has been called by those who have seen it, a light show.",
     "start": 446.647,
     "end": 450.889,
-    "zh": "有被那些见过它的人称为“灯光秀”的景象。",
-    "zh_hant": "有被那些見過它的人稱為“燈光秀”的景象。"
+    "zh": "有被目睹过的人称为“灯光秀”的景象。",
+    "zh_hant": "有被目睹過的人稱為“燈光秀”的景象。"
   },
   {
-    "index": 69,
+    "index": 60,
     "text": "A firefly light show.",
     "start": 451.469,
     "end": 453.411,
@@ -560,23 +488,15 @@
     "zh_hant": "一場螢火蟲燈光秀。"
   },
   {
-    "index": 70,
-    "text": "Hundreds of the park's 14 species of firefly",
+    "index": 61,
+    "text": "Hundreds of the park's 14 species of firefly sequin the night with their tinkling luminescence.",
     "start": 455.833,
-    "end": 459.314,
-    "zh": "公园14种萤火虫中的数百只",
-    "zh_hant": "公園14種螢火蟲中的數百隻"
-  },
-  {
-    "index": 71,
-    "text": "sequin the night with their tinkling luminescence.",
-    "start": 459.235,
     "end": 462.797,
-    "zh": "用它们闪烁的光芒点缀着夜晚。",
-    "zh_hant": "用它們閃爍的光芒點綴著夜晚。"
+    "zh": "公园中14种萤火虫中的数百只，以闪烁的荧光点缀夜空。",
+    "zh_hant": "公園中14種螢火蟲中的數百隻，以閃爍的熒光點綴夜空。"
   },
   {
-    "index": 72,
+    "index": 62,
     "text": "The Smokies cast their spell.",
     "start": 470.202,
     "end": 472.583,
@@ -584,19 +504,19 @@
     "zh_hant": "煙山施展著它們的魔力。"
   },
   {
-    "index": 73,
+    "index": 63,
     "text": "Charmed visitors end their stays knowing Great Smoky Mountains National Park",
     "start": 474.484,
     "end": 480.728,
-    "zh": "被迷住的游客在离开时，将大烟山国家公园",
-    "zh_hant": "被迷住的遊客在離開時，將大煙山國家公園"
+    "zh": "陶醉的游客在离开时，知道大烟山国家公园",
+    "zh_hant": "陶醉的遊客在離開時，知道大煙山國家公園"
   },
   {
-    "index": 74,
+    "index": 64,
     "text": "as a realm of rare enchantment.",
     "start": 480.708,
     "end": 483.71,
-    "zh": "视为一个充满罕见魅力的领域。",
-    "zh_hant": "視為一個充滿罕見魅力的領域。"
+    "zh": "是一片稀有魅力的领域。",
+    "zh_hant": "是一片稀有魅力的領域。"
   }
 ]

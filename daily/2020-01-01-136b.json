@@ -9,118 +9,94 @@
   },
   {
     "index": 1,
-    "text": "In 1858,",
+    "text": "In 1858, a French engineer, Aime Thome de Gamond,",
     "start": 14.633,
-    "end": 16.685,
-    "zh": "1858年，",
-    "zh_hant": "1858年，"
+    "end": 20.636,
+    "zh": "1858年，一位法国工程师艾梅·托梅·德·加蒙德",
+    "zh_hant": "1858年，一位法國工程師艾梅·託梅·德·加蒙德"
   },
   {
     "index": 2,
-    "text": "a French engineer, Aime Thome de Gamond,",
-    "start": 16.735,
-    "end": 20.636,
-    "zh": "法国工程师艾梅·托梅·德·加蒙德",
-    "zh_hant": "法國工程師艾梅·託梅·德·加蒙德"
-  },
-  {
-    "index": 3,
     "text": "arrived in England with a plan for a 21-mile tunnel under the English Channel.",
     "start": 20.736,
     "end": 27.199,
-    "zh": "带着一条计划抵达英国，要在英吉利海峡下修建一条21英里长的隧道。",
-    "zh_hant": "帶著一條計劃抵達英國，要在英吉利海峽下修建一條21英里長的隧道。"
+    "zh": "带着一项在英吉利海峡下修建21英里隧道的计划抵达英格兰。",
+    "zh_hant": "帶著一項在英吉利海峽下修建21英里隧道的計劃抵達英格蘭。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "He said that it would be possible to build a platform in the centre of the Channel.",
     "start": 27.64,
     "end": 33.483,
-    "zh": "他说，在海峡中央建造一个平台是可能的。",
-    "zh_hant": "他說，在海峽中央建造一個平臺是可能的。"
+    "zh": "他说在海峡中心建造一个平台是可能的。",
+    "zh_hant": "他說在海峽中心建造一個平臺是可能的。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "This platform would serve as a port and a railway station.",
     "start": 34.123,
     "end": 38.985,
-    "zh": "这个平台将作为港口和火车站。",
-    "zh_hant": "這個平臺將作為港口和火車站。"
+    "zh": "这个平台将用作港口和火车站。",
+    "zh_hant": "這個平臺將用作港口和火車站。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
     "start": 39.626,
     "end": 45.569,
-    "zh": "如果建造高于海平面的高烟囱，隧道的通风就会很好。",
-    "zh_hant": "如果建造高於海平面的高煙囪，隧道的通風就會很好。"
+    "zh": "如果建造高出海平面的高烟囱，隧道就能通风良好。",
+    "zh_hant": "如果建造高出海平面的高煙囪，隧道就能通風良好。"
+  },
+  {
+    "index": 6,
+    "text": "In 1860, a better plan was put forward by an Englishman, William Low.",
+    "start": 46.349,
+    "end": 53.413,
+    "zh": "1860年，英国人威廉·洛提出了一个更好的计划。",
+    "zh_hant": "1860年，英國人威廉·洛提出了一個更好的計劃。"
   },
   {
     "index": 7,
-    "text": "In 1860, a better plan was put forward",
-    "start": 46.349,
-    "end": 50.792,
-    "zh": "1860年，一个更好的计划被提出",
-    "zh_hant": "1860年，一個更好的計劃被提出"
-  },
-  {
-    "index": 8,
-    "text": "by an Englishman, William Low.",
-    "start": 50.442,
-    "end": 53.413,
-    "zh": "由一位英国人威廉·洛提出。",
-    "zh_hant": "由一位英國人威廉·洛提出。"
-  },
-  {
-    "index": 9,
     "text": "He suggested that a double railway-tunnel should be built.",
     "start": 53.953,
     "end": 58.155,
-    "zh": "他建议应修建一条双轨铁路隧道。",
-    "zh_hant": "他建議應修建一條雙軌鐵路隧道。"
+    "zh": "他建议修建一条双轨铁路隧道。",
+    "zh_hant": "他建議修建一條雙軌鐵路隧道。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "This would solve the problem of ventilation for if a train entered this tunnel,",
     "start": 58.696,
     "end": 64.958,
-    "zh": "这将解决通风问题，因为如果一列火车进入这条隧道，",
-    "zh_hant": "這將解決通風問題，因為如果一列火車進入這條隧道，"
+    "zh": "这将解决通风问题，因为如果火车进入这条隧道，",
+    "zh_hant": "這將解決通風問題，因為如果火車進入這條隧道，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "it would draw in fresh air behind it.",
     "start": 65.119,
     "end": 68.06,
-    "zh": "它会在后面吸入新鲜空气。",
-    "zh_hant": "它會在後面吸入新鮮空氣。"
+    "zh": "它就会在身后吸入新鲜空气。",
+    "zh_hant": "它就會在身後吸入新鮮空氣。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Forty-two years later a tunnel was actually begun.",
     "start": 68.901,
     "end": 73.243,
-    "zh": "四十二年后，隧道实际上已经开工了。",
-    "zh_hant": "四十二年後，隧道實際上已經開工了。"
+    "zh": "四十二年后，隧道工程确实开始了。",
+    "zh_hant": "四十二年後，隧道工程確實開始了。"
   },
   {
-    "index": 13,
-    "text": "If, at the time, the British had not feared invasion,",
+    "index": 11,
+    "text": "If, at the time, the British had not feared invasion, it would have been completed.",
     "start": 73.983,
-    "end": 78.905,
-    "zh": "如果当时英国人不担心入侵，",
-    "zh_hant": "如果當時英國人不擔心入侵，"
-  },
-  {
-    "index": 14,
-    "text": "it would have been completed.",
-    "start": 79.266,
     "end": 81.407,
-    "zh": "隧道本来会完工的。",
-    "zh_hant": "隧道本來會完工的。"
+    "zh": "如果当时英国人没有担心入侵，它就会完工了。",
+    "zh_hant": "如果當時英國人沒有擔心入侵，它就會完工了。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "The world had to wait almost another 100 years for the Channel Tunnel.",
     "start": 82.127,
     "end": 87.99,
@@ -128,7 +104,7 @@
     "zh_hant": "世界不得不又等了將近100年才迎來英吉利海峽隧道。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "It was officially opened on March 7, 1994,",
     "start": 88.593,
     "end": 93.853,
@@ -136,7 +112,7 @@
     "zh_hant": "它於1994年3月7日正式開通，"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "finally connecting Britain to the European continent.",
     "start": 93.903,
     "end": 97.93,

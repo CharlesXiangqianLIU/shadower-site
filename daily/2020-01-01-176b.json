@@ -11,7 +11,7 @@
     "index": 1,
     "text": "A famous monastery.",
     "start": 2.151,
-    "end": 8.534,
+    "end": 4.07,
     "zh": "一座著名的修道院。",
     "zh_hant": "一座著名的修道院。"
   },
@@ -36,8 +36,8 @@
     "text": "At 2,473 metres,",
     "start": 20.5,
     "end": 24.522,
-    "zh": "在海拔2473米处，",
-    "zh_hant": "在海拔2473米處，"
+    "zh": "海拔2473米，",
+    "zh_hant": "海拔2473米，"
   },
   {
     "index": 5,
@@ -49,54 +49,46 @@
   },
   {
     "index": 6,
-    "text": "The famous monastery of St.Bernard,",
+    "text": "The famous monastery of St.Bernard, which was founded in the eleventh century,",
     "start": 28.184,
-    "end": 31.365,
-    "zh": "著名的圣伯纳德修道院，",
-    "zh_hant": "著名的聖伯納德修道院，"
+    "end": 34.107,
+    "zh": "著名的圣伯纳德修道院建于十一世纪，",
+    "zh_hant": "著名的聖伯納德修道院建於十一世紀，"
   },
   {
     "index": 7,
-    "text": "which was founded in the eleventh century, lies about a mile away.",
-    "start": 31.206,
+    "text": "lies about a mile away.",
+    "start": 34.147,
     "end": 36.328,
-    "zh": "建于十一世纪，坐落在大约一英里外的地方。",
-    "zh_hant": "建於十一世紀，坐落在大約一英里外的地方。"
+    "zh": "坐落在大约一英里之外。",
+    "zh_hant": "坐落在大約一英里之外。"
   },
   {
     "index": 8,
-    "text": "For hundreds of years, St.Bernard dogs have saved the lives of travellers",
+    "text": "For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass.",
     "start": 36.888,
-    "end": 42.211,
-    "zh": "几百年来，圣伯纳德犬一直在拯救旅行者的生命，",
-    "zh_hant": "幾百年來，聖伯納德犬一直在拯救旅行者的生命，"
+    "end": 44.112,
+    "zh": "几百年来，圣伯纳德犬拯救了穿越这个危险山口的旅行者的生命。",
+    "zh_hant": "幾百年來，聖伯納德犬拯救了穿越這個危險山口的旅行者的生命。"
   },
   {
     "index": 9,
-    "text": "crossing the dangerous Pass.",
-    "start": 41.861,
-    "end": 44.112,
-    "zh": "帮助他们穿越这个危险的山口。",
-    "zh_hant": "幫助他們穿越這個危險的山口。"
-  },
-  {
-    "index": 10,
     "text": "These friendly dogs, which were first brought from Asia,",
     "start": 44.613,
     "end": 48.715,
-    "zh": "这些友好的狗最初来自亚洲，",
-    "zh_hant": "這些友好的狗最初來自亞洲，"
+    "zh": "这些友善的狗最初来自亚洲，",
+    "zh_hant": "這些友善的狗最初來自亞洲，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "were used as watchdogs even in Roman times.",
     "start": 48.715,
     "end": 52.857,
-    "zh": "早在罗马时代就被用作看门狗。",
-    "zh_hant": "早在羅馬時代就被用作看門狗。"
+    "zh": "甚至在罗马时代就被用作看门狗。",
+    "zh_hant": "甚至在羅馬時代就被用作看門狗。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Now that a tunnel has been built through the mountains,",
     "start": 53.337,
     "end": 56.678,
@@ -104,87 +96,79 @@
     "zh_hant": "既然已經修建了一條穿山隧道，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "the Pass is less dangerous, but each year,",
     "start": 56.699,
     "end": 60.48,
-    "zh": "这个山口不那么危险了，但每年，",
-    "zh_hant": "這個山口不那麼危險了，但每年，"
+    "zh": "山口不再那么危险，但每年，",
+    "zh_hant": "山口不再那麼危險，但每年，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "the dogs are still sent out into the snow whenever a traveller is in difficulty.",
     "start": 60.381,
     "end": 65.983,
-    "zh": "只要有旅行者遇到困难，这些狗仍会被派到雪地里去。",
-    "zh_hant": "只要有旅行者遇到困難，這些狗仍會被派到雪地裡去。"
+    "zh": "每当有旅行者遇到困难时，这些狗仍然会被派到雪地里去。",
+    "zh_hant": "每當有旅行者遇到困難時，這些狗仍然會被派到雪地裡去。"
+  },
+  {
+    "index": 14,
+    "text": "Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.",
+    "start": 66.303,
+    "end": 73.387,
+    "zh": "尽管有了新隧道，仍有一些人鲁莽地试图徒步穿越山口。",
+    "zh_hant": "儘管有了新隧道，仍有一些人魯莽地試圖徒步穿越山口。"
   },
   {
     "index": 15,
-    "text": "Despite the new tunnel, there are still a few people",
-    "start": 66.303,
-    "end": 69.925,
-    "zh": "尽管有了新隧道，仍有一些人",
-    "zh_hant": "儘管有了新隧道，仍有一些人"
-  },
-  {
-    "index": 16,
-    "text": "who rashly attempt to cross the Pass on foot.",
-    "start": 69.745,
-    "end": 73.387,
-    "zh": "鲁莽地试图徒步穿越这个山口。",
-    "zh_hant": "魯莽地試圖徒步穿越這個山口。"
-  },
-  {
-    "index": 17,
     "text": "During the summer months, the monastery is very busy,",
     "start": 74.688,
     "end": 78.349,
-    "zh": "在夏季几个月里，修道院非常繁忙，",
-    "zh_hant": "在夏季幾個月裡，修道院非常繁忙，"
+    "zh": "在夏季月份，修道院非常繁忙，",
+    "zh_hant": "在夏季月份，修道院非常繁忙，"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "for it is visited by thousands of people who cross the Pass in cars.",
     "start": 78.409,
     "end": 83.632,
-    "zh": "因为成千上万的人开车穿越山口，前来参观。",
-    "zh_hant": "因為成千上萬的人開車穿越山口，前來參觀。"
+    "zh": "因为成千上万开车穿越山口的人前来参观。",
+    "zh_hant": "因為成千上萬開車穿越山口的人前來參觀。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "As there are so many people about, the dogs have to be kept in a special enclosure.",
     "start": 83.953,
     "end": 89.915,
-    "zh": "由于周围人太多，狗必须被关在专门的围栏里。",
-    "zh_hant": "由於周圍人太多，狗必須被關在專門的圍欄裡。"
+    "zh": "由于周围人太多，狗不得不被关在专门的围栏里。",
+    "zh_hant": "由於周圍人太多，狗不得不被關在專門的圍欄裡。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "In winter, however, life at the monastery is quite different.",
     "start": 90.236,
     "end": 95.098,
-    "zh": "然而，到了冬天，修道院的生活就完全不同了。",
-    "zh_hant": "然而，到了冬天，修道院的生活就完全不同了。"
+    "zh": "然而，冬天修道院的生活则大不相同。",
+    "zh_hant": "然而，冬天修道院的生活則大不相同。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "The temperature drops to -30 degrees,",
     "start": 95.658,
     "end": 99.0,
-    "zh": "气温降至零下30度，",
-    "zh_hant": "氣溫降至零下30度，"
+    "zh": "气温降到零下30度，",
+    "zh_hant": "氣溫降到零下30度，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "and very few people attempt to cross the Pass.",
     "start": 98.92,
     "end": 102.441,
-    "zh": "很少有人试图穿越这个山口。",
-    "zh_hant": "很少有人試圖穿越這個山口。"
+    "zh": "很少有人试图穿越山口。",
+    "zh_hant": "很少有人試圖穿越山口。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "The monks prefer winter to summer for they have more privacy.",
     "start": 102.662,
     "end": 106.884,
@@ -192,43 +176,43 @@
     "zh_hant": "僧侶們更喜歡冬天而不是夏天，因為他們有更多的隱私。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.",
     "start": 107.384,
     "end": 113.507,
-    "zh": "狗也有更大的自由，因为允许它们在围栏外漫步。",
-    "zh_hant": "狗也有更大的自由，因為允許它們在圍欄外漫步。"
+    "zh": "狗也有更大的自由，因为它们被允许在围栏外漫步。",
+    "zh_hant": "狗也有更大的自由，因為它們被允許在圍欄外漫步。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The only regular visitors to the monastery in winter",
     "start": 113.807,
     "end": 117.569,
-    "zh": "冬天来修道院的唯一常客",
-    "zh_hant": "冬天來修道院的唯一常客"
+    "zh": "冬天修道院唯一的常客",
+    "zh_hant": "冬天修道院唯一的常客"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "are parties of skiers who go there at Christmas and Easter.",
     "start": 117.589,
     "end": 121.854,
-    "zh": "是成群结队的滑雪者，他们在圣诞节和复活节去那里。",
-    "zh_hant": "是成群結隊的滑雪者，他們在聖誕節和復活節去那裡。"
+    "zh": "是在圣诞节和复活节去那里的滑雪者团体。",
+    "zh_hant": "是在聖誕節和復活節去那裡的滑雪者團體。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "These young people, who love the peace of the mountains,",
     "start": 122.336,
     "end": 126.201,
-    "zh": "这些热爱山区宁静的年轻人，",
-    "zh_hant": "這些熱愛山區寧靜的年輕人，"
+    "zh": "这些热爱群山宁静的年轻人，",
+    "zh_hant": "這些熱愛群山寧靜的年輕人，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "always receive a warm welcome at St.Bernard's monastery.",
     "start": 126.202,
     "end": 130.889,
-    "zh": "在圣伯纳德修道院总是受到热烈欢迎。",
-    "zh_hant": "在聖伯納德修道院總是受到熱烈歡迎。"
+    "zh": "在圣伯纳德修道院总是受到热情的欢迎。",
+    "zh_hant": "在聖伯納德修道院總是受到熱情的歡迎。"
   }
 ]

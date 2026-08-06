@@ -9,54 +9,38 @@
   },
   {
     "index": 1,
-    "text": "Nearly a week passed before the girl was able to explain",
+    "text": "Nearly a week passed before the girl was able to explain what had happened to her.",
     "start": 14.653,
-    "end": 19.695,
-    "zh": "将近一个星期过去了，女孩才得以解释",
-    "zh_hant": "將近一個星期過去了，女孩才得以解釋"
+    "end": 21.496,
+    "zh": "差不多过了一个星期，女孩才能解释她遭遇的事情。",
+    "zh_hant": "差不多過了一個星期，女孩才能解釋她遭遇的事情。"
   },
   {
     "index": 2,
-    "text": "what had happened to her.",
-    "start": 19.596,
-    "end": 21.496,
-    "zh": "她遭遇了什么事。",
-    "zh_hant": "她遭遇了什麼事。"
+    "text": "One afternoon she set out from the coast in a small boat and was caught in a storm.",
+    "start": 23.257,
+    "end": 30.521,
+    "zh": "一天下午，她乘小船从海岸出发，遇到了暴风雨。",
+    "zh_hant": "一天下午，她乘小船從海岸出發，遇到了暴風雨。"
   },
   {
     "index": 3,
-    "text": "One afternoon she set out",
-    "start": 23.257,
-    "end": 25.998,
-    "zh": "一天下午，她出发了",
-    "zh_hant": "一天下午，她出發了"
-  },
-  {
-    "index": 4,
-    "text": "from the coast in a small boat and was caught in a storm.",
-    "start": 25.648,
-    "end": 30.521,
-    "zh": "从海岸乘小船出发，结果遇上了风暴。",
-    "zh_hant": "從海岸乘小船出發，結果遇上了風暴。"
-  },
-  {
-    "index": 5,
     "text": "Towards evening, the boat struck a rock and the girl jumped into the sea.",
     "start": 31.401,
     "end": 37.464,
-    "zh": "傍晚时分，船撞上了岩石，女孩跳进了海里。",
-    "zh_hant": "傍晚時分，船撞上了岩石，女孩跳進了海里。"
+    "zh": "傍晚时分，船撞上了礁石，女孩跳进了海里。",
+    "zh_hant": "傍晚時分，船撞上了礁石，女孩跳進了海里。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "Then she swam to the shore after spending the whole night in the water.",
     "start": 38.325,
     "end": 43.827,
-    "zh": "然后她在水里度过了一整夜，游到了岸边。",
-    "zh_hant": "然後她在水裡度過了一整夜，游到了岸邊。"
+    "zh": "然后她在水里待了整整一夜，游到了岸边。",
+    "zh_hant": "然後她在水裡待了整整一夜，游到了岸邊。"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "During that time she covered a distance of eight miles.",
     "start": 44.768,
     "end": 49.871,
@@ -64,55 +48,47 @@
     "zh_hant": "在那段時間裡，她遊了八英里的距離。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Early next morning, she saw a light ahead.",
     "start": 50.772,
     "end": 55.174,
-    "zh": "第二天清晨，她看到前方有光亮。",
-    "zh_hant": "第二天清晨，她看到前方有光亮。"
+    "zh": "第二天清晨，她看到前方有亮光。",
+    "zh_hant": "第二天清晨，她看到前方有亮光。"
   },
   {
-    "index": 9,
-    "text": "She knew she was near the shore because the light was high up",
+    "index": 7,
+    "text": "She knew she was near the shore because the light was high up on the cliffs.",
     "start": 55.835,
-    "end": 61.618,
-    "zh": "她知道她离岸边很近，因为光亮高高地",
-    "zh_hant": "她知道她離岸邊很近，因為光亮高高地"
-  },
-  {
-    "index": 10,
-    "text": "on the cliffs.",
-    "start": 61.358,
     "end": 62.659,
-    "zh": "在悬崖上。",
-    "zh_hant": "在懸崖上。"
+    "zh": "她知道她离岸边不远了，因为那亮光在悬崖高处。",
+    "zh_hant": "她知道她離岸邊不遠了，因為那亮光在懸崖高處。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "On arriving at the shore,",
     "start": 63.52,
     "end": 65.881,
-    "zh": "一到岸边，",
-    "zh_hant": "一到岸邊，"
+    "zh": "到达岸边后，",
+    "zh_hant": "到達岸邊後，"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "the girl struggled up the cliff towards the light she had seen.",
     "start": 66.161,
     "end": 71.484,
-    "zh": "女孩就挣扎着爬上悬崖，朝着她看到的光亮走去。",
-    "zh_hant": "女孩就掙扎著爬上懸崖，朝著她看到的光亮走去。"
+    "zh": "女孩奋力爬上悬崖，朝她看到的亮光处走去。",
+    "zh_hant": "女孩奮力爬上懸崖，朝她看到的亮光處走去。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "That was all she remembered.",
     "start": 72.105,
     "end": 74.486,
-    "zh": "这就是她记得的一切。",
-    "zh_hant": "這就是她記得的一切。"
+    "zh": "她只记得这些。",
+    "zh_hant": "她只記得這些。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "When she woke up a day later, she found herself in hospital.",
     "start": 75.147,
     "end": 80.61,

@@ -11,7 +11,7 @@
     "index": 1,
     "text": "Galileo reborn.",
     "start": 3.572,
-    "end": 9.834,
+    "end": 5.19,
     "zh": "伽利略的重生。",
     "zh_hant": "伽利略的重生。"
   },
@@ -20,75 +20,59 @@
     "text": "What has modified our traditional view of Galileo in recent times?",
     "start": 12.016,
     "end": 17.058,
-    "zh": "近代是什么改变了对伽利略的传统看法？",
-    "zh_hant": "近代是什麼改變了對伽利略的傳統看法？"
+    "zh": "近代是什么改变了我 们对伽利略的传统看法？",
+    "zh_hant": "近代是什麼改變了我 們對伽利略的傳統看法？"
   },
   {
     "index": 3,
     "text": "In his own lifetime Galileo was the centre of violent controversy,",
     "start": 19.399,
     "end": 24.141,
-    "zh": "伽利略在世时是激烈争论的中心。",
-    "zh_hant": "伽利略在世時是激烈爭論的中心。"
+    "zh": "伽利略在世时是激烈争论的中心，",
+    "zh_hant": "伽利略在世時是激烈爭論的中心，"
   },
   {
     "index": 4,
     "text": "but the scientific dust has long since settled,",
     "start": 24.582,
     "end": 28.123,
-    "zh": "但科学上的尘埃早已落定。",
-    "zh_hant": "但科學上的塵埃早已落定。"
+    "zh": "但科学的尘嚣早已平息，",
+    "zh_hant": "但科學的塵囂早已平息，"
   },
   {
     "index": 5,
-    "text": "and today we can see even his famous clash with the Inquisition",
+    "text": "and today we can see even his famous clash with the Inquisition in something like its proper perspective.",
     "start": 28.224,
-    "end": 33.106,
-    "zh": "如今我们甚至能看他与宗教法庭的著名冲突",
-    "zh_hant": "如今我們甚至能看他與宗教法庭的著名衝突"
+    "end": 35.567,
+    "zh": "如今，我们甚至能以近乎恰当的角度看待他与宗教裁判所那场著名的冲突。",
+    "zh_hant": "如今，我們甚至能以近乎恰當的角度看待他與宗教裁判所那場著名的衝突。"
   },
   {
     "index": 6,
-    "text": "in something like its proper perspective.",
-    "start": 33.006,
-    "end": 35.567,
-    "zh": "置于某种恰当的角度来看待。",
-    "zh_hant": "置於某種恰當的角度來看待。"
-  },
-  {
-    "index": 7,
     "text": "But, in contrast,",
     "start": 36.208,
     "end": 37.988,
-    "zh": "但是，相比之下，",
-    "zh_hant": "但是，相比之下，"
+    "zh": "但与此相反，",
+    "zh_hant": "但與此相反，"
+  },
+  {
+    "index": 7,
+    "text": "it is only in modern times that Galileo has become a problem child for historians of science.",
+    "start": 37.848,
+    "end": 44.792,
+    "zh": "只是到了现代，伽利略才成为科学史家眼中的问题人物。",
+    "zh_hant": "只是到了現代，伽利略才成為科學史家眼中的問題人物。"
   },
   {
     "index": 8,
-    "text": "it is only in modern times that Galileo has become a problem",
-    "start": 37.848,
-    "end": 42.611,
-    "zh": "只是在近代，伽利略才成了科学史学家们的",
-    "zh_hant": "只是在近代，伽利略才成了科學史學家們的"
-  },
-  {
-    "index": 9,
-    "text": "child for historians of science.",
-    "start": 42.261,
-    "end": 44.792,
-    "zh": "难题人物。",
-    "zh_hant": "難題人物。"
-  },
-  {
-    "index": 10,
     "text": "The old view of Galileo was delightfully uncomplicated.",
     "start": 45.913,
     "end": 50.415,
-    "zh": "对伽利略的旧看法曾令人愉快地简单明了。",
-    "zh_hant": "對伽利略的舊看法曾令人愉快地簡單明瞭。"
+    "zh": "旧有的伽利略形象简单得令人愉快。",
+    "zh_hant": "舊有的伽利略形象簡單得令人愉快。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "He was, above all, a man who experimented:",
     "start": 50.795,
     "end": 54.317,
@@ -96,39 +80,39 @@
     "zh_hant": "他首先是一個做實驗的人："
   },
   {
-    "index": 12,
-    "text": "who despised the prejudice and book learning",
+    "index": 10,
+    "text": "who despised the prejudice and book learning of the Aristotelians,",
     "start": 54.577,
-    "end": 58.259,
-    "zh": "他鄙视亚里士多德学派的偏见和书本知识。",
-    "zh_hant": "他鄙視亞里士多德學派的偏見和書本知識。"
+    "end": 59.719,
+    "zh": "他鄙视亚里士多德学派的偏见和书本知识，",
+    "zh_hant": "他鄙視亞里士多德學派的偏見和書本知識，"
+  },
+  {
+    "index": 11,
+    "text": "who put his questions to nature instead of to the ancients,",
+    "start": 60.02,
+    "end": 64.021,
+    "zh": "他向自然提问，而不是向古人求教，",
+    "zh_hant": "他向自然提問，而不是向古人求教，"
+  },
+  {
+    "index": 12,
+    "text": "and who drew his conclusions fearlessly.",
+    "start": 64.342,
+    "end": 67.223,
+    "zh": "并且毫无畏惧地得出自己的结论。",
+    "zh_hant": "並且毫無畏懼地得出自己的結論。"
   },
   {
     "index": 13,
-    "text": "of the Aristotelians, who put his questions",
-    "start": 58.019,
-    "end": 61.54,
-    "zh": "他向自然提问，",
-    "zh_hant": "他向自然提問，"
-  },
-  {
-    "index": 14,
-    "text": "to nature instead of to the ancients, and who drew his conclusions fearlessly.",
-    "start": 61.19,
-    "end": 67.223,
-    "zh": "而不是向古人提问，并且无畏地得出结论。",
-    "zh_hant": "而不是向古人提問，並且無畏地得出結論。"
-  },
-  {
-    "index": 15,
     "text": "He had been the first to turn a telescope to the sky,",
     "start": 67.864,
     "end": 71.005,
-    "zh": "他是第一个把望远镜转向天空的人。",
-    "zh_hant": "他是第一個把望遠鏡轉向天空的人。"
+    "zh": "他是第一个把望远镜转向天空的人，",
+    "zh_hant": "他是第一個把望遠鏡轉向天空的人，"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "and he had seen there evidence enough to overthrow Aristotle and Ptolemy together.",
     "start": 71.125,
     "end": 76.387,
@@ -136,211 +120,187 @@
     "zh_hant": "他在那裡看到了足以推翻亞里士多德和托勒密的證據。"
   },
   {
-    "index": 17,
-    "text": "He was the man who climbed the Leaning Tower of Pisa",
+    "index": 15,
+    "text": "He was the man who climbed the Leaning Tower of Pisa and dropped various weights from the top,",
     "start": 76.868,
-    "end": 80.069,
-    "zh": "他是爬上比萨斜塔",
-    "zh_hant": "他是爬上比薩斜塔"
+    "end": 82.791,
+    "zh": "他是那个爬上比萨斜塔、从塔顶丢下各种重物的人，",
+    "zh_hant": "他是那個爬上比薩斜塔、從塔頂丟下各種重物的人，"
   },
   {
-    "index": 18,
-    "text": "and dropped various weights from the top, who rolled balls down inclined planes,",
-    "start": 80.31,
+    "index": 16,
+    "text": "who rolled balls down inclined planes,",
+    "start": 83.232,
     "end": 85.993,
-    "zh": "从塔顶扔下各种重物的人，也是让球沿斜面滚下的人。",
-    "zh_hant": "從塔頂扔下各種重物的人，也是讓球沿斜面滾下的人。"
+    "zh": "也是那个让球沿斜面滚下的人，",
+    "zh_hant": "也是那個讓球沿斜面滾下的人，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and then generalized the results of his many experiments into the famous law of free fall.",
     "start": 86.053,
     "end": 92.356,
-    "zh": "然后他把多次实验的结果概括成著名的自由落体定律。",
-    "zh_hant": "然後他把多次實驗的結果概括成著名的自由落體定律。"
+    "zh": "然后把他多次实验的结果概括成著名的自由落体定律。",
+    "zh_hant": "然後把他多次實驗的結果概括成著名的自由落體定律。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "But a closer study of the evidence, supported by a deeper sense of the period,",
     "start": 93.497,
     "end": 98.559,
-    "zh": "但对证据更细致的研究，加上对那个时代更深的理解，",
-    "zh_hant": "但對證據更細緻的研究，加上對那個時代更深的理解，"
+    "zh": "但对证据的更细致研究，加上对那个时代更深刻的理解，",
+    "zh_hant": "但對證據的更細緻研究，加上對那個時代更深刻的理解，"
   },
   {
-    "index": 21,
-    "text": "and particularly by a new consciousness of the philosophical undercurrents",
+    "index": 19,
+    "text": "and particularly by a new consciousness of the philosophical undercurrents in the scientific revolution,",
     "start": 98.679,
-    "end": 103.881,
-    "zh": "尤其是一种对科学革命中哲学暗流的新认识。",
-    "zh_hant": "尤其是一種對科學革命中哲學暗流的新認識。"
-  },
-  {
-    "index": 22,
-    "text": "in the scientific revolution,",
-    "start": 103.681,
     "end": 105.582,
-    "zh": "（这种暗流）",
-    "zh_hant": "（這種暗流）"
+    "zh": "尤其是对科学革命中哲学潜流的新认识，",
+    "zh_hant": "尤其是對科學革命中哲學潛流的新認識，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "has profoundly modified this view of Galileo.",
     "start": 105.722,
     "end": 108.844,
-    "zh": "深刻改变了这种对伽利略的看法。",
-    "zh_hant": "深刻改變了這種對伽利略的看法。"
+    "zh": "已深刻改变了我们对伽利略的这一看法。",
+    "zh_hant": "已深刻改變了我們對伽利略的這一看法。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Today, although the old Galileo lives on in many popular writings,",
     "start": 109.564,
     "end": 114.286,
-    "zh": "今天，尽管旧伽利略的形象仍存在于许多通俗著作中。",
-    "zh_hant": "今天，儘管舊伽利略的形象仍存在於許多通俗著作中。"
+    "zh": "今天，尽管旧伽利略的形象仍存在于许多通俗读物中，",
+    "zh_hant": "今天，儘管舊伽利略的形象仍存在於許多通俗讀物中，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "among historians of science a new and more sophisticated picture has emerged.",
     "start": 114.227,
     "end": 119.369,
-    "zh": "但在科学史学家中间，一种新的、更复杂的形象已经出现。",
-    "zh_hant": "但在科學史學家中間，一種新的、更復雜的形象已經出現。"
+    "zh": "但在科学史家中，一个新的、更复杂的形象已经浮现。",
+    "zh_hant": "但在科學史家中，一個新的、更復雜的形象已經浮現。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "At the same time our sympathy for Galileo's opponents has grown somewhat.",
     "start": 120.29,
     "end": 125.492,
-    "zh": "同时，我们对伽利略反对者的同情也增加了一些。",
-    "zh_hant": "同時，我們對伽利略反對者的同情也增加了一些。"
+    "zh": "与此同时，我们对伽利略对手的同情也多少有所增加。",
+    "zh_hant": "與此同時，我們對伽利略對手的同情也多少有所增加。"
+  },
+  {
+    "index": 24,
+    "text": "His telescopic observations are justly immortal; they aroused great interest at the time,",
+    "start": 126.053,
+    "end": 132.496,
+    "zh": "他的望远镜观测理所当然地不朽；它们当时引起了极大兴趣，",
+    "zh_hant": "他的望遠鏡觀測理所當然地不朽；它們當時引起了極大興趣，"
+  },
+  {
+    "index": 25,
+    "text": "they had important theoretical consequences,",
+    "start": 132.696,
+    "end": 136.138,
+    "zh": "它们具有重要的理论意义，",
+    "zh_hant": "它們具有重要的理論意義，"
+  },
+  {
+    "index": 26,
+    "text": "and they provided a striking demonstration of the potentialities hidden in instruments and apparatus.",
+    "start": 136.378,
+    "end": 143.521,
+    "zh": "并且它们有力地展示了仪器和设备中潜藏的可能性。",
+    "zh_hant": "並且它們有力地展示了儀器和裝置中潛藏的可能性。"
   },
   {
     "index": 27,
-    "text": "His telescopic observations are justly immortal;",
-    "start": 126.053,
-    "end": 129.714,
-    "zh": "他的望远镜观测成果名垂青史，实至名归；",
-    "zh_hant": "他的望遠鏡觀測成果名垂青史，實至名歸；"
+    "text": "But can we blame those who looked and failed to see what Galileo saw,",
+    "start": 144.562,
+    "end": 149.284,
+    "zh": "但那些看了却没有看到伽利略所看到之物的人，我们能责怪他们吗，",
+    "zh_hant": "但那些看了卻沒有看到伽利略所看到之物的人，我們能責怪他們嗎，"
   },
   {
     "index": 28,
-    "text": "they aroused great interest at the time, they had important theoretical consequences,",
-    "start": 129.995,
-    "end": 136.138,
-    "zh": "它们在当时引起了巨大兴趣，也有重要的理论后果。",
-    "zh_hant": "它們在當時引起了巨大興趣，也有重要的理論後果。"
+    "text": "if we remember that to use a telescope at the limit of its powers",
+    "start": 149.845,
+    "end": 154.527,
+    "zh": "如果我们记得，使用一架性能接近极限的望远镜",
+    "zh_hant": "如果我們記得，使用一架效能接近極限的望遠鏡"
   },
   {
     "index": 29,
-    "text": "and they provided a striking demonstration",
-    "start": 136.378,
-    "end": 139.119,
-    "zh": "而且它们令人惊叹地展示了",
-    "zh_hant": "而且它們令人驚歎地展示了"
+    "text": "calls for long experience and intimate familiarity with one's instrument?",
+    "start": 154.367,
+    "end": 159.229,
+    "zh": "需要长期的经验和自己仪器的亲密熟悉呢？",
+    "zh_hant": "需要長期的經驗和自己儀器的親密熟悉呢？"
   },
   {
     "index": 30,
-    "text": "of the potentialities hidden in instruments and apparatus.",
-    "start": 139.019,
-    "end": 143.521,
-    "zh": "仪器和装置中所隐藏的潜力。",
-    "zh_hant": "儀器和裝置中所隱藏的潛力。"
+    "text": "Was the philosopher who refused to look through Galileo's telescope more culpable than",
+    "start": 159.749,
+    "end": 165.873,
+    "zh": "那个拒绝透过伽利略望远镜观看的哲学家，是否比",
+    "zh_hant": "那個拒絕透過伽利略望遠鏡觀看的哲學家，是否比"
   },
   {
     "index": 31,
-    "text": "But can we blame those who looked and failed to see",
-    "start": 144.562,
-    "end": 148.083,
-    "zh": "但是，我们能责怪那些看了却没看到",
-    "zh_hant": "但是，我們能責怪那些看了卻沒看到"
+    "text": "those who alleged that the spiral nebulae observed with Lord Rosse's great telescope",
+    "start": 165.523,
+    "end": 171.135,
+    "zh": "那些声称用罗斯勋爵的大望远镜观测到的螺旋星云",
+    "zh_hant": "那些聲稱用羅斯勳爵的大望遠鏡觀測到的螺旋星雲"
   },
   {
     "index": 32,
-    "text": "what Galileo saw, if we remember that to use a telescope at the limit",
-    "start": 147.733,
-    "end": 153.766,
-    "zh": "伽利略所看到的东西的人吗？如果我们记得，在极限状态下使用望远镜",
-    "zh_hant": "伽利略所看到的東西的人嗎？如果我們記得，在極限狀態下使用望遠鏡"
+    "text": "in the 1840s were scratches left by the grinder?",
+    "start": 170.875,
+    "end": 174.917,
+    "zh": "在19世纪40年代是磨镜者留下的划痕的人更该受责备？",
+    "zh_hant": "在19世紀40年代是磨鏡者留下的劃痕的人更該受責備？"
   },
   {
     "index": 33,
-    "text": "of its powers calls for long experience and intimate familiarity with one's instrument?",
-    "start": 153.416,
-    "end": 159.229,
-    "zh": "需要长时间的练习和对仪器的熟悉。",
-    "zh_hant": "需要長時間的練習和對儀器的熟悉。"
+    "text": "We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass",
+    "start": 175.738,
+    "end": 182.521,
+    "zh": "我们或许能原谅那些说木星的卫星是伽利略望远镜制造出来的人，",
+    "zh_hant": "我們或許能原諒那些說木星的衛星是伽利略望遠鏡製造出來的人，"
   },
   {
     "index": 34,
-    "text": "Was the philosopher who refused to look through Galileo's telescope",
-    "start": 159.749,
-    "end": 164.112,
-    "zh": "拒绝通过伽利略望远镜观看的哲学家。",
-    "zh_hant": "拒絕透過伽利略望遠鏡觀看的哲學家。"
+    "text": "if we recall that in his day,",
+    "start": 182.641,
+    "end": 185.182,
+    "zh": "如果我们回想一下，在他那个时代，",
+    "zh_hant": "如果我們回想一下，在他那個時代，"
   },
   {
     "index": 35,
-    "text": "more culpable than those who alleged that the spiral nebulae observed",
-    "start": 164.032,
-    "end": 169.254,
-    "zh": "是否比那些声称在19世纪40年代用罗斯勋爵的大望远镜观察到的旋涡星云",
-    "zh_hant": "是否比那些聲稱在19世紀40年代用羅斯勳爵的大望遠鏡觀察到的旋渦星雲"
+    "text": "as for centuries before, curved glass was the popular contrivance",
+    "start": 185.202,
+    "end": 190.625,
+    "zh": "就像之前几个世纪一样，曲面玻璃是流行的装置，",
+    "zh_hant": "就像之前幾個世紀一樣，曲面玻璃是流行的裝置，"
   },
   {
     "index": 36,
-    "text": "with Lord Rosse's great telescope in the 1840s were scratches left by the grinder?",
-    "start": 168.904,
-    "end": 174.917,
-    "zh": "是磨镜人留下的划痕的人更有罪呢？",
-    "zh_hant": "是磨鏡人留下的劃痕的人更有罪呢？"
+    "text": "for producing not truth but illusion,",
+    "start": 190.385,
+    "end": 193.846,
+    "zh": "用来制造的不是真相，而是幻象、",
+    "zh_hant": "用來製造的不是真相，而是幻象、"
   },
   {
     "index": 37,
-    "text": "We can perhaps forgive those who said the moons of Jupiter",
-    "start": 175.738,
-    "end": 179.9,
-    "zh": "也许我们可以原谅那些说木星的卫星",
-    "zh_hant": "也許我們可以原諒那些說木星的衛星"
-  },
-  {
-    "index": 38,
-    "text": "were produced by Galileo's spyglass if",
-    "start": 179.76,
-    "end": 183.241,
-    "zh": "是伽利略的单筒望远镜制造出来的人，",
-    "zh_hant": "是伽利略的單筒望遠鏡製造出來的人，"
-  },
-  {
-    "index": 39,
-    "text": "we recall that in his day, as for centuries before,",
-    "start": 182.891,
-    "end": 187.083,
-    "zh": "如果我们回想，在他的时代，如同之前几个世纪一样。",
-    "zh_hant": "如果我們回想，在他的時代，如同之前幾個世紀一樣。"
-  },
-  {
-    "index": 40,
-    "text": "curved glass was the popular contrivance for producing not truth but illusion,",
-    "start": 187.363,
-    "end": 193.846,
-    "zh": "曲面玻璃是制造幻觉而非真理的流行工具。",
-    "zh_hant": "曲面玻璃是製造幻覺而非真理的流行工具。"
-  },
-  {
-    "index": 41,
-    "text": "untruth; and if a single curved glass would distort nature,",
+    "text": "untruth; and if a single curved glass would distort nature, how much more would a pair of them?",
     "start": 194.127,
-    "end": 198.889,
-    "zh": "即制造虚假；如果一片曲面玻璃会扭曲自然。",
-    "zh_hant": "即製造虛假；如果一片曲面玻璃會扭曲自然。"
-  },
-  {
-    "index": 42,
-    "text": "how much more would a pair of them?",
-    "start": 199.069,
     "end": 201.425,
-    "zh": "那么一对镜子又会怎样变形呢？",
-    "zh_hant": "那麼一對鏡子又會怎樣變形呢？"
+    "zh": "虚假；如果一片曲面玻璃就能扭曲自然，那么一对又能扭曲多少呢？",
+    "zh_hant": "虛假；如果一片曲面玻璃就能扭曲自然，那麼一對又能扭曲多少呢？"
   }
 ]

@@ -4,14 +4,14 @@
     "text": "Lesson 53.",
     "start": 0.39,
     "end": 2.521,
-    "zh": "第五十三课。",
-    "zh_hant": "第五十三課。"
+    "zh": "第53课。",
+    "zh_hant": "第53課。"
   },
   {
     "index": 1,
     "text": "In the public interest.",
     "start": 2.571,
-    "end": 8.054,
+    "end": 4.61,
     "zh": "为了公众的利益。",
     "zh_hant": "為了公眾的利益。"
   },
@@ -20,83 +20,67 @@
     "text": "What could not be reported in the official files?",
     "start": 9.695,
     "end": 13.477,
-    "zh": "官方档案中无法记载的是什么？",
-    "zh_hant": "官方檔案中無法記載的是什麼？"
+    "zh": "官方档案中不能记载的是什么？",
+    "zh_hant": "官方檔案中不能記載的是什麼？"
   },
   {
     "index": 3,
-    "text": "The Scandinavian countries are much admired",
+    "text": "The Scandinavian countries are much admired all over the world for their enlightened social policies.",
     "start": 15.818,
-    "end": 19.06,
-    "zh": "斯堪的纳维亚国家深受钦佩",
-    "zh_hant": "斯堪的納維亞國家深受欽佩"
+    "end": 22.842,
+    "zh": "斯堪的纳维亚国家因其开明的社会政策而受到全世界的钦佩。",
+    "zh_hant": "斯堪的納維亞國家因其開明的社會政策而受到全世界的欽佩。"
   },
   {
     "index": 4,
-    "text": "all over the world for their enlightened social policies.",
-    "start": 18.76,
-    "end": 22.842,
-    "zh": "因其开明的社会政策而闻名于世。",
-    "zh_hant": "因其開明的社會政策而聞名於世。"
-  },
-  {
-    "index": 5,
     "text": "Sweden has evolved an excellent system for protecting the individual citizen",
     "start": 23.362,
     "end": 28.504,
-    "zh": "瑞典已发展出一套完善的制度来保护公民个人",
-    "zh_hant": "瑞典已發展出一套完善的制度來保護公民個人"
+    "zh": "瑞典已经发展出一套完善的体系来保护普通公民",
+    "zh_hant": "瑞典已經發展出一套完善的體系來保護普通公民"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "from high-handed or incompetent public officers.",
     "start": 28.465,
     "end": 32.446,
-    "zh": "免受专横或不称职的公务人员的侵害。",
-    "zh_hant": "免受專橫或不稱職的公務人員的侵害。"
+    "zh": "免受专横或无能的公职人员的侵害。",
+    "zh_hant": "免受專橫或無能的公職人員的侵害。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "The system has worked so well, that it has been adopted in other countries too.",
     "start": 33.187,
     "end": 38.95,
-    "zh": "这套制度运作得非常好，已被其他国家采纳。",
-    "zh_hant": "這套制度運作得非常好，已被其他國家採納。"
+    "zh": "这一体系运作得非常好，以至于其他国家也采用了它。",
+    "zh_hant": "這一體系運作得非常好，以至於其他國家也採用了它。"
+  },
+  {
+    "index": 7,
+    "text": "The Swedes were the first to recognize that public officials",
+    "start": 40.151,
+    "end": 44.713,
+    "zh": "瑞典人首先认识到，公职人员",
+    "zh_hant": "瑞典人首先認識到，公職人員"
   },
   {
     "index": 8,
-    "text": "The Swedes were the first to recognize that public officials like",
-    "start": 40.151,
-    "end": 45.133,
-    "zh": "瑞典人最先认识到，像",
-    "zh_hant": "瑞典人最先認識到，像"
+    "text": "like civil servants, police officers, health inspectors or tax-collectors",
+    "start": 44.363,
+    "end": 50.135,
+    "zh": "如公务员、警察、卫生检查员或税务征收员",
+    "zh_hant": "如公務員、警察、衛生檢查員或稅務徵收員"
   },
   {
     "index": 9,
-    "text": "civil servants, police officers, health inspectors or tax-collectors",
-    "start": 44.913,
-    "end": 50.135,
-    "zh": "公务员、警察、卫生检查员或税务员这类公职人员",
-    "zh_hant": "公務員、警察、衛生檢查員或稅務員這類公職人員"
+    "text": "can make mistakes or act over-zealously in the belief that they are serving the public.",
+    "start": 50.036,
+    "end": 56.819,
+    "zh": "可能会犯错，或出于自以为在为公众服务的信念而过度热心。",
+    "zh_hant": "可能會犯錯，或出於自以為在為公眾服務的信念而過度熱心。"
   },
   {
     "index": 10,
-    "text": "can make mistakes or act over-zealously in the belief",
-    "start": 50.036,
-    "end": 54.938,
-    "zh": "可能会犯错误，或出于",
-    "zh_hant": "可能會犯錯誤，或出於"
-  },
-  {
-    "index": 11,
-    "text": "that they are serving the public.",
-    "start": 54.618,
-    "end": 56.819,
-    "zh": "服务公众的信念而过度热心。",
-    "zh_hant": "服務公眾的信念而過度熱心。"
-  },
-  {
-    "index": 12,
     "text": "As long ago as 1809,",
     "start": 57.339,
     "end": 60.471,
@@ -104,71 +88,63 @@
     "zh_hant": "早在1809年，"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "the Swedish Parliament introduced a scheme to safeguard the interest of the individual.",
     "start": 60.521,
     "end": 66.203,
-    "zh": "瑞典议会就引入了一项保护个人利益的制度。",
-    "zh_hant": "瑞典議會就引入了一項保護個人利益的制度。"
+    "zh": "瑞典议会就设立了一项制度以保障个人利益。",
+    "zh_hant": "瑞典議會就設立了一項制度以保障個人利益。"
+  },
+  {
+    "index": 12,
+    "text": "A parliamentary committee representing all political parties appoints a person",
+    "start": 66.664,
+    "end": 72.666,
+    "zh": "一个代表所有政党的议会委员会任命一个人，",
+    "zh_hant": "一個代表所有政黨的議會委員會任命一個人，"
+  },
+  {
+    "index": 13,
+    "text": "who is suitably qualified to investigate private grievances against the State.",
+    "start": 72.507,
+    "end": 78.289,
+    "zh": "此人具备适当资格，负责调查针对国家的个人不满。",
+    "zh_hant": "此人具備適當資格，負責調查針對國家的個人不滿。"
   },
   {
     "index": 14,
-    "text": "A parliamentary committee representing all political parties appoints",
-    "start": 66.664,
-    "end": 72.106,
-    "zh": "一个代表所有政党的议会委员会任命",
-    "zh_hant": "一個代表所有政黨的議會委員會任命"
-  },
-  {
-    "index": 15,
-    "text": "a person who is suitably qualified to investigate private grievances",
-    "start": 71.756,
-    "end": 77.129,
-    "zh": "一名具备适当资格的人来调查针对国家的",
-    "zh_hant": "一名具備適當資格的人來調查針對國家的"
-  },
-  {
-    "index": 16,
-    "text": "against the State.",
-    "start": 76.779,
-    "end": 78.289,
-    "zh": "私人申诉。",
-    "zh_hant": "私人申訴。"
-  },
-  {
-    "index": 17,
     "text": "The official title of the person is 'Justiteombudsman',",
     "start": 78.59,
     "end": 83.632,
-    "zh": "此人的正式头衔是‘司法监察专员’，",
-    "zh_hant": "此人的正式頭銜是‘司法監察專員’，"
+    "zh": "这个人的正式头衔是“司法监察专员”，",
+    "zh_hant": "這個人的正式頭銜是“司法監察專員”，"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "but the Swedes commonly refer to him as the 'J.O.'",
     "start": 83.282,
     "end": 87.234,
-    "zh": "但瑞典人通常称他为‘J.O.’",
-    "zh_hant": "但瑞典人通常稱他為‘J.O.’"
+    "zh": "但瑞典人通常称他为“J.O.”",
+    "zh_hant": "但瑞典人通常稱他為“J.O.”"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "or 'Ombudsman'.",
     "start": 87.054,
     "end": 89.195,
-    "zh": "或‘申诉专员’。",
-    "zh_hant": "或‘申訴專員’。"
+    "zh": "或“监察专员”。",
+    "zh_hant": "或“監察專員”。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "The Ombudsman is not subject to political pressure.",
     "start": 89.435,
     "end": 93.397,
-    "zh": "申诉专员不受政治压力影响。",
-    "zh_hant": "申訴專員不受政治壓力影響。"
+    "zh": "监察专员不受政治压力的影响。",
+    "zh_hant": "監察專員不受政治壓力的影響。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "He investigates complaints large and small that come to him from all levels of society.",
     "start": 93.637,
     "end": 100.0,
@@ -176,63 +152,55 @@
     "zh_hant": "他調查來自社會各階層的大小投訴。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "As complaints must be made in writing,",
     "start": 100.261,
     "end": 102.842,
-    "zh": "由于投诉必须以书面形式提交，",
-    "zh_hant": "由於投訴必須以書面形式提交，"
+    "zh": "由于投诉必须以书面形式提出，",
+    "zh_hant": "由於投訴必須以書面形式提出，"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "the Ombudsman receives an average of 1, 200 letters a year.",
     "start": 102.942,
     "end": 108.204,
-    "zh": "申诉专员每年平均收到1200封信件。",
-    "zh_hant": "申訴專員每年平均收到1200封信件。"
+    "zh": "监察专员每年平均收到1200封信件。",
+    "zh_hant": "監察專員每年平均收到1200封信件。"
   },
   {
-    "index": 24,
-    "text": "He has eight lawyer assistants to help him",
+    "index": 21,
+    "text": "He has eight lawyer assistants to help him and he examines every single letter in detail.",
     "start": 108.705,
-    "end": 112.046,
-    "zh": "他有八名律师助理协助工作，",
-    "zh_hant": "他有八名律師助理協助工作，"
-  },
-  {
-    "index": 25,
-    "text": "and he examines every single letter in detail.",
-    "start": 112.046,
     "end": 115.748,
-    "zh": "并且逐封详细检查每封信。",
-    "zh_hant": "並且逐封詳細檢查每封信。"
+    "zh": "他有八名律师助理协助，并仔细检查每一封信。",
+    "zh_hant": "他有八名律師助理協助，並仔細檢查每一封信。"
   },
   {
-    "index": 26,
+    "index": 22,
     "text": "There is nothing secretive about the Ombudsman's work,",
     "start": 116.268,
     "end": 119.93,
-    "zh": "申诉专员的工作毫无秘密可言，",
-    "zh_hant": "申訴專員的工作毫無秘密可言，"
+    "zh": "监察专员的工作毫无秘密可言，",
+    "zh_hant": "監察專員的工作毫無秘密可言，"
   },
   {
-    "index": 27,
+    "index": 23,
     "text": "for his correspondence is open to public inspection.",
     "start": 119.891,
     "end": 123.992,
-    "zh": "因为他的通信对公众开放查阅。",
-    "zh_hant": "因為他的通訊對公眾開放查閱。"
+    "zh": "因为他的通信对公众开放检查。",
+    "zh_hant": "因為他的通訊對公眾開放檢查。"
   },
   {
-    "index": 28,
+    "index": 24,
     "text": "If a citizen's complaint is justified the Ombudsman will act on his behalf.",
     "start": 124.453,
     "end": 130.616,
-    "zh": "如果公民的投诉属实，申诉专员会代表他采取行动。",
-    "zh_hant": "如果公民的投訴屬實，申訴專員會代表他採取行動。"
+    "zh": "如果公民的投诉是合理的，监察专员将代表他采取行动。",
+    "zh_hant": "如果公民的投訴是合理的，監察專員將代表他採取行動。"
   },
   {
-    "index": 29,
+    "index": 25,
     "text": "The action he takes varies according to the nature of the complaint.",
     "start": 131.156,
     "end": 135.678,
@@ -240,175 +208,159 @@
     "zh_hant": "他採取的行動根據投訴的性質而有所不同。"
   },
   {
-    "index": 30,
-    "text": "He may gently reprimand an official or even suggest to parliament that a law",
+    "index": 26,
+    "text": "He may gently reprimand an official or even suggest to parliament that a law be altered.",
     "start": 135.859,
-    "end": 141.781,
-    "zh": "他可能会温和地训斥官员，甚至建议议会修改法律",
-    "zh_hant": "他可能會溫和地訓斥官員，甚至建議議會修改法律"
-  },
-  {
-    "index": 31,
-    "text": "be altered.",
-    "start": 141.431,
     "end": 142.742,
-    "zh": "或更改规定。",
-    "zh_hant": "或更改規定。"
+    "zh": "他可能会温和地训斥一名官员，甚至建议议会修改法律。",
+    "zh_hant": "他可能會溫和地訓斥一名官員，甚至建議議會修改法律。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "The following case is a typical example of the Ombudsman's work.",
     "start": 143.162,
     "end": 148.544,
-    "zh": "以下案例是申诉专员工作的典型例子。",
-    "zh_hant": "以下案例是申訴專員工作的典型例子。"
+    "zh": "以下案例是监察专员工作的一个典型例子。",
+    "zh_hant": "以下案例是監察專員工作的一個典型例子。"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "A foreigner living in a Swedish village wrote",
     "start": 149.225,
     "end": 152.646,
-    "zh": "一位住在瑞典乡村的外国人写信",
-    "zh_hant": "一位住在瑞典鄉村的外國人寫信"
+    "zh": "一个住在瑞典村庄的外国人写信",
+    "zh_hant": "一個住在瑞典村莊的外國人寫信"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "to the Ombudsman complaining that he had been ill-treated by the police,",
     "start": 152.296,
     "end": 157.489,
-    "zh": "给申诉专员，投诉他受到警察的虐待，",
-    "zh_hant": "給申訴專員，投訴他受到警察的虐待，"
+    "zh": "给监察专员，抱怨自己受到警察的虐待，",
+    "zh_hant": "給監察專員，抱怨自己受到警察的虐待，"
   },
   {
-    "index": 35,
+    "index": 30,
     "text": "simply because he was a foreigner.",
     "start": 157.389,
     "end": 159.931,
-    "zh": "仅仅因为他是外国人。",
-    "zh_hant": "僅僅因為他是外國人。"
+    "zh": "仅仅因为他是个外国人。",
+    "zh_hant": "僅僅因為他是個外國人。"
   },
   {
-    "index": 36,
+    "index": 31,
     "text": "The Ombudsman immediately wrote to the Chief of Police in the district",
     "start": 160.311,
     "end": 166.034,
-    "zh": "申诉专员立即写信给该地区的警察局长，",
-    "zh_hant": "申訴專員立即寫信給該地區的警察局長，"
+    "zh": "监察专员立即给该地区的警察局长写信，",
+    "zh_hant": "監察專員立即給該地區的警察局長寫信，"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "asking him to send a record of the case.",
     "start": 166.014,
     "end": 169.015,
-    "zh": "要求他寄送案件记录。",
-    "zh_hant": "要求他寄送案件記錄。"
+    "zh": "要求他寄送案件的记录。",
+    "zh_hant": "要求他寄送案件的記錄。"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "There was nothing in the record to show that the foreigner's complaint was justified",
     "start": 169.375,
     "end": 175.258,
-    "zh": "记录中没有任何内容显示外国人的投诉属实，",
-    "zh_hant": "記錄中沒有任何內容顯示外國人的投訴屬實，"
+    "zh": "记录中没有任何内容表明外国人的投诉是合理的，",
+    "zh_hant": "記錄中沒有任何內容表明外國人的投訴是合理的，"
   },
   {
-    "index": 39,
+    "index": 34,
     "text": "and the Chief of Police strongly denied the accusation.",
     "start": 175.258,
     "end": 179.98,
-    "zh": "警察局长强烈否认了这项指控。",
-    "zh_hant": "警察局長強烈否認了這項指控。"
+    "zh": "警察局长坚决否认了这一指控。",
+    "zh_hant": "警察局長堅決否認了這一指控。"
   },
   {
-    "index": 40,
+    "index": 35,
     "text": "It was impossible for the Ombudsman to take action,",
     "start": 180.521,
     "end": 184.283,
-    "zh": "申诉专员无法采取行动，",
-    "zh_hant": "申訴專員無法採取行動，"
+    "zh": "监察专员当时无法采取行动，",
+    "zh_hant": "監察專員當時無法採取行動，"
   },
   {
-    "index": 41,
+    "index": 36,
     "text": "but when he received a similar complaint from another foreigner in the same village,",
     "start": 184.443,
     "end": 189.985,
-    "zh": "但当他收到来自同一村庄另一名外国人的类似投诉时，",
-    "zh_hant": "但當他收到來自同一村莊另一名外國人的類似投訴時，"
+    "zh": "但当他从同一村庄的另一名外国人那里收到类似的投诉时，",
+    "zh_hant": "但當他從同一村莊的另一名外國人那裡收到類似的投訴時，"
   },
   {
-    "index": 42,
+    "index": 37,
     "text": "he immediately sent one of his lawyers to investigate the matter.",
     "start": 189.926,
     "end": 194.608,
-    "zh": "他立即派一名律师去调查此事。",
-    "zh_hant": "他立即派一名律師去調查此事。"
+    "zh": "他立即派他的一名律师去调查此事。",
+    "zh_hant": "他立即派他的一名律師去調查此事。"
   },
   {
-    "index": 43,
+    "index": 38,
     "text": "The lawyer ascertained",
     "start": 194.948,
     "end": 196.909,
-    "zh": "律师查明",
-    "zh_hant": "律師查明"
+    "zh": "律师查明了",
+    "zh_hant": "律師查明瞭"
   },
   {
-    "index": 44,
+    "index": 39,
     "text": "that a policeman had indeed dealt roughly with foreigners on several occasions.",
     "start": 196.849,
     "end": 202.852,
-    "zh": "确实有一名警察曾多次粗暴对待外国人。",
-    "zh_hant": "確實有一名警察曾多次粗暴對待外國人。"
+    "zh": "一名警察确实多次粗暴对待外国人。",
+    "zh_hant": "一名警察確實多次粗暴對待外國人。"
   },
   {
-    "index": 45,
-    "text": "The fact that the policeman was prejudiced against foreigners",
+    "index": 40,
+    "text": "The fact that the policeman was prejudiced against foreigners could not be recorded in the official files.",
     "start": 203.153,
-    "end": 207.034,
-    "zh": "这名警察对外国人持有偏见的事实",
-    "zh_hant": "這名警察對外國人持有偏見的事實"
-  },
-  {
-    "index": 46,
-    "text": "could not be recorded in the official files.",
-    "start": 207.054,
     "end": 210.276,
-    "zh": "无法在官方档案中记载。",
-    "zh_hant": "無法在官方檔案中記載。"
+    "zh": "警察对外国人有偏见这一事实无法记录在官方档案中。",
+    "zh_hant": "警察對外國人有偏見這一事實無法記錄在官方檔案中。"
   },
   {
-    "index": 47,
-    "text": "It was only possible for the Ombudsman to find this out",
+    "index": 41,
+    "text": "It was only possible for the Ombudsman to find this out by sending one of his representatives",
     "start": 210.496,
-    "end": 214.898,
-    "zh": "申诉专员只能通过",
-    "zh_hant": "申訴專員只能透過"
+    "end": 217.699,
+    "zh": "监察专员只有派一名代表",
+    "zh_hant": "監察專員只有派一名代表"
   },
   {
-    "index": 48,
-    "text": "by sending one of his representatives to check the facts.",
-    "start": 214.798,
+    "index": 42,
+    "text": "to check the facts.",
+    "start": 217.54,
     "end": 219.36,
-    "zh": "派代表核实事实来发现这一点。",
-    "zh_hant": "派代表核實事實來發現這一點。"
+    "zh": "去核实事实，才能发现这一点。",
+    "zh_hant": "去核實事實，才能發現這一點。"
   },
   {
-    "index": 49,
+    "index": 43,
     "text": "The policeman in question was severely reprimanded",
     "start": 220.121,
     "end": 224.083,
-    "zh": "这名涉事警察受到了严厉训斥，",
-    "zh_hant": "這名涉事警察受到了嚴厲訓斥，"
+    "zh": "当事警察受到了严厉的训斥，",
+    "zh_hant": "當事警察受到了嚴厲的訓斥，"
   },
   {
-    "index": 50,
+    "index": 44,
     "text": "and was informed that if any further complaints were lodged against him,",
     "start": 224.023,
     "end": 229.345,
-    "zh": "并被告知如果再有投诉针对他，",
-    "zh_hant": "並被告知如果再有投訴針對他，"
+    "zh": "并被告知如果再有针对他的投诉，",
+    "zh_hant": "並被告知如果再有針對他的投訴，"
   },
   {
-    "index": 51,
+    "index": 45,
     "text": "he would be prosecuted.",
     "start": 229.345,
     "end": 231.106,
@@ -416,19 +368,19 @@
     "zh_hant": "他將被起訴。"
   },
   {
-    "index": 52,
-    "text": "The Ombudsman's prompt action at once put",
+    "index": 46,
+    "text": "The Ombudsman's prompt action at once put an end to an unpleasant practice",
     "start": 231.686,
-    "end": 235.508,
-    "zh": "申诉专员的迅速行动立即",
-    "zh_hant": "申訴專員的迅速行動立即"
+    "end": 238.029,
+    "zh": "监察专员的迅速行动立刻中止了一种不良做法，",
+    "zh_hant": "監察專員的迅速行動立刻中止了一種不良做法，"
   },
   {
-    "index": 53,
-    "text": "an end to an unpleasant practice which might have gone unnoticed.",
-    "start": 235.158,
+    "index": 47,
+    "text": "which might have gone unnoticed.",
+    "start": 237.829,
     "end": 240.407,
-    "zh": "终止了这种可能被忽视的不愉快行为。",
-    "zh_hant": "終止了這種可能被忽視的不愉快行為。"
+    "zh": "这种做法本可能被忽视。",
+    "zh_hant": "這種做法本可能被忽視。"
   }
 ]

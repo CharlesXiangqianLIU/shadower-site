@@ -4,131 +4,107 @@
     "text": "The medieval Bayeux tapestry has arrived in London for a landmark exhibition",
     "start": 0.11,
     "end": 5.212,
-    "zh": "中世纪的贝叶挂毯抵达伦敦，参加一场里程碑式的展览",
-    "zh_hant": "中世紀的貝葉掛毯抵達倫敦，參加一場里程碑式的展覽"
+    "zh": "中世纪的贝叶挂毯已抵达伦敦，参加一场标志性展览。",
+    "zh_hant": "中世紀的貝葉掛毯已抵達倫敦，參加一場標誌性展覽。"
   },
   {
     "index": 1,
-    "text": "at the British Museum",
+    "text": "at the British Museum after leaving France for the first time in more than 900 years.",
     "start": 5.153,
-    "end": 6.713,
-    "zh": "在大英博物馆",
-    "zh_hant": "在大英博物館"
+    "end": 10.315,
+    "zh": "这是它900多年来首次离开法国，来到大英博物馆展出。",
+    "zh_hant": "這是它900多年來首次離開法國，來到大英博物館展出。"
   },
   {
     "index": 2,
-    "text": "after leaving France for the first time in more than 900 years.",
-    "start": 6.363,
-    "end": 10.315,
-    "zh": "这是900多年来它首次离开法国。",
-    "zh_hant": "這是900多年來它首次離開法國。"
+    "text": "Overnight, the 68-metre-long masterpiece crossed the Channel in a climate-controlled lorry under police escort.",
+    "start": 10.595,
+    "end": 17.558,
+    "zh": "夜间，这条68米长的杰作在警车护送下，搭乘温控卡车横渡英吉利海峡。",
+    "zh_hant": "夜間，這條68米長的傑作在警車護送下，搭乘溫控卡車橫渡英吉利海峽。"
   },
   {
     "index": 3,
-    "text": "Overnight, the 68-metre-long masterpiece crossed the Channel in a climate-controlled",
-    "start": 10.595,
-    "end": 15.618,
-    "zh": "夜间，这条68米长的杰作在温控",
-    "zh_hant": "夜間，這條68米長的傑作在溫控"
+    "text": "The French President Emmanuel Macron described the loan as a symbol of the long-standing friendship between France and the UK.",
+    "start": 17.499,
+    "end": 24.862,
+    "zh": "法国总统埃马纽埃尔·马克龙称这次借展是法英两国长久友谊的象征。",
+    "zh_hant": "法國總統埃馬紐埃爾·馬克龍稱這次借展是法英兩國長久友誼的象徵。"
   },
   {
     "index": 4,
-    "text": "lorry under police escort.",
-    "start": 15.298,
-    "end": 17.558,
-    "zh": "卡车中，由警车护送，横渡英吉利海峡。",
-    "zh_hant": "卡車中，由警車護送，橫渡英吉利海峽。"
-  },
-  {
-    "index": 5,
-    "text": "The French President Emmanuel Macron described the loan as a symbol",
-    "start": 17.499,
-    "end": 21.46,
-    "zh": "法国总统埃马纽埃尔·马克龙称这次出借是",
-    "zh_hant": "法國總統埃馬紐埃爾·馬克龍稱這次出借是"
-  },
-  {
-    "index": 6,
-    "text": "of the long-standing friendship between France and the UK.",
-    "start": 21.11,
-    "end": 24.862,
-    "zh": "法英两国长久友谊的象征。",
-    "zh_hant": "法英兩國長久友誼的象徵。"
-  },
-  {
-    "index": 7,
     "text": "Okay, let's speak to our correspondent, Lee Milner, who is at the British Museum.",
     "start": 24.512,
     "end": 28.984,
-    "zh": "好了，让我们连线在大英博物馆的记者李·米尔纳。",
-    "zh_hant": "好了，讓我們連線在大英博物館的記者李·米爾納。"
+    "zh": "好的，让我们连线在大英博物馆的记者李·米尔纳。",
+    "zh_hant": "好的，讓我們連線在大英博物館的記者李·米爾納。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "A really exciting day for everyone there.",
     "start": 28.634,
     "end": 31.385,
-    "zh": "对那里的每个人来说，这真是激动人心的一天。",
-    "zh_hant": "對那裡的每個人來說，這真是激動人心的一天。"
+    "zh": "对那里所有人来说，这真是激动人心的一天。",
+    "zh_hant": "對那裡所有人來說，這真是激動人心的一天。"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "Lee, take us Through it.",
     "start": 31.035,
     "end": 32.246,
-    "zh": "李，带我们了解一下情况。",
-    "zh_hant": "李，帶我們瞭解一下情況。"
+    "zh": "李，带我们了解一下情况吧。",
+    "zh_hant": "李，帶我們瞭解一下情況吧。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Oh, Sam, honestly, there's been so much excitement here this morning.",
     "start": 33.947,
     "end": 38.229,
-    "zh": "哦，萨姆，说实话，今天早上这里热闹极了。",
-    "zh_hant": "哦，薩姆，說實話，今天早上這裡熱鬧極了。"
+    "zh": "哦，萨姆，说真的，今天早上这里的气氛非常热烈。",
+    "zh_hant": "哦，薩姆，說真的，今天早上這裡的氣氛非常熱烈。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "The past 24 hours has been amazing.",
     "start": 37.879,
     "end": 40.79,
-    "zh": "过去24小时简直令人惊叹。",
-    "zh_hant": "過去24小時簡直令人驚歎。"
+    "zh": "过去的24小时简直令人惊叹。",
+    "zh_hant": "過去的24小時簡直令人驚歎。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "So, what happened was, in the dead of night, nobody knew here what was going on.",
     "start": 40.61,
     "end": 45.993,
-    "zh": "事情是这样的，夜深人静时，没人知道这里发生了什么。",
-    "zh_hant": "事情是這樣的，夜深人靜時，沒人知道這裡發生了什麼。"
+    "zh": "事情是这样的，夜深人静时，这里没人知道发生了什么。",
+    "zh_hant": "事情是這樣的，夜深人靜時，這裡沒人知道發生了什麼。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "We saw a lorry literally backing up just behind us towards the museum,",
     "start": 46.393,
     "end": 51.916,
-    "zh": "我们看到一辆卡车就停在咱们身后，倒车驶向博物馆，",
-    "zh_hant": "我們看到一輛卡車就停在咱們身後，倒車駛向博物館，"
+    "zh": "我们看到一辆卡车正倒车，朝我们身后的博物馆驶去。",
+    "zh_hant": "我們看到一輛卡車正倒車，朝我們身後的博物館駛去。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "and it had come from a secret location in France.",
     "start": 51.566,
     "end": 56.438,
-    "zh": "它来自法国一个秘密地点。",
-    "zh_hant": "它來自法國一個秘密地點。"
+    "zh": "它来自法国的一个秘密地点。",
+    "zh_hant": "它來自法國的一個秘密地點。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "It was chaperoned by police, and it was transported in a really high-tech container.",
     "start": 56.088,
     "end": 61.781,
-    "zh": "全程有警察陪同，装在一个非常高科技的集装箱里运输。",
-    "zh_hant": "全程有警察陪同，裝在一個非常高科技的集裝箱裡運輸。"
+    "zh": "有警车全程护送，而且它被装在一个高科技集装箱里运输。",
+    "zh_hant": "有警車全程護送，而且它被裝在一個高科技集裝箱裡運輸。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "When I talk about that,",
     "start": 61.431,
     "end": 63.181,
@@ -136,79 +112,63 @@
     "zh_hant": "說到這個，"
   },
   {
-    "index": 17,
-    "text": "what I'm saying is it had shock absorbers, it had gadgets that made sure that the temperature was fine, the humidity",
+    "index": 14,
+    "text": "what I'm saying is it had shock absorbers, it had gadgets that made sure that the temperature was fine, the humidity was fine,",
     "start": 62.831,
-    "end": 69.044,
-    "zh": "我的意思是，它有减震器，还有确保温度合适、湿度",
-    "zh_hant": "我的意思是，它有減震器，還有確保溫度合適、溼度"
-  },
-  {
-    "index": 18,
-    "text": "was fine,",
-    "start": 68.694,
     "end": 69.524,
-    "zh": "合适的装置，",
-    "zh_hant": "合適的裝置，"
+    "zh": "我的意思是，箱内有减震装置，还有设备确保温度和湿度都恰到好处，",
+    "zh_hant": "我的意思是，箱內有減震裝置，還有裝置確保溫度和溼度都恰到好處，"
   },
   {
-    "index": 19,
+    "index": 15,
     "text": "because, of course, this is a very, very delicate and fragile object.",
     "start": 69.304,
     "end": 74.847,
-    "zh": "因为，当然，这是一件非常非常娇贵易碎的物品。",
-    "zh_hant": "因為，當然，這是一件非常非常嬌貴易碎的物品。"
+    "zh": "因为，当然，这是一件非常非常精细和易碎的物品。",
+    "zh_hant": "因為，當然，這是一件非常非常精細和易碎的物品。"
   },
   {
-    "index": 20,
+    "index": 16,
     "text": "Now, its journey has, of course, taken months to plan just for one night on the road,",
     "start": 74.497,
     "end": 80.51,
-    "zh": "现在，这趟旅程当然花了数月来计划，只为路上的这一夜，",
-    "zh_hant": "現在，這趟旅程當然花了數月來計劃，只為路上的這一夜，"
+    "zh": "现在，这次行程当然花了数月规划，只为路上这一夜，",
+    "zh_hant": "現在，這次行程當然花了數月規劃，只為路上這一夜，"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "but this is an historic moment,",
     "start": 80.16,
     "end": 83.112,
-    "zh": "但这是个历史性时刻，",
-    "zh_hant": "但這是個歷史性時刻，"
+    "zh": "但这是一个历史性的时刻，",
+    "zh_hant": "但這是一個歷史性的時刻，"
   },
   {
-    "index": 22,
-    "text": "as the Bayeux Tapestry arrives in Britain",
+    "index": 18,
+    "text": "as the Bayeux Tapestry arrives in Britain for the first time in almost a thousand years.",
     "start": 83.472,
-    "end": 86.933,
-    "zh": "贝叶挂毯抵达英国",
-    "zh_hant": "貝葉掛毯抵達英國"
-  },
-  {
-    "index": 23,
-    "text": "for the first time in almost a thousand years.",
-    "start": 86.583,
     "end": 90.155,
-    "zh": "这是近千年来头一回。",
-    "zh_hant": "這是近千年來頭一回。"
+    "zh": "因为贝叶挂毯在近千年后首次抵达英国。",
+    "zh_hant": "因為貝葉掛毯在近千年後首次抵達英國。"
   },
   {
-    "index": 24,
+    "index": 19,
     "text": "Long before smartphones and social media, people told stories with needle and thread.",
     "start": 91.416,
     "end": 97.238,
-    "zh": "早在智能手机和社交媒体出现之前，人们用针线讲故事。",
-    "zh_hant": "早在智慧手機和社交媒體出現之前，人們用針線講故事。"
+    "zh": "在智能手机和社交媒体出现很久以前，人们用针线讲故事。",
+    "zh_hant": "在智慧手機和社交媒體出現很久以前，人們用針線講故事。"
   },
   {
-    "index": 25,
+    "index": 20,
     "text": "The Bayeux Tapestry tells one of the most famous stories in British history,",
     "start": 97.359,
     "end": 101.901,
-    "zh": "贝叶挂毯讲述了英国历史上最著名的故事之一——",
-    "zh_hant": "貝葉掛毯講述了英國歷史上最著名的故事之一——"
+    "zh": "贝叶挂毯讲述的是英国历史上最著名的故事之一，",
+    "zh_hant": "貝葉掛毯講述的是英國歷史上最著名的故事之一，"
   },
   {
-    "index": 26,
+    "index": 21,
     "text": "the Battle of Hastings in 1066.",
     "start": 101.921,
     "end": 105.573,
@@ -216,239 +176,215 @@
     "zh_hant": "1066年的黑斯廷斯戰役。"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "Now it's arrived in the UK for the first time in almost a thousand years.",
     "start": 105.623,
     "end": 110.445,
-    "zh": "现在它近千年来首次抵达英国。",
-    "zh_hant": "現在它近千年來首次抵達英國。"
+    "zh": "如今，它在近千年后首次来到英国。",
+    "zh_hant": "如今，它在近千年後首次來到英國。"
   },
   {
-    "index": 28,
+    "index": 23,
     "text": "Its journey from Normandy has been a huge operation.",
     "start": 113.747,
     "end": 117.008,
-    "zh": "从诺曼底出发的旅程是一场庞大的行动。",
-    "zh_hant": "從諾曼底出發的旅程是一場龐大的行動。"
+    "zh": "从诺曼底的运输是一项庞大的工程。",
+    "zh_hant": "從諾曼底的運輸是一項龐大的工程。"
   },
   {
-    "index": 29,
+    "index": 24,
     "text": "Thought to have been made in England after the Norman conquest,",
     "start": 117.189,
     "end": 120.51,
-    "zh": "据信这条挂毯是在诺曼征服后于英格兰制作的，",
-    "zh_hant": "據信這條掛毯是在諾曼征服後於英格蘭製作的，"
+    "zh": "据信它是在诺曼征服之后于英格兰制作的，",
+    "zh_hant": "據信它是在諾曼征服之後於英格蘭製作的，"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "The tapestry is almost 70 metres long and incredibly fragile.",
     "start": 120.14,
     "end": 125.433,
-    "zh": "它将近70米长，极其脆弱。",
-    "zh_hant": "它將近70米長，極其脆弱。"
+    "zh": "这条挂毯近70米长，极其易碎。",
+    "zh_hant": "這條掛毯近70米長，極其易碎。"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "Some experts feared the move could damage it.",
     "start": 125.573,
     "end": 128.274,
-    "zh": "一些专家担心搬迁可能会损坏它。",
-    "zh_hant": "一些專家擔心搬遷可能會損壞它。"
+    "zh": "一些专家担心搬运可能会损坏它。",
+    "zh_hant": "一些專家擔心搬運可能會損壞它。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "But every stage of the journey has been carefully planned,",
     "start": 128.214,
     "end": 132.016,
-    "zh": "但旅程的每一个阶段都经过精心策划，",
-    "zh_hant": "但旅程的每一個階段都經過精心策劃，"
+    "zh": "但行程的每一步都经过了精心规划，",
+    "zh_hant": "但行程的每一步都經過了精心規劃，"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "with strict climate control and technology to reduce even the smallest vibrations.",
     "start": 131.916,
     "end": 137.579,
-    "zh": "严格的气候控制和技术甚至能减少最轻微的震动。",
-    "zh_hant": "嚴格的氣候控制和技術甚至能減少最輕微的震動。"
+    "zh": "有严格的气候控制和技术手段来减少哪怕最微小的震动。",
+    "zh_hant": "有嚴格的氣候控制和技術手段來減少哪怕最微小的震動。"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "It's absolutely central to the British national story.",
     "start": 137.579,
     "end": 140.4,
-    "zh": "它绝对是英国国家叙事中的核心。",
-    "zh_hant": "它絕對是英國國家敘事中的核心。"
+    "zh": "它绝对是英国国家叙事的核心。",
+    "zh_hant": "它絕對是英國國家敘事的核心。"
   },
   {
-    "index": 35,
+    "index": 30,
     "text": "Every British child knows the date of 1066, the Battle of Hastings.",
     "start": 140.26,
     "end": 144.702,
-    "zh": "每个英国孩子都知道1066年这个日期，即黑斯廷斯战役。",
-    "zh_hant": "每個英國孩子都知道1066年這個日期，即黑斯廷斯戰役。"
+    "zh": "每个英国孩子都知道1066年这个年份，黑斯廷斯战役。",
+    "zh_hant": "每個英國孩子都知道1066年這個年份，黑斯廷斯戰役。"
   },
   {
-    "index": 36,
+    "index": 31,
     "text": "Perhaps in France the equivalent might be 1789.",
     "start": 144.602,
     "end": 148.274,
-    "zh": "也许在法国，对应的是1789年。",
-    "zh_hant": "也許在法國，對應的是1789年。"
+    "zh": "也许在法国，与之相当的或许是1789年。",
+    "zh_hant": "也許在法國，與之相當的或許是1789年。"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "It's that important to our history, and it is so visual,",
     "start": 148.324,
     "end": 152.046,
-    "zh": "它对我们历史就是这么重要，而且它极具视觉冲击力，",
-    "zh_hant": "它對我們歷史就是這麼重要，而且它極具視覺衝擊力，"
+    "zh": "它对我们的历史就是这么重要，而且它极具视觉冲击力，",
+    "zh_hant": "它對我們的歷史就是這麼重要，而且它極具視覺衝擊力，"
   },
   {
-    "index": 38,
-    "text": "it's so powerful, and it speaks so well to children,",
+    "index": 33,
+    "text": "it's so powerful, and it speaks so well to children, that I just think it will be an enormous success.",
     "start": 151.696,
-    "end": 155.167,
-    "zh": "非常有力，对孩子们也很有吸引力，",
-    "zh_hant": "非常有力，對孩子們也很有吸引力，"
-  },
-  {
-    "index": 39,
-    "text": "that I just think it will be an enormous success.",
-    "start": 155.087,
     "end": 157.448,
-    "zh": "所以我就是觉得它会取得巨大成功。",
-    "zh_hant": "所以我就是覺得它會取得巨大成功。"
+    "zh": "它非常震撼，对孩子们来说也很有感染力，我觉得它一定会大获成功。",
+    "zh_hant": "它非常震撼，對孩子們來說也很有感染力，我覺得它一定會大獲成功。"
   },
   {
-    "index": 40,
-    "text": "French President Emmanuel Macron said",
+    "index": 34,
+    "text": "French President Emmanuel Macron said the loan is a symbol",
     "start": 157.098,
-    "end": 160.45,
-    "zh": "法国总统埃马纽埃尔·马克龙表示",
-    "zh_hant": "法國總統埃馬紐埃爾·馬克龍表示"
+    "end": 161.591,
+    "zh": "法国总统埃马纽埃尔·马克龙表示，这次借展是一个象征，",
+    "zh_hant": "法國總統埃馬紐埃爾·馬克龍表示，這次借展是一個象徵，"
   },
   {
-    "index": 41,
-    "text": "the loan is a symbol of trust and friendship between France and the UK.",
-    "start": 160.1,
+    "index": 35,
+    "text": "of trust and friendship between France and the UK.",
+    "start": 161.241,
     "end": 164.732,
-    "zh": "这次出借是法英两国信任与友谊的象征。",
-    "zh_hant": "這次出借是法英兩國信任與友誼的象徵。"
+    "zh": "象征着法英之间的信任与友谊。",
+    "zh_hant": "象徵著法英之間的信任與友誼。"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "He described it as more than an exchange of art, but a sign of the countries' shared future.",
     "start": 165.193,
     "end": 171.516,
-    "zh": "他形容这不仅仅是艺术交流，更是两国共同未来的标志。",
-    "zh_hant": "他形容這不僅僅是藝術交流，更是兩國共同未來的標誌。"
+    "zh": "他说这不仅仅是艺术的交流，更是两国共同未来的标志。",
+    "zh_hant": "他說這不僅僅是藝術的交流，更是兩國共同未來的標誌。"
   },
   {
-    "index": 43,
+    "index": 37,
     "text": "When it goes on display to the public in September,",
     "start": 171.796,
     "end": 174.677,
-    "zh": "当它在9月对公众展出时，",
-    "zh_hant": "當它在9月對公眾展出時，"
+    "zh": "等到9月向公众展出时，",
+    "zh_hant": "等到9月向公眾展出時，"
   },
   {
-    "index": 44,
-    "text": "all 70 metres will be laid out in one continuous line",
+    "index": 38,
+    "text": "all 70 metres will be laid out in one continuous line inside specially designed cases,",
     "start": 174.617,
-    "end": 179.019,
-    "zh": "全部70米将连续排成一条直线",
-    "zh_hant": "全部70米將連續排成一條直線"
+    "end": 181.12,
+    "zh": "全部70米将首尾相连，平铺在特别设计的展柜里，",
+    "zh_hant": "全部70米將首尾相連，平鋪在特別設計的展櫃裡，"
   },
   {
-    "index": 45,
-    "text": "inside specially designed cases, thought to be the longest museum showcase in the world.",
-    "start": 178.669,
+    "index": 39,
+    "text": "thought to be the longest museum showcase in the world.",
+    "start": 181.061,
     "end": 184.622,
-    "zh": "放在特别设计的展柜里，被认为是世界上最长的博物馆展柜。",
-    "zh_hant": "放在特別設計的展櫃裡，被認為是世界上最長的博物館展櫃。"
+    "zh": "据称这将是世界上最长的博物馆展柜。",
+    "zh_hant": "據稱這將是世界上最長的博物館展櫃。"
   },
   {
-    "index": 46,
-    "text": "Visitors will be able to see the tapestry like never before,",
+    "index": 40,
+    "text": "Visitors will be able to see the tapestry like never before, offering a completely new perspective",
     "start": 185.082,
-    "end": 188.744,
-    "zh": "参观者将以前所未有的方式观看这条挂毯，",
-    "zh_hant": "參觀者將以前所未有的方式觀看這條掛毯，"
+    "end": 191.445,
+    "zh": "参观者将以前所未有的方式欣赏这条挂毯，带来全新的视角，",
+    "zh_hant": "參觀者將以前所未有的方式欣賞這條掛毯，帶來全新的視角，"
   },
   {
-    "index": 47,
-    "text": "offering a completely new perspective on one of history's greatest masterpieces.",
-    "start": 188.684,
+    "index": 41,
+    "text": "on one of history's greatest masterpieces.",
+    "start": 191.286,
     "end": 194.547,
-    "zh": "为历史上最伟大的杰作之一提供全新的视角。",
-    "zh_hant": "為歷史上最偉大的傑作之一提供全新的視角。"
+    "zh": "去了解历史上最伟大的杰作之一。",
+    "zh_hant": "去了解歷史上最偉大的傑作之一。"
   },
   {
-    "index": 48,
+    "index": 42,
     "text": "Now, as you can imagine, this has been hugely popular with visitors.",
     "start": 196.308,
     "end": 200.71,
-    "zh": "现在，你可以想象，这在参观者中非常受欢迎。",
-    "zh_hant": "現在，你可以想象，這在參觀者中非常受歡迎。"
+    "zh": "现在，你可以想象，这非常受游客欢迎。",
+    "zh_hant": "現在，你可以想象，這非常受遊客歡迎。"
   },
   {
-    "index": 49,
+    "index": 43,
     "text": "Did you know that more than 80,000 people joined the queue",
     "start": 200.36,
     "end": 204.892,
-    "zh": "你知道吗，超过8万人排队",
-    "zh_hant": "你知道嗎，超過8萬人排隊"
+    "zh": "你知道吗，超过8万人排了队，",
+    "zh_hant": "你知道嗎，超過8萬人排了隊，"
   },
   {
-    "index": 50,
-    "text": "when the tickets first went on release,",
+    "index": 44,
+    "text": "when the tickets first went on release, just last Week and it,",
     "start": 204.652,
-    "end": 207.173,
-    "zh": "门票首次发售时，",
-    "zh_hant": "門票首次發售時，"
-  },
-  {
-    "index": 51,
-    "text": "just last Week and it,",
-    "start": 206.994,
     "end": 209.074,
-    "zh": "就在上周，然后它，",
-    "zh_hant": "就在上週，然後它，"
+    "zh": "就在上周门票首次开售时，而且它——",
+    "zh_hant": "就在上週門票首次開售時，而且它——"
   },
   {
-    "index": 52,
+    "index": 45,
     "text": "as you can imagine, just sold out.",
     "start": 208.935,
     "end": 211.195,
-    "zh": "正如你想的，很快就卖光了。",
-    "zh_hant": "正如你想的，很快就賣光了。"
+    "zh": "你可以想象，票很快就卖光了。",
+    "zh_hant": "你可以想象，票很快就賣光了。"
   },
   {
-    "index": 53,
+    "index": 46,
     "text": "Adult tickets, I've got the prices here if you're thinking of going, because wait, I've got some good news, just hang on.",
     "start": 210.976,
     "end": 215.618,
-    "zh": "成人票，如果你打算去的话，我这里有价格，因为等等，我有好消息，稍等一下。",
-    "zh_hant": "成人票，如果你打算去的話，我這裡有價格，因為等等，我有好訊息，稍等一下。"
+    "zh": "成人票的价格我这儿有，如果你打算去看的话——等等，我有好消息，稍等一下。",
+    "zh_hant": "成人票的價格我這兒有，如果你打算去看的話——等等，我有好訊息，稍等一下。"
   },
   {
-    "index": 54,
-    "text": "Tickets are priced at £33 during the peak season and £27 during",
+    "index": 47,
+    "text": "Tickets are priced at £33 during the peak season and £27 during off season.",
     "start": 215.578,
-    "end": 221.58,
-    "zh": "旺季门票定价33英镑，淡季",
-    "zh_hant": "旺季門票定價33英鎊，淡季"
-  },
-  {
-    "index": 55,
-    "text": "off season.",
-    "start": 221.241,
     "end": 222.301,
-    "zh": "27英镑。",
-    "zh_hant": "27英鎊。"
+    "zh": "旺季票价是33英镑，淡季是27英镑。",
+    "zh_hant": "旺季票價是33英鎊，淡季是27英鎊。"
   },
   {
-    "index": 56,
+    "index": 48,
     "text": "Under 16s go free as well.",
     "start": 222.001,
     "end": 225.242,
@@ -456,103 +392,95 @@
     "zh_hant": "16歲以下免費入場。"
   },
   {
-    "index": 57,
+    "index": 49,
     "text": "Now, it is a little bit pricier than it would cost in Normandy,",
     "start": 225.002,
     "end": 229.724,
-    "zh": "不过，这比在诺曼底看要贵一些，",
-    "zh_hant": "不過，這比在諾曼底看要貴一些，"
+    "zh": "这比在诺曼底看要贵一点，",
+    "zh_hant": "這比在諾曼底看要貴一點，"
   },
   {
-    "index": 58,
+    "index": 50,
     "text": "usually €12 to see the tapestry there.",
     "start": 229.445,
     "end": 232.986,
-    "zh": "那里通常12欧元就能看到它。",
-    "zh_hant": "那裡通常12歐元就能看到它。"
+    "zh": "那里看挂毯通常是12欧元。",
+    "zh_hant": "那裡看掛毯通常是12歐元。"
   },
   {
-    "index": 59,
-    "text": "But as I say, children under 16 will go free,",
+    "index": 51,
+    "text": "But as I say, children under 16 will go free, and this has been immensely popular, especially with Schools,",
     "start": 232.846,
-    "end": 235.567,
-    "zh": "但正如我说的，16岁以下儿童免费，",
-    "zh_hant": "但正如我說的，16歲以下兒童免費，"
+    "end": 238.289,
+    "zh": "但正如我所说，16岁以下儿童免费，而且这非常受欢迎，尤其是学校团体，",
+    "zh_hant": "但正如我所說，16歲以下兒童免費，而且這非常受歡迎，尤其是學校團體，"
   },
   {
-    "index": 60,
-    "text": "and this has been immensely popular, especially with Schools, not just here in the UK but across the world.",
-    "start": 235.217,
+    "index": 52,
+    "text": "not just here in the UK but across the world.",
+    "start": 238.029,
     "end": 241.03,
-    "zh": "而且它非常受欢迎，尤其是学校团体，不仅在英国，全世界都是如此。",
-    "zh_hant": "而且它非常受歡迎，尤其是學校團體，不僅在英國，全世界都是如此。"
+    "zh": "不仅在英国，全世界都是如此。",
+    "zh_hant": "不僅在英國，全世界都是如此。"
   },
   {
-    "index": 61,
+    "index": 53,
     "text": "Members of the public, this is the bit that you want to listen to.",
     "start": 240.771,
     "end": 244.192,
-    "zh": "普通公众，这部分你们要听好了。",
-    "zh_hant": "普通公眾，這部分你們要聽好了。"
+    "zh": "公众朋友们，这部分你们要仔细听了。",
+    "zh_hant": "公眾朋友們，這部分你們要仔細聽了。"
   },
   {
-    "index": 62,
+    "index": 54,
     "text": "I've got some great news, because even though the tickets have sold out, we have been told that they will go back out.",
     "start": 243.842,
     "end": 250.235,
-    "zh": "我有好消息，因为即使门票卖光了，我们被告知它们会再次发售。",
-    "zh_hant": "我有好訊息，因為即使門票賣光了，我們被告知它們會再次發售。"
+    "zh": "我有好消息，因为虽然票卖光了，但我们被告知还会再放出来。",
+    "zh_hant": "我有好訊息，因為雖然票賣光了，但我們被告知還會再放出來。"
   },
   {
-    "index": 63,
+    "index": 55,
     "text": "More tickets will go back out on general release in October, and then again in January.",
     "start": 249.885,
     "end": 255.838,
-    "zh": "十月份会有更多票公开发售，然后一月份还会有。",
-    "zh_hant": "十月份會有更多票公開發售，然後一月份還會有。"
+    "zh": "更多门票将在10月和明年1月进行公开发售。",
+    "zh_hant": "更多門票將在10月和明年1月進行公開發售。"
   },
   {
-    "index": 64,
+    "index": 56,
     "text": "Now, listen to this, this is a great statistic, okay.",
     "start": 255.678,
     "end": 258.539,
-    "zh": "现在，听这个，这是个很棒的数据，好吗。",
-    "zh_hant": "現在，聽這個，這是個很棒的資料，好嗎。"
+    "zh": "现在听这个，这是一个很棒的数据，好吗。",
+    "zh_hant": "現在聽這個，這是一個很棒的資料，好嗎。"
   },
   {
-    "index": 65,
-    "text": "So, more than six million people visit the British Museum",
+    "index": 57,
+    "text": "So, more than six million people visit the British Museum right here every single year.",
     "start": 258.189,
-    "end": 262.161,
-    "zh": "每年有超过600万人参观大英博物馆，",
-    "zh_hant": "每年有超過600萬人參觀大英博物館，"
-  },
-  {
-    "index": 66,
-    "text": "right here every single year.",
-    "start": 262.241,
     "end": 264.982,
-    "zh": "就在这儿。",
-    "zh_hant": "就在這兒。"
+    "zh": "每年有超过600万人参观大英博物馆。",
+    "zh_hant": "每年有超過600萬人參觀大英博物館。"
   },
   {
-    "index": 67,
-    "text": "The Most successful exhibition",
+    "index": 58,
+    "text": "The Most successful exhibition in its history",
     "start": 264.632,
-    "end": 268.184,
-    "zh": "它历史上最成功的展览",
-    "zh_hant": "它歷史上最成功的展覽"
+    "end": 269.324,
+    "zh": "其历史上最成功的展览",
+    "zh_hant": "其歷史上最成功的展覽"
   },
   {
-    "index": 68,
-    "text": "in its history was the 1972 Treasures of Tutankhamun,",
-    "start": 268.284,
+    "index": 59,
+    "text": "was the 1972 Treasures of Tutankhamun,",
+    "start": 268.974,
     "end": 273.406,
-    "zh": "是1972年的“图坦卡蒙宝藏”，",
-    "zh_hant": "是1972年的“圖坦卡蒙寶藏”，"
+    "zh": "是1972年的图坦卡蒙宝藏展，",
+    "zh_hant": "是1972年的圖坦卡蒙寶藏展，"
   },
   {
-    "index": 69,
+    "index": 60,
     "text": "which attracted 1.69 million visitors.",
     "start": 273.126,
     "end": 276.988,
@@ -560,23 +488,23 @@
     "zh_hant": "吸引了169萬參觀者。"
   },
   {
-    "index": 70,
+    "index": 61,
     "text": "And Sam, I think this will be it.",
     "start": 276.638,
     "end": 279.889,
-    "zh": "萨姆，我觉得这次也会成为爆款。",
-    "zh_hant": "薩姆，我覺得這次也會成為爆款。"
+    "zh": "萨姆，我觉得这次会打破纪录。",
+    "zh_hant": "薩姆，我覺得這次會打破紀錄。"
   },
   {
-    "index": 71,
+    "index": 62,
     "text": "Yeah, I need to get in line for my tickets.",
     "start": 280.01,
     "end": 282.531,
-    "zh": "嗯，我得去排队买票了。",
-    "zh_hant": "嗯，我得去排隊買票了。"
+    "zh": "是啊，我得去排队买票了。",
+    "zh_hant": "是啊，我得去排隊買票了。"
   },
   {
-    "index": 72,
+    "index": 63,
     "text": "Lee, thanks very much.",
     "start": 282.181,
     "end": 283.652,
@@ -584,135 +512,111 @@
     "zh_hant": "李，非常感謝。"
   },
   {
-    "index": 73,
-    "text": "Well, speaking to BBC Breakfast earlier, Hélène Duchesne, who's the French ambassador to the UK,",
+    "index": 64,
+    "text": "Well, speaking to BBC Breakfast earlier, Hélène Duchesne,",
     "start": 284.913,
-    "end": 289.555,
-    "zh": "好的，早些时候在BBC早餐节目中，法国驻英国大使埃莱娜·杜谢纳",
-    "zh_hant": "好的，早些時候在BBC早餐節目中，法國駐英國大使埃萊娜·杜謝納"
+    "end": 287.854,
+    "zh": "早些时候在接受BBC早餐节目采访时，埃莱娜·迪谢纳——",
+    "zh_hant": "早些時候在接受BBC早餐節目採訪時，埃萊娜·迪謝納——"
   },
   {
-    "index": 74,
-    "text": "spoke about the significance of this for France and British relations.",
-    "start": 289.335,
+    "index": 65,
+    "text": "who's the French ambassador to the UK, spoke about the significance of this for France and British relations.",
+    "start": 287.504,
     "end": 293.757,
-    "zh": "谈到了这对法英关系的意义。",
-    "zh_hant": "談到了這對法英關係的意義。"
+    "zh": "法国驻英国大使——谈到了这件事对法英关系的重要意义。",
+    "zh_hant": "法國駐英國大使——談到了這件事對法英關係的重要意義。"
   },
   {
-    "index": 75,
+    "index": 66,
     "text": "I hope that you had a good night, because I had a very short night.",
     "start": 294.157,
     "end": 297.979,
-    "zh": "希望你昨晚睡得好，因为我睡得很少。",
-    "zh_hant": "希望你昨晚睡得好，因為我睡得很少。"
+    "zh": "希望你睡了个好觉，因为我只睡了一会儿。",
+    "zh_hant": "希望你睡了個好覺，因為我只睡了一會兒。"
   },
   {
-    "index": 76,
+    "index": 67,
     "text": "I spent part of my night at the British Museum",
     "start": 298.499,
     "end": 302.381,
-    "zh": "我晚上有一部分时间待在大英博物馆",
-    "zh_hant": "我晚上有一部分時間待在大英博物館"
+    "zh": "我夜里有一部分时间在大英博物馆度过，",
+    "zh_hant": "我夜裡有一部分時間在大英博物館度過，"
   },
   {
-    "index": 77,
+    "index": 68,
     "text": "waiting for the Bayeux Tapestry and seeing the tapestry arriving in the track.",
     "start": 302.701,
     "end": 307.504,
-    "zh": "等待贝叶挂毯，看着它抵达卡车里。",
-    "zh_hant": "等待貝葉掛毯，看著它抵達卡車裡。"
+    "zh": "等待贝叶挂毯，看着它随卡车抵达。",
+    "zh_hant": "等待貝葉掛毯，看著它隨卡車抵達。"
   },
   {
-    "index": 78,
+    "index": 69,
     "text": "What does it mean for me?",
     "start": 308.044,
     "end": 309.825,
-    "zh": "这对我来说意味着什么？",
-    "zh_hant": "這對我來說意味著什麼？"
+    "zh": "这对我意味着什么？",
+    "zh_hant": "這對我意味著什麼？"
   },
   {
-    "index": 79,
-    "text": "My main job is fostering bilateral relations between UK",
+    "index": 70,
+    "text": "My main job is fostering bilateral relations between UK and France,",
     "start": 310.986,
-    "end": 317.268,
+    "end": 318.249,
     "zh": "我的主要工作是促进英法双边关系，",
     "zh_hant": "我的主要工作是促進英法雙邊關係，"
   },
   {
-    "index": 80,
-    "text": "and France,",
-    "start": 316.988,
-    "end": 318.249,
-    "zh": "法国和英国之间，",
-    "zh_hant": "法國和英國之間，"
-  },
-  {
-    "index": 81,
-    "text": "and this loan is an exceptional moment",
+    "index": 71,
+    "text": "and this loan is an exceptional moment in this bilateral relation,",
     "start": 318.469,
-    "end": 323.032,
-    "zh": "这次出借是双边关系中的",
-    "zh_hant": "這次出借是雙邊關係中的"
-  },
-  {
-    "index": 82,
-    "text": "in this bilateral relation,",
-    "start": 323.532,
     "end": 325.913,
-    "zh": "一个特殊时刻，",
-    "zh_hant": "一個特殊時刻，"
+    "zh": "这次借展是双边关系中的一个非凡时刻，",
+    "zh_hant": "這次借展是雙邊關係中的一個非凡時刻，"
   },
   {
-    "index": 83,
+    "index": 72,
     "text": "is the moment where we show how close our ties are.",
     "start": 325.993,
     "end": 330.956,
-    "zh": "是我们展示彼此联系多么紧密的时刻。",
-    "zh_hant": "是我們展示彼此聯絡多麼緊密的時刻。"
+    "zh": "是我们展示两国纽带有多紧密的时刻。",
+    "zh_hant": "是我們展示兩國紐帶有多緊密的時刻。"
   },
   {
-    "index": 84,
-    "text": "You probably know that it is the first time",
+    "index": 73,
+    "text": "You probably know that it is the first time that the Bayeux Tapestry",
     "start": 331.076,
-    "end": 334.577,
-    "zh": "你可能知道，这是贝叶挂毯",
-    "zh_hant": "你可能知道，這是貝葉掛毯"
+    "end": 336.538,
+    "zh": "你可能知道，这是贝叶挂毯第一次",
+    "zh_hant": "你可能知道，這是貝葉掛毯第一次"
   },
   {
-    "index": 85,
-    "text": "that the Bayeux Tapestry has left France.",
-    "start": 334.618,
+    "index": 74,
+    "text": "has left France.",
+    "start": 336.799,
     "end": 338.92,
-    "zh": "首次离开法国。",
-    "zh_hant": "首次離開法國。"
+    "zh": "离开法国。",
+    "zh_hant": "離開法國。"
   },
   {
-    "index": 86,
+    "index": 75,
     "text": "It has been a big endeavor to protect it",
     "start": 339.66,
     "end": 345.483,
-    "zh": "保护它并给它安全旅行的",
-    "zh_hant": "保護它並給它安全旅行的"
+    "zh": "保护它并让它安全出行，是一项很大的努力。",
+    "zh_hant": "保護它並讓它安全出行，是一項很大的努力。"
   },
   {
-    "index": 87,
-    "text": "and give it the possibility to travel",
+    "index": 76,
+    "text": "and give it the possibility to travel in safe ways.",
     "start": 345.133,
-    "end": 349.025,
-    "zh": "可能性，是一项巨大的努力",
-    "zh_hant": "可能性，是一項巨大的努力"
-  },
-  {
-    "index": 88,
-    "text": "in safe ways.",
-    "start": 349.725,
     "end": 351.826,
-    "zh": "保障安全的方式。",
-    "zh_hant": "保障安全的方式。"
+    "zh": "这也是一个巨大的工程。",
+    "zh_hant": "這也是一個巨大的工程。"
   },
   {
-    "index": 89,
+    "index": 77,
     "text": "It's also a goal that was announced in 2018,",
     "start": 355.148,
     "end": 359.521,
@@ -720,7 +624,7 @@
     "zh_hant": "這也是2018年宣佈的一個目標，"
   },
   {
-    "index": 90,
+    "index": 78,
     "text": "and that has been confirmed by President Macron in 2025,",
     "start": 359.571,
     "end": 364.543,
@@ -728,79 +632,71 @@
     "zh_hant": "並在2025年由馬克龍總統確認，"
   },
   {
-    "index": 91,
+    "index": 79,
     "text": "when he came back to the UK for the state visit.",
     "start": 364.593,
     "end": 369.255,
-    "zh": "当时他回英国进行国事访问。",
-    "zh_hant": "當時他回英國進行國事訪問。"
+    "zh": "当时他回到英国进行国事访问。",
+    "zh_hant": "當時他回到英國進行國事訪問。"
   },
   {
-    "index": 92,
+    "index": 80,
     "text": "And it's also a human endeavour,",
     "start": 369.916,
     "end": 373.057,
-    "zh": "这也是一个人力的努力，",
-    "zh_hant": "這也是一個人力的努力，"
+    "zh": "这也是一项人道主义的努力，",
+    "zh_hant": "這也是一項人道主義的努力，"
   },
   {
-    "index": 93,
-    "text": "with French and British teams working together,",
+    "index": 81,
+    "text": "with French and British teams working together, with curators,",
     "start": 372.757,
-    "end": 376.599,
-    "zh": "法英团队合作，",
-    "zh_hant": "法英團隊合作，"
+    "end": 378.039,
+    "zh": "法英团队协作，有策展人，",
+    "zh_hant": "法英團隊協作，有策展人，"
   },
   {
-    "index": 94,
-    "text": "with curators, with restorers, with specialists, to make it possible.",
-    "start": 376.599,
+    "index": 82,
+    "text": "with restorers, with specialists, to make it possible.",
+    "start": 377.689,
     "end": 381.861,
-    "zh": "策展人、修复师、专家一起努力，让它成为可能。",
-    "zh_hant": "策展人、修復師、專家一起努力，讓它成為可能。"
+    "zh": "有修复师，有专家，共同努力才让它成为可能。",
+    "zh_hant": "有修復師，有專家，共同努力才讓它成為可能。"
   },
   {
-    "index": 95,
+    "index": 83,
     "text": "So it's an extraordinary story, as our common history is,",
     "start": 381.982,
     "end": 387.164,
-    "zh": "所以这是一个非凡的故事，就像我们共同的历史一样，",
-    "zh_hant": "所以這是一個非凡的故事，就像我們共同的歷史一樣，"
+    "zh": "所以这是一个非凡的故事，正如我们共同的历史一样，",
+    "zh_hant": "所以這是一個非凡的故事，正如我們共同的歷史一樣，"
   },
   {
-    "index": 96,
+    "index": 84,
     "text": "and it's also a message for the future.",
     "start": 387.284,
     "end": 390.786,
-    "zh": "也是对未来的一个信息。",
-    "zh_hant": "也是對未來的一個資訊。"
+    "zh": "它也是对未来的一个信息。",
+    "zh_hant": "它也是對未來的一個資訊。"
   },
   {
-    "index": 97,
+    "index": 85,
     "text": "That means that our story builds on wars.",
     "start": 390.726,
     "end": 394.427,
-    "zh": "这意味着我们的故事建立在战争之上。",
-    "zh_hant": "這意味著我們的故事建立在戰爭之上。"
+    "zh": "这意味着我们的历史建立在战争之上。",
+    "zh_hant": "這意味著我們的歷史建立在戰爭之上。"
   },
   {
-    "index": 98,
-    "text": "On the thing we did, at this moment is also a sign for the future, now",
+    "index": 86,
+    "text": "On the thing we did, at this moment is also a sign for the future, now we are building on peace.",
     "start": 394.077,
-    "end": 399.71,
-    "zh": "我们做的这件事，此刻也是面向未来的信号，现在",
-    "zh_hant": "我們做的這件事，此刻也是面向未來的訊號，現在"
-  },
-  {
-    "index": 99,
-    "text": "we are building on peace.",
-    "start": 399.36,
     "end": 401.011,
-    "zh": "我们正建设在和平之上。",
-    "zh_hant": "我們正建設在和平之上。"
+    "zh": "此刻我们做的事情也是对未来的一个信号，现在我们正在建设和平。",
+    "zh_hant": "此刻我們做的事情也是對未來的一個訊號，現在我們正在建設和平。"
   },
   {
-    "index": 100,
+    "index": 87,
     "text": "And we have been working for peace together.",
     "start": 400.951,
     "end": 404.173,
@@ -808,119 +704,95 @@
     "zh_hant": "我們一直在為和平共同努力。"
   },
   {
-    "index": 101,
+    "index": 88,
     "text": "You remember the Entente Cordiale,",
     "start": 405.253,
     "end": 407.534,
-    "zh": "你记得《英法协约》，",
-    "zh_hant": "你記得《英法協約》，"
+    "zh": "你们记得《友好协约》，",
+    "zh_hant": "你們記得《友好協約》，"
   },
   {
-    "index": 102,
-    "text": "you remember Churchill and de Gaulle working",
+    "index": 89,
+    "text": "you remember Churchill and de Gaulle working for, fighting for the peace of Europe,",
     "start": 407.184,
-    "end": 410.956,
-    "zh": "你记得丘吉尔和戴高乐为欧洲和平",
-    "zh_hant": "你記得丘吉爾和戴高樂為歐洲和平"
-  },
-  {
-    "index": 103,
-    "text": "for, fighting for the peace of Europe,",
-    "start": 410.606,
     "end": 414.318,
-    "zh": "奋斗、战斗，",
-    "zh_hant": "奮鬥、戰鬥，"
+    "zh": "你们记得丘吉尔和戴高乐为欧洲和平而奋斗、而战斗，",
+    "zh_hant": "你們記得丘吉爾和戴高樂為歐洲和平而奮鬥、而戰鬥，"
   },
   {
-    "index": 104,
+    "index": 90,
     "text": "and now we are side by side when we see the war coming back.",
     "start": 414.778,
     "end": 420.04,
-    "zh": "而如今当我们看到战争卷土重来时，我们并肩而立。",
-    "zh_hant": "而如今當我們看到戰爭捲土重來時，我們並肩而立。"
+    "zh": "而现在，当我们看到战争卷土重来时，我们并肩站在一起。",
+    "zh_hant": "而現在，當我們看到戰爭捲土重來時，我們並肩站在一起。"
   },
   {
-    "index": 105,
+    "index": 91,
     "text": "The European continent, we have been building the coalition of the willing.",
     "start": 420.461,
     "end": 425.603,
-    "zh": "在欧洲大陆，我们一直在建设“自愿联盟”。",
-    "zh_hant": "在歐洲大陸，我們一直在建設“自願聯盟”。"
+    "zh": "在欧洲大陆，我们一直在组建“意愿联盟”。",
+    "zh_hant": "在歐洲大陸，我們一直在組建“意願聯盟”。"
   },
   {
-    "index": 106,
+    "index": 92,
     "text": "We are side by side to see and address all the challenges",
     "start": 425.924,
     "end": 431.286,
-    "zh": "我们并肩面对并应对我们时代的所有挑战，",
-    "zh_hant": "我們並肩面對並應對我們時代的所有挑戰，"
+    "zh": "我们并肩面对和处理所有挑战，",
+    "zh_hant": "我們並肩面對和處理所有挑戰，"
   },
   {
-    "index": 107,
+    "index": 93,
     "text": "of our time, and they are numerous.",
     "start": 431.186,
     "end": 433.747,
-    "zh": "而这些挑战为数众多。",
-    "zh_hant": "而這些挑戰為數眾多。"
+    "zh": "这些挑战数不胜数。",
+    "zh_hant": "這些挑戰數不勝數。"
   },
   {
-    "index": 108,
-    "text": "So it's a message for the past,",
+    "index": 94,
+    "text": "So it's a message for the past, but this tapestry is an unfinished tapestry,",
     "start": 433.397,
-    "end": 436.348,
-    "zh": "所以它是对过去的一个信息，",
-    "zh_hant": "所以它是對過去的一個資訊，"
-  },
-  {
-    "index": 109,
-    "text": "but this tapestry is an unfinished tapestry,",
-    "start": 436.609,
     "end": 440.411,
-    "zh": "但这条挂毯是一条未完成的挂毯，",
-    "zh_hant": "但這條掛毯是一條未完成的掛毯，"
+    "zh": "所以这是对过去的一个信息，但这条挂毯是一条未完成的挂毯，",
+    "zh_hant": "所以這是對過去的一個資訊，但這條掛毯是一條未完成的掛毯，"
   },
   {
-    "index": 110,
-    "text": "and it's also the message that the future is also us,",
+    "index": 95,
+    "text": "and it's also the message that the future is also us, and we have to build it together.",
     "start": 440.151,
-    "end": 445.033,
-    "zh": "它也在传达未来属于我们，",
-    "zh_hant": "它也在傳達未來屬於我們，"
-  },
-  {
-    "index": 111,
-    "text": "and we have to build it together.",
-    "start": 444.733,
     "end": 446.854,
-    "zh": "我们必须共同建设它。",
-    "zh_hant": "我們必須共同建設它。"
+    "zh": "它也传达着这样的信息：未来也属于我们，我们必须共同去构建。",
+    "zh_hant": "它也傳達著這樣的資訊：未來也屬於我們，我們必須共同去構建。"
   },
   {
-    "index": 112,
+    "index": 96,
     "text": "So I think it's a very strong message from the past, but also for the future.",
     "start": 446.714,
     "end": 451.776,
-    "zh": "所以我认为这是来自过去的强烈信息，也是面向未来的。",
-    "zh_hant": "所以我認為這是來自過去的強烈資訊，也是面向未來的。"
+    "zh": "所以我认为这是来自过去的强烈信息，同时也是面向未来的。",
+    "zh_hant": "所以我認為這是來自過去的強烈資訊，同時也是面向未來的。"
   },
   {
-    "index": 113,
+    "index": 97,
     "text": "Well, Didier Reitner is the founder and chief editor of Tribune de l'Art.",
     "start": 452.717,
     "end": 456.799,
-    "zh": "好了，迪迪埃·赖特纳是《艺术论坛》的创始人和主编。",
-    "zh_hant": "好了，迪迪埃·賴特納是《藝術論壇》的創始人和主編。"
+    "zh": "迪迪埃·赖特纳是《艺术论坛》的创始人和主编。",
+    "zh_hant": "迪迪埃·賴特納是《藝術論壇》的創始人和主編。"
   },
   {
-    "index": 114,
+    "index": 98,
     "text": "He told my colleague Taigan Wright he thinks it's too much of a risk moving the tapestry.",
     "start": 456.449,
     "end": 461.501,
-    "zh": "他告诉我的同事泰根·赖特，他认为搬迁这条挂毯风险太大。",
-    "zh_hant": "他告訴我的同事泰根·賴特，他認為搬遷這條掛毯風險太大。"
+    "zh": "他告诉我的同事泰根·赖特，他认为搬动挂毯风险太大了。",
+    "zh_hant": "他告訴我的同事泰根·賴特，他認為搬動掛毯風險太大了。"
   },
   {
-    "index": 115,
+    "index": 99,
     "text": "I am against this decision.",
     "start": 462.462,
     "end": 464.303,
@@ -928,107 +800,99 @@
     "zh_hant": "我反對這個決定。"
   },
   {
-    "index": 116,
-    "text": "I think we are gambling with a work of art",
+    "index": 100,
+    "text": "I think we are gambling with a work of art which is 1,000 years old,",
     "start": 464.603,
-    "end": 468.224,
-    "zh": "我觉得我们是在拿一件有1000年历史的艺术品",
-    "zh_hant": "我覺得我們是在拿一件有1000年曆史的藝術品"
+    "end": 470.786,
+    "zh": "我觉得我们是在拿一件有1000年历史的艺术品当赌注，",
+    "zh_hant": "我覺得我們是在拿一件有1000年曆史的藝術品當賭注，"
   },
   {
-    "index": 117,
-    "text": "which is 1,000 years old, and there is no equivalent anywhere in the world.",
-    "start": 468.325,
+    "index": 101,
+    "text": "and there is no equivalent anywhere in the world.",
+    "start": 470.526,
     "end": 473.867,
-    "zh": "做赌注，而且世界上没有任何同类物品。",
-    "zh_hant": "做賭注，而且世界上沒有任何同類物品。"
+    "zh": "这在世界上没有任何同类可与之相比。",
+    "zh_hant": "這在世界上沒有任何同類可與之相比。"
   },
   {
-    "index": 118,
+    "index": 102,
     "text": "So it's a gambling, and I don't think you can gamble with such a work.",
     "start": 474.188,
     "end": 479.43,
-    "zh": "所以这是赌博，我不认为可以对这样的作品赌博。",
-    "zh_hant": "所以這是賭博，我不認為可以對這樣的作品賭博。"
+    "zh": "所以这是一场赌博，我认为你不能拿这样的作品去赌。",
+    "zh_hant": "所以這是一場賭博，我認為你不能拿這樣的作品去賭。"
   },
   {
-    "index": 119,
-    "text": "The point is, they don't know how the tapestry,",
+    "index": 103,
+    "text": "The point is, they don't know how the tapestry, which is an embroidery",
     "start": 479.391,
-    "end": 483.433,
-    "zh": "问题是，他们不知道这条挂毯，",
-    "zh_hant": "問題是，他們不知道這條掛毯，"
+    "end": 485.294,
+    "zh": "关键在于，他们不知道这条挂毯——它其实是一件刺绣——",
+    "zh_hant": "關鍵在於，他們不知道這條掛毯——它其實是一件刺繡——"
   },
   {
-    "index": 120,
-    "text": "which is an embroidery actually,",
-    "start": 483.593,
-    "end": 485.914,
-    "zh": "其实它是一件刺绣品，",
-    "zh_hant": "其實它是一件刺繡品，"
-  },
-  {
-    "index": 121,
-    "text": "they don't know how it will arrive at the British Museum.",
-    "start": 485.994,
+    "index": 104,
+    "text": "actually, they don't know how it will arrive at the British Museum.",
+    "start": 485.074,
     "end": 492.377,
-    "zh": "他们不知道它会以什么状态到达大英博物馆。",
-    "zh_hant": "他們不知道它會以什麼狀態到達大英博物館。"
+    "zh": "他们不知道它将如何抵达大英博物馆。",
+    "zh_hant": "他們不知道它將如何抵達大英博物館。"
   },
   {
-    "index": 122,
+    "index": 105,
     "text": "They don't know what will happen when they unpack it.",
     "start": 492.878,
     "end": 497.28,
-    "zh": "他们不知道打开包装时会出什么事。",
-    "zh_hant": "他們不知道開啟包裝時會出什麼事。"
+    "zh": "他们不知道拆包时会发生什么。",
+    "zh_hant": "他們不知道拆包時會發生什麼。"
   },
   {
-    "index": 123,
+    "index": 106,
     "text": "And after one, there is a return back, the return,",
     "start": 497.88,
     "end": 501.822,
-    "zh": "而且之后，还有回程，就是返程，",
-    "zh_hant": "而且之後，還有回程，就是返程，"
+    "zh": "而且之后还有一次回程运输，",
+    "zh_hant": "而且之後還有一次回程運輸，"
   },
   {
-    "index": 124,
+    "index": 107,
     "text": "and they did all they could,",
     "start": 502.002,
     "end": 504.904,
-    "zh": "他们做了所有能做的，",
-    "zh_hant": "他們做了所有能做的，"
+    "zh": "他们确实做了力所能及的一切，",
+    "zh_hant": "他們確實做了力所能及的一切，"
   },
   {
-    "index": 125,
+    "index": 108,
     "text": "but they didn't study the way the tapestry react with the vibrations.",
     "start": 504.664,
     "end": 510.907,
-    "zh": "但他们没有研究挂毯对震动的反应方式。",
-    "zh_hant": "但他們沒有研究掛毯對震動的反應方式。"
+    "zh": "但他们并没有研究挂毯对震动的反应。",
+    "zh_hant": "但他們並沒有研究掛毯對震動的反應。"
   },
   {
-    "index": 126,
+    "index": 109,
     "text": "They don't know at all.",
     "start": 510.567,
     "end": 511.827,
-    "zh": "他们完全不清楚。",
-    "zh_hant": "他們完全不清楚。"
+    "zh": "他们完全不知道。",
+    "zh_hant": "他們完全不知道。"
   },
   {
-    "index": 127,
+    "index": 110,
     "text": "So they did what...",
     "start": 511.728,
     "end": 513.308,
-    "zh": "所以他们做了……",
-    "zh_hant": "所以他們做了……"
+    "zh": "所以他们做了能做的……",
+    "zh_hant": "所以他們做了能做的……"
   },
   {
-    "index": 128,
+    "index": 111,
     "text": "They could, but it's — I repeat, it's — a grumbling.",
     "start": 512.958,
     "end": 516.65,
-    "zh": "他们能做的，但这是——我再说一遍——这是赌博。",
-    "zh_hant": "他們能做的，但這是——我再說一遍——這是賭博。"
+    "zh": "但他们能做的就这些——但我要重复一遍——这是在赌博。",
+    "zh_hant": "但他們能做的就這些——但我要重複一遍——這是在賭博。"
   }
 ]

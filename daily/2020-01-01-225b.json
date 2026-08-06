@@ -11,7 +11,7 @@
     "index": 1,
     "text": "Back in the old country.",
     "start": 2.311,
-    "end": 8.414,
+    "end": 4.19,
     "zh": "回到故国。",
     "zh_hant": "回到故國。"
   },
@@ -20,43 +20,35 @@
     "text": "Did the narrater find his mother's grave?",
     "start": 9.535,
     "end": 12.416,
-    "zh": "叙述者找到他母亲的坟墓了吗？",
-    "zh_hant": "敘述者找到他母親的墳墓了嗎？"
+    "zh": "叙述者找到母亲的坟墓了吗？",
+    "zh_hant": "敘述者找到母親的墳墓了嗎？"
   },
   {
     "index": 3,
     "text": "I stopped to let the car cool off and to study the map.",
     "start": 14.057,
     "end": 17.839,
-    "zh": "我停下来让汽车冷却，并查看地图。",
-    "zh_hant": "我停下來讓汽車冷卻，並檢視地圖。"
+    "zh": "我停下车让引擎冷却，并查看地图。",
+    "zh_hant": "我停下車讓引擎冷卻，並檢視地圖。"
   },
   {
     "index": 4,
-    "text": "I had expected to be near my objective by now, but everything still seemed",
+    "text": "I had expected to be near my objective by now, but everything still seemed alien to me.",
     "start": 18.319,
-    "end": 24.102,
-    "zh": "我本期望现在能接近目的地，但一切似乎",
-    "zh_hant": "我本期望現在能接近目的地，但一切似乎"
+    "end": 24.922,
+    "zh": "我本以为现在该接近目的地了，但一切对我来说仍然陌生。",
+    "zh_hant": "我本以為現在該接近目的地了，但一切對我來說仍然陌生。"
   },
   {
     "index": 5,
-    "text": "alien to me.",
-    "start": 23.782,
-    "end": 24.922,
-    "zh": "对我来说仍然陌生。",
-    "zh_hant": "對我來說仍然陌生。"
-  },
-  {
-    "index": 6,
     "text": "I was only five when my father had taken me abroad, and that was eighteen years ago.",
     "start": 25.703,
     "end": 31.766,
-    "zh": "父亲带我出国时我只有五岁，那是十八年前的事了。",
-    "zh_hant": "父親帶我出國時我只有五歲，那是十八年前的事了。"
+    "zh": "父亲带我出国时我只有五岁，而那已是十八年前的事了。",
+    "zh_hant": "父親帶我出國時我只有五歲，而那已是十八年前的事了。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "When my mother had died after a tragic accident,",
     "start": 32.266,
     "end": 35.788,
@@ -64,55 +56,55 @@
     "zh_hant": "母親在一次悲慘的事故中去世後，"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "he did not quickly recover from the shock and loneliness.",
     "start": 36.288,
     "end": 39.97,
-    "zh": "他没有很快从震惊和孤独中恢复过来。",
-    "zh_hant": "他沒有很快從震驚和孤獨中恢復過來。"
+    "zh": "他久久未能从震惊和孤独中恢复过来。",
+    "zh_hant": "他久久未能從震驚和孤獨中恢復過來。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Everything around him was full of her presence, continually reopening the wound.",
     "start": 40.31,
     "end": 45.733,
-    "zh": "他周围的一切都充满她的痕迹，不断揭开伤口。",
-    "zh_hant": "他周圍的一切都充滿她的痕跡，不斷揭開傷口。"
+    "zh": "他周围的一切都充满她的影子，不断揭开伤痛。",
+    "zh_hant": "他周圍的一切都充滿她的影子，不斷揭開傷痛。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "So he decided to emigrate.",
     "start": 45.993,
     "end": 48.074,
-    "zh": "于是他决定移居国外。",
-    "zh_hant": "於是他決定移居國外。"
+    "zh": "于是他决定移民。",
+    "zh_hant": "於是他決定移民。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "In the new country he became absorbed in making a new life for the two of us,",
     "start": 48.354,
     "end": 53.257,
-    "zh": "在新国家，他专注于为我们俩创造新生活，",
-    "zh_hant": "在新國家，他專注於為我們倆創造新生活，"
+    "zh": "在新国家，他全身心投入为我俩创造新生活，",
+    "zh_hant": "在新國家，他全身心投入為我倆創造新生活，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "so that he gradually ceased to grieve.",
     "start": 53.417,
     "end": 56.258,
-    "zh": "因此他逐渐不再悲伤。",
-    "zh_hant": "因此他逐漸不再悲傷。"
+    "zh": "渐渐地，他不再那么悲伤了。",
+    "zh_hant": "漸漸地，他不再那麼悲傷了。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "He did not marry again and I was brought up without a woman's care;",
     "start": 56.939,
     "end": 61.321,
-    "zh": "他没有再婚，我在没有女性照顾的环境中长大；",
-    "zh_hant": "他沒有再婚，我在沒有女性照顧的環境中長大；"
+    "zh": "他没有再婚，我是在没有女性关怀的环境中长大的；",
+    "zh_hant": "他沒有再婚，我是在沒有女性關懷的環境中長大的；"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "but I lacked for nothing, for he was both father and mother to me.",
     "start": 61.521,
     "end": 66.403,
@@ -120,79 +112,71 @@
     "zh_hant": "但我什麼都不缺，因為他對我既是父親又是母親。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "He always meant to go back one day, but not to stay.",
     "start": 66.844,
     "end": 70.465,
-    "zh": "他一直想有一天回去，但不是为了留下。",
-    "zh_hant": "他一直想有一天回去，但不是為了留下。"
+    "zh": "他一直想有朝一日回去，但不是为了定居。",
+    "zh_hant": "他一直想有朝一日回去，但不是為了定居。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "His roots and mine had become too firmly embedded in the new land.",
     "start": 70.586,
     "end": 75.188,
-    "zh": "他和我的根已经深深扎在新土地上。",
-    "zh_hant": "他和我的根已經深深紮在新土地上。"
+    "zh": "他和我的根都已经深深扎在这片新土地上了。",
+    "zh_hant": "他和我的根都已經深深紮在這片新土地上了。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "But he wanted to see the old folk againand to visit my mother's grave.",
     "start": 75.468,
     "end": 79.81,
-    "zh": "但他想再看看乡亲们，并去母亲的墓前祭扫。",
-    "zh_hant": "但他想再看看鄉親們，並去母親的墓前祭掃。"
+    "zh": "但他想再见见老家的人，并探望母亲的坟墓。",
+    "zh_hant": "但他想再見見老家的人，並探望母親的墳墓。"
+  },
+  {
+    "index": 17,
+    "text": "He became mortally ill a few months before we had planned to go and, when he knew that he was dying,",
+    "start": 80.25,
+    "end": 87.694,
+    "zh": "在我们计划出发前几个月，他病入膏肓，当他知道自己时日无多时，",
+    "zh_hant": "在我們計劃出發前幾個月，他病入膏肓，當他知道自己時日無多時，"
   },
   {
     "index": 18,
-    "text": "He became mortally ill a few months before",
-    "start": 80.25,
-    "end": 83.192,
-    "zh": "在我们计划出发前几个月，他患了绝症，",
-    "zh_hant": "在我們計劃出發前幾個月，他患了絕症，"
-  },
-  {
-    "index": 19,
-    "text": "we had planned to go and, when he knew that he was dying,",
-    "start": 82.842,
-    "end": 87.694,
-    "zh": "当他知道自己时日无多时，",
-    "zh_hant": "當他知道自己時日無多時，"
-  },
-  {
-    "index": 20,
     "text": "he made me promise to go on my own.",
     "start": 87.734,
     "end": 90.095,
-    "zh": "他让我答应独自前往。",
-    "zh_hant": "他讓我答應獨自前往。"
+    "zh": "他要我发誓独自前往。",
+    "zh_hant": "他要我發誓獨自前往。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "I hired a car the day after landing and bought a comprehensive book of maps,",
     "start": 91.476,
     "end": 96.878,
-    "zh": "我着陆后的第二天租了一辆车，并买了一本详尽的地图册，",
-    "zh_hant": "我著陸後的第二天租了一輛車，並買了一本詳盡的地圖冊，"
+    "zh": "我着陆后的第二天租了一辆车，并买了一张详尽的地图册，",
+    "zh_hant": "我著陸後的第二天租了一輛車，並買了一張詳盡的地圖冊，"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "which I found most helpful on the cross-country journey,",
     "start": 96.899,
     "end": 100.32,
-    "zh": "我觉得它在越野旅行中非常有用，",
-    "zh_hant": "我覺得它在越野旅行中非常有用，"
+    "zh": "在穿越乡间的旅程中，这张地图帮了大忙，",
+    "zh_hant": "在穿越鄉間的旅程中，這張地圖幫了大忙，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "but which I did not think I should need on the last stage.",
     "start": 100.52,
     "end": 104.202,
-    "zh": "但我想在最后一段路上不需要它。",
-    "zh_hant": "但我想在最後一段路上不需要它。"
+    "zh": "但我本以为最后一段路用不着它。",
+    "zh_hant": "但我本以為最後一段路用不著它。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "It was not that I actually remembered anything at all.",
     "start": 104.562,
     "end": 108.144,
@@ -200,39 +184,39 @@
     "zh_hant": "並不是我真的記得什麼。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "But my father had described over and over again",
     "start": 108.504,
     "end": 112.286,
-    "zh": "但父亲反复描述过",
-    "zh_hant": "但父親反覆描述過"
+    "zh": "而是父亲一遍又一遍地描述过",
+    "zh_hant": "而是父親一遍又一遍地描述過"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "what we should see at every milestone after leaving the nearest town,",
     "start": 112.266,
     "end": 117.228,
-    "zh": "离开最近的小镇后，在每个里程碑我们会看到什么，",
-    "zh_hant": "離開最近的小鎮後，在每個里程碑我們會看到什麼，"
+    "zh": "离开最近的小镇后，每到一处里程碑应该看到什么，",
+    "zh_hant": "離開最近的小鎮後，每到一處里程碑應該看到什麼，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "so that I was positive I should recognize it as familiar territory.",
     "start": 117.669,
     "end": 122.431,
-    "zh": "所以我确信我会认出这是熟悉的地方。",
-    "zh_hant": "所以我確信我會認出這是熟悉的地方。"
+    "zh": "所以我确信自己会认出那是熟悉的地方。",
+    "zh_hant": "所以我確信自己會認出那是熟悉的地方。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Well, I had been wrong, for I was now lost.",
     "start": 122.892,
     "end": 127.294,
-    "zh": "好吧，我错了，因为我现在迷路了。",
-    "zh_hant": "好吧，我錯了，因為我現在迷路了。"
+    "zh": "唉，我错了，因为我现在迷路了。",
+    "zh_hant": "唉，我錯了，因為我現在迷路了。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "I looked at the map and then at the milometer.",
     "start": 127.774,
     "end": 130.996,
@@ -240,171 +224,147 @@
     "zh_hant": "我看了看地圖，又看了看里程錶。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "I had come ten miles since leaving the town and at this point,",
     "start": 131.376,
     "end": 136.158,
-    "zh": "离开小镇后我已行驶了十英里，而此时，",
-    "zh_hant": "離開小鎮後我已行駛了十英里，而此時，"
+    "zh": "离开小镇后我已经开了十英里，而在这个位置，",
+    "zh_hant": "離開小鎮後我已經開了十英里，而在這個位置，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "according to my father, I should be looking at farms and cottages in a valley,",
     "start": 136.338,
     "end": 142.261,
-    "zh": "根据父亲的说法，我应该看到山谷里的农场和村舍，",
-    "zh_hant": "根據父親的說法，我應該看到山谷裡的農場和村舍，"
+    "zh": "按照父亲的说法，我应该看到山谷里的农场和农舍，",
+    "zh_hant": "按照父親的說法，我應該看到山谷裡的農場和農舍，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "with the spire of the church of our village showing in the far distance.",
     "start": 142.461,
     "end": 147.003,
-    "zh": "远处还能看到我们村子教堂的尖顶。",
-    "zh_hant": "遠處還能看到我們村子教堂的尖頂。"
+    "zh": "远处还能看到我们村教堂的尖塔。",
+    "zh_hant": "遠處還能看到我們村教堂的尖塔。"
   },
   {
-    "index": 33,
-    "text": "I could see no valley, no farms, no cottages",
+    "index": 31,
+    "text": "I could see no valley, no farms, no cottages and no church spire-only a lake.",
     "start": 147.644,
-    "end": 151.506,
-    "zh": "我看不到山谷、农场、村舍，",
-    "zh_hant": "我看不到山谷、農場、村舍，"
-  },
-  {
-    "index": 34,
-    "text": "and no church spire-only a lake.",
-    "start": 151.156,
     "end": 154.327,
-    "zh": "也看不到教堂尖顶——只有一片湖。",
-    "zh_hant": "也看不到教堂尖頂——只有一片湖。"
+    "zh": "我却看不到山谷，看不到农场，看不到农舍，也看不到教堂尖塔——只有一片湖。",
+    "zh_hant": "我卻看不到山谷，看不到農場，看不到農舍，也看不到教堂尖塔——只有一片湖。"
   },
   {
-    "index": 35,
+    "index": 32,
     "text": "I decided that I must have taken a wrong turning somewhere.",
     "start": 154.848,
     "end": 158.609,
-    "zh": "我断定我肯定在某个地方拐错了弯。",
-    "zh_hant": "我斷定我肯定在某個地方拐錯了彎。"
+    "zh": "我断定自己一定在某个地方拐错了弯。",
+    "zh_hant": "我斷定自己一定在某個地方拐錯了彎。"
   },
   {
-    "index": 36,
-    "text": "So I drove back to the town and began to retrace the route,",
+    "index": 33,
+    "text": "So I drove back to the town and began to retrace the route, taking frequent glances at the map.",
     "start": 159.17,
-    "end": 163.412,
-    "zh": "于是我开车回到小镇，开始原路折返，",
-    "zh_hant": "於是我開車回到小鎮，開始原路折返，"
-  },
-  {
-    "index": 37,
-    "text": "taking frequent glances at the map.",
-    "start": 163.632,
     "end": 166.133,
-    "zh": "频繁地查看地图。",
-    "zh_hant": "頻繁地檢視地圖。"
+    "zh": "于是我开回小镇，开始沿着原路返回，频繁地查看地图。",
+    "zh_hant": "於是我開回小鎮，開始沿著原路返回，頻繁地檢視地圖。"
   },
   {
-    "index": 38,
+    "index": 34,
     "text": "I landed up at the same corner.",
     "start": 166.454,
     "end": 168.795,
-    "zh": "我最终停在了同一个拐角。",
-    "zh_hant": "我最終停在了同一個拐角。"
+    "zh": "结果又到了同一个拐角。",
+    "zh_hant": "結果又到了同一個拐角。"
   },
   {
-    "index": 39,
+    "index": 35,
     "text": "The curious thing was that the lake was not marked on the map.",
     "start": 169.175,
     "end": 173.157,
-    "zh": "奇怪的是，这片湖没有在地图上标出。",
-    "zh_hant": "奇怪的是，這片湖沒有在地圖上標出。"
+    "zh": "奇怪的是，地图上并没有标出这片湖。",
+    "zh_hant": "奇怪的是，地圖上並沒有標出這片湖。"
   },
   {
-    "index": 40,
+    "index": 36,
     "text": "I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams.",
     "start": 173.277,
     "end": 179.26,
-    "zh": "我感觉自己像闯进了一个噩梦般的地方，就像有时在梦中那样。",
-    "zh_hant": "我感覺自己像闖進了一個噩夢般的地方，就像有時在夢中那樣。"
+    "zh": "我感觉自己像闯入了噩梦般的地方，就像你有时在梦中经历的那样。",
+    "zh_hant": "我感覺自己像闖入了噩夢般的地方，就像你有時在夢中經歷的那樣。"
   },
   {
-    "index": 41,
+    "index": 37,
     "text": "And, as in a nightmare, there was nobody in sight to help me.",
     "start": 179.54,
     "end": 184.002,
-    "zh": "而且，像在噩梦中一样，周围看不到任何人来帮我。",
-    "zh_hant": "而且，像在噩夢中一樣，周圍看不到任何人來幫我。"
+    "zh": "而且就像在噩梦中一样，四周看不到任何人帮我。",
+    "zh_hant": "而且就像在噩夢中一樣，四周看不到任何人幫我。"
   },
   {
-    "index": 42,
+    "index": 38,
     "text": "Fortunately for me, as I was wondering what to do next,",
     "start": 184.403,
     "end": 188.425,
-    "zh": "幸运的是，正当我不知道下一步该怎么办时，",
-    "zh_hant": "幸運的是，正當我不知道下一步該怎麼辦時，"
+    "zh": "幸运的是，正当我琢磨下一步怎么办时，",
+    "zh_hant": "幸運的是，正當我琢磨下一步怎麼辦時，"
   },
   {
-    "index": 43,
+    "index": 39,
     "text": "there appeared on the horizon a man on horseback, riding in my direction.",
     "start": 188.525,
     "end": 193.487,
-    "zh": "地平线上出现了一个骑马的人，朝我的方向过来。",
-    "zh_hant": "地平線上出現了一個騎馬的人，朝我的方向過來。"
+    "zh": "地平线上出现了一个骑马的人，朝我这边驶来。",
+    "zh_hant": "地平線上出現了一個騎馬的人，朝我這邊駛來。"
   },
   {
-    "index": 44,
+    "index": 40,
     "text": "I waited till he came near, then I asked him the way to our old village.",
     "start": 194.008,
     "end": 198.69,
-    "zh": "我等他走近，然后问他去我们老村子的路。",
-    "zh_hant": "我等他走近，然後問他去我們老村子的路。"
+    "zh": "我等他走近，然后问他去我们老村的路。",
+    "zh_hant": "我等他走近，然後問他去我們老村的路。"
   },
   {
-    "index": 45,
+    "index": 41,
     "text": "He said that there was now no village.",
     "start": 199.391,
     "end": 202.113,
-    "zh": "他说现在没有村庄了。",
-    "zh_hant": "他說現在沒有村莊了。"
+    "zh": "他说现在那个村子已经不存在了。",
+    "zh_hant": "他說現在那個村子已經不存在了。"
   },
   {
-    "index": 46,
+    "index": 42,
     "text": "I thought he must have misunderstood me, so I repeated its name.",
     "start": 202.613,
     "end": 207.617,
-    "zh": "我以为他一定误解了我的意思，于是又重复了一遍名字。",
-    "zh_hant": "我以為他一定誤解了我的意思，於是又重複了一遍名字。"
+    "zh": "我想他一定是听错了，于是又重复了一遍村名。",
+    "zh_hant": "我想他一定是聽錯了，於是又重複了一遍村名。"
   },
   {
-    "index": 47,
+    "index": 43,
     "text": "This time he pointed to the lake.",
     "start": 208.098,
     "end": 210.7,
-    "zh": "这次他指了指那片湖。",
-    "zh_hant": "這次他指了指那片湖。"
+    "zh": "这次他指向了那片湖。",
+    "zh_hant": "這次他指向了那片湖。"
   },
   {
-    "index": 48,
-    "text": "The village no longer existed because it had been submerged,",
+    "index": 44,
+    "text": "The village no longer existed because it had been submerged, and all the valley too.",
     "start": 211.14,
-    "end": 215.984,
-    "zh": "村庄已经不存在了，因为它被水淹没了，",
-    "zh_hant": "村莊已經不存在了，因為它被水淹沒了，"
-  },
-  {
-    "index": 49,
-    "text": "and all the valley too.",
-    "start": 215.964,
     "end": 217.926,
-    "zh": "整个山谷也一样。",
-    "zh_hant": "整個山谷也一樣。"
+    "zh": "村子已经不存在了，因为整个山谷都被水淹没了。",
+    "zh_hant": "村子已經不存在了，因為整個山谷都被水淹沒了。"
   },
   {
-    "index": 50,
+    "index": 45,
     "text": "The lake was not a natural one, but a man-made reservoir.",
     "start": 218.446,
     "end": 223.05,
-    "zh": "这片湖不是天然的，而是一个人造水库。",
-    "zh_hant": "這片湖不是天然的，而是一個人造水庫。"
+    "zh": "那片湖不是天然的，而是一座人工水库。",
+    "zh_hant": "那片湖不是天然的，而是一座人工水庫。"
   }
 ]

@@ -12,8 +12,8 @@
     "text": "Our neighbour, the river.",
     "start": 5.773,
     "end": 8.914,
-    "zh": "我们的邻居——那条河。",
-    "zh_hant": "我們的鄰居——那條河。"
+    "zh": "我们的邻居，河流。",
+    "zh_hant": "我們的鄰居，河流。"
   },
   {
     "index": 2,
@@ -25,22 +25,14 @@
   },
   {
     "index": 3,
-    "text": "The river which forms the eastern boundary",
+    "text": "The river which forms the eastern boundary of our farm has always played an important part in our lives.",
     "start": 13.897,
-    "end": 17.098,
-    "zh": "那条构成我们农场东部边界的河",
-    "zh_hant": "那條構成我們農場東部邊界的河"
+    "end": 21.16,
+    "zh": "形成我们农场东部边界的河流，一直在我们的生活中扮演着重要角色。",
+    "zh_hant": "形成我們農場東部邊界的河流，一直在我們的生活中扮演著重要角色。"
   },
   {
     "index": 4,
-    "text": "of our farm has always played an important part in our lives.",
-    "start": 16.748,
-    "end": 21.16,
-    "zh": "一直是我们生活中重要的一部分。",
-    "zh_hant": "一直是我們生活中重要的一部分。"
-  },
-  {
-    "index": 5,
     "text": "Without it we could not make a living.",
     "start": 21.221,
     "end": 23.882,
@@ -48,175 +40,143 @@
     "zh_hant": "沒有它，我們無法謀生。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "There is only enough spring water to supply the needs of the house",
     "start": 24.202,
     "end": 28.764,
-    "zh": "泉水只够满足家里的日常用水，",
-    "zh_hant": "泉水只夠滿足家裡的日常用水，"
+    "zh": "只有足够的泉水来满足房子的需求，",
+    "zh_hant": "只有足夠的泉水來滿足房子的需求，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "so we have to pump from the river for farm use.",
     "start": 28.724,
     "end": 32.146,
-    "zh": "所以农场用水得从河里抽。",
-    "zh_hant": "所以農場用水得從河裡抽。"
+    "zh": "所以我们必须从河里抽水供农场使用。",
+    "zh_hant": "所以我們必須從河裡抽水供農場使用。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "We tell the river all our secrets.",
     "start": 32.446,
     "end": 35.067,
-    "zh": "我们把所有秘密都告诉那条河。",
-    "zh_hant": "我們把所有秘密都告訴那條河。"
+    "zh": "我们把所有秘密都告诉河流。",
+    "zh_hant": "我們把所有秘密都告訴河流。"
+  },
+  {
+    "index": 8,
+    "text": "We know instinctively, just as beekeepers with their bees,",
+    "start": 35.308,
+    "end": 40.03,
+    "zh": "我们本能地知道，就像养蜂人对他们的蜜蜂一样，",
+    "zh_hant": "我們本能地知道，就像養蜂人對他們的蜜蜂一樣，"
   },
   {
     "index": 9,
-    "text": "We know instinctively,",
-    "start": 35.308,
-    "end": 37.309,
-    "zh": "我们本能地知道，",
-    "zh_hant": "我們本能地知道，"
+    "text": "that misfortune might overtake us if the important events of our lives were not related to it.",
+    "start": 39.95,
+    "end": 47.154,
+    "zh": "如果我们生活中的重要事件不告诉它，不幸可能会降临到我们头上。",
+    "zh_hant": "如果我們生活中的重要事件不告訴它，不幸可能會降臨到我們頭上。"
   },
   {
     "index": 10,
-    "text": "just as beekeepers with their bees, that misfortune might overtake us if",
-    "start": 37.269,
-    "end": 43.192,
-    "zh": "就像养蜂人对待蜜蜂一样，如果生活中的重大事件没有告诉它，",
-    "zh_hant": "就像養蜂人對待蜜蜂一樣，如果生活中的重大事件沒有告訴它，"
-  },
-  {
-    "index": 11,
-    "text": "the important events of our lives were not related to it.",
-    "start": 42.842,
-    "end": 47.154,
-    "zh": "厄运可能会降临到我们头上。",
-    "zh_hant": "厄運可能會降臨到我們頭上。"
-  },
-  {
-    "index": 12,
     "text": "We have special river birthday parties in the summer.",
     "start": 48.615,
     "end": 52.156,
-    "zh": "夏天我们会在河边举行特别的生日聚会。",
-    "zh_hant": "夏天我們會在河邊舉行特別的生日聚會。"
+    "zh": "夏天我们有特别的河流生日聚会。",
+    "zh_hant": "夏天我們有特別的河流生日聚會。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Sometimes we go upstream to a favourite backwater,",
     "start": 52.657,
     "end": 56.418,
-    "zh": "有时我们逆流而上去一个心爱的回水湾，",
-    "zh_hant": "有時我們逆流而上去一個心愛的回水灣，"
+    "zh": "有时我们逆流而上，去一个最喜欢的回水区，",
+    "zh_hant": "有時我們逆流而上，去一個最喜歡的回水區，"
   },
   {
-    "index": 14,
-    "text": "sometimes we have our party at the boathouse, which a predecessor of ours at the farm",
+    "index": 12,
+    "text": "sometimes we have our party at the boathouse, which a predecessor of ours at the farm built",
     "start": 56.479,
-    "end": 62.521,
-    "zh": "有时我们在船屋举办聚会，那座船屋是我们在农场的先辈",
-    "zh_hant": "有時我們在船屋舉辦聚會，那座船屋是我們在農場的先輩"
-  },
-  {
-    "index": 15,
-    "text": "built",
-    "start": 62.401,
     "end": 63.202,
-    "zh": "建造的，",
-    "zh_hant": "建造的，"
+    "zh": "有时我们在船库举行聚会，那是我们农场的一位前辈建的，",
+    "zh_hant": "有時我們在船庫舉行聚會，那是我們農場的一位前輩建的，"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "in the meadow hard by the deepest pool for swimming and diving.",
     "start": 62.882,
     "end": 67.084,
-    "zh": "位于最深的泳池和跳水区旁的草地上。",
-    "zh_hant": "位於最深的泳池和跳水區旁的草地上。"
+    "zh": "在紧挨着最深泳池的草地上，那里适合游泳和跳水。",
+    "zh_hant": "在緊挨著最深泳池的草地上，那裡適合游泳和跳水。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "In a heat wave we choose a midnight birthday party and that is the most exciting of all.",
     "start": 67.704,
     "end": 73.987,
-    "zh": "在热浪来袭时，我们会选择午夜生日聚会，那是最激动人心的。",
-    "zh_hant": "在熱浪來襲時，我們會選擇午夜生日聚會，那是最激動人心的。"
+    "zh": "在热浪期间，我们选择午夜生日聚会，那是最激动人心的。",
+    "zh_hant": "在熱浪期間，我們選擇午夜生日聚會，那是最激動人心的。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring,",
     "start": 74.447,
     "end": 80.871,
-    "zh": "我们在河边迎接四季，春天用花朵给最年轻的女孩加冕，",
-    "zh_hant": "我們在河邊迎接四季，春天用花朵給最年輕的女孩加冕，"
+    "zh": "我们在河边迎接四季，春天给最年轻的女孩戴上花冠，",
+    "zh_hant": "我們在河邊迎接四季，春天給最年輕的女孩戴上花冠，"
   },
   {
-    "index": 19,
-    "text": "holding a summer festival on Midsummer Eve,",
+    "index": 16,
+    "text": "holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn,",
     "start": 80.951,
-    "end": 84.553,
-    "zh": "在仲夏夜举办夏日节，",
-    "zh_hant": "在仲夏夜舉辦夏日節，"
-  },
-  {
-    "index": 20,
-    "text": "giving thanks for the harvest in the autumn,",
-    "start": 84.733,
     "end": 87.734,
-    "zh": "秋天为丰收感恩，",
-    "zh_hant": "秋天為豐收感恩，"
+    "zh": "在仲夏夜举行夏季庆典，秋天感恩丰收，",
+    "zh_hant": "在仲夏夜舉行夏季慶典，秋天感恩豐收，"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "and throwing a holly wreath into the current in the winter.",
     "start": 87.935,
     "end": 91.876,
-    "zh": "冬天把冬青花环抛入水流中。",
-    "zh_hant": "冬天把冬青花環拋入水流中。"
+    "zh": "冬天把冬青花环扔进水流中。",
+    "zh_hant": "冬天把冬青花環扔進水流中。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "After a long period of rain the river may overflow its banks.",
     "start": 92.617,
     "end": 97.519,
-    "zh": "长时间降雨后，河水可能会漫过河岸。",
-    "zh_hant": "長時間降雨後，河水可能會漫過河岸。"
+    "zh": "经过长时间降雨后，河流可能会溢出堤岸。",
+    "zh_hant": "經過長時間降雨後，河流可能會溢位堤岸。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "This is a rare occurrence as our climate seldom goes to extremes.",
     "start": 97.92,
     "end": 102.682,
-    "zh": "这种情况很少见，因为我们的气候很少极端。",
-    "zh_hant": "這種情況很少見，因為我們的氣候很少極端。"
+    "zh": "这是很少见的，因为我们的气候很少走向极端。",
+    "zh_hant": "這是很少見的，因為我們的氣候很少走向極端。"
   },
   {
-    "index": 24,
-    "text": "We are lucky in that only the lower fields,",
+    "index": 20,
+    "text": "We are lucky in that only the lower fields, which make up a very small proportion of our farm,",
     "start": 103.042,
-    "end": 106.323,
-    "zh": "我们很幸运，因为只有较低的田地——",
-    "zh_hant": "我們很幸運，因為只有較低的田地——"
+    "end": 109.485,
+    "zh": "我们很幸运，只有较低的地块，它们只占我们农场很小的一部分，",
+    "zh_hant": "我們很幸運，只有較低的地塊，它們只佔我們農場很小的一部分，"
   },
   {
-    "index": 25,
-    "text": "which make up a very small proportion of our farm, are affected by flooding,",
-    "start": 106.184,
-    "end": 111.326,
-    "zh": "这些田地只占我们农场的一小部分——会受到洪水影响，",
-    "zh_hant": "這些田地只佔我們農場的一小部分——會受到洪水影響，"
-  },
-  {
-    "index": 26,
-    "text": "but other farms are less favourably sited,",
-    "start": 111.426,
+    "index": 21,
+    "text": "are affected by flooding, but other farms are less favourably sited,",
+    "start": 109.485,
     "end": 115.068,
-    "zh": "但其他农场的位置就没那么有利了，",
-    "zh_hant": "但其他農場的位置就沒那麼有利了，"
+    "zh": "受到洪水影响，但其他农场的位置不那么有利，",
+    "zh_hant": "受到洪水影響，但其他農場的位置不那麼有利，"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "and flooding can sometimes spell disaster for their owners.",
     "start": 115.128,
     "end": 119.21,
@@ -224,23 +184,23 @@
     "zh_hant": "洪水有時會給它們的主人帶來災難。"
   },
   {
-    "index": 28,
+    "index": 23,
     "text": "One bad winter we watched the river creep up the lower meadows.",
     "start": 120.411,
     "end": 125.193,
-    "zh": "有一个糟糕的冬天，我们看着河水慢慢上涨到低洼的草地。",
-    "zh_hant": "有一個糟糕的冬天，我們看著河水慢慢上漲到低窪的草地。"
+    "zh": "一个糟糕的冬天，我们看着河水悄悄漫上低洼的草地。",
+    "zh_hant": "一個糟糕的冬天，我們看著河水悄悄漫上低窪的草地。"
   },
   {
-    "index": 29,
+    "index": 24,
     "text": "All the cattle had been moved into stalls and we stood to lose little.",
     "start": 126.013,
     "end": 130.715,
-    "zh": "所有牛都已转移进牲口棚，我们损失很小。",
-    "zh_hant": "所有牛都已轉移進牲口棚，我們損失很小。"
+    "zh": "所有的牛都已被转移到畜栏里，我们几乎没有损失。",
+    "zh_hant": "所有的牛都已被轉移到畜欄裡，我們幾乎沒有損失。"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "We were, however, worried about our nearest neighbours,",
     "start": 130.976,
     "end": 134.417,
@@ -248,39 +208,39 @@
     "zh_hant": "然而，我們擔心最近的鄰居，"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "whose farm was low lying and who were newcomers to the district.",
     "start": 134.357,
     "end": 139.22,
-    "zh": "他们的农场地势低洼，而且是这个地区的新来者。",
-    "zh_hant": "他們的農場地勢低窪，而且是這個地區的新來者。"
+    "zh": "他们的农场地势低洼，而且他们刚到这个地区不久。",
+    "zh_hant": "他們的農場地勢低窪，而且他們剛到這個地區不久。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "As the floods had put the telephone out of order, we could not find out how they were managing.",
     "start": 140.02,
     "end": 146.003,
-    "zh": "由于洪水导致电话线路中断，我们无法得知他们的情况。",
-    "zh_hant": "由於洪水導致電話線路中斷，我們無法得知他們的情況。"
+    "zh": "由于洪水切断了电话线路，我们无法知道他们情况如何。",
+    "zh_hant": "由於洪水切斷了電話線路，我們無法知道他們情況如何。"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "From an attic window we could get a sweeping view of the river where their land joined ours,",
     "start": 146.243,
     "end": 152.646,
-    "zh": "从阁楼的窗户我们能一览无余看到他们农场与我们接壤处的河段，",
-    "zh_hant": "從閣樓的窗戶我們能一覽無餘看到他們農場與我們接壤處的河段，"
+    "zh": "从阁楼的窗户，我们可以一览无余地看到他们土地与我们的土地交界处的河流，",
+    "zh_hant": "從閣樓的窗戶，我們可以一覽無餘地看到他們土地與我們的土地交界處的河流，"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "and at the most critical juncture we took turns in watching that point.",
     "start": 152.607,
     "end": 157.629,
-    "zh": "在最关键的时刻，我们轮流盯着那个地点。",
-    "zh_hant": "在最關鍵的時刻，我們輪流盯著那個地點。"
+    "zh": "在最关键的时刻，我们轮流观察那个地方。",
+    "zh_hant": "在最關鍵的時刻，我們輪流觀察那個地方。"
   },
   {
-    "index": 35,
+    "index": 30,
     "text": "The first sign of disaster was a dead sheep floating down.",
     "start": 157.729,
     "end": 162.712,
@@ -288,115 +248,91 @@
     "zh_hant": "災難的第一個跡象是一隻死羊順流漂下。"
   },
   {
-    "index": 36,
-    "text": "Next came a horse, swimming",
+    "index": 31,
+    "text": "Next came a horse, swimming bravely,",
     "start": 162.952,
-    "end": 165.453,
-    "zh": "接着是一匹马，在水中游着，",
-    "zh_hant": "接著是一匹馬，在水中游著，"
+    "end": 166.013,
+    "zh": "接着是一匹马，勇敢地游着，",
+    "zh_hant": "接著是一匹馬，勇敢地遊著，"
   },
   {
-    "index": 37,
-    "text": "bravely, but we were afraid that the strength of the current",
-    "start": 165.103,
-    "end": 168.815,
-    "zh": "游得很勇敢，但我们担心水流的力量",
-    "zh_hant": "遊得很勇敢，但我們擔心水流的力量"
-  },
-  {
-    "index": 38,
-    "text": "would prevent its landing anywhere before",
-    "start": 168.655,
-    "end": 171.836,
-    "zh": "会在它筋疲力尽之前",
-    "zh_hant": "會在它筋疲力盡之前"
-  },
-  {
-    "index": 39,
-    "text": "it became exhausted.",
-    "start": 171.486,
+    "index": 32,
+    "text": "but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.",
+    "start": 165.954,
     "end": 173.217,
-    "zh": "使它无法在任何地方上岸。",
-    "zh_hant": "使它無法在任何地方上岸。"
+    "zh": "但我们担心水流的力量会让它精疲力竭前无法在任何地方靠岸。",
+    "zh_hant": "但我們擔心水流的力量會讓它精疲力竭前無法在任何地方靠岸。"
   },
   {
-    "index": 40,
+    "index": 33,
     "text": "Suddenly a raft appeared, looking rather like Noah's ark,",
     "start": 173.817,
     "end": 178.439,
-    "zh": "突然出现了一个木筏，看起来有点像诺亚方舟，",
-    "zh_hant": "突然出現了一個木筏，看起來有點像諾亞方舟，"
+    "zh": "突然出现了一个木筏，看起来很像诺亚方舟，",
+    "zh_hant": "突然出現了一個木筏，看起來很像諾亞方舟，"
   },
   {
-    "index": 41,
-    "text": "carrying the whole family,",
+    "index": 34,
+    "text": "carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.",
     "start": 178.36,
-    "end": 180.4,
-    "zh": "载着一家人，",
-    "zh_hant": "載著一家人，"
-  },
-  {
-    "index": 42,
-    "text": "a few hens, the dogs, a cat, and a bird in a cage.",
-    "start": 180.381,
     "end": 185.503,
-    "zh": "几只母鸡、狗、一只猫，还有一只笼中的鸟。",
-    "zh_hant": "幾隻母雞、狗、一隻貓，還有一隻籠中的鳥。"
+    "zh": "载着全家人、几只母鸡、狗、一只猫，以及笼中的一只鸟。",
+    "zh_hant": "載著全家人、幾隻母雞、狗、一隻貓，以及籠中的一隻鳥。"
   },
   {
-    "index": 43,
+    "index": 35,
     "text": "We realized that they must have become unduly frightened by the rising flood,",
     "start": 185.923,
     "end": 191.626,
-    "zh": "我们意识到，他们一定被上涨的洪水吓坏了，",
-    "zh_hant": "我們意識到，他們一定被上漲的洪水嚇壞了，"
+    "zh": "我们意识到他们一定是被上涨的洪水吓得过分了，",
+    "zh_hant": "我們意識到他們一定是被上漲的洪水嚇得過分了，"
   },
   {
-    "index": 44,
+    "index": 36,
     "text": "for their house, which had sound foundations,",
     "start": 191.546,
     "end": 194.988,
-    "zh": "因为他们的房子地基牢固，",
-    "zh_hant": "因為他們的房子地基牢固，"
+    "zh": "因为他们的房子有坚固的地基，",
+    "zh_hant": "因為他們的房子有堅固的地基，"
   },
   {
-    "index": 45,
+    "index": 37,
     "text": "would have stood stoutly even if it had been almost submerged.",
     "start": 194.908,
     "end": 199.79,
-    "zh": "即使几乎被淹没也能稳稳挺住。",
-    "zh_hant": "即使幾乎被淹沒也能穩穩挺住。"
+    "zh": "即使几乎被水淹没，也能稳稳地挺立。",
+    "zh_hant": "即使幾乎被水淹沒，也能穩穩地挺立。"
   },
   {
-    "index": 46,
+    "index": 38,
     "text": "The men of our family waded down through our flooded meadows with boat hooks,",
     "start": 200.271,
     "end": 205.296,
-    "zh": "我们家的男人们拿着钩船杆蹚过被淹的草地，",
-    "zh_hant": "我們家的男人們拿著鉤船杆蹚過被淹的草地，"
+    "zh": "我们家的男人们带着船钩，涉水穿过被淹没的草地，",
+    "zh_hant": "我們家的男人們帶著船鉤，涉水穿過被淹沒的草地，"
   },
   {
-    "index": 47,
-    "text": "in the hope of being able to grapple",
+    "index": 39,
+    "text": "in the hope of being able to grapple a corner of the raft",
     "start": 205.257,
-    "end": 208.179,
-    "zh": "希望能勾住",
-    "zh_hant": "希望能勾住"
+    "end": 209.801,
+    "zh": "希望能钩住木筏的一角，",
+    "zh_hant": "希望能鉤住木筏的一角，"
   },
   {
-    "index": 48,
-    "text": "a corner of the raft and pull it out of the current towrds our bank.",
-    "start": 207.829,
+    "index": 40,
+    "text": "and pull it out of the current towrds our bank.",
+    "start": 209.722,
     "end": 213.205,
-    "zh": "木筏的一角，把它从水流中拉向我们岸边。",
-    "zh_hant": "木筏的一角，把它從水流中拉向我們岸邊。"
+    "zh": "把它从水流中拉向我们这边的河岸。",
+    "zh_hant": "把它從水流中拉向我們這邊的河岸。"
   },
   {
-    "index": 49,
+    "index": 41,
     "text": "We still think it a miracle that they were able to do so.",
     "start": 213.466,
     "end": 217.529,
-    "zh": "我们至今仍觉得他们能这样做是个奇迹。",
-    "zh_hant": "我們至今仍覺得他們能這樣做是個奇蹟。"
+    "zh": "我们仍然认为这能成功是个奇迹。",
+    "zh_hant": "我們仍然認為這能成功是個奇蹟。"
   }
 ]

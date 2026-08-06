@@ -1,22 +1,14 @@
 [
   {
     "index": 0,
-    "text": "Hello and thanks for downloading the More or Less podcast, with a programme that looks at the numbers in the news",
+    "text": "Hello and thanks for downloading the More or Less podcast, with a programme that looks at the numbers in the news and in life,",
     "start": 6.571,
-    "end": 12.433,
-    "zh": "你好，感谢下载More or Less播客，本节目关注新闻和生活中的数字",
-    "zh_hant": "你好，感謝下載More or Less播客，本節目關注新聞和生活中的數字"
+    "end": 13.254,
+    "zh": "你好，感谢下载《多与少》播客，本期节目关注新闻和生活中的数字，",
+    "zh_hant": "你好，感謝下載《多與少》播客，本期節目關注新聞和生活中的數字，"
   },
   {
     "index": 1,
-    "text": "and in life,",
-    "start": 12.113,
-    "end": 13.254,
-    "zh": "以及生活中的数字",
-    "zh_hant": "以及生活中的數字"
-  },
-  {
-    "index": 2,
     "text": "and speaks to legends of behavioural economics.",
     "start": 13.014,
     "end": 16.835,
@@ -24,7 +16,7 @@
     "zh_hant": "並採訪行為經濟學的傳奇人物。"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "I'm Tim Harford.",
     "start": 16.876,
     "end": 18.036,
@@ -32,7 +24,7 @@
     "zh_hant": "我是蒂姆·哈福德。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "Once upon a time, economics was a simpler kind of game.",
     "start": 23.099,
     "end": 26.48,
@@ -40,151 +32,143 @@
     "zh_hant": "曾幾何時，經濟學是一種更簡單的遊戲。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Human beings were said to be rational beings, optimising their way through life,",
     "start": 26.22,
     "end": 31.023,
-    "zh": "人类被认为是理性的存在，通过优化来度过一生",
-    "zh_hant": "人類被認為是理性的存在，透過最佳化來度過一生"
+    "zh": "据说人类是理性的生物，在生活中不断优化自己，",
+    "zh_hant": "據說人類是理性的生物，在生活中不斷最佳化自己，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "a wealth-maximising version of Star Trek's Mr Spock.",
     "start": 30.963,
     "end": 34.904,
-    "zh": "就像是《星际迷航》中斯波克先生的财富最大化版本。",
-    "zh_hant": "就像是《星際迷航》中斯波克先生的財富最大化版本。"
+    "zh": "像是《星际迷航》中斯波克先生的财富最大化版本。",
+    "zh_hant": "像是《星際迷航》中斯波克先生的財富最大化版本。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "That made them much easier to describe in mathematical models, and who knows, maybe it was basically true.",
     "start": 35.025,
     "end": 41.128,
-    "zh": "这使得他们更容易用数学模型来描述，谁知道呢，也许这基本上是真的。",
-    "zh_hant": "這使得他們更容易用數學模型來描述，誰知道呢，也許這基本上是真的。"
+    "zh": "这使得他们更容易用数学模型来描述，谁知道呢，也许这基本上是正确的。",
+    "zh_hant": "這使得他們更容易用數學模型來描述，誰知道呢，也許這基本上是正確的。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "But what if humans are less Spock and more Homer Simpson,",
     "start": 41.628,
     "end": 45.97,
-    "zh": "但如果人类更像是霍默·辛普森而不是斯波克呢？",
-    "zh_hant": "但如果人類更像是霍默·辛普森而不是斯波克呢？"
+    "zh": "但如果人类更像荷马·辛普森而不是斯波克呢？",
+    "zh_hant": "但如果人類更像荷馬·辛普森而不是斯波克呢？"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "silly, impatient, weak-willed, and easily confused?",
     "start": 45.93,
     "end": 50.232,
-    "zh": "愚蠢、不耐烦、意志薄弱，而且容易困惑？",
-    "zh_hant": "愚蠢、不耐煩、意志薄弱，而且容易困惑？"
+    "zh": "愚蠢、急躁、意志薄弱、容易困惑？",
+    "zh_hant": "愚蠢、急躁、意志薄弱、容易困惑？"
+  },
+  {
+    "index": 9,
+    "text": "That was the argument of a few iconoclastic economists who, in the 1980s,",
+    "start": 50.573,
+    "end": 56.015,
+    "zh": "这是少数几位特立独行的经济学家在1980年代提出的论点，",
+    "zh_hant": "這是少數幾位特立獨行的經濟學家在1980年代提出的論點，"
   },
   {
     "index": 10,
-    "text": "That was the argument of a few iconoclastic economists",
-    "start": 50.573,
-    "end": 54.675,
-    "zh": "这是一些反传统经济学家的论点",
-    "zh_hant": "這是一些反傳統經濟學家的論點"
+    "text": "made this argument based on results from experimental psychology,",
+    "start": 55.975,
+    "end": 59.837,
+    "zh": "他们基于实验心理学的结论提出了这一论点，",
+    "zh_hant": "他們基於實驗心理學的結論提出了這一論點，"
   },
   {
     "index": 11,
-    "text": "who, in the 1980s, made this argument based on results from experimental psychology,",
-    "start": 54.355,
-    "end": 59.837,
-    "zh": "他们在1980年代基于实验心理学的结果提出了这个论点",
-    "zh_hant": "他們在1980年代基於實驗心理學的結果提出了這個論點"
-  },
-  {
-    "index": 12,
     "text": "along with a big old dose of looking around at real people.",
     "start": 59.997,
     "end": 63.719,
-    "zh": "再加上大量对现实人们的观察。",
-    "zh_hant": "再加上大量對現實人們的觀察。"
+    "zh": "再加上大量观察现实中的真实人群。",
+    "zh_hant": "再加上大量觀察現實中的真實人群。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "And if these rebel thinkers, the behavioural economists, were right,",
     "start": 64.099,
     "end": 68.461,
-    "zh": "如果这些反叛的思想家，也就是行为经济学家，是对的",
-    "zh_hant": "如果這些反叛的思想家，也就是行為經濟學家，是對的"
+    "zh": "如果这些叛逆的思想家——行为经济学家——是对的，",
+    "zh_hant": "如果這些叛逆的思想家——行為經濟學家——是對的，"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "wasn't that kind of important for how economists did their work and how public policy should be conducted?",
     "start": 68.762,
     "end": 74.985,
-    "zh": "这对经济学家的工作方式以及公共政策的制定难道不是很重要吗？",
-    "zh_hant": "這對經濟學家的工作方式以及公共政策的制定難道不是很重要嗎？"
+    "zh": "这对经济学家的工作方式以及公共政策的制定难道不是非常重要吗？",
+    "zh_hant": "這對經濟學家的工作方式以及公共政策的制定難道不是非常重要嗎？"
+  },
+  {
+    "index": 14,
+    "text": "One of those pioneers was Richard, who noted down some of these anomalies in a column in the 1980s,",
+    "start": 75.685,
+    "end": 82.828,
+    "zh": "其中一位先驱是理查德，他在1980年代的专栏中记录了一些这类异常现象，",
+    "zh_hant": "其中一位先驅是理查德，他在1980年代的專欄中記錄了一些這類異常現象，"
   },
   {
     "index": 15,
-    "text": "One of those pioneers was Richard, who noted down",
-    "start": 75.685,
-    "end": 79.067,
-    "zh": "其中一位先驱是理查德，他在1980年代的专栏中记录",
-    "zh_hant": "其中一位先驅是理查德，他在1980年代的專欄中記錄"
-  },
-  {
-    "index": 16,
-    "text": "some of these anomalies in a column in the 1980s,",
-    "start": 78.717,
-    "end": 82.828,
-    "zh": "了一些这种异常现象",
-    "zh_hant": "了一些這種異常現象"
-  },
-  {
-    "index": 17,
     "text": "which was turned into a book, The Winner's Curse, first published in 1992.",
     "start": 82.689,
     "end": 88.082,
-    "zh": "这些内容后来变成了书《赢家的诅咒》，首次出版于1992年。",
-    "zh_hant": "這些內容後來變成了書《贏家的詛咒》，首次出版於1992年。"
+    "zh": "后来这些内容被整理成书《赢家的诅咒》，于1992年首次出版。",
+    "zh_hant": "後來這些內容被整理成書《贏家的詛咒》，於1992年首次出版。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "His work also won him the Nobel Memorial Prize in Economics in 2017.",
     "start": 88.132,
     "end": 93.945,
-    "zh": "他的工作也为他赢得了2017年的诺贝尔经济学纪念奖。",
-    "zh_hant": "他的工作也為他贏得了2017年的諾貝爾經濟學紀念獎。"
+    "zh": "他的工作也使他在2017年获得了诺贝尔经济学纪念奖。",
+    "zh_hant": "他的工作也使他在2017年獲得了諾貝爾經濟學紀念獎。"
+  },
+  {
+    "index": 17,
+    "text": "More than 30 years on, he's returned to that book, publishing a new,",
+    "start": 93.995,
+    "end": 98.417,
+    "zh": "30多年后，他重新回到了那本书，出版了新的",
+    "zh_hant": "30多年後，他重新回到了那本書，出版了新的"
+  },
+  {
+    "index": 18,
+    "text": "updated version with co-author Alex O. Imus,",
+    "start": 98.157,
+    "end": 101.818,
+    "zh": "更新版本，与合著者亚历克斯·O·伊姆斯合作，",
+    "zh_hant": "更新版本，與合著者亞歷克斯·O·伊姆斯合作，"
   },
   {
     "index": 19,
-    "text": "More than 30 years on, he's returned to that book,",
-    "start": 93.995,
-    "end": 97.336,
-    "zh": "30多年后，他回到了那本书",
-    "zh_hant": "30多年後，他回到了那本書"
-  },
-  {
-    "index": 20,
-    "text": "publishing a new, updated version with co-author Alex O. Imus,",
-    "start": 97.256,
-    "end": 101.818,
-    "zh": "与合著者亚历克斯·O·伊姆斯出版了新的更新版本",
-    "zh_hant": "與合著者亞歷克斯·O·伊姆斯出版了新的更新版本"
-  },
-  {
-    "index": 21,
     "text": "which looks at whether those anomalies in rational thinking have stood the test of time.",
     "start": 101.739,
     "end": 106.941,
-    "zh": "探讨这些理性思维中的异常是否经得起时间的考验。",
-    "zh_hant": "探討這些理性思維中的異常是否經得起時間的考驗。"
+    "zh": "这本书探讨了理性思维中的这些异常现象是否经得起时间的考验。",
+    "zh_hant": "這本書探討了理性思維中的這些異常現象是否經得起時間的考驗。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "I'm joined in the studio by Richard Thaler.",
     "start": 107.281,
     "end": 109.542,
-    "zh": "理查德·塞勒来到演播室与我一起。",
-    "zh_hant": "理查德·塞勒來到演播室與我一起。"
+    "zh": "理查德·塞勒来到演播室与我同台。",
+    "zh_hant": "理查德·塞勒來到演播室與我同臺。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "Hello, Richard.",
     "start": 109.192,
     "end": 110.243,
@@ -192,7 +176,7 @@
     "zh_hant": "你好，理查德。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "Hello, Tim.",
     "start": 110.063,
     "end": 111.183,
@@ -200,15 +184,15 @@
     "zh_hant": "你好，蒂姆。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "It's so nice to see you.",
     "start": 110.833,
     "end": 112.264,
-    "zh": "见到你真是太好了。",
-    "zh_hant": "見到你真是太好了。"
+    "zh": "很高兴见到你。",
+    "zh_hant": "很高興見到你。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "It's good to see you as well.",
     "start": 112.024,
     "end": 113.684,
@@ -216,23 +200,23 @@
     "zh_hant": "我也很高興見到你。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "We should start by exploring some of these ideas, maybe the book title, \"The Winner's Curse.\"",
     "start": 114.045,
     "end": 120.207,
-    "zh": "我们应该先探讨一些这些想法，也许从书名《赢家的诅咒》开始。",
-    "zh_hant": "我們應該先探討一些這些想法，也許從書名《贏家的詛咒》開始。"
+    "zh": "我们应该从探讨这些想法开始，也许从书名《赢家的诅咒》说起。",
+    "zh_hant": "我們應該從探討這些想法開始，也許從書名《贏家的詛咒》說起。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "What is \"The Winner's Curse\"?",
     "start": 119.857,
     "end": 121.648,
-    "zh": "什么是《赢家的诅咒》？",
-    "zh_hant": "什麼是《贏家的詛咒》？"
+    "zh": "什么是“赢家的诅咒”？",
+    "zh_hant": "什麼是“贏家的詛咒”？"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "\"The Winner's Curse\" is the following.",
     "start": 122.169,
     "end": 125.07,
@@ -240,23 +224,23 @@
     "zh_hant": "“贏家的詛咒”是這樣的。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "Suppose you have an auction.",
     "start": 125.75,
     "end": 127.471,
-    "zh": "假设你有一个拍卖。",
-    "zh_hant": "假設你有一個拍賣。"
+    "zh": "假设你有一场拍卖。",
+    "zh_hant": "假設你有一場拍賣。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Imagine, here's the way we do this in a classroom experiment.",
     "start": 127.751,
     "end": 132.634,
-    "zh": "想象一下，我们在课堂实验中的做法。",
-    "zh_hant": "想象一下，我們在課堂實驗中的做法。"
+    "zh": "想象一下，我们在课堂实验中是这么做的。",
+    "zh_hant": "想象一下，我們在課堂實驗中是這麼做的。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "We fill up a jar of jelly beans.",
     "start": 132.894,
     "end": 136.095,
@@ -264,23 +248,23 @@
     "zh_hant": "我們裝滿一罐果凍豆。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "We say the jelly beans are worth 10 pence each, and then we auction off the jar.",
     "start": 135.745,
     "end": 141.498,
-    "zh": "我们说这些果冻豆每颗值10便士，然后我们拍卖这罐豆子。",
-    "zh_hant": "我們說這些果凍豆每顆值10便士，然後我們拍賣這罐豆子。"
+    "zh": "我们说果冻豆每颗价值10便士，然后我们拍卖这罐子。",
+    "zh_hant": "我們說果凍豆每顆價值10便士，然後我們拍賣這罐子。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "You don't get the jar, you get the value.",
     "start": 141.558,
     "end": 144.419,
-    "zh": "你不是得到罐子，而是得到价值。",
-    "zh_hant": "你不是得到罐子，而是得到價值。"
+    "zh": "你得到的不是罐子，而是价值。",
+    "zh_hant": "你得到的不是罐子，而是價值。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "Yeah.",
     "start": 144.079,
     "end": 144.699,
@@ -288,15 +272,15 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "And we don't know the value because we don't know how many beans.",
     "start": 144.56,
     "end": 147.181,
-    "zh": "我们不知道价值，因为我们不知道有多少颗豆子。",
-    "zh_hant": "我們不知道價值，因為我們不知道有多少顆豆子。"
+    "zh": "我们不知道价值，因为我们不知道豆子的数量。",
+    "zh_hant": "我們不知道價值，因為我們不知道豆子的數量。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Right.",
     "start": 146.861,
     "end": 147.601,
@@ -304,63 +288,63 @@
     "zh_hant": "對。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "So we all make a guess.",
     "start": 147.641,
     "end": 149.222,
-    "zh": "所以我们都会猜。",
-    "zh_hant": "所以我們都會猜。"
+    "zh": "所以我们都来猜一猜。",
+    "zh_hant": "所以我們都來猜一猜。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "And what happens if a professor is low on cash?",
     "start": 149.882,
     "end": 155.925,
-    "zh": "如果教授缺钱，会发生什么？",
-    "zh_hant": "如果教授缺錢，會發生什麼？"
+    "zh": "如果教授手头紧会怎样？",
+    "zh_hant": "如果教授手頭緊會怎樣？"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "This is a good demonstration to run.",
     "start": 155.575,
     "end": 158.526,
-    "zh": "这是个很好的演示实验。",
-    "zh_hant": "這是個很好的演示實驗。"
+    "zh": "这是一个很好的演示。",
+    "zh_hant": "這是一個很好的演示。"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "The average bid will be less than the amount in the jar,",
     "start": 158.807,
     "end": 163.248,
-    "zh": "平均出价会低于罐中价值",
-    "zh_hant": "平均出價會低於罐中價值"
+    "zh": "平均出价会低于罐子里的金额，",
+    "zh_hant": "平均出價會低於罐子裡的金額，"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "but the winning bid, almost invariably, is more than the value.",
     "start": 163.269,
     "end": 169.152,
-    "zh": "但中标的出价几乎总是高于价值。",
-    "zh_hant": "但中標的出價幾乎總是高於價值。"
+    "zh": "但赢得拍卖的出价几乎总是超过实际价值。",
+    "zh_hant": "但贏得拍賣的出價幾乎總是超過實際價值。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "Yeah, because by construction, the winning bid is the highest bid, right?",
     "start": 169.252,
     "end": 173.054,
-    "zh": "是的，因为按定义，中标的出价是最高的，对吧？",
-    "zh_hant": "是的，因為按定義，中標的出價是最高的，對吧？"
+    "zh": "是的，因为按照规则，获胜的出价是最高的，对吧？",
+    "zh_hant": "是的，因為按照規則，獲勝的出價是最高的，對吧？"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "Well, by construction, the winning bid is the highest bid.",
     "start": 172.814,
     "end": 175.915,
-    "zh": "嗯，按定义，中标的出价是最高的。",
-    "zh_hant": "嗯，按定義，中標的出價是最高的。"
+    "zh": "是的，根据规则，获胜的出价是最高的。",
+    "zh_hant": "是的，根據規則，獲勝的出價是最高的。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "That's correct.",
     "start": 175.855,
     "end": 177.116,
@@ -368,23 +352,23 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "And the highest bid is likely to be above.",
     "start": 177.256,
     "end": 183.259,
-    "zh": "最高的出价很可能高于。",
-    "zh_hant": "最高的出價很可能高於。"
+    "zh": "而最高的出价很可能高于实际价值。",
+    "zh_hant": "而最高的出價很可能高於實際價值。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "And the more bidders there are, the more likely it is that the winning bid is too high.",
     "start": 183.399,
     "end": 189.702,
-    "zh": "而且出价者越多，中标的出价过高越有可能。",
-    "zh_hant": "而且出價者越多，中標的出價過高越有可能。"
+    "zh": "出价者越多，赢得拍卖的出价过高的可能性就越大。",
+    "zh_hant": "出價者越多，贏得拍賣的出價過高的可能性就越大。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "Yeah.",
     "start": 189.352,
     "end": 189.962,
@@ -392,55 +376,47 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "So you have, let's say, $10 worth of coins in the jar,",
     "start": 189.842,
     "end": 194.044,
-    "zh": "所以假设罐里有价值10美元的硬币",
-    "zh_hant": "所以假設罐裡有價值10美元的硬幣"
+    "zh": "假设罐子里有价值10美元的硬币，",
+    "zh_hant": "假設罐子裡有價值10美元的硬幣，"
   },
   {
-    "index": 50,
-    "text": "and you've got 50 students, and they're all bidding away,",
+    "index": 48,
+    "text": "and you've got 50 students, and they're all bidding away, and the average bid is whatever, $7.",
     "start": 193.694,
-    "end": 197.446,
-    "zh": "你有50个学生，他们都在出价",
-    "zh_hant": "你有50個學生，他們都在出價"
-  },
-  {
-    "index": 51,
-    "text": "and the average bid is whatever, $7.",
-    "start": 197.096,
     "end": 199.957,
-    "zh": "平均出价是7美元左右。",
-    "zh_hant": "平均出價是7美元左右。"
+    "zh": "你有50名学生，他们都在竞标，平均出价大概是7美元。",
+    "zh_hant": "你有50名學生，他們都在競標，平均出價大概是7美元。"
   },
   {
-    "index": 52,
+    "index": 49,
     "text": "But there's one or two people, and you only need one, you only need one,",
     "start": 200.007,
     "end": 204.269,
-    "zh": "但有一两个人，你只需要一个，只需要一个",
-    "zh_hant": "但有一兩個人，你只需要一個，只需要一個"
+    "zh": "但有一两个人，只需一个，只需一个，",
+    "zh_hant": "但有一兩個人，只需一個，只需一個，"
   },
   {
-    "index": 53,
+    "index": 50,
     "text": "who bids $20, $30, and you've made your profit.",
     "start": 203.919,
     "end": 207.731,
-    "zh": "出价20美元、30美元，你就赚了。",
-    "zh_hant": "出價20美元、30美元，你就賺了。"
+    "zh": "出价20美元或30美元，你就赚到了。",
+    "zh_hant": "出價20美元或30美元，你就賺到了。"
   },
   {
-    "index": 54,
+    "index": 51,
     "text": "So this is a unique example in the book,",
     "start": 207.831,
     "end": 212.033,
-    "zh": "这是书中一个独特的例子",
-    "zh_hant": "這是書中一個獨特的例子"
+    "zh": "这是书中一个独特的例子，",
+    "zh_hant": "這是書中一個獨特的例子，"
   },
   {
-    "index": 55,
+    "index": 52,
     "text": "because it was not discovered by psychologists or economists.",
     "start": 211.683,
     "end": 217.536,
@@ -448,159 +424,135 @@
     "zh_hant": "因為它不是由心理學家或經濟學家發現的。"
   },
   {
-    "index": 56,
-    "text": "It was discovered by engineers working",
+    "index": 53,
+    "text": "It was discovered by engineers working for the Atlantic Richfield Oil Company.",
     "start": 217.536,
-    "end": 221.417,
-    "zh": "它是由工程师发现的，他们",
-    "zh_hant": "它是由工程師發現的，他們"
+    "end": 224.879,
+    "zh": "它是由在大西洋里奇菲尔德石油公司工作的工程师们发现的。",
+    "zh_hant": "它是由在大西洋裡奇菲爾德石油公司工作的工程師們發現的。"
+  },
+  {
+    "index": 54,
+    "text": "So the government would divide up the land",
+    "start": 225.5,
+    "end": 230.722,
+    "zh": "政府会把土地分成",
+    "zh_hant": "政府會把土地分成"
+  },
+  {
+    "index": 55,
+    "text": "into various plots and auction off the right to drill right there,",
+    "start": 230.372,
+    "end": 236.365,
+    "zh": "各个地块，并拍卖在那里钻探的权利，",
+    "zh_hant": "各個地塊，並拍賣在那裡鑽探的權利，"
+  },
+  {
+    "index": 56,
+    "text": "and They had scientists say how much oil they thought there would be, which is a bit like the beans, right?",
+    "start": 237.025,
+    "end": 243.648,
+    "zh": "他们有科学家估计那里会有多少石油，这有点像豆子的情况，对吧？",
+    "zh_hant": "他們有科學家估計那裡會有多少石油，這有點像豆子的情況，對吧？"
   },
   {
     "index": 57,
-    "text": "for the Atlantic Richfield Oil Company.",
-    "start": 221.067,
-    "end": 224.879,
-    "zh": "为大西洋里奇菲尔德石油公司工作。",
-    "zh_hant": "為大西洋裡奇菲爾德石油公司工作。"
-  },
-  {
-    "index": 58,
-    "text": "So the government would divide up",
-    "start": 225.5,
-    "end": 229.862,
-    "zh": "政府会把土地",
-    "zh_hant": "政府會把土地"
-  },
-  {
-    "index": 59,
-    "text": "the land into various plots and auction off the right to drill",
-    "start": 229.522,
-    "end": 235.524,
-    "zh": "分成各种地块，拍卖钻探权",
-    "zh_hant": "分成各種地塊，拍賣鑽探權"
-  },
-  {
-    "index": 60,
-    "text": "right there,",
-    "start": 235.174,
-    "end": 236.365,
-    "zh": "就在那里",
-    "zh_hant": "就在那裡"
-  },
-  {
-    "index": 61,
-    "text": "and They had scientists say how much oil they thought there would be, which is a bit like the beans,",
-    "start": 237.025,
-    "end": 243.408,
-    "zh": "他们让科学家估计有多少石油，这有点像豆子",
-    "zh_hant": "他們讓科學家估計有多少石油，這有點像豆子"
-  },
-  {
-    "index": 62,
-    "text": "right?",
-    "start": 243.058,
-    "end": 243.648,
-    "zh": "对吧？",
-    "zh_hant": "對吧？"
-  },
-  {
-    "index": 63,
     "text": "Because nobody really knows how much oil there is.",
     "start": 243.298,
     "end": 245.829,
-    "zh": "因为没有人真正知道有多少石油。",
-    "zh_hant": "因為沒有人真正知道有多少石油。"
+    "zh": "因为没人真正知道有多少石油。",
+    "zh_hant": "因為沒人真正知道有多少石油。"
   },
   {
-    "index": 64,
+    "index": 58,
     "text": "Everyone takes a look and has a guess, and then later you find out.",
     "start": 245.479,
     "end": 248.531,
-    "zh": "每个人看一眼然后猜，之后你会发现。",
-    "zh_hant": "每個人看一眼然後猜，之後你會發現。"
+    "zh": "每个人看一眼然后猜一猜，之后你才会知道结果。",
+    "zh_hant": "每個人看一眼然後猜一猜，之後你才會知道結果。"
   },
   {
-    "index": 65,
+    "index": 59,
     "text": "And like the jar of beans, it's in principle worth the same to everybody.",
     "start": 248.491,
     "end": 253.254,
-    "zh": "就像那罐豆子，原则上对每个人价值相同。",
-    "zh_hant": "就像那罐豆子，原則上對每個人價值相同。"
+    "zh": "就像那罐豆子，原则上对每个人来说价值是一样的。",
+    "zh_hant": "就像那罐豆子，原則上對每個人來說價值是一樣的。"
   },
   {
-    "index": 66,
+    "index": 60,
     "text": "So if Exxon or Royal Dutch or whatever gets the rights,",
     "start": 253.474,
     "end": 258.556,
-    "zh": "所以无论是埃克森还是荷兰皇家还是其他公司获得权利",
-    "zh_hant": "所以無論是埃克森還是荷蘭皇家還是其他公司獲得權利"
+    "zh": "所以如果埃克森或荷兰皇家石油等公司获得了权利，",
+    "zh_hant": "所以如果埃克森或荷蘭皇家石油等公司獲得了權利，"
   },
   {
-    "index": 67,
+    "index": 61,
     "text": "there's going to be the same amount of oil down there.",
     "start": 258.296,
     "end": 260.837,
-    "zh": "地下会有相同数量的石油。",
-    "zh_hant": "地下會有相同數量的石油。"
+    "zh": "地下的石油量将是相同的。",
+    "zh_hant": "地下的石油量將是相同的。"
   },
   {
-    "index": 68,
+    "index": 62,
     "text": "So what they found was that on the leases they won,",
     "start": 261.158,
     "end": 265.9,
-    "zh": "他们发现，在他们赢得的租约上",
-    "zh_hant": "他們發現，在他們贏得的租約上"
+    "zh": "他们发现，在他们赢得的租约上，",
+    "zh_hant": "他們發現，在他們贏得的租約上，"
   },
   {
-    "index": 69,
+    "index": 63,
     "text": "there was less oil than they expected.",
     "start": 266.12,
     "end": 268.601,
-    "zh": "石油比他们预期的少。",
-    "zh_hant": "石油比他們預期的少。"
+    "zh": "石油比他们预期的要少。",
+    "zh_hant": "石油比他們預期的要少。"
   },
   {
-    "index": 70,
+    "index": 64,
     "text": "And they thought, \"Gee, we thought we had great geologists.",
     "start": 268.841,
     "end": 272.303,
-    "zh": "他们想：“天哪，我们以为我们有很棒的地质学家。",
-    "zh_hant": "他們想：“天哪，我們以為我們有很棒的地質學家。"
+    "zh": "他们想：“哎呀，我们以为我们有很棒的地质学家。",
+    "zh_hant": "他們想：“哎呀，我們以為我們有很棒的地質學家。"
   },
   {
-    "index": 71,
+    "index": 65,
     "text": "What's wrong here?\"",
     "start": 272.543,
     "end": 274.124,
-    "zh": "这里有什么问题？”",
-    "zh_hant": "這裡有什麼問題？”"
+    "zh": "这里出了什么问题？”",
+    "zh_hant": "這裡出了什麼問題？”"
   },
   {
-    "index": 72,
+    "index": 66,
     "text": "And the insight they had was the insight you mentioned earlier, which is,",
     "start": 274.284,
     "end": 280.167,
-    "zh": "他们的洞察正是你之前提到的那个，也就是",
-    "zh_hant": "他們的洞察正是你之前提到的那個，也就是"
+    "zh": "他们的洞察就是你之前提到的那个，也就是",
+    "zh_hant": "他們的洞察就是你之前提到的那個，也就是"
   },
   {
-    "index": 73,
+    "index": 67,
     "text": "well, it's not a coincidence that we won this.",
     "start": 279.847,
     "end": 285.93,
-    "zh": "我们赢下这不是巧合。",
-    "zh_hant": "我們贏下這不是巧合。"
+    "zh": "我们赢得这个并非巧合。",
+    "zh_hant": "我們贏得這個並非巧合。"
   },
   {
-    "index": 74,
+    "index": 68,
     "text": "We won this because we made the highest bid.",
     "start": 285.85,
     "end": 288.471,
-    "zh": "我们赢是因为我们出了最高的价。",
-    "zh_hant": "我們贏是因為我們出了最高的價。"
+    "zh": "我们赢是因为我们出价最高。",
+    "zh_hant": "我們贏是因為我們出價最高。"
   },
   {
-    "index": 75,
+    "index": 69,
     "text": "Yeah.",
     "start": 288.231,
     "end": 288.871,
@@ -608,15 +560,15 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 76,
+    "index": 70,
     "text": "And the highest bid is not a random bid.",
     "start": 289.032,
     "end": 291.693,
-    "zh": "而最高的出价不是随机的。",
-    "zh_hant": "而最高的出價不是隨機的。"
+    "zh": "而最高的出价不是随机的出价。",
+    "zh_hant": "而最高的出價不是隨機的出價。"
   },
   {
-    "index": 77,
+    "index": 71,
     "text": "Yeah.",
     "start": 291.913,
     "end": 292.533,
@@ -624,47 +576,47 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 78,
+    "index": 72,
     "text": "So the mathematics of this is that the value",
     "start": 292.554,
     "end": 298.976,
-    "zh": "这里的数学是，如果你是中标者",
-    "zh_hant": "這裡的數學是，如果你是中標者"
+    "zh": "所以这里的数学原理是，价值",
+    "zh_hant": "所以這裡的數學原理是，價值"
   },
   {
-    "index": 79,
+    "index": 73,
     "text": "you should expect",
     "start": 298.626,
     "end": 300.497,
-    "zh": "你期望的价值",
-    "zh_hant": "你期望的價值"
+    "zh": "你应该预期",
+    "zh_hant": "你應該預期"
   },
   {
-    "index": 80,
-    "text": "if you're the winning bidder is lower than it would be if",
+    "index": 74,
+    "text": "if you're the winning bidder is lower than",
     "start": 300.537,
-    "end": 306.42,
-    "zh": "要比你出其他价时的",
-    "zh_hant": "要比你出其他價時的"
+    "end": 304.959,
+    "zh": "如果你是获胜的出价者，会比",
+    "zh_hant": "如果你是獲勝的出價者，會比"
   },
   {
-    "index": 81,
-    "text": "you had made some other bid,",
-    "start": 306.46,
+    "index": 75,
+    "text": "it would be if you had made some other bid,",
+    "start": 304.8,
     "end": 308.301,
-    "zh": "期望价值低",
-    "zh_hant": "期望價值低"
+    "zh": "你做出其他出价时要低，",
+    "zh_hant": "你做出其他出價時要低，"
   },
   {
-    "index": 82,
+    "index": 76,
     "text": "because the fact that you had the high bid means",
     "start": 308.321,
     "end": 312.323,
-    "zh": "因为你出高价的事实意味着",
-    "zh_hant": "因為你出高價的事實意味著"
+    "zh": "因为你有最高出价意味着",
+    "zh_hant": "因為你有最高出價意味著"
   },
   {
-    "index": 83,
+    "index": 77,
     "text": "there's a good chance that you had an overestimate of the value.",
     "start": 312.103,
     "end": 316.585,
@@ -672,39 +624,39 @@
     "zh_hant": "你很可能高估了價值。"
   },
   {
-    "index": 84,
+    "index": 78,
     "text": "Let's talk about a more everyday example.",
     "start": 320.567,
     "end": 324.669,
-    "zh": "我们谈一个更日常的例子吧。",
-    "zh_hant": "我們談一個更日常的例子吧。"
+    "zh": "让我们谈谈一个更日常的例子。",
+    "zh_hant": "讓我們談談一個更日常的例子。"
   },
   {
-    "index": 85,
+    "index": 79,
     "text": "Loads of examples in the book, but one that really fascinates me, always fascinates me,",
     "start": 324.319,
     "end": 328.271,
-    "zh": "书中例子很多，但其中一个让我着迷，一直让我着迷的",
-    "zh_hant": "書中例子很多，但其中一個讓我著迷，一直讓我著迷的"
+    "zh": "书中有很多例子，但有一个特别让我着迷，一直让我着迷，",
+    "zh_hant": "書中有很多例子，但有一個特別讓我著迷，一直讓我著迷，"
   },
   {
-    "index": 86,
+    "index": 80,
     "text": "is this idea of mental accounting.",
     "start": 327.921,
     "end": 331.213,
-    "zh": "是心理账户这个想法。",
-    "zh_hant": "是心理賬戶這個想法。"
+    "zh": "就是心理账户这个概念。",
+    "zh_hant": "就是心理賬戶這個概念。"
   },
   {
-    "index": 87,
+    "index": 81,
     "text": "So tell us about mental accounting.",
     "start": 330.893,
     "end": 333.094,
-    "zh": "那就给我们讲讲心理账户吧。",
-    "zh_hant": "那就給我們講講心理賬戶吧。"
+    "zh": "给我们讲讲心理账户吧。",
+    "zh_hant": "給我們講講心理賬戶吧。"
   },
   {
-    "index": 88,
+    "index": 82,
     "text": "Economists have many simplifying assumptions.",
     "start": 332.994,
     "end": 336.275,
@@ -712,15 +664,15 @@
     "zh_hant": "經濟學家有許多簡化的假設。"
   },
   {
-    "index": 89,
+    "index": 83,
     "text": "One is that money is fungible.",
     "start": 336.596,
     "end": 342.638,
-    "zh": "一个是金钱是可互换的。",
-    "zh_hant": "一個是金錢是可互換的。"
+    "zh": "一个是金钱是可替代的。",
+    "zh_hant": "一個是金錢是可替代的。"
   },
   {
-    "index": 90,
+    "index": 84,
     "text": "It's a fun word.",
     "start": 342.839,
     "end": 344.419,
@@ -728,39 +680,39 @@
     "zh_hant": "這是個有趣的詞。"
   },
   {
-    "index": 91,
+    "index": 85,
     "text": "Fungible means that it doesn't come with any labels.",
     "start": 344.62,
     "end": 348.781,
-    "zh": "可互换意味着它没有任何标签。",
-    "zh_hant": "可互換意味著它沒有任何標籤。"
+    "zh": "可替代意味着钱没有标签。",
+    "zh_hant": "可替代意味著錢沒有標籤。"
   },
   {
-    "index": 92,
+    "index": 86,
     "text": "A dollar's a dollar.",
     "start": 348.601,
     "end": 350.002,
-    "zh": "一美元就是一美元。",
-    "zh_hant": "一美元就是一美元。"
+    "zh": "一美元就是一块钱。",
+    "zh_hant": "一美元就是一塊錢。"
   },
   {
-    "index": 93,
+    "index": 87,
     "text": "A dollar's a dollar.",
     "start": 349.662,
     "end": 351.303,
-    "zh": "一美元就是一美元。",
-    "zh_hant": "一美元就是一美元。"
+    "zh": "一美元就是一块钱。",
+    "zh_hant": "一美元就是一塊錢。"
   },
   {
-    "index": 94,
+    "index": 88,
     "text": "It seems like not an unreasonable assumption, but okay.",
     "start": 351.163,
     "end": 353.924,
-    "zh": "这看起来不是个不合理的假设，但好吧。",
-    "zh_hant": "這看起來不是個不合理的假設，但好吧。"
+    "zh": "这似乎不是一个不合理的假设，但好吧。",
+    "zh_hant": "這似乎不是一個不合理的假設，但好吧。"
   },
   {
-    "index": 95,
+    "index": 89,
     "text": "But you're going to tell me it's wrong.",
     "start": 353.584,
     "end": 355.645,
@@ -768,55 +720,47 @@
     "zh_hant": "但你要告訴我這是錯的。"
   },
   {
-    "index": 96,
+    "index": 90,
     "text": "So real people don't think all money is the same.",
     "start": 355.705,
     "end": 360.227,
-    "zh": "所以真实的人们不认为所有的钱都一样。",
-    "zh_hant": "所以真實的人們不認為所有的錢都一樣。"
+    "zh": "所以真实的人不会认为所有的钱都是一样的。",
+    "zh_hant": "所以真實的人不會認為所有的錢都是一樣的。"
   },
   {
-    "index": 97,
+    "index": 91,
     "text": "For centuries,",
     "start": 360.707,
     "end": 363.148,
-    "zh": "几个世纪以来",
-    "zh_hant": "幾個世紀以來"
+    "zh": "几个世纪以来，",
+    "zh_hant": "幾個世紀以來，"
   },
   {
-    "index": 98,
+    "index": 92,
     "text": "people adopted a strategy",
     "start": 363.649,
     "end": 366.39,
-    "zh": "人们采用了一种策略",
-    "zh_hant": "人們採用了一種策略"
+    "zh": "人们采取了一种策略，",
+    "zh_hant": "人們採取了一種策略，"
   },
   {
-    "index": 99,
+    "index": 93,
     "text": "of putting cash into envelopes",
     "start": 366.671,
     "end": 372.293,
-    "zh": "把钱放进有标签的信封",
-    "zh_hant": "把錢放進有標籤的信封"
+    "zh": "把现金放进信封",
+    "zh_hant": "把現金放進信封"
   },
   {
-    "index": 100,
-    "text": "or jars",
+    "index": 94,
+    "text": "or jars with labels as a way of budgeting.",
     "start": 371.943,
-    "end": 373.434,
-    "zh": "或罐子里",
-    "zh_hant": "或罐子裡"
-  },
-  {
-    "index": 101,
-    "text": "with labels as a way of budgeting.",
-    "start": 373.374,
     "end": 377.016,
-    "zh": "作为预算的方式。",
-    "zh_hant": "作為預算的方式。"
+    "zh": "或带有标签的罐子里，以此作为预算方式。",
+    "zh_hant": "或帶有標籤的罐子裡，以此作為預算方式。"
   },
   {
-    "index": 102,
+    "index": 95,
     "text": "Think of it as the early spreadsheet.",
     "start": 376.696,
     "end": 379.557,
@@ -824,7 +768,7 @@
     "zh_hant": "把它想象成早期的電子表格。"
   },
   {
-    "index": 103,
+    "index": 96,
     "text": "This is rent money.",
     "start": 380.298,
     "end": 381.558,
@@ -832,15 +776,15 @@
     "zh_hant": "這是房租錢。"
   },
   {
-    "index": 104,
+    "index": 97,
     "text": "This is food money.",
     "start": 381.318,
     "end": 382.638,
-    "zh": "这是食物钱。",
-    "zh_hant": "這是食物錢。"
+    "zh": "这是伙食费。",
+    "zh_hant": "這是伙食費。"
   },
   {
-    "index": 105,
+    "index": 98,
     "text": "This is the electricity bill.",
     "start": 382.439,
     "end": 385.6,
@@ -848,143 +792,119 @@
     "zh_hant": "這是電費賬單。"
   },
   {
-    "index": 106,
+    "index": 99,
     "text": "And if you look at the way real people behave,",
     "start": 386.641,
     "end": 391.823,
-    "zh": "如果你看一下真实人们的行为",
-    "zh_hant": "如果你看一下真實人們的行為"
+    "zh": "如果你观察真实人群的行为方式，",
+    "zh_hant": "如果你觀察真實人群的行為方式，"
   },
   {
-    "index": 107,
-    "text": "they treat money differently",
+    "index": 100,
+    "text": "they treat money differently depending on how they got it and where it's stored.",
     "start": 392.043,
-    "end": 395.405,
-    "zh": "他们根据钱的来源和存放地点",
-    "zh_hant": "他們根據錢的來源和存放地點"
-  },
-  {
-    "index": 108,
-    "text": "depending on how they got it and where it's stored.",
-    "start": 395.055,
     "end": 399.247,
-    "zh": "来区别对待金钱。",
-    "zh_hant": "來區別對待金錢。"
+    "zh": "他们会根据钱的来源和存放地点而区别对待。",
+    "zh_hant": "他們會根據錢的來源和存放地點而區別對待。"
   },
   {
-    "index": 109,
+    "index": 101,
     "text": "So, for example, Money in your house is house money.",
     "start": 399.487,
     "end": 405.71,
-    "zh": "所以，例如，你房子里的钱就是房子钱。",
-    "zh_hant": "所以，例如，你房子裡的錢就是房子錢。"
+    "zh": "例如，房子里的钱就是房子的钱。",
+    "zh_hant": "例如，房子裡的錢就是房子的錢。"
   },
   {
-    "index": 110,
+    "index": 102,
     "text": "This is like the equity in your home.",
     "start": 406.371,
     "end": 408.471,
-    "zh": "这就像你房子的净值。",
-    "zh_hant": "這就像你房子的淨值。"
+    "zh": "这就像你房子的产权净值。",
+    "zh_hant": "這就像你房子的產權淨值。"
   },
   {
-    "index": 111,
+    "index": 103,
     "text": "Yes, you own your home, it's worth a certain amount of money.",
     "start": 408.121,
     "end": 412.253,
-    "zh": "是的，你拥有自己的房子，它值一定的钱。",
-    "zh_hant": "是的，你擁有自己的房子，它值一定的錢。"
+    "zh": "是的，你拥有自己的房子，它值一定数量的钱。",
+    "zh_hant": "是的，你擁有自己的房子，它值一定數量的錢。"
   },
   {
-    "index": 112,
-    "text": "And even when people get",
+    "index": 104,
+    "text": "And even when people get old and retire and maybe move,",
     "start": 411.913,
-    "end": 415.615,
-    "zh": "即使人们变老",
-    "zh_hant": "即使人們變老"
-  },
-  {
-    "index": 113,
-    "text": "old and retire and maybe move,",
-    "start": 415.515,
     "end": 418.456,
-    "zh": "退休了，也许搬家了",
-    "zh_hant": "退休了，也許搬家了"
+    "zh": "即使人们变老退休，也许搬家，",
+    "zh_hant": "即使人們變老退休，也許搬家，"
   },
   {
-    "index": 114,
+    "index": 105,
     "text": "they still don't draw down the money in their home.",
     "start": 418.877,
     "end": 422.298,
-    "zh": "他们仍然不会动用房子里的钱。",
-    "zh_hant": "他們仍然不會動用房子裡的錢。"
+    "zh": "他们仍然不提取房子里的钱。",
+    "zh_hant": "他們仍然不提取房子裡的錢。"
   },
   {
-    "index": 115,
+    "index": 106,
     "text": "If they move to Florida or Spain,",
     "start": 422.418,
     "end": 425.9,
-    "zh": "如果他们搬到佛罗里达或西班牙",
-    "zh_hant": "如果他們搬到佛羅里達或西班牙"
+    "zh": "如果他们搬到佛罗里达或西班牙，",
+    "zh_hant": "如果他們搬到佛羅里達或西班牙，"
   },
   {
-    "index": 116,
+    "index": 107,
     "text": "they buy a house with the money, the equity in the existing house.",
     "start": 426.14,
     "end": 431.823,
-    "zh": "他们会用现有房子的净值买房子。",
-    "zh_hant": "他們會用現有房子的淨值買房子。"
+    "zh": "他们会用现有房子的产权收入来买新房子。",
+    "zh_hant": "他們會用現有房子的產權收入來買新房子。"
   },
   {
-    "index": 117,
-    "text": "During the financial crisis, the price of gasoline",
+    "index": 108,
+    "text": "During the financial crisis, the price of gasoline fell by 50%.",
     "start": 431.963,
-    "end": 437.025,
-    "zh": "在金融危机期间，汽油价格",
-    "zh_hant": "在金融危機期間，汽油價格"
-  },
-  {
-    "index": 118,
-    "text": "fell by 50%.",
-    "start": 437.106,
     "end": 438.73,
-    "zh": "下跌了50%。",
-    "zh_hant": "下跌了50%。"
+    "zh": "在金融危机期间，汽油价格下降了50%。",
+    "zh_hant": "在金融危機期間，汽油價格下降了50%。"
   },
   {
-    "index": 119,
+    "index": 109,
     "text": "All of a sudden, people have extra Money in their gasoline budget.",
     "start": 438.646,
     "end": 443.969,
-    "zh": "突然间，人们在汽油预算中有了额外的钱。",
-    "zh_hant": "突然間，人們在汽油預算中有了額外的錢。"
+    "zh": "突然间，人们的汽油预算中有了多余的钱。",
+    "zh_hant": "突然間，人們的汽油預算中有了多餘的錢。"
   },
   {
-    "index": 120,
+    "index": 110,
     "text": "So economic theory says, well, there's an income effect and a substitution effect.",
     "start": 444.069,
     "end": 449.992,
-    "zh": "所以经济理论说，嗯，有收入效应和替代效应。",
-    "zh_hant": "所以經濟理論說，嗯，有收入效應和替代效應。"
+    "zh": "经济理论说，嗯，存在收入效应和替代效应。",
+    "zh_hant": "經濟理論說，嗯，存在收入效應和替代效應。"
   },
   {
-    "index": 121,
+    "index": 111,
     "text": "So you're a little richer, so you spend a little bit more on everything.",
     "start": 449.872,
     "end": 454.374,
-    "zh": "所以你更富一点，你在每样东西上花得更多一些。",
-    "zh_hant": "所以你更富一點，你在每樣東西上花得更多一些。"
+    "zh": "所以你稍微富了一点，所以你在所有东西上都多花一点。",
+    "zh_hant": "所以你稍微富了一點，所以你在所有東西上都多花一點。"
   },
   {
-    "index": 122,
+    "index": 112,
     "text": "And gasoline is cheaper, so maybe you take a bit more road trips.",
     "start": 454.855,
     "end": 460.777,
-    "zh": "而且汽油更便宜，所以也许你多进行了一些公路旅行。",
-    "zh_hant": "而且汽油更便宜，所以也許你多進行了一些公路旅行。"
+    "zh": "汽油更便宜了，所以也许你会多开车旅行。",
+    "zh_hant": "汽油更便宜了，所以也許你會多開車旅行。"
   },
   {
-    "index": 123,
+    "index": 113,
     "text": "What did people do?",
     "start": 461.538,
     "end": 462.818,
@@ -992,135 +912,135 @@
     "zh_hant": "人們做了什麼？"
   },
   {
-    "index": 124,
+    "index": 114,
     "text": "They did those two things,",
     "start": 462.519,
     "end": 464.659,
-    "zh": "他们做了这两件事",
-    "zh_hant": "他們做了這兩件事"
+    "zh": "他们做了那两件事，",
+    "zh_hant": "他們做了那兩件事，"
   },
   {
-    "index": 125,
-    "text": "but they also oddly treated their cars to occasional",
+    "index": 115,
+    "text": "but they also oddly treated their cars to occasional fill-ups",
     "start": 464.309,
-    "end": 470.022,
-    "zh": "但他们还奇怪地偶尔给自己的车",
-    "zh_hant": "但他們還奇怪地偶爾給自己的車"
+    "end": 471.243,
+    "zh": "但他们也奇怪地偶尔给车加更贵的汽油。",
+    "zh_hant": "但他們也奇怪地偶爾給車加更貴的汽油。"
   },
   {
-    "index": 126,
-    "text": "fill-ups of more expensive gasoline.",
-    "start": 470.222,
+    "index": 116,
+    "text": "of more expensive gasoline.",
+    "start": 470.893,
     "end": 473.484,
-    "zh": "加更贵的汽油。",
-    "zh_hant": "加更貴的汽油。"
+    "zh": "更昂贵的汽油。",
+    "zh_hant": "更昂貴的汽油。"
   },
   {
-    "index": 127,
+    "index": 117,
     "text": "Yeah, because you got all the money in the gasoline account.",
     "start": 473.204,
     "end": 475.765,
-    "zh": "是的，因为你在汽油账户里有钱。",
-    "zh_hant": "是的，因為你在汽油賬戶裡有錢。"
+    "zh": "是的，因为汽油账户里所有的钱都在。",
+    "zh_hant": "是的，因為汽油賬戶裡所有的錢都在。"
   },
   {
-    "index": 128,
+    "index": 118,
     "text": "Yeah, what are we going to do with that?",
     "start": 475.415,
     "end": 477.606,
-    "zh": "是的，我们该怎么用呢？",
-    "zh_hant": "是的，我們該怎麼用呢？"
+    "zh": "是的，我们拿这些钱做什么呢？",
+    "zh_hant": "是的，我們拿這些錢做什麼呢？"
   },
   {
-    "index": 129,
+    "index": 119,
     "text": "How many times can we go visit grandma?",
     "start": 477.526,
     "end": 479.787,
-    "zh": "我们能去奶奶家几次？",
-    "zh_hant": "我們能去奶奶家幾次？"
+    "zh": "我们能去看奶奶几次？",
+    "zh_hant": "我們能去看奶奶幾次？"
   },
   {
-    "index": 130,
+    "index": 120,
     "text": "I would have gone for better olive oil or better wine.",
     "start": 479.927,
     "end": 483.589,
-    "zh": "我会选择更好的橄榄油或更好的葡萄酒。",
-    "zh_hant": "我會選擇更好的橄欖油或更好的葡萄酒。"
+    "zh": "我本来会选择更好的橄榄油或更好的葡萄酒。",
+    "zh_hant": "我本來會選擇更好的橄欖油或更好的葡萄酒。"
   },
   {
-    "index": 131,
+    "index": 121,
     "text": "That would be my advice.",
     "start": 484.029,
     "end": 486.23,
-    "zh": "那是我的建议。",
-    "zh_hant": "那是我的建議。"
+    "zh": "那会是我的建议。",
+    "zh_hant": "那會是我的建議。"
   },
   {
-    "index": 132,
-    "text": "The field of behavioral economics now is mostly done",
+    "index": 122,
+    "text": "The field of behavioral economics",
     "start": 487.73,
-    "end": 492.332,
-    "zh": "行为经济学领域现在大多利用",
-    "zh_hant": "行為經濟學領域現在大多利用"
+    "end": 490.231,
+    "zh": "行为经济学领域",
+    "zh_hant": "行為經濟學領域"
   },
   {
-    "index": 133,
-    "text": "with millions of people shopping in real places,",
-    "start": 492.553,
+    "index": 123,
+    "text": "now is mostly done with millions of people shopping in real places,",
+    "start": 490.071,
     "end": 497.555,
-    "zh": "数百万人在真实场所的购物数据",
-    "zh_hant": "數百萬人在真實場所的購物資料"
+    "zh": "现在大多基于数百万人在真实场所的购物行为，",
+    "zh_hant": "現在大多基於數百萬人在真實場所的購物行為，"
   },
   {
-    "index": 134,
+    "index": 124,
     "text": "not relying on lab experiments,",
     "start": 497.575,
     "end": 500.356,
-    "zh": "而不是依赖实验室实验",
-    "zh_hant": "而不是依賴實驗室實驗"
+    "zh": "不再依赖实验室实验，",
+    "zh_hant": "不再依賴實驗室實驗，"
   },
   {
-    "index": 135,
-    "text": "but the good news is that the lab experiments",
+    "index": 125,
+    "text": "but the good news is that the lab experiments I reported thirty years ago",
     "start": 500.297,
-    "end": 504.358,
-    "zh": "但好消息是，我在30年前报告的实验",
-    "zh_hant": "但好訊息是，我在30年前報告的實驗"
+    "end": 506.699,
+    "zh": "但好消息是，我三十年前报告的实验室实验",
+    "zh_hant": "但好訊息是，我三十年前報告的實驗室實驗"
   },
   {
-    "index": 136,
-    "text": "I reported thirty years ago all replicate.",
-    "start": 504.459,
+    "index": 126,
+    "text": "all replicate.",
+    "start": 506.94,
     "end": 508.24,
-    "zh": "都得到了重复验证。",
-    "zh_hant": "都得到了重複驗證。"
+    "zh": "都得到了复现。",
+    "zh_hant": "都得到了復現。"
   },
   {
-    "index": 137,
-    "text": "And in fact, My co-author has provided",
+    "index": 127,
+    "text": "And in fact, My co-author has provided a website",
     "start": 507.89,
-    "end": 512.342,
-    "zh": "事实上，我的合著者提供了一个",
-    "zh_hant": "事實上，我的合著者提供了一個"
+    "end": 513.403,
+    "zh": "事实上，我的合著者提供了一个网站，",
+    "zh_hant": "事實上，我的合著者提供了一個網站，"
   },
   {
-    "index": 138,
-    "text": "a website where anybody can replicate any of the experiments at home for fun,",
-    "start": 512.242,
+    "index": 128,
+    "text": "where anybody can replicate any of the experiments at home for fun,",
+    "start": 513.053,
     "end": 517.885,
-    "zh": "网站，任何人都可以在家重复任何实验，为了好玩",
-    "zh_hant": "網站，任何人都可以在家重複任何實驗，為了好玩"
+    "zh": "任何人都可以在家复现任何实验，如果好玩的话，",
+    "zh_hant": "任何人都可以在家復現任何實驗，如果好玩的話，"
   },
   {
-    "index": 139,
+    "index": 129,
     "text": "if that's your idea of fun.",
     "start": 518.065,
     "end": 519.586,
-    "zh": "如果那是你觉得有趣的事。",
-    "zh_hant": "如果那是你覺得有趣的事。"
+    "zh": "如果那是你觉得好玩的方式。",
+    "zh_hant": "如果那是你覺得好玩的方式。"
   },
   {
-    "index": 140,
+    "index": 130,
     "text": "Yeah.",
     "start": 519.406,
     "end": 520.066,
@@ -1128,7 +1048,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 141,
+    "index": 131,
     "text": "No.",
     "start": 519.726,
     "end": 520.306,
@@ -1136,7 +1056,7 @@
     "zh_hant": "不。"
   },
   {
-    "index": 142,
+    "index": 132,
     "text": "Well, why not?",
     "start": 520.106,
     "end": 521.046,
@@ -1144,15 +1064,15 @@
     "zh_hant": "嗯，為什麼不呢？"
   },
   {
-    "index": 143,
+    "index": 133,
     "text": "It would be.",
     "start": 520.696,
     "end": 521.427,
-    "zh": "会是这样的。",
-    "zh_hant": "會是這樣的。"
+    "zh": "会是很好玩的。",
+    "zh_hant": "會是很好玩的。"
   },
   {
-    "index": 144,
+    "index": 134,
     "text": "Yeah.",
     "start": 521.267,
     "end": 521.947,
@@ -1160,7 +1080,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 145,
+    "index": 135,
     "text": "Try it.",
     "start": 521.627,
     "end": 522.587,
@@ -1168,15 +1088,15 @@
     "zh_hant": "試試吧。"
   },
   {
-    "index": 146,
+    "index": 136,
     "text": "Yeah, exactly.",
     "start": 522.237,
     "end": 523.308,
-    "zh": "是的，正是。",
-    "zh_hant": "是的，正是。"
+    "zh": "是的，没错。",
+    "zh_hant": "是的，沒錯。"
   },
   {
-    "index": 147,
+    "index": 137,
     "text": "Thank you so much, Richard.",
     "start": 524.949,
     "end": 526.229,
@@ -1184,47 +1104,39 @@
     "zh_hant": "非常感謝你，理查德。"
   },
   {
-    "index": 148,
+    "index": 138,
     "text": "It's been a pleasure as always, Tim.",
     "start": 526.049,
     "end": 527.56,
-    "zh": "一如既往，蒂姆，我很愉快。",
-    "zh_hant": "一如既往，蒂姆，我很愉快。"
+    "zh": "一如既往地愉快，蒂姆。",
+    "zh_hant": "一如既往地愉快，蒂姆。"
   },
   {
-    "index": 149,
+    "index": 139,
     "text": "I've been talking to Richard Taylor, the co-author of The Winner's Curse.",
     "start": 527.16,
     "end": 531.996,
-    "zh": "我在和理查德·泰勒交谈，他是《赢家的诅咒》的合著者。",
-    "zh_hant": "我在和理查德·泰勒交談，他是《贏家的詛咒》的合著者。"
+    "zh": "刚才和我对话的是理查德·塞勒，《赢家的诅咒》的合著者。",
+    "zh_hant": "剛才和我對話的是理查德·塞勒，《贏家的詛咒》的合著者。"
   },
   {
-    "index": 150,
+    "index": 140,
     "text": "And that's all we have time for.",
     "start": 532.077,
     "end": 533.739,
-    "zh": "我们时间就到这里。",
-    "zh_hant": "我們時間就到這裡。"
+    "zh": "我们的时间就到这里。",
+    "zh_hant": "我們的時間就到這裡。"
   },
   {
-    "index": 151,
-    "text": "But please keep your questions and your comments coming",
+    "index": 141,
+    "text": "But please keep your questions and your comments coming in to More or Less at bbc.co.uk. Until next.",
     "start": 533.389,
-    "end": 536.082,
-    "zh": "但请继续把你的问题和评论发送到",
-    "zh_hant": "但請繼續把你的問題和評論傳送到"
-  },
-  {
-    "index": 152,
-    "text": "in to More or Less at bbc.co.uk. Until next.",
-    "start": 535.732,
     "end": 540.408,
-    "zh": "More or Less，通过bbc.co.uk。下周",
-    "zh_hant": "More or Less，透過bbc.co.uk。下週"
+    "zh": "但请继续把你们的问题和评论发送到《多与少》节目，地址是bbc.co.uk。下周",
+    "zh_hant": "但請繼續把你們的問題和評論傳送到《多與少》節目，地址是bbc.co.uk。下週"
   },
   {
-    "index": 153,
+    "index": 142,
     "text": "Week, goodbye.",
     "start": 540.058,
     "end": 541.71,

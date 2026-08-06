@@ -4,24 +4,24 @@
     "text": "Hello, and thanks for downloading the More or Less podcast.",
     "start": 0.0,
     "end": 2.931,
-    "zh": "你好，感谢下载《更多还是更少》播客。",
-    "zh_hant": "你好，感謝下載《更多還是更少》播客。"
+    "zh": "你好，感谢下载“多一点或少一点”播客。",
+    "zh_hant": "你好，感謝下載“多一點或少一點”播客。"
   },
   {
     "index": 1,
     "text": "We're the programme that disentangles numerical claims in the news,",
     "start": 3.012,
     "end": 6.913,
-    "zh": "我们是剖析新闻中数字主张的节目，",
-    "zh_hant": "我們是剖析新聞中數字主張的節目，"
+    "zh": "我们是解读新闻中数字说法的节目，",
+    "zh_hant": "我們是解讀新聞中數字說法的節目，"
   },
   {
     "index": 2,
     "text": "in life, and in the social media posts of world leaders.",
     "start": 6.563,
     "end": 10.475,
-    "zh": "涉及生活，以及世界领导人社交媒体帖子中的内容。",
-    "zh_hant": "涉及生活，以及世界領導人社交媒體帖子中的內容。"
+    "zh": "涉及生活，以及世界领导人在社交媒体上的帖子。",
+    "zh_hant": "涉及生活，以及世界領導人在社交媒體上的帖子。"
   },
   {
     "index": 3,
@@ -60,16 +60,16 @@
     "text": "Yes, he channelled his ex, The Apprentice days,",
     "start": 23.062,
     "end": 26.463,
-    "zh": "是的，他再现了《学徒》时代的风采，",
-    "zh_hant": "是的，他再現了《學徒》時代的風采，"
+    "zh": "是的，他重现了当年在《学徒》节目里的风格，",
+    "zh_hant": "是的，他重現了當年在《學徒》節目裡的風格，"
   },
   {
     "index": 8,
     "text": "and fired the head of the US Bureau of Labour Statistics, Erica McIntarfer.",
     "start": 26.113,
     "end": 31.465,
-    "zh": "解雇了美国劳工统计局局长埃里卡·麦金塔弗。",
-    "zh_hant": "解僱了美國勞工統計局局長埃裡卡·麥金塔弗。"
+    "zh": "解雇了美国劳工统计局负责人埃里卡·麦金塔夫。",
+    "zh_hant": "解僱了美國勞工統計局負責人埃裡卡·麥金塔夫。"
   },
   {
     "index": 9,
@@ -81,30 +81,22 @@
   },
   {
     "index": 10,
-    "text": "or BLS, is a federal agency that produces information",
+    "text": "or BLS, is a federal agency that produces information about the US labour market and consumer prices.",
     "start": 33.597,
-    "end": 37.789,
-    "zh": "简称BLS，是一家联邦机构，负责发布信息",
-    "zh_hant": "簡稱BLS，是一家聯邦機構，負責釋出資訊"
+    "end": 40.45,
+    "zh": "简称BLS，是一个联邦机构，负责发布美国劳动力市场和消费者价格的信息。",
+    "zh_hant": "簡稱BLS，是一個聯邦機構，負責釋出美國勞動力市場和消費者價格的資訊。"
   },
   {
     "index": 11,
-    "text": "about the US labour market and consumer prices.",
-    "start": 37.549,
-    "end": 40.45,
-    "zh": "关于美国劳动力市场和消费者价格。",
-    "zh_hant": "關於美國勞動力市場和消費者價格。"
-  },
-  {
-    "index": 12,
     "text": "Now, a president hiring and firing people in and of itself is not shocking.",
     "start": 40.75,
     "end": 46.253,
-    "zh": "总统雇佣和解雇人员本身并不令人震惊。",
-    "zh_hant": "總統僱傭和解僱人員本身並不令人震驚。"
+    "zh": "总统任命或解雇人员本身并不令人震惊。",
+    "zh_hant": "總統任命或解僱人員本身並不令人震驚。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "They do have the right to do that.",
     "start": 46.233,
     "end": 47.994,
@@ -112,15 +104,15 @@
     "zh_hant": "他們確實有權這麼做。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "The problem lies in why McIntarfer was fired and what the president has said about the firing.",
     "start": 48.314,
     "end": 54.617,
-    "zh": "问题在于麦金塔弗被解雇的原因，以及总统对此次解雇的言论。",
-    "zh_hant": "問題在於麥金塔弗被解僱的原因，以及總統對此次解僱的言論。"
+    "zh": "问题在于麦金塔夫为什么被解雇，以及总统对这次解雇说了什么。",
+    "zh_hant": "問題在於麥金塔夫為什麼被解僱，以及總統對這次解僱說了什麼。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "The numbers were phony.",
     "start": 54.267,
     "end": 55.818,
@@ -128,7 +120,7 @@
     "zh_hant": "這些數字是假的。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "The numbers were ridiculous.",
     "start": 55.468,
     "end": 57.138,
@@ -136,15 +128,15 @@
     "zh_hant": "這些數字荒謬至極。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "So, what is going on, and why does any of it matter?",
     "start": 57.239,
     "end": 62.261,
-    "zh": "那么，到底发生了什么，为什么这一切都很重要？",
-    "zh_hant": "那麼，到底發生了什麼，為什麼這一切都很重要？"
+    "zh": "那么，到底发生了什么，为什么这很重要？",
+    "zh_hant": "那麼，到底發生了什麼，為什麼這很重要？"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "Let's take you back to Friday, the 1st of August.",
     "start": 62.901,
     "end": 66.343,
@@ -152,79 +144,71 @@
     "zh_hant": "讓我們回到8月1日星期五。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "New jobs numbers just out, you can see them behind me.",
     "start": 68.304,
     "end": 72.246,
-    "zh": "新的就业数据刚出炉，你可以在我身后看到。",
-    "zh_hant": "新的就業資料剛出爐，你可以在我身後看到。"
+    "zh": "新的就业数据刚刚出炉，你可以在我身后看到。",
+    "zh_hant": "新的就業資料剛剛出爐，你可以在我身後看到。"
+  },
+  {
+    "index": 19,
+    "text": "In July, the U.S. added just 73,000 new jobs,",
+    "start": 71.906,
+    "end": 76.368,
+    "zh": "7月份，美国仅新增了7.3万个就业岗位，",
+    "zh_hant": "7月份，美國僅新增了7.3萬個就業崗位，"
   },
   {
     "index": 20,
-    "text": "In July, the U.S. added just 73,000 new jobs, below expectations,",
-    "start": 71.906,
-    "end": 77.828,
-    "zh": "7月，美国仅新增73,000个工作岗位，低于预期，",
-    "zh_hant": "7月，美國僅新增73,000個工作崗位，低於預期，"
+    "text": "below expectations, the unemployment rate at 4.2%.",
+    "start": 76.018,
+    "end": 79.46,
+    "zh": "低于预期，失业率为4.2%。",
+    "zh_hant": "低於預期，失業率為4.2%。"
   },
   {
     "index": 21,
-    "text": "the unemployment rate at 4.2%.",
-    "start": 77.478,
-    "end": 79.46,
-    "zh": "失业率为4.2%。",
-    "zh_hant": "失業率為4.2%。"
+    "text": "But the big news, really big news, major revisions for May and June.",
+    "start": 79.51,
+    "end": 86.213,
+    "zh": "但大新闻，真正的大新闻，是对5月和6月数据的大幅修正。",
+    "zh_hant": "但大新聞，真正的大新聞，是對5月和6月資料的大幅修正。"
   },
   {
     "index": 22,
-    "text": "But the big news, really big news, major",
-    "start": 79.51,
-    "end": 83.772,
-    "zh": "但大新闻，真正的大新闻，重大",
-    "zh_hant": "但大新聞，真正的大新聞，重大"
-  },
-  {
-    "index": 23,
-    "text": "revisions for May and June.",
-    "start": 83.592,
-    "end": 86.213,
-    "zh": "对5月和6月数据的修正。",
-    "zh_hant": "對5月和6月資料的修正。"
-  },
-  {
-    "index": 24,
     "text": "Major downward revisions.",
     "start": 85.863,
     "end": 88.534,
-    "zh": "大幅向下修正。",
-    "zh_hant": "大幅向下修正。"
+    "zh": "大幅下调。",
+    "zh_hant": "大幅下調。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Those months, much, much worse than thought.",
     "start": 88.184,
     "end": 91.556,
-    "zh": "那几个月，情况比想象中糟糕得多。",
-    "zh_hant": "那幾個月，情況比想象中糟糕得多。"
+    "zh": "那几个月的情况比想象中糟糕得多。",
+    "zh_hant": "那幾個月的情況比想象中糟糕得多。"
+  },
+  {
+    "index": 24,
+    "text": "Well, on Friday, the Bureau of Labor Statistics",
+    "start": 91.356,
+    "end": 94.977,
+    "zh": "好吧，周五，美国劳工统计局",
+    "zh_hant": "好吧，週五，美國勞工統計局"
+  },
+  {
+    "index": 25,
+    "text": "in the United States released information about the labor market for July,",
+    "start": 94.627,
+    "end": 100.72,
+    "zh": "发布了7月份的劳动力市场信息，",
+    "zh_hant": "釋出了7月份的勞動力市場資訊，"
   },
   {
     "index": 26,
-    "text": "Well, on Friday, the Bureau of Labor Statistics in the United States released",
-    "start": 91.356,
-    "end": 96.378,
-    "zh": "周五，美国劳工统计局发布了",
-    "zh_hant": "週五，美國勞工統計局釋出了"
-  },
-  {
-    "index": 27,
-    "text": "information about the labor market for July,",
-    "start": 96.028,
-    "end": 100.72,
-    "zh": "7月劳动力市场的信息，",
-    "zh_hant": "7月勞動力市場的資訊，"
-  },
-  {
-    "index": 28,
     "text": "and for May, and for June.",
     "start": 100.52,
     "end": 102.401,
@@ -232,31 +216,23 @@
     "zh_hant": "以及5月和6月的資料。"
   },
   {
-    "index": 29,
-    "text": "And the number of net new jobs added in those months",
+    "index": 27,
+    "text": "And the number of net new jobs added in those months looked relatively weak.",
     "start": 102.221,
-    "end": 107.203,
-    "zh": "这些月净新增工作岗位的数量",
-    "zh_hant": "這些月淨新增工作崗位的數量"
-  },
-  {
-    "index": 30,
-    "text": "looked relatively weak.",
-    "start": 107.143,
     "end": 108.744,
-    "zh": "看起来相对疲弱。",
-    "zh_hant": "看起來相對疲弱。"
+    "zh": "这些月份新增的净就业岗位数看起来相对疲软。",
+    "zh_hant": "這些月份新增的淨就業崗位數看起來相對疲軟。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "I'm Michael Strain.",
     "start": 108.664,
     "end": 109.805,
-    "zh": "我是迈克尔·斯特兰。",
-    "zh_hant": "我是邁克爾·斯特蘭。"
+    "zh": "我是迈克尔·斯特雷恩。",
+    "zh_hant": "我是邁克爾·斯特雷恩。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "I'm an economist with the American Enterprise Institute and a professor at Georgetown.",
     "start": 109.455,
     "end": 114.087,
@@ -264,143 +240,135 @@
     "zh_hant": "我是美國企業研究所的經濟學家，也是喬治城大學的教授。"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "The May and June figures were revised downward by about a quarter million.",
     "start": 114.107,
     "end": 118.549,
-    "zh": "5月和6月的数据向下修正了约25万。",
-    "zh_hant": "5月和6月的資料向下修正了約25萬。"
+    "zh": "5月和6月的数据被下调了大约25万。",
+    "zh_hant": "5月和6月的資料被下調了大約25萬。"
   },
   {
-    "index": 34,
-    "text": "If you looked at the data for May, June, and July together,",
+    "index": 31,
+    "text": "If you looked at the data for May, June,",
     "start": 118.749,
-    "end": 122.151,
-    "zh": "如果把5月、6月和7月的数据放在一起看，",
-    "zh_hant": "如果把5月、6月和7月的資料放在一起看，"
+    "end": 120.93,
+    "zh": "如果你把5月、6月",
+    "zh_hant": "如果你把5月、6月"
   },
   {
-    "index": 35,
-    "text": "the underlying pace of monthly job growth looks to be around 35,000 jobs a month,",
-    "start": 121.931,
+    "index": 32,
+    "text": "and July together, the underlying pace of monthly job growth looks to be around 35,000 jobs a month,",
+    "start": 120.58,
     "end": 126.993,
-    "zh": "月度就业增长的基本步伐大约为每月35,000个岗位，",
-    "zh_hant": "月度就業增長的基本步伐大約為每月35,000個崗位，"
+    "zh": "和7月的数据放在一起看，月度就业增长的基本速度看起来大约是每月3.5万个岗位，",
+    "zh_hant": "和7月的資料放在一起看，月度就業增長的基本速度看起來大約是每月3.5萬個崗位，"
   },
   {
-    "index": 36,
+    "index": 33,
     "text": "which is on the low side.",
     "start": 127.054,
     "end": 129.635,
-    "zh": "这处于较低水平。",
-    "zh_hant": "這處於較低水平。"
+    "zh": "这属于偏低水平。",
+    "zh_hant": "這屬於偏低水平。"
   },
   {
-    "index": 37,
-    "text": "I think President Trump was concerned that tepid job growth was a Political liability",
+    "index": 34,
+    "text": "I think President Trump was concerned",
     "start": 129.375,
-    "end": 135.598,
-    "zh": "我认为特朗普总统担心疲弱的就业增长是政治负担，",
-    "zh_hant": "我認為特朗普總統擔心疲弱的就業增長是政治負擔，"
+    "end": 131.996,
+    "zh": "我认为特朗普总统担心",
+    "zh_hant": "我認為特朗普總統擔心"
   },
   {
-    "index": 38,
-    "text": "that would be used by people,",
-    "start": 135.358,
+    "index": 35,
+    "text": "that tepid job growth was a Political liability that would be used by people,",
+    "start": 131.676,
     "end": 138.819,
-    "zh": "会被那些",
-    "zh_hant": "會被那些"
+    "zh": "疲软的就业增长会成为政治负担，可能被人利用，",
+    "zh_hant": "疲軟的就業增長會成為政治負擔，可能被人利用，"
   },
   {
-    "index": 39,
+    "index": 36,
     "text": "who are concerned about his trade policy and his immigration policy,",
     "start": 138.469,
     "end": 143.241,
-    "zh": "关注他贸易政策和移民政策的人利用，",
-    "zh_hant": "關注他貿易政策和移民政策的人利用，"
+    "zh": "那些关心他贸易政策和移民政策的人，",
+    "zh_hant": "那些關心他貿易政策和移民政策的人，"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "to indicate those policies aren't working.",
     "start": 143.162,
     "end": 145.262,
-    "zh": "以表明这些政策不起作用。",
-    "zh_hant": "以表明這些政策不起作用。"
+    "zh": "用来表明这些政策不起作用。",
+    "zh_hant": "用來表明這些政策不起作用。"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "And so the president shot the messenger.",
     "start": 144.963,
     "end": 146.803,
-    "zh": "所以总统解雇了带来消息的人。",
-    "zh_hant": "所以總統解僱了帶來訊息的人。"
+    "zh": "所以总统对传递信息的人开了刀。",
+    "zh_hant": "所以總統對傳遞資訊的人開了刀。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "Not literally, thank goodness, this isn't Soviet Russia.",
     "start": 146.803,
     "end": 151.546,
-    "zh": "不是字面意义上的枪杀，谢天谢地，这不是苏联。",
-    "zh_hant": "不是字面意義上的槍殺，謝天謝地，這不是蘇聯。"
+    "zh": "不是字面上的杀，谢天谢地，这不是苏联。",
+    "zh_hant": "不是字面上的殺，謝天謝地，這不是蘇聯。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "By the way, they did shoot one of their leading statisticians when they didn't like the numbers.",
     "start": 151.506,
     "end": 156.508,
-    "zh": "顺便说一句，当他们不喜欢数字时，确实枪杀过一位顶尖统计学家。",
-    "zh_hant": "順便說一句，當他們不喜歡數字時，確實槍殺過一位頂尖統計學家。"
+    "zh": "顺便说一句，当年在苏联，数字不合意时他们真的枪毙过一位顶尖统计学家。",
+    "zh_hant": "順便說一句，當年在蘇聯，數字不合意時他們真的槍斃過一位頂尖統計學家。"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "Time for a bit of context.",
     "start": 156.648,
     "end": 158.649,
-    "zh": "是时候了解一下背景了。",
-    "zh_hant": "是時候瞭解一下背景了。"
+    "zh": "该来点背景了。",
+    "zh_hant": "該來點背景了。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "The number of jobs in May was revised down by 125,000,",
     "start": 158.589,
     "end": 162.762,
-    "zh": "5月的就业人数下修了125,000，",
-    "zh_hant": "5月的就業人數下修了125,000，"
+    "zh": "5月份的就业人数被下调了12.5万，",
+    "zh_hant": "5月份的就業人數被下調了12.5萬，"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "and the number from June fell by 133,000.",
     "start": 162.812,
     "end": 166.544,
-    "zh": "6月的数据下降了133,000。",
-    "zh_hant": "6月的資料下降了133,000。"
+    "zh": "6月份的数字则下降了13.3万。",
+    "zh_hant": "6月份的數字則下降了13.3萬。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Now, the total number of Employees in the US is nearly 160 million.",
     "start": 166.594,
     "end": 172.016,
-    "zh": "美国雇员总数接近1.6亿。",
-    "zh_hant": "美國僱員總數接近1.6億。"
+    "zh": "现在，美国的雇员总数接近1.6亿。",
+    "zh_hant": "現在，美國的僱員總數接近1.6億。"
   },
   {
-    "index": 48,
-    "text": "So, as a percentage of the total, the margin of error for each of the two months",
+    "index": 45,
+    "text": "So, as a percentage of the total, the margin of error for each of the two months was less than 0.2%.",
     "start": 172.036,
-    "end": 176.999,
-    "zh": "所以，作为总数的百分比，这两个月的误差幅度",
-    "zh_hant": "所以，作為總數的百分比，這兩個月的誤差幅度"
-  },
-  {
-    "index": 49,
-    "text": "was less than 0.2%.",
-    "start": 176.659,
     "end": 180.21,
-    "zh": "都低于0.2%。",
-    "zh_hant": "都低於0.2%。"
+    "zh": "所以，作为总数的百分比，这两个月的误差幅度都不到0.2%。",
+    "zh_hant": "所以，作為總數的百分比，這兩個月的誤差幅度都不到0.2%。"
   },
   {
-    "index": 50,
+    "index": 46,
     "text": "Not too wild, you might think.",
     "start": 180.26,
     "end": 182.381,
@@ -408,31 +376,31 @@
     "zh_hant": "你可能覺得這不算太離譜。"
   },
   {
-    "index": 51,
+    "index": 47,
     "text": "However, since the firing, Trump has defended himself, throwing doubt on the data.",
     "start": 182.802,
     "end": 188.364,
-    "zh": "然而，自解雇以来，特朗普一直为自己辩护，对数据提出质疑。",
-    "zh_hant": "然而，自解僱以來，特朗普一直為自己辯護，對資料提出質疑。"
+    "zh": "然而，自解雇以来，特朗普为自己辩护，对数据提出质疑。",
+    "zh_hant": "然而，自解僱以來，特朗普為自己辯護，對資料提出質疑。"
   },
   {
-    "index": 52,
+    "index": 48,
     "text": "Why should anybody trust numbers?",
     "start": 188.324,
     "end": 190.385,
-    "zh": "为什么有人应该相信这些数字？",
-    "zh_hant": "為什麼有人應該相信這些數字？"
+    "zh": "为什么有人要相信这些数字？",
+    "zh_hant": "為什麼有人要相信這些數字？"
   },
   {
-    "index": 53,
+    "index": 49,
     "text": "I believe the numbers were phony, just like they were before the election, and there were other times.",
     "start": 190.245,
     "end": 195.608,
-    "zh": "我相信这些数字是假的，就像选举前一样，还有其他时候。",
-    "zh_hant": "我相信這些數字是假的，就像選舉前一樣，還有其他時候。"
+    "zh": "我相信这些数字是假的，就像选举前一样，还有过去其他时候。",
+    "zh_hant": "我相信這些數字是假的，就像選舉前一樣，還有過去其他時候。"
   },
   {
-    "index": 54,
+    "index": 50,
     "text": "So, you know what I did?",
     "start": 195.258,
     "end": 196.568,
@@ -440,7 +408,7 @@
     "zh_hant": "所以，你知道我做了什麼嗎？"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "I fired her.",
     "start": 196.218,
     "end": 197.269,
@@ -448,39 +416,39 @@
     "zh_hant": "我解僱了她。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "He's also taken to his social media platform, Truth.",
     "start": 197.329,
     "end": 200.471,
-    "zh": "他还用上了他的社交媒体平台“真相”。",
-    "zh_hant": "他還用上了他的社交媒體平臺“真相”。"
+    "zh": "他还在自己的社交媒体平台Truth上发言。",
+    "zh_hant": "他還在自己的社交媒體平臺Truth上發言。"
   },
   {
-    "index": 57,
+    "index": 53,
     "text": "Social media, with long posts talking about rigged data,",
     "start": 200.121,
     "end": 203.852,
-    "zh": "社交媒体上，长篇帖子谈论操纵的数据，",
-    "zh_hant": "社交媒體上，長篇帖子談論操縱的資料，"
+    "zh": "社交媒体上，长篇大论谈论被操纵的数据，",
+    "zh_hant": "社交媒體上，長篇大論談論被操縱的資料，"
   },
   {
-    "index": 58,
+    "index": 54,
     "text": "phony numbers, and biased statisticians purposefully falsifying the data for political purposes.",
     "start": 203.652,
     "end": 209.455,
-    "zh": "虚假的数字，以及出于政治目的故意伪造数据的偏见统计学家。",
-    "zh_hant": "虛假的數字，以及出於政治目的故意偽造資料的偏見統計學家。"
+    "zh": "虚假的数字，以及有偏见的统计学家出于政治目的故意伪造数据。",
+    "zh_hant": "虛假的數字，以及有偏見的統計學家出於政治目的故意偽造資料。"
   },
   {
-    "index": 59,
+    "index": 55,
     "text": "And the White House has not produced a shred of evidence supporting that assertion,",
     "start": 209.375,
     "end": 215.338,
-    "zh": "白宫没有拿出任何证据支持这一说法，",
-    "zh_hant": "白宮沒有拿出任何證據支援這一說法，"
+    "zh": "而白宫没有拿出任何证据支持这一说法，",
+    "zh_hant": "而白宮沒有拿出任何證據支援這一說法，"
   },
   {
-    "index": 60,
+    "index": 56,
     "text": "and there is every reason to believe that that assertion is false.",
     "start": 215.398,
     "end": 220.66,
@@ -488,23 +456,15 @@
     "zh_hant": "而且有充分理由相信這一說法是虛假的。"
   },
   {
-    "index": 61,
-    "text": "Because, as many, many people have pointed out,",
+    "index": 57,
+    "text": "Because, as many, many people have pointed out, data revisions are completely normal.",
     "start": 220.541,
-    "end": 224.082,
-    "zh": "因为，正如许多人指出的那样，",
-    "zh_hant": "因為，正如許多人指出的那樣，"
-  },
-  {
-    "index": 62,
-    "text": "data revisions are completely normal.",
-    "start": 224.122,
     "end": 227.064,
-    "zh": "数据修正是完全正常的。",
-    "zh_hant": "資料修正是完全正常的。"
+    "zh": "因为，正如许多许多人指出的，数据修正是完全正常的。",
+    "zh_hant": "因為，正如許多許多人指出的，資料修正是完全正常的。"
   },
   {
-    "index": 63,
+    "index": 58,
     "text": "Completely.",
     "start": 227.224,
     "end": 228.284,
@@ -512,127 +472,119 @@
     "zh_hant": "完全正常。"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "And the job market figures from the BLS are revised downwards or upwards every month.",
     "start": 228.284,
     "end": 233.747,
-    "zh": "BLS的就业市场数据每个月都会向下或向上修正。",
-    "zh_hant": "BLS的就業市場資料每個月都會向下或向上修正。"
+    "zh": "BLS的就业市场数据每个月都会向上或向下修正。",
+    "zh_hant": "BLS的就業市場資料每個月都會向上或向下修正。"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "This is largely because the stat is based on surveys, and businesses often return their surveys late.",
     "start": 234.627,
     "end": 240.21,
-    "zh": "这主要是因为统计数据基于调查，而企业经常延迟提交调查表。",
-    "zh_hant": "這主要是因為統計資料基於調查，而企業經常延遲提交調查表。"
+    "zh": "这主要是因为该统计数据基于调查，而企业经常迟交调查表。",
+    "zh_hant": "這主要是因為該統計資料基於調查，而企業經常遲交調查表。"
   },
   {
-    "index": 66,
+    "index": 61,
     "text": "You get better data if you wait for those surveys to come in,",
     "start": 240.291,
     "end": 243.612,
-    "zh": "如果等这些调查表交上来，你会得到更好的数据，",
-    "zh_hant": "如果等這些調查表交上來，你會得到更好的資料，"
+    "zh": "如果等这些调查表回来，你会得到更好的数据，",
+    "zh_hant": "如果等這些調查表回來，你會得到更好的資料，"
   },
   {
-    "index": 67,
+    "index": 62,
     "text": "but other government agencies need something to work with in the meanwhile.",
     "start": 243.552,
     "end": 248.074,
-    "zh": "但其他政府机构在此期间需要一些东西来工作。",
-    "zh_hant": "但其他政府機構在此期間需要一些東西來工作。"
+    "zh": "但其他政府机构在此期间需要一些数据来开展工作。",
+    "zh_hant": "但其他政府機構在此期間需要一些資料來開展工作。"
   },
   {
-    "index": 68,
-    "text": "If we wanted to really nail down",
+    "index": 63,
+    "text": "If we wanted to really nail down the number of jobs added in the month of May,",
     "start": 248.095,
-    "end": 251.956,
-    "zh": "如果我们想真正确定",
-    "zh_hant": "如果我們想真正確定"
-  },
-  {
-    "index": 69,
-    "text": "the number of jobs added in the month of May,",
-    "start": 251.736,
     "end": 254.678,
-    "zh": "5月新增的就业人数，",
-    "zh_hant": "5月新增的就業人數，"
+    "zh": "如果我们想真正确定5月份新增的就业人数，",
+    "zh_hant": "如果我們想真正確定5月份新增的就業人數，"
   },
   {
-    "index": 70,
+    "index": 64,
     "text": "that would require waiting until August.",
     "start": 254.798,
     "end": 258.64,
-    "zh": "那需要等到8月。",
-    "zh_hant": "那需要等到8月。"
+    "zh": "那得等到8月才行。",
+    "zh_hant": "那得等到8月才行。"
   },
   {
-    "index": 71,
+    "index": 65,
     "text": "Well, if the BLS waits until August to tell you what's happening in May,",
     "start": 258.8,
     "end": 263.602,
-    "zh": "如果BLS等到8月才告诉你5月发生了什么，",
-    "zh_hant": "如果BLS等到8月才告訴你5月發生了什麼，"
+    "zh": "好吧，如果BLS等到8月才告诉你5月的情况，",
+    "zh_hant": "好吧，如果BLS等到8月才告訴你5月的情況，"
   },
   {
-    "index": 72,
+    "index": 66,
     "text": "then that makes it very hard for the Federal Reserve,",
     "start": 263.742,
     "end": 267.444,
-    "zh": "那就会让美联储，",
-    "zh_hant": "那就會讓美聯儲，"
+    "zh": "那会让美联储，",
+    "zh_hant": "那會讓美聯儲，"
   },
   {
-    "index": 73,
+    "index": 67,
     "text": "our central bank, to make decisions about interest rates.",
     "start": 267.094,
     "end": 270.786,
-    "zh": "我们的中央银行，很难做出利率决策。",
-    "zh_hant": "我們的中央銀行，很難做出利率決策。"
+    "zh": "我们的中央银行，很难就利率做出决策。",
+    "zh_hant": "我們的中央銀行，很難就利率做出決策。"
   },
   {
-    "index": 74,
+    "index": 68,
     "text": "That makes it very hard for business leaders to make decisions about their businesses.",
     "start": 270.526,
     "end": 275.468,
-    "zh": "这会让商业领袖很难做出关于他们业务的决策。",
-    "zh_hant": "這會讓商業領袖很難做出關於他們業務的決策。"
+    "zh": "那也会让商业领袖很难就他们的企业做出决策。",
+    "zh_hant": "那也會讓商業領袖很難就他們的企業做出決策。"
   },
   {
-    "index": 75,
+    "index": 69,
     "text": "That makes it very hard for investors to make decisions about their activity in financial markets.",
     "start": 275.268,
     "end": 280.971,
-    "zh": "这会让投资者很难做出关于他们在金融市场活动的决策。",
-    "zh_hant": "這會讓投資者很難做出關於他們在金融市場活動的決策。"
+    "zh": "那会让投资者很难就他们在金融市场上的活动做出决策。",
+    "zh_hant": "那會讓投資者很難就他們在金融市場上的活動做出決策。"
   },
   {
-    "index": 76,
+    "index": 70,
     "text": "And so, in order to produce timely data, the Bureau says,",
     "start": 280.991,
     "end": 285.653,
-    "zh": "因此，为了提供及时的数据，统计局说：",
-    "zh_hant": "因此，為了提供及時的資料，統計局說："
+    "zh": "因此，为了提供及时的数据，该局说：",
+    "zh_hant": "因此，為了提供及時的資料，該局說："
   },
   {
-    "index": 77,
+    "index": 71,
     "text": "\"Okay, here's our estimate for what happened last month.\"",
     "start": 285.303,
     "end": 288.415,
-    "zh": "“好的，这是我们对上个月情况的估计。”",
-    "zh_hant": "“好的，這是我們對上個月情況的估計。”"
+    "zh": "“好吧，这是我们对我们上个月情况的估计。”",
+    "zh_hant": "“好吧，這是我們對我們上個月情況的估計。”"
   },
   {
-    "index": 78,
+    "index": 72,
     "text": "And then that estimate gets revised as more businesses turn in the survey.",
     "start": 288.135,
     "end": 294.038,
-    "zh": "然后随着更多企业提交调查表，这一估计会被修正。",
-    "zh_hant": "然後隨著更多企業提交調查表，這一估計會被修正。"
+    "zh": "然后，随着更多企业提交调查表，这个估计会被修正。",
+    "zh_hant": "然後，隨著更多企業提交調查表，這個估計會被修正。"
   },
   {
-    "index": 79,
+    "index": 73,
     "text": "And so this is completely standard.",
     "start": 294.078,
     "end": 296.219,
@@ -640,95 +592,87 @@
     "zh_hant": "所以這完全是標準做法。"
   },
   {
-    "index": 80,
+    "index": 74,
     "text": "The pattern of revisions in the first Trump administration",
     "start": 296.159,
     "end": 300.741,
-    "zh": "第一次特朗普政府的修正模式",
-    "zh_hant": "第一次特朗普政府的修正模式"
+    "zh": "第一届特朗普政府时期的修正模式",
+    "zh_hant": "第一屆特朗普政府時期的修正模式"
   },
   {
-    "index": 81,
+    "index": 75,
     "text": "looks the same as the pattern of revisions in the second Trump administration,",
     "start": 300.881,
     "end": 305.083,
-    "zh": "看起来与第二次特朗普政府的修正模式相同，",
-    "zh_hant": "看起來與第二次特朗普政府的修正模式相同，"
+    "zh": "看起来与第二届特朗普政府时期的修正模式相同，",
+    "zh_hant": "看起來與第二屆特朗普政府時期的修正模式相同，"
   },
   {
-    "index": 82,
+    "index": 76,
     "text": "and looks the same as the pattern of revisions in the Biden administration.",
     "start": 304.733,
     "end": 308.825,
-    "zh": "也与拜登政府的修正模式相同。",
-    "zh_hant": "也與拜登政府的修正模式相同。"
+    "zh": "也与拜登政府时期的修正模式相同。",
+    "zh_hant": "也與拜登政府時期的修正模式相同。"
   },
   {
-    "index": 83,
+    "index": 77,
     "text": "That said, this revision was big in the scheme of things.",
     "start": 309.786,
     "end": 313.387,
-    "zh": "尽管如此，这次修正在全局中算是大的。",
-    "zh_hant": "儘管如此，這次修正在全域性中算是大的。"
+    "zh": "话虽如此，这次的修正在总体上看是大的。",
+    "zh_hant": "話雖如此，這次的修正在總體上看是大的。"
   },
   {
-    "index": 84,
+    "index": 78,
     "text": "If you exclude the COVID period,",
     "start": 313.427,
     "end": 315.488,
-    "zh": "如果排除新冠疫情期间，",
-    "zh_hant": "如果排除新冠疫情期間，"
+    "zh": "如果排除新冠时期，",
+    "zh_hant": "如果排除新冠時期，"
   },
   {
-    "index": 85,
-    "text": "the combined revision total for the two months",
+    "index": 79,
+    "text": "the combined revision total for the two months is the highest seen since they started recording this data in 1979.",
     "start": 315.248,
-    "end": 318.45,
-    "zh": "这两个月的合计修正量",
-    "zh_hant": "這兩個月的合計修正量"
-  },
-  {
-    "index": 86,
-    "text": "is the highest seen since they started recording this data in 1979.",
-    "start": 318.17,
     "end": 323.663,
-    "zh": "是自1979年开始记录这些数据以来的最高值。",
-    "zh_hant": "是自1979年開始記錄這些資料以來的最高值。"
+    "zh": "这两个月的合并修正总额是自1979年开始记录这一数据以来的最高水平。",
+    "zh_hant": "這兩個月的合併修正總額是自1979年開始記錄這一資料以來的最高水平。"
   },
   {
-    "index": 87,
+    "index": 80,
     "text": "But monthly revisions of more than 100,000 are not unheard of,",
     "start": 323.713,
     "end": 328.055,
-    "zh": "但月度修正超过100,000并非闻所未闻，",
-    "zh_hant": "但月度修正超過100,000並非聞所未聞，"
+    "zh": "但每月修正超过10万的情况并非闻所未闻，",
+    "zh_hant": "但每月修正超過10萬的情況並非聞所未聞，"
   },
   {
-    "index": 88,
+    "index": 81,
     "text": "and they tend to come up during times when uncertainty is high and things are moving fast.",
     "start": 328.075,
     "end": 333.718,
-    "zh": "而且在不确定性和变化速度快的时候往往会出现。",
-    "zh_hant": "而且在不確定性和變化速度快的時候往往會出現。"
+    "zh": "而且它们往往在不确定性高、事态快速变化时出现。",
+    "zh_hant": "而且它們往往在不確定性高、事態快速變化時出現。"
   },
   {
-    "index": 89,
+    "index": 82,
     "text": "So those first results do show the survey isn't working perfectly,",
     "start": 334.118,
     "end": 338.54,
-    "zh": "所以那些初步结果确实表明调查并非完美运作，",
-    "zh_hant": "所以那些初步結果確實表明調查並非完美運作，"
+    "zh": "所以那些初步结果确实显示调查并非完美运作，",
+    "zh_hant": "所以那些初步結果確實顯示調查並非完美運作，"
   },
   {
-    "index": 90,
+    "index": 83,
     "text": "and that's exactly why they have this revision.",
     "start": 338.46,
     "end": 341.942,
-    "zh": "这正是他们进行修正的原因。",
-    "zh_hant": "這正是他們進行修正的原因。"
+    "zh": "这正是为什么他们有这个修正机制。",
+    "zh_hant": "這正是為什麼他們有這個修正機制。"
   },
   {
-    "index": 91,
+    "index": 84,
     "text": "Still, the president didn't like it.",
     "start": 342.282,
     "end": 344.543,
@@ -736,7 +680,7 @@
     "zh_hant": "不過，總統不喜歡這樣。"
   },
   {
-    "index": 92,
+    "index": 85,
     "text": "It's a scam, in my opinion.",
     "start": 344.323,
     "end": 346.204,
@@ -744,23 +688,23 @@
     "zh_hant": "在我看來，這是個騙局。"
   },
   {
-    "index": 93,
+    "index": 86,
     "text": "Now, we're used to the president playing fast and loose with numbers and statistics.",
     "start": 346.104,
     "end": 351.907,
-    "zh": "我们已经习惯了总统对数字和统计随意马虎。",
-    "zh_hant": "我們已經習慣了總統對數字和統計隨意馬虎。"
+    "zh": "现在，我们已经习惯于总统对数字和统计数据不太严谨。",
+    "zh_hant": "現在，我們已經習慣於總統對數字和統計資料不太嚴謹。"
   },
   {
-    "index": 94,
+    "index": 87,
     "text": "We're going to get them down 1,000 percent,",
     "start": 351.627,
     "end": 355.54,
-    "zh": "我们会把它们降低1000%，",
-    "zh_hant": "我們會把它們降低1000%，"
+    "zh": "我们要把它们降1000%，",
+    "zh_hant": "我們要把它們降1000%，"
   },
   {
-    "index": 95,
+    "index": 88,
     "text": "600 percent, 500 percent.",
     "start": 355.14,
     "end": 359.251,
@@ -768,7 +712,7 @@
     "zh_hant": "600%，500%。"
   },
   {
-    "index": 96,
+    "index": 89,
     "text": "Exactly.",
     "start": 358.971,
     "end": 360.051,
@@ -776,15 +720,15 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 97,
+    "index": 90,
     "text": "The media's used to taking numbers put out by the administration with a fistful of salt.",
     "start": 360.191,
     "end": 365.74,
-    "zh": "媒体习惯了带着怀疑看待政府发布的数据。",
-    "zh_hant": "媒體習慣了帶著懷疑看待政府釋出的資料。"
+    "zh": "媒体已经习惯了对政府发布的数字半信半疑。",
+    "zh_hant": "媒體已經習慣了對政府釋出的數字半信半疑。"
   },
   {
-    "index": 98,
+    "index": 91,
     "text": "1,500 percent.",
     "start": 365.34,
     "end": 367.535,
@@ -792,23 +736,15 @@
     "zh_hant": "1500%。"
   },
   {
-    "index": 99,
-    "text": "But when you start conspiracy theories stating that you cannot trust the U.S.",
+    "index": 92,
+    "text": "But when you start conspiracy theories stating that you cannot trust the U.S. economic policy is based on,",
     "start": 367.185,
-    "end": 372.397,
-    "zh": "但当你开始散布阴谋论，说不能信任美国",
-    "zh_hant": "但當你開始散佈陰謀論，說不能信任美國"
-  },
-  {
-    "index": 100,
-    "text": "economic policy is based on,",
-    "start": 372.047,
     "end": 373.878,
-    "zh": "经济政策所依据的基础时，",
-    "zh_hant": "經濟政策所依據的基礎時，"
+    "zh": "但当你开始散布阴谋论，说美国经济政策所依据的数据不可信时，",
+    "zh_hant": "但當你開始散佈陰謀論，說美國經濟政策所依據的資料不可信時，"
   },
   {
-    "index": 101,
+    "index": 93,
     "text": "that's going to cause problems.",
     "start": 374.178,
     "end": 376.339,
@@ -816,151 +752,151 @@
     "zh_hant": "那就會引發問題。"
   },
   {
-    "index": 102,
+    "index": 94,
     "text": "By calling into question the integrity of the data,",
     "start": 376.259,
     "end": 379.361,
-    "zh": "通过对数据完整性提出质疑，",
-    "zh_hant": "透過對資料完整性提出質疑，"
+    "zh": "通过质疑数据的完整性，",
+    "zh_hant": "透過質疑資料的完整性，"
   },
   {
-    "index": 103,
+    "index": 95,
     "text": "President Trump is risking real damage to the U.S. economy.",
     "start": 379.011,
     "end": 383.943,
-    "zh": "特朗普总统正在冒对美国经济造成真正损害的风险。",
-    "zh_hant": "特朗普總統正在冒對美國經濟造成真正損害的風險。"
+    "zh": "特朗普总统是在冒对美国经济造成实际损害的风险。",
+    "zh_hant": "特朗普總統是在冒對美國經濟造成實際損害的風險。"
   },
   {
-    "index": 104,
+    "index": 96,
     "text": "If people start to believe that they can't trust the data, then that just builds in a lot of uncertainty.",
     "start": 383.963,
     "end": 389.706,
-    "zh": "如果人们开始相信不能信任数据，那只会带来很多不确定性。",
-    "zh_hant": "如果人們開始相信不能信任資料，那隻會帶來很多不確定性。"
+    "zh": "如果人们开始相信他们无法信任数据，那就会增加大量不确定性。",
+    "zh_hant": "如果人們開始相信他們無法信任資料，那就會增加大量不確定性。"
   },
   {
-    "index": 105,
-    "text": "And the way investors would react to that uncertainty",
+    "index": 97,
+    "text": "And the way investors would react",
     "start": 389.926,
-    "end": 394.688,
-    "zh": "投资者对这种不确定性的反应",
-    "zh_hant": "投資者對這種不確定性的反應"
+    "end": 393.828,
+    "zh": "投资者对这种不确定性",
+    "zh_hant": "投資者對這種不確定性"
   },
   {
-    "index": 106,
-    "text": "is by concluding that any investment was a little riskier than it otherwise would be.",
-    "start": 394.829,
+    "index": 98,
+    "text": "to that uncertainty is by concluding",
+    "start": 393.478,
+    "end": 397.129,
+    "zh": "的反应会是得出结论：",
+    "zh_hant": "的反應會是得出結論："
+  },
+  {
+    "index": 99,
+    "text": "that any investment was a little riskier than it otherwise would be.",
+    "start": 396.779,
     "end": 401.072,
-    "zh": "会是认为任何投资都比原本风险稍高一些。",
-    "zh_hant": "會是認為任何投資都比原本風險稍高一些。"
+    "zh": "任何投资都比原本更有风险。",
+    "zh_hant": "任何投資都比原本更有風險。"
   },
   {
-    "index": 107,
+    "index": 100,
     "text": "That would increase interest rates.",
     "start": 401.012,
     "end": 403.153,
-    "zh": "这会推高利率。",
-    "zh_hant": "這會推高利率。"
+    "zh": "那会推高利率。",
+    "zh_hant": "那會推高利率。"
   },
   {
-    "index": 108,
+    "index": 101,
     "text": "That would reduce investment in American companies.",
     "start": 403.073,
     "end": 406.435,
-    "zh": "这会减少对美国公司的投资。",
-    "zh_hant": "這會減少對美國公司的投資。"
+    "zh": "那会减少对美国公司的投资。",
+    "zh_hant": "那會減少對美國公司的投資。"
   },
   {
-    "index": 109,
+    "index": 102,
     "text": "The Way business leaders would respond to that uncertainty would be to pull back on projects,",
     "start": 406.395,
     "end": 412.397,
-    "zh": "商业领袖对不确定性的反应会是缩减项目，",
-    "zh_hant": "商業領袖對不確定性的反應會是縮減專案，"
+    "zh": "商业领袖对这种不确定性的回应会是缩减项目，",
+    "zh_hant": "商業領袖對這種不確定性的回應會是縮減專案，"
   },
   {
-    "index": 110,
+    "index": 103,
     "text": "or to not start new projects, not to expand,",
     "start": 412.047,
     "end": 415.499,
-    "zh": "或不启动新项目、不扩展业务，",
-    "zh_hant": "或不啟動新專案、不擴充套件業務，"
+    "zh": "或者不启动新项目，不扩张，",
+    "zh_hant": "或者不啟動新專案，不擴張，"
   },
   {
-    "index": 111,
+    "index": 104,
     "text": "until they could be more sure about the underlying economic facts on the ground.",
     "start": 415.279,
     "end": 421.282,
-    "zh": "直到他们能更确定基本的经济现实为止。",
-    "zh_hant": "直到他們能更確定基本的經濟現實為止。"
+    "zh": "直到他们对基本经济事实有了更确定的把握。",
+    "zh_hant": "直到他們對基本經濟事實有了更確定的把握。"
   },
   {
-    "index": 112,
-    "text": "And the effect on policymakers, like our central bank,",
+    "index": 105,
+    "text": "And the effect on policymakers, like our central bank, the Federal Reserve,",
     "start": 421.422,
-    "end": 425.444,
-    "zh": "对政策制定者，比如我们的中央银行，",
-    "zh_hant": "對政策制定者，比如我們的中央銀行，"
+    "end": 426.384,
+    "zh": "而对政策制定者，比如我们的中央银行美联储，",
+    "zh_hant": "而對政策制定者，比如我們的中央銀行美聯儲，"
   },
   {
-    "index": 113,
-    "text": "the Federal Reserve, could lead them to make an extremely costly",
-    "start": 425.094,
-    "end": 430.046,
-    "zh": "美联储的影响，可能导致他们犯下极其代价高昂的",
-    "zh_hant": "美聯儲的影響，可能導致他們犯下極其代價高昂的"
-  },
-  {
-    "index": 114,
-    "text": "policy mistake.",
-    "start": 430.107,
+    "index": 106,
+    "text": "could lead them to make an extremely costly policy mistake.",
+    "start": 426.125,
     "end": 431.707,
-    "zh": "政策错误。",
-    "zh_hant": "政策錯誤。"
+    "zh": "影响可能导致他们犯下代价极高的政策错误。",
+    "zh_hant": "影響可能導致他們犯下代價極高的政策錯誤。"
   },
   {
-    "index": 115,
+    "index": 107,
     "text": "And so, there are very real, and tangible,",
     "start": 431.607,
     "end": 434.689,
-    "zh": "因此，存在非常真实、具体且",
-    "zh_hant": "因此，存在非常真實、具體且"
+    "zh": "因此，有一些非常真实、具体",
+    "zh_hant": "因此，有一些非常真實、具體"
   },
   {
-    "index": 116,
-    "text": "and practical reasons why a widespread belief",
+    "index": 108,
+    "text": "and practical reasons why a widespread belief in the integrity of the data",
     "start": 434.339,
-    "end": 438.971,
-    "zh": "实际的理由，说明广泛信任",
-    "zh_hant": "實際的理由，說明廣泛信任"
+    "end": 440.152,
+    "zh": "且实际的原因表明，广泛信任数据的完整性",
+    "zh_hant": "且實際的原因表明，廣泛信任資料的完整性"
   },
   {
-    "index": 117,
-    "text": "in the integrity of the data are a foundation of prosperity for the U.S. Economy.",
-    "start": 438.621,
+    "index": 109,
+    "text": "are a foundation of prosperity for the U.S. Economy.",
+    "start": 440.212,
     "end": 443.734,
-    "zh": "数据的完整性是美国经济繁荣的基础。",
-    "zh_hant": "資料的完整性是美國經濟繁榮的基礎。"
+    "zh": "是美国经济繁荣的基础。",
+    "zh_hant": "是美國經濟繁榮的基礎。"
   },
   {
-    "index": 118,
+    "index": 110,
     "text": "The BLS data is not perfect.",
     "start": 443.994,
     "end": 446.215,
-    "zh": "BLS的数据并非完美无缺。",
-    "zh_hant": "BLS的資料並非完美無缺。"
+    "zh": "BLS的数据并非完美。",
+    "zh_hant": "BLS的資料並非完美。"
   },
   {
-    "index": 119,
+    "index": 111,
     "text": "Revisions happen, but it was not rigged.",
     "start": 446.195,
     "end": 449.396,
-    "zh": "修正会发生，但数据并没有被操纵。",
-    "zh_hant": "修正會發生，但資料並沒有被操縱。"
+    "zh": "修正确实会发生，但数据没有被操纵。",
+    "zh_hant": "修正確實會發生，但資料沒有被操縱。"
   },
   {
-    "index": 120,
+    "index": 112,
     "text": "There is no conspiracy here.",
     "start": 449.216,
     "end": 451.597,
@@ -968,191 +904,183 @@
     "zh_hant": "這裡沒有陰謀。"
   },
   {
-    "index": 121,
-    "text": "And you just need to look at the bigger picture of the U.S. economy",
+    "index": 113,
+    "text": "And you just need to look at the bigger picture of the U.S. economy to see the results weren't that surprising after all.",
     "start": 451.658,
-    "end": 455.319,
-    "zh": "你只需要看看美国经济的全局",
-    "zh_hant": "你只需要看看美國經濟的全域性"
-  },
-  {
-    "index": 122,
-    "text": "to see the results weren't that surprising after all.",
-    "start": 455.059,
     "end": 458.821,
-    "zh": "就能发现结果毕竟没那么令人惊讶。",
-    "zh_hant": "就能發現結果畢竟沒那麼令人驚訝。"
+    "zh": "你只需看看美国经济的整体图景，就会发现结果其实并不那么令人意外。",
+    "zh_hant": "你只需看看美國經濟的整體圖景，就會發現結果其實並不那麼令人意外。"
   },
   {
-    "index": 123,
-    "text": "One of the reasons why we can be confident that labor market data weren't rigged",
+    "index": 114,
+    "text": "One of the reasons why we can be confident",
     "start": 458.901,
-    "end": 463.423,
-    "zh": "我们有信心劳动力市场数据未被操纵的原因之一是",
-    "zh_hant": "我們有信心勞動力市場資料未被操縱的原因之一是"
+    "end": 461.362,
+    "zh": "我们之所以能确信",
+    "zh_hant": "我們之所以能確信"
   },
   {
-    "index": 124,
-    "text": "is that the data is consistent with the data",
-    "start": 463.103,
+    "index": 115,
+    "text": "that labor market data weren't rigged is that the data is consistent with the data",
+    "start": 461.042,
     "end": 467.465,
-    "zh": "数据与经济产出的数据一致，",
-    "zh_hant": "資料與經濟產出的資料一致，"
+    "zh": "劳动力市场数据没有被操纵，原因之一是这些数据与来自不同机构",
+    "zh_hant": "勞動力市場資料沒有被操縱，原因之一是這些資料與來自不同機構"
   },
   {
-    "index": 125,
+    "index": 116,
     "text": "on economic output that come from a different agency.",
     "start": 467.565,
     "end": 471.187,
-    "zh": "这些数据来自另一个机构。",
-    "zh_hant": "這些資料來自另一個機構。"
+    "zh": "的经济产出数据是一致的。",
+    "zh_hant": "的經濟產出資料是一致的。"
   },
   {
-    "index": 126,
+    "index": 117,
     "text": "And the data on economic output show",
     "start": 471.307,
     "end": 473.668,
-    "zh": "经济产出的数据显示",
-    "zh_hant": "經濟產出的資料顯示"
+    "zh": "而经济产出数据显示",
+    "zh_hant": "而經濟產出資料顯示"
   },
   {
-    "index": 127,
+    "index": 118,
     "text": "that the economy in the first half Of the year has been growing slower than",
     "start": 473.648,
     "end": 479.912,
-    "zh": "上半年经济增长速度低于",
-    "zh_hant": "上半年經濟增長速度低於"
+    "zh": "今年上半年的经济增长速度一直低于",
+    "zh_hant": "今年上半年的經濟增長速度一直低於"
   },
   {
-    "index": 128,
+    "index": 119,
     "text": "its underlying potential.",
     "start": 479.562,
     "end": 481.793,
-    "zh": "其潜在增长水平。",
-    "zh_hant": "其潛在增長水平。"
+    "zh": "其潜在水平。",
+    "zh_hant": "其潛在水平。"
   },
   {
-    "index": 129,
+    "index": 120,
     "text": "This issue seems to have actually brought all the think tanks and all the economists, who might normally disagree about things,",
     "start": 481.833,
     "end": 488.276,
-    "zh": "这个问题似乎真的让所有通常意见分歧的智库和经济学家们",
-    "zh_hant": "這個問題似乎真的讓所有通常意見分歧的智庫和經濟學家們"
+    "zh": "这个问题似乎确实让所有智库和所有经济学家——他们平时可能意见不一——",
+    "zh_hant": "這個問題似乎確實讓所有智庫和所有經濟學家——他們平時可能意見不一——"
   },
   {
-    "index": 130,
+    "index": 121,
     "text": "it seems to have actually united you all, and you all seem to be saying exactly the same thing.",
     "start": 487.926,
     "end": 492.998,
-    "zh": "似乎真的让你们团结起来了，而且你们似乎都在说完全相同的话。",
-    "zh_hant": "似乎真的讓你們團結起來了，而且你們似乎都在說完全相同的話。"
+    "zh": "似乎确实让你们团结起来了，你们似乎都在说同样的话。",
+    "zh_hant": "似乎確實讓你們團結起來了，你們似乎都在說同樣的話。"
   },
   {
-    "index": 131,
+    "index": 122,
     "text": "That's quite nice to see.",
     "start": 493.038,
     "end": 494.879,
-    "zh": "这挺令人欣慰的。",
-    "zh_hant": "這挺令人欣慰的。"
+    "zh": "这挺让人欣慰的。",
+    "zh_hant": "這挺讓人欣慰的。"
   },
   {
-    "index": 132,
+    "index": 123,
     "text": "Does that normally happen?",
     "start": 494.529,
     "end": 495.96,
-    "zh": "这通常会发生吗？",
-    "zh_hant": "這通常會發生嗎？"
+    "zh": "这种情况经常发生吗？",
+    "zh_hant": "這種情況經常發生嗎？"
   },
   {
-    "index": 133,
+    "index": 124,
     "text": "No, it doesn't normally happen.",
     "start": 497.821,
     "end": 499.622,
-    "zh": "不，通常不会发生。",
-    "zh_hant": "不，通常不會發生。"
+    "zh": "不，一般不发生。",
+    "zh_hant": "不，一般不發生。"
   },
   {
-    "index": 134,
-    "text": "There's not room for disagreement about the dangers",
+    "index": 125,
+    "text": "There's not room for disagreement",
     "start": 501.042,
-    "end": 505.464,
-    "zh": "对于总统在不喜欢统计数字时解雇统计学家",
-    "zh_hant": "對於總統在不喜歡統計數字時解僱統計學家"
+    "end": 503.383,
+    "zh": "对于总统在不喜欢统计数字时",
+    "zh_hant": "對於總統在不喜歡統計數字時"
   },
   {
-    "index": 135,
-    "text": "of a president firing statisticians",
-    "start": 505.445,
+    "index": 126,
+    "text": "about the dangers of a president firing statisticians",
+    "start": 503.384,
     "end": 509.026,
-    "zh": "所带来的危险，没有分歧的余地。",
-    "zh_hant": "所帶來的危險，沒有分歧的餘地。"
+    "zh": "解雇统计学家的危险性，",
+    "zh_hant": "解僱統計學家的危險性，"
   },
   {
-    "index": 136,
+    "index": 127,
     "text": "when he doesn't like the statistics.",
     "start": 509.026,
     "end": 512.548,
-    "zh": "即使他不喜欢这些统计结果。",
-    "zh_hant": "即使他不喜歡這些統計結果。"
+    "zh": "没有分歧的空间。",
+    "zh_hant": "沒有分歧的空間。"
   },
   {
-    "index": 137,
+    "index": 128,
     "text": "We have ample evidence",
     "start": 512.448,
     "end": 514.989,
-    "zh": "我们有大量证据",
-    "zh_hant": "我們有大量證據"
+    "zh": "我们有大量历史证据",
+    "zh_hant": "我們有大量歷史證據"
   },
   {
-    "index": 138,
+    "index": 129,
     "text": "from history of presidents or leaders of governments",
     "start": 514.639,
     "end": 519.413,
-    "zh": "从历史上总统或政府领导人与统计学家和统计数据",
-    "zh_hant": "從歷史上總統或政府領導人與統計學家和統計資料"
+    "zh": "表明总统或政府领导人",
+    "zh_hant": "表明總統或政府領導人"
   },
   {
-    "index": 139,
+    "index": 130,
     "text": "messing around with statisticians and statistics,",
     "start": 519.454,
     "end": 522.316,
-    "zh": "乱搞的情况来看，",
-    "zh_hant": "亂搞的情況來看，"
+    "zh": "干预统计学家和统计数据的情况，",
+    "zh_hant": "干預統計學家和統計資料的情況，"
   },
   {
-    "index": 140,
+    "index": 131,
     "text": "and it doesn't work well.",
     "start": 522.317,
     "end": 524.438,
-    "zh": "这样做的效果并不好。",
-    "zh_hant": "這樣做的效果並不好。"
+    "zh": "结果都不好。",
+    "zh_hant": "結果都不好。"
   },
   {
-    "index": 141,
+    "index": 132,
     "text": "Thanks to Michael Strain.",
     "start": 524.619,
     "end": 526.16,
-    "zh": "感谢迈克尔·斯特兰。",
-    "zh_hant": "感謝邁克爾·斯特蘭。"
+    "zh": "感谢迈克尔·斯特雷恩。",
+    "zh_hant": "感謝邁克爾·斯特雷恩。"
   },
   {
-    "index": 142,
+    "index": 133,
     "text": "And that's all we have time for this week.",
     "start": 525.88,
     "end": 528.022,
-    "zh": "这就是本周的全部内容。",
-    "zh_hant": "這就是本週的全部內容。"
+    "zh": "本周的时间就到这里。",
+    "zh_hant": "本週的時間就到這裡。"
   },
   {
-    "index": 143,
+    "index": 134,
     "text": "If you see any suspicious numbers around, please let us know at moreorless@bbc.co.uk.",
     "start": 527.762,
     "end": 534.228,
-    "zh": "如果你发现周围有可疑的数字，请通过moreorless@bbc.co.uk告诉我们。",
-    "zh_hant": "如果你發現周圍有可疑的數字，請透過moreorless@bbc.co.uk告訴我們。"
+    "zh": "如果你看到任何可疑的数字，请通过moreorless@bbc.co.uk告诉我们。",
+    "zh_hant": "如果你看到任何可疑的數字，請透過moreorless@bbc.co.uk告訴我們。"
   },
   {
-    "index": 144,
+    "index": 135,
     "text": "Until next week, goodbye.",
     "start": 534.428,
     "end": 536.37,

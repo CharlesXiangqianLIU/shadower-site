@@ -4,8 +4,8 @@
     "text": "BBC Sounds.",
     "start": 1.29,
     "end": 2.651,
-    "zh": "BBC音悦台。",
-    "zh_hant": "BBC音悅臺。"
+    "zh": "BBC 音效。",
+    "zh_hant": "BBC 音效。"
   },
   {
     "index": 1,
@@ -17,19 +17,19 @@
   },
   {
     "index": 2,
-    "text": "Hello and thanks for downloading the More or Less podcast,",
+    "text": "Hello and thanks for downloading the More or Less podcast, with a programme that looks at the numbers in the news and in life,",
     "start": 6.233,
-    "end": 9.754,
-    "zh": "大家好，感谢下载《多或少》播客，",
-    "zh_hant": "大家好，感謝下載《多或少》播客，"
+    "end": 13.096,
+    "zh": "你好，感谢下载 More or Less 播客，本期节目关注新闻和生活中的数字，",
+    "zh_hant": "你好，感謝下載 More or Less 播客，本期節目關注新聞和生活中的數字，"
   },
   {
     "index": 3,
-    "text": "with a programme that looks at the numbers in the news and in life, and in international polling.",
-    "start": 9.795,
+    "text": "and in international polling.",
+    "start": 13.116,
     "end": 15.077,
-    "zh": "本节目关注新闻、生活以及国际民调中的数字。",
-    "zh_hant": "本節目關注新聞、生活以及國際民調中的數字。"
+    "zh": "以及国际民调中的数字。",
+    "zh_hant": "以及國際民調中的數字。"
   },
   {
     "index": 4,
@@ -44,24 +44,24 @@
     "text": "Things sometimes feel a little bleak when we look at the news.",
     "start": 21.921,
     "end": 25.142,
-    "zh": "看新闻的时候，事情有时会让人感到有点灰暗。",
-    "zh_hant": "看新聞的時候，事情有時會讓人感到有點灰暗。"
+    "zh": "看新闻时，事情有时会让人感到有点黯淡。",
+    "zh_hant": "看新聞時，事情有時會讓人感到有點黯淡。"
   },
   {
     "index": 6,
     "text": "Wars rage, robots rise, Marvel continues to make superhero movies.",
     "start": 25.302,
     "end": 30.865,
-    "zh": "战争肆虐，机器人崛起，漫威还在拍超级英雄电影。",
-    "zh_hant": "戰爭肆虐，機器人崛起，漫威還在拍超級英雄電影。"
+    "zh": "战争肆虐，机器人崛起，漫威还在继续拍超级英雄电影。",
+    "zh_hant": "戰爭肆虐，機器人崛起，漫威還在繼續拍超級英雄電影。"
   },
   {
     "index": 7,
     "text": "So we were somewhat surprised when we saw a recent piece of analysis by the polling firm Gallup.",
     "start": 31.045,
     "end": 36.988,
-    "zh": "所以当我们看到民调机构盖洛普最近的一份分析时，有点惊讶。",
-    "zh_hant": "所以當我們看到民調機構蓋洛普最近的一份分析時，有點驚訝。"
+    "zh": "所以当我们看到民调公司盖洛普最近的一项分析时，有点惊讶。",
+    "zh_hant": "所以當我們看到民調公司蓋洛普最近的一項分析時，有點驚訝。"
   },
   {
     "index": 8,
@@ -73,22 +73,14 @@
   },
   {
     "index": 9,
-    "text": "Worldwide, people in more countries are living better lives",
+    "text": "Worldwide, people in more countries are living better lives and expressing more hope for the future than they have in years.",
     "start": 39.029,
-    "end": 42.551,
-    "zh": "全球范围内，更多国家的人们生活得更好，",
-    "zh_hant": "全球範圍內，更多國家的人們生活得更好，"
+    "end": 45.893,
+    "zh": "在全球范围内，比以往多年，更多国家的人民生活得更好，对未来表达更多希望。",
+    "zh_hant": "在全球範圍內，比以往多年，更多國家的人民生活得更好，對未來表達更多希望。"
   },
   {
     "index": 10,
-    "text": "and expressing more hope for the future than they have in years.",
-    "start": 42.201,
-    "end": 45.893,
-    "zh": "对未来的希望也比多年来更强烈。",
-    "zh_hant": "對未來的希望也比多年來更強烈。"
-  },
-  {
-    "index": 11,
     "text": "Better lives?",
     "start": 46.133,
     "end": 47.513,
@@ -96,7 +88,7 @@
     "zh_hant": "更好的生活？"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "Hope?",
     "start": 47.734,
     "end": 48.574,
@@ -104,39 +96,39 @@
     "zh_hant": "希望？"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "What's not to like?",
     "start": 48.874,
     "end": 50.255,
-    "zh": "这有什么不好呢？",
-    "zh_hant": "這有什麼不好呢？"
+    "zh": "这有什么不好的呢？",
+    "zh_hant": "這有什麼不好的呢？"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "But does this research add up?",
     "start": 50.515,
     "end": 52.836,
-    "zh": "但这项研究站得住脚吗？",
-    "zh_hant": "但這項研究站得住腳嗎？"
+    "zh": "但这项研究说得通吗？",
+    "zh_hant": "但這項研究說得通嗎？"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "So, I guess the headline finding of our most recent research",
     "start": 55.978,
     "end": 59.679,
-    "zh": "所以，我想我们最新研究的核心发现",
-    "zh_hant": "所以，我想我們最新研究的核心發現"
+    "zh": "所以，我猜我们最近研究的主要发现",
+    "zh_hant": "所以，我猜我們最近研究的主要發現"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "is that global levels of thriving, that is, a measure that evaluates",
     "start": 59.68,
     "end": 64.782,
-    "zh": "是全球的“蓬勃”水平，也就是一个衡量",
-    "zh_hant": "是全球的“蓬勃”水平，也就是一個衡量"
+    "zh": "是全球的兴旺水平，也就是一种评估",
+    "zh_hant": "是全球的興旺水平，也就是一種評估"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "people's overall subjective well-being,",
     "start": 64.522,
     "end": 67.403,
@@ -144,39 +136,31 @@
     "zh_hant": "人們整體主觀幸福感的指標，"
   },
   {
-    "index": 18,
-    "text": "that level of thriving has hit a record high in our most recent measure from last year,",
+    "index": 17,
+    "text": "that level of thriving has hit a record high in our most recent measure from last year, of thirty-three percent, as a global median.",
     "start": 67.383,
-    "end": 72.105,
-    "zh": "这个蓬勃水平在我们去年的最新测量中创下了历史新高，",
-    "zh_hant": "這個蓬勃水平在我們去年的最新測量中創下了歷史新高，"
-  },
-  {
-    "index": 19,
-    "text": "of thirty-three percent, as a global median.",
-    "start": 72.086,
     "end": 74.967,
-    "zh": "全球中位数为百分之三十三。",
-    "zh_hant": "全球中位數為百分之三十三。"
+    "zh": "在我们去年最新的衡量中，兴旺水平达到了历史新高，全球中位数为百分之三十三。",
+    "zh_hant": "在我們去年最新的衡量中，興旺水平達到了歷史新高，全球中位數為百分之三十三。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Of adults.",
     "start": 74.617,
     "end": 75.647,
-    "zh": "是针对成年人的。",
-    "zh_hant": "是針對成年人的。"
+    "zh": "就成年人来说。",
+    "zh_hant": "就成年人來說。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "This is Benedikt Weigers from Gallup.",
     "start": 75.567,
     "end": 77.948,
-    "zh": "这是盖洛普的贝内迪克特·维格斯。",
-    "zh_hant": "這是蓋洛普的貝內迪克特·維格斯。"
+    "zh": "这是来自盖洛普的贝内迪克特·维格斯。",
+    "zh_hant": "這是來自蓋洛普的貝內迪克特·維格斯。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "He wrote that analysis.",
     "start": 77.929,
     "end": 79.689,
@@ -184,39 +168,39 @@
     "zh_hant": "他寫了那份分析。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "And that has been on a steady upward trend for much of the last decade,",
     "start": 79.829,
     "end": 84.112,
-    "zh": "而且在过去十年的大部分时间里，这一直呈稳步上升趋势，",
-    "zh_hant": "而且在過去十年的大部分時間裡，這一直呈穩步上升趨勢，"
+    "zh": "过去十年的大部分时间里，这一直呈稳步上升趋势，",
+    "zh_hant": "過去十年的大部分時間裡，這一直呈穩步上升趨勢，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "and is now 10 points higher than where things stood 10 years ago.",
     "start": 84.272,
     "end": 88.494,
-    "zh": "现在比十年前高了10个百分点。",
-    "zh_hant": "現在比十年前高了10個百分點。"
+    "zh": "现在比十年前高出10个百分点。",
+    "zh_hant": "現在比十年前高出10個百分點。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "On what basis are they making this surprising claim?",
     "start": 88.934,
     "end": 92.276,
-    "zh": "他们凭什么做出这个令人惊讶的说法？",
-    "zh_hant": "他們憑什麼做出這個令人驚訝的說法？"
+    "zh": "他们依据什么做出这个令人惊讶的说法？",
+    "zh_hant": "他們依據什麼做出這個令人驚訝的說法？"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Where are these numbers coming from?",
     "start": 92.136,
     "end": 93.756,
-    "zh": "这些数字从哪儿来的？",
-    "zh_hant": "這些數字從哪兒來的？"
+    "zh": "这些数字从哪来？",
+    "zh_hant": "這些數字從哪來？"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "The Gallup World Poll surveys 140 plus countries every year.",
     "start": 93.597,
     "end": 97.718,
@@ -224,63 +208,39 @@
     "zh_hant": "蓋洛普世界民調每年調查140多個國家。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Those are typically consistent.",
     "start": 97.619,
     "end": 99.339,
-    "zh": "那些通常是一致的。",
-    "zh_hant": "那些通常是一致的。"
+    "zh": "这些通常是一致的。",
+    "zh_hant": "這些通常是一致的。"
+  },
+  {
+    "index": 27,
+    "text": "And in about 100 of them, that involves working with local interviewing teams, sending people out, knocking on doors.",
+    "start": 99.279,
+    "end": 106.463,
+    "zh": "其中约100个国家，涉及与当地采访团队合作，派人出去敲门。",
+    "zh_hant": "其中約100個國家，涉及與當地採訪團隊合作，派人出去敲門。"
+  },
+  {
+    "index": 28,
+    "text": "They are Basically done face-to-face interviews, all randomly sampled so that they can be nationally representative.",
+    "start": 106.113,
+    "end": 113.686,
+    "zh": "他们基本上进行面对面的访谈，全部随机抽样，以便能代表全国。",
+    "zh_hant": "他們基本上進行面對面的訪談，全部隨機抽樣，以便能代表全國。"
   },
   {
     "index": 29,
-    "text": "And in about 100 of them, that involves working with local interviewing teams, sending people out,",
-    "start": 99.279,
-    "end": 105.442,
-    "zh": "其中大约100个国家，需要与当地采访团队合作，派人出去，",
-    "zh_hant": "其中大約100個國家，需要與當地採訪團隊合作，派人出去，"
+    "text": "In the other handful of countries, which are typically more Western, economically advanced countries,",
+    "start": 113.686,
+    "end": 120.189,
+    "zh": "在其余少数国家，通常是较西方、经济较发达的国家，",
+    "zh_hant": "在其餘少數國家，通常是較西方、經濟較發達的國家，"
   },
   {
     "index": 30,
-    "text": "knocking on doors.",
-    "start": 105.142,
-    "end": 106.463,
-    "zh": "敲门访问。",
-    "zh_hant": "敲門訪問。"
-  },
-  {
-    "index": 31,
-    "text": "They are Basically done face-to-face interviews, all randomly sampled",
-    "start": 106.113,
-    "end": 111.465,
-    "zh": "基本上是面对面访谈，全部随机抽样，",
-    "zh_hant": "基本上是面對面訪談，全部隨機抽樣，"
-  },
-  {
-    "index": 32,
-    "text": "so that they can be nationally representative.",
-    "start": 111.115,
-    "end": 113.686,
-    "zh": "以便能够代表全国水平。",
-    "zh_hant": "以便能夠代表全國水平。"
-  },
-  {
-    "index": 33,
-    "text": "In the other handful of countries, which are typically more Western,",
-    "start": 113.686,
-    "end": 117.668,
-    "zh": "其余少数国家，通常是更西方的，",
-    "zh_hant": "其餘少數國家，通常是更西方的，"
-  },
-  {
-    "index": 34,
-    "text": "economically advanced countries,",
-    "start": 118.129,
-    "end": 120.189,
-    "zh": "经济发达的国家，",
-    "zh_hant": "經濟發達的國家，"
-  },
-  {
-    "index": 35,
     "text": "we survey those by telephone through random digit dialing.",
     "start": 119.889,
     "end": 123.031,
@@ -288,119 +248,111 @@
     "zh_hant": "我們透過隨機撥號進行電話調查。"
   },
   {
-    "index": 36,
-    "text": "Gallup are confident that these 140 national polls are not only large",
+    "index": 31,
+    "text": "Gallup are confident that these 140 national polls are not only large but representative,",
     "start": 123.112,
-    "end": 128.514,
-    "zh": "盖洛普相信这140项全国民调不仅规模大，",
-    "zh_hant": "蓋洛普相信這140項全國民調不僅規模大，"
-  },
-  {
-    "index": 37,
-    "text": "but representative,",
-    "start": 128.174,
     "end": 129.875,
-    "zh": "而且具有代表性，",
-    "zh_hant": "而且具有代表性，"
+    "zh": "盖洛普确信这140项全国民调不仅规模大，而且具有代表性，",
+    "zh_hant": "蓋洛普確信這140項全國民調不僅規模大，而且具有代表性，"
   },
   {
-    "index": 38,
+    "index": 32,
     "text": "which, well, it's never really true, but they do seem to be doing a serious job.",
     "start": 129.815,
     "end": 134.737,
-    "zh": "虽然这其实从来都不是完全真的，但他们确实在认真做事。",
-    "zh_hant": "雖然這其實從來都不是完全真的，但他們確實在認真做事。"
+    "zh": "好吧，这从来不是完全属实，但他们确实在做认真工作。",
+    "zh_hant": "好吧，這從來不是完全屬實，但他們確實在做認真工作。"
   },
   {
-    "index": 39,
+    "index": 33,
     "text": "And the questions being asked around the world, there are lots, but only a couple of them are used to come...",
     "start": 134.917,
     "end": 141.2,
-    "zh": "在世界各地问到的问题有很多，但只有几个被用来得出……",
-    "zh_hant": "在世界各地問到的問題有很多，但只有幾個被用來得出……"
+    "zh": "而在世界各地被问的问题很多，但只有几个被用来得出……",
+    "zh_hant": "而在世界各地被問的問題很多，但只有幾個被用來得出……"
   },
   {
-    "index": 40,
+    "index": 34,
     "text": "Up with this thriving measure,",
     "start": 140.85,
     "end": 142.901,
-    "zh": "这个蓬勃指标，",
-    "zh_hant": "這個蓬勃指標，"
+    "zh": "这个兴旺指标，",
+    "zh_hant": "這個興旺指標，"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "to understand how Gallup think about this word thriving, which forms the core of our analysis.",
     "start": 143.001,
     "end": 149.244,
-    "zh": "要理解盖洛普如何看待“蓬勃”这个词，它构成了我们分析的核心。",
-    "zh_hant": "要理解蓋洛普如何看待“蓬勃”這個詞，它構成了我們分析的核心。"
+    "zh": "要理解盖洛普如何思考“兴旺”这个词，这构成我们分析的核心。",
+    "zh_hant": "要理解蓋洛普如何思考“興旺”這個詞，這構成我們分析的核心。"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "You've got to go back around 60 years to the East Coast of the United States and a psychologist named Hadley Cantrell.",
     "start": 149.244,
     "end": 155.547,
-    "zh": "你得回到大约60年前，美国东海岸，一位名叫哈德利·坎特瑞尔的心理学家。",
-    "zh_hant": "你得回到大約60年前，美國東海岸，一位名叫哈德利·坎特瑞爾的心理學家。"
+    "zh": "你需要回到大约60年前，美国东海岸，一位名叫哈德利·坎特里尔的心理学家。",
+    "zh_hant": "你需要回到大約60年前，美國東海岸，一位名叫哈德利·坎特里爾的心理學家。"
   },
   {
-    "index": 43,
+    "index": 37,
     "text": "And what Mr. Cantrell did was create the self-anchoring striving scale.",
     "start": 158.389,
     "end": 163.371,
-    "zh": "坎特瑞尔先生做的是创建了“自我锚定奋斗量表”。",
-    "zh_hant": "坎特瑞爾先生做的是建立了“自我錨定奮鬥量表”。"
+    "zh": "坎特里尔先生所做的，是创建了自我锚定奋斗量表。",
+    "zh_hant": "坎特里爾先生所做的，是建立了自我錨定奮鬥量表。"
   },
   {
-    "index": 44,
+    "index": 38,
     "text": "It's not the catchiest term and sounds a little bit perhaps complicated, but it's actually quite a simple question.",
     "start": 163.021,
     "end": 169.174,
-    "zh": "这名字不太好记，听起来可能有点复杂，但其实是个很简单的问题。",
-    "zh_hant": "這名字不太好記，聽起來可能有點複雜，但其實是個很簡單的問題。"
+    "zh": "这不是最吸引人的术语，听起来可能有点复杂，但实际上是个很简单的问题。",
+    "zh_hant": "這不是最吸引人的術語，聽起來可能有點複雜，但實際上是個很簡單的問題。"
   },
   {
-    "index": 45,
+    "index": 39,
     "text": "It asks people to imagine a ladder with steps numbered from zero at the bottom to.",
     "start": 169.255,
     "end": 174.457,
-    "zh": "它让人们想象一个梯子，台阶从底部的零编号到……",
-    "zh_hant": "它讓人們想象一個梯子，臺階從底部的零編號到……"
+    "zh": "它让人们想象一架梯子，阶梯编号从底部的零到……",
+    "zh_hant": "它讓人們想象一架梯子，階梯編號從底部的零到……"
   },
   {
-    "index": 46,
+    "index": 40,
     "text": "Ten at the top, and at the top of the ladder represents the best possible life for you,",
     "start": 174.107,
     "end": 179.179,
-    "zh": "顶部的十，梯子顶部代表你最好的可能生活，",
-    "zh_hant": "頂部的十，梯子頂部代表你最好的可能生活，"
+    "zh": "顶部的十，梯子顶部代表对你来说最好的生活，",
+    "zh_hant": "頂部的十，梯子頂部代表對你來說最好的生活，"
   },
   {
-    "index": 47,
+    "index": 41,
     "text": "while the bottom of the ladder represents the worst possible life for you.",
     "start": 179.179,
     "end": 182.681,
-    "zh": "而底部代表你最糟糕的可能生活。",
-    "zh_hant": "而底部代表你最糟糕的可能生活。"
+    "zh": "而梯子底部代表对你来说最糟的生活。",
+    "zh_hant": "而梯子底部代表對你來說最糟的生活。"
   },
   {
-    "index": 48,
+    "index": 42,
     "text": "And this is a really important thing about the self-anchoring nature of the scale.",
     "start": 182.681,
     "end": 187.743,
-    "zh": "这是这个量表“自我锚定”性质中非常重要的一点。",
-    "zh_hant": "這是這個量表“自我錨定”性質中非常重要的一點。"
+    "zh": "这是关于量表自我锚定性质的一个非常重要的事情。",
+    "zh_hant": "這是關於量表自我錨定性質的一個非常重要的事情。"
   },
   {
-    "index": 49,
+    "index": 43,
     "text": "It gets people to think about their lives, stepping back, and how they judge them in their own terms.",
     "start": 187.393,
     "end": 193.546,
-    "zh": "它让人们退一步思考自己的生活，以及他们如何以自己的标准来评判。",
-    "zh_hant": "它讓人們退一步思考自己的生活，以及他們如何以自己的標準來評判。"
+    "zh": "它让人们退后一步思考自己的生活，以及他们如何用自己的标准来判断。",
+    "zh_hant": "它讓人們退後一步思考自己的生活，以及他們如何用自己的標準來判斷。"
   },
   {
-    "index": 50,
+    "index": 44,
     "text": "And these can be affected by people's cultures, their own experiences.",
     "start": 193.196,
     "end": 197.628,
@@ -408,15 +360,15 @@
     "zh_hant": "這些可能受到人們文化、自身經歷的影響。"
   },
   {
-    "index": 51,
+    "index": 45,
     "text": "And what we then do is we ask two follow-up questions.",
     "start": 197.989,
     "end": 200.93,
-    "zh": "然后我们做的是问两个后续问题。",
-    "zh_hant": "然後我們做的是問兩個後續問題。"
+    "zh": "然后我们做的，是询问两个后续问题。",
+    "zh_hant": "然後我們做的，是詢問兩個後續問題。"
   },
   {
-    "index": 52,
+    "index": 46,
     "text": "We ask on which step of the ladder people think they would stand today,",
     "start": 200.58,
     "end": 204.632,
@@ -424,7 +376,7 @@
     "zh_hant": "我們問人們認為自己今天會站在梯子的哪一級，"
   },
   {
-    "index": 53,
+    "index": 47,
     "text": "and on which step they would expect to be standing in five years.",
     "start": 204.752,
     "end": 208.074,
@@ -432,111 +384,95 @@
     "zh_hant": "以及他們預期五年後會站在哪一級。"
   },
   {
-    "index": 54,
+    "index": 48,
     "text": "And the way in which Gallup grouped people into those three categories,",
     "start": 208.074,
     "end": 212.656,
-    "zh": "盖洛普将人们分为这三类的方式，",
-    "zh_hant": "蓋洛普將人們分為這三類的方式，"
+    "zh": "盖洛普将人们分为三类的方式——",
+    "zh_hant": "蓋洛普將人們分為三類的方式——"
   },
   {
-    "index": 55,
-    "text": "thriving, struggling, and suffering at the bottom, is based on extensive",
+    "index": 49,
+    "text": "thriving, struggling, and suffering at the bottom,",
     "start": 212.416,
-    "end": 217.498,
-    "zh": "即“蓬勃”、“挣扎”和底部的“受苦”，是基于广泛的",
-    "zh_hant": "即“蓬勃”、“掙扎”和底部的“受苦”，是基於廣泛的"
+    "end": 215.417,
+    "zh": "兴旺、挣扎，以及底部的痛苦——",
+    "zh_hant": "興旺、掙扎，以及底部的痛苦——"
   },
   {
-    "index": 56,
-    "text": "empirical research",
-    "start": 217.599,
-    "end": 219.459,
-    "zh": "实证研究",
-    "zh_hant": "實證研究"
-  },
-  {
-    "index": 57,
-    "text": "and sort of quite logical groupings,",
-    "start": 219.52,
+    "index": 50,
+    "text": "is based on extensive empirical research and sort of quite logical groupings,",
+    "start": 215.438,
     "end": 221.941,
-    "zh": "以及相当合理的分组逻辑，",
-    "zh_hant": "以及相當合理的分組邏輯，"
+    "zh": "基于广泛的实证研究和相当合乎逻辑的分组，",
+    "zh_hant": "基於廣泛的實證研究和相當合乎邏輯的分組，"
   },
   {
-    "index": 58,
+    "index": 51,
     "text": "based on thousands and thousands of interviews in the United States and worldwide.",
     "start": 221.921,
     "end": 227.043,
-    "zh": "基于在美国和世界范围内成千上万次的访谈。",
-    "zh_hant": "基於在美國和世界範圍內成千上萬次的訪談。"
+    "zh": "基于在美国和全球数千次访谈。",
+    "zh_hant": "基於在美國和全球數千次訪談。"
   },
   {
-    "index": 59,
+    "index": 52,
     "text": "So that's the poll and the thriving, but there is a question in our minds,",
     "start": 228.364,
     "end": 233.366,
-    "zh": "所以这就是民调和“蓬勃”，但我们心里有个疑问，",
-    "zh_hant": "所以這就是民調和“蓬勃”，但我們心裡有個疑問，"
+    "zh": "所以那就是民调和兴旺，但我们心中有个疑问，",
+    "zh_hant": "所以那就是民調和興旺，但我們心中有個疑問，"
   },
   {
-    "index": 60,
-    "text": "because the way Benedict cut up this data,",
+    "index": 53,
+    "text": "because the way Benedict cut up this data, well, raises questions.",
     "start": 233.547,
-    "end": 236.048,
-    "zh": "因为贝内迪克特处理这些数据的方式，",
-    "zh_hant": "因為貝內迪克特處理這些資料的方式，"
-  },
-  {
-    "index": 61,
-    "text": "well, raises questions.",
-    "start": 235.908,
     "end": 238.229,
-    "zh": "嗯，确实引发了问题。",
-    "zh_hant": "嗯，確實引發了問題。"
+    "zh": "因为贝内迪克特切分这些数据的方式，嗯，引发了一些问题。",
+    "zh_hant": "因為貝內迪克特切分這些資料的方式，嗯，引發了一些問題。"
   },
   {
-    "index": 62,
+    "index": 54,
     "text": "He and these headlines describe the global median of happiness.",
     "start": 238.389,
     "end": 243.492,
-    "zh": "他和这些标题描述的是全球幸福的中位数。",
-    "zh_hant": "他和這些標題描述的是全球幸福的中位數。"
+    "zh": "他和这些头条描述的是全球幸福中位数。",
+    "zh_hant": "他和這些頭條描述的是全球幸福中位數。"
   },
   {
-    "index": 63,
-    "text": "You get this median by working out the average rate of thriving in each country",
+    "index": 55,
+    "text": "You get this median by working out the average rate of thriving in each country in the poll,",
     "start": 243.692,
-    "end": 248.334,
-    "zh": "你通过计算每个国家在民调中的平均蓬勃率来得到这个中位数，",
-    "zh_hant": "你透過計算每個國家在民調中的平均蓬勃率來得到這個中位數，"
+    "end": 248.914,
+    "zh": "得到这个中位数，要计算每个受调国家中兴旺的平均率，",
+    "zh_hant": "得到這個中位數，要計算每個受調國家中興旺的平均率，"
   },
   {
-    "index": 64,
-    "text": "in the poll, and then arranging them in a league table from most thriving to least.",
-    "start": 247.984,
+    "index": 56,
+    "text": "and then arranging them in a league table from most thriving to least.",
+    "start": 249.015,
     "end": 252.916,
-    "zh": "然后把它们按从最蓬勃到最不蓬勃排列成联赛表。",
-    "zh_hant": "然後把它們按從最蓬勃到最不蓬勃排列成聯賽表。"
+    "zh": "然后按从最兴旺到最不兴旺排列成榜单。",
+    "zh_hant": "然後按從最興旺到最不興旺排列成榜單。"
   },
   {
-    "index": 65,
+    "index": 57,
     "text": "The median countries are the ones in the middle, halfway between top and bottom.",
     "start": 253.057,
     "end": 257.258,
-    "zh": "中位数国家是那些在中间的国家，位于顶部和底部之间。",
-    "zh_hant": "中位數國家是那些在中間的國家，位於頂部和底部之間。"
+    "zh": "中位国家是排在中间的那些，位于顶部和底部之间的中点。",
+    "zh_hant": "中位國家是排在中間的那些，位於頂部和底部之間的中點。"
   },
   {
-    "index": 66,
+    "index": 58,
     "text": "That is the global median, and the median there...",
     "start": 257.139,
     "end": 261.02,
-    "zh": "这就是全球中位数，那里的中位数……",
-    "zh_hant": "這就是全球中位數，那裡的中位數……"
+    "zh": "那就是全球中位数，而那中位数……",
+    "zh_hant": "那就是全球中位數，而那中位數……"
   },
   {
-    "index": 67,
+    "index": 59,
     "text": "Is currently 33%.",
     "start": 260.67,
     "end": 262.35,
@@ -544,279 +480,263 @@
     "zh_hant": "目前是33%。"
   },
   {
-    "index": 68,
+    "index": 60,
     "text": "So what that actually looks like is Japan, Kyrgyzstan, Cyprus, and Malta in 2024.",
     "start": 262.361,
     "end": 269.115,
-    "zh": "所以那实际上看起来是2024年的日本、吉尔吉斯斯坦、塞浦路斯和马耳他。",
-    "zh_hant": "所以那實際上看起來是2024年的日本、吉爾吉斯斯坦、塞普勒斯和馬耳他。"
+    "zh": "所以实际情况是，2024年日本、吉尔吉斯斯坦、塞浦路斯和马耳他。",
+    "zh_hant": "所以實際情況是，2024年日本、吉爾吉斯斯坦、塞普勒斯和馬耳他。"
   },
   {
-    "index": 69,
+    "index": 61,
     "text": "Those all fell at 33% thriving.",
     "start": 269.165,
     "end": 272.786,
-    "zh": "那些国家的蓬勃率都是33%。",
-    "zh_hant": "那些國家的蓬勃率都是33%。"
+    "zh": "这些国家的兴旺率都落在33%。",
+    "zh_hant": "這些國家的興旺率都落在33%。"
   },
   {
-    "index": 70,
+    "index": 62,
     "text": "Ten years previously, the countries at the midpoint, the median, were of course different.",
     "start": 272.666,
     "end": 277.709,
-    "zh": "十年前，处于中间点的国家，即中位数，当然不同。",
-    "zh_hant": "十年前，處於中間點的國家，即中位數，當然不同。"
+    "zh": "十年前，处于中点的国家，即中位数国家，当然不同。",
+    "zh_hant": "十年前，處於中點的國家，即中位數國家，當然不同。"
+  },
+  {
+    "index": 63,
+    "text": "Countries like Serbia, Mauritius, Sierra Leone,",
+    "start": 277.609,
+    "end": 281.451,
+    "zh": "像塞尔维亚、毛里求斯、塞拉利昂，",
+    "zh_hant": "像塞爾維亞、模里西斯、獅子山，"
+  },
+  {
+    "index": 64,
+    "text": "Moldova, and a handful of others, all of which then stood at 23%.",
+    "start": 281.131,
+    "end": 286.223,
+    "zh": "摩尔多瓦，以及其他几个国家，当时都位于23%。",
+    "zh_hant": "摩爾多瓦，以及其他幾個國家，當時都位於23%。"
+  },
+  {
+    "index": 65,
+    "text": "Now, this way of finding the average can be very useful, especially when you have big outliers in the data set.",
+    "start": 286.273,
+    "end": 292.936,
+    "zh": "现在，这种找平均值的方法可能非常有用，特别是当数据集中有大的离群值时。",
+    "zh_hant": "現在，這種找平均值的方法可能非常有用，特別是當資料集中有大的離群值時。"
+  },
+  {
+    "index": 66,
+    "text": "But in this case, it means that you're ignoring the fact that some countries",
+    "start": 293.277,
+    "end": 297.138,
+    "zh": "但在这种情况下，它意味着你忽略了这样的事实：一些国家",
+    "zh_hant": "但在這種情況下，它意味著你忽略了這樣的事實：一些國家"
+  },
+  {
+    "index": 67,
+    "text": "are tiny and some countries are massive, and so the number of actual people thriving",
+    "start": 296.788,
+    "end": 301.741,
+    "zh": "很小，一些国家很大，所以实际兴旺的人数",
+    "zh_hant": "很小，一些國家很大，所以實際興旺的人數"
+  },
+  {
+    "index": 68,
+    "text": "or not may not be well linked to this particular measure.",
+    "start": 301.391,
+    "end": 305.482,
+    "zh": "或非兴旺的人数，可能与此特定指标关系不大。",
+    "zh_hant": "或非興旺的人數，可能與此特定指標關係不大。"
+  },
+  {
+    "index": 69,
+    "text": "Reporting the global median country means",
+    "start": 305.963,
+    "end": 309.124,
+    "zh": "报告全球中位国家意味着",
+    "zh_hant": "報告全球中位國家意味著"
+  },
+  {
+    "index": 70,
+    "text": "treating Luxembourg and Iceland as being just as significant as India and China.",
+    "start": 308.774,
+    "end": 314.507,
+    "zh": "把卢森堡和冰岛视为与印度和中国同等重要。",
+    "zh_hant": "把盧森堡和冰島視為與印度和中國同等重要。"
   },
   {
     "index": 71,
-    "text": "Countries like Serbia, Mauritius, Sierra Leone, Moldova, and a handful of others,",
-    "start": 277.609,
-    "end": 283.072,
-    "zh": "像塞尔维亚、毛里求斯、塞拉利昂、摩尔多瓦等几个国家，",
-    "zh_hant": "像塞爾維亞、模里西斯、獅子山、摩爾多瓦等幾個國家，"
-  },
-  {
-    "index": 72,
-    "text": "all of which then stood at 23%.",
-    "start": 283.012,
-    "end": 286.223,
-    "zh": "那时都是23%。",
-    "zh_hant": "那時都是23%。"
-  },
-  {
-    "index": 73,
-    "text": "Now, this way of finding the average can be very useful,",
-    "start": 286.273,
-    "end": 289.955,
-    "zh": "这种求平均值的方法可能非常有用，",
-    "zh_hant": "這種求平均值的方法可能非常有用，"
-  },
-  {
-    "index": 74,
-    "text": "especially when you have big outliers in the data set.",
-    "start": 289.755,
-    "end": 292.936,
-    "zh": "尤其是当数据集中有大的异常值时。",
-    "zh_hant": "尤其是當資料集中有大的異常值時。"
-  },
-  {
-    "index": 75,
-    "text": "But in this case, it means that you're ignoring the fact that some countries are tiny and some countries are massive,",
-    "start": 293.277,
-    "end": 298.799,
-    "zh": "但在这种情况下，这意味着你忽略了有些国家很小、有些国家很大的事实，",
-    "zh_hant": "但在這種情況下，這意味著你忽略了有些國家很小、有些國家很大的事實，"
-  },
-  {
-    "index": 76,
-    "text": "and so the number of actual people thriving or not may not be well linked",
-    "start": 298.739,
-    "end": 304.042,
-    "zh": "因此实际蓬勃或非蓬勃的人数可能与该特定指标",
-    "zh_hant": "因此實際蓬勃或非蓬勃的人數可能與該特定指標"
-  },
-  {
-    "index": 77,
-    "text": "to this particular measure.",
-    "start": 303.692,
-    "end": 305.482,
-    "zh": "关联不大。",
-    "zh_hant": "關聯不大。"
-  },
-  {
-    "index": 78,
-    "text": "Reporting the global median country means treating",
-    "start": 305.963,
-    "end": 309.685,
-    "zh": "报告全球中位数国家意味着把",
-    "zh_hant": "報告全球中位數國家意味著把"
-  },
-  {
-    "index": 79,
-    "text": "Luxembourg and Iceland as being just as significant as India and China.",
-    "start": 309.505,
-    "end": 314.507,
-    "zh": "卢森堡和冰岛视为与印度和中国同等重要。",
-    "zh_hant": "盧森堡和冰島視為與印度和中國同等重要。"
-  },
-  {
-    "index": 80,
     "text": "There are many, many more people in India and China.",
     "start": 314.587,
     "end": 317.328,
-    "zh": "印度和中国的人口多得多。",
-    "zh_hant": "印度和中國的人口多得多。"
+    "zh": "印度和中国有更多、更多的人。",
+    "zh_hant": "印度和中國有更多、更多的人。"
   },
   {
-    "index": 81,
+    "index": 72,
     "text": "Shouldn't they count for more?",
     "start": 317.529,
     "end": 319.029,
-    "zh": "它们不应该被赋予更多权重吗？",
-    "zh_hant": "它們不應該被賦予更多權重嗎？"
+    "zh": "它们不应该权重更大吗？",
+    "zh_hant": "它們不應該權重更大嗎？"
   },
   {
-    "index": 82,
-    "text": "Why not do the average in the normal way and use population-weighted figures",
+    "index": 73,
+    "text": "Why not do the average in the normal way and use population-weighted figures to work out the mean,",
     "start": 319.49,
-    "end": 323.592,
-    "zh": "为什么不按常规方式求平均值，用人口加权数据",
-    "zh_hant": "為什麼不按常規方式求平均值，用人口加權資料"
+    "end": 324.592,
+    "zh": "为什么不用通常的方式计算平均值，用人口加权数字来得出均值——",
+    "zh_hant": "為什麼不用通常的方式計算平均值，用人口加權數字來得出均值——"
   },
   {
-    "index": 83,
-    "text": "to work out the mean, the average thriving per person in the whole world?",
-    "start": 323.242,
+    "index": 74,
+    "text": "the average thriving per person in the whole world?",
+    "start": 324.593,
     "end": 328.194,
-    "zh": "来计算整个世界的平均每人蓬勃水平？",
-    "zh_hant": "來計算整個世界的平均每人蓬勃水平？"
+    "zh": "全世界每个人的平均兴旺水平？",
+    "zh_hant": "全世界每個人的平均興旺水平？"
   },
   {
-    "index": 84,
+    "index": 75,
     "text": "I mean, it's certainly a fair question.",
     "start": 328.414,
     "end": 330.215,
-    "zh": "嗯，这确实是个合理的问题。",
-    "zh_hant": "嗯，這確實是個合理的問題。"
+    "zh": "我的意思是，这当然是个公平的问题。",
+    "zh_hant": "我的意思是，這當然是個公平的問題。"
   },
   {
-    "index": 85,
+    "index": 76,
     "text": "And I think you have to step back and consider",
     "start": 330.736,
     "end": 334.397,
-    "zh": "我认为你得退一步考虑",
-    "zh_hant": "我認為你得退一步考慮"
+    "zh": "我认为你必须退一步考虑",
+    "zh_hant": "我認為你必須退一步考慮"
   },
   {
-    "index": 86,
+    "index": 77,
     "text": "what the real value and nature of the story you're trying to tell is.",
     "start": 334.878,
     "end": 339.54,
-    "zh": "你想讲的故事的真正价值和性质是什么。",
-    "zh_hant": "你想講的故事的真正價值和性質是什麼。"
+    "zh": "你想讲述的故事的真正价值和本质是什么。",
+    "zh_hant": "你想講述的故事的真正價值和本質是什麼。"
   },
   {
-    "index": 87,
+    "index": 78,
     "text": "And in this case, we're not trying to tell the story of a point-in-time measurement",
     "start": 339.44,
     "end": 344.662,
-    "zh": "在这种情况下，我们不是要讲某一年关于世界有多幸福的单点测量故事。",
-    "zh_hant": "在這種情況下，我們不是要講某一年關於世界有多幸福的單點測量故事。"
+    "zh": "在这种情况下，我们不是要讲述某个时间点的测量",
+    "zh_hant": "在這種情況下，我們不是要講述某個時間點的測量"
   },
   {
-    "index": 88,
+    "index": 79,
     "text": "from one year about how happy the world is.",
     "start": 344.362,
     "end": 348.664,
-    "zh": "我们不是要讲某一年关于世界有多幸福的单点测量故事。",
-    "zh_hant": "我們不是要講某一年關於世界有多幸福的單點測量故事。"
+    "zh": "关于某一年世界有多幸福的故事。",
+    "zh_hant": "關於某一年世界有多幸福的故事。"
   },
   {
-    "index": 89,
-    "text": "What we're trying to do is show how the world, and countries that contribute to it, have changed",
+    "index": 80,
+    "text": "What we're trying to do is show how the world, and countries that contribute to it, have changed over time.",
     "start": 348.524,
-    "end": 354.427,
-    "zh": "我们想做的是展示世界及其各国如何随时间",
-    "zh_hant": "我們想做的是展示世界及其各國如何隨時間"
-  },
-  {
-    "index": 90,
-    "text": "over time.",
-    "start": 354.077,
     "end": 355.247,
-    "zh": "发生变化。",
-    "zh_hant": "發生變化。"
+    "zh": "我们试图展示的是世界以及构成它的国家，如何随时间变化。",
+    "zh_hant": "我們試圖展示的是世界以及構成它的國家，如何隨時間變化。"
   },
   {
-    "index": 91,
+    "index": 81,
     "text": "The global median this year was 33%.",
     "start": 355.208,
     "end": 358.799,
-    "zh": "今年的全球中位数是33%。",
-    "zh_hant": "今年的全球中位數是33%。"
+    "zh": "今年全球中位数是33%。",
+    "zh_hant": "今年全球中位數是33%。"
   },
   {
-    "index": 92,
-    "text": "The population-weighted average, so that's giving more weight to respondents",
+    "index": 82,
+    "text": "The population-weighted average, so that's giving more weight to respondents from places like India and China, was 28%.",
     "start": 358.849,
-    "end": 363.032,
-    "zh": "人口加权平均数，也就是给来自印度和中国等地",
-    "zh_hant": "人口加權平均數，也就是給來自印度和中國等地"
-  },
-  {
-    "index": 93,
-    "text": "from places like India and China, was 28%.",
-    "start": 362.682,
     "end": 366.304,
-    "zh": "的受访者更多权重，是28%。",
-    "zh_hant": "的受訪者更多權重，是28%。"
+    "zh": "人口加权平均值，也就是给来自印度和中国等地受访者更多权重，是28%。",
+    "zh_hant": "人口加權平均值，也就是給來自印度和中國等地受訪者更多權重，是28%。"
   },
   {
-    "index": 94,
+    "index": 83,
     "text": "And that is a little bit more stable compared to the previous few years,",
     "start": 366.354,
     "end": 370.455,
-    "zh": "这比前几年稍微稳定一些，",
-    "zh_hant": "這比前幾年稍微穩定一些，"
+    "zh": "与前几年相比，这稍微更稳定一些，",
+    "zh_hant": "與前幾年相比，這稍微更穩定一些，"
   },
   {
-    "index": 95,
+    "index": 84,
     "text": "where it's been around 27 to 28% since COVID.",
     "start": 370.105,
     "end": 374.697,
-    "zh": "自新冠疫情以来一直保持在27%到28%左右。",
-    "zh_hant": "自新冠疫情以來一直保持在27%到28%左右。"
+    "zh": "自新冠疫情以来一直大约在27%到28%。",
+    "zh_hant": "自新冠疫情以來一直大約在27%到28%。"
   },
   {
-    "index": 96,
-    "text": "But really, we see that in the years before COVID, if you take a longer-term view",
+    "index": 85,
+    "text": "But really, we see that in the years before COVID,",
     "start": 374.838,
-    "end": 379.3,
-    "zh": "但说真的，我们看到在新冠疫情之前的年份里，如果从更长远的视角看",
-    "zh_hant": "但說真的，我們看到在新冠疫情之前的年份裡，如果從更長遠的視角看"
+    "end": 377.759,
+    "zh": "但实际上，我们看到在疫情前的几年里，",
+    "zh_hant": "但實際上，我們看到在疫情前的幾年裡，"
   },
   {
-    "index": 97,
-    "text": "across either metric, Whether that's the global median or the population weighted mean,",
-    "start": 379.2,
+    "index": 86,
+    "text": "if you take a longer-term view across either metric,",
+    "start": 377.409,
+    "end": 381.161,
+    "zh": "如果你从长期视角看任一指标，",
+    "zh_hant": "如果你從長期視角看任一指標，"
+  },
+  {
+    "index": 87,
+    "text": "Whether that's the global median or the population weighted mean,",
+    "start": 380.811,
     "end": 385.203,
-    "zh": "无论哪个指标，是全球中位数还是人口加权平均数，",
-    "zh_hant": "無論哪個指標，是全球中位數還是人口加權平均數，"
+    "zh": "无论是全球中位数还是人口加权均值，",
+    "zh_hant": "無論是全球中位數還是人口加權均值，"
   },
   {
-    "index": 98,
+    "index": 88,
     "text": "we do still see global levels of thriving higher now than they were many years ago.",
     "start": 385.143,
     "end": 391.566,
-    "zh": "我们确实仍然看到全球蓬勃水平比多年前更高。",
-    "zh_hant": "我們確實仍然看到全球蓬勃水平比多年前更高。"
+    "zh": "我们仍然看到全球兴旺水平现在高于多年前。",
+    "zh_hant": "我們仍然看到全球興旺水平現在高於多年前。"
   },
   {
-    "index": 99,
-    "text": "So the population weighted average, the mean, tells you a somewhat similar story, except",
+    "index": 89,
+    "text": "So the population weighted average, the mean, tells you a somewhat similar story,",
     "start": 391.886,
-    "end": 397.649,
-    "zh": "所以人口加权平均数告诉你一个类似的故事，只不过",
-    "zh_hant": "所以人口加權平均數告訴你一個類似的故事，只不過"
+    "end": 396.768,
+    "zh": "所以人口加权平均值，即均值，告诉你的故事有些相似，",
+    "zh_hant": "所以人口加權平均值，即均值，告訴你的故事有些相似，"
   },
   {
-    "index": 100,
-    "text": "you don't see the improvements since Covid, and the overall thriving percentage is a bit lower.",
-    "start": 397.299,
+    "index": 90,
+    "text": "except you don't see the improvements since Covid, and the overall thriving percentage is a bit lower.",
+    "start": 396.829,
     "end": 403.472,
-    "zh": "你看不到疫情以来的改善，总体蓬勃百分比也略低一些。",
-    "zh_hant": "你看不到疫情以來的改善，總體蓬勃百分比也略低一些。"
+    "zh": "只是你看不到疫情后的改善，整体兴旺比例稍低一些。",
+    "zh_hant": "只是你看不到疫情後的改善，整體興旺比例稍低一些。"
   },
   {
-    "index": 101,
+    "index": 91,
     "text": "But the broad picture that the world is getting happier remains.",
     "start": 403.772,
     "end": 408.074,
-    "zh": "但世界正在变得更幸福的大图景依然存在。",
-    "zh_hant": "但世界正在變得更幸福的大圖景依然存在。"
+    "zh": "但世界正变得更幸福的总体图景仍然存在。",
+    "zh_hant": "但世界正變得更幸福的總體圖景仍然存在。"
   },
   {
-    "index": 102,
+    "index": 92,
     "text": "Why?",
     "start": 408.515,
     "end": 409.295,
@@ -824,251 +744,227 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 103,
+    "index": 93,
     "text": "Perhaps we shouldn't be surprised.",
     "start": 409.655,
     "end": 411.996,
-    "zh": "也许我们不应该感到惊讶。",
-    "zh_hant": "也許我們不應該感到驚訝。"
+    "zh": "也许我们不该感到惊讶。",
+    "zh_hant": "也許我們不該感到驚訝。"
   },
   {
-    "index": 104,
+    "index": 94,
     "text": "Really, the world poll and the measure of thriving isn't the only statistic",
     "start": 412.117,
     "end": 416.739,
-    "zh": "实际上，世界民调和蓬勃指标并不是唯一显示",
-    "zh_hant": "實際上，世界民調和蓬勃指標並不是唯一顯示"
+    "zh": "确实，世界民调和兴旺指标并不是唯一显示在许多方面生活正在变好的统计",
+    "zh_hant": "確實，世界民調和興旺指標並不是唯一顯示在許多方面生活正在變好的統計"
   },
   {
-    "index": 105,
+    "index": 95,
     "text": "that shows that in many respects life is getting better.",
     "start": 416.439,
     "end": 420.0,
-    "zh": "在许多方面生活正在变得更好的统计。",
-    "zh_hant": "在許多方面生活正在變得更好的統計。"
+    "zh": "数据。",
+    "zh_hant": "資料。"
   },
   {
-    "index": 106,
-    "text": "The United Nations Human Development Index is a similar sort of thing, which uses more objective",
+    "index": 96,
+    "text": "The United Nations Human Development Index is a similar sort of thing,",
     "start": 420.121,
-    "end": 426.343,
-    "zh": "联合国人类发展指数是类似的东西，它使用更客观的",
-    "zh_hant": "聯合國人類發展指數是類似的東西，它使用更客觀的"
+    "end": 424.703,
+    "zh": "联合国人类发展指数是类似的东西，",
+    "zh_hant": "聯合國人類發展指數是類似的東西，"
   },
   {
-    "index": 107,
-    "text": "measures",
-    "start": 426.244,
-    "end": 427.124,
-    "zh": "指标",
-    "zh_hant": "指標"
-  },
-  {
-    "index": 108,
-    "text": "of years of schooling, life expectancy, and living standards.",
-    "start": 426.774,
+    "index": 97,
+    "text": "which uses more objective measures of years of schooling, life expectancy, and living standards.",
+    "start": 424.353,
     "end": 431.326,
-    "zh": "如受教育年限、预期寿命和生活水平。",
-    "zh_hant": "如受教育年限、預期壽命和生活水平。"
+    "zh": "它使用更客观的衡量标准，如受教育年限、预期寿命和生活水平。",
+    "zh_hant": "它使用更客觀的衡量標準，如受教育年限、預期壽命和生活水平。"
   },
   {
-    "index": 109,
+    "index": 98,
     "text": "And if you look at the Human Development Index in the same countries where the Gallup World Poll is measured,",
     "start": 431.326,
     "end": 436.528,
-    "zh": "如果你在盖洛普世界民调测量的同一批国家看人类发展指数，",
-    "zh_hant": "如果你在蓋洛普世界民調測量的同一批國家看人類發展指數，"
+    "zh": "如果你在盖洛普世界民调测量的同一批国家中看人类发展指数，",
+    "zh_hant": "如果你在蓋洛普世界民調測量的同一批國家中看人類發展指數，"
   },
   {
-    "index": 110,
+    "index": 99,
     "text": "in many cases you see similar increases over time.",
     "start": 436.469,
     "end": 440.011,
-    "zh": "在很多情况下你会看到随时间相似的上升。",
-    "zh_hant": "在很多情況下你會看到隨時間相似的上升。"
+    "zh": "在许多情况下，你会看到随时间类似的增长。",
+    "zh_hant": "在許多情況下，你會看到隨時間類似的增長。"
   },
   {
-    "index": 111,
+    "index": 100,
     "text": "So when you dig under the Hood, a bit of the trends in how median thriving has changed.",
     "start": 440.031,
     "end": 445.773,
-    "zh": "所以当你深入挖掘中位数蓬勃水平的变化趋势时，",
-    "zh_hant": "所以當你深入挖掘中位數蓬勃水平的變化趨勢時，"
+    "zh": "所以当你深入了解中位兴旺变化趋势的一些细节时，",
+    "zh_hant": "所以當你深入瞭解中位興旺變化趨勢的一些細節時，"
   },
   {
-    "index": 112,
+    "index": 101,
     "text": "You find, actually, across much of the world in the last decade,",
     "start": 445.634,
     "end": 449.835,
-    "zh": "你会发现，实际上在过去的十年里，世界大部分地区",
-    "zh_hant": "你會發現，實際上在過去的十年裡，世界大部分地區"
+    "zh": "你会发现，实际上在过去十年中，全球大部分地区",
+    "zh_hant": "你會發現，實際上在過去十年中，全球大部分地區"
   },
   {
-    "index": 113,
-    "text": "we've seen very steady, continued increases, whether that's in Eastern Europe,",
+    "index": 102,
+    "text": "we've seen very steady, continued increases, whether that's",
     "start": 449.485,
-    "end": 454.958,
-    "zh": "都看到了非常稳定、持续的增长，无论是在东欧、",
-    "zh_hant": "都看到了非常穩定、持續的增長，無論是在東歐、"
+    "end": 453.377,
+    "zh": "我们看到非常稳定、持续的增长，无论是在",
+    "zh_hant": "我們看到非常穩定、持續的增長，無論是在"
   },
   {
-    "index": 114,
-    "text": "in East Asia, post-Soviet Eurasia, or even Latin America.",
-    "start": 454.608,
+    "index": 103,
+    "text": "in Eastern Europe, in East Asia, post-Soviet Eurasia, or even Latin America.",
+    "start": 453.027,
     "end": 459.22,
-    "zh": "东亚、后苏联欧亚大陆，还是拉丁美洲。",
-    "zh_hant": "東亞、後蘇聯歐亞大陸，還是拉丁美洲。"
+    "zh": "东欧、东亚、后苏联欧亚地区，还是拉丁美洲。",
+    "zh_hant": "東歐、東亞、後蘇聯歐亞地區，還是拉丁美洲。"
   },
   {
-    "index": 115,
+    "index": 104,
     "text": "Now, those of our listeners who are listening from the UK",
     "start": 459.5,
     "end": 464.242,
-    "zh": "那些从英国收听节目的听众",
-    "zh_hant": "那些從英國收聽節目的聽眾"
+    "zh": "现在，那些从英国收听我们节目的听众",
+    "zh_hant": "現在，那些從英國收聽我們節目的聽眾"
   },
   {
-    "index": 116,
+    "index": 105,
     "text": "will, I think, be raising an eyebrow at the idea that the world is getting better.",
     "start": 464.603,
     "end": 469.065,
-    "zh": "我想，会对世界正在变得更好的说法挑眉毛。",
-    "zh_hant": "我想，會對世界正在變得更好的說法挑眉毛。"
+    "zh": "我想会对世界正在变好的想法挑眉质疑。",
+    "zh_hant": "我想會對世界正在變好的想法挑眉質疑。"
   },
   {
-    "index": 117,
+    "index": 106,
     "text": "I get the impression that the Americans are not feeling particularly optimistic over the last ten years.",
     "start": 469.285,
     "end": 474.467,
-    "zh": "我的印象是美国人过去十年并不是特别乐观。",
-    "zh_hant": "我的印象是美國人過去十年並不是特別樂觀。"
+    "zh": "我的印象是，美国人最近十年并不特别乐观。",
+    "zh_hant": "我的印象是，美國人最近十年並不特別樂觀。"
   },
   {
-    "index": 118,
+    "index": 107,
     "text": "Or so, is that just me getting the vibes wrong,",
     "start": 474.117,
     "end": 477.749,
-    "zh": "是这样，还是我理解错了，",
-    "zh_hant": "是這樣，還是我理解錯了，"
+    "zh": "左右，是不是我误会了氛围，",
+    "zh_hant": "左右，是不是我誤會了氛圍，"
   },
   {
-    "index": 119,
+    "index": 108,
     "text": "or do your data also suggest that the UK and US are bucking this global trend?",
     "start": 477.399,
     "end": 483.752,
-    "zh": "或者你的数据也显示英美在逆全球趋势而行？",
-    "zh_hant": "或者你的資料也顯示英美在逆全球趨勢而行？"
+    "zh": "还是你的数据也表明英国和美国在逆全球趋势而行？",
+    "zh_hant": "還是你的資料也表明英國和美國在逆全球趨勢而行？"
   },
   {
-    "index": 120,
-    "text": "No, your intuition is entirely spot on, really, because although most global",
+    "index": 109,
+    "text": "No, your intuition is entirely spot on,",
     "start": 484.233,
-    "end": 489.915,
-    "zh": "不，你的直觉完全正确，因为虽然我刚才提到的多数全球",
-    "zh_hant": "不，你的直覺完全正確，因為雖然我剛才提到的多數全球"
+    "end": 487.174,
+    "zh": "不，你的直觉完全正确，",
+    "zh_hant": "不，你的直覺完全正確，"
   },
   {
-    "index": 121,
-    "text": "regions and continents that I just mentioned have seen increases,",
-    "start": 489.716,
+    "index": 110,
+    "text": "really, because although most global regions and continents that I just mentioned have seen increases,",
+    "start": 486.824,
     "end": 493.617,
-    "zh": "地区和大陆都有所增长，",
-    "zh_hant": "地區和大陸都有所增長，"
+    "zh": "真的，因为尽管我刚提到的大多数全球地区和大陆都有增长，",
+    "zh_hant": "真的，因為儘管我剛提到的大多數全球地區和大陸都有增長，"
   },
   {
-    "index": 122,
+    "index": 111,
     "text": "there are a few notable regions that buck the trend.",
     "start": 493.267,
     "end": 497.359,
-    "zh": "但也有几个显著地区逆势而行。",
-    "zh_hant": "但也有幾個顯著地區逆勢而行。"
+    "zh": "但有少数几个显著地区逆势而行。",
+    "zh_hant": "但有少數幾個顯著地區逆勢而行。"
   },
   {
-    "index": 123,
+    "index": 112,
     "text": "Those are places like North America.",
     "start": 497.009,
     "end": 499.72,
-    "zh": "这些地方如北美、",
-    "zh_hant": "這些地方如北美、"
+    "zh": "这些地方比如北美。",
+    "zh_hant": "這些地方比如北美。"
   },
   {
-    "index": 124,
-    "text": "Western Europe and Australia and New Zealand, all of which are home to typically",
+    "index": 113,
+    "text": "Western Europe and Australia and New Zealand, all of which are home to typically higher income countries.",
     "start": 499.8,
-    "end": 505.003,
-    "zh": "西欧以及澳大利亚和新西兰，这些地方通常是",
-    "zh_hant": "西歐以及澳大利亞和紐西蘭，這些地方通常是"
-  },
-  {
-    "index": 125,
-    "text": "higher income countries.",
-    "start": 504.803,
     "end": 506.584,
-    "zh": "高收入国家的所在地。",
-    "zh_hant": "高收入國家的所在地。"
+    "zh": "西欧以及澳大利亚和新西兰，这些地方通常是较高收入国家。",
+    "zh_hant": "西歐以及澳大利亞和紐西蘭，這些地方通常是較高收入國家。"
   },
   {
-    "index": 126,
-    "text": "So although the overall proportion of adults in those places",
+    "index": 114,
+    "text": "So although the overall proportion of adults in those places who can be considered thriving",
     "start": 506.564,
-    "end": 510.746,
-    "zh": "所以尽管这些地方可以被视为蓬勃的成年人比例",
-    "zh_hant": "所以儘管這些地方可以被視為蓬勃的成年人比例"
+    "end": 512.566,
+    "zh": "所以尽管这些地方被视为兴旺的成年人比例",
+    "zh_hant": "所以儘管這些地方被視為興旺的成年人比例"
   },
   {
-    "index": 127,
-    "text": "who can be considered thriving is still higher than much of the rest of the world,",
-    "start": 510.486,
+    "index": 115,
+    "text": "is still higher than much of the rest of the world,",
+    "start": 512.216,
     "end": 514.988,
-    "zh": "仍然高于世界其他大部分地区，",
-    "zh_hant": "仍然高於世界其他大部分地區，"
+    "zh": "仍然高于世界其他地方的大部分，",
+    "zh_hant": "仍然高於世界其他地方的大部分，"
   },
   {
-    "index": 128,
+    "index": 116,
     "text": "the longer term trend in those places is one of quite a downward trend.",
     "start": 514.948,
     "end": 519.47,
-    "zh": "但那些地方的长期趋势是相当向下倾斜的。",
-    "zh_hant": "但那些地方的長期趨勢是相當向下傾斜的。"
+    "zh": "但那些地方的长期趋势却是相当下行。",
+    "zh_hant": "但那些地方的長期趨勢卻是相當下行。"
   },
   {
-    "index": 129,
+    "index": 117,
     "text": "Thanks to Benedict Vigers from Gallup.",
     "start": 522.131,
     "end": 524.874,
-    "zh": "感谢盖洛普的贝内迪克特·维格斯。",
-    "zh_hant": "感謝蓋洛普的貝內迪克特·維格斯。"
+    "zh": "感谢来自盖洛普的贝内迪克特·维格斯。",
+    "zh_hant": "感謝來自蓋洛普的貝內迪克特·維格斯。"
   },
   {
-    "index": 130,
+    "index": 118,
     "text": "That's it for this week.",
     "start": 525.035,
     "end": 526.416,
-    "zh": "本周就到这里。",
-    "zh_hant": "本週就到這裡。"
+    "zh": "本周节目就到这里。",
+    "zh_hant": "本週節目就到這裡。"
   },
   {
-    "index": 131,
+    "index": 119,
     "text": "Be sure to get in touch if you've seen a number you think we should take a look at.",
     "start": 526.237,
     "end": 529.821,
-    "zh": "如果你看到我们认为应该关注的一个数字，请务必联系我们。",
-    "zh_hant": "如果你看到我們認為應該關注的一個數字，請務必聯絡我們。"
+    "zh": "如果你看到一个你认为我们应该关注数字，一定要联系我们。",
+    "zh_hant": "如果你看到一個你認為我們應該關注數字，一定要聯絡我們。"
   },
   {
-    "index": 132,
-    "text": "The email is moreorless at bbc.co.uk.",
+    "index": 120,
+    "text": "The email is moreorless at bbc.co.uk. Until next time, goodbye.",
     "start": 529.802,
-    "end": 533.846,
-    "zh": "邮箱是moreorless@bbc.co.uk。",
-    "zh_hant": "郵箱是moreorless@bbc.co.uk。"
-  },
-  {
-    "index": 133,
-    "text": "Until next time, goodbye.",
-    "start": 534.188,
     "end": 536.35,
-    "zh": "下次再见，再见。",
-    "zh_hant": "下次再見，再見。"
+    "zh": "邮箱是 moreorless@bbc.co.uk。下次再见，再见。",
+    "zh_hant": "郵箱是 moreorless@bbc.co.uk。下次再見，再見。"
   }
 ]

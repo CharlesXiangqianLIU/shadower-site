@@ -9,94 +9,78 @@
   },
   {
     "index": 1,
-    "text": "Mrs. Anne Sterling did not think of the risk",
+    "text": "Mrs. Anne Sterling did not think",
     "start": 19.374,
-    "end": 23.395,
-    "zh": "安妮·斯特林夫人没有考虑到风险",
-    "zh_hant": "安妮·斯特林夫人沒有考慮到風險"
+    "end": 22.735,
+    "zh": "安妮·斯特林夫人没有考虑",
+    "zh_hant": "安妮·斯特林夫人沒有考慮"
   },
   {
     "index": 2,
-    "text": "she was taking when she ran through a forest after two men.",
-    "start": 23.045,
+    "text": "of the risk she was taking when she ran through a forest after two men.",
+    "start": 22.385,
     "end": 28.138,
-    "zh": "她在穿过森林追赶两个男人时所冒的风险。",
-    "zh_hant": "她在穿過森林追趕兩個男人時所冒的風險。"
+    "zh": "她追赶两个男人穿过森林时所冒的风险。",
+    "zh_hant": "她追趕兩個男人穿過森林時所冒的風險。"
   },
   {
     "index": 3,
-    "text": "They had rushed up to her while she was having a picnic at the edge of a forest",
+    "text": "They had rushed up to her while she was having a picnic",
     "start": 29.359,
-    "end": 35.561,
-    "zh": "她正和孩子们在森林边野餐时，",
-    "zh_hant": "她正和孩子們在森林邊野餐時，"
+    "end": 33.68,
+    "zh": "他们冲到她面前时，她正和孩子们",
+    "zh_hant": "他們衝到她面前時，她正和孩子們"
   },
   {
     "index": 4,
-    "text": "with her children and tried to steal her handbag.",
-    "start": 35.602,
+    "text": "at the edge of a forest with her children and tried to steal her handbag.",
+    "start": 33.501,
     "end": 39.163,
-    "zh": "他们冲上来试图偷她的手提包。",
-    "zh_hant": "他們衝上來試圖偷她的手提包。"
+    "zh": "在森林边上野餐，他们试图抢她的手提包。",
+    "zh_hant": "在森林邊上野餐，他們試圖搶她的手提包。"
   },
   {
     "index": 5,
-    "text": "In the struggle, the strap broke and, with the bag",
+    "text": "In the struggle, the strap broke and, with the bag in their possession,",
     "start": 40.204,
-    "end": 45.626,
-    "zh": "在争夺中，带子断了，包",
-    "zh_hant": "在爭奪中，帶子斷了，包"
+    "end": 46.727,
+    "zh": "在扭打中，背带断了，包被他们抢到手，",
+    "zh_hant": "在扭打中，揹帶斷了，包被他們搶到手，"
   },
   {
     "index": 6,
-    "text": "in their possession,",
-    "start": 45.276,
-    "end": 46.727,
-    "zh": "落到了他们手里，",
-    "zh_hant": "落到了他們手裡，"
-  },
-  {
-    "index": 7,
     "text": "both men started running through the trees.",
     "start": 46.767,
     "end": 49.988,
-    "zh": "两个男人开始穿过树木逃跑。",
-    "zh_hant": "兩個男人開始穿過樹木逃跑。"
+    "zh": "两个男人开始穿过树林逃跑。",
+    "zh_hant": "兩個男人開始穿過樹林逃跑。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Mrs. Sterling got so angry that she ran after them.",
     "start": 51.229,
     "end": 55.332,
-    "zh": "斯特林夫人非常生气，便追了上去。",
-    "zh_hant": "斯特林夫人非常生氣，便追了上去。"
+    "zh": "斯特林夫人非常生气，追了上去。",
+    "zh_hant": "斯特林夫人非常生氣，追了上去。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "She was soon out of breath, but she continued to run.",
     "start": 55.973,
     "end": 60.215,
-    "zh": "她很快就喘不过气来，但她继续跑。",
-    "zh_hant": "她很快就喘不過氣來，但她繼續跑。"
+    "zh": "她很快就气喘吁吁，但还是继续跑。",
+    "zh_hant": "她很快就氣喘吁吁，但還是繼續跑。"
+  },
+  {
+    "index": 9,
+    "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag,",
+    "start": 61.876,
+    "end": 69.18,
+    "zh": "当她追上他们时，看到他们已经坐下，正在翻看包里的东西，",
+    "zh_hant": "當她追上他們時，看到他們已經坐下，正在翻看包裡的東西，"
   },
   {
     "index": 10,
-    "text": "When she caught up with them, she saw that they had sat down",
-    "start": 61.876,
-    "end": 66.138,
-    "zh": "当她追上他们时，她看到他们已经坐下",
-    "zh_hant": "當她追上他們時，她看到他們已經坐下"
-  },
-  {
-    "index": 11,
-    "text": "and were going through the contents of the bag,",
-    "start": 66.079,
-    "end": 69.18,
-    "zh": "正在翻看包里的东西，",
-    "zh_hant": "正在翻看包裡的東西，"
-  },
-  {
-    "index": 12,
     "text": "so she ran straight at them.",
     "start": 69.461,
     "end": 71.562,
@@ -104,27 +88,27 @@
     "zh_hant": "於是她徑直朝他們衝過去。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The men got such a fright that they dropped the bag and ran away.",
     "start": 72.423,
     "end": 76.845,
-    "zh": "那两个男人吓了一大跳，扔下包就跑了。",
-    "zh_hant": "那兩個男人嚇了一大跳，扔下包就跑了。"
+    "zh": "那两个男人吓了一大跳，扔掉包逃跑了。",
+    "zh_hant": "那兩個男人嚇了一大跳，扔掉包逃跑了。"
   },
   {
-    "index": 14,
-    "text": "'The strap needs mending,'",
+    "index": 12,
+    "text": "'The strap needs mending,' said Mrs. Sterling later,",
     "start": 76.585,
-    "end": 80.707,
-    "zh": "“背带需要修一下，”",
-    "zh_hant": "“揹帶需要修一下，”"
+    "end": 82.248,
+    "zh": "“背带需要修一修了，”斯特林夫人后来说，",
+    "zh_hant": "“揹帶需要修一修了，”斯特林夫人後來說，"
   },
   {
-    "index": 15,
-    "text": "said Mrs. Sterling later, 'but they did not steal anything.'",
-    "start": 80.357,
+    "index": 13,
+    "text": "'but they did not steal anything.'",
+    "start": 81.908,
     "end": 85.25,
-    "zh": "斯特林夫人后来说，“但他们什么也没偷走。”",
-    "zh_hant": "斯特林夫人後來說，“但他們什麼也沒偷走。”"
+    "zh": "“但他们什么也没偷走。”",
+    "zh_hant": "“但他們什麼也沒偷走。”"
   }
 ]

@@ -4,16 +4,16 @@
     "text": "Hello, and thanks for downloading the More or Less podcast.",
     "start": 5.891,
     "end": 9.352,
-    "zh": "你好，感谢下载《More or Less》播客。",
-    "zh_hant": "你好，感謝下載《More or Less》播客。"
+    "zh": "你好，感谢下载《多或少》播客。",
+    "zh_hant": "你好，感謝下載《多或少》播客。"
   },
   {
     "index": 1,
     "text": "We're the programme that looks at the numbers in the news, and in life, and in AI hallucinations.",
     "start": 9.312,
     "end": 14.134,
-    "zh": "我们是一档关注新闻、生活以及AI幻觉中数字的节目。",
-    "zh_hant": "我們是一檔關注新聞、生活以及AI幻覺中數字的節目。"
+    "zh": "我们是一档关注新闻、生活中以及AI幻觉中数字的节目。",
+    "zh_hant": "我們是一檔關注新聞、生活中以及AI幻覺中數字的節目。"
   },
   {
     "index": 2,
@@ -28,8 +28,8 @@
     "text": "As the small print warns you if you ever ask ChatGPT to help your kid with their maths homework,",
     "start": 21.598,
     "end": 26.52,
-    "zh": "就像小字警告所说，如果你让ChatGPT帮你孩子做数学作业，",
-    "zh_hant": "就像小字警告所說，如果你讓ChatGPT幫你孩子做數學作業，"
+    "zh": "正如小字警告所说，如果你让ChatGPT帮你孩子做数学作业，",
+    "zh_hant": "正如小字警告所說，如果你讓ChatGPT幫你孩子做數學作業，"
   },
   {
     "index": 4,
@@ -44,48 +44,48 @@
     "text": "Despite having all the confidence of your overconfident friend,",
     "start": 29.182,
     "end": 32.263,
-    "zh": "尽管它有着你那个过度自信朋友的所有自信，",
-    "zh_hant": "儘管它有著你那個過度自信朋友的所有自信，"
+    "zh": "尽管它有着比你那位过度自信的朋友还足的自信，",
+    "zh_hant": "儘管它有著比你那位過度自信的朋友還足的自信，"
   },
   {
     "index": 6,
-    "text": "some of the stuff that AI engines like ChatGPT, Gemini,",
+    "text": "some of the stuff that AI engines like ChatGPT, Gemini, Grok, or Claude",
     "start": 32.284,
-    "end": 36.045,
-    "zh": "但像ChatGPT、Gemini、",
-    "zh_hant": "但像ChatGPT、Gemini、"
+    "end": 36.906,
+    "zh": "但像ChatGPT、Gemini、Grok或Claude这样的AI引擎",
+    "zh_hant": "但像ChatGPT、Gemini、Grok或Claude這樣的AI引擎"
   },
   {
     "index": 7,
-    "text": "Grok, or Claude confidently tells you is essentially made up.",
-    "start": 35.695,
+    "text": "confidently tells you is essentially made up.",
+    "start": 36.556,
     "end": 40.047,
-    "zh": "Grok或Claude这类AI引擎自信地告诉你的某些内容，本质上都是编造出来的。",
-    "zh_hant": "Grok或Claude這類AI引擎自信地告訴你的某些內容，本質上都是編造出來的。"
+    "zh": "自信地告诉你的一些内容，基本上是编造的。",
+    "zh_hant": "自信地告訴你的一些內容，基本上是編造的。"
   },
   {
     "index": 8,
     "text": "I mean, to be totally fair,",
     "start": 40.488,
     "end": 42.468,
-    "zh": "我是说，完全公平地说，",
-    "zh_hant": "我是說，完全公平地說，"
+    "zh": "公平地说，",
+    "zh_hant": "公平地說，"
   },
   {
     "index": 9,
     "text": "everything a large language model like this tells you is just what it thinks is the most likely answer.",
     "start": 42.569,
     "end": 48.252,
-    "zh": "像这样的大型语言模型告诉你的一切，都只是它认为最可能的答案。",
-    "zh_hant": "像這樣的大型語言模型告訴你的一切，都只是它認為最可能的答案。"
+    "zh": "这类大型语言模型告诉你的一切，只是它认为最有可能的答案。",
+    "zh_hant": "這類大型語言模型告訴你的一切，只是它認為最有可能的答案。"
   },
   {
     "index": 10,
     "text": "But much of the time, the most likely thing is factually accurate.",
     "start": 48.612,
     "end": 52.674,
-    "zh": "但在很多时候，最可能的内容在事实上是准确的。",
-    "zh_hant": "但在很多時候，最可能的內容在事實上是準確的。"
+    "zh": "但很多时候，最有可能的答案在事实上是准确的。",
+    "zh_hant": "但很多時候，最有可能的答案在事實上是準確的。"
   },
   {
     "index": 11,
@@ -100,163 +100,155 @@
     "text": "And this totally fictitious or false stuff is sometimes called a hallucination.",
     "start": 55.976,
     "end": 60.838,
-    "zh": "而这些完全虚构或错误的内容有时被称为“幻觉”。",
-    "zh_hant": "而這些完全虛構或錯誤的內容有時被稱為“幻覺”。"
+    "zh": "这种完全虚构或错误的内容有时被称为幻觉。",
+    "zh_hant": "這種完全虛構或錯誤的內容有時被稱為幻覺。"
   },
   {
     "index": 13,
-    "text": "Whether these hallucinations matter depend on what you're using AI",
+    "text": "Whether these hallucinations matter depend on what you're using AI for, and whether they are spotted and sorted out.",
     "start": 61.038,
-    "end": 64.96,
-    "zh": "这些幻觉是否重要，取决于你在用AI做什么，",
-    "zh_hant": "這些幻覺是否重要，取決於你在用AI做什麼，"
+    "end": 67.901,
+    "zh": "这些幻觉是否重要，取决于你使用AI的目的，以及它们是否被发现并解决。",
+    "zh_hant": "這些幻覺是否重要，取決於你使用AI的目的，以及它們是否被發現並解決。"
   },
   {
     "index": 14,
-    "text": "for, and whether they are spotted and sorted out.",
-    "start": 64.62,
-    "end": 67.901,
-    "zh": "以及它们是否能被发现和纠正。",
-    "zh_hant": "以及它們是否能被發現和糾正。"
-  },
-  {
-    "index": 15,
     "text": "So the team on More or Less were slightly surprised to see the following headline in Fortune magazine.",
     "start": 68.422,
     "end": 74.084,
-    "zh": "因此，《More or Less》的团队看到《财富》杂志的以下标题时有点惊讶。",
-    "zh_hant": "因此，《More or Less》的團隊看到《財富》雜誌的以下標題時有點驚訝。"
+    "zh": "因此，《多或少》团队看到《财富》杂志的以下标题时有些惊讶。",
+    "zh_hant": "因此，《多或少》團隊看到《財富》雜誌的以下標題時有些驚訝。"
+  },
+  {
+    "index": 15,
+    "text": "One of the world's top academic AI conferences accepted",
+    "start": 74.585,
+    "end": 78.746,
+    "zh": "世界顶级AI学术会议之一接受了",
+    "zh_hant": "世界頂級AI學術會議之一接受了"
   },
   {
     "index": 16,
-    "text": "One of the world's top academic AI conferences accepted research papers",
-    "start": 74.585,
-    "end": 79.727,
-    "zh": "全球顶级AI学术会议之一接受了研究论文，",
-    "zh_hant": "全球頂級AI學術會議之一接受了研究論文，"
+    "text": "research papers with 100 plus AI hallucinated citations.",
+    "start": 78.396,
+    "end": 83.309,
+    "zh": "含有100多个AI幻觉引用的研究论文。",
+    "zh_hant": "含有100多個AI幻覺引用的研究論文。"
   },
   {
     "index": 17,
-    "text": "with 100 plus AI hallucinated citations.",
-    "start": 79.377,
-    "end": 83.309,
-    "zh": "其中包含100多个AI幻觉引用。",
-    "zh_hant": "其中包含100多個AI幻覺引用。"
-  },
-  {
-    "index": 18,
     "text": "You might think that the top AI researchers in the world would be careful",
     "start": 83.509,
     "end": 89.072,
-    "zh": "你可能认为世界顶级AI研究人员会谨慎行事，",
-    "zh_hant": "你可能認為世界頂級AI研究人員會謹慎行事，"
+    "zh": "你可能会认为世界顶级AI研究者会小心",
+    "zh_hant": "你可能會認為世界頂級AI研究者會小心"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "about using AI to write their research papers.",
     "start": 88.872,
     "end": 91.693,
-    "zh": "避免用AI写他们的研究论文。",
-    "zh_hant": "避免用AI寫他們的研究論文。"
+    "zh": "使用AI来撰写他们的研究论文。",
+    "zh_hant": "使用AI來撰寫他們的研究論文。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "So, is this number right?",
     "start": 91.694,
     "end": 93.874,
-    "zh": "那么，这个数字准确吗？",
-    "zh_hant": "那麼，這個數字準確嗎？"
+    "zh": "所以，这个数字准确吗？",
+    "zh_hant": "所以，這個數字準確嗎？"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "And what does it mean if it is?",
     "start": 93.955,
     "end": 95.935,
-    "zh": "如果是准确的，这意味着什么呢？",
-    "zh_hant": "如果是準確的，這意味著什麼呢？"
+    "zh": "如果准确，这意味着什么？",
+    "zh_hant": "如果準確，這意味著什麼？"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "People have started to share that they're getting citations from these fake hallucinations.",
     "start": 98.657,
     "end": 104.92,
-    "zh": "人们开始分享说，他们得到了这些虚假幻觉的引用。",
-    "zh_hant": "人們開始分享說，他們得到了這些虛假幻覺的引用。"
+    "zh": "人们开始分享，他们获得了这些来自虚假幻觉的引用。",
+    "zh_hant": "人們開始分享，他們獲得了這些來自虛假幻覺的引用。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "And it's a mixture of, I think, pride and bewilderment.",
     "start": 105.12,
     "end": 108.041,
-    "zh": "我觉得这是一种自豪和困惑交织的感觉。",
-    "zh_hant": "我覺得這是一種自豪和困惑交織的感覺。"
+    "zh": "我觉得，这既让人自豪又让人困惑。",
+    "zh_hant": "我覺得，這既讓人自豪又讓人困惑。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "This is Alex Tue, the CTO and co-founder of GPT-0,",
     "start": 108.162,
     "end": 112.223,
-    "zh": "这是亚历克斯·图，GPT-0的首席技术官和联合创始人，",
-    "zh_hant": "這是亞歷克斯·圖，GPT-0的技術長和聯合創始人，"
+    "zh": "这是亚历克斯·图伊，GPT-0的首席技术官兼联合创始人，",
+    "zh_hant": "這是亞歷克斯·圖伊，GPT-0的技術長兼聯合創始人，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "the company that found these 100-plus AI hallucinations in research papers.",
     "start": 112.524,
     "end": 117.206,
-    "zh": "他的公司发现了研究论文中这100多个AI幻觉。",
-    "zh_hant": "他的公司發現了研究論文中這100多個AI幻覺。"
+    "zh": "他的公司发现了研究论文中的100多个AI幻觉。",
+    "zh_hant": "他的公司發現了研究論文中的100多個AI幻覺。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "They're like, hey, this AI knows so much about my research.",
     "start": 117.046,
     "end": 120.667,
-    "zh": "他们会说，嘿，这个AI对我的研究了解这么多。",
-    "zh_hant": "他們會說，嘿，這個AI對我的研究瞭解這麼多。"
+    "zh": "他们会说：“嘿，这个AI对我的研究了解这么多。”",
+    "zh_hant": "他們會說：“嘿，這個AI對我的研究瞭解這麼多。”"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "I think I wrote all these papers.",
     "start": 120.317,
     "end": 122.108,
-    "zh": "我觉得这些论文都是我写的。",
-    "zh_hant": "我覺得這些論文都是我寫的。"
+    "zh": "我以为这些论文都是我写的。",
+    "zh_hant": "我以為這些論文都是我寫的。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "I didn't.",
     "start": 121.758,
     "end": 122.508,
-    "zh": "但并不是。",
-    "zh_hant": "但並不是。"
+    "zh": "但其实不是。",
+    "zh_hant": "但其實不是。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "In some ways, it's a weird point of pride, I think, to be hallucinated by an AI.",
     "start": 122.649,
     "end": 127.631,
-    "zh": "从某种程度上说，被AI幻觉引用是一种奇怪的自豪感，我想。",
-    "zh_hant": "從某種程度上說，被AI幻覺引用是一種奇怪的自豪感，我想。"
+    "zh": "在某种程度上，我觉得被AI幻觉引用是一种奇怪的自豪。",
+    "zh_hant": "在某種程度上，我覺得被AI幻覺引用是一種奇怪的自豪。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "That's definitely One sign that you've made it in the industry: if you're new to this subject,",
     "start": 127.281,
     "end": 132.094,
-    "zh": "这绝对是你在行业中取得成就的标志：如果你对这个主题不熟悉，",
-    "zh_hant": "這絕對是你在行業中取得成就的標誌：如果你對這個主題不熟悉，"
+    "zh": "这绝对是你在行业中成功的标志之一：如果你对这个话题不熟悉，",
+    "zh_hant": "這絕對是你在行業中成功的標誌之一：如果你對這個話題不熟悉，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "it might sound strange to talk about a computer program hallucinating.",
     "start": 131.744,
     "end": 135.835,
-    "zh": "谈论计算机程序产生幻觉听起来可能很奇怪。",
-    "zh_hant": "談論計算機程式產生幻覺聽起來可能很奇怪。"
+    "zh": "谈论计算机程序产生幻觉可能听起来很奇怪。",
+    "zh_hant": "談論計算機程式產生幻覺可能聽起來很奇怪。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "They're not out in the desert taking mind-altering substances, after all.",
     "start": 135.736,
     "end": 139.737,
@@ -264,23 +256,23 @@
     "zh_hant": "畢竟，它們並沒有在沙漠中服用改變心智的物質。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "The reality is a little more prosaic.",
     "start": 139.878,
     "end": 142.499,
-    "zh": "现实则更加平淡无奇。",
-    "zh_hant": "現實則更加平淡無奇。"
+    "zh": "现实情况其实更加平淡。",
+    "zh_hant": "現實情況其實更加平淡。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "What happens is, a researcher might say, \"Oh, can you write this section of the paper for me?",
     "start": 142.679,
     "end": 147.401,
-    "zh": "实际情况是，研究人员可能会说：“哦，你能帮我写论文的这一部分吗？",
-    "zh_hant": "實際情況是，研究人員可能會說：“哦，你能幫我寫論文的這一部分嗎？"
+    "zh": "实际情况是，研究者可能会说：“哦，你能帮我写论文的这一部分吗？",
+    "zh_hant": "實際情況是，研究者可能會說：“哦，你能幫我寫論文的這一部分嗎？"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "And make sure to add a lot of citations.\"",
     "start": 147.641,
     "end": 149.822,
@@ -288,47 +280,47 @@
     "zh_hant": "並確保加上很多引用。”"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "And the AI will do that, but it's essentially doing it without any references.",
     "start": 149.903,
     "end": 155.985,
-    "zh": "AI会照做，但本质上是在没有任何参考资料的情况下进行的。",
-    "zh_hant": "AI會照做，但本質上是在沒有任何參考資料的情況下進行的。"
+    "zh": "AI会照做，但它基本上是没有任何参考资料的情况下完成的。",
+    "zh_hant": "AI會照做，但它基本上是沒有任何參考資料的情況下完成的。"
+  },
+  {
+    "index": 36,
+    "text": "And so it has to start making things up to make them look like real,",
+    "start": 155.985,
+    "end": 161.428,
+    "zh": "所以它不得不编造一些东西让它们看起来像真实的、",
+    "zh_hant": "所以它不得不編造一些東西讓它們看起來像真實的、"
   },
   {
     "index": 37,
-    "text": "And so it has to start making things up to make them look like",
-    "start": 155.985,
-    "end": 161.028,
-    "zh": "因此它不得不编造一些东西，让它们看起来像",
-    "zh_hant": "因此它不得不編造一些東西，讓它們看起來像"
+    "text": "high-quality citations, but they're actually not corresponding to anything real.",
+    "start": 161.428,
+    "end": 166.371,
+    "zh": "高质量的引用，但实际上它们并不对应任何真实的东西。",
+    "zh_hant": "高質量的引用，但實際上它們並不對應任何真實的東西。"
   },
   {
     "index": 38,
-    "text": "real, high-quality citations, but they're actually not corresponding to anything real.",
-    "start": 160.678,
-    "end": 166.371,
-    "zh": "真实、高质量的引用，但实际上它们不对应任何真实的东西。",
-    "zh_hant": "真實、高質量的引用，但實際上它們不對應任何真實的東西。"
-  },
-  {
-    "index": 39,
     "text": "Alex certainly has skin in this game.",
     "start": 166.651,
     "end": 169.072,
-    "zh": "亚历克斯当然也与此利益相关。",
-    "zh_hant": "亞歷克斯當然也與此利益相關。"
+    "zh": "亚历克斯当然与此利益相关。",
+    "zh_hant": "亞歷克斯當然與此利益相關。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "The company he runs offers a service to organizations publishing these papers to help root out AI slop.",
     "start": 168.722,
     "end": 174.975,
-    "zh": "他经营的公司为发布这些论文的组织提供服务，帮助清除AI生成的垃圾内容。",
-    "zh_hant": "他經營的公司為釋出這些論文的組織提供服務，幫助清除AI生成的垃圾內容。"
+    "zh": "他运营的公司为发表这些论文的机构提供服务，帮助剔除AI垃圾内容。",
+    "zh_hant": "他運營的公司為發表這些論文的機構提供服務，幫助剔除AI垃圾內容。"
   },
   {
-    "index": 41,
+    "index": 40,
     "text": "But no one is denying that there are AI hallucinations in these papers.",
     "start": 175.035,
     "end": 179.537,
@@ -336,87 +328,79 @@
     "zh_hant": "但沒有人否認這些論文中存在AI幻覺。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "So what exactly did they find?",
     "start": 179.818,
     "end": 181.558,
-    "zh": "那么他们到底发现了什么呢？",
-    "zh_hant": "那麼他們到底發現了什麼呢？"
+    "zh": "那么他们到底发现了什么？",
+    "zh_hant": "那麼他們到底發現了什麼？"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "First, the context.",
     "start": 183.179,
     "end": 184.58,
-    "zh": "首先，看看背景。",
-    "zh_hant": "首先，看看背景。"
+    "zh": "首先是背景。",
+    "zh_hant": "首先是背景。"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "The papers in question were published as part of a big AI conference known as NeurIPS.",
     "start": 184.66,
     "end": 189.122,
-    "zh": "涉案的论文是在一个名为NeurIPS的大型AI会议上发表的。",
-    "zh_hant": "涉案的論文是在一個名為NeurIPS的大型AI會議上發表的。"
+    "zh": "这些有问题的论文发表在一个名为NeurIPS的大型AI会议中。",
+    "zh_hant": "這些有問題的論文發表在一個名為NeurIPS的大型AI會議中。"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "It's essentially the premier event for machine learning.",
     "start": 189.142,
     "end": 192.484,
-    "zh": "这基本上是机器学习领域的顶级盛会。",
-    "zh_hant": "這基本上是機器學習領域的頂級盛會。"
+    "zh": "它基本上是机器学习领域的顶级盛会。",
+    "zh_hant": "它基本上是機器學習領域的頂級盛會。"
   },
   {
-    "index": 46,
+    "index": 45,
     "text": "This get-together attracts the brightest minds in AI, or machine learning, as Alex calls it,",
     "start": 192.344,
     "end": 197.686,
-    "zh": "这个聚会吸引了AI或机器学习领域最聪明的人才，正如亚历克斯所说，",
-    "zh_hant": "這個聚會吸引了AI或機器學習領域最聰明的人才，正如亞歷克斯所說，"
+    "zh": "这个聚会吸引了AI或机器学习领域最聪明的人才，正如亚历克斯所称，",
+    "zh_hant": "這個聚會吸引了AI或機器學習領域最聰明的人才，正如亞歷克斯所稱，"
+  },
+  {
+    "index": 46,
+    "text": "from academic researchers at top universities to industry researchers at the big tech companies like Meta and Google.",
+    "start": 197.707,
+    "end": 204.71,
+    "zh": "从顶尖大学的学术研究者到Meta和谷歌等大型科技公司的行业研究者。",
+    "zh_hant": "從頂尖大學的學術研究者到Meta和谷歌等大型科技公司的行業研究者。"
   },
   {
     "index": 47,
-    "text": "from academic researchers at top universities",
-    "start": 197.707,
-    "end": 200.868,
-    "zh": "从顶尖大学的学术研究人员",
-    "zh_hant": "從頂尖大學的學術研究人員"
-  },
-  {
-    "index": 48,
-    "text": "to industry researchers at the big tech companies like Meta and Google.",
-    "start": 200.518,
-    "end": 204.71,
-    "zh": "到像Meta和谷歌这样大型科技公司的产业研究人员。",
-    "zh_hant": "到像Meta和谷歌這樣大型科技公司的產業研究人員。"
-  },
-  {
-    "index": 49,
     "text": "Alex says that in this booming industry, getting your paper published really matters.",
     "start": 204.63,
     "end": 210.393,
-    "zh": "亚历克斯说，在这个蓬勃发展的行业中，让你的论文发表真的很重要。",
-    "zh_hant": "亞歷克斯說，在這個蓬勃發展的行業中，讓你的論文發表真的很重要。"
+    "zh": "亚历克斯说，在这个蓬勃发展的行业里，让论文发表真的非常重要。",
+    "zh_hant": "亞歷克斯說，在這個蓬勃發展的行業裡，讓論文發表真的非常重要。"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "Having a couple of papers in these conferences can get...",
     "start": 210.453,
     "end": 214.795,
-    "zh": "在这些会议上发表几篇论文可以让你……",
-    "zh_hant": "在這些會議上發表幾篇論文可以讓你……"
+    "zh": "在这些会议上发表一两篇论文，就能让你……",
+    "zh_hant": "在這些會議上發表一兩篇論文，就能讓你……"
   },
   {
-    "index": 51,
+    "index": 49,
     "text": "You an OpenAI job.",
     "start": 214.445,
     "end": 215.936,
-    "zh": "获得OpenAI的工作。",
-    "zh_hant": "獲得OpenAI的工作。"
+    "zh": "获得OpenAI的工作机会。",
+    "zh_hant": "獲得OpenAI的工作機會。"
   },
   {
-    "index": 52,
+    "index": 50,
     "text": "If you're a startup company,",
     "start": 216.216,
     "end": 217.797,
@@ -424,79 +408,63 @@
     "zh_hant": "如果你是一家初創公司，"
   },
   {
-    "index": 53,
-    "text": "having a couple of these papers in these conferences can mean raising $100 million",
+    "index": 51,
+    "text": "having a couple of these papers in these conferences can mean raising $100 million from investors.",
     "start": 218.017,
-    "end": 223.339,
-    "zh": "在这些会议上发表几篇论文可能意味着从投资者那里筹集到1亿美元",
-    "zh_hant": "在這些會議上發表幾篇論文可能意味著從投資者那裡籌集到1億美元"
-  },
-  {
-    "index": 54,
-    "text": "from investors.",
-    "start": 223.34,
     "end": 224.54,
-    "zh": "的资金。",
-    "zh_hant": "的資金。"
+    "zh": "在这些会议上发表一两篇论文，可能意味着从投资者那里筹集到1亿美元。",
+    "zh_hant": "在這些會議上發表一兩篇論文，可能意味著從投資者那裡籌集到1億美元。"
   },
   {
-    "index": 55,
-    "text": "This means there's a massive incentive for researchers to pump out",
+    "index": 52,
+    "text": "This means there's a massive incentive for researchers to pump out a lot of papers for consideration at conferences like this one.",
     "start": 224.52,
-    "end": 228.562,
-    "zh": "这意味着研究人员有巨大的动力去大量产出",
-    "zh_hant": "這意味著研究人員有巨大的動力去大量產出"
-  },
-  {
-    "index": 56,
-    "text": "a lot of papers for consideration at conferences like this one.",
-    "start": 228.212,
     "end": 231.904,
-    "zh": "论文，以供这类会议考虑。",
-    "zh_hant": "論文，以供這類會議考慮。"
+    "zh": "这意味着研究者有巨大的动力大量撰写论文，以便在像这样的会议上被考虑。",
+    "zh_hant": "這意味著研究者有巨大的動力大量撰寫論文，以便在像這樣的會議上被考慮。"
   },
   {
-    "index": 57,
+    "index": 53,
     "text": "Once a year, they'll receive about, let's say, around 20,000 submissions,",
     "start": 231.804,
     "end": 236.726,
-    "zh": "每年他们会收到大约，比如说，2万份投稿，",
-    "zh_hant": "每年他們會收到大約，比如說，2萬份投稿，"
+    "zh": "他们每年会收到大约2万份投稿，",
+    "zh_hant": "他們每年會收到大約2萬份投稿，"
   },
   {
-    "index": 58,
+    "index": 54,
     "text": "and then they'll accept about 5,000 of them.",
     "start": 236.886,
     "end": 241.088,
-    "zh": "然后他们会接受其中大约5000份。",
-    "zh_hant": "然後他們會接受其中大約5000份。"
+    "zh": "然后会接受其中约5000份。",
+    "zh_hant": "然後會接受其中約5000份。"
   },
   {
-    "index": 59,
+    "index": 55,
     "text": "This is where Alex's company comes in.",
     "start": 241.208,
     "end": 243.409,
-    "zh": "这就是亚历克斯公司介入的地方。",
-    "zh_hant": "這就是亞歷克斯公司介入的地方。"
+    "zh": "这就是亚历克斯的公司介入的地方。",
+    "zh_hant": "這就是亞歷克斯的公司介入的地方。"
   },
   {
-    "index": 60,
-    "text": "They took those 5,000-odd papers that were selected for publication",
+    "index": 56,
+    "text": "They took those 5,000-odd papers that were selected for publication and Wait a minute,",
     "start": 243.59,
-    "end": 247.552,
-    "zh": "他们选取了那5000多篇被选为发表的论文，",
-    "zh_hant": "他們選取了那5000多篇被選為發表的論文，"
+    "end": 249.653,
+    "zh": "他们拿走了那5000多篇被选中发表的论文，然后等等，",
+    "zh_hant": "他們拿走了那5000多篇被選中發表的論文，然後等等，"
   },
   {
-    "index": 61,
-    "text": "and Wait a minute, \"asked AI to take a look?\"",
-    "start": 247.632,
+    "index": 57,
+    "text": "\"asked AI to take a look?\"",
+    "start": 249.633,
     "end": 251.594,
-    "zh": "等等，“让AI来检查一下”？",
-    "zh_hant": "等等，“讓AI來檢查一下”？"
+    "zh": "“让AI来检查？”",
+    "zh_hant": "“讓AI來檢查？”"
   },
   {
-    "index": 62,
+    "index": 58,
     "text": "Yeah, so that's the funny thing.",
     "start": 251.894,
     "end": 253.835,
@@ -504,575 +472,511 @@
     "zh_hant": "是的，這就是有趣的地方。"
   },
   {
-    "index": 63,
+    "index": 59,
     "text": "The most accurate methods to do this are using AI itself,",
     "start": 253.815,
     "end": 259.138,
-    "zh": "做这件事最准确的方法是使用AI本身，",
-    "zh_hant": "做這件事最準確的方法是使用AI本身，"
+    "zh": "最准确的方法就是使用AI本身，",
+    "zh_hant": "最準確的方法就是使用AI本身，"
   },
   {
-    "index": 64,
+    "index": 60,
     "text": "but extremely specialized for this purpose.",
     "start": 259.138,
     "end": 262.819,
-    "zh": "但必须是为这个目的极度专门化的AI。",
-    "zh_hant": "但必須是為這個目的極度專門化的AI。"
+    "zh": "但需要进行极其专门化的定制。",
+    "zh_hant": "但需要進行極其專門化的定製。"
   },
   {
-    "index": 65,
+    "index": 61,
     "text": "And so, to make our specialized AI be able to find hallucinations,",
     "start": 262.9,
     "end": 268.742,
-    "zh": "所以，为了使我们的专门AI能够找到幻觉，",
-    "zh_hant": "所以，為了使我們的專門AI能夠找到幻覺，"
+    "zh": "因此，为了让我们的专门AI能够找到幻觉，",
+    "zh_hant": "因此，為了讓我們的專門AI能夠找到幻覺，"
   },
   {
-    "index": 66,
-    "text": "we have to train it on countless examples",
+    "index": 62,
+    "text": "we have to train it on countless examples where we've actually labeled,",
     "start": 268.703,
-    "end": 272.184,
-    "zh": "我们必须用无数例子来训练它，",
-    "zh_hant": "我們必須用無數例子來訓練它，"
+    "end": 274.685,
+    "zh": "我们必须用大量已经标记好的例子来训练它，",
+    "zh_hant": "我們必須用大量已經標記好的例子來訓練它，"
   },
   {
-    "index": 67,
-    "text": "where we've actually labeled, hey, this is a hallucination, this isn't.",
-    "start": 272.124,
+    "index": 63,
+    "text": "hey, this is a hallucination, this isn't.",
+    "start": 274.686,
     "end": 277.747,
-    "zh": "我们已经标记了，嘿，这是幻觉，这不是。",
-    "zh_hant": "我們已經標記了，嘿，這是幻覺，這不是。"
+    "zh": "比如，这是幻觉，这不是。",
+    "zh_hant": "比如，這是幻覺，這不是。"
   },
   {
-    "index": 68,
-    "text": "And it drastically improves in that task compared to an off-the-shelf",
+    "index": 64,
+    "text": "And it drastically improves in that task compared to an off-the-shelf ChatGPT or something like that.",
     "start": 278.007,
-    "end": 283.63,
-    "zh": "与现成的ChatGPT或类似工具相比，它在这个任务上的表现大幅提升。",
-    "zh_hant": "與現成的ChatGPT或類似工具相比，它在這個任務上的表現大幅提升。"
-  },
-  {
-    "index": 69,
-    "text": "ChatGPT or something like that.",
-    "start": 283.711,
     "end": 285.691,
-    "zh": "所以本质上，我们运行了我们的幻觉检测器。",
-    "zh_hant": "所以本質上，我們執行了我們的幻覺檢測器。"
+    "zh": "与现成的ChatGPT等相比，它在该任务上的表现大幅提升。",
+    "zh_hant": "與現成的ChatGPT等相比，它在該任務上的表現大幅提升。"
   },
   {
-    "index": 70,
+    "index": 65,
     "text": "So essentially, we ran our hallucination detector.",
     "start": 285.672,
     "end": 290.674,
-    "zh": "在这些论文上，为了这个实验，他们不看论文本身的文本，",
-    "zh_hant": "在這些論文上，為了這個實驗，他們不看論文字身的文字，"
+    "zh": "所以基本上，我们运行了我们的幻觉检测器。",
+    "zh_hant": "所以基本上，我們執行了我們的幻覺檢測器。"
   },
   {
-    "index": 71,
-    "text": "On these papers, for this experiment, they didn't look at the text of the papers themselves,",
+    "index": 66,
+    "text": "On these papers, for this experiment, they didn't look at the text of the papers themselves, but just the citations,",
     "start": 290.734,
-    "end": 295.976,
-    "zh": "而只看引用，",
-    "zh_hant": "而只看引用，"
-  },
-  {
-    "index": 72,
-    "text": "but just the citations,",
-    "start": 295.626,
     "end": 297.417,
-    "zh": "即对其他论文的参考文献，这些文献将研究嵌入到更广泛的学术出版网络中。",
-    "zh_hant": "即對其他論文的參考文獻，這些文獻將研究嵌入到更廣泛的學術出版網路中。"
+    "zh": "在这个实验中，他们没有检查论文本身的文本，而只检查引用，",
+    "zh_hant": "在這個實驗中，他們沒有檢查論文字身的文字，而只檢查引用，"
   },
   {
-    "index": 73,
+    "index": 67,
     "text": "the references to other papers which lodged the research in the wider web of academic publishing.",
     "start": 297.297,
     "end": 302.319,
-    "zh": "这些更容易被验证为错误，因为你可以轻松对照真实情况，",
-    "zh_hant": "這些更容易被驗證為錯誤，因為你可以輕鬆對照真實情況，"
+    "zh": "即对其他论文的参考，这些参考将研究置于更广泛的学术出版网络中。",
+    "zh_hant": "即對其他論文的參考，這些參考將研究置於更廣泛的學術出版網路中。"
   },
   {
-    "index": 74,
+    "index": 68,
     "text": "These are easier to verify as wrong, as you can easily check against the real thing,",
     "start": 302.36,
     "end": 306.682,
+    "zh": "这些更容易验证是错的，因为可以轻松对照真实内容检查，",
+    "zh_hant": "這些更容易驗證是錯的，因為可以輕鬆對照真實內容檢查，"
+  },
+  {
+    "index": 69,
+    "text": "and we would go through each citation and try to verify whether or not it exists,",
+    "start": 306.782,
+    "end": 312.945,
     "zh": "我们会逐一检查每个引用，尝试验证它是否存在，",
     "zh_hant": "我們會逐一檢查每個引用，嘗試驗證它是否存在，"
   },
   {
-    "index": 75,
-    "text": "and we would go through each citation and try to verify whether or not it exists,",
-    "start": 306.782,
-    "end": 312.945,
-    "zh": "通过大规模的网络搜索引擎搜索。",
-    "zh_hant": "透過大規模的網路搜尋引擎搜尋。"
-  },
-  {
-    "index": 76,
+    "index": 70,
     "text": "searching through massive web-scale search engines.",
     "start": 312.965,
     "end": 317.087,
-    "zh": "学术数据库等。",
-    "zh_hant": "學術資料庫等。"
+    "zh": "通过大规模的网页搜索引擎搜索。",
+    "zh_hant": "透過大規模的網頁搜尋引擎搜尋。"
   },
   {
-    "index": 77,
+    "index": 71,
     "text": "Academic databases, and so on.",
     "start": 317.007,
     "end": 319.228,
-    "zh": "所以我们可能会得到一些潜在的匹配。",
-    "zh_hant": "所以我們可能會得到一些潛在的匹配。"
+    "zh": "学术数据库等等。",
+    "zh_hant": "學術資料庫等等。"
   },
   {
-    "index": 78,
+    "index": 72,
     "text": "And so we might get a bunch of potential matches.",
     "start": 319.428,
     "end": 323.55,
-    "zh": "大多数时候，被引用论文的细节，包括作者、标题和发表日期，",
-    "zh_hant": "大多數時候，被引用論文的細節，包括作者、標題和發表日期，"
+    "zh": "因此我们可能会得到一些潜在的匹配。",
+    "zh_hant": "因此我們可能會得到一些潛在的匹配。"
   },
   {
-    "index": 79,
-    "text": "Most of the time, the details of the paper cited, author, title, and date",
+    "index": 73,
+    "text": "Most of the time, the details of the paper cited, author,",
     "start": 323.63,
-    "end": 327.872,
-    "zh": "确实与真实的科学论文匹配。",
-    "zh_hant": "確實與真實的科學論文匹配。"
+    "end": 327.092,
+    "zh": "大多数情况下，被引用论文的详细信息，作者、",
+    "zh_hant": "大多數情況下，被引用論文的詳細資訊，作者、"
   },
   {
-    "index": 80,
-    "text": "published, did match a real scientific paper.",
-    "start": 327.522,
+    "index": 74,
+    "text": "title, and date published, did match a real scientific paper.",
+    "start": 326.742,
     "end": 330.554,
+    "zh": "标题和发表日期，确实与真实的科学论文匹配。",
+    "zh_hant": "標題和發表日期，確實與真實的科學論文匹配。"
+  },
+  {
+    "index": 75,
+    "text": "Sometimes, they really didn't.",
+    "start": 331.014,
+    "end": 333.335,
     "zh": "但有时，它们真的不匹配。",
     "zh_hant": "但有時，它們真的不匹配。"
   },
   {
-    "index": 81,
-    "text": "Sometimes, they really didn't.",
-    "start": 331.014,
-    "end": 333.335,
-    "zh": "我们很容易地在50篇论文中找到了至少100个幻觉。",
-    "zh_hant": "我們很容易地在50篇論文中找到了至少100個幻覺。"
-  },
-  {
-    "index": 82,
+    "index": 76,
     "text": "We were able to pretty easily find at least 100 hallucinations over 50 papers.",
     "start": 333.175,
     "end": 339.378,
-    "zh": "顺便说一下，这还不是一个详尽的列表。",
-    "zh_hant": "順便說一下，這還不是一個詳盡的列表。"
+    "zh": "我们很容易就在50多篇论文中找到了至少100个幻觉。",
+    "zh_hant": "我們很容易就在50多篇論文中找到了至少100個幻覺。"
   },
   {
-    "index": 83,
+    "index": 77,
     "text": "This isn't an exhaustive list, by the way.",
     "start": 339.478,
     "end": 341.759,
-    "zh": "他们找到一个合适的整数时就停止计数了。",
-    "zh_hant": "他們找到一個合適的整數時就停止計數了。"
+    "zh": "顺便说一句，这还不是详尽无遗的列表。",
+    "zh_hant": "順便說一句，這還不是詳盡無遺的列表。"
   },
   {
-    "index": 84,
+    "index": 78,
     "text": "They just stopped counting when they found a suitable round number.",
     "start": 341.599,
     "end": 344.881,
-    "zh": "这些幻觉形式多样。",
-    "zh_hant": "這些幻覺形式多樣。"
+    "zh": "当他们找到一个合适的整数时就停止计数了。",
+    "zh_hant": "當他們找到一個合適的整數時就停止計數了。"
   },
   {
-    "index": 85,
+    "index": 79,
     "text": "And these hallucinations took a variety of forms.",
     "start": 344.901,
     "end": 348.382,
+    "zh": "这些幻觉有多种形式。",
+    "zh_hant": "這些幻覺有多種形式。"
+  },
+  {
+    "index": 80,
+    "text": "About 39 were just completely non-existent publications.",
+    "start": 348.323,
+    "end": 353.265,
     "zh": "大约39个是完全不存在的出版物。",
     "zh_hant": "大約39個是完全不存在的出版物。"
   },
   {
-    "index": 86,
-    "text": "About 39 were just completely non-existent publications.",
-    "start": 348.323,
-    "end": 353.265,
-    "zh": "另外61个则包含虚构的作者，",
-    "zh_hant": "另外61個則包含虛構的作者，"
-  },
-  {
-    "index": 87,
+    "index": 81,
     "text": "Then the other 61 had a combination of fabricated authors,",
     "start": 353.205,
     "end": 357.767,
-    "zh": "这些人不存在，或者存在但从没写过这样的论文，",
-    "zh_hant": "這些人不存在，或者存在但從沒寫過這樣的論文，"
+    "zh": "其余61个则包含虚构作者、",
+    "zh_hant": "其餘61個則包含虛構作者、"
   },
   {
-    "index": 88,
+    "index": 82,
     "text": "people who don't exist, or exist but never wrote a paper like that,",
     "start": 357.847,
     "end": 363.25,
-    "zh": "虚假的标题、虚假的链接或URL等等。",
-    "zh_hant": "虛假的標題、虛假的連結或URL等等。"
+    "zh": "不存在的人，或者存在但从未写过类似论文的人、",
+    "zh_hant": "不存在的人，或者存在但從未寫過類似論文的人、"
   },
   {
-    "index": 89,
+    "index": 83,
     "text": "fake titles, fake links or URLs, and so on.",
     "start": 363.21,
     "end": 368.273,
-    "zh": "一些可疑的引用包含真实的作者，但这些人并没有写过那些论文。",
-    "zh_hant": "一些可疑的引用包含真實的作者，但這些人並沒有寫過那些論文。"
+    "zh": "假标题、假链接或URL等。",
+    "zh_hant": "假標題、假連結或URL等。"
   },
   {
-    "index": 90,
+    "index": 84,
     "text": "Some of the dodgy citations contained real authors, but who didn't write those papers.",
     "start": 368.313,
     "end": 372.835,
-    "zh": "有些有拼写错误的名字或奇怪的标题，但其他一些则完全是编造的。",
-    "zh_hant": "有些有拼寫錯誤的名字或奇怪的標題，但其他一些則完全是編造的。"
+    "zh": "一些可疑的引用包含真实作者，但他们并没有写过那些论文。",
+    "zh_hant": "一些可疑的引用包含真實作者，但他們並沒有寫過那些論文。"
   },
   {
-    "index": 91,
+    "index": 85,
     "text": "Some had wonky names or odd titles, but others were just completely made up.",
     "start": 372.775,
     "end": 377.397,
+    "zh": "有些有奇怪的姓名或标题，但另一些则完全是编造的。",
+    "zh_hant": "有些有奇怪的姓名或標題，但另一些則完全是編造的。"
+  },
+  {
+    "index": 86,
+    "text": "This one is my absolute favourite.",
+    "start": 377.477,
+    "end": 380.239,
     "zh": "这一个是我最喜欢的。",
     "zh_hant": "這一個是我最喜歡的。"
   },
   {
-    "index": 92,
-    "text": "This one is my absolute favourite.",
-    "start": 377.477,
-    "end": 380.239,
-    "zh": "作者是“名”、“姓”和“及其他”，",
-    "zh_hant": "作者是“名”、“姓”和“及其他”，"
-  },
-  {
-    "index": 93,
+    "index": 87,
     "text": "The authors were First Name, Last Name, and Others,",
     "start": 380.159,
     "end": 383.64,
-    "zh": "我想如果这三个都是真人的话，那真是个巧合。",
-    "zh_hant": "我想如果這三個都是真人的話，那真是個巧合。"
+    "zh": "作者是“名”、“姓”和“其他人”，",
+    "zh_hant": "作者是“名”、“姓”和“其他人”，"
   },
   {
-    "index": 94,
+    "index": 88,
     "text": "which I imagine is quite a coincidence if all of those three were real people.",
     "start": 383.6,
     "end": 388.863,
-    "zh": "我们联系了“名”教授和“姓”博士寻求评论，但没有收到回复。",
-    "zh_hant": "我們聯絡了“名”教授和“姓”博士尋求評論，但沒有收到回覆。"
+    "zh": "我想，如果这三个人都是真实人物的话，那真是巧合了。",
+    "zh_hant": "我想，如果這三個人都是真實人物的話，那真是巧合了。"
   },
   {
-    "index": 95,
+    "index": 89,
     "text": "We asked Professor First Name and Doctor Last Name for comments, but didn't hear back.",
     "start": 388.923,
     "end": 393.405,
-    "zh": "看，很明显",
-    "zh_hant": "看，很明顯"
+    "zh": "我们联系了“名教授”和“姓博士”寻求评论，但没有收到回复。",
+    "zh_hant": "我們聯絡了“名教授”和“姓博士”尋求評論，但沒有收到回覆。"
   },
   {
-    "index": 96,
-    "text": "Look, it seems clear",
+    "index": 90,
+    "text": "Look, it seems clear from this research that incredibly busy,",
     "start": 393.645,
-    "end": 395.406,
-    "zh": "从这项研究可以看出，极度忙碌、压力重重的研究人员正在使用AI",
-    "zh_hant": "從這項研究可以看出，極度忙碌、壓力重重的研究人員正在使用AI"
+    "end": 397.267,
+    "zh": "看，这项研究清楚地表明，无比忙碌、",
+    "zh_hant": "看，這項研究清楚地表明，無比忙碌、"
   },
   {
-    "index": 97,
-    "text": "from this research that incredibly busy, under-pressure researchers are using AI",
-    "start": 395.056,
-    "end": 399.568,
-    "zh": "来写他们论文中无聊的部分。",
-    "zh_hant": "來寫他們論文中無聊的部分。"
-  },
-  {
-    "index": 98,
-    "text": "to write the boring bits of their papers.",
-    "start": 399.408,
+    "index": 91,
+    "text": "under-pressure researchers are using AI to write the boring bits of their papers.",
+    "start": 396.967,
     "end": 401.709,
-    "zh": "真的挺有趣的，AI研究人员也无法幸免于它迷人的过度自信。",
-    "zh_hant": "真的挺有趣的，AI研究人員也無法倖免於它迷人的過度自信。"
+    "zh": "压力巨大的研究者正使用AI来撰写论文中无聊的部分。",
+    "zh_hant": "壓力巨大的研究者正使用AI來撰寫論文中無聊的部分。"
   },
   {
-    "index": 99,
+    "index": 92,
     "text": "It's quite funny, really, that AI researchers aren't immune to its charming overconfidence.",
     "start": 401.929,
     "end": 406.692,
-    "zh": "但除了明显的讽刺之外，为什么这很重要呢？",
-    "zh_hant": "但除了明顯的諷刺之外，為什麼這很重要呢？"
+    "zh": "挺有趣的，AI研究者也无法免疫其迷人的过度自信。",
+    "zh_hant": "挺有趣的，AI研究者也無法免疫其迷人的過度自信。"
   },
   {
-    "index": 100,
+    "index": 93,
     "text": "But beyond the obvious irony, why does this matter?",
     "start": 406.612,
     "end": 410.254,
-    "zh": "在计算机科学的文化中，通常",
-    "zh_hant": "在電腦科學的文化中，通常"
+    "zh": "但除了明显的讽刺之外，这为什么重要呢？",
+    "zh_hant": "但除了明顯的諷刺之外，這為什麼重要呢？"
   },
   {
-    "index": 101,
-    "text": "In the culture of computer science, it often",
+    "index": 94,
+    "text": "In the culture of computer science, it often can be challenging to reproduce some of these experiments,",
     "start": 411.314,
-    "end": 415.136,
-    "zh": "复现这些实验可能很有挑战性，",
-    "zh_hant": "復現這些實驗可能很有挑戰性，"
-  },
-  {
-    "index": 102,
-    "text": "can be challenging to reproduce some of these experiments,",
-    "start": 414.936,
     "end": 418.157,
-    "zh": "而审稿人没有时间以自己的能力去做这些。",
-    "zh_hant": "而審稿人沒有時間以自己的能力去做這些。"
+    "zh": "在计算机科学的文化中，复制这些实验往往是有挑战的，",
+    "zh_hant": "在電腦科學的文化中，複製這些實驗往往是有挑戰的，"
   },
   {
-    "index": 103,
+    "index": 95,
     "text": "and the reviewers, they don't have time to do so in their own capacity.",
     "start": 417.898,
     "end": 422.259,
-    "zh": "因此，有太多的信任投入在其中：你的代码写对了吗？",
-    "zh_hant": "因此，有太多的信任投入在其中：你的程式碼寫對了嗎？"
+    "zh": "审稿人也没有时间亲自去复制。",
+    "zh_hant": "審稿人也沒有時間親自去複製。"
   },
   {
-    "index": 104,
+    "index": 96,
     "text": "And so there's so much trust that goes into, did you write your code correctly?",
     "start": 422.34,
     "end": 427.202,
+    "zh": "因此，大量的信任在于：你的代码写对了吗？",
+    "zh_hant": "因此，大量的信任在於：你的程式碼寫對了嗎？"
+  },
+  {
+    "index": 97,
+    "text": "Is your data correct?",
+    "start": 426.922,
+    "end": 428.262,
     "zh": "你的数据正确吗？",
     "zh_hant": "你的資料正確嗎？"
   },
   {
-    "index": 105,
-    "text": "Is your data correct?",
-    "start": 426.922,
-    "end": 428.262,
-    "zh": "它们通常规模庞大，不进行大量实际工作就无法验证。",
-    "zh_hant": "它們通常規模龐大，不進行大量實際工作就無法驗證。"
-  },
-  {
-    "index": 106,
+    "index": 98,
     "text": "They're often at scales that are impossible to verify without a lot of actual work.",
     "start": 428.283,
     "end": 433.565,
-    "zh": "所以，如果我们连你的论文是否经过……",
-    "zh_hant": "所以，如果我們連你的論文是否經過……"
+    "zh": "它们往往规模庞大，不付出大量实际工作是无法验证的。",
+    "zh_hant": "它們往往規模龐大，不付出大量實際工作是無法驗證的。"
   },
   {
-    "index": 107,
-    "text": "And so, if we can't trust that your paper is even",
+    "index": 99,
+    "text": "And so, if we can't trust that your paper is even a human reviewed,",
     "start": 433.645,
-    "end": 438.948,
-    "zh": "人工审阅都无法信任，",
-    "zh_hant": "人工審閱都無法信任，"
-  },
-  {
-    "index": 108,
-    "text": "a human reviewed,",
-    "start": 438.828,
     "end": 440.288,
-    "zh": "那么AI在你的论文中犯了错误而你却没有发现，",
-    "zh_hant": "那麼AI在你的論文中犯了錯誤而你卻沒有發現，"
+    "zh": "所以，如果我们不能相信你的论文甚至经过了人工审阅，",
+    "zh_hant": "所以，如果我們不能相信你的論文甚至經過了人工審閱，"
   },
   {
-    "index": 109,
+    "index": 100,
     "text": "so the AI is making mistakes in your paper and you're not catching it,",
     "start": 440.449,
     "end": 444.391,
-    "zh": "你还怎么能信任研究人员创造的所有其他内容",
-    "zh_hant": "你還怎麼能信任研究人員創造的所有其他內容"
+    "zh": "AI在你的论文中犯了错误而你却没有发现，",
+    "zh_hant": "AI在你的論文中犯了錯誤而你卻沒有發現，"
   },
   {
-    "index": 110,
-    "text": "then how can you trust that everything else created by the researcher",
+    "index": 101,
+    "text": "then how can you trust that everything else created",
     "start": 444.311,
-    "end": 449.313,
-    "zh": "也是经过人工审阅而不是AI幻觉的呢？",
-    "zh_hant": "也是經過人工審閱而不是AI幻覺的呢？"
+    "end": 448.573,
+    "zh": "那么你怎么能相信研究者创造的其他一切",
+    "zh_hant": "那麼你怎麼能相信研究者創造的其他一切"
   },
   {
-    "index": 111,
-    "text": "was also reviewed by human and not hallucinated by AI?",
-    "start": 449.173,
+    "index": 102,
+    "text": "by the researcher was also reviewed by human and not hallucinated by AI?",
+    "start": 448.223,
     "end": 453.655,
-    "zh": "就NeurIPS会议的组织者而言，他们告诉我们",
-    "zh_hant": "就NeurIPS會議的組織者而言，他們告訴我們"
+    "zh": "也都经过人工审阅而不是由AI幻觉出来的呢？",
+    "zh_hant": "也都經過人工審閱而不是由AI幻覺出來的呢？"
   },
   {
-    "index": 112,
-    "text": "For their part, the organisers of the NeurIPS conference told us",
+    "index": 103,
+    "text": "For their part, the organisers of the NeurIPS conference",
     "start": 454.996,
-    "end": 458.538,
-    "zh": "虽然他们承认研究人员使用AI写论文",
-    "zh_hant": "雖然他們承認研究人員使用AI寫論文"
+    "end": 458.198,
+    "zh": "NeurIPS会议的组织者",
+    "zh_hant": "NeurIPS會議的組織者"
   },
   {
-    "index": 113,
-    "text": "that while they accept researchers are using AI to write their papers",
-    "start": 458.188,
+    "index": 104,
+    "text": "told us that while they accept researchers are using AI to write their papers",
+    "start": 457.848,
     "end": 462.139,
-    "zh": "以及幻觉可能会通过审阅过程，",
-    "zh_hant": "以及幻覺可能會透過審閱過程，"
+    "zh": "告诉我们，虽然他们接受研究者使用AI撰写论文，",
+    "zh_hant": "告訴我們，雖然他們接受研究者使用AI撰寫論文，"
   },
   {
-    "index": 114,
+    "index": 105,
     "text": "and hallucinations can get through the review process,",
     "start": 462.18,
     "end": 465.041,
-    "zh": "但他们不认为这些论文中的研究会因为发现AI幻觉",
-    "zh_hant": "但他們不認為這些論文中的研究會因為發現AI幻覺"
+    "zh": "幻觉可能会通过审稿过程，",
+    "zh_hant": "幻覺可能會透過審稿過程，"
   },
   {
-    "index": 115,
-    "text": "they do not believe the research in these papers would necessarily be invalidated",
+    "index": 106,
+    "text": "they do not believe the research in these papers would necessarily be invalidated by the discovery of AI hallucinations.",
     "start": 464.941,
-    "end": 469.503,
-    "zh": "而必然无效。",
-    "zh_hant": "而必然無效。"
-  },
-  {
-    "index": 116,
-    "text": "by the discovery of AI hallucinations.",
-    "start": 469.343,
     "end": 472.084,
-    "zh": "与此同时，随着AI的使用迅速发展，他们正在不断优化对作者和审稿人的指导。",
-    "zh_hant": "與此同時，隨著AI的使用迅速發展，他們正在不斷最佳化對作者和審稿人的指導。"
+    "zh": "但他们不认为发现AI幻觉就必然使这些论文中的研究失效。",
+    "zh_hant": "但他們不認為發現AI幻覺就必然使這些論文中的研究失效。"
   },
   {
-    "index": 117,
-    "text": "At the same time, they're continuously refining their guidance for both the authors and reviewers",
+    "index": 107,
+    "text": "At the same time, they're continuously refining their guidance for both the authors and reviewers as the use of AI rapidly evolves.",
     "start": 472.485,
-    "end": 477.747,
-    "zh": "所有这些对社会也有影响。",
-    "zh_hant": "所有這些對社會也有影響。"
+    "end": 480.088,
+    "zh": "同时，随着AI使用的迅速发展，他们也在不断完善对作者和审稿人的指导。",
+    "zh_hant": "同時，隨著AI使用的迅速發展，他們也在不斷完善對作者和審稿人的指導。"
   },
   {
-    "index": 118,
-    "text": "as the use of AI rapidly evolves.",
-    "start": 477.647,
-    "end": 480.088,
+    "index": 108,
+    "text": "There is an implication for society in all of this, too.",
+    "start": 480.229,
+    "end": 483.13,
+    "zh": "这一切对社会也有影响。",
+    "zh_hant": "這一切對社會也有影響。"
+  },
+  {
+    "index": 109,
+    "text": "Alex says that because of the biases in the stuff the AI has learned from,",
+    "start": 483.29,
+    "end": 487.332,
     "zh": "亚历克斯说，由于AI学习内容的偏见，",
     "zh_hant": "亞歷克斯說，由於AI學習內容的偏見，"
   },
   {
-    "index": 119,
-    "text": "There is an implication for society in all of this, too.",
-    "start": 480.229,
-    "end": 483.13,
-    "zh": "非英语母语研究者的引用出现错误的概率似乎更高。",
-    "zh_hant": "非英語母語研究者的引用出現錯誤的機率似乎更高。"
-  },
-  {
-    "index": 120,
-    "text": "Alex says that because of the biases in the stuff the AI has learned from,",
-    "start": 483.29,
-    "end": 487.332,
-    "zh": "虽然这不是来自NeurIPS论文，但确实有相当奇怪的事情发生。",
-    "zh_hant": "雖然這不是來自NeurIPS論文，但確實有相當奇怪的事情發生。"
-  },
-  {
-    "index": 121,
+    "index": 110,
     "text": "citations from non-Anglophone researchers seem to go wrong more than for others.",
     "start": 487.252,
     "end": 491.854,
-    "zh": "我们发现它会开始串联高度可能的研究者名字，",
-    "zh_hant": "我們發現它會開始串聯高度可能的研究者名字，"
+    "zh": "非英语母语研究者的引用出错率似乎比其他研究者更高。",
+    "zh_hant": "非英語母語研究者的引用出錯率似乎比其他研究者更高。"
   },
   {
-    "index": 122,
+    "index": 111,
     "text": "Although this wasn't from a NeurIPS paper, there are some pretty odd things going on.",
     "start": 491.995,
     "end": 496.717,
-    "zh": "比如你会",
-    "zh_hant": "比如你會"
+    "zh": "虽然这并非来自NeurIPS论文，但确实有一些相当奇怪的现象。",
+    "zh_hant": "雖然這並非來自NeurIPS論文，但確實有一些相當奇怪的現象。"
   },
   {
-    "index": 123,
+    "index": 112,
     "text": "We found that it would just start chaining together highly likely names of researchers,",
     "start": 496.777,
     "end": 502.26,
-    "zh": "开始串联中文缩写，H-Y-X，X-Z，",
-    "zh_hant": "開始串聯中文縮寫，H-Y-X，X-Z，"
+    "zh": "我们发现它会开始串联起高度可能的作者姓名，",
+    "zh_hant": "我們發現它會開始串聯起高度可能的作者姓名，"
   },
   {
-    "index": 124,
-    "text": "such as you'd",
+    "index": 113,
+    "text": "such as you'd start chaining Chinese initials,",
     "start": 501.92,
-    "end": 503.54,
-    "zh": "N，等等等等等等，",
-    "zh_hant": "N，等等等等等等，"
+    "end": 505.661,
+    "zh": "比如会串联中国名字的首字母，",
+    "zh_hant": "比如會串聯中國名字的首字母，"
   },
   {
-    "index": 125,
-    "text": "start chaining Chinese initials, H-Y-X, X-Z,",
-    "start": 503.19,
-    "end": 509.403,
-    "zh": "只是一串十个三字母缩写。",
-    "zh_hant": "只是一串十個三字母縮寫。"
+    "index": 114,
+    "text": "H-Y-X, X-Z, N,",
+    "start": 506.882,
+    "end": 510.704,
+    "zh": "H-Y-X、X-Z、N，",
+    "zh_hant": "H-Y-X、X-Z、N，"
   },
   {
-    "index": 126,
-    "text": "N, blah, blah, blah, blah, blah,",
-    "start": 510.164,
-    "end": 512.445,
-    "zh": "而且你就能看出来LLM，谢谢。",
-    "zh_hant": "而且你就能看出來LLM，謝謝。"
-  },
-  {
-    "index": 127,
-    "text": "just a string of ten three-letter acronyms.",
-    "start": 512.205,
+    "index": 115,
+    "text": "blah, blah, blah, blah, blah, just a string of ten three-letter acronyms.",
+    "start": 510.804,
     "end": 515.726,
-    "zh": "如果我必须编一个引用，我所要做的就是写中文名字。",
-    "zh_hant": "如果我必須編一個引用，我所要做的就是寫中文名字。"
+    "zh": "等等等等，就是一串十个三个字母的缩写。",
+    "zh_hant": "等等等等，就是一串十個三個字母的縮寫。"
   },
   {
-    "index": 128,
+    "index": 116,
     "text": "And you could just tell that the LLM, thanks.",
     "start": 515.867,
     "end": 518.628,
-    "zh": "感谢亚历克斯·图。",
-    "zh_hant": "感謝亞歷克斯·圖。"
+    "zh": "你就能看出来，这个大型语言模型，谢谢。",
+    "zh_hant": "你就能看出來，這個大型語言模型，謝謝。"
   },
   {
-    "index": 129,
+    "index": 117,
     "text": "If I had to make up a citation, all I have to do is just write Chinese names.",
     "start": 519.728,
     "end": 524.132,
-    "zh": "这就是本周的全部内容。",
-    "zh_hant": "這就是本週的全部內容。"
+    "zh": "如果我必须编一个引用，我只需要写中文名字就行了。",
+    "zh_hant": "如果我必須編一個引用，我只需要寫中文名字就行了。"
   },
   {
-    "index": 130,
+    "index": 118,
     "text": "Thanks to Alex Tway.",
     "start": 525.294,
     "end": 526.716,
-    "zh": "如果你在新闻中看到一个你认为我们应该关注的数字，",
-    "zh_hant": "如果你在新聞中看到一個你認為我們應該關注的數字，"
+    "zh": "感谢亚历克斯·图伊。",
+    "zh_hant": "感謝亞歷克斯·圖伊。"
   },
   {
-    "index": 131,
+    "index": 119,
     "text": "That's it for this week.",
     "start": 526.796,
     "end": 528.037,
-    "zh": "请发送邮件至bbc.co.uk的More or Less。我们下周见。",
-    "zh_hant": "請傳送郵件至bbc.co.uk的More or Less。我們下週見。"
+    "zh": "本周就到这里。",
+    "zh_hant": "本週就到這裡。"
   },
   {
-    "index": 132,
+    "index": 120,
     "text": "If you've seen a number in the news you think we should take a look at,",
     "start": 527.958,
     "end": 530.761,
-    "zh": "在那之前，再见。",
-    "zh_hant": "在那之前，再見。"
+    "zh": "如果你在新闻中看到一个你认为我们应该关注数字，",
+    "zh_hant": "如果你在新聞中看到一個你認為我們應該關注數字，"
   },
   {
-    "index": 133,
+    "index": 121,
     "text": "email More or Less at bbc.co.uk. We'll be back next week.",
     "start": 530.701,
     "end": 536.288,
-    "zh": "在那之前，再见。",
-    "zh_hant": "在那之前，再見。"
+    "zh": "请发送邮件至bbc.co.uk的More or Less。我们下周再见。",
+    "zh_hant": "請傳送郵件至bbc.co.uk的More or Less。我們下週再見。"
   },
   {
-    "index": 134,
+    "index": 122,
     "text": "Until then, goodbye.",
     "start": 536.148,
     "end": 537.93,

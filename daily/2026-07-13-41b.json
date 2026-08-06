@@ -9,30 +9,22 @@
   },
   {
     "index": 1,
-    "text": "This year is the 75th anniversary",
+    "text": "This year is the 75th anniversary of the Golden Gate Bridge in California.",
     "start": 5.993,
-    "end": 9.495,
-    "zh": "今年是75周年纪念",
-    "zh_hant": "今年是75週年紀念"
+    "end": 12.936,
+    "zh": "今年是加利福尼亚州金门大桥建成75周年。",
+    "zh_hant": "今年是加利福尼亞州金門大橋建成75週年。"
   },
   {
     "index": 2,
-    "text": "of the Golden Gate Bridge in California.",
-    "start": 9.475,
-    "end": 12.936,
-    "zh": "加利福尼亚金门大桥的75周年。",
-    "zh_hant": "加利福尼亞金門大橋的75週年。"
-  },
-  {
-    "index": 3,
     "text": "It opened to vehicle traffic on May 28, 1937.",
     "start": 13.317,
     "end": 17.148,
-    "zh": "它于1937年5月28日对车辆开放。",
-    "zh_hant": "它於1937年5月28日對車輛開放。"
+    "zh": "它于1937年5月28日通车。",
+    "zh_hant": "它於1937年5月28日通車。"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "seven.",
     "start": 16.748,
     "end": 19.9,
@@ -40,23 +32,15 @@
     "zh_hant": "七。"
   },
   {
-    "index": 5,
-    "text": "Since then, more than two billion vehicles have crossed",
+    "index": 4,
+    "text": "Since then, more than two billion vehicles have crossed the world -famous bridge",
     "start": 20.3,
-    "end": 25.402,
-    "zh": "自那以后，超过二十亿辆车已穿越",
-    "zh_hant": "自那以後，超過二十億輛車已穿越"
-  },
-  {
-    "index": 6,
-    "text": "the world -famous bridge",
-    "start": 25.223,
     "end": 27.443,
-    "zh": "这座世界著名的大桥",
-    "zh_hant": "這座世界著名的大橋"
+    "zh": "自那时以来，已有超过二十亿辆车驶过这座世界著名的大桥",
+    "zh_hant": "自那時以來，已有超過二十億輛車駛過這座世界著名的大橋"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "linking San Francisco and Marin County.",
     "start": 27.404,
     "end": 30.565,
@@ -64,7 +48,7 @@
     "zh_hant": "連線舊金山和馬林縣。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "The bridge is named after the Golden Gate Strait.",
     "start": 31.086,
     "end": 35.407,
@@ -72,7 +56,7 @@
     "zh_hant": "這座橋以金門海峽命名。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "That narrow passage of water connects San Francisco Bay to the Pacific Ocean.",
     "start": 35.748,
     "end": 42.171,
@@ -80,175 +64,127 @@
     "zh_hant": "那條狹窄的水道連線舊金山灣和太平洋。"
   },
   {
-    "index": 10,
-    "text": "The Golden Gate Bridge had the longest suspension span in the world",
+    "index": 8,
+    "text": "The Golden Gate Bridge had the longest suspension span in the world at the time it was built.",
     "start": 42.792,
-    "end": 48.735,
-    "zh": "金门大桥拥有当时世界上最长的悬索跨度",
-    "zh_hant": "金門大橋擁有當時世界上最長的懸索跨度"
-  },
-  {
-    "index": 11,
-    "text": "at the time it was built.",
-    "start": 48.615,
     "end": 50.435,
-    "zh": "在建成时。",
-    "zh_hant": "在建成時。"
+    "zh": "金门大桥建成时拥有世界上最长的悬索跨度。",
+    "zh_hant": "金門大橋建成時擁有世界上最長的懸索跨度。"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "The suspended roadway stretches 1 ,280 meters",
     "start": 50.776,
     "end": 56.899,
-    "zh": "悬吊路面延伸1280米",
-    "zh_hant": "懸吊路面延伸1280米"
+    "zh": "悬空的路面延伸1280米",
+    "zh_hant": "懸空的路面延伸1280米"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "between the bridge's two tall towers.",
     "start": 56.859,
     "end": 60.14,
-    "zh": "在两座高塔之间。",
-    "zh_hant": "在兩座高塔之間。"
+    "zh": "在桥梁的两座高塔之间。",
+    "zh_hant": "在橋樑的兩座高塔之間。"
+  },
+  {
+    "index": 11,
+    "text": "Today, the Golden Gate still rates among the 10 longest bridge spans.",
+    "start": 60.581,
+    "end": 67.624,
+    "zh": "如今，金门大桥仍然位列世界十大桥梁跨度之一。",
+    "zh_hant": "如今，金門大橋仍然位列世界十大橋樑跨度之一。"
+  },
+  {
+    "index": 12,
+    "text": "Mary Currie works for the Golden Gate Bridge Highway and Transportation District.",
+    "start": 68.265,
+    "end": 74.888,
+    "zh": "玛丽·库里在金门大桥公路与交通区工作。",
+    "zh_hant": "瑪麗·庫裡在金門大橋公路與交通區工作。"
+  },
+  {
+    "index": 13,
+    "text": "She says the bridge represents",
+    "start": 75.348,
+    "end": 78.069,
+    "zh": "她说这座桥代表了",
+    "zh_hant": "她說這座橋代表了"
   },
   {
     "index": 14,
-    "text": "Today, the Golden Gate still rates among the 10 longest",
-    "start": 60.581,
-    "end": 66.463,
-    "zh": "今天，金门大桥仍然位列前十最长的",
-    "zh_hant": "今天，金門大橋仍然位列前十最長的"
+    "text": "one of the most extraordinary engineering projects of all time.",
+    "start": 77.889,
+    "end": 84.713,
+    "zh": "有史以来最非凡的工程项目之一。",
+    "zh_hant": "有史以來最非凡的工程專案之一。"
   },
   {
     "index": 15,
-    "text": "bridge spans.",
-    "start": 66.284,
-    "end": 67.624,
-    "zh": "桥梁跨度。",
-    "zh_hant": "橋樑跨度。"
+    "text": "She calls it an engineering marvel",
+    "start": 85.194,
+    "end": 88.435,
+    "zh": "她称其为工程奇迹",
+    "zh_hant": "她稱其為工程奇蹟"
   },
   {
     "index": 16,
-    "text": "Mary Currie works for the Golden Gate Bridge Highway",
-    "start": 68.265,
-    "end": 72.526,
-    "zh": "玛丽·柯里为金门大桥公路",
-    "zh_hant": "瑪麗·柯里為金門大橋公路"
+    "text": "and says it gets award after award",
+    "start": 88.615,
+    "end": 92.137,
+    "zh": "并说它屡获殊荣",
+    "zh_hant": "並說它屢獲殊榮"
   },
   {
     "index": 17,
-    "text": "and Transportation District.",
-    "start": 72.507,
-    "end": 74.888,
-    "zh": "和交通区工作。",
-    "zh_hant": "和交通區工作。"
+    "text": "for what it means in civil engineering and structural engineering.",
+    "start": 92.057,
+    "end": 97.78,
+    "zh": "因为它在土木工程和结构工程方面的意义。",
+    "zh_hant": "因為它在土木工程和結構工程方面的意義。"
   },
   {
     "index": 18,
-    "text": "She says the bridge represents one of the most extraordinary",
-    "start": 75.348,
-    "end": 80.891,
-    "zh": "她说这座桥代表了最非凡的",
-    "zh_hant": "她說這座橋代表了最非凡的"
+    "text": "She says the Golden Gate Bridge is also a place where things happen first.",
+    "start": 98.26,
+    "end": 104.843,
+    "zh": "她说金门大桥也是许多事物首次发生的地方。",
+    "zh_hant": "她說金門大橋也是許多事物首次發生的地方。"
   },
   {
     "index": 19,
-    "text": "engineering projects",
-    "start": 80.771,
-    "end": 82.852,
-    "zh": "工程项目",
-    "zh_hant": "工程專案"
+    "text": "For example, it was the first suspension bridge to have to change the roadway deck.",
+    "start": 105.204,
+    "end": 112.567,
+    "zh": "例如，它是第一座需要更换桥面的悬索桥。",
+    "zh_hant": "例如，它是第一座需要更換橋面的懸索橋。"
   },
   {
     "index": 20,
-    "text": "of all time.",
-    "start": 82.812,
-    "end": 84.713,
-    "zh": "之一。",
-    "zh_hant": "之一。"
+    "text": "The bridge is 27 meters wide and 2 ,788",
+    "start": 113.148,
+    "end": 119.19,
+    "zh": "这座桥宽27米，长2788",
+    "zh_hant": "這座橋寬27米，長2788"
   },
   {
     "index": 21,
-    "text": "She calls it an engineering marvel and says",
-    "start": 85.194,
-    "end": 89.576,
-    "zh": "她称之为工程奇迹，并说",
-    "zh_hant": "她稱之為工程奇蹟，並說"
+    "text": "meters long.",
+    "start": 119.912,
+    "end": 121.672,
+    "zh": "米。",
+    "zh_hant": "米。"
   },
   {
     "index": 22,
-    "text": "it gets award after award for what it means in civil engineering",
-    "start": 89.236,
-    "end": 95.118,
-    "zh": "它因在土木工程中的意义而屡获殊荣",
-    "zh_hant": "它因在土木工程中的意義而屢獲殊榮"
-  },
-  {
-    "index": 23,
-    "text": "and structural engineering.",
-    "start": 95.099,
-    "end": 97.78,
-    "zh": "和结构工程方面。",
-    "zh_hant": "和結構工程方面。"
-  },
-  {
-    "index": 24,
-    "text": "She says the Golden Gate Bridge is also a place where things happen",
-    "start": 98.26,
-    "end": 103.963,
-    "zh": "她说金门大桥也是一个发生事情的地方",
-    "zh_hant": "她說金門大橋也是一個發生事情的地方"
-  },
-  {
-    "index": 25,
-    "text": "first.",
-    "start": 103.883,
-    "end": 104.843,
-    "zh": "首创。",
-    "zh_hant": "首創。"
-  },
-  {
-    "index": 26,
-    "text": "For example, it was the first suspension bridge",
-    "start": 105.204,
-    "end": 109.346,
-    "zh": "例如，它是第一座悬索桥",
-    "zh_hant": "例如，它是第一座懸索橋"
-  },
-  {
-    "index": 27,
-    "text": "to have to change the roadway deck.",
-    "start": 109.206,
-    "end": 112.567,
-    "zh": "需要更换路面甲板的。",
-    "zh_hant": "需要更換路面甲板的。"
-  },
-  {
-    "index": 28,
-    "text": "The bridge is 27 meters wide",
-    "start": 113.148,
-    "end": 116.589,
-    "zh": "这座桥宽27米",
-    "zh_hant": "這座橋寬27米"
-  },
-  {
-    "index": 29,
-    "text": "and 2 ,788 meters long.",
-    "start": 116.67,
-    "end": 121.672,
-    "zh": "长2788米。",
-    "zh_hant": "長2788米。"
-  },
-  {
-    "index": 30,
     "text": "Two large cables pass over the top of the bridge's towers.",
     "start": 122.253,
     "end": 127.495,
-    "zh": "两根大缆绳越过桥塔顶部。",
-    "zh_hant": "兩根大纜繩越過橋塔頂部。"
+    "zh": "两条大缆绳从桥塔顶部越过。",
+    "zh_hant": "兩條大纜繩從橋塔頂部越過。"
   },
   {
-    "index": 31,
+    "index": 23,
     "text": "These structures stand 227 meters above the water",
     "start": 128.116,
     "end": 134.499,
@@ -256,7 +192,7 @@
     "zh_hant": "這些結構高出水面227米"
   },
   {
-    "index": 32,
+    "index": 24,
     "text": "and 152 meters above the road.",
     "start": 134.799,
     "end": 138.881,
@@ -264,23 +200,15 @@
     "zh_hant": "高出路面152米。"
   },
   {
-    "index": 33,
-    "text": "Each cable holds more than 27 ,500",
+    "index": 25,
+    "text": "Each cable holds more than 27 ,500 strands of wire.",
     "start": 139.101,
-    "end": 142.91,
-    "zh": "每根缆绳包含超过27500",
-    "zh_hant": "每根纜繩包含超過27500"
-  },
-  {
-    "index": 34,
-    "text": "strands of wire.",
-    "start": 143.903,
     "end": 146.324,
-    "zh": "股钢丝。",
-    "zh_hant": "股鋼絲。"
+    "zh": "每条缆绳包含超过27,500股钢丝。",
+    "zh_hant": "每條纜繩包含超過27,500股鋼絲。"
   },
   {
-    "index": 35,
+    "index": 26,
     "text": "250 pairs of vertical suspender ropes",
     "start": 146.25,
     "end": 152.067,
@@ -288,7 +216,7 @@
     "zh_hant": "250對垂直吊索"
   },
   {
-    "index": 36,
+    "index": 27,
     "text": "connect the support cables to the suspension bridge.",
     "start": 152.007,
     "end": 155.689,
@@ -296,31 +224,23 @@
     "zh_hant": "將支撐纜繩連線到懸索橋上。"
   },
   {
-    "index": 37,
-    "text": "This is part of what enables the bridge to move up",
+    "index": 28,
+    "text": "This is part of what enables the bridge to move up and down by nearly five meters.",
     "start": 156.269,
-    "end": 160.152,
-    "zh": "这是使桥梁能够上下移动",
-    "zh_hant": "這是使橋樑能夠上下移動"
-  },
-  {
-    "index": 38,
-    "text": "and down by nearly five meters.",
-    "start": 160.212,
     "end": 163.493,
-    "zh": "近五米的部分原因。",
-    "zh_hant": "近五米的部分原因。"
+    "zh": "这是桥梁能够上下移动近五米的部分原因。",
+    "zh_hant": "這是橋樑能夠上下移動近五米的部分原因。"
   },
   {
-    "index": 39,
+    "index": 29,
     "text": "The project took four years to complete.",
     "start": 164.194,
     "end": 167.595,
-    "zh": "这个项目花了四年完成。",
-    "zh_hant": "這個專案花了四年完成。"
+    "zh": "这个项目花了四年时间完成。",
+    "zh_hant": "這個專案花了四年時間完成。"
   },
   {
-    "index": 40,
+    "index": 30,
     "text": "Work began in 1933.",
     "start": 167.776,
     "end": 171.848,
@@ -328,15 +248,15 @@
     "zh_hant": "工程始於1933年。"
   },
   {
-    "index": 41,
+    "index": 31,
     "text": "The Golden Gate Bridge weighed more more than 800 ,000 metric tons",
     "start": 171.898,
     "end": 178.381,
-    "zh": "金门大桥建成时重超过80万公吨",
-    "zh_hant": "金門大橋建成時重超過80萬公噸"
+    "zh": "金门大桥的重量超过80万公吨",
+    "zh_hant": "金門大橋的重量超過80萬公噸"
   },
   {
-    "index": 42,
+    "index": 32,
     "text": "when it was completed.",
     "start": 178.341,
     "end": 179.921,
@@ -344,55 +264,55 @@
     "zh_hant": "當它完成時。"
   },
   {
-    "index": 43,
-    "text": "The San Francisco Chronicle newspaper called it a $35 million",
+    "index": 33,
+    "text": "The San Francisco Chronicle newspaper called it",
     "start": 180.662,
-    "end": 186.845,
-    "zh": "《旧金山纪事报》称它为一座价值3500万美元的",
-    "zh_hant": "《舊金山紀事報》稱它為一座價值3500萬美元的"
+    "end": 184.744,
+    "zh": "《旧金山纪事报》称其为",
+    "zh_hant": "《舊金山紀事報》稱其為"
   },
   {
-    "index": 44,
-    "text": "steel harp.",
-    "start": 187.105,
+    "index": 34,
+    "text": "a $35 million steel harp.",
+    "start": 184.704,
     "end": 188.926,
-    "zh": "钢铁竖琴。",
-    "zh_hant": "鋼鐵豎琴。"
+    "zh": "一座价值3500万美元的钢制竖琴。",
+    "zh_hant": "一座價值3500萬美元的鋼製豎琴。"
   },
   {
-    "index": 45,
+    "index": 35,
     "text": "Joseph Strauss was the chief engineer of the Golden Gate Bridge project.",
     "start": 189.586,
     "end": 195.009,
-    "zh": "约瑟夫·斯特劳斯是金门大桥项目的总工程师。",
-    "zh_hant": "約瑟夫·斯特勞斯是金門大橋專案的總工程師。"
+    "zh": "约瑟夫·斯特劳斯是金门大桥项目的首席工程师。",
+    "zh_hant": "約瑟夫·斯特勞斯是金門大橋專案的首席工程師。"
   },
   {
-    "index": 46,
+    "index": 36,
     "text": "But architect Irving Murrow gets credit",
     "start": 195.509,
     "end": 198.971,
-    "zh": "但建筑师欧文·穆罗获得认可",
-    "zh_hant": "但建築師歐文·穆羅獲得認可"
+    "zh": "但建筑师欧文·莫罗获得了赞誉",
+    "zh_hant": "但建築師歐文·莫羅獲得了讚譽"
   },
   {
-    "index": 47,
+    "index": 37,
     "text": "for its bright orange color, known as International Orange.",
     "start": 198.791,
     "end": 205.014,
-    "zh": "因其亮橙色，称为国际橙。",
-    "zh_hant": "因其亮橙色，稱為國際橙。"
+    "zh": "因其明亮的橙色，被称为国际橙。",
+    "zh_hant": "因其明亮的橙色，被稱為國際橙。"
   },
   {
-    "index": 48,
+    "index": 38,
     "text": "The Navy wanted the bridge painted in yellow and black.",
     "start": 205.415,
     "end": 210.777,
-    "zh": "海军曾想把桥涂成黄色和黑色。",
-    "zh_hant": "海軍曾想把橋塗成黃色和黑色。"
+    "zh": "海军希望这座桥涂成黄色和黑色。",
+    "zh_hant": "海軍希望這座橋塗成黃色和黑色。"
   },
   {
-    "index": 49,
+    "index": 39,
     "text": "The Air Force had suggested red and white.",
     "start": 211.217,
     "end": 215.299,
@@ -400,51 +320,43 @@
     "zh_hant": "空軍建議紅白相間。"
   },
   {
-    "index": 50,
+    "index": 40,
     "text": "But Mary Currie says Irving Moreau knew",
     "start": 215.68,
     "end": 219.781,
-    "zh": "但玛丽·柯里说欧文·穆罗知道",
-    "zh_hant": "但瑪麗·柯里說歐文·穆羅知道"
+    "zh": "但玛丽·库里说欧文·莫罗知道",
+    "zh_hant": "但瑪麗·庫裡說歐文·莫羅知道"
   },
   {
-    "index": 51,
+    "index": 41,
     "text": "that orange would blend with the environment.",
     "start": 219.742,
     "end": 223.703,
-    "zh": "橙色会与环境融为一体。",
-    "zh_hant": "橙色會與環境融為一體。"
+    "zh": "橙色会与环境融合。",
+    "zh_hant": "橙色會與環境融合。"
   },
   {
-    "index": 52,
-    "text": "It would contrast with the ocean and the air",
+    "index": 42,
+    "text": "It would contrast with the ocean and the air above",
     "start": 224.124,
-    "end": 227.665,
-    "zh": "它会与海洋和空气形成对比",
-    "zh_hant": "它會與海洋和空氣形成對比"
+    "end": 228.266,
+    "zh": "它会与海洋和上方的空气形成对比",
+    "zh_hant": "它會與海洋和上方的空氣形成對比"
   },
   {
-    "index": 53,
-    "text": "above and it would also allow the art deco styling",
-    "start": 227.315,
-    "end": 233.108,
-    "zh": "在上方，它也会让装饰艺术风格",
-    "zh_hant": "在上方，它也會讓裝飾藝術風格"
-  },
-  {
-    "index": 54,
-    "text": "to really stand out.",
-    "start": 232.908,
+    "index": 43,
+    "text": "and it would also allow the art deco styling to really stand out.",
+    "start": 228.746,
     "end": 235.209,
-    "zh": "真正突出。",
-    "zh_hant": "真正突出。"
+    "zh": "而且它也会让装饰艺术风格真正突出。",
+    "zh_hant": "而且它也會讓裝飾藝術風格真正突出。"
   },
   {
-    "index": 55,
+    "index": 44,
     "text": "For VOA Special English, I'm Carolyn Presutti.",
     "start": 236.23,
     "end": 240.448,
-    "zh": "这里是VOA特别英语，我是卡罗琳·普雷苏蒂。",
-    "zh_hant": "這裡是VOA特別英語，我是卡羅琳·普雷蘇蒂。"
+    "zh": "美国之音特别英语，我是卡罗琳·普雷苏蒂。",
+    "zh_hant": "美國之音特別英語，我是卡羅琳·普雷蘇蒂。"
   }
 ]

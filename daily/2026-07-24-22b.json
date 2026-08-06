@@ -1,46 +1,38 @@
 [
   {
     "index": 0,
-    "text": "In various forms, it’s been played continuously in the Middle East since 3,000 B.C.E.",
+    "text": "In various forms, it’s been played continuously in the Middle East since 3,000 B.C.E. During the Crusades,",
     "start": 0.27,
-    "end": 6.233,
-    "zh": "自公元前3000年以来，它以各种形式在中东地区持续流行。",
-    "zh_hant": "自公元前3000年以來，它以各種形式在中東地區持續流行。"
+    "end": 7.914,
+    "zh": "它以各种形式，自公元前3000年起就在中东持续流行。在十字军东征期间，",
+    "zh_hant": "它以各種形式，自公元前3000年起就在中東持續流行。在十字軍東征期間，"
   },
   {
     "index": 1,
-    "text": "During the Crusades,",
-    "start": 6.433,
-    "end": 7.914,
-    "zh": "在十字军东征期间，",
-    "zh_hant": "在十字軍東征期間，"
-  },
-  {
-    "index": 2,
     "text": "it became a popular gambling game in Europe;",
     "start": 7.564,
     "end": 10.795,
-    "zh": "它成为欧洲流行的赌博游戏；",
-    "zh_hant": "它成為歐洲流行的賭博遊戲；"
+    "zh": "它成了欧洲流行的赌博游戏；",
+    "zh_hant": "它成了歐洲流行的賭博遊戲；"
+  },
+  {
+    "index": 2,
+    "text": "Richard the Lionheart of England and Philip II of France issued a joint order",
+    "start": 10.555,
+    "end": 15.758,
+    "zh": "英格兰的狮心王理查和法国的菲利普二世联合下令",
+    "zh_hant": "英格蘭的獅心王理查和法國的菲利普二世聯合下令"
   },
   {
     "index": 3,
-    "text": "Richard the Lionheart of England and Philip II of France",
-    "start": 10.555,
-    "end": 14.257,
-    "zh": "英格兰的狮心王理查和法国的菲利普二世",
-    "zh_hant": "英格蘭的獅心王理查和法國的菲利普二世"
+    "text": "banning the game for low-ranking soldiers.",
+    "start": 15.478,
+    "end": 18.819,
+    "zh": "禁止低级士兵玩这种游戏。",
+    "zh_hant": "禁止低階士兵玩這種遊戲。"
   },
   {
     "index": 4,
-    "text": "issued a joint order banning the game for low-ranking soldiers.",
-    "start": 14.237,
-    "end": 18.819,
-    "zh": "联合下令禁止低级士兵玩这种游戏。",
-    "zh_hant": "聯合下令禁止低階士兵玩這種遊戲。"
-  },
-  {
-    "index": 5,
     "text": "Dan Rather, in a 1978 piece for 60 Minutes,",
     "start": 18.979,
     "end": 22.601,
@@ -48,111 +40,103 @@
     "zh_hant": "丹·拉瑟在1978年為《60分鐘》節目撰寫的一篇報道中，"
   },
   {
-    "index": 6,
-    "text": "rattled off these and many other backgammon facts",
+    "index": 5,
+    "text": "rattled off these and many other backgammon facts as he discussed the rising popularity of the game.",
     "start": 22.341,
-    "end": 26.103,
-    "zh": "一口气列举了这些以及其他许多关于双陆棋的事实，",
-    "zh_hant": "一口氣列舉了這些以及其他許多關於雙陸棋的事實，"
-  },
-  {
-    "index": 7,
-    "text": "as he discussed the rising popularity of the game.",
-    "start": 25.963,
     "end": 29.344,
-    "zh": "同时讨论了这款游戏日益增长的 popularity。",
-    "zh_hant": "同時討論了這款遊戲日益增長的 popularity。"
+    "zh": "一口气列举了这些以及许多其他关于双陆棋的趣闻，同时讨论了该游戏日益增长的 popularity。",
+    "zh_hant": "一口氣列舉了這些以及許多其他關於雙陸棋的趣聞，同時討論了該遊戲日益增長的 popularity。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "In the United States, it is played everywhere.",
     "start": 29.765,
     "end": 32.366,
-    "zh": "在美国，它无处不在。",
-    "zh_hant": "在美國，它無處不在。"
+    "zh": "在美国，它随处可见。",
+    "zh_hant": "在美國，它隨處可見。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "In the CBS cafeteria, for example.",
     "start": 32.406,
     "end": 34.747,
-    "zh": "例如，在CBS的自助餐厅里。",
-    "zh_hant": "例如，在CBS的自助餐廳裡。"
+    "zh": "比如在CBS的自助餐厅里。",
+    "zh_hant": "比如在CBS的自助餐廳裡。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "In modest rooms like the Bar Point Club on New York’s 14th Street, where the winner of the weekly tournament can win a few dollars.",
     "start": 35.247,
     "end": 41.691,
-    "zh": "在纽约第14街的Bar Point俱乐部这样简陋的场所，每周锦标赛的赢家能赢几美元。",
-    "zh_hant": "在紐約第14街的Bar Point俱樂部這樣簡陋的場所，每週錦標賽的贏家能贏幾美元。"
+    "zh": "在纽约第14街的Bar Point俱乐部这样的简朴场所，每周锦标赛的赢家能赢几美元。",
+    "zh_hant": "在紐約第14街的Bar Point俱樂部這樣的簡樸場所，每週錦標賽的贏家能贏幾美元。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "And it is played in elegant, private clubs where the rich and famous gather to dance and drink and play.",
     "start": 42.071,
     "end": 47.554,
-    "zh": "它也在优雅的私人俱乐部里流行，富人和名人在那里聚会、跳舞、喝酒和玩乐。",
-    "zh_hant": "它也在優雅的私人俱樂部裡流行，富人和名人在那裡聚會、跳舞、喝酒和玩樂。"
+    "zh": "它也在优雅的私人俱乐部里流行，那里富人和名人聚集，跳舞、喝酒、玩乐。",
+    "zh_hant": "它也在優雅的私人俱樂部裡流行，那裡富人和名人聚集，跳舞、喝酒、玩樂。"
+  },
+  {
+    "index": 10,
+    "text": "It was basically Hugh Hefner who is responsible",
+    "start": 54.377,
+    "end": 58.599,
+    "zh": "基本上休·海夫纳要负责任",
+    "zh_hant": "基本上休·海夫納要負責任"
+  },
+  {
+    "index": 11,
+    "text": "for backgammon becoming a fad in the 1970s,",
+    "start": 58.249,
+    "end": 62.861,
+    "zh": "让双陆棋在1970年代成为一时风尚，",
+    "zh_hant": "讓雙陸棋在1970年代成為一時風尚，"
   },
   {
     "index": 12,
-    "text": "It was basically Hugh Hefner",
-    "start": 54.377,
-    "end": 56.938,
-    "zh": "基本上是休·海夫纳",
-    "zh_hant": "基本上是休·海夫納"
+    "text": "because he proposed",
+    "start": 62.882,
+    "end": 66.103,
+    "zh": "因为他倡导了",
+    "zh_hant": "因為他倡導了"
   },
   {
     "index": 13,
-    "text": "who is responsible for backgammon becoming a fad in the 1970s,",
-    "start": 56.659,
-    "end": 62.861,
-    "zh": "让双陆棋在1970年代成为风潮，",
-    "zh_hant": "讓雙陸棋在1970年代成為風潮，"
+    "text": "this kind of hedonistic, sophisticated, glamorous lifestyle",
+    "start": 65.753,
+    "end": 71.466,
+    "zh": "这种享乐、精致、迷人的生活方式，",
+    "zh_hant": "這種享樂、精緻、迷人的生活方式，"
   },
   {
     "index": 14,
-    "text": "because he proposed this kind of hedonistic, sophisticated,",
-    "start": 62.882,
-    "end": 69.084,
-    "zh": "因为他提倡这种享乐主义、精致、",
-    "zh_hant": "因為他提倡這種享樂主義、精緻、"
+    "text": "that involved lots of consumption of alcohol,",
+    "start": 71.286,
+    "end": 76.268,
+    "zh": "其中包括大量饮酒，",
+    "zh_hant": "其中包括大量飲酒，"
   },
   {
     "index": 15,
-    "text": "glamorous lifestyle",
-    "start": 69.565,
-    "end": 71.466,
-    "zh": "迷人的生活方式，",
-    "zh_hant": "迷人的生活方式，"
+    "text": "some drugs, lots of sex, and anything",
+    "start": 76.248,
+    "end": 80.951,
+    "zh": "一些毒品、大量性行为，以及任何",
+    "zh_hant": "一些毒品、大量性行為，以及任何"
   },
   {
     "index": 16,
-    "text": "that involved lots of consumption",
-    "start": 71.286,
-    "end": 75.208,
-    "zh": "涉及大量消费",
-    "zh_hant": "涉及大量消費"
+    "text": "that looked privileged and sophisticated.",
+    "start": 81.471,
+    "end": 84.973,
+    "zh": "看起来特权且精致的东西。",
+    "zh_hant": "看起來特權且精緻的東西。"
   },
   {
     "index": 17,
-    "text": "of alcohol, some drugs, lots of sex,",
-    "start": 74.858,
-    "end": 79.109,
-    "zh": "酒精、一些毒品、大量的性爱，",
-    "zh_hant": "酒精、一些毒品、大量的性愛，"
-  },
-  {
-    "index": 18,
-    "text": "and anything that looked privileged and sophisticated.",
-    "start": 79.19,
-    "end": 84.973,
-    "zh": "以及任何看起来特权且精致的事物。",
-    "zh_hant": "以及任何看起來特權且精緻的事物。"
-  },
-  {
-    "index": 19,
     "text": "That is Bob Wachtel, my partner at the Los Angeles meet-up.",
     "start": 84.993,
     "end": 89.055,
@@ -160,7 +144,7 @@
     "zh_hant": "那是鮑勃·瓦赫特爾，我在洛杉磯聚會的搭檔。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Wachtel got a Ph.D. in philosophy, but as a profession, he chose gambling.",
     "start": 89.255,
     "end": 94.858,
@@ -168,47 +152,47 @@
     "zh_hant": "瓦赫特爾獲得了哲學博士學位，但作為職業，他選擇了賭博。"
   },
   {
-    "index": 21,
-    "text": "He was a world-class backgammon player — and a backgammon writer,",
+    "index": 19,
+    "text": "He was a world-class backgammon player — and a backgammon writer, chronicling the scene,",
     "start": 94.918,
-    "end": 98.98,
-    "zh": "他是世界级的双陆棋玩家——也是双陆棋作家，",
-    "zh_hant": "他是世界級的雙陸棋玩家——也是雙陸棋作家，"
+    "end": 100.621,
+    "zh": "他是一位世界级的双陆棋选手——也是一位双陆棋作家，记录着这个圈子，",
+    "zh_hant": "他是一位世界級的雙陸棋選手——也是一位雙陸棋作家，記錄著這個圈子，"
   },
   {
-    "index": 22,
-    "text": "chronicling the scene, and it was quite a scene to chronicle.",
-    "start": 98.78,
+    "index": 20,
+    "text": "and it was quite a scene to chronicle.",
+    "start": 100.461,
     "end": 103.162,
-    "zh": "记录这一场景，而这确实是很值得记录的场景。",
-    "zh_hant": "記錄這一場景，而這確實是很值得記錄的場景。"
+    "zh": "而这个圈子确实值得记录。",
+    "zh_hant": "而這個圈子確實值得記錄。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "I first learned to play in Toronto in 1977.",
     "start": 103.462,
     "end": 108.355,
-    "zh": "我1977年在多伦多第一次学会玩。",
-    "zh_hant": "我1977年在多倫多第一次學會玩。"
+    "zh": "我最初是在1977年于多伦多学会玩双陆棋的。",
+    "zh_hant": "我最初是在1977年於多倫多學會玩雙陸棋的。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "I went to discos and there were backgammon sets in discos, backgammon tables.",
     "start": 108.405,
     "end": 114.187,
-    "zh": "我去迪斯科舞厅，那里有双陆棋套具和双陆棋桌。",
-    "zh_hant": "我去迪斯科舞廳，那裡有雙陸棋套具和雙陸棋桌。"
+    "zh": "我去迪斯科舞厅，那里有双陆棋套装和双陆棋桌。",
+    "zh_hant": "我去迪斯科舞廳，那裡有雙陸棋套裝和雙陸棋桌。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "I played a guy there, and the guy wrote me a check on a napkin.",
     "start": 114.628,
     "end": 119.37,
-    "zh": "我在那里和一个家伙玩，他写了一张支票在餐巾纸上给我。",
-    "zh_hant": "我在那裡和一個傢伙玩，他寫了一張支票在餐巾紙上給我。"
+    "zh": "我在那里和一个人玩，那人给我在一张餐巾纸上写了张支票。",
+    "zh_hant": "我在那裡和一個人玩，那人給我在一張餐巾紙上寫了張支票。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "I said, what’s this?",
     "start": 119.911,
     "end": 121.211,
@@ -216,7 +200,7 @@
     "zh_hant": "我說，這是什麼？"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "He said, don’t you know anything?",
     "start": 120.861,
     "end": 123.092,
@@ -224,23 +208,23 @@
     "zh_hant": "他說，你什麼都不懂嗎？"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "He said, a check is just a piece of paper that the bank issues,",
     "start": 123.512,
     "end": 127.874,
-    "zh": "他说，支票就是银行发行的一张纸，",
-    "zh_hant": "他說，支票就是銀行發行的一張紙，"
+    "zh": "他说，支票只是银行发行的一张纸，",
+    "zh_hant": "他說，支票只是銀行發行的一張紙，"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "but I’m writing my account number right on this napkin.",
     "start": 127.524,
     "end": 131.336,
-    "zh": "但我把我的账号直接写在这张餐巾纸上。",
-    "zh_hant": "但我把我的賬號直接寫在這張餐巾紙上。"
+    "zh": "但我就把账号写在这张餐巾纸上。",
+    "zh_hant": "但我就把賬號寫在這張餐巾紙上。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "So this is just as good as a check.",
     "start": 131.396,
     "end": 133.637,
@@ -248,15 +232,15 @@
     "zh_hant": "所以這和支票一樣有效。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "If you went to tournaments, you’d find the most zany collection of characters.",
     "start": 133.677,
     "end": 138.62,
-    "zh": "如果你去参加锦标赛，你会发现一群最古怪的人物。",
-    "zh_hant": "如果你去參加錦標賽，你會發現一群最古怪的人物。"
+    "zh": "如果你去参加比赛，你会遇到一群最古怪的人。",
+    "zh_hant": "如果你去參加比賽，你會遇到一群最古怪的人。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "There were lots of people who pretended to be royalty.",
     "start": 138.76,
     "end": 142.401,
@@ -264,215 +248,183 @@
     "zh_hant": "有很多人假裝自己是皇室成員。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "They were snobs of different kinds,",
     "start": 142.802,
     "end": 145.423,
-    "zh": "他们是各种类型的势利眼，",
-    "zh_hant": "他們是各種型別的勢利眼，"
+    "zh": "他们是各种类型的势利鬼，",
+    "zh_hant": "他們是各種型別的勢利鬼，"
+  },
+  {
+    "index": 32,
+    "text": "and posers, and drifters, and people who were cheaters, and lots of people were phonies,",
+    "start": 145.073,
+    "end": 150.425,
+    "zh": "还有装模作样的人、流浪者、作弊者，很多人都是骗子，",
+    "zh_hant": "還有裝模作樣的人、流浪者、作弊者，很多人都是騙子，"
+  },
+  {
+    "index": 33,
+    "text": "but none of them were very good at backgammon,",
+    "start": 150.075,
+    "end": 153.027,
+    "zh": "但他们中没有人真正擅长双陆棋，",
+    "zh_hant": "但他們中沒有人真正擅長雙陸棋，"
   },
   {
     "index": 34,
-    "text": "and posers, and drifters, and people who were cheaters,",
-    "start": 145.073,
-    "end": 148.905,
-    "zh": "还有装腔作势者、漂泊者、作弊者，",
-    "zh_hant": "還有裝腔作勢者、漂泊者、作弊者，"
+    "text": "and most of them believed that they were much, much better than they were, so they’d be willing to play anyone.",
+    "start": 152.677,
+    "end": 159.45,
+    "zh": "而且大多数人认为自己比实际水平好得多，所以他们愿意和任何人玩。",
+    "zh_hant": "而且大多數人認為自己比實際水平好得多，所以他們願意和任何人玩。"
   },
   {
     "index": 35,
-    "text": "and lots of people were phonies, but none of them were very good at backgammon,",
-    "start": 148.555,
-    "end": 153.027,
-    "zh": "很多人是骗子，但他们中没有一个在双陆棋上很厉害，",
-    "zh_hant": "很多人是騙子，但他們中沒有一個在雙陸棋上很厲害，"
-  },
-  {
-    "index": 36,
-    "text": "and most of them believed that they were much, much better than they were, so they’d be willing to play",
-    "start": 152.677,
-    "end": 158.93,
-    "zh": "而且大多数人都相信自己比实际水平好得多，所以他们愿意和任何人玩",
-    "zh_hant": "而且大多數人都相信自己比實際水平好得多，所以他們願意和任何人玩"
-  },
-  {
-    "index": 37,
-    "text": "anyone.",
-    "start": 158.58,
-    "end": 159.45,
-    "zh": "任何人。",
-    "zh_hant": "任何人。"
-  },
-  {
-    "index": 38,
     "text": "In the early ‘70s,",
     "start": 160.11,
     "end": 161.811,
-    "zh": "在70年代初，",
-    "zh_hant": "在70年代初，"
+    "zh": "在1970年代早期，",
+    "zh_hant": "在1970年代早期，"
   },
   {
-    "index": 39,
-    "text": "backgammon was a place of magical thinking",
+    "index": 36,
+    "text": "backgammon was a place of magical thinking and people believed that it was a game of luck.",
     "start": 161.711,
-    "end": 165.033,
-    "zh": "双陆棋是魔法思维的地方，",
-    "zh_hant": "雙陸棋是魔法思維的地方，"
-  },
-  {
-    "index": 40,
-    "text": "and people believed that it was a game of luck.",
-    "start": 165.493,
     "end": 169.395,
-    "zh": "人们相信这是一个靠运气的游戏。",
-    "zh_hant": "人們相信這是一個靠運氣的遊戲。"
+    "zh": "双陆棋是一个充满神奇思维的地方，人们相信靠的是运气。",
+    "zh_hant": "雙陸棋是一個充滿神奇思維的地方，人們相信靠的是運氣。"
   },
   {
-    "index": 41,
+    "index": 37,
     "text": "They didn’t do any work, most of them.",
     "start": 169.095,
     "end": 172.156,
-    "zh": "他们大多不做任何功课。",
-    "zh_hant": "他們大多不做任何功課。"
+    "zh": "他们大多不做任何练习。",
+    "zh_hant": "他們大多不做任何練習。"
   },
   {
-    "index": 42,
+    "index": 38,
     "text": "But there was some work you could do,",
     "start": 172.597,
     "end": 174.557,
-    "zh": "但有些功课是可以做的，",
-    "zh_hant": "但有些功課是可以做的，"
+    "zh": "但确实有一些工作可以做，",
+    "zh_hant": "但確實有一些工作可以做，"
   },
   {
-    "index": 43,
+    "index": 39,
     "text": "and there was some calculation, there were ways of learning the game",
     "start": 174.418,
     "end": 179.3,
-    "zh": "有些计算和学法可以学习这个游戏，",
-    "zh_hant": "有些計算和學法可以學習這個遊戲，"
+    "zh": "也有一些计算，有学习游戏的方法，",
+    "zh_hant": "也有一些計算，有學習遊戲的方法，"
   },
   {
-    "index": 44,
+    "index": 40,
     "text": "which most of the populace didn’t participate in at all.",
     "start": 179.44,
     "end": 184.002,
-    "zh": "而大多数人都完全没有参与这些。",
-    "zh_hant": "而大多數人都完全沒有參與這些。"
+    "zh": "但大多数人根本不参与。",
+    "zh_hant": "但大多數人根本不參與。"
   },
   {
-    "index": 45,
+    "index": 41,
     "text": "Did you do a lot of that kind of work yourself?",
     "start": 184.162,
     "end": 186.363,
-    "zh": "你自己做了很多这种功课吗？",
-    "zh_hant": "你自己做了很多這種功課嗎？"
+    "zh": "你自己做过很多那样的练习吗？",
+    "zh_hant": "你自己做過很多那樣的練習嗎？"
   },
   {
-    "index": 46,
+    "index": 42,
     "text": "I didn’t do as much as some other people.",
     "start": 186.364,
     "end": 188.704,
-    "zh": "我做的没有其他人那么多。",
-    "zh_hant": "我做的沒有其他人那麼多。"
+    "zh": "我没有别人做得那么多。",
+    "zh_hant": "我沒有別人做得那麼多。"
   },
   {
-    "index": 47,
+    "index": 43,
     "text": "If you really cared to learn specific elements of the game,",
     "start": 188.445,
     "end": 193.207,
-    "zh": "如果你真的想学习游戏的特定要素，",
-    "zh_hant": "如果你真的想學習遊戲的特定要素，"
+    "zh": "如果你真的想学习游戏的特定部分，",
+    "zh_hant": "如果你真的想學習遊戲的特定部分，"
   },
   {
-    "index": 48,
+    "index": 44,
     "text": "you would set up a position and play it many times.",
     "start": 192.857,
     "end": 195.968,
-    "zh": "你会摆一个局面，然后多次演练。",
-    "zh_hant": "你會擺一個局面，然後多次演練。"
+    "zh": "你会摆一个局面，然后反复玩多次。",
+    "zh_hant": "你會擺一個局面，然後反覆玩多次。"
   },
   {
-    "index": 49,
+    "index": 45,
     "text": "People weren’t shy about expressing their opinions in those days.",
     "start": 195.618,
     "end": 199.67,
-    "zh": "那个时代人们不羞于表达自己的意见。",
-    "zh_hant": "那個時代人們不羞於表達自己的意見。"
+    "zh": "那时候人们不羞于表达自己的意见。",
+    "zh_hant": "那時候人們不羞於表達自己的意見。"
   },
   {
-    "index": 50,
-    "text": "You would make a move and one of your compatriots would say,",
+    "index": 46,
+    "text": "You would make a move and one of your compatriots would say, that’s ridiculous, how could anybody do that?",
     "start": 199.73,
-    "end": 203.632,
-    "zh": "你走一步棋，你的同伴会说，",
-    "zh_hant": "你走一步棋，你的同伴會說，"
-  },
-  {
-    "index": 51,
-    "text": "that’s ridiculous, how could anybody do that?",
-    "start": 203.512,
     "end": 206.494,
-    "zh": "太荒谬了，谁会那么走？",
-    "zh_hant": "太荒謬了，誰會那麼走？"
+    "zh": "你走一步棋，你的某个同好就会说，这太荒谬了，谁会那么下？",
+    "zh_hant": "你走一步棋，你的某個同好就會說，這太荒謬了，誰會那麼下？"
   },
   {
-    "index": 52,
+    "index": 47,
     "text": "And immediately, you could challenge them to propositions,",
     "start": 206.894,
     "end": 211.656,
-    "zh": "然后你可以立刻向他们挑战对阵局面，",
-    "zh_hant": "然後你可以立刻向他們挑戰對陣局面，"
+    "zh": "立刻，你可以挑战他们玩命题局，",
+    "zh_hant": "立刻，你可以挑戰他們玩命題局，"
   },
   {
-    "index": 53,
-    "text": "and those were situations you’d set up",
+    "index": 48,
+    "text": "and those were situations",
     "start": 211.436,
-    "end": 215.018,
-    "zh": "那些是设定的情境，",
-    "zh_hant": "那些是設定的情境，"
+    "end": 214.217,
+    "zh": "那是你设置的场景，",
+    "zh_hant": "那是你設定的場景，"
   },
   {
-    "index": 54,
-    "text": "where each person would get their turn",
-    "start": 214.668,
-    "end": 218.66,
-    "zh": "每个人轮流",
-    "zh_hant": "每個人輪流"
+    "index": 49,
+    "text": "you’d set up where each person would get their turn to make their move,",
+    "start": 213.937,
+    "end": 219.96,
+    "zh": "比如轮流让每人走一步棋，",
+    "zh_hant": "比如輪流讓每人走一步棋，"
   },
   {
-    "index": 55,
-    "text": "to make their move, and the game would be played out to the end.",
-    "start": 218.31,
+    "index": 50,
+    "text": "and the game would be played out to the end.",
+    "start": 220.361,
     "end": 222.862,
-    "zh": "走自己的棋，游戏一直进行到结束。",
-    "zh_hant": "走自己的棋，遊戲一直進行到結束。"
+    "zh": "然后把游戏玩到最后。",
+    "zh_hant": "然後把遊戲玩到最後。"
   },
   {
-    "index": 56,
-    "text": "And then you’d turn the board around and allow the other person to make their move and the game would be played",
+    "index": 51,
+    "text": "And then you’d turn the board around and allow the other person to make their move and the game would be played until the end.",
     "start": 223.502,
-    "end": 229.765,
-    "zh": "然后你把棋盘转过来，让另一个人走他的棋，游戏继续进行",
-    "zh_hant": "然後你把棋盤轉過來，讓另一個人走他的棋，遊戲繼續進行"
-  },
-  {
-    "index": 57,
-    "text": "until the end.",
-    "start": 229.415,
     "end": 230.665,
-    "zh": "直到结束。",
-    "zh_hant": "直到結束。"
+    "zh": "然后你把棋盘转过来，让另一个人走他的棋，游戏再玩到结束。",
+    "zh_hant": "然後你把棋盤轉過來，讓另一個人走他的棋，遊戲再玩到結束。"
   },
   {
-    "index": 58,
+    "index": 52,
     "text": "You’d log a whole bunch of data.",
     "start": 231.146,
     "end": 234.187,
-    "zh": "你会记录大量数据。",
-    "zh_hant": "你會記錄大量資料。"
+    "zh": "你会记录一大堆数据。",
+    "zh_hant": "你會記錄一大堆資料。"
   },
   {
-    "index": 59,
+    "index": 53,
     "text": "Not all of it was that valuable,",
     "start": 234.247,
     "end": 236.868,
@@ -480,131 +432,99 @@
     "zh_hant": "並不是所有資料都有價值，"
   },
   {
-    "index": 60,
-    "text": "because if you didn’t play these games well in subsequent moves,",
+    "index": 54,
+    "text": "because if you didn’t play these games well in subsequent moves, it didn’t prove very much.",
     "start": 237.109,
-    "end": 242.051,
-    "zh": "因为如果你在后续走棋中处理得不好，",
-    "zh_hant": "因為如果你在後續走棋中處理得不好，"
-  },
-  {
-    "index": 61,
-    "text": "it didn’t prove very much.",
-    "start": 241.972,
     "end": 243.712,
-    "zh": "这些数据证明不了什么。",
-    "zh_hant": "這些資料證明不了什麼。"
+    "zh": "因为如果你在后续走棋中表现不佳，那就不太能证明什么。",
+    "zh_hant": "因為如果你在後續走棋中表現不佳，那就不太能證明什麼。"
   },
   {
-    "index": 62,
+    "index": 55,
     "text": "But there were some very simple situations,",
     "start": 244.053,
     "end": 247.694,
-    "zh": "但有一些非常简单的局面，",
-    "zh_hant": "但有一些非常簡單的局面，"
+    "zh": "但有些非常简单的局面，",
+    "zh_hant": "但有些非常簡單的局面，"
   },
   {
-    "index": 63,
-    "text": "especially in bear-offs at the last couple of moves",
+    "index": 56,
+    "text": "especially in bear-offs at the last couple of moves of the game where the game could be played out in ten seconds.",
     "start": 247.344,
-    "end": 250.816,
-    "zh": "特别是在最后几步的收尾阶段，",
-    "zh_hant": "特別是在最後幾步的收尾階段，"
-  },
-  {
-    "index": 64,
-    "text": "of the game where the game could be played out in ten seconds.",
-    "start": 250.466,
     "end": 254.858,
-    "zh": "游戏可能在十秒内就能结束。",
-    "zh_hant": "遊戲可能在十秒內就能結束。"
+    "zh": "尤其是在游戏最后几步的收尾阶段，游戏可以在十秒内玩完。",
+    "zh_hant": "尤其是在遊戲最後幾步的收尾階段，遊戲可以在十秒內玩完。"
   },
   {
-    "index": 65,
+    "index": 57,
     "text": "And you could log hundreds of games and sometimes if",
     "start": 255.138,
     "end": 259.16,
-    "zh": "你可以记录几百局游戏，有时如果",
-    "zh_hant": "你可以記錄幾百局遊戲，有時如果"
+    "zh": "你可以记录数百盘游戏，有时候如果",
+    "zh_hant": "你可以記錄數百盤遊戲，有時候如果"
   },
   {
-    "index": 66,
+    "index": 58,
     "text": "you had an advantage you could log hundreds and hundreds of dollars.",
     "start": 258.81,
     "end": 262.942,
-    "zh": "你有优势，你可以赢几百美元。",
-    "zh_hant": "你有優勢，你可以贏幾百美元。"
+    "zh": "你有优势，就能赢几百甚至更多的钱。",
+    "zh_hant": "你有優勢，就能贏幾百甚至更多的錢。"
   },
   {
-    "index": 67,
-    "text": "And some people, we should say,",
+    "index": 59,
+    "text": "And some people, we should say, wrote not one but two books just about the bear-off situation, yes?",
     "start": 263.102,
-    "end": 265.163,
-    "zh": "有些人，我们应该说，",
-    "zh_hant": "有些人，我們應該說，"
-  },
-  {
-    "index": 68,
-    "text": "wrote not one but two books just about the bear-off situation, yes?",
-    "start": 264.943,
     "end": 270.725,
-    "zh": "不只是写了一本，而是写了两本关于收尾局面的书，对吧？",
-    "zh_hant": "不只是寫了一本，而是寫了兩本關於收尾局面的書，對吧？"
+    "zh": "我们得说，有些人不仅写了一本，而是写了两本关于收尾局面的书，对吧？",
+    "zh_hant": "我們得說，有些人不僅寫了一本，而是寫了兩本關於收尾局面的書，對吧？"
   },
   {
-    "index": 69,
+    "index": 60,
     "text": "That would be you?",
     "start": 270.375,
     "end": 271.246,
-    "zh": "那就是你写的？",
-    "zh_hant": "那就是你寫的？"
+    "zh": "那就是你吧？",
+    "zh_hant": "那就是你吧？"
   },
   {
-    "index": 70,
+    "index": 61,
     "text": "[chuckle] Yes, but only a tiny segment of the bear-off.",
     "start": 270.896,
     "end": 275.048,
-    "zh": "[轻笑] 是的，但只是收尾中很小的一部分。",
-    "zh_hant": "[輕笑] 是的，但只是收尾中很小的一部分。"
+    "zh": "[轻笑] 是的，但只是收尾技巧的一小部分。",
+    "zh_hant": "[輕笑] 是的，但只是收尾技巧的一小部分。"
   },
   {
-    "index": 71,
-    "text": "The first volume I decided to name it, In the Game Until the End .",
+    "index": 62,
+    "text": "The first volume I decided to name it, In the Game Until the End.",
     "start": 275.028,
-    "end": 280.53,
-    "zh": "第一卷我决定命名为《坚持到底》。",
-    "zh_hant": "第一卷我決定命名為《堅持到底》。"
+    "end": 279.69,
+    "zh": "第一卷我决定命名为《玩到最后》。",
+    "zh_hant": "第一卷我決定命名為《玩到最後》。"
   },
   {
-    "index": 72,
+    "index": 63,
     "text": "Because, back in the day at the Mayfair Club in New York,",
-    "start": 280.212,
-    "end": 284.297,
-    "zh": "因为当年在纽约的五月花俱乐部，",
-    "zh_hant": "因為當年在紐約的五月花俱樂部，"
+    "start": 280.211,
+    "end": 284.296,
+    "zh": "因为以前在纽约的梅费尔俱乐部，",
+    "zh_hant": "因為以前在紐約的梅費爾俱樂部，"
   },
   {
-    "index": 73,
-    "text": "the marks or pigeons, when they got in these positions, would say,",
-    "start": 284.978,
-    "end": 289.503,
-    "zh": "那些“肥羊”或“菜鸟”在这些局面时，会说：",
-    "zh_hant": "那些“肥羊”或“菜鳥”在這些局面時，會說："
-  },
-  {
-    "index": 74,
-    "text": "at least I’m in the game until the end.",
-    "start": 289.163,
+    "index": 64,
+    "text": "the marks or pigeons, when they got in these positions, would say, at least I’m in the game until the end.",
+    "start": 284.977,
     "end": 291.505,
-    "zh": "至少我坚持到了最后。",
-    "zh_hant": "至少我堅持到了最後。"
+    "zh": "那些容易被骗的“肥羊”或“菜鸟”，当他们陷入这种局面时会说，至少我玩到了最后。",
+    "zh_hant": "那些容易被騙的“肥羊”或“菜鳥”，當他們陷入這種局面時會說，至少我玩到了最後。"
   },
   {
-    "index": 75,
+    "index": 65,
     "text": "There was a lot of mockery of the pigeons.",
-    "start": 291.967,
+    "start": 291.966,
     "end": 294.95,
-    "zh": "当时人们对这些“菜鸟”有很多嘲笑。",
-    "zh_hant": "當時人們對這些“菜鳥”有很多嘲笑。"
+    "zh": "人们对这些“菜鸟”有很多嘲笑。",
+    "zh_hant": "人們對這些“菜鳥”有很多嘲笑。"
   }
 ]

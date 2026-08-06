@@ -11,7 +11,7 @@
     "index": 1,
     "text": "Space odyssey.",
     "start": 3.531,
-    "end": 9.714,
+    "end": 4.75,
     "zh": "太空漫游。",
     "zh_hant": "太空漫遊。"
   },
@@ -20,16 +20,16 @@
     "text": "When will it be possible for us to think seriously about colonising Mars?",
     "start": 12.276,
     "end": 17.318,
-    "zh": "我们什么时候才能认真考虑殖民火星？",
-    "zh_hant": "我們什麼時候才能認真考慮殖民火星？"
+    "zh": "我们何时才能认真考虑殖民火星？",
+    "zh_hant": "我們何時才能認真考慮殖民火星？"
   },
   {
     "index": 3,
     "text": "The Moon is likely to become the industrial hub of the Solar System",
     "start": 19.699,
     "end": 24.682,
-    "zh": "月球很可能会成为太阳系的工业中心",
-    "zh_hant": "月球很可能會成為太陽系的工業中心"
+    "zh": "月球很可能成为太阳系的工业中心",
+    "zh_hant": "月球很可能成為太陽系的工業中心"
   },
   {
     "index": 4,
@@ -44,16 +44,16 @@
     "text": "easily obtainable from the lunar rocks in the form of liquid oxygen.",
     "start": 27.903,
     "end": 32.806,
-    "zh": "这些燃料可以以液态氧的形式轻松从月球岩石中获取。",
-    "zh_hant": "這些燃料可以以液態氧的形式輕鬆從月球岩石中獲取。"
+    "zh": "这种燃料以液氧的形式很容易从月球岩石中获得。",
+    "zh_hant": "這種燃料以液氧的形式很容易從月球岩石中獲得。"
   },
   {
     "index": 6,
     "text": "The reason lies in its gravity.",
     "start": 33.506,
     "end": 35.847,
-    "zh": "其原因在于它的引力。",
-    "zh_hant": "其原因在於它的引力。"
+    "zh": "原因在于其引力。",
+    "zh_hant": "原因在於其引力。"
   },
   {
     "index": 7,
@@ -65,54 +65,46 @@
   },
   {
     "index": 8,
-    "text": "it requires 97% less energy to travel",
+    "text": "it requires 97% less energy to travel the quarter of a million miles",
     "start": 40.83,
-    "end": 44.952,
-    "zh": "从月球到地球轨道这二十五万英里的旅程所需能量",
-    "zh_hant": "從月球到地球軌道這二十五萬英里的旅程所需能量"
+    "end": 46.673,
+    "zh": "从月球到地球轨道旅行25万英里所需的能量要少97%，",
+    "zh_hant": "從月球到地球軌道旅行25萬英里所需的能量要少97%，"
   },
   {
     "index": 9,
-    "text": "the quarter of a million miles from the Moon to Earth-orbit",
-    "start": 44.602,
-    "end": 48.114,
-    "zh": "比从地球表面到轨道这两百英里的旅程",
-    "zh_hant": "比從地球表面到軌道這兩百英里的旅程"
+    "text": "from the Moon to Earth-orbit than the 200 mile-journey from Earth's surface into orbit!",
+    "start": 46.323,
+    "end": 52.516,
+    "zh": "比从地球表面到轨道的200英里旅程还要少！",
+    "zh_hant": "比從地球表面到軌道的200英里旅程還要少！"
   },
   {
     "index": 10,
-    "text": "than the 200 mile-journey from Earth's surface into orbit!",
-    "start": 48.174,
-    "end": 52.516,
-    "zh": "要少97%！",
-    "zh_hant": "要少97%！"
-  },
-  {
-    "index": 11,
     "text": "This may sound fantastic, but it is easily calculated.",
     "start": 53.216,
     "end": 57.418,
-    "zh": "这听起来可能很不可思议，但很容易计算。",
-    "zh_hant": "這聽起來可能很不可思議，但很容易計算。"
+    "zh": "这听起来可能很神奇，但计算起来很容易。",
+    "zh_hant": "這聽起來可能很神奇，但計算起來很容易。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "To escape from the Earth in a rocket, one must travel at seven miles per second.",
     "start": 58.099,
     "end": 63.661,
-    "zh": "要乘火箭逃离地球，必须以每秒七英里的速度飞行。",
-    "zh_hant": "要乘火箭逃離地球，必須以每秒七英里的速度飛行。"
+    "zh": "要乘坐火箭逃离地球，必须以每秒7英里的速度飞行。",
+    "zh_hant": "要乘坐火箭逃離地球，必須以每秒7英里的速度飛行。"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "The comparable speed from the Moon is only 1.5 miles per second.",
     "start": 64.342,
     "end": 69.504,
-    "zh": "从月球出发的相应速度仅为每秒1.5英里。",
-    "zh_hant": "從月球出發的相應速度僅為每秒1.5英里。"
+    "zh": "从月球出发的相应速度只有每秒1.5英里。",
+    "zh_hant": "從月球出發的相應速度只有每秒1.5英里。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "Because the gravity on the Moon's surface is only a sixth of Earth's",
     "start": 70.625,
     "end": 75.027,
@@ -120,71 +112,55 @@
     "zh_hant": "因為月球表面的引力只有地球的六分之一"
   },
   {
-    "index": 15,
-    "text": "(remember how easily the Apollo astronauts bounded along),",
+    "index": 14,
+    "text": "(remember how easily the Apollo astronauts bounded along), it takes much less energy",
     "start": 75.307,
-    "end": 79.149,
-    "zh": "（还记得阿波罗宇航员轻松蹦跳的样子吧），",
-    "zh_hant": "（還記得阿波羅宇航員輕鬆蹦跳的樣子吧），"
+    "end": 81.35,
+    "zh": "（还记得阿波罗宇航员轻松跳跃的样子吧），加速所需的能量要少得多",
+    "zh_hant": "（還記得阿波羅宇航員輕鬆跳躍的樣子吧），加速所需的能量要少得多"
+  },
+  {
+    "index": 15,
+    "text": "to accelerate to that 1.5mps",
+    "start": 81.19,
+    "end": 84.651,
+    "zh": "达到每秒1.5英里的速度",
+    "zh_hant": "達到每秒1.5英里的速度"
   },
   {
     "index": 16,
-    "text": "it takes much less energy to accelerate to that 1.5mps",
-    "start": 79.409,
-    "end": 84.651,
-    "zh": "加速到那每秒1.5英里所需的能量",
-    "zh_hant": "加速到那每秒1.5英里所需的能量"
-  },
-  {
-    "index": 17,
     "text": "than it does on Earth.",
     "start": 84.831,
     "end": 86.471,
-    "zh": "比在地球上少得多。",
-    "zh_hant": "比在地球上少得多。"
+    "zh": "比在地球上容易得多。",
+    "zh_hant": "比在地球上容易得多。"
+  },
+  {
+    "index": 17,
+    "text": "Moon dwellers will be able to fly in space at only three percent",
+    "start": 87.372,
+    "end": 92.233,
+    "zh": "月球居民在太空飞行的成本只有",
+    "zh_hant": "月球居民在太空飛行的成本只有"
   },
   {
     "index": 18,
-    "text": "Moon dwellers will be able",
-    "start": 87.372,
-    "end": 89.572,
-    "zh": "月球居民将能够",
-    "zh_hant": "月球居民將能夠"
+    "text": "of the cost of similar journeys by their terrestrial cousins.",
+    "start": 91.893,
+    "end": 95.694,
+    "zh": "地球表亲类似旅程的3%。",
+    "zh_hant": "地球表親類似旅程的3%。"
   },
   {
     "index": 19,
-    "text": "to fly in space at only three percent of the cost of similar journeys",
-    "start": 89.222,
-    "end": 93.913,
-    "zh": "以类似旅程成本仅百分之三的价格在太空中飞行，",
-    "zh_hant": "以類似旅程成本僅百分之三的價格在太空中飛行，"
+    "text": "Arthur C.Clark once suggested a revolutionary idea passes through three phases: 1.",
+    "start": 96.654,
+    "end": 103.946,
+    "zh": "阿瑟·C·克拉克曾提出一个革命性的想法要经历三个阶段：1.",
+    "zh_hant": "阿瑟·C·克拉克曾提出一個革命性的想法要經歷三個階段：1."
   },
   {
     "index": 20,
-    "text": "by their terrestrial cousins.",
-    "start": 93.693,
-    "end": 95.694,
-    "zh": "而相比之下，地球上的表亲们则要高得多。",
-    "zh_hant": "而相比之下，地球上的表親們則要高得多。"
-  },
-  {
-    "index": 21,
-    "text": "Arthur C.Clark once suggested a revolutionary idea",
-    "start": 96.654,
-    "end": 100.675,
-    "zh": "阿瑟·C·克拉克曾提出一个革命性观点：",
-    "zh_hant": "阿瑟·C·克拉克曾提出一個革命性觀點："
-  },
-  {
-    "index": 22,
-    "text": "passes through three phases: 1.",
-    "start": 100.475,
-    "end": 103.946,
-    "zh": "一个想法要经过三个阶段：1.",
-    "zh_hant": "一個想法要經過三個階段：1."
-  },
-  {
-    "index": 23,
     "text": "'It's impossible--don't waste my time.'",
     "start": 103.546,
     "end": 107.56,
@@ -192,7 +168,7 @@
     "zh_hant": "“這不可能——別浪費我的時間。”"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "2.",
     "start": 107.16,
     "end": 108.15,
@@ -200,15 +176,15 @@
     "zh_hant": "2."
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "'It's possible, but not worth doing.'",
     "start": 107.857,
     "end": 112.78,
-    "zh": "“有可能，但不值得做。”",
-    "zh_hant": "“有可能，但不值得做。”"
+    "zh": "“这有可能，但不值得做。”",
+    "zh_hant": "“這有可能，但不值得做。”"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "3.",
     "start": 112.38,
     "end": 113.408,
@@ -216,107 +192,115 @@
     "zh_hant": "3."
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "'I said it was a good idea all along.'",
     "start": 113.008,
     "end": 118.639,
-    "zh": "“我一直就说这是个好主意。”",
-    "zh_hant": "“我一直就說這是個好主意。”"
+    "zh": "“我一直说这是个好主意。”",
+    "zh_hant": "“我一直說這是個好主意。”"
   },
   {
-    "index": 28,
-    "text": "The idea of colonising Mars--a world 160 times more distant than",
+    "index": 25,
+    "text": "The idea of colonising Mars--a world 160 times more distant than the Moon--will",
     "start": 118.72,
-    "end": 124.881,
-    "zh": "殖民火星——一个比月球远160倍的世界——",
-    "zh_hant": "殖民火星——一個比月球遠160倍的世界——"
+    "end": 126.141,
+    "zh": "殖民火星——一个比月球远160倍的世界——这个想法将",
+    "zh_hant": "殖民火星——一個比月球遠160倍的世界——這個想法將"
   },
   {
-    "index": 29,
-    "text": "the Moon--will move decisively from the second phase to the third,",
-    "start": 124.531,
+    "index": 26,
+    "text": "move decisively from the second phase to the third,",
+    "start": 125.791,
     "end": 129.182,
-    "zh": "这一想法将果断地从第二阶段进入第三阶段，",
-    "zh_hant": "這一想法將果斷地從第二階段進入第三階段，"
+    "zh": "果断地从第二阶段进入第三阶段，",
+    "zh_hant": "果斷地從第二階段進入第三階段，"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "when a significant number of people are living permanently in space.",
     "start": 129.182,
     "end": 133.443,
-    "zh": "当大量人口永久居住于太空之时。",
-    "zh_hant": "當大量人口永久居住於太空之時。"
+    "zh": "当大量的人永久居住太空时。",
+    "zh_hant": "當大量的人永久居住太空時。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "Mars has an extraordinary fascination for would-be voyagers.",
     "start": 134.384,
     "end": 138.364,
-    "zh": "火星对潜在的航行者有非凡的吸引力。",
-    "zh_hant": "火星對潛在的航行者有非凡的吸引力。"
+    "zh": "火星对未来的旅行者有着非凡的吸引力。",
+    "zh_hant": "火星對未來的旅行者有著非凡的吸引力。"
+  },
+  {
+    "index": 29,
+    "text": "America, Russia and Europe are filled with enthusiasts--many of them serious",
+    "start": 138.965,
+    "end": 145.946,
+    "zh": "美国、俄罗斯和欧洲充满了热情者——其中许多是严肃的",
+    "zh_hant": "美國、俄羅斯和歐洲充滿了熱情者——其中許多是嚴肅的"
+  },
+  {
+    "index": 30,
+    "text": "and senior scientists",
+    "start": 145.806,
+    "end": 147.587,
+    "zh": "资深科学家",
+    "zh_hant": "資深科學家"
+  },
+  {
+    "index": 31,
+    "text": "who dream of sending people to it.",
+    "start": 147.747,
+    "end": 149.987,
+    "zh": "梦想着送人类前往火星。",
+    "zh_hant": "夢想著送人類前往火星。"
   },
   {
     "index": 32,
-    "text": "America, Russia and Europe are filled with enthusiasts--many",
-    "start": 138.965,
-    "end": 145.086,
-    "zh": "美国、俄罗斯和欧洲充满了热情者——其中许多人",
-    "zh_hant": "美國、俄羅斯和歐洲充滿了熱情者——其中許多人"
-  },
-  {
-    "index": 33,
-    "text": "of them serious and senior scientists who dream of sending people to it.",
-    "start": 144.736,
-    "end": 149.987,
-    "zh": "是严肃的高级科学家，他们梦想着把人类送到那里。",
-    "zh_hant": "是嚴肅的高階科學家，他們夢想著把人類送到那裡。"
-  },
-  {
-    "index": 34,
     "text": "Their aim is understandable.",
     "start": 150.608,
     "end": 153.028,
-    "zh": "他们的目标可以理解。",
-    "zh_hant": "他們的目標可以理解。"
+    "zh": "他们的目标是可以理解的。",
+    "zh_hant": "他們的目標是可以理解的。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "It is the one world in the Solar System that is most like the Earth.",
     "start": 153.888,
     "end": 158.229,
-    "zh": "它是太阳系中最像地球的一个世界。",
-    "zh_hant": "它是太陽系中最像地球的一個世界。"
+    "zh": "火星是太阳系中最像地球的一个世界。",
+    "zh_hant": "火星是太陽系中最像地球的一個世界。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "It is a world of red sandy deserts (hence its name--the Red Planet),",
     "start": 158.87,
     "end": 164.475,
-    "zh": "那是一个红色沙质沙漠的世界（因此得名“红色星球”），",
-    "zh_hant": "那是一個紅色沙質沙漠的世界（因此得名“紅色星球”），"
+    "zh": "这是一个红沙沙漠的世界（因此得名——红色星球），",
+    "zh_hant": "這是一個紅沙沙漠的世界（因此得名——紅色星球），"
+  },
+  {
+    "index": 35,
+    "text": "cloudless skies, savage sandstorms,",
+    "start": 164.936,
+    "end": 168.899,
+    "zh": "无云的天空，狂暴的沙尘暴，",
+    "zh_hant": "無雲的天空，狂暴的沙塵暴，"
+  },
+  {
+    "index": 36,
+    "text": "chasms wider than the Grand Canyon and at least one mountain more than twice as tall as Everest.",
+    "start": 169.16,
+    "end": 175.867,
+    "zh": "比大峡谷更宽的裂缝，以及至少一座比珠穆朗玛峰高两倍多的山。",
+    "zh_hant": "比大峽谷更寬的裂縫，以及至少一座比珠穆朗瑪峰高兩倍多的山。"
   },
   {
     "index": 37,
-    "text": "cloudless skies, savage sandstorms, chasms wider",
-    "start": 164.936,
-    "end": 170.621,
-    "zh": "无云的天空、狂暴的沙暴、比大峡谷更宽的",
-    "zh_hant": "無雲的天空、狂暴的沙暴、比大峽谷更寬的"
-  },
-  {
-    "index": 38,
-    "text": "than the Grand Canyon and at least one mountain more than twice as tall as Everest.",
-    "start": 170.271,
-    "end": 175.867,
-    "zh": "峡谷，以及至少一座比珠穆朗玛峰高两倍以上的山峰。",
-    "zh_hant": "峽谷，以及至少一座比珠穆朗瑪峰高兩倍以上的山峰。"
-  },
-  {
-    "index": 39,
     "text": "It seems ideal for settlement.",
     "start": 176.348,
     "end": 178.69,
-    "zh": "它似乎非常适合定居。",
-    "zh_hant": "它似乎非常適合定居。"
+    "zh": "它似乎很适合定居。",
+    "zh_hant": "它似乎很適合定居。"
   }
 ]

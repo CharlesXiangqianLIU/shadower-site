@@ -1,30 +1,22 @@
 [
   {
     "index": 0,
-    "text": "What is Dartmouth looking for in an either typical,",
+    "text": "What is Dartmouth looking for in an either typical, median, or maybe optimal student?",
     "start": 0.35,
-    "end": 4.192,
-    "zh": "达特茅斯在寻找什么样的学生——是典型的、",
-    "zh_hant": "達特茅斯在尋找什麼樣的學生——是典型的、"
+    "end": 7.053,
+    "zh": "达特茅斯在寻找怎样的学生——是典型的、中等的，还是最优的？",
+    "zh_hant": "達特茅斯在尋找怎樣的學生——是典型的、中等的，還是最優的？"
   },
   {
     "index": 1,
-    "text": "median, or maybe optimal student?",
-    "start": 4.212,
-    "end": 7.053,
-    "zh": "中等的，还是理想的学生？",
-    "zh_hant": "中等的，還是理想的學生？"
-  },
-  {
-    "index": 2,
     "text": "We’re really looking for students who want to be uncomfortable,",
     "start": 7.234,
     "end": 12.476,
-    "zh": "我们真正在寻找的是那些愿意让自己不舒服的学生，",
-    "zh_hant": "我們真正在尋找的是那些願意讓自己不舒服的學生，"
+    "zh": "我们真正寻找的是愿意走出舒适区的学生，",
+    "zh_hant": "我們真正尋找的是願意走出舒適區的學生，"
   },
   {
-    "index": 3,
+    "index": 2,
     "text": "to engage in difficult conversations,",
     "start": 12.126,
     "end": 14.937,
@@ -32,23 +24,23 @@
     "zh_hant": "願意參與艱難對話的學生，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "to challenge themselves learning how to think, not being told what to think.",
     "start": 14.587,
     "end": 19.239,
-    "zh": "挑战自己去学习如何思考，而不是被告知该思考什么。",
-    "zh_hant": "挑戰自己去學習如何思考，而不是被告知該思考什麼。"
+    "zh": "挑战自己去学习如何思考，而不是被告知该想什么。",
+    "zh_hant": "挑戰自己去學習如何思考，而不是被告知該想什麼。"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "And that comes to a second place where Dartmouth has really led,",
     "start": 19.38,
     "end": 23.562,
-    "zh": "这就引到了达特茅斯真正领先的第二个领域，",
-    "zh_hant": "這就引到了達特茅斯真正領先的第二個領域，"
+    "zh": "这就要说到达特茅斯真正领先的第二个方面，",
+    "zh_hant": "這就要說到達特茅斯真正領先的第二個方面，"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "is around cultivating free expression and civil dialogue.",
     "start": 23.212,
     "end": 27.183,
@@ -56,63 +48,63 @@
     "zh_hant": "那就是培養自由表達和文明對話。"
   },
   {
-    "index": 7,
-    "text": "We launched Dartmouth Dialogues my first year , soon after",
+    "index": 6,
+    "text": "We launched Dartmouth Dialogues my first year, soon after October 7th,",
     "start": 27.063,
-    "end": 31.485,
-    "zh": "我在上任第一年就启动了“达特茅斯对话”，就在10月7日之后不久，",
-    "zh_hant": "我在上任第一年就啟動了“達特茅斯對話”，就在10月7日之後不久，"
+    "end": 32.306,
+    "zh": "我在第一年，也就是10月7日之后不久，就启动了“达特茅斯对话”项目，",
+    "zh_hant": "我在第一年，也就是10月7日之後不久，就啟動了“達特茅斯對話”專案，"
+  },
+  {
+    "index": 7,
+    "text": "and several different institutions have followed in our footsteps.",
+    "start": 31.956,
+    "end": 35.367,
+    "zh": "好几个其他机构也效仿了我们。",
+    "zh_hant": "好幾個其他機構也效仿了我們。"
   },
   {
     "index": 8,
-    "text": "October 7th, and several different institutions have followed in our footsteps.",
-    "start": 31.135,
-    "end": 35.367,
-    "zh": "好几个其他机构也跟随了我们的脚步。",
-    "zh_hant": "好幾個其他機構也跟隨了我們的腳步。"
-  },
-  {
-    "index": 9,
     "text": "And that was modeled by our faculty,",
     "start": 35.017,
     "end": 37.048,
-    "zh": "这其实是由我们的教师推动的，",
-    "zh_hant": "這其實是由我們的教師推動的，"
+    "zh": "这其实是我们的教师树立的榜样，",
+    "zh_hant": "這其實是我們的教師樹立的榜樣，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "actually, in Jewish and Middle Eastern Studies who, on October 9th and on October 11th,",
     "start": 36.698,
     "end": 42.031,
-    "zh": "具体是犹太和中东研究系的教师，他们在10月9日和10月11日，",
-    "zh_hant": "具體是猶太和中東研究系的教師，他們在10月9日和10月11日，"
+    "zh": "具体来说，是犹太和中东研究系的教师，他们在10月9日和10月11日，",
+    "zh_hant": "具體來說，是猶太和中東研究系的教師，他們在10月9日和10月11日，"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "where on most campuses people were just screaming at each other,",
     "start": 41.691,
     "end": 44.833,
-    "zh": "在大多数校园里人们还在互相大喊大叫的时候，",
-    "zh_hant": "在大多數校園裡人們還在互相大喊大叫的時候，"
+    "zh": "在大多数校园里人们只是互相大喊大叫的时候，",
+    "zh_hant": "在大多數校園裡人們只是互相大喊大叫的時候，"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "came together and had open dialogue",
     "start": 45.173,
     "end": 48.694,
-    "zh": "聚在一起进行了开放的对话，",
-    "zh_hant": "聚在一起進行了開放的對話，"
+    "zh": "却聚在一起进行开放对话，",
+    "zh_hant": "卻聚在一起進行開放對話，"
   },
   {
-    "index": 13,
+    "index": 12,
     "text": "where anyone could come and talk about the complexities of the Middle East.",
     "start": 48.875,
     "end": 53.677,
-    "zh": "任何人都可以来谈论中东的复杂性。",
-    "zh_hant": "任何人都可以來談論中東的複雜性。"
+    "zh": "任何人都可以来谈论中东的复杂问题。",
+    "zh_hant": "任何人都可以來談論中東的複雜問題。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "So I’ve read a lot about those discussions and it does sound like",
     "start": 53.497,
     "end": 56.478,
@@ -120,63 +112,63 @@
     "zh_hant": "我讀了很多關於這些討論的報道，聽起來確實像是"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "they produced a lot of really good thinking and talking and trust-building and so on.",
     "start": 56.128,
     "end": 61.901,
-    "zh": "它们产生了许多非常好的思考、交流、建立信任等等。",
-    "zh_hant": "它們產生了許多非常好的思考、交流、建立信任等等。"
+    "zh": "它们产生了许多真正深入的思考、交流、信任建立，等等。",
+    "zh_hant": "它們產生了許多真正深入的思考、交流、信任建立，等等。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "the other hand, Dartmouth, like many, many other campuses,",
     "start": 61.551,
     "end": 65.123,
-    "zh": "另一方面，达特茅斯和许多许多其他校园一样，",
-    "zh_hant": "另一方面，達特茅斯和許多許多其他校園一樣，"
+    "zh": "另一方面，达特茅斯和许多其他校园一样，",
+    "zh_hant": "另一方面，達特茅斯和許多其他校園一樣，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "especially the Ivy campuses, had a lot protests from the pro-Palestinian side,",
     "start": 64.773,
     "end": 70.225,
-    "zh": "尤其是常春藤校园，有大量支持巴勒斯坦的抗议活动，",
-    "zh_hant": "尤其是常春藤校園，有大量支援巴勒斯坦的抗議活動，"
+    "zh": "尤其是常春藤校园，也有大量来自亲巴勒斯坦一方的抗议活动，",
+    "zh_hant": "尤其是常春藤校園，也有大量來自親巴勒斯坦一方的抗議活動，"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "especially after the war began.",
     "start": 69.875,
     "end": 71.906,
-    "zh": "尤其在战争开始之后。",
-    "zh_hant": "尤其在戰爭開始之後。"
+    "zh": "特别是在战争开始之后。",
+    "zh_hant": "特別是在戰爭開始之後。"
+  },
+  {
+    "index": 18,
+    "text": "And you were censured by the faculty, and there was a no-confidence vote by students.",
+    "start": 71.556,
+    "end": 76.448,
+    "zh": "而且你被教师谴责了，学生也对你进行了不信任投票。",
+    "zh_hant": "而且你被教師譴責了，學生也對你進行了不信任投票。"
   },
   {
     "index": 19,
-    "text": "And you were censured by the faculty , and there was a no-confidence vote by students .",
-    "start": 71.556,
-    "end": 76.41,
-    "zh": "而你被教师谴责了，学生也对你投了不信任票。",
-    "zh_hant": "而你被教師譴責了，學生也對你投了不信任票。"
+    "text": "What was that like from your side?",
+    "start": 76.098,
+    "end": 78.129,
+    "zh": "从你的角度看，那是怎样一种经历？",
+    "zh_hant": "從你的角度看，那是怎樣一種經歷？"
   },
   {
     "index": 20,
-    "text": "What was that like from your side?",
-    "start": 76.06,
-    "end": 78.129,
-    "zh": "你那边是什么感受？",
-    "zh_hant": "你那邊是什麼感受？"
-  },
-  {
-    "index": 21,
     "text": "I mean, you survived, so plainly you can smile about it now, but what was that like from your side in the moment?",
     "start": 77.949,
     "end": 83.992,
-    "zh": "我的意思是，你挺过来了，所以你现在显然能笑了，但当时你那边是什么感觉？",
-    "zh_hant": "我的意思是，你挺過來了，所以你現在顯然能笑了，但當時你那邊是什麼感覺？"
+    "zh": "我的意思是，你挺过来了，所以显然现在你能一笑置之，但在那个时候，从你的角度看是什么感觉？",
+    "zh_hant": "我的意思是，你挺過來了，所以顯然現在你能一笑置之，但在那個時候，從你的角度看是什麼感覺？"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "The only way I know how to lead is by making principled decisions.",
     "start": 83.993,
     "end": 88.895,
@@ -184,39 +176,39 @@
     "zh_hant": "我唯一知道如何領導的方式就是做出有原則的決定。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "Free expression and the ability to hear different points of view",
     "start": 88.995,
     "end": 92.737,
-    "zh": "自由表达和倾听不同观点的能力，",
-    "zh_hant": "自由表達和傾聽不同觀點的能力，"
+    "zh": "自由表达和听取不同观点的能力，",
+    "zh_hant": "自由表達和聽取不同觀點的能力，"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "and everyone to share in campus is at the heart of what we do in trying to discover truth.",
     "start": 92.387,
     "end": 97.639,
-    "zh": "以及让每个人在校园里分享观点，是我们探索真理的核心。",
-    "zh_hant": "以及讓每個人在校園裡分享觀點，是我們探索真理的核心。"
+    "zh": "以及让每个人都能参与校园事务，是我们探索真理的核心。",
+    "zh_hant": "以及讓每個人都能參與校園事務，是我們探索真理的核心。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "And I was willing to call balls and strikes.",
     "start": 97.839,
     "end": 100.22,
-    "zh": "我愿意公正地判定对错。",
-    "zh_hant": "我願意公正地判定對錯。"
+    "zh": "我愿意公正裁判。",
+    "zh_hant": "我願意公正裁判。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "You can protest, but you can’t shout down a speaker.",
     "start": 100.201,
     "end": 103.382,
-    "zh": "你可以抗议，但不能用喊叫压过演讲者。",
-    "zh_hant": "你可以抗議，但不能用喊叫壓過演講者。"
+    "zh": "你可以抗议，但不能用喊声压制演讲者。",
+    "zh_hant": "你可以抗議，但不能用喊聲壓制演講者。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "You can protest, but you cannot take over campus,",
     "start": 103.542,
     "end": 106.803,
@@ -224,183 +216,175 @@
     "zh_hant": "你可以抗議，但不能佔領校園，"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "build an encampment, and declare shared space for one ideology.",
     "start": 107.264,
     "end": 111.026,
-    "zh": "搭建营地，并为一个意识形态宣布共享空间。",
-    "zh_hant": "搭建營地，併為一個意識形態宣佈共享空間。"
+    "zh": "搭起营地，并宣布共享空间只属于一种意识形态。",
+    "zh_hant": "搭起營地，並宣佈共享空間只屬於一種意識形態。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "Students knew the consequences, they knew what the ground rules were,",
     "start": 111.166,
     "end": 116.688,
-    "zh": "学生们知道后果，他们知道基本规则是什么，",
-    "zh_hant": "學生們知道後果，他們知道基本規則是什麼，"
+    "zh": "学生知道后果，他们知道基本规则是什么，",
+    "zh_hant": "學生知道後果，他們知道基本規則是什麼，"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "and we were willing to enforce the rules, unlike many of our peers.",
     "start": 116.629,
     "end": 120.771,
-    "zh": "而且我们愿意执行规则，不像我们的许多同行。",
-    "zh_hant": "而且我們願意執行規則，不像我們的許多同行。"
+    "zh": "而且我们愿意执行规则，不像许多同行那样。",
+    "zh_hant": "而且我們願意執行規則，不像許多同行那樣。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "So you kept your job after that chaos.",
     "start": 120.871,
     "end": 124.533,
-    "zh": "所以在那场混乱之后你保住了工作。",
-    "zh_hant": "所以在那場混亂之後你保住了工作。"
+    "zh": "那么在那场混乱之后，你保住了工作。",
+    "zh_hant": "那麼在那場混亂之後，你保住了工作。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "Did you think for a while that you might lose it?",
     "start": 124.183,
     "end": 126.774,
-    "zh": "你有没有一度想过可能会失去它？",
-    "zh_hant": "你有沒有一度想過可能會失去它？"
+    "zh": "你有没有想过自己可能会失去它？",
+    "zh_hant": "你有沒有想過自己可能會失去它？"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "Was there anyone on your board that was agitating for your departure?",
     "start": 126.424,
     "end": 129.275,
-    "zh": "你的董事会里有没有人在推动你离开？",
-    "zh_hant": "你的董事會里有沒有人在推動你離開？"
+    "zh": "董事会里有没有人在推动你离开？",
+    "zh_hant": "董事會里有沒有人在推動你離開？"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "No, my board was very supportive.",
     "start": 129.315,
     "end": 131.876,
-    "zh": "没有，我的董事会非常支持我。",
-    "zh_hant": "沒有，我的董事會非常支援我。"
+    "zh": "没有，董事会非常支持我。",
+    "zh_hant": "沒有，董事會非常支援我。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "I think, again, we were leading by principle.",
     "start": 131.757,
     "end": 134.338,
-    "zh": "我想，再说一次，我们是在按原则领导。",
-    "zh_hant": "我想，再說一次，我們是在按原則領導。"
+    "zh": "我觉得，我们再次是依原则行事。",
+    "zh_hant": "我覺得，我們再次是依原則行事。"
+  },
+  {
+    "index": 35,
+    "text": "And as a leader, sometimes you have to make decisions that are based on those principles",
+    "start": 133.988,
+    "end": 139.48,
+    "zh": "作为领导者，有时你必须基于这些原则做决定，",
+    "zh_hant": "作為領導者，有時你必須基於這些原則做決定，"
   },
   {
     "index": 36,
-    "text": "And as a leader, sometimes you have to make decisions",
-    "start": 133.988,
-    "end": 136.959,
-    "zh": "作为领导者，有时候你必须做出决定，",
-    "zh_hant": "作為領導者，有時候你必須做出決定，"
+    "text": "that are not going to be the most popular decisions.",
+    "start": 139.13,
+    "end": 141.721,
+    "zh": "而这些决定不会是最受欢迎的决定。",
+    "zh_hant": "而這些決定不會是最受歡迎的決定。"
   },
   {
     "index": 37,
-    "text": "that are based on those principles that are not going to be the most popular decisions.",
-    "start": 136.609,
-    "end": 141.721,
-    "zh": "这些决定基于原则，但不一定会是最受欢迎的决定。",
-    "zh_hant": "這些決定基於原則，但不一定會是最受歡迎的決定。"
+    "text": "I think the decision has aged pretty well, but it’s also been borne out in the work we’re doing around dialogue.",
+    "start": 141.421,
+    "end": 148.665,
+    "zh": "我认为这个决定经受了时间的考验，而且它也在我们围绕对话所做的工作中得到了印证。",
+    "zh_hant": "我認為這個決定經受了時間的考驗，而且它也在我們圍繞對話所做的工作中得到了印證。"
   },
   {
     "index": 38,
-    "text": "I think the decision has aged pretty well, but it’s also",
-    "start": 141.421,
-    "end": 145.003,
-    "zh": "我觉得这个决定经得起时间的考验，而且它也在",
-    "zh_hant": "我覺得這個決定經得起時間的考驗，而且它也在"
+    "text": "And I’m proud of where Dartmouth has gone,",
+    "start": 148.705,
+    "end": 152.166,
+    "zh": "我为达特茅斯所取得的进展感到骄傲，",
+    "zh_hant": "我為達特茅斯所取得的進展感到驕傲，"
   },
   {
     "index": 39,
-    "text": "been borne out in the work we’re doing around dialogue.",
-    "start": 145.163,
-    "end": 148.665,
-    "zh": "我们在对话方面所做的工作中得到了验证。",
-    "zh_hant": "我們在對話方面所做的工作中得到了驗證。"
+    "text": "for example, in the free expression rankings from the Foundation of Individual Rights and Expression.",
+    "start": 151.816,
+    "end": 156.689,
+    "zh": "比如，在个人权利与表达基金会的自由表达排名中。",
+    "zh_hant": "比如，在個人權利與表達基金會的自由表達排名中。"
   },
   {
     "index": 40,
-    "text": "And I’m proud of where Dartmouth has gone, for example,",
-    "start": 148.705,
-    "end": 152.747,
-    "zh": "我为达特茅斯所取得的进步感到自豪，比如",
-    "zh_hant": "我為達特茅斯所取得的進步感到自豪，比如"
+    "text": "When I got to Dartmouth, we were in the bottom 200 and something, and I think last year we were ranked 35th.",
+    "start": 156.339,
+    "end": 162.552,
+    "zh": "我到达特茅斯时，我们在200多名开外，我觉得去年我们排到了第35名。",
+    "zh_hant": "我到達特茅斯時，我們在200多名開外，我覺得去年我們排到了第35名。"
   },
   {
     "index": 41,
-    "text": "in the free expression rankings from the Foundation of Individual Rights and Expression.",
-    "start": 152.397,
-    "end": 156.689,
-    "zh": "在个人权利与表达基金会的自由表达排名中。",
-    "zh_hant": "在個人權利與表達基金會的自由表達排名中。"
-  },
-  {
-    "index": 42,
-    "text": "When I got to Dartmouth, we were in the bottom 200 and something, and I think last year we were ranked 35th .",
-    "start": 156.339,
-    "end": 162.61,
-    "zh": "我刚到达特茅斯时，我们排在200多名，我想去年我们排到了第35名。",
-    "zh_hant": "我剛到達特茅斯時，我們排在200多名，我想去年我們排到了第35名。"
-  },
-  {
-    "index": 43,
     "text": "You know, you can debate rankings,",
     "start": 162.473,
     "end": 164.613,
-    "zh": "你知道，你可以对排名有争议，",
-    "zh_hant": "你知道，你可以對排名有爭議，"
+    "zh": "你知道，排名可以争论，",
+    "zh_hant": "你知道，排名可以爭論，"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "but one of places I was really proud is that our students were, I think,",
     "start": 164.263,
     "end": 168.155,
-    "zh": "但让我特别自豪的一点是，我们的学生，我觉得，",
-    "zh_hant": "但讓我特別自豪的一點是，我們的學生，我覺得，"
+    "zh": "但让我特别自豪的一个地方是，我们的学生，我觉得，",
+    "zh_hant": "但讓我特別自豪的一個地方是，我們的學生，我覺得，"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "two standard deviations above the mean in being tolerant of speakers on the right and the left.",
     "start": 167.805,
     "end": 172.918,
-    "zh": "在容忍左右翼演讲者方面，高于平均水平两个标准差。",
-    "zh_hant": "在容忍左右翼演講者方面，高於平均水平兩個標準差。"
+    "zh": "在容忍左右翼演讲者方面，他们的表现高于平均水平两个标准差。",
+    "zh_hant": "在容忍左右翼演講者方面，他們的表現高於平均水平兩個標準差。"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "I believe that one of the goals of a liberal-arts institution,",
     "start": 173.239,
     "end": 176.92,
-    "zh": "我相信文科机构的目标之一，",
-    "zh_hant": "我相信文科機構的目標之一，"
+    "zh": "我相信，一所文科机构，",
+    "zh_hant": "我相信，一所文科機構，"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "elite university, is to develop the next generation of leaders for our democracy,",
     "start": 176.57,
     "end": 181.843,
-    "zh": "精英大学的目标，就是培养我们民主制度的下一代领导者，",
-    "zh_hant": "精英大學的目標，就是培養我們民主制度的下一代領導者，"
+    "zh": "或者说精英大学的目标之一，就是培养我们民主制度的下一代领导者，",
+    "zh_hant": "或者說精英大學的目標之一，就是培養我們民主制度的下一代領導者，"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "and being able to lead people who think differently than you",
     "start": 182.003,
     "end": 186.186,
-    "zh": "而能够领导那些想法与你不同的人，",
-    "zh_hant": "而能夠領導那些想法與你不同的人，"
+    "zh": "而能够领导那些与你想法不同的人，",
+    "zh_hant": "而能夠領導那些與你想法不同的人，"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "and cut across our very polarized environment",
     "start": 185.926,
     "end": 189.487,
-    "zh": "并跨越我们这个非常两极分化的环境，",
-    "zh_hant": "並跨越我們這個非常兩極分化的環境，"
+    "zh": "并跨越我们这个极度分裂的环境，",
+    "zh_hant": "並跨越我們這個極度分裂的環境，"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "is one of the most important things that a university can do.",
     "start": 189.308,
     "end": 193.69,

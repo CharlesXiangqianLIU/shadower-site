@@ -4,8 +4,8 @@
     "text": "Hello, and thanks for downloading the More or Less podcast.",
     "start": 0.0,
     "end": 3.011,
-    "zh": "你好，感谢下载《More or Less》播客。",
-    "zh_hant": "你好，感謝下載《More or Less》播客。"
+    "zh": "你好，感谢下载《或多或少》播客。",
+    "zh_hant": "你好，感謝下載《或多或少》播客。"
   },
   {
     "index": 1,
@@ -20,24 +20,24 @@
     "text": "And I'm Lizzie McNeill.",
     "start": 7.494,
     "end": 8.894,
-    "zh": "我是丽兹·麦克尼尔。",
-    "zh_hant": "我是麗茲·麥克尼爾。"
+    "zh": "我是莉齐·麦克尼尔。",
+    "zh_hant": "我是莉齊·麥克尼爾。"
   },
   {
     "index": 3,
-    "text": "Listener John O'Malley emailed in to moreorless@bbc.co.uk, which, by the way,",
+    "text": "Listener John O'Malley emailed in to moreorless@bbc.co.uk,",
     "start": 11.716,
-    "end": 18.039,
-    "zh": "听众约翰·奥马利发邮件到moreorless@bbc.co.uk，顺便说一句，",
-    "zh_hant": "聽眾約翰·奧馬利發郵件到moreorless@bbc.co.uk，順便說一句，"
+    "end": 16.938,
+    "zh": "听众约翰·奥马利发邮件到 moreorless@bbc.co.uk，",
+    "zh_hant": "聽眾約翰·奧馬利發郵件到 moreorless@bbc.co.uk，"
   },
   {
     "index": 4,
-    "text": "anyone can do, to ask about a tweet that appeared to be making a somewhat staggering claim.",
-    "start": 17.759,
+    "text": "which, by the way, anyone can do, to ask about a tweet that appeared to be making a somewhat staggering claim.",
+    "start": 16.738,
     "end": 23.481,
-    "zh": "任何人都可以这样做，来询问一条看似提出惊人说法的推文。",
-    "zh_hant": "任何人都可以這樣做，來詢問一條看似提出驚人說法的推文。"
+    "zh": "顺便说一下，任何人都可以这么做，来询问一条看似提出惊人主张的推文。",
+    "zh_hant": "順便說一下，任何人都可以這麼做，來詢問一條看似提出驚人主張的推文。"
   },
   {
     "index": 5,
@@ -52,67 +52,51 @@
     "text": "was from an account called At Met Forecast UK.",
     "start": 29.164,
     "end": 32.526,
-    "zh": "来自一个名为At Met Forecast UK的账号。",
-    "zh_hant": "來自一個名為At Met Forecast UK的賬號。"
+    "zh": "来自一个名为 At Met Forecast UK 的账号。",
+    "zh_hant": "來自一個名為 At Met Forecast UK 的賬號。"
   },
   {
     "index": 7,
     "text": "Talking about how hot the Mediterranean Sea got at the start of July,",
     "start": 33.106,
     "end": 36.728,
-    "zh": "帖子谈到7月初地中海变得有多热，",
-    "zh_hant": "帖子談到7月初地中海變得有多熱，"
+    "zh": "谈到七月初地中海变得多热时，",
+    "zh_hant": "談到七月初地中海變得多熱時，"
   },
   {
     "index": 8,
-    "text": "they stated that the Med is experiencing a one in two hundred sixteen billion year",
+    "text": "they stated that the Med is experiencing a one in two hundred sixteen billion year sea temperature anomaly.",
     "start": 36.708,
-    "end": 42.631,
-    "zh": "他们声称地中海正在经历一个二万一千六百亿年一遇的",
-    "zh_hant": "他們聲稱地中海正在經歷一個二萬一千六百億年一遇的"
+    "end": 43.892,
+    "zh": "他们声称地中海正在经历两万一千六百亿年一遇的海温异常。",
+    "zh_hant": "他們聲稱地中海正在經歷兩萬一千六百億年一遇的海溫異常。"
   },
   {
     "index": 9,
-    "text": "sea temperature anomaly.",
-    "start": 42.291,
-    "end": 43.892,
-    "zh": "海水温度异常。",
-    "zh_hant": "海水溫度異常。"
+    "text": "This, as the post pointed out, was a significantly longer period of time than planet Earth has been in existence.",
+    "start": 44.112,
+    "end": 50.815,
+    "zh": "正如帖子所指出的，这比地球存在的时间要长得多。",
+    "zh_hant": "正如帖子所指出的，這比地球存在的時間要長得多。"
   },
   {
     "index": 10,
-    "text": "This, as the post pointed out, was a significantly longer period of time",
-    "start": 44.112,
-    "end": 48.654,
-    "zh": "正如帖子所指出的，这比地球存在的历史",
-    "zh_hant": "正如帖子所指出的，這比地球存在的歷史"
-  },
-  {
-    "index": 11,
-    "text": "than planet Earth has been in existence.",
-    "start": 48.354,
-    "end": 50.815,
-    "zh": "要长得多。",
-    "zh_hant": "要長得多。"
-  },
-  {
-    "index": 12,
     "text": "Indeed, it is many more times than our best estimates of the age of the entire universe.",
     "start": 50.756,
     "end": 56.998,
-    "zh": "事实上，这比我们对整个宇宙年龄的最佳估计还要高出很多倍。",
-    "zh_hant": "事實上，這比我們對整個宇宙年齡的最佳估計還要高出很多倍。"
+    "zh": "实际上，这比我们对整个宇宙年龄的最佳估计还要多出许多倍。",
+    "zh_hant": "實際上，這比我們對整個宇宙年齡的最佳估計還要多出許多倍。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "The massive scale of this anomaly, so the account claimed, proved that climate change was real.",
     "start": 57.159,
     "end": 62.301,
-    "zh": "该账号声称，这种异常的巨大规模证明了气候变化是真实的。",
-    "zh_hant": "該賬號聲稱，這種異常的巨大規模證明了氣候變化是真實的。"
+    "zh": "该账号声称，这种异常的规模之大证明了气候变化是真实的。",
+    "zh_hant": "該賬號聲稱，這種異常的規模之大證明了氣候變化是真實的。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "So, does the statistical logic make sense?",
     "start": 62.501,
     "end": 66.343,
@@ -120,71 +104,63 @@
     "zh_hant": "那麼，這種統計邏輯是否合理呢？"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "There's no doubt that the temperatures in the Mediterranean this year have been extreme.",
     "start": 69.225,
     "end": 74.027,
-    "zh": "毫无疑问，今年地中海的气温是极端的。",
-    "zh_hant": "毫無疑問，今年地中海的氣溫是極端的。"
+    "zh": "毫无疑问，今年地中海的气温非常极端。",
+    "zh_hant": "毫無疑問，今年地中海的氣溫非常極端。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "This is Jules Keiter, a physical oceanographer working at the National Oceanography Centre in the UK.",
     "start": 73.887,
     "end": 80.01,
-    "zh": "这位是朱尔斯·凯特，他在英国国家海洋学中心担任物理海洋学家。",
-    "zh_hant": "這位是朱爾斯·凱特，他在英國國家海洋學中心擔任物理海洋學家。"
+    "zh": "这是朱尔斯·凯特，一位在英国国家海洋学中心工作的物理海洋学家。",
+    "zh_hant": "這是朱爾斯·凱特，一位在英國國家海洋學中心工作的物理海洋學家。"
+  },
+  {
+    "index": 15,
+    "text": "The Mediterranean-wide average temperature during June and July,",
+    "start": 80.131,
+    "end": 85.293,
+    "zh": "例如，六月和七月期间地中海的平均温度，",
+    "zh_hant": "例如，六月和七月期間地中海的平均溫度，"
+  },
+  {
+    "index": 16,
+    "text": "for example, were about three to four degrees hotter than the 1985 to 2005 mean.",
+    "start": 84.943,
+    "end": 91.616,
+    "zh": "比1985年至2005年的平均值高出约三到四度。",
+    "zh_hant": "比1985年至2005年的平均值高出約三到四度。"
   },
   {
     "index": 17,
-    "text": "The Mediterranean-wide average temperature during June and July, for example,",
-    "start": 80.131,
-    "end": 85.893,
-    "zh": "例如，6月和7月地中海的总体平均温度",
-    "zh_hant": "例如，6月和7月地中海的總體平均溫度"
-  },
-  {
-    "index": 18,
-    "text": "were about three to four degrees hotter than the 1985 to 2005 mean.",
-    "start": 85.543,
-    "end": 91.616,
-    "zh": "比1985年到2005年的平均值高出约3到4度。",
-    "zh_hant": "比1985年到2005年的平均值高出約3到4度。"
-  },
-  {
-    "index": 19,
     "text": "Now we're talking about degrees centigrade here,",
     "start": 91.266,
     "end": 93.497,
-    "zh": "我们这里说的是摄氏度，",
-    "zh_hant": "我們這裡說的是攝氏度，"
+    "zh": "这里我们说的是摄氏度，",
+    "zh_hant": "這裡我們說的是攝氏度，"
   },
   {
-    "index": 20,
-    "text": "and Jules is comparing the temperature now",
+    "index": 18,
+    "text": "and Jules is comparing the temperature now against the average sea temperature at the same time of year in that period,",
     "start": 93.257,
-    "end": 95.958,
-    "zh": "朱尔斯比较的是现在的温度",
-    "zh_hant": "朱爾斯比較的是現在的溫度"
-  },
-  {
-    "index": 21,
-    "text": "against the average sea temperature at the same time of year in that period,",
-    "start": 95.918,
     "end": 100.6,
-    "zh": "和那一时期每年同一时间的平均海水温度，",
-    "zh_hant": "和那一時期每年同一時間的平均海水溫度，"
+    "zh": "朱尔斯正在将当前温度与该时期一年中同一时间的平均海温进行比较，",
+    "zh_hant": "朱爾斯正在將當前溫度與該時期一年中同一時間的平均海溫進行比較，"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "from the 1980s to the noughties.",
     "start": 100.28,
     "end": 102.741,
-    "zh": "也就是从1980年代到2000年代初。",
-    "zh_hant": "也就是從1980年代到2000年代初。"
+    "zh": "也就是从1980年代到2000年代初期。",
+    "zh_hant": "也就是從1980年代到2000年代初期。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "But why start in the 1980s?",
     "start": 103.222,
     "end": 105.913,
@@ -192,127 +168,111 @@
     "zh_hant": "但為什麼從1980年代開始呢？"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "Well, that's when the good quality data starts.",
     "start": 105.963,
     "end": 108.784,
-    "zh": "因为那是高质量数据开始出现的时候。",
-    "zh_hant": "因為那是高質量資料開始出現的時候。"
+    "zh": "嗯，那是因为高质量的数据是从那时开始出现的。",
+    "zh_hant": "嗯，那是因為高質量的資料是從那時開始出現的。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "The most accurate way that we measure sea temperatures at present is from satellites.",
     "start": 108.765,
     "end": 113.927,
-    "zh": "目前我们测量海水温度最准确的方式是通过卫星。",
-    "zh_hant": "目前我們測量海水溫度最準確的方式是透過衛星。"
+    "zh": "目前我们测量海温最准确的方法是来自卫星。",
+    "zh_hant": "目前我們測量海溫最準確的方法是來自衛星。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "They give us high resolution and daily observations of the sea temperature.",
     "start": 113.687,
     "end": 117.969,
-    "zh": "它们提供高分辨率的每日海水温度观测数据。",
-    "zh_hant": "它們提供高解析度的每日海水溫度觀測資料。"
+    "zh": "它们提供高分辨率的海温每日观测数据。",
+    "zh_hant": "它們提供高解析度的海溫每日觀測資料。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "Satellites in space measuring the temperature of the sea might sound a bit barmy.",
     "start": 117.909,
     "end": 121.911,
-    "zh": "太空中的卫星测量海水温度听起来可能有点奇怪。",
-    "zh_hant": "太空中的衛星測量海水溫度聽起來可能有點奇怪。"
+    "zh": "太空中的卫星测量海洋温度听起来可能有点荒谬。",
+    "zh_hant": "太空中的衛星測量海洋溫度聽起來可能有點荒謬。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "Basically, everything emits infrared radiation according to its temperature,",
     "start": 122.032,
     "end": 126.213,
-    "zh": "基本上，所有物体都根据其温度发射红外辐射，",
-    "zh_hant": "基本上，所有物體都根據其溫度發射紅外輻射，"
+    "zh": "基本上，每种物体都会根据其温度发射红外辐射，",
+    "zh_hant": "基本上，每種物體都會根據其溫度發射紅外輻射，"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "which a sensor on a satellite can, well, sense.",
     "start": 126.074,
     "end": 130.055,
-    "zh": "卫星上的传感器可以，嗯，感知到这种辐射。",
-    "zh_hant": "衛星上的感測器可以，嗯，感知到這種輻射。"
+    "zh": "而卫星上的传感器可以，嗯，感知到这些辐射。",
+    "zh_hant": "而衛星上的感測器可以，嗯，感知到這些輻射。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "But one of the limitations is that they've actually only been up there since the 1980s.",
     "start": 130.035,
     "end": 135.058,
-    "zh": "但局限之一是，卫星实际上从1980年代才开始投入使用。",
-    "zh_hant": "但侷限之一是，衛星實際上從1980年代才開始投入使用。"
+    "zh": "但其中一个局限是，它们其实从1980年代才开始在太空中运行。",
+    "zh_hant": "但其中一個侷限是，它們其實從1980年代才開始在太空中執行。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "Another limitation of satellite observations is that they only measure the temperature of the sea surface.",
     "start": 134.898,
     "end": 140.54,
-    "zh": "卫星观测的另一个局限是，它们只测量海表温度。",
-    "zh_hant": "衛星觀測的另一個侷限是，它們只測量海表溫度。"
+    "zh": "卫星观测的另一个局限是它们只测量海洋表面的温度。",
+    "zh_hant": "衛星觀測的另一個侷限是它們只測量海洋表面的溫度。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "It roughly represents that kind of top centimetres to metres kind of scale.",
     "start": 140.38,
     "end": 146.443,
-    "zh": "这大致代表了从顶部几厘米到几米的范围。",
-    "zh_hant": "這大致代表了從頂部幾釐米到幾米的範圍。"
+    "zh": "这大致代表顶层几厘米到几米的范围。",
+    "zh_hant": "這大致代表頂層幾釐米到幾米的範圍。"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "This top layer of the sea is warmer than the depths, particularly if it's not stirred up too much by waves and storms.",
     "start": 146.303,
     "end": 152.526,
-    "zh": "海洋的表层比深处更温暖，尤其是当它没有被波浪和风暴搅动太多的时候。",
-    "zh_hant": "海洋的表層比深處更溫暖，尤其是當它沒有被波浪和風暴攪動太多的時候。"
+    "zh": "海洋的这层顶层比深层更温暖，特别是当它没有被波浪和风暴搅动太多的时候。",
+    "zh_hant": "海洋的這層頂層比深層更溫暖，特別是當它沒有被波浪和風暴攪動太多的時候。"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "This dataset has the advantage of always measuring the same thing, and the trend is clear.",
     "start": 152.486,
     "end": 157.669,
-    "zh": "这个数据集的好处是始终测量同一对象，趋势也很清晰。",
-    "zh_hant": "這個資料集的好處是始終測量同一物件，趨勢也很清晰。"
+    "zh": "这个数据集的优点是它总是测量相同的东西，而且趋势是清晰的。",
+    "zh_hant": "這個資料集的優點是它總是測量相同的東西，而且趨勢是清晰的。"
   },
   {
-    "index": 35,
-    "text": "The last four years, in fact, have also been the warmest on record in the Mediterranean",
+    "index": 32,
+    "text": "The last four years, in fact, have also been the warmest on record in the Mediterranean on this satellite record.",
     "start": 157.609,
-    "end": 162.912,
-    "zh": "事实上，过去四年也是地中海有记录以来最热的年份",
-    "zh_hant": "事實上，過去四年也是地中海有記錄以來最熱的年份"
-  },
-  {
-    "index": 36,
-    "text": "on this satellite record.",
-    "start": 162.752,
     "end": 164.292,
-    "zh": "根据这份卫星记录。",
-    "zh_hant": "根據這份衛星記錄。"
+    "zh": "事实上，在卫星记录中，过去四年也是地中海最温暖的年份。",
+    "zh_hant": "事實上，在衛星記錄中，過去四年也是地中海最溫暖的年份。"
   },
   {
-    "index": 37,
-    "text": "And each of those four years have been about one and a half degrees hotter",
+    "index": 33,
+    "text": "And each of those four years have been about one and a half degrees hotter than this 1985 to 2005 mean.",
     "start": 164.333,
-    "end": 168.154,
-    "zh": "这四年中每一年都比1985年到2005年的平均值",
-    "zh_hant": "這四年中每一年都比1985年到2005年的平均值"
-  },
-  {
-    "index": 38,
-    "text": "than this 1985 to 2005 mean.",
-    "start": 168.055,
     "end": 171.436,
-    "zh": "高出约1.5度。",
-    "zh_hant": "高出約1.5度。"
+    "zh": "而且这四年中的每一年都比1985年至2005年的平均值高出约一度半。",
+    "zh_hant": "而且這四年中的每一年都比1985年至2005年的平均值高出約一度半。"
   },
   {
-    "index": 39,
+    "index": 34,
     "text": "So it's been hot, and it's getting hotter.",
     "start": 171.316,
     "end": 175.358,
@@ -320,23 +280,23 @@
     "zh_hant": "所以天氣一直很熱，而且越來越熱。"
   },
   {
-    "index": 40,
+    "index": 35,
     "text": "So that's the big picture.",
     "start": 175.398,
     "end": 177.239,
-    "zh": "这就是大背景。",
-    "zh_hant": "這就是大背景。"
+    "zh": "这是宏观的情况。",
+    "zh_hant": "這是宏觀的情況。"
   },
   {
-    "index": 41,
+    "index": 36,
     "text": "Let's get to the one in two hundred sixteen billion year anomaly thing.",
     "start": 177.139,
     "end": 181.881,
-    "zh": "现在让我们来看看那个二万一千六百亿年一遇的异常说法。",
-    "zh_hant": "現在讓我們來看看那個二萬一千六百億年一遇的異常說法。"
+    "zh": "现在让我们来看看那两万一千六百亿年一遇的异常问题。",
+    "zh_hant": "現在讓我們來看看那兩萬一千六百億年一遇的異常問題。"
   },
   {
-    "index": 42,
+    "index": 37,
     "text": "As with Jules's initial comparison,",
     "start": 183.962,
     "end": 186.123,
@@ -344,7 +304,7 @@
     "zh_hant": "和朱爾斯最初的比較一樣，"
   },
   {
-    "index": 43,
+    "index": 38,
     "text": "the temperature anomaly we think they're talking about in the Twitter post",
     "start": 185.923,
     "end": 189.765,
@@ -352,63 +312,47 @@
     "zh_hant": "我們認為推特帖子中提到的溫度異常"
   },
   {
-    "index": 44,
+    "index": 39,
     "text": "is worked out by figuring out the difference in temperature on certain dates this summer",
     "start": 189.445,
     "end": 194.247,
-    "zh": "是通过计算今年夏天某些日期的温度差异得出的，",
-    "zh_hant": "是透過計算今年夏天某些日期的溫度差異得出的，"
+    "zh": "是通过计算今年夏天某些日期的温差得出的，",
+    "zh_hant": "是透過計算今年夏天某些日期的溫差得出的，"
   },
   {
-    "index": 45,
-    "text": "compared to those average temperatures",
+    "index": 40,
+    "text": "compared to those average temperatures between nineteen eighty-five and two thousand five.",
     "start": 194.167,
-    "end": 196.328,
-    "zh": "与那些平均温度相比较，",
-    "zh_hant": "與那些平均溫度相比較，"
-  },
-  {
-    "index": 46,
-    "text": "between nineteen eighty-five and two thousand five.",
-    "start": 195.978,
     "end": 200.05,
-    "zh": "即1985年到2005年之间的平均值。",
-    "zh_hant": "即1985年到2005年之間的平均值。"
+    "zh": "与1985年至2005年之间的平均温度相比较。",
+    "zh_hant": "與1985年至2005年之間的平均溫度相比較。"
   },
   {
-    "index": 47,
+    "index": 41,
     "text": "I say \"we think\" because much of this is not totally clear from the Twitter post.",
     "start": 199.7,
     "end": 204.913,
-    "zh": "我说“我们认为”是因为帖子中很多内容并不完全清楚。",
-    "zh_hant": "我說“我們認為”是因為帖子中很多內容並不完全清楚。"
+    "zh": "我说“我们认为”是因为推特帖子中很多东西并不完全清楚。",
+    "zh_hant": "我說“我們認為”是因為推特帖子中很多東西並不完全清楚。"
   },
   {
-    "index": 48,
+    "index": 42,
     "text": "We've tried to get in touch with the account, but no one's got back to us.",
     "start": 204.953,
     "end": 208.795,
-    "zh": "我们试图联系那个账号，但没有人回复我们。",
-    "zh_hant": "我們試圖聯絡那個賬號，但沒有人回覆我們。"
+    "zh": "我们尝试联系该账号，但没有人回复我们。",
+    "zh_hant": "我們嘗試聯絡該賬號，但沒有人回覆我們。"
   },
   {
-    "index": 49,
-    "text": "Anyway, The big difference is that the temperature anomalies are for specific locations in the Mediterranean",
+    "index": 43,
+    "text": "Anyway, The big difference is that the temperature anomalies are for specific locations in the Mediterranean Sea,",
     "start": 209.015,
-    "end": 215.398,
-    "zh": "不管怎样，最大的区别在于温度异常是针对地中海的特定位置的，",
-    "zh_hant": "不管怎樣，最大的區別在於溫度異常是針對地中海的特定位置的，"
-  },
-  {
-    "index": 50,
-    "text": "Sea,",
-    "start": 215.078,
     "end": 215.838,
-    "zh": "海域，",
-    "zh_hant": "海域，"
+    "zh": "总之，最大的区别在于温度异常是针对地中海特定地点的，",
+    "zh_hant": "總之，最大的區別在於溫度異常是針對地中海特定地點的，"
   },
   {
-    "index": 51,
+    "index": 44,
     "text": "not the whole thing.",
     "start": 215.879,
     "end": 217.819,
@@ -416,15 +360,15 @@
     "zh_hant": "而不是整個地中海。"
   },
   {
-    "index": 52,
+    "index": 45,
     "text": "Technically, that means that the statistical calculations only apply to these specific locations too,",
     "start": 217.86,
     "end": 224.322,
-    "zh": "从技术上讲，这意味着统计计算也只适用于这些特定位置，",
-    "zh_hant": "從技術上講，這意味著統計計算也只適用於這些特定位置，"
+    "zh": "从技术上讲，这意味着统计计算也只适用于这些特定地点，",
+    "zh_hant": "從技術上講，這意味著統計計算也只適用於這些特定地點，"
   },
   {
-    "index": 53,
+    "index": 46,
     "text": "not the whole Med.",
     "start": 224.443,
     "end": 226.303,
@@ -432,111 +376,95 @@
     "zh_hant": "而不是整個地中海。"
   },
   {
-    "index": 54,
-    "text": "The temperature anomalies that we have seen, particularly in early July,",
+    "index": 47,
+    "text": "The temperature anomalies that we have seen,",
     "start": 226.204,
-    "end": 230.666,
-    "zh": "我们看到的温度异常，特别是在7月初，",
-    "zh_hant": "我們看到的溫度異常，特別是在7月初，"
+    "end": 228.725,
+    "zh": "我们看到的温度异常，",
+    "zh_hant": "我們看到的溫度異常，"
   },
   {
-    "index": 55,
-    "text": "were about five or even up to eight degrees in some places.",
-    "start": 230.666,
+    "index": 48,
+    "text": "particularly in early July, were about five or even up to eight degrees in some places.",
+    "start": 228.865,
     "end": 236.068,
-    "zh": "在某些地方约为5度，甚至高达8度。",
-    "zh_hant": "在某些地方約為5度，甚至高達8度。"
+    "zh": "尤其是在七月初，有些地方大约高出五度甚至高达八度。",
+    "zh_hant": "尤其是在七月初，有些地方大約高出五度甚至高達八度。"
   },
   {
-    "index": 56,
+    "index": 49,
     "text": "So that means that five to eight degrees warmer than at that time of year,",
     "start": 236.008,
     "end": 241.471,
-    "zh": "这意味着比那个时间点的正常温度高出5到8度，",
-    "zh_hant": "這意味著比那個時間點的正常溫度高出5到8度，"
+    "zh": "这意味比该年同期高出五到八度，",
+    "zh_hant": "這意味比該年同期高出五到八度，"
   },
   {
-    "index": 57,
+    "index": 50,
     "text": "going back to the reference period, in the quiet waters off the south coast.",
     "start": 241.432,
     "end": 245.894,
-    "zh": "回到参考时期，在南海岸的平静水域中。",
-    "zh_hant": "回到參考時期，在南海岸的平靜水域中。"
+    "zh": "与参考期相比，在南海岸平静的水域中。",
+    "zh_hant": "與參考期相比，在南海岸平靜的水域中。"
   },
   {
-    "index": 58,
-    "text": "Of France, between Spain and Italy, the sea temperatures reached 27.7 degrees",
+    "index": 51,
+    "text": "Of France, between Spain and Italy, the sea temperatures reached 27.7 degrees centigrade in early July,",
     "start": 245.544,
-    "end": 251.296,
-    "zh": "在西班牙和意大利之间的法国南部海岸，7月初的海水温度达到了27.7度",
-    "zh_hant": "在西班牙和義大利之間的法國南部海岸，7月初的海水溫度達到了27.7度"
-  },
-  {
-    "index": 59,
-    "text": "centigrade in early July,",
-    "start": 250.946,
     "end": 252.917,
-    "zh": "摄氏度，",
-    "zh_hant": "攝氏度，"
+    "zh": "在法国南部、西班牙和意大利之间，七月初海水温度达到了27.7摄氏度，",
+    "zh_hant": "在法國南部、西班牙和義大利之間，七月初海水溫度達到了27.7攝氏度，"
   },
   {
-    "index": 60,
+    "index": 52,
     "text": "when the average from 1985 to 2005 was more like 20.",
     "start": 252.837,
     "end": 257.189,
-    "zh": "而1985年到2005年的平均值大约是20度。",
-    "zh_hant": "而1985年到2005年的平均值大約是20度。"
+    "zh": "而1985年至2005年的平均温度大约是20度。",
+    "zh_hant": "而1985年至2005年的平均溫度大約是20度。"
   },
   {
-    "index": 61,
+    "index": 53,
     "text": "Twenty-eight degrees is hot, around as hot as a heated swimming pool for adults.",
     "start": 256.789,
     "end": 262.882,
-    "zh": "28度很热，大约相当于成人的温水游泳池。",
-    "zh_hant": "28度很熱，大約相當於成人的溫水游泳池。"
+    "zh": "28度很热，差不多和成人加热游泳池一样热。",
+    "zh_hant": "28度很熱，差不多和成人加熱游泳池一樣熱。"
   },
   {
-    "index": 62,
+    "index": 54,
     "text": "Although, just to be clear, the Med does get hotter.",
     "start": 262.862,
     "end": 265.983,
-    "zh": "不过，需要说明的是，地中海确实会变得更热。",
-    "zh_hant": "不過，需要說明的是，地中海確實會變得更熱。"
+    "zh": "虽然，需要明确的是，地中海确实会更热。",
+    "zh_hant": "雖然，需要明確的是，地中海確實會更熱。"
   },
   {
-    "index": 63,
-    "text": "Surprisingly, these anomalies are actually just short of breaking",
+    "index": 55,
+    "text": "Surprisingly, these anomalies are actually just short of breaking the record in terms of absolute temperatures.",
     "start": 265.984,
-    "end": 270.666,
-    "zh": "令人惊讶的是，这些异常实际上只差一点就打破",
-    "zh_hant": "令人驚訝的是，這些異常實際上只差一點就打破"
-  },
-  {
-    "index": 64,
-    "text": "the record in terms of absolute temperatures.",
-    "start": 270.506,
     "end": 272.987,
-    "zh": "了绝对温度的记录。",
-    "zh_hant": "了絕對溫度的記錄。"
+    "zh": "令人惊讶的是，这些异常在绝对温度方面实际上几乎还没有打破纪录。",
+    "zh_hant": "令人驚訝的是，這些異常在絕對溫度方面實際上幾乎還沒有打破紀錄。"
   },
   {
-    "index": 65,
+    "index": 56,
     "text": "So because early July isn't actually the hottest time of year in the Mediterranean,",
     "start": 273.307,
     "end": 278.489,
-    "zh": "所以因为7月初并不是地中海一年中最热的时候，",
-    "zh_hant": "所以因為7月初並不是地中海一年中最熱的時候，"
+    "zh": "所以因为七月初实际上不是地中海一年中最热的时候，",
+    "zh_hant": "所以因為七月初實際上不是地中海一年中最熱的時候，"
   },
   {
-    "index": 66,
+    "index": 57,
     "text": "even though they're the hottest anomalies, they don't correspond with the hottest absolute temperature.",
     "start": 278.29,
     "end": 283.372,
-    "zh": "即使它们是最热的异常，也不对应于最热的绝对温度。",
-    "zh_hant": "即使它們是最熱的異常，也不對應於最熱的絕對溫度。"
+    "zh": "即使它们是最高的异常，它们并不对应最高的绝对温度。",
+    "zh_hant": "即使它們是最高的異常，它們並不對應最高的絕對溫度。"
   },
   {
-    "index": 67,
+    "index": 58,
     "text": "But actually, the record temperatures in the Mediterranean,",
     "start": 283.513,
     "end": 286.654,
@@ -544,7 +472,7 @@
     "zh_hant": "但實際上，地中海的創紀錄溫度，"
   },
   {
-    "index": 68,
+    "index": 59,
     "text": "which were in excess of 31 degrees in some places in absolute terms,",
     "start": 286.474,
     "end": 290.976,
@@ -552,79 +480,55 @@
     "zh_hant": "在某些地方絕對溫度超過31度，"
   },
   {
-    "index": 69,
+    "index": 60,
     "text": "occurred during 2024, so also very recently.",
     "start": 290.796,
     "end": 294.418,
-    "zh": "发生在2024年，所以也是最近的事情。",
-    "zh_hant": "發生在2024年，所以也是最近的事情。"
+    "zh": "发生在2024年，所以也是最近的事。",
+    "zh_hant": "發生在2024年，所以也是最近的事。"
   },
   {
-    "index": 70,
-    "text": "Anyway, back to the sea temperature anomaly being a one in many multiple times longer than the age of the universe",
+    "index": 61,
+    "text": "Anyway, back to the sea temperature anomaly being a one in many multiple times longer than the age of the universe event.",
     "start": 294.398,
-    "end": 300.641,
-    "zh": "好了，回到那个海水温度异常是宇宙年龄许多倍一遇的事件",
-    "zh_hant": "好了，回到那個海水溫度異常是宇宙年齡許多倍一遇的事件"
-  },
-  {
-    "index": 71,
-    "text": "event.",
-    "start": 300.421,
     "end": 301.281,
-    "zh": "的话题。",
-    "zh_hant": "的話題。"
+    "zh": "不管怎样，回到海温异常是宇宙年龄很多倍一遇的事件这个问题。",
+    "zh_hant": "不管怎樣，回到海溫異常是宇宙年齡很多倍一遇的事件這個問題。"
   },
   {
-    "index": 72,
-    "text": "Jules thinks he's managed to reverse engineer the calculations that ends up",
+    "index": 62,
+    "text": "Jules thinks he's managed to reverse engineer the calculations that ends up at that absurd conclusion.",
     "start": 301.661,
-    "end": 306.344,
-    "zh": "朱尔斯认为他成功还原了导致那个",
-    "zh_hant": "朱爾斯認為他成功還原了導致那個"
-  },
-  {
-    "index": 73,
-    "text": "at that absurd conclusion.",
-    "start": 306.164,
     "end": 308.224,
-    "zh": "荒谬结论的计算过程。",
-    "zh_hant": "荒謬結論的計算過程。"
+    "zh": "朱尔斯认为他设法逆向工程出了导致那个荒谬结论的计算过程。",
+    "zh_hant": "朱爾斯認為他設法逆向工程出了導致那個荒謬結論的計算過程。"
   },
   {
-    "index": 74,
+    "index": 63,
     "text": "So it does sound a little bit wild,",
     "start": 308.205,
     "end": 310.506,
-    "zh": "所以这听起来确实有点疯狂，",
-    "zh_hant": "所以這聽起來確實有點瘋狂，"
+    "zh": "这听起来确实有点离谱，",
+    "zh_hant": "這聽起來確實有點離譜，"
   },
   {
-    "index": 75,
-    "text": "but I've done some analysis of the recent Mediterranean temperatures",
+    "index": 64,
+    "text": "but I've done some analysis of the recent Mediterranean temperatures to try to get some understanding of where this number might have come from.",
     "start": 310.206,
-    "end": 314.387,
-    "zh": "但我对最近的地中海温度做了一些分析，",
-    "zh_hant": "但我對最近的地中海溫度做了一些分析，"
-  },
-  {
-    "index": 76,
-    "text": "to try to get some understanding of where this number might have come from.",
-    "start": 314.037,
     "end": 317.429,
-    "zh": "试图理解这个数字可能从何而来。",
-    "zh_hant": "試圖理解這個數字可能從何而來。"
+    "zh": "但我对最近地中海温度做了一些分析，试图理解这个数字可能来自哪里。",
+    "zh_hant": "但我對最近地中海溫度做了一些分析，試圖理解這個數字可能來自哪裡。"
   },
   {
-    "index": 77,
+    "index": 65,
     "text": "I had to make some guesses about the methodology that they used.",
     "start": 317.289,
     "end": 320.671,
-    "zh": "我不得不在他们使用的方法上做一些猜测。",
-    "zh_hant": "我不得不在他們使用的方法上做一些猜測。"
+    "zh": "我不得不对他们使用的方法做一些猜测。",
+    "zh_hant": "我不得不對他們使用的方法做一些猜測。"
   },
   {
-    "index": 78,
+    "index": 66,
     "text": "Okay, belt up, we're heading into Statsland.",
     "start": 320.431,
     "end": 323.893,
@@ -632,95 +536,71 @@
     "zh_hant": "好了，繫好安全帶，我們要進入統計王國了。"
   },
   {
-    "index": 79,
-    "text": "The first step in this calculation is to work out the probability",
+    "index": 67,
+    "text": "The first step in this calculation is to work out the probability of any one of these sea temperature anomalies taking place.",
     "start": 327.355,
-    "end": 330.896,
-    "zh": "这个计算的第一步是算出这些海水温度异常",
-    "zh_hant": "這個計算的第一步是算出這些海水溫度異常"
-  },
-  {
-    "index": 80,
-    "text": "of any one of these sea temperature anomalies taking place.",
-    "start": 330.676,
     "end": 334.278,
-    "zh": "中任何一个发生的概率。",
-    "zh_hant": "中任何一個發生的機率。"
+    "zh": "这个计算的第一步是算出任何一个海温异常发生的概率。",
+    "zh_hant": "這個計算的第一步是算出任何一個海溫異常發生的機率。"
   },
   {
-    "index": 81,
-    "text": "So if you were to take all of the temperature anomalies from every day",
+    "index": 68,
+    "text": "So if you were to take all of the temperature anomalies from every day over some period of time,",
     "start": 334.258,
-    "end": 339.16,
-    "zh": "如果你把某一段时间内每一天的所有温度异常",
-    "zh_hant": "如果你把某一段時間內每一天的所有溫度異常"
-  },
-  {
-    "index": 82,
-    "text": "over some period of time,",
-    "start": 338.96,
     "end": 340.881,
-    "zh": "都拿出来，",
-    "zh_hant": "都拿出來，"
+    "zh": "所以如果你要取某一段时间内每一天的所有温度异常，",
+    "zh_hant": "所以如果你要取某一段時間內每一天的所有溫度異常，"
   },
   {
-    "index": 83,
+    "index": 69,
     "text": "maybe it's that 20-year reference period that I mentioned,",
     "start": 340.531,
     "end": 343.802,
-    "zh": "也许就是我提到的那个20年参考期，",
-    "zh_hant": "也許就是我提到的那個20年參考期，"
+    "zh": "也许是我提到的那个20年参考期，",
+    "zh_hant": "也許是我提到的那個20年參考期，"
   },
   {
-    "index": 84,
+    "index": 70,
     "text": "and then you count up the anomalies that fit into particular bins,",
     "start": 343.823,
     "end": 349.745,
-    "zh": "然后你计算出适合特定区间的异常数量，",
-    "zh_hant": "然後你計算出適合特定區間的異常數量，"
+    "zh": "然后你计算适合特定区间的异常数量，",
+    "zh_hant": "然後你計算適合特定區間的異常數量，"
   },
   {
-    "index": 85,
+    "index": 71,
     "text": "say between zero and one degree, 1 degree and 2 degrees,",
     "start": 349.425,
     "end": 353.427,
-    "zh": "比如0到1度之间，1度到2度之间，",
-    "zh_hant": "比如0到1度之間，1度到2度之間，"
+    "zh": "比如0到1度之间、1度到2度之间、",
+    "zh_hant": "比如0到1度之間、1度到2度之間、"
   },
   {
-    "index": 86,
+    "index": 72,
     "text": "2 degrees and 3 degrees, and then on the negative side as well.",
     "start": 353.06,
     "end": 356.689,
-    "zh": "2度到3度之间，负值方面也是如此。",
-    "zh_hant": "2度到3度之間，負值方面也是如此。"
+    "zh": "2度到3度之间，以及负值方面也是如此。",
+    "zh_hant": "2度到3度之間，以及負值方面也是如此。"
   },
   {
-    "index": 87,
+    "index": 73,
     "text": "So you can Have negative anomalies between 0 and minus 1, minus 1 and minus 2, and so on.",
     "start": 356.889,
     "end": 362.392,
-    "zh": "所以你可以有0到负1度、负1度到负2度等负异常。",
-    "zh_hant": "所以你可以有0到負1度、負1度到負2度等負異常。"
+    "zh": "所以可以有0到负1之间的负异常，负1到负2之间，等等。",
+    "zh_hant": "所以可以有0到負1之間的負異常，負1到負2之間，等等。"
   },
   {
-    "index": 88,
-    "text": "So if you put all of those anomalies into the relative bins",
+    "index": 74,
+    "text": "So if you put all of those anomalies into the relative bins and then count the number of anomalies that you have in each bin,",
     "start": 362.272,
-    "end": 366.134,
-    "zh": "如果你把所有这些异常放入相应的区间中，",
-    "zh_hant": "如果你把所有這些異常放入相應的區間中，"
-  },
-  {
-    "index": 89,
-    "text": "and then count the number of anomalies that you have in each bin,",
-    "start": 366.154,
     "end": 369.635,
-    "zh": "然后计算每个区间中的异常数量，",
-    "zh_hant": "然後計算每個區間中的異常數量，"
+    "zh": "所以如果将所有异常放入相应的区间，然后计算每个区间中的异常数量，",
+    "zh_hant": "所以如果將所有異常放入相應的區間，然後計算每個區間中的異常數量，"
   },
   {
-    "index": 90,
+    "index": 75,
     "text": "you can then fit essentially a curve to that data.",
     "start": 369.696,
     "end": 373.477,
@@ -728,47 +608,47 @@
     "zh_hant": "你就可以基本上給這些資料擬合一條曲線。"
   },
   {
-    "index": 91,
+    "index": 76,
     "text": "The curve that fits the data points will tell you how likely any future events are.",
     "start": 373.478,
     "end": 378.14,
-    "zh": "拟合数据点的曲线会告诉你任何未来事件的可能性有多大。",
-    "zh_hant": "擬合資料點的曲線會告訴你任何未來事件的可能性有多大。"
+    "zh": "拟合数据点的曲线会告诉你未来任何事件发生的可能性。",
+    "zh_hant": "擬合資料點的曲線會告訴你未來任何事件發生的可能性。"
   },
   {
-    "index": 92,
+    "index": 77,
     "text": "If the context stays the same, one of the simplest ways that you can fit a curve to that,",
     "start": 378.44,
     "end": 384.323,
-    "zh": "如果背景保持不变，拟合曲线的一个最简单方法，",
-    "zh_hant": "如果背景保持不變，擬合曲線的一個最簡單方法，"
+    "zh": "如果背景保持不变，拟合曲线的最简单方法之一，",
+    "zh_hant": "如果背景保持不變，擬合曲線的最簡單方法之一，"
   },
   {
-    "index": 93,
+    "index": 78,
     "text": "and actually a fit that works for a lot of data samples, is what's called a Gaussian.",
     "start": 383.973,
     "end": 389.505,
-    "zh": "实际上对很多数据样本都适用的拟合方法，就是所谓的高斯分布。",
-    "zh_hant": "實際上對很多資料樣本都適用的擬合方法，就是所謂的高斯分佈。"
+    "zh": "而且实际上对许多数据样本都适用的拟合方法，就是所谓的高斯分布。",
+    "zh_hant": "而且實際上對許多資料樣本都適用的擬合方法，就是所謂的高斯分佈。"
   },
   {
-    "index": 94,
+    "index": 79,
     "text": "So one of the things that's really nice about a Gaussian distribution is that it can be described",
     "start": 389.585,
     "end": 395.168,
-    "zh": "高斯分布的一个很好的特点是它可以用两个数字",
-    "zh_hant": "高斯分佈的一個很好的特點是它可以用兩個數字"
+    "zh": "高斯分布的一个很棒的方面是它可以用",
+    "zh_hant": "高斯分佈的一個很棒的方面是它可以用"
   },
   {
-    "index": 95,
+    "index": 80,
     "text": "statistically with only two numbers.",
     "start": 395.388,
     "end": 397.989,
-    "zh": "进行统计描述。",
-    "zh_hant": "進行統計描述。"
+    "zh": "两个数字来进行统计描述。",
+    "zh_hant": "兩個數字來進行統計描述。"
   },
   {
-    "index": 96,
+    "index": 81,
     "text": "One is the mean, so that's where the peak of the Gaussian lies,",
     "start": 398.07,
     "end": 402.352,
@@ -776,7 +656,7 @@
     "zh_hant": "一個是均值，也就是高斯分佈峰值所在的位置，"
   },
   {
-    "index": 97,
+    "index": 82,
     "text": "and then the other is the standard deviation.",
     "start": 402.412,
     "end": 405.173,
@@ -784,71 +664,63 @@
     "zh_hant": "另一個是標準差。"
   },
   {
-    "index": 98,
+    "index": 83,
     "text": "And essentially, the standard deviation describes the region within.",
     "start": 405.134,
     "end": 409.155,
-    "zh": "基本上，标准差描述了数据分布的区域。",
-    "zh_hant": "基本上，標準差描述了資料分佈的區域。"
+    "zh": "基本上，标准差描述了大约三分之一数据",
+    "zh_hant": "基本上，標準差描述了大約三分之一資料"
   },
   {
-    "index": 99,
+    "index": 84,
     "text": "Which about a third of the data lies.",
     "start": 408.805,
     "end": 411.356,
-    "zh": "大约三分之一的数据位于其中。",
-    "zh_hant": "大約三分之一的資料位於其中。"
+    "zh": "所在的区域。",
+    "zh_hant": "所在的區域。"
   },
   {
-    "index": 100,
-    "text": "A normal or Gaussian distribution follows specific mathematical rules,",
+    "index": 85,
+    "text": "A normal or Gaussian distribution follows specific mathematical rules, which mean that if you collect new data,",
     "start": 411.437,
-    "end": 416.179,
-    "zh": "正态或高斯分布遵循特定的数学规则，",
-    "zh_hant": "正態或高斯分佈遵循特定的數學規則，"
-  },
-  {
-    "index": 101,
-    "text": "which mean that if you collect new data,",
-    "start": 416.059,
     "end": 418.64,
-    "zh": "这意味着如果你收集新数据，",
-    "zh_hant": "這意味著如果你收集新資料，"
+    "zh": "正态分布或高斯分布遵循特定的数学规则，这意味着如果你收集新数据，",
+    "zh_hant": "正態分佈或高斯分佈遵循特定的數學規則，這意味著如果你收集新資料，"
   },
   {
-    "index": 102,
-    "text": "you can calculate how probable those events are by working out how many",
+    "index": 86,
+    "text": "you can calculate how probable those events are by working out how many standard deviations",
     "start": 418.42,
-    "end": 423.182,
-    "zh": "你可以通过计算这些事件偏离均值或平均值的标准差数量",
-    "zh_hant": "你可以透過計算這些事件偏離均值或平均值的標準差數量"
+    "end": 424.883,
+    "zh": "你可以通过计算它们距离均值或平均值有多少个标准差",
+    "zh_hant": "你可以透過計算它們距離均值或平均值有多少個標準差"
   },
   {
-    "index": 103,
-    "text": "standard deviations they are from the mean, or average.",
-    "start": 423.022,
+    "index": 87,
+    "text": "they are from the mean, or average.",
+    "start": 424.533,
     "end": 426.964,
-    "zh": "来估算它们的概率。",
-    "zh_hant": "來估算它們的機率。"
+    "zh": "来计算这些事件的可能性。",
+    "zh_hant": "來計算這些事件的可能性。"
   },
   {
-    "index": 104,
-    "text": "When he did that analysis with the Mediterranean heat anomaly in July, hey presto,",
+    "index": 88,
+    "text": "When he did that analysis with the Mediterranean heat anomaly in July,",
     "start": 427.264,
-    "end": 431.886,
-    "zh": "当他用7月份的地中海热异常做这种分析时，瞧，",
-    "zh_hant": "當他用7月份的地中海熱異常做這種分析時，瞧，"
+    "end": 431.066,
+    "zh": "当他用七月份的地中海热异常进行那项分析时，",
+    "zh_hant": "當他用七月份的地中海熱異常進行那項分析時，"
   },
   {
-    "index": 105,
-    "text": "Jules came out with similarly massive numbers.",
-    "start": 432.007,
+    "index": 89,
+    "text": "hey presto, Jules came out with similarly massive numbers.",
+    "start": 430.906,
     "end": 434.848,
-    "zh": "朱尔斯也得出了类似的巨大数字。",
-    "zh_hant": "朱爾斯也得出了類似的巨大數字。"
+    "zh": "嘿，真神奇，朱尔斯得出了类似巨大的数字。",
+    "zh_hant": "嘿，真神奇，朱爾斯得出了類似巨大的數字。"
   },
   {
-    "index": 106,
+    "index": 90,
     "text": "But there's a catch.",
     "start": 435.228,
     "end": 436.489,
@@ -856,31 +728,31 @@
     "zh_hant": "但有一個問題。"
   },
   {
-    "index": 107,
+    "index": 91,
     "text": "Turns out that actually the Mediterranean doesn't follow a normal distribution quite so well.",
     "start": 436.369,
     "end": 442.272,
-    "zh": "事实证明，地中海并不完全符合正态分布。",
-    "zh_hant": "事實證明，地中海並不完全符合正態分佈。"
+    "zh": "事实证明，地中海实际上并不那么符合正态分布。",
+    "zh_hant": "事實證明，地中海實際上並不那麼符合正態分佈。"
   },
   {
-    "index": 108,
-    "text": "The method the Twitterer used to calculate this number doesn't actually",
+    "index": 92,
+    "text": "The method the Twitterer used to calculate this number doesn't actually match",
     "start": 442.372,
-    "end": 446.714,
-    "zh": "那个推特用户用来计算这个数字的方法实际上并不",
-    "zh_hant": "那個推特使用者用來計算這個數字的方法實際上並不"
+    "end": 447.355,
+    "zh": "那位推特用户用来计算这个数字的方法实际上并不匹配",
+    "zh_hant": "那位推特使用者用來計算這個數字的方法實際上並不匹配"
   },
   {
-    "index": 109,
-    "text": "match the likelihood of observing different sea temperatures between 1985 and 2005.",
-    "start": 446.474,
+    "index": 93,
+    "text": "the likelihood of observing different sea temperatures between 1985 and 2005.",
+    "start": 447.005,
     "end": 452.928,
-    "zh": "符合1985年到2005年间观测不同海水温度的可能性。",
-    "zh_hant": "符合1985年到2005年間觀測不同海水溫度的可能性。"
+    "zh": "1985年至2005年间观测到的不同海温的可能性。",
+    "zh_hant": "1985年至2005年間觀測到的不同海溫的可能性。"
   },
   {
-    "index": 110,
+    "index": 94,
     "text": "When Jules applied some statistical techniques to better match the actual distribution,",
     "start": 452.978,
     "end": 458.06,
@@ -888,7 +760,7 @@
     "zh_hant": "當朱爾斯應用一些統計技術來更好地匹配實際分佈時，"
   },
   {
-    "index": 111,
+    "index": 95,
     "text": "he came up with a very different number.",
     "start": 458.16,
     "end": 460.501,
@@ -896,63 +768,47 @@
     "zh_hant": "他得出了一個非常不同的數字。"
   },
   {
-    "index": 112,
+    "index": 96,
     "text": "I've done some calculations with a more refined statistical approach,",
     "start": 460.361,
     "end": 464.843,
-    "zh": "我用更精细的统计方法做了一些计算，",
-    "zh_hant": "我用更精細的統計方法做了一些計算，"
+    "zh": "我用一种更精细的统计方法做了一些计算，",
+    "zh_hant": "我用一種更精細的統計方法做了一些計算，"
   },
   {
-    "index": 113,
-    "text": "and I would actually estimate that a better value puts the return period on these temperature anomalies",
+    "index": 97,
+    "text": "and I would actually estimate that a better value puts the return period on these temperature anomalies at more.",
     "start": 464.823,
-    "end": 470.726,
-    "zh": "实际上我会估计，一个更好的值将这些温度异常的重现期定为",
-    "zh_hant": "實際上我會估計，一個更好的值將這些溫度異常的重現期定為"
-  },
-  {
-    "index": 114,
-    "text": "at more.",
-    "start": 470.376,
     "end": 471.446,
-    "zh": "大约",
-    "zh_hant": "大約"
+    "zh": "实际上我会估计一个更好的数值将这些温度异常的回归期定为更接近。",
+    "zh_hant": "實際上我會估計一個更好的數值將這些溫度異常的迴歸期定為更接近。"
   },
   {
-    "index": 115,
+    "index": 98,
     "text": "One to 2,000 years.",
     "start": 471.106,
     "end": 472.807,
-    "zh": "一到两千年。",
-    "zh_hant": "一到兩千年。"
+    "zh": "一至两千年。",
+    "zh_hant": "一至兩千年。"
   },
   {
-    "index": 116,
+    "index": 99,
     "text": "So, one in kind of 2,000 year events.",
     "start": 472.487,
     "end": 475.008,
-    "zh": "也就是说，大约两千年一遇的事件。",
-    "zh_hant": "也就是說，大約兩千年一遇的事件。"
+    "zh": "所以是大约两千年一遇的事件。",
+    "zh_hant": "所以是大約兩千年一遇的事件。"
   },
   {
-    "index": 117,
-    "text": "However, while the stats were not very good in that Twitter post,",
+    "index": 100,
+    "text": "However, while the stats were not very good in that Twitter post, the key point was not entirely wrong.",
     "start": 474.968,
-    "end": 478.87,
-    "zh": "然而，虽然那个推特帖子中的统计方法不太好，",
-    "zh_hant": "然而，雖然那個推特帖子中的統計方法不太好，"
-  },
-  {
-    "index": 118,
-    "text": "the key point was not entirely wrong.",
-    "start": 478.791,
     "end": 481.732,
-    "zh": "但核心观点并不是完全错误的。",
-    "zh_hant": "但核心觀點並不是完全錯誤的。"
+    "zh": "然而，尽管那条推特帖子的统计并不好，其关键点并非完全错误。",
+    "zh_hant": "然而，儘管那條推特帖子的統計並不好，其關鍵點並非完全錯誤。"
   },
   {
-    "index": 119,
+    "index": 101,
     "text": "If you assume that nothing is changing in the environment, i.e. zero climate change,",
     "start": 481.792,
     "end": 487.495,
@@ -960,71 +816,63 @@
     "zh_hant": "如果你假設環境沒有任何變化，即零氣候變化，"
   },
   {
-    "index": 120,
+    "index": 102,
     "text": "then the kind of water temperatures we saw in the Mediterranean this summer are extremely improbable.",
     "start": 487.495,
     "end": 493.798,
-    "zh": "那么我们今年夏天在地中海看到的那种水温是极其不太可能的。",
-    "zh_hant": "那麼我們今年夏天在地中海看到的那種水溫是極其不太可能的。"
+    "zh": "那么我们今年夏天在地中海看到的那种水温是极其不可能的。",
+    "zh_hant": "那麼我們今年夏天在地中海看到的那種水溫是極其不可能的。"
   },
   {
-    "index": 121,
-    "text": "Clearly, there's quite a big difference between one in 2,000 years, which I would have estimated,",
+    "index": 103,
+    "text": "Clearly, there's quite a big difference between one in 2,000 years, which I would have estimated, and one in 200 billion.",
     "start": 493.898,
-    "end": 499.0,
-    "zh": "显然，我估计的两千年一遇和两千亿年一遇之间",
-    "zh_hant": "顯然，我估計的兩千年一遇和兩千億年一遇之間"
-  },
-  {
-    "index": 122,
-    "text": "and one in 200 billion.",
-    "start": 498.86,
     "end": 500.561,
-    "zh": "有相当大的差距。",
-    "zh_hant": "有相當大的差距。"
+    "zh": "显然，我估计的两千年一遇和两千亿年一遇之间有很大区别。",
+    "zh_hant": "顯然，我估計的兩千年一遇和兩千億年一遇之間有很大區別。"
   },
   {
-    "index": 123,
+    "index": 104,
     "text": "But one in 1,000 or 2,000 years is still enormous.",
     "start": 500.461,
     "end": 504.443,
-    "zh": "但一千或两千年一遇仍然是非常巨大的。",
-    "zh_hant": "但一千或兩千年一遇仍然是非常巨大的。"
+    "zh": "但一千年或两千年一遇仍然是非常巨大的。",
+    "zh_hant": "但一千年或兩千年一遇仍然是非常巨大的。"
   },
   {
-    "index": 124,
+    "index": 105,
     "text": "So what does that actually mean?",
     "start": 504.093,
     "end": 505.604,
-    "zh": "那么这到底意味着什么呢？",
-    "zh_hant": "那麼這到底意味著什麼呢？"
+    "zh": "那么这实际上意味着什么呢？",
+    "zh_hant": "那麼這實際上意味著什麼呢？"
   },
   {
-    "index": 125,
+    "index": 106,
     "text": "They are statistically extremely unlikely, unless we take into account the change in the climate.",
     "start": 505.664,
     "end": 511.606,
-    "zh": "除非我们考虑气候变化的影响，否则它们在统计上极不可能发生。",
-    "zh_hant": "除非我們考慮氣候變化的影響，否則它們在統計上極不可能發生。"
+    "zh": "它们在统计上极其罕见，除非我们考虑气候变化的影响。",
+    "zh_hant": "它們在統計上極其罕見，除非我們考慮氣候變化的影響。"
   },
   {
-    "index": 126,
+    "index": 107,
     "text": "Once you factor in human-made climate change, the likelihood of these events completely changes.",
     "start": 512.007,
     "end": 517.129,
-    "zh": "一旦你把人为气候变化纳入考量，这些事件的可能性就完全改变了。",
-    "zh_hant": "一旦你把人為氣候變化納入考量，這些事件的可能性就完全改變了。"
+    "zh": "一旦你把人为造成的气候变化考虑进去，这些事件的可能性就完全改变了。",
+    "zh_hant": "一旦你把人為造成的氣候變化考慮進去，這些事件的可能性就完全改變了。"
   },
   {
-    "index": 127,
+    "index": 108,
     "text": "Although you probably don't need a ridiculous timescale to say that.",
     "start": 517.249,
     "end": 521.134,
-    "zh": "尽管你也许不需要一个荒谬的时间尺度来说明这一点。",
-    "zh_hant": "儘管你也許不需要一個荒謬的時間尺度來說明這一點。"
+    "zh": "尽管你可能不需要一个荒谬的时间尺度来说明这一点。",
+    "zh_hant": "儘管你可能不需要一個荒謬的時間尺度來說明這一點。"
   },
   {
-    "index": 128,
+    "index": 109,
     "text": "Thanks to Jules Keiter.",
     "start": 521.535,
     "end": 523.297,
@@ -1032,35 +880,27 @@
     "zh_hant": "感謝朱爾斯·凱特。"
   },
   {
-    "index": 129,
+    "index": 110,
     "text": "And that's it for this week.",
     "start": 523.277,
     "end": 524.839,
-    "zh": "这就是本周的全部内容。",
-    "zh_hant": "這就是本週的全部內容。"
+    "zh": "本周就到这里。",
+    "zh_hant": "本週就到這裡。"
   },
   {
-    "index": 130,
-    "text": "If you've seen a number you think we should take a look at, please email us",
+    "index": 111,
+    "text": "If you've seen a number you think we should take a look at, please email us at moreorless@bbc.co.uk.",
     "start": 524.779,
-    "end": 528.804,
-    "zh": "如果你看到一个你认为我们应该关注的数据，请发邮件给我们",
-    "zh_hant": "如果你看到一個你認為我們應該關注的資料，請發郵件給我們"
-  },
-  {
-    "index": 131,
-    "text": "at moreorless@bbc.co.uk.",
-    "start": 528.454,
     "end": 531.647,
-    "zh": "至moreorless@bbc.co.uk。",
-    "zh_hant": "至moreorless@bbc.co.uk。"
+    "zh": "如果你看到任何你认为我们应该关注的数字，请发送电子邮件至 moreorless@bbc.co.uk。",
+    "zh_hant": "如果你看到任何你認為我們應該關注的數字，請傳送電子郵件至 moreorless@bbc.co.uk。"
   },
   {
-    "index": 132,
+    "index": 112,
     "text": "Until next time, goodbye.",
     "start": 531.768,
     "end": 533.83,
-    "zh": "下次再见。",
-    "zh_hant": "下次再見。"
+    "zh": "下次再见，再见。",
+    "zh_hant": "下次再見，再見。"
   }
 ]

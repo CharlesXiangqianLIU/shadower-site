@@ -20,16 +20,16 @@
     "text": "was defeated in the recent elections.",
     "start": 21.216,
     "end": 24.077,
-    "zh": "在最近的选举中落选了。",
-    "zh_hant": "在最近的選舉中落選了。"
+    "zh": "在最近的选举中失败了。",
+    "zh_hant": "在最近的選舉中失敗了。"
   },
   {
     "index": 3,
     "text": "He is now retiring from political life and has gone abroad.",
     "start": 24.578,
     "end": 29.64,
-    "zh": "他现在已退出政界，去了国外。",
-    "zh_hant": "他現在已退出政界，去了國外。"
+    "zh": "他现在退出政坛，去了国外。",
+    "zh_hant": "他現在退出政壇，去了國外。"
   },
   {
     "index": 4,
@@ -52,32 +52,32 @@
     "text": "After the elections, Patrick went to the former Prime Minister's house.",
     "start": 39.865,
     "end": 45.648,
-    "zh": "选举后，帕特里克去了前首相的住所。",
-    "zh_hant": "選舉後，帕特里克去了前首相的住所。"
+    "zh": "选举后，帕特里克去了前首相的住处。",
+    "zh_hant": "選舉後，帕特里克去了前首相的住處。"
   },
   {
     "index": 7,
     "text": "When he asked if Mr. Lane lived there,",
     "start": 46.349,
     "end": 49.41,
-    "zh": "当他问莱恩先生是否住在那儿时，",
-    "zh_hant": "當他問萊恩先生是否住在那兒時，"
+    "zh": "当他问莱恩先生是否住在这里时，",
+    "zh_hant": "當他問萊恩先生是否住在這裡時，"
   },
   {
     "index": 8,
     "text": "the policeman on duty told him that since his defeat,",
     "start": 49.871,
     "end": 54.293,
-    "zh": "值班警察告诉他，自从他落选后，",
-    "zh_hant": "值班警察告訴他，自從他落選後，"
+    "zh": "值班的警察告诉他，自从他失败以来，",
+    "zh_hant": "值班的警察告訴他，自從他失敗以來，"
   },
   {
     "index": 9,
     "text": "the ex-Prime Minister had gone abroad.",
     "start": 54.753,
     "end": 57.954,
-    "zh": "前首相已经出国了。",
-    "zh_hant": "前首相已經出國了。"
+    "zh": "这位前首相已经出国了。",
+    "zh_hant": "這位前首相已經出國了。"
   },
   {
     "index": 10,
@@ -92,8 +92,8 @@
     "text": "The same policeman was just walking slowly past the entrance,",
     "start": 63.738,
     "end": 68.48,
-    "zh": "同一个警察正慢慢走过门口，",
-    "zh_hant": "同一個警察正慢慢走過門口，"
+    "zh": "同一个警察正慢慢地走过门口，",
+    "zh_hant": "同一個警察正慢慢地走過門口，"
   },
   {
     "index": 12,
@@ -108,27 +108,19 @@
     "text": "Though a little suspicious this time the policeman gave him the same answer.",
     "start": 72.862,
     "end": 79.185,
-    "zh": "这次虽然有点怀疑，警察还是给了他同样的回答。",
-    "zh_hant": "這次雖然有點懷疑，警察還是給了他同樣的回答。"
+    "zh": "虽然这次有点怀疑，警察还是给了他同样的回答。",
+    "zh_hant": "雖然這次有點懷疑，警察還是給了他同樣的回答。"
   },
   {
     "index": 14,
-    "text": "The day after,",
+    "text": "The day after, Patrick went to the house once more and asked",
     "start": 80.126,
-    "end": 81.526,
-    "zh": "第二天之后，",
-    "zh_hant": "第二天之後，"
+    "end": 86.449,
+    "zh": "再第二天，帕特里克又去了那所房子，问了",
+    "zh_hant": "再第二天，帕特里克又去了那所房子，問了"
   },
   {
     "index": 15,
-    "text": "Patrick went to the house once more and asked",
-    "start": 81.907,
-    "end": 86.449,
-    "zh": "帕特里克又去了那所房子，问了",
-    "zh_hant": "帕特里克又去了那所房子，問了"
-  },
-  {
-    "index": 16,
     "text": "exactly the same question.",
     "start": 86.189,
     "end": 88.83,
@@ -136,59 +128,51 @@
     "zh_hant": "完全相同的問題。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "This time, the policeman lost his temper.",
     "start": 89.631,
     "end": 93.573,
-    "zh": "这次，警察发火了。",
-    "zh_hant": "這次，警察發火了。"
+    "zh": "这一次，警察发脾气了。",
+    "zh_hant": "這一次，警察發脾氣了。"
+  },
+  {
+    "index": 17,
+    "text": "'I told you yesterday and the day before yesterday,'",
+    "start": 93.233,
+    "end": 99.777,
+    "zh": "'我昨天和前天告诉过你，'",
+    "zh_hant": "'我昨天和前天告訴過你，'"
   },
   {
     "index": 18,
-    "text": "'I told you yesterday and the day before",
-    "start": 93.233,
-    "end": 98.716,
-    "zh": "“我昨天和前天",
-    "zh_hant": "“我昨天和前天"
-  },
-  {
-    "index": 19,
-    "text": "yesterday,'",
-    "start": 98.366,
-    "end": 99.777,
-    "zh": "都告诉过你，”",
-    "zh_hant": "都告訴過你，”"
-  },
-  {
-    "index": 20,
     "text": "he shouted, 'Mr.Lane was defeated in the elections.",
     "start": 99.998,
     "end": 105.381,
-    "zh": "他喊道，“莱恩先生在选举中落选了。",
-    "zh_hant": "他喊道，“萊恩先生在選舉中落選了。"
+    "zh": "他喊道，'莱恩先生在选举中失败了。",
+    "zh_hant": "他喊道，'萊恩先生在選舉中失敗了。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "He has retired from political life and gone to live abroad!'",
     "start": 105.601,
     "end": 111.205,
-    "zh": "他已退出政界，去国外住了！”",
-    "zh_hant": "他已退出政界，去國外住了！”"
+    "zh": "他已经退出政坛，去国外居住了！'",
+    "zh_hant": "他已經退出政壇，去國外居住了！'"
   },
   {
-    "index": 22,
-    "text": "'I know,'",
+    "index": 20,
+    "text": "'I know,' answered Patrick,'",
     "start": 110.855,
-    "end": 112.966,
-    "zh": "“我知道，”",
-    "zh_hant": "“我知道，”"
+    "end": 114.707,
+    "zh": "'我知道，'帕特里克回答，'",
+    "zh_hant": "'我知道，'帕特里克回答，'"
   },
   {
-    "index": 23,
-    "text": "answered Patrick,' but I love to hear you say it!'",
-    "start": 113.207,
+    "index": 21,
+    "text": "but I love to hear you say it!'",
+    "start": 114.908,
     "end": 118.29,
-    "zh": "帕特里克回答，“但我喜欢听你这么说！”",
-    "zh_hant": "帕特里克回答，“但我喜歡聽你這麼說！”"
+    "zh": "但我喜欢听你说这句话！'",
+    "zh_hant": "但我喜歡聽你說這句話！'"
   }
 ]

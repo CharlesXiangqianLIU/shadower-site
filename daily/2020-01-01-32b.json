@@ -12,27 +12,19 @@
     "text": "Thank you, doctor.",
     "start": 3.392,
     "end": 5.092,
-    "zh": "谢谢您，医生。",
-    "zh_hant": "謝謝您，醫生。"
+    "zh": "谢谢你，医生。",
+    "zh_hant": "謝謝你，醫生。"
   },
   {
     "index": 2,
-    "text": "Listen to the tape",
+    "text": "Listen to the tape then answer this question.",
     "start": 6.433,
-    "end": 8.454,
-    "zh": "听录音",
-    "zh_hant": "聽錄音"
+    "end": 11.476,
+    "zh": "听录音，然后回答这个问题。",
+    "zh_hant": "聽錄音，然後回答這個問題。"
   },
   {
     "index": 3,
-    "text": "then answer this question.",
-    "start": 8.794,
-    "end": 11.476,
-    "zh": "然后回答这个问题。",
-    "zh_hant": "然後回答這個問題。"
-  },
-  {
-    "index": 4,
     "text": "Who else is in bed today?",
     "start": 12.536,
     "end": 15.578,
@@ -40,7 +32,7 @@
     "zh_hant": "今天還有誰躺在床上？"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "Why?",
     "start": 16.378,
     "end": 17.278,
@@ -48,7 +40,7 @@
     "zh_hant": "為什麼？"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "How's Jimmy today?",
     "start": 19.16,
     "end": 21.16,
@@ -56,7 +48,7 @@
     "zh_hant": "吉米今天怎麼樣？"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Better.",
     "start": 21.501,
     "end": 22.441,
@@ -64,23 +56,23 @@
     "zh_hant": "好多了。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Thank you, doctor.",
     "start": 22.621,
     "end": 24.322,
-    "zh": "谢谢您，医生。",
-    "zh_hant": "謝謝您，醫生。"
+    "zh": "谢谢你，医生。",
+    "zh_hant": "謝謝你，醫生。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "Can I see him please, Mrs. Williams?",
     "start": 24.903,
     "end": 28.484,
-    "zh": "威廉姆斯太太，我现在能看看他吗？",
-    "zh_hant": "威廉姆斯太太，我現在能看看他嗎？"
+    "zh": "威廉姆斯夫人，我现在能看看他吗？",
+    "zh_hant": "威廉姆斯夫人，我現在能看看他嗎？"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Certainly, doctor.",
     "start": 29.285,
     "end": 31.065,
@@ -88,7 +80,7 @@
     "zh_hant": "當然可以，醫生。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Come upstairs.",
     "start": 31.266,
     "end": 33.146,
@@ -96,71 +88,47 @@
     "zh_hant": "上樓來吧。"
   },
   {
-    "index": 12,
+    "index": 11,
     "text": "You look very well, Jimmy.",
     "start": 34.087,
     "end": 36.548,
-    "zh": "吉米，你看起来气色很好。",
-    "zh_hant": "吉米，你看起來氣色很好。"
+    "zh": "你看上去很好，吉米。",
+    "zh_hant": "你看上去很好，吉米。"
+  },
+  {
+    "index": 12,
+    "text": "You are better now, but you mustn't get up yet.",
+    "start": 37.089,
+    "end": 41.811,
+    "zh": "你现在好多了，但还不能起床。",
+    "zh_hant": "你現在好多了，但還不能起床。"
   },
   {
     "index": 13,
-    "text": "You are better now, but you mustn't get",
-    "start": 37.089,
-    "end": 40.971,
-    "zh": "你现在好多了，但你还不可以",
-    "zh_hant": "你現在好多了，但你還不可以"
+    "text": "You must stay in bed for another two days.",
+    "start": 42.392,
+    "end": 47.034,
+    "zh": "你必须再卧床两天。",
+    "zh_hant": "你必須再臥床兩天。"
   },
   {
     "index": 14,
-    "text": "up yet.",
-    "start": 40.691,
-    "end": 41.811,
-    "zh": "起床。",
-    "zh_hant": "起床。"
+    "text": "The boy mustn't go to school yet, Mrs. Williams.",
+    "start": 48.235,
+    "end": 52.777,
+    "zh": "威廉姆斯夫人，这孩子还不能去上学。",
+    "zh_hant": "威廉姆斯夫人，這孩子還不能去上學。"
   },
   {
     "index": 15,
-    "text": "You must stay in bed for another",
-    "start": 42.392,
-    "end": 45.973,
-    "zh": "你必须再卧床",
-    "zh_hant": "你必須再臥床"
-  },
-  {
-    "index": 16,
-    "text": "two days.",
-    "start": 45.633,
-    "end": 47.034,
-    "zh": "两天。",
-    "zh_hant": "兩天。"
-  },
-  {
-    "index": 17,
-    "text": "The boy mustn't go to school",
-    "start": 48.235,
-    "end": 51.096,
-    "zh": "威廉姆斯太太，这男孩还不能",
-    "zh_hant": "威廉姆斯太太，這男孩還不能"
-  },
-  {
-    "index": 18,
-    "text": "yet, Mrs. Williams.",
-    "start": 50.746,
-    "end": 52.777,
-    "zh": "去上学。",
-    "zh_hant": "去上學。"
-  },
-  {
-    "index": 19,
     "text": "And he mustn't eat rich food.",
     "start": 53.177,
     "end": 56.338,
-    "zh": "他也不能吃油腻的食物。",
-    "zh_hant": "他也不能吃油膩的食物。"
+    "zh": "而且他不能吃油腻的食物。",
+    "zh_hant": "而且他不能吃油膩的食物。"
   },
   {
-    "index": 20,
+    "index": 16,
     "text": "Does he have a temperature, doctor?",
     "start": 58.079,
     "end": 61.661,
@@ -168,7 +136,7 @@
     "zh_hant": "醫生，他發燒嗎？"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "No, he doesn't.",
     "start": 62.061,
     "end": 63.922,
@@ -176,7 +144,7 @@
     "zh_hant": "不，他不發燒。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "Must he stay in bed?",
     "start": 64.062,
     "end": 66.723,
@@ -184,7 +152,7 @@
     "zh_hant": "他必須臥床嗎？"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "Yes.",
     "start": 66.984,
     "end": 67.864,
@@ -192,7 +160,7 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "He must remain in bed for another two days.",
     "start": 67.844,
     "end": 72.326,
@@ -200,31 +168,23 @@
     "zh_hant": "他必須再臥床兩天。"
   },
   {
-    "index": 25,
-    "text": "He can get up for about two hours",
+    "index": 21,
+    "text": "He can get up for about two hours each day,",
     "start": 72.767,
-    "end": 76.688,
-    "zh": "他每天可以起来大约两个小时，",
-    "zh_hant": "他每天可以起來大約兩個小時，"
-  },
-  {
-    "index": 26,
-    "text": "each day,",
-    "start": 76.448,
     "end": 77.529,
-    "zh": "每天，",
-    "zh_hant": "每天，"
+    "zh": "他每天可以起床大约两个小时，",
+    "zh_hant": "他每天可以起床大約兩個小時，"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "but you must keep the room warm.",
     "start": 77.849,
     "end": 81.492,
-    "zh": "但你必须保持房间温暖。",
-    "zh_hant": "但你必須保持房間溫暖。"
+    "zh": "但你必须保持房间暖和。",
+    "zh_hant": "但你必須保持房間暖和。"
   },
   {
-    "index": 28,
+    "index": 23,
     "text": "Where's Mr. Williams this evening?",
     "start": 83.375,
     "end": 86.839,
@@ -232,7 +192,7 @@
     "zh_hant": "威廉姆斯先生今晚在哪裡？"
   },
   {
-    "index": 29,
+    "index": 24,
     "text": "He's in bed, doctor.",
     "start": 87.32,
     "end": 90.002,
@@ -240,7 +200,7 @@
     "zh_hant": "他在床上，醫生。"
   },
   {
-    "index": 30,
+    "index": 25,
     "text": "Can you see him please?",
     "start": 90.383,
     "end": 92.966,
@@ -248,7 +208,7 @@
     "zh_hant": "你能看看他嗎？"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "He has a bad cold, too!",
     "start": 93.227,
     "end": 96.47,
