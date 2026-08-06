@@ -25,22 +25,14 @@
   },
   {
     "index": 3,
-    "text": "Now, today we're going to be talking about the very serious topic of war",
+    "text": "Now, today we're going to be talking about the very serious topic of war and how it affects children.",
     "start": 5.833,
-    "end": 10.715,
-    "zh": "今天我们要讨论一个非常严肃的话题——战争",
-    "zh_hant": "今天我們要討論一個非常嚴肅的話題——戰爭"
+    "end": 12.616,
+    "zh": "今天我们要讨论一个非常严肃的话题：战争及其对儿童的影响。",
+    "zh_hant": "今天我們要討論一個非常嚴肅的話題：戰爭及其對兒童的影響。"
   },
   {
     "index": 4,
-    "text": "and how it affects children.",
-    "start": 10.635,
-    "end": 12.616,
-    "zh": "以及它如何影响儿童。",
-    "zh_hant": "以及它如何影響兒童。"
-  },
-  {
-    "index": 5,
     "text": "Some of the discussions you hear will mention death and trauma.",
     "start": 12.716,
     "end": 16.598,
@@ -48,7 +40,7 @@
     "zh_hant": "你聽到的一些討論會提到死亡和創傷。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "We won't go into detail, but if you think you may feel uncomfortable,",
     "start": 16.638,
     "end": 20.6,
@@ -56,15 +48,15 @@
     "zh_hant": "我們不會深入細節，但如果你覺得可能會不舒服，"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "you can check the transcript for this episode before listening to it on our website.",
     "start": 20.36,
     "end": 25.463,
-    "zh": "你可以在收听前在我们的网站上查看本集的文本。",
-    "zh_hant": "你可以在收聽前在我們的網站上檢視本集的文字。"
+    "zh": "你可以在听之前，在我们的网站上查看本集的文字稿。",
+    "zh_hant": "你可以在聽之前，在我們的網站上檢視本集的文字稿。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "bbclearningenglish.com.",
     "start": 25.343,
     "end": 27.844,
@@ -72,39 +64,39 @@
     "zh_hant": "bbclearningenglish.com。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "And remember, you'll find all this episode's vocabulary along with a free worksheet",
     "start": 27.664,
     "end": 32.606,
-    "zh": "记住，你会在这找到本集的所有词汇以及免费的练习表",
-    "zh_hant": "記住，你會在這找到本集的所有詞彙以及免費的練習表"
+    "zh": "记住，你会找到本集的所有词汇以及一份免费的工作表，",
+    "zh_hant": "記住，你會找到本集的所有詞彙以及一份免費的工作表，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "and many other 6 Minute English episodes on our website, bbclearningenglish.com.",
     "start": 32.386,
     "end": 37.929,
-    "zh": "和许多其他六分钟英语节目在我们的网站上，bbclearningenglish.com。",
-    "zh_hant": "和許多其他六分鐘英語節目在我們的網站上，bbclearningenglish.com。"
+    "zh": "还有我们网站上许多其他六分钟英语的节目，bbclearningenglish.com。",
+    "zh_hant": "還有我們網站上許多其他六分鐘英語的節目，bbclearningenglish.com。"
+  },
+  {
+    "index": 10,
+    "text": "The most recent figure from 2024 says",
+    "start": 37.889,
+    "end": 42.071,
+    "zh": "2024年的最新数据显示",
+    "zh_hant": "2024年的最新資料顯示"
   },
   {
     "index": 11,
-    "text": "The most recent figure from 2024",
-    "start": 37.889,
-    "end": 41.321,
-    "zh": "2024年的最新数据",
-    "zh_hant": "2024年的最新資料"
+    "text": "that 520 million children are living in conflict zones.",
+    "start": 41.721,
+    "end": 46.173,
+    "zh": "有5.2亿儿童生活在冲突地区。",
+    "zh_hant": "有5.2億兒童生活在衝突地區。"
   },
   {
     "index": 12,
-    "text": "says that 520 million children are living in conflict zones.",
-    "start": 41.371,
-    "end": 46.173,
-    "zh": "显示有5.2亿儿童生活在冲突地区。",
-    "zh_hant": "顯示有5.2億兒童生活在衝突地區。"
-  },
-  {
-    "index": 13,
     "text": "That's about one in every five children worldwide.",
     "start": 46.294,
     "end": 49.615,
@@ -112,15 +104,15 @@
     "zh_hant": "這大約是全世界每五個兒童中就有一個。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "In this episode, we'll hear from Fergal Keane on the BBC World Service programme, The Global Story.",
     "start": 49.535,
     "end": 55.678,
-    "zh": "在本集中，我们将听到BBC世界服务节目《全球故事》中费格尔·基恩的分享。",
-    "zh_hant": "在本集中，我們將聽到BBC世界服務節目《全球故事》中費格爾·基恩的分享。"
+    "zh": "在本集中，我们将听到BBC世界服务节目《全球故事》中费格尔·基恩的发言。",
+    "zh_hant": "在本集中，我們將聽到BBC世界服務節目《全球故事》中費格爾·基恩的發言。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "Fergal is a BBC reporter, best known for reporting from war zones around the world,",
     "start": 56.018,
     "end": 61.841,
@@ -128,39 +120,31 @@
     "zh_hant": "費格爾是BBC記者，以報道世界各地的戰區而聞名，"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "and as a result, he developed PTSD, which is a type of stress disorder.",
     "start": 61.941,
     "end": 67.844,
-    "zh": "因此他患上了创伤后应激障碍，这是一种压力障碍。",
-    "zh_hant": "因此他患上了創傷後應激障礙，這是一種壓力障礙。"
+    "zh": "因此，他患上了PTSD，这是一种压力障碍。",
+    "zh_hant": "因此，他患上了PTSD，這是一種壓力障礙。"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "We'll be finding out what PTSD stands for at the end of the programme.",
     "start": 68.204,
     "end": 72.626,
-    "zh": "我们将在节目最后找出PTSD代表什么。",
-    "zh_hant": "我們將在節目最後找出PTSD代表什麼。"
+    "zh": "我们将在节目结束时找出PTSD代表什么。",
+    "zh_hant": "我們將在節目結束時找出PTSD代表什麼。"
+  },
+  {
+    "index": 17,
+    "text": "Now, in the clips, we'll hear Asma Khalid ask Fergal Keane about his own experience with childhood trauma.",
+    "start": 72.647,
+    "end": 79.55,
+    "zh": "现在，在这些片段中，我们会听到阿斯玛·哈立德询问费格尔·基恩关于他自己童年创伤的经历。",
+    "zh_hant": "現在，在這些片段中，我們會聽到阿斯瑪·哈立德詢問費格爾·基恩關於他自己童年創傷的經歷。"
   },
   {
     "index": 18,
-    "text": "Now, in the clips, we'll hear Asma Khalid ask",
-    "start": 72.647,
-    "end": 76.188,
-    "zh": "现在，在片段中，我们会听到阿斯玛·哈立德询问",
-    "zh_hant": "現在，在片段中，我們會聽到阿斯瑪·哈立德詢問"
-  },
-  {
-    "index": 19,
-    "text": "Fergal Keane about his own experience with childhood trauma.",
-    "start": 75.838,
-    "end": 79.55,
-    "zh": "费格尔·基恩关于他自己童年创伤的经历。",
-    "zh_hant": "費格爾·基恩關於他自己童年創傷的經歷。"
-  },
-  {
-    "index": 20,
     "text": "Fergal grew up in a home with an alcoholic father.",
     "start": 79.81,
     "end": 83.292,
@@ -168,95 +152,95 @@
     "zh_hant": "費格爾在一個父親酗酒的家庭中長大。"
   },
   {
-    "index": 21,
-    "text": "Asma wanted to know how Fergal's own childhood trauma",
+    "index": 19,
+    "text": "Asma wanted to know how Fergal's own childhood trauma affected his reporting",
     "start": 83.272,
-    "end": 87.174,
-    "zh": "阿斯玛想知道费格尔自己的童年创伤",
-    "zh_hant": "阿斯瑪想知道費格爾自己的童年創傷"
+    "end": 88.715,
+    "zh": "阿斯玛想知道费格尔自己的童年创伤如何影响了他的报道",
+    "zh_hant": "阿斯瑪想知道費格爾自己的童年創傷如何影響了他的報道"
   },
   {
-    "index": 22,
-    "text": "affected his reporting on the experiences of children in war zones.",
-    "start": 86.854,
+    "index": 20,
+    "text": "on the experiences of children in war zones.",
+    "start": 88.365,
     "end": 91.396,
-    "zh": "如何影响了他对战区儿童经历的报道。",
-    "zh_hant": "如何影響了他對戰區兒童經歷的報道。"
+    "zh": "关于战区儿童的经历。",
+    "zh_hant": "關於戰區兒童的經歷。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "I was hyper vigilant from the very earliest age,",
     "start": 91.176,
     "end": 96.078,
-    "zh": "我从很小的时候就过度警觉，",
-    "zh_hant": "我從很小的時候就過度警覺，"
+    "zh": "我从很小的时候起就高度警觉，",
+    "zh_hant": "我從很小的時候起就高度警覺，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "obviously watching out: am I under threat, is there a danger to me here?",
     "start": 95.728,
     "end": 99.98,
-    "zh": "显然在留意：我是否受到威胁，这里有危险吗？",
-    "zh_hant": "顯然在留意：我是否受到威脅，這裡有危險嗎？"
+    "zh": "显然是在观察：我是否受到威胁，这里对我有危险吗？",
+    "zh_hant": "顯然是在觀察：我是否受到威脅，這裡對我有危險嗎？"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Fergal mentions that he was hyper vigilant because he was in dangerous situations as a child.",
     "start": 99.7,
     "end": 105.703,
-    "zh": "费格尔提到他因为小时候处于危险环境中而过度警觉。",
-    "zh_hant": "費格爾提到他因為小時候處於危險環境中而過度警覺。"
+    "zh": "费格尔提到他高度警觉，因为小时候处于危险境地。",
+    "zh_hant": "費格爾提到他高度警覺，因為小時候處於危險境地。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "The adjective vigilant means to always be careful to notice things,",
     "start": 105.883,
     "end": 110.245,
-    "zh": "形容词“警觉的”意思是一直注意观察事物，",
-    "zh_hant": "形容詞“警覺的”意思是一直注意觀察事物，"
+    "zh": "形容词“警觉”意味着总是小心注意事物，",
+    "zh_hant": "形容詞“警覺”意味著總是小心注意事物，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "particularly when there's a possibility of danger.",
     "start": 109.895,
     "end": 113.287,
-    "zh": "特别是在可能有危险的时候。",
-    "zh_hant": "特別是在可能有危險的時候。"
+    "zh": "尤其是在可能存在危险的时候。",
+    "zh_hant": "尤其是在可能存在危險的時候。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "Yes, and the prefix hyper- expresses that there is a lot of or even too much of something.",
     "start": 113.427,
     "end": 119.69,
-    "zh": "是的，前缀hyper-表达有很多甚至过多的某事物。",
-    "zh_hant": "是的，字首hyper-表達有很多甚至過多的某事物。"
+    "zh": "是的，前缀“hyper-”表达了很多甚至太多某事物。",
+    "zh_hant": "是的，字首“hyper-”表達了很多甚至太多某事物。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Though neutral, it is often used in negative or critical contexts.",
     "start": 119.75,
     "end": 124.292,
-    "zh": "虽然中性，但常用于负面或批评的语境中。",
-    "zh_hant": "雖然中性，但常用於負面或批評的語境中。"
+    "zh": "虽然它本身中性，但常用于负面或批判性语境中。",
+    "zh_hant": "雖然它本身中性，但常用於負面或批判性語境中。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "So hypervigilant means very, very careful, sometimes too careful and thoughtful.",
     "start": 124.213,
     "end": 130.135,
-    "zh": "所以“过度警觉的”意思是极其小心，有时太小心和过于谨慎。",
-    "zh_hant": "所以“過度警覺的”意思是極其小心，有時太小心和過於謹慎。"
+    "zh": "所以“高度警觉”意味着非常非常小心，有时过于小心和周到。",
+    "zh_hant": "所以“高度警覺”意味著非常非常小心，有時過於小心和周到。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Hypervigilance, the noun, is a state of extreme alertness and sensitivity to surroundings,",
     "start": 130.356,
     "end": 136.358,
-    "zh": "名词“过度警觉”是一种极度警觉和对周围环境敏感的状态，",
-    "zh_hant": "名詞“過度警覺”是一種極度警覺和對周圍環境敏感的狀態，"
+    "zh": "名词“高度警觉”是一种对周围环境极度警觉和敏感的状态，",
+    "zh_hant": "名詞“高度警覺”是一種對周圍環境極度警覺和敏感的狀態，"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "possibly because of extreme anxiety.",
     "start": 136.159,
     "end": 139.06,
@@ -264,7 +248,7 @@
     "zh_hant": "可能是因為極度焦慮。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "Now let's hear from Fergal as he talks about research on the experiences of children in war zones.",
     "start": 139.44,
     "end": 145.863,
@@ -272,55 +256,47 @@
     "zh_hant": "現在讓我們聽聽費格爾談論關於戰區兒童經歷的研究。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "They disagree about a few things, but on this they're absolutely of one mind.",
     "start": 146.123,
     "end": 150.445,
-    "zh": "他们在某些事情上有分歧，但在这点上他们绝对意见一致。",
-    "zh_hant": "他們在某些事情上有分歧，但在這點上他們絕對意見一致。"
+    "zh": "他们在一些事情上意见不一，但在这个问题上他们完全一致。",
+    "zh_hant": "他們在一些事情上意見不一，但在這個問題上他們完全一致。"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "Fergal mentions that they, the researchers, disagree about their findings,",
     "start": 150.546,
     "end": 155.448,
-    "zh": "费格尔提到研究者们对他们的发现存在分歧，",
-    "zh_hant": "費格爾提到研究者們對他們的發現存在分歧，"
+    "zh": "费格尔提到，研究人员对他们的发现意见不一，",
+    "zh_hant": "費格爾提到，研究人員對他們的發現意見不一，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "but they're absolutely of one mind when considering the recovery from war trauma.",
     "start": 155.388,
     "end": 161.171,
-    "zh": "但在考虑战争创伤恢复时他们绝对意见一致。",
-    "zh_hant": "但在考慮戰爭創傷恢復時他們絕對意見一致。"
+    "zh": "但在考虑战争创伤的恢复时，他们完全一致。",
+    "zh_hant": "但在考慮戰爭創傷的恢復時，他們完全一致。"
   },
   {
-    "index": 37,
-    "text": "If you are of one mind, you are of a group of people that share the same opinion,",
+    "index": 35,
+    "text": "If you are of one mind, you are of a group of people that share the same opinion, desire or viewpoint on a matter.",
     "start": 161.472,
-    "end": 166.874,
-    "zh": "如果你“意见一致”，你属于一个对某事持相同观点、",
-    "zh_hant": "如果你“意見一致”，你屬於一個對某事持相同觀點、"
-  },
-  {
-    "index": 38,
-    "text": "desire or viewpoint on a matter.",
-    "start": 166.524,
     "end": 169.015,
-    "zh": "愿望或看法的人群。",
-    "zh_hant": "願望或看法的人群。"
+    "zh": "如果你“意见一致”，你就属于一群在某个问题上持相同观点、愿望或看法的人。",
+    "zh_hant": "如果你“意見一致”，你就屬於一群在某個問題上持相同觀點、願望或看法的人。"
   },
   {
-    "index": 39,
+    "index": 36,
     "text": "Researchers may disagree on whether the experiences of children in war zones is improving,",
     "start": 168.935,
     "end": 174.298,
-    "zh": "研究者可能对战区儿童的经历是否在改善有分歧，",
-    "zh_hant": "研究者可能對戰區兒童的經歷是否在改善有分歧，"
+    "zh": "研究人员可能对战区儿童的经历是否在改善有分歧，",
+    "zh_hant": "研究人員可能對戰區兒童的經歷是否在改善有分歧，"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "but on the point of recovery, they are of one mind,",
     "start": 174.198,
     "end": 177.739,
@@ -328,23 +304,23 @@
     "zh_hant": "但在恢復這一點上，他們意見一致，"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "in that you can't recover from war trauma if you continue living with it.",
     "start": 177.76,
     "end": 182.402,
-    "zh": "即如果你继续生活在战争中，你就无法从战争创伤中恢复。",
-    "zh_hant": "即如果你繼續生活在戰爭中，你就無法從戰爭創傷中恢復。"
+    "zh": "那就是如果你继续生活在创伤中，就无法从战争创伤中恢复。",
+    "zh_hant": "那就是如果你繼續生活在創傷中，就無法從戰爭創傷中恢復。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "Fergal goes on to talk about some of the ways in which these children might be helped.",
     "start": 182.962,
     "end": 188.124,
-    "zh": "费格尔接着谈到可能帮助这些儿童的一些方法。",
-    "zh_hant": "費格爾接著談到可能幫助這些兒童的一些方法。"
+    "zh": "费格尔接着谈到了这些儿童可能得到帮助的一些方式。",
+    "zh_hant": "費格爾接著談到了這些兒童可能得到幫助的一些方式。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "And so there's a new field of theory, well, relatively new field of theory,",
     "start": 188.025,
     "end": 191.886,
@@ -352,7 +328,7 @@
     "zh_hant": "所以有一個新的理論領域，嗯，相對較新的理論領域，"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "which encourages children to slowly and carefully try",
     "start": 191.536,
     "end": 196.528,
@@ -360,55 +336,47 @@
     "zh_hant": "鼓勵兒童緩慢而小心地嘗試"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "to confront, obviously not death and massacre again,",
     "start": 196.178,
     "end": 199.911,
-    "zh": "去面对，显然不是死亡和屠杀再次发生，",
-    "zh_hant": "去面對，顯然不是死亡和屠殺再次發生，"
+    "zh": "去面对，当然不是再次面对死亡和屠杀，",
+    "zh_hant": "去面對，當然不是再次面對死亡和屠殺，"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "but things like learning to sleep alone, not having to sleep with a parent,",
     "start": 199.891,
     "end": 205.914,
-    "zh": "而是像学习独自睡觉，不必和父母一起睡，",
-    "zh_hant": "而是像學習獨自睡覺，不必和父母一起睡，"
+    "zh": "而是像学会独自睡觉，不必和父母一起睡，",
+    "zh_hant": "而是像學會獨自睡覺，不必和父母一起睡，"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "because that's what they did during the war, because they were so consistently terrified.",
     "start": 206.794,
     "end": 210.776,
-    "zh": "因为那是他们在战争期间做的事，因为他们一直非常恐惧。",
-    "zh_hant": "因為那是他們在戰爭期間做的事，因為他們一直非常恐懼。"
+    "zh": "因为那是他们在战争期间所做的，因为他们一直如此恐惧。",
+    "zh_hant": "因為那是他們在戰爭期間所做的，因為他們一直如此恐懼。"
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "Now, It sounds like a simple thing,",
     "start": 210.456,
     "end": 212.917,
-    "zh": "听起来是简单的事情，",
-    "zh_hant": "聽起來是簡單的事情，"
+    "zh": "听起来很简单，",
+    "zh_hant": "聽起來很簡單，"
   },
   {
-    "index": 49,
-    "text": "but as anybody who's tried to put a child to sleep who's had a nightmare,",
+    "index": 46,
+    "text": "but as anybody who's tried to put a child to sleep who's had a nightmare, a child who hasn't been traumatised will know,",
     "start": 212.897,
-    "end": 217.719,
-    "zh": "但任何试图让做过噩梦的孩子入睡的人，",
-    "zh_hant": "但任何試圖讓做過噩夢的孩子入睡的人，"
-  },
-  {
-    "index": 50,
-    "text": "a child who hasn't been traumatised will know,",
-    "start": 218.04,
     "end": 220.461,
-    "zh": "一个没有受过创伤的孩子，会知道，",
-    "zh_hant": "一個沒有受過創傷的孩子，會知道，"
+    "zh": "但任何尝试让做过噩梦的孩子入睡的人——那些没有受过创伤的孩子——都会知道，",
+    "zh_hant": "但任何嘗試讓做過噩夢的孩子入睡的人——那些沒有受過創傷的孩子——都會知道，"
   },
   {
-    "index": 51,
+    "index": 47,
     "text": "it's very difficult.",
     "start": 220.821,
     "end": 222.282,
@@ -416,39 +384,39 @@
     "zh_hant": "這非常困難。"
   },
   {
-    "index": 52,
+    "index": 48,
     "text": "Fergal says that children should be encouraged to slowly and carefully try to confront their experiences.",
     "start": 223.542,
     "end": 229.745,
-    "zh": "费格尔说应该鼓励儿童缓慢而小心地尝试面对他们的经历。",
-    "zh_hant": "費格爾說應該鼓勵兒童緩慢而小心地嘗試面對他們的經歷。"
+    "zh": "费格尔说，应该鼓励儿童缓慢而小心地尝试面对他们的经历。",
+    "zh_hant": "費格爾說，應該鼓勵兒童緩慢而小心地嘗試面對他們的經歷。"
   },
   {
-    "index": 53,
+    "index": 49,
     "text": "To confront something is to meet with it or deal with it.",
     "start": 229.866,
     "end": 233.247,
-    "zh": "“面对”某事是与之相遇或处理它。",
-    "zh_hant": "“面對”某事是與之相遇或處理它。"
+    "zh": "“面对”某事就是与之相遇或处理它。",
+    "zh_hant": "“面對”某事就是與之相遇或處理它。"
   },
   {
-    "index": 54,
+    "index": 50,
     "text": "For the children to confront their terrifying experiences,",
     "start": 233.347,
     "end": 236.709,
-    "zh": "为了让儿童面对他们可怕的经历，",
-    "zh_hant": "為了讓兒童面對他們可怕的經歷，"
+    "zh": "为了让孩子们面对他们可怕的经历，",
+    "zh_hant": "為了讓孩子們面對他們可怕的經歷，"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "they must start with more simple things, like learning to sleep alone.",
     "start": 236.569,
     "end": 240.611,
-    "zh": "他们必须从更简单的事情开始，比如学习独自睡觉。",
-    "zh_hant": "他們必須從更簡單的事情開始，比如學習獨自睡覺。"
+    "zh": "他们必须从更简单的事情开始，比如学会独自睡觉。",
+    "zh_hant": "他們必須從更簡單的事情開始，比如學會獨自睡覺。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "Sleeping alone seems simple enough,",
     "start": 240.971,
     "end": 243.512,
@@ -456,23 +424,15 @@
     "zh_hant": "獨自睡覺看起來很簡單，"
   },
   {
-    "index": 57,
-    "text": "but Fergal compares the experiences of children in war zones",
+    "index": 53,
+    "text": "but Fergal compares the experiences of children in war zones to that of children who might have nightmares.",
     "start": 243.433,
-    "end": 247.634,
-    "zh": "但费格尔将战区儿童的经历",
-    "zh_hant": "但費格爾將戰區兒童的經歷"
-  },
-  {
-    "index": 58,
-    "text": "to that of children who might have nightmares.",
-    "start": 247.284,
     "end": 250.056,
-    "zh": "与可能有噩梦的儿童的经历进行比较。",
-    "zh_hant": "與可能有噩夢的兒童的經歷進行比較。"
+    "zh": "但费格尔将战区儿童的经历比作可能做噩梦的儿童的经历。",
+    "zh_hant": "但費格爾將戰區兒童的經歷比作可能做噩夢的兒童的經歷。"
   },
   {
-    "index": 59,
+    "index": 54,
     "text": "Yes, and a nightmare is a very scary or upsetting dream.",
     "start": 250.016,
     "end": 254.038,
@@ -480,15 +440,15 @@
     "zh_hant": "是的，噩夢是一個非常可怕或令人不安的夢。"
   },
   {
-    "index": 60,
+    "index": 55,
     "text": "It can also be used metaphorically to describe unpleasant events or experiences.",
     "start": 254.298,
     "end": 259.34,
-    "zh": "它也可以比喻性地用来描述不愉快的事件或经历。",
-    "zh_hant": "它也可以比喻性地用來描述不愉快的事件或經歷。"
+    "zh": "它也可以用作比喻，来描述不愉快的事件或经历。",
+    "zh_hant": "它也可以用作比喻，來描述不愉快的事件或經歷。"
   },
   {
-    "index": 61,
+    "index": 56,
     "text": "Now let's hear Fergal talking about what he's learned from reporting on children in war zones.",
     "start": 260.001,
     "end": 265.123,
@@ -496,39 +456,39 @@
     "zh_hant": "現在讓我們聽聽費格爾談論他從報道戰區兒童中學到了什麼。"
   },
   {
-    "index": 62,
+    "index": 57,
     "text": "The big lesson is that given a chance,",
     "start": 265.563,
     "end": 268.665,
-    "zh": "最大的教训是，如果给一个机会，",
-    "zh_hant": "最大的教訓是，如果給一個機會，"
+    "zh": "最大的教训是，如果给予机会，",
+    "zh_hant": "最大的教訓是，如果給予機會，"
   },
   {
-    "index": 63,
+    "index": 58,
     "text": "the human spirit and especially children are phenomenally resilient.",
     "start": 268.525,
     "end": 272.747,
-    "zh": "人类精神，尤其是儿童，具有惊人的韧性。",
-    "zh_hant": "人類精神，尤其是兒童，具有驚人的韌性。"
+    "zh": "人类的精神，尤其是儿童，具有非凡的韧性。",
+    "zh_hant": "人類的精神，尤其是兒童，具有非凡的韌性。"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "Fergal describes the children as being phenomenally resilient.",
     "start": 273.487,
     "end": 278.009,
-    "zh": "费格尔描述这些儿童具有惊人的韧性。",
-    "zh_hant": "費格爾描述這些兒童具有驚人的韌性。"
+    "zh": "费格尔描述这些儿童具有非凡的韧性。",
+    "zh_hant": "費格爾描述這些兒童具有非凡的韌性。"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "The noun phenomenon, or phenomena in its plural form,",
     "start": 278.01,
     "end": 282.212,
-    "zh": "名词“现象”，或其复数形式phenomena，",
-    "zh_hant": "名詞“現象”，或其複數形式phenomena，"
+    "zh": "名词“现象”，或其复数形式“phenomena”，",
+    "zh_hant": "名詞“現象”，或其複數形式“phenomena”，"
   },
   {
-    "index": 66,
+    "index": 61,
     "text": "refers to an observable fact or event that can be experienced through the senses.",
     "start": 282.172,
     "end": 287.615,
@@ -536,63 +496,39 @@
     "zh_hant": "指可以透過感官體驗到的可觀察事實或事件。"
   },
   {
-    "index": 67,
-    "text": "The adverb phenomenally describes something being done",
+    "index": 62,
+    "text": "The adverb phenomenally describes something being done or felt in an extreme or surprising way.",
     "start": 287.955,
-    "end": 292.077,
-    "zh": "副词“惊人地”描述某事以极端或令人惊讶的方式被做",
-    "zh_hant": "副詞“驚人地”描述某事以極端或令人驚訝的方式被做"
-  },
-  {
-    "index": 68,
-    "text": "or felt in an extreme or surprising way.",
-    "start": 291.737,
     "end": 294.978,
-    "zh": "或被感受。",
-    "zh_hant": "或被感受。"
+    "zh": "副词“非凡地”描述某事以极端或令人惊讶的方式完成或被感受到。",
+    "zh_hant": "副詞“非凡地”描述某事以極端或令人驚訝的方式完成或被感受到。"
   },
   {
-    "index": 69,
-    "text": "To be resilient is to be able to recover from and come back from something difficult",
+    "index": 63,
+    "text": "To be resilient is to be able to recover from and come back from something difficult or bad that's happened.",
     "start": 295.259,
-    "end": 300.461,
-    "zh": "有韧性是能够从困难或不好的事情中恢复并走出来。",
-    "zh_hant": "有韌性是能夠從困難或不好的事情中恢復並走出來。"
-  },
-  {
-    "index": 70,
-    "text": "or bad that's happened.",
-    "start": 300.161,
     "end": 301.882,
-    "zh": "这已经发生了。",
-    "zh_hant": "這已經發生了。"
+    "zh": "“有韧性”意味着能够从发生的困难或坏事中恢复并重新站起来。",
+    "zh_hant": "“有韌性”意味著能夠從發生的困難或壞事中恢復並重新站起來。"
   },
   {
-    "index": 71,
-    "text": "So Fergal says that children can be surprisingly positive",
+    "index": 64,
+    "text": "So Fergal says that children can be surprisingly positive despite the negative things happening around them.",
     "start": 302.202,
-    "end": 306.164,
-    "zh": "所以费格尔说，尽管周围有负面的事情，儿童可以令人惊讶地积极，",
-    "zh_hant": "所以費格爾說，儘管周圍有負面的事情，兒童可以令人驚訝地積極，"
-  },
-  {
-    "index": 72,
-    "text": "despite the negative things happening around them.",
-    "start": 306.024,
     "end": 309.005,
-    "zh": "尽管周围有负面的事情。",
-    "zh_hant": "儘管周圍有負面的事情。"
+    "zh": "所以费格尔说，尽管周围发生了负面的事情，儿童仍能出人意料地积极。",
+    "zh_hant": "所以費格爾說，儘管周圍發生了負面的事情，兒童仍能出人意料地積極。"
   },
   {
-    "index": 73,
+    "index": 65,
     "text": "They are phenomenally resilient.",
     "start": 308.865,
     "end": 311.406,
-    "zh": "他们具有惊人的韧性。",
-    "zh_hant": "他們具有驚人的韌性。"
+    "zh": "他们具有非凡的韧性。",
+    "zh_hant": "他們具有非凡的韌性。"
   },
   {
-    "index": 74,
+    "index": 66,
     "text": "A result of these negative things could be PTSD.",
     "start": 311.727,
     "end": 315.328,
@@ -600,23 +536,23 @@
     "zh_hant": "這些負面事情的結果可能是PTSD。"
   },
   {
-    "index": 75,
+    "index": 67,
     "text": "Earlier we mentioned PTSD, and it stands for post-traumatic stress disorder.",
     "start": 315.809,
     "end": 321.852,
-    "zh": "之前我们提到PTSD，它代表创伤后应激障碍。",
-    "zh_hant": "之前我們提到PTSD，它代表創傷後應激障礙。"
+    "zh": "我们之前提到过PTSD，它代表创伤后应激障碍。",
+    "zh_hant": "我們之前提到過PTSD，它代表創傷後應激障礙。"
   },
   {
-    "index": 76,
+    "index": 68,
     "text": "Yes, and the P in PTSD stands for post, as we've just heard, and the prefix post",
     "start": 321.712,
     "end": 328.055,
-    "zh": "是的，PTSD中的P代表“后”，正如我们刚才听到的，前缀post",
-    "zh_hant": "是的，PTSD中的P代表“後”，正如我們剛才聽到的，字首post"
+    "zh": "是的，PTSD中的P代表“后”，正如我们刚才听到的，前缀“post”",
+    "zh_hant": "是的，PTSD中的P代表“後”，正如我們剛才聽到的，字首“post”"
   },
   {
-    "index": 77,
+    "index": 69,
     "text": "expresses something that happens after or as a result of the event it's attached to.",
     "start": 327.775,
     "end": 333.558,
@@ -624,7 +560,7 @@
     "zh_hant": "表達某事發生在它所附著的事件之後或作為其結果。"
   },
   {
-    "index": 78,
+    "index": 70,
     "text": "Now, let's recap the vocabulary.",
     "start": 334.018,
     "end": 336.519,
@@ -632,55 +568,39 @@
     "zh_hant": "現在，讓我們回顧一下詞彙。"
   },
   {
-    "index": 79,
-    "text": "We first had hypervigilant, that is to be very careful",
+    "index": 71,
+    "text": "We first had hypervigilant, that is to be very careful or maybe almost too careful to notice things,",
     "start": 336.519,
-    "end": 340.761,
-    "zh": "我们首先有“过度警觉的”，意思是极其小心",
-    "zh_hant": "我們首先有“過度警覺的”，意思是極其小心"
-  },
-  {
-    "index": 80,
-    "text": "or maybe almost too careful to notice things,",
-    "start": 340.481,
     "end": 343.903,
-    "zh": "或者几乎太小心地注意事物，",
-    "zh_hant": "或者幾乎太小心地注意事物，"
+    "zh": "我们首先有“高度警觉”，就是非常小心，或者可能几乎过于小心地注意事物，",
+    "zh_hant": "我們首先有“高度警覺”，就是非常小心，或者可能幾乎過於小心地注意事物，"
   },
   {
-    "index": 81,
+    "index": 72,
     "text": "particularly when there is a possibility of danger.",
     "start": 343.743,
     "end": 346.704,
-    "zh": "特别是在可能有危险的时候。",
-    "zh_hant": "特別是在可能有危險的時候。"
+    "zh": "特别是在可能存在危险的时候。",
+    "zh_hant": "特別是在可能存在危險的時候。"
   },
   {
-    "index": 82,
-    "text": "To be of one mind is to be part of a group of people",
+    "index": 73,
+    "text": "To be of one mind is to be part of a group of people that share the same opinion, desire, or viewpoint on a matter.",
     "start": 346.824,
-    "end": 350.546,
-    "zh": "“意见一致”是成为一群人对某事持相同观点、",
-    "zh_hant": "“意見一致”是成為一群人對某事持相同觀點、"
-  },
-  {
-    "index": 83,
-    "text": "that share the same opinion, desire, or viewpoint on a matter.",
-    "start": 350.196,
     "end": 354.368,
-    "zh": "愿望或看法的一部分。",
-    "zh_hant": "願望或看法的一部分。"
+    "zh": "“意见一致”是成为一群在某个问题上持相同观点、愿望或看法的人的一部分。",
+    "zh_hant": "“意見一致”是成為一群在某個問題上持相同觀點、願望或看法的人的一部分。"
   },
   {
-    "index": 84,
+    "index": 74,
     "text": "We had to confront something, that is, to meet with it or deal with it.",
     "start": 354.448,
     "end": 358.911,
-    "zh": "我们有“面对”某事，即与之相遇或处理它。",
-    "zh_hant": "我們有“面對”某事，即與之相遇或處理它。"
+    "zh": "我们学了“面对”某事，就是与之相遇或处理它。",
+    "zh_hant": "我們學了“面對”某事，就是與之相遇或處理它。"
   },
   {
-    "index": 85,
+    "index": 75,
     "text": "A nightmare is a scary or upsetting dream.",
     "start": 358.811,
     "end": 362.013,
@@ -688,31 +608,23 @@
     "zh_hant": "“噩夢”是一個可怕或令人不安的夢。"
   },
   {
-    "index": 86,
+    "index": 76,
     "text": "To do something phenomenally is to do it in an extreme or surprising way.",
     "start": 362.333,
     "end": 367.617,
-    "zh": "“惊人地”做某事是以极端或令人惊讶的方式做它。",
-    "zh_hant": "“驚人地”做某事是以極端或令人驚訝的方式做它。"
+    "zh": "“非凡地”做某事是以极端或令人惊讶的方式做它。",
+    "zh_hant": "“非凡地”做某事是以極端或令人驚訝的方式做它。"
   },
   {
-    "index": 87,
-    "text": "And to be resilient is to be able to recover",
+    "index": 77,
+    "text": "And to be resilient is to be able to recover and come back from something difficult or bad that's happened.",
     "start": 367.537,
-    "end": 370.999,
-    "zh": "“有韧性”是能够从困难或不好的事情中恢复",
-    "zh_hant": "“有韌性”是能夠從困難或不好的事情中恢復"
-  },
-  {
-    "index": 88,
-    "text": "and come back from something difficult or bad that's happened.",
-    "start": 370.739,
     "end": 374.242,
-    "zh": "并走出来。",
-    "zh_hant": "並走出來。"
+    "zh": "“有韧性”是能够从发生的困难或坏事中恢复并重新站起来。",
+    "zh_hant": "“有韌性”是能夠從發生的困難或壞事中恢復並重新站起來。"
   },
   {
-    "index": 89,
+    "index": 78,
     "text": "Once again, our six minutes are up.",
     "start": 375.022,
     "end": 376.944,
@@ -720,23 +632,15 @@
     "zh_hant": "再次，我們的六分鐘時間到了。"
   },
   {
-    "index": 90,
-    "text": "You'll find a quiz and a worksheet to practice the vocabulary",
+    "index": 79,
+    "text": "You'll find a quiz and a worksheet to practice the vocabulary we've learnt from this episode on our website, bbclearningenglish.com.",
     "start": 376.594,
-    "end": 380.006,
-    "zh": "你会找到一个测验和练习表来练习词汇",
-    "zh_hant": "你會找到一個測驗和練習表來練習詞彙"
-  },
-  {
-    "index": 91,
-    "text": "we've learnt from this episode on our website, bbclearningenglish.com.",
-    "start": 379.656,
     "end": 384.169,
-    "zh": "我们从本集学到的在我们的网站上，bbclearningenglish.com。",
-    "zh_hant": "我們從本集學到的在我們的網站上，bbclearningenglish.com。"
+    "zh": "你会在我们的网站上找到一个小测验和工作表来练习本集学到的词汇，bbclearningenglish.com。",
+    "zh_hant": "你會在我們的網站上找到一個小測驗和工作表來練習本集學到的詞彙，bbclearningenglish.com。"
   },
   {
-    "index": 92,
+    "index": 80,
     "text": "Goodbye for now.",
     "start": 384.129,
     "end": 385.189,
@@ -744,7 +648,7 @@
     "zh_hant": "暫時再見了。"
   },
   {
-    "index": 93,
+    "index": 81,
     "text": "Bye.",
     "start": 384.99,
     "end": 385.79,

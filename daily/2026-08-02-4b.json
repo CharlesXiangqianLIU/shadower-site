@@ -4,163 +4,131 @@
     "text": "To robots now and a new norm in warehouses around the world,",
     "start": 0.17,
     "end": 3.832,
-    "zh": "现在转向机器人，以及全球仓库中的一种新常态。",
-    "zh_hant": "現在轉向機器人，以及全球倉庫中的一種新常態。"
+    "zh": "现在转向机器人，以及全球仓库中的新常态，",
+    "zh_hant": "現在轉向機器人，以及全球倉庫中的新常態，"
   },
   {
     "index": 1,
     "text": "with China emerging as a world leader in logistics robotics.",
     "start": 3.482,
     "end": 7.233,
-    "zh": "中国正成为物流机器人领域的世界领先者。",
-    "zh_hant": "中國正成為物流機器人領域的世界領先者。"
+    "zh": "中国正崛起为物流机器人领域的世界领导者。",
+    "zh_hant": "中國正崛起為物流機器人領域的世界領導者。"
   },
   {
     "index": 2,
     "text": "A development that has apparently stirred unease in the Trump administration.",
     "start": 6.954,
     "end": 11.155,
-    "zh": "这一进展显然引起了特朗普政府的不安。",
-    "zh_hant": "這一進展顯然引起了特朗普政府的不安。"
+    "zh": "这一发展显然引起了特朗普政府的不安。",
+    "zh_hant": "這一發展顯然引起了特朗普政府的不安。"
   },
   {
     "index": 3,
-    "text": "It's tightened restrictions on some advanced Chinese robot imports, citing national",
+    "text": "It's tightened restrictions on some advanced Chinese robot imports, citing national security concerns.",
     "start": 11.176,
-    "end": 16.598,
-    "zh": "它以国家安全为由，收紧了部分先进中国机器人进口的限制。",
-    "zh_hant": "它以國家安全為由，收緊了部分先進中國機器人進口的限制。"
+    "end": 18.039,
+    "zh": "美国以国家安全关切为由，收紧了部分先进中国机器人进口的限制。",
+    "zh_hant": "美國以國家安全關切為由，收緊了部分先進中國機器人進口的限制。"
   },
   {
     "index": 4,
-    "text": "security concerns.",
-    "start": 16.338,
-    "end": 18.039,
-    "zh": "安全方面的担忧。",
-    "zh_hant": "安全方面的擔憂。"
-  },
-  {
-    "index": 5,
     "text": "China called the move erroneous.",
     "start": 18.199,
     "end": 20.28,
-    "zh": "中方称此举是错误的。",
-    "zh_hant": "中方稱此舉是錯誤的。"
+    "zh": "中国称此举是错误的。",
+    "zh_hant": "中國稱此舉是錯誤的。"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Elsewhere, Chinese technology is being widely used, as Surinjana Tiwari reports.",
     "start": 20.2,
     "end": 25.643,
-    "zh": "在其他地方，中国技术正被广泛使用，苏林贾纳·蒂瓦里报道。",
-    "zh_hant": "在其他地方，中國技術正被廣泛使用，蘇林賈納·蒂瓦里報道。"
+    "zh": "在其他地方，中国技术正被广泛使用，苏里尼亚·蒂瓦里报道。",
+    "zh_hant": "在其他地方，中國技術正被廣泛使用，蘇里尼亞·蒂瓦里報道。"
+  },
+  {
+    "index": 6,
+    "text": "Every time you order clothes, groceries, or household essentials online, there's a chance one of these helped out.",
+    "start": 29.265,
+    "end": 36.148,
+    "zh": "每次你在网上订购衣服、食品或家居用品时，都有可能其中一个帮了忙。",
+    "zh_hant": "每次你在網上訂購衣服、食品或家居用品時，都有可能其中一個幫了忙。"
   },
   {
     "index": 7,
-    "text": "Every time you order clothes, groceries, or household essentials online,",
-    "start": 29.265,
-    "end": 33.547,
-    "zh": "每次你在网上订购衣服、食品杂货或家庭必需品时，",
-    "zh_hant": "每次你在網上訂購衣服、食品雜貨或家庭必需品時，"
-  },
-  {
-    "index": 8,
-    "text": "there's a chance one of these helped out.",
-    "start": 33.367,
-    "end": 36.148,
-    "zh": "都有可能其中有一个帮了忙。",
-    "zh_hant": "都有可能其中有一個幫了忙。"
-  },
-  {
-    "index": 9,
     "text": "Inside warehouses across the world,",
     "start": 39.15,
     "end": 41.611,
-    "zh": "在全球各地的仓库内，",
-    "zh_hant": "在全球各地的倉庫內，"
+    "zh": "在世界各地的仓库内，",
+    "zh_hant": "在世界各地的倉庫內，"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "fleets of autonomous robots are changing the way orders are picked, packed, and dispatched.",
     "start": 41.261,
     "end": 47.434,
-    "zh": "成群的自主机器人正在改变订单拣选、打包和发货的方式。",
-    "zh_hant": "成群的自主機器人正在改變訂單揀選、打包和發貨的方式。"
+    "zh": "成群的自主机器人正在改变订单拣选、包装和配送的方式。",
+    "zh_hant": "成群的自主機器人正在改變訂單揀選、包裝和配送的方式。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Much of that technology is now being developed in China,",
     "start": 49.355,
     "end": 52.897,
-    "zh": "如今，其中大部分技术正在中国研发，",
-    "zh_hant": "如今，其中大部分技術正在中國研發，"
+    "zh": "其中大量技术现在正由中国开发，",
+    "zh_hant": "其中大量技術現在正由中國開發，"
+  },
+  {
+    "index": 10,
+    "text": "led by companies like Geek+, the world's largest supplier of autonomous mobile warehouse robots.",
+    "start": 52.937,
+    "end": 59.74,
+    "zh": "由极智嘉等公司引领，它是全球最大的自主移动仓库机器人供应商。",
+    "zh_hant": "由極智嘉等公司引領，它是全球最大的自主移動倉庫機器人供應商。"
+  },
+  {
+    "index": 11,
+    "text": "At the early stage, the challenge is to have the customers to recognize and believe those kind of robot technologies",
+    "start": 60.241,
+    "end": 67.524,
+    "zh": "在早期阶段，挑战在于让客户认识和相信这类机器人技术",
+    "zh_hant": "在早期階段，挑戰在於讓客戶認識和相信這類機器人技術"
   },
   {
     "index": 12,
-    "text": "led by companies like Geek+, the world's largest supplier",
-    "start": 52.937,
-    "end": 57.099,
-    "zh": "由极智嘉等公司领衔，这是全球最大的供应商",
-    "zh_hant": "由極智嘉等公司領銜，這是全球最大的供應商"
+    "text": "can really create values.",
+    "start": 67.174,
+    "end": 68.945,
+    "zh": "确实能创造价值。",
+    "zh_hant": "確實能創造價值。"
   },
   {
     "index": 13,
-    "text": "of autonomous mobile warehouse robots.",
-    "start": 56.749,
-    "end": 59.74,
-    "zh": "自主移动仓库机器人的供应商。",
-    "zh_hant": "自主移動倉庫機器人的供應商。"
+    "text": "But right now, what we see in the market is most of the companies in the world, they realize,",
+    "start": 68.785,
+    "end": 75.288,
+    "zh": "但现在，我们看到市场上全球大多数公司都意识到，",
+    "zh_hant": "但現在，我們看到市場上全球大多數公司都意識到，"
   },
   {
     "index": 14,
-    "text": "At the early stage, the challenge is to have the customers to recognize",
-    "start": 60.241,
-    "end": 64.603,
-    "zh": "在早期阶段，挑战在于让客户认可",
-    "zh_hant": "在早期階段，挑戰在於讓客戶認可"
-  },
-  {
-    "index": 15,
-    "text": "and believe those kind of robot technologies can really create values.",
-    "start": 64.253,
-    "end": 68.945,
-    "zh": "并相信这类机器人技术确实能创造价值。",
-    "zh_hant": "並相信這類機器人技術確實能創造價值。"
-  },
-  {
-    "index": 16,
-    "text": "But right now, what we see in the market is most of the companies",
-    "start": 68.785,
-    "end": 73.707,
-    "zh": "但如今，市场上我们看到的是，世界上的大多数公司",
-    "zh_hant": "但如今，市場上我們看到的是，世界上的大多數公司"
-  },
-  {
-    "index": 17,
-    "text": "in the world, they realize,",
-    "start": 73.367,
-    "end": 75.288,
-    "zh": "都意识到，",
-    "zh_hant": "都意識到，"
-  },
-  {
-    "index": 18,
     "text": "they see the trend of automation and they use smart robotics",
     "start": 74.938,
     "end": 80.091,
-    "zh": "他们看到了自动化的趋势，并用智能机器人",
-    "zh_hant": "他們看到了自動化的趨勢，並用智慧機器人"
+    "zh": "他们看到了自动化趋势，并运用智能机器人",
+    "zh_hant": "他們看到了自動化趨勢，並運用智慧機器人"
   },
   {
-    "index": 19,
+    "index": 15,
     "text": "to transform their logistics.",
     "start": 79.771,
     "end": 83.853,
-    "zh": "来改造自己的物流。",
-    "zh_hant": "來改造自己的物流。"
+    "zh": "来转型他们的物流。",
+    "zh_hant": "來轉型他們的物流。"
   },
   {
-    "index": 20,
+    "index": 16,
     "text": "Warehouse automation has existed for decades.",
     "start": 83.503,
     "end": 86.834,
@@ -168,103 +136,87 @@
     "zh_hant": "倉庫自動化已存在數十年。"
   },
   {
-    "index": 21,
+    "index": 17,
     "text": "What's changed is that software can now coordinate hundreds of autonomous robots at the same time.",
     "start": 86.484,
     "end": 92.557,
-    "zh": "改变的是，软件现在可以同时协调数百台自主机器人。",
-    "zh_hant": "改變的是，軟體現在可以同時協調數百臺自主機器人。"
+    "zh": "变化在于，软件现在能同时协调数百个自主机器人。",
+    "zh_hant": "變化在於，軟體現在能同時協調數百個自主機器人。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "In traditional warehouses, workers can end up walking very long distances to pick up orders,",
     "start": 92.837,
     "end": 98.52,
-    "zh": "在传统仓库中，工人可能需要走很长的距离来拣取订单，",
-    "zh_hant": "在傳統倉庫中，工人可能需要走很長的距離來揀取訂單，"
+    "zh": "在传统仓库中，工人拣选订单可能需要走很长的距离，",
+    "zh_hant": "在傳統倉庫中，工人揀選訂單可能需要走很長的距離，"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "but with this technology, the goods come to them.",
     "start": 98.17,
     "end": 101.821,
-    "zh": "但有了这项技术，货物会自动送到他们面前。",
-    "zh_hant": "但有了這項技術，貨物會自動送到他們面前。"
+    "zh": "但借助这种技术，货物会送到他们面前。",
+    "zh_hant": "但藉助這種技術，貨物會送到他們面前。"
   },
   {
-    "index": 24,
-    "text": "There are no fixed tracks,",
+    "index": 20,
+    "text": "There are no fixed tracks, only QR codes on the floor,",
     "start": 101.842,
-    "end": 104.143,
-    "zh": "这里没有固定轨道，",
-    "zh_hant": "這裡沒有固定軌道，"
-  },
-  {
-    "index": 25,
-    "text": "only QR codes on the floor,",
-    "start": 103.823,
     "end": 106.204,
-    "zh": "只有地面上的二维码，",
-    "zh_hant": "只有地面上的二維碼，"
+    "zh": "没有固定轨道，只有地面上的二维码，",
+    "zh_hant": "沒有固定軌道，只有地面上的二維碼，"
   },
   {
-    "index": 26,
-    "text": "and companies can stack their goods even higher with this technology",
+    "index": 21,
+    "text": "and companies can stack their goods even higher with this technology than normal.",
     "start": 106.224,
-    "end": 111.346,
-    "zh": "而且通过这项技术，公司可以堆叠货物更高",
-    "zh_hant": "而且透過這項技術，公司可以堆疊貨物更高"
-  },
-  {
-    "index": 27,
-    "text": "than normal.",
-    "start": 111.426,
     "end": 112.967,
-    "zh": "比平常更高。",
-    "zh_hant": "比平常更高。"
+    "zh": "公司用这种技术甚至能比平时堆叠更高的货物。",
+    "zh_hant": "公司用這種技術甚至能比平時堆疊更高的貨物。"
   },
   {
-    "index": 28,
+    "index": 22,
     "text": "Major UK retailers, including Next, Tesco and Asda,",
     "start": 113.728,
     "end": 117.549,
-    "zh": "英国主要零售商，包括Next、特易购和阿斯达，",
-    "zh_hant": "英國主要零售商，包括Next、特易購和阿斯達，"
+    "zh": "包括Next、Tesco和Asda在内的英国大型零售商",
+    "zh_hant": "包括Next、Tesco和Asda在內的英國大型零售商"
   },
   {
-    "index": 29,
+    "index": 23,
     "text": "are investing in the technology as they try to meet online demand efficiently.",
     "start": 117.249,
     "end": 122.212,
-    "zh": "正在投资这项技术，以便高效满足在线需求。",
-    "zh_hant": "正在投資這項技術，以便高效滿足線上需求。"
+    "zh": "正投资于这项技术，以高效满足在线需求。",
+    "zh_hant": "正投資於這項技術，以高效滿足線上需求。"
   },
   {
-    "index": 30,
+    "index": 24,
     "text": "But as robots become more capable, it raises questions about the future of work.",
     "start": 124.653,
     "end": 129.836,
-    "zh": "但随着机器人能力增强，这也引发了关于未来工作的疑问。",
-    "zh_hant": "但隨著機器人能力增強，這也引發了關於未來工作的疑問。"
+    "zh": "但随着机器人能力的提升，也引发了对工作未来的疑问。",
+    "zh_hant": "但隨著機器人能力的提升，也引發了對工作未來的疑問。"
   },
   {
-    "index": 31,
+    "index": 25,
     "text": "Motion Tech, which deploys Geek Plus robots in UK warehouses,",
     "start": 129.996,
     "end": 134.218,
-    "zh": "在英国仓库部署极智嘉机器人的Motion Tech公司",
-    "zh_hant": "在英國倉庫部署極智嘉機器人的Motion Tech公司"
+    "zh": "在英国仓库中部署极智嘉机器人的Motion Tech公司",
+    "zh_hant": "在英國倉庫中部署極智嘉機器人的Motion Tech公司"
   },
   {
-    "index": 32,
+    "index": 26,
     "text": "says they're helping solve one of the logistics industry's biggest problems.",
     "start": 133.868,
     "end": 139.06,
-    "zh": "表示，它们帮助解决了物流行业最大的问题之一。",
-    "zh_hant": "表示，它們幫助解決了物流行業最大的問題之一。"
+    "zh": "表示，这些机器人正帮助解决物流业最大的问题之一。",
+    "zh_hant": "表示，這些機器人正幫助解決物流業最大的問題之一。"
   },
   {
-    "index": 33,
+    "index": 27,
     "text": "I wouldn't say that it replaces jobs,",
     "start": 140.161,
     "end": 142.702,
@@ -272,7 +224,7 @@
     "zh_hant": "我不會說它取代了工作，"
   },
   {
-    "index": 34,
+    "index": 28,
     "text": "because I would say that businesses need this technology in order to develop and move forward.",
     "start": 142.482,
     "end": 148.005,
@@ -280,55 +232,55 @@
     "zh_hant": "因為我認為企業需要這項技術來發展和前進。"
   },
   {
-    "index": 35,
+    "index": 29,
     "text": "We seem to have a very, a big shortage of labour in the UK at the moment.",
     "start": 148.185,
     "end": 154.208,
-    "zh": "目前英国似乎面临非常严重的劳动力短缺。",
-    "zh_hant": "目前英國似乎面臨非常嚴重的勞動力短缺。"
+    "zh": "目前英国似乎存在严重的劳动力短缺问题。",
+    "zh_hant": "目前英國似乎存在嚴重的勞動力短缺問題。"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "Even these robots still have limits.",
     "start": 156.129,
     "end": 158.83,
-    "zh": "即便如此，这些机器人仍有局限。",
-    "zh_hant": "即便如此，這些機器人仍有侷限。"
+    "zh": "即使这些机器人仍有限制。",
+    "zh_hant": "即使這些機器人仍有限制。"
   },
   {
-    "index": 37,
+    "index": 31,
     "text": "They can't yet carry out many of the dexterous tasks humans perform every day.",
     "start": 158.48,
     "end": 163.573,
-    "zh": "它们尚无法执行人类每天进行的许多灵巧任务。",
-    "zh_hant": "它們尚無法執行人類每天進行的許多靈巧任務。"
+    "zh": "它们还无法完成人类日常进行的许多灵巧任务。",
+    "zh_hant": "它們還無法完成人類日常進行的許多靈巧任務。"
   },
   {
-    "index": 38,
+    "index": 32,
     "text": "Geek Plus is developing AI-powered humanoid robots to automate some of those jobs.",
     "start": 165.334,
     "end": 171.458,
-    "zh": "极智嘉正在开发AI驱动的类人机器人，以实现部分工作的自动化。",
-    "zh_hant": "極智嘉正在開發AI驅動的類人機器人，以實現部分工作的自動化。"
+    "zh": "极智嘉正在开发人工智能驱动的类人机器人，以实现部分工作的自动化。",
+    "zh_hant": "極智嘉正在開發人工智慧驅動的類人機器人，以實現部分工作的自動化。"
   },
   {
-    "index": 39,
+    "index": 33,
     "text": "China's AGI bot is going even further",
     "start": 171.858,
     "end": 175.12,
-    "zh": "中国的智元机器人甚至更进一步",
-    "zh_hant": "中國的智元機器人甚至更進一步"
+    "zh": "中国的AGI Bot走得更远，",
+    "zh_hant": "中國的AGI Bot走得更遠，"
   },
   {
-    "index": 40,
+    "index": 34,
     "text": "by deploying humanoids into factories to inspect products and sort defects.",
     "start": 174.8,
     "end": 179.682,
-    "zh": "将类人机器人部署到工厂中，用于检查产品和分类缺陷。",
-    "zh_hant": "將類人機器人部署到工廠中，用於檢查產品和分類缺陷。"
+    "zh": "将类人机器人部署到工厂中，用于检查产品和分拣缺陷。",
+    "zh_hant": "將類人機器人部署到工廠中，用於檢查產品和分揀缺陷。"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "Human-like robots may be the industry's long-term goal,",
     "start": 180.863,
     "end": 184.225,
@@ -336,15 +288,15 @@
     "zh_hant": "類人機器人可能是行業的長期目標，"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "but there's still some way from becoming a common sight on factory and warehouse floors.",
     "start": 184.085,
     "end": 189.628,
-    "zh": "但要成为工厂和仓库地面上的常见景象，还有一段路要走。",
-    "zh_hant": "但要成為工廠和倉庫地面上的常見景象，還有一段路要走。"
+    "zh": "但要成为工厂和仓库地面上的常见景象，仍有很长的路要走。",
+    "zh_hant": "但要成為工廠和倉庫地面上的常見景象，仍有很長的路要走。"
   },
   {
-    "index": 43,
+    "index": 37,
     "text": "Suranjan Attawari, BBC News, Hefei, China.",
     "start": 189.828,
     "end": 193.11,

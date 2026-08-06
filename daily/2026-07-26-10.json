@@ -4,24 +4,24 @@
     "text": "Hello and welcome to Real Easy English,",
     "start": 0.0,
     "end": 3.532,
-    "zh": "你好，欢迎收听《简易英语》",
-    "zh_hant": "你好，歡迎收聽《簡易英語》"
+    "zh": "大家好，欢迎来到《真实简易英语》，",
+    "zh_hant": "大家好，歡迎來到《真實簡易英語》，"
   },
   {
     "index": 1,
     "text": "the podcast where we have real conversations.",
     "start": 3.472,
     "end": 7.013,
-    "zh": "在这个播客里，我们会进行真实的对话",
-    "zh_hant": "在這個播客裡，我們會進行真實的對話"
+    "zh": "这档播客里有真实的对话。",
+    "zh_hant": "這檔播客裡有真實的對話。"
   },
   {
     "index": 2,
     "text": "in easy English to help you learn.",
     "start": 6.693,
     "end": 9.214,
-    "zh": "用简单的英语帮助你学习。",
-    "zh_hant": "用簡單的英語幫助你學習。"
+    "zh": "用简易英语帮助你学习。",
+    "zh_hant": "用簡易英語幫助你學習。"
   },
   {
     "index": 3,
@@ -44,16 +44,16 @@
     "text": "There is a video version of this podcast on our website,",
     "start": 11.216,
     "end": 15.438,
-    "zh": "这个播客在我们的网站上有视频版本，",
-    "zh_hant": "這個播客在我們的網站上有影片版本，"
+    "zh": "这档播客在我们的网站上有视频版本，",
+    "zh_hant": "這檔播客在我們的網站上有影片版本，"
   },
   {
     "index": 6,
     "text": "where you can also find a worksheet and transcript to help you learn.",
     "start": 15.438,
     "end": 19.66,
-    "zh": "在那里你还可以找到工作表和学习用的文本记录。",
-    "zh_hant": "在那裡你還可以找到工作表和學習用的文字記錄。"
+    "zh": "你还可以在那里找到工作表和学习文本。",
+    "zh_hant": "你還可以在那裡找到工作表和學習文字。"
   },
   {
     "index": 7,
@@ -92,35 +92,27 @@
     "text": "I'm starving.",
     "start": 33.467,
     "end": 35.207,
-    "zh": "我快饿死了。",
-    "zh_hant": "我快餓死了。"
+    "zh": "我饿坏了。",
+    "zh_hant": "我餓壞了。"
   },
   {
     "index": 12,
-    "text": "Well, that's good, because we're talking",
+    "text": "Well, that's good, because we're talking about lunch today.",
     "start": 35.488,
-    "end": 38.049,
-    "zh": "那挺好的，因为今天我们要聊",
-    "zh_hant": "那挺好的，因為今天我們要聊"
+    "end": 39.99,
+    "zh": "好啊，这正好，因为今天我们聊午餐。",
+    "zh_hant": "好啊，這正好，因為今天我們聊午餐。"
   },
   {
     "index": 13,
-    "text": "about lunch today.",
-    "start": 37.949,
-    "end": 39.99,
-    "zh": "午餐的话题。",
-    "zh_hant": "午餐的話題。"
-  },
-  {
-    "index": 14,
     "text": "We're recording this just before lunch,",
     "start": 40.291,
     "end": 43.032,
-    "zh": "我们是在午饭前录这期节目，",
-    "zh_hant": "我們是在午飯前錄這期節目，"
+    "zh": "我们是在午饭前录制的，",
+    "zh_hant": "我們是在午飯前錄製的，"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "so it's no wonder that we're both very hungry.",
     "start": 42.682,
     "end": 46.353,
@@ -128,31 +120,23 @@
     "zh_hant": "所以難怪我們倆都很餓。"
   },
   {
-    "index": 16,
-    "text": "You might be able to hear our tummies rumble",
+    "index": 15,
+    "text": "You might be able to hear our tummies rumble because we're hungry.",
     "start": 46.373,
-    "end": 49.555,
-    "zh": "你也许能听到我们肚子咕咕叫",
-    "zh_hant": "你也許能聽到我們肚子咕咕叫"
-  },
-  {
-    "index": 17,
-    "text": "because we're hungry.",
-    "start": 49.875,
     "end": 51.216,
-    "zh": "因为我们饿了。",
-    "zh_hant": "因為我們餓了。"
+    "zh": "你可能能听到我们肚子咕咕叫，因为我们饿了。",
+    "zh_hant": "你可能能聽到我們肚子咕咕叫，因為我們餓了。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "OK.",
     "start": 52.416,
     "end": 53.057,
-    "zh": "好。",
-    "zh_hant": "好。"
+    "zh": "好吧。",
+    "zh_hant": "好吧。"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "So, shall we begin?",
     "start": 52.917,
     "end": 54.517,
@@ -160,7 +144,7 @@
     "zh_hant": "那我們開始吧？"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Yes.",
     "start": 54.357,
     "end": 55.098,
@@ -168,95 +152,95 @@
     "zh_hant": "好。"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "Let's do it.",
     "start": 54.748,
     "end": 55.678,
-    "zh": "开始吧。",
-    "zh_hant": "開始吧。"
+    "zh": "来。",
+    "zh_hant": "來。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "What have you got for lunch today?",
     "start": 55.618,
     "end": 58.859,
-    "zh": "你今天午餐吃什么？",
-    "zh_hant": "你今天午餐吃什麼？"
+    "zh": "你今天午饭吃什么？",
+    "zh_hant": "你今天午飯吃什麼？"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "for my lunch,",
     "start": 58.659,
     "end": 59.92,
-    "zh": "我的午餐",
-    "zh_hant": "我的午餐"
+    "zh": "我的午饭是",
+    "zh_hant": "我的午飯是"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "I have chicken with potatoes",
     "start": 60.08,
     "end": 64.222,
-    "zh": "有鸡肉配土豆",
-    "zh_hant": "有雞肉配土豆"
+    "zh": "鸡肉配土豆",
+    "zh_hant": "雞肉配土豆"
+  },
+  {
+    "index": 23,
+    "text": "and vegetables",
+    "start": 64.722,
+    "end": 65.983,
+    "zh": "和蔬菜",
+    "zh_hant": "和蔬菜"
+  },
+  {
+    "index": 24,
+    "text": "in a harissa paste.",
+    "start": 66.143,
+    "end": 68.084,
+    "zh": "用哈里萨酱调味的。",
+    "zh_hant": "用哈里薩醬調味的。"
   },
   {
     "index": 25,
-    "text": "and vegetables in a harissa paste.",
-    "start": 64.722,
-    "end": 68.084,
-    "zh": "还有哈里萨酱蔬菜。",
-    "zh_hant": "還有哈里薩醬蔬菜。"
-  },
-  {
-    "index": 26,
     "text": "Oh, that sounds really nice.",
     "start": 68.264,
     "end": 70.945,
-    "zh": "哦，听起来很不错。",
-    "zh_hant": "哦，聽起來很不錯。"
+    "zh": "听起来真不错。",
+    "zh_hant": "聽起來真不錯。"
+  },
+  {
+    "index": 26,
+    "text": "Yeah, it's leftovers actually, which I have heated up",
+    "start": 70.745,
+    "end": 74.367,
+    "zh": "是啊，其实是剩菜，我加热了，",
+    "zh_hant": "是啊，其實是剩菜，我加熱了，"
   },
   {
     "index": 27,
-    "text": "Yeah, it's leftovers actually,",
-    "start": 70.745,
-    "end": 73.066,
-    "zh": "是啊，其实是剩菜，",
-    "zh_hant": "是啊，其實是剩菜，"
+    "text": "and brought in in a little flask.",
+    "start": 74.667,
+    "end": 77.629,
+    "zh": "然后装在保温瓶里带来了。",
+    "zh_hant": "然後裝在保溫瓶裡帶來了。"
   },
   {
     "index": 28,
-    "text": "which I have heated up and brought",
-    "start": 72.886,
-    "end": 75.708,
-    "zh": "我热了一下带",
-    "zh_hant": "我熱了一下帶"
-  },
-  {
-    "index": 29,
-    "text": "in in a little flask.",
-    "start": 75.358,
-    "end": 77.629,
-    "zh": "在小保温瓶里带来了。",
-    "zh_hant": "在小保溫瓶裡帶來了。"
-  },
-  {
-    "index": 30,
     "text": "What are leftovers ?",
     "start": 77.409,
     "end": 78.63,
-    "zh": "什么是剩菜？",
-    "zh_hant": "什麼是剩菜？"
+    "zh": "剩菜是什么？",
+    "zh_hant": "剩菜是什麼？"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "Good question.",
     "start": 79.29,
     "end": 80.24,
-    "zh": "问得好。",
-    "zh_hant": "問得好。"
+    "zh": "好问题。",
+    "zh_hant": "好問題。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": ".",
     "start": 79.84,
     "end": 80.861,
@@ -264,31 +248,31 @@
     "zh_hant": "。"
   },
   {
-    "index": 33,
-    "text": "That's food from a meal",
+    "index": 31,
+    "text": "That's food from a meal that you've already",
     "start": 80.461,
-    "end": 83.152,
-    "zh": "就是一顿饭里",
-    "zh_hant": "就是一頓飯裡"
+    "end": 83.912,
+    "zh": "就是你已经吃过的某一餐剩下的",
+    "zh_hant": "就是你已經吃過的某一餐剩下的"
   },
   {
-    "index": 34,
-    "text": "that you've already had that you didn't finish,",
-    "start": 82.802,
+    "index": 32,
+    "text": "had that you didn't finish,",
+    "start": 83.562,
     "end": 85.613,
-    "zh": "你没吃完剩下的食物，",
-    "zh_hant": "你沒吃完剩下的食物，"
+    "zh": "没吃完的食物，",
+    "zh_hant": "沒吃完的食物，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "and you can heat it up and eat it again.",
     "start": 85.513,
     "end": 88.314,
-    "zh": "你可以热一热再吃。",
-    "zh_hant": "你可以熱一熱再吃。"
+    "zh": "你可以加热后再吃一次。",
+    "zh_hant": "你可以加熱後再吃一次。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "Yes.",
     "start": 88.334,
     "end": 89.075,
@@ -296,63 +280,55 @@
     "zh_hant": "對。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "I also have leftovers for my lunch today.",
     "start": 89.275,
     "end": 92.756,
-    "zh": "我今天午餐也带的是剩菜。",
-    "zh_hant": "我今天午餐也帶的是剩菜。"
+    "zh": "我今天中午也带了剩菜。",
+    "zh_hant": "我今天中午也帶了剩菜。"
   },
   {
-    "index": 38,
-    "text": "So, yesterday I",
+    "index": 36,
+    "text": "So, yesterday I made a pasta",
     "start": 92.436,
-    "end": 95.198,
-    "zh": "所以，昨天我",
-    "zh_hant": "所以，昨天我"
-  },
-  {
-    "index": 39,
-    "text": "made a pasta",
-    "start": 95.218,
     "end": 96.978,
-    "zh": "做了一份意面",
-    "zh_hant": "做了一份意麵"
+    "zh": "昨天我做了一份意面",
+    "zh_hant": "昨天我做了一份意麵"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "for lunch with vegetables in it",
     "start": 97.179,
     "end": 101.181,
-    "zh": "做午餐，里面有蔬菜，",
-    "zh_hant": "做午餐，裡面有蔬菜，"
+    "zh": "里面有蔬菜",
+    "zh_hant": "裡面有蔬菜"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "and I have that.",
     "start": 102.121,
     "end": 103.342,
-    "zh": "我今天就吃这个。",
-    "zh_hant": "我今天就吃這個。"
+    "zh": "然后我就吃这个。",
+    "zh_hant": "然後我就吃這個。"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "So, Beth, what do you usually have for lunch?",
     "start": 103.262,
     "end": 106.703,
-    "zh": "贝丝，你平时午餐通常吃什么？",
-    "zh_hant": "貝絲，你平時午餐通常吃什麼？"
+    "zh": "贝丝，你平时午饭吃什么？",
+    "zh_hant": "貝絲，你平時午飯吃什麼？"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "Is it usually leftovers or something else?",
     "start": 106.423,
     "end": 109.525,
-    "zh": "通常是剩菜还是别的？",
-    "zh_hant": "通常是剩菜還是別的？"
+    "zh": "通常吃剩菜还是别的？",
+    "zh_hant": "通常吃剩菜還是別的？"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "It's usually leftovers when I come into work",
     "start": 109.925,
     "end": 113.847,
@@ -360,55 +336,47 @@
     "zh_hant": "我上班的時候通常吃剩菜，"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "because it's easier,",
     "start": 113.967,
     "end": 116.688,
-    "zh": "因为这样更方便，",
-    "zh_hant": "因為這樣更方便，"
+    "zh": "因为更方便，",
+    "zh_hant": "因為更方便，"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "and then I don't need to buy lunch.",
     "start": 116.338,
     "end": 118.689,
-    "zh": "而且我也不用去买午餐。",
-    "zh_hant": "而且我也不用去買午餐。"
+    "zh": "这样就不用买午饭了。",
+    "zh_hant": "這樣就不用買午飯了。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "But if I go out and buy food,",
     "start": 119.03,
     "end": 122.111,
-    "zh": "但如果我出去买吃的，",
-    "zh_hant": "但如果我出去買吃的，"
+    "zh": "但如果我出去买食物的话，",
+    "zh_hant": "但如果我出去買食物的話，"
   },
   {
-    "index": 48,
-    "text": "then I would usually go for something",
+    "index": 45,
+    "text": "then I would usually go",
     "start": 122.072,
-    "end": 125.493,
-    "zh": "我通常会选择",
-    "zh_hant": "我通常會選擇"
+    "end": 124.573,
+    "zh": "我一般会",
+    "zh_hant": "我一般會"
   },
   {
-    "index": 49,
-    "text": "like sushi",
-    "start": 125.653,
-    "end": 127.014,
-    "zh": "寿司",
-    "zh_hant": "壽司"
-  },
-  {
-    "index": 50,
-    "text": "or ramen.",
-    "start": 127.074,
+    "index": 46,
+    "text": "for something like sushi or ramen.",
+    "start": 124.293,
     "end": 128.394,
-    "zh": "或者拉面。",
-    "zh_hant": "或者拉麵。"
+    "zh": "买寿司或拉面之类的东西。",
+    "zh_hant": "買壽司或拉麵之類的東西。"
   },
   {
-    "index": 51,
+    "index": 47,
     "text": "What about you?",
     "start": 128.775,
     "end": 129.855,
@@ -416,71 +384,63 @@
     "zh_hant": "你呢？"
   },
   {
-    "index": 52,
+    "index": 48,
     "text": "What do you usually have for lunch?",
     "start": 129.505,
     "end": 131.836,
-    "zh": "你平时午餐一般吃什么？",
-    "zh_hant": "你平時午餐一般吃什麼？"
+    "zh": "你平时午饭吃什么？",
+    "zh_hant": "你平時午飯吃什麼？"
   },
   {
-    "index": 53,
+    "index": 49,
     "text": "Yeah.",
     "start": 133.977,
     "end": 134.638,
-    "zh": "嗯。",
-    "zh_hant": "嗯。"
+    "zh": "是啊。",
+    "zh_hant": "是啊。"
   },
   {
-    "index": 54,
+    "index": 50,
     "text": "Sometimes I have leftovers that I bring in.",
     "start": 134.288,
     "end": 137.239,
-    "zh": "有时候我吃带的剩菜。",
-    "zh_hant": "有時候我吃帶的剩菜。"
+    "zh": "有时候我带剩菜来。",
+    "zh_hant": "有時候我帶剩菜來。"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "Sometimes, I buy a sandwich, for example.",
     "start": 136.899,
     "end": 140.36,
-    "zh": "有时候我会买个三明治什么的。",
-    "zh_hant": "有時候我會買個三明治什麼的。"
+    "zh": "有时候我会买个三明治之类的。",
+    "zh_hant": "有時候我會買個三明治之類的。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "What's your favourite kind of sandwich?",
     "start": 140.901,
     "end": 143.282,
-    "zh": "你最喜欢什么三明治？",
-    "zh_hant": "你最喜歡什麼三明治？"
+    "zh": "你最喜欢哪种三明治？",
+    "zh_hant": "你最喜歡哪種三明治？"
   },
   {
-    "index": 57,
-    "text": "If I have a sandwich,",
+    "index": 53,
+    "text": "If I have a sandwich, if I buy a sandwich for lunch,",
     "start": 144.143,
-    "end": 146.023,
-    "zh": "如果我吃三明治，",
-    "zh_hant": "如果我吃三明治，"
-  },
-  {
-    "index": 58,
-    "text": "if I buy a sandwich for lunch,",
-    "start": 145.673,
     "end": 148.284,
-    "zh": "如果我午餐买三明治，",
-    "zh_hant": "如果我午餐買三明治，"
+    "zh": "如果我买个三明治当午餐的话，",
+    "zh_hant": "如果我買個三明治當午餐的話，"
   },
   {
-    "index": 59,
+    "index": 54,
     "text": "I like to get things like smoked salmon.",
     "start": 147.964,
     "end": 151.446,
-    "zh": "我喜欢买烟熏三文鱼那种。",
-    "zh_hant": "我喜歡買菸燻三文魚那種。"
+    "zh": "我喜欢买烟熏三文鱼的那种。",
+    "zh_hant": "我喜歡買菸燻三文魚的那種。"
   },
   {
-    "index": 60,
+    "index": 55,
     "text": "Nice.",
     "start": 151.946,
     "end": 152.847,
@@ -488,23 +448,23 @@
     "zh_hant": "不錯。"
   },
   {
-    "index": 61,
+    "index": 56,
     "text": "With pickles maybe, yeah.",
     "start": 152.707,
     "end": 155.748,
-    "zh": "可能再加点酸黄瓜，嗯。",
-    "zh_hant": "可能再加點酸黃瓜，嗯。"
+    "zh": "再配上腌黄瓜，嗯。",
+    "zh_hant": "再配上醃黃瓜，嗯。"
   },
   {
-    "index": 62,
+    "index": 57,
     "text": "There's a really good baguette I like actually",
     "start": 156.028,
     "end": 158.63,
-    "zh": "其实我很喜欢一种特别好的法棍面包",
-    "zh_hant": "其實我很喜歡一種特別好的法棍麵包"
+    "zh": "其实我特别喜欢一家法棍面包店，",
+    "zh_hant": "其實我特別喜歡一家法棍麵包店，"
   },
   {
-    "index": 63,
+    "index": 58,
     "text": "that has smoked salmon",
     "start": 158.28,
     "end": 161.131,
@@ -512,7 +472,7 @@
     "zh_hant": "裡面有煙燻三文魚"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "and egg mayonnaise in it.",
     "start": 161.252,
     "end": 164.293,
@@ -520,15 +480,15 @@
     "zh_hant": "和雞蛋蛋黃醬。"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "Oh, it's so nice.",
     "start": 164.113,
     "end": 165.473,
-    "zh": "哦，太好吃了。",
-    "zh_hant": "哦，太好吃了。"
+    "zh": "太好吃了。",
+    "zh_hant": "太好吃了。"
   },
   {
-    "index": 66,
+    "index": 61,
     "text": "Stop it.",
     "start": 165.374,
     "end": 166.294,
@@ -536,7 +496,7 @@
     "zh_hant": "別說了。"
   },
   {
-    "index": 67,
+    "index": 62,
     "text": "Sorry.",
     "start": 166.054,
     "end": 166.774,
@@ -544,7 +504,7 @@
     "zh_hant": "抱歉。"
   },
   {
-    "index": 68,
+    "index": 63,
     "text": "I'm so hungry.",
     "start": 166.424,
     "end": 167.654,
@@ -552,7 +512,7 @@
     "zh_hant": "我太餓了。"
   },
   {
-    "index": 69,
+    "index": 64,
     "text": "Me too.",
     "start": 167.304,
     "end": 168.095,
@@ -560,63 +520,63 @@
     "zh_hant": "我也是。"
   },
   {
-    "index": 70,
+    "index": 65,
     "text": "Neil, do you ever skip lunch?",
     "start": 168.695,
     "end": 170.976,
-    "zh": "尼尔，你跳过不吃午餐吗？",
-    "zh_hant": "尼爾，你跳過不吃午餐嗎？"
+    "zh": "尼尔，你跳过午饭不吃吗？",
+    "zh_hant": "尼爾，你跳過午飯不吃嗎？"
   },
   {
-    "index": 71,
+    "index": 66,
     "text": "No way.",
     "start": 171.877,
     "end": 172.977,
-    "zh": "绝对不会。",
-    "zh_hant": "絕對不會。"
+    "zh": "不可能。",
+    "zh_hant": "不可能。"
   },
   {
-    "index": 72,
+    "index": 67,
     "text": "I would be in a horrible mood if I skipped lunch.",
     "start": 173.297,
     "end": 177.319,
-    "zh": "我要是跳过午餐，心情会糟透了。",
-    "zh_hant": "我要是跳過午餐，心情會糟透了。"
+    "zh": "要是我不吃午饭，心情会糟透了。",
+    "zh_hant": "要是我不吃午飯，心情會糟透了。"
   },
   {
-    "index": 73,
+    "index": 68,
     "text": "I don't understand how anyone can skip any meal.",
     "start": 178.0,
     "end": 182.121,
-    "zh": "我真不明白怎么能有人跳过任何一餐。",
-    "zh_hant": "我真不明白怎麼能有人跳過任何一餐。"
+    "zh": "我不理解怎么会有人不吃任何一餐。",
+    "zh_hant": "我不理解怎麼會有人不吃任何一餐。"
   },
   {
-    "index": 74,
+    "index": 69,
     "text": "I need to eat all my meals.",
     "start": 182.522,
     "end": 185.083,
-    "zh": "我每顿饭都得吃。",
-    "zh_hant": "我每頓飯都得吃。"
+    "zh": "我每餐都得吃。",
+    "zh_hant": "我每餐都得吃。"
   },
   {
-    "index": 75,
+    "index": 70,
     "text": "Yeah.",
     "start": 185.303,
     "end": 185.983,
-    "zh": "是啊。",
-    "zh_hant": "是啊。"
+    "zh": "对。",
+    "zh_hant": "對。"
   },
   {
-    "index": 76,
+    "index": 71,
     "text": "Otherwise, you get hangry.",
     "start": 186.124,
     "end": 187.864,
-    "zh": "不然你就会变成饿怒。",
-    "zh_hant": "不然你就會變成餓怒。"
+    "zh": "不然你会变得又饿又气。",
+    "zh_hant": "不然你會變得又餓又氣。"
   },
   {
-    "index": 77,
+    "index": 72,
     "text": "Exactly.",
     "start": 187.825,
     "end": 188.785,
@@ -624,31 +584,31 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 78,
+    "index": 73,
     "text": "'Hangry' is hungry and angry.",
     "start": 188.485,
     "end": 191.626,
-    "zh": "饿怒就是又饿又生气。",
-    "zh_hant": "餓怒就是又餓又生氣。"
+    "zh": "Hangry就是饿了加上生气。",
+    "zh_hant": "Hangry就是餓了加上生氣。"
   },
   {
-    "index": 79,
+    "index": 74,
     "text": "I'm on the…",
     "start": 191.927,
     "end": 194.107,
-    "zh": "我现在有点……",
-    "zh_hant": "我現在有點……"
+    "zh": "我快……",
+    "zh_hant": "我快……"
   },
   {
-    "index": 80,
+    "index": 75,
     "text": "I'm almost getting hangry now.",
     "start": 193.757,
     "end": 196.008,
-    "zh": "我现在差不多要饿怒了。",
-    "zh_hant": "我現在差不多要餓怒了。"
+    "zh": "我现在都快又饿又气了。",
+    "zh_hant": "我現在都快又餓又氣了。"
   },
   {
-    "index": 81,
+    "index": 76,
     "text": "What's your favourite meal?",
     "start": 196.789,
     "end": 198.69,
@@ -656,15 +616,15 @@
     "zh_hant": "你最喜歡哪一餐？"
   },
   {
-    "index": 82,
+    "index": 77,
     "text": "Is it lunch?",
     "start": 198.43,
     "end": 199.51,
-    "zh": "午餐吗？",
-    "zh_hant": "午餐嗎？"
+    "zh": "午餐？",
+    "zh_hant": "午餐？"
   },
   {
-    "index": 83,
+    "index": 78,
     "text": "Breakfast?",
     "start": 199.591,
     "end": 200.591,
@@ -672,7 +632,7 @@
     "zh_hant": "早餐？"
   },
   {
-    "index": 84,
+    "index": 79,
     "text": "Dinner?",
     "start": 200.241,
     "end": 200.951,
@@ -680,71 +640,63 @@
     "zh_hant": "晚餐？"
   },
   {
-    "index": 85,
-    "text": "I think the evening meal is probably my favourite",
+    "index": 80,
+    "text": "I think the evening meal is probably my favourite because we",
     "start": 202.992,
-    "end": 207.474,
-    "zh": "我觉得晚饭大概是我最喜欢的，",
-    "zh_hant": "我覺得晚飯大概是我最喜歡的，"
+    "end": 207.875,
+    "zh": "我觉得晚餐可能是我最喜欢的，因为我们会",
+    "zh_hant": "我覺得晚餐可能是我最喜歡的，因為我們會"
   },
   {
-    "index": 86,
-    "text": "because we sit at the table and chat and it's the biggest,",
-    "start": 207.124,
-    "end": 211.396,
-    "zh": "因为我们会坐在桌前聊天，而且那是一天中最大、",
-    "zh_hant": "因為我們會坐在桌前聊天，而且那是一天中最大、"
+    "index": 81,
+    "text": "sit at the table",
+    "start": 207.525,
+    "end": 208.855,
+    "zh": "坐在桌边",
+    "zh_hant": "坐在桌邊"
   },
   {
-    "index": 87,
-    "text": "nicest meal of the day and you don't really have to do anything",
-    "start": 211.076,
-    "end": 215.538,
-    "zh": "最好的一餐，而且之后你也不用再做什么",
-    "zh_hant": "最好的一餐，而且之後你也不用再做什麼"
+    "index": 82,
+    "text": "and chat and it's the biggest, nicest meal of the day",
+    "start": 208.835,
+    "end": 213.037,
+    "zh": "聊天，而且这是一天中最丰盛最美味的饭，",
+    "zh_hant": "聊天，而且這是一天中最豐盛最美味的飯，"
   },
   {
-    "index": 88,
-    "text": "after so you can relax.",
-    "start": 215.499,
+    "index": 83,
+    "text": "and you don't really have to do anything after so you can relax.",
+    "start": 213.217,
     "end": 217.659,
-    "zh": "所以可以放松一下。",
-    "zh_hant": "所以可以放鬆一下。"
+    "zh": "吃完后也不用再做什么，可以放松。",
+    "zh_hant": "吃完後也不用再做什麼，可以放鬆。"
   },
   {
-    "index": 89,
+    "index": 84,
     "text": "Yeah that's good.",
     "start": 218.26,
     "end": 219.6,
-    "zh": "嗯，那挺好的。",
-    "zh_hant": "嗯，那挺好的。"
+    "zh": "对，不错。",
+    "zh_hant": "對，不錯。"
   },
   {
-    "index": 90,
-    "text": "I really like brunch",
+    "index": 85,
+    "text": "I really like brunch which is that sort of in between breakfast and lunch,",
     "start": 219.801,
-    "end": 221.401,
-    "zh": "我很喜欢早午餐",
-    "zh_hant": "我很喜歡早午餐"
-  },
-  {
-    "index": 91,
-    "text": "which is that sort of in between breakfast and lunch,",
-    "start": 221.221,
     "end": 225.023,
-    "zh": "就是那种介于早餐和午餐之间的，",
-    "zh_hant": "就是那種介於早餐和午餐之間的，"
+    "zh": "我真的很喜欢早午餐，就是早餐和午餐之间的那一顿，",
+    "zh_hant": "我真的很喜歡早午餐，就是早餐和午餐之間的那一頓，"
   },
   {
-    "index": 92,
+    "index": 86,
     "text": "maybe 10:00.",
     "start": 224.673,
     "end": 226.19,
-    "zh": "大概十点钟。",
-    "zh_hant": "大概十點鐘。"
+    "zh": "大概十点吃。",
+    "zh_hant": "大概十點吃。"
   },
   {
-    "index": 93,
+    "index": 87,
     "text": "And I might have eggs",
     "start": 226.544,
     "end": 229.045,
@@ -752,191 +704,159 @@
     "zh_hant": "我可能會吃雞蛋"
   },
   {
-    "index": 94,
+    "index": 88,
     "text": "and bacon and hash browns and avocado,",
     "start": 228.695,
     "end": 232.467,
-    "zh": "培根、薯饼和牛油果，",
-    "zh_hant": "培根、薯餅和牛油果，"
+    "zh": "培根、土豆饼和牛油果，",
+    "zh_hant": "培根、土豆餅和牛油果，"
   },
   {
-    "index": 95,
-    "text": "a big meal full of lots of good food,",
+    "index": 89,
+    "text": "a big meal full of lots of good food, like a brunch.",
     "start": 232.287,
-    "end": 235.828,
-    "zh": "一顿丰盛的大餐，全是好吃的，",
-    "zh_hant": "一頓豐盛的大餐，全是好吃的，"
-  },
-  {
-    "index": 96,
-    "text": "like a brunch.",
-    "start": 235.788,
     "end": 236.869,
-    "zh": "就像早午餐那种。",
-    "zh_hant": "就像早午餐那種。"
+    "zh": "美味丰富的一大餐，就像早午餐那样。",
+    "zh_hant": "美味豐富的一大餐，就像早午餐那樣。"
   },
   {
-    "index": 97,
+    "index": 90,
     "text": "Do you ever have a working lunch ?",
     "start": 237.409,
     "end": 240.23,
-    "zh": "你有没有吃过工作午餐？",
-    "zh_hant": "你有沒有吃過工作午餐？"
+    "zh": "你吃过边工作边吃的午餐吗？",
+    "zh_hant": "你吃過邊工作邊吃的午餐嗎？"
   },
   {
-    "index": 98,
+    "index": 91,
     "text": "I do occasionally if I'm working from home",
     "start": 241.172,
     "end": 245.094,
-    "zh": "我在家工作的时候偶尔会，",
-    "zh_hant": "我在家工作的時候偶爾會，"
+    "zh": "我在家工作时偶尔会这样，",
+    "zh_hant": "我在家工作時偶爾會這樣，"
   },
   {
-    "index": 99,
-    "text": "because I can carry",
+    "index": 92,
+    "text": "because I can carry on working and eat quickly.",
     "start": 246.615,
-    "end": 249.837,
-    "zh": "因为我可以一边继续",
-    "zh_hant": "因為我可以一邊繼續"
-  },
-  {
-    "index": 100,
-    "text": "on working and eat quickly.",
-    "start": 249.487,
     "end": 251.218,
-    "zh": "工作一边快速吃东西。",
-    "zh_hant": "工作一邊快速吃東西。"
+    "zh": "因为可以一边工作一边快速吃饭。",
+    "zh_hant": "因為可以一邊工作一邊快速吃飯。"
   },
   {
-    "index": 101,
+    "index": 93,
     "text": "And then in my actual lunch break,",
     "start": 250.868,
     "end": 253.159,
-    "zh": "然后在真正的午休时间，",
-    "zh_hant": "然後在真正的午休時間，"
+    "zh": "而在真正的午休时间里，",
+    "zh_hant": "而在真正的午休時間裡，"
   },
   {
-    "index": 102,
-    "text": "I might have a nice long walk",
+    "index": 94,
+    "text": "I might have a nice long walk or something like that,",
     "start": 252.809,
-    "end": 255.5,
-    "zh": "我可能会去好好散个步",
-    "zh_hant": "我可能會去好好散個步"
+    "end": 256.561,
+    "zh": "我可能会去散个长步之类的，",
+    "zh_hant": "我可能會去散個長步之類的，"
   },
   {
-    "index": 103,
-    "text": "or something like that, but when I'm in the office,",
-    "start": 255.18,
-    "end": 258.782,
-    "zh": "之类的，但在办公室的时候，",
-    "zh_hant": "之類的，但在辦公室的時候，"
-  },
-  {
-    "index": 104,
-    "text": "I don't want to eat at my desk.",
-    "start": 258.432,
+    "index": 95,
+    "text": "but when I'm in the office, I don't want to eat at my desk.",
+    "start": 256.881,
     "end": 260.223,
-    "zh": "我不想在办公桌前吃饭。",
-    "zh_hant": "我不想在辦公桌前吃飯。"
+    "zh": "但如果在办公室，我不想在办公桌前吃饭。",
+    "zh_hant": "但如果在辦公室，我不想在辦公桌前吃飯。"
   },
   {
-    "index": 105,
+    "index": 96,
     "text": "No. Me neither.",
     "start": 260.143,
     "end": 261.584,
-    "zh": "不，我也是。",
-    "zh_hant": "不，我也是。"
+    "zh": "不，我也不想。",
+    "zh_hant": "不，我也不想。"
   },
   {
-    "index": 106,
+    "index": 97,
     "text": "I don't really like working lunches .",
     "start": 261.604,
     "end": 264.49,
-    "zh": "我不是很喜欢工作午餐。",
-    "zh_hant": "我不是很喜歡工作午餐。"
+    "zh": "我不太喜欢边工作边吃午饭。",
+    "zh_hant": "我不太喜歡邊工作邊吃午飯。"
   },
   {
-    "index": 107,
+    "index": 98,
     "text": "I would rather eat my lunch without working.",
     "start": 264.506,
     "end": 267.948,
-    "zh": "我宁愿不吃工作餐。",
-    "zh_hant": "我寧願不吃工作餐。"
+    "zh": "我更愿意不工作专心吃饭。",
+    "zh_hant": "我更願意不工作專心吃飯。"
   },
   {
-    "index": 108,
+    "index": 99,
     "text": "Yeah, I'd prefer the same, really.",
     "start": 268.848,
     "end": 271.71,
-    "zh": "嗯，我也更喜欢这样。",
-    "zh_hant": "嗯，我也更喜歡這樣。"
+    "zh": "没错，我其实也是这样的。",
+    "zh_hant": "沒錯，我其實也是這樣的。"
   },
   {
-    "index": 109,
+    "index": 100,
     "text": "We heard 'working",
     "start": 279.21,
     "end": 281.01,
-    "zh": "我们听到了‘工作",
-    "zh_hant": "我們聽到了‘工作"
+    "zh": "我们听到了 'working",
+    "zh_hant": "我們聽到了 'working"
   },
   {
-    "index": 110,
+    "index": 101,
     "text": "lunch',",
     "start": 288.055,
     "end": 289.115,
-    "zh": "午餐’这个词，",
-    "zh_hant": "午餐’這個詞，"
+    "zh": "lunch'，",
+    "zh_hant": "lunch'，"
   },
   {
-    "index": 111,
-    "text": "which is when you eat your lunch",
+    "index": 102,
+    "text": "which is when you eat your lunch while you're working.",
     "start": 289.455,
-    "end": 293.537,
-    "zh": "就是指一边吃饭",
-    "zh_hant": "就是指一邊吃飯"
-  },
-  {
-    "index": 112,
-    "text": "while you're working.",
-    "start": 293.317,
     "end": 294.638,
-    "zh": "一边工作。",
-    "zh_hant": "一邊工作。"
+    "zh": "就是指一边工作一边吃午饭。",
+    "zh_hant": "就是指一邊工作一邊吃午飯。"
   },
   {
-    "index": 113,
+    "index": 103,
     "text": "We also had 'leftovers', which is when you don't finish a meal,",
     "start": 295.418,
     "end": 299.78,
-    "zh": "我们还学了‘剩菜’，就是一餐没吃完，",
-    "zh_hant": "我們還學了‘剩菜’，就是一餐沒吃完，"
+    "zh": "我们还听到了 'leftovers'，",
+    "zh_hant": "我們還聽到了 'leftovers'，"
   },
   {
-    "index": 114,
+    "index": 104,
     "text": "so you have more of it at a different time, like the next day.",
     "start": 299.56,
     "end": 303.342,
-    "zh": "然后在别的时间再吃，比如第二天。",
-    "zh_hant": "然後在別的時間再吃，比如第二天。"
+    "zh": "就是某一顿饭没吃完，然后在另一个时间再吃，比如第二天。",
+    "zh_hant": "就是某一頓飯沒吃完，然後在另一個時間再吃，比如第二天。"
   },
   {
-    "index": 115,
+    "index": 105,
     "text": "And we talked about which meals and food we prefer.",
     "start": 303.682,
     "end": 307.444,
-    "zh": "我们还聊到了我们更喜欢哪些餐和食物。",
-    "zh_hant": "我們還聊到了我們更喜歡哪些餐和食物。"
+    "zh": "我们还聊了更喜欢哪一餐、哪些食物。",
+    "zh_hant": "我們還聊了更喜歡哪一餐、哪些食物。"
   },
   {
-    "index": 116,
+    "index": 106,
     "text": "If you prefer something, you like it better than something else.",
     "start": 307.284,
     "end": 311.166,
-    "zh": "如果你更喜欢某样东西，意思就是你比别的东西更喜欢它。",
-    "zh_hant": "如果你更喜歡某樣東西，意思就是你比別的東西更喜歡它。"
+    "zh": "如果你prefer某样东西，就是你相比其他更喜欢它。",
+    "zh_hant": "如果你prefer某樣東西，就是你相比其他更喜歡它。"
   },
   {
-    "index": 117,
+    "index": 107,
     "text": "Yes.",
     "start": 311.186,
     "end": 311.966,
@@ -944,71 +864,47 @@
     "zh_hant": "對。"
   },
   {
-    "index": 118,
+    "index": 108,
     "text": "And another phrase we can use to say this is 'would rather'.",
     "start": 311.686,
     "end": 316.028,
-    "zh": "我们还可以用另一个短语来表达这个意思，就是‘宁愿’。",
-    "zh_hant": "我們還可以用另一個短語來表達這個意思，就是‘寧願’。"
+    "zh": "另一个能表达这个意思的短语是 'would rather'。",
+    "zh_hant": "另一個能表達這個意思的短語是 'would rather'。"
   },
   {
-    "index": 119,
-    "text": "For example, I 'd rather have sushi",
+    "index": 109,
+    "text": "For example, I 'd rather have sushi than a sandwich for lunch.",
     "start": 315.908,
-    "end": 318.87,
-    "zh": "比如，午餐我宁愿吃寿司",
-    "zh_hant": "比如，午餐我寧願吃壽司"
-  },
-  {
-    "index": 120,
-    "text": "than a sandwich for lunch.",
-    "start": 318.65,
     "end": 320.452,
-    "zh": "也不吃三明治。",
-    "zh_hant": "也不吃三明治。"
+    "zh": "比如，午饭我宁愿吃寿司，而不是三明治。",
+    "zh_hant": "比如，午飯我寧願吃壽司，而不是三明治。"
   },
   {
-    "index": 121,
+    "index": 110,
     "text": "That's it for this episode of Real Easy English.",
     "start": 320.673,
     "end": 323.675,
-    "zh": "以上就是本期《简易英语》的全部内容。",
-    "zh_hant": "以上就是本期《簡易英語》的全部內容。"
+    "zh": "本期《真实简易英语》就到这里了。",
+    "zh_hant": "本期《真實簡易英語》就到這裡了。"
   },
   {
-    "index": 122,
-    "text": "Test what you've learned with a worksheet on our website,",
+    "index": 111,
+    "text": "Test what you've learned with a worksheet on our website, bbclearningenglish.com.",
     "start": 323.325,
-    "end": 326.378,
-    "zh": "用我们网站上的工作表来测试你学到的内容，",
-    "zh_hant": "用我們網站上的工作表來測試你學到的內容，"
-  },
-  {
-    "index": 123,
-    "text": "bbclearningenglish.com.",
-    "start": 326.079,
     "end": 328.32,
-    "zh": "bbclearningenglish.com。",
-    "zh_hant": "bbclearningenglish.com。"
+    "zh": "用我们网站bbclearningenglish.com上的工作表检验你的学习成果。",
+    "zh_hant": "用我們網站bbclearningenglish.com上的工作表檢驗你的學習成果。"
   },
   {
-    "index": 124,
-    "text": "And make sure you join us again",
+    "index": 112,
+    "text": "And make sure you join us again for another easy English conversation.",
     "start": 328.381,
-    "end": 330.823,
-    "zh": "记得一定要再来听我们",
-    "zh_hant": "記得一定要再來聽我們"
-  },
-  {
-    "index": 125,
-    "text": "for another easy English conversation.",
-    "start": 330.543,
     "end": 333.666,
-    "zh": "下一期的简易英语对话。",
-    "zh_hant": "下一期的簡易英語對話。"
+    "zh": "别忘了下次再来听一期简易英语对话。",
+    "zh_hant": "別忘了下次再來聽一期簡易英語對話。"
   },
   {
-    "index": 126,
+    "index": 113,
     "text": "We'll be back next week.",
     "start": 333.567,
     "end": 335.148,
@@ -1016,7 +912,7 @@
     "zh_hant": "我們下週見。"
   },
   {
-    "index": 127,
+    "index": 114,
     "text": "See you soon.",
     "start": 334.948,
     "end": 335.929,
@@ -1024,7 +920,7 @@
     "zh_hant": "再見。"
   },
   {
-    "index": 128,
+    "index": 115,
     "text": "Goodbye.",
     "start": 335.579,
     "end": 336.89,

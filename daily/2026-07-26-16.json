@@ -1,858 +1,818 @@
 [
   {
     "index": 0,
-    "text": "Hello and welcome to Real Easy English, the podcast where we have real conversations",
+    "text": "Hello and welcome to Real Easy English,",
     "start": 0.0,
-    "end": 5.953,
-    "zh": "大家好,欢迎收听《Real Easy English》,一个进行真实对话的播客节目",
-    "zh_hant": "大家好,歡迎收聽《Real Easy English》,一個進行真實對話的播客節目"
+    "end": 3.111,
+    "zh": "你好，欢迎收听《真实简易英语》",
+    "zh_hant": "你好，歡迎收聽《真實簡易英語》"
   },
   {
     "index": 1,
-    "text": "in easy English to help you learn.",
-    "start": 5.563,
-    "end": 8.134,
-    "zh": "进行真实的对话,帮助你学习。",
-    "zh_hant": "進行真實的對話,幫助你學習。"
+    "text": "the podcast where we have real conversations",
+    "start": 2.761,
+    "end": 5.953,
+    "zh": "这个播客里有真实的对话",
+    "zh_hant": "這個播客裡有真實的對話"
   },
   {
     "index": 2,
-    "text": "I'm Neil.",
-    "start": 8.024,
-    "end": 8.874,
-    "zh": "我是Neil。",
-    "zh_hant": "我是Neil。"
+    "text": "in easy English to help you learn.",
+    "start": 5.613,
+    "end": 8.134,
+    "zh": "用简单的英语帮你学习。",
+    "zh_hant": "用簡單的英語幫你學習。"
   },
   {
     "index": 3,
-    "text": "And I'm Georgie.",
-    "start": 8.604,
-    "end": 10.055,
-    "zh": "我是Georgie。",
-    "zh_hant": "我是Georgie。"
+    "text": "I'm Neil.",
+    "start": 8.074,
+    "end": 8.874,
+    "zh": "我是尼尔。",
+    "zh_hant": "我是尼爾。"
   },
   {
     "index": 4,
-    "text": "You can now watch this podcast and find a worksheet to help you learn",
-    "start": 10.045,
-    "end": 14.357,
-    "zh": "你现在可以观看这个播客,并找到帮助你学习的练习单,",
-    "zh_hant": "你現在可以觀看這個播客,並找到幫助你學習的練習單,"
+    "text": "And I'm Georgie.",
+    "start": 8.654,
+    "end": 10.055,
+    "zh": "我是乔治。",
+    "zh_hant": "我是喬治。"
   },
   {
     "index": 5,
-    "text": "on our website, bbclearningenglish.com.",
-    "start": 13.967,
-    "end": 17.338,
-    "zh": "就在我们的网站bbclearningenglish.com上。",
-    "zh_hant": "就在我們的網站bbclearningenglish.com上。"
+    "text": "You can now watch this podcast and find a worksheet to help you learn on our website,",
+    "start": 10.095,
+    "end": 15.297,
+    "zh": "你现在可以在我们的网站上观看这个播客，并找到学习用的工作表",
+    "zh_hant": "你現在可以在我們的網站上觀看這個播客，並找到學習用的工作表"
   },
   {
     "index": 6,
-    "text": "So Georgie, how are you?",
-    "start": 24.252,
-    "end": 25.923,
-    "zh": "那么Georgie,你好吗?",
-    "zh_hant": "那麼Georgie,你好嗎?"
+    "text": "bbclearningenglish.com.",
+    "start": 15.018,
+    "end": 17.338,
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
   },
   {
     "index": 7,
-    "text": "I'm very tired, actually.",
-    "start": 26.093,
-    "end": 28.024,
-    "zh": "其实我挺累的。",
-    "zh_hant": "其實我挺累的。"
+    "text": "So Georgie, how are you?",
+    "start": 24.302,
+    "end": 25.923,
+    "zh": "那么乔治，你好吗？",
+    "zh_hant": "那麼喬治，你好嗎？"
   },
   {
     "index": 8,
-    "text": "I've had a lot of social plans lately.",
-    "start": 27.594,
-    "end": 30.485,
-    "zh": "我最近有很多社交安排。",
-    "zh_hant": "我最近有很多社交安排。"
+    "text": "I'm very tired, actually.",
+    "start": 26.143,
+    "end": 28.024,
+    "zh": "我其实很累。",
+    "zh_hant": "我其實很累。"
   },
   {
     "index": 9,
-    "text": "How about you?",
-    "start": 30.175,
-    "end": 31.325,
-    "zh": "你呢?",
-    "zh_hant": "你呢?"
+    "text": "I've had a lot of social plans lately.",
+    "start": 27.674,
+    "end": 30.485,
+    "zh": "最近社交活动特别多。",
+    "zh_hant": "最近社交活動特別多。"
   },
   {
     "index": 10,
-    "text": "Yeah, I'm fine.",
-    "start": 31.496,
-    "end": 33.146,
-    "zh": "我挺好的。",
-    "zh_hant": "我挺好的。"
+    "text": "How about you?",
+    "start": 30.225,
+    "end": 31.325,
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
   },
   {
     "index": 11,
-    "text": "Social plans, that's interesting, because we're talking about friends today.",
-    "start": 32.916,
-    "end": 37.088,
-    "zh": "社交安排,这很有意思,因为我们今天要谈的正是朋友。",
-    "zh_hant": "社交安排,這很有意思,因為我們今天要談的正是朋友。"
+    "text": "Yeah, I'm fine.",
+    "start": 31.546,
+    "end": 33.146,
+    "zh": "我还好。",
+    "zh_hant": "我還好。"
   },
   {
     "index": 12,
-    "text": "Yes, we're talking about socialising,",
-    "start": 37.219,
-    "end": 39.75,
-    "zh": "是的,我们要谈论社交,",
-    "zh_hant": "是的,我們要談論社交,"
+    "text": "Social plans, that's interesting, because we're talking about friends today.",
+    "start": 32.966,
+    "end": 37.088,
+    "zh": "社交活动，这很有意思，因为我们今天要聊朋友。",
+    "zh_hant": "社交活動，這很有意思，因為我們今天要聊朋友。"
   },
   {
     "index": 13,
-    "text": "which means spending time with people for fun.",
-    "start": 39.3,
-    "end": 42.031,
-    "zh": "也就是说,和别人一起共度时光来找乐子。",
-    "zh_hant": "也就是說,和別人一起共度時光來找樂子。"
+    "text": "Yes, we're talking about socialising,",
+    "start": 37.269,
+    "end": 39.79,
+    "zh": "是的，我们要聊社交",
+    "zh_hant": "是的，我們要聊社交"
   },
   {
     "index": 14,
-    "text": "So, Neil, do you like spending time with friends?",
-    "start": 42.142,
-    "end": 45.113,
-    "zh": "那么Neil,你喜欢和朋友待在一起吗?",
-    "zh_hant": "那麼Neil,你喜歡和朋友待在一起嗎?"
+    "text": "which means spending time with people for fun.",
+    "start": 39.44,
+    "end": 42.031,
+    "zh": "意思是为了开心和别人共度时光。",
+    "zh_hant": "意思是為了開心和別人共度時光。"
   },
   {
     "index": 15,
-    "text": "Yeah, I love spending time with my friends.",
-    "start": 44.983,
-    "end": 47.854,
-    "zh": "是的,我很喜欢和朋友们在一起。",
-    "zh_hant": "是的,我很喜歡和朋友們在一起。"
+    "text": "So, Neil, do you like spending time with friends?",
+    "start": 42.192,
+    "end": 45.113,
+    "zh": "那么尼尔，你喜欢和朋友待在一起吗？",
+    "zh_hant": "那麼尼爾，你喜歡和朋友待在一起嗎？"
   },
   {
     "index": 16,
-    "text": "If I don't see my friends very often,",
-    "start": 49.385,
-    "end": 52.276,
-    "zh": "如果我不常见到朋友,",
-    "zh_hant": "如果我不常見到朋友,"
+    "text": "Yeah, I love spending time with my friends.",
+    "start": 45.033,
+    "end": 47.854,
+    "zh": "喜欢，我超爱和朋友待在一起。",
+    "zh_hant": "喜歡，我超愛和朋友待在一起。"
   },
   {
     "index": 17,
-    "text": "I feel a bit sad and lonely.",
-    "start": 52.006,
-    "end": 54.477,
-    "zh": "我会觉得有点难过和孤单。",
-    "zh_hant": "我會覺得有點難過和孤單。"
+    "text": "If I don't see my friends very often,",
+    "start": 49.435,
+    "end": 52.276,
+    "zh": "如果我不常见到朋友",
+    "zh_hant": "如果我不常見到朋友"
   },
   {
     "index": 18,
-    "text": "So yeah, I really like seeing my friends,",
-    "start": 54.348,
-    "end": 56.878,
-    "zh": "所以,我确实很喜欢见朋友,",
-    "zh_hant": "所以,我確實很喜歡見朋友,"
+    "text": "I feel a bit sad and lonely.",
+    "start": 52.056,
+    "end": 54.477,
+    "zh": "我会有点难过和孤单。",
+    "zh_hant": "我會有點難過和孤單。"
   },
   {
     "index": 19,
-    "text": "but I don't get to see them very often",
-    "start": 56.449,
-    "end": 60.34,
-    "zh": "但我不能经常见到他们,",
-    "zh_hant": "但我不能經常見到他們,"
+    "text": "So yeah, I really like seeing my friends,",
+    "start": 54.398,
+    "end": 56.878,
+    "zh": "所以是的，我真的很喜欢见朋友",
+    "zh_hant": "所以是的，我真的很喜歡見朋友"
   },
   {
     "index": 20,
-    "text": "because we're grown-ups and we have responsibilities.",
-    "start": 60.31,
-    "end": 64.722,
-    "zh": "因为我们都是成年人,有各自的责任。",
-    "zh_hant": "因為我們都是成年人,有各自的責任。"
+    "text": "but I don't get to see them very often",
+    "start": 56.528,
+    "end": 60.34,
+    "zh": "但我不能经常见到他们",
+    "zh_hant": "但我不能經常見到他們"
   },
   {
     "index": 21,
-    "text": "I also like spending time with my friends.",
-    "start": 64.722,
-    "end": 70.305,
-    "zh": "我也喜欢和朋友们在一起消磨时间。",
-    "zh_hant": "我也喜歡和朋友們在一起消磨時間。"
+    "text": "because we're grown-ups and we have responsibilities.",
+    "start": 60.36,
+    "end": 64.722,
+    "zh": "因为我们是成年人，有责任要承担。",
+    "zh_hant": "因為我們是成年人，有責任要承擔。"
   },
   {
     "index": 22,
+    "text": "I also like spending time with my friends.",
+    "start": 65.443,
+    "end": 70.305,
+    "zh": "我也喜欢和朋友待在一起。",
+    "zh_hant": "我也喜歡和朋友待在一起。"
+  },
+  {
+    "index": 23,
     "text": "I have lots of friends.",
-    "start": 70.015,
+    "start": 70.065,
     "end": 71.546,
     "zh": "我有很多朋友。",
     "zh_hant": "我有很多朋友。"
   },
   {
-    "index": 23,
-    "text": "As I said, I've had a lot of social plans lately.",
-    "start": 71.256,
-    "end": 74.527,
-    "zh": "就像我说的,我最近社交安排很多。",
-    "zh_hant": "就像我說的,我最近社交安排很多。"
-  },
-  {
     "index": 24,
-    "text": "Pretty much every day I've been socialising.",
-    "start": 74.778,
-    "end": 77.509,
-    "zh": "几乎每天我都在社交。",
-    "zh_hant": "幾乎每天我都在社交。"
+    "text": "As I said, I've had a lot of social plans lately.",
+    "start": 71.306,
+    "end": 74.527,
+    "zh": "就像我说的，最近社交活动特别多。",
+    "zh_hant": "就像我說的，最近社交活動特別多。"
   },
   {
     "index": 25,
-    "text": "Wow, wow, so you like socialising,",
-    "start": 77.359,
-    "end": 80.711,
-    "zh": "哇,哇,所以你喜欢社交,",
-    "zh_hant": "哇,哇,所以你喜歡社交,"
+    "text": "Pretty much every day I've been socialising.",
+    "start": 74.828,
+    "end": 77.509,
+    "zh": "差不多每天都在社交。",
+    "zh_hant": "差不多每天都在社交。"
   },
   {
     "index": 26,
-    "text": "but do you like things like parties,",
-    "start": 80.261,
-    "end": 83.272,
-    "zh": "但你喜欢派对这种活动,",
-    "zh_hant": "但你喜歡派對這種活動,"
+    "text": "Wow, wow, so you like socialising,",
+    "start": 77.409,
+    "end": 80.771,
+    "zh": "哇，哇，所以你很喜欢社交",
+    "zh_hant": "哇，哇，所以你很喜歡社交"
   },
   {
     "index": 27,
-    "text": "or do you prefer smaller social events?",
-    "start": 82.922,
-    "end": 86.133,
-    "zh": "还是更喜欢小型的社交聚会?",
-    "zh_hant": "還是更喜歡小型的社交聚會?"
+    "text": "but do you like things like parties,",
+    "start": 80.421,
+    "end": 83.272,
+    "zh": "但你喜欢派对这样的活动吗",
+    "zh_hant": "但你喜歡派對這樣的活動嗎"
   },
   {
     "index": 28,
-    "text": "I do really like big parties",
-    "start": 86.654,
-    "end": 89.095,
-    "zh": "我确实很喜欢大型派对,因为",
-    "zh_hant": "我確實很喜歡大型派對,因為"
+    "text": "or do you prefer smaller social events?",
+    "start": 82.972,
+    "end": 86.133,
+    "zh": "还是更喜欢小型的社交聚会？",
+    "zh_hant": "還是更喜歡小型的社交聚會？"
   },
   {
     "index": 29,
-    "text": "because I like meeting new people.",
-    "start": 89.535,
+    "text": "I do really like big parties because I like meeting new people.",
+    "start": 86.654,
     "end": 91.856,
-    "zh": "我喜欢认识新朋友。",
-    "zh_hant": "我喜歡認識新朋友。"
+    "zh": "我确实喜欢大型派对，因为我喜欢认识新朋友。",
+    "zh_hant": "我確實喜歡大型派對，因為我喜歡認識新朋友。"
   },
   {
     "index": 30,
     "text": "I like dancing as well.",
-    "start": 91.686,
+    "start": 91.736,
     "end": 93.757,
-    "zh": "我也喜欢跳舞。",
-    "zh_hant": "我也喜歡跳舞。"
+    "zh": "我还喜欢跳舞。",
+    "zh_hant": "我還喜歡跳舞。"
   },
   {
     "index": 31,
     "text": "So at big parties, usually there's some music.",
-    "start": 93.467,
+    "start": 93.517,
     "end": 96.859,
-    "zh": "所以在大型派对上,通常会有音乐。",
-    "zh_hant": "所以在大型派對上,通常會有音樂。"
+    "zh": "所以在大型派对上，通常会有音乐。",
+    "zh_hant": "所以在大型派對上，通常會有音樂。"
   },
   {
     "index": 32,
     "text": "But I do have a shy side of my personality.",
-    "start": 96.869,
+    "start": 97.739,
     "end": 102.261,
-    "zh": "虽然如此,我性格中也有害羞的一面。",
-    "zh_hant": "雖然如此,我性格中也有害羞的一面。"
+    "zh": "但我的性格里也有害羞的一面。",
+    "zh_hant": "但我的性格里也有害羞的一面。"
   },
   {
     "index": 33,
     "text": "So usually a smaller event is better for me,",
-    "start": 101.931,
+    "start": 101.981,
     "end": 105.963,
-    "zh": "所以通常小型聚会对我来说更好,",
-    "zh_hant": "所以通常小型聚會對我來說更好,"
+    "zh": "所以通常小型的活动更适合我",
+    "zh_hant": "所以通常小型的活動更適合我"
   },
   {
     "index": 34,
-    "text": "so I can have kind of deeper conversations",
-    "start": 105.733,
-    "end": 109.465,
-    "zh": "这样我可以和更少的人",
-    "zh_hant": "這樣我可以和更少的人"
+    "text": "so I can have kind of deeper conversations with fewer people.",
+    "start": 105.783,
+    "end": 110.465,
+    "zh": "这样我可以和较少的人进行更深入的对话。",
+    "zh_hant": "這樣我可以和較少的人進行更深入的對話。"
   },
   {
     "index": 35,
-    "text": "with fewer people.",
-    "start": 109.015,
-    "end": 110.465,
-    "zh": "进行更深入的交流。",
-    "zh_hant": "進行更深入的交流。"
+    "text": "How about you?",
+    "start": 110.485,
+    "end": 111.486,
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
   },
   {
     "index": 36,
-    "text": "How about you?",
-    "start": 110.435,
-    "end": 111.486,
-    "zh": "你呢?",
-    "zh_hant": "你呢?"
+    "text": "Yeah, I don't really like that situation",
+    "start": 112.046,
+    "end": 117.108,
+    "zh": "我不太喜欢那种情况",
+    "zh_hant": "我不太喜歡那種情況"
   },
   {
     "index": 37,
-    "text": "Yeah, I don't really like",
-    "start": 111.996,
-    "end": 115.027,
-    "zh": "是的,我不太喜欢",
-    "zh_hant": "是的,我不太喜歡"
+    "text": "where you're at a party and don't know lots of people.",
+    "start": 116.769,
+    "end": 119.91,
+    "zh": "在派对上不认识很多人。",
+    "zh_hant": "在派對上不認識很多人。"
   },
   {
     "index": 38,
-    "text": "that situation where you're at a party and don't know lots of people.",
-    "start": 115.538,
-    "end": 119.91,
-    "zh": "那种在派对上不认识很多人的情况。",
-    "zh_hant": "那種在派對上不認識很多人的情況。"
+    "text": "So a small group of people that I mainly know,",
+    "start": 119.69,
+    "end": 124.393,
+    "zh": "如果是一小群人，我基本都认识",
+    "zh_hant": "如果是一小群人，我基本都認識"
   },
   {
     "index": 39,
-    "text": "So a small group of people",
-    "start": 119.64,
-    "end": 123.232,
-    "zh": "如果是一小群人,",
-    "zh_hant": "如果是一小群人,"
+    "text": "and there's one or two people who I don't know so well, that's fine.",
+    "start": 124.053,
+    "end": 128.234,
+    "zh": "还有一两个人不太熟，那就还行。",
+    "zh_hant": "還有一兩個人不太熟，那就還行。"
   },
   {
     "index": 40,
-    "text": "that I mainly know,",
-    "start": 122.922,
-    "end": 124.393,
-    "zh": "我大多认识,",
-    "zh_hant": "我大多認識,"
+    "text": "But a bigger group with lots of people",
+    "start": 129.075,
+    "end": 132.096,
+    "zh": "但如果是很多人一起的大群体",
+    "zh_hant": "但如果是很多人一起的大群體"
   },
   {
     "index": 41,
-    "text": "and there's one or two people who I don't know so well, that's fine.",
-    "start": 124.003,
-    "end": 128.234,
-    "zh": "再加一两个不太熟的人,那还可以。",
-    "zh_hant": "再加一兩個不太熟的人,那還可以。"
+    "text": "I don't know, I really don't like that.",
+    "start": 131.746,
+    "end": 134.438,
+    "zh": "我都不认识，我真的不喜欢。",
+    "zh_hant": "我都不認識，我真的不喜歡。"
   },
   {
     "index": 42,
-    "text": "But a bigger group with lots of people I don't know,",
-    "start": 129.025,
-    "end": 132.577,
-    "zh": "但如果是一大群我大多不认识的人,",
-    "zh_hant": "但如果是一大群我大多不認識的人,"
+    "text": "And why is that?",
+    "start": 134.338,
+    "end": 135.678,
+    "zh": "为什么？",
+    "zh_hant": "為什麼？"
   },
   {
     "index": 43,
-    "text": "I really don't like that.",
-    "start": 133.107,
-    "end": 134.438,
-    "zh": "我真的不喜欢那样。",
-    "zh_hant": "我真的不喜歡那樣。"
+    "text": "Is that because you don't like small talk?",
+    "start": 135.328,
+    "end": 138.019,
+    "zh": "是因为你不喜欢闲聊吗？",
+    "zh_hant": "是因為你不喜歡閒聊嗎？"
   },
   {
     "index": 44,
-    "text": "And why is that?",
-    "start": 134.288,
-    "end": 135.678,
-    "zh": "为什么呢?",
-    "zh_hant": "為什麼呢?"
+    "text": "Yeah, I don't really like small talk,",
+    "start": 139.16,
+    "end": 142.462,
+    "zh": "对，我不太喜欢闲聊",
+    "zh_hant": "對，我不太喜歡閒聊"
   },
   {
     "index": 45,
-    "text": "Is that because you don't like small talk?",
-    "start": 135.228,
-    "end": 138.019,
-    "zh": "是因为你不喜欢闲聊吗?",
-    "zh_hant": "是因為你不喜歡閒聊嗎?"
+    "text": "it feels a bit empty.",
+    "start": 142.282,
+    "end": 144.583,
+    "zh": "感觉有点空。",
+    "zh_hant": "感覺有點空。"
   },
   {
     "index": 46,
-    "text": "Yeah, I don't really like small talk,",
-    "start": 139.11,
-    "end": 142.462,
-    "zh": "是的,我不太喜欢闲聊,",
-    "zh_hant": "是的,我不太喜歡閒聊,"
+    "text": "Small talk is conversations about things that aren't important,",
+    "start": 145.944,
+    "end": 150.186,
+    "zh": "闲聊是关于不重要的事情的对话",
+    "zh_hant": "閒聊是關於不重要的事情的對話"
   },
   {
     "index": 47,
-    "text": "it feels a bit empty.",
-    "start": 142.232,
-    "end": 144.583,
-    "zh": "感觉有点空洞。",
-    "zh_hant": "感覺有點空洞。"
+    "text": "like the weather,",
+    "start": 149.836,
+    "end": 152.627,
+    "zh": "比如天气",
+    "zh_hant": "比如天氣"
   },
   {
     "index": 48,
-    "text": "Small talk is conversations about things that aren't important,",
-    "start": 145.894,
-    "end": 150.186,
-    "zh": "闲聊是关于不重要的事情的对话,",
-    "zh_hant": "閒聊是關於不重要的事情的對話,"
+    "text": "usually with people that you don't know very well.",
+    "start": 152.587,
+    "end": 155.128,
+    "zh": "通常和不熟的人进行。",
+    "zh_hant": "通常和不熟的人進行。"
   },
   {
     "index": 49,
-    "text": "like the weather,",
-    "start": 149.776,
-    "end": 152.627,
-    "zh": "比如天气,",
-    "zh_hant": "比如天氣,"
+    "text": "Yeah.",
+    "start": 154.988,
+    "end": 155.688,
+    "zh": "嗯。",
+    "zh_hant": "嗯。"
   },
   {
     "index": 50,
-    "text": "usually with people that you don't know very well.",
-    "start": 152.537,
-    "end": 155.128,
-    "zh": "通常是和你不太熟的人聊。",
-    "zh_hant": "通常是和你不太熟的人聊。"
+    "text": "And you don't like that?",
+    "start": 155.649,
+    "end": 156.849,
+    "zh": "你不喜欢？",
+    "zh_hant": "你不喜歡？"
   },
   {
     "index": 51,
-    "text": "Yeah.",
-    "start": 154.938,
-    "end": 155.688,
-    "zh": "是的。",
-    "zh_hant": "是的。"
+    "text": "No, I find it awkward.",
+    "start": 156.809,
+    "end": 158.67,
+    "zh": "不喜欢，我觉得很尴尬。",
+    "zh_hant": "不喜歡，我覺得很尷尬。"
   },
   {
     "index": 52,
-    "text": "And you don't like that?",
-    "start": 155.599,
-    "end": 156.849,
-    "zh": "你不喜欢那样吗?",
-    "zh_hant": "你不喜歡那樣嗎?"
+    "text": "So, Georgie, you like meeting new people.",
+    "start": 159.531,
+    "end": 163.292,
+    "zh": "那么乔治，你喜欢认识新朋友。",
+    "zh_hant": "那麼喬治，你喜歡認識新朋友。"
   },
   {
     "index": 53,
-    "text": "No, I find it awkward.",
-    "start": 156.759,
-    "end": 158.67,
-    "zh": "不喜欢,我觉得挺尴尬的。",
-    "zh_hant": "不喜歡,我覺得挺尷尬的。"
+    "text": "Do you feel embarrassed at all, or are you completely fine with that?",
+    "start": 163.472,
+    "end": 166.994,
+    "zh": "你会觉得不好意思吗，还是完全没问题？",
+    "zh_hant": "你會覺得不好意思嗎，還是完全沒問題？"
   },
   {
     "index": 54,
-    "text": "So, Georgie, you like meeting new people.",
-    "start": 159.481,
-    "end": 163.292,
-    "zh": "那么Georgie,你喜欢认识新朋友。",
-    "zh_hant": "那麼Georgie,你喜歡認識新朋友。"
+    "text": "Oh, I think it depends.",
+    "start": 167.234,
+    "end": 169.615,
+    "zh": "我觉得看情况吧。",
+    "zh_hant": "我覺得看情況吧。"
   },
   {
     "index": 55,
-    "text": "Do you feel embarrassed at all, or are you completely fine with that?",
-    "start": 163.422,
-    "end": 166.994,
-    "zh": "你会觉得不好意思吗,还是完全没问题?",
-    "zh_hant": "你會覺得不好意思嗎,還是完全沒問題?"
+    "text": "I think if you find a topic quite quickly that you have in common,",
+    "start": 170.036,
+    "end": 174.598,
+    "zh": "如果你能很快找到共同话题",
+    "zh_hant": "如果你能很快找到共同話題"
   },
   {
     "index": 56,
-    "text": "Oh, I think it depends.",
-    "start": 167.184,
-    "end": 169.615,
-    "zh": "嗯,我觉得要看情况。",
-    "zh_hant": "嗯,我覺得要看情況。"
+    "text": "That avoids embarrassment.",
+    "start": 176.239,
+    "end": 178.82,
+    "zh": "就不会尴尬。",
+    "zh_hant": "就不會尷尬。"
   },
   {
     "index": 57,
-    "text": "I think if you find a topic quite quickly",
-    "start": 169.986,
-    "end": 173.337,
-    "zh": "我觉得如果你能很快找到",
-    "zh_hant": "我覺得如果你能很快找到"
+    "text": "But it's when you meet someone new,",
+    "start": 178.47,
+    "end": 181.961,
+    "zh": "但当你遇到新认识的人",
+    "zh_hant": "但當你遇到新認識的人"
   },
   {
     "index": 58,
-    "text": "that you have in common,",
-    "start": 173.047,
-    "end": 174.598,
-    "zh": "彼此的共同话题,",
-    "zh_hant": "彼此的共同話題,"
+    "text": "you don't know them very well, obviously, because they're new,",
+    "start": 181.922,
+    "end": 185.023,
+    "zh": "你显然不太了解他们，因为他们是新朋友",
+    "zh_hant": "你顯然不太瞭解他們，因為他們是新朋友"
   },
   {
     "index": 59,
-    "text": "That avoids embarrassment.",
-    "start": 176.189,
-    "end": 178.82,
-    "zh": "那就能避免尴尬。",
-    "zh_hant": "那就能避免尷尬。"
+    "text": "and you don't know what they like or don't like,",
+    "start": 184.823,
+    "end": 187.484,
+    "zh": "你不知道他们喜欢什么或不喜欢什么",
+    "zh_hant": "你不知道他們喜歡什麼或不喜歡什麼"
   },
   {
     "index": 60,
-    "text": "But it's when you meet someone new,",
-    "start": 178.37,
-    "end": 181.961,
-    "zh": "但当你认识一个新朋友时,",
-    "zh_hant": "但當你認識一個新朋友時,"
+    "text": "or what they think is rude or not rude,",
+    "start": 187.144,
+    "end": 190.505,
+    "zh": "或者他们觉得什么是不礼貌的",
+    "zh_hant": "或者他們覺得什麼是不禮貌的"
   },
   {
     "index": 61,
-    "text": "you don't know them very well, obviously, because they're new,",
-    "start": 181.872,
-    "end": 185.023,
-    "zh": "显然你不太了解他们,因为他们是新认识的,",
-    "zh_hant": "顯然你不太瞭解他們,因為他們是新認識的,"
+    "text": "but if you can figure that out quite quickly,",
+    "start": 191.186,
+    "end": 193.847,
+    "zh": "但如果你能很快搞清楚这些",
+    "zh_hant": "但如果你能很快搞清楚這些"
   },
   {
     "index": 62,
-    "text": "and you don't know what they like or don't like,",
-    "start": 184.773,
-    "end": 187.484,
-    "zh": "你不知道他们喜欢什么、不喜欢什么,",
-    "zh_hant": "你不知道他們喜歡什麼、不喜歡什麼,"
+    "text": "it's, yeah, it's usually okay.",
+    "start": 194.087,
+    "end": 196.769,
+    "zh": "那么，一般就还好。",
+    "zh_hant": "那麼，一般就還好。"
   },
   {
     "index": 63,
-    "text": "or what they think is rude or not rude,",
-    "start": 187.094,
-    "end": 190.505,
-    "zh": "也不知道他们觉得什么是没礼貌的,",
-    "zh_hant": "也不知道他們覺得什麼是沒禮貌的,"
+    "text": "Do you usually feel quite embarrassed then?",
+    "start": 197.349,
+    "end": 199.63,
+    "zh": "那你通常会觉得很尴尬吗？",
+    "zh_hant": "那你通常會覺得很尷尬嗎？"
   },
   {
     "index": 64,
-    "text": "but if you can figure that out quite quickly,",
-    "start": 191.136,
-    "end": 193.847,
-    "zh": "但如果你能很快弄清楚这些,",
-    "zh_hant": "但如果你能很快弄清楚這些,"
+    "text": "Sometimes, like you said, it depends.",
+    "start": 200.591,
+    "end": 203.452,
+    "zh": "有时候，就像你说的，看情况。",
+    "zh_hant": "有時候，就像你說的，看情況。"
   },
   {
     "index": 65,
-    "text": "it's, yeah, it's usually okay.",
-    "start": 194.037,
-    "end": 196.769,
-    "zh": "通常就没问题了。",
-    "zh_hant": "通常就沒問題了。"
+    "text": "If you find something that you have in common,",
+    "start": 203.102,
+    "end": 206.774,
+    "zh": "如果你找到共同点",
+    "zh_hant": "如果你找到共同點"
   },
   {
     "index": 66,
-    "text": "Do you usually feel quite embarrassed then?",
-    "start": 197.299,
-    "end": 199.63,
-    "zh": "那你通常会觉得很尴尬吗?",
-    "zh_hant": "那你通常會覺得很尷尬嗎?"
+    "text": "you can talk about that.",
+    "start": 206.874,
+    "end": 208.375,
+    "zh": "你可以聊那个。",
+    "zh_hant": "你可以聊那個。"
   },
   {
     "index": 67,
-    "text": "Sometimes, like you said, it depends.",
-    "start": 200.541,
-    "end": 203.452,
-    "zh": "有时候,就像你说的,要看情况。",
-    "zh_hant": "有時候,就像你說的,要看情況。"
+    "text": "Sometimes you don't find something in common,",
+    "start": 208.355,
+    "end": 211.796,
+    "zh": "有时候找不到共同话题",
+    "zh_hant": "有時候找不到共同話題"
   },
   {
     "index": 68,
-    "text": "If you find something that you have in common,",
-    "start": 203.002,
-    "end": 206.774,
-    "zh": "如果你找到共同点,",
-    "zh_hant": "如果你找到共同點,"
+    "text": "and Then it's really, I don't know, embarrassing I suppose.",
+    "start": 211.446,
+    "end": 215.158,
+    "zh": "那时就是真的，我觉得很尴尬。",
+    "zh_hant": "那時就是真的，我覺得很尷尬。"
   },
   {
     "index": 69,
-    "text": "you can talk about that.",
-    "start": 206.824,
-    "end": 208.375,
-    "zh": "就可以聊那个话题。",
-    "zh_hant": "就可以聊那個話題。"
+    "text": "Ooh, I feel strange just thinking about it.",
+    "start": 215.078,
+    "end": 217.759,
+    "zh": "噢，一想到这个我就觉得怪怪的。",
+    "zh_hant": "噢，一想到這個我就覺得怪怪的。"
   },
   {
     "index": 70,
-    "text": "Sometimes you don't find something in common,",
-    "start": 208.305,
-    "end": 211.756,
-    "zh": "有时候你找不到共同点,",
-    "zh_hant": "有時候你找不到共同點,"
+    "text": "You obviously, you like parties, you like socialising,",
+    "start": 220.101,
+    "end": 223.342,
+    "zh": "你显然喜欢派对，喜欢社交",
+    "zh_hant": "你顯然喜歡派對，喜歡社交"
   },
   {
     "index": 71,
-    "text": "and Then it's really, I don't know, embarrassing I suppose.",
-    "start": 211.306,
-    "end": 215.158,
-    "zh": "那就真的,我也不知道,大概挺尴尬的吧。",
-    "zh_hant": "那就真的,我也不知道,大概挺尷尬的吧。"
+    "text": "but do you like spending time alone?",
+    "start": 222.992,
+    "end": 225.603,
+    "zh": "但你喜欢独处吗？",
+    "zh_hant": "但你喜歡獨處嗎？"
   },
   {
     "index": 72,
-    "text": "Ooh, I feel strange just thinking about it.",
-    "start": 215.028,
-    "end": 217.759,
-    "zh": "哦,我一想到这个就觉得怪怪的。",
-    "zh_hant": "哦,我一想到這個就覺得怪怪的。"
+    "text": "I get more energy from spending time alone",
+    "start": 226.384,
+    "end": 230.085,
+    "zh": "我从独处中获得更多能量",
+    "zh_hant": "我從獨處中獲得更多能量"
   },
   {
     "index": 73,
-    "text": "You obviously, you like parties, you like socialising,",
-    "start": 220.051,
-    "end": 223.322,
-    "zh": "你显然喜欢派对,喜欢社交,",
-    "zh_hant": "你顯然喜歡派對,喜歡社交,"
+    "text": "and relaxing and not talking to anyone.",
+    "start": 229.735,
+    "end": 232.166,
+    "zh": "放松，不和任何人说话。",
+    "zh_hant": "放鬆，不和任何人說話。"
   },
   {
     "index": 74,
-    "text": "but do you like spending time alone?",
-    "start": 222.872,
-    "end": 225.603,
-    "zh": "但你喜欢独处吗?",
-    "zh_hant": "但你喜歡獨處嗎?"
+    "text": "I often get what I call social burnout,",
+    "start": 233.087,
+    "end": 236.929,
+    "zh": "我经常有所谓的社交疲劳",
+    "zh_hant": "我經常有所謂的社交疲勞"
   },
   {
     "index": 75,
-    "text": "I get more energy from spending time alone and relaxing",
-    "start": 226.334,
-    "end": 230.846,
-    "zh": "独处和放松能让我获得更多能量,",
-    "zh_hant": "獨處和放鬆能讓我獲得更多能量,"
+    "text": "which means you just get exhausted from spending too much time with others.",
+    "start": 236.649,
+    "end": 241.031,
+    "zh": "意思是和太多人待太久会让你累。",
+    "zh_hant": "意思是和太多人待太久會讓你累。"
   },
   {
     "index": 76,
-    "text": "and not talking to anyone.",
-    "start": 230.496,
-    "end": 232.166,
-    "zh": "不用和任何人说话。",
-    "zh_hant": "不用和任何人說話。"
+    "text": "How about you?",
+    "start": 241.512,
+    "end": 242.452,
+    "zh": "你呢？",
+    "zh_hant": "你呢？"
   },
   {
     "index": 77,
-    "text": "I often get what I call social burnout,",
-    "start": 233.037,
-    "end": 236.929,
-    "zh": "我常常会有所谓的社交倦怠,",
-    "zh_hant": "我常常會有所謂的社交倦怠,"
+    "text": "Well, yeah, spending time alone is also important,",
+    "start": 243.333,
+    "end": 247.815,
+    "zh": "嗯，独处也很重要",
+    "zh_hant": "嗯，獨處也很重要"
   },
   {
     "index": 78,
-    "text": "which means you just get exhausted from spending too much time with others.",
-    "start": 236.599,
-    "end": 241.031,
-    "zh": "也就是说,和别人相处太久会让你精疲力尽。",
-    "zh_hant": "也就是說,和別人相處太久會讓你精疲力盡。"
+    "text": "and I like to do that, but not so much,",
+    "start": 248.695,
+    "end": 253.357,
+    "zh": "我也喜欢这样，但不会太多",
+    "zh_hant": "我也喜歡這樣，但不會太多"
   },
   {
     "index": 79,
-    "text": "How about you?",
-    "start": 241.462,
-    "end": 242.452,
-    "zh": "你呢?",
-    "zh_hant": "你呢?"
+    "text": "not as much as maybe spending time with people,",
+    "start": 254.918,
+    "end": 258.18,
+    "zh": "不像喜欢和人待在一起那么多",
+    "zh_hant": "不像喜歡和人待在一起那麼多"
   },
   {
     "index": 80,
-    "text": "Well, yeah, spending time alone is also important,",
-    "start": 243.283,
-    "end": 247.815,
-    "zh": "嗯,是的,独处也很重要,",
-    "zh_hant": "嗯,是的,獨處也很重要,"
+    "text": "because like I said before,",
+    "start": 257.83,
+    "end": 261.201,
+    "zh": "因为就像我之前说的",
+    "zh_hant": "因為就像我之前說的"
   },
   {
     "index": 81,
-    "text": "and I like to do that, but not so much,",
-    "start": 248.645,
-    "end": 253.357,
-    "zh": "我也喜欢这样,但没有那么多,",
-    "zh_hant": "我也喜歡這樣,但沒有那麼多,"
+    "text": "if I'm alone for too long, I get a bit lonely and feel a bit,",
+    "start": 260.961,
+    "end": 265.423,
+    "zh": "如果独处太久，我会有点孤单，感觉有点",
+    "zh_hant": "如果獨處太久，我會有點孤單，感覺有點"
   },
   {
     "index": 82,
-    "text": "not as much as maybe spending time with people,",
-    "start": 254.868,
-    "end": 258.18,
-    "zh": "不像和朋友在一起那么多,",
-    "zh_hant": "不像和朋友在一起那麼多,"
+    "text": "I don't know, just lacking energy.",
+    "start": 265.203,
+    "end": 268.265,
+    "zh": "我也不知道，就是没精力。",
+    "zh_hant": "我也不知道，就是沒精力。"
   },
   {
     "index": 83,
-    "text": "because like I said before,",
-    "start": 257.73,
-    "end": 261.201,
-    "zh": "因为就像我之前说的,",
-    "zh_hant": "因為就像我之前說的,"
+    "text": "Let's recap the vocabulary we heard in this podcast,",
+    "start": 274.188,
+    "end": 277.629,
+    "zh": "让我们回顾一下这次播客里的词汇",
+    "zh_hant": "讓我們回顧一下這次播客裡的詞彙"
   },
   {
     "index": 84,
-    "text": "if I'm alone for too long, I get a bit lonely and feel a bit,",
-    "start": 260.911,
-    "end": 265.423,
-    "zh": "如果我独自一人太久,我会有点孤单,感觉有点,",
-    "zh_hant": "如果我獨自一人太久,我會有點孤單,感覺有點,"
+    "text": "starting with socialise,",
+    "start": 277.65,
+    "end": 279.471,
+    "zh": "从socialise开始",
+    "zh_hant": "從socialise開始"
   },
   {
     "index": 85,
-    "text": "I don't know, just lacking energy.",
-    "start": 265.153,
-    "end": 268.265,
-    "zh": "我也不知道,就是缺乏活力。",
-    "zh_hant": "我也不知道,就是缺乏活力。"
+    "text": "which means to spend time with friends or other people to enjoy yourself.",
+    "start": 279.121,
+    "end": 284.033,
+    "zh": "意思是和朋友或其他人待在一起享受时光。",
+    "zh_hant": "意思是和朋友或其他人待在一起享受時光。"
   },
   {
     "index": 86,
-    "text": "Let's recap the vocabulary we heard in this podcast,",
-    "start": 274.138,
-    "end": 277.629,
-    "zh": "让我们回顾一下这期播客中出现的词汇,",
-    "zh_hant": "讓我們回顧一下這期播客中出現的詞彙,"
+    "text": "We had small talk,",
+    "start": 284.653,
+    "end": 286.414,
+    "zh": "我们还有small talk",
+    "zh_hant": "我們還有small talk"
   },
   {
     "index": 87,
-    "text": "starting with socialise,",
-    "start": 277.6,
-    "end": 279.451,
-    "zh": "首先是socialise(社交),",
-    "zh_hant": "首先是socialise(社交),"
+    "text": "which is conversation about things which aren't important,",
+    "start": 286.074,
+    "end": 289.756,
+    "zh": "指关于不重要事情的对话",
+    "zh_hant": "指關於不重要事情的對話"
   },
   {
     "index": 88,
-    "text": "which means to spend time with friends or other people to enjoy yourself.",
-    "start": 279.451,
-    "end": 284.033,
-    "zh": "意思是和朋友或其他人一起共度时光，享受其中的乐趣。",
-    "zh_hant": "意思是和朋友或其他人一起共度時光，享受其中的樂趣。"
-  },
-  {
-    "index": 89,
-    "text": "We had small talk,",
-    "start": 284.603,
-    "end": 286.414,
-    "zh": "我们还学了small talk(闲聊),",
-    "zh_hant": "我們還學了small talk(閒聊),"
-  },
-  {
-    "index": 90,
-    "text": "which is conversation about things which aren't important,",
-    "start": 286.024,
-    "end": 289.756,
-    "zh": "指的是关于不重要事情的对话,",
-    "zh_hant": "指的是關於不重要事情的對話,"
-  },
-  {
-    "index": 91,
     "text": "such as the weather or the traffic.",
-    "start": 289.326,
+    "start": 289.406,
     "end": 291.617,
     "zh": "比如天气或交通。",
     "zh_hant": "比如天氣或交通。"
   },
   {
-    "index": 92,
+    "index": 89,
     "text": "We use small talk a lot in the UK.",
-    "start": 291.507,
+    "start": 291.557,
     "end": 293.838,
-    "zh": "在英国我们经常用到small talk。",
-    "zh_hant": "在英國我們經常用到small talk。"
+    "zh": "在英国我们经常闲聊。",
+    "zh_hant": "在英國我們經常閒聊。"
+  },
+  {
+    "index": 90,
+    "text": "We heard some adjectives to describe how you might feel about meeting new people.",
+    "start": 294.138,
+    "end": 299.4,
+    "zh": "我们还听到一些用来描述你见到新认识的人时感受的形容词。",
+    "zh_hant": "我們還聽到一些用來描述你見到新認識的人時感受的形容詞。"
+  },
+  {
+    "index": 91,
+    "text": "So we had embarrassed, which means feeling ashamed or shy.",
+    "start": 299.341,
+    "end": 304.383,
+    "zh": "有embarrassed，意思是感到羞愧或害羞。",
+    "zh_hant": "有embarrassed，意思是感到羞愧或害羞。"
+  },
+  {
+    "index": 92,
+    "text": "And we also heard awkward,",
+    "start": 304.403,
+    "end": 306.564,
+    "zh": "我们还听到awkward",
+    "zh_hant": "我們還聽到awkward"
   },
   {
     "index": 93,
-    "text": "We heard some adjectives to describe how you might feel",
-    "start": 294.088,
-    "end": 297.72,
-    "zh": "我们还听到了一些形容词,用来描述你",
-    "zh_hant": "我們還聽到了一些形容詞,用來描述你"
+    "text": "which means feeling uncomfortable when you're meeting new people.",
+    "start": 306.284,
+    "end": 309.645,
+    "zh": "意思是见新认识的人时感到不自在。",
+    "zh_hant": "意思是見新認識的人時感到不自在。"
   },
   {
     "index": 94,
-    "text": "about meeting new people.",
-    "start": 297.45,
-    "end": 299.4,
-    "zh": "在认识新朋友时可能有的感受。",
-    "zh_hant": "在認識新朋友時可能有的感受。"
+    "text": "We also heard \"in common.\"",
+    "start": 309.786,
+    "end": 311.927,
+    "zh": "我们还听到“in common”。",
+    "zh_hant": "我們還聽到“in common”。"
   },
   {
     "index": 95,
-    "text": "So we had embarrassed, which means feeling ashamed",
-    "start": 299.291,
-    "end": 303.142,
-    "zh": "比如embarrassed,意思是感到羞愧",
-    "zh_hant": "比如embarrassed,意思是感到羞愧"
+    "text": "So, if you have something in common with someone,",
+    "start": 311.687,
+    "end": 314.848,
+    "zh": "如果你和别人有共同点",
+    "zh_hant": "如果你和別人有共同點"
   },
   {
     "index": 96,
-    "text": "or shy.",
-    "start": 303.133,
-    "end": 304.383,
-    "zh": "或害羞。",
-    "zh_hant": "或害羞。"
+    "text": "it means you share the same likes, dislikes, or interests with someone.",
+    "start": 314.568,
+    "end": 319.012,
+    "zh": "意思是你和那个人有相同的喜好、不喜欢的或兴趣。",
+    "zh_hant": "意思是你和那個人有相同的喜好、不喜歡的或興趣。"
   },
   {
     "index": 97,
-    "text": "And we also heard awkward,",
-    "start": 304.353,
-    "end": 306.564,
-    "zh": "我们还听到了awkward,",
-    "zh_hant": "我們還聽到了awkward,"
+    "text": "That's it for this episode of Real Easy English.",
+    "start": 319.673,
+    "end": 322.878,
+    "zh": "这就是本期《真实简易英语》的全部内容。",
+    "zh_hant": "這就是本期《真實簡易英語》的全部內容。"
   },
   {
     "index": 98,
-    "text": "which means feeling uncomfortable when you're meeting new people.",
-    "start": 306.234,
-    "end": 309.645,
-    "zh": "意思是在认识新朋友时感到不自在。",
-    "zh_hant": "意思是在認識新朋友時感到不自在。"
+    "text": "Test what you've learned by downloading the free worksheet on our website,",
+    "start": 322.838,
+    "end": 327.525,
+    "zh": "通过下载我们网站上的免费工作表来测试你学到的",
+    "zh_hant": "透過下載我們網站上的免費工作表來測試你學到的"
   },
   {
     "index": 99,
-    "text": "We also heard \"in common.\"",
-    "start": 309.736,
-    "end": 311.927,
-    "zh": "我们还听到了“in common”。",
-    "zh_hant": "我們還聽到了“in common”。"
+    "text": "bbclearningenglish.com.",
+    "start": 327.175,
+    "end": 329.408,
+    "zh": "bbclearningenglish.com。",
+    "zh_hant": "bbclearningenglish.com。"
   },
   {
     "index": 100,
-    "text": "So, if you have something in common with someone,",
-    "start": 311.637,
-    "end": 314.848,
-    "zh": "如果你和某人有共同点(in common),",
-    "zh_hant": "如果你和某人有共同點(in common),"
+    "text": "See you then!",
+    "start": 329.058,
+    "end": 330.009,
+    "zh": "下次见！",
+    "zh_hant": "下次見！"
   },
   {
     "index": 101,
-    "text": "it means you share the same likes, dislikes, or interests with someone.",
-    "start": 314.518,
-    "end": 319.012,
-    "zh": "就是说你们有相同的喜好、厌恶或兴趣。",
-    "zh_hant": "就是說你們有相同的喜好、厭惡或興趣。"
-  },
-  {
-    "index": 102,
-    "text": "That's it for this episode of Real Easy English.",
-    "start": 319.623,
-    "end": 322.878,
-    "zh": "这就是本期Real Easy English的全部内容。",
-    "zh_hant": "這就是本期Real Easy English的全部內容。"
-  },
-  {
-    "index": 103,
-    "text": "Test what you've learned by downloading the free worksheet on our website,",
-    "start": 322.878,
-    "end": 327.525,
-    "zh": "下载我们网站上的免费练习表,测试一下你的学习成果,",
-    "zh_hant": "下載我們網站上的免費練習表,測試一下你的學習成果,"
-  },
-  {
-    "index": 104,
-    "text": "bbclearningenglish.com.",
-    "start": 327.075,
-    "end": 329.408,
-    "zh": "网址是bbclearningenglish.com。",
-    "zh_hant": "網址是bbclearningenglish.com。"
-  },
-  {
-    "index": 105,
-    "text": "See you then!",
-    "start": 328.998,
-    "end": 330.009,
-    "zh": "下次再见!",
-    "zh_hant": "下次再見!"
-  },
-  {
-    "index": 106,
     "text": "Bye!",
-    "start": 329.779,
+    "start": 329.829,
     "end": 330.59,
-    "zh": "再见!",
-    "zh_hant": "再見!"
+    "zh": "再见！",
+    "zh_hant": "再見！"
   }
 ]

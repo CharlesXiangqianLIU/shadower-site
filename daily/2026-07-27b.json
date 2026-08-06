@@ -1,78 +1,54 @@
 [
   {
     "index": 0,
-    "text": "Wildfires raging in Spain and France, turning deadly and forcing more than 300,000 people",
+    "text": "Wildfires raging in Spain and France, turning deadly and forcing more than 300,000 people to evacuate.",
     "start": 0.0,
-    "end": 5.693,
-    "zh": "西班牙和法国肆虐的野火",
-    "zh_hant": "西班牙和法國肆虐的野火"
+    "end": 6.593,
+    "zh": "西班牙和法国肆虐的野火，已造成死亡，并迫使超过30万人撤离。",
+    "zh_hant": "西班牙和法國肆虐的野火，已造成死亡，並迫使超過30萬人撤離。"
   },
   {
     "index": 1,
-    "text": "to evacuate.",
-    "start": 5.343,
-    "end": 6.593,
-    "zh": "变得致命，迫使超过30万人撤离。",
-    "zh_hant": "變得致命，迫使超過30萬人撤離。"
-  },
-  {
-    "index": 2,
     "text": "High temperatures, strong winds, and drought conditions fueling the fast-moving flames.",
     "start": 6.353,
     "end": 11.235,
-    "zh": "高温、强风以及干旱条件助长了快速蔓延的火势。",
-    "zh_hant": "高溫、強風以及乾旱條件助長了快速蔓延的火勢。"
+    "zh": "高温、强风和干旱条件助长了快速蔓延的火势。",
+    "zh_hant": "高溫、強風和乾旱條件助長了快速蔓延的火勢。"
+  },
+  {
+    "index": 2,
+    "text": "In central Spain, more than 70,000 people fleeing what local officials have called the worst fires they have ever seen.",
+    "start": 11.716,
+    "end": 18.759,
+    "zh": "在西班牙中部，超过7万人逃离当地官员所称的史上最严重火灾。",
+    "zh_hant": "在西班牙中部，超過7萬人逃離當地官員所稱的史上最嚴重火災。"
   },
   {
     "index": 3,
-    "text": "In central Spain, more than 70,000 people fleeing",
-    "start": 11.716,
-    "end": 15.297,
-    "zh": "在西班牙中部，超过7万人逃离",
-    "zh_hant": "在西班牙中部，超過7萬人逃離"
-  },
-  {
-    "index": 4,
-    "text": "what local officials have called the worst fires they have ever seen.",
-    "start": 14.947,
-    "end": 18.759,
-    "zh": "当地官员称这是他们见过的火灾中最为严重的一次。",
-    "zh_hant": "當地官員稱這是他們見過的火災中最為嚴重的一次。"
-  },
-  {
-    "index": 5,
     "text": "A wildfire burning northwest of Valencia, Spain, claiming the life of a 78-year-old man.",
     "start": 19.46,
     "end": 24.782,
-    "zh": "西班牙瓦伦西亚西北部的一场野火夺走了一名78岁男子的生命。",
-    "zh_hant": "西班牙瓦倫西亞西北部的一場野火奪走了一名78歲男子的生命。"
+    "zh": "西班牙瓦伦西亚西北部的一场野火，夺走了一位78岁老人的生命。",
+    "zh_hant": "西班牙瓦倫西亞西北部的一場野火，奪走了一位78歲老人的生命。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "That fire now under control.",
     "start": 24.582,
     "end": 26.523,
-    "zh": "这场火目前已得到控制。",
-    "zh_hant": "這場火目前已得到控制。"
+    "zh": "那场火现已得到控制。",
+    "zh_hant": "那場火現已得到控制。"
   },
   {
-    "index": 7,
-    "text": "And in France, more than 200,000 evacuating in Gironde",
+    "index": 5,
+    "text": "And in France, more than 200,000 evacuating in Gironde as wildfires burned more than 100,000 acres,",
     "start": 27.444,
-    "end": 31.686,
-    "zh": "在法国，吉伦特省超过20万人疏散",
-    "zh_hant": "在法國，吉倫特省超過20萬人疏散"
-  },
-  {
-    "index": 8,
-    "text": "as wildfires burned more than 100,000 acres,",
-    "start": 31.466,
     "end": 34.547,
-    "zh": "因野火烧毁了超过10万英亩土地，",
-    "zh_hant": "因野火燒燬了超過10萬英畝土地，"
+    "zh": "在法国，吉伦特省超过20万人撤离，因为野火烧毁了超过10万英亩土地，",
+    "zh_hant": "在法國，吉倫特省超過20萬人撤離，因為野火燒燬了超過10萬英畝土地，"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "an area three times the size of Paris.",
     "start": 34.407,
     "end": 37.028,
@@ -80,135 +56,135 @@
     "zh_hant": "面積是巴黎的三倍。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "Workers at a nearby nursing home rushing residents away for their safety.",
     "start": 36.768,
     "end": 40.55,
-    "zh": "附近一家养老院的工作人员紧急将居民撤走以确保安全。",
-    "zh_hant": "附近一家養老院的工作人員緊急將居民撤走以確保安全。"
+    "zh": "附近一家养老院的工作人员为安全起见，急忙将居民疏散。",
+    "zh_hant": "附近一家養老院的工作人員為安全起見，急忙將居民疏散。"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "Bordeaux, the heart of France's famed wine country and a popular tourist destination,",
     "start": 40.371,
     "end": 46.593,
-    "zh": "波尔多，法国著名葡萄酒产区的核心和热门旅游地，",
-    "zh_hant": "波爾多，法國著名葡萄酒產區的核心和熱門旅遊地，"
+    "zh": "波尔多，法国著名葡萄酒产区的中心，也是一个热门旅游目的地，",
+    "zh_hant": "波爾多，法國著名葡萄酒產區的中心，也是一個熱門旅遊目的地，"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "cleared out by approaching flames.",
     "start": 46.414,
     "end": 48.594,
-    "zh": "因迫近的火焰而人去楼空。",
-    "zh_hant": "因迫近的火焰而人去樓空。"
+    "zh": "因逼近的火焰而被清空。",
+    "zh_hant": "因逼近的火焰而被清空。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Americans Tammy and Brendan Hutchinson, living in a suburb of Bordeaux, among the evacuees.",
     "start": 48.375,
     "end": 53.717,
-    "zh": "居住在波尔多郊区的美国人塔米和布伦丹·哈钦森也是撤离者之一。",
-    "zh_hant": "居住在波爾多郊區的美國人塔米和布倫丹·哈欽森也是撤離者之一。"
+    "zh": "居住在波尔多郊区的美国人塔米和布伦丹·哈钦森，也是撤离者之一。",
+    "zh_hant": "居住在波爾多郊區的美國人塔米和布倫丹·哈欽森，也是撤離者之一。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "They escalated pretty quickly.",
     "start": 53.417,
     "end": 55.358,
-    "zh": "火势升级得很快。",
-    "zh_hant": "火勢升級得很快。"
+    "zh": "情况升级得非常快。",
+    "zh_hant": "情況升級得非常快。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "You could see the wind shift, and it really got thick smoke, and it was...",
     "start": 55.008,
     "end": 59.64,
-    "zh": "你能看到风向改变，烟雾变得浓重，而且那真是……",
-    "zh_hant": "你能看到風向改變，煙霧變得濃重，而且那真是……"
+    "zh": "你能看到风向改变，然后浓烟弥漫，真是...",
+    "zh_hant": "你能看到風向改變，然後濃煙瀰漫，真是..."
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Real, a lot of ash falling out of the sky.",
     "start": 59.29,
     "end": 62.581,
-    "zh": "真的，大量灰烬从天空落下。",
-    "zh_hant": "真的，大量灰燼從天空落下。"
+    "zh": "真的，很多灰烬从天而降。",
+    "zh_hant": "真的，很多灰燼從天而降。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "More firefighters arriving as they evacuated.",
     "start": 62.281,
     "end": 65.083,
-    "zh": "他们撤离时更多消防员正在赶来。",
-    "zh_hant": "他們撤離時更多消防員正在趕來。"
+    "zh": "他们撤离时，更多消防员正在抵达。",
+    "zh_hant": "他們撤離時，更多消防員正在抵達。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "When we were leaving Bordeaux, there were caravans of fire trucks and military.",
     "start": 64.823,
     "end": 70.245,
-    "zh": "我们离开波尔多时，路上满是消防车和军车的车队。",
-    "zh_hant": "我們離開波爾多時，路上滿是消防車和軍車的車隊。"
+    "zh": "我们离开波尔多时，有一队队的消防车和军车。",
+    "zh_hant": "我們離開波爾多時，有一隊隊的消防車和軍車。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "They are sending in reinforcements from Paris.",
     "start": 70.005,
     "end": 73.106,
-    "zh": "他们正在从巴黎派增援。",
-    "zh_hant": "他們正在從巴黎派增援。"
+    "zh": "他们从巴黎调来增援。",
+    "zh_hant": "他們從巴黎調來增援。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "Tour de France race officials say they will shorten the distance by a third on the last day,",
     "start": 72.847,
     "end": 77.689,
-    "zh": "环法自行车赛的官员表示，最后一天赛程将缩短三分之一，",
-    "zh_hant": "環法腳踏車賽的官員表示，最後一天賽程將縮短三分之一，"
+    "zh": "环法自行车赛官员表示，最后一天赛程将缩短三分之一，",
+    "zh_hant": "環法腳踏車賽官員表示，最後一天賽程將縮短三分之一，"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "so police can be diverted to assist regions in flames.",
     "start": 77.509,
     "end": 81.051,
-    "zh": "以便警察能被调派去援助火灾地区。",
-    "zh_hant": "以便警察能被調派去援助火災地區。"
+    "zh": "以便警方能抽调力量协助受灾地区。",
+    "zh_hant": "以便警方能抽調力量協助受災地區。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "These are truly extreme conditions that are helping to fuel these flames, so intense.",
     "start": 81.392,
     "end": 85.774,
-    "zh": "这些极端条件确实助长了火势，如此猛烈。",
-    "zh_hant": "這些極端條件確實助長了火勢，如此猛烈。"
+    "zh": "这真是极端条件，助长了这些火焰，如此猛烈。",
+    "zh_hant": "這真是極端條件，助長了這些火焰，如此猛烈。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "The fires create their own wind and move rapidly across the terrain.",
     "start": 85.424,
     "end": 89.317,
-    "zh": "大火会自己产生风，并在地形上快速移动。",
-    "zh_hant": "大火會自己產生風，並在地形上快速移動。"
+    "zh": "火灾形成了自己的风，并迅速在陆地上蔓延。",
+    "zh_hant": "火災形成了自己的風，並迅速在陸地上蔓延。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "And that's what's made the fire burning near Bordeaux so dangerous and tricky to get ahead of, Rhiannon.",
     "start": 88.967,
     "end": 93.92,
-    "zh": "而这正是使波尔多附近的大火如此危险、难以抢先控制的原因，里安农。",
-    "zh_hant": "而這正是使波爾多附近的大火如此危險、難以搶先控制的原因，裡安農。"
+    "zh": "这就是为什么波尔多附近的火灾如此危险且难以赶超的原因，里安农。",
+    "zh_hant": "這就是為什麼波爾多附近的火災如此危險且難以趕超的原因，裡安農。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "Our thoughts with everyone out there.",
     "start": 93.64,
     "end": 95.401,
-    "zh": "我们牵挂着那里的每一个人。",
-    "zh_hant": "我們牽掛著那裡的每一個人。"
+    "zh": "我们心系那里的所有人。",
+    "zh_hant": "我們心繫那裡的所有人。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Thank you so much for that, Marcus.",
     "start": 95.051,
     "end": 96.622,

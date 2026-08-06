@@ -1,86 +1,70 @@
 [
   {
     "index": 0,
-    "text": "In 2024, the number of babies born",
+    "text": "In 2024, the number of babies born in South Korea",
     "start": 0.971,
-    "end": 5.453,
-    "zh": "2024年，新生儿数量",
-    "zh_hant": "2024年，新生兒數量"
+    "end": 6.813,
+    "zh": "2024年，韩国的出生婴儿数量",
+    "zh_hant": "2024年，韓國的出生嬰兒數量"
   },
   {
     "index": 1,
-    "text": "in South Korea increased for the first time in nine years.",
-    "start": 5.213,
+    "text": "increased for the first time in nine years.",
+    "start": 6.914,
     "end": 11.155,
-    "zh": "在韩国九年来首次增加。",
-    "zh_hant": "在韓國九年來首次增加。"
+    "zh": "九年来首次出现增长。",
+    "zh_hant": "九年來首次出現增長。"
   },
   {
     "index": 2,
-    "text": "The change is welcome news",
+    "text": "The change is welcome news for a country that is dealing with serious population problems.",
     "start": 11.696,
-    "end": 13.977,
-    "zh": "这一变化是个好消息。",
-    "zh_hant": "這一變化是個好訊息。"
+    "end": 19.319,
+    "zh": "对一个面临严重人口问题的国家来说，这一变化是个好消息。",
+    "zh_hant": "對一個面臨嚴重人口問題的國家來說，這一變化是個好訊息。"
   },
   {
     "index": 3,
-    "text": "for a country that is dealing with serious population problems.",
-    "start": 13.697,
-    "end": 19.319,
-    "zh": "对于一个面临严重人口问题的国家而言。",
-    "zh_hant": "對於一個面臨嚴重人口問題的國家而言。"
+    "text": "South Korea's statistics agency said recently",
+    "start": 20.12,
+    "end": 24.582,
+    "zh": "韩国统计机构最近表示",
+    "zh_hant": "韓國統計機構最近表示"
   },
   {
     "index": 4,
-    "text": "South Korea's statistics agency",
-    "start": 20.12,
-    "end": 23.061,
-    "zh": "韩国统计厅",
-    "zh_hant": "韓國統計廳"
+    "text": "that 238,300 babies were born last year,",
+    "start": 24.382,
+    "end": 31.005,
+    "zh": "去年共有23.83万名婴儿出生，",
+    "zh_hant": "去年共有23.83萬名嬰兒出生，"
   },
   {
     "index": 5,
-    "text": "said recently that 238,300 babies",
-    "start": 23.122,
-    "end": 29.304,
-    "zh": "近日表示，有23万8300名婴儿。",
-    "zh_hant": "近日表示，有23萬8300名嬰兒。"
-  },
-  {
-    "index": 6,
-    "text": "were born last year,",
-    "start": 29.165,
-    "end": 31.005,
-    "zh": "去年出生的。",
-    "zh_hant": "去年出生的。"
-  },
-  {
-    "index": 7,
     "text": "an increase of 8,300 from a year earlier.",
     "start": 31.326,
     "end": 37.168,
-    "zh": "较去年同期增加8,300人。",
-    "zh_hant": "較去年同期增加8,300人。"
+    "zh": "比前一年增加了8300人。",
+    "zh_hant": "比前一年增加了8300人。"
+  },
+  {
+    "index": 6,
+    "text": "The agency said the country's fertility",
+    "start": 37.749,
+    "end": 41.011,
+    "zh": "该机构表示，韩国的生育率——",
+    "zh_hant": "該機構表示，韓國的生育率——"
+  },
+  {
+    "index": 7,
+    "text": "rate, the average number of babies born to each woman in her reproductive years,",
+    "start": 40.661,
+    "end": 47.974,
+    "zh": "即每位育龄女性平均生育的婴儿数量——",
+    "zh_hant": "即每位育齡女性平均生育的嬰兒數量——"
   },
   {
     "index": 8,
-    "text": "The agency said the country's fertility rate,",
-    "start": 37.749,
-    "end": 41.471,
-    "zh": "该机构表示，该国的生育率，",
-    "zh_hant": "該機構表示，該國的生育率，"
-  },
-  {
-    "index": 9,
-    "text": "the average number of babies born to each woman in her reproductive years,",
-    "start": 41.671,
-    "end": 47.974,
-    "zh": "育龄妇女平均生育的婴儿数量。",
-    "zh_hant": "育齡婦女平均生育的嬰兒數量。"
-  },
-  {
-    "index": 10,
     "text": "was 0.75 in 2024,",
     "start": 48.214,
     "end": 53.047,
@@ -88,7 +72,7 @@
     "zh_hant": "2024年為0.75，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "Up from 0.72 in 2023.",
     "start": 53.097,
     "end": 58.51,
@@ -96,167 +80,143 @@
     "zh_hant": "高於2023年的0.72。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "The data represents the first time",
     "start": 58.56,
     "end": 61.741,
-    "zh": "该数据代表了首次",
-    "zh_hant": "該資料代表了首次"
+    "zh": "这一数据标志着",
+    "zh_hant": "這一資料標誌著"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "that the yearly number of births has increased since 2015.",
     "start": 61.421,
     "end": 67.854,
-    "zh": "2015年以来，每年的出生人数有所增加。",
-    "zh_hant": "2015年以來，每年的出生人數有所增加。"
+    "zh": "自2015年以来，年度出生人口首次增加。",
+    "zh_hant": "自2015年以來，年度出生人口首次增加。"
   },
   {
-    "index": 14,
-    "text": "Choi Yoon Kyung is an expert",
+    "index": 12,
+    "text": "Choi Yoon Kyung is an expert with the Korea Institute of Child Care and Education.",
     "start": 67.904,
-    "end": 70.645,
-    "zh": "崔允京是专家。",
-    "zh_hant": "崔允京是專家。"
-  },
-  {
-    "index": 15,
-    "text": "with the Korea Institute of Child Care and Education.",
-    "start": 70.485,
     "end": 75.148,
-    "zh": "与韩国儿童保育与教育研究所合作。",
-    "zh_hant": "與韓國兒童保育與教育研究所合作。"
+    "zh": "崔允京是韩国儿童保育与教育研究所的专家。",
+    "zh_hant": "崔允京是韓國兒童保育與教育研究所的專家。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Choi told the Associated Press that researchers must wait for more data",
     "start": 75.768,
     "end": 82.071,
-    "zh": "崔告诉美联社，研究人员必须等待更多数据。",
-    "zh_hant": "崔告訴美聯社，研究人員必須等待更多資料。"
+    "zh": "崔告诉美联社，研究人员必须等待未来几年",
+    "zh_hant": "崔告訴美聯社，研究人員必須等待未來幾年"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "over the next few years",
     "start": 82.132,
     "end": 84.553,
-    "zh": "未来几年内",
-    "zh_hant": "未來幾年內"
+    "zh": "的更多数据，",
+    "zh_hant": "的更多資料，"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "to see if increased births were driven by “structural changes.”",
     "start": 84.593,
     "end": 90.616,
-    "zh": "为了检验出生率上升是否由“结构性变化”驱动。",
-    "zh_hant": "為了檢驗出生率上升是否由“結構性變化”驅動。"
+    "zh": "才能判断出生率上升是否由“结构性变化”驱动。",
+    "zh_hant": "才能判斷出生率上升是否由“結構性變化”驅動。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Park Hyun Jung is with the government agency Statistics Korea.",
     "start": 91.216,
     "end": 97.159,
-    "zh": "朴贤贞在韩国统计厅工作。",
-    "zh_hant": "樸賢貞在韓國統計廳工作。"
+    "zh": "朴贤贞在政府机构韩国统计厅工作。",
+    "zh_hant": "樸賢貞在政府機構韓國統計廳工作。"
   },
   {
-    "index": 20,
-    "text": "Park said the agency believes",
+    "index": 17,
+    "text": "Park said the agency believes the rise is partly due to an increase",
     "start": 97.879,
-    "end": 100.54,
-    "zh": "帕克表示，该机构认为",
-    "zh_hant": "帕克表示，該機構認為"
+    "end": 104.122,
+    "zh": "朴表示，该机构认为这一上升部分是由于",
+    "zh_hant": "樸表示，該機構認為這一上升部分是由於"
   },
   {
-    "index": 21,
-    "text": "the rise is partly due to an increase in marriages",
-    "start": 100.19,
-    "end": 105.123,
-    "zh": "这一上升部分归因于婚姻的增多。",
-    "zh_hant": "這一上升部分歸因於婚姻的增多。"
-  },
-  {
-    "index": 22,
-    "text": "following postponements",
-    "start": 105.163,
+    "index": 18,
+    "text": "in marriages following postponements",
+    "start": 103.772,
     "end": 107.204,
-    "zh": "由于多次延期后",
-    "zh_hant": "由於多次延期後"
+    "zh": "婚姻登记的增加，而这些婚姻",
+    "zh_hant": "婚姻登記的增加，而這些婚姻"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "of such plans during the COVID-19 pandemic.",
     "start": 106.964,
     "end": 111.946,
-    "zh": "在新冠疫情期间，这类计划的情况。",
-    "zh_hant": "在新冠疫情期間，這類計劃的情況。"
+    "zh": "在新冠疫情期间曾被推迟。",
+    "zh_hant": "在新冠疫情期間曾被推遲。"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "Park said another reason for the increase is that a growing number of people",
     "start": 112.467,
     "end": 118.709,
-    "zh": "Park表示，增长的另一原因是人数日益增多。",
-    "zh_hant": "Park表示，增長的另一原因是人數日益增多。"
+    "zh": "朴还表示，另一个原因是越来越多的人",
+    "zh_hant": "樸還表示，另一個原因是越來越多的人"
   },
   {
-    "index": 25,
+    "index": 21,
     "text": "entered their early 30s.",
     "start": 118.63,
     "end": 121.822,
-    "zh": "步入三十出头。",
-    "zh_hant": "步入三十出頭。"
+    "zh": "进入了30岁出头。",
+    "zh_hant": "進入了30歲出頭。"
   },
   {
-    "index": 26,
-    "text": "She also noted a government study that shows",
+    "index": 22,
+    "text": "She also noted a government study",
     "start": 121.872,
-    "end": 125.893,
-    "zh": "她还提到了一项政府研究，该研究表明",
-    "zh_hant": "她還提到了一項政府研究，該研究表明"
+    "end": 124.613,
+    "zh": "她还提到一项政府研究",
+    "zh_hant": "她還提到一項政府研究"
   },
   {
-    "index": 27,
-    "text": "a small increase in the number of young people",
-    "start": 125.573,
+    "index": 23,
+    "text": "that shows a small increase in the number of young people",
+    "start": 124.713,
     "end": 129.515,
-    "zh": "年轻人数量的小幅增长",
-    "zh_hant": "年輕人數量的小幅增長"
+    "zh": "显示，希望婚后生育的年轻人数量",
+    "zh_hant": "顯示，希望婚後生育的年輕人數量"
   },
   {
-    "index": 28,
+    "index": 24,
     "text": "hoping to have children after marriage.",
     "start": 129.475,
     "end": 132.717,
-    "zh": "希望婚后有孩子。",
-    "zh_hant": "希望婚後有孩子。"
+    "zh": "略有增加。",
+    "zh_hant": "略有增加。"
   },
   {
-    "index": 29,
-    "text": "Official data show South Korea's fertility rate",
+    "index": 25,
+    "text": "Official data show South Korea's fertility rate has been the lowest in the developed world",
     "start": 133.317,
-    "end": 137.219,
-    "zh": "韩国官方数据显示生育率持续走低",
-    "zh_hant": "韓國官方資料顯示生育率持續走低"
-  },
-  {
-    "index": 30,
-    "text": "has been the lowest in the developed world",
-    "start": 137.059,
     "end": 140.761,
-    "zh": "在发达国家中一直是最低的",
-    "zh_hant": "在發達國家中一直是最低的"
+    "zh": "官方数据显示，韩国的生育率近年来",
+    "zh_hant": "官方資料顯示，韓國的生育率近年來"
   },
   {
-    "index": 31,
+    "index": 26,
     "text": "in recent years.",
     "start": 140.741,
     "end": 142.482,
-    "zh": "近年来。",
-    "zh_hant": "近年來。"
+    "zh": "一直是发达国家中最低的。",
+    "zh_hant": "一直是發達國家中最低的。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "In 2022,",
     "start": 143.082,
     "end": 145.013,
@@ -264,31 +224,23 @@
     "zh_hant": "2022年，"
   },
   {
-    "index": 33,
-    "text": "South Korea was the only country with a fertility rate below 1",
+    "index": 28,
+    "text": "South Korea was the only country with a fertility rate below 1 among members",
     "start": 145.063,
-    "end": 151.136,
-    "zh": "韩国是唯一一个生育率低于1的国家",
-    "zh_hant": "韓國是唯一一個生育率低於1的國家"
+    "end": 152.547,
+    "zh": "韩国是总部位于巴黎的经济合作与发展组织成员国中",
+    "zh_hant": "韓國是總部位於巴黎的經濟合作與發展組織成員國中"
   },
   {
-    "index": 34,
-    "text": "among members of the Paris-based Organization for Economic Cooperation",
-    "start": 151.186,
-    "end": 157.489,
-    "zh": "在总部位于巴黎的经济合作与发展组织成员中",
-    "zh_hant": "在總部位於巴黎的經濟合作與發展組織成員中"
-  },
-  {
-    "index": 35,
-    "text": "and Development.",
-    "start": 157.489,
+    "index": 29,
+    "text": "of the Paris-based Organization for Economic Cooperation and Development.",
+    "start": 152.197,
     "end": 159.07,
-    "zh": "及发展。",
-    "zh_hant": "及發展。"
+    "zh": "唯一一个生育率低于1的国家。",
+    "zh_hant": "唯一一個生育率低於1的國家。"
   },
   {
-    "index": 36,
+    "index": 30,
     "text": "The low fertility rate could threaten South Korea's economic health.",
     "start": 159.671,
     "end": 164.693,
@@ -296,191 +248,159 @@
     "zh_hant": "低生育率可能威脅韓國的經濟健康。"
   },
   {
-    "index": 37,
+    "index": 31,
     "text": "The country, Asia's fourth-largest economy,",
     "start": 165.294,
     "end": 169.215,
-    "zh": "该国是亚洲第四大经济体",
-    "zh_hant": "該國是亞洲第四大經濟體"
+    "zh": "韩国是亚洲第四大经济体，",
+    "zh_hant": "韓國是亞洲第四大經濟體，"
   },
   {
-    "index": 38,
-    "text": "South Korea's central and local governments have been increasingly offering several support programs",
-    "start": 170.676,
-    "end": 185.203,
-    "zh": "韩国中央和地方政府近年来不断推出多项支持项目",
-    "zh_hant": "韓國中央和地方政府近年來不斷推出多項支援專案"
+    "index": 32,
+    "text": "South Korea's central and local governments have been increasingly offering",
+    "start": 176.59,
+    "end": 183.122,
+    "zh": "韩国中央和地方政府一直在不断增加",
+    "zh_hant": "韓國中央和地方政府一直在不斷增加"
   },
   {
-    "index": 39,
-    "text": "to those who give birth to children,",
-    "start": 185.163,
+    "index": 33,
+    "text": "several support programs to those who give birth to children,",
+    "start": 182.922,
     "end": 188.245,
-    "zh": "给那些生育孩子的人",
-    "zh_hant": "給那些生育孩子的人"
+    "zh": "对生育子女者的多种支持计划，",
+    "zh_hant": "對生育子女者的多種支援計劃，"
   },
   {
-    "index": 40,
-    "text": "but experts say that it will be difficult",
+    "index": 34,
+    "text": "but experts say that it will be difficult to solve the country's population problems.",
     "start": 189.065,
-    "end": 192.487,
-    "zh": "但专家表示，这将很困难。",
-    "zh_hant": "但專家表示，這將很困難。"
-  },
-  {
-    "index": 41,
-    "text": "to solve the country's population problems.",
-    "start": 192.247,
     "end": 195.868,
-    "zh": "以解决国家的人口问题。",
-    "zh_hant": "以解決國家的人口問題。"
+    "zh": "但专家表示，解决该国的人口问题将很困难。",
+    "zh_hant": "但專家表示，解決該國的人口問題將很困難。"
   },
   {
-    "index": 42,
+    "index": 35,
     "text": "Many young people say they do not want to have babies.",
     "start": 196.429,
     "end": 200.811,
-    "zh": "很多年轻人说他们不想要孩子。",
-    "zh_hant": "很多年輕人說他們不想要孩子。"
+    "zh": "许多年轻人表示他们不想生孩子。",
+    "zh_hant": "許多年輕人表示他們不想生孩子。"
   },
   {
-    "index": 43,
-    "text": "Their reasons include costly housing, low levels of upward",
+    "index": 36,
+    "text": "Their reasons include costly housing, low levels of upward social movement,",
     "start": 201.372,
-    "end": 206.974,
-    "zh": "他们的原因包括住房成本高昂、向上流动水平低",
-    "zh_hant": "他們的原因包括住房成本高昂、向上流動水平低"
-  },
-  {
-    "index": 44,
-    "text": "social movement,",
-    "start": 206.714,
     "end": 208.215,
-    "zh": "社会运动",
-    "zh_hant": "社會運動"
+    "zh": "他们的理由包括住房昂贵、社会向上流动机会少、",
+    "zh_hant": "他們的理由包括住房昂貴、社會向上流動機會少、"
   },
   {
-    "index": 45,
+    "index": 37,
     "text": "the high costs of raising and educating children,",
     "start": 208.435,
     "end": 212.237,
-    "zh": "养育和教育孩子的高昂成本，",
-    "zh_hant": "養育和教育孩子的高昂成本，"
+    "zh": "养育和教育孩子的成本高，",
+    "zh_hant": "養育和教育孩子的成本高，"
   },
   {
-    "index": 46,
+    "index": 38,
     "text": "and a culture that requires women to do more of the child care.",
     "start": 212.597,
     "end": 218.2,
-    "zh": "以及一种要求女性承担更多育儿责任的文化。",
-    "zh_hant": "以及一種要求女性承擔更多育兒責任的文化。"
+    "zh": "以及要求女性承担更多育儿责任的文化。",
+    "zh_hant": "以及要求女性承擔更多育兒責任的文化。"
   },
   {
-    "index": 47,
+    "index": 39,
     "text": "Park said that the fertility rate will likely stay on an upward movement",
     "start": 218.84,
     "end": 224.943,
-    "zh": "朴槿惠表示，生育率很可能会保持上升趋势。",
-    "zh_hant": "朴槿惠表示，生育率很可能會保持上升趨勢。"
+    "zh": "朴表示，生育率很可能至少在未来一年",
+    "zh_hant": "樸表示，生育率很可能至少在未來一年"
   },
   {
-    "index": 48,
+    "index": 40,
     "text": "at least for another year.",
     "start": 224.943,
     "end": 227.304,
-    "zh": "至少再维持一年。",
-    "zh_hant": "至少再維持一年。"
+    "zh": "保持上升趋势。",
+    "zh_hant": "保持上升趨勢。"
   },
   {
-    "index": 49,
+    "index": 41,
     "text": "But observers say it remains to be seen",
     "start": 227.885,
     "end": 231.406,
-    "zh": "但观察人士表示，这仍有待观察。",
-    "zh_hant": "但觀察人士表示，這仍有待觀察。"
+    "zh": "但观察人士表示，随着疫情后的婚姻热潮消退，",
+    "zh_hant": "但觀察人士表示，隨著疫情後的婚姻熱潮消退，"
   },
   {
-    "index": 50,
+    "index": 42,
     "text": "whether the rate will go back down as post-pandemic marriages even out.",
     "start": 231.406,
     "end": 237.629,
-    "zh": "疫情后婚姻数量趋于平稳，利率是否会回落？",
-    "zh_hant": "疫情後婚姻數量趨於平穩，利率是否會回落？"
+    "zh": "生育率是否会再次下降，仍有待观察。",
+    "zh_hant": "生育率是否會再次下降，仍有待觀察。"
   },
   {
-    "index": 51,
+    "index": 43,
     "text": "The country's population structure will also change,",
     "start": 238.19,
     "end": 242.412,
-    "zh": "该国的 人口结构 也将发生变化。",
-    "zh_hant": "該國的 人口結構 也將發生變化。"
+    "zh": "该国的人口结构也将发生变化，",
+    "zh_hant": "該國的人口結構也將發生變化，"
   },
   {
-    "index": 52,
+    "index": 44,
     "text": "with a drop in the number of people in their early 30s.",
     "start": 242.493,
     "end": 248.086,
-    "zh": "随着30岁出头人数下降。",
-    "zh_hant": "隨著30歲出頭人數下降。"
+    "zh": "30岁出头的人口数量将减少。",
+    "zh_hant": "30歲出頭的人口數量將減少。"
   },
   {
-    "index": 53,
-    "text": "Some experts argue that the government should pay more attention",
+    "index": 45,
+    "text": "Some experts argue that the government should pay more attention to supporting young couples",
     "start": 248.136,
-    "end": 252.998,
-    "zh": "一些专家认为政府应给予更多关注",
-    "zh_hant": "一些專家認為政府應給予更多關注"
-  },
-  {
-    "index": 54,
-    "text": "to supporting young couples",
-    "start": 252.678,
     "end": 254.999,
-    "zh": "支持年轻夫妇",
-    "zh_hant": "支援年輕夫婦"
+    "zh": "一些专家认为，政府应更注重支持",
+    "zh_hant": "一些專家認為，政府應更注重支援"
   },
   {
-    "index": 55,
+    "index": 46,
     "text": "who want to have babies.",
     "start": 254.899,
     "end": 257.0,
-    "zh": "想要孩子的人。",
-    "zh_hant": "想要孩子的人。"
+    "zh": "想要生育的年轻夫妇。",
+    "zh_hant": "想要生育的年輕夫婦。"
   },
   {
-    "index": 56,
+    "index": 47,
     "text": "“There are still people with solid wills to have a family and babies.",
     "start": 257.501,
     "end": 262.843,
-    "zh": "仍然有人坚定地想要成家生子。",
-    "zh_hant": "仍然有人堅定地想要成家生子。"
+    "zh": "“仍然有人坚定地希望拥有家庭和孩子。",
+    "zh_hant": "“仍然有人堅定地希望擁有家庭和孩子。"
   },
   {
-    "index": 57,
+    "index": 48,
     "text": "When we help them realize their hopes,",
     "start": 263.364,
     "end": 266.145,
-    "zh": "当我们帮助他们实现希望时，",
-    "zh_hant": "當我們幫助他們實現希望時，"
+    "zh": "当我们帮助他们实现愿望时，",
+    "zh_hant": "當我們幫助他們實現願望時，"
   },
   {
-    "index": 58,
-    "text": "our fertility rate won’t suffer a steep, 45-degree drop,”",
+    "index": 49,
+    "text": "our fertility rate won’t suffer a steep, 45-degree drop,” Choi said.",
     "start": 266.125,
-    "end": 271.588,
-    "zh": "“我们的生育率不会出现45度角的急剧下滑。”",
-    "zh_hant": "“我們的生育率不會出現45度角的急劇下滑。”"
-  },
-  {
-    "index": 59,
-    "text": "Choi said.",
-    "start": 271.668,
     "end": 272.829,
-    "zh": "崔说。",
-    "zh_hant": "崔說。"
+    "zh": "我们的生育率就不会出现45度的陡降，”崔说。",
+    "zh_hant": "我們的生育率就不會出現45度的陡降，”崔說。"
   },
   {
-    "index": 60,
+    "index": 50,
     "text": "I’m John Russell.",
     "start": 273.509,
     "end": 274.87,

@@ -4,67 +4,51 @@
     "text": "At America’s 149th Westminster Kennel Club dog show,",
     "start": 0.45,
     "end": 6.093,
-    "zh": "在美国第149届威斯敏斯特犬业俱乐部狗展上，",
-    "zh_hant": "在美國第149屆威斯敏斯特犬業俱樂部狗展上，"
+    "zh": "在美国第149届威斯敏斯特养犬俱乐部犬展上",
+    "zh_hant": "在美國第149屆威斯敏斯特養犬俱樂部犬展上"
   },
   {
     "index": 1,
     "text": "Monty the giant schnauzer won the top prize.",
     "start": 6.533,
     "end": 11.676,
-    "zh": "巨型雪纳瑞犬“蒙蒂”赢得了最高奖项。",
-    "zh_hant": "巨型雪納瑞犬“蒙蒂”贏得了最高獎項。"
+    "zh": "巨型雪纳瑞犬蒙蒂赢得了最高奖项。",
+    "zh_hant": "巨型雪納瑞犬蒙蒂贏得了最高獎項。"
   },
   {
     "index": 2,
     "text": "The lively schnauzer beat six other finalists in New York City",
     "start": 12.656,
     "end": 18.199,
-    "zh": "这只活泼的雪纳瑞犬在纽约市击败了其他六名决赛选手，",
-    "zh_hant": "這隻活潑的雪納瑞犬在紐約市擊敗了其他六名決賽選手，"
+    "zh": "这只活泼的雪纳瑞犬在纽约市击败了其他六名决赛选手",
+    "zh_hant": "這隻活潑的雪納瑞犬在紐約市擊敗了其他六名決賽選手"
   },
   {
     "index": 3,
-    "text": "to become the first of his breed to win",
+    "text": "to become the first of his breed to win Westminster’s “best in show.”",
     "start": 18.379,
-    "end": 22.301,
-    "zh": "成为该品种中首只赢得",
-    "zh_hant": "成為該品種中首隻贏得"
+    "end": 25.082,
+    "zh": "成为该品种中第一只赢得威斯敏斯特“全场总冠军”的狗。",
+    "zh_hant": "成為該品種中第一隻贏得威斯敏斯特“全場總冠軍”的狗。"
   },
   {
     "index": 4,
-    "text": "Westminster’s “best in show.”",
-    "start": 22.201,
-    "end": 25.082,
-    "zh": "威斯敏斯特“全场总冠军”的犬只。",
-    "zh_hant": "威斯敏斯特“全場總冠軍”的犬隻。"
+    "text": "The prize is the most important and respected in the U.S. dog show world.",
+    "start": 26.283,
+    "end": 33.006,
+    "zh": "该奖项是美国犬展界最重要、最受尊敬的荣誉。",
+    "zh_hant": "該獎項是美國犬展界最重要、最受尊敬的榮譽。"
   },
   {
     "index": 5,
-    "text": "The prize is the most important and respected",
-    "start": 26.283,
-    "end": 30.445,
-    "zh": "这一奖项是美国狗展界",
-    "zh_hant": "這一獎項是美國狗展界"
-  },
-  {
-    "index": 6,
-    "text": "in the U.S. dog show world.",
-    "start": 30.345,
-    "end": 33.006,
-    "zh": "最重要、最受尊崇的荣誉。",
-    "zh_hant": "最重要、最受尊崇的榮譽。"
-  },
-  {
-    "index": 7,
     "text": "While Monty came close to winning Westminster the past two years,",
     "start": 34.547,
     "end": 39.79,
-    "zh": "尽管蒙蒂在过去两年中曾接近赢得威斯敏斯特冠军，",
-    "zh_hant": "儘管蒙蒂在過去兩年中曾接近贏得威斯敏斯特冠軍，"
+    "zh": "尽管蒙蒂在过去两年中接近赢得威斯敏斯特冠军",
+    "zh_hant": "儘管蒙蒂在過去兩年中接近贏得威斯敏斯特冠軍"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "he fell short of the big prize.",
     "start": 39.95,
     "end": 42.431,
@@ -72,263 +56,231 @@
     "zh_hant": "但都與大獎失之交臂。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "In December 2024, the dog won another big prize,",
     "start": 43.612,
     "end": 48.895,
-    "zh": "2024年12月，这只狗赢得了另一项大奖，",
-    "zh_hant": "2024年12月，這隻狗贏得了另一項大獎，"
+    "zh": "2024年12月，这只狗赢得了另一个大奖",
+    "zh_hant": "2024年12月，這隻狗贏得了另一個大獎"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "the huge American Kennel Club championship.",
     "start": 49.375,
     "end": 53.317,
-    "zh": "即盛大的美国犬业俱乐部锦标赛。",
-    "zh_hant": "即盛大的美國犬業俱樂部錦標賽。"
+    "zh": "即规模庞大的美国养犬俱乐部锦标赛。",
+    "zh_hant": "即規模龐大的美國養犬俱樂部錦標賽。"
   },
   {
-    "index": 11,
-    "text": "But for dog show lovers, Westminster is considered",
+    "index": 9,
+    "text": "But for dog show lovers, Westminster is considered the Super Bowl of all shows.",
     "start": 54.618,
-    "end": 58.88,
-    "zh": "但对狗展爱好者来说，威斯敏斯特被视为",
-    "zh_hant": "但對狗展愛好者來說，威斯敏斯特被視為"
-  },
-  {
-    "index": 12,
-    "text": "the Super Bowl of all shows.",
-    "start": 58.58,
     "end": 61.241,
-    "zh": "所有展览中的“超级碗”。",
-    "zh_hant": "所有展覽中的“超級碗”。"
+    "zh": "但对于犬展爱好者来说，威斯敏斯特被视为所有犬展中的超级碗。",
+    "zh_hant": "但對於犬展愛好者來說，威斯敏斯特被視為所有犬展中的超級碗。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "This year the comparison is especially fitting.",
     "start": 62.402,
     "end": 65.923,
-    "zh": "今年这一比喻尤为贴切。",
-    "zh_hant": "今年這一比喻尤為貼切。"
+    "zh": "今年这个比喻尤其贴切。",
+    "zh_hant": "今年這個比喻尤其貼切。"
   },
   {
-    "index": 14,
-    "text": "That is because the most respected U.S. dog competition opened",
+    "index": 11,
+    "text": "That is because the most respected U.S. dog competition",
     "start": 66.804,
-    "end": 72.246,
-    "zh": "这是因为美国最受尊崇的犬类赛事",
-    "zh_hant": "這是因為美國最受尊崇的犬類賽事"
+    "end": 71.226,
+    "zh": "这是因为美国最受尊敬的犬类比赛",
+    "zh_hant": "這是因為美國最受尊敬的犬類比賽"
   },
   {
-    "index": 15,
-    "text": "on the same weekend as the Super Bowl",
-    "start": 72.186,
+    "index": 12,
+    "text": "opened on the same weekend as the Super Bowl",
+    "start": 71.306,
     "end": 75.2,
-    "zh": "与超级碗在同一周末开幕，",
-    "zh_hant": "與超級碗在同一週末開幕，"
+    "zh": "与超级碗在同一周末开幕",
+    "zh_hant": "與超級碗在同一週末開幕"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "-- the most important game in American professional football.",
     "start": 74.8,
     "end": 79.87,
-    "zh": "而超级碗是美国职业橄榄球中最重要的比赛。",
-    "zh_hant": "而超級碗是美國職業橄欖球中最重要的比賽。"
+    "zh": "——超级碗是美国职业橄榄球中最重要的一场比赛。",
+    "zh_hant": "——超級碗是美國職業橄欖球中最重要的一場比賽。"
   },
   {
-    "index": 17,
-    "text": "This rare happening came after the dates of both competitions",
+    "index": 14,
+    "text": "This rare happening came after the dates of both competitions changed in recent years.",
     "start": 80.871,
-    "end": 85.553,
-    "zh": "这一罕见的重合发生在两项赛事的日期",
-    "zh_hant": "這一罕見的重合發生在兩項賽事的日期"
-  },
-  {
-    "index": 18,
-    "text": "changed in recent years.",
-    "start": 85.573,
     "end": 88.435,
-    "zh": "近年来均有调整之后。",
-    "zh_hant": "近年來均有調整之後。"
+    "zh": "这一罕见的情况发生在两项比赛日期近年来都发生变动之后。",
+    "zh_hant": "這一罕見的情況發生在兩項比賽日期近年來都發生變動之後。"
   },
   {
-    "index": 19,
+    "index": 15,
     "text": "At Westminster, dogs first compete against other members of their breed.",
     "start": 89.816,
     "end": 96.078,
-    "zh": "在威斯敏斯特，犬只首先与同品种的其他犬只竞争。",
-    "zh_hant": "在威斯敏斯特，犬隻首先與同品種的其他犬隻競爭。"
+    "zh": "在威斯敏斯特犬展上，狗首先与同品种的狗竞争。",
+    "zh_hant": "在威斯敏斯特犬展上，狗首先與同品種的狗競爭。"
   },
   {
-    "index": 20,
-    "text": "Then, the winner of each breed goes up",
+    "index": 16,
+    "text": "Then, the winner of each breed goes",
     "start": 97.079,
-    "end": 100.48,
-    "zh": "然后，每个品种的优胜者",
-    "zh_hant": "然後，每個品種的優勝者"
+    "end": 100.16,
+    "zh": "然后，每个品种的获胜者",
+    "zh_hant": "然後，每個品種的獲勝者"
   },
   {
-    "index": 21,
-    "text": "against other dogs within different competition “groups.”",
-    "start": 100.241,
+    "index": 17,
+    "text": "up against other dogs within different competition “groups.”",
+    "start": 99.81,
     "end": 105.043,
-    "zh": "再与不同比赛“组别”中的其他犬只较量。",
-    "zh_hant": "再與不同比賽“組別”中的其他犬隻較量。"
+    "zh": "在进入不同的“组别”与其他狗对阵。",
+    "zh_hant": "在進入不同的“組別”與其他狗對陣。"
   },
   {
-    "index": 22,
+    "index": 18,
     "text": "Among the groups are sporting, working, toy, and herding.",
     "start": 106.003,
     "end": 112.246,
-    "zh": "组别包括运动犬组、工作犬组、玩具犬组和牧羊犬组。",
-    "zh_hant": "組別包括運動犬組、工作犬組、玩具犬組和牧羊犬組。"
+    "zh": "这些组别包括运动犬组、工作犬组、玩具犬组和牧羊犬组。",
+    "zh_hant": "這些組別包括運動犬組、工作犬組、玩具犬組和牧羊犬組。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "Group winners then compete in the final round.",
     "start": 113.347,
     "end": 116.929,
-    "zh": "各组的优胜者随后进入最后一轮角逐。",
-    "zh_hant": "各組的優勝者隨後進入最後一輪角逐。"
+    "zh": "组别冠军随后进入最后一轮比赛。",
+    "zh_hant": "組別冠軍隨後進入最後一輪比賽。"
   },
   {
-    "index": 24,
-    "text": "The best in show winner gets an award",
+    "index": 20,
+    "text": "The best in show winner gets an award – a large,",
     "start": 118.51,
-    "end": 121.36,
-    "zh": "全场总冠军的获得者会赢得一项奖励，",
-    "zh_hant": "全場總冠軍的獲得者會贏得一項獎勵，"
+    "end": 123.032,
+    "zh": "全场总冠军会获得一个奖项——一个大的、",
+    "zh_hant": "全場總冠軍會獲得一個獎項——一個大的、"
   },
   {
-    "index": 25,
-    "text": "– a large, shiny cup called a trophy –",
-    "start": 120.96,
-    "end": 125.41,
-    "zh": "——一个称为奖杯的大型闪亮杯子——",
-    "zh_hant": "——一個稱為獎盃的大型閃亮杯子——"
-  },
-  {
-    "index": 26,
-    "text": "and a place in dog-world history.",
-    "start": 126.034,
+    "index": 21,
+    "text": "shiny cup called a trophy – and a place in dog-world history.",
+    "start": 122.712,
     "end": 128.995,
-    "zh": "并在犬类历史中占有一席之地。",
-    "zh_hant": "並在犬類歷史中佔有一席之地。"
+    "zh": "闪亮的杯子，称为奖杯——并在犬展历史上占有一席之地。",
+    "zh_hant": "閃亮的杯子，稱為獎盃——並在犬展歷史上佔有一席之地。"
   },
   {
-    "index": 27,
+    "index": 22,
     "text": "The top prize, however, does not include money.",
     "start": 129.796,
     "end": 133.737,
-    "zh": "然而，这一最高奖项并不包含奖金。",
-    "zh_hant": "然而，這一最高獎項並不包含獎金。"
+    "zh": "然而，这个最高奖项并不包含奖金。",
+    "zh_hant": "然而，這個最高獎項並不包含獎金。"
   },
   {
-    "index": 28,
-    "text": "In her report on the dog show, Learning English’s Caty Weaver explains",
+    "index": 23,
+    "text": "In her report on the dog show,",
     "start": 135.058,
-    "end": 141.221,
-    "zh": "在关于此次狗展的报道中，《学英语》的卡蒂·韦弗解释说，",
-    "zh_hant": "在關於此次狗展的報道中，《學英語》的卡蒂·韋弗解釋說，"
+    "end": 137.459,
+    "zh": "在关于这场犬展的报道中",
+    "zh_hant": "在關於這場犬展的報道中"
   },
   {
-    "index": 29,
+    "index": 24,
+    "text": "Learning English’s Caty Weaver explains",
+    "start": 137.439,
+    "end": 141.221,
+    "zh": "《学英语》的卡蒂·韦弗解释道",
+    "zh_hant": "《學英語》的卡蒂·韋弗解釋道"
+  },
+  {
+    "index": 25,
     "text": "that the Westminster show dates back to 1877.",
     "start": 140.871,
     "end": 146.874,
-    "zh": "威斯敏斯特狗展可追溯至1877年。",
-    "zh_hant": "威斯敏斯特狗展可追溯至1877年。"
+    "zh": "威斯敏斯特犬展的历史可以追溯到1877年。",
+    "zh_hant": "威斯敏斯特犬展的歷史可以追溯到1877年。"
   },
   {
-    "index": 30,
-    "text": "It centers on the traditional purebred judging",
+    "index": 26,
+    "text": "It centers on the traditional purebred judging that leads to the best in show prize.",
     "start": 146.924,
-    "end": 150.466,
-    "zh": "它以传统的纯种犬评判为核心，",
-    "zh_hant": "它以傳統的純種犬評判為核心，"
-  },
-  {
-    "index": 31,
-    "text": "that leads to the best in show prize.",
-    "start": 150.566,
     "end": 153.727,
-    "zh": "最终决出全场总冠军。",
-    "zh_hant": "最終決出全場總冠軍。"
+    "zh": "它围绕传统的纯种犬评判展开，最终评出全场总冠军。",
+    "zh_hant": "它圍繞傳統的純種犬評判展開，最終評出全場總冠軍。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "But over the last few years,",
     "start": 154.768,
     "end": 157.129,
-    "zh": "但在过去几年中，",
-    "zh_hant": "但在過去幾年中，"
+    "zh": "但在过去几年中",
+    "zh_hant": "但在過去幾年中"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "the organization has added agility",
     "start": 156.779,
     "end": 160.111,
-    "zh": "该组织增加了敏捷性",
-    "zh_hant": "該組織增加了敏捷性"
+    "zh": "该组织增加了敏捷",
+    "zh_hant": "該組織增加了敏捷"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "and obedience events open to mixed-breed dogs.",
     "start": 160.231,
     "end": 165.413,
-    "zh": "和服从性赛事，向混种犬开放。",
-    "zh_hant": "和服從性賽事，向混種犬開放。"
+    "zh": "和服从比赛，这些项目对混种犬开放。",
+    "zh_hant": "和服從比賽，這些專案對混種犬開放。"
   },
   {
-    "index": 35,
-    "text": "In 2024, Sage, a miniature poodle, won best in show",
+    "index": 30,
+    "text": "In 2024, Sage, a miniature poodle,",
     "start": 166.634,
-    "end": 173.037,
-    "zh": "2024年，一只名为“萨奇”的迷你贵宾犬",
-    "zh_hant": "2024年，一隻名為“薩奇”的迷你貴賓犬"
+    "end": 171.236,
+    "zh": "2024年，一只名叫塞奇的迷你贵宾犬",
+    "zh_hant": "2024年，一隻名叫塞奇的迷你貴賓犬"
   },
   {
-    "index": 36,
-    "text": "at the 148th Westminster Kennel Club dog show.",
-    "start": 173.318,
+    "index": 31,
+    "text": "won best in show at the 148th Westminster Kennel Club dog show.",
+    "start": 171.337,
     "end": 178.62,
-    "zh": "在第148届威斯敏斯特犬业俱乐部狗展中赢得全场总冠军。",
-    "zh_hant": "在第148屆威斯敏斯特犬業俱樂部狗展中贏得全場總冠軍。"
+    "zh": "在第148届威斯敏斯特养犬俱乐部犬展中赢得了全场总冠军。",
+    "zh_hant": "在第148屆威斯敏斯特養犬俱樂部犬展中贏得了全場總冠軍。"
   },
   {
-    "index": 37,
-    "text": "And in 2023, a petit basset griffon Vendéen,",
+    "index": 32,
+    "text": "And in 2023, a petit basset griffon Vendéen, named Buddy Holly,",
     "start": 179.761,
-    "end": 184.943,
-    "zh": "而在2023年，一只名为“巴迪·霍利”的",
-    "zh_hant": "而在2023年，一隻名為“巴迪·霍利”的"
-  },
-  {
-    "index": 38,
-    "text": "named Buddy Holly,",
-    "start": 184.963,
     "end": 186.764,
-    "zh": " petit basset griffon Vendéen犬",
-    "zh_hant": " petit basset griffon Vendéen犬"
+    "zh": "而在2023年，一只名叫巴迪·霍利的迷你贝塞格里芬旺代犬",
+    "zh_hant": "而在2023年，一隻名叫巴迪·霍利的迷你貝塞格里芬旺代犬"
   },
   {
-    "index": 39,
+    "index": 33,
     "text": "won best in show at Westminster.",
     "start": 187.104,
     "end": 190.286,
-    "zh": "赢得了威斯敏斯特全场总冠军。",
-    "zh_hant": "贏得了威斯敏斯特全場總冠軍。"
+    "zh": "在威斯敏斯特赢得了全场总冠军。",
+    "zh_hant": "在威斯敏斯特贏得了全場總冠軍。"
   },
   {
-    "index": 40,
+    "index": 34,
     "text": "The breed he represents is known for its rabbit-hunting abilities.",
     "start": 191.346,
     "end": 196.729,
-    "zh": "它所属的品种以捕兔能力而闻名。",
-    "zh_hant": "它所屬的品種以捕兔能力而聞名。"
+    "zh": "它所代表的品种以捕兔能力而闻名。",
+    "zh_hant": "它所代表的品種以捕兔能力而聞名。"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "I’m Anna Matteo.",
     "start": 197.79,
     "end": 199.05,
@@ -336,75 +288,83 @@
     "zh_hant": "我是安娜·馬特奧。"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "giant –adj.",
     "start": 198.7,
     "end": 200.05,
-    "zh": "巨型的 –形容词",
-    "zh_hant": "巨型的 –形容詞"
+    "zh": "巨型的——形容词",
+    "zh_hant": "巨型的——形容詞"
   },
   {
-    "index": 43,
+    "index": 37,
     "text": "something unusually large or powerful finalist –n.",
     "start": 199.7,
     "end": 203.55,
-    "zh": "异常庞大或强大的东西 决赛选手 –名词",
-    "zh_hant": "異常龐大或強大的東西 決賽選手 –名詞"
+    "zh": "异常大或有力量的某些事物；决赛选手——名词",
+    "zh_hant": "異常大或有力量的某些事物；決賽選手——名詞"
   },
   {
-    "index": 44,
+    "index": 38,
     "text": "a contestant in a competition finals breed –n.",
     "start": 203.2,
     "end": 207.55,
-    "zh": "决赛中的参赛者 品种 –名词",
-    "zh_hant": "決賽中的參賽者 品種 –名詞"
+    "zh": "决赛中的参赛者品种——名词",
+    "zh_hant": "決賽中的參賽者品種——名詞"
   },
   {
-    "index": 45,
-    "text": "a particular kind of dog, cat, horse, etc. fall short (of something)",
+    "index": 39,
+    "text": "a particular kind of dog, cat,",
     "start": 207.2,
-    "end": 213.55,
-    "zh": "特定种类的狗、猫、马等 未达到（某事）",
-    "zh_hant": "特定種類的狗、貓、馬等 未達到（某事）"
+    "end": 210.55,
+    "zh": "一种特定的狗、猫、",
+    "zh_hant": "一種特定的狗、貓、"
   },
   {
-    "index": 46,
+    "index": 40,
+    "text": "horse, etc. fall short (of something)",
+    "start": 210.2,
+    "end": 213.55,
+    "zh": "马等未达标（某事）",
+    "zh_hant": "馬等未達標（某事）"
+  },
+  {
+    "index": 41,
     "text": "–phrase fail to meet an expectation or standard for something herd –v.",
     "start": 213.2,
     "end": 219.55,
-    "zh": " –短语 未能达到某事的期望或标准 牧（群） –动词",
-    "zh_hant": " –短語 未能達到某事的期望或標準 牧（群） –動詞"
+    "zh": "——短语 未能达到对某事的期望或标准 牧放——动词",
+    "zh_hant": "——短語 未能達到對某事的期望或標準 牧放——動詞"
   },
   {
-    "index": 47,
+    "index": 42,
     "text": "to move animals or people in a group agility –n.",
     "start": 219.2,
     "end": 224.55,
-    "zh": "驱赶动物或人群成组移动 敏捷性 –名词",
-    "zh_hant": "驅趕動物或人群成組移動 敏捷性 –名詞"
+    "zh": "使动物或人成组移动；敏捷——名词",
+    "zh_hant": "使動物或人成組移動；敏捷——名詞"
   },
   {
-    "index": 48,
+    "index": 43,
     "text": "the quality or state of being ability to move with quick easy grace obedience –n.",
     "start": 224.2,
     "end": 232.05,
-    "zh": "快速、轻松、优雅移动的能力或状态 服从性 –名词",
-    "zh_hant": "快速、輕鬆、優雅移動的能力或狀態 服從性 –名詞"
+    "zh": "快速轻松优雅移动的能力或状态；服从——名词",
+    "zh_hant": "快速輕鬆優雅移動的能力或狀態；服從——名詞"
   },
   {
-    "index": 49,
+    "index": 44,
     "text": "an act or instance of taking commands miniature –adj.",
     "start": 231.7,
     "end": 236.55,
-    "zh": "听从命令的行为或实例 迷你的 –形容词",
-    "zh_hant": "聽從命令的行為或例項 迷你的 –形容詞"
+    "zh": "听从命令的行为或实例；迷你的——形容词",
+    "zh_hant": "聽從命令的行為或例項；迷你的——形容詞"
   },
   {
-    "index": 50,
+    "index": 45,
     "text": "something small of its kind",
     "start": 236.2,
     "end": 239.05,
-    "zh": "同类中较小的东西",
-    "zh_hant": "同類中較小的東西"
+    "zh": "同类中尺寸小的事物",
+    "zh_hant": "同類中尺寸小的事物"
   }
 ]

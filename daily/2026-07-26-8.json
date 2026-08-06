@@ -4,16 +4,16 @@
     "text": "Hello and welcome to Real Easy English.",
     "start": 0.07,
     "end": 3.091,
-    "zh": "你好，欢迎收听《真实简易英语》。",
-    "zh_hant": "你好，歡迎收聽《真實簡易英語》。"
+    "zh": "你好，欢迎来到《简易英语》。",
+    "zh_hant": "你好，歡迎來到《簡易英語》。"
   },
   {
     "index": 1,
     "text": "In this podcast,",
     "start": 2.771,
     "end": 4.072,
-    "zh": "在本播客中，",
-    "zh_hant": "在本播客中，"
+    "zh": "在这个播客中，",
+    "zh_hant": "在這個播客中，"
   },
   {
     "index": 2,
@@ -44,32 +44,32 @@
     "text": "Remember, you can watch a video version of this podcast on our website,",
     "start": 9.815,
     "end": 14.037,
-    "zh": "记住，你可以在我们的网站上观看本播客的视频版本，",
-    "zh_hant": "記住，你可以在我們的網站上觀看本播客的影片版本，"
+    "zh": "记住，你可以在我们的网站上观看这个播客的视频版，",
+    "zh_hant": "記住，你可以在我們的網站上觀看這個播客的影片版，"
   },
   {
     "index": 6,
     "text": "bbclearningenglish.com.",
     "start": 13.717,
     "end": 16.078,
-    "zh": "bbclearningenglish.com。",
-    "zh_hant": "bbclearningenglish.com。"
+    "zh": "bbc学习英语网。",
+    "zh_hant": "bbc學習英語網。"
   },
   {
     "index": 7,
     "text": "How are you today, Georgie?",
     "start": 21.621,
     "end": 23.201,
-    "zh": "乔治，你今天怎么样？",
-    "zh_hant": "喬治，你今天怎麼樣？"
+    "zh": "你今天怎么样，乔治？",
+    "zh_hant": "你今天怎麼樣，喬治？"
   },
   {
     "index": 8,
     "text": "I'm very well, thank you, today, Neil.",
     "start": 23.262,
     "end": 25.683,
-    "zh": "我今天很好，谢谢，尼尔。",
-    "zh_hant": "我今天很好，謝謝，尼爾。"
+    "zh": "我今天很好，谢谢你，尼尔。",
+    "zh_hant": "我今天很好，謝謝你，尼爾。"
   },
   {
     "index": 9,
@@ -84,8 +84,8 @@
     "text": "I'm OK.",
     "start": 26.343,
     "end": 27.083,
-    "zh": "我还行。",
-    "zh_hant": "我還行。"
+    "zh": "我还可以。",
+    "zh_hant": "我還可以。"
   },
   {
     "index": 11,
@@ -105,30 +105,22 @@
   },
   {
     "index": 13,
-    "text": "Well, that's interesting because we are talking about worries today",
+    "text": "Well, that's interesting because we are talking about worries today in this podcast.",
     "start": 29.965,
-    "end": 33.726,
-    "zh": "嗯，那很有趣，因为我们今天要谈论烦恼",
-    "zh_hant": "嗯，那很有趣，因為我們今天要談論煩惱"
+    "end": 34.767,
+    "zh": "嗯，这很有意思，因为今天我们在这个播客里聊的就是烦恼。",
+    "zh_hant": "嗯，這很有意思，因為今天我們在這個播客裡聊的就是煩惱。"
   },
   {
     "index": 14,
-    "text": "in this podcast.",
-    "start": 33.376,
-    "end": 34.767,
-    "zh": "在本播客中。",
-    "zh_hant": "在本播客中。"
-  },
-  {
-    "index": 15,
     "text": "are problems that make you feel upset or scared.",
     "start": 34.807,
     "end": 38.709,
-    "zh": "是让你感到难过或害怕的问题。",
-    "zh_hant": "是讓你感到難過或害怕的問題。"
+    "zh": "烦恼是让你感到难过或害怕的问题。",
+    "zh_hant": "煩惱是讓你感到難過或害怕的問題。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "So shall we start the conversation?",
     "start": 38.769,
     "end": 40.67,
@@ -136,7 +128,7 @@
     "zh_hant": "那我們開始對話吧？"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "Let's do it.",
     "start": 40.35,
     "end": 41.351,
@@ -144,23 +136,23 @@
     "zh_hant": "開始吧。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "So, Neil, you said you've got a couple of little worries .",
     "start": 42.171,
     "end": 45.57,
-    "zh": "那么，尼尔，你说你有几个小烦恼。",
-    "zh_hant": "那麼，尼爾，你說你有幾個小煩惱。"
+    "zh": "那么，尼尔，你说你有一两个小烦恼。",
+    "zh_hant": "那麼，尼爾，你說你有一兩個小煩惱。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "Do you want to share them?",
     "start": 45.533,
     "end": 46.813,
-    "zh": "你想分享一下吗？",
-    "zh_hant": "你想分享一下嗎？"
+    "zh": "你愿意分享一下吗？",
+    "zh_hant": "你願意分享一下嗎？"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "Yeah.",
     "start": 46.854,
     "end": 47.614,
@@ -168,15 +160,15 @@
     "zh_hant": "好的。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "I think, I think when you have kids,",
     "start": 48.194,
     "end": 51.215,
-    "zh": "我觉得，我觉得当你有孩子的时候，",
-    "zh_hant": "我覺得，我覺得當你有孩子的時候，"
+    "zh": "我觉得，我觉得当你有了孩子，",
+    "zh_hant": "我覺得，我覺得當你有了孩子，"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "you're kind of slightly worried all the time.",
     "start": 51.236,
     "end": 53.557,
@@ -184,7 +176,7 @@
     "zh_hant": "你會一直有點擔心。"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "And yesterday, my son got hurt playing cricket.",
     "start": 53.937,
     "end": 58.179,
@@ -192,7 +184,7 @@
     "zh_hant": "昨天，我兒子打板球時受傷了。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "And so this morning,",
     "start": 58.359,
     "end": 60.06,
@@ -200,23 +192,23 @@
     "zh_hant": "所以今天早上，"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "I just wanted to make sure he was feeling OK before he went to school.",
     "start": 60.58,
     "end": 64.862,
-    "zh": "我只是想确保他上学前感觉还好。",
-    "zh_hant": "我只是想確保他上學前感覺還好。"
+    "zh": "我只是想确保他在上学前感觉好一点。",
+    "zh_hant": "我只是想確保他在上學前感覺好一點。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "And how was he this morning?",
     "start": 64.582,
     "end": 66.163,
-    "zh": "那他今天早上怎么样？",
-    "zh_hant": "那他今天早上怎麼樣？"
+    "zh": "那他今早怎么样？",
+    "zh_hant": "那他今早怎麼樣？"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "He seemed OK.",
     "start": 65.943,
     "end": 66.883,
@@ -224,15 +216,15 @@
     "zh_hant": "他看起來還好。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "Yeah, he seemed a bit bruised.",
     "start": 66.533,
     "end": 68.704,
-    "zh": "是的，他看起来有点淤青。",
-    "zh_hant": "是的，他看起來有點淤青。"
+    "zh": "是的，他看起来有点瘀伤。",
+    "zh_hant": "是的，他看起來有點瘀傷。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "Oh, no.",
     "start": 68.604,
     "end": 69.344,
@@ -240,15 +232,15 @@
     "zh_hant": "哦，不。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "An injury to the knee or something?",
     "start": 69.225,
     "end": 71.626,
-    "zh": "是膝盖受伤还是什么？",
-    "zh_hant": "是膝蓋受傷還是什麼？"
+    "zh": "膝盖还是什么地方受伤了？",
+    "zh_hant": "膝蓋還是什麼地方受傷了？"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Shoulder.",
     "start": 71.276,
     "end": 72.086,
@@ -256,7 +248,7 @@
     "zh_hant": "肩膀。"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "Ouch.",
     "start": 72.006,
     "end": 72.766,
@@ -264,7 +256,7 @@
     "zh_hant": "哎喲。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "And arm.",
     "start": 72.416,
     "end": 73.266,
@@ -272,7 +264,7 @@
     "zh_hant": "還有手臂。"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "Gosh.",
     "start": 73.187,
     "end": 74.007,
@@ -280,15 +272,15 @@
     "zh_hant": "天哪。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "Yeah.",
     "start": 73.747,
     "end": 74.387,
-    "zh": "是的。",
-    "zh_hant": "是的。"
+    "zh": "是啊。",
+    "zh_hant": "是啊。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "And do you...",
     "start": 74.427,
     "end": 75.487,
@@ -296,63 +288,47 @@
     "zh_hant": "那你……"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "Are you someone that worries a lot?",
     "start": 75.148,
     "end": 77.869,
-    "zh": "你是一个容易担心的人吗？",
-    "zh_hant": "你是一個容易擔心的人嗎？"
+    "zh": "你是一个经常担心的人吗？",
+    "zh_hant": "你是一個經常擔心的人嗎？"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "No, not really.",
     "start": 78.069,
     "end": 80.07,
-    "zh": "不，不太是。",
-    "zh_hant": "不，不太是。"
+    "zh": "不，不算是。",
+    "zh_hant": "不，不算是。"
+  },
+  {
+    "index": 38,
+    "text": "Sometimes, but I think there's lots of stuff that you can worry about.",
+    "start": 80.951,
+    "end": 86.113,
+    "zh": "有时候会，但我觉得有很多事情可以担心。",
+    "zh_hant": "有時候會，但我覺得有很多事情可以擔心。"
   },
   {
     "index": 39,
-    "text": "Sometimes, but I think",
-    "start": 80.951,
-    "end": 83.612,
-    "zh": "有时候会，但我觉得",
-    "zh_hant": "有時候會，但我覺得"
+    "text": "And if you, if you worry about all of it,",
+    "start": 85.793,
+    "end": 90.996,
+    "zh": "如果你担心所有这些事情，",
+    "zh_hant": "如果你擔心所有這些事情，"
   },
   {
     "index": 40,
-    "text": "there's lots of stuff that you can worry about.",
-    "start": 83.332,
-    "end": 86.113,
-    "zh": "有很多事情可以让你担心。",
-    "zh_hant": "有很多事情可以讓你擔心。"
-  },
-  {
-    "index": 41,
-    "text": "And if you, if you worry",
-    "start": 85.793,
-    "end": 89.835,
-    "zh": "如果你，如果你担心",
-    "zh_hant": "如果你，如果你擔心"
-  },
-  {
-    "index": 42,
-    "text": "about all of it,",
-    "start": 89.485,
-    "end": 90.996,
-    "zh": "所有的事情，",
-    "zh_hant": "所有的事情，"
-  },
-  {
-    "index": 43,
     "text": "can really affect you badly.",
     "start": 90.646,
     "end": 92.497,
-    "zh": "真的会对你影响很大。",
-    "zh_hant": "真的會對你影響很大。"
+    "zh": "真的会对你产生很大的负面影响。",
+    "zh_hant": "真的會對你產生很大的負面影響。"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "So I try, I know it's difficult sometimes,",
     "start": 92.147,
     "end": 94.938,
@@ -360,15 +336,15 @@
     "zh_hant": "所以我儘量，我知道有時候很難，"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "not to worry too much about things that aren't so important.",
     "start": 94.588,
     "end": 98.2,
-    "zh": "不要太担心那些不那么重要的事情。",
-    "zh_hant": "不要太擔心那些不那麼重要的事情。"
+    "zh": "不要太担心那些不太重要的事情。",
+    "zh_hant": "不要太擔心那些不太重要的事情。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "My thing is that worrying about a problem",
     "start": 98.46,
     "end": 102.482,
@@ -376,7 +352,7 @@
     "zh_hant": "我的觀點是，擔心一個問題"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "or a thing doesn't actually help.",
     "start": 102.162,
     "end": 104.623,
@@ -384,39 +360,31 @@
     "zh_hant": "或一件事情實際上沒有幫助。"
   },
   {
-    "index": 48,
-    "text": "So I'm in general,",
+    "index": 45,
+    "text": "So I'm in general, I'm a person that doesn't worry too much.",
     "start": 104.443,
-    "end": 107.425,
-    "zh": "所以总的来说，",
-    "zh_hant": "所以總的來說，"
-  },
-  {
-    "index": 49,
-    "text": "I'm a person that doesn't worry too much.",
-    "start": 107.225,
     "end": 109.406,
-    "zh": "我是一个不太担心的人。",
-    "zh_hant": "我是一個不太擔心的人。"
+    "zh": "所以总的来说，我是一个不太担心的人。",
+    "zh_hant": "所以總的來說，我是一個不太擔心的人。"
   },
   {
-    "index": 50,
+    "index": 46,
     "text": "I kind of just think whatever happens, happens.",
     "start": 109.506,
     "end": 113.208,
-    "zh": "我基本上觉得，该发生的总会发生。",
-    "zh_hant": "我基本上覺得，該發生的總會發生。"
+    "zh": "我就觉得，该发生的总会发生。",
+    "zh_hant": "我就覺得，該發生的總會發生。"
   },
   {
-    "index": 51,
+    "index": 47,
     "text": "So I'm generally quite chilled and relaxed.",
     "start": 112.888,
     "end": 116.63,
-    "zh": "所以我通常很放松、很冷静。",
-    "zh_hant": "所以我通常很放鬆、很冷靜。"
+    "zh": "所以我一般很放松、很淡定。",
+    "zh_hant": "所以我一般很放鬆、很淡定。"
   },
   {
-    "index": 52,
+    "index": 48,
     "text": "That's true.",
     "start": 133.231,
     "end": 134.211,
@@ -424,7 +392,7 @@
     "zh_hant": "確實。"
   },
   {
-    "index": 53,
+    "index": 49,
     "text": "That's a very healthy attitude probably.",
     "start": 134.011,
     "end": 136.652,
@@ -432,31 +400,31 @@
     "zh_hant": "那可能是一種非常健康的態度。"
   },
   {
-    "index": 54,
+    "index": 50,
     "text": "So I don't tend to worry a lot.",
     "start": 136.552,
     "end": 139.153,
-    "zh": "所以我倾向于不太担心。",
-    "zh_hant": "所以我傾向於不太擔心。"
+    "zh": "所以我一般不会担心很多。",
+    "zh_hant": "所以我一般不會擔心很多。"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "But you, you worry a little bit because you have kids.",
     "start": 138.803,
     "end": 142.115,
-    "zh": "但你会因为你有了孩子而有点担心。",
-    "zh_hant": "但你會因為你有了孩子而有點擔心。"
+    "zh": "但你有一点担心，因为你有孩子。",
+    "zh_hant": "但你有一點擔心，因為你有孩子。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "What kinds of things do you do to make yourself feel more relaxed?",
     "start": 142.555,
     "end": 147.017,
-    "zh": "你通常会做些什么来让自己更放松？",
-    "zh_hant": "你通常會做些什麼來讓自己更放鬆？"
+    "zh": "你会做些什么来让自己更放松呢？",
+    "zh_hant": "你會做些什麼來讓自己更放鬆呢？"
   },
   {
-    "index": 57,
+    "index": 53,
     "text": "Well, I think, like you said,",
     "start": 147.277,
     "end": 149.338,
@@ -464,15 +432,15 @@
     "zh_hant": "嗯，我覺得，就像你說的，"
   },
   {
-    "index": 58,
+    "index": 54,
     "text": "one useful thing to do could be to try",
     "start": 150.539,
     "end": 154.461,
-    "zh": "一件有用的事情可能是试着",
-    "zh_hant": "一件有用的事情可能是試著"
+    "zh": "一个有用的办法是试着",
+    "zh_hant": "一個有用的辦法是試著"
   },
   {
-    "index": 59,
+    "index": 55,
     "text": "to be rational.",
     "start": 154.111,
     "end": 156.502,
@@ -480,39 +448,31 @@
     "zh_hant": "保持理性。"
   },
   {
-    "index": 60,
-    "text": "So to think that what you're worried",
+    "index": 56,
+    "text": "So to think that what you're worried about probably",
     "start": 156.462,
-    "end": 160.324,
-    "zh": "也就是想，你担心的事情",
-    "zh_hant": "也就是想，你擔心的事情"
-  },
-  {
-    "index": 61,
-    "text": "about probably",
-    "start": 159.974,
     "end": 161.304,
-    "zh": "很可能",
-    "zh_hant": "很可能"
+    "zh": "也就是想想你所担心的可能",
+    "zh_hant": "也就是想想你所擔心的可能"
   },
   {
-    "index": 62,
-    "text": "isn't that important or, likely",
+    "index": 57,
+    "text": "isn't",
     "start": 161.484,
-    "end": 165.586,
-    "zh": "没那么重要，或者不太可能",
-    "zh_hant": "沒那麼重要，或者不太可能"
+    "end": 162.224,
+    "zh": "并不",
+    "zh_hant": "並不"
   },
   {
-    "index": 63,
-    "text": "to happen.",
-    "start": 165.346,
+    "index": 58,
+    "text": "that important or, likely to happen.",
+    "start": 161.874,
     "end": 166.326,
-    "zh": "发生。",
-    "zh_hant": "發生。"
+    "zh": "那么重要，或者不太可能发生。",
+    "zh_hant": "那麼重要，或者不太可能發生。"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "But, yeah.",
     "start": 165.976,
     "end": 166.867,
@@ -520,23 +480,23 @@
     "zh_hant": "但，是的。"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "So you're quite chilled , as you said.",
     "start": 166.517,
     "end": 168.768,
-    "zh": "所以你很放松，就像你说的。",
-    "zh_hant": "所以你很放鬆，就像你說的。"
+    "zh": "所以你就像你说的，很放松。",
+    "zh_hant": "所以你就像你說的，很放鬆。"
   },
   {
-    "index": 66,
+    "index": 61,
     "text": "That must be nice for your friends.",
     "start": 168.868,
     "end": 170.969,
-    "zh": "那对你的朋友来说一定很好。",
-    "zh_hant": "那對你的朋友來說一定很好。"
+    "zh": "这对你的朋友来说一定很好。",
+    "zh_hant": "這對你的朋友來說一定很好。"
   },
   {
-    "index": 67,
+    "index": 62,
     "text": "Yes.",
     "start": 170.709,
     "end": 171.369,
@@ -544,39 +504,39 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 68,
+    "index": 63,
     "text": "And if you have, like you said, a friend who's, who worries about everything,",
     "start": 171.109,
     "end": 175.331,
-    "zh": "如果你有一个，就像你说的，什么事都担心的朋友，",
-    "zh_hant": "如果你有一個，就像你說的，什麼事都擔心的朋友，"
+    "zh": "如果你有一个，就像你说的，一个什么都担心的朋友，",
+    "zh_hant": "如果你有一個，就像你說的，一個什麼都擔心的朋友，"
   },
   {
-    "index": 69,
+    "index": 64,
     "text": "how do you help them?",
     "start": 175.092,
     "end": 176.472,
-    "zh": "你怎么帮他们？",
-    "zh_hant": "你怎麼幫他們？"
+    "zh": "你怎么帮他们呢？",
+    "zh_hant": "你怎麼幫他們呢？"
   },
   {
-    "index": 70,
+    "index": 65,
     "text": "Finding maybe a distraction.",
     "start": 176.412,
     "end": 178.993,
-    "zh": "找到某种分散注意力的方法。",
-    "zh_hant": "找到某種分散注意力的方法。"
+    "zh": "也许找个分散注意力的东西。",
+    "zh_hant": "也許找個分散注意力的東西。"
   },
   {
-    "index": 71,
+    "index": 66,
     "text": "Like something that makes you feel good.",
     "start": 178.643,
     "end": 181.494,
-    "zh": "比如能让你感觉好的事情。",
-    "zh_hant": "比如能讓你感覺好的事情。"
+    "zh": "比如让你感觉好的事情。",
+    "zh_hant": "比如讓你感覺好的事情。"
   },
   {
-    "index": 72,
+    "index": 67,
     "text": "Like a TV programme that you love.",
     "start": 181.144,
     "end": 183.295,
@@ -584,23 +544,23 @@
     "zh_hant": "比如你喜歡的電視節目。"
   },
   {
-    "index": 73,
-    "text": "Or seeing friends,",
+    "index": 68,
+    "text": "Or seeing friends, that love you,",
     "start": 183.095,
-    "end": 185.336,
-    "zh": "或者见朋友，",
-    "zh_hant": "或者見朋友，"
+    "end": 186.837,
+    "zh": "或者见见爱你的人，",
+    "zh_hant": "或者見見愛你的人，"
   },
   {
-    "index": 74,
-    "text": "that love you, that can make you feel more relaxed.",
-    "start": 185.857,
+    "index": 69,
+    "text": "that can make you feel more relaxed.",
+    "start": 186.487,
     "end": 189.358,
-    "zh": "那些爱你的朋友，能让你更放松。",
-    "zh_hant": "那些愛你的朋友，能讓你更放鬆。"
+    "zh": "那会让你更放松。",
+    "zh_hant": "那會讓你更放鬆。"
   },
   {
-    "index": 75,
+    "index": 70,
     "text": "Mindfulness techniques as well.",
     "start": 190.839,
     "end": 192.8,
@@ -608,7 +568,7 @@
     "zh_hant": "還有正念技巧。"
   },
   {
-    "index": 76,
+    "index": 71,
     "text": "Maybe jigsaws.",
     "start": 192.45,
     "end": 193.76,
@@ -616,15 +576,15 @@
     "zh_hant": "也許拼圖。"
   },
   {
-    "index": 77,
+    "index": 72,
     "text": "I've talked about puzzles in the past.",
     "start": 193.521,
     "end": 195.801,
-    "zh": "我以前谈过拼图。",
-    "zh_hant": "我以前談過拼圖。"
+    "zh": "我以前说过拼图游戏。",
+    "zh_hant": "我以前說過拼圖遊戲。"
   },
   {
-    "index": 78,
+    "index": 73,
     "text": "Do you have any other tips?",
     "start": 196.682,
     "end": 198.143,
@@ -632,7 +592,7 @@
     "zh_hant": "你還有其他建議嗎？"
   },
   {
-    "index": 79,
+    "index": 74,
     "text": "No.",
     "start": 198.563,
     "end": 199.143,
@@ -640,7 +600,7 @@
     "zh_hant": "沒有了。"
   },
   {
-    "index": 80,
+    "index": 75,
     "text": "These are all very good ideas.",
     "start": 199.103,
     "end": 201.024,
@@ -648,7 +608,7 @@
     "zh_hant": "這些都是非常好的主意。"
   },
   {
-    "index": 81,
+    "index": 76,
     "text": "Thank you.",
     "start": 200.704,
     "end": 201.564,
@@ -656,7 +616,7 @@
     "zh_hant": "謝謝。"
   },
   {
-    "index": 82,
+    "index": 77,
     "text": "Yeah.",
     "start": 202.665,
     "end": 203.285,
@@ -664,47 +624,39 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 83,
+    "index": 78,
     "text": "I think it can be useful to have something that distracts you.",
     "start": 202.935,
     "end": 206.847,
-    "zh": "我觉得有东西分散注意力可能很有用。",
-    "zh_hant": "我覺得有東西分散注意力可能很有用。"
+    "zh": "我觉得有东西让你分心是很有用的。",
+    "zh_hant": "我覺得有東西讓你分心是很有用的。"
   },
   {
-    "index": 84,
-    "text": "Like maybe drawing, listening to music,",
+    "index": 79,
+    "text": "Like maybe drawing, listening to music, playing an instrument can help.",
     "start": 206.787,
-    "end": 210.048,
-    "zh": "比如画画、听音乐，",
-    "zh_hant": "比如畫畫、聽音樂，"
-  },
-  {
-    "index": 85,
-    "text": "playing an instrument can help.",
-    "start": 209.698,
     "end": 211.649,
-    "zh": "弹乐器会有帮助。",
-    "zh_hant": "彈樂器會有幫助。"
+    "zh": "比如画画、听音乐、弹乐器都会有帮助。",
+    "zh_hant": "比如畫畫、聽音樂、彈樂器都會有幫助。"
   },
   {
-    "index": 86,
+    "index": 80,
     "text": "Something that just kind of takes that time away.",
     "start": 211.769,
     "end": 215.532,
-    "zh": "就是那种能消磨时间的事情。",
-    "zh_hant": "就是那種能消磨時間的事情。"
+    "zh": "就是那种能帮你打发时间的事情。",
+    "zh_hant": "就是那種能幫你打發時間的事情。"
   },
   {
-    "index": 87,
+    "index": 81,
     "text": "It takes your mind off the the stress.",
     "start": 216.032,
     "end": 219.113,
-    "zh": "让你暂时忘记压力。",
-    "zh_hant": "讓你暫時忘記壓力。"
+    "zh": "它让你暂时忘掉压力。",
+    "zh_hant": "它讓你暫時忘掉壓力。"
   },
   {
-    "index": 88,
+    "index": 82,
     "text": "Yeah.",
     "start": 219.154,
     "end": 219.814,
@@ -712,15 +664,15 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 89,
+    "index": 83,
     "text": "OK.",
     "start": 226.577,
     "end": 227.217,
-    "zh": "好了。",
-    "zh_hant": "好了。"
+    "zh": "好的。",
+    "zh_hant": "好的。"
   },
   {
-    "index": 90,
+    "index": 84,
     "text": "Let's recap the vocabulary we heard during the conversation,",
     "start": 226.937,
     "end": 230.639,
@@ -728,31 +680,31 @@
     "zh_hant": "讓我們回顧一下對話中聽到的詞彙，"
   },
   {
-    "index": 91,
+    "index": 85,
     "text": "starting with worry .",
     "start": 230.539,
     "end": 232.55,
-    "zh": "从worry开始。",
-    "zh_hant": "從worry開始。"
+    "zh": "从“worry”开始。",
+    "zh_hant": "從“worry”開始。"
   },
   {
-    "index": 92,
-    "text": "A worry is a problem that makes you feel upset or scared,",
+    "index": 86,
+    "text": "A worry is a problem that makes you feel upset",
     "start": 232.4,
-    "end": 236.422,
-    "zh": "Worry是让你感到难过或害怕的问题，",
-    "zh_hant": "Worry是讓你感到難過或害怕的問題，"
+    "end": 235.621,
+    "zh": "“a worry”是一个让你感到难过",
+    "zh_hant": "“a worry”是一個讓你感到難過"
   },
   {
-    "index": 93,
-    "text": "and worry is also a verb.",
-    "start": 236.322,
+    "index": 87,
+    "text": "or scared, and worry is also a verb.",
+    "start": 235.301,
     "end": 238.483,
-    "zh": "而且worry也是一个动词。",
-    "zh_hant": "而且worry也是一個動詞。"
+    "zh": "或害怕的问题，“worry”也是个动词。",
+    "zh_hant": "或害怕的問題，“worry”也是個動詞。"
   },
   {
-    "index": 94,
+    "index": 88,
     "text": "So for example, I worry about my kids.",
     "start": 238.133,
     "end": 241.304,
@@ -760,15 +712,15 @@
     "zh_hant": "比如，我擔心我的孩子。"
   },
   {
-    "index": 95,
+    "index": 89,
     "text": "Yes, and we also use the adjective worried",
     "start": 242.025,
     "end": 244.846,
-    "zh": "是的，我们还用了形容词worried",
-    "zh_hant": "是的，我們還用了形容詞worried"
+    "zh": "是的，我们还用形容词“worried”",
+    "zh_hant": "是的，我們還用形容詞“worried”"
   },
   {
-    "index": 96,
+    "index": 90,
     "text": "to describe that feeling of being scared or upset about something.",
     "start": 244.496,
     "end": 248.568,
@@ -776,87 +728,71 @@
     "zh_hant": "來描述對某事感到害怕或難過的感覺。"
   },
   {
-    "index": 97,
+    "index": 91,
     "text": "For example, I'm worried about climate change.",
     "start": 248.548,
     "end": 251.449,
-    "zh": "比如，我担心气候变化。",
-    "zh_hant": "比如，我擔心氣候變化。"
+    "zh": "例如，我担心气候变化。",
+    "zh_hant": "例如，我擔心氣候變化。"
   },
   {
-    "index": 98,
+    "index": 92,
     "text": "And we heard the expression take your mind off something,",
     "start": 251.77,
     "end": 254.892,
-    "zh": "我们还听到了短语take your mind off something，",
-    "zh_hant": "我們還聽到了短語take your mind off something，"
+    "zh": "我们还听到“take your mind off something”这个表达，",
+    "zh_hant": "我們還聽到“take your mind off something”這個表達，"
   },
   {
-    "index": 99,
+    "index": 93,
     "text": "which means to do something to stop you worrying .",
     "start": 254.732,
     "end": 257.95,
-    "zh": "意思是做某事来停止担心。",
-    "zh_hant": "意思是做某事來停止擔心。"
+    "zh": "意思是做某事来让你不再担心。",
+    "zh_hant": "意思是做某事來讓你不再擔心。"
   },
   {
-    "index": 100,
-    "text": "For example, I play my guitar to take my mind off",
+    "index": 94,
+    "text": "For example, I play my guitar to take my mind off my worries .",
     "start": 257.654,
-    "end": 261.517,
-    "zh": "比如，我弹吉他来忘记",
-    "zh_hant": "比如，我彈吉他來忘記"
-  },
-  {
-    "index": 101,
-    "text": "my worries .",
-    "start": 261.167,
     "end": 262.31,
-    "zh": "我的烦恼。",
-    "zh_hant": "我的煩惱。"
+    "zh": "例如，我弹吉他来转移注意力，不去想烦恼。",
+    "zh_hant": "例如，我彈吉他來轉移注意力，不去想煩惱。"
   },
   {
-    "index": 102,
-    "text": "We also heard chilled , which is another word",
+    "index": 95,
+    "text": "We also heard chilled , which is another word for relaxed or calm.",
     "start": 262.238,
-    "end": 265.3,
-    "zh": "我们还听到了chilled，这是另一个词，",
-    "zh_hant": "我們還聽到了chilled，這是另一個詞，"
-  },
-  {
-    "index": 103,
-    "text": "for relaxed or calm.",
-    "start": 264.95,
     "end": 266.801,
-    "zh": "表示放松或平静。",
-    "zh_hant": "表示放鬆或平靜。"
+    "zh": "我们还听到了“chilled”，它是“放松”或“平静”的另一个说法。",
+    "zh_hant": "我們還聽到了“chilled”，它是“放鬆”或“平靜”的另一個說法。"
   },
   {
-    "index": 104,
+    "index": 96,
     "text": "And it's quite an informal word.",
     "start": 266.451,
     "end": 268.402,
-    "zh": "这是一个比较非正式的词。",
-    "zh_hant": "這是一個比較非正式的詞。"
+    "zh": "这算是个比较非正式的词。",
+    "zh_hant": "這算是個比較非正式的詞。"
   },
   {
-    "index": 105,
+    "index": 97,
     "text": "Next time we'll be talking",
     "start": 268.723,
     "end": 273.086,
-    "zh": "下次我们将谈论",
-    "zh_hant": "下次我們將談論"
+    "zh": "下次我们会聊",
+    "zh_hant": "下次我們會聊"
   },
   {
-    "index": 106,
+    "index": 98,
     "text": "about our brains.",
     "start": 272.736,
     "end": 276.288,
-    "zh": "我们的大脑。",
-    "zh_hant": "我們的大腦。"
+    "zh": "关于我们的大脑。",
+    "zh_hant": "關於我們的大腦。"
   },
   {
-    "index": 107,
+    "index": 99,
     "text": "See you then.",
     "start": 275.938,
     "end": 277.909,
@@ -864,7 +800,7 @@
     "zh_hant": "到時候見。"
   },
   {
-    "index": 108,
+    "index": 100,
     "text": "Goodbye.",
     "start": 277.57,
     "end": 278.47,

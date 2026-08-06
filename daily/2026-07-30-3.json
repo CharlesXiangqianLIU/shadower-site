@@ -4,16 +4,16 @@
     "text": "Hello and welcome to Real Easy English.",
     "start": 0.0,
     "end": 2.911,
-    "zh": "你好，欢迎收听“地道简单英语”。",
-    "zh_hant": "你好，歡迎收聽“地道簡單英語”。"
+    "zh": "你好，欢迎来到《简易英语》节目。",
+    "zh_hant": "你好，歡迎來到《簡易英語》節目。"
   },
   {
     "index": 1,
     "text": "We're back with another conversation in Easy English to help you learn.",
     "start": 2.591,
     "end": 7.053,
-    "zh": "我们带着另一段简单英语对话回来了，帮助你学习。",
-    "zh_hant": "我們帶著另一段簡單英語對話回來了，幫助你學習。"
+    "zh": "我们回来继续用简易英语聊一聊，帮助你学习。",
+    "zh_hant": "我們回來繼續用簡易英語聊一聊，幫助你學習。"
   },
   {
     "index": 2,
@@ -33,22 +33,14 @@
   },
   {
     "index": 4,
-    "text": "Don't forget that there's a video version",
+    "text": "Don't forget that there's a video version of this podcast on our website,",
     "start": 8.374,
-    "end": 11.175,
-    "zh": "别忘了还有一个视频版本",
-    "zh_hant": "別忘了還有一個影片版本"
+    "end": 13.076,
+    "zh": "别忘了这个播客在咱们网站上有视频版，",
+    "zh_hant": "別忘了這個播客在咱們網站上有影片版，"
   },
   {
     "index": 5,
-    "text": "of this podcast on our website,",
-    "start": 10.855,
-    "end": 13.076,
-    "zh": "这个播客在我们的网站上，",
-    "zh_hant": "這個播客在我們的網站上，"
-  },
-  {
-    "index": 6,
     "text": "bbclearningenglish.com.",
     "start": 12.726,
     "end": 14.997,
@@ -56,39 +48,31 @@
     "zh_hant": "bbclearningenglish.com。"
   },
   {
-    "index": 7,
-    "text": "You can read along with the subtitles and download",
+    "index": 6,
+    "text": "You can read along with the subtitles and download a free worksheet.",
     "start": 14.817,
-    "end": 17.879,
-    "zh": "你可以跟着字幕阅读，并下载",
-    "zh_hant": "你可以跟著字幕閱讀，並下載"
-  },
-  {
-    "index": 8,
-    "text": "a free worksheet.",
-    "start": 17.679,
     "end": 19.52,
-    "zh": "一份免费的工作表。",
-    "zh_hant": "一份免費的工作表。"
+    "zh": "你可以跟着字幕读，还能下载免费的练习表。",
+    "zh_hant": "你可以跟著字幕讀，還能下載免費的練習表。"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "Hello, Neil, how are you doing?",
     "start": 24.762,
     "end": 26.503,
-    "zh": "你好，尼尔，你最近怎么样？",
-    "zh_hant": "你好，尼爾，你最近怎麼樣？"
+    "zh": "嘿，尼尔，你怎么样？",
+    "zh_hant": "嘿，尼爾，你怎麼樣？"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Hi, Georgie, yeah, I'm fine.",
     "start": 26.523,
     "end": 28.224,
-    "zh": "嗨，乔吉，我挺好的。",
-    "zh_hant": "嗨，喬吉，我挺好的。"
+    "zh": "嗨，乔吉，嗯，我挺好的。",
+    "zh_hant": "嗨，喬吉，嗯，我挺好的。"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "How are you?",
     "start": 27.874,
     "end": 28.624,
@@ -96,95 +80,79 @@
     "zh_hant": "你呢？"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Yes, I'm very well too, thank you.",
     "start": 28.384,
     "end": 30.725,
-    "zh": "我也很好，谢谢。",
-    "zh_hant": "我也很好，謝謝。"
+    "zh": "嗯，我也挺好的，谢谢。",
+    "zh_hant": "嗯，我也挺好的，謝謝。"
   },
   {
-    "index": 13,
-    "text": "Today, Neil, in this conversation, we're talking about moving",
+    "index": 11,
+    "text": "Today, Neil, in this conversation, we're talking about moving house.",
     "start": 31.086,
-    "end": 35.067,
-    "zh": "今天，尼尔，在这次对话中，我们要聊搬家",
-    "zh_hant": "今天，尼爾，在這次對話中，我們要聊搬家"
-  },
-  {
-    "index": 14,
-    "text": "house.",
-    "start": 34.847,
     "end": 35.868,
-    "zh": "这件事。",
-    "zh_hant": "這件事。"
+    "zh": "今天，尼尔，在这次对话里，咱们要聊聊搬家。",
+    "zh_hant": "今天，尼爾，在這次對話裡，咱們要聊聊搬家。"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "So, when was the last time you moved house?",
     "start": 35.608,
     "end": 38.729,
-    "zh": "那你上次搬家是什么时候？",
-    "zh_hant": "那你上次搬家是什麼時候？"
+    "zh": "那你上一次搬家是什么时候？",
+    "zh_hant": "那你上一次搬家是什麼時候？"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Oh, I moved house probably 12 years ago.",
     "start": 38.609,
     "end": 42.251,
-    "zh": "哦，我大概12年前搬过家。",
-    "zh_hant": "哦，我大概12年前搬過家。"
+    "zh": "哦，我大约12年前搬的家。",
+    "zh_hant": "哦，我大約12年前搬的家。"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "Oh, wow.",
     "start": 42.151,
     "end": 43.112,
-    "zh": "哇。",
-    "zh_hant": "哇。"
+    "zh": "哦，哇。",
+    "zh_hant": "哦，哇。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "And why did you move to where you live now?",
     "start": 43.312,
     "end": 46.193,
-    "zh": "那你为什么搬到你现在住的地方？",
-    "zh_hant": "那你為什麼搬到你現在住的地方？"
+    "zh": "那你为什么搬到现在住的地方？",
+    "zh_hant": "那你為什麼搬到現在住的地方？"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "Because my family was getting bigger.",
     "start": 46.073,
     "end": 48.514,
-    "zh": "因为我的家庭在变大。",
-    "zh_hant": "因為我的家庭在變大。"
+    "zh": "因为我的家庭越来越大。",
+    "zh_hant": "因為我的家庭越來越大。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "More children need more space,",
     "start": 49.115,
     "end": 51.416,
-    "zh": "更多孩子需要更多空间，",
-    "zh_hant": "更多孩子需要更多空間，"
+    "zh": "孩子多了就需要更大的空间，",
+    "zh_hant": "孩子多了就需要更大的空間，"
   },
   {
-    "index": 21,
-    "text": "so we moved to somewhere bigger",
+    "index": 18,
+    "text": "so we moved to somewhere bigger and further out of London.",
     "start": 51.076,
-    "end": 53.837,
-    "zh": "所以我们搬到了一个更大的地方",
-    "zh_hant": "所以我們搬到了一個更大的地方"
-  },
-  {
-    "index": 22,
-    "text": "and further out of London.",
-    "start": 53.717,
     "end": 55.858,
-    "zh": "而且离伦敦更远。",
-    "zh_hant": "而且離倫敦更遠。"
+    "zh": "所以我们搬到了一个更大、离伦敦更远的地方。",
+    "zh_hant": "所以我們搬到了一個更大、離倫敦更遠的地方。"
   },
   {
-    "index": 23,
+    "index": 19,
     "text": "How about you?",
     "start": 56.358,
     "end": 57.519,
@@ -192,111 +160,103 @@
     "zh_hant": "你呢？"
   },
   {
-    "index": 24,
+    "index": 20,
     "text": "I rent my flat, and the place I was living before,",
     "start": 59.46,
     "end": 63.702,
-    "zh": "我租公寓，我之前住的地方，",
-    "zh_hant": "我租公寓，我之前住的地方，"
+    "zh": "我现在租的是公寓，之前住的地方，",
+    "zh_hant": "我現在租的是公寓，之前住的地方，"
   },
   {
-    "index": 25,
+    "index": 21,
     "text": "the owners of the place wanted to sell the house,",
     "start": 64.322,
     "end": 68.684,
-    "zh": "那儿的房主想卖房子，",
-    "zh_hant": "那兒的房主想賣房子，"
+    "zh": "房东想把房子卖了，",
+    "zh_hant": "房東想把房子賣了，"
   },
   {
-    "index": 26,
+    "index": 22,
     "text": "so I needed to move because I couldn't live there anymore.",
     "start": 69.425,
     "end": 73.326,
-    "zh": "所以我需要搬家，因为我不能再住在那儿了。",
-    "zh_hant": "所以我需要搬家，因為我不能再住在那兒了。"
+    "zh": "所以我得搬走，因为不能再住那儿了。",
+    "zh_hant": "所以我得搬走，因為不能再住那兒了。"
   },
   {
-    "index": 27,
+    "index": 23,
     "text": "And also, my friend had this flat",
     "start": 73.827,
     "end": 77.068,
-    "zh": "而且，我的朋友有这间公寓",
-    "zh_hant": "而且，我的朋友有這間公寓"
+    "zh": "而且，我朋友正好有这套公寓，",
+    "zh_hant": "而且，我朋友正好有這套公寓，"
   },
   {
-    "index": 28,
+    "index": 24,
     "text": "and he was offering me very cheap rent,",
     "start": 76.728,
     "end": 79.73,
-    "zh": "他给我很便宜的租金，",
-    "zh_hant": "他給我很便宜的租金，"
+    "zh": "他给我的租金很便宜，",
+    "zh_hant": "他給我的租金很便宜，"
   },
   {
-    "index": 29,
+    "index": 25,
     "text": "so that's why I live there.",
     "start": 79.53,
     "end": 81.591,
-    "zh": "所以我就住在那儿了。",
-    "zh_hant": "所以我就住在那兒了。"
+    "zh": "所以我就住那儿了。",
+    "zh_hant": "所以我就住那兒了。"
   },
   {
-    "index": 30,
-    "text": "But I'm very happy there because it's between two",
+    "index": 26,
+    "text": "But I'm very happy there because it's between two really nice parks.",
     "start": 81.931,
-    "end": 85.293,
-    "zh": "但是我在那儿很开心，因为它位于两个",
-    "zh_hant": "但是我在那兒很開心，因為它位於兩個"
-  },
-  {
-    "index": 31,
-    "text": "really nice parks.",
-    "start": 85.073,
     "end": 86.613,
-    "zh": "非常漂亮的公园之间。",
-    "zh_hant": "非常漂亮的公園之間。"
+    "zh": "我住那儿挺开心，因为周围有两个很棒的公园。",
+    "zh_hant": "我住那兒挺開心，因為周圍有兩個很棒的公園。"
   },
   {
-    "index": 32,
+    "index": 27,
     "text": "It has good transport links.",
     "start": 86.534,
     "end": 88.775,
-    "zh": "交通也很便利。",
-    "zh_hant": "交通也很便利。"
+    "zh": "交通也很方便。",
+    "zh_hant": "交通也很方便。"
   },
   {
-    "index": 33,
+    "index": 28,
     "text": "And yeah, it was a good decision.",
     "start": 88.595,
     "end": 91.876,
-    "zh": "而且，这是个好决定。",
-    "zh_hant": "而且，這是個好決定。"
+    "zh": "嗯，那是个好决定。",
+    "zh_hant": "嗯，那是個好決定。"
   },
   {
-    "index": 34,
+    "index": 29,
     "text": "And how was the move itself?",
     "start": 91.836,
     "end": 94.357,
-    "zh": "搬家本身怎么样？",
-    "zh_hant": "搬家本身怎麼樣？"
+    "zh": "那搬家本身怎么样？",
+    "zh_hant": "那搬家本身怎麼樣？"
   },
   {
-    "index": 35,
+    "index": 30,
     "text": "The move was actually very easy",
     "start": 94.277,
     "end": 97.819,
-    "zh": "搬家其实非常轻松",
-    "zh_hant": "搬家其實非常輕鬆"
+    "zh": "其实搬家特别简单，",
+    "zh_hant": "其實搬家特別簡單，"
   },
   {
-    "index": 36,
+    "index": 31,
     "text": "because I don't have many possessions.",
     "start": 97.579,
     "end": 102.041,
-    "zh": "因为我的东西不多。",
-    "zh_hant": "因為我的東西不多。"
+    "zh": "因为我没多少东西。",
+    "zh_hant": "因為我沒多少東西。"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "I'm a bit of a minimalist.",
     "start": 101.691,
     "end": 103.562,
@@ -304,63 +264,47 @@
     "zh_hant": "我有點極簡主義。"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "The reason is because I moved country.",
     "start": 103.522,
     "end": 106.383,
-    "zh": "原因是我搬过国。",
-    "zh_hant": "原因是我搬過國。"
+    "zh": "原因是我之前搬过国。",
+    "zh_hant": "原因是我之前搬過國。"
   },
   {
-    "index": 39,
-    "text": "So I just didn't really have many things to bring",
+    "index": 34,
+    "text": "So I just didn't really have many things to bring back to the UK.",
     "start": 106.033,
-    "end": 109.405,
-    "zh": "所以我真的没什么可带的",
-    "zh_hant": "所以我真的沒什麼可帶的"
-  },
-  {
-    "index": 40,
-    "text": "back to the UK.",
-    "start": 109.425,
     "end": 110.605,
-    "zh": "回英国。",
-    "zh_hant": "回英國。"
+    "zh": "所以带回英国的东西真的不多。",
+    "zh_hant": "所以帶回英國的東西真的不多。"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "So I didn't need a big van or anything.",
     "start": 111.586,
     "end": 114.947,
-    "zh": "所以我也不需要大货车什么的。",
-    "zh_hant": "所以我也不需要大貨車什麼的。"
+    "zh": "所以不需要大货车什么的。",
+    "zh_hant": "所以不需要大貨車什麼的。"
   },
   {
-    "index": 42,
-    "text": "I just ordered a taxi and put all of my bags",
+    "index": 36,
+    "text": "I just ordered a taxi and put all of my bags in the taxi,",
     "start": 114.688,
-    "end": 118.129,
-    "zh": "我就叫了一辆出租车，把所有的包",
-    "zh_hant": "我就叫了一輛計程車，把所有的包"
-  },
-  {
-    "index": 43,
-    "text": "in the taxi,",
-    "start": 118.349,
     "end": 119.47,
-    "zh": "放进去，",
-    "zh_hant": "放進去，"
+    "zh": "我就叫了辆出租车，把包都放进去，",
+    "zh_hant": "我就叫了輛計程車，把包都放進去，"
   },
   {
-    "index": 44,
+    "index": 37,
     "text": "and it was very easy.",
     "start": 119.55,
     "end": 120.931,
-    "zh": "非常轻松。",
-    "zh_hant": "非常輕鬆。"
+    "zh": "特别轻松。",
+    "zh_hant": "特別輕鬆。"
   },
   {
-    "index": 45,
+    "index": 38,
     "text": "And what about you?",
     "start": 120.581,
     "end": 121.771,
@@ -368,71 +312,63 @@
     "zh_hant": "那你呢？"
   },
   {
-    "index": 46,
+    "index": 39,
     "text": "It was the opposite of that.",
     "start": 122.572,
     "end": 124.172,
-    "zh": "情况完全相反。",
-    "zh_hant": "情況完全相反。"
+    "zh": "我完全相反。",
+    "zh_hant": "我完全相反。"
   },
   {
-    "index": 47,
+    "index": 40,
     "text": "Oh, no.",
     "start": 123.953,
     "end": 126.314,
-    "zh": "哦，不。",
-    "zh_hant": "哦，不。"
+    "zh": "哦，天哪。",
+    "zh_hant": "哦，天哪。"
   },
   {
-    "index": 48,
+    "index": 41,
     "text": "We had a removal van and some removal men",
     "start": 125.964,
     "end": 129.895,
-    "zh": "我们有一辆搬家卡车，还有几个搬运工",
-    "zh_hant": "我們有一輛搬家卡車，還有幾個搬運工"
+    "zh": "我们找了搬家公司的人和货车，",
+    "zh_hant": "我們找了搬家公司的人和貨車，"
   },
   {
-    "index": 49,
+    "index": 42,
     "text": "who came and packed everything up in boxes,",
     "start": 129.795,
     "end": 133.457,
-    "zh": "来把所有东西包装进箱子，",
-    "zh_hant": "來把所有東西包裝進箱子，"
+    "zh": "他们把东西都打包进箱子里，",
+    "zh_hant": "他們把東西都打包進箱子裡，"
   },
   {
-    "index": 50,
+    "index": 43,
     "text": "to make sure that things were easy to carry",
     "start": 134.698,
     "end": 138.68,
-    "zh": "确保东西好搬运",
-    "zh_hant": "確保東西好搬運"
+    "zh": "确保东西好搬，",
+    "zh_hant": "確保東西好搬，"
   },
   {
-    "index": 51,
+    "index": 44,
     "text": "into the van and also that they didn't get damaged.",
     "start": 138.33,
     "end": 142.161,
-    "zh": "进卡车，而且也不会损坏。",
-    "zh_hant": "進卡車，而且也不會損壞。"
+    "zh": "放进车里，而且不会损坏。",
+    "zh_hant": "放進車裡，而且不會損壞。"
   },
   {
-    "index": 52,
-    "text": "And then they drove all of our stuff",
+    "index": 45,
+    "text": "And then they drove all of our stuff to my new house.",
     "start": 143.202,
-    "end": 145.903,
-    "zh": "然后他们把所有东西开车",
-    "zh_hant": "然後他們把所有東西開車"
-  },
-  {
-    "index": 53,
-    "text": "to my new house.",
-    "start": 145.703,
     "end": 148.184,
-    "zh": "送到我的新家。",
-    "zh_hant": "送到我的新家。"
+    "zh": "然后他们把东西都运到了新家。",
+    "zh_hant": "然後他們把東西都運到了新家。"
   },
   {
-    "index": 54,
+    "index": 46,
     "text": "Yeah.",
     "start": 148.064,
     "end": 149.405,
@@ -440,7 +376,7 @@
     "zh_hant": "嗯。"
   },
   {
-    "index": 55,
+    "index": 47,
     "text": "Did you have any fragile bits?",
     "start": 150.246,
     "end": 152.847,
@@ -448,55 +384,55 @@
     "zh_hant": "你有易碎的東西嗎？"
   },
   {
-    "index": 56,
-    "text": "So fragile means that it's easy to break, not very strong,",
+    "index": 48,
+    "text": "So fragile means that it's easy to break,",
     "start": 152.497,
-    "end": 156.488,
-    "zh": "易碎的意思是容易打碎，不够结实，",
-    "zh_hant": "易碎的意思是容易打碎，不夠結實，"
+    "end": 155.348,
+    "zh": "易碎就是说很容易打碎，",
+    "zh_hant": "易碎就是說很容易打碎，"
   },
   {
-    "index": 57,
-    "text": "plates and things.",
-    "start": 156.869,
+    "index": 49,
+    "text": "not very strong, plates and things.",
+    "start": 155.228,
     "end": 158.389,
-    "zh": "比如盘子和之类的东西。",
-    "zh_hant": "比如盤子和之類的東西。"
+    "zh": "不太结实，比如盘子什么的。",
+    "zh_hant": "不太結實，比如盤子什麼的。"
   },
   {
-    "index": 58,
+    "index": 50,
     "text": "Did you have?",
     "start": 158.039,
     "end": 158.95,
-    "zh": "你有吗？",
-    "zh_hant": "你有嗎？"
+    "zh": "你有没有？",
+    "zh_hant": "你有沒有？"
   },
   {
-    "index": 59,
+    "index": 51,
     "text": "Yes, those things had to be wrapped",
     "start": 158.81,
     "end": 162.692,
-    "zh": "有的，那些东西必须包好",
-    "zh_hant": "有的，那些東西必須包好"
+    "zh": "有，那些东西得包好，",
+    "zh_hant": "有，那些東西得包好，"
   },
   {
-    "index": 60,
+    "index": 52,
     "text": "and protected,",
     "start": 162.852,
     "end": 164.132,
-    "zh": "并加以保护，",
-    "zh_hant": "並加以保護，"
+    "zh": "保护起来，",
+    "zh_hant": "保護起來，"
   },
   {
-    "index": 61,
+    "index": 53,
     "text": "otherwise they would break.",
     "start": 164.233,
     "end": 165.813,
-    "zh": "否则它们会碎。",
-    "zh_hant": "否則它們會碎。"
+    "zh": "不然会破。",
+    "zh_hant": "不然會破。"
   },
   {
-    "index": 62,
+    "index": 54,
     "text": "Yes.",
     "start": 165.593,
     "end": 166.534,
@@ -504,47 +440,39 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 63,
+    "index": 55,
     "text": "And did you have to move furniture as well?",
     "start": 166.354,
     "end": 168.855,
-    "zh": "那你还要搬家具吗？",
-    "zh_hant": "那你還要搬傢俱嗎？"
+    "zh": "那你是不是也得搬家具？",
+    "zh_hant": "那你是不是也得搬傢俱？"
   },
   {
-    "index": 64,
+    "index": 56,
     "text": "Yeah, we had to move sofas",
     "start": 168.995,
     "end": 172.176,
-    "zh": "是的，我们得搬沙发",
-    "zh_hant": "是的，我們得搬沙發"
+    "zh": "对，我们搬了沙发，",
+    "zh_hant": "對，我們搬了沙發，"
   },
   {
-    "index": 65,
-    "text": "and cupboards and wardrobes",
+    "index": 57,
+    "text": "and cupboards and wardrobes and heavy things like that.",
     "start": 171.917,
-    "end": 174.778,
-    "zh": "和橱柜、衣柜",
-    "zh_hant": "和櫥櫃、衣櫃"
-  },
-  {
-    "index": 66,
-    "text": "and heavy things like that.",
-    "start": 174.498,
     "end": 177.059,
-    "zh": "还有那样的重物。",
-    "zh_hant": "還有那樣的重物。"
+    "zh": "还有柜子、衣柜这些重的东西。",
+    "zh_hant": "還有櫃子、衣櫃這些重的東西。"
   },
   {
-    "index": 67,
+    "index": 58,
     "text": "Yeah, does sound different to my experience, doesn't it.",
     "start": 178.54,
     "end": 181.761,
-    "zh": "听起来和我的经历很不一样，对吧。",
-    "zh_hant": "聽起來和我的經歷很不一樣，對吧。"
+    "zh": "嗯，听起来确实和我的经历不一样，是吧。",
+    "zh_hant": "嗯，聽起來確實和我的經歷不一樣，是吧。"
   },
   {
-    "index": 68,
+    "index": 59,
     "text": "I didn't have any furniture to take.",
     "start": 181.841,
     "end": 183.942,
@@ -552,39 +480,31 @@
     "zh_hant": "我沒什麼傢俱要搬。"
   },
   {
-    "index": 69,
-    "text": "Do you find moving house exciting,",
+    "index": 60,
+    "text": "Do you find moving house exciting, scary?",
     "start": 184.923,
-    "end": 188.604,
-    "zh": "你觉得搬家令人兴奋吗，",
-    "zh_hant": "你覺得搬家令人興奮嗎，"
-  },
-  {
-    "index": 70,
-    "text": "scary?",
-    "start": 188.525,
     "end": 189.505,
-    "zh": "还是让人害怕？",
-    "zh_hant": "還是讓人害怕？"
+    "zh": "你觉得搬家是兴奋，还是害怕？",
+    "zh_hant": "你覺得搬家是興奮，還是害怕？"
   },
   {
-    "index": 71,
+    "index": 61,
     "text": "How do you feel about moving house?",
     "start": 189.445,
     "end": 191.386,
-    "zh": "你对搬家感觉如何？",
-    "zh_hant": "你對搬家感覺如何？"
+    "zh": "你对搬家什么感觉？",
+    "zh_hant": "你對搬傢什麼感覺？"
   },
   {
-    "index": 72,
+    "index": 62,
     "text": "I think it's both.",
     "start": 191.386,
     "end": 192.746,
-    "zh": "我觉得两者都有。",
-    "zh_hant": "我覺得兩者都有。"
+    "zh": "我觉得都有。",
+    "zh_hant": "我覺得都有。"
   },
   {
-    "index": 73,
+    "index": 63,
     "text": "It's exciting and scary.",
     "start": 192.487,
     "end": 194.487,
@@ -592,455 +512,415 @@
     "zh_hant": "既興奮又害怕。"
   },
   {
-    "index": 74,
-    "text": "It's exciting because this is going to be your new",
+    "index": 64,
+    "text": "It's exciting because this is going to be your new life,",
     "start": 194.548,
-    "end": 198.429,
-    "zh": "兴奋是因为这将是你新的",
-    "zh_hant": "興奮是因為這將是你新的"
-  },
-  {
-    "index": 75,
-    "text": "life,",
-    "start": 198.49,
     "end": 199.33,
-    "zh": "生活，",
-    "zh_hant": "生活，"
+    "zh": "兴奋是因为这会是你的新生活，",
+    "zh_hant": "興奮是因為這會是你的新生活，"
   },
   {
-    "index": 76,
+    "index": 65,
     "text": "or where your new life will happen,",
     "start": 198.99,
     "end": 201.711,
-    "zh": "或者说你的新生活将在那里发生，",
-    "zh_hant": "或者說你的新生活將在那裡發生，"
+    "zh": "或者你新生活开始的地方，",
+    "zh_hant": "或者你新生活開始的地方，"
   },
   {
-    "index": 77,
-    "text": "but it's also scary because you don't know",
+    "index": 66,
+    "text": "but it's also scary because you don't know what that's going to be like.",
     "start": 203.633,
-    "end": 206.674,
-    "zh": "但也很害怕，因为你不知道",
-    "zh_hant": "但也很害怕，因為你不知道"
-  },
-  {
-    "index": 78,
-    "text": "what that's going to be like.",
-    "start": 206.974,
     "end": 208.855,
-    "zh": "那会是什么样子。",
-    "zh_hant": "那會是什麼樣子。"
+    "zh": "但也害怕，因为你不知道会是什么样。",
+    "zh_hant": "但也害怕，因為你不知道會是什麼樣。"
   },
   {
-    "index": 79,
+    "index": 67,
     "text": "You don't know what your neighbors are going to be like.",
     "start": 209.135,
     "end": 212.917,
-    "zh": "你也不知道你的邻居会是什么样。",
-    "zh_hant": "你也不知道你的鄰居會是什麼樣。"
+    "zh": "你不知道邻居会是什么样。",
+    "zh_hant": "你不知道鄰居會是什麼樣。"
   },
   {
-    "index": 80,
+    "index": 68,
     "text": "That's very true.",
     "start": 212.757,
     "end": 213.957,
-    "zh": "这很对。",
-    "zh_hant": "這很對。"
+    "zh": "那倒是真的。",
+    "zh_hant": "那倒是真的。"
   },
   {
-    "index": 81,
+    "index": 69,
     "text": "You don't know what your new friends are going to be like, yes.",
     "start": 213.737,
     "end": 218.159,
-    "zh": "你也不知道你的新朋友会是什么样，是的。",
-    "zh_hant": "你也不知道你的新朋友會是什麼樣，是的。"
+    "zh": "你不知道新朋友会是什么样，对。",
+    "zh_hant": "你不知道新朋友會是什麼樣，對。"
   },
   {
-    "index": 82,
+    "index": 70,
     "text": "So there's lots of things that you don't know,",
     "start": 217.9,
     "end": 220.961,
-    "zh": "所以有很多你不知道的事情，",
-    "zh_hant": "所以有很多你不知道的事情，"
+    "zh": "所以有很多未知的东西，",
+    "zh_hant": "所以有很多未知的東西，"
   },
   {
-    "index": 83,
+    "index": 71,
     "text": "and that's scary but also exciting.",
     "start": 220.621,
     "end": 223.182,
-    "zh": "这既让人害怕又让人兴奋。",
-    "zh_hant": "這既讓人害怕又讓人興奮。"
+    "zh": "那既让人害怕，也让人兴奋。",
+    "zh_hant": "那既讓人害怕，也讓人興奮。"
   },
   {
-    "index": 84,
+    "index": 72,
     "text": "Yeah, a lot of uncertainty for sure.",
     "start": 222.962,
     "end": 225.563,
-    "zh": "是的，肯定有很多不确定性。",
-    "zh_hant": "是的，肯定有很多不確定性。"
+    "zh": "对，肯定有很多不确定性。",
+    "zh_hant": "對，肯定有很多不確定性。"
   },
   {
-    "index": 85,
+    "index": 73,
     "text": "Yeah, I think it can depend.",
     "start": 226.003,
     "end": 227.804,
-    "zh": "嗯，我觉得这要看情况。",
-    "zh_hant": "嗯，我覺得這要看情況。"
+    "zh": "嗯，我觉得要看情况。",
+    "zh_hant": "嗯，我覺得要看情況。"
   },
   {
-    "index": 86,
+    "index": 74,
     "text": "It depends if you're moving somewhere better or worse.",
     "start": 227.884,
     "end": 231.386,
-    "zh": "取决于你是搬到更好的地方还是更差的地方。",
-    "zh_hant": "取決於你是搬到更好的地方還是更差的地方。"
+    "zh": "看你搬到的地方是更好还是更差。",
+    "zh_hant": "看你搬到的地方是更好還是更差。"
   },
   {
-    "index": 87,
+    "index": 75,
     "text": "But yeah, I was quite excited when I moved,",
     "start": 232.207,
     "end": 234.948,
-    "zh": "但是，嗯，我搬家的时候还是挺兴奋的，",
-    "zh_hant": "但是，嗯，我搬家的時候還是挺興奮的，"
+    "zh": "不过，我搬家那会儿挺兴奋的，",
+    "zh_hant": "不過，我搬家那會兒挺興奮的，"
   },
   {
-    "index": 88,
-    "text": "because I knew that my new flat",
+    "index": 76,
+    "text": "because I knew",
     "start": 234.708,
-    "end": 237.429,
-    "zh": "因为我知道我的新公寓",
-    "zh_hant": "因為我知道我的新公寓"
+    "end": 235.888,
+    "zh": "因为我知道",
+    "zh_hant": "因為我知道"
   },
   {
-    "index": 89,
-    "text": "had a nice outdoor terrace.",
-    "start": 237.369,
+    "index": 77,
+    "text": "that my new flat had a nice outdoor terrace.",
+    "start": 235.708,
     "end": 240.711,
-    "zh": "有一个不错的户外露台。",
-    "zh_hant": "有一個不錯的戶外露臺。"
+    "zh": "我的新公寓有个很棒的露天阳台。",
+    "zh_hant": "我的新公寓有個很棒的露天陽臺。"
   },
   {
-    "index": 90,
+    "index": 78,
     "text": "As I said, we were close to parks and stuff, so I was excited.",
     "start": 240.471,
     "end": 244.613,
-    "zh": "就像我说的，我们离公园什么的很近，所以我很兴奋。",
-    "zh_hant": "就像我說的，我們離公園什麼的很近，所以我很興奮。"
+    "zh": "就像我说的，离公园什么的也近，所以我挺期待。",
+    "zh_hant": "就像我說的，離公園什麼的也近，所以我挺期待。"
   },
   {
-    "index": 91,
+    "index": 79,
     "text": "So Georgie, if you are planning a move,",
     "start": 244.263,
     "end": 248.195,
-    "zh": "那么乔吉，如果你计划搬家，",
-    "zh_hant": "那麼喬吉，如果你計劃搬家，"
+    "zh": "那乔吉，如果你打算搬家，",
+    "zh_hant": "那喬吉，如果你打算搬家，"
   },
   {
-    "index": 92,
+    "index": 80,
     "text": "what do you need to do to prepare?",
     "start": 248.555,
     "end": 251.296,
-    "zh": "你需要做些什么准备？",
-    "zh_hant": "你需要做些什麼準備？"
+    "zh": "你需要做什么准备？",
+    "zh_hant": "你需要做什麼準備？"
   },
   {
-    "index": 93,
+    "index": 81,
     "text": "Well, you need to do things",
     "start": 252.157,
     "end": 254.137,
-    "zh": "嗯，你需要做一些事",
-    "zh_hant": "嗯，你需要做一些事"
+    "zh": "嗯，你得做些事情，",
+    "zh_hant": "嗯，你得做些事情，"
   },
   {
-    "index": 94,
+    "index": 82,
     "text": "like setting up Wi-Fi in the new house,",
     "start": 253.787,
     "end": 257.979,
-    "zh": "比如在新房子安装无线网络，",
-    "zh_hant": "比如在新房子安裝無線網路，"
+    "zh": "比如在新家装好Wi-Fi，",
+    "zh_hant": "比如在新家裝好Wi-Fi，"
   },
   {
-    "index": 95,
-    "text": "other bills like electricity",
+    "index": 83,
+    "text": "other bills like electricity and heating, gas.",
     "start": 258.46,
-    "end": 261.401,
-    "zh": "其他账单像电费",
-    "zh_hant": "其他賬單像電費"
-  },
-  {
-    "index": 96,
-    "text": "and heating, gas.",
-    "start": 261.201,
     "end": 263.602,
-    "zh": "和供暖、燃气。",
-    "zh_hant": "和供暖、燃氣。"
+    "zh": "还有其他账单，比如电费、暖气、燃气。",
+    "zh_hant": "還有其他賬單，比如電費、暖氣、燃氣。"
   },
   {
-    "index": 97,
+    "index": 84,
     "text": "You need to put your name on the accounts.",
     "start": 264.223,
     "end": 266.864,
-    "zh": "你需要把名字登记在这些账户上。",
-    "zh_hant": "你需要把名字登記在這些賬戶上。"
+    "zh": "你得把名字登记到账户上。",
+    "zh_hant": "你得把名字登記到賬戶上。"
   },
   {
-    "index": 98,
+    "index": 85,
     "text": "You need to plan what you're going to take.",
     "start": 268.065,
     "end": 270.986,
-    "zh": "你需要计划要带什么。",
-    "zh_hant": "你需要計劃要帶什麼。"
+    "zh": "你得计划好要带什么。",
+    "zh_hant": "你得計劃好要帶什麼。"
   },
   {
-    "index": 99,
+    "index": 86,
     "text": "So when you move,",
     "start": 270.766,
     "end": 273.507,
-    "zh": "所以当你搬家的时候，",
-    "zh_hant": "所以當你搬家的時候，"
+    "zh": "所以搬家的时候，",
+    "zh_hant": "所以搬家的時候，"
   },
   {
-    "index": 100,
-    "text": "it's a really good time to look at all of your possessions",
+    "index": 87,
+    "text": "it's a really good time to look at all of your possessions and think, what do I need?",
     "start": 273.157,
-    "end": 276.388,
-    "zh": "这是个好时机来审视你所有的物品",
-    "zh_hant": "這是個好時機來審視你所有的物品"
-  },
-  {
-    "index": 101,
-    "text": "and think, what do I need?",
-    "start": 276.038,
     "end": 277.949,
-    "zh": "然后想想，我需要什么？",
-    "zh_hant": "然後想想，我需要什麼？"
+    "zh": "正好可以看看自己的所有东西，想想：我需要什么？",
+    "zh_hant": "正好可以看看自己的所有東西，想想：我需要什麼？"
   },
   {
-    "index": 102,
+    "index": 88,
     "text": "Maybe I can get rid of stuff.",
     "start": 277.689,
     "end": 279.951,
-    "zh": "也许我可以处理掉一些东西。",
-    "zh_hant": "也許我可以處理掉一些東西。"
+    "zh": "也许能扔掉一些东西。",
+    "zh_hant": "也許能扔掉一些東西。"
   },
   {
-    "index": 103,
+    "index": 89,
     "text": "So throw stuff away.",
     "start": 279.771,
     "end": 281.892,
-    "zh": "就是扔掉一些东西。",
-    "zh_hant": "就是扔掉一些東西。"
+    "zh": "就是丢掉不用的。",
+    "zh_hant": "就是丟掉不用的。"
   },
   {
-    "index": 104,
+    "index": 90,
     "text": "Have you got any other ideas?",
     "start": 283.292,
     "end": 284.853,
-    "zh": "你还有其他想法吗？",
-    "zh_hant": "你還有其他想法嗎？"
+    "zh": "你还有别的想法吗？",
+    "zh_hant": "你還有別的想法嗎？"
   },
   {
-    "index": 105,
+    "index": 91,
     "text": "What else can you do to prepare for a move?",
     "start": 284.503,
     "end": 287.074,
-    "zh": "还有什么可以做的来准备搬家？",
-    "zh_hant": "還有什麼可以做的來準備搬家？"
+    "zh": "还有什么可以准备的呢？",
+    "zh_hant": "還有什麼可以準備的呢？"
   },
   {
-    "index": 106,
+    "index": 92,
     "text": "You can hire a removal company",
     "start": 287.414,
     "end": 290.896,
-    "zh": "你可以雇一家搬家公司",
-    "zh_hant": "你可以僱一家搬家公司"
+    "zh": "你可以找搬家公司，",
+    "zh_hant": "你可以找搬家公司，"
   },
   {
-    "index": 107,
+    "index": 93,
     "text": "or van if you're doing it yourself,",
     "start": 290.696,
     "end": 293.817,
-    "zh": "或者租辆货车，如果你自己动手的话，",
-    "zh_hant": "或者租輛貨車，如果你自己動手的話，"
+    "zh": "或者自己弄辆车，",
+    "zh_hant": "或者自己弄輛車，"
   },
   {
-    "index": 108,
+    "index": 94,
     "text": "if you need to transport your stuff to your new house.",
     "start": 294.798,
     "end": 298.7,
-    "zh": "如果你需要把东西运到新家。",
-    "zh_hant": "如果你需要把東西運到新家。"
+    "zh": "如果你需要把东西运到新家的话。",
+    "zh_hant": "如果你需要把東西運到新家的話。"
   },
   {
-    "index": 109,
+    "index": 95,
     "text": "Yeah, and you can't just use A taxi, yeah,",
     "start": 298.64,
     "end": 302.642,
-    "zh": "是的，你不能只用一辆出租车，嗯，",
-    "zh_hant": "是的，你不能只用一輛計程車，嗯，"
+    "zh": "嗯，那你不能就打个出租车，嗯，",
+    "zh_hant": "嗯，那你不能就打個計程車，嗯，"
   },
   {
-    "index": 110,
+    "index": 96,
     "text": "sounds like a lot of work.",
     "start": 302.462,
     "end": 304.022,
-    "zh": "听起来工作量很大。",
-    "zh_hant": "聽起來工作量很大。"
+    "zh": "听起来挺多活儿。",
+    "zh_hant": "聽起來挺多活兒。"
   },
   {
-    "index": 111,
+    "index": 97,
     "text": "I don't want to move anytime soon.",
     "start": 303.843,
     "end": 305.763,
-    "zh": "我近期不想搬家。",
-    "zh_hant": "我近期不想搬家。"
+    "zh": "我短时间内可不想搬家。",
+    "zh_hant": "我短時間內可不想搬家。"
   },
   {
-    "index": 112,
+    "index": 98,
     "text": "No, me neither.",
     "start": 305.563,
     "end": 307.644,
-    "zh": "我也是。",
-    "zh_hant": "我也是。"
+    "zh": "嗯，我也是。",
+    "zh_hant": "嗯，我也是。"
   },
   {
-    "index": 113,
+    "index": 99,
     "text": "No.",
     "start": 307.364,
     "end": 307.964,
-    "zh": "不。",
-    "zh_hant": "不。"
+    "zh": "嗯。",
+    "zh_hant": "嗯。"
   },
   {
-    "index": 114,
+    "index": 100,
     "text": "OK,",
     "start": 313.167,
     "end": 313.767,
-    "zh": "好的，",
-    "zh_hant": "好的，"
+    "zh": "好，",
+    "zh_hant": "好，"
   },
   {
-    "index": 115,
+    "index": 101,
     "text": "let's recap the language we heard during the conversation.",
     "start": 313.607,
     "end": 316.929,
-    "zh": "让我们回顾一下对话中听到的词汇。",
-    "zh_hant": "讓我們回顧一下對話中聽到的詞彙。"
+    "zh": "咱们回顾一下对话里听到的词汇。",
+    "zh_hant": "咱們回顧一下對話裡聽到的詞彙。"
   },
   {
-    "index": 116,
+    "index": 102,
     "text": "We heard possessions, which are the things that you own or have.",
     "start": 316.729,
     "end": 320.871,
-    "zh": "我们听到了 possessions，指的是你拥有的东西。",
-    "zh_hant": "我們聽到了 possessions，指的是你擁有的東西。"
+    "zh": "咱们听到 possessions（物品），就是你拥有或有的东西。",
+    "zh_hant": "咱們聽到 possessions（物品），就是你擁有或有的東西。"
   },
   {
-    "index": 117,
+    "index": 103,
     "text": "For example, my phone and my clothes are my possessions.",
     "start": 320.811,
     "end": 324.713,
-    "zh": "例如，我的手机和衣服就是我的 possessions。",
-    "zh_hant": "例如，我的手機和衣服就是我的 possessions。"
+    "zh": "比如，我的手机和衣服就是我的物品。",
+    "zh_hant": "比如，我的手機和衣服就是我的物品。"
   },
   {
-    "index": 118,
+    "index": 104,
     "text": "We talked about removal vans.",
     "start": 324.853,
     "end": 327.634,
-    "zh": "我们谈到了 removal vans。",
-    "zh_hant": "我們談到了 removal vans。"
+    "zh": "咱们聊到了 removal vans（搬家货车）。",
+    "zh_hant": "咱們聊到了 removal vans（搬家貨車）。"
   },
   {
-    "index": 119,
+    "index": 105,
     "text": "A removal van is a large vehicle",
     "start": 327.295,
     "end": 330.276,
-    "zh": "Removal van 是一种大型车辆",
-    "zh_hant": "Removal van 是一種大型車輛"
+    "zh": "搬家货车是种大车，",
+    "zh_hant": "搬家貨車是種大車，"
   },
   {
-    "index": 120,
-    "text": "that people put your possessions",
+    "index": 106,
+    "text": "that people put your possessions into to go from one home",
     "start": 330.256,
-    "end": 332.877,
-    "zh": "人们把你的东西装进去",
-    "zh_hant": "人們把你的東西裝進去"
+    "end": 335.158,
+    "zh": "人们把东西放进去，从一个家搬到",
+    "zh_hant": "人們把東西放進去，從一個家搬到"
   },
   {
-    "index": 121,
-    "text": "into to go from one home to another.",
-    "start": 332.657,
+    "index": 107,
+    "text": "to another.",
+    "start": 335.038,
     "end": 336.119,
-    "zh": "从一个家搬到另一个家。",
-    "zh_hant": "從一個家搬到另一個家。"
+    "zh": "另一个家。",
+    "zh_hant": "另一個家。"
   },
   {
-    "index": 122,
-    "text": "And the company is called a removals company",
+    "index": 108,
+    "text": "And the company is called a removals company or removals firm.",
     "start": 336.339,
-    "end": 340.101,
-    "zh": "这家公司叫做 removals company",
-    "zh_hant": "這家公司叫做 removals company"
-  },
-  {
-    "index": 123,
-    "text": "or removals firm.",
-    "start": 339.801,
     "end": 341.361,
-    "zh": "或者 removals firm。",
-    "zh_hant": "或者 removals firm。"
+    "zh": "这种公司叫 removals company 或 removals firm（搬家公司）。",
+    "zh_hant": "這種公司叫 removals company 或 removals firm（搬家公司）。"
   },
   {
-    "index": 124,
+    "index": 109,
     "text": "We heard packing,",
     "start": 341.762,
     "end": 343.302,
-    "zh": "我们还听到了 packing，",
-    "zh_hant": "我們還聽到了 packing，"
+    "zh": "咱们听到了 packing（打包），",
+    "zh_hant": "咱們聽到了 packing（打包），"
   },
   {
-    "index": 125,
+    "index": 110,
     "text": "and packing is where you put your own things into boxes",
     "start": 342.982,
     "end": 346.644,
-    "zh": "packing 就是把你自己的东西放进箱子里",
-    "zh_hant": "packing 就是把你自己的東西放進箱子裡"
+    "zh": "打包就是把东西放进箱子里，",
+    "zh_hant": "打包就是把東西放進箱子裡，"
   },
   {
-    "index": 126,
-    "text": "so that a removal firm can take them to your new home.",
+    "index": 111,
+    "text": "so that a removal firm can take them",
     "start": 346.604,
-    "end": 350.066,
-    "zh": "这样搬家公司就能带到你的新家。",
-    "zh_hant": "這樣搬家公司就能帶到你的新家。"
+    "end": 349.005,
+    "zh": "这样搬家公司的工人才能把它们带到",
+    "zh_hant": "這樣搬家公司的工人才能把它們帶到"
   },
   {
-    "index": 127,
+    "index": 112,
+    "text": "to your new home.",
+    "start": 348.655,
+    "end": 350.066,
+    "zh": "你的新家。",
+    "zh_hant": "你的新家。"
+  },
+  {
+    "index": 113,
     "text": "And we heard fragile.",
     "start": 350.566,
     "end": 354.047,
-    "zh": "我们还听到了 fragile。",
-    "zh_hant": "我們還聽到了 fragile。"
+    "zh": "咱们还听到了 fragile（易碎的）。",
+    "zh_hant": "咱們還聽到了 fragile（易碎的）。"
   },
   {
-    "index": 128,
-    "text": "is an adjective which describes something that can break",
+    "index": 114,
+    "text": "is an adjective which describes something that can break easily,",
     "start": 353.697,
-    "end": 357.649,
-    "zh": "它是一个形容词，描述容易碎的",
-    "zh_hant": "它是一個形容詞，描述容易碎的"
-  },
-  {
-    "index": 129,
-    "text": "easily,",
-    "start": 357.669,
     "end": 358.53,
-    "zh": "东西，",
-    "zh_hant": "東西，"
+    "zh": "这是个形容词，形容容易破的东西，",
+    "zh_hant": "這是個形容詞，形容容易破的東西，"
   },
   {
-    "index": 130,
+    "index": 115,
     "text": "for example, glass.",
     "start": 358.23,
     "end": 361.073,
@@ -1048,39 +928,31 @@
     "zh_hant": "比如玻璃。"
   },
   {
-    "index": 131,
+    "index": 116,
     "text": "is fragile.",
     "start": 360.723,
     "end": 361.834,
-    "zh": "就是 fragile。",
-    "zh_hant": "就是 fragile。"
+    "zh": "就是易碎的。",
+    "zh_hant": "就是易碎的。"
   },
   {
-    "index": 132,
+    "index": 117,
     "text": "That's it for this episode of Real Easy English.",
     "start": 361.534,
     "end": 364.757,
-    "zh": "这就是本期“地道简单英语”的全部内容。",
-    "zh_hant": "這就是本期“地道簡單英語”的全部內容。"
+    "zh": "这就是本期《简易英语》的全部内容。",
+    "zh_hant": "這就是本期《簡易英語》的全部內容。"
   },
   {
-    "index": 133,
-    "text": "Don't forget to test what you've learnt using the free",
+    "index": 118,
+    "text": "Don't forget to test what you've learnt using the free worksheet on our website.",
     "start": 364.437,
-    "end": 367.6,
-    "zh": "别忘了用我们网站上免费的",
-    "zh_hant": "別忘了用我們網站上免費的"
-  },
-  {
-    "index": 134,
-    "text": "worksheet on our website.",
-    "start": 367.28,
     "end": 369.041,
-    "zh": "工作表来测试你学到的内容。",
-    "zh_hant": "工作表來測試你學到的內容。"
+    "zh": "别忘了用咱们网站上的免费练习表测试一下你学到了什么。",
+    "zh_hant": "別忘了用咱們網站上的免費練習表測試一下你學到了什麼。"
   },
   {
-    "index": 135,
+    "index": 119,
     "text": "Go to bbclearningenglish.com.",
     "start": 368.862,
     "end": 371.404,
@@ -1088,23 +960,23 @@
     "zh_hant": "去 bbclearningenglish.com。"
   },
   {
-    "index": 136,
+    "index": 120,
     "text": "We'll be back next week with another conversation in Easy English.",
     "start": 371.545,
     "end": 375.628,
-    "zh": "我们下周会回来，带另一段简单英语对话。",
-    "zh_hant": "我們下週會回來，帶另一段簡單英語對話。"
+    "zh": "下周我们会回来，继续用简易英语带来一段对话。",
+    "zh_hant": "下週我們會回來，繼續用簡易英語帶來一段對話。"
   },
   {
-    "index": 137,
+    "index": 121,
     "text": "Bye for now.",
     "start": 375.369,
     "end": 376.329,
-    "zh": "再见。",
-    "zh_hant": "再見。"
+    "zh": "暂时再见啦。",
+    "zh_hant": "暫時再見啦。"
   },
   {
-    "index": 138,
+    "index": 122,
     "text": "Goodbye.",
     "start": 376.029,
     "end": 377.01,

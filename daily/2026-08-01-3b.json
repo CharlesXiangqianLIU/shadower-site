@@ -20,24 +20,24 @@
     "text": "Even in space, the world is run by lawyers.",
     "start": 8.854,
     "end": 11.956,
-    "zh": "即使在太空，世界也是由律师掌控的。",
-    "zh_hant": "即使在太空，世界也是由律師掌控的。"
+    "zh": "即使在太空，世界也由律师掌控。",
+    "zh_hant": "即使在太空，世界也由律師掌控。"
   },
   {
     "index": 3,
     "text": "Like this one.",
     "start": 11.996,
     "end": 13.056,
-    "zh": "就像这位。",
-    "zh_hant": "就像這位。"
+    "zh": "比如这位。",
+    "zh_hant": "比如這位。"
   },
   {
     "index": 4,
     "text": "I’m Rosanna Hoffman .",
     "start": 13.537,
     "end": 14.957,
-    "zh": "我是罗莎娜·霍夫曼。",
-    "zh_hant": "我是羅莎娜·霍夫曼。"
+    "zh": "我是罗珊娜·霍夫曼。",
+    "zh_hant": "我是羅珊娜·霍夫曼。"
   },
   {
     "index": 5,
@@ -52,99 +52,83 @@
     "text": "and policy and now also sustainability at the United Nations Office for Outer Space Affairs",
     "start": 16.248,
     "end": 22.461,
-    "zh": "与政策部门负责人，现在也负责联合国太空事务办公室的可持续性事务，",
-    "zh_hant": "與政策部門負責人，現在也負責聯合國太空事務辦公室的可持續性事務，"
+    "zh": "和政策的负责人，现在也负责可持续性，在联合国太空事务办公室",
+    "zh_hant": "和政策的負責人，現在也負責可持續性，在聯合國太空事務辦公室"
   },
   {
     "index": 7,
     "text": "or UNOOSA as we like to call it .",
     "start": 22.701,
     "end": 25.65,
-    "zh": "或者我们喜欢简称它为UNOOSA。",
-    "zh_hant": "或者我們喜歡簡稱它為UNOOSA。"
+    "zh": "或者我们喜欢简称的UNOOSA。",
+    "zh_hant": "或者我們喜歡簡稱的UNOOSA。"
   },
   {
     "index": 8,
     "text": "We’re really the UN’s home for space.",
     "start": 25.463,
     "end": 29.064,
-    "zh": "我们确实是联合国处理太空事务的枢纽。",
-    "zh_hant": "我們確實是聯合國處理太空事務的樞紐。"
+    "zh": "我们真的是联合国在太空领域的家园。",
+    "zh_hant": "我們真的是聯合國在太空領域的家園。"
   },
   {
     "index": 9,
     "text": "We’re also the convener for space negotiations.",
     "start": 29.084,
     "end": 33.366,
-    "zh": "我们也是太空谈判的召集方。",
-    "zh_hant": "我們也是太空談判的召集方。"
+    "zh": "我们也是太空谈判的召集者。",
+    "zh_hant": "我們也是太空談判的召集者。"
   },
   {
     "index": 10,
-    "text": "So we help states negotiate everything around space",
+    "text": "So we help states negotiate everything around space from space law",
     "start": 33.016,
-    "end": 36.688,
-    "zh": "所以我们帮助各国谈判与太空相关的一切事项，",
-    "zh_hant": "所以我們幫助各國談判與太空相關的一切事項，"
+    "end": 37.608,
+    "zh": "所以我们帮助各国谈判所有与太空相关的事宜，从太空法",
+    "zh_hant": "所以我們幫助各國談判所有與太空相關的事宜，從太空法"
   },
   {
     "index": 11,
-    "text": "from space law to space technology to really,",
-    "start": 36.338,
-    "end": 40.35,
-    "zh": "从太空法到太空技术，甚至真的，",
-    "zh_hant": "從太空法到太空技術，甚至真的，"
+    "text": "to space technology to really, everything from disaster management and on and on.",
+    "start": 37.289,
+    "end": 43.172,
+    "zh": "到太空技术，再到灾难管理等方方面面。",
+    "zh_hant": "到太空技術，再到災難管理等方方面面。"
   },
   {
     "index": 12,
-    "text": "everything from disaster management and on and on.",
-    "start": 40.11,
-    "end": 43.172,
-    "zh": "从灾害管理到等等等等。",
-    "zh_hant": "從災害管理到等等等等。"
+    "text": "I advise states, but also more and more industry, on how to really implement space law,",
+    "start": 43.572,
+    "end": 50.275,
+    "zh": "我建议各国，也越来越多地建议业界，如何真正实施太空法，",
+    "zh_hant": "我建議各國，也越來越多地建議業界，如何真正實施太空法，"
   },
   {
     "index": 13,
-    "text": "I advise states, but also more and more industry, on how to really implement",
-    "start": 43.572,
-    "end": 49.355,
-    "zh": "我为各国提供建议，也越来越多地为业界提供建议，关于如何真正实施",
-    "zh_hant": "我為各國提供建議，也越來越多地為業界提供建議，關於如何真正實施"
-  },
-  {
-    "index": 14,
-    "text": "space law,",
-    "start": 49.075,
-    "end": 50.275,
-    "zh": "太空法，",
-    "zh_hant": "太空法，"
-  },
-  {
-    "index": 15,
     "text": "how to ensure that their space activities are done sustainably and safely.",
     "start": 50.215,
     "end": 54.497,
-    "zh": "如何确保他们的太空活动以可持续和安全的方式进行。",
-    "zh_hant": "如何確保他們的太空活動以可持續和安全的方式進行。"
+    "zh": "如何确保他们的太空活动可持续且安全地进行。",
+    "zh_hant": "如何確保他們的太空活動可持續且安全地進行。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "And I help states negotiate space law and the use of space.",
     "start": 54.958,
     "end": 59.46,
-    "zh": "我协助各国谈判太空法和太空的使用。",
-    "zh_hant": "我協助各國談判太空法和太空的使用。"
+    "zh": "我帮助各国谈判太空法和太空的使用。",
+    "zh_hant": "我幫助各國談判太空法和太空的使用。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "And that’s what I’ve actually been doing the last two weeks.",
     "start": 59.66,
     "end": 62.361,
-    "zh": "而这也是我过去两周一直在做的事情。",
-    "zh_hant": "而這也是我過去兩週一直在做的事情。"
+    "zh": "而这正是我过去两周一直在做的事情。",
+    "zh_hant": "而這正是我過去兩週一直在做的事情。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "The Committee on the Peaceful Uses of Outer Space, which meets six weeks a year in Vienna,",
     "start": 62.121,
     "end": 67.143,
@@ -152,39 +136,31 @@
     "zh_hant": "和平利用外層空間委員會，每年在維也納開會六週，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "where I’m based, just concluded its meeting a few hours ago.",
     "start": 66.793,
     "end": 70.685,
-    "zh": "我驻扎的地方，就在几小时前刚结束了会议。",
-    "zh_hant": "我駐紮的地方，就在幾小時前剛結束了會議。"
+    "zh": "我工作所在地，就在几小时前刚刚结束了会议。",
+    "zh_hant": "我工作所在地，就在幾小時前剛剛結束了會議。"
   },
   {
-    "index": 20,
-    "text": "It’s so interesting to me to hear you talk in such a familiar way",
+    "index": 18,
+    "text": "It’s so interesting to me to hear you talk in such a familiar way about these organizations that I’ve literally never heard of.",
     "start": 70.625,
-    "end": 74.347,
-    "zh": "听你用这么熟悉的方式谈论这些组织，我觉得特别有意思，",
-    "zh_hant": "聽你用這麼熟悉的方式談論這些組織，我覺得特別有意思，"
-  },
-  {
-    "index": 21,
-    "text": "about these organizations that I’ve literally never heard of.",
-    "start": 74.067,
     "end": 77.909,
-    "zh": "因为我真的从没听说过这些。",
-    "zh_hant": "因為我真的從沒聽說過這些。"
+    "zh": "听你如此熟悉地谈论这些我从未听说过的组织，我觉得非常有趣。",
+    "zh_hant": "聽你如此熟悉地談論這些我從未聽說過的組織，我覺得非常有趣。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "It’s a kind of world that I think the regular person can walk through and never know that what you do exists.",
     "start": 77.869,
     "end": 83.472,
-    "zh": "我觉得普通人走过这个世界，可能根本不知道你所做的工作存在。",
-    "zh_hant": "我覺得普通人走過這個世界，可能根本不知道你所做的工作存在。"
+    "zh": "我觉得普通人走过这种世界，永远不会知道你所做的事情存在。",
+    "zh_hant": "我覺得普通人走過這種世界，永遠不會知道你所做的事情存在。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "That’s true.",
     "start": 83.392,
     "end": 84.352,
@@ -192,15 +168,15 @@
     "zh_hant": "確實如此。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "We’re a small office, but we exist since 1957.",
     "start": 84.293,
     "end": 88.605,
-    "zh": "我们是个小办公室，但从1957年就存在了。",
-    "zh_hant": "我們是個小辦公室，但從1957年就存在了。"
+    "zh": "我们是一个小办公室，但自1957年就存在了。",
+    "zh_hant": "我們是一個小辦公室，但自1957年就存在了。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "Some listeners might know the year.",
     "start": 88.655,
     "end": 91.396,
@@ -208,47 +184,39 @@
     "zh_hant": "有些聽眾可能知道那一年。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "It’s the first time a satellite was launched into outer space, with Sputnik.",
     "start": 91.056,
     "end": 96.958,
-    "zh": "那是第一颗卫星被发射到外太空的年份，用的是斯普特尼克号。",
-    "zh_hant": "那是第一顆衛星被髮射到外太空的年份，用的是斯普特尼克號。"
+    "zh": "那是第一颗卫星被发射到太空的年份，即斯普特尼克号。",
+    "zh_hant": "那是第一顆衛星被髮射到太空的年份，即斯普特尼克號。"
   },
   {
-    "index": 27,
-    "text": "The year after, of course, we had more satellites being launched into outer space,",
+    "index": 24,
+    "text": "The year after, of course, we had more satellites being launched into outer space, and it was that year, 1957,",
     "start": 96.899,
-    "end": 101.601,
-    "zh": "第二年，当然，又有更多卫星被发射到外太空，",
-    "zh_hant": "第二年，當然，又有更多衛星被髮射到外太空，"
+    "end": 102.952,
+    "zh": "第二年，当然，更多卫星被发射到太空，也就是在1957年，",
+    "zh_hant": "第二年，當然，更多衛星被髮射到太空，也就是在1957年，"
   },
   {
-    "index": 28,
-    "text": "and it was that year, 1957, that states in the U.N. and the General Assembly in New York said,",
-    "start": 101.251,
-    "end": 107.384,
-    "zh": "就是1957年那一年，联合国成员国和纽约的联合国大会表示，",
-    "zh_hant": "就是1957年那一年，聯合國成員國和紐約的聯合國大會表示，"
-  },
-  {
-    "index": 29,
-    "text": "okay, space activities are becoming a reality.",
-    "start": 107.034,
+    "index": 25,
+    "text": "that states in the U.N. and the General Assembly in New York said, okay, space activities are becoming a reality.",
+    "start": 103.002,
     "end": 109.965,
-    "zh": "好吧，太空活动正在成为现实。",
-    "zh_hant": "好吧，太空活動正在成為現實。"
+    "zh": "联合国和纽约大会上的各国说，好吧，太空活动正在成为现实。",
+    "zh_hant": "聯合國和紐約大會上的各國說，好吧，太空活動正在成為現實。"
   },
   {
-    "index": 30,
+    "index": 26,
     "text": "We need an office dealing with these matters,",
     "start": 110.265,
     "end": 113.987,
-    "zh": "我们需要一个办公室来处理这些事务，",
-    "zh_hant": "我們需要一個辦公室來處理這些事務，"
+    "zh": "我们需要一个处理这些事务的办公室，",
+    "zh_hant": "我們需要一個處理這些事務的辦公室，"
   },
   {
-    "index": 31,
+    "index": 27,
     "text": "ensuring that space is used peacefully, safely, sustainably.",
     "start": 113.637,
     "end": 117.989,
@@ -256,331 +224,291 @@
     "zh_hant": "確保太空被和平、安全、可持續地使用。"
   },
   {
-    "index": 32,
+    "index": 28,
     "text": "We need to make sure that the wars currently ongoing here on Earth,",
     "start": 118.329,
     "end": 122.692,
-    "zh": "我们需要确保目前地球上正在进行的战争，",
-    "zh_hant": "我們需要確保目前地球上正在進行的戰爭，"
+    "zh": "我们需要确保地球上正在进行的战争，",
+    "zh_hant": "我們需要確保地球上正在進行的戰爭，"
   },
   {
-    "index": 33,
-    "text": "the geopolitical tensions — this is in the middle of the Cold War, right —",
+    "index": 29,
+    "text": "the geopolitical tensions — this is in the middle of the Cold War, right — that we don’t move that on over to space.",
     "start": 122.342,
-    "end": 125.73,
-    "zh": "地缘政治紧张——这可是冷战中期，对吧——",
-    "zh_hant": "地緣政治緊張——這可是冷戰中期，對吧——"
-  },
-  {
-    "index": 34,
-    "text": "that we don’t move that on over to space.",
-    "start": 125.673,
     "end": 129.155,
-    "zh": "不会延伸到太空中去。",
-    "zh_hant": "不會延伸到太空中去。"
+    "zh": "地缘政治紧张——当时正处于冷战中期，对吧——不会延伸到太空。",
+    "zh_hant": "地緣政治緊張——當時正處於冷戰中期，對吧——不會延伸到太空。"
   },
   {
-    "index": 35,
-    "text": "It’s surprising right in the middle of the Cold War",
+    "index": 30,
+    "text": "It’s surprising right in the middle of the Cold War that these countries were sitting down and talking in such a civil way.",
     "start": 129.155,
-    "end": 131.776,
-    "zh": "在冷战正酣时，这些国家却能坐下来以如此文明的方式交谈，真是令人惊讶。",
-    "zh_hant": "在冷戰正酣時，這些國家卻能坐下來以如此文明的方式交談，真是令人驚訝。"
+    "end": 136.598,
+    "zh": "令人惊讶的是，在冷战正激烈时，这些国家竟然坐下来以如此文明的方式对话。",
+    "zh_hant": "令人驚訝的是，在冷戰正激烈時，這些國家竟然坐下來以如此文明的方式對話。"
   },
   {
-    "index": 36,
-    "text": "that these countries were sitting down and talking in such a civil way.",
-    "start": 131.896,
-    "end": 136.598,
+    "index": 31,
+    "text": "I agree.",
+    "start": 136.599,
+    "end": 137.399,
     "zh": "我同意。",
     "zh_hant": "我同意。"
   },
   {
-    "index": 37,
-    "text": "I agree.",
-    "start": 136.599,
-    "end": 137.399,
-    "zh": "但我刚刚经历了成员国之间整整两周的谈判。",
-    "zh_hant": "但我剛剛經歷了成員國之間整整兩週的談判。"
-  },
-  {
-    "index": 38,
+    "index": 32,
     "text": "But I just come from two full weeks of negotiations between member states.",
     "start": 137.049,
     "end": 142.641,
-    "zh": "就在昨天，我和美国、俄罗斯联邦、",
-    "zh_hant": "就在昨天，我和美國、俄羅斯聯邦、"
+    "zh": "但我刚从两周的成员国之间谈判中回来。",
+    "zh_hant": "但我剛從兩週的成員國之間談判中回來。"
   },
   {
-    "index": 39,
-    "text": "And just yesterday, I sat in a room with the U.S., with the Russian Federation,",
+    "index": 33,
+    "text": "And just yesterday, I sat in a room with the U.S.,",
     "start": 142.291,
-    "end": 147.644,
-    "zh": "中国、乌克兰、伊朗的代表坐在一个房间里，",
-    "zh_hant": "中國、烏克蘭、伊朗的代表坐在一個房間裡，"
+    "end": 145.963,
+    "zh": "就在昨天，我和美国坐在一个房间里，",
+    "zh_hant": "就在昨天，我和美國坐在一個房間裡，"
   },
   {
-    "index": 40,
-    "text": "with the Chinese, with the Ukrainians, with the Iranians,",
-    "start": 147.294,
+    "index": 34,
+    "text": "with the Russian Federation, with the Chinese, with the Ukrainians, with the Iranians,",
+    "start": 145.823,
     "end": 150.946,
-    "zh": "大家都在文明地讨论太空活动。",
-    "zh_hant": "大家都在文明地討論太空活動。"
+    "zh": "还有俄罗斯联邦、中国、乌克兰、伊朗，",
+    "zh_hant": "還有俄羅斯聯邦、中國、烏克蘭、伊朗，"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "all in a room civilly discussing space activities.",
     "start": 151.166,
     "end": 156.528,
-    "zh": "太空实际上是少数几个国家们继续",
-    "zh_hant": "太空實際上是少數幾個國家們繼續"
+    "zh": "所有国家在一个房间里文明地讨论太空活动。",
+    "zh_hant": "所有國家在一個房間裡文明地討論太空活動。"
   },
   {
-    "index": 42,
-    "text": "Space is actually one of those domains where states continue",
+    "index": 36,
+    "text": "Space is actually one of those domains where states continue to negotiate and discuss.",
     "start": 156.829,
-    "end": 161.311,
-    "zh": "谈判和讨论的领域之一。",
-    "zh_hant": "談判和討論的領域之一。"
-  },
-  {
-    "index": 43,
-    "text": "to negotiate and discuss.",
-    "start": 161.051,
     "end": 163.552,
-    "zh": "他们一直这样做的。",
-    "zh_hant": "他們一直這樣做的。"
+    "zh": "太空实际上是一个各国持续谈判和讨论的领域。",
+    "zh_hant": "太空實際上是一個各國持續談判和討論的領域。"
   },
   {
-    "index": 44,
+    "index": 37,
     "text": "They’ve always done so.",
     "start": 163.713,
     "end": 165.113,
-    "zh": "我们如此依赖太空，",
-    "zh_hant": "我們如此依賴太空，"
+    "zh": "他们一直如此。",
+    "zh_hant": "他們一直如此。"
   },
   {
-    "index": 45,
-    "text": "We’re so dependent on space",
+    "index": 38,
+    "text": "We’re so dependent on space —",
     "start": 165.553,
-    "end": 168.86,
-    "zh": "从导航到地球观测再到互联网连接，",
-    "zh_hant": "從導航到地球觀測再到網際網路連線，"
+    "end": 168.81,
+    "zh": "我们如此依赖太空——",
+    "zh_hant": "我們如此依賴太空——"
   },
   {
-    "index": 46,
-    "text": "— from navigation to Earth observation to our internet connection",
-    "start": 168.46,
-    "end": 173.02,
+    "index": 39,
+    "text": "from navigation to Earth observation to our internet connection —",
+    "start": 168.575,
+    "end": 172.97,
+    "zh": "从导航到地球观测到互联网连接——",
+    "zh_hant": "從導航到地球觀測到網際網路連線——"
+  },
+  {
+    "index": 40,
+    "text": "that if one state becomes a bad actor,",
+    "start": 173.317,
+    "end": 177.959,
     "zh": "以至于如果某个国家成为不良行为者，",
     "zh_hant": "以至於如果某個國家成為不良行為者，"
   },
   {
-    "index": 47,
-    "text": "— that if one state becomes a bad actor,",
-    "start": 172.62,
-    "end": 177.959,
-    "zh": "可以说，我们所有人都会承受后果，包括不良行为者自己。",
-    "zh_hant": "可以說，我們所有人都會承受後果，包括不良行為者自己。"
-  },
-  {
-    "index": 48,
+    "index": 41,
     "text": "so to say, we will all suffer the consequences, including the bad actor themselves.",
     "start": 177.8,
     "end": 184.122,
-    "zh": "所以，正是这种对太空的内在需求把我们拉到谈判桌前，让这些讨论得以继续。",
-    "zh_hant": "所以，正是這種對太空的內在需求把我們拉到談判桌前，讓這些討論得以繼續。"
+    "zh": "可以说，我们所有人都会承受后果，包括那个不良行为者自己。",
+    "zh_hant": "可以說，我們所有人都會承受後果，包括那個不良行為者自己。"
   },
   {
-    "index": 49,
+    "index": 42,
     "text": "So it is that inherent need for space that brings us together to the table and allows for these discussions to continue.",
     "start": 184.283,
     "end": 190.606,
-    "zh": "尽管我必须说，我不想显得太乐观。",
-    "zh_hant": "儘管我必須說，我不想顯得太樂觀。"
+    "zh": "所以正是这种对太空的内在需求让我们坐到谈判桌前，让这些讨论得以继续。",
+    "zh_hant": "所以正是這種對太空的內在需求讓我們坐到談判桌前，讓這些討論得以繼續。"
   },
   {
-    "index": 50,
+    "index": 43,
     "text": "Although I have to say I don’t want to sound too optimistic here.",
     "start": 190.646,
     "end": 194.668,
-    "zh": "在五十年代和六十年代的谈判背后有一些自我保护因素。",
-    "zh_hant": "在五十年代和六十年代的談判背後有一些自我保護因素。"
+    "zh": "不过我得说，我不想听起来过于乐观。",
+    "zh_hant": "不過我得說，我不想聽起來過於樂觀。"
   },
   {
-    "index": 51,
+    "index": 44,
     "text": "There was some self-preservation behind the negotiations in the 50s and 60s.",
     "start": 194.488,
     "end": 200.811,
-    "zh": "那都是为了确保，因为我们不确定谁会先登上月球，",
-    "zh_hant": "那都是為了確保，因為我們不確定誰會先登上月球，"
+    "zh": "五六十年代的谈判背后有一些自我保护因素。",
+    "zh_hant": "五六十年代的談判背後有一些自我保護因素。"
   },
   {
-    "index": 52,
+    "index": 45,
     "text": "It was all about ensuring, because we weren’t sure who would get to the Moon first,",
     "start": 200.511,
     "end": 206.094,
-    "zh": "确保无论谁先到达，都不会突然拥有月球的权利。",
-    "zh_hant": "確保無論誰先到達，都不會突然擁有月球的權利。"
+    "zh": "一切都是为了确保，因为我们不确定谁会先到月球，",
+    "zh_hant": "一切都是為了確保，因為我們不確定誰會先到月球，"
   },
   {
-    "index": 53,
+    "index": 46,
     "text": "ensuring that whoever did would not suddenly have the rights to the Moon.",
     "start": 205.774,
     "end": 210.336,
-    "zh": "同时也是为了确保，如果我们把大规模杀伤性武器或核武器放到外太空，",
-    "zh_hant": "同時也是為了確保，如果我們把大規模殺傷性武器或核武器放到外太空，"
+    "zh": "确保无论谁先到，不会突然拥有月球的权利。",
+    "zh_hant": "確保無論誰先到，不會突然擁有月球的權利。"
   },
   {
-    "index": 54,
+    "index": 47,
     "text": "And also ensuring that, should we place weapons of mass destruction or nuclear weapons in outer space,",
     "start": 210.576,
     "end": 216.159,
-    "zh": "我们真的不知道对地球会带来什么后果。",
-    "zh_hant": "我們真的不知道對地球會帶來什麼後果。"
+    "zh": "同时也要确保，如果我们把大规模杀伤性武器或核武器放在太空，",
+    "zh_hant": "同時也要確保，如果我們把大規模殺傷性武器或核武器放在太空，"
   },
   {
-    "index": 55,
+    "index": 48,
     "text": "we really didn’t know what the consequences for Earth could be.",
     "start": 216.159,
     "end": 219.2,
-    "zh": "那会不会是我们所知的地球的终结？",
-    "zh_hant": "那會不會是我們所知的地球的終結？"
+    "zh": "我们真的不知道对地球会有什么后果。",
+    "zh_hant": "我們真的不知道對地球會有什麼後果。"
   },
   {
-    "index": 56,
+    "index": 49,
     "text": "Could that be the end of Earth as we know it?",
     "start": 219.06,
     "end": 221.541,
-    "zh": "所以归根结底，这是出于保护精神和自我保护。",
-    "zh_hant": "所以歸根結底，這是出於保護精神和自我保護。"
+    "zh": "那可能是我们所知地球的终结吗？",
+    "zh_hant": "那可能是我們所知地球的終結嗎？"
   },
   {
-    "index": 57,
+    "index": 50,
     "text": "So it was really this protective spirit and self-preservation at the end of the day.",
     "start": 221.782,
     "end": 226.704,
+    "zh": "所以归根结底，这真的是保护精神和自我保护。",
+    "zh_hant": "所以歸根結底，這真的是保護精神和自我保護。"
+  },
+  {
+    "index": 51,
+    "text": "Out of that era came five treaties.",
+    "start": 229.005,
+    "end": 231.326,
     "zh": "那个时代产生了五项条约。",
     "zh_hant": "那個時代產生了五項條約。"
   },
   {
-    "index": 58,
-    "text": "Out of that era came five treaties.",
-    "start": 229.005,
-    "end": 231.326,
-    "zh": "最基础的是1967年的《外层空间条约》。",
-    "zh_hant": "最基礎的是1967年的《外層空間條約》。"
-  },
-  {
-    "index": 59,
+    "index": 52,
     "text": "The foundational one is the Outer Space Treaty of 1967.",
     "start": 231.286,
     "end": 235.678,
-    "zh": "它规定太空属于所有人，任何国家不得在轨道上部署核武器。",
-    "zh_hant": "它規定太空屬於所有人，任何國家不得在軌道上部署核武器。"
+    "zh": "基础性的是1967年的《外层空间条约》。",
+    "zh_hant": "基礎性的是1967年的《外層空間條約》。"
   },
   {
-    "index": 60,
+    "index": 53,
     "text": "It states that space belongs to everyone, and that no country will place nuclear weapons in orbit.",
     "start": 235.728,
     "end": 241.311,
-    "zh": "一百一十八个国家批准了它，包括所有主要的太空国家。",
-    "zh_hant": "一百一十八個國家批准了它，包括所有主要的太空國家。"
+    "zh": "它规定太空属于所有人，任何国家都不会在轨道上放置核武器。",
+    "zh_hant": "它規定太空屬於所有人，任何國家都不會在軌道上放置核武器。"
   },
   {
-    "index": 61,
+    "index": 54,
     "text": "A hundred and eighteen countries ratified it, including every major spacefaring nation.",
     "start": 241.692,
     "end": 246.594,
-    "zh": "然后条约制定进程放缓了。",
-    "zh_hant": "然後條約制定程序放緩了。"
+    "zh": "一百一十八个国家批准了它，包括所有主要航天国家。",
+    "zh_hant": "一百一十八個國家批准了它，包括所有主要航天國家。"
   },
   {
-    "index": 62,
+    "index": 55,
     "text": "And then the treaty-making slowed down.",
     "start": 246.774,
     "end": 249.616,
-    "zh": "最后一项重要条约在1984年获批。",
-    "zh_hant": "最後一項重要條約在1984年獲批。"
+    "zh": "然后条约制定速度放慢了。",
+    "zh_hant": "然後條約制定速度放慢了。"
   },
   {
-    "index": 63,
+    "index": 56,
     "text": "The last big treaty was ratified in 1984.",
     "start": 249.676,
     "end": 253.868,
-    "zh": "尽管现在利用太空的人比那时多得多，包括私营参与者。",
-    "zh_hant": "儘管現在利用太空的人比那時多得多，包括私營參與者。"
+    "zh": "最后一个大条约是在1984年批准的。",
+    "zh_hant": "最後一個大條約是在1984年批准的。"
   },
   {
-    "index": 64,
+    "index": 57,
     "text": "Even though there are a lot more people making use of space now than there were then, including private actors.",
     "start": 253.918,
     "end": 259.841,
-    "zh": "我问霍夫曼为什么法律没有跟上。",
-    "zh_hant": "我問霍夫曼為什麼法律沒有跟上。"
+    "zh": "尽管现在使用太空的人比那时候多得多，包括私营企业。",
+    "zh_hant": "儘管現在使用太空的人比那時候多得多，包括私營企業。"
   },
   {
-    "index": 65,
+    "index": 58,
     "text": "I asked Hoffman why the law stopped keeping up.",
     "start": 260.041,
     "end": 262.862,
-    "zh": "这个问题问得很好，我也经常被问到。",
-    "zh_hant": "這個問題問得很好，我也經常被問到。"
+    "zh": "我问霍夫曼为什么法律没有跟上步伐。",
+    "zh_hant": "我問霍夫曼為什麼法律沒有跟上步伐。"
   },
   {
-    "index": 66,
+    "index": 59,
     "text": "It’s such a good question and I get it so often.",
     "start": 263.362,
     "end": 266.164,
-    "zh": "每次我的答案都略有不同，因为没有单一",
-    "zh_hant": "每次我的答案都略有不同，因為沒有單一"
+    "zh": "这是个很好的问题，我经常被问到。",
+    "zh_hant": "這是個很好的問題，我經常被問到。"
   },
   {
-    "index": 67,
-    "text": "And every time I think of a bit of a different answer because there is no one",
+    "index": 60,
+    "text": "And every time I think of a bit of a different answer because there is no one answer that fits to that question.",
     "start": 265.944,
-    "end": 270.786,
-    "zh": "答案能完全匹配这个问题。",
-    "zh_hant": "答案能完全匹配這個問題。"
+    "end": 272.467,
+    "zh": "每次我想到的答案都有点不同，因为没有单一答案能回答这个问题。",
+    "zh_hant": "每次我想到的答案都有點不同，因為沒有單一答案能回答這個問題。"
   },
   {
-    "index": 68,
-    "text": "answer that fits to that question.",
-    "start": 270.436,
-    "end": 272.467,
+    "index": 61,
+    "text": "The last treaty that was negotiated was the Moon Agreement.",
+    "start": 272.427,
+    "end": 275.848,
     "zh": "最后谈判的条约是《月球协定》。",
     "zh_hant": "最後談判的條約是《月球協定》。"
   },
   {
-    "index": 69,
-    "text": "The last treaty that was negotiated was the Moon Agreement.",
-    "start": 272.427,
-    "end": 275.848,
-    "zh": "即使是那个条约，有些人认为它是一个失败的条约，",
-    "zh_hant": "即使是那個條約，有些人認為它是一個失敗的條約，"
-  },
-  {
-    "index": 70,
-    "text": "And even that treaty, some consider being a failed treaty",
+    "index": 62,
+    "text": "And even that treaty, some consider being a failed treaty because it only has 17 ratifications.",
     "start": 275.749,
-    "end": 279.854,
-    "zh": "因为它只有17个国家批准。",
-    "zh_hant": "因為它只有17個國家批准。"
-  },
-  {
-    "index": 71,
-    "text": "because it only has 17 ratifications.",
-    "start": 279.504,
     "end": 282.943,
-    "zh": "对比一下有118个批准国的《外层空间条约》。",
-    "zh_hant": "對比一下有118個批准國的《外層空間條約》。"
+    "zh": "即使那个条约，有些人认为它是个失败的条约，因为它只有17个批准国。",
+    "zh_hant": "即使那個條約，有些人認為它是個失敗的條約，因為它只有17個批准國。"
   },
   {
-    "index": 72,
+    "index": 63,
     "text": "Compare the Outer Space Treaty with 118.",
     "start": 282.593,
     "end": 287.73,
-    "zh": "比较《外层空间条约》与118。",
-    "zh_hant": "比較《外層空間條約》與118。"
+    "zh": "对比一下有118个批准国的《外层空间条约》。",
+    "zh_hant": "對比一下有118個批准國的《外層空間條約》。"
   }
 ]

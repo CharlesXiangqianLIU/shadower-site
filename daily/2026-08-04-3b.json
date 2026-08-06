@@ -4,8 +4,8 @@
     "text": "Our story today is called \"Rappaccini’s Daughter.\"",
     "start": 18.051,
     "end": 21.832,
-    "zh": "我们今天的故事叫《拉帕奇尼的女儿》。",
-    "zh_hant": "我們今天的故事叫《拉帕奇尼的女兒》。"
+    "zh": "我们今天的故事叫做《拉帕奇尼的女儿》。",
+    "zh_hant": "我們今天的故事叫做《拉帕奇尼的女兒》。"
   },
   {
     "index": 1,
@@ -41,27 +41,27 @@
   },
   {
     "index": 5,
-    "text": "a young man named Giovanni Guasconti",
+    "text": "a young man named Giovanni Guasconti left his home in Naples",
     "start": 49.106,
-    "end": 52.367,
-    "zh": "一个名叫乔瓦尼·瓜斯孔蒂的年轻人",
-    "zh_hant": "一個名叫喬瓦尼·瓜斯孔蒂的年輕人"
+    "end": 54.648,
+    "zh": "一个名叫乔瓦尼·瓜斯孔蒂的年轻人离开了他在那不勒斯的家",
+    "zh_hant": "一個名叫喬瓦尼·瓜斯孔蒂的年輕人離開了他在那不勒斯的家"
   },
   {
     "index": 6,
-    "text": "left his home in Naples to study in northern Italy.",
-    "start": 52.588,
+    "text": "to study in northern Italy.",
+    "start": 54.889,
     "end": 57.45,
-    "zh": "离开他在那不勒斯的家，到意大利北部去学习。",
-    "zh_hant": "離開他在那不勒斯的家，到義大利北部去學習。"
+    "zh": "去意大利北部求学。",
+    "zh_hant": "去義大利北部求學。"
   },
   {
     "index": 7,
     "text": "He rented a small room on the top floor of a dark and ancient palace.",
     "start": 58.07,
     "end": 64.473,
-    "zh": "他租了一间位于一座黑暗而古老宫殿顶层的小房间。",
-    "zh_hant": "他租了一間位於一座黑暗而古老宮殿頂層的小房間。"
+    "zh": "他在一座古老而阴暗的宫殿顶层租了一个小房间。",
+    "zh_hant": "他在一座古老而陰暗的宮殿頂層租了一個小房間。"
   },
   {
     "index": 8,
@@ -76,16 +76,16 @@
     "text": "Now, an old woman, Signora Lisabetta, rented its rooms",
     "start": 70.637,
     "end": 76.759,
-    "zh": "现在，一位老妇人，莉莎贝塔夫人，把房间租给",
-    "zh_hant": "現在，一位老婦人，莉莎貝塔夫人，把房間租給"
+    "zh": "现在，一位老妇人，莉莎贝塔夫人，把它的房间租给",
+    "zh_hant": "現在，一位老婦人，莉莎貝塔夫人，把它的房間租給"
   },
   {
     "index": 10,
     "text": "to students at the University of Padua.",
     "start": 76.409,
     "end": 79.941,
-    "zh": "帕多瓦大学的学生们。",
-    "zh_hant": "帕多瓦大學的學生們。"
+    "zh": "帕多瓦大学的学生。",
+    "zh_hant": "帕多瓦大學的學生。"
   },
   {
     "index": 11,
@@ -97,30 +97,22 @@
   },
   {
     "index": 12,
-    "text": "From it he could see a large garden that had many plants",
+    "text": "From it he could see a large garden that had many plants and flowers.",
     "start": 84.764,
-    "end": 90.126,
-    "zh": "从那里他可以看到一个长满许多植物的大花园，",
-    "zh_hant": "從那裡他可以看到一個長滿許多植物的大花園，"
+    "end": 91.427,
+    "zh": "从那里他可以看到一个种满花草的大花园。",
+    "zh_hant": "從那裡他可以看到一個種滿花草的大花園。"
   },
   {
     "index": 13,
-    "text": "and flowers.",
-    "start": 90.106,
-    "end": 91.427,
-    "zh": "还有各种花卉。",
-    "zh_hant": "還有各種花卉。"
-  },
-  {
-    "index": 14,
     "text": "“Does the garden belong to you?”",
     "start": 92.207,
     "end": 94.608,
-    "zh": "“这个花园是您的吗？”",
-    "zh_hant": "“這個花園是您的嗎？”"
+    "zh": "“这个花园是你的吗？”",
+    "zh_hant": "“這個花園是你的嗎？”"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "he asked Signora Lisabetta one day.",
     "start": 95.229,
     "end": 98.651,
@@ -128,23 +120,23 @@
     "zh_hant": "有一天他問莉莎貝塔夫人。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "“Oh no!”",
     "start": 99.531,
     "end": 100.352,
-    "zh": "“哦不！”",
-    "zh_hant": "“哦不！”"
+    "zh": "“哦，不是！”",
+    "zh_hant": "“哦，不是！”"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "she said quickly.",
     "start": 100.892,
     "end": 102.152,
-    "zh": "她迅速说道。",
-    "zh_hant": "她迅速說道。"
+    "zh": "她很快地说。",
+    "zh_hant": "她很快地說。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "“That garden belongs to the famous doctor, Giacomo Rappaccini.",
     "start": 102.733,
     "end": 108.636,
@@ -152,7 +144,7 @@
     "zh_hant": "“那個花園屬於著名的醫生賈科莫·拉帕奇尼。"
   },
   {
-    "index": 19,
+    "index": 18,
     "text": "People say he uses those plants to make strange kinds of medicine.",
     "start": 109.216,
     "end": 115.179,
@@ -160,7 +152,7 @@
     "zh_hant": "人們說他用那些植物製作奇怪的藥物。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "He lives in that small brown house in the garden with his daughter, Beatrice.”",
     "start": 115.419,
     "end": 120.662,
@@ -168,15 +160,15 @@
     "zh_hant": "他和他的女兒比阿特麗斯住在花園裡那棟棕色的小房子裡。”"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Giovanni often sat by his window to look at the garden.",
     "start": 122.323,
     "end": 126.084,
-    "zh": "乔瓦尼经常坐在窗边看那个花园。",
-    "zh_hant": "喬瓦尼經常坐在窗邊看那個花園。"
+    "zh": "乔瓦尼常常坐在窗边看花园。",
+    "zh_hant": "喬瓦尼常常坐在窗邊看花園。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "He had never seen so many different kinds of plants.",
     "start": 126.625,
     "end": 130.366,
@@ -184,23 +176,15 @@
     "zh_hant": "他從未見過這麼多不同種類的植物。"
   },
   {
-    "index": 23,
-    "text": "They all had enormous green leaves",
+    "index": 22,
+    "text": "They all had enormous green leaves and magnificent flowers in every color of the rainbow.",
     "start": 130.967,
-    "end": 134.028,
-    "zh": "它们都有巨大的绿叶",
-    "zh_hant": "它們都有巨大的綠葉"
-  },
-  {
-    "index": 24,
-    "text": "and magnificent flowers in every color of the rainbow.",
-    "start": 133.988,
     "end": 138.111,
-    "zh": "和彩虹般各种颜色的绚丽花朵。",
-    "zh_hant": "和彩虹般各種顏色的絢麗花朵。"
+    "zh": "它们都有巨大的绿叶和彩虹般各种颜色的美丽花朵。",
+    "zh_hant": "它們都有巨大的綠葉和彩虹般各種顏色的美麗花朵。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Giovanni’s favorite plant was in a white marble vase near the house.",
     "start": 139.151,
     "end": 145.514,
@@ -208,63 +192,63 @@
     "zh_hant": "喬瓦尼最喜歡的植物放在房子附近的一個白色大理石花盆裡。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "It was covered with big purple flowers.",
     "start": 145.735,
     "end": 148.936,
-    "zh": "上面开满了大朵的紫色花。",
-    "zh_hant": "上面開滿了大朵的紫色花。"
+    "zh": "它开满了大朵的紫色花。",
+    "zh_hant": "它開滿了大朵的紫色花。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "One day, while Giovani was looking out his window,",
     "start": 150.337,
     "end": 154.198,
-    "zh": "有一天，当乔瓦尼正从窗户往外看时，",
-    "zh_hant": "有一天，當喬瓦尼正從窗戶往外看時，"
+    "zh": "有一天，当乔瓦尼正从窗口往外看时，",
+    "zh_hant": "有一天，當喬瓦尼正從視窗往外看時，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "he saw an old man in a black cape walking in the garden.",
     "start": 154.699,
     "end": 159.821,
-    "zh": "他看到一个穿黑色斗篷的老人在花园里走动。",
-    "zh_hant": "他看到一個穿黑色斗篷的老人在花園裡走動。"
+    "zh": "他看见一个穿着黑色斗篷的老人在花园里走动。",
+    "zh_hant": "他看見一個穿著黑色斗篷的老人在花園裡走動。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "The old man was tall and thin.",
     "start": 160.362,
     "end": 163.703,
-    "zh": "那位老人又高又瘦。",
-    "zh_hant": "那位老人又高又瘦。"
+    "zh": "那个老人又高又瘦。",
+    "zh_hant": "那個老人又高又瘦。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "His face was an unhealthy yellow color.",
     "start": 164.444,
     "end": 168.125,
-    "zh": "他的脸色是一种不健康的黄色。",
-    "zh_hant": "他的臉色是一種不健康的黃色。"
+    "zh": "他的脸色是不健康的黄色。",
+    "zh_hant": "他的臉色是不健康的黃色。"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "His black eyes were very cold.",
     "start": 168.926,
     "end": 172.147,
-    "zh": "他的黑眼睛非常冷漠。",
-    "zh_hant": "他的黑眼睛非常冷漠。"
+    "zh": "他的黑眼睛非常冷。",
+    "zh_hant": "他的黑眼睛非常冷。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "The old man wore thick gloves on his hands",
     "start": 173.328,
     "end": 177.49,
-    "zh": "老人手上戴着厚手套，",
-    "zh_hant": "老人手上戴著厚手套，"
+    "zh": "老人手上戴着厚厚的手套",
+    "zh_hant": "老人手上戴著厚厚的手套"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "and a mask over his mouth and nose.",
     "start": 178.071,
     "end": 181.452,
@@ -272,15 +256,15 @@
     "zh_hant": "嘴上和鼻子上戴著口罩。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "He walked carefully among the plants,",
     "start": 182.293,
     "end": 184.994,
-    "zh": "他在植物间小心翼翼地走着，",
-    "zh_hant": "他在植物間小心翼翼地走著，"
+    "zh": "他在植物间小心地走着，",
+    "zh_hant": "他在植物間小心地走著，"
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "as if he were walking among wild animals or poisonous snakes.",
     "start": 185.615,
     "end": 190.517,
@@ -288,47 +272,39 @@
     "zh_hant": "彷彿走在野獸或毒蛇中間。"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "Although he looked at the flowers very closely,",
     "start": 191.738,
     "end": 195.119,
-    "zh": "尽管他非常仔细地看着那些花，",
-    "zh_hant": "儘管他非常仔細地看著那些花，"
+    "zh": "虽然他非常仔细地看着花朵，",
+    "zh_hant": "雖然他非常仔細地看著花朵，"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "he did not touch or smell any of them.",
     "start": 195.84,
     "end": 199.662,
-    "zh": "但他没有触摸或闻任何一朵。",
-    "zh_hant": "但他沒有觸控或聞任何一朵。"
+    "zh": "他没有碰或闻其中任何一朵。",
+    "zh_hant": "他沒有碰或聞其中任何一朵。"
   },
   {
-    "index": 38,
-    "text": "When the old man arrived at the plant with the big purple flowers,",
+    "index": 36,
+    "text": "When the old man arrived at the plant with the big purple flowers, he stopped.",
     "start": 201.263,
-    "end": 206.605,
-    "zh": "当老人走到那棵开有大朵紫色花的植物前时，",
-    "zh_hant": "當老人走到那棵開有大朵紫色花的植物前時，"
-  },
-  {
-    "index": 39,
-    "text": "he stopped.",
-    "start": 206.885,
     "end": 208.046,
-    "zh": "他停了下来。",
-    "zh_hant": "他停了下來。"
+    "zh": "当老人走到那株开满紫色大花的植物旁时，他停下了。",
+    "zh_hant": "當老人走到那株開滿紫色大花的植物旁時，他停下了。"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "He took off his mask and called loudly, “Beatrice!",
     "start": 208.646,
     "end": 214.509,
-    "zh": "他摘下口罩，大声喊道：“比阿特丽斯！",
-    "zh_hant": "他摘下口罩，大聲喊道：“比阿特麗斯！"
+    "zh": "他摘下口罩大声喊道：“比阿特丽斯！",
+    "zh_hant": "他摘下口罩大聲喊道：“比阿特麗斯！"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "Come help me!”",
     "start": 214.869,
     "end": 216.11,
@@ -336,7 +312,7 @@
     "zh_hant": "來幫我！”"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "“I am coming, Father.",
     "start": 217.691,
     "end": 219.271,
@@ -344,7 +320,7 @@
     "zh_hant": "“我來了，父親。"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "What do you want?”",
     "start": 219.752,
     "end": 221.092,
@@ -352,31 +328,31 @@
     "zh_hant": "你想要什麼？”"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "answered a warm young voice from inside the house.",
     "start": 221.633,
     "end": 225.734,
-    "zh": "屋里传来一个温暖的年轻声音回应道。",
-    "zh_hant": "屋裡傳來一個溫暖的年輕聲音回應道。"
+    "zh": "房子里传来一个温暖的年轻声音回答道。",
+    "zh_hant": "房子裡傳來一個溫暖的年輕聲音回答道。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "A young woman came into the garden.",
     "start": 226.895,
     "end": 229.256,
-    "zh": "一位年轻女子走进了花园。",
-    "zh_hant": "一位年輕女子走進了花園。"
+    "zh": "一个年轻女子走进了花园。",
+    "zh_hant": "一個年輕女子走進了花園。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "Her thick, dark hair fell around her shoulders in curls.",
     "start": 229.757,
     "end": 233.998,
-    "zh": "她浓密的黑发卷曲着垂在肩头。",
-    "zh_hant": "她濃密的黑髮捲曲著垂在肩頭。"
+    "zh": "她浓密乌黑的头发卷着垂在肩上。",
+    "zh_hant": "她濃密烏黑的頭髮卷著垂在肩上。"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Her cheeks were pink and her eyes were large and black.",
     "start": 234.319,
     "end": 239.361,
@@ -384,63 +360,55 @@
     "zh_hant": "她的臉頰粉紅，眼睛又大又黑。"
   },
   {
-    "index": 48,
+    "index": 45,
     "text": "She seemed full of life, health and energy as she walked among the plants.",
     "start": 240.242,
     "end": 246.604,
-    "zh": "她在植物间走动时，显得充满活力、健康和精力。",
-    "zh_hant": "她在植物間走動時，顯得充滿活力、健康和精力。"
+    "zh": "她在植物间走动时，显得充满活力、健康和朝气。",
+    "zh_hant": "她在植物間走動時，顯得充滿活力、健康和朝氣。"
   },
   {
-    "index": 49,
+    "index": 46,
     "text": "Giovanni thought she was as beautiful as the purple flowers in the marble vase.",
     "start": 247.325,
     "end": 252.908,
-    "zh": "乔瓦尼觉得她和白色大理石花盆里的紫色花朵一样美丽。",
-    "zh_hant": "喬瓦尼覺得她和白色大理石花盆裡的紫色花朵一樣美麗。"
+    "zh": "乔瓦尼觉得她就像大理石花盆里那些紫色的花一样美丽。",
+    "zh_hant": "喬瓦尼覺得她就像大理石花盆裡那些紫色的花一樣美麗。"
   },
   {
-    "index": 50,
+    "index": 47,
     "text": "The old man said something to her.",
     "start": 253.888,
     "end": 257.45,
-    "zh": "老人对她说了些什么。",
-    "zh_hant": "老人對她說了些什麼。"
+    "zh": "老人对她说了什么。",
+    "zh_hant": "老人對她說了什麼。"
   },
   {
-    "index": 51,
+    "index": 48,
     "text": "She nodded her head as she touched and smelled the flowers",
     "start": 258.131,
     "end": 262.953,
-    "zh": "她点点头，同时触摸并闻着那些花朵，",
-    "zh_hant": "她點點頭，同時觸控並聞著那些花朵，"
+    "zh": "她点点头，同时触摸并闻着那些花，",
+    "zh_hant": "她點點頭，同時觸控並聞著那些花，"
   },
   {
-    "index": 52,
+    "index": 49,
     "text": "that her father had been so careful to avoid.",
     "start": 263.373,
     "end": 267.195,
-    "zh": "那些她父亲一直小心翼翼避开的鲜花。",
-    "zh_hant": "那些她父親一直小心翼翼避開的鮮花。"
+    "zh": "那些她父亲小心翼翼避开的。",
+    "zh_hant": "那些她父親小心翼翼避開的。"
   },
   {
-    "index": 53,
-    "text": "Several weeks later, Giovanni went to visit Pietro Baglioni,",
+    "index": 50,
+    "text": "Several weeks later, Giovanni went to visit Pietro Baglioni, a friend of his father’s.",
     "start": 268.816,
-    "end": 273.578,
-    "zh": "几周后，乔瓦尼去拜访彼得罗·巴廖尼，",
-    "zh_hant": "幾周後，喬瓦尼去拜訪彼得羅·巴廖尼，"
-  },
-  {
-    "index": 54,
-    "text": "a friend of his father’s.",
-    "start": 273.578,
     "end": 275.639,
-    "zh": "他父亲的一位朋友。",
-    "zh_hant": "他父親的一位朋友。"
+    "zh": "几个星期后，乔瓦尼去拜访他父亲的朋友彼得罗·巴廖尼。",
+    "zh_hant": "幾個星期後，喬瓦尼去拜訪他父親的朋友彼得羅·巴廖尼。"
   },
   {
-    "index": 55,
+    "index": 51,
     "text": "Professor Baglioni taught medicine at the university.",
     "start": 276.019,
     "end": 279.861,
@@ -448,31 +416,31 @@
     "zh_hant": "巴廖尼教授在大學教醫學。"
   },
   {
-    "index": 56,
+    "index": 52,
     "text": "During the visit, Giovanni asked about Doctor Rappaccini.",
     "start": 280.602,
     "end": 285.204,
-    "zh": "在拜访期间，乔瓦尼问起了拉帕奇尼医生。",
-    "zh_hant": "在拜訪期間，喬瓦尼問起了拉帕奇尼醫生。"
+    "zh": "拜访期间，乔瓦尼问起了拉帕奇尼医生。",
+    "zh_hant": "拜訪期間，喬瓦尼問起了拉帕奇尼醫生。"
   },
   {
-    "index": 57,
+    "index": 53,
     "text": "“He is a great scientist,” Professor Baglioni replied.",
     "start": 286.124,
     "end": 290.766,
-    "zh": "“他是一位伟大的科学家，”巴廖尼教授回答说。",
-    "zh_hant": "“他是一位偉大的科學家，”巴廖尼教授回答說。"
+    "zh": "“他是位伟大的科学家，”巴廖尼教授回答说。",
+    "zh_hant": "“他是位偉大的科學家，”巴廖尼教授回答說。"
   },
   {
-    "index": 58,
+    "index": 54,
     "text": "“But he is also a dangerous man.”",
     "start": 290.987,
     "end": 294.448,
-    "zh": "“但他也是一个危险的人。”",
-    "zh_hant": "“但他也是一個危險的人。”"
+    "zh": "“但他也是个危险的人。”",
+    "zh_hant": "“但他也是個危險的人。”"
   },
   {
-    "index": 59,
+    "index": 55,
     "text": "“Why?”",
     "start": 295.409,
     "end": 296.229,
@@ -480,7 +448,7 @@
     "zh_hant": "“為什麼？”"
   },
   {
-    "index": 60,
+    "index": 56,
     "text": "asked Giovanni.",
     "start": 296.75,
     "end": 298.031,
@@ -488,7 +456,7 @@
     "zh_hant": "喬瓦尼問道。"
   },
   {
-    "index": 61,
+    "index": 57,
     "text": "The older man shook his head slowly.",
     "start": 298.811,
     "end": 301.412,
@@ -496,23 +464,15 @@
     "zh_hant": "老人慢慢搖了搖頭。"
   },
   {
-    "index": 62,
-    "text": "“Because Rappaccini cares more about science",
+    "index": 58,
+    "text": "“Because Rappaccini cares more about science than he does about people.",
     "start": 302.073,
-    "end": 306.715,
-    "zh": "“因为拉帕奇尼更关心科学",
-    "zh_hant": "“因為拉帕奇尼更關心科學"
-  },
-  {
-    "index": 63,
-    "text": "than he does about people.",
-    "start": 306.715,
     "end": 309.096,
-    "zh": "而不是关心人。",
-    "zh_hant": "而不是關心人。"
+    "zh": "“因为拉帕奇尼更关心科学而不是人。",
+    "zh_hant": "“因為拉帕奇尼更關心科學而不是人。"
   },
   {
-    "index": 64,
+    "index": 59,
     "text": "He has created many terrible poisons from the plants in his garden.",
     "start": 309.897,
     "end": 315.139,
@@ -520,39 +480,39 @@
     "zh_hant": "他用花園裡的植物製造了許多可怕的毒藥。"
   },
   {
-    "index": 65,
+    "index": 60,
     "text": "He thinks he can cure sickness with these poisons.",
     "start": 315.84,
     "end": 320.361,
-    "zh": "他以为用这些毒药可以治愈疾病。",
-    "zh_hant": "他以為用這些毒藥可以治癒疾病。"
+    "zh": "他认为他可以用这些毒药治病。",
+    "zh_hant": "他認為他可以用這些毒藥治病。"
   },
   {
-    "index": 66,
+    "index": 61,
     "text": "It is true that several times he has cured a very sick person",
     "start": 321.262,
     "end": 326.705,
-    "zh": "确实，有几次他治好了一个病得很重的人，",
-    "zh_hant": "確實，有幾次他治好了一個病得很重的人，"
+    "zh": "确实，有几次他治好了一个非常病重的人，",
+    "zh_hant": "確實，有幾次他治好了一個非常病重的人，"
   },
   {
-    "index": 67,
+    "index": 62,
     "text": "that everyone thought would die.",
     "start": 326.825,
     "end": 329.426,
-    "zh": "那个人大家都以为会死。",
-    "zh_hant": "那個人大家都以為會死。"
+    "zh": "一个大家都以为会死的人。",
+    "zh_hant": "一個大家都以為會死的人。"
   },
   {
-    "index": 68,
+    "index": 63,
     "text": "But Rappaccini’s medicine has also killed many people.",
     "start": 330.407,
     "end": 335.569,
-    "zh": "但拉帕奇尼的药也害死了很多人。",
-    "zh_hant": "但拉帕奇尼的藥也害死了很多人。"
+    "zh": "但拉帕奇尼的药也杀死了很多人。",
+    "zh_hant": "但拉帕奇尼的藥也殺死了很多人。"
   },
   {
-    "index": 69,
+    "index": 64,
     "text": "I think he would sacrifice any life,",
     "start": 336.65,
     "end": 339.631,
@@ -560,23 +520,23 @@
     "zh_hant": "我覺得他願意犧牲任何生命，"
   },
   {
-    "index": 70,
+    "index": 65,
     "text": "even his own, for one of his experiments.”",
     "start": 340.012,
     "end": 344.114,
-    "zh": "甚至他自己的生命，来换取一次实验。”",
-    "zh_hant": "甚至他自己的生命，來換取一次實驗。”"
+    "zh": "甚至他自己的生命，来做实验。”",
+    "zh_hant": "甚至他自己的生命，來做實驗。”"
   },
   {
-    "index": 71,
+    "index": 66,
     "text": "“But what about his daughter?”",
     "start": 345.695,
     "end": 347.996,
-    "zh": "“那他的女儿呢？”",
-    "zh_hant": "“那他的女兒呢？”"
+    "zh": "“但他的女儿呢？”",
+    "zh_hant": "“但他的女兒呢？”"
   },
   {
-    "index": 72,
+    "index": 67,
     "text": "Giovanni said.",
     "start": 348.236,
     "end": 349.596,
@@ -584,15 +544,15 @@
     "zh_hant": "喬瓦尼說。"
   },
   {
-    "index": 73,
+    "index": 68,
     "text": "“I’m sure he loves her.”",
     "start": 350.257,
     "end": 352.018,
-    "zh": "“我相信他爱她。”",
-    "zh_hant": "“我相信他愛她。”"
+    "zh": "“我确信他爱她。”",
+    "zh_hant": "“我確信他愛她。”"
   },
   {
-    "index": 74,
+    "index": 69,
     "text": "The old professor smiled at the young man.",
     "start": 353.218,
     "end": 356.24,
@@ -600,31 +560,31 @@
     "zh_hant": "老教授對年輕人笑了笑。"
   },
   {
-    "index": 75,
+    "index": 70,
     "text": "“So,” he said, “You have heard about Beatrice Rappaccini.",
     "start": 356.94,
     "end": 362.303,
-    "zh": "“这么说，”他说，“你听说过比阿特丽斯·拉帕奇尼。",
-    "zh_hant": "“這麼說，”他說，“你聽說過比阿特麗斯·拉帕奇尼。"
+    "zh": "“这么说，”他说，“你已经听说过比阿特丽斯·拉帕奇尼了。",
+    "zh_hant": "“這麼說，”他說，“你已經聽說過比阿特麗斯·拉帕奇尼了。"
   },
   {
-    "index": 76,
+    "index": 71,
     "text": "People say she is very beautiful.",
     "start": 362.983,
     "end": 365.784,
-    "zh": "人们说她非常漂亮。",
-    "zh_hant": "人們說她非常漂亮。"
+    "zh": "人们说她很漂亮。",
+    "zh_hant": "人們說她很漂亮。"
   },
   {
-    "index": 77,
+    "index": 72,
     "text": "But few men in Padua have ever seen her.",
     "start": 366.665,
     "end": 369.626,
-    "zh": "但帕多瓦很少有男人见过她。",
-    "zh_hant": "但帕多瓦很少有男人見過她。"
+    "zh": "但在帕多瓦很少有人见过她。",
+    "zh_hant": "但在帕多瓦很少有人見過她。"
   },
   {
-    "index": 78,
+    "index": 73,
     "text": "She never leaves her father’s garden.”",
     "start": 370.207,
     "end": 373.028,
@@ -632,31 +592,23 @@
     "zh_hant": "她從不離開她父親的花園。”"
   },
   {
-    "index": 79,
-    "text": "Giovanni left professor Baglione’s house",
+    "index": 74,
+    "text": "Giovanni left professor Baglione’s house as the sun was setting.",
     "start": 372.678,
-    "end": 378.031,
-    "zh": "乔瓦尼离开了巴廖尼教授的家，",
-    "zh_hant": "喬瓦尼離開了巴廖尼教授的家，"
-  },
-  {
-    "index": 80,
-    "text": "as the sun was setting.",
-    "start": 378.491,
     "end": 380.152,
-    "zh": "当时太阳正在落山。",
-    "zh_hant": "當時太陽正在落山。"
+    "zh": "乔瓦尼在日落时离开巴廖尼教授的家。",
+    "zh_hant": "喬瓦尼在日落時離開巴廖尼教授的家。"
   },
   {
-    "index": 81,
+    "index": 75,
     "text": "On his way home, he stopped at a flower shop where he bought some fresh flowers.",
     "start": 380.713,
     "end": 386.775,
-    "zh": "在回家的路上，他在一家花店停下来，买了一些鲜花。",
-    "zh_hant": "在回家的路上，他在一家花店停下來，買了一些鮮花。"
+    "zh": "在回家的路上，他在一家花店停下来买了一些鲜花。",
+    "zh_hant": "在回家的路上，他在一家花店停下來買了一些鮮花。"
   },
   {
-    "index": 82,
+    "index": 76,
     "text": "He returned to his room and sat by the window.",
     "start": 387.476,
     "end": 391.297,
@@ -664,15 +616,15 @@
     "zh_hant": "他回到房間，坐在窗邊。"
   },
   {
-    "index": 83,
+    "index": 77,
     "text": "Very little sunlight was left.",
     "start": 392.538,
     "end": 394.999,
-    "zh": "剩下的阳光很少了。",
-    "zh_hant": "剩下的陽光很少了。"
+    "zh": "阳光所剩无几。",
+    "zh_hant": "陽光所剩無幾。"
   },
   {
-    "index": 84,
+    "index": 78,
     "text": "The garden was quiet.",
     "start": 395.38,
     "end": 397.581,
@@ -680,31 +632,23 @@
     "zh_hant": "花園很安靜。"
   },
   {
-    "index": 85,
-    "text": "The purple flowers on Giovanni’s favorite plant",
+    "index": 79,
+    "text": "The purple flowers on Giovanni’s favorite plant seemed to glow in the evening’s fading light.",
     "start": 398.341,
-    "end": 402.103,
-    "zh": "乔瓦尼最喜欢的植物上的紫色花朵",
-    "zh_hant": "喬瓦尼最喜歡的植物上的紫色花朵"
-  },
-  {
-    "index": 86,
-    "text": "seemed to glow in the evening’s fading light.",
-    "start": 402.303,
     "end": 405.624,
-    "zh": "在傍晚的余晖中似乎在发光。",
-    "zh_hant": "在傍晚的餘暉中似乎在發光。"
+    "zh": "乔瓦尼最喜欢的植物上的紫色花朵似乎在暮色中发光。",
+    "zh_hant": "喬瓦尼最喜歡的植物上的紫色花朵似乎在暮色中發光。"
   },
   {
-    "index": 87,
+    "index": 80,
     "text": "Then someone came out of the doorway of the little brown house.",
     "start": 406.825,
     "end": 412.548,
-    "zh": "然后有人从棕色小屋的门口走了出来。",
-    "zh_hant": "然後有人從棕色小屋的門口走了出來。"
+    "zh": "然后有人从小棕色房子的门口走了出来。",
+    "zh_hant": "然後有人從小棕色房子的門口走了出來。"
   },
   {
-    "index": 88,
+    "index": 81,
     "text": "It was Beatrice.",
     "start": 413.689,
     "end": 415.289,
@@ -712,39 +656,39 @@
     "zh_hant": "是比阿特麗斯。"
   },
   {
-    "index": 89,
+    "index": 82,
     "text": "She entered the garden and walked among the plants.",
     "start": 416.25,
     "end": 420.192,
-    "zh": "她走进花园，在植物间走动。",
-    "zh_hant": "她走進花園，在植物間走動。"
+    "zh": "她走进花园，在植物间走着。",
+    "zh_hant": "她走進花園，在植物間走著。"
   },
   {
-    "index": 90,
+    "index": 83,
     "text": "She bent to touch the leaves of a plant or to smell a flower.",
     "start": 420.893,
     "end": 425.715,
-    "zh": "她弯腰去触摸植物的叶子，或去闻一朵花。",
-    "zh_hant": "她彎腰去觸控植物的葉子，或去聞一朵花。"
+    "zh": "她弯下腰去触碰一株植物的叶子或闻一朵花。",
+    "zh_hant": "她彎下腰去觸碰一株植物的葉子或聞一朵花。"
   },
   {
-    "index": 91,
+    "index": 84,
     "text": "Rappaccini’s daughter seemed to grow more beautiful with each step.",
     "start": 426.856,
     "end": 432.298,
-    "zh": "拉帕奇尼的女儿似乎每走一步都变得更加美丽。",
-    "zh_hant": "拉帕奇尼的女兒似乎每走一步都變得更加美麗。"
+    "zh": "拉帕奇尼的女儿每走一步似乎都变得更美。",
+    "zh_hant": "拉帕奇尼的女兒每走一步似乎都變得更美。"
   },
   {
-    "index": 92,
+    "index": 85,
     "text": "When she reached the purple plant, she buried her face in its flowers.",
     "start": 433.539,
     "end": 438.401,
-    "zh": "当她走到紫色植物前时，她把脸埋进花朵里。",
-    "zh_hant": "當她走到紫色植物前時，她把臉埋進花朵裡。"
+    "zh": "当她走到那株紫色植物旁时，她把脸埋进了花丛中。",
+    "zh_hant": "當她走到那株紫色植物旁時，她把臉埋進了花叢中。"
   },
   {
-    "index": 93,
+    "index": 86,
     "text": "Giovanni heard her say “Give me your breath, my sister.",
     "start": 438.762,
     "end": 443.704,
@@ -752,15 +696,15 @@
     "zh_hant": "喬瓦尼聽到她說：“給我你的氣息，我的姐妹。"
   },
   {
-    "index": 94,
+    "index": 87,
     "text": "The ordinary air makes me weak.",
     "start": 444.044,
     "end": 446.606,
-    "zh": "普通的空气让我虚弱。",
-    "zh_hant": "普通的空氣讓我虛弱。"
+    "zh": "普通空气使我虚弱。",
+    "zh_hant": "普通空氣使我虛弱。"
   },
   {
-    "index": 95,
+    "index": 88,
     "text": "And give me one of your beautiful flowers.”",
     "start": 447.246,
     "end": 450.527,
@@ -768,7 +712,7 @@
     "zh_hant": "再給我一朵你美麗的花。”"
   },
   {
-    "index": 96,
+    "index": 89,
     "text": "Beatrice gently broke off one of the largest flowers.",
     "start": 451.468,
     "end": 455.31,
@@ -776,55 +720,55 @@
     "zh_hant": "比阿特麗斯輕輕摘下一朵最大的花。"
   },
   {
-    "index": 97,
+    "index": 90,
     "text": "As she lifted it to put it in her dark hair,",
     "start": 455.951,
     "end": 459.652,
-    "zh": "当她举起花要放进自己乌黑的头发里时，",
-    "zh_hant": "當她舉起花要放進自己烏黑的頭髮裡時，"
+    "zh": "当她举起它要插进黑发里时，",
+    "zh_hant": "當她舉起它要插進黑髮裡時，"
   },
   {
-    "index": 98,
+    "index": 91,
     "text": "a few drops of liquid from the flower fell to the ground.",
     "start": 460.093,
     "end": 465.475,
-    "zh": "几滴从花上滴下的液体落到了地上。",
-    "zh_hant": "幾滴從花上滴下的液體落到了地上。"
+    "zh": "几滴花上的液体落到了地上。",
+    "zh_hant": "幾滴花上的液體落到了地上。"
   },
   {
-    "index": 99,
+    "index": 92,
     "text": "One of the drops landed on the head of a tiny lizard",
     "start": 466.656,
     "end": 471.358,
-    "zh": "其中一滴落在一只小蜥蜴的头上，",
-    "zh_hant": "其中一滴落在一隻小蜥蜴的頭上，"
+    "zh": "其中一滴正好落在一只小蜥蜴的头上，",
+    "zh_hant": "其中一滴正好落在一隻小蜥蜴的頭上，"
   },
   {
-    "index": 100,
+    "index": 93,
     "text": "crawling near the feet of Beatrice.",
     "start": 471.898,
     "end": 474.519,
-    "zh": "它正在比阿特丽斯脚边爬行。",
-    "zh_hant": "它正在比阿特麗斯腳邊爬行。"
+    "zh": "它正爬在比阿特丽斯脚边。",
+    "zh_hant": "它正爬在比阿特麗斯腳邊。"
   },
   {
-    "index": 101,
+    "index": 94,
     "text": "For a moment the small animal twisted violently.",
     "start": 475.4,
     "end": 479.382,
-    "zh": "一瞬间，这个小动物剧烈地扭动了一下。",
-    "zh_hant": "一瞬間，這個小動物劇烈地扭動了一下。"
+    "zh": "那一瞬间，小动物猛烈地扭动着。",
+    "zh_hant": "那一瞬間，小動物猛烈地扭動著。"
   },
   {
-    "index": 102,
+    "index": 95,
     "text": "Then it moved no more.",
     "start": 479.862,
     "end": 482.483,
-    "zh": "然后它就不动了。",
-    "zh_hant": "然後它就不動了。"
+    "zh": "然后它就不再动了。",
+    "zh_hant": "然後它就不再動了。"
   },
   {
-    "index": 103,
+    "index": 96,
     "text": "Beatrice did not seem surprised.",
     "start": 483.624,
     "end": 486.565,
@@ -832,7 +776,7 @@
     "zh_hant": "比阿特麗斯似乎並不驚訝。"
   },
   {
-    "index": 104,
+    "index": 97,
     "text": "She sighed and placed the flower in her hair.",
     "start": 487.646,
     "end": 491.788,
@@ -840,47 +784,39 @@
     "zh_hant": "她嘆了口氣，把花插在頭髮裡。"
   },
   {
-    "index": 105,
+    "index": 98,
     "text": "Giovanni leaned out of the window so he could see her better.",
     "start": 493.669,
     "end": 497.611,
-    "zh": "乔瓦尼探出窗外，以便能更清楚地看到她。",
-    "zh_hant": "喬瓦尼探出窗外，以便能更清楚地看到她。"
+    "zh": "乔瓦尼探出窗外，以便看得更清楚。",
+    "zh_hant": "喬瓦尼探出窗外，以便看得更清楚。"
   },
   {
-    "index": 106,
+    "index": 99,
     "text": "At this moment, a beautiful butterfly flew over the garden wall.",
     "start": 498.812,
     "end": 504.054,
-    "zh": "这时，一只美丽的蝴蝶飞过花园的围墙。",
-    "zh_hant": "這時，一隻美麗的蝴蝶飛過花園的圍牆。"
+    "zh": "这时，一只美丽的蝴蝶飞过了花园的墙。",
+    "zh_hant": "這時，一隻美麗的蝴蝶飛過了花園的牆。"
   },
   {
-    "index": 107,
+    "index": 100,
     "text": "It seemed to be attracted by Beatrice and flew once around her head.",
     "start": 504.875,
     "end": 510.357,
-    "zh": "它似乎被比阿特丽斯吸引，在她头顶飞了一圈。",
-    "zh_hant": "它似乎被比阿特麗斯吸引，在她頭頂飛了一圈。"
+    "zh": "它似乎被比阿特丽斯吸引，绕着她的头飞了一圈。",
+    "zh_hant": "它似乎被比阿特麗斯吸引，繞著她的頭飛了一圈。"
   },
   {
-    "index": 108,
-    "text": "Then, the insect’s bright wings stopped",
+    "index": 101,
+    "text": "Then, the insect’s bright wings stopped and it fell to the ground dead.",
     "start": 511.278,
-    "end": 515.54,
-    "zh": "然后，昆虫的亮丽翅膀停了下来，",
-    "zh_hant": "然後，昆蟲的亮麗翅膀停了下來，"
-  },
-  {
-    "index": 109,
-    "text": "and it fell to the ground dead.",
-    "start": 515.96,
     "end": 518.141,
-    "zh": "它掉到地上死了。",
-    "zh_hant": "它掉到地上死了。"
+    "zh": "然后，昆虫那亮丽的翅膀停了下来，它落到地上死了。",
+    "zh_hant": "然後，昆蟲那亮麗的翅膀停了下來，它落到地上死了。"
   },
   {
-    "index": 110,
+    "index": 102,
     "text": "Beatrice shook her head sadly.",
     "start": 519.482,
     "end": 522.423,
@@ -888,7 +824,7 @@
     "zh_hant": "比阿特麗斯悲傷地搖了搖頭。"
   },
   {
-    "index": 111,
+    "index": 103,
     "text": "Suddenly, she looked up at Giovanni’s window.",
     "start": 524.545,
     "end": 527.786,
@@ -896,55 +832,47 @@
     "zh_hant": "突然，她抬頭看向喬瓦尼的窗戶。"
   },
   {
-    "index": 112,
+    "index": 104,
     "text": "She saw the young man looking at her.",
     "start": 528.867,
     "end": 531.448,
-    "zh": "她看到那个年轻人正看着她。",
-    "zh_hant": "她看到那個年輕人正看著她。"
+    "zh": "她看到那个年轻人在看着她。",
+    "zh_hant": "她看到那個年輕人在看著她。"
   },
   {
-    "index": 113,
+    "index": 105,
     "text": "Giovanni picked up the flowers he had bought and threw them down to her.",
     "start": 532.549,
     "end": 537.851,
-    "zh": "乔瓦尼拿起他买的花，扔下去给她。",
-    "zh_hant": "喬瓦尼拿起他買的花，扔下去給她。"
+    "zh": "乔瓦尼拿起他买的花，向下面扔给她。",
+    "zh_hant": "喬瓦尼拿起他買的花，向下面扔給她。"
   },
   {
-    "index": 114,
-    "text": "“Young lady,” he said,",
+    "index": 106,
+    "text": "“Young lady,” he said, “Wear these flowers as a gift from Giovanni Guasconti.”",
     "start": 538.972,
-    "end": 541.413,
-    "zh": "“小姐，”他说，",
-    "zh_hant": "“小姐，”他說，"
-  },
-  {
-    "index": 115,
-    "text": "“Wear these flowers as a gift from Giovanni Guasconti.”",
-    "start": 541.593,
     "end": 546.596,
-    "zh": "“戴上这些花，作为乔瓦尼·瓜斯孔蒂的礼物。”",
-    "zh_hant": "“戴上這些花，作為喬瓦尼·瓜斯孔蒂的禮物。”"
+    "zh": "“年轻的小姐，”他说，“把这些花作为乔瓦尼·瓜斯孔蒂的礼物戴上吧。”",
+    "zh_hant": "“年輕的小姐，”他說，“把這些花作為喬瓦尼·瓜斯孔蒂的禮物戴上吧。”"
   },
   {
-    "index": 116,
+    "index": 107,
     "text": "“Thank you,” Beatrice answered.",
     "start": 548.017,
     "end": 551.058,
-    "zh": "“谢谢，”比阿特丽斯回答说。",
-    "zh_hant": "“謝謝，”比阿特麗斯回答說。"
+    "zh": "“谢谢你，”比阿特丽斯回答。",
+    "zh_hant": "“謝謝你，”比阿特麗斯回答。"
   },
   {
-    "index": 117,
+    "index": 108,
     "text": "She picked up the flowers from the ground and quickly ran to the house.",
     "start": 551.758,
     "end": 556.881,
-    "zh": "她从地上捡起花，迅速跑回屋里。",
-    "zh_hant": "她從地上撿起花，迅速跑回屋裡。"
+    "zh": "她从地上捡起花，很快跑进了房子。",
+    "zh_hant": "她從地上撿起花，很快跑進了房子。"
   },
   {
-    "index": 118,
+    "index": 109,
     "text": "She stopped at the door for a moment to wave shyly to Giovanni.",
     "start": 557.781,
     "end": 563.084,
@@ -952,55 +880,31 @@
     "zh_hant": "她在門口停了一會兒，害羞地向喬瓦尼揮手。"
   },
   {
-    "index": 119,
-    "text": "It seemed to him that his flowers were beginning to turn brown",
+    "index": 110,
+    "text": "It seemed to him that his flowers were beginning to turn brown in her hands.",
     "start": 564.385,
-    "end": 569.387,
-    "zh": "在他看来，他的花开始变黄，",
-    "zh_hant": "在他看來，他的花開始變黃，"
-  },
-  {
-    "index": 120,
-    "text": "in her hands.",
-    "start": 569.687,
     "end": 570.948,
-    "zh": "就在她的手中。",
-    "zh_hant": "就在她的手中。"
+    "zh": "在他看来，他的花在她手里开始变黄了。",
+    "zh_hant": "在他看來，他的花在她手裡開始變黃了。"
   },
   {
-    "index": 121,
-    "text": "For many days, the young man stayed away from the window",
+    "index": 111,
+    "text": "For many days, the young man stayed away from the window that looked out on Rappaccini’s garden.",
     "start": 572.829,
-    "end": 577.131,
-    "zh": "许多天里，年轻人一直远离那个窗户，",
-    "zh_hant": "許多天裡，年輕人一直遠離那個窗戶，"
-  },
-  {
-    "index": 122,
-    "text": "that looked out on Rappaccini’s garden.",
-    "start": 577.171,
     "end": 579.772,
-    "zh": "那个能望见拉帕奇尼花园的窗户。",
-    "zh_hant": "那個能望見拉帕奇尼花園的窗戶。"
+    "zh": "好几天，这个年轻人都远离那扇能看见拉帕奇尼花园的窗户。",
+    "zh_hant": "好幾天，這個年輕人都遠離那扇能看見拉帕奇尼花園的窗戶。"
   },
   {
-    "index": 123,
-    "text": "He wished he had not talked to Beatrice because now",
+    "index": 112,
+    "text": "He wished he had not talked to Beatrice because now he felt under the power of her beauty.",
     "start": 580.153,
-    "end": 584.355,
-    "zh": "他希望自己没有跟比阿特丽斯说话，因为现在",
-    "zh_hant": "他希望自己沒有跟比阿特麗斯說話，因為現在"
-  },
-  {
-    "index": 124,
-    "text": "he felt under the power of her beauty.",
-    "start": 584.395,
     "end": 587.176,
-    "zh": "他感到自己被她美貌的力量所控制。",
-    "zh_hant": "他感到自己被她美貌的力量所控制。"
+    "zh": "他希望自己没有跟比阿特丽斯说过话，因为现在他觉得自己被她的美貌迷住了。",
+    "zh_hant": "他希望自己沒有跟比阿特麗斯說過話，因為現在他覺得自己被她的美貌迷住了。"
   },
   {
-    "index": 125,
+    "index": 113,
     "text": "He was a little afraid of her, too.",
     "start": 588.197,
     "end": 590.578,
@@ -1008,23 +912,23 @@
     "zh_hant": "他也有點怕她。"
   },
   {
-    "index": 126,
+    "index": 114,
     "text": "He could not forget how the little lizard and the butterfly had died.",
     "start": 591.418,
     "end": 596.701,
-    "zh": "他忘不了那只小蜥蜴和那只蝴蝶是怎么死的。",
-    "zh_hant": "他忘不了那隻小蜥蜴和那隻蝴蝶是怎麼死的。"
+    "zh": "他忘不了那只小蜥蜴和蝴蝶是怎么死的。",
+    "zh_hant": "他忘不了那隻小蜥蜴和蝴蝶是怎麼死的。"
   },
   {
-    "index": 127,
+    "index": 115,
     "text": "One day, while he was returning home from his classes,",
     "start": 598.262,
     "end": 602.223,
-    "zh": "有一天，当他上完课回家时，",
-    "zh_hant": "有一天，當他上完課回家時，"
+    "zh": "有一天，当他下课回家时，",
+    "zh_hant": "有一天，當他下課回家時，"
   },
   {
-    "index": 128,
+    "index": 116,
     "text": "he met Professor Baglioni on the street.",
     "start": 602.344,
     "end": 605.525,
@@ -1032,23 +936,23 @@
     "zh_hant": "他在街上遇到了巴廖尼教授。"
   },
   {
-    "index": 129,
+    "index": 117,
     "text": "“Well, Giovanni,” the old man said, “have you forgotten me?”",
     "start": 606.186,
     "end": 611.488,
-    "zh": "“喂，乔瓦尼，”老人说，“你忘了我吗？”",
-    "zh_hant": "“喂，喬瓦尼，”老人說，“你忘了我嗎？”"
+    "zh": "“嘿，乔瓦尼，”老人说，“你忘了我吗？”",
+    "zh_hant": "“嘿，喬瓦尼，”老人說，“你忘了我嗎？”"
   },
   {
-    "index": 130,
+    "index": 118,
     "text": "Then he looked closely at the young man.",
     "start": 612.569,
     "end": 615.57,
-    "zh": "然后他仔细看着年轻人。",
-    "zh_hant": "然後他仔細看著年輕人。"
+    "zh": "然后他仔细地看着年轻人。",
+    "zh_hant": "然後他仔細地看著年輕人。"
   },
   {
-    "index": 131,
+    "index": 119,
     "text": "“What is wrong, my friend?",
     "start": 616.471,
     "end": 618.772,
@@ -1056,15 +960,15 @@
     "zh_hant": "“怎麼了，我的朋友？"
   },
   {
-    "index": 132,
+    "index": 120,
     "text": "Your appearance has changed since the last time we met.”",
     "start": 619.133,
     "end": 623.795,
-    "zh": "自从我们上次见面以来，你的样子变了。”",
-    "zh_hant": "自從我們上次見面以來，你的樣子變了。”"
+    "zh": "自上次见面以来，你的样子变了。”",
+    "zh_hant": "自上次見面以來，你的樣子變了。”"
   },
   {
-    "index": 133,
+    "index": 121,
     "text": "It was true.",
     "start": 624.915,
     "end": 626.116,
@@ -1072,71 +976,63 @@
     "zh_hant": "確實如此。"
   },
   {
-    "index": 134,
+    "index": 122,
     "text": "Giovanni had become very thin.",
     "start": 626.496,
     "end": 629.317,
-    "zh": "乔瓦尼变得很瘦。",
-    "zh_hant": "喬瓦尼變得很瘦。"
+    "zh": "乔瓦尼变得非常瘦。",
+    "zh_hant": "喬瓦尼變得非常瘦。"
   },
   {
-    "index": 135,
+    "index": 123,
     "text": "His face was white, and his eyes seemed to burn with fever.",
     "start": 629.838,
     "end": 635.28,
-    "zh": "他的脸苍白，眼睛似乎因发烧而燃烧。",
-    "zh_hant": "他的臉蒼白，眼睛似乎因發燒而燃燒。"
+    "zh": "他的脸色苍白，眼睛似乎在发烧。",
+    "zh_hant": "他的臉色蒼白，眼睛似乎在發燒。"
   },
   {
-    "index": 136,
-    "text": "As they stood talking, a man dressed in a long black cape",
+    "index": 124,
+    "text": "As they stood talking, a man dressed in a long black cape came down the street.",
     "start": 636.801,
-    "end": 642.124,
-    "zh": "在他们站着交谈时，一个穿着长长黑斗篷的男人",
-    "zh_hant": "在他們站著交談時，一個穿著長長黑斗篷的男人"
-  },
-  {
-    "index": 137,
-    "text": "came down the street.",
-    "start": 642.224,
     "end": 643.865,
-    "zh": "从街上走来。",
-    "zh_hant": "從街上走來。"
+    "zh": "他们站着说话时，一个穿着黑色长斗篷的男人从街上走来。",
+    "zh_hant": "他們站著說話時，一個穿著黑色長斗篷的男人從街上走來。"
   },
   {
-    "index": 138,
+    "index": 125,
     "text": "He moved slowly, like a person in poor health.",
     "start": 644.405,
     "end": 648.367,
-    "zh": "他走得很慢，像一个身体不好的人。",
-    "zh_hant": "他走得很慢，像一個身體不好的人。"
+    "zh": "他走得很慢，像个体弱的人。",
+    "zh_hant": "他走得很慢，像個體弱的人。"
   },
   {
-    "index": 139,
+    "index": 126,
     "text": "His face was yellow, but his eyes were sharp and black.",
     "start": 649.068,
     "end": 654.23,
-    "zh": "他的脸色发黄，但眼睛又锐利又黑。",
-    "zh_hant": "他的臉色發黃，但眼睛又銳利又黑。"
+    "zh": "他的脸是黄色的，但眼睛尖锐而漆黑。",
+    "zh_hant": "他的臉是黃色的，但眼睛尖銳而漆黑。"
   },
   {
-    "index": 140,
+    "index": 127,
     "text": "It was the man Giovanni had seen in the garden.",
     "start": 655.491,
     "end": 659.352,
-    "zh": "正是乔瓦尼在花园里见过的那个男人。",
-    "zh_hant": "正是喬瓦尼在花園裡見過的那個男人。"
+    "zh": "就是乔瓦尼在花园里见过的那个男人。",
+    "zh_hant": "就是喬瓦尼在花園裡見過的那個男人。"
   },
   {
-    "index": 141,
+    "index": 128,
     "text": "As he passed them, the old man nodded coldly to Professor Baglioni.",
     "start": 660.853,
     "end": 666.676,
-    "zh": "当他从他们身边走过时，老人冷冷地向巴廖尼教授点了点头。",
-    "zh_hant": "當他從他們身邊走過時，老人冷冷地向巴廖尼教授點了點頭。"
+    "zh": "当他经过他们时，老人冷冷地向巴廖尼教授点了点头。",
+    "zh_hant": "當他經過他們時，老人冷冷地向巴廖尼教授點了點頭。"
   },
   {
-    "index": 142,
+    "index": 129,
     "text": "But he looked at Giovanni with a great deal of interest.",
     "start": 667.296,
     "end": 671.938,
@@ -1144,23 +1040,23 @@
     "zh_hant": "但他帶著極大的興趣看著喬瓦尼。"
   },
   {
-    "index": 143,
+    "index": 130,
     "text": "“It’s Doctor Rappaccini!”",
     "start": 673.539,
     "end": 675.56,
-    "zh": "“那是拉帕奇尼医生！”",
-    "zh_hant": "“那是拉帕奇尼醫生！”"
+    "zh": "“是拉帕奇尼医生！”",
+    "zh_hant": "“是拉帕奇尼醫生！”"
   },
   {
-    "index": 144,
+    "index": 131,
     "text": "Professor Baglioni whispered after the old man had passed them.",
     "start": 676.241,
     "end": 681.343,
-    "zh": "老人走过他们之后，巴廖尼教授低声说道。",
-    "zh_hant": "老人走過他們之後，巴廖尼教授低聲說道。"
+    "zh": "老人走过之后，巴廖尼教授小声说。",
+    "zh_hant": "老人走過之後，巴廖尼教授小聲說。"
   },
   {
-    "index": 145,
+    "index": 132,
     "text": "“Has he ever seen your face before?”",
     "start": 682.264,
     "end": 685.205,
@@ -1168,7 +1064,7 @@
     "zh_hant": "“他以前見過你的臉嗎？”"
   },
   {
-    "index": 146,
+    "index": 133,
     "text": "Giovanni shook his head.",
     "start": 685.826,
     "end": 687.706,
@@ -1176,23 +1072,23 @@
     "zh_hant": "喬瓦尼搖了搖頭。"
   },
   {
-    "index": 147,
+    "index": 134,
     "text": "“No,” he answered, “I don’t think so.”",
     "start": 687.827,
     "end": 691.108,
-    "zh": "“没有，”他回答说，“我觉得没有。”",
-    "zh_hant": "“沒有，”他回答說，“我覺得沒有。”"
+    "zh": "“没有，”他回答，“我想没有。”",
+    "zh_hant": "“沒有，”他回答，“我想沒有。”"
   },
   {
-    "index": 148,
+    "index": 135,
     "text": "Professor Baglioni looked worried.",
     "start": 692.349,
     "end": 695.17,
-    "zh": "巴廖尼教授看起来忧心忡忡。",
-    "zh_hant": "巴廖尼教授看起來憂心忡忡。"
+    "zh": "巴廖尼教授看起来很担心。",
+    "zh_hant": "巴廖尼教授看起來很擔心。"
   },
   {
-    "index": 149,
+    "index": 136,
     "text": "“I think he has seen you before.",
     "start": 695.891,
     "end": 698.592,
@@ -1200,55 +1096,47 @@
     "zh_hant": "“我覺得他以前見過你。"
   },
   {
-    "index": 150,
+    "index": 137,
     "text": "I know that cold look of his!",
     "start": 699.373,
     "end": 702.114,
-    "zh": "我知道他那种冷漠的眼神！",
-    "zh_hant": "我知道他那種冷漠的眼神！"
+    "zh": "我认识他那冷酷的目光！",
+    "zh_hant": "我認識他那冷酷的目光！"
   },
   {
-    "index": 151,
-    "text": "He looks the same way when he examines an animal",
+    "index": 138,
+    "text": "He looks the same way when he examines an animal he has killed in one of his experiments.",
     "start": 702.934,
-    "end": 706.896,
-    "zh": "他在检查一只动物时也是同样的表情，",
-    "zh_hant": "他在檢查一隻動物時也是同樣的表情，"
-  },
-  {
-    "index": 152,
-    "text": "he has killed in one of his experiments.",
-    "start": 706.856,
     "end": 709.818,
-    "zh": "那是在他的一次实验中被杀死的动物。",
-    "zh_hant": "那是在他的一次實驗中被殺死的動物。"
+    "zh": "他在检查实验中杀死的动物时就是那种样子。",
+    "zh_hant": "他在檢查實驗中殺死的動物時就是那種樣子。"
   },
   {
-    "index": 153,
+    "index": 139,
     "text": "Giovanni, I will bet my life on it.",
     "start": 710.798,
     "end": 714.16,
-    "zh": "乔瓦尼，我敢拿性命打赌。",
-    "zh_hant": "喬瓦尼，我敢拿性命打賭。"
+    "zh": "乔瓦尼，我用我的生命打赌。",
+    "zh_hant": "喬瓦尼，我用我的生命打賭。"
   },
   {
-    "index": 154,
+    "index": 140,
     "text": "You are the subject of one of Rappaccini’s experiments!”",
     "start": 714.56,
     "end": 719.282,
-    "zh": "你是拉帕奇尼一次实验的对象！”",
-    "zh_hant": "你是拉帕奇尼一次實驗的物件！”"
+    "zh": "你是拉帕奇尼一个实验的对象！”",
+    "zh_hant": "你是拉帕奇尼一個實驗的物件！”"
   },
   {
-    "index": 155,
+    "index": 141,
     "text": "Giovanni stepped away from the old man.",
     "start": 720.543,
     "end": 723.524,
-    "zh": "乔瓦尼从老人身边退了一步。",
-    "zh_hant": "喬瓦尼從老人身邊退了一步。"
+    "zh": "乔瓦尼从老人身边退开。",
+    "zh_hant": "喬瓦尼從老人身邊退開。"
   },
   {
-    "index": 156,
+    "index": 142,
     "text": "“You are joking,” he said.",
     "start": 724.245,
     "end": 727.286,
@@ -1256,7 +1144,7 @@
     "zh_hant": "“你在開玩笑，”他說。"
   },
   {
-    "index": 157,
+    "index": 143,
     "text": "“No, I am serious.”",
     "start": 727.927,
     "end": 730.188,
@@ -1264,7 +1152,7 @@
     "zh_hant": "“不，我是認真的。”"
   },
   {
-    "index": 158,
+    "index": 144,
     "text": "The professor took Giovanni’s arm.",
     "start": 730.988,
     "end": 733.509,
@@ -1272,7 +1160,7 @@
     "zh_hant": "教授抓住喬瓦尼的胳膊。"
   },
   {
-    "index": 159,
+    "index": 145,
     "text": "“Be careful, my young friend.",
     "start": 734.07,
     "end": 736.491,
@@ -1280,7 +1168,7 @@
     "zh_hant": "“小心點，我年輕的朋友。"
   },
   {
-    "index": 160,
+    "index": 146,
     "text": "You are in great danger.”",
     "start": 736.872,
     "end": 739.393,
@@ -1288,15 +1176,15 @@
     "zh_hant": "你處於極大的危險之中。”"
   },
   {
-    "index": 161,
+    "index": 147,
     "text": "Giovanni pulled his arm away.",
     "start": 740.874,
     "end": 743.355,
-    "zh": "乔瓦尼抽回胳膊。",
-    "zh_hant": "喬瓦尼抽回胳膊。"
+    "zh": "乔瓦尼抽回了他的胳膊。",
+    "zh_hant": "喬瓦尼抽回了他的胳膊。"
   },
   {
-    "index": 162,
+    "index": 148,
     "text": "“I must be going,” he said, “Good night.”",
     "start": 744.395,
     "end": 748.217,
@@ -1304,23 +1192,23 @@
     "zh_hant": "“我得走了，”他說，“晚安。”"
   },
   {
-    "index": 163,
+    "index": 149,
     "text": "As Giovanni hurried to his room, he felt confused and a little frightened.",
     "start": 750.018,
     "end": 755.981,
-    "zh": "当乔瓦尼匆忙回到房间时，他感到困惑，也有点害怕。",
-    "zh_hant": "當喬瓦尼匆忙回到房間時，他感到困惑，也有點害怕。"
+    "zh": "乔瓦尼匆匆回到房间时，感到困惑又有点害怕。",
+    "zh_hant": "喬瓦尼匆匆回到房間時，感到困惑又有點害怕。"
   },
   {
-    "index": 164,
+    "index": 150,
     "text": "Signora Lisabetta was waiting for him outside his door.",
     "start": 756.441,
     "end": 761.103,
-    "zh": "莉莎贝塔夫人在他的门外等着他。",
-    "zh_hant": "莉莎貝塔夫人在他的門外等著他。"
+    "zh": "莉莎贝塔夫人正在门外等他。",
+    "zh_hant": "莉莎貝塔夫人正在門外等他。"
   },
   {
-    "index": 165,
+    "index": 151,
     "text": "She knew he was interested in Beatrice.",
     "start": 761.724,
     "end": 764.985,
@@ -1328,7 +1216,7 @@
     "zh_hant": "她知道他對比阿特麗斯感興趣。"
   },
   {
-    "index": 166,
+    "index": 152,
     "text": "“I have good news for you,” she said.",
     "start": 765.826,
     "end": 769.087,
@@ -1336,15 +1224,15 @@
     "zh_hant": "“我有好訊息告訴你，”她說。"
   },
   {
-    "index": 167,
+    "index": 153,
     "text": "“I know where there is a secret entrance into Rappaccini’s garden.”",
     "start": 769.628,
     "end": 775.111,
-    "zh": "“我知道有一个通往拉帕奇尼花园的秘密入口。”",
-    "zh_hant": "“我知道有一個通往拉帕奇尼花園的秘密入口。”"
+    "zh": "“我知道有一个秘密入口可以进入拉帕奇尼的花园。”",
+    "zh_hant": "“我知道有一個秘密入口可以進入拉帕奇尼的花園。”"
   },
   {
-    "index": 168,
+    "index": 154,
     "text": "Giovanni could not believe his ears.",
     "start": 776.311,
     "end": 780.153,
@@ -1352,7 +1240,7 @@
     "zh_hant": "喬瓦尼簡直不敢相信自己的耳朵。"
   },
   {
-    "index": 169,
+    "index": 155,
     "text": "“Where is it?”",
     "start": 781.714,
     "end": 783.014,
@@ -1360,55 +1248,47 @@
     "zh_hant": "“在哪裡？”"
   },
   {
-    "index": 170,
+    "index": 156,
     "text": "he asked.",
     "start": 783.135,
     "end": 784.255,
-    "zh": "他问道。",
-    "zh_hant": "他問道。"
+    "zh": "他问。",
+    "zh_hant": "他問。"
   },
   {
-    "index": 171,
+    "index": 157,
     "text": "“Show me the way.”",
     "start": 785.396,
     "end": 786.636,
-    "zh": "“带我去。”",
-    "zh_hant": "“帶我去。”"
+    "zh": "“给我带路。”",
+    "zh_hant": "“給我帶路。”"
   },
   {
-    "index": 172,
+    "index": 158,
     "text": "You have just heard part one of the story called \"Rappaccini’s Daughter.\"",
     "start": 799.903,
     "end": 805.746,
-    "zh": "你刚刚听到的是《拉帕奇尼的女儿》故事的第一部分。",
-    "zh_hant": "你剛剛聽到的是《拉帕奇尼的女兒》故事的第一部分。"
+    "zh": "您刚刚听完了叫《拉帕奇尼的女儿》的故事的第一部分。",
+    "zh_hant": "您剛剛聽完了叫《拉帕奇尼的女兒》的故事的第一部分。"
   },
   {
-    "index": 173,
-    "text": "It was written by Nathaniel Hawthorne",
+    "index": 159,
+    "text": "It was written by Nathaniel Hawthorne and adapted for Special English by Dona de Sanctis.",
     "start": 806.406,
-    "end": 809.527,
-    "zh": "它是由纳撒尼尔·霍桑写的。",
-    "zh_hant": "它是由納撒尼爾·霍桑寫的。"
-  },
-  {
-    "index": 174,
-    "text": "and adapted for Special English by Dona de Sanctis.",
-    "start": 809.668,
     "end": 813.77,
-    "zh": "并由多娜·德·桑克蒂斯为特别英语节目改编。",
-    "zh_hant": "並由多娜·德·桑克蒂斯為特別英語節目改編。"
+    "zh": "它由纳撒尼尔·霍桑撰写，并由多娜·德·桑克蒂斯改编为慢速英语。",
+    "zh_hant": "它由納撒尼爾·霍桑撰寫，並由多娜·德·桑克蒂斯改編為慢速英語。"
   },
   {
-    "index": 175,
+    "index": 160,
     "text": "Your storyteller was Kay Gallant.",
     "start": 814.03,
     "end": 816.595,
-    "zh": "你的故事讲述者是凯·加兰特。",
-    "zh_hant": "你的故事講述者是凱·加蘭特。"
+    "zh": "您的故事讲述者是凯·加兰特。",
+    "zh_hant": "您的故事講述者是凱·加蘭特。"
   },
   {
-    "index": 176,
+    "index": 161,
     "text": "Listen next week for the final part of our story.",
     "start": 817.056,
     "end": 820.521,
@@ -1416,7 +1296,7 @@
     "zh_hant": "下週請收聽我們故事的最後一集。"
   },
   {
-    "index": 177,
+    "index": 162,
     "text": "This is Shep O’Neal.",
     "start": 820.942,
     "end": 822.223,
@@ -1424,7 +1304,7 @@
     "zh_hant": "我是謝普·奧尼爾。"
   },
   {
-    "index": 178,
+    "index": 163,
     "text": "How well",
     "start": 821.873,
     "end": 822.404,
@@ -1432,7 +1312,7 @@
     "zh_hant": "你對這個故事"
   },
   {
-    "index": 179,
+    "index": 164,
     "text": "you understand this story?",
     "start": 936.331,
     "end": 938.156,
@@ -1440,11 +1320,11 @@
     "zh_hant": "理解得怎麼樣？"
   },
   {
-    "index": 180,
+    "index": 165,
     "text": "See a lesson plan with activities for this story here or click on the image below.",
     "start": 937.806,
     "end": 942.151,
-    "zh": "点击这里查看带活动计划的故事教案，或点击下方图片。",
-    "zh_hant": "點選這裡檢視帶活動計劃的故事教案，或點選下方圖片。"
+    "zh": "在这里或点击下方图片查看本故事的课程计划及活动。",
+    "zh_hant": "在這裡或點選下方圖片檢視本故事的課程計劃及活動。"
   }
 ]

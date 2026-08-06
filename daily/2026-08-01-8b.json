@@ -4,283 +4,259 @@
     "text": "In a remarkable turnaround,",
     "start": 0.29,
     "end": 2.131,
-    "zh": "在一场引人注目的逆转中",
-    "zh_hant": "在一場引人注目的逆轉中"
+    "zh": "在一次显著的逆转中，",
+    "zh_hant": "在一次顯著的逆轉中，"
   },
   {
     "index": 1,
-    "text": "FIFA President Gianni Infantino has scrapped his controversial plan",
+    "text": "FIFA President Gianni Infantino has scrapped his controversial plan to sell off stakes in the World Cup to private investment.",
     "start": 1.811,
-    "end": 5.673,
-    "zh": "国际足联主席詹尼·因凡蒂诺放弃了他备受争议的计划",
-    "zh_hant": "國際足聯主席詹尼·因凡蒂諾放棄了他備受爭議的計劃"
+    "end": 9.174,
+    "zh": "国际足联主席詹尼·因凡蒂诺取消了出售世界杯股份给私人投资者的争议计划。",
+    "zh_hant": "國際足聯主席詹尼·因凡蒂諾取消了出售世界盃股份給私人投資者的爭議計劃。"
   },
   {
     "index": 2,
-    "text": "to sell off stakes in the World Cup to private investment.",
-    "start": 5.553,
-    "end": 9.174,
-    "zh": "即向私人投资者出售世界杯的股份。",
-    "zh_hant": "即向私人投資者出售世界盃的股份。"
-  },
-  {
-    "index": 3,
     "text": "In a statement, he said, \"Having listened carefully to all the views,",
     "start": 9.395,
     "end": 13.256,
-    "zh": "在一份声明中，他表示：“在仔细听取了所有意见后，”",
-    "zh_hant": "在一份宣告中，他表示：“在仔細聽取了所有意見後，”"
+    "zh": "他在一份声明中表示：“在仔细听取所有意见后，",
+    "zh_hant": "他在一份宣告中表示：“在仔細聽取所有意見後，"
   },
   {
-    "index": 4,
+    "index": 3,
     "text": "it has become clear that the project has created divisions of a nature that,",
     "start": 13.217,
     "end": 17.478,
-    "zh": "很明显，这个项目造成了某种分歧，",
-    "zh_hant": "很明顯，這個專案造成了某種分歧，"
+    "zh": "很明显，该项目造成的分歧性质，",
+    "zh_hant": "很明顯，該專案造成的分歧性質，"
   },
   {
-    "index": 5,
+    "index": 4,
     "text": "regardless of the level of support, are no longer in the interest of the objective set out in the first place.\"",
     "start": 17.159,
     "end": 23.261,
-    "zh": "无论支持度如何，都不再符合最初设定的目标。”",
-    "zh_hant": "無論支援度如何，都不再符合最初設定的目標。”"
+    "zh": "无论支持程度如何，这种分歧已不再符合最初设定的目标。”",
+    "zh_hant": "無論支援程度如何，這種分歧已不再符合最初設定的目標。”"
   },
   {
-    "index": 6,
+    "index": 5,
     "text": "Our purpose has always been, and will always be, to unite and improve.",
     "start": 23.322,
     "end": 27.804,
-    "zh": "我们的宗旨一直是，也将永远是，团结和进步。",
-    "zh_hant": "我們的宗旨一直是，也將永遠是，團結和進步。"
+    "zh": "我们的目标始终是团结和改进，未来也将如此。",
+    "zh_hant": "我們的目標始終是團結和改進，未來也將如此。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "As a result, he says, this proposal will not proceed.",
     "start": 27.764,
     "end": 31.045,
-    "zh": "因此，他表示，这项提案将不会继续推进。",
-    "zh_hant": "因此，他表示，這項提案將不會繼續推進。"
+    "zh": "因此，他说，该提案将不再推进。",
+    "zh_hant": "因此，他說，該提案將不再推進。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Well, it follows a chorus of condemnation from international football bodies,",
     "start": 31.486,
     "end": 35.427,
-    "zh": "之前，国际足球机构一片谴责之声，",
-    "zh_hant": "之前，國際足球機構一片譴責之聲，"
+    "zh": "此前，国际足球机构一片谴责之声，",
+    "zh_hant": "此前，國際足球機構一片譴責之聲，"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "most recently the Asian Football Confederation and CONCACAF,",
     "start": 35.328,
     "end": 39.389,
-    "zh": "最近的是亚洲足球联合会和中北美及加勒比海足球联合会，",
-    "zh_hant": "最近的是亞洲足球聯合會和中北美及加勒比海足球聯合會，"
+    "zh": "尤其是亚洲足球联合会和中北美及加勒比海足球联合会，",
+    "zh_hant": "尤其是亞洲足球聯合會和中北美及加勒比海足球聯合會，"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "which oversees North and Central American and Caribbean football.",
     "start": 39.289,
     "end": 43.172,
-    "zh": "后者负责管理北美、中美洲和加勒比地区的足球事务。",
-    "zh_hant": "後者負責管理北美、中美洲和加勒比地區的足球事務。"
+    "zh": "后者负责监管北美洲、中美洲和加勒比地区的足球事务。",
+    "zh_hant": "後者負責監管北美洲、中美洲和加勒比地區的足球事務。"
   },
   {
-    "index": 11,
+    "index": 10,
     "text": "Kicking off the storm of criticism on Thursday was UEFA, European football's governing body.",
     "start": 43.392,
     "end": 48.294,
-    "zh": "周四率先引发批评风暴的是欧洲足球的管理机构欧足联。",
-    "zh_hant": "週四率先引發批評風暴的是歐洲足球的管理機構歐足聯。"
+    "zh": "周四，欧洲足球管理机构UEFA率先掀起了批评浪潮。",
+    "zh_hant": "週四，歐洲足球管理機構UEFA率先掀起了批評浪潮。"
+  },
+  {
+    "index": 11,
+    "text": "It threatened to boycott the 2030 Men's World Cup if Gianni Infantino went ahead with his private investment plans.",
+    "start": 48.214,
+    "end": 55.558,
+    "zh": "它威胁称，如果詹尼·因凡蒂诺继续他的私人投资计划，将抵制2030年男子世界杯。",
+    "zh_hant": "它威脅稱，如果詹尼·因凡蒂諾繼續他的私人投資計劃，將抵制2030年男子世界盃。"
   },
   {
     "index": 12,
-    "text": "It threatened to boycott the 2030 Men's World Cup if",
-    "start": 48.214,
-    "end": 52.196,
-    "zh": "它威胁要抵制2030年男足世界杯，如果",
-    "zh_hant": "它威脅要抵制2030年男足世界盃，如果"
-  },
-  {
-    "index": 13,
-    "text": "Gianni Infantino went ahead with his private investment plans.",
-    "start": 51.846,
-    "end": 55.558,
-    "zh": "詹尼·因凡蒂诺坚持推进他的私人投资计划。",
-    "zh_hant": "詹尼·因凡蒂諾堅持推進他的私人投資計劃。"
-  },
-  {
-    "index": 14,
     "text": "New York Post reporter James Franey was the first journalist to break the story.",
     "start": 55.998,
     "end": 59.74,
-    "zh": "《纽约邮报》记者詹姆斯·弗兰尼是最先报道此事的记者。",
-    "zh_hant": "《紐約郵報》記者詹姆斯·弗蘭尼是最先報道此事的記者。"
+    "zh": "《纽约邮报》记者詹姆斯·弗雷尼是首个报道此事的记者。",
+    "zh_hant": "《紐約郵報》記者詹姆斯·弗雷尼是首個報道此事的記者。"
+  },
+  {
+    "index": 13,
+    "text": "No one would dispute that the game of soccer,",
+    "start": 59.9,
+    "end": 63.061,
+    "zh": "没有人会否认足球这项运动，",
+    "zh_hant": "沒有人會否認足球這項運動，"
+  },
+  {
+    "index": 14,
+    "text": "or football as you call it on the BBC, is all about making money.",
+    "start": 62.711,
+    "end": 67.464,
+    "zh": "或者你们BBC所说的football，本质就是关于赚钱的。",
+    "zh_hant": "或者你們BBC所說的football，本質就是關於賺錢的。"
   },
   {
     "index": 15,
-    "text": "No one would dispute that the game of soccer, or football as you call it",
-    "start": 59.9,
-    "end": 64.102,
-    "zh": "没有人会质疑足球这项运动，或者你们在",
-    "zh_hant": "沒有人會質疑足球這項運動，或者你們在"
-  },
-  {
-    "index": 16,
-    "text": "on the BBC, is all about making money.",
-    "start": 63.752,
-    "end": 67.464,
-    "zh": "BBC上所称的英式足球，就是为了赚钱。",
-    "zh_hant": "BBC上所稱的英式足球，就是為了賺錢。"
-  },
-  {
-    "index": 17,
     "text": "We know that from the Premier League.",
     "start": 67.114,
     "end": 68.724,
-    "zh": "我们从英超联赛中就可以看出。",
-    "zh_hant": "我們從英超聯賽中就可以看出。"
+    "zh": "我们从英超联赛就知道这一点。",
+    "zh_hant": "我們從英超聯賽就知道這一點。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "We know that from the UEFA Champions League.",
     "start": 68.374,
     "end": 70.785,
-    "zh": "我们从欧冠联赛中也可以看出。",
-    "zh_hant": "我們從歐冠聯賽中也可以看出。"
+    "zh": "我们从欧洲冠军联赛也知道这一点。",
+    "zh_hant": "我們從歐洲冠軍聯賽也知道這一點。"
   },
   {
-    "index": 19,
-    "text": "But the way that FIFA went about it is what basically killed this deal dead",
+    "index": 17,
+    "text": "But the way that FIFA went about it is what basically killed this deal dead on arrival.",
     "start": 70.785,
-    "end": 76.428,
-    "zh": "但国际足联推进此事的方式基本上让这个协议夭折",
-    "zh_hant": "但國際足聯推進此事的方式基本上讓這個協議夭折"
-  },
-  {
-    "index": 20,
-    "text": "on arrival.",
-    "start": 76.188,
     "end": 77.628,
-    "zh": "于摇篮之中。",
-    "zh_hant": "於搖籃之中。"
+    "zh": "但国际足联采取的方式基本上让这笔交易胎死腹中。",
+    "zh_hant": "但國際足聯採取的方式基本上讓這筆交易胎死腹中。"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "The clubs, the federations, the fans,",
     "start": 78.029,
     "end": 82.371,
-    "zh": "俱乐部、联合会、球迷们，",
-    "zh_hant": "俱樂部、聯合會、球迷們，"
+    "zh": "各俱乐部、各足协、球迷，",
+    "zh_hant": "各俱樂部、各足協、球迷，"
   },
   {
-    "index": 22,
-    "text": "it was just the global outcry against Infantino's plan with, may I say,",
+    "index": 19,
+    "text": "it was just the global outcry against Infantino's plan with,",
     "start": 82.692,
-    "end": 88.875,
-    "zh": "全球对因凡蒂诺计划的抗议声浪，还有，我要说，",
-    "zh_hant": "全球對因凡蒂諾計劃的抗議聲浪，還有，我要說，"
+    "end": 87.794,
+    "zh": "对因凡蒂诺计划的全球抗议声浪如此强烈，",
+    "zh_hant": "對因凡蒂諾計劃的全球抗議聲浪如此強烈，"
   },
   {
-    "index": 23,
-    "text": "his own number two saying he wasn't even aware of it.",
-    "start": 88.875,
+    "index": 20,
+    "text": "may I say, his own number two saying he wasn't even aware of it.",
+    "start": 87.814,
     "end": 92.176,
-    "zh": "他的二把手说自己对此毫不知情。",
-    "zh_hant": "他的二把手說自己對此毫不知情。"
+    "zh": "而且，可以说，他自己的副手表示他甚至对此一无所知。",
+    "zh_hant": "而且，可以說，他自己的副手錶示他甚至對此一無所知。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "just left him really with no choice just to fold.",
     "start": 92.997,
     "end": 95.658,
-    "zh": "确实让他别无选择，只能收手。",
-    "zh_hant": "確實讓他別無選擇，只能收手。"
+    "zh": "这让他别无选择，只能放弃。",
+    "zh_hant": "這讓他別無選擇，只能放棄。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "I think the question now is what this means for Infantino's leadership of FIFA.",
     "start": 95.308,
     "end": 101.261,
-    "zh": "我想现在的问题是，这对因凡蒂诺领导国际足联意味着什么。",
-    "zh_hant": "我想現在的問題是，這對因凡蒂諾領導國際足聯意味著什麼。"
+    "zh": "我想现在的问题是，这对于因凡蒂诺领导国际足联意味着什么。",
+    "zh_hant": "我想現在的問題是，這對於因凡蒂諾領導國際足聯意味著什麼。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Can he go on, or will there be some kind of leadership challenge At the next presidential election,",
     "start": 101.361,
     "end": 107.284,
-    "zh": "他能继续下去吗，还是在下一届主席选举中会出现某种挑战，",
-    "zh_hant": "他能繼續下去嗎，還是在下一屆主席選舉中會出現某種挑戰，"
+    "zh": "在下次主席选举中，他能继续留任，还是会出现某种领导权挑战？",
+    "zh_hant": "在下次主席選舉中，他能繼續留任，還是會出現某種領導權挑戰？"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "I speak to football journalist Henry Winter.",
     "start": 107.864,
     "end": 110.245,
-    "zh": "我与足球记者亨利·温特对话。",
-    "zh_hant": "我與足球記者亨利·溫特對話。"
+    "zh": "我采访了足球记者亨利·温特。",
+    "zh_hant": "我採訪了足球記者亨利·溫特。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "I want to go back to, obviously, the future of Infantino in a moment.",
     "start": 109.895,
     "end": 112.626,
-    "zh": "我想稍后再回到因凡蒂诺的未来这个话题。",
-    "zh_hant": "我想稍後再回到因凡蒂諾的未來這個話題。"
+    "zh": "我想先谈一下，显然，稍后再谈因凡蒂诺的未来。",
+    "zh_hant": "我想先談一下，顯然，稍後再談因凡蒂諾的未來。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "But initially, what are your thoughts about the way this has all played out?",
     "start": 112.276,
     "end": 115.888,
-    "zh": "但首先，你对整个事件的发展有什么看法？",
-    "zh_hant": "但首先，你對整個事件的發展有什麼看法？"
+    "zh": "但首先，你对这一切的进展有何看法？",
+    "zh_hant": "但首先，你對這一切的進展有何看法？"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "Well, relief that Infantino has finally seen sense and listened to,",
     "start": 116.568,
     "end": 121.491,
-    "zh": "好吧，令人欣慰的是，因凡蒂诺终于看清了现实，听取了",
-    "zh_hant": "好吧，令人欣慰的是，因凡蒂諾終於看清了現實，聽取了"
+    "zh": "嗯，庆幸的是，因凡蒂诺终于理智起来，听取了",
+    "zh_hant": "嗯，慶幸的是，因凡蒂諾終於理智起來，聽取了"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "as you say, the chorus of disapproval from around the world.",
     "start": 121.141,
     "end": 124.553,
-    "zh": "正如你所说，来自世界各地的反对之声。",
-    "zh_hant": "正如你所說，來自世界各地的反對之聲。"
+    "zh": "正如你所说，来自世界各地的反对声浪。",
+    "zh_hant": "正如你所說，來自世界各地的反對聲浪。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "It's a ridiculous situation that he's dragged football into,",
     "start": 124.393,
     "end": 129.215,
-    "zh": "他把足球拖入了一个荒谬的境地，",
-    "zh_hant": "他把足球拖入了一個荒謬的境地，"
+    "zh": "他把足球拖入了一种荒谬的境地，",
+    "zh_hant": "他把足球拖入了一種荒謬的境地，"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "Basically, to the brink of civil war.",
     "start": 129.275,
     "end": 131.756,
-    "zh": "基本上，到了内战的边缘。",
-    "zh_hant": "基本上，到了內戰的邊緣。"
+    "zh": "基本上，几近于内战边缘。",
+    "zh_hant": "基本上，幾近於內戰邊緣。"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "So it's interesting people are calling this FIFA's plan.",
     "start": 131.676,
     "end": 134.517,
-    "zh": "有趣的是，人们在称这是国际足联的计划。",
-    "zh_hant": "有趣的是，人們在稱這是國際足聯的計劃。"
+    "zh": "所以有意思的是，人们把这也称为国际足联的计划。",
+    "zh_hant": "所以有意思的是，人們把這也稱為國際足聯的計劃。"
   },
   {
-    "index": 35,
+    "index": 32,
     "text": "It's not FIFA's plan, it's very much Infantino's plan.",
     "start": 134.167,
     "end": 137.259,
@@ -288,23 +264,23 @@
     "zh_hant": "這不是國際足聯的計劃，這完全是因凡蒂諾的計劃。"
   },
   {
-    "index": 36,
+    "index": 33,
     "text": "So, yeah, I'm in absolute relief that football has stepped back from the precipice,",
     "start": 137.239,
     "end": 143.602,
-    "zh": "所以，是的，我非常欣慰足球从悬崖边上退了回来，",
-    "zh_hant": "所以，是的，我非常欣慰足球從懸崖邊上退了回來，"
+    "zh": "所以，是的，我绝对感到如释重负，因为足球从悬崖边退了回来，",
+    "zh_hant": "所以，是的，我絕對感到如釋重負，因為足球從懸崖邊退了回來，"
   },
   {
-    "index": 37,
+    "index": 34,
     "text": "because this was so damaging after what was actually a pretty good World Cup.",
     "start": 143.282,
     "end": 147.164,
-    "zh": "因为在一届相当不错的世界杯之后，这件事破坏力太大了。",
-    "zh_hant": "因為在一屆相當不錯的世界盃之後，這件事破壞力太大了。"
+    "zh": "因为在一次相当不错的世界杯后，这原本会造成巨大损害。",
+    "zh_hant": "因為在一次相當不錯的世界盃後，這原本會造成巨大損害。"
   },
   {
-    "index": 38,
+    "index": 35,
     "text": "When you say stepped back from the precipice, why do you say that?",
     "start": 147.264,
     "end": 149.945,
@@ -312,55 +288,55 @@
     "zh_hant": "你說從懸崖邊退了回來，為什麼這麼說？"
   },
   {
-    "index": 39,
+    "index": 36,
     "text": "Well, because UEFA initially, as you said, on Thursday,",
     "start": 150.405,
     "end": 154.687,
-    "zh": "因为欧足联最初，如你所说，在周四，",
-    "zh_hant": "因為歐足聯最初，如你所說，在週四，"
+    "zh": "因为欧洲足球联合会最初，如你所说，在周四，",
+    "zh_hant": "因為歐洲足球聯合會最初，如你所說，在週四，"
   },
   {
-    "index": 40,
+    "index": 37,
     "text": "had threatened to boycott the World Cup, and not simply the men's World Cup in 2030.",
     "start": 154.337,
     "end": 159.2,
-    "zh": "就威胁要抵制世界杯，而且不仅仅是2030年的男足世界杯。",
-    "zh_hant": "就威脅要抵制世界盃，而且不僅僅是2030年的男足世界盃。"
+    "zh": "威胁要抵制世界杯，而且不仅仅是2030年男子世界杯。",
+    "zh_hant": "威脅要抵制世界盃，而且不僅僅是2030年男子世界盃。"
   },
   {
-    "index": 41,
+    "index": 38,
     "text": "There's a women's under-20 tournament coming up,",
     "start": 158.8,
     "end": 163.392,
-    "zh": "即将有一个女子U20锦标赛，",
-    "zh_hant": "即將有一個女子U20錦標賽，"
+    "zh": "即将有一项女子U20锦标赛，",
+    "zh_hant": "即將有一項女子U20錦標賽，"
   },
   {
-    "index": 42,
+    "index": 39,
     "text": "there's obviously the Women's World Cup next year in Brazil, and you have to think of all the athletes,",
     "start": 163.042,
     "end": 168.575,
-    "zh": "显然还有明年在巴西举办的女足世界杯，你得想想所有的运动员、",
-    "zh_hant": "顯然還有明年在巴西舉辦的女足世界盃，你得想想所有的運動員、"
+    "zh": "显然还有明年在巴西举行的女子世界杯，你必须想到所有那些",
+    "zh_hant": "顯然還有明年在巴西舉行的女子世界盃，你必須想到所有那些"
   },
   {
-    "index": 43,
+    "index": 40,
     "text": "all the players, all the coaches who are preparing excitedly for that, for what could well be the peak of their careers,",
     "start": 168.225,
     "end": 173.737,
-    "zh": "所有的球员、所有的教练，他们正为这可能成为职业生涯巅峰的比赛兴奋地备战，",
-    "zh_hant": "所有的球員、所有的教練，他們正為這可能成為職業生涯巔峰的比賽興奮地備戰，"
+    "zh": "正在为可能成为他们职业生涯巅峰的赛事而兴奋备战的运动员、球员和教练，",
+    "zh_hant": "正在為可能成為他們職業生涯巔峰的賽事而興奮備戰的運動員、球員和教練，"
   },
   {
-    "index": 44,
+    "index": 41,
     "text": "and that was all put at risk by one individual, not one organisation.",
     "start": 173.577,
     "end": 178.419,
-    "zh": "而这一切都被一个人置于险境，不是一个组织。",
-    "zh_hant": "而這一切都被一個人置於險境，不是一個組織。"
+    "zh": "而这些都被一个人置于风险之中，不是一个组织。",
+    "zh_hant": "而這些都被一個人置於風險之中，不是一個組織。"
   },
   {
-    "index": 45,
+    "index": 42,
     "text": "One individual, and that is Infantino.",
     "start": 178.069,
     "end": 180.54,
@@ -368,159 +344,167 @@
     "zh_hant": "一個人，那就是因凡蒂諾。"
   },
   {
-    "index": 46,
+    "index": 43,
     "text": "And so, what do you think his future is?",
     "start": 180.801,
     "end": 182.722,
-    "zh": "那么，你认为他的未来会怎样？",
-    "zh_hant": "那麼，你認為他的未來會怎樣？"
+    "zh": "那你认为他的未来如何？",
+    "zh_hant": "那你認為他的未來如何？"
   },
   {
-    "index": 47,
+    "index": 44,
     "text": "Can he survive this level of criticism and the kind of reaction that's happened around it?",
     "start": 182.372,
     "end": 187.364,
-    "zh": "他能承受如此程度的批评以及由此引发的各种反应吗？",
-    "zh_hant": "他能承受如此程度的批評以及由此引發的各種反應嗎？"
+    "zh": "他能挺过这种程度的批评以及围绕此事的反应吗？",
+    "zh_hant": "他能挺過這種程度的批評以及圍繞此事的反應嗎？"
   },
   {
-    "index": 48,
-    "text": "Well, he's quite a sly fox, so you imagine that over the next few days",
+    "index": 45,
+    "text": "Well, he's quite a sly fox,",
     "start": 187.764,
-    "end": 193.607,
-    "zh": "他挺狡猾的，所以你想象在接下来的几天里，",
-    "zh_hant": "他挺狡猾的，所以你想象在接下來的幾天裡，"
+    "end": 190.005,
+    "zh": "嗯，他相当狡猾，",
+    "zh_hant": "嗯，他相當狡猾，"
   },
   {
-    "index": 49,
+    "index": 46,
+    "text": "so you imagine that over the next few days",
+    "start": 189.825,
+    "end": 193.607,
+    "zh": "所以你可以想象，在接下来的几天里",
+    "zh_hant": "所以你可以想象，在接下來的幾天裡"
+  },
+  {
+    "index": 47,
     "text": "he will announce that he is digging selflessly into FIFA's reserves,",
     "start": 193.287,
     "end": 199.43,
-    "zh": "他会宣布自己无私地动用国际足联的储备金，",
-    "zh_hant": "他會宣佈自己無私地動用國際足聯的儲備金，"
+    "zh": "他会宣布他将无私地动用国际足联的储备金，",
+    "zh_hant": "他會宣佈他將無私地動用國際足聯的儲備金，"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "their cash reserves, And actually passing on some of this money for development throughout the world, which is needed.",
     "start": 199.08,
     "end": 205.333,
-    "zh": "现金储备，然后把这笔钱的一部分用于全球发展，这是有需要的。",
-    "zh_hant": "現金儲備，然後把這筆錢的一部分用於全球發展，這是有需要的。"
+    "zh": "他们的现金储备，并实际上将部分资金用于全球发展，这是需要的。",
+    "zh_hant": "他們的現金儲備，並實際上將部分資金用於全球發展，這是需要的。"
+  },
+  {
+    "index": 49,
+    "text": "No one disputes that.",
+    "start": 204.983,
+    "end": 206.394,
+    "zh": "没有人对此有异议。",
+    "zh_hant": "沒有人對此有異議。"
+  },
+  {
+    "index": 50,
+    "text": "There are a lot of disadvantaged countries, which could do with extra finance for infrastructure, coaching elements, like that.",
+    "start": 206.044,
+    "end": 212.437,
+    "zh": "有很多贫困国家，它们需要额外资金用于基础设施、教练培训等。",
+    "zh_hant": "有很多貧困國家，它們需要額外資金用於基礎設施、教練培訓等。"
   },
   {
     "index": 51,
     "text": "No one disputes that.",
-    "start": 204.983,
-    "end": 206.394,
-    "zh": "没有人否认这一点。",
-    "zh_hant": "沒有人否認這一點。"
+    "start": 212.087,
+    "end": 213.337,
+    "zh": "没有人对此有异议。",
+    "zh_hant": "沒有人對此有異議。"
   },
   {
     "index": 52,
-    "text": "There are a lot of disadvantaged countries, which could do with extra finance for infrastructure, coaching elements, like that.",
-    "start": 206.044,
-    "end": 212.437,
-    "zh": "有很多欠发达国家，它们确实需要额外资金用于基础设施、教练培养之类的。",
-    "zh_hant": "有很多欠發達國家，它們確實需要額外資金用於基礎設施、教練培養之類的。"
-  },
-  {
-    "index": 53,
-    "text": "No one disputes that.",
-    "start": 212.087,
-    "end": 213.337,
-    "zh": "没有人否认这一点。",
-    "zh_hant": "沒有人否認這一點。"
-  },
-  {
-    "index": 54,
     "text": "But FIFA does actually have the money, particularly on the back of a very profitable World Cup.",
     "start": 212.987,
     "end": 217.039,
-    "zh": "但国际足联确实有钱，尤其是在一届利润丰厚的世界杯之后。",
-    "zh_hant": "但國際足聯確實有錢，尤其是在一屆利潤豐厚的世界盃之後。"
+    "zh": "但国际足联确实有钱，尤其是得益于一届非常赚钱的世界杯。",
+    "zh_hant": "但國際足聯確實有錢，尤其是得益於一屆非常賺錢的世界盃。"
+  },
+  {
+    "index": 53,
+    "text": "And then you would imagine what he will also do is dangle",
+    "start": 216.839,
+    "end": 219.96,
+    "zh": "然后你可以想象他还会做什么，他会抛出",
+    "zh_hant": "然後你可以想象他還會做什麼，他會丟擲"
+  },
+  {
+    "index": 54,
+    "text": "a huge carrot in the form of a 64-team World Cup in 2030.",
+    "start": 219.61,
+    "end": 225.033,
+    "zh": "一个巨大的诱饵，即2030年的64队世界杯。",
+    "zh_hant": "一個巨大的誘餌，即2030年的64隊世界盃。"
   },
   {
     "index": 55,
-    "text": "And then you would imagine what he will also do is dangle a huge carrot",
-    "start": 216.839,
-    "end": 221.441,
-    "zh": "然后你会想象，他还会抛出巨大的诱饵，",
-    "zh_hant": "然後你會想象，他還會丟擲巨大的誘餌，"
-  },
-  {
-    "index": 56,
-    "text": "in the form of a 64-team World Cup in 2030.",
-    "start": 221.522,
-    "end": 225.033,
-    "zh": "即以2030年64支球队参加世界杯的形式。",
-    "zh_hant": "即以2030年64支球隊參加世界盃的形式。"
-  },
-  {
-    "index": 57,
     "text": "Now, only about 80 of the 211 countries have actually competed in the men's World Cup.",
     "start": 225.083,
     "end": 231.286,
-    "zh": "目前，211个国家中只有大约80个真正参加过男足世界杯。",
-    "zh_hant": "目前，211個國家中只有大約80個真正參加過男足世界盃。"
+    "zh": "目前211个国家中只有大约80个真正参加过男子世界杯。",
+    "zh_hant": "目前211個國家中只有大約80個真正參加過男子世界盃。"
   },
   {
-    "index": 58,
+    "index": 56,
     "text": "So, the vast majority is going to be very tempting.",
     "start": 230.936,
     "end": 234.668,
-    "zh": "所以，绝大多数国家会觉得这非常诱人。",
-    "zh_hant": "所以，絕大多數國家會覺得這非常誘人。"
+    "zh": "所以，绝大多数国家将会非常受诱惑。",
+    "zh_hant": "所以，絕大多數國家將會非常受誘惑。"
   },
   {
-    "index": 59,
+    "index": 57,
     "text": "So that then moves on to the March re-election,",
     "start": 234.488,
     "end": 238.45,
-    "zh": "这样，就为三月的连任选举铺路，",
-    "zh_hant": "這樣，就為三月的連任選舉鋪路，"
+    "zh": "然后这就过渡到3月的连任选举，",
+    "zh_hant": "然後這就過渡到3月的連任選舉，"
   },
   {
-    "index": 60,
+    "index": 58,
     "text": "and he will hope to gain another four years on the back of those two elements.",
     "start": 239.45,
     "end": 244.633,
-    "zh": "他希望借助这两点再获得四年的任期。",
-    "zh_hant": "他希望藉助這兩點再獲得四年的任期。"
+    "zh": "他希望借助这两项因素再获得四年任期。",
+    "zh_hant": "他希望藉助這兩項因素再獲得四年任期。"
   },
   {
-    "index": 61,
+    "index": 59,
     "text": "Personally, I would rather see FIFA act decisively now, remove him, and get a caretaker in.",
     "start": 244.493,
     "end": 249.295,
-    "zh": "就我个人而言，我宁愿看到国际足联现在果断行动，将他免职，并找个临时接任者。",
-    "zh_hant": "就我個人而言，我寧願看到國際足聯現在果斷行動，將他免職，並找個臨時接任者。"
+    "zh": "就我个人而言，我更希望国际足联现在果断行动，撤掉他，并任命一位临时负责人。",
+    "zh_hant": "就我個人而言，我更希望國際足聯現在果斷行動，撤掉他，並任命一位臨時負責人。"
   },
   {
-    "index": 62,
+    "index": 60,
     "text": "And just to go back to the plan itself, I mean, presumably there would have been some countries who stood to benefit.",
     "start": 249.856,
     "end": 255.078,
-    "zh": "回到那个计划本身，我想，大概会有一些国家本来可以从中受益。",
-    "zh_hant": "回到那個計劃本身，我想，大概會有一些國家本來可以從中受益。"
+    "zh": "再回到计划本身，我猜本来会有一些国家从中受益。",
+    "zh_hant": "再回到計劃本身，我猜本來會有一些國家從中受益。"
   },
   {
-    "index": 63,
+    "index": 61,
     "text": "Do you think they'll get some kind of money instead anyway?",
     "start": 255.578,
     "end": 258.82,
-    "zh": "你觉得他们还是会得到某种形式的资金补偿吗？",
-    "zh_hant": "你覺得他們還是會得到某種形式的資金補償嗎？"
+    "zh": "你认为他们还是会得到某种资金吗？",
+    "zh_hant": "你認為他們還是會得到某種資金嗎？"
   },
   {
-    "index": 64,
+    "index": 62,
     "text": "Yes, because he can dig into FIFA's reserves.",
     "start": 258.96,
     "end": 261.621,
-    "zh": "会的，因为他可以动用国际足联的储备金。",
-    "zh_hant": "會的，因為他可以動用國際足聯的儲備金。"
+    "zh": "是的，因为他可以动用国际足联的储备金。",
+    "zh_hant": "是的，因為他可以動用國際足聯的儲備金。"
   },
   {
-    "index": 65,
+    "index": 63,
     "text": "I mean, FIFA is a not-for-profit organisation.",
     "start": 261.271,
     "end": 264.222,
@@ -528,143 +512,143 @@
     "zh_hant": "我的意思是，國際足聯是一個非營利組織。"
   },
   {
-    "index": 66,
+    "index": 64,
     "text": "They've got money in the accounts, particularly on the back of a very lucrative World Cup.",
     "start": 263.872,
     "end": 267.484,
-    "zh": "他们账上是有钱的，尤其是在一届非常赚钱的世界杯之后。",
-    "zh_hant": "他們賬上是有錢的，尤其是在一屆非常賺錢的世界盃之後。"
+    "zh": "他们的账上有钱，尤其是凭借一届利润丰厚的世界杯。",
+    "zh_hant": "他們的賬上有錢，尤其是憑藉一屆利潤豐厚的世界盃。"
   },
   {
-    "index": 67,
+    "index": 65,
     "text": "They could dispense that anyway.",
     "start": 267.134,
     "end": 269.165,
-    "zh": "他们本来就可以发放这些钱。",
-    "zh_hant": "他們本來就可以發放這些錢。"
+    "zh": "他们本来就可以发放这些资金。",
+    "zh_hant": "他們本來就可以發放這些資金。"
   },
   {
-    "index": 68,
+    "index": 66,
     "text": "So absolutely.",
     "start": 269.165,
     "end": 270.325,
-    "zh": "所以绝对会的。",
-    "zh_hant": "所以絕對會的。"
+    "zh": "所以绝对如此。",
+    "zh_hant": "所以絕對如此。"
   },
   {
-    "index": 69,
+    "index": 67,
     "text": "And even though, as you rightly say,",
     "start": 269.975,
     "end": 272.046,
-    "zh": "而且即使，正如你所说，",
-    "zh_hant": "而且即使，正如你所說，"
+    "zh": "而且即使，如你正确指出的，",
+    "zh_hant": "而且即使，如你正確指出的，"
   },
   {
-    "index": 70,
+    "index": 68,
     "text": "there was an element of unanimity in the pronouncements",
     "start": 271.786,
     "end": 276.548,
-    "zh": "在声明中有一致性，",
-    "zh_hant": "在宣告中有一致性，"
+    "zh": "在声明上存在某种一致性，",
+    "zh_hant": "在宣告上存在某種一致性，"
   },
   {
-    "index": 71,
+    "index": 69,
     "text": "from certainly three of the confederations individually,",
     "start": 276.229,
     "end": 280.791,
-    "zh": "至少三大洲际联合会各自如此表态时，",
-    "zh_hant": "至少三大洲際聯合會各自如此表態時，"
+    "zh": "至少来自于三个足联各自发表的意见，",
+    "zh_hant": "至少來自於三個足聯各自發表的意見，"
   },
   {
-    "index": 72,
+    "index": 70,
     "text": "when it comes to the vote, and they've got the possibility of this cash,",
     "start": 280.441,
     "end": 283.993,
-    "zh": "到了投票的时候，他们有可能拿到这笔钱，",
-    "zh_hant": "到了投票的時候，他們有可能拿到這筆錢，"
+    "zh": "但在投票时，考虑到他们有可能获得这笔现金，",
+    "zh_hant": "但在投票時，考慮到他們有可能獲得這筆現金，"
   },
   {
-    "index": 73,
+    "index": 71,
     "text": "they might not necessarily vote confederation-wide.",
     "start": 283.693,
     "end": 287.414,
-    "zh": "他们可能不会按整个联合会统一投票。",
-    "zh_hant": "他們可能不會按整個聯合會統一投票。"
+    "zh": "他们可能不会按照整个足联统一投票。",
+    "zh_hant": "他們可能不會按照整個足聯統一投票。"
   },
   {
-    "index": 74,
+    "index": 72,
     "text": "And you suggested that Gianni Infantino might have ways of trying to preserve his position,",
     "start": 287.515,
     "end": 292.077,
-    "zh": "你提到詹尼·因凡蒂诺可能有办法试图保住自己的位置，",
-    "zh_hant": "你提到詹尼·因凡蒂諾可能有辦法試圖保住自己的位置，"
+    "zh": "你提到詹尼·因凡蒂诺可能有办法试图保住他的位置，",
+    "zh_hant": "你提到詹尼·因凡蒂諾可能有辦法試圖保住他的位置，"
   },
   {
-    "index": 75,
+    "index": 73,
     "text": "but you've had people, including the UK Prime Minister, saying openly he's the wrong man to lead FIFA.",
     "start": 291.727,
     "end": 296.899,
-    "zh": "但也有人，包括英国首相，公开表示他是领导国际足联的错误人选。",
-    "zh_hant": "但也有人，包括英國首相，公開表示他是領導國際足聯的錯誤人選。"
+    "zh": "但是，包括英国首相在内的人都公开表示他是不适合领导国际足联的人选。",
+    "zh_hant": "但是，包括英國首相在內的人都公開表示他是不適合領導國際足聯的人選。"
   },
   {
-    "index": 76,
+    "index": 74,
     "text": "Do you think he'll manage to sustain that pressure?",
     "start": 297.439,
     "end": 299.84,
-    "zh": "你认为他能顶住那种压力吗？",
-    "zh_hant": "你認為他能頂住那種壓力嗎？"
+    "zh": "你认为他能顶得住那种压力吗？",
+    "zh_hant": "你認為他能頂得住那種壓力嗎？"
   },
   {
-    "index": 77,
+    "index": 75,
     "text": "With respect to the outside noise and the outside pressure,",
     "start": 299.941,
     "end": 303.002,
-    "zh": "相对于外界的噪音和外部压力，",
-    "zh_hant": "相對於外界的噪音和外部壓力，"
+    "zh": "撇开外部噪音和外部压力不谈，",
+    "zh_hant": "撇開外部噪音和外部壓力不談，"
   },
   {
-    "index": 78,
+    "index": 76,
     "text": "what is really damaging for him is an almost Shakespearean scenario,",
     "start": 302.652,
     "end": 307.164,
-    "zh": "真正对他造成致命打击的是一种近乎莎士比亚式的场景，",
-    "zh_hant": "真正對他造成致命打擊的是一種近乎莎士比亞式的場景，"
+    "zh": "真正对他不利的是一种近乎莎士比亚式的局面，",
+    "zh_hant": "真正對他不利的是一種近乎莎士比亞式的局面，"
   },
   {
-    "index": 79,
+    "index": 77,
     "text": "with people close to him, as you say, he's number two, and people very close to him,",
     "start": 307.244,
     "end": 312.487,
-    "zh": "他身边的人，如你所说，他的二把手，以及非常亲近的人，",
-    "zh_hant": "他身邊的人，如你所說，他的二把手，以及非常親近的人，"
+    "zh": "他身边的人，如你所说，他的副手，以及与他关系密切的人，",
+    "zh_hant": "他身邊的人，如你所說，他的副手，以及與他關係密切的人，"
   },
   {
-    "index": 80,
+    "index": 78,
     "text": "very respected within FIFA, saying, we have been deceived, this is wrong.",
     "start": 312.137,
     "end": 316.789,
-    "zh": "在国际足联内部备受尊敬的人，说，我们被欺骗了，这是错误的。",
-    "zh_hant": "在國際足聯內部備受尊敬的人，說，我們被欺騙了，這是錯誤的。"
+    "zh": "在国际足联内部备受尊重的人，说我们被欺骗了，这是错误的。",
+    "zh_hant": "在國際足聯內部備受尊重的人，說我們被欺騙了，這是錯誤的。"
   },
   {
-    "index": 81,
+    "index": 79,
     "text": "Protocol, process, Governance has not been followed.",
     "start": 316.729,
     "end": 320.873,
-    "zh": "规程、程序、治理都没有得到遵守。",
-    "zh_hant": "規程、程式、治理都沒有得到遵守。"
+    "zh": "协议、流程、治理都没有得到遵守。",
+    "zh_hant": "協議、流程、治理都沒有得到遵守。"
   },
   {
-    "index": 82,
+    "index": 80,
     "text": "That is the real danger to him if people on the inside turn on him.",
     "start": 320.733,
     "end": 324.557,
-    "zh": "如果内部人士转而反对他，那才是他真正的危险。",
-    "zh_hant": "如果內部人士轉而反對他，那才是他真正的危險。"
+    "zh": "如果内部的人转而反对他，那才是他真正的危险。",
+    "zh_hant": "如果內部的人轉而反對他，那才是他真正的危險。"
   },
   {
-    "index": 83,
+    "index": 81,
     "text": "Henry Winter, I really appreciate your analysis this morning.",
     "start": 325.038,
     "end": 327.82,
@@ -672,11 +656,11 @@
     "zh_hant": "亨利·溫特，非常感謝你今早的分析。"
   },
   {
-    "index": 84,
+    "index": 82,
     "text": "Thank you very much for joining us.",
     "start": 327.47,
     "end": 328.782,
-    "zh": "非常感谢你参加我们的节目。",
-    "zh_hant": "非常感謝你參加我們的節目。"
+    "zh": "非常感谢你的参与。",
+    "zh_hant": "非常感謝你的參與。"
   }
 ]

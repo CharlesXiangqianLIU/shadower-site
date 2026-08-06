@@ -4,24 +4,24 @@
     "text": "A new fund is working to save 100 of the world's most threatened species.",
     "start": 0.07,
     "end": 5.152,
-    "zh": "一个新基金正在努力拯救全球100种最受威胁的物种。",
-    "zh_hant": "一個新基金正在努力拯救全球100種最受威脅的物種。"
+    "zh": "一项新基金正致力于拯救全球100种最受威胁的物种。",
+    "zh_hant": "一項新基金正致力於拯救全球100種最受威脅的物種。"
   },
   {
     "index": 1,
-    "text": "The Phoenix Species Project will put $200 million",
+    "text": "The Phoenix Species Project will put $200 million towards",
     "start": 4.802,
-    "end": 8.174,
-    "zh": "凤凰物种项目将投入2亿美元",
-    "zh_hant": "鳳凰物種專案將投入2億美元"
+    "end": 8.934,
+    "zh": "凤凰物种项目将投入2亿美元，",
+    "zh_hant": "鳳凰物種專案將投入2億美元，"
   },
   {
     "index": 2,
-    "text": "towards restoring animals in the wild and stopping them from going extinct.",
-    "start": 8.154,
+    "text": "restoring animals in the wild and stopping them from going extinct.",
+    "start": 8.584,
     "end": 12.496,
-    "zh": "用于恢复野生动物的种群，并阻止它们走向灭绝。",
-    "zh_hant": "用於恢復野生動物的種群，並阻止它們走向滅絕。"
+    "zh": "用于恢复野生动物种群并防止它们灭绝。",
+    "zh_hant": "用於恢復野生動物種群並防止它們滅絕。"
   },
   {
     "index": 3,
@@ -33,150 +33,142 @@
   },
   {
     "index": 4,
-    "text": "The project is a collaboration between the Bezos Earth Fund",
+    "text": "The project is a collaboration between the Bezos Earth Fund and Rewild,",
     "start": 15.608,
-    "end": 18.939,
-    "zh": "该项目是贝索斯地球基金之间的合作",
-    "zh_hant": "該專案是貝索斯地球基金之間的合作"
+    "end": 20.0,
+    "zh": "该项目是贝索斯地球基金与Rewild合作的项目，",
+    "zh_hant": "該專案是貝索斯地球基金與Rewild合作的專案，"
   },
   {
     "index": 5,
-    "text": "and Rewild, a nonprofit co-founded by actor Leonardo DiCaprio.",
-    "start": 18.599,
+    "text": "a nonprofit co-founded by actor Leonardo DiCaprio.",
+    "start": 19.82,
     "end": 23.021,
-    "zh": "与“再野化”组织合作，该组织由演员莱昂纳多·迪卡普里奥共同创立。",
-    "zh_hant": "與“再野化”組織合作，該組織由演員萊昂納多·迪卡普里奧共同創立。"
+    "zh": "Rewild是一家由演员莱昂纳多·迪卡普里奥联合创办的非营利组织。",
+    "zh_hant": "Rewild是一家由演員萊昂納多·迪卡普里奧聯合創辦的非營利組織。"
   },
   {
     "index": 6,
     "text": "And it all comes at a time when conservationists have warned about a decline in global biodiversity",
     "start": 22.961,
     "end": 28.584,
-    "zh": "这一切发生之际，环保人士已对全球生物多样性下降发出警告",
-    "zh_hant": "這一切發生之際，環保人士已對全球生物多樣性下降發出警告"
+    "zh": "而这一切正值环保人士警告全球生物多样性下降之际，",
+    "zh_hant": "而這一切正值環保人士警告全球生物多樣性下降之際，"
   },
   {
     "index": 7,
     "text": "in just a few weeks after the Trump administration rolled back endangered species protections.",
     "start": 28.564,
     "end": 33.586,
-    "zh": "就在特朗普政府撤销濒危物种保护措施后几周。",
-    "zh_hant": "就在特朗普政府撤銷瀕危物種保護措施後幾周。"
+    "zh": "就在特朗普政府撤销濒危物种保护措施几周之后。",
+    "zh_hant": "就在特朗普政府撤銷瀕危物種保護措施幾周之後。"
   },
   {
     "index": 8,
     "text": "On that list of plants and animals, the ones we'll focus on are the golden crown sifaka.",
     "start": 33.507,
     "end": 39.709,
-    "zh": "在这份动植物名单上，我们将重点关注金冠狐猴。",
-    "zh_hant": "在這份動植物名單上，我們將重點關注金冠狐猴。"
+    "zh": "在那份动植物名单上，我们重点关注的是金冠冕狐猴。",
+    "zh_hant": "在那份動植物名單上，我們重點關注的是金冠冕狐猴。"
   },
   {
     "index": 9,
     "text": "That's an animal found in Madagascar that travels through trees, leaping from trunk to trunk.",
     "start": 39.359,
     "end": 44.772,
-    "zh": "这是一种在马达加斯加发现的动物，它在树间穿梭，从树干跳到树干。",
-    "zh_hant": "這是一種在馬達加斯加發現的動物，它在樹間穿梭，從樹幹跳到樹幹。"
+    "zh": "这是一种在马达加斯加发现的动物，会在树间穿行，从一棵树干跳到另一棵。",
+    "zh_hant": "這是一種在馬達加斯加發現的動物，會在樹間穿行，從一棵樹幹跳到另一棵。"
   },
   {
     "index": 10,
     "text": "And the hickory nut gorge green salamander.",
     "start": 44.713,
     "end": 47.854,
-    "zh": "还有山核桃峡谷绿蝾螈。",
-    "zh_hant": "還有山核桃峽谷綠蠑螈。"
+    "zh": "还有山核桃峡绿蝾螈。",
+    "zh_hant": "還有山核桃峽綠蠑螈。"
   },
   {
     "index": 11,
     "text": "That's an amphibian, you see it here, found in the mountains of western North Carolina.",
     "start": 47.504,
     "end": 51.536,
-    "zh": "这是一种两栖动物，你在这里看到它，生活在美国北卡罗来纳州西部的山区。",
-    "zh_hant": "這是一種兩棲動物，你在這裡看到它，生活在美國北卡羅來納州西部的山區。"
+    "zh": "这是一种两栖动物，你在这里看到的，生活在美国北卡罗来纳州西部的山区。",
+    "zh_hant": "這是一種兩棲動物，你在這裡看到的，生活在美國北卡羅來納州西部的山區。"
   },
   {
     "index": 12,
     "text": "It spends most of its life in trees, on cliff faces, and on boulders.",
     "start": 51.456,
     "end": 56.398,
-    "zh": "它一生大部分时间生活在树上、悬崖表面和巨石上。",
-    "zh_hant": "它一生大部分時間生活在樹上、懸崖表面和巨石上。"
+    "zh": "它一生大部分时间都在树上、悬崖表面和巨石上度过。",
+    "zh_hant": "它一生大部分時間都在樹上、懸崖表面和巨石上度過。"
   },
   {
     "index": 13,
     "text": "I spoke to Barney Long.",
     "start": 56.298,
     "end": 57.799,
-    "zh": "我与巴尼·朗进行了交流。",
-    "zh_hant": "我與巴尼·朗進行了交流。"
+    "zh": "我采访了巴尼·朗。",
+    "zh_hant": "我採訪了巴尼·朗。"
   },
   {
     "index": 14,
     "text": "He's REE Wild's Senior Director of Conservation Strategies.",
     "start": 57.449,
     "end": 60.66,
-    "zh": "他是“再野化”组织保护策略的高级主管。",
-    "zh_hant": "他是“再野化”組織保護策略的高階主管。"
+    "zh": "他是Rewild保护战略高级总监。",
+    "zh_hant": "他是Rewild保護戰略高階總監。"
   },
   {
     "index": 15,
     "text": "He told me how they put this list of 100 species together.",
     "start": 60.31,
     "end": 63.842,
-    "zh": "他告诉我他们是如何整合出这份100种物种名单的。",
-    "zh_hant": "他告訴我他們是如何整合出這份100種物種名單的。"
+    "zh": "他告诉我他们是如何把这份百种物种名单整理出来的。",
+    "zh_hant": "他告訴我他們是如何把這份百種物種名單整理出來的。"
   },
   {
     "index": 16,
     "text": "We put the list together by looking at all of the globally critically endangered species",
     "start": 65.423,
     "end": 71.826,
-    "zh": "我们通过查看所有全球极度濒危物种来整合名单",
-    "zh_hant": "我們透過檢視所有全球極度瀕危物種來整合名單"
+    "zh": "我们通过查看所有全球极危物种来制定名单，",
+    "zh_hant": "我們透過檢視所有全球極危物種來制定名單，"
   },
   {
     "index": 17,
     "text": "that are on the IUCN Red List.",
     "start": 71.476,
     "end": 73.967,
-    "zh": "这些物种都列在IUCN红色名录上。",
-    "zh_hant": "這些物種都列在IUCN紅色名錄上。"
+    "zh": "这些物种都在IUCN红色名录上。",
+    "zh_hant": "這些物種都在IUCN紅色名錄上。"
   },
   {
     "index": 18,
     "text": "We then identified 30 countries that have the most critically endangered species.",
     "start": 74.047,
     "end": 79.95,
-    "zh": "然后我们确定了拥有最多极度濒危物种的30个国家。",
-    "zh_hant": "然後我們確定了擁有最多極度瀕危物種的30個國家。"
+    "zh": "然后我们识别出拥有最多极危物种的30个国家。",
+    "zh_hant": "然後我們識別出擁有最多極危物種的30個國家。"
   },
   {
     "index": 19,
-    "text": "And from there, we started to look at what was the diversity",
+    "text": "And from there, we started to look at what was the diversity of species across the world,",
     "start": 79.95,
-    "end": 84.612,
-    "zh": "从那里，我们开始审视物种多样性",
-    "zh_hant": "從那裡，我們開始審視物種多樣性"
+    "end": 86.553,
+    "zh": "从那里开始，我们研究全球物种的多样性，",
+    "zh_hant": "從那裡開始，我們研究全球物種的多樣性，"
   },
   {
     "index": 20,
-    "text": "of species across the world,",
-    "start": 84.412,
-    "end": 86.553,
-    "zh": "在全世界范围内，",
-    "zh_hant": "在全世界範圍內，"
-  },
-  {
-    "index": 21,
     "text": "looking at the different habitats.",
     "start": 87.014,
     "end": 89.555,
-    "zh": "关注不同的栖息地。",
-    "zh_hant": "關注不同的棲息地。"
+    "zh": "观察不同的栖息地。",
+    "zh_hant": "觀察不同的棲息地。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "the different threats that species could face,",
     "start": 89.495,
     "end": 93.777,
@@ -184,63 +176,63 @@
     "zh_hant": "物種可能面臨的不同威脅，"
   },
   {
-    "index": 23,
-    "text": "and pulled together a representative sample",
+    "index": 22,
+    "text": "and pulled together a representative sample of species",
     "start": 93.657,
-    "end": 96.798,
-    "zh": "并汇集了一个具有代表性的样本",
-    "zh_hant": "並彙集了一個具有代表性的樣本"
+    "end": 98.019,
+    "zh": "并汇集了一个有代表性的物种样本，",
+    "zh_hant": "並彙集了一個有代表性的物種樣本，"
+  },
+  {
+    "index": 23,
+    "text": "that covers all of those different ideas",
+    "start": 97.839,
+    "end": 102.021,
+    "zh": "涵盖了所有这些不同的因素，",
+    "zh_hant": "涵蓋了所有這些不同的因素，"
   },
   {
     "index": 24,
-    "text": "of species that covers all of those different ideas",
-    "start": 96.718,
-    "end": 102.021,
-    "zh": "覆盖了所有这些不同理念的物种",
-    "zh_hant": "覆蓋了所有這些不同理念的物種"
-  },
-  {
-    "index": 25,
     "text": "so that we could pull together a list that was really representative of species across the world.",
     "start": 101.841,
     "end": 107.003,
-    "zh": "这样我们就能整合出一份真正代表全球物种的名单。",
-    "zh_hant": "這樣我們就能整合出一份真正代表全球物種的名單。"
+    "zh": "这样我们就能整理出一份真正代表全球物种的名单。",
+    "zh_hant": "這樣我們就能整理出一份真正代表全球物種的名單。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "Just to take one animal from this list,",
     "start": 107.604,
     "end": 110.065,
-    "zh": "仅从这份名单中取一种动物，",
-    "zh_hant": "僅從這份名單中取一種動物，"
+    "zh": "仅从这份名单中拿一种动物来说，",
+    "zh_hant": "僅從這份名單中拿一種動物來說，"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "the golden-crowned sifaka, what has led to it being endangered?",
     "start": 109.715,
     "end": 115.848,
-    "zh": "金冠狐猴，是什么导致它濒临灭绝的？",
-    "zh_hant": "金冠狐猴，是什麼導致它瀕臨滅絕的？"
+    "zh": "金冠冕狐猴，是什么导致它濒危的？",
+    "zh_hant": "金冠冕狐猴，是什麼導致它瀕危的？"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "And exactly how do you think that this project and this funding will work to protect it?",
     "start": 115.498,
     "end": 120.811,
-    "zh": "你究竟认为这个项目和这笔资金将如何保护它？",
-    "zh_hant": "你究竟認為這個專案和這筆資金將如何保護它？"
+    "zh": "以及你认为这个项目和这笔资金将如何具体用于保护它？",
+    "zh_hant": "以及你認為這個專案和這筆資金將如何具體用於保護它？"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "The golden-crowned sifaka is a lemur from Madagascar.",
     "start": 121.251,
     "end": 125.473,
-    "zh": "金冠狐猴是一种来自马达加斯加的狐猴。",
-    "zh_hant": "金冠狐猴是一種來自馬達加斯加的狐猴。"
+    "zh": "金冠冕狐猴是来自马达加斯加的一种狐猴。",
+    "zh_hant": "金冠冕狐猴是來自馬達加斯加的一種狐猴。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "It's found in a very small area and in small forest fragments,",
     "start": 125.933,
     "end": 130.896,
@@ -248,15 +240,15 @@
     "zh_hant": "它生活在一個非常小的區域和小的森林碎片中，"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "and it's threatened by forest fires",
     "start": 131.496,
     "end": 135.718,
-    "zh": "它受到森林火灾的威胁",
-    "zh_hant": "它受到森林火災的威脅"
+    "zh": "它受到森林火灾的威胁，",
+    "zh_hant": "它受到森林火災的威脅，"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "and habitat destruction as well as poaching.",
     "start": 135.458,
     "end": 138.599,
@@ -264,36 +256,44 @@
     "zh_hant": "以及棲息地破壞和偷獵。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "And so the project that our local partners have pulled together is addressing all of those threats",
     "start": 138.74,
     "end": 144.422,
-    "zh": "因此，我们的当地合作伙伴制定的项目正在应对所有这些威胁",
-    "zh_hant": "因此，我們的當地合作伙伴制定的專案正在應對所有這些威脅"
+    "zh": "所以我们当地合作伙伴制定的项目正在应对所有这些威胁，",
+    "zh_hant": "所以我們當地合作伙伴制定的專案正在應對所有這些威脅，"
+  },
+  {
+    "index": 33,
+    "text": "so that the species can not only be saved from extinction,",
+    "start": 144.342,
+    "end": 147.524,
+    "zh": "这样该物种不仅能免于灭绝，",
+    "zh_hant": "這樣該物種不僅能免於滅絕，"
   },
   {
     "index": 34,
-    "text": "so that the species can not only be saved from extinction, but put on the road to recovery.",
-    "start": 144.342,
+    "text": "but put on the road to recovery.",
+    "start": 147.174,
     "end": 148.904,
-    "zh": "这样该物种不仅能免于灭绝，还能走上恢复之路。",
-    "zh_hant": "這樣該物種不僅能免於滅絕，還能走上恢復之路。"
+    "zh": "而且能走上恢复之路。",
+    "zh_hant": "而且能走上恢復之路。"
   },
   {
     "index": 35,
     "text": "When it comes to putting a species on the road to recovery,",
     "start": 149.365,
     "end": 152.566,
-    "zh": "在让物种走上恢复之路时，",
-    "zh_hant": "在讓物種走上恢復之路時，"
+    "zh": "在让物种走上恢复之路方面，",
+    "zh_hant": "在讓物種走上恢復之路方面，"
   },
   {
     "index": 36,
     "text": "what are some of the biggest challenges that you'll be facing?",
     "start": 153.047,
     "end": 156.628,
-    "zh": "你将面临的最大挑战有哪些？",
-    "zh_hant": "你將面臨的最大挑戰有哪些？"
+    "zh": "你们将面临的最大挑战是什么？",
+    "zh_hant": "你們將面臨的最大挑戰是什麼？"
   },
   {
     "index": 37,
@@ -313,110 +313,94 @@
   },
   {
     "index": 39,
-    "text": "Species from across the world face very different threats",
+    "text": "Species from across the world face very different threats and also very different opportunities.",
     "start": 166.454,
-    "end": 170.536,
-    "zh": "世界各地的物种面临非常不同的威胁",
-    "zh_hant": "世界各地的物種面臨非常不同的威脅"
+    "end": 173.317,
+    "zh": "世界各地的物种面临不同的威胁，也有不同的机遇。",
+    "zh_hant": "世界各地的物種面臨不同的威脅，也有不同的機遇。"
   },
   {
     "index": 40,
-    "text": "and also very different opportunities.",
-    "start": 170.836,
-    "end": 173.317,
-    "zh": "也有着非常不同的机遇。",
-    "zh_hant": "也有著非常不同的機遇。"
-  },
-  {
-    "index": 41,
     "text": "So every single species needs its own plan, its own strategy.",
     "start": 172.967,
     "end": 177.279,
-    "zh": "因此每一个物种都需要自己的计划、自己的策略。",
-    "zh_hant": "因此每一個物種都需要自己的計劃、自己的策略。"
+    "zh": "所以每个物种都需要自己的计划、自己的策略。",
+    "zh_hant": "所以每個物種都需要自己的計劃、自己的策略。"
   },
   {
-    "index": 42,
+    "index": 41,
     "text": "its own set of local stakeholders that can pull together as a team.",
     "start": 177.379,
     "end": 181.441,
-    "zh": "以及自己的一组当地利益相关者，他们能团结成一个团队。",
-    "zh_hant": "以及自己的一組當地利益相關者，他們能團結成一個團隊。"
+    "zh": "以及一套能够作为团队协作的当地利益相关者。",
+    "zh_hant": "以及一套能夠作為團隊協作的當地利益相關者。"
   },
   {
-    "index": 43,
+    "index": 42,
     "text": "It's very challenging, but we do believe with the right duration of funding and the right level of funding,",
     "start": 181.781,
     "end": 188.144,
-    "zh": "这非常具有挑战性，但我们相信，只要有正确时长和正确水平的资金支持，",
-    "zh_hant": "這非常具有挑戰性，但我們相信，只要有正確時長和正確水平的資金支援，"
+    "zh": "这非常具有挑战性，但我们相信只要有适当的资金时长和资金水平，",
+    "zh_hant": "這非常具有挑戰性，但我們相信只要有適當的資金時長和資金水平，"
   },
   {
-    "index": 44,
+    "index": 43,
     "text": "so that projects can really focus on recovery, every species stands a chance of recovery.",
     "start": 188.184,
     "end": 193.687,
-    "zh": "项目就能真正专注于恢复，每个物种都有恢复的机会。",
-    "zh_hant": "專案就能真正專注於恢復，每個物種都有恢復的機會。"
+    "zh": "让项目能真正专注于恢复，每个物种都有恢复的机会。",
+    "zh_hant": "讓專案能真正專注於恢復，每個物種都有恢復的機會。"
   },
   {
-    "index": 45,
+    "index": 44,
     "text": "And this effort is going to be collaborating with indigenous peoples, local communities as well.",
     "start": 193.647,
     "end": 199.79,
-    "zh": "这项努力还将与土著人民和当地社区合作。",
-    "zh_hant": "這項努力還將與土著人民和當地社群合作。"
+    "zh": "这项工作还将与土著人民和当地社区合作。",
+    "zh_hant": "這項工作還將與土著人民和當地社群合作。"
+  },
+  {
+    "index": 45,
+    "text": "Why did those kinds of partnerships help when it comes to protecting or restoring endangered species?",
+    "start": 199.44,
+    "end": 206.854,
+    "zh": "在保护和恢复濒危物种方面，这类合作为何有帮助？",
+    "zh_hant": "在保護和恢復瀕危物種方面，這類合作為何有幫助？"
   },
   {
     "index": 46,
-    "text": "Why did those kinds of partnerships help when it comes",
-    "start": 199.44,
-    "end": 203.772,
-    "zh": "为什么这类伙伴关系有助于",
-    "zh_hant": "為什麼這類夥伴關係有助於"
+    "text": "The best stewards of land and wildlife are always the local people that live alongside them,",
+    "start": 207.794,
+    "end": 213.757,
+    "zh": "土地和野生动物的最佳管理者始终是与它们共同生活的当地人，",
+    "zh_hant": "土地和野生動物的最佳管理者始終是與它們共同生活的當地人，"
   },
   {
     "index": 47,
-    "text": "to protecting or restoring endangered species?",
-    "start": 203.422,
-    "end": 206.854,
-    "zh": "保护或恢复濒危物种？",
-    "zh_hant": "保護或恢復瀕危物種？"
+    "text": "whether that's indigenous communities, local communities, local governments, etc.",
+    "start": 213.407,
+    "end": 218.039,
+    "zh": "无论是土著社区、当地社区、地方政府等。",
+    "zh_hant": "無論是土著社群、當地社群、地方政府等。"
   },
   {
     "index": 48,
-    "text": "The best stewards of land and wildlife are always the local people that live alongside",
-    "start": 207.794,
-    "end": 213.597,
-    "zh": "土地和野生动物的最好管理者总是生活在它们旁边的当地人",
-    "zh_hant": "土地和野生動物的最好管理者總是生活在它們旁邊的當地人"
+    "text": "And so we at Rewild work very closely hand in hand to support those groups",
+    "start": 217.959,
+    "end": 224.182,
+    "zh": "所以我们在Rewild紧密携手，支持这些群体，",
+    "zh_hant": "所以我們在Rewild緊密攜手，支援這些群體，"
   },
   {
     "index": 49,
-    "text": "them, whether that's indigenous communities, local communities, local governments, etc.",
-    "start": 213.247,
-    "end": 218.039,
-    "zh": "无论是土著社区、当地社区、当地政府等。",
-    "zh_hant": "無論是土著社群、當地社群、當地政府等。"
+    "text": "so that they can do more impactful conservation.",
+    "start": 223.832,
+    "end": 227.284,
+    "zh": "让他们能开展更有影响力的保护工作。",
+    "zh_hant": "讓他們能開展更有影響力的保護工作。"
   },
   {
     "index": 50,
-    "text": "And so we at Rewild work very closely",
-    "start": 217.959,
-    "end": 221.421,
-    "zh": "因此，我们“再野化”组织非常紧密地工作",
-    "zh_hant": "因此，我們“再野化”組織非常緊密地工作"
-  },
-  {
-    "index": 51,
-    "text": "hand in hand to support those groups so that they can do more impactful conservation.",
-    "start": 221.071,
-    "end": 227.284,
-    "zh": "携手支持这些群体，以便他们能进行更有影响力的保护工作。",
-    "zh_hant": "攜手支援這些群體，以便他們能進行更有影響力的保護工作。"
-  },
-  {
-    "index": 52,
     "text": "This is a $200 million commitment, obviously a lot of money.",
     "start": 228.204,
     "end": 231.346,
@@ -424,55 +408,47 @@
     "zh_hant": "這是一項2億美元的承諾，顯然是一大筆錢。"
   },
   {
-    "index": 53,
-    "text": "But how successful do you think any kind of preservation effort can be right now",
+    "index": 51,
+    "text": "But how successful do you think any kind of preservation effort can be right",
     "start": 231.806,
-    "end": 236.808,
-    "zh": "但你认为现在任何保护努力能有多成功",
-    "zh_hant": "但你認為現在任何保護努力能有多成功"
+    "end": 236.488,
+    "zh": "但你认为在气候变化面前，任何保护努力现在能有多大的成功，",
+    "zh_hant": "但你認為在氣候變化面前，任何保護努力現在能有多大的成功，"
+  },
+  {
+    "index": 52,
+    "text": "now in the face of climate change and really in the face of what we've been witnessing recently,",
+    "start": 236.138,
+    "end": 241.351,
+    "zh": "尤其是在我们最近目睹的情况面前，",
+    "zh_hant": "尤其是在我們最近目睹的情況面前，"
+  },
+  {
+    "index": 53,
+    "text": "these climate-linked disasters, massive forest fires, or ocean temperature warming?",
+    "start": 241.001,
+    "end": 247.714,
+    "zh": "这些与气候相关的灾害、大规模森林火灾或海洋温度上升？",
+    "zh_hant": "這些與氣候相關的災害、大規模森林火災或海洋溫度上升？"
   },
   {
     "index": 54,
-    "text": "in the face of climate change and really in the face of what we've been witnessing recently,",
-    "start": 236.909,
-    "end": 241.351,
-    "zh": "面对气候变化，以及我们最近目睹的情况，",
-    "zh_hant": "面對氣候變化，以及我們最近目睹的情況，"
-  },
-  {
-    "index": 55,
-    "text": "these climate-linked disasters, massive forest fires,",
-    "start": 241.001,
-    "end": 245.453,
-    "zh": "这些与气候相关的灾害、大规模森林火灾，",
-    "zh_hant": "這些與氣候相關的災害、大規模森林火災，"
-  },
-  {
-    "index": 56,
-    "text": "or ocean temperature warming?",
-    "start": 245.333,
-    "end": 247.714,
-    "zh": "或海洋温度升高？",
-    "zh_hant": "或海洋溫度升高？"
-  },
-  {
-    "index": 57,
     "text": "You know, you focus on a few different species,",
     "start": 247.364,
     "end": 251.296,
-    "zh": "你知道，你专注于几个不同的物种，",
-    "zh_hant": "你知道，你專注於幾個不同的物種，"
+    "zh": "你知道，你们聚焦于几个不同的物种，",
+    "zh_hant": "你知道，你們聚焦於幾個不同的物種，"
   },
   {
-    "index": 58,
+    "index": 55,
     "text": "but is there a broader picture here that makes this even more challenging?",
     "start": 250.946,
     "end": 254.998,
-    "zh": "但这里是否有一个更宏大的背景使这更具挑战性？",
-    "zh_hant": "但這裡是否有一個更宏大的背景使這更具挑戰性？"
+    "zh": "但这里是否存在一个让事情更具挑战性的更大背景？",
+    "zh_hant": "但這裡是否存在一個讓事情更具挑戰性的更大背景？"
   },
   {
-    "index": 59,
+    "index": 56,
     "text": "Absolutely.",
     "start": 255.878,
     "end": 256.879,
@@ -480,7 +456,7 @@
     "zh_hant": "絕對是的。"
   },
   {
-    "index": 60,
+    "index": 57,
     "text": "The planet is facing a crisis right now,",
     "start": 256.699,
     "end": 259.88,
@@ -488,71 +464,63 @@
     "zh_hant": "地球目前正面臨危機，"
   },
   {
-    "index": 61,
-    "text": "and we need to deal with some very large systemic threats to biodiversity,",
+    "index": 58,
+    "text": "and we need to deal with some very large systemic threats",
     "start": 259.53,
-    "end": 265.043,
-    "zh": "我们需要应对一些对生物多样性的大型系统性威胁，",
-    "zh_hant": "我們需要應對一些對生物多樣性的大型系統性威脅，"
+    "end": 263.582,
+    "zh": "我们需要应对一些非常大的系统性威胁，",
+    "zh_hant": "我們需要應對一些非常大的系統性威脅，"
   },
   {
-    "index": 62,
-    "text": "to functioning ecosystems, and to a healthy planet.",
-    "start": 264.963,
+    "index": 59,
+    "text": "to biodiversity, to functioning ecosystems, and to a healthy planet.",
+    "start": 263.232,
     "end": 267.864,
-    "zh": "对功能正常的生态系统，以及对一个健康的地球。",
-    "zh_hant": "對功能正常的生態系統，以及對一個健康的地球。"
+    "zh": "对生物多样性、对正常运转的生态系统、对健康地球的威胁。",
+    "zh_hant": "對生物多樣性、對正常運轉的生態系統、對健康地球的威脅。"
   },
   {
-    "index": 63,
-    "text": "But functioning ecosystems and a healthy planet are fundamentally made up",
+    "index": 60,
+    "text": "But functioning ecosystems and a healthy planet are fundamentally made up of individual species.",
     "start": 268.044,
-    "end": 273.347,
-    "zh": "但功能正常的生态系统和健康的地球从根本上是由",
-    "zh_hant": "但功能正常的生態系統和健康的地球從根本上是由"
-  },
-  {
-    "index": 64,
-    "text": "of individual species.",
-    "start": 273.007,
     "end": 275.328,
-    "zh": "个别物种组成的。",
-    "zh_hant": "個別物種組成的。"
+    "zh": "但正常运转的生态系统和健康的地球从根本上是由个体物种组成的。",
+    "zh_hant": "但正常運轉的生態系統和健康的地球從根本上是由個體物種組成的。"
   },
   {
-    "index": 65,
+    "index": 61,
     "text": "And so we need to focus on that lowest common denominator as well as these larger processes.",
     "start": 275.288,
     "end": 281.031,
-    "zh": "因此，我们需要关注这个最小公分母，以及这些更大的过程。",
-    "zh_hant": "因此，我們需要關注這個最小公分母，以及這些更大的過程。"
+    "zh": "所以我们需要关注这个最基本的层面，同时也要关注这些更大的过程。",
+    "zh_hant": "所以我們需要關注這個最基本的層面，同時也要關注這些更大的過程。"
   },
   {
-    "index": 66,
+    "index": 62,
     "text": "And so it’s critical that we don’t lose individual species and start breaking that web of life.",
     "start": 280.681,
     "end": 286.695,
-    "zh": "所以关键是，我们不能失去个别物种，不能开始破坏生命之网。",
-    "zh_hant": "所以關鍵是，我們不能失去個別物種，不能開始破壞生命之網。"
+    "zh": "因此，不失去个体物种、不破坏生命之网至关重要。",
+    "zh_hant": "因此，不失去個體物種、不破壞生命之網至關重要。"
   },
   {
-    "index": 67,
+    "index": 63,
     "text": "And in fact, if we really put the right resources and effort in, we know",
     "start": 286.615,
     "end": 290.997,
-    "zh": "事实上，如果我们真正投入正确的资源和努力，我们知道",
-    "zh_hant": "事實上，如果我們真正投入正確的資源和努力，我們知道"
+    "zh": "事实上，如果我们真正投入适当的资源和努力，我们知道",
+    "zh_hant": "事實上，如果我們真正投入適當的資源和努力，我們知道"
   },
   {
-    "index": 68,
+    "index": 64,
     "text": "we can actually recover those species and therefore help to rebuild that web of life.",
     "start": 290.647,
     "end": 295.6,
-    "zh": "我们确实可以恢复这些物种，从而帮助重建生命之网。",
-    "zh_hant": "我們確實可以恢復這些物種，從而幫助重建生命之網。"
+    "zh": "我们确实能让这些物种恢复，从而帮助重建生命之网。",
+    "zh_hant": "我們確實能讓這些物種恢復，從而幫助重建生命之網。"
   },
   {
-    "index": 69,
+    "index": 65,
     "text": "Conservation works, we know it works.",
     "start": 295.58,
     "end": 298.322,
@@ -560,7 +528,7 @@
     "zh_hant": "保護是有效的，我們知道它有效。"
   },
   {
-    "index": 70,
+    "index": 66,
     "text": "There's multiple examples from across the world that species can recover.",
     "start": 297.972,
     "end": 302.744,
@@ -568,19 +536,19 @@
     "zh_hant": "世界各地有多個例子表明物種可以恢復。"
   },
   {
-    "index": 71,
+    "index": 67,
     "text": "Key issue is how do we focus on that and how do we scale up",
     "start": 303.065,
     "end": 307.007,
-    "zh": "关键问题是我们如何专注于这一点，以及如何扩大规模",
-    "zh_hant": "關鍵問題是我們如何專注於這一點，以及如何擴大規模"
+    "zh": "关键问题是我们如何聚焦于此，以及如何扩大规模，",
+    "zh_hant": "關鍵問題是我們如何聚焦於此，以及如何擴大規模，"
   },
   {
-    "index": 72,
+    "index": 68,
     "text": "so that all critically endangered, and endangered species have that opportunity to recover.",
     "start": 306.657,
     "end": 311.85,
-    "zh": "这样所有极度濒危和濒危物种都有机会恢复。",
-    "zh_hant": "這樣所有極度瀕危和瀕危物種都有機會恢復。"
+    "zh": "让所有极危和濒危物种都有恢复的机会。",
+    "zh_hant": "讓所有極危和瀕危物種都有恢復的機會。"
   }
 ]

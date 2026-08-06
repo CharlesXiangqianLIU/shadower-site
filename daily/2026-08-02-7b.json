@@ -4,32 +4,32 @@
     "text": "There was a time when sleeping was simple.",
     "start": 3.791,
     "end": 6.452,
-    "zh": "曾经有一段时间，睡觉是简单的事。",
-    "zh_hant": "曾經有一段時間，睡覺是簡單的事。"
+    "zh": "曾经有一段时间，睡觉是件简单的事。",
+    "zh_hant": "曾經有一段時間，睡覺是件簡單的事。"
   },
   {
     "index": 1,
     "text": "Draw the blinds, a comfy, fluffy pillow, fresh sheets,",
     "start": 6.552,
     "end": 11.634,
-    "zh": "拉上窗帘，一个舒适蓬松的枕头，干净的床单，",
-    "zh_hant": "拉上窗簾，一個舒適蓬鬆的枕頭，乾淨的床單，"
+    "zh": "拉上窗帘，一个舒服蓬松的枕头，干净的床单，",
+    "zh_hant": "拉上窗簾，一個舒服蓬鬆的枕頭，乾淨的床單，"
   },
   {
     "index": 2,
     "text": "close your eyes, drift off, job done.",
     "start": 11.594,
     "end": 15.056,
-    "zh": "闭上眼睛，入睡，搞定。",
-    "zh_hant": "閉上眼睛，入睡，搞定。"
+    "zh": "闭上眼睛，渐渐入睡，就搞定了。",
+    "zh_hant": "閉上眼睛，漸漸入睡，就搞定了。"
   },
   {
     "index": 3,
     "text": "But now, for millions of us, it's a bit more complicated than that.",
     "start": 16.977,
     "end": 20.779,
-    "zh": "但现在，对我们数百万人来说，事情变得复杂了一些。",
-    "zh_hant": "但現在，對我們數百萬人來說，事情變得複雜了一些。"
+    "zh": "但现在，对我们数百万人来说，情况要复杂得多。",
+    "zh_hant": "但現在，對我們數百萬人來說，情況要複雜得多。"
   },
   {
     "index": 4,
@@ -44,8 +44,8 @@
     "text": "There's the right bedtime, the right temperature, and the right amount of deep sleep.",
     "start": 22.06,
     "end": 27.242,
-    "zh": "有正确的就寝时间、正确的温度，以及正确的深度睡眠时长。",
-    "zh_hant": "有正確的就寢時間、正確的溫度，以及正確的深度睡眠時長。"
+    "zh": "有正确的就寝时间、正确的温度，还有正确的深度睡眠时长。",
+    "zh_hant": "有正確的就寢時間、正確的溫度，還有正確的深度睡眠時長。"
   },
   {
     "index": 6,
@@ -60,24 +60,24 @@
     "text": "It is not something we just do, it's something we measure.",
     "start": 30.824,
     "end": 34.546,
-    "zh": "它不再是我们自然而然做的事情，而是我们测量的东西。",
-    "zh_hant": "它不再是我們自然而然做的事情，而是我們測量的東西。"
+    "zh": "它不再是我们自然而然做的事，而是我们衡量的事。",
+    "zh_hant": "它不再是我們自然而然做的事，而是我們衡量的事。"
   },
   {
     "index": 8,
     "text": "Because when you spend half your life in bed, It might be time to ask,",
     "start": 34.646,
     "end": 39.268,
-    "zh": "因为当你半生都躺在床上时，或许该问问，",
-    "zh_hant": "因為當你半生都躺在床上時，或許該問問，"
+    "zh": "因为当你把半辈子都花在床上时，也许是时候问问，",
+    "zh_hant": "因為當你把半輩子都花在床上時，也許是時候問問，"
   },
   {
     "index": 9,
     "text": "is all this number crunching actually helping us rest?",
     "start": 39.088,
     "end": 42.85,
-    "zh": "这些数据计算真的能帮助我们好好休息吗？",
-    "zh_hant": "這些資料計算真的能幫助我們好好休息嗎？"
+    "zh": "这些数字分析真的在帮助我们休息吗？",
+    "zh_hant": "這些數字分析真的在幫助我們休息嗎？"
   },
   {
     "index": 10,
@@ -89,126 +89,110 @@
   },
   {
     "index": 11,
-    "text": "I'm in Paris, home to Withings, a company",
+    "text": "I'm in Paris, home to Withings, a company at the centre of this global sleep tracking boom.",
     "start": 56.192,
-    "end": 59.714,
-    "zh": "我在巴黎，这里是Withings公司的所在地，这家公司",
-    "zh_hant": "我在巴黎，這裡是Withings公司的所在地，這家公司"
+    "end": 62.795,
+    "zh": "我在巴黎，这里是Withings的所在地，一家处于全球睡眠追踪热潮核心的公司。",
+    "zh_hant": "我在巴黎，這裡是Withings的所在地，一家處於全球睡眠追蹤熱潮核心的公司。"
   },
   {
     "index": 12,
-    "text": "at the centre of this global sleep tracking boom.",
-    "start": 59.374,
-    "end": 62.795,
-    "zh": "正处于全球睡眠追踪热潮的中心。",
-    "zh_hant": "正處於全球睡眠追蹤熱潮的中心。"
-  },
-  {
-    "index": 13,
     "text": "One of the products I've been trying for the last few months is the Withings Sleep Analyser.",
     "start": 63.436,
     "end": 68.678,
-    "zh": "过去几个月，我一直在试用的一款产品是Withings睡眠分析仪。",
-    "zh_hant": "過去幾個月，我一直在試用的一款產品是Withings睡眠分析儀。"
+    "zh": "过去几个月我一直在试用的产品之一是Withings Sleep Analyser。",
+    "zh_hant": "過去幾個月我一直在試用的產品之一是Withings Sleep Analyser。"
   },
   {
-    "index": 14,
+    "index": 13,
     "text": "It is the first sleep tracker to provide sleep lab metrics without anything to wear.",
     "start": 69.099,
     "end": 74.741,
-    "zh": "它是首款无需穿戴任何设备就能提供睡眠实验室指标的睡眠追踪器。",
-    "zh_hant": "它是首款無需穿戴任何裝置就能提供睡眠實驗室指標的睡眠追蹤器。"
+    "zh": "它是第一款无需穿戴任何设备就能提供睡眠实验室指标的睡眠追踪器。",
+    "zh_hant": "它是第一款無需穿戴任何裝置就能提供睡眠實驗室指標的睡眠追蹤器。"
   },
   {
-    "index": 15,
+    "index": 14,
     "text": "You just pop it under the mattress.",
     "start": 74.661,
     "end": 76.942,
-    "zh": "你只需要把它放在床垫下面。",
-    "zh_hant": "你只需要把它放在床墊下面。"
+    "zh": "你只要把它放在床垫下面。",
+    "zh_hant": "你只要把它放在床墊下面。"
   },
   {
-    "index": 16,
+    "index": 15,
     "text": "This is what the industry calls a Nearable,",
     "start": 77.062,
     "end": 80.084,
-    "zh": "这就是行业所称的“近接设备”，",
-    "zh_hant": "這就是行業所稱的“近接裝置”，"
+    "zh": "这就是业内所谓的“Nearable”，",
+    "zh_hant": "這就是業內所謂的“Nearable”，"
   },
   {
-    "index": 17,
+    "index": 16,
     "text": "technology embedded in your environment rather than on your body.",
     "start": 80.044,
     "end": 84.386,
-    "zh": "技术嵌入你的环境中，而非戴在身上。",
-    "zh_hant": "技術嵌入你的環境中，而非戴在身上。"
+    "zh": "一种嵌入你环境中而非身体上的技术。",
+    "zh_hant": "一種嵌入你環境中而非身體上的技術。"
   },
   {
-    "index": 18,
+    "index": 17,
     "text": "What is very important in this product is that it is effortless.",
     "start": 85.367,
     "end": 89.528,
-    "zh": "这款产品非常重要的一点是它毫不费力。",
-    "zh_hant": "這款產品非常重要的一點是它毫不費力。"
+    "zh": "这款产品非常重要的一点就是它毫不费力。",
+    "zh_hant": "這款產品非常重要的一點就是它毫不費力。"
+  },
+  {
+    "index": 18,
+    "text": "So you have nothing to read, you have nothing to recharge, you have nothing to take attention to.",
+    "start": 89.769,
+    "end": 96.292,
+    "zh": "所以你不会有什么可读的东西，没什么可充电的，也不需要花费任何心思。",
+    "zh_hant": "所以你不會有什麼可讀的東西，沒什麼可充電的，也不需要花費任何心思。"
   },
   {
     "index": 19,
-    "text": "So you have nothing to read, you have nothing to recharge,",
-    "start": 89.769,
-    "end": 94.111,
-    "zh": "你不需要读任何东西，不需要充电，",
-    "zh_hant": "你不需要讀任何東西，不需要充電，"
-  },
-  {
-    "index": 20,
-    "text": "you have nothing to take attention to.",
-    "start": 93.931,
-    "end": 96.292,
-    "zh": "不需要费心去注意什么。",
-    "zh_hant": "不需要費心去注意什麼。"
-  },
-  {
-    "index": 21,
     "text": "So it's there, and it's there for years.",
     "start": 96.092,
     "end": 98.473,
-    "zh": "它就在那里，一放就是好几年。",
-    "zh_hant": "它就在那裡，一放就是好幾年。"
+    "zh": "它就在那里，而且能用很多年。",
+    "zh_hant": "它就在那裡，而且能用很多年。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "And while you sleep, it monitors tiny movements, including your breathing and heart rate.",
     "start": 100.014,
     "end": 105.717,
-    "zh": "在你睡觉时，它监测微小的动作，包括你的呼吸和心率。",
-    "zh_hant": "在你睡覺時，它監測微小的動作，包括你的呼吸和心率。"
+    "zh": "而当你睡觉时，它会监测微小的动作，包括你的呼吸和心率。",
+    "zh_hant": "而當你睡覺時，它會監測微小的動作，包括你的呼吸和心率。"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "By the morning, it's turned your night into pages of data.",
     "start": 108.618,
     "end": 112.7,
-    "zh": "到了早晨，它把你的夜晚变成了成页的数据。",
-    "zh_hant": "到了早晨，它把你的夜晚變成了成頁的資料。"
+    "zh": "到了早晨，它就把你的夜晚变成了一页页的数据。",
+    "zh_hant": "到了早晨，它就把你的夜晚變成了一頁頁的資料。"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "So how does it work?",
     "start": 114.221,
     "end": 115.622,
-    "zh": "那么它是怎么工作的呢？",
-    "zh_hant": "那麼它是怎麼工作的呢？"
+    "zh": "那它是怎么工作的呢？",
+    "zh_hant": "那它是怎麼工作的呢？"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "Here we are in the mechatronics lab.",
     "start": 116.402,
     "end": 118.543,
-    "zh": "我们现在在机电一体化实验室。",
-    "zh_hant": "我們現在在機電一體化實驗室。"
+    "zh": "我们来到了机电一体化实验室。",
+    "zh_hant": "我們來到了機電一體化實驗室。"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "Tell me about then the design of this.",
     "start": 118.223,
     "end": 121.384,
@@ -216,23 +200,23 @@
     "zh_hant": "給我講講這個的設計吧。"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "So when the body will move, it creates some pressure on this bladder,",
     "start": 121.265,
     "end": 126.807,
-    "zh": "所以当身体移动时，会对这个气囊产生压力，",
-    "zh_hant": "所以當身體移動時，會對這個氣囊產生壓力，"
+    "zh": "当身体移动时，会对这个气囊产生压力，",
+    "zh_hant": "當身體移動時，會對這個氣囊產生壓力，"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "and so the pressure sensor that is localized here records these pressure changes.",
     "start": 127.208,
     "end": 132.61,
-    "zh": "位于这里的压力传感器记录这些压力变化。",
-    "zh_hant": "位於這裡的壓力感測器記錄這些壓力變化。"
+    "zh": "而位于这里的压力传感器会记录这些压力变化。",
+    "zh_hant": "而位於這裡的壓力感測器會記錄這些壓力變化。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "When you breathe,",
     "start": 132.71,
     "end": 134.771,
@@ -240,159 +224,127 @@
     "zh_hant": "當你呼吸時，"
   },
   {
-    "index": 30,
-    "text": "your Your thoracic rise and fall",
+    "index": 28,
+    "text": "your Your thoracic rise and fall will be recorded here as well.",
     "start": 134.421,
-    "end": 139.233,
-    "zh": "你胸部的起伏",
-    "zh_hant": "你胸部的起伏"
-  },
-  {
-    "index": 31,
-    "text": "will be recorded here as well.",
-    "start": 138.934,
     "end": 140.854,
-    "zh": "也会在这里被记录下来。",
-    "zh_hant": "也會在這裡被記錄下來。"
+    "zh": "你胸廓的起伏也会在这里被记录下来。",
+    "zh_hant": "你胸廓的起伏也會在這裡被記錄下來。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "The tech aims to, by monitoring what it can through the movement of your body, heart and breathing,",
     "start": 142.335,
     "end": 148.518,
-    "zh": "这项技术旨在通过监测身体、心脏和呼吸的运动所能捕捉到的信息，",
-    "zh_hant": "這項技術旨在透過監測身體、心臟和呼吸的運動所能捕捉到的資訊，"
+    "zh": "这项技术旨在通过监测你身体、心脏和呼吸的动静能捕捉的信息，",
+    "zh_hant": "這項技術旨在透過監測你身體、心臟和呼吸的動靜能捕捉的資訊，"
   },
   {
-    "index": 33,
-    "text": "build a health score that can pre-detect disease and connect you with a doctor at exactly",
+    "index": 30,
+    "text": "build a health score that can pre-detect disease and connect you with a doctor at exactly the right time.",
     "start": 148.418,
-    "end": 154.101,
-    "zh": "建立一个健康评分，能够在关键时刻提前发现疾病",
-    "zh_hant": "建立一個健康評分，能夠在關鍵時刻提前發現疾病"
-  },
-  {
-    "index": 34,
-    "text": "the right time.",
-    "start": 153.751,
     "end": 155.001,
-    "zh": "并帮你联系医生。",
-    "zh_hant": "並幫你聯絡醫生。"
+    "zh": "建立一个健康评分，以便预先发现疾病，并在恰当时机联系医生。",
+    "zh_hant": "建立一個健康評分，以便預先發現疾病，並在恰當時機聯絡醫生。"
   },
   {
-    "index": 35,
-    "text": "One of the main conditions it can spot is sleep apnea,",
+    "index": 31,
+    "text": "One of the main conditions it can spot is sleep apnea, Which means disrupted breathing during the night,",
     "start": 155.061,
-    "end": 158.843,
-    "zh": "它能识别的主要病症之一是睡眠呼吸暂停，",
-    "zh_hant": "它能識別的主要病症之一是睡眠呼吸暫停，"
-  },
-  {
-    "index": 36,
-    "text": "Which means disrupted breathing during the night,",
-    "start": 158.703,
     "end": 161.804,
-    "zh": "这意味着夜间呼吸中断，",
-    "zh_hant": "這意味著夜間呼吸中斷，"
+    "zh": "它能识别的主要问题之一是睡眠呼吸暂停，也就是夜间呼吸中断，",
+    "zh_hant": "它能識別的主要問題之一是睡眠呼吸暫停，也就是夜間呼吸中斷，"
   },
   {
-    "index": 37,
+    "index": 32,
     "text": "resulting in brief awakenings and poor sleep quality.",
     "start": 161.665,
     "end": 165.686,
-    "zh": "导致短暂的醒来和较差的睡眠质量。",
-    "zh_hant": "導致短暫的醒來和較差的睡眠質量。"
+    "zh": "导致短暂觉醒和睡眠质量差。",
+    "zh_hant": "導致短暫覺醒和睡眠質量差。"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "You have one of five people in the UK that are concerned with sleep apnea,",
     "start": 165.547,
     "end": 170.769,
-    "zh": "在英国，有五分之一的人受睡眠呼吸暂停困扰，",
-    "zh_hant": "在英國，有五分之一的人受睡眠呼吸暫停困擾，"
+    "zh": "在英国，每五个人中就有一个受睡眠呼吸暂停困扰，",
+    "zh_hant": "在英國，每五個人中就有一個受睡眠呼吸暫停困擾，"
   },
   {
-    "index": 39,
+    "index": 34,
     "text": "or that can show some sign of sleep apnea during the night.",
     "start": 170.509,
     "end": 174.511,
-    "zh": "或者夜间会表现出一些睡眠呼吸暂停的迹象。",
-    "zh_hant": "或者夜間會表現出一些睡眠呼吸暫停的跡象。"
+    "zh": "或者在夜间会表现出一些睡眠呼吸暂停的迹象。",
+    "zh_hant": "或者在夜間會表現出一些睡眠呼吸暫停的跡象。"
   },
   {
-    "index": 40,
-    "text": "So it's not so rare,",
+    "index": 35,
+    "text": "So it's not so rare, and it concerns all kinds of people in the population,",
     "start": 174.792,
-    "end": 177.333,
-    "zh": "所以这并不罕见，",
-    "zh_hant": "所以這並不罕見，"
-  },
-  {
-    "index": 41,
-    "text": "and it concerns all kinds of people in the population,",
-    "start": 177.453,
     "end": 181.074,
-    "zh": "而且它会影响各类人群，",
-    "zh_hant": "而且它會影響各類人群，"
+    "zh": "所以这并不罕见，而且涉及各类人群，",
+    "zh_hant": "所以這並不罕見，而且涉及各類人群，"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "because you have 26% of men, but also 14% of women.",
     "start": 180.724,
     "end": 186.777,
-    "zh": "因为你有26%的男性和14%的女性受影响。",
-    "zh_hant": "因為你有26%的男性和14%的女性受影響。"
+    "zh": "因为男性中有26%的比例，但女性也有14%。",
+    "zh_hant": "因為男性中有26%的比例，但女性也有14%。"
   },
   {
-    "index": 43,
+    "index": 37,
     "text": "So it's not only a men-related issue.",
     "start": 187.218,
     "end": 191.079,
-    "zh": "所以这不仅仅是男性问题。",
-    "zh_hant": "所以這不僅僅是男性問題。"
+    "zh": "所以这不仅仅是男性特有的问题。",
+    "zh_hant": "所以這不僅僅是男性特有的問題。"
   },
   {
-    "index": 44,
+    "index": 38,
     "text": "I see that you are sleeping a low number of hours.",
     "start": 191.7,
     "end": 195.982,
-    "zh": "我看到你的睡眠小时数偏低。",
-    "zh_hant": "我看到你的睡眠小時數偏低。"
+    "zh": "我看到你的睡眠时长比较低。",
+    "zh_hant": "我看到你的睡眠時長比較低。"
   },
   {
-    "index": 45,
+    "index": 39,
     "text": "And what about the sleep score then?",
     "start": 196.062,
     "end": 198.883,
-    "zh": "那么睡眠评分呢？",
-    "zh_hant": "那麼睡眠評分呢？"
+    "zh": "那睡眠评分怎么样呢？",
+    "zh_hant": "那睡眠評分怎麼樣呢？"
   },
   {
-    "index": 46,
+    "index": 40,
     "text": "At the moment, we're seeing I've got 49, it's out of 100.",
     "start": 198.603,
     "end": 202.575,
-    "zh": "目前我们看到的我的评分是49分，满分100。",
-    "zh_hant": "目前我們看到的我的評分是49分，滿分100。"
+    "zh": "目前，我们看到我的评分是49分，满分100分。",
+    "zh_hant": "目前，我們看到我的評分是49分，滿分100分。"
   },
   {
-    "index": 47,
+    "index": 41,
     "text": "What we see is that your duration is quite low.",
     "start": 202.625,
     "end": 204.946,
-    "zh": "我们看到的是你的睡眠时长相当短。",
-    "zh_hant": "我們看到的是你的睡眠時長相當短。"
+    "zh": "我们看到你的睡眠时长相当短。",
+    "zh_hant": "我們看到你的睡眠時長相當短。"
   },
   {
-    "index": 48,
+    "index": 42,
     "text": "Your heart rate is very good during the night, 57 is a good score.",
     "start": 204.706,
     "end": 208.788,
-    "zh": "你夜间心率很好，57是个不错的分数。",
-    "zh_hant": "你夜間心率很好，57是個不錯的分數。"
+    "zh": "你夜间心率很好，57是一个不错的分数。",
+    "zh_hant": "你夜間心率很好，57是一個不錯的分數。"
   },
   {
-    "index": 49,
+    "index": 43,
     "text": "But you have taken a glass of wine last night,",
     "start": 208.848,
     "end": 212.49,
@@ -400,7 +352,7 @@
     "zh_hant": "但你昨晚喝了一杯酒，"
   },
   {
-    "index": 50,
+    "index": 44,
     "text": "your heart rate which has been higher at the beginning of the night and then decreasing.",
     "start": 212.33,
     "end": 217.453,
@@ -408,15 +360,15 @@
     "zh_hant": "你的心率在夜間開始時較高，然後逐漸下降。"
   },
   {
-    "index": 51,
+    "index": 45,
     "text": "Regularity, I guess, is something that you're going to be tracking over a longer period of time.",
     "start": 217.393,
     "end": 222.255,
-    "zh": "规律性，我猜，是你需要长期跟踪的东西。",
-    "zh_hant": "規律性，我猜，是你需要長期跟蹤的東西。"
+    "zh": "规律性，我想，是你会长期追踪的一个指标。",
+    "zh_hant": "規律性，我想，是你會長期追蹤的一個指標。"
   },
   {
-    "index": 52,
+    "index": 46,
     "text": "Yes.",
     "start": 221.905,
     "end": 222.515,
@@ -424,127 +376,119 @@
     "zh_hant": "是的。"
   },
   {
-    "index": 53,
+    "index": 47,
     "text": "If we look at, for example, April, we've got more green there.",
     "start": 222.375,
     "end": 226.797,
-    "zh": "比如看四月，我们那里有更多绿色。",
-    "zh_hant": "比如看四月，我們那裡有更多綠色。"
+    "zh": "比如看四月，那里绿色更多。",
+    "zh_hant": "比如看四月，那裡綠色更多。"
   },
   {
-    "index": 54,
+    "index": 48,
     "text": "Yeah, exactly.",
     "start": 226.447,
     "end": 227.618,
-    "zh": "是的，没错。",
-    "zh_hant": "是的，沒錯。"
+    "zh": "对，没错。",
+    "zh_hant": "對，沒錯。"
   },
   {
-    "index": 55,
+    "index": 49,
     "text": "So April, I slept slightly better.",
     "start": 227.268,
     "end": 230.079,
-    "zh": "所以四月，我睡得稍微好一些。",
-    "zh_hant": "所以四月，我睡得稍微好一些。"
+    "zh": "所以四月我睡得稍微好些。",
+    "zh_hant": "所以四月我睡得稍微好些。"
   },
   {
-    "index": 56,
+    "index": 50,
     "text": "Yeah, exactly.",
     "start": 229.729,
     "end": 231.199,
-    "zh": "对，完全正确。",
-    "zh_hant": "對，完全正確。"
+    "zh": "对，确实。",
+    "zh_hant": "對，確實。"
   },
   {
-    "index": 57,
+    "index": 51,
     "text": "Last month, more yellows creeping in, and this month, more red.",
     "start": 230.849,
     "end": 235.501,
-    "zh": "上个月，更多的黄色混进来，而这个月，更多红色。",
-    "zh_hant": "上個月，更多的黃色混進來，而這個月，更多紅色。"
+    "zh": "上月，黄色开始增多，而本月，红色更多。",
+    "zh_hant": "上月，黃色開始增多，而本月，紅色更多。"
   },
   {
-    "index": 58,
+    "index": 52,
     "text": "This evolution is very important to detect a lot of things,",
     "start": 235.362,
     "end": 239.143,
-    "zh": "这种变化对于检测很多事情非常重要，",
-    "zh_hant": "這種變化對於檢測很多事情非常重要，"
+    "zh": "这种变化趋势对于发现很多问题非常重要，",
+    "zh_hant": "這種變化趨勢對於發現很多問題非常重要，"
   },
   {
-    "index": 59,
+    "index": 53,
     "text": "like a disease which is coming, and probably you are preparing to be ill.",
     "start": 238.793,
     "end": 242.805,
-    "zh": "比如即将到来的疾病，可能你正为生病做准备。",
-    "zh_hant": "比如即將到來的疾病，可能你正為生病做準備。"
+    "zh": "比如即将到来的疾病，可能你正处于生病的前兆。",
+    "zh_hant": "比如即將到來的疾病，可能你正處於生病的前兆。"
   },
   {
-    "index": 60,
+    "index": 54,
     "text": "It's why sleep is very important and can really affect your health.",
     "start": 242.725,
     "end": 247.187,
-    "zh": "这就是为什么睡眠非常重要，真的能影响你的健康。",
-    "zh_hant": "這就是為什麼睡眠非常重要，真的能影響你的健康。"
+    "zh": "这就是为什么睡眠非常重要，而且真的会影响你的健康。",
+    "zh_hant": "這就是為什麼睡眠非常重要，而且真的會影響你的健康。"
   },
   {
-    "index": 61,
+    "index": 55,
     "text": "I found looking at the data interesting,",
     "start": 248.908,
     "end": 251.449,
-    "zh": "我发现看这些数据很有趣，",
-    "zh_hant": "我發現看這些資料很有趣，"
+    "zh": "我觉得看这些数据挺有意思，",
+    "zh_hant": "我覺得看這些資料挺有意思，"
   },
   {
-    "index": 62,
+    "index": 56,
     "text": "but there's now a name for people who are obsessed with the perfect sleep, orthosomnia.",
     "start": 251.109,
     "end": 256.412,
-    "zh": "但现在有一种人，痴迷于完美睡眠，被称为“完美睡眠症”。",
-    "zh_hant": "但現在有一種人，痴迷於完美睡眠，被稱為“完美睡眠症”。"
+    "zh": "但现在对痴迷于完美睡眠的人有个专门的说法，叫“正相失眠”。",
+    "zh_hant": "但現在對痴迷於完美睡眠的人有個專門的說法，叫“正相失眠”。"
   },
   {
-    "index": 63,
+    "index": 57,
     "text": "The irony?",
     "start": 256.312,
     "end": 257.393,
-    "zh": "讽刺的是？",
-    "zh_hant": "諷刺的是？"
+    "zh": "讽刺之处在哪？",
+    "zh_hant": "諷刺之處在哪？"
   },
   {
-    "index": 64,
+    "index": 58,
     "text": "Worrying about your deep sleep score can create the very anxiety that keeps you awake.",
     "start": 257.333,
     "end": 263.256,
-    "zh": "担心你的深度睡眠评分，反而可能制造让你失眠的焦虑。",
-    "zh_hant": "擔心你的深度睡眠評分，反而可能製造讓你失眠的焦慮。"
+    "zh": "担心你的深度睡眠评分反而会制造焦虑，让你睡不着。",
+    "zh_hant": "擔心你的深度睡眠評分反而會製造焦慮，讓你睡不著。"
   },
   {
-    "index": 65,
+    "index": 59,
     "text": "However, your personal data is doing more than just giving you a morning score.",
     "start": 265.677,
     "end": 270.319,
-    "zh": "然而，你的个人数据不仅仅是为你在早晨提供评分。",
-    "zh_hant": "然而，你的個人資料不僅僅是為你在早晨提供評分。"
+    "zh": "然而，你的个人数据不只是给你一个早晨评分。",
+    "zh_hant": "然而，你的個人資料不只是給你一個早晨評分。"
   },
   {
-    "index": 66,
-    "text": "It's fuelling massive scientific projects",
+    "index": 60,
+    "text": "It's fuelling massive scientific projects like the UK Biobank and dementia research.",
     "start": 270.259,
-    "end": 273.641,
-    "zh": "它在推动大规模科研项目，",
-    "zh_hant": "它在推動大規模科研專案，"
-  },
-  {
-    "index": 67,
-    "text": "like the UK Biobank and dementia research.",
-    "start": 273.421,
     "end": 277.042,
-    "zh": "比如英国生物样本库和痴呆症研究。",
-    "zh_hant": "比如英國生物樣本庫和痴呆症研究。"
+    "zh": "它也在推动像英国生物银行和痴呆症研究这样的大型科学项目。",
+    "zh_hant": "它也在推動像英國生物銀行和痴呆症研究這樣的大型科學專案。"
   },
   {
-    "index": 68,
+    "index": 61,
     "text": "By collecting millions of nights of data,",
     "start": 277.283,
     "end": 279.964,
@@ -552,7 +496,7 @@
     "zh_hant": "透過收集數百萬個夜晚的資料，"
   },
   {
-    "index": 69,
+    "index": 62,
     "text": "researchers are discovering new links between our environment and our long-term health.",
     "start": 279.924,
     "end": 285.386,
@@ -560,67 +504,59 @@
     "zh_hant": "研究人員正在發現我們的環境與長期健康之間的新聯絡。"
   },
   {
-    "index": 70,
+    "index": 63,
     "text": "Some of these devices are used in real research studies.",
     "start": 285.527,
     "end": 289.769,
-    "zh": "其中一些设备被用于真实的研究中。",
-    "zh_hant": "其中一些裝置被用於真實的研究中。"
+    "zh": "其中一些设备确实用于真实的研究中。",
+    "zh_hant": "其中一些裝置確實用於真實的研究中。"
   },
   {
-    "index": 71,
-    "text": "One of the big advantages of those devices is that you can record sleep for many,",
+    "index": 64,
+    "text": "One of the big advantages of those devices is that you can record sleep for many, many nights,",
     "start": 289.969,
-    "end": 296.053,
-    "zh": "这些设备的一大优势是你可以连续记录很多天的睡眠，",
-    "zh_hant": "這些裝置的一大優勢是你可以連續記錄很多天的睡眠，"
+    "end": 296.934,
+    "zh": "这些设备的一大优势是，你可以记录很多很多个夜晚的睡眠，",
+    "zh_hant": "這些裝置的一大優勢是，你可以記錄很多很多個夜晚的睡眠，"
   },
   {
-    "index": 72,
-    "text": "nights, weeks, or months,",
-    "start": 295.703,
-    "end": 298.655,
-    "zh": "几周或几个月，",
-    "zh_hant": "幾周或幾個月，"
+    "index": 65,
+    "text": "weeks,",
+    "start": 296.934,
+    "end": 297.774,
+    "zh": "几个星期，",
+    "zh_hant": "幾個星期，"
   },
   {
-    "index": 73,
-    "text": "which is something that's very difficult to do in the laboratory with your gold standard methods.",
-    "start": 298.375,
+    "index": 66,
+    "text": "or months, which is something that's very difficult to do in the laboratory with your gold standard methods.",
+    "start": 297.634,
     "end": 304.479,
-    "zh": "这在实验室用金标准方法很难做到。",
-    "zh_hant": "這在實驗室用金標準方法很難做到。"
+    "zh": "甚至几个月，这在实验室里用金标准方法是很难做到的。",
+    "zh_hant": "甚至幾個月，這在實驗室裡用金標準方法是很難做到的。"
   },
   {
-    "index": 74,
-    "text": "Tech has given us an extraordinary window into something",
+    "index": 67,
+    "text": "Tech has given us an extraordinary window into something we've spent our entire lives unconscious for.",
     "start": 305.92,
-    "end": 310.323,
-    "zh": "技术为我们打开了一扇非凡的窗口，去了解我们",
-    "zh_hant": "技術為我們開啟了一扇非凡的視窗，去了解我們"
-  },
-  {
-    "index": 75,
-    "text": "we've spent our entire lives unconscious for.",
-    "start": 309.973,
     "end": 313.525,
-    "zh": "一生中大部分时间都无意识度过的事情。",
-    "zh_hant": "一生中大部分時間都無意識度過的事情。"
+    "zh": "科技为我们打开了一扇非凡的窗，让我们看到我们一生中大部分时间都在无意识中度过的内容。",
+    "zh_hant": "科技為我們開啟了一扇非凡的窗，讓我們看到我們一生中大部分時間都在無意識中度過的內容。"
   },
   {
-    "index": 76,
+    "index": 68,
     "text": "But perhaps the real challenge isn't learning how to measure our sleep,",
     "start": 313.965,
     "end": 318.528,
-    "zh": "但也许真正的挑战不是学会如何测量睡眠，",
-    "zh_hant": "但也許真正的挑戰不是學會如何測量睡眠，"
+    "zh": "但也许真正的挑战不在于学会如何测量睡眠，",
+    "zh_hant": "但也許真正的挑戰不在於學會如何測量睡眠，"
   },
   {
-    "index": 77,
+    "index": 69,
     "text": "it's remembering how to switch off.",
     "start": 318.648,
     "end": 321.21,
-    "zh": "而是记住如何关掉它。",
-    "zh_hant": "而是記住如何關掉它。"
+    "zh": "而在于记住如何真正放松下来。",
+    "zh_hant": "而在於記住如何真正放鬆下來。"
   }
 ]

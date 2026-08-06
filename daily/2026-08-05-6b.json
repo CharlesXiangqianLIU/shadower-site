@@ -4,59 +4,51 @@
     "text": "We're just so excited to see his future and we know he's going to be great.",
     "start": 0.45,
     "end": 5.432,
-    "zh": "我们真的很期待他的未来，我们知道他会很出色。",
-    "zh_hant": "我們真的很期待他的未來，我們知道他會很出色。"
+    "zh": "我们真的为他的未来感到无比兴奋，我们知道他会很出色。",
+    "zh_hant": "我們真的為他的未來感到無比興奮，我們知道他會很出色。"
   },
   {
     "index": 1,
     "text": "When you hear the commitment that they're making to save their child's lives and their vision,",
     "start": 5.453,
     "end": 10.395,
-    "zh": "当你听到他们为了拯救孩子的生命和视力所做出的承诺时，",
-    "zh_hant": "當你聽到他們為了拯救孩子的生命和視力所做出的承諾時，"
+    "zh": "当你听到他们为拯救孩子生命和视力所做出的承诺时，",
+    "zh_hant": "當你聽到他們為拯救孩子生命和視力所做出的承諾時，"
   },
   {
     "index": 2,
     "text": "that's really the most important part of what we're doing.",
     "start": 10.515,
     "end": 13.597,
-    "zh": "那才是我们所做事情中最重要的部分。",
-    "zh_hant": "那才是我們所做事情中最重要的部分。"
+    "zh": "那才是我们工作最重要的部分。",
+    "zh_hant": "那才是我們工作最重要的部分。"
   },
   {
     "index": 3,
     "text": "It's pretty tremendous.",
     "start": 13.817,
     "end": 15.097,
-    "zh": "这非常了不起。",
-    "zh_hant": "這非常了不起。"
+    "zh": "这相当了不起。",
+    "zh_hant": "這相當了不起。"
   },
   {
     "index": 4,
-    "text": "We started After the Glow to help kids from all over the United States that need treatment for retinoblastoma",
+    "text": "We started After the Glow to help kids from all over the United States that need treatment for retinoblastoma get here to Philadelphia,",
     "start": 15.258,
-    "end": 20.88,
-    "zh": "我们创办了After the Glow，帮助全美各地需要治疗视网膜母细胞瘤的孩子",
-    "zh_hant": "我們創辦了After the Glow，幫助全美各地需要治療視網膜母細胞瘤的孩子"
+    "end": 22.521,
+    "zh": "我们创办了After the Glow，帮助全美各地需要治疗视网膜母细胞瘤的孩子来到费城，",
+    "zh_hant": "我們創辦了After the Glow，幫助全美各地需要治療視網膜母細胞瘤的孩子來到費城，"
   },
   {
     "index": 5,
-    "text": "get here to Philadelphia,",
-    "start": 21.0,
-    "end": 22.521,
-    "zh": "来到费城，",
-    "zh_hant": "來到費城，"
-  },
-  {
-    "index": 6,
     "text": "help them with their travel costs or their hotel room expenses, et cetera.",
     "start": 22.721,
     "end": 26.583,
-    "zh": "帮他们支付旅行费用或酒店住宿费用等等。",
-    "zh_hant": "幫他們支付旅行費用或酒店住宿費用等等。"
+    "zh": "帮助他们支付差旅费或酒店住宿费等。",
+    "zh_hant": "幫助他們支付差旅費或酒店住宿費等。"
   },
   {
-    "index": 7,
+    "index": 6,
     "text": "Retinoblastoma is a pediatric cancer of the retina.",
     "start": 26.403,
     "end": 29.664,
@@ -64,55 +56,47 @@
     "zh_hant": "視網膜母細胞瘤是一種兒童視網膜癌症。"
   },
   {
-    "index": 8,
+    "index": 7,
     "text": "Our nephew, Liam Spingler, was diagnosed at six months and was traveling from North Jersey to Philadelphia.",
     "start": 29.545,
     "end": 35.667,
-    "zh": "我们的侄子利亚姆·斯平格在六个月大时被确诊，当时要从新泽西北部前往费城。",
-    "zh_hant": "我們的侄子利亞姆·斯平格在六個月大時被確診，當時要從新澤西北部前往費城。"
+    "zh": "我们的侄子利亚姆·斯平格在六个月大时被确诊，当时要从北泽西奔波到费城。",
+    "zh_hant": "我們的侄子利亞姆·斯平格在六個月大時被確診，當時要從北澤西奔波到費城。"
   },
   {
-    "index": 9,
+    "index": 8,
     "text": "And that travel process is kind of intense.",
     "start": 35.347,
     "end": 38.049,
-    "zh": "那段旅程其实相当辛苦。",
-    "zh_hant": "那段旅程其實相當辛苦。"
+    "zh": "那个奔波过程相当辛苦。",
+    "zh_hant": "那個奔波過程相當辛苦。"
   },
   {
-    "index": 10,
+    "index": 9,
     "text": "Along the way, we've met some tremendous people, some tremendous families.",
     "start": 38.009,
     "end": 41.231,
-    "zh": "一路上，我们遇到了很多了不起的人和家庭。",
-    "zh_hant": "一路上，我們遇到了很多了不起的人和家庭。"
+    "zh": "一路上，我们遇到了一些很棒的人，一些很棒的家庭。",
+    "zh_hant": "一路上，我們遇到了一些很棒的人，一些很棒的家庭。"
+  },
+  {
+    "index": 10,
+    "text": "That's what kind of set the light bulb off of, hey, we should try to help these folks because maybe flying in from North Carolina",
+    "start": 41.071,
+    "end": 48.334,
+    "zh": "这让我们灵光一闪，想着，嘿，我们应该试着帮助这些人，因为也许他们是从北卡罗来纳州飞来的，",
+    "zh_hant": "這讓我們靈光一閃，想著，嘿，我們應該試著幫助這些人，因為也許他們是從北卡羅來納州飛來的，"
   },
   {
     "index": 11,
-    "text": "That's what kind of set the light bulb off of, hey, we should try to help these folks",
-    "start": 41.071,
-    "end": 44.652,
-    "zh": "正是这些经历让我们灵光一现，觉得我们应该试着帮助这些人",
-    "zh_hant": "正是這些經歷讓我們靈光一現，覺得我們應該試著幫助這些人"
-  },
-  {
-    "index": 12,
-    "text": "because maybe flying in from North Carolina",
-    "start": 44.302,
-    "end": 48.334,
-    "zh": "因为也许是从北卡罗来纳州飞过来，",
-    "zh_hant": "因為也許是從北卡羅來納州飛過來，"
-  },
-  {
-    "index": 13,
     "text": "or driving in from Virginia, that sort of thing.",
     "start": 48.074,
     "end": 50.955,
-    "zh": "或者从弗吉尼亚州开车过来，诸如此类。",
-    "zh_hant": "或者從弗吉尼亞州開車過來，諸如此類。"
+    "zh": "或者从弗吉尼亚州开车来的，诸如此类。",
+    "zh_hant": "或者從弗吉尼亞州開車來的，諸如此類。"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "Hey, bud.",
     "start": 51.376,
     "end": 52.436,
@@ -120,63 +104,55 @@
     "zh_hant": "嘿，小傢伙。"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "So we're meeting a young boy who's recently diagnosed.",
     "start": 52.777,
     "end": 57.178,
-    "zh": "所以我们正在见一个刚被确诊的小男孩。",
-    "zh_hant": "所以我們正在見一個剛被確診的小男孩。"
+    "zh": "所以我们正在见一个最近确诊的小男孩。",
+    "zh_hant": "所以我們正在見一個最近確診的小男孩。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Like a lot of retinoblastoma kids, it can be genetic.",
     "start": 56.899,
     "end": 59.7,
-    "zh": "很多视网膜母细胞瘤的孩子，这种病可能是遗传的。",
-    "zh_hant": "很多視網膜母細胞瘤的孩子，這種病可能是遺傳的。"
+    "zh": "像很多视网膜母细胞瘤患儿一样，这可能是遗传性的。",
+    "zh_hant": "像很多視網膜母細胞瘤患兒一樣，這可能是遺傳性的。"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "I'm just learning a little bit about his dad and his grandfather, who are both also retinoblastoma survivors.",
     "start": 59.38,
     "end": 65.342,
-    "zh": "我刚刚了解到他爸爸和爷爷的情况，他们俩也都是视网膜母细胞瘤的幸存者。",
-    "zh_hant": "我剛剛瞭解到他爸爸和爺爺的情況，他們倆也都是視網膜母細胞瘤的倖存者。"
+    "zh": "我刚了解到他的爸爸和爷爷，他们也都是视网膜母细胞瘤的幸存者。",
+    "zh_hant": "我剛瞭解到他的爸爸和爺爺，他們也都是視網膜母細胞瘤的倖存者。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "So it's really incredible to see, after everything that he's been through,",
     "start": 65.443,
     "end": 68.504,
-    "zh": "所以看到他经历了这一切之后，真的很不可思议。",
-    "zh_hant": "所以看到他經歷了這一切之後，真的很不可思議。"
+    "zh": "所以看到他经历这一切之后的状况，真是难以置信，",
+    "zh_hant": "所以看到他經歷這一切之後的狀況，真是難以置信，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "been blessed to help over probably 350 families by now.",
     "start": 68.844,
     "end": 73.006,
-    "zh": "现在已经幸运地帮助了大概350多个家庭。",
-    "zh_hant": "現在已經幸運地幫助了大概350多個家庭。"
+    "zh": "至今我们已帮助了大约350多个家庭，这很幸运。",
+    "zh_hant": "至今我們已幫助了大約350多個家庭，這很幸運。"
   },
   {
-    "index": 20,
-    "text": "Typically started with just golf outings, and then we kind of transitioned over to a Kentucky Derby",
+    "index": 18,
+    "text": "Typically started with just golf outings, and then we kind of transitioned over to a Kentucky Derby fundraiser.",
     "start": 72.846,
-    "end": 78.889,
-    "zh": "最开始只是高尔夫球活动，后来我们慢慢转成了一个肯塔基赛马会的",
-    "zh_hant": "最開始只是高爾夫球活動，後來我們慢慢轉成了一個肯塔基賽馬會的"
-  },
-  {
-    "index": 21,
-    "text": "fundraiser.",
-    "start": 78.539,
     "end": 79.429,
-    "zh": "筹款活动。",
-    "zh_hant": "籌款活動。"
+    "zh": "一开始只是高尔夫活动，然后我们逐渐转向了肯塔基赛马会筹款活动。",
+    "zh_hant": "一開始只是高爾夫活動，然後我們逐漸轉向了肯塔基賽馬會籌款活動。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "Come on.",
     "start": 79.43,
     "end": 80.27,
@@ -184,39 +160,39 @@
     "zh_hant": "來吧。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "You give us some claps.",
     "start": 80.751,
     "end": 82.251,
-    "zh": "你们给我们鼓鼓掌。",
-    "zh_hant": "你們給我們鼓鼓掌。"
+    "zh": "给我们鼓鼓掌。",
+    "zh_hant": "給我們鼓鼓掌。"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "We're just about to go over the half a million dollar mark",
     "start": 84.032,
     "end": 86.914,
-    "zh": "我们即将突破五十万美元的大关",
-    "zh_hant": "我們即將突破五十萬美元的大關"
+    "zh": "我们即将突破五十万美元的大关，",
+    "zh_hant": "我們即將突破五十萬美元的大關，"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "of donations to families or medical bills since we started this over 12 years ago.",
     "start": 86.564,
     "end": 92.176,
-    "zh": "这是自12多年前创办以来，我们为家庭或医疗账单提供的捐赠额。",
-    "zh_hant": "這是自12多年前創辦以來，我們為家庭或醫療賬單提供的捐贈額。"
+    "zh": "这是自12多年前开始以来，我们为家庭提供的捐款或医疗费用总额。",
+    "zh_hant": "這是自12多年前開始以來，我們為家庭提供的捐款或醫療費用總額。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "Easiest way to help is to donate online.",
     "start": 92.256,
     "end": 95.278,
-    "zh": "最简单的帮助方式就是在网上捐款。",
-    "zh_hant": "最簡單的幫助方式就是在網上捐款。"
+    "zh": "最简单的帮助方式就是在线捐款。",
+    "zh_hant": "最簡單的幫助方式就是線上捐款。"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "Our website, aftertheglow.org.",
     "start": 95.298,
     "end": 98.119,
@@ -224,15 +200,15 @@
     "zh_hant": "我們的網站是aftertheglow.org。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "This is our baby, Leo David Yance.",
     "start": 98.339,
     "end": 100.8,
-    "zh": "这是我们的宝贝，利奥·大卫·扬斯。",
-    "zh_hant": "這是我們的寶貝，利奧·大衛·揚斯。"
+    "zh": "这是我们的宝贝，利奥·戴维·扬斯。",
+    "zh_hant": "這是我們的寶貝，利奧·戴維·揚斯。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "My name is Dietrich Yance.",
     "start": 101.041,
     "end": 103.101,
@@ -240,7 +216,7 @@
     "zh_hant": "我叫迪特里希·揚斯。"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "My son was being treated for retinoblastoma.",
     "start": 103.282,
     "end": 106.063,
@@ -248,99 +224,75 @@
     "zh_hant": "我兒子正在接受視網膜母細胞瘤的治療。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "More or less, I was looking at about an $800 ambulance bill",
     "start": 106.043,
     "end": 110.465,
-    "zh": "差不多，我眼看着要付一笔大约800美元的救护车账单",
-    "zh_hant": "差不多，我眼看著要付一筆大約800美元的救護車賬單"
+    "zh": "我大概要面对约800美元的救护车账单，",
+    "zh_hant": "我大概要面對約800美元的救護車賬單，"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "and a pile up of co-pays that I was not ready for.",
     "start": 110.645,
     "end": 114.467,
-    "zh": "还有一堆我毫无准备的共付额。",
-    "zh_hant": "還有一堆我毫無準備的共付額。"
+    "zh": "还有一堆没准备好的自付费用。",
+    "zh_hant": "還有一堆沒準備好的自付費用。"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "The financial assistance we received from After the Glow kept my lights on at the end of the day and gas in my truck.",
     "start": 114.247,
     "end": 120.571,
-    "zh": "我们从After the Glow获得的经济援助，让我能维持家里的电费和卡车的油费。",
-    "zh_hant": "我們從After the Glow獲得的經濟援助，讓我能維持家裡的電費和卡車的油費。"
+    "zh": "我们从After the Glow获得的资金援助，让我家能保持灯火通明，卡车里有油。",
+    "zh_hant": "我們從After the Glow獲得的資金援助，讓我家能保持燈火通明，卡車裡有油。"
   },
   {
-    "index": 34,
-    "text": "Nice to have somebody in my corner that takes that pressure off",
+    "index": 31,
+    "text": "Nice to have somebody in my corner that takes that pressure off of my shoulders and helps me through a process.",
     "start": 120.691,
-    "end": 124.353,
-    "zh": "有人站在我这边，帮我把那份压力",
-    "zh_hant": "有人站在我這邊，幫我把那份壓力"
-  },
-  {
-    "index": 35,
-    "text": "of my shoulders and helps me through a process.",
-    "start": 124.003,
     "end": 127.695,
-    "zh": "从肩上卸下来，陪我走过这段过程，真好。",
-    "zh_hant": "從肩上卸下來，陪我走過這段過程，真好。"
+    "zh": "有人站在我这边，帮我卸下肩上的压力，陪我走过这个过程，真好。",
+    "zh_hant": "有人站在我這邊，幫我卸下肩上的壓力，陪我走過這個過程，真好。"
   },
   {
-    "index": 36,
-    "text": "Tumors have been completely dissolved as of last month, so we're kind of heading towards",
+    "index": 32,
+    "text": "Tumors have been completely dissolved as of last month, so we're kind of heading towards the light at the end of the tunnel here.",
     "start": 127.535,
-    "end": 132.218,
-    "zh": "肿瘤上个月已经彻底消失了，所以我们正朝着",
-    "zh_hant": "腫瘤上個月已經徹底消失了，所以我們正朝著"
-  },
-  {
-    "index": 37,
-    "text": "the light at the end of the tunnel here.",
-    "start": 132.699,
     "end": 134.379,
-    "zh": "隧道尽头的亮光前进。",
-    "zh_hant": "隧道盡頭的亮光前進。"
+    "zh": "肿瘤上个月已经完全溶解了，所以我们算是看到了隧道尽头的曙光。",
+    "zh_hant": "腫瘤上個月已經完全溶解了，所以我們算是看到了隧道盡頭的曙光。"
   },
   {
-    "index": 38,
+    "index": 33,
     "text": "He should have full, decent sight, maybe need some glasses like Dad,",
     "start": 134.28,
     "end": 139.683,
-    "zh": "他应该有完全正常的视力，也许需要像爸爸一样戴眼镜，",
-    "zh_hant": "他應該有完全正常的視力，也許需要像爸爸一樣戴眼鏡，"
+    "zh": "他应该会有完整、良好的视力，也许需要像爸爸一样戴眼镜，",
+    "zh_hant": "他應該會有完整、良好的視力，也許需要像爸爸一樣戴眼鏡，"
   },
   {
-    "index": 39,
-    "text": "but besides that,",
+    "index": 34,
+    "text": "but besides that, I just hope he grows up to be happy and healthy and full of joy.",
     "start": 139.333,
-    "end": 141.324,
-    "zh": "但除此之外，",
-    "zh_hant": "但除此之外，"
-  },
-  {
-    "index": 40,
-    "text": "I just hope he grows up to be happy and healthy and full of joy.",
-    "start": 140.974,
     "end": 145.367,
-    "zh": "我只希望他长大以后快乐、健康、充满欢乐。",
-    "zh_hant": "我只希望他長大以後快樂、健康、充滿歡樂。"
+    "zh": "但除此之外，我只希望他长大后快乐、健康、充满喜悦。",
+    "zh_hant": "但除此之外，我只希望他長大後快樂、健康、充滿喜悅。"
   },
   {
-    "index": 41,
+    "index": 35,
     "text": "I couldn't have been more blessed.",
     "start": 145.747,
     "end": 147.568,
-    "zh": "我再幸运不过了。",
-    "zh_hant": "我再幸運不過了。"
+    "zh": "我已经感到无比幸运了。",
+    "zh_hant": "我已經感到無比幸運了。"
   },
   {
-    "index": 42,
+    "index": 36,
     "text": "Ain't that right?",
     "start": 149.369,
     "end": 150.41,
-    "zh": "对吧？",
-    "zh_hant": "對吧？"
+    "zh": "是不是？",
+    "zh_hant": "是不是？"
   }
 ]

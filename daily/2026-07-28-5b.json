@@ -4,16 +4,16 @@
     "text": "With the lush greens of summer all around us,",
     "start": 1.011,
     "end": 4.172,
-    "zh": "夏天里，翠绿的草木环绕四周，",
-    "zh_hant": "夏天裡，翠綠的草木環繞四周，"
+    "zh": "盛夏的绿意环绕着我们四周，",
+    "zh_hant": "盛夏的綠意環繞著我們四周，"
   },
   {
     "index": 1,
     "text": "our friend Robert Krolwich, with a little help, explores the value of a helping hand.",
     "start": 3.992,
     "end": 10.475,
-    "zh": "我们的朋友罗伯特·克罗尔维奇，在一点帮助下，探索了“助人之手”的价值。",
-    "zh_hant": "我們的朋友羅伯特·克羅爾維奇，在一點幫助下，探索了“助人之手”的價值。"
+    "zh": "我们的朋友罗伯特·克罗尔维奇，在一点帮助下，探讨了援手之手的价值。",
+    "zh_hant": "我們的朋友羅伯特·克羅爾維奇，在一點幫助下，探討了援手之手的價值。"
   },
   {
     "index": 2,
@@ -36,8 +36,8 @@
     "text": "Did you send me a couple of...",
     "start": 13.907,
     "end": 16.498,
-    "zh": "你是不是给我寄了几个……",
-    "zh_hant": "你是不是給我寄了幾個……"
+    "zh": "你给我寄了几只……",
+    "zh_hant": "你給我寄了幾隻……"
   },
   {
     "index": 5,
@@ -52,8 +52,8 @@
     "text": "So, I heard you were making a nest of...",
     "start": 18.169,
     "end": 21.621,
-    "zh": "所以，我听说你在做一个……",
-    "zh_hant": "所以，我聽說你在做一個……"
+    "zh": "所以我听说你在做一个窝，用……",
+    "zh_hant": "所以我聽說你在做一個窩，用……"
   },
   {
     "index": 7,
@@ -68,91 +68,83 @@
     "text": "Multicolored socks.",
     "start": 22.881,
     "end": 24.402,
-    "zh": "五颜六色的袜子。",
-    "zh_hant": "五顏六色的襪子。"
+    "zh": "彩色袜子。",
+    "zh_hant": "彩色襪子。"
   },
   {
     "index": 9,
     "text": "Okay.",
     "start": 24.122,
     "end": 25.062,
-    "zh": "好吧。",
-    "zh_hant": "好吧。"
+    "zh": "好的。",
+    "zh_hant": "好的。"
   },
   {
     "index": 10,
     "text": "Are you going to sit on this nest?",
     "start": 25.263,
     "end": 27.163,
-    "zh": "你打算坐在这个窝上吗？",
-    "zh_hant": "你打算坐在這個窩上嗎？"
+    "zh": "你要坐在这窝上吗？",
+    "zh_hant": "你要坐在這窩上嗎？"
   },
   {
     "index": 11,
     "text": "Yeah, of course I am.",
     "start": 27.184,
     "end": 28.884,
-    "zh": "当然啦。",
-    "zh_hant": "當然啦。"
+    "zh": "是啊，我当然要。",
+    "zh_hant": "是啊，我當然要。"
   },
   {
     "index": 12,
     "text": "It's a nest.",
     "start": 28.534,
     "end": 29.484,
-    "zh": "这是个窝嘛。",
-    "zh_hant": "這是個窩嘛。"
+    "zh": "这是个窝。",
+    "zh_hant": "這是個窩。"
   },
   {
     "index": 13,
     "text": "Silly Robert.",
     "start": 29.705,
     "end": 30.845,
-    "zh": "傻乎乎的罗伯特。",
-    "zh_hant": "傻乎乎的羅伯特。"
+    "zh": "傻罗伯特。",
+    "zh_hant": "傻羅伯特。"
   },
   {
     "index": 14,
     "text": "Okay, to support the nest, I'm going to give you a choice.",
     "start": 31.686,
     "end": 35.828,
-    "zh": "好，为了支撑这个窝，我给你一个选择。",
-    "zh_hant": "好，為了支撐這個窩，我給你一個選擇。"
+    "zh": "好，为了撑起这个窝，我给你一个选择。",
+    "zh_hant": "好，為了撐起這個窩，我給你一個選擇。"
   },
   {
     "index": 15,
-    "text": "I'm going to show you two trees, same species, same age,",
+    "text": "I'm going to show you two trees, same species, same age, raised exactly the same way,",
     "start": 35.528,
-    "end": 39.85,
-    "zh": "我给你看两棵树，同种，同龄，",
-    "zh_hant": "我給你看兩棵樹，同種，同齡，"
+    "end": 41.431,
+    "zh": "我给你看两棵树，同种同龄，培育方式完全一样，",
+    "zh_hant": "我給你看兩棵樹，同種同齡，培育方式完全一樣，"
   },
   {
     "index": 16,
-    "text": "raised exactly the same way, and yet, for some reason, they came out at very different sizes.",
-    "start": 39.5,
+    "text": "and yet, for some reason, they came out at very different sizes.",
+    "start": 41.081,
     "end": 45.573,
-    "zh": "用一模一样的方式养大，但不知为何，它们长得差别很大。",
-    "zh_hant": "用一模一樣的方式養大，但不知為何，它們長得差別很大。"
+    "zh": "可不知为何，它们大小差别很大。",
+    "zh_hant": "可不知為何，它們大小差別很大。"
   },
   {
     "index": 17,
-    "text": "And I'm going to warn you, please choose wisely, because you're about to walk",
+    "text": "And I'm going to warn you, please choose wisely, because you're about to walk into a biological mystery.",
     "start": 45.223,
-    "end": 49.935,
-    "zh": "我要提醒你，请慎重选择，因为你即将走进",
-    "zh_hant": "我要提醒你，請慎重選擇，因為你即將走進"
+    "end": 51.736,
+    "zh": "我警告你，请谨慎选择，因为你即将踏入一个生物学之谜。",
+    "zh_hant": "我警告你，請謹慎選擇，因為你即將踏入一個生物學之謎。"
   },
   {
     "index": 18,
-    "text": "into a biological mystery.",
-    "start": 49.585,
-    "end": 51.736,
-    "zh": "一个生物学之谜。",
-    "zh_hant": "一個生物學之謎。"
-  },
-  {
-    "index": 19,
     "text": "Thanks, Robert.",
     "start": 51.386,
     "end": 52.296,
@@ -160,47 +152,47 @@
     "zh_hant": "謝謝，羅伯特。"
   },
   {
-    "index": 20,
+    "index": 19,
     "text": "I'm going to go with the tall one.",
     "start": 51.946,
     "end": 53.357,
-    "zh": "我选那棵高的。",
-    "zh_hant": "我選那棵高的。"
+    "zh": "我选高的那棵。",
+    "zh_hant": "我選高的那棵。"
   },
   {
-    "index": 21,
+    "index": 20,
     "text": "Wait, wait, wait.",
     "start": 53.177,
     "end": 54.137,
-    "zh": "等等，等等。",
-    "zh_hant": "等等，等等。"
+    "zh": "等等，等等，等等。",
+    "zh_hant": "等等，等等，等等。"
   },
   {
-    "index": 22,
+    "index": 21,
     "text": "Aren't you curious about why they turned out so different?",
     "start": 53.787,
     "end": 56.598,
-    "zh": "你不好奇它们为什么差这么多吗？",
-    "zh_hant": "你不好奇它們為什麼差這麼多嗎？"
+    "zh": "你不好奇它们为什么长得不一样吗？",
+    "zh_hant": "你不好奇它們為什麼長得不一樣嗎？"
   },
   {
-    "index": 23,
+    "index": 22,
     "text": "No, not really, no.",
     "start": 57.419,
     "end": 58.779,
-    "zh": "不，不太好奇。",
-    "zh_hant": "不，不太好奇。"
+    "zh": "不，真不好奇。",
+    "zh_hant": "不，真不好奇。"
   },
   {
-    "index": 24,
+    "index": 23,
     "text": "All I know is we have one short, dumpy little plant and one towering, regal specimen.",
     "start": 58.76,
     "end": 64.122,
-    "zh": "我只知道一棵又矮又胖，一棵又高又气派。",
-    "zh_hant": "我只知道一棵又矮又胖，一棵又高又氣派。"
+    "zh": "我只知道一棵矮胖小苗，一棵高大挺拔。",
+    "zh_hant": "我只知道一棵矮胖小苗，一棵高大挺拔。"
   },
   {
-    "index": 25,
+    "index": 24,
     "text": "The choice is simple.",
     "start": 63.772,
     "end": 65.563,
@@ -208,39 +200,39 @@
     "zh_hant": "選擇很簡單。"
   },
   {
-    "index": 26,
+    "index": 25,
     "text": "With such lofty lodgings, I shall survey my surroundings as a king.",
     "start": 65.213,
     "end": 69.705,
-    "zh": "住在这么高的地方，我就像个国王一样俯瞰四周。",
-    "zh_hant": "住在這麼高的地方，我就像個國王一樣俯瞰四周。"
+    "zh": "有这样高耸的居所，我要像国王一样俯瞰四周。",
+    "zh_hant": "有這樣高聳的居所，我要像國王一樣俯瞰四周。"
   },
   {
-    "index": 27,
+    "index": 26,
     "text": "Okay, tell me why they're different.",
     "start": 69.545,
     "end": 74.127,
-    "zh": "好吧，告诉我它们为什么不一样。",
-    "zh_hant": "好吧，告訴我它們為什麼不一樣。"
+    "zh": "好，告诉我它们为什么不一样。",
+    "zh_hant": "好，告訴我它們為什麼不一樣。"
   },
   {
-    "index": 28,
+    "index": 27,
     "text": "Well, it turns out there's a reason that the short one is shorter.",
     "start": 74.127,
     "end": 77.749,
-    "zh": "其实，矮的那棵矮是有原因的。",
-    "zh_hant": "其實，矮的那棵矮是有原因的。"
+    "zh": "其实，矮的那棵之所以矮，是有原因的。",
+    "zh_hant": "其實，矮的那棵之所以矮，是有原因的。"
   },
   {
-    "index": 29,
+    "index": 28,
     "text": "When it was a very young plant, it was rubbed.",
     "start": 77.809,
     "end": 81.651,
-    "zh": "它还是小苗的时候被摩擦过。",
-    "zh_hant": "它還是小苗的時候被摩擦過。"
+    "zh": "它还很小的时候，被搓过。",
+    "zh_hant": "它還很小的時候，被搓過。"
   },
   {
-    "index": 30,
+    "index": 29,
     "text": "It could have been stomped, too.",
     "start": 81.591,
     "end": 83.212,
@@ -248,23 +240,23 @@
     "zh_hant": "也可能被踩過。"
   },
   {
-    "index": 31,
+    "index": 30,
     "text": "Rubbed?",
     "start": 83.312,
     "end": 84.012,
-    "zh": "摩擦？",
-    "zh_hant": "摩擦？"
+    "zh": "搓过？",
+    "zh_hant": "搓過？"
   },
   {
-    "index": 32,
+    "index": 31,
     "text": "It's just something that farmers do all over the world.",
     "start": 83.662,
     "end": 86.153,
-    "zh": "这是全世界农民都会做的事情。",
-    "zh_hant": "這是全世界農民都會做的事情。"
+    "zh": "这是世界各地农民常做的事。",
+    "zh_hant": "這是世界各地農民常做的事。"
   },
   {
-    "index": 33,
+    "index": 32,
     "text": "They...",
     "start": 86.053,
     "end": 86.734,
@@ -272,119 +264,111 @@
     "zh_hant": "他們……"
   },
   {
-    "index": 34,
+    "index": 33,
     "text": "no, they don't.",
     "start": 87.134,
     "end": 88.214,
-    "zh": "不，他们不会。",
-    "zh_hant": "不，他們不會。"
+    "zh": "不，他们没有。",
+    "zh_hant": "不，他們沒有。"
   },
   {
-    "index": 35,
+    "index": 34,
     "text": "No, I sent you evidence.",
     "start": 88.395,
     "end": 90.155,
-    "zh": "不，我发了证据给你。",
-    "zh_hant": "不，我發了證據給你。"
+    "zh": "不，我给你发了证据。",
+    "zh_hant": "不，我給你發了證據。"
   },
   {
-    "index": 36,
+    "index": 35,
     "text": "Here's a contemporary photo of a farm in Japan,",
     "start": 89.805,
     "end": 93.857,
-    "zh": "这是一张日本农场的现拍照片，",
-    "zh_hant": "這是一張日本農場的現拍照片，"
+    "zh": "这是一张日本农场的现照，",
+    "zh_hant": "這是一張日本農場的現照，"
   },
   {
-    "index": 37,
+    "index": 36,
     "text": "and you see two people stomping on baby wheat plants.",
     "start": 93.507,
     "end": 97.979,
-    "zh": "你可以看到两个人在踩小麦幼苗。",
-    "zh_hant": "你可以看到兩個人在踩小麥幼苗。"
+    "zh": "你看到两个人在踩小麦幼苗。",
+    "zh_hant": "你看到兩個人在踩小麥幼苗。"
   },
   {
-    "index": 38,
+    "index": 37,
     "text": "Okay, Robert, why did they do that?",
     "start": 98.299,
     "end": 100.26,
-    "zh": "好吧，罗伯特，他们为什么要那样做？",
-    "zh_hant": "好吧，羅伯特，他們為什麼要那樣做？"
+    "zh": "好，罗伯特，他们为什么那样做？",
+    "zh_hant": "好，羅伯特，他們為什麼那樣做？"
   },
   {
-    "index": 39,
+    "index": 38,
     "text": "That's an excellent question.",
     "start": 100.22,
     "end": 101.821,
-    "zh": "这个问题问得好。",
-    "zh_hant": "這個問題問得好。"
+    "zh": "这是个好问题。",
+    "zh_hant": "這是個好問題。"
   },
   {
-    "index": 40,
+    "index": 39,
     "text": "Why would farmers through history do this to baby plants?",
     "start": 101.781,
     "end": 106.243,
-    "zh": "为什么历史上农民会对小苗这样做？",
-    "zh_hant": "為什麼歷史上農民會對小苗這樣做？"
+    "zh": "历史上有多少农民要对幼苗这么做？",
+    "zh_hant": "歷史上有多少農民要對幼苗這麼做？"
+  },
+  {
+    "index": 40,
+    "text": "So in the 1970s, a professor at Ohio University concocted a simple experiment to try to figure this out.",
+    "start": 106.143,
+    "end": 113.487,
+    "zh": "上世纪70年代，俄亥俄州立大学一位教授设计了简单的实验来弄清这一点。",
+    "zh_hant": "上世紀70年代，俄亥俄州立大學一位教授設計了簡單的實驗來弄清這一點。"
   },
   {
     "index": 41,
-    "text": "So in the 1970s, a professor at Ohio University concocted",
-    "start": 106.143,
-    "end": 110.625,
-    "zh": "所以在20世纪70年代，俄亥俄大学的一位教授设计了一个",
-    "zh_hant": "所以在20世紀70年代，俄亥俄大學的一位教授設計了一個"
-  },
-  {
-    "index": 42,
-    "text": "a simple experiment to try to figure this out.",
-    "start": 110.545,
-    "end": 113.487,
-    "zh": "简单的实验来解决这个问题。",
-    "zh_hant": "簡單的實驗來解決這個問題。"
-  },
-  {
-    "index": 43,
     "text": "All you need to do is bring me two young plants.",
     "start": 113.287,
     "end": 116.528,
-    "zh": "你只需要给我带两棵小苗来。",
-    "zh_hant": "你只需要給我帶兩棵小苗來。"
+    "zh": "你只需给我带来两棵小苗。",
+    "zh_hant": "你只需給我帶來兩棵小苗。"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "We can probably do that.",
     "start": 116.288,
     "end": 117.809,
-    "zh": "这应该没问题。",
-    "zh_hant": "這應該沒問題。"
+    "zh": "这大概没问题。",
+    "zh_hant": "這大概沒問題。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "Where are they?",
     "start": 117.529,
     "end": 118.809,
-    "zh": "它们在哪儿？",
-    "zh_hant": "它們在哪兒？"
+    "zh": "它们在哪？",
+    "zh_hant": "它們在哪？"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "Lowly bug folk, find me some saplings.",
     "start": 118.99,
     "end": 121.591,
-    "zh": "卑微的小虫子们，给我找几棵小树苗来。",
-    "zh_hant": "卑微的小蟲子們，給我找幾棵小樹苗來。"
+    "zh": "卑微的小虫们，给我找些树苗来。",
+    "zh_hant": "卑微的小蟲們，給我找些樹苗來。"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "Same species, same age, same size, presumably.",
     "start": 121.431,
     "end": 125.013,
-    "zh": "同种、同龄、大小也差不多吧。",
-    "zh_hant": "同種、同齡、大小也差不多吧。"
+    "zh": "应该同种、同龄、同样大小。",
+    "zh_hant": "應該同種、同齡、同樣大小。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "Exactly.",
     "start": 125.113,
     "end": 126.153,
@@ -392,103 +376,95 @@
     "zh_hant": "沒錯。"
   },
   {
-    "index": 49,
-    "text": "And have them turn their attention to just one of the plants first",
+    "index": 47,
+    "text": "And have them turn their attention to just one of the plants first and gently stroke the top of that plant.",
     "start": 125.803,
-    "end": 129.795,
-    "zh": "让他们先只注意其中一株植物，",
-    "zh_hant": "讓他們先只注意其中一株植物，"
-  },
-  {
-    "index": 50,
-    "text": "and gently stroke the top of that plant.",
-    "start": 129.445,
     "end": 132.917,
-    "zh": "轻轻抚摸那株植物的顶部。",
-    "zh_hant": "輕輕撫摸那株植物的頂部。"
+    "zh": "让他们先专心对其中一株，轻轻抚摩那株的顶部。",
+    "zh_hant": "讓他們先專心對其中一株，輕輕撫摩那株的頂部。"
   },
   {
-    "index": 51,
+    "index": 48,
     "text": "Okay, you heard the man.",
     "start": 132.657,
     "end": 134.157,
-    "zh": "好，你听到他说的了。",
-    "zh_hant": "好，你聽到他說的了。"
+    "zh": "好，听他的。",
+    "zh_hant": "好，聽他的。"
   },
   {
-    "index": 52,
+    "index": 49,
     "text": "Stroke.",
     "start": 133.807,
     "end": 134.758,
-    "zh": "抚摸。",
-    "zh_hant": "撫摸。"
+    "zh": "抚摩。",
+    "zh_hant": "撫摩。"
   },
   {
-    "index": 53,
+    "index": 50,
     "text": "Gently, gently, back and forth.",
     "start": 134.598,
     "end": 136.819,
-    "zh": "轻轻地，轻轻地，来回。",
-    "zh_hant": "輕輕地，輕輕地，來回。"
+    "zh": "轻轻，轻轻，来回。",
+    "zh_hant": "輕輕，輕輕，來回。"
   },
   {
-    "index": 54,
+    "index": 51,
     "text": "Gently.",
     "start": 136.469,
     "end": 137.379,
-    "zh": "要轻。",
-    "zh_hant": "要輕。"
+    "zh": "轻点。",
+    "zh_hant": "輕點。"
   },
   {
-    "index": 55,
+    "index": 52,
     "text": "Make it 10, 20 strokes, is all, and the professor did this twice a day.",
     "start": 137.059,
     "end": 141.661,
-    "zh": "只要10到20次就够了，教授每天做两次。",
-    "zh_hant": "只要10到20次就夠了，教授每天做兩次。"
+    "zh": "就做10到20下，教授每天做两次。",
+    "zh_hant": "就做10到20下，教授每天做兩次。"
   },
   {
-    "index": 56,
+    "index": 53,
     "text": "For the other plant, do just one stroke a day.",
     "start": 141.601,
     "end": 146.103,
-    "zh": "另一株，每天只摸一次。",
-    "zh_hant": "另一株，每天只摸一次。"
+    "zh": "另一株，每天只抚一下。",
+    "zh_hant": "另一株，每天只撫一下。"
   },
   {
-    "index": 57,
+    "index": 54,
     "text": "Just one, Robert said.",
     "start": 146.744,
     "end": 148.184,
-    "zh": "就一次，罗伯特说。",
-    "zh_hant": "就一次，羅伯特說。"
+    "zh": "就一下，罗伯特说的。",
+    "zh_hant": "就一下，羅伯特說的。"
   },
   {
-    "index": 58,
+    "index": 55,
     "text": "Don't overcomplicate it.",
     "start": 147.834,
     "end": 149.385,
-    "zh": "别搞复杂了。",
-    "zh_hant": "別搞複雜了。"
+    "zh": "别想复杂。",
+    "zh_hant": "別想複雜。"
   },
   {
-    "index": 59,
+    "index": 56,
     "text": "Alright, good lad.",
     "start": 150.746,
     "end": 151.966,
-    "zh": "好，干得漂亮。",
-    "zh_hant": "好，幹得漂亮。"
+    "zh": "好，干得好。",
+    "zh_hant": "好，幹得好。"
   },
   {
-    "index": 60,
+    "index": 57,
     "text": "Okay, you two are done and get your friend out of here too, because he's trying to touch the plant again.",
     "start": 151.616,
     "end": 157.349,
-    "zh": "好了，你们两个可以了，把你们的朋友也带走，因为他又想碰那株植物了。",
-    "zh_hant": "好了，你們兩個可以了，把你們的朋友也帶走，因為他又想碰那株植物了。"
+    "zh": "好了，你们俩完事了，也把你们的朋友弄走，因为他又想摸那株了。",
+    "zh_hant": "好了，你們倆完事了，也把你們的朋友弄走，因為他又想摸那株了。"
   },
   {
-    "index": 61,
+    "index": 58,
     "text": "Robert, I've got one more question.",
     "start": 156.999,
     "end": 158.87,
@@ -496,55 +472,55 @@
     "zh_hant": "羅伯特，我還有一個問題。"
   },
   {
-    "index": 62,
+    "index": 59,
     "text": "Why the heck are we stroking plants?",
     "start": 158.52,
     "end": 161.131,
-    "zh": "我们到底为什么要摸植物？",
-    "zh_hant": "我們到底為什麼要摸植物？"
+    "zh": "我们到底为什么抚摩植物？",
+    "zh_hant": "我們到底為什麼撫摩植物？"
   },
   {
-    "index": 63,
+    "index": 60,
     "text": "Well, the professor wanted to find out if being touched differently would affect the plants later in life.",
     "start": 161.271,
     "end": 167.494,
-    "zh": "教授想弄清楚，接触方式的不同是否会影响植物以后的生活。",
-    "zh_hant": "教授想弄清楚，接觸方式的不同是否會影響植物以後的生活。"
+    "zh": "教授想知道，不同的触摸方式会不会影响植物以后的发展。",
+    "zh_hant": "教授想知道，不同的觸控方式會不會影響植物以後的發展。"
   },
   {
-    "index": 64,
+    "index": 61,
     "text": "I sent you a photo that shows the difference just a few days later from a very similar experiment.",
     "start": 167.795,
     "end": 173.537,
-    "zh": "我发了一张照片给你，显示一个非常类似的实验，几天后就显现出差别的。",
-    "zh_hant": "我發了一張照片給你，顯示一個非常類似的實驗，幾天後就顯現出差別的。"
+    "zh": "我给你发了一张照片，展示类似实验几天后的差别。",
+    "zh_hant": "我給你發了一張照片，展示類似實驗幾天後的差別。"
   },
   {
-    "index": 65,
+    "index": 62,
     "text": "The plant that had not been rubbed, that's the one on the left.",
     "start": 173.237,
     "end": 176.899,
-    "zh": "没被摩擦过的那株，就是左边那株。",
-    "zh_hant": "沒被摩擦過的那株，就是左邊那株。"
+    "zh": "没被搓过的那株，就是左边这株。",
+    "zh_hant": "沒被搓過的那株，就是左邊這株。"
   },
   {
-    "index": 66,
+    "index": 63,
     "text": "It grew, as you see, much taller, like the one I wanted for my nest.",
     "start": 176.549,
     "end": 180.561,
-    "zh": "你看，它长得高多了，就像我窝里想要的那株。",
-    "zh_hant": "你看，它長得高多了，就像我窩裡想要的那株。"
+    "zh": "它长得更高，像我想用来做窝的那棵。",
+    "zh_hant": "它長得更高，像我想用來做窩的那棵。"
   },
   {
-    "index": 67,
+    "index": 64,
     "text": "Yeah, like the one that snapped and fell over.",
     "start": 180.421,
     "end": 183.182,
-    "zh": "是啊，就像那株折断倒下的一样。",
-    "zh_hant": "是啊，就像那株折斷倒下的一樣。"
+    "zh": "是啊，像折断倒下的那棵。",
+    "zh_hant": "是啊，像折斷倒下的那棵。"
   },
   {
-    "index": 68,
+    "index": 65,
     "text": "Yeah.",
     "start": 183.102,
     "end": 183.762,
@@ -552,87 +528,87 @@
     "zh_hant": "對。"
   },
   {
-    "index": 69,
+    "index": 66,
     "text": "Meanwhile, the plant on the right, like the one you didn't choose, it ended up not only shorter,",
     "start": 183.422,
     "end": 188.364,
-    "zh": "与此同时，右边的植物，就像你没选的那株，结果不仅更矮，",
-    "zh_hant": "與此同時，右邊的植物，就像你沒選的那株，結果不僅更矮，"
+    "zh": "与此同时，右边那棵，像你没选的那棵，最终不仅更矮，",
+    "zh_hant": "與此同時，右邊那棵，像你沒選的那棵，最終不僅更矮，"
   },
   {
-    "index": 70,
+    "index": 67,
     "text": "but it got thicker, and it grew more roots at the bottom under the soil.",
     "start": 188.014,
     "end": 192.707,
-    "zh": "而且更粗壮，在土壤底部还长了更多根。",
-    "zh_hant": "而且更粗壯，在土壤底部還長了更多根。"
+    "zh": "而且更粗壮，土壤下根部也更多。",
+    "zh_hant": "而且更粗壯，土壤下根部也更多。"
   },
   {
-    "index": 71,
+    "index": 68,
     "text": "Aha, suggesting that...",
     "start": 192.407,
     "end": 197.189,
-    "zh": "啊哈，这表明……",
-    "zh_hant": "啊哈，這表明……"
+    "zh": "啊哈，这说明……",
+    "zh_hant": "啊哈，這說明……"
   },
   {
-    "index": 72,
+    "index": 69,
     "text": "Suggesting that baby plants that get repeatedly touched, even gently,",
     "start": 196.839,
     "end": 200.611,
-    "zh": "表明反复被触碰的小苗，即使是很轻柔的触碰，",
-    "zh_hant": "表明反覆被觸碰的小苗，即使是很輕柔的觸碰，"
+    "zh": "说明小苗被反复触摸，哪怕很轻，",
+    "zh_hant": "說明小苗被反覆觸控，哪怕很輕，"
   },
   {
-    "index": 73,
+    "index": 70,
     "text": "not only notice, they change shape.",
     "start": 200.671,
     "end": 204.233,
-    "zh": "不仅会察觉，还会改变形态。",
-    "zh_hant": "不僅會察覺，還會改變形態。"
+    "zh": "不仅察觉到了，还会改变形状。",
+    "zh_hant": "不僅察覺到了，還會改變形狀。"
   },
   {
-    "index": 74,
+    "index": 71,
     "text": "Yes.",
     "start": 204.093,
     "end": 204.973,
-    "zh": "对。",
-    "zh_hant": "對。"
+    "zh": "是的。",
+    "zh_hant": "是的。"
   },
   {
-    "index": 75,
+    "index": 72,
     "text": "The one that was touched over and over bulked up to carry more weight.",
     "start": 204.913,
     "end": 209.215,
-    "zh": "反复被触摸的那株变得结实，以便承载更多重量。",
-    "zh_hant": "反覆被觸控的那株變得結實，以便承載更多重量。"
+    "zh": "被反复触摸的那株长粗了，能承受更多重量。",
+    "zh_hant": "被反覆觸控的那株長粗了，能承受更多重量。"
   },
   {
-    "index": 76,
+    "index": 73,
     "text": "And this experiment has been done over and over.",
     "start": 209.035,
     "end": 212.157,
-    "zh": "这个实验反复做过多次。",
-    "zh_hant": "這個實驗反覆做過多次。"
+    "zh": "这个实验反复做过。",
+    "zh_hant": "這個實驗反覆做過。"
   },
   {
-    "index": 77,
+    "index": 74,
     "text": "Same result.",
     "start": 212.117,
     "end": 213.277,
-    "zh": "结果都一样。",
-    "zh_hant": "結果都一樣。"
+    "zh": "结果相同。",
+    "zh_hant": "結果相同。"
   },
   {
-    "index": 78,
+    "index": 75,
     "text": "Baby plants notice touch.",
     "start": 212.927,
     "end": 215.498,
-    "zh": "小苗会感知触碰。",
-    "zh_hant": "小苗會感知觸碰。"
+    "zh": "小苗能感知触摸。",
+    "zh_hant": "小苗能感知觸控。"
   },
   {
-    "index": 79,
+    "index": 76,
     "text": "There's even a science-y name for this.",
     "start": 215.148,
     "end": 217.159,
@@ -640,15 +616,15 @@
     "zh_hant": "這甚至有個科學名字。"
   },
   {
-    "index": 80,
+    "index": 77,
     "text": "It's called thigmomorphogenesis.",
     "start": 216.809,
     "end": 220.04,
-    "zh": "叫“触碰形态发生”。",
-    "zh_hant": "叫“觸碰形態發生”。"
+    "zh": "叫接触形态建成。",
+    "zh_hant": "叫接觸形態建成。"
   },
   {
-    "index": 81,
+    "index": 78,
     "text": "Wow.",
     "start": 220.041,
     "end": 220.821,
@@ -656,7 +632,7 @@
     "zh_hant": "哇。"
   },
   {
-    "index": 82,
+    "index": 79,
     "text": "What kind of word is that?",
     "start": 220.941,
     "end": 222.442,
@@ -664,207 +640,175 @@
     "zh_hant": "這是什麼詞？"
   },
   {
-    "index": 83,
+    "index": 80,
     "text": "Well, it's Greek.",
     "start": 222.182,
     "end": 223.462,
-    "zh": "是希腊语。",
-    "zh_hant": "是希臘語。"
+    "zh": "嗯，它是希腊语。",
+    "zh_hant": "嗯，它是希臘語。"
   },
   {
-    "index": 84,
+    "index": 81,
     "text": "Thigmo means touch.",
     "start": 223.112,
     "end": 224.863,
-    "zh": "Thigmo 意思是触碰。",
-    "zh_hant": "Thigmo 意思是觸碰。"
+    "zh": "Thigmo意思是触摸。",
+    "zh_hant": "Thigmo意思是觸控。"
   },
   {
-    "index": 85,
+    "index": 82,
     "text": "Morpho means shape.",
     "start": 224.663,
     "end": 226.443,
-    "zh": "Morpho 意思是形态。",
-    "zh_hant": "Morpho 意思是形態。"
+    "zh": "Morpho意思是形状。",
+    "zh_hant": "Morpho意思是形狀。"
   },
   {
-    "index": 86,
+    "index": 83,
     "text": "Genesis means beginning.",
     "start": 226.324,
     "end": 228.404,
-    "zh": "Genesis 意思是起源。",
-    "zh_hant": "Genesis 意思是起源。"
+    "zh": "Genesis意思是起源。",
+    "zh_hant": "Genesis意思是起源。"
   },
   {
-    "index": 87,
-    "text": "So if you smush them together into a single word, it means touch me too much,",
+    "index": 84,
+    "text": "So if you smush them together into a single word,",
     "start": 228.054,
-    "end": 232.827,
-    "zh": "所以把它们拼成一个词，意思是摸我太多，",
-    "zh_hant": "所以把它們拼成一個詞，意思是摸我太多，"
+    "end": 230.666,
+    "zh": "所以把它们合成一个词，",
+    "zh_hant": "所以把它們合成一個詞，"
   },
   {
-    "index": 88,
-    "text": "my shape will begin to change.",
-    "start": 232.477,
+    "index": 85,
+    "text": "it means touch me too much, my shape will begin to change.",
+    "start": 230.626,
     "end": 235.788,
-    "zh": "我的形态就会开始改变。",
-    "zh_hant": "我的形態就會開始改變。"
+    "zh": "意思就是摸我太多，我的形状会开始改变。",
+    "zh_hant": "意思就是摸我太多，我的形狀會開始改變。"
   },
   {
-    "index": 89,
+    "index": 86,
     "text": "Thigmomorphogenesis.",
     "start": 235.728,
     "end": 238.689,
-    "zh": "触碰形态发生。",
-    "zh_hant": "觸碰形態發生。"
+    "zh": "接触形态建成。",
+    "zh_hant": "接觸形態建成。"
   },
   {
-    "index": 90,
+    "index": 87,
     "text": "It's kind of rhythmic, isn't it?",
     "start": 238.339,
     "end": 239.21,
-    "zh": "这挺有节奏感的，不是吗？",
-    "zh_hant": "這挺有節奏感的，不是嗎？"
+    "zh": "这词有点韵律，不是吗？",
+    "zh_hant": "這詞有點韻律，不是嗎？"
+  },
+  {
+    "index": 88,
+    "text": "Yeah, thigmomorphogenesis, thigmomorphogenesis.",
+    "start": 238.86,
+    "end": 245.07,
+    "zh": "是啊，接触形态建成，接触形态建成。",
+    "zh_hant": "是啊，接觸形態建成，接觸形態建成。"
+  },
+  {
+    "index": 89,
+    "text": "Okay, I can jam with this.",
+    "start": 246.474,
+    "end": 248.135,
+    "zh": "好，我能跟上这个节奏。",
+    "zh_hant": "好，我能跟上這個節奏。"
+  },
+  {
+    "index": 90,
+    "text": "Well, if you want a plant that's sturdy or resilient in your crops,",
+    "start": 247.875,
+    "end": 254.698,
+    "zh": "如果你想让作物里有一株结实又耐操的植物，",
+    "zh_hant": "如果你想讓作物裡有一株結實又耐操的植物，"
   },
   {
     "index": 91,
-    "text": "Yeah, thigmomorphogenesis, thigmomorphogenesis.",
-    "start": 238.86,
-    "end": 246.974,
-    "zh": "是啊，触碰形态发生，触碰形态发生。",
-    "zh_hant": "是啊，觸碰形態發生，觸碰形態發生。"
+    "text": "you'll find the answer somewhat wordy, but I think it's worth a shot.",
+    "start": 254.958,
+    "end": 261.461,
+    "zh": "答案有点拗口，但我觉得值得一试。",
+    "zh_hant": "答案有點拗口，但我覺得值得一試。"
   },
   {
     "index": 92,
-    "text": "Okay, I can jam with this.",
-    "start": 246.624,
-    "end": 248.135,
-    "zh": "嗯，我能跟上这个节奏。",
-    "zh_hant": "嗯，我能跟上這個節奏。"
+    "text": "Repeat after me, they call it thigmomorphogenesis, along with watering and sun.",
+    "start": 261.261,
+    "end": 268.885,
+    "zh": "跟我念，他们叫它接触形态建成，连同浇水和阳光。",
+    "zh_hant": "跟我念，他們叫它接觸形態建成，連同澆水和陽光。"
   },
   {
     "index": 93,
-    "text": "Well, if you want a plant that's sturdy or resilient",
-    "start": 247.875,
-    "end": 253.157,
-    "zh": "如果你想要一株结实或坚韧的",
-    "zh_hant": "如果你想要一株結實或堅韌的"
+    "text": "It's a simple little process, so listen, this is how it's done.",
+    "start": 269.525,
+    "end": 276.288,
+    "zh": "这是个简单的小过程，听好，做法如下。",
+    "zh_hant": "這是個簡單的小過程，聽好，做法如下。"
   },
   {
     "index": 94,
-    "text": "in your crops,",
-    "start": 252.957,
-    "end": 254.698,
-    "zh": "作物，",
-    "zh_hant": "作物，"
-  },
-  {
-    "index": 95,
-    "text": "you'll find the answer somewhat wordy,",
-    "start": 254.958,
-    "end": 258.64,
-    "zh": "你会发现答案有点绕口，",
-    "zh_hant": "你會發現答案有點繞口，"
-  },
-  {
-    "index": 96,
-    "text": "but I think it's worth a shot.",
-    "start": 259.0,
-    "end": 261.461,
-    "zh": "但我觉得值得一试。",
-    "zh_hant": "但我覺得值得一試。"
-  },
-  {
-    "index": 97,
-    "text": "Repeat after me, they call it thigmomorphogenesis,",
-    "start": 261.261,
-    "end": 265.743,
-    "zh": "跟我念，他们叫它触碰形态发生，",
-    "zh_hant": "跟我念，他們叫它觸碰形態發生，"
-  },
-  {
-    "index": 98,
-    "text": "along with watering and sun.",
-    "start": 265.743,
-    "end": 268.885,
-    "zh": "加上浇水和晒太阳。",
-    "zh_hant": "加上澆水和曬太陽。"
-  },
-  {
-    "index": 99,
-    "text": "It's a simple little process, so listen,",
-    "start": 269.525,
-    "end": 273.727,
-    "zh": "这是个简单的过程，听着，",
-    "zh_hant": "這是個簡單的過程，聽著，"
-  },
-  {
-    "index": 100,
-    "text": "this is how it's done.",
-    "start": 273.827,
-    "end": 276.288,
-    "zh": "这么做就行。",
-    "zh_hant": "這麼做就行。"
-  },
-  {
-    "index": 101,
     "text": "You move your hand in a way to brush the leaves and the stems,",
     "start": 276.369,
     "end": 280.451,
-    "zh": "你移动手，轻轻拂过叶子和茎，",
-    "zh_hant": "你移動手，輕輕拂過葉子和莖，"
+    "zh": "你动动手，轻拂叶子和茎，",
+    "zh_hant": "你動動手，輕拂葉子和莖，"
   },
   {
-    "index": 102,
+    "index": 95,
     "text": "and later on in the day you can do it again.",
     "start": 280.101,
     "end": 283.592,
-    "zh": "然后过一会儿，你可以再来一次。",
-    "zh_hant": "然後過一會兒，你可以再來一次。"
+    "zh": "晚些时候可以再来一次。",
+    "zh_hant": "晚些時候可以再來一次。"
   },
   {
-    "index": 103,
-    "text": "Repeat this tiny task each day between whatever else you do,",
+    "index": 96,
+    "text": "Repeat this tiny task each day between whatever else you do, and your plant will change so drastically,",
     "start": 283.242,
-    "end": 287.214,
-    "zh": "每天在其他事情之间重复这个小动作，",
-    "zh_hant": "每天在其他事情之間重複這個小動作，"
+    "end": 289.815,
+    "zh": "每天在别的事之余重复这个小任务，你的植物会变化巨大，",
+    "zh_hant": "每天在別的事之餘重複這個小任務，你的植物會變化巨大，"
   },
   {
-    "index": 104,
-    "text": "and your plant will change so drastically, it's crazy, but it's true.",
-    "start": 287.094,
+    "index": 97,
+    "text": "it's crazy, but it's true.",
+    "start": 289.465,
     "end": 291.116,
-    "zh": "你的植物会变化巨大，简直难以置信，但这是真的。",
-    "zh_hant": "你的植物會變化巨大，簡直難以置信，但這是真的。"
+    "zh": "简直疯狂，但这是真的。",
+    "zh_hant": "簡直瘋狂，但這是真的。"
   },
   {
-    "index": 105,
-    "text": "Instead of simply growing bigger, its limbs will get more dense,",
+    "index": 98,
+    "text": "Instead of simply growing bigger,",
     "start": 290.766,
-    "end": 294.758,
-    "zh": "不只是长得更高，它的枝干会变得更密实，",
-    "zh_hant": "不只是長得更高，它的枝幹會變得更密實，"
+    "end": 292.957,
+    "zh": "不只是长得更大，",
+    "zh_hant": "不只是長得更大，"
   },
   {
-    "index": 106,
-    "text": "and for such a minor effort, it's a major consequence.",
-    "start": 294.408,
+    "index": 99,
+    "text": "its limbs will get more dense, and for such a minor effort, it's a major consequence.",
+    "start": 292.857,
     "end": 298.32,
-    "zh": "这么小的努力，带来这么大的变化。",
-    "zh_hant": "這麼小的努力，帶來這麼大的變化。"
+    "zh": "它的枝条会更密实，付出这么小，效果这么大。",
+    "zh_hant": "它的枝條會更密實，付出這麼小，效果這麼大。"
   },
   {
-    "index": 107,
+    "index": 100,
     "text": "Sure, the plant won't be as lofty as the one you left alone,",
     "start": 297.97,
     "end": 301.821,
-    "zh": "当然，这株植物不会像你不管的那株那么高耸，",
-    "zh_hant": "當然，這株植物不會像你不管的那株那麼高聳，"
+    "zh": "当然，这株不会像你不管的那棵那么高大，",
+    "zh_hant": "當然，這株不會像你不管的那棵那麼高大，"
   },
   {
-    "index": 108,
+    "index": 101,
     "text": "but short and strong and stocky, like Sylvester Stallone.",
     "start": 301.471,
     "end": 305.483,
@@ -872,103 +816,87 @@
     "zh_hant": "但矮壯結實，像西爾維斯特·史泰龍。"
   },
   {
-    "index": 109,
+    "index": 102,
     "text": "Now, in nature, it's quite clever for a plant to grow this way,",
     "start": 305.263,
     "end": 308.825,
-    "zh": "在自然界中，植物这样生长其实很聪明，",
-    "zh_hant": "在自然界中，植物這樣生長其實很聰明，"
+    "zh": "在自然界，植物这样长是很聪明的，",
+    "zh_hant": "在自然界，植物這樣長是很聰明的，"
   },
   {
-    "index": 110,
+    "index": 103,
     "text": "if you consider wind and weather and whatever else that may push the plant around.",
     "start": 308.485,
     "end": 314.107,
-    "zh": "想想风、天气，还有其他可能会推挤植物的东西。",
-    "zh_hant": "想想風、天氣，還有其他可能會推擠植物的東西。"
+    "zh": "你想想风、天气或者其他会推挤植物的东西。",
+    "zh_hant": "你想想風、天氣或者其他會推擠植物的東西。"
   },
   {
-    "index": 111,
+    "index": 104,
     "text": "So, of course, that plant should make all its branches extra sturdy, so they're less inclined to break.",
     "start": 313.827,
     "end": 319.39,
-    "zh": "所以，那株植物当然会让所有枝条格外结实，这样更不容易折断。",
-    "zh_hant": "所以，那株植物當然會讓所有枝條格外結實，這樣更不容易折斷。"
+    "zh": "所以，当然，那株植物应该让所有枝条更结实，不容易断。",
+    "zh_hant": "所以，當然，那株植物應該讓所有枝條更結實，不容易斷。"
   },
   {
-    "index": 112,
+    "index": 105,
     "text": "Whoops-a-daisy, thigmo-morpho-genesis.",
     "start": 319.04,
     "end": 322.712,
-    "zh": "哎呀，碰—撞—形—态—发—生。",
-    "zh_hant": "哎呀，碰—撞—形—態—發—生。"
+    "zh": "哎呀，接触形态建成。",
+    "zh_hant": "哎呀，接觸形態建成。"
   },
   {
-    "index": 113,
+    "index": 106,
     "text": "So I think you get the gist.",
     "start": 322.952,
     "end": 325.493,
-    "zh": "我想你已经明白要点了。",
-    "zh_hant": "我想你已經明白要點了。"
+    "zh": "我觉得你懂大概意思了。",
+    "zh_hant": "我覺得你懂大概意思了。"
   },
   {
-    "index": 114,
-    "text": "And you know, is knowledge worth recalling",
+    "index": 107,
+    "text": "And you know, is knowledge worth recalling if you ever build a nest?",
     "start": 325.614,
-    "end": 329.796,
-    "zh": "而且，如果你要建窝，",
-    "zh_hant": "而且，如果你要建窩，"
-  },
-  {
-    "index": 115,
-    "text": "if you ever build a nest?",
-    "start": 329.476,
     "end": 333.257,
-    "zh": "这知识值得记住吗？",
-    "zh_hant": "這知識值得記住嗎？"
+    "zh": "而且，建窝时，这个知识值得记起吗？",
+    "zh_hant": "而且，建窩時，這個知識值得記起嗎？"
   },
   {
-    "index": 116,
-    "text": "Wait, Robert, you say plants sense touch, but what I fail to see is how a plant can tell itself, \"Hey,",
+    "index": 108,
+    "text": "Wait, Robert, you say plants sense touch, but what I fail to see is how a plant can tell itself, \"Hey, something's touching me.\"",
     "start": 333.798,
-    "end": 339.7,
-    "zh": "等等，罗伯特，你说植物感知触碰，但我不明白植物怎么告诉自己：“嘿，",
-    "zh_hant": "等等，羅伯特，你說植物感知觸碰，但我不明白植物怎麼告訴自己：“嘿，"
-  },
-  {
-    "index": 117,
-    "text": "something's touching me.\"",
-    "start": 339.35,
     "end": 340.841,
-    "zh": "有东西在碰我。”",
-    "zh_hant": "有東西在碰我。”"
+    "zh": "等等，罗伯特，你说植物能感知触摸，但我不明白的是，植物怎么告诉自己：“嘿，有东西在碰我。”",
+    "zh_hant": "等等，羅伯特，你說植物能感知觸控，但我不明白的是，植物怎麼告訴自己：“嘿，有東西在碰我。”"
   },
   {
-    "index": 118,
+    "index": 109,
     "text": "Well, I just sent a video.",
     "start": 340.881,
     "end": 342.862,
-    "zh": "我刚给你发了段视频。",
-    "zh_hant": "我剛給你發了段影片。"
+    "zh": "嗯，我刚发了个视频。",
+    "zh_hant": "嗯，我剛發了個影片。"
   },
   {
-    "index": 119,
+    "index": 110,
     "text": "It should now be with you.",
     "start": 342.662,
     "end": 344.323,
-    "zh": "你应该收到了。",
-    "zh_hant": "你應該收到了。"
+    "zh": "现在应该到你那了。",
+    "zh_hant": "現在應該到你那了。"
   },
   {
-    "index": 120,
+    "index": 111,
     "text": "It shows that plants have nervous systems, much like humans do.",
     "start": 344.403,
     "end": 347.965,
-    "zh": "它显示植物有神经系统，和人类很像。",
-    "zh_hant": "它顯示植物有神經系統，和人類很像。"
+    "zh": "它显示植物有神经系统，很像人类。",
+    "zh_hant": "它顯示植物有神經系統，很像人類。"
   },
   {
-    "index": 121,
+    "index": 112,
     "text": "Okay.",
     "start": 347.625,
     "end": 348.465,
@@ -976,7 +904,7 @@
     "zh_hant": "好。"
   },
   {
-    "index": 122,
+    "index": 113,
     "text": "There's a caterpillar on this leaf.",
     "start": 348.115,
     "end": 350.206,
@@ -984,63 +912,55 @@
     "zh_hant": "這片葉子上有隻毛毛蟲。"
   },
   {
-    "index": 123,
+    "index": 114,
     "text": "You see there where it bites?",
     "start": 349.856,
     "end": 351.626,
-    "zh": "你看到它咬的地方了吗？",
-    "zh_hant": "你看到它咬的地方了嗎？"
+    "zh": "你看它咬的地方？",
+    "zh_hant": "你看它咬的地方？"
   },
   {
-    "index": 124,
+    "index": 115,
     "text": "Yeah.",
     "start": 351.286,
     "end": 351.987,
-    "zh": "看到了。",
-    "zh_hant": "看到了。"
+    "zh": "嗯。",
+    "zh_hant": "嗯。"
   },
   {
-    "index": 125,
+    "index": 116,
     "text": "And once the chemical's released, now watch that plant ignite.",
     "start": 351.687,
     "end": 355.308,
-    "zh": "一旦化学物质释放，看那株植物瞬间被点燃。",
-    "zh_hant": "一旦化學物質釋放，看那株植物瞬間被點燃。"
+    "zh": "一旦化学物质释放，现在看那株植物“点火”。",
+    "zh_hant": "一旦化學物質釋放，現在看那株植物“點火”。"
   },
   {
-    "index": 126,
-    "text": "It starts at the affected leaf, then through the plant it goes,",
+    "index": 117,
+    "text": "It starts at the affected leaf, then through the plant it goes, but there's no brain inside the plant to tell it how to grow.",
     "start": 355.168,
-    "end": 358.79,
-    "zh": "它从受影响的叶子开始，然后传遍整棵植物，",
-    "zh_hant": "它從受影響的葉子開始，然後傳遍整棵植物，"
-  },
-  {
-    "index": 127,
-    "text": "but there's no brain inside the plant to tell it how to grow.",
-    "start": 358.63,
     "end": 362.012,
-    "zh": "但植物里没有大脑告诉它怎么生长。",
-    "zh_hant": "但植物裡沒有大腦告訴它怎麼生長。"
+    "zh": "从受影响的叶子开始，然后传遍整株，但植物里没有大脑告诉它怎么长。",
+    "zh_hant": "從受影響的葉子開始，然後傳遍整株，但植物裡沒有大腦告訴它怎麼長。"
   },
   {
-    "index": 128,
+    "index": 118,
     "text": "So it's not like human beings in that if you get a slap,",
     "start": 362.192,
     "end": 365.874,
-    "zh": "所以它不像人类，如果你被打了一下，",
-    "zh_hant": "所以它不像人類，如果你被打了一下，"
+    "zh": "所以不像人类，比如你被扇耳光，",
+    "zh_hant": "所以不像人類，比如你被扇耳光，"
   },
   {
-    "index": 129,
+    "index": 119,
     "text": "then your brain may send a signal saying, slap that sucker back.",
     "start": 365.524,
     "end": 369.576,
-    "zh": "你的大脑可能会发出信号，说，打回去。",
-    "zh_hant": "你的大腦可能會發出訊號，說，打回去。"
+    "zh": "大脑可能发信号说，扇回去。",
+    "zh_hant": "大腦可能發訊號說，扇回去。"
   },
   {
-    "index": 130,
+    "index": 120,
     "text": "Right.",
     "start": 369.226,
     "end": 369.856,
@@ -1048,63 +968,63 @@
     "zh_hant": "對。"
   },
   {
-    "index": 131,
+    "index": 121,
     "text": "Human brains get signals when we're hit or slapped or bit.",
     "start": 369.596,
     "end": 373.017,
-    "zh": "人类的大脑在被击打、掌掴或咬到时会收到信号。",
-    "zh_hant": "人類的大腦在被擊打、掌摑或咬到時會收到訊號。"
+    "zh": "人类被打、被扇或被咬时，大脑会收到信号。",
+    "zh_hant": "人類被打、被扇或被咬時，大腦會收到訊號。"
   },
   {
-    "index": 132,
+    "index": 122,
     "text": "But where in plants do signals go whenever plants are hit?",
     "start": 372.837,
     "end": 376.519,
-    "zh": "但植物被击打时，信号去哪儿了？",
-    "zh_hant": "但植物被擊打時，訊號去哪兒了？"
+    "zh": "但植物被打时，信号去哪儿？",
+    "zh_hant": "但植物被打時，訊號去哪兒？"
   },
   {
-    "index": 133,
+    "index": 123,
     "text": "Imagine even briefly being cut off from your brain, then try to jump or walk or grow.",
     "start": 376.659,
     "end": 382.282,
-    "zh": "想象一下，即使短暂地失去大脑，再试着跳、走或生长。",
-    "zh_hant": "想象一下，即使短暫地失去大腦，再試著跳、走或生長。"
+    "zh": "想象一下哪怕短暂与大脑断联，然后试着跳、走或生长。",
+    "zh_hant": "想象一下哪怕短暫與大腦斷聯，然後試著跳、走或生長。"
   },
   {
-    "index": 134,
+    "index": 124,
     "text": "You can't, it's all in vain.",
     "start": 381.932,
     "end": 383.762,
-    "zh": "你做不到，全是徒劳。",
-    "zh_hant": "你做不到，全是徒勞。"
+    "zh": "你做不到，全是白费。",
+    "zh_hant": "你做不到，全是白費。"
   },
   {
-    "index": 135,
-    "text": "But plants somehow can sense a touch, react and shift and change,",
+    "index": 125,
+    "text": "But plants somehow can sense a touch,",
     "start": 383.563,
-    "end": 387.464,
-    "zh": "但植物却能感知触碰，做出反应，改变形态，",
-    "zh_hant": "但植物卻能感知觸碰，做出反應，改變形態，"
+    "end": 385.964,
+    "zh": "但植物不知怎么就能感知触摸，",
+    "zh_hant": "但植物不知怎麼就能感知觸控，"
   },
   {
-    "index": 136,
-    "text": "and magically they do it all, and all without a brain.",
-    "start": 387.324,
+    "index": 126,
+    "text": "react and shift and change, and magically they do it all, and all without a brain.",
+    "start": 385.614,
     "end": 390.946,
-    "zh": "神奇的是，它们都做到了，而且没有大脑。",
-    "zh_hant": "神奇的是，它們都做到了，而且沒有大腦。"
+    "zh": "反应、转变、改变，神奇地全做到了，而无需大脑。",
+    "zh_hant": "反應、轉變、改變，神奇地全做到了，而無需大腦。"
   },
   {
-    "index": 137,
+    "index": 127,
     "text": "We know they create signals, but where those signals go?",
     "start": 390.766,
     "end": 394.188,
-    "zh": "我们知道它们会产生信号，但信号去了哪里？",
-    "zh_hant": "我們知道它們會產生訊號，但訊號去了哪裡？"
+    "zh": "我们知道它们产生信号，但这些信号去哪？",
+    "zh_hant": "我們知道它們產生訊號，但這些訊號去哪？"
   },
   {
-    "index": 138,
+    "index": 128,
     "text": "Without a brain, it's not the same.",
     "start": 394.368,
     "end": 396.509,
@@ -1112,7 +1032,7 @@
     "zh_hant": "沒有大腦，就不一樣了。"
   },
   {
-    "index": 139,
+    "index": 129,
     "text": "Their secret?",
     "start": 396.159,
     "end": 397.089,
@@ -1120,7 +1040,7 @@
     "zh_hant": "它們的秘密？"
   },
   {
-    "index": 140,
+    "index": 130,
     "text": "We don't know.",
     "start": 396.739,
     "end": 398.189,
@@ -1128,31 +1048,31 @@
     "zh_hant": "我們不知道。"
   },
   {
-    "index": 141,
+    "index": 131,
     "text": "But if there is a nervous system, then there's got to be a brain.",
     "start": 397.839,
     "end": 401.113,
-    "zh": "但如果有神经系统，那肯定有大脑。",
-    "zh_hant": "但如果有神經系統，那肯定有大腦。"
+    "zh": "但如果有神经系统，那一定有大脑。",
+    "zh_hant": "但如果有神經系統，那一定有大腦。"
   },
   {
-    "index": 142,
+    "index": 132,
     "text": "I shall be the first to find it and get worldly wide acclaim.",
     "start": 400.913,
     "end": 404.996,
-    "zh": "我要成为第一个找到它的人，赢得全世界的名声。",
-    "zh_hant": "我要成為第一個找到它的人，贏得全世界的名聲。"
+    "zh": "我要第一个找到它，扬名天下。",
+    "zh_hant": "我要第一個找到它，揚名天下。"
   },
   {
-    "index": 143,
+    "index": 133,
     "text": "Well, if plants have brains and consciousness, I don't mean to alarm.",
     "start": 404.736,
     "end": 408.599,
-    "zh": "如果植物有大脑和意识，我不吓你，",
-    "zh_hant": "如果植物有大腦和意識，我不嚇你，"
+    "zh": "嗯，如果植物有大脑和意识，我不想吓人，",
+    "zh_hant": "嗯，如果植物有大腦和意識，我不想嚇人，"
   },
   {
-    "index": 144,
+    "index": 134,
     "text": "But maybe there'd be prison time for those who do them harm.",
     "start": 408.58,
     "end": 412.282,
@@ -1160,15 +1080,15 @@
     "zh_hant": "但也許傷害它們的人會坐牢。"
   },
   {
-    "index": 145,
+    "index": 135,
     "text": "Yeah, maybe there would...",
     "start": 412.803,
-    "end": 418.268,
-    "zh": "是啊，也许会的……",
-    "zh_hant": "是啊，也許會的……"
+    "end": 414.17,
+    "zh": "是啊，也许会……",
+    "zh_hant": "是啊，也許會……"
   },
   {
-    "index": 146,
+    "index": 136,
     "text": "Yeah.",
     "start": 417.988,
     "end": 418.888,
@@ -1176,7 +1096,7 @@
     "zh_hant": "對。"
   },
   {
-    "index": 147,
+    "index": 137,
     "text": "That's an interesting theory.",
     "start": 418.538,
     "end": 420.55,
