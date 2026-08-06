@@ -1,0 +1,1562 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC音响。",
+    "zh_hant": "BBC音響。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 6.413,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.063,
+    "end": 9.694,
+    "zh": "你好，感谢下载More or Less播客。",
+    "zh_hant": "你好，感謝下載More or Less播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that looks at the numbers in the news, in life, and in Premier League football.",
+    "start": 9.695,
+    "end": 15.177,
+    "zh": "我们是分析新闻、生活以及英超足球中数字的节目。",
+    "zh_hant": "我們是分析新聞、生活以及英超足球中數字的節目。"
+  },
+  {
+    "index": 4,
+    "text": "I'm Tim Harford.",
+    "start": 15.397,
+    "end": 16.658,
+    "zh": "我是蒂姆·哈福德。",
+    "zh_hant": "我是蒂姆·哈福德。"
+  },
+  {
+    "index": 5,
+    "text": "Occasionally, you meet people who have minds like calculators.",
+    "start": 20.54,
+    "end": 24.882,
+    "zh": "偶尔，你会遇到头脑像计算器一样的人。",
+    "zh_hant": "偶爾，你會遇到頭腦像計算器一樣的人。"
+  },
+  {
+    "index": 6,
+    "text": "Prodigies?",
+    "start": 24.962,
+    "end": 26.123,
+    "zh": "神童？",
+    "zh_hant": "神童？"
+  },
+  {
+    "index": 7,
+    "text": "Professors?",
+    "start": 26.103,
+    "end": 27.383,
+    "zh": "教授？",
+    "zh_hant": "教授？"
+  },
+  {
+    "index": 8,
+    "text": "Premier League footballers?",
+    "start": 27.443,
+    "end": 29.12,
+    "zh": "英超球员？",
+    "zh_hant": "英超球員？"
+  },
+  {
+    "index": 9,
+    "text": "79,507.",
+    "start": 28.72,
+    "end": 31.6,
+    "zh": "79,507。",
+    "zh_hant": "79,507。"
+  },
+  {
+    "index": 10,
+    "text": "500 and what?",
+    "start": 31.65,
+    "end": 33.046,
+    "zh": "500加多少？",
+    "zh_hant": "500加多少？"
+  },
+  {
+    "index": 11,
+    "text": "7.",
+    "start": 33.15,
+    "end": 33.91,
+    "zh": "7。",
+    "zh_hant": "7。"
+  },
+  {
+    "index": 12,
+    "text": "43.",
+    "start": 33.56,
+    "end": 33.71,
+    "zh": "43。",
+    "zh_hant": "43。"
+  },
+  {
+    "index": 13,
+    "text": "Yeah.",
+    "start": 32.696,
+    "end": 33.126,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 14,
+    "text": "That was",
+    "start": 32.776,
+    "end": 33.786,
+    "zh": "那是",
+    "zh_hant": "那是"
+  },
+  {
+    "index": 15,
+    "text": "Chelsea and England under-21 striker Liam Delap",
+    "start": 39.009,
+    "end": 43.372,
+    "zh": "切尔西和英格兰U21前锋利亚姆·德拉普",
+    "zh_hant": "切爾西和英格蘭U21前鋒利亞姆·德拉普"
+  },
+  {
+    "index": 16,
+    "text": "figuring out that the cube root of 79,507 is 43.",
+    "start": 43.372,
+    "end": 49.005,
+    "zh": "算出79,507的立方根是43。",
+    "zh_hant": "算出79,507的立方根是43。"
+  },
+  {
+    "index": 17,
+    "text": "Which sounds hard.",
+    "start": 49.055,
+    "end": 50.975,
+    "zh": "听起来很难。",
+    "zh_hant": "聽起來很難。"
+  },
+  {
+    "index": 18,
+    "text": "You may remember cubes and cube roots from school.",
+    "start": 51.176,
+    "end": 54.537,
+    "zh": "你可能还记得学校里的立方和立方根。",
+    "zh_hant": "你可能還記得學校裡的立方和立方根。"
+  },
+  {
+    "index": 19,
+    "text": "Cool.",
+    "start": 54.897,
+    "end": 55.047,
+    "zh": "酷。",
+    "zh_hant": "酷。"
+  },
+  {
+    "index": 20,
+    "text": "2 cubed is 2 times 2 times 2, or 8.",
+    "start": 54.48,
+    "end": 59.13,
+    "zh": "2的立方是2乘以2乘以2，也就是8。",
+    "zh_hant": "2的立方是2乘以2乘以2，也就是8。"
+  },
+  {
+    "index": 21,
+    "text": "The cube root is just reversing the procedure.",
+    "start": 59.18,
+    "end": 62.041,
+    "zh": "立方根就是把这个过程反过来。",
+    "zh_hant": "立方根就是把這個過程反過來。"
+  },
+  {
+    "index": 22,
+    "text": "The cube root of 8 is 2.",
+    "start": 61.941,
+    "end": 64.01,
+    "zh": "8的立方根是2。",
+    "zh_hant": "8的立方根是2。"
+  },
+  {
+    "index": 23,
+    "text": "3 cubed is 3 times 3 times 3.",
+    "start": 64.05,
+    "end": 68.37,
+    "zh": "3的立方是3乘以3乘以3。",
+    "zh_hant": "3的立方是3乘以3乘以3。"
+  },
+  {
+    "index": 24,
+    "text": "That's 27.",
+    "start": 68.304,
+    "end": 69.455,
+    "zh": "那是27。",
+    "zh_hant": "那是27。"
+  },
+  {
+    "index": 25,
+    "text": "And so the cube root of 27 must be 3.",
+    "start": 69.505,
+    "end": 73.297,
+    "zh": "所以27的立方根一定是3。",
+    "zh_hant": "所以27的立方根一定是3。"
+  },
+  {
+    "index": 26,
+    "text": "And yes, 43 times 43 times 43 is 79,507.",
+    "start": 73.347,
+    "end": 79.74,
+    "zh": "没错，43乘以43乘以43等于79,507。",
+    "zh_hant": "沒錯，43乘以43乘以43等於79,507。"
+  },
+  {
+    "index": 27,
+    "text": "Or, as Liam DeLapp would put it, the cube root of 79,507 is 43.",
+    "start": 79.79,
+    "end": 86.984,
+    "zh": "或者，用利亚姆·德拉普的话说，79,507的立方根是43。",
+    "zh_hant": "或者，用利亞姆·德拉普的話說，79,507的立方根是43。"
+  },
+  {
+    "index": 28,
+    "text": "And in case you think that was a fluke, here's another from Chelsea's Instagram feed: 778,688.92.",
+    "start": 87.034,
+    "end": 92.406,
+    "zh": "如果你觉得那是巧合，这里还有切尔西Instagram上的另一个：778,688.92。",
+    "zh_hant": "如果你覺得那是巧合，這裡還有切爾西Instagram上的另一個：778,688.92。"
+  },
+  {
+    "index": 29,
+    "text": "Yeah.",
+    "start": 92.456,
+    "end": 99.86,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 30,
+    "text": "How?",
+    "start": 99.51,
+    "end": 100.26,
+    "zh": "怎么做到的？",
+    "zh_hant": "怎麼做到的？"
+  },
+  {
+    "index": 31,
+    "text": "How'd you do it?",
+    "start": 100.66,
+    "end": 101.661,
+    "zh": "你怎么算的？",
+    "zh_hant": "你怎麼算的？"
+  },
+  {
+    "index": 32,
+    "text": "Just clever, isn't it?",
+    "start": 101.341,
+    "end": 102.781,
+    "zh": "就是聪明，对吧？",
+    "zh_hant": "就是聰明，對吧？"
+  },
+  {
+    "index": 33,
+    "text": "Yes, yes, it is clever.",
+    "start": 102.621,
+    "end": 104.842,
+    "zh": "是的，是的，确实聪明。",
+    "zh_hant": "是的，是的，確實聰明。"
+  },
+  {
+    "index": 34,
+    "text": "So how's he doing it?",
+    "start": 105.083,
+    "end": 106.663,
+    "zh": "那他到底是怎么做的？",
+    "zh_hant": "那他到底是怎麼做的？"
+  },
+  {
+    "index": 35,
+    "text": "I'm all for mathematical geniuses, prodigies, and stuff, but actually you don't have to be a maths genius to do this.",
+    "start": 108.624,
+    "end": 115.107,
+    "zh": "我完全支持数学天才、神童之类的，但实际上你不需要成为数学天才也能做到。",
+    "zh_hant": "我完全支援數學天才、神童之類的，但實際上你不需要成為數學天才也能做到。"
+  },
+  {
+    "index": 36,
+    "text": "You just need to have a little bit of memory.",
+    "start": 114.807,
+    "end": 116.948,
+    "zh": "你只需要有一点记忆力。",
+    "zh_hant": "你只需要有一點記憶力。"
+  },
+  {
+    "index": 37,
+    "text": "That's Rob Easterway.",
+    "start": 117.089,
+    "end": 118.989,
+    "zh": "那是罗布·伊斯特威。",
+    "zh_hant": "那是羅布·伊斯特威。"
+  },
+  {
+    "index": 38,
+    "text": "He's an author, friend of the programme,",
+    "start": 118.749,
+    "end": 121.211,
+    "zh": "他是作家，节目的朋友，",
+    "zh_hant": "他是作家，節目的朋友，"
+  },
+  {
+    "index": 39,
+    "text": "and he knows a lot of cool maths tricks which might just make him as smart as Liam de Lapp.",
+    "start": 121.011,
+    "end": 126.673,
+    "zh": "他知道很多很酷的数学技巧，可能让他和利亚姆·德拉普一样聪明。",
+    "zh_hant": "他知道很多很酷的數學技巧，可能讓他和利亞姆·德拉普一樣聰明。"
+  },
+  {
+    "index": 40,
+    "text": "Let's have a go, see if you can do the same.",
+    "start": 127.154,
+    "end": 130.255,
+    "zh": "我们来试试，看你能不能也做到。",
+    "zh_hant": "我們來試試，看你能不能也做到。"
+  },
+  {
+    "index": 41,
+    "text": "Give me the cube root of 140,608.",
+    "start": 130.135,
+    "end": 134.808,
+    "zh": "给我140,608的立方根。",
+    "zh_hant": "給我140,608的立方根。"
+  },
+  {
+    "index": 42,
+    "text": "OK, I'm going to do that by a couple of amazing mathematical genius things in my head,",
+    "start": 134.858,
+    "end": 140.96,
+    "zh": "好，我要在脑子里做几个惊人的数学天才运算，",
+    "zh_hant": "好，我要在腦子裡做幾個驚人的數學天才運算，"
+  },
+  {
+    "index": 43,
+    "text": "to say the answer is going to be 52.",
+    "start": 140.61,
+    "end": 144.232,
+    "zh": "说答案是52。",
+    "zh_hant": "說答案是52。"
+  },
+  {
+    "index": 44,
+    "text": "Wow, okay.",
+    "start": 144.282,
+    "end": 145.763,
+    "zh": "哇，好的。",
+    "zh_hant": "哇，好的。"
+  },
+  {
+    "index": 45,
+    "text": "So you can do it, Liam de Lappe can do it.",
+    "start": 145.723,
+    "end": 148.044,
+    "zh": "所以你能做到，利亚姆·德拉普也能做到。",
+    "zh_hant": "所以你能做到，利亞姆·德拉普也能做到。"
+  },
+  {
+    "index": 46,
+    "text": "Yes.",
+    "start": 147.694,
+    "end": 148.324,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 47,
+    "text": "I can't do it.",
+    "start": 148.224,
+    "end": 149.325,
+    "zh": "我做不到。",
+    "zh_hant": "我做不到。"
+  },
+  {
+    "index": 48,
+    "text": "Am I missing something?",
+    "start": 149.225,
+    "end": 150.565,
+    "zh": "我漏了什么吗？",
+    "zh_hant": "我漏了什麼嗎？"
+  },
+  {
+    "index": 49,
+    "text": "Tim, you can't do it yet.",
+    "start": 150.265,
+    "end": 152.266,
+    "zh": "蒂姆，你还不能做到。",
+    "zh_hant": "蒂姆，你還不能做到。"
+  },
+  {
+    "index": 50,
+    "text": "Okay, you're going to be able to do this very soon.",
+    "start": 152.186,
+    "end": 155.688,
+    "zh": "好吧，你很快就做到了。",
+    "zh_hant": "好吧，你很快就做到了。"
+  },
+  {
+    "index": 51,
+    "text": "Growth mindset.",
+    "start": 155.338,
+    "end": 156.448,
+    "zh": "成长型思维。",
+    "zh_hant": "成長型思維。"
+  },
+  {
+    "index": 52,
+    "text": "I love it.",
+    "start": 156.098,
+    "end": 156.888,
+    "zh": "我喜欢这个。",
+    "zh_hant": "我喜歡這個。"
+  },
+  {
+    "index": 53,
+    "text": "First of all, this trick that I'm going to explain to you only works for two-digit numbers that are cubed,",
+    "start": 156.548,
+    "end": 162.812,
+    "zh": "首先，我要解释的这个技巧只适用于两位数的立方，",
+    "zh_hant": "首先，我要解釋的這個技巧只適用於兩位數的立方，"
+  },
+  {
+    "index": 54,
+    "text": "so the cube root is always going to be a two-digit number.",
+    "start": 162.462,
+    "end": 165.193,
+    "zh": "所以立方根总是一个两位数。",
+    "zh_hant": "所以立方根總是一個兩位數。"
+  },
+  {
+    "index": 55,
+    "text": "So there's two digits we're going to have to work out here, the first and second digit of the answer.",
+    "start": 165.453,
+    "end": 170.235,
+    "zh": "所以我们要算出两个数字，答案的第一位和第二位。",
+    "zh_hant": "所以我們要算出兩個數字，答案的第一位和第二位。"
+  },
+  {
+    "index": 56,
+    "text": "So let's start with the first digit.",
+    "start": 170.156,
+    "end": 172.817,
+    "zh": "我们先从第一位开始。",
+    "zh_hant": "我們先從第一位開始。"
+  },
+  {
+    "index": 57,
+    "text": "Step one, memorize the cubes of all the numbers from 1 to 9.",
+    "start": 172.837,
+    "end": 177.569,
+    "zh": "第一步，记住从1到9所有数字的立方。",
+    "zh_hant": "第一步，記住從1到9所有數字的立方。"
+  },
+  {
+    "index": 58,
+    "text": "So I've already told you, 3 cubed is 27.",
+    "start": 177.619,
+    "end": 180.4,
+    "zh": "我已经告诉过你，3的立方是27。",
+    "zh_hant": "我已經告訴過你，3的立方是27。"
+  },
+  {
+    "index": 59,
+    "text": "1 cubed is 1, 2 cubed is 8, and so on.",
+    "start": 180.45,
+    "end": 183.122,
+    "zh": "1的立方是1，2的立方是8，依此类推。",
+    "zh_hant": "1的立方是1，2的立方是8，依此類推。"
+  },
+  {
+    "index": 60,
+    "text": "4 cubed is 64.",
+    "start": 182.79,
+    "end": 184.77,
+    "zh": "4的立方是64。",
+    "zh_hant": "4的立方是64。"
+  },
+  {
+    "index": 61,
+    "text": "Yeah.",
+    "start": 184.783,
+    "end": 185.54,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 62,
+    "text": "5 cubed is 125.",
+    "start": 185.14,
+    "end": 186.874,
+    "zh": "5的立方是125。",
+    "zh_hant": "5的立方是125。"
+  },
+  {
+    "index": 63,
+    "text": "Those five are fairly easy to remember.",
+    "start": 186.924,
+    "end": 189.405,
+    "zh": "那五个比较容易记。",
+    "zh_hant": "那五個比較容易記。"
+  },
+  {
+    "index": 64,
+    "text": "6 cubed is 216.",
+    "start": 189.055,
+    "end": 191.89,
+    "zh": "6的立方是216。",
+    "zh_hant": "6的立方是216。"
+  },
+  {
+    "index": 65,
+    "text": "Very good.",
+    "start": 191.606,
+    "end": 192.566,
+    "zh": "很好。",
+    "zh_hant": "很好。"
+  },
+  {
+    "index": 66,
+    "text": "Because it's dice.",
+    "start": 192.216,
+    "end": 193.347,
+    "zh": "因为那是骰子。",
+    "zh_hant": "因為那是骰子。"
+  },
+  {
+    "index": 67,
+    "text": "Excellent.",
+    "start": 192.997,
+    "end": 193.927,
+    "zh": "太棒了。",
+    "zh_hant": "太棒了。"
+  },
+  {
+    "index": 68,
+    "text": "I can Do dice.",
+    "start": 193.577,
+    "end": 194.467,
+    "zh": "我能理解骰子。",
+    "zh_hant": "我能理解骰子。"
+  },
+  {
+    "index": 69,
+    "text": "Excellent.",
+    "start": 194.127,
+    "end": 194.987,
+    "zh": "很好。",
+    "zh_hant": "很好。"
+  },
+  {
+    "index": 70,
+    "text": "7 cubed, I'm not so sure about.",
+    "start": 194.83,
+    "end": 197.18,
+    "zh": "7的立方，我不太确定。",
+    "zh_hant": "7的立方，我不太確定。"
+  },
+  {
+    "index": 71,
+    "text": "8 cubed is 512.",
+    "start": 196.78,
+    "end": 199.05,
+    "zh": "8的立方是512。",
+    "zh_hant": "8的立方是512。"
+  },
+  {
+    "index": 72,
+    "text": "You're correct.",
+    "start": 198.89,
+    "end": 199.62,
+    "zh": "你说对了。",
+    "zh_hant": "你說對了。"
+  },
+  {
+    "index": 73,
+    "text": "So you've only got two to learn now, because that's numbers, right?",
+    "start": 199.22,
+    "end": 202.071,
+    "zh": "所以你现在只需要学两个，因为那是数字，对吧？",
+    "zh_hant": "所以你現在只需要學兩個，因為那是數字，對吧？"
+  },
+  {
+    "index": 74,
+    "text": "So seven cubed is 343.",
+    "start": 201.721,
+    "end": 203.91,
+    "zh": "所以7的立方是343。",
+    "zh_hant": "所以7的立方是343。"
+  },
+  {
+    "index": 75,
+    "text": "Okay, seven cubed is 343, and nine cubed?",
+    "start": 203.732,
+    "end": 206.233,
+    "zh": "好，7的立方是343，那9的立方呢？",
+    "zh_hant": "好，7的立方是343，那9的立方呢？"
+  },
+  {
+    "index": 76,
+    "text": "729.",
+    "start": 206.21,
+    "end": 207.09,
+    "zh": "729。",
+    "zh_hant": "729。"
+  },
+  {
+    "index": 77,
+    "text": "Okay, actually, I'm going to just write them down.",
+    "start": 207.134,
+    "end": 210.375,
+    "zh": "好吧，实际上，我直接把它们写下来。",
+    "zh_hant": "好吧，實際上，我直接把它們寫下來。"
+  },
+  {
+    "index": 78,
+    "text": "Yeah, sure.",
+    "start": 210.025,
+    "end": 211.056,
+    "zh": "是的，当然。",
+    "zh_hant": "是的，當然。"
+  },
+  {
+    "index": 79,
+    "text": "Good.",
+    "start": 210.706,
+    "end": 211.296,
+    "zh": "好。",
+    "zh_hant": "好。"
+  },
+  {
+    "index": 80,
+    "text": "Okay, right.",
+    "start": 211.096,
+    "end": 212.116,
+    "zh": "好，没错。",
+    "zh_hant": "好，沒錯。"
+  },
+  {
+    "index": 81,
+    "text": "So one of the video clips shows DeLapp finding the cube root of 274,625.",
+    "start": 211.796,
+    "end": 217.629,
+    "zh": "其中一个视频片段里，德拉普算出了274,625的立方根。",
+    "zh_hant": "其中一個影片片段裡，德拉普算出了274,625的立方根。"
+  },
+  {
+    "index": 82,
+    "text": "Okay, now",
+    "start": 217.679,
+    "end": 221.361,
+    "zh": "好，现在",
+    "zh_hant": "好，現在"
+  },
+  {
+    "index": 83,
+    "text": "all you have to worry about for the first digit is the thousands.",
+    "start": 221.201,
+    "end": 224.922,
+    "zh": "第一位你只需要考虑千位数。",
+    "zh_hant": "第一位你只需要考慮千位數。"
+  },
+  {
+    "index": 84,
+    "text": "Okay, so 274.",
+    "start": 224.572,
+    "end": 226.77,
+    "zh": "好，就是274。",
+    "zh_hant": "好，就是274。"
+  },
+  {
+    "index": 85,
+    "text": "So what you do is say, \"OK, I know the list of cubes.",
+    "start": 226.704,
+    "end": 230.645,
+    "zh": "你要做的是说：“好，我知道立方的列表。",
+    "zh_hant": "你要做的是說：“好，我知道立方的列表。"
+  },
+  {
+    "index": 86,
+    "text": "What's the cube that's just below that?\"",
+    "start": 230.325,
+    "end": 233.387,
+    "zh": "哪一个立方正好低于这个数？”",
+    "zh_hant": "哪一個立方正好低於這個數？”"
+  },
+  {
+    "index": 87,
+    "text": "Right, so 216.",
+    "start": 233.167,
+    "end": 233.977,
+    "zh": "对，就是216。",
+    "zh_hant": "對，就是216。"
+  },
+  {
+    "index": 88,
+    "text": "Correct, which was what?",
+    "start": 233.577,
+    "end": 238.409,
+    "zh": "正确，那是多少？",
+    "zh_hant": "正確，那是多少？"
+  },
+  {
+    "index": 89,
+    "text": "Which is six cubes.",
+    "start": 238.059,
+    "end": 240.05,
+    "zh": "那是6的立方。",
+    "zh_hant": "那是6的立方。"
+  },
+  {
+    "index": 90,
+    "text": "Right, your first digit is going to be six.",
+    "start": 239.7,
+    "end": 241.351,
+    "zh": "对，你的第一位是6。",
+    "zh_hant": "對，你的第一位是6。"
+  },
+  {
+    "index": 91,
+    "text": "OK, all right.",
+    "start": 241.091,
+    "end": 242.111,
+    "zh": "好，行了。",
+    "zh_hant": "好，行了。"
+  },
+  {
+    "index": 92,
+    "text": "So to find the first digit, you look at the numbers in the thousands and compare",
+    "start": 242.332,
+    "end": 247.534,
+    "zh": "要找第一位，你看千位数，然后比较",
+    "zh_hant": "要找第一位，你看千位數，然後比較"
+  },
+  {
+    "index": 93,
+    "text": "it to the cubes of the numbers one to nine.",
+    "start": 247.184,
+    "end": 249.895,
+    "zh": "和1到9的立方。",
+    "zh_hant": "和1到9的立方。"
+  },
+  {
+    "index": 94,
+    "text": "Take whichever cube.",
+    "start": 249.955,
+    "end": 251.636,
+    "zh": "取一个立方。",
+    "zh_hant": "取一個立方。"
+  },
+  {
+    "index": 95,
+    "text": "Is just smaller and trace it back to its cube root, and that gives you the first digit.",
+    "start": 251.286,
+    "end": 256.719,
+    "zh": "刚好小一点，然后找回它的立方根，那就是第一位。",
+    "zh_hant": "剛好小一點，然後找回它的立方根，那就是第一位。"
+  },
+  {
+    "index": 96,
+    "text": "We had 274,625, so we look only at 274.",
+    "start": 256.899,
+    "end": 263.952,
+    "zh": "我们有274,625，所以我们只看274。",
+    "zh_hant": "我們有274,625，所以我們只看274。"
+  },
+  {
+    "index": 97,
+    "text": "The cube just below that is 216, which is the cube of 6.",
+    "start": 264.002,
+    "end": 268.775,
+    "zh": "低于它的立方是216，那是6的立方。",
+    "zh_hant": "低於它的立方是216，那是6的立方。"
+  },
+  {
+    "index": 98,
+    "text": "So 6 is our first number.",
+    "start": 268.825,
+    "end": 271.426,
+    "zh": "所以6是我们的第一个数字。",
+    "zh_hant": "所以6是我們的第一個數字。"
+  },
+  {
+    "index": 99,
+    "text": "That's a bit complex, admittedly, but luckily it gets easier.",
+    "start": 271.906,
+    "end": 275.228,
+    "zh": "那有点复杂，说实话，但幸运的是后面更简单。",
+    "zh_hant": "那有點複雜，說實話，但幸運的是後面更簡單。"
+  },
+  {
+    "index": 100,
+    "text": "Now for the second digit.",
+    "start": 275.208,
+    "end": 277.109,
+    "zh": "现在我们来算第二位。",
+    "zh_hant": "現在我們來算第二位。"
+  },
+  {
+    "index": 101,
+    "text": "Now, let's just take a little aside for a moment.",
+    "start": 277.049,
+    "end": 279.75,
+    "zh": "现在，让我们稍微岔开一下。",
+    "zh_hant": "現在，讓我們稍微岔開一下。"
+  },
+  {
+    "index": 102,
+    "text": "Give me a number ending in 4, a big number ending in 4.",
+    "start": 279.47,
+    "end": 282.43,
+    "zh": "给我一个以4结尾的数字，一个末尾为4的大数字。",
+    "zh_hant": "給我一個以4結尾的數字，一個末尾為4的大數字。"
+  },
+  {
+    "index": 103,
+    "text": "Okay, 560,014.",
+    "start": 282.152,
+    "end": 286.27,
+    "zh": "好，560,014。",
+    "zh_hant": "好，560,014。"
+  },
+  {
+    "index": 104,
+    "text": "Brilliant.",
+    "start": 287.814,
+    "end": 288.595,
+    "zh": "很好。",
+    "zh_hant": "很好。"
+  },
+  {
+    "index": 105,
+    "text": "Cube it.",
+    "start": 288.245,
+    "end": 289.035,
+    "zh": "求它的立方。",
+    "zh_hant": "求它的立方。"
+  },
+  {
+    "index": 106,
+    "text": "I'm joking.",
+    "start": 289.875,
+    "end": 290.936,
+    "zh": "我开玩笑的。",
+    "zh_hant": "我開玩笑的。"
+  },
+  {
+    "index": 107,
+    "text": "Okay.",
+    "start": 290.656,
+    "end": 291.396,
+    "zh": "好。",
+    "zh_hant": "好。"
+  },
+  {
+    "index": 108,
+    "text": "Because I don't care.",
+    "start": 291.556,
+    "end": 292.837,
+    "zh": "因为我不在乎。",
+    "zh_hant": "因為我不在乎。"
+  },
+  {
+    "index": 109,
+    "text": "I don't know the answer either.",
+    "start": 292.517,
+    "end": 294.057,
+    "zh": "我也不知道答案。",
+    "zh_hant": "我也不知道答案。"
+  },
+  {
+    "index": 110,
+    "text": "Yeah.",
+    "start": 293.707,
+    "end": 294.197,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 111,
+    "text": "But I do know that the last digit is 4.",
+    "start": 293.957,
+    "end": 296.63,
+    "zh": "但我确实知道最后一位是4。",
+    "zh_hant": "但我確實知道最後一位是4。"
+  },
+  {
+    "index": 112,
+    "text": "Because when you cube any number that ends in 4, it's still 4.",
+    "start": 296.28,
+    "end": 300.63,
+    "zh": "因为当你把任何以4结尾的数字立方，它还是以4结尾。",
+    "zh_hant": "因為當你把任何以4結尾的數字立方，它還是以4結尾。"
+  },
+  {
+    "index": 113,
+    "text": "Right.",
+    "start": 300.521,
+    "end": 301.241,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 114,
+    "text": "When you cube any number that ends in 5, guess what it ends in?",
+    "start": 300.891,
+    "end": 303.862,
+    "zh": "当你把任何以5结尾的数字立方，猜猜最后一位是什么？",
+    "zh_hant": "當你把任何以5結尾的數字立方，猜猜最後一位是什麼？"
+  },
+  {
+    "index": 115,
+    "text": "5.",
+    "start": 303.53,
+    "end": 304.41,
+    "zh": "5。",
+    "zh_hant": "5。"
+  },
+  {
+    "index": 116,
+    "text": "And 6 ends in?",
+    "start": 304.343,
+    "end": 306.023,
+    "zh": "6结尾的是？",
+    "zh_hant": "6結尾的是？"
+  },
+  {
+    "index": 117,
+    "text": "6.",
+    "start": 305.673,
+    "end": 306.29,
+    "zh": "6。",
+    "zh_hant": "6。"
+  },
+  {
+    "index": 118,
+    "text": "And 7 ends in?",
+    "start": 306.183,
+    "end": 307.504,
+    "zh": "7结尾的是？",
+    "zh_hant": "7結尾的是？"
+  },
+  {
+    "index": 119,
+    "text": "I'm going to say not 7.",
+    "start": 307.764,
+    "end": 309.19,
+    "zh": "我要说不是7。",
+    "zh_hant": "我要說不是7。"
+  },
+  {
+    "index": 120,
+    "text": "Correct!",
+    "start": 308.945,
+    "end": 310.045,
+    "zh": "正确！",
+    "zh_hant": "正確！"
+  },
+  {
+    "index": 121,
+    "text": "Because you already told me that 7 cubed is 243.",
+    "start": 309.695,
+    "end": 313.077,
+    "zh": "因为你已经告诉我7的立方是243。",
+    "zh_hant": "因為你已經告訴我7的立方是243。"
+  },
+  {
+    "index": 122,
+    "text": "But is it always 3?",
+    "start": 313.127,
+    "end": 314.35,
+    "zh": "但它总是3吗？",
+    "zh_hant": "但它總是3嗎？"
+  },
+  {
+    "index": 123,
+    "text": "It's always 3.",
+    "start": 314.147,
+    "end": 315.298,
+    "zh": "它总是3。",
+    "zh_hant": "它總是3。"
+  },
+  {
+    "index": 124,
+    "text": "And 3 always ends in 7.",
+    "start": 315.348,
+    "end": 317.89,
+    "zh": "而3总是以7结尾。",
+    "zh_hant": "而3總是以7結尾。"
+  },
+  {
+    "index": 125,
+    "text": "So they kind of 7 and 3 swap round, and actually 2 and 8 also swap round.",
+    "start": 317.769,
+    "end": 322.372,
+    "zh": "所以7和3会互换，其实2和8也会互换。",
+    "zh_hant": "所以7和3會互換，其實2和8也會互換。"
+  },
+  {
+    "index": 126,
+    "text": "So, apart from those two, 0 to 9 all just cube and end in themselves.",
+    "start": 322.552,
+    "end": 327.334,
+    "zh": "所以，除了那两个，0到9立方后都还是以自己结尾。",
+    "zh_hant": "所以，除了那兩個，0到9立方後都還是以自己結尾。"
+  },
+  {
+    "index": 127,
+    "text": "So the message of this is that the last digit of a cubed number",
+    "start": 327.194,
+    "end": 331.856,
+    "zh": "所以重点是，一个数的立方的最后一位",
+    "zh_hant": "所以重點是，一個數的立方的最後一位"
+  },
+  {
+    "index": 128,
+    "text": "is always going to be predictable.",
+    "start": 332.357,
+    "end": 333.997,
+    "zh": "总是可以预测的。",
+    "zh_hant": "總是可以預測的。"
+  },
+  {
+    "index": 129,
+    "text": "Correct.",
+    "start": 333.657,
+    "end": 334.498,
+    "zh": "正确。",
+    "zh_hant": "正確。"
+  },
+  {
+    "index": 130,
+    "text": "And de Lappe's number was 274,625.",
+    "start": 334.178,
+    "end": 339.15,
+    "zh": "德拉普的数字是274,625。",
+    "zh_hant": "德拉普的數字是274,625。"
+  },
+  {
+    "index": 131,
+    "text": "Okay, right, so it ends in 5, and it starts in 6, and it's a two-digit number, so it's 65.",
+    "start": 339.2,
+    "end": 345.393,
+    "zh": "好，所以它以5结尾，以6开头，而且是个两位数，所以是65。",
+    "zh_hant": "好，所以它以5結尾，以6開頭，而且是個兩位數，所以是65。"
+  },
+  {
+    "index": 132,
+    "text": "You're a genius!",
+    "start": 345.443,
+    "end": 346.643,
+    "zh": "你是天才！",
+    "zh_hant": "你是天才！"
+  },
+  {
+    "index": 133,
+    "text": "Or you've got a good memory, but I'm going to go with the first.",
+    "start": 346.964,
+    "end": 349.465,
+    "zh": "或者你记忆力好，但我选择相信前者。",
+    "zh_hant": "或者你記憶力好，但我選擇相信前者。"
+  },
+  {
+    "index": 134,
+    "text": "Put me up front for Chelsea, that's what I'm saying.",
+    "start": 349.115,
+    "end": 351.266,
+    "zh": "让我上切尔西的首发，这就是我要说的。",
+    "zh_hant": "讓我上切爾西的首發，這就是我要說的。"
+  },
+  {
+    "index": 135,
+    "text": "Does this tell us something deep about maths, or is it just a clever little trick?",
+    "start": 351.686,
+    "end": 355.348,
+    "zh": "这能揭示数学的深层意义，还是只是一个聪明的小技巧？",
+    "zh_hant": "這能揭示數學的深層意義，還是隻是一個聰明的小技巧？"
+  },
+  {
+    "index": 136,
+    "text": "It's one of those little pathways into numbers and the beauty of numbers, and the fact that we're spotting patterns.",
+    "start": 355.468,
+    "end": 361.111,
+    "zh": "这是通往数字和数字之美的小路之一，以及我们在寻找模式的事实。",
+    "zh_hant": "這是通往數字和數字之美的小路之一，以及我們在尋找模式的事實。"
+  },
+  {
+    "index": 137,
+    "text": "And if you're solving something really big and important like Fermat's Last Theorem,",
+    "start": 360.871,
+    "end": 365.753,
+    "zh": "如果你在解决像费马大定理那样巨大而重要的问题，",
+    "zh_hant": "如果你在解決像費馬大定理那樣巨大而重要的問題，"
+  },
+  {
+    "index": 138,
+    "text": "nice little thing to work on over the weekend.",
+    "start": 365.403,
+    "end": 368.195,
+    "zh": "周末可以做点这种小事情。",
+    "zh_hant": "週末可以做點這種小事情。"
+  },
+  {
+    "index": 139,
+    "text": "The way into it, the first step on that giant Everest of a journey,",
+    "start": 368.315,
+    "end": 372.216,
+    "zh": "进入它的方式，在珠穆朗玛峰般的旅程上的第一步，",
+    "zh_hant": "進入它的方式，在珠穆朗瑪峰般的旅程上的第一步，"
+  },
+  {
+    "index": 140,
+    "text": "is a little thing like this, spotting a pattern and saying, maybe that helps.",
+    "start": 372.237,
+    "end": 375.818,
+    "zh": "就是像这样的小事，发现模式，然后说，也许这有帮助。",
+    "zh_hant": "就是像這樣的小事，發現模式，然後說，也許這有幫助。"
+  },
+  {
+    "index": 141,
+    "text": "And it's rather...",
+    "start": 375.678,
+    "end": 376.699,
+    "zh": "而且它相当……",
+    "zh_hant": "而且它相當……"
+  },
+  {
+    "index": 142,
+    "text": "Beautiful, and it's a party trick.",
+    "start": 376.349,
+    "end": 378.319,
+    "zh": "美丽，而且是一个派对技巧。",
+    "zh_hant": "美麗，而且是一個派對技巧。"
+  },
+  {
+    "index": 143,
+    "text": "Love it.",
+    "start": 378.08,
+    "end": 378.86,
+    "zh": "太喜欢了。",
+    "zh_hant": "太喜歡了。"
+  },
+  {
+    "index": 144,
+    "text": "Let us turn to something else dear to Liam DeLapp's heart, which is Premier League goals.",
+    "start": 382.322,
+    "end": 388.544,
+    "zh": "让我们转向利亚姆·德拉普关心的另一件事，那就是英超进球。",
+    "zh_hant": "讓我們轉向利亞姆·德拉普關心的另一件事，那就是英超進球。"
+  },
+  {
+    "index": 145,
+    "text": "He scores a few.",
+    "start": 388.445,
+    "end": 389.685,
+    "zh": "他进了几个球。",
+    "zh_hant": "他進了幾個球。"
+  },
+  {
+    "index": 146,
+    "text": "And Rob, you made a prediction in a book that you published",
+    "start": 389.505,
+    "end": 395.008,
+    "zh": "罗布，你在2019年出版的一本书里对英超进球做了一个预测。",
+    "zh_hant": "羅布，你在2019年出版的一本書裡對英超進球做了一個預測。"
+  },
+  {
+    "index": 147,
+    "text": "in 2019 about Premier League goals.",
+    "start": 395.148,
+    "end": 398.829,
+    "zh": "2019年。",
+    "zh_hant": "2019年。"
+  },
+  {
+    "index": 148,
+    "text": "Just remind us what it was.",
+    "start": 398.479,
+    "end": 399.83,
+    "zh": "提醒我们那是什么。",
+    "zh_hant": "提醒我們那是什麼。"
+  },
+  {
+    "index": 149,
+    "text": "OK, so what I said was, here's a prediction: the number of goals in the Premier League next season will be 1,000.",
+    "start": 399.691,
+    "end": 405.63,
+    "zh": "好，我说的是：这是一个预测：下赛季英超的进球数将是1,000。",
+    "zh_hant": "好，我說的是：這是一個預測：下賽季英超的進球數將是1,000。"
+  },
+  {
+    "index": 150,
+    "text": "OK, it might be a few more than that, but it's probably right to...",
+    "start": 405.473,
+    "end": 408.795,
+    "zh": "好，可能多一点，但可能差不太多，在",
+    "zh_hant": "好，可能多一點，但可能差不太多，在"
+  },
+  {
+    "index": 151,
+    "text": "Within 5%.",
+    "start": 408.445,
+    "end": 409.926,
+    "zh": "5%以内。",
+    "zh_hant": "5%以內。"
+  },
+  {
+    "index": 152,
+    "text": "OK, so within 5% is between 950 and 1,050.",
+    "start": 409.976,
+    "end": 415.889,
+    "zh": "好，所以5%以内是950到1,050之间。",
+    "zh_hant": "好，所以5%以內是950到1,050之間。"
+  },
+  {
+    "index": 153,
+    "text": "Were you right?",
+    "start": 415.939,
+    "end": 416.979,
+    "zh": "你预测对了吗？",
+    "zh_hant": "你預測對了嗎？"
+  },
+  {
+    "index": 154,
+    "text": "Well, it was all going very well until the 2022-23 season,",
+    "start": 416.759,
+    "end": 420.741,
+    "zh": "嗯，在2022-23赛季之前都很好，",
+    "zh_hant": "嗯，在2022-23賽季之前都很好，"
+  },
+  {
+    "index": 155,
+    "text": "when the total goal record was broken and it was 1,084.",
+    "start": 420.741,
+    "end": 425.753,
+    "zh": "当时总进球纪录被打破，达到了1,084。",
+    "zh_hant": "當時總進球紀錄被打破，達到了1,084。"
+  },
+  {
+    "index": 156,
+    "text": "That was nothing compared to 2023-24, when there were 1,246.",
+    "start": 425.803,
+    "end": 430.816,
+    "zh": "那和2023-24赛季相比不算什么，当时有1,246。",
+    "zh_hant": "那和2023-24賽季相比不算什麼，當時有1,246。"
+  },
+  {
+    "index": 157,
+    "text": "We weren't even at an amount like that.",
+    "start": 430.866,
+    "end": 433.707,
+    "zh": "我们甚至没接近那种数字。",
+    "zh_hant": "我們甚至沒接近那種數字。"
+  },
+  {
+    "index": 158,
+    "text": "So what's happened?",
+    "start": 433.907,
+    "end": 434.968,
+    "zh": "那发生了什么？",
+    "zh_hant": "那發生了什麼？"
+  },
+  {
+    "index": 159,
+    "text": "Has defence got weaker?",
+    "start": 434.618,
+    "end": 436.749,
+    "zh": "防守变弱了？",
+    "zh_hant": "防守變弱了？"
+  },
+  {
+    "index": 160,
+    "text": "Have attacks got stronger?",
+    "start": 436.529,
+    "end": 438.289,
+    "zh": "进攻变强了？",
+    "zh_hant": "進攻變強了？"
+  },
+  {
+    "index": 161,
+    "text": "Or is something else going on?",
+    "start": 437.939,
+    "end": 439.21,
+    "zh": "还是有其他原因？",
+    "zh_hant": "還是有其他原因？"
+  },
+  {
+    "index": 162,
+    "text": "Yeah, football has changed, and in particular, referees have changed.",
+    "start": 439.09,
+    "end": 443.332,
+    "zh": "是的，足球变了，特别是裁判变了。",
+    "zh_hant": "是的，足球變了，特別是裁判變了。"
+  },
+  {
+    "index": 163,
+    "text": "So the key...",
+    "start": 442.982,
+    "end": 444.033,
+    "zh": "所以关键是",
+    "zh_hant": "所以關鍵是"
+  },
+  {
+    "index": 164,
+    "text": "Thing is, the 22-23 season is when the Qatar World Cup happened,",
+    "start": 443.683,
+    "end": 448.755,
+    "zh": "22-23赛季是卡塔尔世界杯举办的时侯，",
+    "zh_hant": "22-23賽季是卡達世界盃舉辦的時侯，"
+  },
+  {
+    "index": 165,
+    "text": "and I think it was as a result of that, it became an international regulation that referees should be...",
+    "start": 448.405,
+    "end": 454.438,
+    "zh": "我认为正因为如此，国际规则变成了裁判应该……",
+    "zh_hant": "我認為正因為如此，國際規則變成了裁判應該……"
+  },
+  {
+    "index": 166,
+    "text": "Was allowed to touch Lionel Messi?",
+    "start": 454.088,
+    "end": 455.758,
+    "zh": "允许碰到莱昂内尔·梅西？",
+    "zh_hant": "允許碰到萊昂內爾·梅西？"
+  },
+  {
+    "index": 167,
+    "text": "Yeah, well, no, they just can't.",
+    "start": 455.839,
+    "end": 458.46,
+    "zh": "是的，嗯，不，他们只是不能。",
+    "zh_hant": "是的，嗯，不，他們只是不能。"
+  },
+  {
+    "index": 168,
+    "text": "Time wasting is a real problem, we must stop it.",
+    "start": 458.36,
+    "end": 461.081,
+    "zh": "浪费时间是个真正的问题，我们必须制止它。",
+    "zh_hant": "浪費時間是個真正的問題，我們必須制止它。"
+  },
+  {
+    "index": 169,
+    "text": "And therefore, referees, you must be really tough on adding in time for not just",
+    "start": 460.731,
+    "end": 466.724,
+    "zh": "所以，裁判，你们必须在补时上非常严格，不仅仅是",
+    "zh_hant": "所以，裁判，你們必須在補時上非常嚴格，不僅僅是"
+  },
+  {
+    "index": 170,
+    "text": "injuries,",
+    "start": 466.404,
+    "end": 467.424,
+    "zh": "伤病，",
+    "zh_hant": "傷病，"
+  },
+  {
+    "index": 171,
+    "text": "but also things like goal celebrations and all these other things that take up time.",
+    "start": 467.224,
+    "end": 471.846,
+    "zh": "还有像庆祝进球以及其他所有耗时的事情。",
+    "zh_hant": "還有像慶祝進球以及其他所有耗時的事情。"
+  },
+  {
+    "index": 172,
+    "text": "So suddenly, games became longer.",
+    "start": 471.766,
+    "end": 475.008,
+    "zh": "所以突然之间，比赛变得更长了。",
+    "zh_hant": "所以突然之間，比賽變得更長了。"
+  },
+  {
+    "index": 173,
+    "text": "Quite a bit longer.",
+    "start": 475.128,
+    "end": 476.488,
+    "zh": "长了不少。",
+    "zh_hant": "長了不少。"
+  },
+  {
+    "index": 174,
+    "text": "The number of minutes that a ball is actually in play",
+    "start": 476.649,
+    "end": 480.131,
+    "zh": "球真正在比赛中的分钟数",
+    "zh_hant": "球真正在比賽中的分鐘數"
+  },
+  {
+    "index": 175,
+    "text": "increased by about 6% from the 2022-23",
+    "start": 479.831,
+    "end": 484.07,
+    "zh": "从2022-23赛季增加了约6%",
+    "zh_hant": "從2022-23賽季增加了約6%"
+  },
+  {
+    "index": 176,
+    "text": "to the 2023-24 season,",
+    "start": 484.573,
+    "end": 487.194,
+    "zh": "到2023-24赛季，",
+    "zh_hant": "到2023-24賽季，"
+  },
+  {
+    "index": 177,
+    "text": "from about 55 minutes to just over 58.",
+    "start": 487.054,
+    "end": 490.706,
+    "zh": "从约55分钟增加到略高于58分钟。",
+    "zh_hant": "從約55分鐘增加到略高於58分鐘。"
+  },
+  {
+    "index": 178,
+    "text": "This probably can't explain the whole change.",
+    "start": 490.756,
+    "end": 493.517,
+    "zh": "这可能无法解释全部的变化。",
+    "zh_hant": "這可能無法解釋全部的變化。"
+  },
+  {
+    "index": 179,
+    "text": "Football's a complex game,",
+    "start": 493.578,
+    "end": 495.778,
+    "zh": "足球是一项复杂的运动，",
+    "zh_hant": "足球是一項複雜的運動，"
+  },
+  {
+    "index": 180,
+    "text": "and anything from changes in tactics to differences in player quality may well have had an effect.",
+    "start": 495.428,
+    "end": 501.441,
+    "zh": "从战术变化到球员实力的差异，任何因素都可能产生影响。",
+    "zh_hant": "從戰術變化到球員實力的差異，任何因素都可能產生影響。"
+  },
+  {
+    "index": 181,
+    "text": "Indeed, the goals scored increased by about 15% season to season,",
+    "start": 501.461,
+    "end": 506.664,
+    "zh": "确实，进球数赛季间增加了约15%，",
+    "zh_hant": "確實，進球數賽季間增加了約15%，"
+  },
+  {
+    "index": 182,
+    "text": "so it does seem something else was going on.",
+    "start": 506.644,
+    "end": 508.765,
+    "zh": "所以似乎还有其他事情在发生。",
+    "zh_hant": "所以似乎還有其他事情在發生。"
+  },
+  {
+    "index": 183,
+    "text": "By the way, last season...",
+    "start": 508.965,
+    "end": 510.726,
+    "zh": "顺便说一句，上个赛季……",
+    "zh_hant": "順便說一句，上個賽季……"
+  },
+  {
+    "index": 184,
+    "text": "I checked, it was 1,180 goals.",
+    "start": 510.376,
+    "end": 513.887,
+    "zh": "我查过，有1,180个进球。",
+    "zh_hant": "我查過，有1,180個進球。"
+  },
+  {
+    "index": 185,
+    "text": "And I'm curious, do you know how many of those goals were scored by Liam DeLapp?",
+    "start": 513.607,
+    "end": 517.129,
+    "zh": "我很好奇，你知道其中有多少是利亚姆·德拉普进的吗？",
+    "zh_hant": "我很好奇，你知道其中有多少是利亞姆·德拉普進的嗎？"
+  },
+  {
+    "index": 186,
+    "text": "I don't.",
+    "start": 517.049,
+    "end": 517.889,
+    "zh": "我不知道。",
+    "zh_hant": "我不知道。"
+  },
+  {
+    "index": 187,
+    "text": "It was 12, which is approximately 1%.",
+    "start": 517.769,
+    "end": 520.57,
+    "zh": "是12个，大约占1%。",
+    "zh_hant": "是12個，大約佔1%。"
+  },
+  {
+    "index": 188,
+    "text": "So, pretty good going.",
+    "start": 520.532,
+    "end": 521.753,
+    "zh": "所以，表现相当不错。",
+    "zh_hant": "所以，表現相當不錯。"
+  },
+  {
+    "index": 189,
+    "text": "That is very impressive.",
+    "start": 521.413,
+    "end": 523.434,
+    "zh": "那非常令人印象深刻。",
+    "zh_hant": "那非常令人印象深刻。"
+  },
+  {
+    "index": 190,
+    "text": "And he was playing for Ipswich at the time, so even more impressive.",
+    "start": 523.084,
+    "end": 526.597,
+    "zh": "而且他当时为伊普斯维奇效力，所以更令人印象深刻。",
+    "zh_hant": "而且他當時為伊普斯維奇效力，所以更令人印象深刻。"
+  },
+  {
+    "index": 191,
+    "text": "Our thanks to Rob Easterway, author of Maths on the Back of an Envelope.",
+    "start": 527.198,
+    "end": 532.001,
+    "zh": "感谢罗布·伊斯特威，《信封背面的数学》的作者。",
+    "zh_hant": "感謝羅布·伊斯特威，《信封背面的數學》的作者。"
+  },
+  {
+    "index": 192,
+    "text": "If you have any questions or comments,",
+    "start": 532.262,
+    "end": 534.263,
+    "zh": "如果你有任何问题或评论，",
+    "zh_hant": "如果你有任何問題或評論，"
+  },
+  {
+    "index": 193,
+    "text": "please get in touch at More or Less at bbc.co.uk. We'll be back next time,",
+    "start": 533.913,
+    "end": 539.908,
+    "zh": "请通过bbc.co.uk的More or Less联系我们。我们下次回来，",
+    "zh_hant": "請透過bbc.co.uk的More or Less聯絡我們。我們下次回來，"
+  },
+  {
+    "index": 194,
+    "text": "and until then, goodbye.",
+    "start": 539.768,
+    "end": 542.01,
+    "zh": "在那之前，再见。",
+    "zh_hant": "在那之前，再見。"
+  }
+]
