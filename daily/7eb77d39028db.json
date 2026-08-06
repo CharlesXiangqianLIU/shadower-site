@@ -1,46 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 32.",
-    "start": 1.49,
-    "end": 3.642,
-    "zh": "第32课。",
-    "zh_hant": "第32課。"
+    "text": "Lesson 32 A lost ship",
+    "start": 6.351,
+    "end": 9.321,
+    "zh": "第32课 一艘迷失的船",
+    "zh_hant": "第32課 一艘迷失的船"
   },
   {
     "index": 1,
-    "text": "A lost ship.",
-    "start": 3.692,
-    "end": 7.813,
-    "zh": "一艘沉船。",
-    "zh_hant": "一艘沉船。"
+    "text": "Did the crew of the Elkor find what they were looking for? Why?",
+    "start": 12.282,
+    "end": 17.642,
+    "zh": "埃尔科号的船员们找到他们要找的东西了吗？为什么？",
+    "zh_hant": "埃爾科號的船員們找到他們要找的東西了嗎？為什麼？"
   },
   {
     "index": 2,
-    "text": "Did the crew of the Elkor",
-    "start": 8.574,
-    "end": 14.477,
-    "zh": "埃尔科号的船员们",
-    "zh_hant": "埃爾科號的船員們"
-  },
-  {
-    "index": 3,
-    "text": "find what they were looking for?",
-    "start": 14.677,
-    "end": 16.598,
-    "zh": "找到他们要找的东西了吗？",
-    "zh_hant": "找到他們要找的東西了嗎？"
-  },
-  {
-    "index": 4,
-    "text": "Why?",
-    "start": 17.198,
-    "end": 17.998,
-    "zh": "为什么？",
-    "zh_hant": "為什麼？"
-  },
-  {
-    "index": 5,
     "text": "The salvage operation had been a complete failure.",
     "start": 20.38,
     "end": 23.961,
@@ -48,7 +24,7 @@
     "zh_hant": "打撈作業完全失敗了。"
   },
   {
-    "index": 6,
+    "index": 3,
     "text": "The small ship, Elkor, which had been searching the Barents Sea for weeks,",
     "start": 24.082,
     "end": 29.344,
@@ -56,7 +32,7 @@
     "zh_hant": "小船埃爾科號在巴倫支海搜尋了幾個星期，"
   },
   {
-    "index": 7,
+    "index": 4,
     "text": "was on its way home.",
     "start": 29.344,
     "end": 30.905,
@@ -64,7 +40,7 @@
     "zh_hant": "正在返航途中。"
   },
   {
-    "index": 8,
+    "index": 5,
     "text": "A radio message from the mainland had been received by the ship's captain",
     "start": 31.365,
     "end": 36.207,
@@ -72,7 +48,7 @@
     "zh_hant": "船長收到了一封來自大陸的無線電訊息，"
   },
   {
-    "index": 9,
+    "index": 6,
     "text": "instructing him to give up the search.",
     "start": 36.248,
     "end": 39.009,
@@ -80,7 +56,7 @@
     "zh_hant": "指示他放棄搜尋。"
   },
   {
-    "index": 10,
+    "index": 7,
     "text": "The captain knew that another attempt would be made later,",
     "start": 39.649,
     "end": 43.271,
@@ -88,7 +64,7 @@
     "zh_hant": "船長知道以後還會再嘗試一次，"
   },
   {
-    "index": 11,
+    "index": 8,
     "text": "for the sunken ship he was trying to find had been carrying a precious cargo",
     "start": 43.592,
     "end": 48.934,
@@ -96,7 +72,7 @@
     "zh_hant": "因為他想找的那艘沉船載著珍貴的貨物——"
   },
   {
-    "index": 12,
+    "index": 9,
     "text": "of gold bullion.",
     "start": 48.814,
     "end": 50.455,
@@ -104,7 +80,7 @@
     "zh_hant": "金條。"
   },
   {
-    "index": 13,
+    "index": 10,
     "text": "Despite the message, the captain of the Elkor decided to try once more.",
     "start": 51.316,
     "end": 56.718,
@@ -112,7 +88,7 @@
     "zh_hant": "儘管收到了訊息，埃爾科號的船長還是決定再試一次。"
   },
   {
-    "index": 14,
+    "index": 11,
     "text": "The sea bed was scoured with powerful nets and there was tremendous excitement",
     "start": 57.539,
     "end": 63.121,
@@ -120,7 +96,7 @@
     "zh_hant": "海底被強力漁網徹底清掃，船上發生了一陣巨大的騷動——"
   },
   {
-    "index": 15,
+    "index": 12,
     "text": "on board when a chest was raised from the bottom.",
     "start": 62.771,
     "end": 66.123,
@@ -128,7 +104,7 @@
     "zh_hant": "當一隻箱子從海底被吊起時。"
   },
   {
-    "index": 16,
+    "index": 13,
     "text": "Though the crew were at first under the impression that the lost ship had been found,",
     "start": 66.763,
     "end": 71.285,
@@ -136,7 +112,7 @@
     "zh_hant": "雖然船員們起初以為找到了那艘沉船，"
   },
   {
-    "index": 17,
+    "index": 14,
     "text": "the contents of the chest proved them wrong.",
     "start": 71.606,
     "end": 74.647,
@@ -144,7 +120,7 @@
     "zh_hant": "但箱裡的東西證明他們錯了。"
   },
   {
-    "index": 18,
+    "index": 15,
     "text": "What they had in fact found was a ship which had been sunk many years before.",
     "start": 75.007,
     "end": 80.49,
@@ -152,7 +128,7 @@
     "zh_hant": "他們實際上發現的是一艘多年前沉沒的船。"
   },
   {
-    "index": 19,
+    "index": 16,
     "text": "The chest contained the personal belongings of a seaman, Alan Fielding.",
     "start": 81.071,
     "end": 86.333,
@@ -160,7 +136,7 @@
     "zh_hant": "箱子裡裝的是水手艾倫·菲爾丁的個人物品。"
   },
   {
-    "index": 20,
+    "index": 17,
     "text": "There were books, clothing and photographs,",
     "start": 86.593,
     "end": 89.655,
@@ -168,7 +144,7 @@
     "zh_hant": "有書籍、衣物和照片，"
   },
   {
-    "index": 21,
+    "index": 18,
     "text": "together with letters which the seaman had once received from his wife.",
     "start": 89.735,
     "end": 94.317,
@@ -176,7 +152,7 @@
     "zh_hant": "還有這位水手曾經收到的妻子的信。"
   },
   {
-    "index": 22,
+    "index": 19,
     "text": "The captain of the Elkor ordered his men to salvage as much as possible from the wreck.",
     "start": 94.497,
     "end": 99.92,
@@ -184,7 +160,7 @@
     "zh_hant": "埃爾科號船長命令船員們從殘骸中儘可能多地打撈物品。"
   },
   {
-    "index": 23,
+    "index": 20,
     "text": "Nothing of value was found, but the numerous items which were brought to the surface",
     "start": 100.18,
     "end": 105.442,
@@ -192,7 +168,7 @@
     "zh_hant": "沒有找到什麼值錢的東西，但被打撈上來的大量物品"
   },
   {
-    "index": 24,
+    "index": 21,
     "text": "proved to be of great interest.",
     "start": 105.302,
     "end": 107.323,
@@ -200,7 +176,7 @@
     "zh_hant": "卻證明非常有趣。"
   },
   {
-    "index": 25,
+    "index": 22,
     "text": "From a heavy gun that was raised, the captain realized that the ship must have been a cruiser.",
     "start": 107.443,
     "end": 113.306,
@@ -208,7 +184,7 @@
     "zh_hant": "從撈起的一門沉重的火炮，船長意識到這艘船一定是艘巡洋艦。"
   },
   {
-    "index": 26,
+    "index": 23,
     "text": "In another chest which contained the belongings of a ship's officer,",
     "start": 113.747,
     "end": 117.788,
@@ -216,7 +192,7 @@
     "zh_hant": "在另一隻裝有船上軍官物品的箱子裡，"
   },
   {
-    "index": 27,
+    "index": 24,
     "text": "there was an unfinished letter which had been written on March 14th, 1943.",
     "start": 117.789,
     "end": 123.642,
@@ -224,7 +200,7 @@
     "zh_hant": "有一封寫於1943年3月14日的未寫完的信。"
   },
   {
-    "index": 28,
+    "index": 25,
     "text": "The captain learnt from the letter that the name of the lost ship was the Karen.",
     "start": 123.692,
     "end": 128.834,
@@ -232,7 +208,7 @@
     "zh_hant": "船長從信裡得知，那艘沉船的名字叫凱倫號。"
   },
   {
-    "index": 29,
+    "index": 26,
     "text": "The most valuable find of all was the ship's log book,",
     "start": 129.155,
     "end": 133.136,
@@ -240,7 +216,7 @@
     "zh_hant": "最寶貴的發現是船的航海日誌，"
   },
   {
-    "index": 30,
+    "index": 27,
     "text": "parts of which it was still possible to read.",
     "start": 133.357,
     "end": 136.518,
@@ -248,7 +224,7 @@
     "zh_hant": "其中部分內容仍可閱讀。"
   },
   {
-    "index": 31,
+    "index": 28,
     "text": "From this the captain was able to piece together all the information that had come to light.",
     "start": 136.818,
     "end": 143.101,
@@ -256,7 +232,7 @@
     "zh_hant": "船長由此得以拼湊出所有浮出水面的資訊。"
   },
   {
-    "index": 32,
+    "index": 29,
     "text": "The Karen had been sailing in a convoy to Russia",
     "start": 143.582,
     "end": 147.143,
@@ -264,7 +240,7 @@
     "zh_hant": "凱倫號當時正隨一支護航隊駛向俄羅斯，"
   },
   {
-    "index": 33,
+    "index": 30,
     "text": "when she was torpedoed by an enemy submarine.",
     "start": 147.283,
     "end": 150.665,
@@ -272,7 +248,7 @@
     "zh_hant": "被敵方潛艇用魚雷擊中。"
   },
   {
-    "index": 34,
+    "index": 31,
     "text": "This was later confirmed by a naval official at the Ministry of Defence",
     "start": 151.265,
     "end": 155.687,
@@ -280,7 +256,7 @@
     "zh_hant": "這一點後來被國防部一位海軍官員證實，"
   },
   {
-    "index": 35,
+    "index": 32,
     "text": "after the Elkor had returned home.",
     "start": 155.708,
     "end": 158.329,
@@ -288,7 +264,7 @@
     "zh_hant": "在埃爾科號返回家鄉之後。"
   },
   {
-    "index": 36,
+    "index": 33,
     "text": "All the items that were found were sent to the War Museum.",
     "start": 158.749,
     "end": 162.468,

@@ -1,38 +1,22 @@
 [
   {
     "index": 0,
-    "text": "Lesson 46.",
-    "start": 1.51,
-    "end": 3.421,
-    "zh": "第46课。",
-    "zh_hant": "第46課。"
+    "text": "Lesson 46 Do it yourself",
+    "start": 5.122999999999999,
+    "end": 8.613,
+    "zh": "第46课 自己动手做",
+    "zh_hant": "第46課 自己動手做"
   },
   {
     "index": 1,
-    "text": "Do it yourself.",
-    "start": 3.471,
-    "end": 4.772,
-    "zh": "自己动手。",
-    "zh_hant": "自己動手。"
+    "text": "Did the writer repair his lawn mower in the end? Why/Why not?",
+    "start": 11.134,
+    "end": 16.115,
+    "zh": "作者最终修好他的割草机了吗？为什么？",
+    "zh_hant": "作者最終修好他的割草機了嗎？為什麼？"
   },
   {
     "index": 2,
-    "text": "Did the writer repair his lawn mower in the end?",
-    "start": 11.095,
-    "end": 14.256,
-    "zh": "作者最后修好他的割草机了吗？",
-    "zh_hant": "作者最後修好他的割草機了嗎？"
-  },
-  {
-    "index": 3,
-    "text": "Why/Why not?",
-    "start": 14.617,
-    "end": 16.478,
-    "zh": "为什么？/为什么没有？",
-    "zh_hant": "為什麼？/為什麼沒有？"
-  },
-  {
-    "index": 4,
     "text": "So great is our passion for doing things for ourselves,",
     "start": 18.819,
     "end": 22.24,
@@ -40,7 +24,7 @@
     "zh_hant": "我們如此熱衷於自己動手做事，"
   },
   {
-    "index": 5,
+    "index": 3,
     "text": "that we are becoming increasingly less dependent on specialized labour.",
     "start": 22.281,
     "end": 26.843,
@@ -48,7 +32,7 @@
     "zh_hant": "以至於越來越不依賴專業勞動。"
   },
   {
-    "index": 6,
+    "index": 4,
     "text": "No one can plead ignorance of a subject any longer, for there are countless",
     "start": 27.443,
     "end": 32.385,
@@ -56,7 +40,7 @@
     "zh_hant": "沒有人再能為自己的無知辯解，因為有海量的"
   },
   {
-    "index": 7,
+    "index": 5,
     "text": "do-it-yourself publications.",
     "start": 32.126,
     "end": 34.066,
@@ -64,7 +48,7 @@
     "zh_hant": "自己動手的出版物。"
   },
   {
-    "index": 8,
+    "index": 6,
     "text": "Armed with the right tools and materials,",
     "start": 34.867,
     "end": 37.408,
@@ -72,7 +56,7 @@
     "zh_hant": "有了合適的工具和材料，"
   },
   {
-    "index": 9,
+    "index": 7,
     "text": "newlyweds gaily embark on the task of decorating their own homes.",
     "start": 37.488,
     "end": 42.371,
@@ -80,7 +64,7 @@
     "zh_hant": "新婚夫婦們高興地著手裝修自己的家。"
   },
   {
-    "index": 10,
+    "index": 8,
     "text": "Men, particularly, spend hours of their leisure time installing their own fireplaces,",
     "start": 42.911,
     "end": 49.094,
@@ -88,7 +72,7 @@
     "zh_hant": "特別是男人們，花大量空閒時間安裝自家的壁爐，"
   },
   {
-    "index": 11,
+    "index": 9,
     "text": "laying out their own gardens; building garages and making furniture.",
     "start": 49.534,
     "end": 55.457,
@@ -96,7 +80,7 @@
     "zh_hant": "佈置自家的花園，建車庫，做傢俱。"
   },
   {
-    "index": 12,
+    "index": 10,
     "text": "Some really keen enthusiasts go so far as to build their own computers.",
     "start": 56.278,
     "end": 61.42,
@@ -104,7 +88,7 @@
     "zh_hant": "一些真正的狂熱愛好者甚至自制電腦。"
   },
   {
-    "index": 13,
+    "index": 11,
     "text": "Shops cater for the do-it-yourself craze not only by running special",
     "start": 61.881,
     "end": 66.863,
@@ -112,7 +96,7 @@
     "zh_hant": "商店為迎合這股自己動手的熱潮，不僅為新手提供專門的"
   },
   {
-    "index": 14,
+    "index": 12,
     "text": "advisory services for novices,",
     "start": 66.523,
     "end": 68.924,
@@ -120,7 +104,7 @@
     "zh_hant": "諮詢服務，"
   },
   {
-    "index": 15,
+    "index": 13,
     "text": "but by offering consumers bits and pieces which they can assemble at home.",
     "start": 69.084,
     "end": 74.046,
@@ -128,7 +112,7 @@
     "zh_hant": "還向消費者出售可在家組裝的零件。"
   },
   {
-    "index": 16,
+    "index": 14,
     "text": "Such things provide an excellent outlet for pent up creative energy,",
     "start": 74.787,
     "end": 79.749,
@@ -136,7 +120,7 @@
     "zh_hant": "這些東西為被壓抑的創造力提供了極好的發洩渠道，"
   },
   {
-    "index": 17,
+    "index": 15,
     "text": "but unfortunately not all of us are born handymen.",
     "start": 80.069,
     "end": 84.332,
@@ -144,7 +128,7 @@
     "zh_hant": "但不幸的是，並非我們天生都是能工巧匠。"
   },
   {
-    "index": 18,
+    "index": 16,
     "text": "Some wives tend to believe that their husbands are infinitely resourceful",
     "start": 85.413,
     "end": 90.495,
@@ -152,7 +136,7 @@
     "zh_hant": "有些妻子傾向於相信丈夫無所不能，"
   },
   {
-    "index": 19,
+    "index": 17,
     "text": "and can fix anything.",
     "start": 90.415,
     "end": 92.256,
@@ -160,7 +144,7 @@
     "zh_hant": "什麼都能修。"
   },
   {
-    "index": 20,
+    "index": 18,
     "text": "Even men who can hardly drive a nail in straight are supposed to be born electricians,",
     "start": 92.976,
     "end": 98.999,
@@ -168,7 +152,7 @@
     "zh_hant": "即使是連釘子都釘不直的男人，也被認為是天生的電工、"
   },
   {
-    "index": 21,
+    "index": 19,
     "text": "carpenters, plumbers and mechanics.",
     "start": 99.179,
     "end": 102.781,
@@ -176,7 +160,7 @@
     "zh_hant": "木匠、水管工和機械師。"
   },
   {
-    "index": 22,
+    "index": 20,
     "text": "When lights fuse,",
     "start": 103.341,
     "end": 104.942,
@@ -184,7 +168,7 @@
     "zh_hant": "當保險絲燒斷時，"
   },
   {
-    "index": 23,
+    "index": 21,
     "text": "furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate,",
     "start": 105.102,
     "end": 111.525,
@@ -192,7 +176,7 @@
     "zh_hant": "傢俱搖搖欲墜、管道堵塞或吸塵器不能運轉時，"
   },
   {
-    "index": 24,
+    "index": 22,
     "text": "some women assume that their husbands will somehow put things right.",
     "start": 111.866,
     "end": 116.728,
@@ -200,7 +184,7 @@
     "zh_hant": "有些女人以為丈夫總會想辦法解決。"
   },
   {
-    "index": 25,
+    "index": 23,
     "text": "The worst thing about the do-it-yourself game is that sometimes",
     "start": 117.208,
     "end": 121.651,
@@ -208,7 +192,7 @@
     "zh_hant": "自己動手這件事最糟糕的是，有時候"
   },
   {
-    "index": 26,
+    "index": 24,
     "text": "even men live under the delusion",
     "start": 121.711,
     "end": 123.912,
@@ -216,7 +200,7 @@
     "zh_hant": "即使是男人也活在一種錯覺中，"
   },
   {
-    "index": 27,
+    "index": 25,
     "text": "that they can do anything, even when they have repeatedly been proved wrong.",
     "start": 123.812,
     "end": 129.514,
@@ -224,7 +208,7 @@
     "zh_hant": "認為自己什麼都能做，即使屢次被證明做錯了。"
   },
   {
-    "index": 28,
+    "index": 26,
     "text": "It is a question of pride as much as anything else.",
     "start": 130.115,
     "end": 133.797,
@@ -232,7 +216,7 @@
     "zh_hant": "這主要是面子的問題。"
   },
   {
-    "index": 29,
+    "index": 27,
     "text": "Last spring my wife suggested that I call in a man to look at our lawn mower.",
     "start": 135.037,
     "end": 140.98,
@@ -240,7 +224,7 @@
     "zh_hant": "去年春天，我妻子建議我請個人來看看我們的割草機。"
   },
   {
-    "index": 30,
+    "index": 28,
     "text": "It had broken down the previous summer, and though I promised to repair it,",
     "start": 141.641,
     "end": 146.763,
@@ -248,7 +232,7 @@
     "zh_hant": "它去年夏天就壞了，儘管我答應要修，"
   },
   {
-    "index": 31,
+    "index": 29,
     "text": "I had never got round to it.",
     "start": 146.963,
     "end": 148.744,
@@ -256,7 +240,7 @@
     "zh_hant": "但我一直沒抽出時間去做。"
   },
   {
-    "index": 32,
+    "index": 30,
     "text": "I would not hear of the suggestion and said that I would fix it myself.",
     "start": 149.424,
     "end": 154.127,
@@ -264,7 +248,7 @@
     "zh_hant": "我聽不進這個建議，說我會自己修。"
   },
   {
-    "index": 33,
+    "index": 31,
     "text": "One Saturday afternoon, I hauled the machine into the garden and had a close look at it.",
     "start": 155.107,
     "end": 160.93,
@@ -272,7 +256,7 @@
     "zh_hant": "一個星期六下午，我把機器拖到花園裡，仔細看了看。"
   },
   {
-    "index": 34,
+    "index": 32,
     "text": "As far as I could see, it needed only a minor adjustment:",
     "start": 161.331,
     "end": 165.473,
@@ -280,7 +264,7 @@
     "zh_hant": "據我所見，它只需要小調一下："
   },
   {
-    "index": 35,
+    "index": 33,
     "text": "a turn of a screw here, a little tightening up there,",
     "start": 166.253,
     "end": 170.435,
@@ -288,7 +272,7 @@
     "zh_hant": "這裡擰一下螺絲，那裡緊一緊，"
   },
   {
-    "index": 36,
+    "index": 34,
     "text": "a drop of oil and it would be as good as new.",
     "start": 170.935,
     "end": 174.577,
@@ -296,7 +280,7 @@
     "zh_hant": "滴點油，它就能煥然一新。"
   },
   {
-    "index": 37,
+    "index": 35,
     "text": "Inevitably the repair job was not quite so simple.",
     "start": 175.358,
     "end": 179.559,
@@ -304,7 +288,7 @@
     "zh_hant": "果不其然，修理工作並沒有那麼簡單。"
   },
   {
-    "index": 38,
+    "index": 36,
     "text": "The mower firmly refused to mow, so I decided to dismantle it.",
     "start": 180.18,
     "end": 185.823,
@@ -312,7 +296,7 @@
     "zh_hant": "割草機硬是不肯割草，於是我決定把它拆開。"
   },
   {
-    "index": 39,
+    "index": 37,
     "text": "The garden was soon littered with chunks of metal which had once made up a lawn mower.",
     "start": 186.583,
     "end": 192.426,
@@ -320,7 +304,7 @@
     "zh_hant": "花園裡很快散落著曾經組成割草機的金屬碎片。"
   },
   {
-    "index": 40,
+    "index": 38,
     "text": "But I was extremely pleased with myself.",
     "start": 192.966,
     "end": 195.927,
@@ -328,7 +312,7 @@
     "zh_hant": "但我對自己非常滿意。"
   },
   {
-    "index": 41,
+    "index": 39,
     "text": "I had traced the cause of the trouble.",
     "start": 196.608,
     "end": 198.669,
@@ -336,7 +320,7 @@
     "zh_hant": "我找到了故障的根源。"
   },
   {
-    "index": 42,
+    "index": 40,
     "text": "One of the links in the chain that drives the wheels had snapped.",
     "start": 199.53,
     "end": 203.352,
@@ -344,7 +328,7 @@
     "zh_hant": "驅動輪子的鏈條中有一個鏈節斷了。"
   },
   {
-    "index": 43,
+    "index": 41,
     "text": "After buying a new chain",
     "start": 204.212,
     "end": 205.873,
@@ -352,7 +336,7 @@
     "zh_hant": "買了一條新鏈條後，"
   },
   {
-    "index": 44,
+    "index": 42,
     "text": "I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again.",
     "start": 205.953,
     "end": 212.396,
@@ -360,7 +344,7 @@
     "zh_hant": "我面臨一個難以逾越的任務：把那個令人困惑的拼圖重新拼起來。"
   },
   {
-    "index": 45,
+    "index": 43,
     "text": "I was not surprised to find that the machine still refused to work after I had reassembled it,",
     "start": 213.057,
     "end": 219.059,
@@ -368,7 +352,7 @@
     "zh_hant": "重新組裝後，機器還是不肯工作，我一點也不驚訝，"
   },
   {
-    "index": 46,
+    "index": 44,
     "text": "for the simple reason that I was left with several",
     "start": 219.34,
     "end": 223.021,
@@ -376,7 +360,7 @@
     "zh_hant": "原因很簡單：我剩下好幾個"
   },
   {
-    "index": 47,
+    "index": 45,
     "text": "curiously shaped bits of metal which did not seem to fit anywhere.",
     "start": 222.961,
     "end": 227.123,
@@ -384,7 +368,7 @@
     "zh_hant": "形狀奇怪的金屬碎片，似乎哪兒也安不上。"
   },
   {
-    "index": 48,
+    "index": 46,
     "text": "I gave up in despair.",
     "start": 227.524,
     "end": 229.204,
@@ -392,7 +376,7 @@
     "zh_hant": "我絕望地放棄了。"
   },
   {
-    "index": 49,
+    "index": 47,
     "text": "The weeks passed and the grass grew.",
     "start": 229.725,
     "end": 232.606,
@@ -400,7 +384,7 @@
     "zh_hant": "幾周過去了，草長了起來。"
   },
   {
-    "index": 50,
+    "index": 48,
     "text": "When my wife nagged me to do something about it,",
     "start": 232.966,
     "end": 235.827,
@@ -408,7 +392,7 @@
     "zh_hant": "當我妻子嘮叨著讓我處理這件事時，"
   },
   {
-    "index": 51,
+    "index": 49,
     "text": "I told her that either I would have to buy a new mower or let the grass grow.",
     "start": 235.908,
     "end": 241.011,
@@ -416,7 +400,7 @@
     "zh_hant": "我告訴她，要麼我得買臺新割草機，要麼就讓草長著。"
   },
   {
-    "index": 52,
+    "index": 50,
     "text": "Needless to say our house is now surrounded by a jungle.",
     "start": 241.693,
     "end": 245.298,
@@ -424,7 +408,7 @@
     "zh_hant": "不用說，我們的房子現在被一片叢林包圍了。"
   },
   {
-    "index": 53,
+    "index": 51,
     "text": "Buried somewhere in deep grass there is a rusting lawn mower",
     "start": 245.599,
     "end": 249.925,
@@ -432,7 +416,7 @@
     "zh_hant": "在深草叢中埋著一臺生鏽的割草機，"
   },
   {
-    "index": 54,
+    "index": 52,
     "text": "which I have promised to repair one day.",
     "start": 249.825,
     "end": 253.049,
