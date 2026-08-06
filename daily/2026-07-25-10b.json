@@ -1,0 +1,482 @@
+[
+  {
+    "index": 0,
+    "text": "Matthew Schrag’s first exercise in validating scientific research was unofficial — it came during his Ph.D. training,",
+    "start": 0.29,
+    "end": 7.614,
+    "zh": "马修·施拉格第一次验证科学研究的尝试是非正式的——那是在他攻读博士期间",
+    "zh_hant": "馬修·施拉格第一次驗證科學研究的嘗試是非正式的——那是在他攻讀博士期間"
+  },
+  {
+    "index": 1,
+    "text": "when he tried to reproduce the findings of a paper that had parallels",
+    "start": 7.264,
+    "end": 10.915,
+    "zh": "当时他试图重现一篇论文的发现，那篇论文与",
+    "zh_hant": "當時他試圖重現一篇論文的發現，那篇論文與"
+  },
+  {
+    "index": 2,
+    "text": "to the rabbit paper that he’d worked on as an undergrad, with Othman Ghribi.",
+    "start": 10.855,
+    "end": 15.157,
+    "zh": "他本科时和奥思曼·格里比一起研究过的兔子论文有相似之处。",
+    "zh_hant": "他本科時和奧思曼·格里比一起研究過的兔子論文有相似之處。"
+  },
+  {
+    "index": 3,
+    "text": "He found that “the work was not reproducible.”",
+    "start": 15.178,
+    "end": 17.979,
+    "zh": "他发现“这项研究无法重现”。",
+    "zh_hant": "他發現“這項研究無法重現”。"
+  },
+  {
+    "index": 4,
+    "text": "In 2021, this work took on a new scale.",
+    "start": 18.179,
+    "end": 21.54,
+    "zh": "2021年，这项工作进入了一个新阶段。",
+    "zh_hant": "2021年，這項工作進入了一個新階段。"
+  },
+  {
+    "index": 5,
+    "text": "I was approached by an attorney and asked to help a group of whistleblowers",
+    "start": 21.721,
+    "end": 26.603,
+    "zh": "一位律师联系了我，请我帮助一群举报人",
+    "zh_hant": "一位律師聯絡了我，請我幫助一群舉報人"
+  },
+  {
+    "index": 6,
+    "text": "investigate their concerns about the integrity of the data underlying this drug simufilam,",
+    "start": 26.253,
+    "end": 32.386,
+    "zh": "调查他们对这种名为辛美拉姆的药物背后数据完整性的担忧，",
+    "zh_hant": "調查他們對這種名為辛美拉姆的藥物背後資料完整性的擔憂，"
+  },
+  {
+    "index": 7,
+    "text": "which was being developed by a little biotech company out of Texas called Cassava Sciences.",
+    "start": 32.036,
+    "end": 38.029,
+    "zh": "这种药是由得克萨斯州一家名为卡萨瓦科学的小型生物技术公司开发的。",
+    "zh_hant": "這種藥是由得克薩斯州一家名為卡薩瓦科學的小型生物技術公司開發的。"
+  },
+  {
+    "index": 8,
+    "text": "Cassava Sciences had been known earlier as Pain Therapeutics.",
+    "start": 37.969,
+    "end": 42.551,
+    "zh": "卡萨瓦科学之前叫疼痛疗法公司。",
+    "zh_hant": "卡薩瓦科學之前叫疼痛療法公司。"
+  },
+  {
+    "index": 9,
+    "text": "They spent years trying to break into the opioid market,",
+    "start": 42.201,
+    "end": 45.553,
+    "zh": "他们花了多年时间试图打入阿片类药物市场，",
+    "zh_hant": "他們花了多年時間試圖打入阿片類藥物市場，"
+  },
+  {
+    "index": 10,
+    "text": "and then switched their focus to simufilam , an experimental drug for Alzheimer’s.",
+    "start": 45.713,
+    "end": 51.196,
+    "zh": "然后转向了辛美拉姆，一种治疗阿尔茨海默病的实验性药物。",
+    "zh_hant": "然後轉向了辛美拉姆，一種治療阿爾茨海默病的實驗性藥物。"
+  },
+  {
+    "index": 11,
+    "text": "The company’s research collaborator was a medical-school professor at City University of New York, named Hoau-Yan Wang.",
+    "start": 51.656,
+    "end": 58.439,
+    "zh": "该公司的研究合作者是纽约市立大学医学院的一名教授，名叫王浩彦。",
+    "zh_hant": "該公司的研究合作者是紐約市立大學醫學院的一名教授，名叫王浩彥。"
+  },
+  {
+    "index": 12,
+    "text": "His research had found that simufilam could reverse the “misfolding”",
+    "start": 58.479,
+    "end": 62.961,
+    "zh": "他的研究发现，辛美拉姆可以逆转细丝蛋白A的“错误折叠”，",
+    "zh_hant": "他的研究發現，辛美拉姆可以逆轉細絲蛋白A的“錯誤摺疊”，"
+  },
+  {
+    "index": 13,
+    "text": "of the protein filamin A, which was hypothesized as a cause of Alzheimer’s .",
+    "start": 62.962,
+    "end": 68.81,
+    "zh": "这种蛋白的错误折叠被假设为阿尔茨海默病的一个病因。",
+    "zh_hant": "這種蛋白的錯誤摺疊被假設為阿爾茨海默病的一個病因。"
+  },
+  {
+    "index": 14,
+    "text": "Consistent with the amyloid hypothesis,",
+    "start": 68.704,
+    "end": 71.646,
+    "zh": "与淀粉样蛋白假说一致，",
+    "zh_hant": "與澱粉樣蛋白假說一致，"
+  },
+  {
+    "index": 15,
+    "text": "simufilam also promised to reduce inflammation by targeting the buildup of tau and beta amyloid in the brain.",
+    "start": 71.606,
+    "end": 79.189,
+    "zh": "辛美拉姆还承诺通过靶向大脑中tau蛋白和β-淀粉样蛋白的积聚来减轻炎症。",
+    "zh_hant": "辛美拉姆還承諾透過靶向大腦中tau蛋白和β-澱粉樣蛋白的積聚來減輕炎症。"
+  },
+  {
+    "index": 16,
+    "text": "They had produced some data from their phase two trials that raised alarm bells for these whistleblowers.",
+    "start": 79.23,
+    "end": 86.614,
+    "zh": "他们从二期试验中得出的一些数据引起了这些举报人的警觉。",
+    "zh_hant": "他們從二期試驗中得出的一些資料引起了這些舉報人的警覺。"
+  },
+  {
+    "index": 17,
+    "text": "Who were the whistleblowers?",
+    "start": 86.454,
+    "end": 88.314,
+    "zh": "举报人是谁？",
+    "zh_hant": "舉報人是誰？"
+  },
+  {
+    "index": 18,
+    "text": "They were a pair of scientists, a cardiologist and a neuroscientist",
+    "start": 88.375,
+    "end": 93.257,
+    "zh": "他们是一对科学家，一位心脏病专家和一位神经科学家，",
+    "zh_hant": "他們是一對科學家，一位心臟病專家和一位神經科學家，"
+  },
+  {
+    "index": 19,
+    "text": "who had some experience in this space and basically said",
+    "start": 93.337,
+    "end": 98.059,
+    "zh": "在这个领域有一些经验，基本上说",
+    "zh_hant": "在這個領域有一些經驗，基本上說"
+  },
+  {
+    "index": 20,
+    "text": "they didn’t think the pharmacology of this drug made sense,",
+    "start": 97.709,
+    "end": 100.941,
+    "zh": "他们认为这种药的药理学说不通，",
+    "zh_hant": "他們認為這種藥的藥理學說不通，"
+  },
+  {
+    "index": 21,
+    "text": "that there were some problems in the basic science that were just hard to interpret.",
+    "start": 100.591,
+    "end": 105.643,
+    "zh": "基础科学中存在一些难以解释的问题。",
+    "zh_hant": "基礎科學中存在一些難以解釋的問題。"
+  },
+  {
+    "index": 22,
+    "text": "And then when they looked at the image data, a lot those photographs looked like they had been retouched.",
+    "start": 105.293,
+    "end": 110.745,
+    "zh": "然后当他们查看图像数据时，很多照片看起来像是被修过。",
+    "zh_hant": "然後當他們檢視影象資料時，很多照片看起來像是被修過。"
+  },
+  {
+    "index": 23,
+    "text": "So I was paid a fee to help them research this and produce a document cataloging their concerns,",
+    "start": 110.526,
+    "end": 118.109,
+    "zh": "所以我有偿帮助他们研究此事，并制作一份列出他们担忧的文件，",
+    "zh_hant": "所以我有償幫助他們研究此事，並製作一份列出他們擔憂的檔案，"
+  },
+  {
+    "index": 24,
+    "text": "but also to provide due diligence to the attorneys that were pursuing this.",
+    "start": 117.759,
+    "end": 121.771,
+    "zh": "同时为追查此事的律师提供尽职调查。",
+    "zh_hant": "同時為追查此事的律師提供盡職調查。"
+  },
+  {
+    "index": 25,
+    "text": "Was the case about these scientists-whistleblowers trying to prevent this drug from going forward,",
+    "start": 121.631,
+    "end": 127.854,
+    "zh": "这个案子是关于这些科学家举报人试图阻止这种药物上市，",
+    "zh_hant": "這個案子是關於這些科學家舉報人試圖阻止這種藥物上市，"
+  },
+  {
+    "index": 26,
+    "text": "because they thought it would be ineffective, and was based on misrepresented data, was that the genesis of your involvement in this?",
+    "start": 127.504,
+    "end": 133.917,
+    "zh": "因为他们认为这种药无效，而且基于虚假数据，这就是你参与此事的起因吗？",
+    "zh_hant": "因為他們認為這種藥無效，而且基於虛假資料，這就是你參與此事的起因嗎？"
+  },
+  {
+    "index": 27,
+    "text": "It was certainly the driver for me to take the risk of speaking publicly on an issue like this.",
+    "start": 133.857,
+    "end": 139.64,
+    "zh": "这确实是促使我冒险公开谈论此类问题的动力。",
+    "zh_hant": "這確實是促使我冒險公開談論此類問題的動力。"
+  },
+  {
+    "index": 28,
+    "text": "You take a substantial risk to engage on a topic like this against a multibillion-dollar company .",
+    "start": 139.62,
+    "end": 145.45,
+    "zh": "你冒着相当大的风险，去参与对抗一家数十亿美元公司的话题。",
+    "zh_hant": "你冒著相當大的風險，去參與對抗一家數十億美元公司的話題。"
+  },
+  {
+    "index": 29,
+    "text": "And where were you in your career at this point?",
+    "start": 145.163,
+    "end": 147.524,
+    "zh": "那时你的事业处于什么阶段？",
+    "zh_hant": "那時你的事業處於什麼階段？"
+  },
+  {
+    "index": 30,
+    "text": "Oh, I was very junior.",
+    "start": 147.224,
+    "end": 148.805,
+    "zh": "哦，我非常初级。",
+    "zh_hant": "哦，我非常初級。"
+  },
+  {
+    "index": 31,
+    "text": "I was an assistant professor, pre-tenure, just getting started.",
+    "start": 148.455,
+    "end": 151.966,
+    "zh": "我是助理教授，还没拿到终身教职，刚刚起步。",
+    "zh_hant": "我是助理教授，還沒拿到終身教職，剛剛起步。"
+  },
+  {
+    "index": 32,
+    "text": "How did you then get on the list of people to be called by an attorney representing these whistleblower scientists?",
+    "start": 151.746,
+    "end": 157.989,
+    "zh": "那你后来怎么会被代表这些举报人科学家的律师列入联系名单的？",
+    "zh_hant": "那你後來怎麼會被代表這些舉報人科學家的律師列入聯絡名單的？"
+  },
+  {
+    "index": 33,
+    "text": "I had given some interviews in the national media,",
+    "start": 157.949,
+    "end": 161.391,
+    "zh": "我之前在全国媒体上接受过一些采访，",
+    "zh_hant": "我之前在全國媒體上接受過一些採訪，"
+  },
+  {
+    "index": 34,
+    "text": "and I think they were looking for somebody who was a bit outspoken perhaps, but also who had some credibility.",
+    "start": 161.041,
+    "end": 167.954,
+    "zh": "我想他们在找一位也许有点直言不讳，但又有一定可信度的人。",
+    "zh_hant": "我想他們在找一位也許有點直言不諱，但又有一定可信度的人。"
+  },
+  {
+    "index": 35,
+    "text": "Where did your credibility come from to that point?",
+    "start": 167.875,
+    "end": 170.656,
+    "zh": "在那之前你的可信度来自哪里？",
+    "zh_hant": "在那之前你的可信度來自哪裡？"
+  },
+  {
+    "index": 36,
+    "text": "I had worked as an Alzheimer’s researcher for quite a period of time at this point,",
+    "start": 170.516,
+    "end": 175.838,
+    "zh": "到那时我已经作为阿尔茨海默病研究员工作了相当长一段时间，",
+    "zh_hant": "到那時我已經作為阿爾茨海默病研究員工作了相當長一段時間，"
+  },
+  {
+    "index": 37,
+    "text": "and at the time, one particular drug, aducanumab, was getting a lot of oxygen.",
+    "start": 175.839,
+    "end": 181.801,
+    "zh": "当时有一种叫阿杜卡单抗的药物备受关注。",
+    "zh_hant": "當時有一種叫阿杜卡單抗的藥物備受關注。"
+  },
+  {
+    "index": 38,
+    "text": "And I had been talking publicly about some of the weaknesses of this approach to treating Alzheimer’s disease .",
+    "start": 181.861,
+    "end": 189.46,
+    "zh": "我一直在公开谈论这种治疗阿尔茨海默病方法的一些弱点。",
+    "zh_hant": "我一直在公開談論這種治療阿爾茨海默病方法的一些弱點。"
+  },
+  {
+    "index": 39,
+    "text": "Okay, getting back to the Cassava Sciences case — the attorneys for the whistleblowers reached out,",
+    "start": 189.425,
+    "end": 195.968,
+    "zh": "好的，回到卡萨瓦科学案——举报人的律师联系了你，",
+    "zh_hant": "好的，回到卡薩瓦科學案——舉報人的律師聯絡了你，"
+  },
+  {
+    "index": 40,
+    "text": "and you said the images looked like they’d been retouched.",
+    "start": 195.618,
+    "end": 199.49,
+    "zh": "你说那些图像看起来像是被修过。",
+    "zh_hant": "你說那些影象看起來像是被修過。"
+  },
+  {
+    "index": 41,
+    "text": "Give me some detail there.",
+    "start": 199.19,
+    "end": 200.831,
+    "zh": "给我一些细节。",
+    "zh_hant": "給我一些細節。"
+  },
+  {
+    "index": 42,
+    "text": "The images just didn’t fit what a scientific expectation would be?",
+    "start": 200.791,
+    "end": 205.393,
+    "zh": "这些图像就是不符合科学预期吗？",
+    "zh_hant": "這些影象就是不符合科學預期嗎？"
+  },
+  {
+    "index": 43,
+    "text": "Did they look visually manipulated?",
+    "start": 205.473,
+    "end": 208.215,
+    "zh": "它们看起来像是被视觉上加工过吗？",
+    "zh_hant": "它們看起來像是被視覺上加工過嗎？"
+  },
+  {
+    "index": 44,
+    "text": "It looked visually manipulated.",
+    "start": 208.255,
+    "end": 210.476,
+    "zh": "看起来确实是被视觉上加工过。",
+    "zh_hant": "看起來確實是被視覺上加工過。"
+  },
+  {
+    "index": 45,
+    "text": "Some of these results had copy-and-paste-type changes,",
+    "start": 210.126,
+    "end": 214.197,
+    "zh": "其中一些结果有复制粘贴式的改动，",
+    "zh_hant": "其中一些結果有複製貼上式的改動，"
+  },
+  {
+    "index": 46,
+    "text": "where it looked like things had been moved around or duplicated,",
+    "start": 213.847,
+    "end": 217.219,
+    "zh": "看起来像东西被移动过或重复了，",
+    "zh_hant": "看起來像東西被移動過或重複了，"
+  },
+  {
+    "index": 47,
+    "text": "or where the intensity of one part of the image had been adjusted.",
+    "start": 217.199,
+    "end": 221.581,
+    "zh": "或者图像某部分的强度被调整过。",
+    "zh_hant": "或者影象某部分的強度被調整過。"
+  },
+  {
+    "index": 48,
+    "text": "And ultimately, a lot of these results, how dark a splotch on the photograph is, is what we ultimately measure to turn it into data.",
+    "start": 221.461,
+    "end": 228.985,
+    "zh": "最终，很多这种结果——照片上斑点的深浅——是我们最终测量并转化为数据的依据。",
+    "zh_hant": "最終，很多這種結果——照片上斑點的深淺——是我們最終測量並轉化為資料的依據。"
+  },
+  {
+    "index": 49,
+    "text": "So changing the intensity of those values changes the underlying data.",
+    "start": 228.945,
+    "end": 233.707,
+    "zh": "所以改变这些数值的强度会改变底层数据。",
+    "zh_hant": "所以改變這些數值的強度會改變底層資料。"
+  },
+  {
+    "index": 50,
+    "text": "To a layperson, that sounds like a sort of Mickey Mouse misrepresentation.",
+    "start": 233.707,
+    "end": 239.35,
+    "zh": "对外行来说，这听起来像是那种小儿科的虚假陈述。",
+    "zh_hant": "對外行來說，這聽起來像是那種小兒科的虛假陳述。"
+  },
+  {
+    "index": 51,
+    "text": "And I don’t mean to insult Mickey Mouse, but it seems kind of amateurish that to the naked eye,",
+    "start": 239.0,
+    "end": 244.093,
+    "zh": "我不是想冒犯米老鼠，但这听起来有点业余，因为用肉眼",
+    "zh_hant": "我不是想冒犯米老鼠，但這聽起來有點業餘，因為用肉眼"
+  },
+  {
+    "index": 52,
+    "text": "the images in a scientific paper could be seen to be manipulated.",
+    "start": 243.933,
+    "end": 248.935,
+    "zh": "就能看出科学论文中的图像被操纵了。",
+    "zh_hant": "就能看出科學論文中的影象被操縱了。"
+  },
+  {
+    "index": 53,
+    "text": "I don’t know if you’ve had the experience of somebody showing you something and saying, “What do you see?”",
+    "start": 248.815,
+    "end": 254.838,
+    "zh": "我不知道你有没有过这种经历，有人给你看一样东西，然后说：“你看到了什么？”",
+    "zh_hant": "我不知道你有沒有過這種經歷，有人給你看一樣東西，然後說：“你看到了什麼？”"
+  },
+  {
+    "index": 54,
+    "text": "And you don’t see anything.",
+    "start": 254.818,
+    "end": 256.378,
+    "zh": "而你什么都没看到。",
+    "zh_hant": "而你什麼都沒看到。"
+  },
+  {
+    "index": 55,
+    "text": "And then somebody explains to you what you’re supposed to see, and now all of a sudden, you couldn’t possibly turn the clock back and not see that.",
+    "start": 256.028,
+    "end": 262.501,
+    "zh": "然后有人向你解释你应该看到什么，突然间，你不可能再把时钟拨回去，当作没看到。",
+    "zh_hant": "然後有人向你解釋你應該看到什麼，突然間，你不可能再把時鐘撥回去，當作沒看到。"
+  },
+  {
+    "index": 56,
+    "text": "I think there’s some of that.",
+    "start": 262.482,
+    "end": 264.062,
+    "zh": "我觉得有点这种成分。",
+    "zh_hant": "我覺得有點這種成分。"
+  },
+  {
+    "index": 57,
+    "text": "I think once you’ve seen the patterns — you’re right, that they seem quite obvious.",
+    "start": 263.712,
+    "end": 268.845,
+    "zh": "我认为一旦你看到了那些模式——你说得对，它们看起来很明显。",
+    "zh_hant": "我認為一旦你看到了那些模式——你說得對，它們看起來很明顯。"
+  },
+  {
+    "index": 58,
+    "text": "But I’ll also say there’s a difference between seeing something suspicious and being able to prove it.",
+    "start": 268.785,
+    "end": 273.787,
+    "zh": "但我还要说，看到可疑之处和能证明它是有区别的。",
+    "zh_hant": "但我還要說，看到可疑之處和能證明它是有區別的。"
+  },
+  {
+    "index": 59,
+    "text": "And that’s part of what we were working on, was trying to do this in a very systematic and thorough way.",
+    "start": 273.847,
+    "end": 280.346,
+    "zh": "这就是我们工作的一部分，试图以非常系统且彻底的方式来做到这一点。",
+    "zh_hant": "這就是我們工作的一部分，試圖以非常系統且徹底的方式來做到這一點。"
+  }
+]

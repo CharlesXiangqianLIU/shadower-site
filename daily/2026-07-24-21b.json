@@ -1,0 +1,554 @@
+[
+  {
+    "index": 0,
+    "text": "I would say that the uncertainty component is more realistic of what people encounter in the business",
+    "start": 0.65,
+    "end": 6.933,
+    "zh": "我会说，不确定性成分更贴近人们在商业",
+    "zh_hant": "我會說，不確定性成分更貼近人們在商業"
+  },
+  {
+    "index": 1,
+    "text": "world and in social decisions.",
+    "start": 6.583,
+    "end": 8.654,
+    "zh": "世界和社会决策中遇到的情况。",
+    "zh_hant": "世界和社會決策中遇到的情況。"
+  },
+  {
+    "index": 2,
+    "text": "Chess is a great game.",
+    "start": 8.754,
+    "end": 10.555,
+    "zh": "国际象棋是一款很棒的游戏。",
+    "zh_hant": "國際象棋是一款很棒的遊戲。"
+  },
+  {
+    "index": 3,
+    "text": "But chess, if you make the best move,",
+    "start": 10.535,
+    "end": 13.597,
+    "zh": "但下国际象棋时，如果你走出最佳一步，",
+    "zh_hant": "但下國際象棋時，如果你走出最佳一步，"
+  },
+  {
+    "index": 4,
+    "text": "it’s the difference often between a 100 percent winning path and 100 percent losing path.",
+    "start": 13.247,
+    "end": 18.219,
+    "zh": "那往往就是百分之百胜局和百分之百败局之间的差别。",
+    "zh_hant": "那往往就是百分之百勝局和百分之百敗局之間的差別。"
+  },
+  {
+    "index": 5,
+    "text": "Whereas in backgammon, it’s more probabilistic,",
+    "start": 17.869,
+    "end": 20.84,
+    "zh": "而西洋双陆棋则更偏向概率性，",
+    "zh_hant": "而西洋雙陸棋則更偏向機率性，"
+  },
+  {
+    "index": 6,
+    "text": "and I think that is more like the decisions we encounter in real life.",
+    "start": 20.5,
+    "end": 25.162,
+    "zh": "我认为那更接近我们在现实生活中的决策。",
+    "zh_hant": "我認為那更接近我們在現實生活中的決策。"
+  },
+  {
+    "index": 7,
+    "text": "I had been told that Frigo had put his backgammon obsession to good use in the analytics firm he founded and ran.",
+    "start": 28.524,
+    "end": 35.768,
+    "zh": "我听说弗里戈把他对西洋双陆棋的痴迷用在了他创办并运营的分析公司里。",
+    "zh_hant": "我聽說弗裡戈把他對西洋雙陸棋的痴迷用在了他創辦並運營的分析公司裡。"
+  },
+  {
+    "index": 8,
+    "text": "We built proprietary models for a variety of applications",
+    "start": 35.968,
+    "end": 40.0,
+    "zh": "我们为各种应用场景构建了专有模型，",
+    "zh_hant": "我們為各種應用場景構建了專有模型，"
+  },
+  {
+    "index": 9,
+    "text": "in sports, in commodity trading, in healthcare, in education.",
+    "start": 39.6,
+    "end": 45.193,
+    "zh": "涉及体育、大宗商品交易、医疗保健和教育领域。",
+    "zh_hant": "涉及體育、大宗商品交易、醫療保健和教育領域。"
+  },
+  {
+    "index": 10,
+    "text": "The idea was to take a game-based approach to solving difficult problems.",
+    "start": 45.413,
+    "end": 51.096,
+    "zh": "我们的理念是采用基于游戏的方法来解决难题。",
+    "zh_hant": "我們的理念是採用基於遊戲的方法來解決難題。"
+  },
+  {
+    "index": 11,
+    "text": "There’s a lot of data out there,",
+    "start": 50.856,
+    "end": 52.877,
+    "zh": "外面有大量数据，",
+    "zh_hant": "外面有大量資料，"
+  },
+  {
+    "index": 12,
+    "text": "but there’s not a lot of good ways to take that data and steer it towards a particular objective.",
+    "start": 53.137,
+    "end": 58.939,
+    "zh": "但很少有好的方法能把这些数据导向特定目标。",
+    "zh_hant": "但很少有好的方法能把這些資料導向特定目標。"
+  },
+  {
+    "index": 13,
+    "text": "So in commodity trading, it might be R.O.I. In education,",
+    "start": 58.92,
+    "end": 63.001,
+    "zh": "所以在商品交易中，目标可能是投资回报率；在教育领域，",
+    "zh_hant": "所以在商品交易中，目標可能是投資回報率；在教育領域，"
+  },
+  {
+    "index": 14,
+    "text": "it might be how to reduce freshman attrition rates.",
+    "start": 62.651,
+    "end": 67.023,
+    "zh": "目标可能是如何降低新生辍学率。",
+    "zh_hant": "目標可能是如何降低新生輟學率。"
+  },
+  {
+    "index": 15,
+    "text": "In healthcare, it was how to reduce hospital readmissions for cardiac patients.",
+    "start": 66.764,
+    "end": 73.347,
+    "zh": "在医疗保健中，目标是减少心脏病患者的再入院率。",
+    "zh_hant": "在醫療保健中，目標是減少心臟病患者的再入院率。"
+  },
+  {
+    "index": 16,
+    "text": "And then, of course, in sports, one of the big, big breakthroughs that we applied was,",
+    "start": 73.087,
+    "end": 79.369,
+    "zh": "然后，当然，在体育方面，我们应用的一个重大突破是，",
+    "zh_hant": "然後，當然，在體育方面，我們應用的一個重大突破是，"
+  },
+  {
+    "index": 17,
+    "text": "we took a lot of idea from the modeling of games, and applied it to professional football.",
+    "start": 79.019,
+    "end": 84.833,
+    "zh": "我们从游戏建模中汲取了很多想法，并将其应用到职业橄榄球中。",
+    "zh_hant": "我們從遊戲建模中汲取了很多想法，並將其應用到職業橄欖球中。"
+  },
+  {
+    "index": 18,
+    "text": "When you say you applied it to football, what kinds of scenarios, or with what kind of goals in mind?",
+    "start": 84.893,
+    "end": 90.896,
+    "zh": "你说你们把它应用到橄榄球上，具体是什么场景，或者带着什么样的目标？",
+    "zh_hant": "你說你們把它應用到橄欖球上，具體是什麼場景，或者帶著什麼樣的目標？"
+  },
+  {
+    "index": 19,
+    "text": "Originally, when I was just watching the game as a fan and I was a pretty seasoned backgammon player,",
+    "start": 90.916,
+    "end": 96.658,
+    "zh": "起初，当我只是作为球迷看比赛，而且是个经验丰富的西洋双陆棋玩家时，",
+    "zh_hant": "起初，當我只是作為球迷看比賽，而且是個經驗豐富的西洋雙陸棋玩家時，"
+  },
+  {
+    "index": 20,
+    "text": "I would look at what appeared to be the inherent risk-aversion bias",
+    "start": 96.439,
+    "end": 102.061,
+    "zh": "我会注意到主教练们似乎存在的固有风险规避倾向，",
+    "zh_hant": "我會注意到主教練們似乎存在的固有風險規避傾向，"
+  },
+  {
+    "index": 21,
+    "text": "of head football coaches.",
+    "start": 101.901,
+    "end": 104.142,
+    "zh": "那就是橄榄球队的主教练们。",
+    "zh_hant": "那就是橄欖球隊的主教練們。"
+  },
+  {
+    "index": 22,
+    "text": "They would get to fourth-down decisions and they would sort of pucker up",
+    "start": 103.792,
+    "end": 109.305,
+    "zh": "他们在面对第四档决策时会变得紧张，",
+    "zh_hant": "他們在面對第四檔決策時會變得緊張，"
+  },
+  {
+    "index": 23,
+    "text": "and relinquish possession.",
+    "start": 109.185,
+    "end": 111.646,
+    "zh": "然后放弃球权。",
+    "zh_hant": "然後放棄球權。"
+  },
+  {
+    "index": 24,
+    "text": "You’re saying they’re very risk-averse.",
+    "start": 111.766,
+    "end": 113.707,
+    "zh": "你是说他们非常规避风险。",
+    "zh_hant": "你是說他們非常規避風險。"
+  },
+  {
+    "index": 25,
+    "text": "At least they used to be, before we came onto the scene.",
+    "start": 113.747,
+    "end": 116.968,
+    "zh": "至少在我们出现之前，他们确实是这样。",
+    "zh_hant": "至少在我們出現之前，他們確實是這樣。"
+  },
+  {
+    "index": 26,
+    "text": "It struck me that those kinds of decisions are very,",
+    "start": 116.869,
+    "end": 121.731,
+    "zh": "我意识到，这类决策非常，",
+    "zh_hant": "我意識到，這類決策非常，"
+  },
+  {
+    "index": 27,
+    "text": "similar to backgammon decisions, and decisions that were modeled.",
+    "start": 121.391,
+    "end": 125.213,
+    "zh": "类似于西洋双陆棋中的决策，也类似于那些被建模过的决策。",
+    "zh_hant": "類似於西洋雙陸棋中的決策，也類似於那些被建模過的決策。"
+  },
+  {
+    "index": 28,
+    "text": "One of the great breakthroughs in the modeling of games,",
+    "start": 125.473,
+    "end": 129.635,
+    "zh": "游戏建模中的一个重大突破，",
+    "zh_hant": "遊戲建模中的一個重大突破，"
+  },
+  {
+    "index": 29,
+    "text": "and backgammon in particular, was that when you focus on the proper objective,",
+    "start": 129.285,
+    "end": 135.498,
+    "zh": "尤其是西洋双陆棋，就是当你专注于正确的目标时——",
+    "zh_hant": "尤其是西洋雙陸棋，就是當你專注於正確的目標時——"
+  },
+  {
+    "index": 30,
+    "text": "which in backgammon is giving yourself the highest probability of winning the match,",
+    "start": 135.158,
+    "end": 141.021,
+    "zh": "在西洋双陆棋中，目标是让自己有最高的概率赢得比赛——",
+    "zh_hant": "在西洋雙陸棋中，目標是讓自己有最高的機率贏得比賽——"
+  },
+  {
+    "index": 31,
+    "text": "and in football, if you apply the same metric,",
+    "start": 141.421,
+    "end": 144.382,
+    "zh": "在橄榄球中，如果你应用同样的衡量标准，",
+    "zh_hant": "在橄欖球中，如果你應用同樣的衡量標準，"
+  },
+  {
+    "index": 32,
+    "text": "which is how do I make a decision that gives me the highest expected outcome of a win —",
+    "start": 144.032,
+    "end": 150.39,
+    "zh": "那就是如何做出一个让我获得最高预期胜率的决策——",
+    "zh_hant": "那就是如何做出一個讓我獲得最高預期勝率的決策——"
+  },
+  {
+    "index": 33,
+    "text": "not maximizing yardage,",
+    "start": 150.826,
+    "end": 153.667,
+    "zh": "不是最大化码数，",
+    "zh_hant": "不是最大化碼數，"
+  },
+  {
+    "index": 34,
+    "text": "not assuring I get some amount of points on a particular drive — when you shift that objective and that metric,",
+    "start": 153.317,
+    "end": 160.231,
+    "zh": "也不是确保某次进攻能拿到一定的分数——当你转变这个目标和衡量标准时，",
+    "zh_hant": "也不是確保某次進攻能拿到一定的分數——當你轉變這個目標和衡量標準時，"
+  },
+  {
+    "index": 35,
+    "text": "it really opens things up and you start to see that these risk-averse decisions are actually quite wrong.",
+    "start": 160.131,
+    "end": 167.334,
+    "zh": "局面就会豁然开朗，你会开始发现这些规避风险的决策其实相当错误。",
+    "zh_hant": "局面就會豁然開朗，你會開始發現這些規避風險的決策其實相當錯誤。"
+  },
+  {
+    "index": 36,
+    "text": "We set out to build a model that could actually measure it.",
+    "start": 167.094,
+    "end": 171.696,
+    "zh": "我们着手构建一个能真正衡量这个的模型。",
+    "zh_hant": "我們著手構建一個能真正衡量這個的模型。"
+  },
+  {
+    "index": 37,
+    "text": "We did this by building a fully customizable simulation model",
+    "start": 171.456,
+    "end": 176.358,
+    "zh": "我们通过构建一个完全可自定义的仿真模型来实现，",
+    "zh_hant": "我們透過構建一個完全可自定義的模擬模型來實現，"
+  },
+  {
+    "index": 38,
+    "text": "that was built on a lot of N.F.L. empirical data.",
+    "start": 176.008,
+    "end": 179.36,
+    "zh": "这个模型基于大量N.F.L.的实证数据。",
+    "zh_hant": "這個模型基於大量N.F.L.的實證資料。"
+  },
+  {
+    "index": 39,
+    "text": "My partner, Chuck Bower , who is also an experimental physicist,",
+    "start": 179.56,
+    "end": 184.622,
+    "zh": "我的搭档查克·鲍尔，他同时也是一位实验物理学家，",
+    "zh_hant": "我的搭檔查克·鮑爾，他同時也是一位實驗物理學家，"
+  },
+  {
+    "index": 40,
+    "text": "did a lot of research at Indiana University and worked for N.A.S.A.",
+    "start": 184.272,
+    "end": 188.424,
+    "zh": "在印第安纳大学做了很多研究，还为美国国家航空航天局工作过。",
+    "zh_hant": "在印第安納大學做了很多研究，還為美國國家航空航天局工作過。"
+  },
+  {
+    "index": 41,
+    "text": "He and I put our heads together to build a model that could simulate N.F.L. games from start to finish,",
+    "start": 188.805,
+    "end": 195.388,
+    "zh": "他和我联手构建了一个能从头到尾模拟N.F.L.比赛的模型，",
+    "zh_hant": "他和我聯手構建了一個能從頭到尾模擬N.F.L.比賽的模型，"
+  },
+  {
+    "index": 42,
+    "text": "running clock, penalties, the whole thing.",
+    "start": 195.038,
+    "end": 197.549,
+    "zh": "包括计时、罚球，所有细节。",
+    "zh_hant": "包括計時、罰球，所有細節。"
+  },
+  {
+    "index": 43,
+    "text": "We had a hypothesis that coaches were giving up quite a bit.",
+    "start": 197.789,
+    "end": 201.251,
+    "zh": "我们有个假设，就是教练们其实损失了不少机会。",
+    "zh_hant": "我們有個假設，就是教練們其實損失了不少機會。"
+  },
+  {
+    "index": 44,
+    "text": "It turned out after we started studying it more deeply that they were worse at it than we even thought they were.",
+    "start": 201.031,
+    "end": 208.034,
+    "zh": "结果在我们更深入研究后发现，他们在这方面的表现比我们想象的还要糟糕。",
+    "zh_hant": "結果在我們更深入研究後發現，他們在這方面的表現比我們想象的還要糟糕。"
+  },
+  {
+    "index": 45,
+    "text": "They were giving up even more.",
+    "start": 207.775,
+    "end": 209.595,
+    "zh": "他们放弃的甚至更多。",
+    "zh_hant": "他們放棄的甚至更多。"
+  },
+  {
+    "index": 46,
+    "text": "Then we got excited.",
+    "start": 209.535,
+    "end": 211.076,
+    "zh": "然后我们就兴奋了。",
+    "zh_hant": "然後我們就興奮了。"
+  },
+  {
+    "index": 47,
+    "text": "We’re like, it’s time to start knocking on some doors.",
+    "start": 210.726,
+    "end": 213.137,
+    "zh": "我们想，是时候去敲一些门了。",
+    "zh_hant": "我們想，是時候去敲一些門了。"
+  },
+  {
+    "index": 48,
+    "text": "And so how much is your model or versions of your model used in the N.F.L. today?",
+    "start": 212.797,
+    "end": 217.299,
+    "zh": "那么现在，你们的模型或者模型的变体在N.F.L.中用得多吗？",
+    "zh_hant": "那麼現在，你們的模型或者模型的變體在N.F.L.中用得多嗎？"
+  },
+  {
+    "index": 49,
+    "text": "I would say it influenced probably just about every team, some more directly, some indirectly.",
+    "start": 217.519,
+    "end": 223.362,
+    "zh": "我会说它影响了几乎所有球队，有些更直接，有些间接。",
+    "zh_hant": "我會說它影響了幾乎所有球隊，有些更直接，有些間接。"
+  },
+  {
+    "index": 50,
+    "text": "We licensed to about 12 N.F.L. teams.",
+    "start": 223.102,
+    "end": 228.284,
+    "zh": "我们授权给了大约12支N.F.L.球队。",
+    "zh_hant": "我們授權給了大約12支N.F.L.球隊。"
+  },
+  {
+    "index": 51,
+    "text": "Most famously, we worked with the Philadelphia Eagles during their Super Bowl run.",
+    "start": 228.185,
+    "end": 232.726,
+    "zh": "最著名的是，我们在费城老鹰队赢得超级碗期间与他们合作过。",
+    "zh_hant": "最著名的是，我們在費城老鷹隊贏得超級碗期間與他們合作過。"
+  },
+  {
+    "index": 52,
+    "text": "They used it religiously.",
+    "start": 232.727,
+    "end": 234.527,
+    "zh": "他们虔诚地使用这个模型。",
+    "zh_hant": "他們虔誠地使用這個模型。"
+  },
+  {
+    "index": 53,
+    "text": "We had buy-in from top to bottom, from Jeff Lurie, the owner,",
+    "start": 234.368,
+    "end": 238.009,
+    "zh": "从老板杰夫·卢里到总经理霍伊·罗斯曼，再到道格·彼得森，自上而下都全力支持。",
+    "zh_hant": "從老闆傑夫·盧裡到總經理霍伊·羅斯曼，再到道格·彼得森，自上而下都全力支援。"
+  },
+  {
+    "index": 54,
+    "text": "to Howie Roseman, the GM, to Doug Pederson.",
+    "start": 237.929,
+    "end": 241.551,
+    "zh": "也包括道格·彼得森。",
+    "zh_hant": "也包括道格·彼得森。"
+  },
+  {
+    "index": 55,
+    "text": "And also with the Kansas City Chiefs.",
+    "start": 241.572,
+    "end": 243.672,
+    "zh": "另外还有堪萨斯城酋长队。",
+    "zh_hant": "另外還有堪薩斯城酋長隊。"
+  },
+  {
+    "index": 56,
+    "text": "When you see Andy Reid on the headset during a game,",
+    "start": 243.352,
+    "end": 246.754,
+    "zh": "当你在比赛中看到安迪·里德戴着耳机时，",
+    "zh_hant": "當你在比賽中看到安迪·裡德戴著耳機時，"
+  },
+  {
+    "index": 57,
+    "text": "he’s speaking to Mike Frazier up in the booth, and Mike Frazier was consulting our model.",
+    "start": 246.404,
+    "end": 251.336,
+    "zh": "他是在和包厢里的迈克·弗雷泽说话，而迈克·弗雷泽当时正在参考我们的模型。",
+    "zh_hant": "他是在和包廂裡的邁克·弗雷澤說話，而邁克·弗雷澤當時正在參考我們的模型。"
+  },
+  {
+    "index": 58,
+    "text": "Let me back up and make sure I understand.",
+    "start": 251.476,
+    "end": 253.497,
+    "zh": "让我先确认一下我理解得没错。",
+    "zh_hant": "讓我先確認一下我理解得沒錯。"
+  },
+  {
+    "index": 59,
+    "text": "For a Philadelphia Eagles fan, let’s say, or a Kansas City Chiefs fan,",
+    "start": 253.637,
+    "end": 257.499,
+    "zh": "比如说，对于费城老鹰队的球迷或堪萨斯城酋长队的球迷来说，",
+    "zh_hant": "比如說，對於費城老鷹隊的球迷或堪薩斯城酋長隊的球迷來說，"
+  },
+  {
+    "index": 60,
+    "text": "their Super Bowl victories over the past several years, you’re saying,",
+    "start": 258.12,
+    "end": 261.421,
+    "zh": "你们是说他们过去几年赢得的超级碗胜利，",
+    "zh_hant": "你們是說他們過去幾年贏得的超級碗勝利，"
+  },
+  {
+    "index": 61,
+    "text": "are derived in some part from the application of backgammon theory?",
+    "start": 261.101,
+    "end": 266.724,
+    "zh": "部分源自西洋双陆棋理论的应用？",
+    "zh_hant": "部分源自西洋雙陸棋理論的應用？"
+  },
+  {
+    "index": 62,
+    "text": "Yes.",
+    "start": 267.064,
+    "end": 267.784,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 63,
+    "text": "Absolutely.",
+    "start": 267.784,
+    "end": 268.825,
+    "zh": "绝对如此。",
+    "zh_hant": "絕對如此。"
+  },
+  {
+    "index": 64,
+    "text": "When the Eagles adopted it, we worked very closely with their analytics staff.",
+    "start": 269.765,
+    "end": 274.527,
+    "zh": "当老鹰队采用这个模型时，我们和他们的分析团队合作得非常紧密。",
+    "zh_hant": "當老鷹隊採用這個模型時，我們和他們的分析團隊合作得非常緊密。"
+  },
+  {
+    "index": 65,
+    "text": "They had some of their own internal models, but they were basically calibrating everything off of ours because it was a lot more sophisticated.",
+    "start": 274.177,
+    "end": 280.813,
+    "zh": "他们有一些自己的内部模型，但他们基本上所有东西都以我们的模型为准进行校准，因为我们的模型要精密得多。",
+    "zh_hant": "他們有一些自己的內部模型，但他們基本上所有東西都以我們的模型為準進行校準，因為我們的模型要精密得多。"
+  },
+  {
+    "index": 66,
+    "text": "The real similarity of football to backgammon is that you",
+    "start": 281.274,
+    "end": 286.161,
+    "zh": "橄榄球和西洋双陆棋真正的相似之处在于，你",
+    "zh_hant": "橄欖球和西洋雙陸棋真正的相似之處在於，你"
+  },
+  {
+    "index": 67,
+    "text": "score in these unusual increments",
+    "start": 286.543,
+    "end": 289.08,
+    "zh": "以这些不寻常的增量得分——",
+    "zh_hant": "以這些不尋常的增量得分——"
+  },
+  {
+    "index": 68,
+    "text": "— where in games like baseball,",
+    "start": 288.68,
+    "end": 291.83,
+    "zh": "在棒球这样的比赛中，",
+    "zh_hant": "在棒球這樣的比賽中，"
+  }
+]

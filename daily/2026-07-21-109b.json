@@ -1,0 +1,970 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds, music, radio, podcasts.",
+    "start": 1.291,
+    "end": 4.912,
+    "zh": "BBC广播、音乐、电台、播客。",
+    "zh_hant": "BBC廣播、音樂、電臺、播客。"
+  },
+  {
+    "index": 1,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.493,
+    "end": 9.535,
+    "zh": "你好，感谢下载More or Less播客。",
+    "zh_hant": "你好，感謝下載More or Less播客。"
+  },
+  {
+    "index": 2,
+    "text": "We're the programme that looks at the numbers in the news, life and in that sport that definitely starts with the word foot.",
+    "start": 9.615,
+    "end": 16.338,
+    "zh": "我们这档节目关注新闻、生活以及以“foot”开头的那项运动中的数字。",
+    "zh_hant": "我們這檔節目關注新聞、生活以及以“foot”開頭的那項運動中的數字。"
+  },
+  {
+    "index": 3,
+    "text": "And I'm Lizzie McNeill.",
+    "start": 16.398,
+    "end": 17.639,
+    "zh": "我是Lizzie McNeill。",
+    "zh_hant": "我是Lizzie McNeill。"
+  },
+  {
+    "index": 4,
+    "text": "Now, unless you've been blissfully far away from any screens, radios, pubs, flags or indeed people,",
+    "start": 19.2,
+    "end": 25.943,
+    "zh": "除非你一直远离屏幕、收音机、酒吧、旗帜，甚至远离人群，",
+    "zh_hant": "除非你一直遠離螢幕、收音機、酒吧、旗幟，甚至遠離人群，"
+  },
+  {
+    "index": 5,
+    "text": "you'll have noticed that there's been a bit more football around than usual.",
+    "start": 25.903,
+    "end": 29.785,
+    "zh": "否则你会发现最近的足球比赛比平时多了不少。",
+    "zh_hant": "否則你會發現最近的足球比賽比平時多了不少。"
+  },
+  {
+    "index": 6,
+    "text": "Yes, after five weeks and over 100 matches,",
+    "start": 29.705,
+    "end": 32.846,
+    "zh": "没错，经过五周、一百多场比赛，",
+    "zh_hant": "沒錯，經過五週、一百多場比賽，"
+  },
+  {
+    "index": 7,
+    "text": "we've reached the dramatic final of the 2026 World Cup.",
+    "start": 32.666,
+    "end": 37.368,
+    "zh": "我们迎来了2026年世界杯的激动人心的决赛。",
+    "zh_hant": "我們迎來了2026年世界盃的激動人心的決賽。"
+  },
+  {
+    "index": 8,
+    "text": "Doubtless, both teams have worked extremely hard to reach this point.",
+    "start": 37.629,
+    "end": 41.631,
+    "zh": "毫无疑问，两队都付出了极大的努力才走到这一步。",
+    "zh_hant": "毫無疑問，兩隊都付出了極大的努力才走到這一步。"
+  },
+  {
+    "index": 9,
+    "text": "But loyal listener Mike Ghent got in touch to ask whether there might be another factor at play here.",
+    "start": 42.051,
+    "end": 48.755,
+    "zh": "但忠实听众Mike Ghent来信询问，是否还有其他因素在起作用。",
+    "zh_hant": "但忠實聽眾Mike Ghent來信詢問，是否還有其他因素在起作用。"
+  },
+  {
+    "index": 10,
+    "text": "And no, we don't mean interfering state leaders.",
+    "start": 48.815,
+    "end": 51.876,
+    "zh": "不，我们指的不是外界领导人的干预。",
+    "zh_hant": "不，我們指的不是外界領導人的干預。"
+  },
+  {
+    "index": 11,
+    "text": "He wanted to know about luck.",
+    "start": 52.016,
+    "end": 54.657,
+    "zh": "他想知道运气的作用。",
+    "zh_hant": "他想知道運氣的作用。"
+  },
+  {
+    "index": 12,
+    "text": "Given England and Scotland's sojourn in the World Cup, it made me think.",
+    "start": 54.978,
+    "end": 58.759,
+    "zh": "考虑到英格兰和苏格兰在世界杯的征程，这让我思考起来。",
+    "zh_hant": "考慮到英格蘭和蘇格蘭在世界盃的征程，這讓我思考起來。"
+  },
+  {
+    "index": 13,
+    "text": "How much luck do you need to win the World Cup?",
+    "start": 58.96,
+    "end": 61.501,
+    "zh": "赢得世界杯需要多少运气？",
+    "zh_hant": "贏得世界盃需要多少運氣？"
+  },
+  {
+    "index": 14,
+    "text": "Has anyone ever tried to quantify luck?",
+    "start": 61.701,
+    "end": 63.642,
+    "zh": "有没有人尝试过量化运气？",
+    "zh_hant": "有沒有人嘗試過量化運氣？"
+  },
+  {
+    "index": 15,
+    "text": "So, how important is luck in winning the World Cup?",
+    "start": 63.842,
+    "end": 67.504,
+    "zh": "那么，运气在赢得世界杯中有多重要？",
+    "zh_hant": "那麼，運氣在贏得世界盃中有多重要？"
+  },
+  {
+    "index": 16,
+    "text": "Does the better team always win, or could a worse team steal victory from the jaws of defeat?",
+    "start": 67.384,
+    "end": 73.207,
+    "zh": "更强的球队总能赢吗，还是较弱的球队能在绝境中逆转取胜？",
+    "zh_hant": "更強的球隊總能贏嗎，還是較弱的球隊能在絕境中逆轉取勝？"
+  },
+  {
+    "index": 17,
+    "text": "First of all, we need to define what we mean by luck.",
+    "start": 74.848,
+    "end": 77.849,
+    "zh": "首先，我们需要定义什么是运气。",
+    "zh_hant": "首先，我們需要定義什麼是運氣。"
+  },
+  {
+    "index": 18,
+    "text": "So, we armed ourselves with our trusty four-leaf clovers, rabbit's feet, and other totemic objects,",
+    "start": 77.769,
+    "end": 83.792,
+    "zh": "于是，我们装备了幸运四叶草、兔脚和其他具有象征意义的物件，",
+    "zh_hant": "於是，我們裝備了幸運四葉草、兔腳和其他具有象徵意義的物件，"
+  },
+  {
+    "index": 19,
+    "text": "and contacted Ian Graham, former head of research at Liverpool Football Club.",
+    "start": 83.652,
+    "end": 88.094,
+    "zh": "联系了利物浦足球俱乐部前研究主管Ian Graham。",
+    "zh_hant": "聯絡了利物浦足球俱樂部前研究主管Ian Graham。"
+  },
+  {
+    "index": 20,
+    "text": "Yeah, so genuine luck is something completely outside a team's control,",
+    "start": 87.995,
+    "end": 92.276,
+    "zh": "是的，真正的运气是球队完全无法控制的东西，",
+    "zh_hant": "是的，真正的運氣是球隊完全無法控制的東西，"
+  },
+  {
+    "index": 21,
+    "text": "but that's not usually what we think about when we think.",
+    "start": 92.117,
+    "end": 95.398,
+    "zh": "但这通常不是我们思考时的想到的概念。",
+    "zh_hant": "但這通常不是我們思考時的想到的概念。"
+  },
+  {
+    "index": 22,
+    "text": "Luck really is a shorthand for things that are difficult to predict,",
+    "start": 96.099,
+    "end": 101.561,
+    "zh": "运气其实是那些难以预测事物的代名词，",
+    "zh_hant": "運氣其實是那些難以預測事物的代名詞，"
+  },
+  {
+    "index": 23,
+    "text": "things that are difficult to control.",
+    "start": 101.221,
+    "end": 104.282,
+    "zh": "那些难以控制的事物。",
+    "zh_hant": "那些難以控制的事物。"
+  },
+  {
+    "index": 24,
+    "text": "It happens that football is one of the least predictable ball sports there is,",
+    "start": 104.083,
+    "end": 108.785,
+    "zh": "碰巧的是，足球是所有球类运动中可预测性最低的项目之一，",
+    "zh_hant": "碰巧的是，足球是所有球類運動中可預測性最低的專案之一，"
+  },
+  {
+    "index": 25,
+    "text": "and the real reason driving that is the low-scoring nature of the game.",
+    "start": 108.665,
+    "end": 112.446,
+    "zh": "而其背后的真正原因在于足球比赛的进球数较少。",
+    "zh_hant": "而其背後的真正原因在於足球比賽的進球數較少。"
+  },
+  {
+    "index": 26,
+    "text": "So in football, there's typically two point five to three goals per game,",
+    "start": 112.207,
+    "end": 117.209,
+    "zh": "足球比赛中，通常每场有2.5到3个进球，",
+    "zh_hant": "足球比賽中，通常每場有2.5到3個進球，"
+  },
+  {
+    "index": 27,
+    "text": "and whether a chance becomes a goal or not is very uncertain.",
+    "start": 117.069,
+    "end": 123.472,
+    "zh": "一个机会是否能转化为进球是高度不确定的。",
+    "zh_hant": "一個機會是否能轉化為進球是高度不確定的。"
+  },
+  {
+    "index": 28,
+    "text": "If you compare that to a game like basketball, which has hundreds of scoring events per game,",
+    "start": 123.693,
+    "end": 128.935,
+    "zh": "如果与篮球比赛相比，每场有数百次得分事件，",
+    "zh_hant": "如果與籃球比賽相比，每場有數百次得分事件，"
+  },
+  {
+    "index": 29,
+    "text": "or a game like tennis, where it has hundreds of points per tennis match,",
+    "start": 128.995,
+    "end": 133.917,
+    "zh": "或者网球比赛，每场有数百次得分机会，",
+    "zh_hant": "或者網球比賽，每場有數百次得分機會，"
+  },
+  {
+    "index": 30,
+    "text": "the low scoring nature of football leads it to being not very predictable,",
+    "start": 134.118,
+    "end": 139.16,
+    "zh": "进球少的特点使足球比赛的可预测性降低，",
+    "zh_hant": "進球少的特點使足球比賽的可預測性降低，"
+  },
+  {
+    "index": 31,
+    "text": "or we could say leads it to having a higher percentage of games",
+    "start": 139.2,
+    "end": 144.102,
+    "zh": "或者说，导致更高比例的比赛",
+    "zh_hant": "或者說，導致更高比例的比賽"
+  },
+  {
+    "index": 32,
+    "text": "whose outcome is more down to luck than down to skill.",
+    "start": 144.083,
+    "end": 147.164,
+    "zh": "其结果更依赖运气而非实力。",
+    "zh_hant": "其結果更依賴運氣而非實力。"
+  },
+  {
+    "index": 33,
+    "text": "If this is true, and it really is based on luck, then you'd expect to see the underdog win in football more so than in other sports.",
+    "start": 147.464,
+    "end": 154.648,
+    "zh": "如果这是真的，而且确实基于运气，那么你会期待在足球中看到弱队获胜的频率高于其他运动。",
+    "zh_hant": "如果這是真的，而且確實基於運氣，那麼你會期待在足球中看到弱隊獲勝的頻率高於其他運動。"
+  },
+  {
+    "index": 34,
+    "text": "So, do you?",
+    "start": 154.908,
+    "end": 156.769,
+    "zh": "那么，是这样吗？",
+    "zh_hant": "那麼，是這樣嗎？"
+  },
+  {
+    "index": 35,
+    "text": "Luckily for us, mathematician Luis Nunez-Vicente from Lehigh University ran a study to test just that.",
+    "start": 157.369,
+    "end": 164.553,
+    "zh": "幸运的是，理海大学的数学家Luis Nunez-Vicente进行了一项研究来验证这一点。",
+    "zh_hant": "幸運的是，理海大學的數學家Luis Nunez-Vicente進行了一項研究來驗證這一點。"
+  },
+  {
+    "index": 36,
+    "text": "So we basically collected a major match data set",
+    "start": 164.373,
+    "end": 169.095,
+    "zh": "我们基本收集了一个主要的比赛数据集",
+    "zh_hant": "我們基本收集了一個主要的比賽資料集"
+  },
+  {
+    "index": 37,
+    "text": "with more than 5,000 matches, involving 12 sports,",
+    "start": 168.855,
+    "end": 173.777,
+    "zh": "包含超过5000场比赛，涉及12种运动，",
+    "zh_hant": "包含超過5000場比賽，涉及12種運動，"
+  },
+  {
+    "index": 38,
+    "text": "all the competitions, World Cups and Olympics, since 1970 until 2023.",
+    "start": 174.158,
+    "end": 181.111,
+    "zh": "包括自1970年至2023年的所有比赛、世界杯和奥运会。",
+    "zh_hant": "包括自1970年至2023年的所有比賽、世界盃和奧運會。"
+  },
+  {
+    "index": 39,
+    "text": "And these were 12 ball sports.",
+    "start": 181.161,
+    "end": 183.582,
+    "zh": "这都是12种球类运动。",
+    "zh_hant": "這都是12種球類運動。"
+  },
+  {
+    "index": 40,
+    "text": "Then we also developed what we mean by weak in a match.",
+    "start": 183.543,
+    "end": 186.584,
+    "zh": "然后我们定义了比赛中“弱队”的标准。",
+    "zh_hant": "然後我們定義了比賽中“弱隊”的標準。"
+  },
+  {
+    "index": 41,
+    "text": "A team is weak if it is a certain number of positions that we calculated statistically below its opponent.",
+    "start": 186.424,
+    "end": 193.187,
+    "zh": "如果一支球队在统计上比对手落后一定数量的排名，那么它就是弱队。",
+    "zh_hant": "如果一支球隊在統計上比對手落後一定數量的排名，那麼它就是弱隊。"
+  },
+  {
+    "index": 42,
+    "text": "And then we come up with an underdog achievement, just by summing all the wins and the ties of the weak teams,",
+    "start": 193.207,
+    "end": 199.35,
+    "zh": "然后我们统计了弱队的胜利和平局总数，",
+    "zh_hant": "然後我們統計了弱隊的勝利和平局總數，"
+  },
+  {
+    "index": 43,
+    "text": "divided by all the matches played by the weak teams.",
+    "start": 199.0,
+    "end": 202.692,
+    "zh": "除以弱队参加的所有比赛场次。",
+    "zh_hant": "除以弱隊參加的所有比賽場次。"
+  },
+  {
+    "index": 44,
+    "text": "And that gave us a score, an underdog achievement score.",
+    "start": 202.672,
+    "end": 206.154,
+    "zh": "这给我们一个分数，即弱队成就分数。",
+    "zh_hant": "這給我們一個分數，即弱隊成就分數。"
+  },
+  {
+    "index": 45,
+    "text": "And what were the results?",
+    "start": 206.134,
+    "end": 207.975,
+    "zh": "结果如何？",
+    "zh_hant": "結果如何？"
+  },
+  {
+    "index": 46,
+    "text": "We came up with two major conclusions.",
+    "start": 207.815,
+    "end": 210.116,
+    "zh": "我们得出了两个主要结论。",
+    "zh_hant": "我們得出了兩個主要結論。"
+  },
+  {
+    "index": 47,
+    "text": "One is that indeed soccer is one of the sports with the highest underdog achievement,",
+    "start": 210.096,
+    "end": 215.378,
+    "zh": "一是篮球确实是弱队成就最高的运动之一，",
+    "zh_hant": "一是籃球確實是弱隊成就最高的運動之一，"
+  },
+  {
+    "index": 48,
+    "text": "and secondly, it's one of the sports where there's a great influence of randomness, meaning luck.",
+    "start": 215.579,
+    "end": 222.022,
+    "zh": "其次，它是受随机性（即运气）影响很大的运动之一。",
+    "zh_hant": "其次，它是受隨機性（即運氣）影響很大的運動之一。"
+  },
+  {
+    "index": 49,
+    "text": "So how does that all play out in a tournament like the World Cup?",
+    "start": 222.422,
+    "end": 226.204,
+    "zh": "那么这在世界杯这类锦标赛中是如何体现的呢？",
+    "zh_hant": "那麼這在世界盃這類錦標賽中是如何體現的呢？"
+  },
+  {
+    "index": 50,
+    "text": "Is it a bookie's dream, or luck above all else?",
+    "start": 226.244,
+    "end": 229.285,
+    "zh": "这是庄家的梦想，还是运气至上？",
+    "zh_hant": "這是莊家的夢想，還是運氣至上？"
+  },
+  {
+    "index": 51,
+    "text": "Well, according to David Sumpter, Professor of Applied Mathematics at Uppsala University, Yeah, kind of.",
+    "start": 229.285,
+    "end": 236.809,
+    "zh": "根据乌普萨拉大学应用数学教授David Sumpter的说法，是的，有点。",
+    "zh_hant": "根據烏普薩拉大學應用數學教授David Sumpter的說法，是的，有點。"
+  },
+  {
+    "index": 52,
+    "text": "And when I work together with football clubs, what I'll do is I'll say, you really can't tell anything from a single match.",
+    "start": 237.029,
+    "end": 243.973,
+    "zh": "当我和足球俱乐部合作时，我会告诉他们，单一场比赛看不出什么。",
+    "zh_hant": "當我和足球俱樂部合作時，我會告訴他們，單一場比賽看不出什麼。"
+  },
+  {
+    "index": 53,
+    "text": "We always work on the principle of looking at five matches, and only after you've got five matches, really,",
+    "start": 243.693,
+    "end": 250.456,
+    "zh": "我们总是以五场比赛为参考原则，只有在打了五场比赛之后，",
+    "zh_hant": "我們總是以五場比賽為參考原則，只有在打了五場比賽之後，"
+  },
+  {
+    "index": 54,
+    "text": "can you draw any conclusions about how well the team are performing.",
+    "start": 250.106,
+    "end": 253.458,
+    "zh": "才能对球队的表现得出一些结论。",
+    "zh_hant": "才能對球隊的表現得出一些結論。"
+  },
+  {
+    "index": 55,
+    "text": "And in a World Cup setting, that's a very difficult truth,",
+    "start": 253.778,
+    "end": 257.9,
+    "zh": "在世界杯的背景下，这是一个很难接受的现实情况，",
+    "zh_hant": "在世界盃的背景下，這是一個很難接受的現實情況，"
+  },
+  {
+    "index": 56,
+    "text": "because if you think about the last thirty-two down to the final, that's just five matches as well.",
+    "start": 257.55,
+    "end": 262.742,
+    "zh": "因为从32强到决赛，也只有五场比赛。",
+    "zh_hant": "因為從32強到決賽，也只有五場比賽。"
+  },
+  {
+    "index": 57,
+    "text": "So, we really can't...",
+    "start": 262.722,
+    "end": 264.083,
+    "zh": "所以，我们确实无法……",
+    "zh_hant": "所以，我們確實無法……"
+  },
+  {
+    "index": 58,
+    "text": "Tell which are the best teams over those five matches,",
+    "start": 263.733,
+    "end": 267.424,
+    "zh": "在这五场比赛中分辨出哪支球队最好，",
+    "zh_hant": "在這五場比賽中分辨出哪支球隊最好，"
+  },
+  {
+    "index": 59,
+    "text": "and a bit of randomness can knock out any one of those teams.",
+    "start": 267.265,
+    "end": 271.546,
+    "zh": "而一点点随机性就可能淘汰这些球队中的任何一支。",
+    "zh_hant": "而一點點隨機性就可能淘汰這些球隊中的任何一支。"
+  },
+  {
+    "index": 60,
+    "text": "So randomness is really the rule rather than the exception.",
+    "start": 271.827,
+    "end": 275.688,
+    "zh": "因此，随机性其实是常态，而非例外。",
+    "zh_hant": "因此，隨機性其實是常態，而非例外。"
+  },
+  {
+    "index": 61,
+    "text": "So even if you are a highly skilled team, there are plenty of opportunities to be unlucky over five matches.",
+    "start": 275.769,
+    "end": 282.672,
+    "zh": "即使你是一支技术高超的球队，在五场比赛中有很多机会运气不佳。",
+    "zh_hant": "即使你是一支技術高超的球隊，在五場比賽中有很多機會運氣不佳。"
+  },
+  {
+    "index": 62,
+    "text": "My estimate would be, if you're the best team in the tournament,",
+    "start": 282.573,
+    "end": 286.214,
+    "zh": "我的估计是，如果你是锦标赛中最好的球队，",
+    "zh_hant": "我的估計是，如果你是錦標賽中最好的球隊，"
+  },
+  {
+    "index": 63,
+    "text": "you have a 20-25% chance of actually winning that tournament.",
+    "start": 286.194,
+    "end": 291.697,
+    "zh": "你实际赢得锦标赛的概率约为20%到25%。",
+    "zh_hant": "你實際贏得錦標賽的機率約為20%到25%。"
+  },
+  {
+    "index": 64,
+    "text": "So you can think you do need 75% luck.",
+    "start": 291.797,
+    "end": 295.719,
+    "zh": "所以你可以认为，你确实需要75%的运气。",
+    "zh_hant": "所以你可以認為，你確實需要75%的運氣。"
+  },
+  {
+    "index": 65,
+    "text": "If you're going to win the tournament, so to answer our listener's question,",
+    "start": 295.639,
+    "end": 298.96,
+    "zh": "如果你想要赢得锦标赛，那么回答听众的问题就是，",
+    "zh_hant": "如果你想要贏得錦標賽，那麼回答聽眾的問題就是，"
+  },
+  {
+    "index": 66,
+    "text": "you need a lot of luck in order to win the World Cup.",
+    "start": 298.881,
+    "end": 302.542,
+    "zh": "赢得世界杯需要大量的运气。",
+    "zh_hant": "贏得世界盃需要大量的運氣。"
+  },
+  {
+    "index": 67,
+    "text": "Despite all the randomness at play, in this year's World Cup, there were still no underdogs in the semi-finals.",
+    "start": 303.643,
+    "end": 310.206,
+    "zh": "尽管存在诸多随机因素，但今年的世界杯半决赛仍然没有弱队。",
+    "zh_hant": "儘管存在諸多隨機因素，但今年的世界盃半決賽仍然沒有弱隊。"
+  },
+  {
+    "index": 68,
+    "text": "The last four teams in the tournament were all the highest ranked ones.",
+    "start": 310.146,
+    "end": 314.368,
+    "zh": "最后的四支球队都是排名最高的。",
+    "zh_hant": "最後的四支球隊都是排名最高的。"
+  },
+  {
+    "index": 69,
+    "text": "Could that be evidence that football is not so random after all?",
+    "start": 314.448,
+    "end": 318.33,
+    "zh": "这是否证明足球并非那么随机？",
+    "zh_hant": "這是否證明足球並非那麼隨機？"
+  },
+  {
+    "index": 70,
+    "text": "Yes and no.",
+    "start": 318.43,
+    "end": 319.591,
+    "zh": "有道理，也不完全对。",
+    "zh_hant": "有道理，也不完全對。"
+  },
+  {
+    "index": 71,
+    "text": "So I think this tournament's the first one where seeding has been in place that keeps the best teams apart",
+    "start": 319.631,
+    "end": 326.694,
+    "zh": "我认为这次锦标赛是第一次通过种子排位将强队分开，",
+    "zh_hant": "我認為這次錦標賽是第一次透過種子排位將強隊分開，"
+  },
+  {
+    "index": 72,
+    "text": "until the semi-finals.",
+    "start": 326.414,
+    "end": 328.375,
+    "zh": "直到半决赛才相遇。",
+    "zh_hant": "直到半決賽才相遇。"
+  },
+  {
+    "index": 73,
+    "text": "So it's hard to compare with previous tournaments.",
+    "start": 329.336,
+    "end": 334.038,
+    "zh": "所以很难与之前的锦标赛进行比较。",
+    "zh_hant": "所以很難與之前的錦標賽進行比較。"
+  },
+  {
+    "index": 74,
+    "text": "That being said, it's pretty unusual that this was the result.",
+    "start": 334.118,
+    "end": 339.921,
+    "zh": "尽管如此，这样的结果也相当罕见。",
+    "zh_hant": "儘管如此，這樣的結果也相當罕見。"
+  },
+  {
+    "index": 75,
+    "text": "So we simulated the tournament 100,000 times.",
+    "start": 340.921,
+    "end": 345.883,
+    "zh": "我们模拟了10万次锦标赛。",
+    "zh_hant": "我們模擬了10萬次錦標賽。"
+  },
+  {
+    "index": 76,
+    "text": "We found the most likely set of semi-finalists was the set of semi-finalists that was observed.",
+    "start": 345.704,
+    "end": 353.047,
+    "zh": "我们发现最可能出现的半决赛组合就是实际观察到的这一组。",
+    "zh_hant": "我們發現最可能出現的半決賽組合就是實際觀察到的這一組。"
+  },
+  {
+    "index": 77,
+    "text": "But we also found there's only about a 0.9% chance that all four of those teams",
+    "start": 352.747,
+    "end": 359.351,
+    "zh": "但我们还发现，这四支球队全部进入半决赛的概率只有约0.9%",
+    "zh_hant": "但我們還發現，這四支球隊全部進入半決賽的機率只有約0.9%"
+  },
+  {
+    "index": 78,
+    "text": "Would qualify for the semi-finals.",
+    "start": 359.001,
+    "end": 361.532,
+    "zh": "能够晋级半决赛。",
+    "zh_hant": "能夠晉級半決賽。"
+  },
+  {
+    "index": 79,
+    "text": "But what about our listeners' other question?",
+    "start": 362.172,
+    "end": 364.513,
+    "zh": "那听众的另一个问题呢？",
+    "zh_hant": "那聽眾的另一個問題呢？"
+  },
+  {
+    "index": 80,
+    "text": "How do we quantify luck and separate it from skill?",
+    "start": 364.713,
+    "end": 368.375,
+    "zh": "我们如何量化运气并将其与技巧区分开？",
+    "zh_hant": "我們如何量化運氣並將其與技巧區分開？"
+  },
+  {
+    "index": 81,
+    "text": "Well, one way to measure this is XG.",
+    "start": 368.295,
+    "end": 371.136,
+    "zh": "一种衡量方法就是XG。",
+    "zh_hant": "一種衡量方法就是XG。"
+  },
+  {
+    "index": 82,
+    "text": "So XG stands for expected goals.",
+    "start": 371.417,
+    "end": 374.198,
+    "zh": "XG代表预期进球数。",
+    "zh_hant": "XG代表預期進球數。"
+  },
+  {
+    "index": 83,
+    "text": "It's one of the worst names in sport.",
+    "start": 374.258,
+    "end": 377.679,
+    "zh": "这是体育界最糟糕的名称之一。",
+    "zh_hant": "這是體育界最糟糕的名稱之一。"
+  },
+  {
+    "index": 84,
+    "text": "Think of it as chance quality.",
+    "start": 377.68,
+    "end": 380.341,
+    "zh": "可以将其看作机会质量。",
+    "zh_hant": "可以將其看作機會質量。"
+  },
+  {
+    "index": 85,
+    "text": "So there's a very low number of goals in football,",
+    "start": 380.721,
+    "end": 384.543,
+    "zh": "足球比赛中进球数很少，",
+    "zh_hant": "足球比賽中進球數很少，"
+  },
+  {
+    "index": 86,
+    "text": "so in order to get more data about each game, you can look at the number of shots each team takes.",
+    "start": 384.363,
+    "end": 390.206,
+    "zh": "因此为了获取更多关于每场比赛的数据，可以看每支球队的射门次数。",
+    "zh_hant": "因此為了獲取更多關於每場比賽的資料，可以看每支球隊的射門次數。"
+  },
+  {
+    "index": 87,
+    "text": "Each team takes about ten times the number Of shots than there are goals in a game.",
+    "start": 390.366,
+    "end": 395.488,
+    "zh": "每支球队的射门次数大约是进球数的十倍。",
+    "zh_hant": "每支球隊的射門次數大約是進球數的十倍。"
+  },
+  {
+    "index": 88,
+    "text": "Or, in other words, each shot only has a 1 in 10 chance of becoming a goal.",
+    "start": 395.308,
+    "end": 400.691,
+    "zh": "换句话说，每次射门只有十分之一的概率转化为进球。",
+    "zh_hant": "換句話說，每次射門只有十分之一的機率轉化為進球。"
+  },
+  {
+    "index": 89,
+    "text": "But not all shots are created equal.",
+    "start": 400.812,
+    "end": 403.633,
+    "zh": "但并非所有射门都是平等的。",
+    "zh_hant": "但並非所有射門都是平等的。"
+  },
+  {
+    "index": 90,
+    "text": "So a penalty's got about a 78% chance of being converted.",
+    "start": 403.813,
+    "end": 408.495,
+    "zh": "点球大约有78%的概率被罚进。",
+    "zh_hant": "點球大約有78%的機率被罰進。"
+  },
+  {
+    "index": 91,
+    "text": "A typical shot from open play's got an 11% chance of being converted.",
+    "start": 408.655,
+    "end": 414.078,
+    "zh": "一般情况下，运动战中的普通射门有11%的转化率。",
+    "zh_hant": "一般情況下，運動戰中的普通射門有11%的轉化率。"
+  },
+  {
+    "index": 92,
+    "text": "And then a generic shot from open play on the penalty spot's got about a 20% conversion chance.",
+    "start": 413.918,
+    "end": 420.641,
+    "zh": "而运动战中的点球点附近的普通射门，转化率约为20%。",
+    "zh_hant": "而運動戰中的點球點附近的普通射門，轉化率約為20%。"
+  },
+  {
+    "index": 93,
+    "text": "Each time a team takes a shot, you look at the chance that the shot would have gone in,",
+    "start": 420.421,
+    "end": 424.683,
+    "zh": "每当球队射门时，根据射门位置，",
+    "zh_hant": "每當球隊射門時，根據射門位置，"
+  },
+  {
+    "index": 94,
+    "text": "depending on where it's taken from, and you add it to the total xG.",
+    "start": 424.583,
+    "end": 428.565,
+    "zh": "你会估算进球的概率，并将其累加到总的xG中。",
+    "zh_hant": "你會估算進球的機率，並將其累加到總的xG中。"
+  },
+  {
+    "index": 95,
+    "text": "The final xG then tells you how many opportunities that team made to score,",
+    "start": 429.045,
+    "end": 434.488,
+    "zh": "最终的xG告诉你该队创造了多少次得分机会，",
+    "zh_hant": "最終的xG告訴你該隊創造了多少次得分機會，"
+  },
+  {
+    "index": 96,
+    "text": "regardless of whether the cards fell in their favor and the shot became a goal.",
+    "start": 434.388,
+    "end": 438.99,
+    "zh": "无论这些机会是否因运气转化成了进球。",
+    "zh_hant": "無論這些機會是否因運氣轉化成了進球。"
+  },
+  {
+    "index": 97,
+    "text": "The team with the highest xG doesn't always win the game, but they will have had the most opportunities.",
+    "start": 439.011,
+    "end": 445.494,
+    "zh": "xG最高的球队并不总是获胜，但他们会有最多的机会。",
+    "zh_hant": "xG最高的球隊並不總是獲勝，但他們會有最多的機會。"
+  },
+  {
+    "index": 98,
+    "text": "Because of the randomness of football, the most reliable...",
+    "start": 445.414,
+    "end": 448.135,
+    "zh": "由于足球的随机性，最可靠的……",
+    "zh_hant": "由於足球的隨機性，最可靠的……"
+  },
+  {
+    "index": 99,
+    "text": "The most reliable thing a player can do is to create chances to be lucky.",
+    "start": 447.785,
+    "end": 451.877,
+    "zh": "球员能做的最可靠的事情就是创造机会来获得运气。",
+    "zh_hant": "球員能做的最可靠的事情就是創造機會來獲得運氣。"
+  },
+  {
+    "index": 100,
+    "text": "Although, as David Sumpter says, this isn't how the players are thinking about it.",
+    "start": 452.097,
+    "end": 457.019,
+    "zh": "不过，正如David Sumpter所说，球员们不是这样想的。",
+    "zh_hant": "不過，正如David Sumpter所說，球員們不是這樣想的。"
+  },
+  {
+    "index": 101,
+    "text": "For them, it can't come down to luck.",
+    "start": 456.859,
+    "end": 458.94,
+    "zh": "对他们来说，不能归结为运气。",
+    "zh_hant": "對他們來說，不能歸結為運氣。"
+  },
+  {
+    "index": 102,
+    "text": "They have to fight to do their best.",
+    "start": 458.59,
+    "end": 462.302,
+    "zh": "他们必须全力以赴。",
+    "zh_hant": "他們必須全力以赴。"
+  },
+  {
+    "index": 103,
+    "text": "But despite them all doing deterministic things, they're kicking this spherical object around,",
+    "start": 462.642,
+    "end": 469.966,
+    "zh": "尽管他们都在做确定的事情，踢着这个球形物体，",
+    "zh_hant": "儘管他們都在做確定的事情，踢著這個球形物體，"
+  },
+  {
+    "index": 104,
+    "text": "which starts to bounce around in some way that is better modeled as random.",
+    "start": 469.846,
+    "end": 474.568,
+    "zh": "而这个物体的弹跳方式最好被建模为随机。",
+    "zh_hant": "而這個物體的彈跳方式最好被建模為隨機。"
+  },
+  {
+    "index": 105,
+    "text": "There's lots of collisions with the ball, bump, bump, bump, bump, and then the randomness is generated.",
+    "start": 474.228,
+    "end": 479.871,
+    "zh": "球有很多碰撞，砰砰砰砰，然后随机性就产生了。",
+    "zh_hant": "球有很多碰撞，砰砰砰砰，然後隨機性就產生了。"
+  },
+  {
+    "index": 106,
+    "text": "And despite all of their best intentions to try and win, that randomness is always going to keep coming back to you.",
+    "start": 479.991,
+    "end": 486.774,
+    "zh": "尽管他们抱着最好的意图去争取胜利，但随机性总会找上你。",
+    "zh_hant": "儘管他們抱著最好的意圖去爭取勝利，但隨機性總會找上你。"
+  },
+  {
+    "index": 107,
+    "text": "can think of chaos theory and the weather,",
+    "start": 486.835,
+    "end": 489.756,
+    "zh": "可以想想混沌理论和天气，",
+    "zh_hant": "可以想想混沌理論和天氣，"
+  },
+  {
+    "index": 108,
+    "text": "and you can think of how long we can predict the weather into the future.",
+    "start": 489.756,
+    "end": 493.998,
+    "zh": "想想我们能预测多远未来的天气。",
+    "zh_hant": "想想我們能預測多遠未來的天氣。"
+  },
+  {
+    "index": 109,
+    "text": "And nowadays, we can predict the weather.",
+    "start": 493.648,
+    "end": 495.599,
+    "zh": "如今，我们可以预测天气。",
+    "zh_hant": "如今，我們可以預測天氣。"
+  },
+  {
+    "index": 110,
+    "text": "Despite the weather being chaotic, we can predict it about three days into the future.",
+    "start": 495.249,
+    "end": 499.681,
+    "zh": "尽管天气是混沌的，我们也能预测大约三天后的情况。",
+    "zh_hant": "儘管天氣是混沌的，我們也能預測大約三天後的情況。"
+  },
+  {
+    "index": 111,
+    "text": "In a football match, you can only predict about eight, nine, ten seconds into the future.",
+    "start": 499.981,
+    "end": 506.164,
+    "zh": "在足球比赛中，你只能预测大约八、九、十秒后的情况。",
+    "zh_hant": "在足球比賽中，你只能預測大約八、九、十秒後的情況。"
+  },
+  {
+    "index": 112,
+    "text": "It's pretty much random after those ten seconds.",
+    "start": 505.984,
+    "end": 509.365,
+    "zh": "超过十秒基本就是随机的了。",
+    "zh_hant": "超過十秒基本就是隨機的了。"
+  },
+  {
+    "index": 113,
+    "text": "So there's just this really high degree of randomness all of the time.",
+    "start": 509.015,
+    "end": 513.688,
+    "zh": "所以，始终存在高度的随机性。",
+    "zh_hant": "所以，始終存在高度的隨機性。"
+  },
+  {
+    "index": 114,
+    "text": "With those underlying scoring rates, together produces very random outcomes for the matches.",
+    "start": 513.748,
+    "end": 520.092,
+    "zh": "这些潜在的进球率结合起来，导致比赛结果非常随机。",
+    "zh_hant": "這些潛在的進球率結合起來，導致比賽結果非常隨機。"
+  },
+  {
+    "index": 115,
+    "text": "Our thanks to Ian Graham, author of How to Win the Premier League,",
+    "start": 520.153,
+    "end": 523.575,
+    "zh": "感谢《如何赢得英超联赛》的作者Ian Graham，",
+    "zh_hant": "感謝《如何贏得英超聯賽》的作者Ian Graham，"
+  },
+  {
+    "index": 116,
+    "text": "David Sumpter, author of Soccermatics, and Luis Nunez-Vincente.",
+    "start": 523.415,
+    "end": 528.199,
+    "zh": "《足球数学》的作者David Sumpter，以及Luis Nunez-Vicente。",
+    "zh_hant": "《足球數學》的作者David Sumpter，以及Luis Nunez-Vicente。"
+  },
+  {
+    "index": 117,
+    "text": "And that is all we have time for this week.",
+    "start": 528.66,
+    "end": 531.242,
+    "zh": "本周我们就谈到这里。",
+    "zh_hant": "本週我們就談到這裡。"
+  },
+  {
+    "index": 118,
+    "text": "We'll be back next week, but if you've seen a number you think we should take a look at,",
+    "start": 530.892,
+    "end": 534.585,
+    "zh": "下周再见，但如果你看到一个我们该关注的数字，请发送邮件至moreorless@bbc.co.uk。",
+    "zh_hant": "下週再見，但如果你看到一個我們該關注的數字，請傳送郵件至moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 119,
+    "text": "email us at moreorless@bbc.co.uk.",
+    "start": 534.345,
+    "end": 538.268,
+    "zh": "发送邮件至moreorless@bbc.co.uk。",
+    "zh_hant": "傳送郵件至moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 120,
+    "text": "Until next week, goodbye.",
+    "start": 538.429,
+    "end": 540.47,
+    "zh": "下周见，再见。",
+    "zh_hant": "下週見，再見。"
+  }
+]

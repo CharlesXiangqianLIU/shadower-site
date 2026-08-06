@@ -1,0 +1,946 @@
+[
+  {
+    "index": 0,
+    "text": "Hello, and thanks for downloading the More or Less podcast,",
+    "start": 5.931,
+    "end": 9.272,
+    "zh": "你好，感谢下载《或多或少》播客。",
+    "zh_hant": "你好，感謝下載《或多或少》播客。"
+  },
+  {
+    "index": 1,
+    "text": "with a programme that looks at the numbers known, the numbers unknown, and a known unknown number of numbers.",
+    "start": 9.192,
+    "end": 14.454,
+    "zh": "本期节目关注已知的数字、未知的数字，以及已知未知的众多数字。",
+    "zh_hant": "本期節目關注已知的數字、未知的數字，以及已知未知的眾多數字。"
+  },
+  {
+    "index": 2,
+    "text": "And I'm Tim Harford.",
+    "start": 14.275,
+    "end": 15.595,
+    "zh": "我是蒂姆·哈福德。",
+    "zh_hant": "我是蒂姆·哈福德。"
+  },
+  {
+    "index": 3,
+    "text": "On the 17th of May, the World Health Organisation declared that a new outbreak of the Ebola virus",
+    "start": 17.196,
+    "end": 23.059,
+    "zh": "5月17日，世界卫生组织宣布刚果民主共和国新一轮埃博拉病毒疫情为国际紧急事件。",
+    "zh_hant": "5月17日，世界衛生組織宣佈剛果民主共和國新一輪埃博拉病毒疫情為國際緊急事件。"
+  },
+  {
+    "index": 4,
+    "text": "in the Democratic Republic of the Congo was an international emergency.",
+    "start": 22.709,
+    "end": 27.381,
+    "zh": "这一宣布针对的是刚果民主共和国爆发的埃博拉疫情。",
+    "zh_hant": "這一宣佈針對的是剛果民主共和國爆發的埃博拉疫情。"
+  },
+  {
+    "index": 5,
+    "text": "Ebola virus is an extremely nasty viral disease with a high death rate.",
+    "start": 27.701,
+    "end": 32.523,
+    "zh": "埃博拉病毒是一种非常凶险的病毒性疾病，死亡率很高。",
+    "zh_hant": "埃博拉病毒是一種非常兇險的病毒性疾病，死亡率很高。"
+  },
+  {
+    "index": 6,
+    "text": "But despite the severity, little is known about the number of infections in this current outbreak,",
+    "start": 32.544,
+    "end": 38.906,
+    "zh": "但尽管疫情严重，目前这轮疫情的确切感染人数却知之甚少。",
+    "zh_hant": "但儘管疫情嚴重，目前這輪疫情的確切感染人數卻知之甚少。"
+  },
+  {
+    "index": 7,
+    "text": "in part because this particular species of Ebola is a rare one.",
+    "start": 39.027,
+    "end": 43.409,
+    "zh": "部分原因是这种特定的埃博拉病毒种类十分罕见。",
+    "zh_hant": "部分原因是這種特定的埃博拉病毒種類十分罕見。"
+  },
+  {
+    "index": 8,
+    "text": "Loyal listener Richard Ellis got in touch after reading a BBC News article that said",
+    "start": 43.649,
+    "end": 48.432,
+    "zh": "忠实听众理查德·埃利斯在读到一篇BBC新闻文章后联系了我们，文章称",
+    "zh_hant": "忠實聽眾理查德·埃利斯在讀到一篇BBC新聞文章後聯絡了我們，文章稱"
+  },
+  {
+    "index": 9,
+    "text": "modelling by the MRC Centre for Global Infectious Disease Analysis suggested",
+    "start": 48.412,
+    "end": 54.214,
+    "zh": "英国医学研究委员会全球传染病分析中心的建模分析表明",
+    "zh_hant": "英國醫學研究委員會全球傳染病分析中心的建模分析表明"
+  },
+  {
+    "index": 10,
+    "text": "there had been a significant under-detection of Ebola cases.",
+    "start": 53.864,
+    "end": 58.396,
+    "zh": "埃博拉病例存在大量漏报的情况。",
+    "zh_hant": "埃博拉病例存在大量漏報的情況。"
+  },
+  {
+    "index": 11,
+    "text": "They stated the true number could be over a thousand.",
+    "start": 58.557,
+    "end": 62.198,
+    "zh": "他们表示真实病例数可能超过一千例。",
+    "zh_hant": "他們表示真實病例數可能超過一千例。"
+  },
+  {
+    "index": 12,
+    "text": "Richard was curious about how they came to these numbers.",
+    "start": 62.239,
+    "end": 65.82,
+    "zh": "理查德好奇他们是如何得出这些数字的。",
+    "zh_hant": "理查德好奇他們是如何得出這些數字的。"
+  },
+  {
+    "index": 13,
+    "text": "I'd love to understand more about how this kind of disease modelling works.",
+    "start": 65.72,
+    "end": 69.822,
+    "zh": "我很想更深入地了解这种疾病建模是如何运作的。",
+    "zh_hant": "我很想更深入地瞭解這種疾病建模是如何運作的。"
+  },
+  {
+    "index": 14,
+    "text": "I mean, how do researchers estimate the number of unreported cases,",
+    "start": 69.472,
+    "end": 74.184,
+    "zh": "我的意思是，研究人员如何估算未报告病例的数量？",
+    "zh_hant": "我的意思是，研究人員如何估算未報告病例的數量？"
+  },
+  {
+    "index": 15,
+    "text": "and how reliable are these models likely to be in practice?",
+    "start": 73.834,
+    "end": 77.746,
+    "zh": "而这些模型在实际中的可靠性又如何？",
+    "zh_hant": "而這些模型在實際中的可靠性又如何？"
+  },
+  {
+    "index": 16,
+    "text": "I'm also curious about what it means if the true number of cases is already much higher than reported.",
+    "start": 77.806,
+    "end": 85.07,
+    "zh": "我还很好奇，如果真实病例数已经远高于报告数字，这意味着什么。",
+    "zh_hant": "我還很好奇，如果真實病例數已經遠高於報告數字，這意味著什麼。"
+  },
+  {
+    "index": 17,
+    "text": "To answer Richard's questions, we spoke to Dr Ruth McCabe.",
+    "start": 85.15,
+    "end": 88.852,
+    "zh": "为了回答理查德的问题，我们采访了露丝·麦凯布博士。",
+    "zh_hant": "為了回答理查德的問題，我們採訪了露絲·麥凱布博士。"
+  },
+  {
+    "index": 18,
+    "text": "She's an infectious disease epidemiologist at Imperial College London,",
+    "start": 88.712,
+    "end": 93.214,
+    "zh": "她是伦敦帝国理工学院的传染病流行病学家。",
+    "zh_hant": "她是倫敦帝國理工學院的傳染病流行病學家。"
+  },
+  {
+    "index": 19,
+    "text": "and she worked on the modelling behind Those estimates.",
+    "start": 93.114,
+    "end": 96.095,
+    "zh": "她参与了这些估算背后的建模工作。",
+    "zh_hant": "她參與了這些估算背後的建模工作。"
+  },
+  {
+    "index": 20,
+    "text": "Let's start with what we know.",
+    "start": 96.996,
+    "end": 98.637,
+    "zh": "让我们从已知的情况说起。",
+    "zh_hant": "讓我們從已知的情況說起。"
+  },
+  {
+    "index": 21,
+    "text": "Ebola is an incredibly serious disease.",
+    "start": 99.097,
+    "end": 102.278,
+    "zh": "埃博拉是一种极其严重的疾病。",
+    "zh_hant": "埃博拉是一種極其嚴重的疾病。"
+  },
+  {
+    "index": 22,
+    "text": "It's what we would call a viral haemorrhagic fever.",
+    "start": 101.928,
+    "end": 105.02,
+    "zh": "我们称之为病毒性出血热。",
+    "zh_hant": "我們稱之為病毒性出血熱。"
+  },
+  {
+    "index": 23,
+    "text": "It typically has quite a high mortality,",
+    "start": 105.22,
+    "end": 108.361,
+    "zh": "它通常具有相当高的死亡率。",
+    "zh_hant": "它通常具有相當高的死亡率。"
+  },
+  {
+    "index": 24,
+    "text": "and it spreads through contact with bodily fluids from an infected person,",
+    "start": 108.482,
+    "end": 113.984,
+    "zh": "它通过接触感染者的体液传播。",
+    "zh_hant": "它透過接觸感染者的體液傳播。"
+  },
+  {
+    "index": 25,
+    "text": "bodily fluids including sweat, saliva, and blood.",
+    "start": 113.964,
+    "end": 117.406,
+    "zh": "体液包括汗液、唾液和血液。",
+    "zh_hant": "體液包括汗液、唾液和血液。"
+  },
+  {
+    "index": 26,
+    "text": "So one of the ways in which it can transmit,",
+    "start": 117.406,
+    "end": 120.267,
+    "zh": "因此，它传播的途径之一，",
+    "zh_hant": "因此，它傳播的途徑之一，"
+  },
+  {
+    "index": 27,
+    "text": "for example, is if there's not strict infection prevention measures in hospitals.",
+    "start": 119.917,
+    "end": 126.151,
+    "zh": "例如，如果医院没有严格的感染预防措施。",
+    "zh_hant": "例如，如果醫院沒有嚴格的感染預防措施。"
+  },
+  {
+    "index": 28,
+    "text": "So, for example, if bedsheets aren't changed between patients,",
+    "start": 125.801,
+    "end": 129.112,
+    "zh": "比如，如果病人之间不更换床单，",
+    "zh_hant": "比如，如果病人之間不更換床單，"
+  },
+  {
+    "index": 29,
+    "text": "that is one way in which Ebola could be transmitted.",
+    "start": 129.052,
+    "end": 132.854,
+    "zh": "这就是埃博拉传播的一种方式。",
+    "zh_hant": "這就是埃博拉傳播的一種方式。"
+  },
+  {
+    "index": 30,
+    "text": "There are six species of Ebola virus, four of which can infect humans.",
+    "start": 132.874,
+    "end": 137.916,
+    "zh": "埃博拉病毒有六个物种，其中四个可以感染人类。",
+    "zh_hant": "埃博拉病毒有六個物種，其中四個可以感染人類。"
+  },
+  {
+    "index": 31,
+    "text": "Only one has a vaccine available.",
+    "start": 138.057,
+    "end": 140.558,
+    "zh": "只有一种有可用的疫苗。",
+    "zh_hant": "只有一種有可用的疫苗。"
+  },
+  {
+    "index": 32,
+    "text": "This species does not.",
+    "start": 140.578,
+    "end": 142.599,
+    "zh": "这种物种没有。",
+    "zh_hant": "這種物種沒有。"
+  },
+  {
+    "index": 33,
+    "text": "This outbreak of Ebola that we're seeing just now is caused by the Bundabugio species of Ebola.",
+    "start": 142.579,
+    "end": 148.682,
+    "zh": "我们目前看到的这轮埃博拉疫情是由本迪布焦埃博拉物种引起的。",
+    "zh_hant": "我們目前看到的這輪埃博拉疫情是由本迪布焦埃博拉物種引起的。"
+  },
+  {
+    "index": 34,
+    "text": "There have only been two outbreaks of this recorded previously,",
+    "start": 148.702,
+    "end": 152.984,
+    "zh": "此前只记录过两次这种物种的疫情。",
+    "zh_hant": "此前只記錄過兩次這種物種的疫情。"
+  },
+  {
+    "index": 35,
+    "text": "and it is different to the species that caused the very large outbreak in West Africa in 2014 -2016.",
+    "start": 152.944,
+    "end": 159.99,
+    "zh": "它与2014至2016年在西非引发大规模疫情的物种不同。",
+    "zh_hant": "它與2014至2016年在西非引發大規模疫情的物種不同。"
+  },
+  {
+    "index": 36,
+    "text": "Like all species of Ebola, the Bundabugio species is zoonotic, meaning it comes from animals.",
+    "start": 160.668,
+    "end": 167.131,
+    "zh": "与所有埃博拉物种一样，本迪布焦物种是人畜共患的，意味着它来自动物。",
+    "zh_hant": "與所有埃博拉物種一樣，本迪布焦物種是人畜共患的，意味著它來自動物。"
+  },
+  {
+    "index": 37,
+    "text": "It's primarily found in fruit bats and can jump between animals and humans in so -called spillover events,",
+    "start": 167.091,
+    "end": 173.434,
+    "zh": "它主要存在于果蝠中，可以通过所谓的溢出事件在动物和人类之间传播。",
+    "zh_hant": "它主要存在於果蝠中，可以透過所謂的溢位事件在動物和人類之間傳播。"
+  },
+  {
+    "index": 38,
+    "text": "where a human comes into contact with the infected animal's blood, urine or flesh.",
+    "start": 173.314,
+    "end": 178.297,
+    "zh": "即人类接触到受感染动物的血液、尿液或肉。",
+    "zh_hant": "即人類接觸到受感染動物的血液、尿液或肉。"
+  },
+  {
+    "index": 39,
+    "text": "One of the most notable things about this current outbreak is the size",
+    "start": 178.557,
+    "end": 183.619,
+    "zh": "当前疫情最引人注目的一点是它的规模。",
+    "zh_hant": "當前疫情最引人注目的一點是它的規模。"
+  },
+  {
+    "index": 40,
+    "text": "that it had gotten to by the time that alert had been signalled.",
+    "start": 183.269,
+    "end": 187.701,
+    "zh": "即在发出警报时疫情已经发展到的大小。",
+    "zh_hant": "即在發出警報時疫情已經發展到的大小。"
+  },
+  {
+    "index": 41,
+    "text": "It was approximately 60 suspected deaths and 200 suspected cases",
+    "start": 187.682,
+    "end": 193.444,
+    "zh": "大约有60例疑似死亡和200例疑似病例。",
+    "zh_hant": "大約有60例疑似死亡和200例疑似病例。"
+  },
+  {
+    "index": 42,
+    "text": "when this was then signalled into the Wider community.",
+    "start": 193.444,
+    "end": 196.706,
+    "zh": "此时才向更广泛的社区发出警报。",
+    "zh_hant": "此時才向更廣泛的社群發出警報。"
+  },
+  {
+    "index": 43,
+    "text": "That's quite large, and if you look at that in comparison to other outbreaks of Ebola,",
+    "start": 196.886,
+    "end": 201.728,
+    "zh": "这个规模相当大，与其他埃博拉疫情相比，",
+    "zh_hant": "這個規模相當大，與其他埃博拉疫情相比，"
+  },
+  {
+    "index": 44,
+    "text": "this is sort of one of the largest outbreaks that there have been, at the point of detection.",
+    "start": 201.829,
+    "end": 206.931,
+    "zh": "在发现时，这算是最大规模的疫情之一了。",
+    "zh_hant": "在發現時，這算是最大規模的疫情之一了。"
+  },
+  {
+    "index": 45,
+    "text": "This may be because in a country such as the Democratic Republic of the Congo,",
+    "start": 207.072,
+    "end": 211.434,
+    "zh": "这可能是因为在像刚果民主共和国这样的国家，",
+    "zh_hant": "這可能是因為在像剛果民主共和國這樣的國家，"
+  },
+  {
+    "index": 46,
+    "text": "the east of which is currently suffering from violent conflict and which is very poor, detecting diseases can be difficult.",
+    "start": 211.454,
+    "end": 218.777,
+    "zh": "其东部正遭受暴力冲突且非常贫困，疾病检测可能很困难。",
+    "zh_hant": "其東部正遭受暴力衝突且非常貧困，疾病檢測可能很困難。"
+  },
+  {
+    "index": 47,
+    "text": "So, in terms of definitive numbers of infections,",
+    "start": 218.697,
+    "end": 221.779,
+    "zh": "因此，就确切的感染人数而言，",
+    "zh_hant": "因此，就確切的感染人數而言，"
+  },
+  {
+    "index": 48,
+    "text": "that's already incredibly difficult to be actively counted in the data.",
+    "start": 221.429,
+    "end": 226.581,
+    "zh": "在数据中主动统计已经极其困难。",
+    "zh_hant": "在資料中主動統計已經極其困難。"
+  },
+  {
+    "index": 49,
+    "text": "So, for example, seeking healthcare, receiving healthcare, having that positive test,",
+    "start": 226.341,
+    "end": 232.324,
+    "zh": "例如，寻求医疗、接受医疗、得到阳性检测结果，",
+    "zh_hant": "例如，尋求醫療、接受醫療、得到陽性檢測結果，"
+  },
+  {
+    "index": 50,
+    "text": "which obviously can be logistically challenging, especially in an area in the eastern DRC.",
+    "start": 232.184,
+    "end": 238.247,
+    "zh": "显然在后勤上可能具有挑战性，尤其是在刚果民主共和国东部的地区。",
+    "zh_hant": "顯然在後勤上可能具有挑戰性，尤其是在剛果民主共和國東部的地區。"
+  },
+  {
+    "index": 51,
+    "text": "This is about as much as we know.",
+    "start": 238.747,
+    "end": 241.388,
+    "zh": "这就是我们所知的大致情况。",
+    "zh_hant": "這就是我們所知的大致情況。"
+  },
+  {
+    "index": 52,
+    "text": "We're now stepping into the land of known unknowns, and this is where the modelling comes in.",
+    "start": 241.569,
+    "end": 246.951,
+    "zh": "现在我们进入已知未知的领域，建模分析就在这里发挥作用。",
+    "zh_hant": "現在我們進入已知未知的領域，建模分析就在這裡發揮作用。"
+  },
+  {
+    "index": 53,
+    "text": "Researchers work backwards, using the data from the two previous outbreaks.",
+    "start": 247.732,
+    "end": 252.734,
+    "zh": "研究人员利用前两次疫情的数据进行逆向推断。",
+    "zh_hant": "研究人員利用前兩次疫情的資料進行逆向推斷。"
+  },
+  {
+    "index": 54,
+    "text": "If they know how deadly a disease tends to be and how many people died,",
+    "start": 252.834,
+    "end": 257.396,
+    "zh": "如果他们知道一种疾病通常有多致命以及有多少人死亡，",
+    "zh_hant": "如果他們知道一種疾病通常有多致命以及有多少人死亡，"
+  },
+  {
+    "index": 55,
+    "text": "they can estimate how many people must have been infected.",
+    "start": 257.397,
+    "end": 260.638,
+    "zh": "他们就能估算出有多少人必定被感染。",
+    "zh_hant": "他們就能估算出有多少人必定被感染。"
+  },
+  {
+    "index": 56,
+    "text": "Based on the previous two outbreaks that we have seen of this Bundabugio species,",
+    "start": 260.798,
+    "end": 266.501,
+    "zh": "根据我们看到的这一本迪布焦物种的前两次疫情，",
+    "zh_hant": "根據我們看到的這一本迪布焦物種的前兩次疫情，"
+  },
+  {
+    "index": 57,
+    "text": "the case fatality ratio is around 33%,",
+    "start": 266.501,
+    "end": 270.593,
+    "zh": "病死率约为33%，",
+    "zh_hant": "病死率約為33%，"
+  },
+  {
+    "index": 58,
+    "text": "with sort of broad range of uncertainty there between 26 % and 40%.",
+    "start": 270.643,
+    "end": 276.236,
+    "zh": "不确定范围在26%到40%之间。",
+    "zh_hant": "不確定範圍在26%到40%之間。"
+  },
+  {
+    "index": 59,
+    "text": "So it is a severe disease.",
+    "start": 276.286,
+    "end": 279.347,
+    "zh": "所以这是一种严重的疾病。",
+    "zh_hant": "所以這是一種嚴重的疾病。"
+  },
+  {
+    "index": 60,
+    "text": "So, if you know that 60 people have died from Ebola,",
+    "start": 279.608,
+    "end": 282.809,
+    "zh": "所以，如果你知道有60人死于埃博拉，",
+    "zh_hant": "所以，如果你知道有60人死於埃博拉，"
+  },
+  {
+    "index": 61,
+    "text": "you can estimate that around 200 people must have been infected.",
+    "start": 282.669,
+    "end": 286.511,
+    "zh": "你可以估算出大约有200人必定被感染。",
+    "zh_hant": "你可以估算出大約有200人必定被感染。"
+  },
+  {
+    "index": 62,
+    "text": "But how many people might have been infected who aren't showing symptoms?",
+    "start": 286.632,
+    "end": 290.833,
+    "zh": "但可能有多少人被感染却没有出现症状呢？",
+    "zh_hant": "但可能有多少人被感染卻沒有出現症狀呢？"
+  },
+  {
+    "index": 63,
+    "text": "Now, what we learned in the previous two outbreaks is that the incubation period was between six and seven days.",
+    "start": 291.054,
+    "end": 298.297,
+    "zh": "我们在前两次疫情中学到的是，潜伏期为六到七天。",
+    "zh_hant": "我們在前兩次疫情中學到的是，潛伏期為六到七天。"
+  },
+  {
+    "index": 64,
+    "text": "There's a time delay between becoming infected and passing away.",
+    "start": 298.237,
+    "end": 303.48,
+    "zh": "从感染到死亡之间有一个时间延迟。",
+    "zh_hant": "從感染到死亡之間有一個時間延遲。"
+  },
+  {
+    "index": 65,
+    "text": "People will typically not die for days or even weeks after they're infected.",
+    "start": 303.72,
+    "end": 308.462,
+    "zh": "人们通常不会在感染后几天甚至几周内死亡。",
+    "zh_hant": "人們通常不會在感染後幾天甚至幾周內死亡。"
+  },
+  {
+    "index": 66,
+    "text": "This introduces a delay in reporting, so we have to account for that in our modelling as well.",
+    "start": 308.502,
+    "end": 315.325,
+    "zh": "这导致了报告的延迟，所以我们的建模中也必须考虑到这一点。",
+    "zh_hant": "這導致了報告的延遲，所以我們的建模中也必須考慮到這一點。"
+  },
+  {
+    "index": 67,
+    "text": "Since the alert reached the international community, the number of infections has exploded.",
+    "start": 315.386,
+    "end": 320.328,
+    "zh": "自警报传到国际社会以来，感染人数激增。",
+    "zh_hant": "自警報傳到國際社會以來，感染人數激增。"
+  },
+  {
+    "index": 68,
+    "text": "However, this might not mean that transmission is rapidly increasing.",
+    "start": 320.508,
+    "end": 324.79,
+    "zh": "然而，这可能并不意味着传播正在迅速加剧。",
+    "zh_hant": "然而，這可能並不意味著傳播正在迅速加劇。"
+  },
+  {
+    "index": 69,
+    "text": "We don't actually know how quickly this outbreak is growing right now.",
+    "start": 325.131,
+    "end": 329.733,
+    "zh": "我们实际上并不知道目前疫情增长的速度。",
+    "zh_hant": "我們實際上並不知道目前疫情增長的速度。"
+  },
+  {
+    "index": 70,
+    "text": "One of the reasons for that is because of the increased surveillance activities,",
+    "start": 330.033,
+    "end": 335.555,
+    "zh": "原因之一是监测活动的加强，",
+    "zh_hant": "原因之一是監測活動的加強，"
+  },
+  {
+    "index": 71,
+    "text": "the increased response activities.",
+    "start": 335.476,
+    "end": 337.957,
+    "zh": "响应活动的加强。",
+    "zh_hant": "響應活動的加強。"
+  },
+  {
+    "index": 72,
+    "text": "That means that as the data are coming into us,",
+    "start": 337.817,
+    "end": 341.058,
+    "zh": "这意味着随着数据传入我们手中，",
+    "zh_hant": "這意味著隨著資料傳入我們手中，"
+  },
+  {
+    "index": 73,
+    "text": "it's quite difficult to know if the changes in the numbers that we're seeing",
+    "start": 340.708,
+    "end": 345.42,
+    "zh": "很难判断我们看到的数字变化",
+    "zh_hant": "很難判斷我們看到的數字變化"
+  },
+  {
+    "index": 74,
+    "text": "are indeed just because of how the virus is spreading,",
+    "start": 345.461,
+    "end": 349.242,
+    "zh": "究竟仅仅是因为病毒的传播方式，",
+    "zh_hant": "究竟僅僅是因為病毒的傳播方式，"
+  },
+  {
+    "index": 75,
+    "text": "compared to how it— is being reported and how it's being picked up in the numbers.",
+    "start": 349.162,
+    "end": 353.964,
+    "zh": "还是与报告方式以及在数字中的呈现方式有关。",
+    "zh_hant": "還是與報告方式以及在數字中的呈現方式有關。"
+  },
+  {
+    "index": 76,
+    "text": "So the team are constantly checking data against previous outbreaks and new information coming in.",
+    "start": 354.505,
+    "end": 360.428,
+    "zh": "因此，团队不断将数据与之前的疫情和新的信息进行核对。",
+    "zh_hant": "因此，團隊不斷將資料與之前的疫情和新的資訊進行核對。"
+  },
+  {
+    "index": 77,
+    "text": "We're using independent pieces of data",
+    "start": 360.468,
+    "end": 363.609,
+    "zh": "我们使用独立的数据片段",
+    "zh_hant": "我們使用獨立的資料片段"
+  },
+  {
+    "index": 78,
+    "text": "to essentially piece together what is happening in terms of the total outbreak size.",
+    "start": 363.589,
+    "end": 368.832,
+    "zh": "来拼凑出疫情总体规模的实际情况。",
+    "zh_hant": "來拼湊出疫情總體規模的實際情況。"
+  },
+  {
+    "index": 79,
+    "text": "Since the outbreak, neighbouring Uganda has identified three cases.",
+    "start": 368.772,
+    "end": 373.454,
+    "zh": "疫情爆发以来，邻国乌干达已发现三例病例。",
+    "zh_hant": "疫情爆發以來，鄰國烏干達已發現三例病例。"
+  },
+  {
+    "index": 80,
+    "text": "This gave the team another piece of data.",
+    "start": 373.555,
+    "end": 375.976,
+    "zh": "这为团队提供了另一条数据。",
+    "zh_hant": "這為團隊提供了另一條資料。"
+  },
+  {
+    "index": 81,
+    "text": "We have then looked at the border crossings between Uganda and the DRC,",
+    "start": 375.856,
+    "end": 380.518,
+    "zh": "然后我们研究了乌干达和刚果民主共和国之间的边境口岸，",
+    "zh_hant": "然後我們研究了烏干達和剛果民主共和國之間的邊境口岸，"
+  },
+  {
+    "index": 82,
+    "text": "and then essentially used that to generate a probability that a case Would travel,",
+    "start": 380.758,
+    "end": 386.441,
+    "zh": "并利用这些数据来生成病例外流的概率。",
+    "zh_hant": "並利用這些資料來生成病例外流的機率。"
+  },
+  {
+    "index": 83,
+    "text": "which we could then work back to get",
+    "start": 386.541,
+    "end": 388.982,
+    "zh": "然后我们可以反推，",
+    "zh_hant": "然後我們可以反推，"
+  },
+  {
+    "index": 84,
+    "text": "at how big of an outbreak would we need to have seen",
+    "start": 388.632,
+    "end": 392.164,
+    "zh": "需要多大规模的疫情，",
+    "zh_hant": "需要多大規模的疫情，"
+  },
+  {
+    "index": 85,
+    "text": "for it to be plausible that there are three cases exported into Uganda.",
+    "start": 392.104,
+    "end": 397.386,
+    "zh": "才能合理出现三例病例输出到乌干达的情况。",
+    "zh_hant": "才能合理出現三例病例輸出到烏干達的情況。"
+  },
+  {
+    "index": 86,
+    "text": "Our listener is curious, if it's all been underestimated before, what does that mean going forward?",
+    "start": 397.346,
+    "end": 403.969,
+    "zh": "我们的听众好奇，如果之前都被低估了，这对未来意味着什么？",
+    "zh_hant": "我們的聽眾好奇，如果之前都被低估了，這對未來意味著什麼？"
+  },
+  {
+    "index": 87,
+    "text": "So, this is a really rapidly evolving situation.",
+    "start": 403.95,
+    "end": 407.291,
+    "zh": "这是一个快速演变的情况。",
+    "zh_hant": "這是一個快速演變的情況。"
+  },
+  {
+    "index": 88,
+    "text": "The numbers are changing every single day,",
+    "start": 407.152,
+    "end": 409.753,
+    "zh": "数字每天都在变化，",
+    "zh_hant": "數字每天都在變化，"
+  },
+  {
+    "index": 89,
+    "text": "and that means that the estimates that we are producing are going out of date incredibly quickly.",
+    "start": 409.403,
+    "end": 414.535,
+    "zh": "这意味着我们产生的估算很快就过时了。",
+    "zh_hant": "這意味著我們產生的估算很快就過時了。"
+  },
+  {
+    "index": 90,
+    "text": "At the time of recording, bringing together those pieces of data that we do have,",
+    "start": 414.835,
+    "end": 420.338,
+    "zh": "在录音时，综合我们确实拥有的那些数据，",
+    "zh_hant": "在錄音時，綜合我們確實擁有的那些資料，"
+  },
+  {
+    "index": 91,
+    "text": "it suggests that as of the 22nd of May,",
+    "start": 420.338,
+    "end": 423.259,
+    "zh": "表明截至5月22日，",
+    "zh_hant": "表明截至5月22日，"
+  },
+  {
+    "index": 92,
+    "text": "there was between 950 to 1600 cases of the Bundabugio",
+    "start": 423.24,
+    "end": 428.662,
+    "zh": "刚果民主共和国东部有950至1600例本迪布焦",
+    "zh_hant": "剛果民主共和國東部有950至1600例本迪布焦"
+  },
+  {
+    "index": 93,
+    "text": "species of Ebola in the eastern DRC.",
+    "start": 428.442,
+    "end": 431.223,
+    "zh": "埃博拉物种病例。",
+    "zh_hant": "埃博拉物種病例。"
+  },
+  {
+    "index": 94,
+    "text": "And that is in comparison to around 870 suspected cases at that day.",
+    "start": 431.283,
+    "end": 437.466,
+    "zh": "相比之下，当天约有870例疑似病例。",
+    "zh_hant": "相比之下，當天約有870例疑似病例。"
+  },
+  {
+    "index": 95,
+    "text": "So this is really important in terms of informing the response just now.",
+    "start": 437.667,
+    "end": 442.689,
+    "zh": "这在指导当前的响应工作中非常重要。",
+    "zh_hant": "這在指導當前的響應工作中非常重要。"
+  },
+  {
+    "index": 96,
+    "text": "It signals about the level of case detection that has to be undertaken,",
+    "start": 442.649,
+    "end": 447.852,
+    "zh": "它提示了必须进行的病例检测水平，",
+    "zh_hant": "它提示了必須進行的病例檢測水平，"
+  },
+  {
+    "index": 97,
+    "text": "that's currently being undertaken in the affected regions.",
+    "start": 447.502,
+    "end": 451.153,
+    "zh": "目前受影响地区正在进行的检测工作。",
+    "zh_hant": "目前受影響地區正在進行的檢測工作。"
+  },
+  {
+    "index": 98,
+    "text": "It then signals the resources required to then follow up with all of their contacts.",
+    "start": 451.234,
+    "end": 456.036,
+    "zh": "然后它提示了追踪所有接触者所需的资源。",
+    "zh_hant": "然後它提示了追蹤所有接觸者所需的資源。"
+  },
+  {
+    "index": 99,
+    "text": "As well, it informs the provisions for healthcare that are required.",
+    "start": 456.016,
+    "end": 460.878,
+    "zh": "同时，它还为所需的医疗准备提供信息。",
+    "zh_hant": "同時，它還為所需的醫療準備提供資訊。"
+  },
+  {
+    "index": 100,
+    "text": "How many beds might be needed, essentially?",
+    "start": 460.758,
+    "end": 463.499,
+    "zh": "基本上需要多少张病床呢？",
+    "zh_hant": "基本上需要多少張病床呢？"
+  },
+  {
+    "index": 101,
+    "text": "How many staff are then going to be required, so bravely, to care for these patients?",
+    "start": 463.54,
+    "end": 468.842,
+    "zh": "需要多少勇敢的医护人员来照顾这些病人？",
+    "zh_hant": "需要多少勇敢的醫護人員來照顧這些病人？"
+  },
+  {
+    "index": 102,
+    "text": "And what is the personal protective equipment needed then to ensure that they are safe?",
+    "start": 468.492,
+    "end": 473.845,
+    "zh": "以及需要什么个人防护装备来确保他们的安全？",
+    "zh_hant": "以及需要什麼個人防護裝備來確保他們的安全？"
+  },
+  {
+    "index": 103,
+    "text": "All of these sorts of logistical things can help to be informed by these sorts of numbers.",
+    "start": 473.745,
+    "end": 479.407,
+    "zh": "所有这类后勤问题都可以通过这些数字得到参考。",
+    "zh_hant": "所有這類後勤問題都可以透過這些數字得到參考。"
+  },
+  {
+    "index": 104,
+    "text": "Despite all of the work being done by Ruth and the team, there are still a lot of unknowns.",
+    "start": 480.388,
+    "end": 485.611,
+    "zh": "尽管露丝和团队做了大量工作，仍有很多未知数。",
+    "zh_hant": "儘管露絲和團隊做了大量工作，仍有很多未知數。"
+  },
+  {
+    "index": 105,
+    "text": "We can make an educated guess at the number of people per infected group who may die,",
+    "start": 485.851,
+    "end": 491.174,
+    "zh": "我们可以对每个感染群体中可能死亡的人数做出有根据的猜测，",
+    "zh_hant": "我們可以對每個感染群體中可能死亡的人數做出有根據的猜測，"
+  },
+  {
+    "index": 106,
+    "text": "but we currently don't know how many people are infected or how many are coming into contact with infected people.",
+    "start": 491.214,
+    "end": 497.277,
+    "zh": "但目前我们不知道有多少人被感染，也不知道有多少人与感染者接触过。",
+    "zh_hant": "但目前我們不知道有多少人被感染，也不知道有多少人與感染者接觸過。"
+  },
+  {
+    "index": 107,
+    "text": "One of the difficulties is that people are most infectious at the time of their death,",
+    "start": 497.437,
+    "end": 502.639,
+    "zh": "困难之一是人们在死亡时最具传染性，",
+    "zh_hant": "困難之一是人們在死亡時最具傳染性，"
+  },
+  {
+    "index": 108,
+    "text": "and if the family doesn't know or chooses not to report that they died of Ebola,",
+    "start": 502.74,
+    "end": 507.402,
+    "zh": "如果家属不知道或选择不报告死者死于埃博拉，",
+    "zh_hant": "如果家屬不知道或選擇不報告死者死於埃博拉，"
+  },
+  {
+    "index": 109,
+    "text": "the disease Can fly under the radar.",
+    "start": 507.442,
+    "end": 510.023,
+    "zh": "这种疾病就可能悄悄溜走。",
+    "zh_hant": "這種疾病就可能悄悄溜走。"
+  },
+  {
+    "index": 110,
+    "text": "Each Ebola death can lead to many more infections.",
+    "start": 510.003,
+    "end": 513.705,
+    "zh": "每例埃博拉死亡都可能导致更多感染。",
+    "zh_hant": "每例埃博拉死亡都可能導致更多感染。"
+  },
+  {
+    "index": 111,
+    "text": "There's a lot of uncertainty surrounding those numbers.",
+    "start": 513.685,
+    "end": 517.246,
+    "zh": "这些数字存在很多不确定性。",
+    "zh_hant": "這些數字存在很多不確定性。"
+  },
+  {
+    "index": 112,
+    "text": "That's not necessarily a weakness, that's just a reflection of the situation that is ongoing just now.",
+    "start": 516.907,
+    "end": 523.97,
+    "zh": "这未必是弱点，只是当前持续情况的反映。",
+    "zh_hant": "這未必是弱點，只是當前持續情況的反映。"
+  },
+  {
+    "index": 113,
+    "text": "There's other assumptions that we need to know about how quickly the outbreak is growing, and we just don't know that yet.",
+    "start": 524.031,
+    "end": 530.657,
+    "zh": "还有其他假设需要我们了解疫情增长的速度，而我们还不知道。",
+    "zh_hant": "還有其他假設需要我們瞭解疫情增長的速度，而我們還不知道。"
+  },
+  {
+    "index": 114,
+    "text": "That's all we have time for this week.",
+    "start": 531.058,
+    "end": 533.18,
+    "zh": "本周的时间就到这里。",
+    "zh_hant": "本週的時間就到這裡。"
+  },
+  {
+    "index": 115,
+    "text": "Thank you to Dr. Ruth McCabe.",
+    "start": 533.1,
+    "end": 535.022,
+    "zh": "感谢露丝·麦凯布博士。",
+    "zh_hant": "感謝露絲·麥凱布博士。"
+  },
+  {
+    "index": 116,
+    "text": "Do keep your questions and comments coming in to moreorless@bbc.co.uk.",
+    "start": 535.062,
+    "end": 540.167,
+    "zh": "请继续将问题和评论发送至moreorless@bbc.co.uk。",
+    "zh_hant": "請繼續將問題和評論傳送至moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 117,
+    "text": "Until next week, goodbye.",
+    "start": 540.528,
+    "end": 543.07,
+    "zh": "下周见，再见。",
+    "zh_hant": "下週見，再見。"
+  }
+]

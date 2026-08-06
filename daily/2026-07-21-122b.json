@@ -1,0 +1,906 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC 音效。",
+    "zh_hant": "BBC 音效。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 4.932,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.033,
+    "end": 9.714,
+    "zh": "你好，感谢下载《多少》播客。",
+    "zh_hant": "你好，感謝下載《多少》播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that looks at the numbers in the news, in life, and at advice in 1950s parenting guides.",
+    "start": 9.835,
+    "end": 16.438,
+    "zh": "我们是一档关注新闻、生活中数字以及20世纪50年代育儿指南中建议的节目。",
+    "zh_hant": "我們是一檔關注新聞、生活中數字以及20世紀50年代育兒指南中建議的節目。"
+  },
+  {
+    "index": 4,
+    "text": "I'm Charlotte MacDonald.",
+    "start": 16.598,
+    "end": 18.118,
+    "zh": "我是夏洛特·麦克唐纳。",
+    "zh_hant": "我是夏洛特·麥克唐納。"
+  },
+  {
+    "index": 5,
+    "text": "Sometimes it's obvious to everyone when an idea is harmful or a piece of advice is damaging,",
+    "start": 27.083,
+    "end": 33.066,
+    "zh": "有时，当某个想法有害或某项建议有害时，大家都显而易见的。",
+    "zh_hant": "有時，當某個想法有害或某項建議有害時，大家都顯而易見的。"
+  },
+  {
+    "index": 6,
+    "text": "but not always.",
+    "start": 33.406,
+    "end": 34.987,
+    "zh": "但并非总是如此。",
+    "zh_hant": "但並非總是如此。"
+  },
+  {
+    "index": 7,
+    "text": "Occasionally, bad ideas and terrible advice end up being accepted in society and supported by people in authority.",
+    "start": 35.187,
+    "end": 42.331,
+    "zh": "偶尔，坏主意和糟糕的建议最终被社会接受，并受到权威人士的支持。",
+    "zh_hant": "偶爾，壞主意和糟糕的建議最終被社會接受，並受到權威人士的支援。"
+  },
+  {
+    "index": 8,
+    "text": "In such circumstances, One of the most powerful tools for changing people's minds is evidence,",
+    "start": 43.071,
+    "end": 49.874,
+    "zh": "在这种情形下，改变人们想法的最有力工具之一就是证据。",
+    "zh_hant": "在這種情形下，改變人們想法的最有力工具之一就是證據。"
+  },
+  {
+    "index": 9,
+    "text": "actual facts that show beyond doubt that the bad idea is indeed a bad idea.",
+    "start": 50.055,
+    "end": 57.118,
+    "zh": "真实的事实，无可置疑地表明坏主意确实是坏主意。",
+    "zh_hant": "真實的事實，無可置疑地表明壞主意確實是壞主意。"
+  },
+  {
+    "index": 10,
+    "text": "That's the subject of a new book by Helen Pearson titled",
+    "start": 57.478,
+    "end": 61.52,
+    "zh": "这是海伦·皮尔逊撰写的一本新书的主题，书名是",
+    "zh_hant": "這是海倫·皮爾遜撰寫的一本新書的主題，書名是"
+  },
+  {
+    "index": 11,
+    "text": "Beyond Belief, How Evidence Shows What Really Works.",
+    "start": 61.36,
+    "end": 65.422,
+    "zh": "《超越信念：证据如何显示真正有效的方法》。",
+    "zh_hant": "《超越信念：證據如何顯示真正有效的方法》。"
+  },
+  {
+    "index": 12,
+    "text": "An editor at the scientific journal Nature in her day job,",
+    "start": 66.103,
+    "end": 69.724,
+    "zh": "她在科学期刊《自然》担任编辑是其日常工作，",
+    "zh_hant": "她在科學期刊《自然》擔任編輯是其日常工作，"
+  },
+  {
+    "index": 13,
+    "text": "the book chronicles those determined individuals who shake up the status quo by gathering just the right kind of evidence.",
+    "start": 69.825,
+    "end": 77.468,
+    "zh": "这本书记录了那些坚定的人，他们通过收集恰如其分的证据来打破现状。",
+    "zh_hant": "這本書記錄了那些堅定的人，他們透過收集恰如其分的證據來打破現狀。"
+  },
+  {
+    "index": 14,
+    "text": "One story in that book stood out to us here on More or Less,",
+    "start": 77.908,
+    "end": 81.01,
+    "zh": "这本书中的一个故事在《多少》节目组这里引起了我们的注意。",
+    "zh_hant": "這本書中的一個故事在《多少》節目組這裡引起了我們的注意。"
+  },
+  {
+    "index": 15,
+    "text": "a kind of cautionary tale, sorry Tim,",
+    "start": 80.85,
+    "end": 84.492,
+    "zh": "一个警示性的故事，抱歉蒂姆，",
+    "zh_hant": "一個警示性的故事，抱歉蒂姆，"
+  },
+  {
+    "index": 16,
+    "text": "about what happens when you don't have the evidence you need to challenge a dangerous way of doing things.",
+    "start": 84.612,
+    "end": 91.035,
+    "zh": "讲述当你没有足够的证据来挑战危险做法时会发生什么。",
+    "zh_hant": "講述當你沒有足夠的證據來挑戰危險做法時會發生什麼。"
+  },
+  {
+    "index": 17,
+    "text": "It's the story of one piece of advice from childcare expert Dr Spock.",
+    "start": 91.276,
+    "end": 96.278,
+    "zh": "这个故事是关于育儿专家斯波克医生的一个建议。",
+    "zh_hant": "這個故事是關於育兒專家斯波克醫生的一個建議。"
+  },
+  {
+    "index": 18,
+    "text": "So the story starts really with probably the best-selling parenting book of all time,",
+    "start": 100.6,
+    "end": 105.622,
+    "zh": "故事真正开始于可能是有史以来最畅销的育儿书籍。",
+    "zh_hant": "故事真正開始於可能是有史以來最暢銷的育兒書籍。"
+  },
+  {
+    "index": 19,
+    "text": "which is Baby and Childcare by the American paediatrician Benjamin Spock.",
+    "start": 105.272,
+    "end": 109.384,
+    "zh": "即美国儿科医生本杰明·斯波克的《婴儿与儿童养育》。",
+    "zh_hant": "即美國兒科醫生本傑明·斯波克的《嬰兒與兒童養育》。"
+  },
+  {
+    "index": 20,
+    "text": "First published in 1946, and Spock's book quickly became this enormous...",
+    "start": 109.224,
+    "end": 114.787,
+    "zh": "首次出版于1946年，斯波克的书迅速成为这本巨大的...",
+    "zh_hant": "首次出版於1946年，斯波克的書迅速成為這本巨大的..."
+  },
+  {
+    "index": 21,
+    "text": "Bestseller.",
+    "start": 114.437,
+    "end": 115.447,
+    "zh": "畅销书。",
+    "zh_hant": "暢銷書。"
+  },
+  {
+    "index": 22,
+    "text": "So, the favourite Childcare Manual for New Parents,",
+    "start": 115.097,
+    "end": 118.088,
+    "zh": "于是，这是新手父母最喜欢的育儿手册。",
+    "zh_hant": "於是，這是新手父母最喜歡的育兒手冊。"
+  },
+  {
+    "index": 23,
+    "text": "sold probably more than 50 million copies in over 40 languages in the end.",
+    "start": 118.169,
+    "end": 122.311,
+    "zh": "最终以40多种语言售出超过5000万册。",
+    "zh_hant": "最終以40多種語言售出超過5000萬冊。"
+  },
+  {
+    "index": 24,
+    "text": "In the first edition of Baby and Childcare, Spock told parents to put their babies to sleep on their backs.",
+    "start": 122.471,
+    "end": 129.274,
+    "zh": "在第一版《婴儿与儿童养育》中，斯波克告诉父母让婴儿仰睡。",
+    "zh_hant": "在第一版《嬰兒與兒童養育》中，斯波克告訴父母讓嬰兒仰睡。"
+  },
+  {
+    "index": 25,
+    "text": "But in the 1958 edition, he made this small change where he started recommending that babies be put to sleep on their fronts instead.",
+    "start": 129.255,
+    "end": 136.438,
+    "zh": "但在1958年的版本中，他做了一点小改动，转而开始推荐婴儿俯睡。",
+    "zh_hant": "但在1958年的版本中，他做了一點小改動，轉而開始推薦嬰兒俯睡。"
+  },
+  {
+    "index": 26,
+    "text": "He said that infants lying on their backs were more likely to choke on their own vomit",
+    "start": 136.818,
+    "end": 142.101,
+    "zh": "他说仰睡的婴儿更容易被自己的呕吐物呛到。",
+    "zh_hant": "他說仰睡的嬰兒更容易被自己的嘔吐物嗆到。"
+  },
+  {
+    "index": 27,
+    "text": "and maybe end up with flattened heads if they slept that way.",
+    "start": 142.081,
+    "end": 145.902,
+    "zh": "而且如果那样睡，可能会导致头部扁平。",
+    "zh_hant": "而且如果那樣睡，可能會導致頭部扁平。"
+  },
+  {
+    "index": 28,
+    "text": "And his recommendation, it wasn't just him, it was mirrored by many other sources,",
+    "start": 146.263,
+    "end": 151.165,
+    "zh": "他的建议并不只是他一个人的，许多其他来源也反映了相同的观点。",
+    "zh_hant": "他的建議並不只是他一個人的，許多其他來源也反映了相同的觀點。"
+  },
+  {
+    "index": 29,
+    "text": "and parents enthusiastically followed this advice.",
+    "start": 150.815,
+    "end": 154.226,
+    "zh": "父母们热情地遵循了这个建议。",
+    "zh_hant": "父母們熱情地遵循了這個建議。"
+  },
+  {
+    "index": 30,
+    "text": "And the proportion of babies that slept on their fronts rose steeply",
+    "start": 154.267,
+    "end": 158.008,
+    "zh": "俯睡的婴儿比例在60年代和70年代迅速上升。",
+    "zh_hant": "俯睡的嬰兒比例在60年代和70年代迅速上升。"
+  },
+  {
+    "index": 31,
+    "text": "in the US and some other Western countries during the 60s and 70s.",
+    "start": 157.658,
+    "end": 162.411,
+    "zh": "在美国和其他一些西方国家。",
+    "zh_hant": "在美國和其他一些西方國家。"
+  },
+  {
+    "index": 32,
+    "text": "But there wasn't really much evidence to support this advice,",
+    "start": 162.061,
+    "end": 165.152,
+    "zh": "但支持这一建议的证据并不多，",
+    "zh_hant": "但支援這一建議的證據並不多，"
+  },
+  {
+    "index": 33,
+    "text": "so it was basically what— Senior paediatricians like Spock thought to be correct.",
+    "start": 164.802,
+    "end": 169.234,
+    "zh": "所以基本上就是像斯波克这样的资深儿科医生认为是正确的。",
+    "zh_hant": "所以基本上就是像斯波克這樣的資深兒科醫生認為是正確的。"
+  },
+  {
+    "index": 34,
+    "text": "As it happens, Helen's mum also had a copy of the book.",
+    "start": 169.415,
+    "end": 173.957,
+    "zh": "事实上，海伦的妈妈也有一本这本书。",
+    "zh_hant": "事實上，海倫的媽媽也有一本這本書。"
+  },
+  {
+    "index": 35,
+    "text": "I have actually got my mum's copy of Spock's Baby and Child Care from 1958 sitting on my desk,",
+    "start": 174.157,
+    "end": 180.46,
+    "zh": "我实际上把我妈妈1958年版的斯波克《婴儿与儿童养育》放在我的书桌上。",
+    "zh_hant": "我實際上把我媽媽1958年版的斯波克《嬰兒與兒童養育》放在我的書桌上。"
+  },
+  {
+    "index": 36,
+    "text": "because during researching my book, I wanted to make sure that this was true.",
+    "start": 180.11,
+    "end": 183.802,
+    "zh": "因为在研究我的书时，我想确认这是否属实。",
+    "zh_hant": "因為在研究我的書時，我想確認這是否屬實。"
+  },
+  {
+    "index": 37,
+    "text": "So yes, my mum followed this advice.",
+    "start": 183.862,
+    "end": 186.343,
+    "zh": "所以是的，我妈妈遵循了这个建议。",
+    "zh_hant": "所以是的，我媽媽遵循了這個建議。"
+  },
+  {
+    "index": 38,
+    "text": "She laid me down to sleep on my front.",
+    "start": 186.063,
+    "end": 188.664,
+    "zh": "她把我俯放下来睡觉。",
+    "zh_hant": "她把我俯放下來睡覺。"
+  },
+  {
+    "index": 39,
+    "text": "And if I turn to page 173, I think it is, hold on.",
+    "start": 188.314,
+    "end": 193.847,
+    "zh": "如果我翻到第173页，我觉得是这一页，等等。",
+    "zh_hant": "如果我翻到第173頁，我覺得是這一頁，等等。"
+  },
+  {
+    "index": 40,
+    "text": "I think it is preferable to accustom a baby to sleeping on his stomach from the start, if he is willing.",
+    "start": 195.068,
+    "end": 200.05,
+    "zh": "我认为从一开始就习惯让婴儿趴着睡是更可取的，如果他愿意的话。",
+    "zh_hant": "我認為從一開始就習慣讓嬰兒趴著睡是更可取的，如果他願意的話。"
+  },
+  {
+    "index": 41,
+    "text": "I'm afraid this story is not a happy one,",
+    "start": 203.571,
+    "end": 206.432,
+    "zh": "遗憾的是，这个故事并不快乐。",
+    "zh_hant": "遺憾的是，這個故事並不快樂。"
+  },
+  {
+    "index": 42,
+    "text": "because at the same time as more babies were being put to sleep on their fronts,",
+    "start": 206.732,
+    "end": 210.734,
+    "zh": "因为与此同时，更多婴儿被俯放睡觉的时候。",
+    "zh_hant": "因為與此同時，更多嬰兒被俯放睡覺的時候。"
+  },
+  {
+    "index": 43,
+    "text": "another deeply troubling trend was emerging.",
+    "start": 210.774,
+    "end": 214.035,
+    "zh": "另一个令人深感不安的趋势正在浮现。",
+    "zh_hant": "另一個令人深感不安的趨勢正在浮現。"
+  },
+  {
+    "index": 44,
+    "text": "A growing number of babies in some western countries were dying suddenly in their cribs",
+    "start": 214.096,
+    "end": 220.439,
+    "zh": "一些西方国家越来越多的婴儿在婴儿床中突然死亡。",
+    "zh_hant": "一些西方國家越來越多的嬰兒在嬰兒床中突然死亡。"
+  },
+  {
+    "index": 45,
+    "text": "from what we now call Sudden Infant Death Syndrome, or SIDS.",
+    "start": 220.359,
+    "end": 223.78,
+    "zh": "我们现在称之为婴儿猝死综合征，或 SIDS。",
+    "zh_hant": "我們現在稱之為嬰兒猝死綜合徵，或 SIDS。"
+  },
+  {
+    "index": 46,
+    "text": "The phenomenon became known as cot death or crib death.",
+    "start": 224.061,
+    "end": 227.802,
+    "zh": "这一现象被称为摇篮死或婴儿床死亡。",
+    "zh_hant": "這一現象被稱為搖籃死或嬰兒床死亡。"
+  },
+  {
+    "index": 47,
+    "text": "It was Eventually called an epidemic.",
+    "start": 227.803,
+    "end": 229.823,
+    "zh": "最终被称为一种流行病。",
+    "zh_hant": "最終被稱為一種流行病。"
+  },
+  {
+    "index": 48,
+    "text": "And the cause of these rising deaths was a matter of fierce debate amongst doctors.",
+    "start": 229.904,
+    "end": 234.866,
+    "zh": "而这些死亡人数上升的原因在医生中引发了激烈争论。",
+    "zh_hant": "而這些死亡人數上升的原因在醫生中引發了激烈爭論。"
+  },
+  {
+    "index": 49,
+    "text": "No one really understood what was happening.",
+    "start": 234.516,
+    "end": 236.647,
+    "zh": "没有人真正理解发生了什么。",
+    "zh_hant": "沒有人真正理解發生了什麼。"
+  },
+  {
+    "index": 50,
+    "text": "There were lots of theories around it, but no clear answers.",
+    "start": 236.297,
+    "end": 239.168,
+    "zh": "关于这一点有很多理论，但没有明确的答案。",
+    "zh_hant": "關於這一點有很多理論，但沒有明確的答案。"
+  },
+  {
+    "index": 51,
+    "text": "And really, what was missing in all of this was evidence from rigorous research.",
+    "start": 239.128,
+    "end": 243.15,
+    "zh": "而真正缺失的是来自严谨研究的证据。",
+    "zh_hant": "而真正缺失的是來自嚴謹研究的證據。"
+  },
+  {
+    "index": 52,
+    "text": "To gather the evidence you need, what you want are what Helen refers to as case control studies,",
+    "start": 243.471,
+    "end": 250.073,
+    "zh": "为了收集你需要的证据，你需要的是海伦所说的病例对照研究。",
+    "zh_hant": "為了收集你需要的證據，你需要的是海倫所說的病例對照研究。"
+  },
+  {
+    "index": 53,
+    "text": "where you compare the circumstances of babies who have died with a control group of babies.",
+    "start": 250.114,
+    "end": 255.816,
+    "zh": "在这种研究中，你可以比较死亡婴儿的情况与对照组婴儿的情况。",
+    "zh_hant": "在這種研究中，你可以比較死亡嬰兒的情況與對照組嬰兒的情況。"
+  },
+  {
+    "index": 54,
+    "text": "Differences between these groups might help you understand what's going wrong.",
+    "start": 256.057,
+    "end": 260.999,
+    "zh": "这些组之间的差异可能帮助你理解哪里出了问题。",
+    "zh_hant": "這些組之間的差異可能幫助你理解哪裡出了問題。"
+  },
+  {
+    "index": 55,
+    "text": "In 1965, researchers in the UK published the first well-conducted case control study,",
+    "start": 261.039,
+    "end": 267.282,
+    "zh": "1965年，英国研究人员发表了第一项设计良好的病例对照研究。",
+    "zh_hant": "1965年，英國研究人員發表了第一項設計良好的病例對照研究。"
+  },
+  {
+    "index": 56,
+    "text": "comparing over 100 children who had died with a control group.",
+    "start": 267.142,
+    "end": 271.344,
+    "zh": "比较了100多名死亡儿童与一个对照组。",
+    "zh_hant": "比較了100多名死亡兒童與一個對照組。"
+  },
+  {
+    "index": 57,
+    "text": "And they did notice, and noted in their paper,",
+    "start": 271.144,
+    "end": 275.066,
+    "zh": "他们确实注意到并在论文中记录到。",
+    "zh_hant": "他們確實注意到並在論文中記錄到。"
+  },
+  {
+    "index": 58,
+    "text": "rather ominously, that cases were found face downwards rather more frequently than the controls.",
+    "start": 274.716,
+    "end": 280.668,
+    "zh": "相当不祥的是，病例被发现面部朝下的频率高于对照组。",
+    "zh_hant": "相當不祥的是，病例被發現面部朝下的頻率高於對照組。"
+  },
+  {
+    "index": 59,
+    "text": "But the data was a bit difficult to really pinpoint any particular cause.",
+    "start": 280.318,
+    "end": 284.031,
+    "zh": "但数据有点难以确定任何特定原因。",
+    "zh_hant": "但資料有點難以確定任何特定原因。"
+  },
+  {
+    "index": 60,
+    "text": "And then there was a second case control study, published in 1970.",
+    "start": 284.171,
+    "end": 287.983,
+    "zh": "然后还有第二项病例对照研究，发表于1970年。",
+    "zh_hant": "然後還有第二項病例對照研究，發表於1970年。"
+  },
+  {
+    "index": 61,
+    "text": "And again, it hinted that sleeping...",
+    "start": 288.033,
+    "end": 290.374,
+    "zh": "再次，它暗示睡眠...",
+    "zh_hant": "再次，它暗示睡眠..."
+  },
+  {
+    "index": 62,
+    "text": "Position was linked to increased risk, but the association wasn't deemed to be statistically significant.",
+    "start": 290.024,
+    "end": 296.377,
+    "zh": "姿势与风险增加有关，但这一关联被认为没有统计学显著意义。",
+    "zh_hant": "姿勢與風險增加有關，但這一關聯被認為沒有統計學顯著意義。"
+  },
+  {
+    "index": 63,
+    "text": "The problem with SIDS is that it doesn't appear to be a simple health problem with a simple cause.",
+    "start": 296.517,
+    "end": 302.96,
+    "zh": "SIDS的问题在于，它似乎不是一个简单原因导致的简单健康问题。",
+    "zh_hant": "SIDS的問題在於，它似乎不是一個簡單原因導致的簡單健康問題。"
+  },
+  {
+    "index": 64,
+    "text": "There are a lot of factors that were potentially associated with the baby's deaths.",
+    "start": 303.3,
+    "end": 307.902,
+    "zh": "有许多因素可能与婴儿死亡相关。",
+    "zh_hant": "有許多因素可能與嬰兒死亡相關。"
+  },
+  {
+    "index": 65,
+    "text": "And in all that noise, the signal for front sleeping wasn't clear enough to come through.",
+    "start": 307.983,
+    "end": 314.045,
+    "zh": "在所有噪音中，俯睡的信号不够清晰，无法凸显出来。",
+    "zh_hant": "在所有噪音中，俯睡的訊號不夠清晰，無法凸顯出來。"
+  },
+  {
+    "index": 66,
+    "text": "It actually took until 1986 for the link between sleeping position and SIDS to become clear.",
+    "start": 314.086,
+    "end": 320.809,
+    "zh": "实际上直到1986年，睡眠姿势与SIDS之间的关联才变得清晰。",
+    "zh_hant": "實際上直到1986年，睡眠姿勢與SIDS之間的關聯才變得清晰。"
+  },
+  {
+    "index": 67,
+    "text": "So by the late 1980s,",
+    "start": 320.929,
+    "end": 323.09,
+    "zh": "所以到20世纪80年代末。",
+    "zh_hant": "所以到20世紀80年代末。"
+  },
+  {
+    "index": 68,
+    "text": "much larger studies were coming out, which showed that the death rate was higher in children who slept on their fronts.",
+    "start": 322.89,
+    "end": 329.053,
+    "zh": "更大规模的研究出现了，显示俯睡的儿童死亡率更高。",
+    "zh_hant": "更大規模的研究出現了，顯示俯睡的兒童死亡率更高。"
+  },
+  {
+    "index": 69,
+    "text": "And eventually, the weight of evidence was just impossible to ignore.",
+    "start": 329.173,
+    "end": 332.835,
+    "zh": "最终，证据的分量实在无法忽视。",
+    "zh_hant": "最終，證據的分量實在無法忽視。"
+  },
+  {
+    "index": 70,
+    "text": "Spock's advice about front sleeping had been dangerously incorrect.",
+    "start": 332.815,
+    "end": 336.697,
+    "zh": "斯波克关于俯睡的建议是危险错误的。",
+    "zh_hant": "斯波克關於俯睡的建議是危險錯誤的。"
+  },
+  {
+    "index": 71,
+    "text": "And here's the thing with evidence.",
+    "start": 337.357,
+    "end": 339.198,
+    "zh": "证据就是这样。",
+    "zh_hant": "證據就是這樣。"
+  },
+  {
+    "index": 72,
+    "text": "Once you've got enough to act on, you get to see what happens when you act on it.",
+    "start": 339.078,
+    "end": 344.761,
+    "zh": "一旦你有了足够的依据采取行动，你就能看到行动后会发生什么。",
+    "zh_hant": "一旦你有了足夠的依據採取行動，你就能看到行動後會發生什麼。"
+  },
+  {
+    "index": 73,
+    "text": "In 1991, the UK launched a back to sleep campaign,",
+    "start": 346.322,
+    "end": 350.884,
+    "zh": "1991年，英国发起了“仰睡宣传”运动。",
+    "zh_hant": "1991年，英國發起了“仰睡宣傳”運動。"
+  },
+  {
+    "index": 74,
+    "text": "encouraging parents to put babies to sleep on their backs.",
+    "start": 350.924,
+    "end": 354.566,
+    "zh": "鼓励父母让婴儿仰睡。",
+    "zh_hant": "鼓勵父母讓嬰兒仰睡。"
+  },
+  {
+    "index": 75,
+    "text": "Other countries did the same, and as back sleeping became the norm for parents,",
+    "start": 354.846,
+    "end": 360.008,
+    "zh": "其他国家也采取了同样的行动，当仰睡成为父母的常态时。",
+    "zh_hant": "其他國家也採取了同樣的行動，當仰睡成為父母的常態時。"
+  },
+  {
+    "index": 76,
+    "text": "the incidence of SIDS dropped pretty much like a stone.",
+    "start": 359.658,
+    "end": 362.97,
+    "zh": "SIDS的发病率急剧下降。",
+    "zh_hant": "SIDS的發病率急劇下降。"
+  },
+  {
+    "index": 77,
+    "text": "And this really provided the strongest evidence of all that front sleeping increases the risk of sudden infant death,",
+    "start": 363.131,
+    "end": 369.754,
+    "zh": "这确实提供了最有力的证据，表明俯睡会增加婴儿猝死的风险。",
+    "zh_hant": "這確實提供了最有力的證據，表明俯睡會增加嬰兒猝死的風險。"
+  },
+  {
+    "index": 78,
+    "text": "even though It's still not fully understood why front sleeping is not the only risk",
+    "start": 369.734,
+    "end": 376.237,
+    "zh": "尽管仍未完全理解为什么俯睡不是唯一的风险。",
+    "zh_hant": "儘管仍未完全理解為什麼俯睡不是唯一的風險。"
+  },
+  {
+    "index": 79,
+    "text": "factor that makes deaths more likely, and other factors also changed over this time as they became clearer.",
+    "start": 375.887,
+    "end": 382.58,
+    "zh": "因素，使死亡更可能发生，而且随着这些因素变得更加清晰，其他因素也同时发生了变化。",
+    "zh_hant": "因素，使死亡更可能發生，而且隨著這些因素變得更加清晰，其他因素也同時發生了變化。"
+  },
+  {
+    "index": 80,
+    "text": "But there is no doubt that the advice in the 1958 edition of Baby and Child Care was dangerous.",
+    "start": 382.84,
+    "end": 389.823,
+    "zh": "但毫无疑问，1958年版《婴儿与儿童养育》中的建议是危险的。",
+    "zh_hant": "但毫無疑問，1958年版《嬰兒與兒童養育》中的建議是危險的。"
+  },
+  {
+    "index": 81,
+    "text": "This advocacy of front sleeping by Spock and other paediatricians",
+    "start": 389.884,
+    "end": 394.286,
+    "zh": "斯波克和其他儿科医生倡导俯睡。",
+    "zh_hant": "斯波克和其他兒科醫生倡導俯睡。"
+  },
+  {
+    "index": 82,
+    "text": "is now understood to have been one of the most lethal pieces of unsubstantiated advice in the history of child health.",
+    "start": 393.936,
+    "end": 400.309,
+    "zh": "现在被认为是儿童健康史上最致命的未经证实的建议之一。",
+    "zh_hant": "現在被認為是兒童健康史上最致命的未經證實的建議之一。"
+  },
+  {
+    "index": 83,
+    "text": "And one thing that makes it more tragic...",
+    "start": 400.489,
+    "end": 403.391,
+    "zh": "使这一切更加悲惨的是...",
+    "zh_hant": "使這一切更加悲慘的是..."
+  },
+  {
+    "index": 84,
+    "text": "Is that this link with infant death might have been detected earlier.",
+    "start": 403.371,
+    "end": 407.052,
+    "zh": "这种与婴儿死亡的关联本可以更早被发现。",
+    "zh_hant": "這種與嬰兒死亡的關聯本可以更早被發現。"
+  },
+  {
+    "index": 85,
+    "text": "The one point of light in this story is that at the same time as this all was happening,",
+    "start": 407.373,
+    "end": 412.535,
+    "zh": "这个故事中唯一的光明点在于，在这一切发生的同时。",
+    "zh_hant": "這個故事中唯一的光明點在於，在這一切發生的同時。"
+  },
+  {
+    "index": 86,
+    "text": "scientists were developing new ways of amalgamating",
+    "start": 412.475,
+    "end": 415.737,
+    "zh": "科学家们正在开发新的方法，来汇总和",
+    "zh_hant": "科學家們正在開發新的方法，來彙總和"
+  },
+  {
+    "index": 87,
+    "text": "and analysing scientific research in order to detect the signal from the noise.",
+    "start": 415.387,
+    "end": 420.939,
+    "zh": "分析科学研究，以便从噪音中检测出信号。",
+    "zh_hant": "分析科學研究，以便從噪音中檢測出訊號。"
+  },
+  {
+    "index": 88,
+    "text": "The systematic review and the meta-analysis were coming to the fore.",
+    "start": 421.2,
+    "end": 425.421,
+    "zh": "系统综述和元分析开始崭露头角。",
+    "zh_hant": "系統綜述和元分析開始嶄露頭角。"
+  },
+  {
+    "index": 89,
+    "text": "What makes this story really interesting is that scientists actually went back and did that type of analysis.",
+    "start": 425.382,
+    "end": 430.764,
+    "zh": "让这个故事真正有趣的是，科学家们实际上回头做了那类分析。",
+    "zh_hant": "讓這個故事真正有趣的是，科學家們實際上回頭做了那類分析。"
+  },
+  {
+    "index": 90,
+    "text": "In 2005, they combined the data from the historical Studies",
+    "start": 430.504,
+    "end": 435.686,
+    "zh": "2005年，他们结合了历史研究中的数据。",
+    "zh_hant": "2005年，他們結合了歷史研究中的資料。"
+  },
+  {
+    "index": 91,
+    "text": "looking at SIDS and put them together with a meta-analysis,",
+    "start": 435.336,
+    "end": 438.988,
+    "zh": "关于SIDS的研究，并用元分析将它们合并在一起。",
+    "zh_hant": "關於SIDS的研究，並用元分析將它們合併在一起。"
+  },
+  {
+    "index": 92,
+    "text": "and what they discovered was very shocking to them,",
+    "start": 439.048,
+    "end": 441.729,
+    "zh": "他们发现的结果令他们非常震惊。",
+    "zh_hant": "他們發現的結果令他們非常震驚。"
+  },
+  {
+    "index": 93,
+    "text": "because there had actually been sufficient evidence that front sleeping significantly increased risk",
+    "start": 441.71,
+    "end": 447.093,
+    "zh": "因为实际上早在1970年，就已经有足够的证据表明俯睡显著增加了风险。",
+    "zh_hant": "因為實際上早在1970年，就已經有足夠的證據表明俯睡顯著增加了風險。"
+  },
+  {
+    "index": 94,
+    "text": "as early as 1970, when just those very first two studies were pulled.",
+    "start": 446.973,
+    "end": 451.595,
+    "zh": "当时仅合并了最初两项研究。",
+    "zh_hant": "當時僅合併了最初兩項研究。"
+  },
+  {
+    "index": 95,
+    "text": "And at this point, the data actually showed that front sleepers were three times as likely to die as those who slept on their backs.",
+    "start": 451.715,
+    "end": 458.618,
+    "zh": "此时，数据实际上显示，俯睡者死于仰睡者的三倍。",
+    "zh_hant": "此時，資料實際上顯示，俯睡者死於仰睡者的三倍。"
+  },
+  {
+    "index": 96,
+    "text": "If that had been noticed, then scientists, doctors might have been able to take action.",
+    "start": 458.839,
+    "end": 463.761,
+    "zh": "如果当时注意到了这点，科学家和医生可能已经能够采取行动。",
+    "zh_hant": "如果當時注意到了這點，科學家和醫生可能已經能夠採取行動。"
+  },
+  {
+    "index": 97,
+    "text": "But instead, parents were commonly advised to put their babies to sleep on their fronts for many more years.",
+    "start": 463.721,
+    "end": 469.283,
+    "zh": "但相反，父母们被普遍建议让婴儿俯睡，这种情况持续了好几年。",
+    "zh_hant": "但相反，父母們被普遍建議讓嬰兒俯睡，這種情況持續了好幾年。"
+  },
+  {
+    "index": 98,
+    "text": "And very sadly, this UK research team that did the meta-analysis calculated",
+    "start": 469.444,
+    "end": 474.806,
+    "zh": "非常遗憾的是，进行元分析的英国研究团队计算出。",
+    "zh_hant": "非常遺憾的是，進行元分析的英國研究團隊計算出。"
+  },
+  {
+    "index": 99,
+    "text": "that at least 50,000 deaths of children in the USA,",
+    "start": 474.456,
+    "end": 478.488,
+    "zh": "在美国，至少有50,000名儿童死亡。",
+    "zh_hant": "在美國，至少有50,000名兒童死亡。"
+  },
+  {
+    "index": 100,
+    "text": "Europe, and Australasia could have been prevented if",
+    "start": 478.228,
+    "end": 481.61,
+    "zh": "欧洲和大洋洲本可以避免，如果...",
+    "zh_hant": "歐洲和大洋洲本可以避免，如果..."
+  },
+  {
+    "index": 101,
+    "text": "evidence from research on SIDS had been synthesised and acted on in 1970.",
+    "start": 481.49,
+    "end": 486.683,
+    "zh": "在1970年，对SIDS研究的证据进行了综合并采取行动。",
+    "zh_hant": "在1970年，對SIDS研究的證據進行了綜合並採取行動。"
+  },
+  {
+    "index": 102,
+    "text": "The case of Dr. Spock is one of many in Helen's book,",
+    "start": 486.733,
+    "end": 490.254,
+    "zh": "斯波克医生的案例只是海伦书中的众多案例之一。",
+    "zh_hant": "斯波克醫生的案例只是海倫書中的眾多案例之一。"
+  },
+  {
+    "index": 103,
+    "text": "where the received wisdom did not match up with the evidence,",
+    "start": 490.154,
+    "end": 493.736,
+    "zh": "在这些案例中，公认的智慧与证据不符。",
+    "zh_hant": "在這些案例中，公認的智慧與證據不符。"
+  },
+  {
+    "index": 104,
+    "text": "and in many cases the evidence is not nearly as clear.",
+    "start": 493.696,
+    "end": 497.238,
+    "zh": "在许多情况下，证据远没有那么清晰。",
+    "zh_hant": "在許多情況下，證據遠沒有那麼清晰。"
+  },
+  {
+    "index": 105,
+    "text": "But even when you've got good evidence, that doesn't mean it's going to be accepted.",
+    "start": 497.518,
+    "end": 502.26,
+    "zh": "但即使你有好的证据，这并不意味着它会被人接受。",
+    "zh_hant": "但即使你有好的證據，這並不意味著它會被人接受。"
+  },
+  {
+    "index": 106,
+    "text": "One reason that evidence is very difficult to accept is that often it shows that what people have been doing is wrong,",
+    "start": 502.5,
+    "end": 508.483,
+    "zh": "证据难以接受的一个原因是，它常常显示人们一直在做的事情是错误的。",
+    "zh_hant": "證據難以接受的一個原因是，它常常顯示人們一直在做的事情是錯誤的。"
+  },
+  {
+    "index": 107,
+    "text": "and it's very difficult to accept that you were wrong,",
+    "start": 508.133,
+    "end": 510.964,
+    "zh": "而且承认自己错了是非常困难的。",
+    "zh_hant": "而且承認自己錯了是非常困難的。"
+  },
+  {
+    "index": 108,
+    "text": "particularly difficult if it means that it has Contributed to harm to other people.",
+    "start": 510.945,
+    "end": 516.887,
+    "zh": "如果这意味着它导致了对他人的伤害，那就特别困难。",
+    "zh_hant": "如果這意味著它導致了對他人的傷害，那就特別困難。"
+  },
+  {
+    "index": 109,
+    "text": "Thanks to Helen Pearson, author of \"Beyond Belief: How Evidence Shows What Really Works.\"",
+    "start": 519.569,
+    "end": 525.775,
+    "zh": "感谢海伦·皮尔逊，《超越信念：证据如何显示真正有效的方法》的作者。",
+    "zh_hant": "感謝海倫·皮爾遜，《超越信念：證據如何顯示真正有效的方法》的作者。"
+  },
+  {
+    "index": 110,
+    "text": "If you've seen a number or some childcare advice you think we should look at,",
+    "start": 526.036,
+    "end": 529.861,
+    "zh": "如果你看到一个数字或一些育儿建议，认为我们应该研究一下。",
+    "zh_hant": "如果你看到一個數字或一些育兒建議，認為我們應該研究一下。"
+  },
+  {
+    "index": 111,
+    "text": "email moreorless@bbc.co.uk.",
+    "start": 529.881,
+    "end": 534.206,
+    "zh": "请发邮件至 moreorless@bbc.co.uk。",
+    "zh_hant": "請發郵件至 moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 112,
+    "text": "Until next week, goodbye.",
+    "start": 534.767,
+    "end": 537.17,
+    "zh": "下周见，再见。",
+    "zh_hant": "下週見，再見。"
+  }
+]

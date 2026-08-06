@@ -1,0 +1,458 @@
+[
+  {
+    "index": 0,
+    "text": "Now, you published a book last year based in part on the work that you and your team are doing at the Paradigms of Intelligence team.",
+    "start": 0.77,
+    "end": 7.754,
+    "zh": "现在，你去年出版了一本书，部分基于你和你的团队在“智能范式”团队所做的工作。",
+    "zh_hant": "現在，你去年出版了一本書，部分基於你和你的團隊在“智慧正規化”團隊所做的工作。"
+  },
+  {
+    "index": 1,
+    "text": "It’s called, What is Intelligence?: Lessons From A.I. About Evolution, Computing, and Minds .",
+    "start": 7.934,
+    "end": 13.99,
+    "zh": "书名是《什么是智能？：从人工智能看进化、计算与心智的启示》。",
+    "zh_hant": "書名是《什麼是智慧？：從人工智慧看進化、計算與心智的啟示》。"
+  },
+  {
+    "index": 2,
+    "text": "It’s full of a lot of very bold ideas.",
+    "start": 13.64,
+    "end": 16.838,
+    "zh": "书中充满了许多大胆的想法。",
+    "zh_hant": "書中充滿了許多大膽的想法。"
+  },
+  {
+    "index": 3,
+    "text": "Let me just hit on a few of those.",
+    "start": 16.488,
+    "end": 18.639,
+    "zh": "让我挑几个说说。",
+    "zh_hant": "讓我挑幾個說說。"
+  },
+  {
+    "index": 4,
+    "text": "For instance, you argue that the primary function of intelligence,",
+    "start": 18.639,
+    "end": 24.022,
+    "zh": "例如，你认为智能的主要功能，",
+    "zh_hant": "例如，你認為智慧的主要功能，"
+  },
+  {
+    "index": 5,
+    "text": "and life itself, is prediction.",
+    "start": 23.942,
+    "end": 26.643,
+    "zh": "乃至生命本身，就是预测。",
+    "zh_hant": "乃至生命本身，就是預測。"
+  },
+  {
+    "index": 6,
+    "text": "What do you mean by that?",
+    "start": 27.003,
+    "end": 28.244,
+    "zh": "你这话是什么意思？",
+    "zh_hant": "你這話是什麼意思？"
+  },
+  {
+    "index": 7,
+    "text": "This is in many ways an old idea.",
+    "start": 28.344,
+    "end": 30.425,
+    "zh": "这在很多方面是个老观点。",
+    "zh_hant": "這在很多方面是個老觀點。"
+  },
+  {
+    "index": 8,
+    "text": "One of the long-standing critiques of A.I. models is that they’re just auto-complete on steroids, that they are just predicting the next token.",
+    "start": 30.945,
+    "end": 37.388,
+    "zh": "对AI模型一个长期的批评是，它们只是增强版的自动补全，只是在预测下一个词。",
+    "zh_hant": "對AI模型一個長期的批評是，它們只是增強版的自動補全，只是在預測下一個詞。"
+  },
+  {
+    "index": 9,
+    "text": "I always kind of thought in my heart, as it were, that that could not be the secret of intelligence.",
+    "start": 37.588,
+    "end": 43.291,
+    "zh": "我心里总隐约觉得，那不可能就是智能的秘密。",
+    "zh_hant": "我心裡總隱約覺得，那不可能就是智慧的秘密。"
+  },
+  {
+    "index": 10,
+    "text": "Surely it’s not just predicting the next token.",
+    "start": 43.112,
+    "end": 46.093,
+    "zh": "当然不只是预测下一个词。",
+    "zh_hant": "當然不只是預測下一個詞。"
+  },
+  {
+    "index": 11,
+    "text": "So I was as shocked as anybody when we made really large scale next-token predictors,",
+    "start": 46.293,
+    "end": 51.756,
+    "zh": "所以当我们在大规模做下一个词预测时，我和大家一样震惊，",
+    "zh_hant": "所以當我們在大規模做下一個詞預測時，我和大家一樣震驚，"
+  },
+  {
+    "index": 12,
+    "text": "and they started to get the answers right to hard mathematical word problems and write poetry and all this kind of stuff.",
+    "start": 51.796,
+    "end": 57.558,
+    "zh": "它们居然能答对困难的数学文字题，还能写诗之类的。",
+    "zh_hant": "它們居然能答對困難的數學文字題，還能寫詩之類的。"
+  },
+  {
+    "index": 13,
+    "text": "I found that very surprising as far as my intuition went,",
+    "start": 57.779,
+    "end": 60.74,
+    "zh": "凭我的直觉，这非常出乎意料，",
+    "zh_hant": "憑我的直覺，這非常出乎意料，"
+  },
+  {
+    "index": 14,
+    "text": "but if you really start to look at what it means to predict, the surprise dissipates a bit.",
+    "start": 60.39,
+    "end": 65.782,
+    "zh": "但如果你真的开始思考预测意味着什么，这种惊讶就会消散一些。",
+    "zh_hant": "但如果你真的開始思考預測意味著什麼，這種驚訝就會消散一些。"
+  },
+  {
+    "index": 15,
+    "text": "The reason we’ve got brains is because we live in a complex world,",
+    "start": 65.523,
+    "end": 69.284,
+    "zh": "我们有大脑，是因为我们生活在一个复杂的世界里，",
+    "zh_hant": "我們有大腦，是因為我們生活在一個複雜的世界裡，"
+  },
+  {
+    "index": 16,
+    "text": "and our actions can have effects on that world",
+    "start": 69.545,
+    "end": 74.327,
+    "zh": "而我们的行为会对那个世界产生影响，",
+    "zh_hant": "而我們的行為會對那個世界產生影響，"
+  },
+  {
+    "index": 17,
+    "text": "and our own futures that can either hurt us or help us.",
+    "start": 73.977,
+    "end": 77.268,
+    "zh": "也会影响我们自己的未来，可能带来好处，也可能带来坏处。",
+    "zh_hant": "也會影響我們自己的未來，可能帶來好處，也可能帶來壞處。"
+  },
+  {
+    "index": 18,
+    "text": "And so, in order to be able to distinguish between actions that will lead to good places or to bad places,",
+    "start": 77.648,
+    "end": 83.311,
+    "zh": "所以，为了分辨哪些行为会带来好结果，哪些会带来坏结果，",
+    "zh_hant": "所以，為了分辨哪些行為會帶來好結果，哪些會帶來壞結果，"
+  },
+  {
+    "index": 19,
+    "text": "that’s exactly what you have to do, you have to predict.",
+    "start": 83.292,
+    "end": 85.533,
+    "zh": "你必须做的正是预测。",
+    "zh_hant": "你必須做的正是預測。"
+  },
+  {
+    "index": 20,
+    "text": "Not just predict the world in your absence, but do what statisticians call conditional prediction,",
+    "start": 85.533,
+    "end": 90.815,
+    "zh": "不仅要预测在你不在场时世界会怎样，还要做统计学家所说的条件预测，",
+    "zh_hant": "不僅要預測在你不在場時世界會怎樣，還要做統計學家所說的條件預測，"
+  },
+  {
+    "index": 21,
+    "text": "meaning, predict the world conditional on action A and action B, and then decide which prediction you like better.",
+    "start": 90.775,
+    "end": 97.498,
+    "zh": "也就是说，预测在采取行动A和行动B条件下的世界，然后决定你喜欢哪个预测。",
+    "zh_hant": "也就是說，預測在採取行動A和行動B條件下的世界，然後決定你喜歡哪個預測。"
+  },
+  {
+    "index": 22,
+    "text": "In some sense, it’s almost a tautology, like of course that’s what brains are there for.",
+    "start": 97.419,
+    "end": 101.54,
+    "zh": "从某种意义上说，这几乎是一个自明之理，大脑当然就是为了这个。",
+    "zh_hant": "從某種意義上說，這幾乎是一個自明之理，大腦當然就是為了這個。"
+  },
+  {
+    "index": 23,
+    "text": "If you couldn’t act to change your own future, then there would really be no point in having a brain.",
+    "start": 101.2,
+    "end": 106.423,
+    "zh": "如果你不能通过行动改变自己的未来，那拥有大脑就毫无意义了。",
+    "zh_hant": "如果你不能透過行動改變自己的未來，那擁有大腦就毫無意義了。"
+  },
+  {
+    "index": 24,
+    "text": "And if you couldn’t predict the effects of your actions, then there would also be no point in having a brain.",
+    "start": 106.363,
+    "end": 111.005,
+    "zh": "如果你不能预测自己行为的效果，那拥有大脑也毫无意义。",
+    "zh_hant": "如果你不能預測自己行為的效果，那擁有大腦也毫無意義。"
+  },
+  {
+    "index": 25,
+    "text": "What people might find confusing about this,",
+    "start": 111.285,
+    "end": 114.067,
+    "zh": "不过，人们可能觉得困惑的是，",
+    "zh_hant": "不過，人們可能覺得困惑的是，"
+  },
+  {
+    "index": 26,
+    "text": "though, is that we’ve built these neural nets, these A.I. programs,",
+    "start": 113.717,
+    "end": 118.669,
+    "zh": "我们构建了这些神经网络，这些AI程序，",
+    "zh_hant": "我們構建了這些神經網路，這些AI程式，"
+  },
+  {
+    "index": 27,
+    "text": "and it is bizarre that the objective is to predict the next word.",
+    "start": 118.389,
+    "end": 124.472,
+    "zh": "而目标竟然是要预测下一个词，这让人觉得很奇怪。",
+    "zh_hant": "而目標竟然是要預測下一個詞，這讓人覺得很奇怪。"
+  },
+  {
+    "index": 28,
+    "text": "And I think what you’re arguing is that you can’t predict the next word well",
+    "start": 124.122,
+    "end": 128.294,
+    "zh": "我想你在主张的是，你根本不可能很好地预测下一个词，",
+    "zh_hant": "我想你在主張的是，你根本不可能很好地預測下一個詞，"
+  },
+  {
+    "index": 29,
+    "text": "at all unless you have a pretty complete model of how the entire world works, because you don’t know.",
+    "start": 127.944,
+    "end": 133.737,
+    "zh": "除非你对整个世界如何运作有一个相当完整的模型，因为你不知道。",
+    "zh_hant": "除非你對整個世界如何運作有一個相當完整的模型，因為你不知道。"
+  },
+  {
+    "index": 30,
+    "text": "(BA^Exactly.)",
+    "start": 133.457,
+    "end": 134.537,
+    "zh": "（巴伦·嗯，正是这样。）",
+    "zh_hant": "（巴倫·嗯，正是這樣。）"
+  },
+  {
+    "index": 31,
+    "text": "If you don’t have the context, you’d just be terrible at that.",
+    "start": 134.217,
+    "end": 137.438,
+    "zh": "如果没有背景信息，你在那方面会表现得很糟糕。",
+    "zh_hant": "如果沒有背景資訊，你在那方面會表現得很糟糕。"
+  },
+  {
+    "index": 32,
+    "text": "And at least my own experience, as I’ve interacted more and more with A.I.,",
+    "start": 137.119,
+    "end": 143.001,
+    "zh": "至少以我自己的经验来看，随着我和AI互动得越来越多，",
+    "zh_hant": "至少以我自己的經驗來看，隨著我和AI互動得越來越多，"
+  },
+  {
+    "index": 33,
+    "text": "is to really reconsider who I am and to think that, yeah,",
+    "start": 143.161,
+    "end": 148.804,
+    "zh": "就是真的去重新思考我是谁，并且觉得，是的，",
+    "zh_hant": "就是真的去重新思考我是誰，並且覺得，是的，"
+  },
+  {
+    "index": 34,
+    "text": "that kind of, what A.I. is doing feels a lot like what I do,",
+    "start": 148.454,
+    "end": 152.046,
+    "zh": "那种，AI在做的事情感觉很像我在做的事情，",
+    "zh_hant": "那種，AI在做的事情感覺很像我在做的事情，"
+  },
+  {
+    "index": 35,
+    "text": "that if I’m really tired or maybe I had too much to drink,",
+    "start": 151.866,
+    "end": 157.288,
+    "zh": "如果我真的累了或者喝得有点多，",
+    "zh_hant": "如果我真的累了或者喝得有點多，"
+  },
+  {
+    "index": 36,
+    "text": "I start making the exact same kind of mistakes that A.I. makes when it doesn’t exactly understand what’s going on.",
+    "start": 158.089,
+    "end": 164.652,
+    "zh": "我就会开始犯那种AI在不太明白情况时会犯的完全一样的错误。",
+    "zh_hant": "我就會開始犯那種AI在不太明白情況時會犯的完全一樣的錯誤。"
+  },
+  {
+    "index": 37,
+    "text": "It’s been interesting.",
+    "start": 164.512,
+    "end": 165.673,
+    "zh": "这挺有意思的。",
+    "zh_hant": "這挺有意思的。"
+  },
+  {
+    "index": 38,
+    "text": "I wouldn’t have thought that I would come to see myself as being like A.I., but I really have.",
+    "start": 165.323,
+    "end": 170.875,
+    "zh": "我从没想过自己会把自己看作像AI，但我真的这样了。",
+    "zh_hant": "我從沒想過自己會把自己看作像AI，但我真的這樣了。"
+  },
+  {
+    "index": 39,
+    "text": "Yeah, that’s exactly what I meant when I wrote the title of the book, what A.I. is teaching us about intelligence generally, including about ourselves.",
+    "start": 170.635,
+    "end": 177.619,
+    "zh": "是的，这正是我在写书名时想表达的意思，AI在教我们关于智能的一般知识，包括关于我们自己的。",
+    "zh_hant": "是的，這正是我在寫書名時想表達的意思，AI在教我們關於智慧的一般知識，包括關於我們自己的。"
+  },
+  {
+    "index": 40,
+    "text": "So I think that’s real.",
+    "start": 177.639,
+    "end": 179.019,
+    "zh": "所以我觉得那是真实的。",
+    "zh_hant": "所以我覺得那是真實的。"
+  },
+  {
+    "index": 41,
+    "text": "It doesn’t mean that you’re just babbling, that you are just saying stuff.",
+    "start": 179.08,
+    "end": 183.942,
+    "zh": "这并不意味着你只是在胡说八道，只是在乱说。",
+    "zh_hant": "這並不意味著你只是在胡說八道，只是在亂說。"
+  },
+  {
+    "index": 42,
+    "text": "In a way, when people say, oh, are people really just next-token predictors,",
+    "start": 183.882,
+    "end": 188.024,
+    "zh": "在某种程度上，当人们说，哦，人真的只是下一个词的预测器吗，",
+    "zh_hant": "在某種程度上，當人們說，哦，人真的只是下一個詞的預測器嗎，"
+  },
+  {
+    "index": 43,
+    "text": "the error is in the word “just,” because a lot is implied by that.",
+    "start": 187.674,
+    "end": 191.425,
+    "zh": "错误在于“只是”这个词，因为其中蕴含着很多东西。",
+    "zh_hant": "錯誤在於“只是”這個詞，因為其中蘊含著很多東西。"
+  },
+  {
+    "index": 44,
+    "text": "And in particular, what I think trips a lot of people up is that they imagine",
+    "start": 191.546,
+    "end": 196.288,
+    "zh": "具体来说，我认为让很多人困惑的是，他们想象",
+    "zh_hant": "具體來說，我認為讓很多人困惑的是，他們想象"
+  },
+  {
+    "index": 45,
+    "text": "that the mind that is doing that predicting or the process that is doing that predicting is outside the thing that is being predicted.",
+    "start": 196.028,
+    "end": 202.832,
+    "zh": "做预测的那个心智或那个过程是位于被预测事物之外的。",
+    "zh_hant": "做預測的那個心智或那個過程是位於被預測事物之外的。"
+  },
+  {
+    "index": 46,
+    "text": "But the key thing to understand there is that the sequence of events that you’re predicting",
+    "start": 202.992,
+    "end": 208.875,
+    "zh": "但要理解的关键是，你预测的事件序列",
+    "zh_hant": "但要理解的關鍵是，你預測的事件序列"
+  },
+  {
+    "index": 47,
+    "text": "include what you are going to do.",
+    "start": 208.895,
+    "end": 211.336,
+    "zh": "包括你自己将要做什么。",
+    "zh_hant": "包括你自己將要做什麼。"
+  },
+  {
+    "index": 48,
+    "text": "They include your own actions.",
+    "start": 211.376,
+    "end": 213.177,
+    "zh": "它们包括你自己的行为。",
+    "zh_hant": "它們包括你自己的行為。"
+  },
+  {
+    "index": 49,
+    "text": "They are part of that stream of events that you experience too.",
+    "start": 212.827,
+    "end": 215.698,
+    "zh": "它们也是你所体验的那条事件流的一部分。",
+    "zh_hant": "它們也是你所體驗的那條事件流的一部分。"
+  },
+  {
+    "index": 50,
+    "text": "And what that means is that in order to do a good job of predicting the future,",
+    "start": 215.898,
+    "end": 219.92,
+    "zh": "而这意味着，为了做好预测未来的工作，",
+    "zh_hant": "而這意味著，為了做好預測未來的工作，"
+  },
+  {
+    "index": 51,
+    "text": "any future that involves your own actions, you actually have to be predicting yourself as well, modeling yourself.",
+    "start": 219.57,
+    "end": 225.643,
+    "zh": "任何涉及你自己行为的未来，你实际上也必须预测自己，给自己建模。",
+    "zh_hant": "任何涉及你自己行為的未來，你實際上也必須預測自己，給自己建模。"
+  },
+  {
+    "index": 52,
+    "text": "And I actually think that that’s where consciousness comes from.",
+    "start": 226.043,
+    "end": 229.365,
+    "zh": "而且我确实认为，那就是意识的来源。",
+    "zh_hant": "而且我確實認為，那就是意識的來源。"
+  },
+  {
+    "index": 53,
+    "text": "Not consciousness in some kind of mystical sense,",
+    "start": 229.405,
+    "end": 232.086,
+    "zh": "不是某种神秘意义上的意识，",
+    "zh_hant": "不是某種神秘意義上的意識，"
+  },
+  {
+    "index": 54,
+    "text": "but in the sense that knowing what it’s like to be you and knowing",
+    "start": 231.736,
+    "end": 235.307,
+    "zh": "而是说，知道做自己是什么感觉，知道",
+    "zh_hant": "而是說，知道做自己是什麼感覺，知道"
+  },
+  {
+    "index": 55,
+    "text": "what you’re likely to do in the future and what others think about you and what you think they think and so on.",
+    "start": 234.957,
+    "end": 241.135,
+    "zh": "你未来可能会做什么，别人怎么看你，你以为他们怎么看你，等等。",
+    "zh_hant": "你未來可能會做什麼，別人怎麼看你，你以為他們怎麼看你，等等。"
+  },
+  {
+    "index": 56,
+    "text": "You know, I think that is the functional essence of what consciousness really is.",
+    "start": 240.996,
+    "end": 245.509,
+    "zh": "你知道，我认为那就是意识真正在功能层面的本质。",
+    "zh_hant": "你知道，我認為那就是意識真正在功能層面的本質。"
+  }
+]

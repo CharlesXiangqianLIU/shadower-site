@@ -1,0 +1,530 @@
+[
+  {
+    "index": 0,
+    "text": "this show has economics in its name so let’s start with an economist.",
+    "start": 0.35,
+    "end": 4.912,
+    "zh": "这节目名字里带“经济学”，所以我们先请一位经济学家开场。",
+    "zh_hant": "這節目名字裡帶“經濟學”，所以我們先請一位經濟學家開場。"
+  },
+  {
+    "index": 1,
+    "text": "My name is Ken Troske , I’m a labor economist and chair of the economics department at the University of Kentucky.",
+    "start": 4.872,
+    "end": 11.556,
+    "zh": "我叫肯·特罗斯基，是一名劳动经济学家，也是肯塔基大学经济学系主任。",
+    "zh_hant": "我叫肯·特羅斯基，是一名勞動經濟學家，也是肯塔基大學經濟學系主任。"
+  },
+  {
+    "index": 2,
+    "text": "Troske grew up in Washington state, got his Ph.D. at the University of Chicago, and he moved to Kentucky about 20 years ago.",
+    "start": 11.596,
+    "end": 18.639,
+    "zh": "特罗斯基在华盛顿州长大，在芝加哥大学拿到博士学位，大约20年前搬到肯塔基。",
+    "zh_hant": "特羅斯基在華盛頓州長大，在芝加哥大學拿到博士學位，大約20年前搬到肯塔基。"
+  },
+  {
+    "index": 3,
+    "text": "Ninety-five percent of bourbon made in the world is made within a 45-minute drive of the house I live in.",
+    "start": 18.699,
+    "end": 23.601,
+    "zh": "全世界95%的波本威士忌，都产自我家开车45分钟的范围之内。",
+    "zh_hant": "全世界95%的波本威士忌，都產自我家開車45分鐘的範圍之內。"
+  },
+  {
+    "index": 4,
+    "text": "It was Troske we heard from a minute ago, saying that there are 16 million barrels of bourbon aging in Kentucky.",
+    "start": 23.702,
+    "end": 29.584,
+    "zh": "我们刚才听特罗斯基说，肯塔基正在陈酿的波本威士忌有1600万桶。",
+    "zh_hant": "我們剛才聽特羅斯基說，肯塔基正在陳釀的波本威士忌有1600萬桶。"
+  },
+  {
+    "index": 5,
+    "text": "That’s up from 4 million when Troske arrived.",
+    "start": 29.565,
+    "end": 32.926,
+    "zh": "这比特罗斯基刚到时的400万桶涨了不少。",
+    "zh_hant": "這位元羅斯基剛到時的400萬桶漲了不少。"
+  },
+  {
+    "index": 6,
+    "text": "When I got there, bourbon was just starting to recover from a long period of time of when it was in decline.",
+    "start": 33.026,
+    "end": 40.23,
+    "zh": "我刚到那儿时，波本威士忌刚从一段很长时间的低迷期里开始恢复。",
+    "zh_hant": "我剛到那兒時，波本威士忌剛從一段很長時間的低迷期裡開始恢復。"
+  },
+  {
+    "index": 7,
+    "text": "And I was hearing about this bourbon called Pappy Van Winkle’s .",
+    "start": 39.89,
+    "end": 43.87,
+    "zh": "我听说过一种叫帕皮·范温克尔的波本威士忌。",
+    "zh_hant": "我聽說過一種叫帕皮·範溫克爾的波本威士忌。"
+  },
+  {
+    "index": 8,
+    "text": "I told my wife one time for Christmas, I said, you know, I’d like to try some.",
+    "start": 43.672,
+    "end": 47.634,
+    "zh": "有一次过圣诞节，我跟我妻子说，你知道，我想尝一尝这个。",
+    "zh_hant": "有一次過聖誕節，我跟我妻子說，你知道，我想嘗一嘗這個。"
+  },
+  {
+    "index": 9,
+    "text": "So she went into the local big box liquor store, and there were a couple bottles of 20-year-old Pappy.",
+    "start": 47.494,
+    "end": 53.016,
+    "zh": "于是她去了当地的大卖场酒类店，那儿有几瓶20年陈酿的帕皮。",
+    "zh_hant": "於是她去了當地的大賣場酒類店，那兒有幾瓶20年陳釀的帕皮。"
+  },
+  {
+    "index": 10,
+    "text": "But it was $120 a bottle.",
+    "start": 52.797,
+    "end": 54.897,
+    "zh": "但要120美元一瓶。",
+    "zh_hant": "但要120美元一瓶。"
+  },
+  {
+    "index": 11,
+    "text": "Which is maybe triple what a typical bottle would be?",
+    "start": 54.597,
+    "end": 57.919,
+    "zh": "这大约是普通瓶装价格的三倍吧？",
+    "zh_hant": "這大約是普通瓶裝價格的三倍吧？"
+  },
+  {
+    "index": 12,
+    "text": "Oh yeah, at least.",
+    "start": 57.979,
+    "end": 59.219,
+    "zh": "哦对，至少三倍。",
+    "zh_hant": "哦對，至少三倍。"
+  },
+  {
+    "index": 13,
+    "text": "Okay, so $120.",
+    "start": 58.869,
+    "end": 59.87,
+    "zh": "好吧，120美元。",
+    "zh_hant": "好吧，120美元。"
+  },
+  {
+    "index": 14,
+    "text": "So she thinks, ah, it’s not worth it.",
+    "start": 59.92,
+    "end": 61.981,
+    "zh": "所以她心想，哎呀，不值得。",
+    "zh_hant": "所以她心想，哎呀，不值得。"
+  },
+  {
+    "index": 15,
+    "text": "And then she goes home and then she says, well, it’s a Christmas present, yada yada, and she goes back and she buys it, at $120 a bottle.",
+    "start": 61.631,
+    "end": 67.944,
+    "zh": "然后她回到家，又说，算了，这是圣诞礼物，诸如此类，然后又回去把那瓶120美元一瓶的买了下来。",
+    "zh_hant": "然後她回到家，又說，算了，這是聖誕禮物，諸如此類，然後又回去把那瓶120美元一瓶的買了下來。"
+  },
+  {
+    "index": 16,
+    "text": "You try to find a bottle of 20-year-old Pappy’s right now, it is probably $2,500, $3,000.",
+    "start": 67.844,
+    "end": 73.29,
+    "zh": "你现在想买一瓶20年陈酿的帕皮，大概要2500到3000美元。",
+    "zh_hant": "你現在想買一瓶20年陳釀的帕皮，大概要2500到3000美元。"
+  },
+  {
+    "index": 17,
+    "text": "And I’m like why didn’t you get two?",
+    "start": 73.026,
+    "end": 75.607,
+    "zh": "我当时就说，你怎么不多买一瓶？",
+    "zh_hant": "我當時就說，你怎麼不多買一瓶？"
+  },
+  {
+    "index": 18,
+    "text": "Pappy Van Winkle is one of a couple dozen bourbon brands controlled by Sazerac,",
+    "start": 75.888,
+    "end": 81.471,
+    "zh": "帕皮·范温克尔是萨泽拉克公司旗下二十多个波本威士忌品牌之一。",
+    "zh_hant": "帕皮·範溫克爾是薩澤拉克公司旗下二十多個波本威士忌品牌之一。"
+  },
+  {
+    "index": 19,
+    "text": "which is one of the biggest spirits producers in the U.S.",
+    "start": 81.131,
+    "end": 84.612,
+    "zh": "萨泽拉克是美国最大的烈酒生产商之一。",
+    "zh_hant": "薩澤拉克是美國最大的烈酒生產商之一。"
+  },
+  {
+    "index": 20,
+    "text": "Some of the other Sazerac bourbons are Buffalo Trace, Blanton’s, Eagle Rare.",
+    "start": 84.653,
+    "end": 89.715,
+    "zh": "萨泽拉克旗下其他波本品牌还有水牛足迹、布兰顿、鹰稀有。",
+    "zh_hant": "薩澤拉克旗下其他波本品牌還有水牛足跡、布蘭頓、鷹稀有。"
+  },
+  {
+    "index": 21,
+    "text": "Pappy Van Winkle is aged much longer than most bourbons, and is at the high end of the price scale.",
+    "start": 89.895,
+    "end": 95.117,
+    "zh": "帕皮·范温克尔的陈酿时间比大多数波本威士忌长得多，价格也处于高端。",
+    "zh_hant": "帕皮·範溫克爾的陳釀時間比大多數波本威士忌長得多，價格也處於高階。"
+  },
+  {
+    "index": 22,
+    "text": "You can always tell that a commodity is getting more valuable when more people start to steal it.",
+    "start": 95.278,
+    "end": 100.46,
+    "zh": "当一种商品开始被更多人偷窃时，你总能看出来它变得越来越值钱。",
+    "zh_hant": "當一種商品開始被更多人偷竊時，你總能看出來它變得越來越值錢。"
+  },
+  {
+    "index": 23,
+    "text": "Like when thieves rip out the copper wiring at construction sites, or go under your car with a Sawzall to cut out the catalytic converter.",
+    "start": 100.11,
+    "end": 107.644,
+    "zh": "比如小偷在建筑工地拆铜线，或者钻到你车底下用锯子割掉催化转化器。",
+    "zh_hant": "比如小偷在建築工地拆銅線，或者鑽到你車底下用鋸子割掉催化轉化器。"
+  },
+  {
+    "index": 24,
+    "text": "During the bourbon boom, 65 cases of 20-year Pappy Van Winkle were stolen from a warehouse;",
+    "start": 107.684,
+    "end": 113.967,
+    "zh": "在波本热潮期间，有65箱20年陈酿的帕皮·范温克尔从仓库里被偷走了。",
+    "zh_hant": "在波本熱潮期間，有65箱20年陳釀的帕皮·範溫克爾從倉庫裡被偷走了。"
+  },
+  {
+    "index": 25,
+    "text": "the black-market value was an estimated $100,000 .",
+    "start": 113.887,
+    "end": 117.25,
+    "zh": "黑市价值估计约10万美元。",
+    "zh_hant": "黑市價值估計約10萬美元。"
+  },
+  {
+    "index": 26,
+    "text": "Ken Troske had not been a bourbon man when he moved to Kentucky.",
+    "start": 117.229,
+    "end": 121.551,
+    "zh": "肯·特罗斯基搬到肯塔基时，并不是一个波本威士忌爱好者。",
+    "zh_hant": "肯·特羅斯基搬到肯塔基時，並不是一個波本威士忌愛好者。"
+  },
+  {
+    "index": 27,
+    "text": "But by now, he could understand the appeal.",
+    "start": 121.201,
+    "end": 123.732,
+    "zh": "但到那时，他已经能理解这种酒的魅力了。",
+    "zh_hant": "但到那時，他已經能理解這種酒的魅力了。"
+  },
+  {
+    "index": 28,
+    "text": "I drank that stuff.",
+    "start": 123.832,
+    "end": 125.173,
+    "zh": "我喝了那玩意儿。",
+    "zh_hant": "我喝了那玩意兒。"
+  },
+  {
+    "index": 29,
+    "text": "It’s really good.",
+    "start": 124.833,
+    "end": 125.993,
+    "zh": "真的很好。",
+    "zh_hant": "真的很好。"
+  },
+  {
+    "index": 30,
+    "text": "After that, you know, I just started trying other different bourbons,",
+    "start": 125.993,
+    "end": 130.095,
+    "zh": "那之后，你知道，我就开始尝试其他各种波本威士忌。",
+    "zh_hant": "那之後，你知道，我就開始嘗試其他各種波本威士忌。"
+  },
+  {
+    "index": 31,
+    "text": "and — So your curiosity was taste-based?",
+    "start": 129.745,
+    "end": 132.977,
+    "zh": "所以你的好奇心是源自口感？",
+    "zh_hant": "所以你的好奇心是源自口感？"
+  },
+  {
+    "index": 32,
+    "text": "You weren’t necessarily thinking about the economics of it?",
+    "start": 132.627,
+    "end": 135.478,
+    "zh": "你不一定是在想它背后的经济学？",
+    "zh_hant": "你不一定是在想它背後的經濟學？"
+  },
+  {
+    "index": 33,
+    "text": "Well, when people come to Kentucky, what are you going to do with them?",
+    "start": 135.258,
+    "end": 139.54,
+    "zh": "嗯，人们来肯塔基的时候，你会带他们做什么呢？",
+    "zh_hant": "嗯，人們來肯塔基的時候，你會帶他們做什麼呢？"
+  },
+  {
+    "index": 34,
+    "text": "Horses and bourbon.",
+    "start": 139.19,
+    "end": 140.36,
+    "zh": "马和波本。",
+    "zh_hant": "馬和波本。"
+  },
+  {
+    "index": 35,
+    "text": "You’re going to take them to a horse farm, and you’re going to take them to a distillery.",
+    "start": 140.01,
+    "end": 143.062,
+    "zh": "你会带他们去马场，还会带他们去酿酒厂。",
+    "zh_hant": "你會帶他們去馬場，還會帶他們去釀酒廠。"
+  },
+  {
+    "index": 36,
+    "text": "So I started learning about the production of this stuff and more about the market.",
+    "start": 142.712,
+    "end": 147.424,
+    "zh": "所以我开始了解这种酒的生产过程，也更多了解它的市场。",
+    "zh_hant": "所以我開始瞭解這種酒的生產過程，也更多瞭解它的市場。"
+  },
+  {
+    "index": 37,
+    "text": "And it is a fascinating market in ways that touch a lot of other types of economics.",
+    "start": 147.074,
+    "end": 153.787,
+    "zh": "而且这个市场很有意思，在很多方面牵扯到其他类型的经济学。",
+    "zh_hant": "而且這個市場很有意思，在很多方面牽扯到其他型別的經濟學。"
+  },
+  {
+    "index": 38,
+    "text": "First off, if you want to call it bourbon, you can’t sell it for at least two years, and most of the time it’s four to six.",
+    "start": 153.687,
+    "end": 159.99,
+    "zh": "首先，如果你想把它叫波本威士忌，你至少得放两年才能卖，大多数情况是四到六年。",
+    "zh_hant": "首先，如果你想把它叫波本威士忌，你至少得放兩年才能賣，大多數情況是四到六年。"
+  },
+  {
+    "index": 39,
+    "text": "I’ve read that that’s a little bit of a myth, that there’s no actual enforced minimum — or is that not true?",
+    "start": 159.911,
+    "end": 165.873,
+    "zh": "我读过一些说法说这有点是个神话，并没有真正强制的最低年限——还是说这不是真的？",
+    "zh_hant": "我讀過一些說法說這有點是個神話，並沒有真正強制的最低年限——還是說這不是真的？"
+  },
+  {
+    "index": 40,
+    "text": "So I am looking at something, and I’ll read it to you.",
+    "start": 165.653,
+    "end": 168.534,
+    "zh": "那我看点东西，然后念给你听。",
+    "zh_hant": "那我看點東西，然後念給你聽。"
+  },
+  {
+    "index": 41,
+    "text": "According to the Code of Federal Regulations, the CFR Chapter 27, Section 5.14,",
+    "start": 168.184,
+    "end": 174.087,
+    "zh": "根据美国联邦法规，第27章第5.14节。",
+    "zh_hant": "根據美國聯邦法規，第27章第5.14節。"
+  },
+  {
+    "index": 42,
+    "text": "if you want to call it straight bourbon whiskey, it has to be fermented mash, not less than 51 percent corn,",
+    "start": 174.137,
+    "end": 180.18,
+    "zh": "如果你想把它叫纯波本威士忌，就必须是用发酵麦芽浆做的，玉米含量不低于51%，",
+    "zh_hant": "如果你想把它叫純波本威士忌，就必須是用發酵麥芽漿做的，玉米含量不低於51%，"
+  },
+  {
+    "index": 43,
+    "text": "160-proof distilled in the United States, stored in new American charred oak barrels",
+    "start": 180.981,
+    "end": 186.183,
+    "zh": "160度酒精浓度的蒸馏酒，产自美国，储存在新的美国炭烤橡木桶里，",
+    "zh_hant": "160度酒精濃度的蒸餾酒，產自美國，儲存在新的美國炭烤橡木桶裡，"
+  },
+  {
+    "index": 44,
+    "text": "at 125 proof for at least two years .",
+    "start": 185.833,
+    "end": 188.77,
+    "zh": "以125度酒精浓度存放至少两年。",
+    "zh_hant": "以125度酒精濃度存放至少兩年。"
+  },
+  {
+    "index": 45,
+    "text": "So it’s got to be stored for two years to be called straight bourbon whiskey.",
+    "start": 188.645,
+    "end": 193.707,
+    "zh": "所以要叫纯波本威士忌，就得存放两年。",
+    "zh_hant": "所以要叫純波本威士忌，就得存放兩年。"
+  },
+  {
+    "index": 46,
+    "text": "This regulatory code dates back to 1964,",
+    "start": 195.828,
+    "end": 197.879,
+    "zh": "这套法规可以追溯到1964年。",
+    "zh_hant": "這套法規可以追溯到1964年。"
+  },
+  {
+    "index": 47,
+    "text": "when U.S. Congress passed a resolution declaring bourbon a “ distinctive product of the United States ,”",
+    "start": 197.479,
+    "end": 204.87,
+    "zh": "当时美国国会通过了一项决议，宣布波本威士忌是“美国特有的产品”，",
+    "zh_hant": "當時美國國會透過了一項決議，宣佈波本威士忌是“美國特有的產品”，"
+  },
+  {
+    "index": 48,
+    "text": "the way that only Scotland can produce Scotch whisky,",
+    "start": 204.553,
+    "end": 207.814,
+    "zh": "就像只有苏格兰才能生产苏格兰威士忌，",
+    "zh_hant": "就像只有蘇格蘭才能生產蘇格蘭威士忌，"
+  },
+  {
+    "index": 49,
+    "text": "or how only the Champagne region of northern France can produce Champagne,",
+    "start": 207.914,
+    "end": 212.977,
+    "zh": "或者只有法国北部的香槟地区才能生产香槟一样。",
+    "zh_hant": "或者只有法國北部的香檳地區才能生產香檳一樣。"
+  },
+  {
+    "index": 50,
+    "text": "better known in these parts as “champagne.”",
+    "start": 212.937,
+    "end": 215.718,
+    "zh": "香槟在这边更常被叫做“香槟”。",
+    "zh_hant": "香檳在這邊更常被叫做“香檳”。"
+  },
+  {
+    "index": 51,
+    "text": "Ken Troske, once he started paying attention to the bourbon industry,",
+    "start": 215.938,
+    "end": 219.94,
+    "zh": "肯·特罗斯基一旦开始关注波本威士忌行业，",
+    "zh_hant": "肯·特羅斯基一旦開始關注波本威士忌行業，"
+  },
+  {
+    "index": 52,
+    "text": "could see that it presented some unusual economics, especially around pricing.",
+    "start": 220.12,
+    "end": 225.063,
+    "zh": "就能看出它呈现出一些不同寻常的经济现象，尤其是在定价方面。",
+    "zh_hant": "就能看出它呈現出一些不同尋常的經濟現象，尤其是在定價方面。"
+  },
+  {
+    "index": 53,
+    "text": "And the pricing is driven by time.",
+    "start": 224.863,
+    "end": 227.984,
+    "zh": "而定价是由时间驱动的。",
+    "zh_hant": "而定價是由時間驅動的。"
+  },
+  {
+    "index": 54,
+    "text": "Most bourbon is dumped at four years — bottom-shelf bourbon, probably four.",
+    "start": 227.984,
+    "end": 232.006,
+    "zh": "大多数波本威士忌在四年时灌装——底层货架上的波本，大概就是四年。",
+    "zh_hant": "大多數波本威士忌在四年時灌裝——底層貨架上的波本，大概就是四年。"
+  },
+  {
+    "index": 55,
+    "text": "Six to eight years is considered a sweet spot.",
+    "start": 231.846,
+    "end": 234.507,
+    "zh": "六到八年被认为是黄金时间。",
+    "zh_hant": "六到八年被認為是黃金時間。"
+  },
+  {
+    "index": 56,
+    "text": "When thinking about pricing the product, you have to take into account,",
+    "start": 234.447,
+    "end": 239.069,
+    "zh": "在定价产品时，你必须考虑到，",
+    "zh_hant": "在定價產品時，你必須考慮到，"
+  },
+  {
+    "index": 57,
+    "text": "I got all this bourbon that’s right behind me that’s sitting in a warehouse.",
+    "start": 239.19,
+    "end": 242.512,
+    "zh": "我身后就有这么多波本威士忌放在仓库里。",
+    "zh_hant": "我身後就有這麼多波本威士忌放在倉庫裡。"
+  },
+  {
+    "index": 58,
+    "text": "This is a really, really interesting, hard problem to solve.",
+    "start": 242.472,
+    "end": 247.594,
+    "zh": "这是一个非常非常有意思、也很难解决的问题。",
+    "zh_hant": "這是一個非常非常有意思、也很難解決的問題。"
+  },
+  {
+    "index": 59,
+    "text": "That doesn’t mean it’s not a competitive market, because everybody has to do the same thing.",
+    "start": 247.514,
+    "end": 253.277,
+    "zh": "这并不意味着它不是一个竞争性市场，因为每个生产商都得做同样的事。",
+    "zh_hant": "這並不意味著它不是一個競爭性市場，因為每個生產商都得做同樣的事。"
+  },
+  {
+    "index": 60,
+    "text": "It does raise barriers to entry, but it can’t raise that much, because when I got to Kentucky,",
+    "start": 253.157,
+    "end": 259.86,
+    "zh": "这确实提高了准入门槛，但门槛不能太高，因为当我到肯塔基时，",
+    "zh_hant": "這確實提高了准入門檻，但門檻不能太高，因為當我到肯塔基時，"
+  },
+  {
+    "index": 61,
+    "text": "there were probably six distilleries, and now there’s over 100 .",
+    "start": 260.08,
+    "end": 265.313,
+    "zh": "大概有六家酿酒厂，现在有100多家了。",
+    "zh_hant": "大概有六家釀酒廠，現在有100多家了。"
+  },
+  {
+    "index": 62,
+    "text": "And it’s coming down, given some of the recent changes in the bourbon industry.",
+    "start": 264.913,
+    "end": 268.925,
+    "zh": "而且鉴于波本行业近期的一些变化，这个数字还在下降。",
+    "zh_hant": "而且鑑於波本行業近期的一些變化，這個數字還在下降。"
+  },
+  {
+    "index": 63,
+    "text": "When Troske says “recent changes,” he is talking about what is starting to look like a serious retrenchment in the bourbon industry.",
+    "start": 271.986,
+    "end": 278.749,
+    "zh": "当特罗斯基说“近期变化”时，他指的是波本行业看起来正开始一场严重收缩。",
+    "zh_hant": "當特羅斯基說“近期變化”時，他指的是波本行業看起來正開始一場嚴重收縮。"
+  },
+  {
+    "index": 64,
+    "text": "The Covid shutdown was good for alcohol sales — a little too good,",
+    "start": 278.83,
+    "end": 282.978,
+    "zh": "疫情期间的封锁对酒类销售来说是件好事——有点太好了，",
+    "zh_hant": "疫情期間的封鎖對酒類銷售來說是件好事——有點太好了，"
+  },
+  {
+    "index": 65,
+    "text": "if you talk to public-health people — but since 2022, demand for bourbon has been falling.",
+    "start": 282.628,
+    "end": 288.329,
+    "zh": "如果跟公共卫生人士聊的话——但自2022年以来，波本威士忌的需求一直在下降。",
+    "zh_hant": "如果跟公共衛生人士聊的話——但自2022年以來，波本威士忌的需求一直在下降。"
+  }
+]

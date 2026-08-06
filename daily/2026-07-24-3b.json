@@ -1,0 +1,562 @@
+[
+  {
+    "index": 0,
+    "text": "So, you’ve got a different solution in mind and it’s one",
+    "start": 0.31,
+    "end": 5.072,
+    "zh": "那么，你心里已经有了一个不同的方案，而且这个方案",
+    "zh_hant": "那麼，你心裡已經有了一個不同的方案，而且這個方案"
+  },
+  {
+    "index": 1,
+    "text": "that at first sounds completely ridiculous, I have to say.",
+    "start": 5.353,
+    "end": 10.375,
+    "zh": "一开始听起来完全荒唐，我得说。",
+    "zh_hant": "一開始聽起來完全荒唐，我得說。"
+  },
+  {
+    "index": 2,
+    "text": "What is Project Suncatcher?",
+    "start": 10.935,
+    "end": 12.596,
+    "zh": "“捕捉阳光计划”是什么？",
+    "zh_hant": "“捕捉陽光計劃”是什麼？"
+  },
+  {
+    "index": 3,
+    "text": "Basically the concept is that you move A.I. into space and you use solar power,",
+    "start": 13.217,
+    "end": 19.259,
+    "zh": "基本上，这个构想就是把人工智能搬到太空，然后利用太阳能，",
+    "zh_hant": "基本上，這個構想就是把人工智慧搬到太空，然後利用太陽能，"
+  },
+  {
+    "index": 4,
+    "text": "but rather than solar power on Earth,",
+    "start": 19.18,
+    "end": 21.3,
+    "zh": "但不是在地球上用太阳能，",
+    "zh_hant": "但不是在地球上用太陽能，"
+  },
+  {
+    "index": 5,
+    "text": "you have orbiting solar panels that are in sunlight almost all the time,",
+    "start": 21.421,
+    "end": 26.983,
+    "zh": "而是让轨道上的太阳能板几乎一直沐浴在阳光里，",
+    "zh_hant": "而是讓軌道上的太陽能板幾乎一直沐浴在陽光裡，"
+  },
+  {
+    "index": 6,
+    "text": "in something called a sun-synchronous orbit.",
+    "start": 26.633,
+    "end": 29.004,
+    "zh": "处于所谓的太阳同步轨道上。",
+    "zh_hant": "處於所謂的太陽同步軌道上。"
+  },
+  {
+    "index": 7,
+    "text": "These are orbits that go around the Earth in such a way that the solar panel is facing the Sun.",
+    "start": 28.654,
+    "end": 35.267,
+    "zh": "这些轨道绕地球运行的方式，能让太阳能板始终面向太阳。",
+    "zh_hant": "這些軌道繞地球執行的方式，能讓太陽能板始終面向太陽。"
+  },
+  {
+    "index": 8,
+    "text": "So those sun-synchronous orbits",
+    "start": 35.628,
+    "end": 37.728,
+    "zh": "所以，这些太阳同步轨道",
+    "zh_hant": "所以，這些太陽同步軌道"
+  },
+  {
+    "index": 9,
+    "text": "allow a solar panel to gather about eight times the energy of a solar panel on the ground",
+    "start": 37.409,
+    "end": 43.232,
+    "zh": "能让一块太阳能板收集的能量，约为地面太阳能板的八倍，",
+    "zh_hant": "能讓一塊太陽能板收集的能量，約為地面太陽能板的八倍，"
+  },
+  {
+    "index": 10,
+    "text": "because there’s no nighttime and there’s no atmosphere.",
+    "start": 43.332,
+    "end": 46.253,
+    "zh": "因为那里没有黑夜，也没有大气层。",
+    "zh_hant": "因為那裡沒有黑夜，也沒有大氣層。"
+  },
+  {
+    "index": 11,
+    "text": "So solar power works really great in space.",
+    "start": 46.313,
+    "end": 50.395,
+    "zh": "所以太阳能太空中效果极佳。",
+    "zh_hant": "所以太陽能太空中效果極佳。"
+  },
+  {
+    "index": 12,
+    "text": "But the problem we’ve always had is that beaming energy, in the same way",
+    "start": 50.596,
+    "end": 55.978,
+    "zh": "但我们一直面临的问题在于，传输能量——就像",
+    "zh_hant": "但我們一直面臨的問題在於，傳輸能量——就像"
+  },
+  {
+    "index": 13,
+    "text": "that moving people or materials through long distances, is not very efficient.",
+    "start": 55.628,
+    "end": 62.081,
+    "zh": "远距离运送人或物资那样——效率并不高。",
+    "zh_hant": "遠距離運送人或物資那樣——效率並不高。"
+  },
+  {
+    "index": 14,
+    "text": "So what good does it do you to have this energy in space?",
+    "start": 62.301,
+    "end": 66.483,
+    "zh": "那么，在太空拥有这些能量，到底有什么用呢？",
+    "zh_hant": "那麼，在太空擁有這些能量，到底有什麼用呢？"
+  },
+  {
+    "index": 15,
+    "text": "The good that it does you is if you move the actual computation to space also.",
+    "start": 66.823,
+    "end": 71.125,
+    "zh": "它的用处在于，如果你把实际的计算也搬到太空去。",
+    "zh_hant": "它的用處在於，如果你把實際的計算也搬到太空去。"
+  },
+  {
+    "index": 16,
+    "text": "So if you want your farm-to-table distance, as it were, to be as short as possible,",
+    "start": 71.466,
+    "end": 76.148,
+    "zh": "所以，如果你想让“从农场到餐桌”的距离，可以这么说，尽量缩短的话，",
+    "zh_hant": "所以，如果你想讓“從農場到餐桌”的距離，可以這麼說，儘量縮短的話，"
+  },
+  {
+    "index": 17,
+    "text": "then the way to solve for that is by putting the data centers in space with the solar panels.",
+    "start": 76.168,
+    "end": 82.391,
+    "zh": "那解决办法就是把数据中心和太阳能板一起放到太空中去。",
+    "zh_hant": "那解決辦法就是把資料中心和太陽能板一起放到太空中去。"
+  },
+  {
+    "index": 18,
+    "text": "I’m just trying to imagine this,",
+    "start": 82.492,
+    "end": 84.232,
+    "zh": "我试着想象一下这个情景，",
+    "zh_hant": "我試著想象一下這個情景，"
+  },
+  {
+    "index": 19,
+    "text": "because I’ve seen these data centers and they are not small buildings.",
+    "start": 84.032,
+    "end": 90.655,
+    "zh": "因为我见过那些数据中心，它们可不是什么小建筑。",
+    "zh_hant": "因為我見過那些資料中心，它們可不是什麼小建築。"
+  },
+  {
+    "index": 20,
+    "text": "I mean, these are some of the biggest buildings that we ever built.",
+    "start": 90.305,
+    "end": 93.877,
+    "zh": "我的意思是，那些是我们建造过的最大的建筑之一。",
+    "zh_hant": "我的意思是，那些是我們建造過的最大的建築之一。"
+  },
+  {
+    "index": 21,
+    "text": "How are you gonna do that in space?",
+    "start": 94.437,
+    "end": 96.658,
+    "zh": "那你怎么在太空里做到呢？",
+    "zh_hant": "那你怎麼在太空裡做到呢？"
+  },
+  {
+    "index": 22,
+    "text": "So there’s a short-term answer and there’s a longer-term answer.",
+    "start": 96.679,
+    "end": 100.0,
+    "zh": "这有短期答案，也有更长期的答案。",
+    "zh_hant": "這有短期答案，也有更長期的答案。"
+  },
+  {
+    "index": 23,
+    "text": "The short-term answer is that, you know,",
+    "start": 100.16,
+    "end": 103.141,
+    "zh": "短期答案是，你知道，",
+    "zh_hant": "短期答案是，你知道，"
+  },
+  {
+    "index": 24,
+    "text": "of course a data center is a giant building and we can’t be talking about literally moving those buildings up into space.",
+    "start": 102.791,
+    "end": 109.965,
+    "zh": "当然数据中心是巨型建筑，我们不可能真的讨论把这些建筑原封不动地搬到太空。",
+    "zh_hant": "當然資料中心是巨型建築，我們不可能真的討論把這些建築原封不動地搬到太空。"
+  },
+  {
+    "index": 25,
+    "text": "This is not the Death Star.",
+    "start": 109.615,
+    "end": 111.105,
+    "zh": "这可不是“死星”。",
+    "zh_hant": "這可不是“死星”。"
+  },
+  {
+    "index": 26,
+    "text": "It’s very energetically costly to lift mass into space.",
+    "start": 111.206,
+    "end": 114.607,
+    "zh": "把质量送上太空，能量成本极其高昂。",
+    "zh_hant": "把質量送上太空，能量成本極其高昂。"
+  },
+  {
+    "index": 27,
+    "text": "So none of this makes sense unless you think,",
+    "start": 114.287,
+    "end": 118.589,
+    "zh": "所以，除非你考虑到以下几点，否则这一切都没有意义：",
+    "zh_hant": "所以，除非你考慮到以下幾點，否則這一切都沒有意義："
+  },
+  {
+    "index": 28,
+    "text": "(a), that it’s going to continue to get cheaper to move mass into orbit, as it has been.",
+    "start": 118.289,
+    "end": 123.072,
+    "zh": "第一，把质量送入轨道的成本会继续下降，就像过去那样。",
+    "zh_hant": "第一，把質量送入軌道的成本會繼續下降，就像過去那樣。"
+  },
+  {
+    "index": 29,
+    "text": "There’s been an incredible decline in cost over the last 10 years, thanks in large part to SpaceX.",
+    "start": 122.722,
+    "end": 128.574,
+    "zh": "过去十年里，成本已经大幅下降，这在很大程度上要归功于SpaceX。",
+    "zh_hant": "過去十年裡，成本已經大幅下降，這在很大程度上要歸功於SpaceX。"
+  },
+  {
+    "index": 30,
+    "text": "And we believe that will continue to be the case for some years to come.",
+    "start": 128.895,
+    "end": 132.236,
+    "zh": "我们相信，未来几年这种情况还会持续下去。",
+    "zh_hant": "我們相信，未來幾年這種情況還會持續下去。"
+  },
+  {
+    "index": 31,
+    "text": "So you have to believe in declining costs to launch.",
+    "start": 132.336,
+    "end": 135.218,
+    "zh": "所以你必须相信发射成本会不断下降。",
+    "zh_hant": "所以你必須相信發射成本會不斷下降。"
+  },
+  {
+    "index": 32,
+    "text": "But you also have to believe that you can do an orbiting data center",
+    "start": 134.868,
+    "end": 139.74,
+    "zh": "但你还必须相信，你能建造一个轨道数据中心，",
+    "zh_hant": "但你還必須相信，你能建造一個軌道資料中心，"
+  },
+  {
+    "index": 33,
+    "text": "in a much more physically lightweight way than a terrestrial data center.",
+    "start": 139.39,
+    "end": 144.102,
+    "zh": "而它的物理重量要比地面数据中心轻得多。",
+    "zh_hant": "而它的物理重量要比地面資料中心輕得多。"
+  },
+  {
+    "index": 34,
+    "text": "So what would your data centers look like?",
+    "start": 143.762,
+    "end": 145.663,
+    "zh": "那你的数据中心会是什么样子呢？",
+    "zh_hant": "那你的資料中心會是什麼樣子呢？"
+  },
+  {
+    "index": 35,
+    "text": "They’re not buildings, they’re something very, very different.",
+    "start": 145.313,
+    "end": 147.844,
+    "zh": "它们不是建筑，而是完全不同的东西。",
+    "zh_hant": "它們不是建築，而是完全不同的東西。"
+  },
+  {
+    "index": 36,
+    "text": "No, they’re not buildings.",
+    "start": 147.684,
+    "end": 148.964,
+    "zh": "对，它们不是建筑。",
+    "zh_hant": "對，它們不是建築。"
+  },
+  {
+    "index": 37,
+    "text": "In the beginning, they look like dragonflies.",
+    "start": 149.005,
+    "end": 151.125,
+    "zh": "一开始，它们看起来像蜻蜓。",
+    "zh_hant": "一開始，它們看起來像蜻蜓。"
+  },
+  {
+    "index": 38,
+    "text": "So with giant, but very, very thin solar wings,",
+    "start": 151.286,
+    "end": 155.648,
+    "zh": "有巨大但极其薄的太阳能翅膀，",
+    "zh_hant": "有巨大但極其薄的太陽能翅膀，"
+  },
+  {
+    "index": 39,
+    "text": "and with a body in the center where the computing happens,",
+    "start": 155.788,
+    "end": 159.369,
+    "zh": "中间有一个主体，计算在那里进行，",
+    "zh_hant": "中間有一個主體，計算在那裡進行，"
+  },
+  {
+    "index": 40,
+    "text": "and the body should be as lightweight as possible.",
+    "start": 159.019,
+    "end": 161.971,
+    "zh": "主体要尽量轻。",
+    "zh_hant": "主體要儘量輕。"
+  },
+  {
+    "index": 41,
+    "text": "Basically, you need as much area as you can for solar collection.",
+    "start": 162.152,
+    "end": 166.513,
+    "zh": "基本上，你需要尽可能多的面积来收集阳光。",
+    "zh_hant": "基本上，你需要儘可能多的面積來收集陽光。"
+  },
+  {
+    "index": 42,
+    "text": "You also need area in order to radiate heat.",
+    "start": 166.634,
+    "end": 169.615,
+    "zh": "你也需要面积来散热。",
+    "zh_hant": "你也需要面積來散熱。"
+  },
+  {
+    "index": 43,
+    "text": "But then you want your mass to be as small as possible.",
+    "start": 170.235,
+    "end": 173.477,
+    "zh": "但同时，你希望质量尽量小。",
+    "zh_hant": "但同時，你希望質量儘量小。"
+  },
+  {
+    "index": 44,
+    "text": "And when you put all of those constraints together,",
+    "start": 173.127,
+    "end": 175.278,
+    "zh": "当你把所有这些限制条件放在一起时，",
+    "zh_hant": "當你把所有這些限制條件放在一起時，"
+  },
+  {
+    "index": 45,
+    "text": "it turns out that you can design satellites using today’s technologies",
+    "start": 175.498,
+    "end": 180.32,
+    "zh": "结果就是，你可以用今天的技术设计出卫星，",
+    "zh_hant": "結果就是，你可以用今天的技術設計出衛星，"
+  },
+  {
+    "index": 46,
+    "text": "that put you on the right side of the economics, with some pretty modest assumptions,",
+    "start": 180.36,
+    "end": 185.323,
+    "zh": "在一些相当保守的假设下，就能让经济账算得过来，",
+    "zh_hant": "在一些相當保守的假設下，就能讓經濟賬算得過來，"
+  },
+  {
+    "index": 47,
+    "text": "over the next decade.",
+    "start": 185.423,
+    "end": 187.023,
+    "zh": "时间就在未来十年内。",
+    "zh_hant": "時間就在未來十年內。"
+  },
+  {
+    "index": 48,
+    "text": "And so this data center that you’re imagining, it’s not a single satellite.",
+    "start": 187.204,
+    "end": 191.686,
+    "zh": "那你想象的这个数据中心，不是一颗卫星吧。",
+    "zh_hant": "那你想象的這個資料中心，不是一顆衛星吧。"
+  },
+  {
+    "index": 49,
+    "text": "No, it’s a swarm.",
+    "start": 191.466,
+    "end": 192.886,
+    "zh": "不，它是一群卫星。",
+    "zh_hant": "不，它是一群衛星。"
+  },
+  {
+    "index": 50,
+    "text": "How do you imagine controlling a swarm of satellites",
+    "start": 192.766,
+    "end": 198.349,
+    "zh": "你想象中怎么控制一群卫星，",
+    "zh_hant": "你想象中怎麼控制一群衛星，"
+  },
+  {
+    "index": 51,
+    "text": "that are rocketing through space at many tens of thousands of miles an hour?",
+    "start": 197.999,
+    "end": 203.792,
+    "zh": "它们以每小时几万英里的速度在太空中疾驰？",
+    "zh_hant": "它們以每小時幾萬英里的速度在太空中疾馳？"
+  },
+  {
+    "index": 52,
+    "text": "Can you just give us the broadest view of how you pull this off?",
+    "start": 203.592,
+    "end": 208.294,
+    "zh": "你能给我们一个最宏观的看法，说说你怎么实现这件事吗？",
+    "zh_hant": "你能給我們一個最宏觀的看法，說說你怎麼實現這件事嗎？"
+  },
+  {
+    "index": 53,
+    "text": "You have to obviously work through a lot of the details of the orbital mechanics of this.",
+    "start": 208.295,
+    "end": 212.476,
+    "zh": "显然，你必须处理很多轨道力学方面的细节。",
+    "zh_hant": "顯然，你必須處理很多軌道力學方面的細節。"
+  },
+  {
+    "index": 54,
+    "text": "There are also many other things to think about, like safety of the low Earth orbit environment.",
+    "start": 212.257,
+    "end": 217.139,
+    "zh": "还有很多其他要考虑的事情，比如低地球轨道环境的安全。",
+    "zh_hant": "還有很多其他要考慮的事情，比如低地球軌道環境的安全。"
+  },
+  {
+    "index": 55,
+    "text": "You want to make sure that you’re not creating space junk, because with massive numbers of satellites,",
+    "start": 216.789,
+    "end": 221.821,
+    "zh": "你要确保不会制造太空垃圾，因为卫星数量庞大，",
+    "zh_hant": "你要確保不會製造太空垃圾，因為衛星數量龐大，"
+  },
+  {
+    "index": 56,
+    "text": "you want to be very careful that collisions are extremely, extremely rare because those are super costly.",
+    "start": 221.841,
+    "end": 228.444,
+    "zh": "你就得非常小心，碰撞要极其极其罕见，因为那些碰撞代价高昂。",
+    "zh_hant": "你就得非常小心，碰撞要極其極其罕見，因為那些碰撞代價高昂。"
+  },
+  {
+    "index": 57,
+    "text": "They create a lot of pollution in low Earth orbit.",
+    "start": 228.094,
+    "end": 230.585,
+    "zh": "它们会在低地球轨道造成大量污染。",
+    "zh_hant": "它們會在低地球軌道造成大量汙染。"
+  },
+  {
+    "index": 58,
+    "text": "And you want to be sure that if the worst happens, if there is a collision,",
+    "start": 230.686,
+    "end": 233.927,
+    "zh": "你还要确保，万一最坏情况发生，也就是发生碰撞，",
+    "zh_hant": "你還要確保，萬一最壞情況發生，也就是發生碰撞，"
+  },
+  {
+    "index": 59,
+    "text": "it doesn’t result in a catastrophe where we end up with all kinds of junk",
+    "start": 233.847,
+    "end": 238.429,
+    "zh": "不会导致灾难，最终出现各种垃圾，",
+    "zh_hant": "不會導致災難，最終出現各種垃圾，"
+  },
+  {
+    "index": 60,
+    "text": "that makes that extremely valuable real estate around the Earth — that poisons the well for us and for everybody else.",
+    "start": 238.469,
+    "end": 244.913,
+    "zh": "把地球周围那片极其宝贵的区域——搞坏，对我们和其他人都是一场灾难。",
+    "zh_hant": "把地球周圍那片極其寶貴的區域——搞壞，對我們和其他人都是一場災難。"
+  },
+  {
+    "index": 61,
+    "text": "So there are many important considerations.",
+    "start": 244.563,
+    "end": 246.834,
+    "zh": "所以有很多重要的考虑因素。",
+    "zh_hant": "所以有很多重要的考慮因素。"
+  },
+  {
+    "index": 62,
+    "text": "But basically, the swarm has to be self-organizing in a lot of ways.",
+    "start": 246.484,
+    "end": 251.496,
+    "zh": "但基本上，这个卫星群在很多方面必须能够自我组织。",
+    "zh_hant": "但基本上，這個衛星群在很多方面必須能夠自我組織。"
+  },
+  {
+    "index": 63,
+    "text": "So you need to imagine those spacecraft being intelligent in their own right, not just being all controlled from the ground,",
+    "start": 251.196,
+    "end": 258.08,
+    "zh": "所以你得想象那些航天器本身就是智能的，而不是全靠地面控制，",
+    "zh_hant": "所以你得想象那些航天器本身就是智慧的，而不是全靠地面控制，"
+  },
+  {
+    "index": 64,
+    "text": "you have to imagine them being really robust and communicating with each other via light.",
+    "start": 258.36,
+    "end": 263.482,
+    "zh": "你得想象它们非常坚固耐用，并且通过光彼此通信。",
+    "zh_hant": "你得想象它們非常堅固耐用，並且透過光彼此通訊。"
+  },
+  {
+    "index": 65,
+    "text": "So, laser, so-called free space optics, is a really important part of the puzzle.",
+    "start": 263.663,
+    "end": 268.385,
+    "zh": "所以，激光，也就是所谓的自由空间光通信，是这个难题中非常重要的一部分。",
+    "zh_hant": "所以，鐳射，也就是所謂的自由空間光通訊，是這個難題中非常重要的一部分。"
+  },
+  {
+    "index": 66,
+    "text": "And you can always use radio to communicate with the swarm,",
+    "start": 268.565,
+    "end": 271.266,
+    "zh": "你总是可以用无线电来与卫星群通信，",
+    "zh_hant": "你總是可以用無線電來與衛星群通訊，"
+  },
+  {
+    "index": 67,
+    "text": "but ultimately we’re probably going to be using a combination of radio and light also for ground-to-space communication.",
+    "start": 271.346,
+    "end": 278.85,
+    "zh": "但最终，我们可能也会组合使用无线电和光来进行地面到太空的通信。",
+    "zh_hant": "但最終，我們可能也會組合使用無線電和光來進行地面到太空的通訊。"
+  },
+  {
+    "index": 68,
+    "text": "How many satellites would be working together in this swarm in your vision?",
+    "start": 279.173,
+    "end": 284.284,
+    "zh": "在你的设想中，这个卫星群会有多少颗卫星协同工作？",
+    "zh_hant": "在你的設想中，這個衛星群會有多少顆衛星協同工作？"
+  },
+  {
+    "index": 69,
+    "text": "Well, it’s an exponential.",
+    "start": 284.846,
+    "end": 286.629,
+    "zh": "嗯，这是一个指数级的增长。",
+    "zh_hant": "嗯，這是一個指數級的增長。"
+  }
+]

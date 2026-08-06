@@ -1,0 +1,314 @@
+[
+  {
+    "index": 0,
+    "text": "He was an engineer who had been at Reddit.",
+    "start": 0.39,
+    "end": 3.372,
+    "zh": "他曾是Reddit的工程师。",
+    "zh_hant": "他曾是Reddit的工程師。"
+  },
+  {
+    "index": 1,
+    "text": "This was actually Josh's second attempt at Wordle.",
+    "start": 3.412,
+    "end": 6.433,
+    "zh": "这其实是乔什第二次尝试做Wordle。",
+    "zh_hant": "這其實是喬什第二次嘗試做Wordle。"
+  },
+  {
+    "index": 2,
+    "text": "He'd written it, he'd put it down, he'd come back to it.",
+    "start": 6.083,
+    "end": 9.014,
+    "zh": "他写了又放下，后来又重新捡起来。",
+    "zh_hant": "他寫了又放下，後來又重新撿起來。"
+  },
+  {
+    "index": 3,
+    "text": "The New York Times has made a lot of acquisitions over the years, some of them famously bad.",
+    "start": 8.995,
+    "end": 14.257,
+    "zh": "《纽约时报》多年来做了很多收购，其中有些是出了名的糟糕交易。",
+    "zh_hant": "《紐約時報》多年來做了很多收購，其中有些是出了名的糟糕交易。"
+  },
+  {
+    "index": 4,
+    "text": "There was About.com, which ended in a $200 million write-down.",
+    "start": 14.017,
+    "end": 19.079,
+    "zh": "比如About.com，最终以2亿美元的减记收场。",
+    "zh_hant": "比如About.com，最終以2億美元的減記收場。"
+  },
+  {
+    "index": 5,
+    "text": "The Times paid more than a billion dollars for the Boston Globe and ultimately sold it for just $70 million.",
+    "start": 19.02,
+    "end": 25.763,
+    "zh": "《时报》为《波士顿环球报》支付了超过10亿美元，最终只以7000万美元卖出。",
+    "zh_hant": "《時報》為《波士頓環球報》支付了超過10億美元，最終只以7000萬美元賣出。"
+  },
+  {
+    "index": 6,
+    "text": "Wordle has gone a long way toward making up for those failures.",
+    "start": 26.283,
+    "end": 30.065,
+    "zh": "Wordle在很大程度上弥补了这些失败。",
+    "zh_hant": "Wordle在很大程度上彌補了這些失敗。"
+  },
+  {
+    "index": 7,
+    "text": "Here's the story of how the Times got Wordle from Josh Wordle.",
+    "start": 30.005,
+    "end": 34.227,
+    "zh": "以下是《时报》如何从乔什·沃德尔手中拿下Wordle的故事。",
+    "zh_hant": "以下是《時報》如何從喬什·沃德爾手中拿下Wordle的故事。"
+  },
+  {
+    "index": 8,
+    "text": "He had built it for friends and family, and it started to gain momentum really in 2021.",
+    "start": 34.347,
+    "end": 40.441,
+    "zh": "他最初是为亲友制作的，到了2021年才开始真正获得势头。",
+    "zh_hant": "他最初是為親友製作的，到了2021年才開始真正獲得勢頭。"
+  },
+  {
+    "index": 9,
+    "text": "It got to a place where he added in a viral mechanic that had grown out of the community feedback,",
+    "start": 40.491,
+    "end": 47.454,
+    "zh": "后来它达到一个阶段，他加入了一个源自社区反馈的病毒式传播机制，",
+    "zh_hant": "後來它達到一個階段，他加入了一個源自社群反饋的病毒式傳播機制，"
+  },
+  {
+    "index": 10,
+    "text": "which was those little green and gray emoji squares that you can post after you're done.",
+    "start": 47.134,
+    "end": 52.576,
+    "zh": "就是那些你完成后可以发布的小绿灰方块表情。",
+    "zh_hant": "就是那些你完成後可以釋出的小綠灰方塊表情。"
+  },
+  {
+    "index": 11,
+    "text": "And that really started to generate a lot of interest.",
+    "start": 52.226,
+    "end": 55.978,
+    "zh": "这确实开始引发了大量关注。",
+    "zh_hant": "這確實開始引發了大量關注。"
+  },
+  {
+    "index": 12,
+    "text": "This was during the pandemic.",
+    "start": 55.678,
+    "end": 57.699,
+    "zh": "当时正值疫情期间。",
+    "zh_hant": "當時正值疫情期間。"
+  },
+  {
+    "index": 13,
+    "text": "This was sort of peak Twitter.",
+    "start": 57.359,
+    "end": 59.359,
+    "zh": "那也是Twitter最火的时期。",
+    "zh_hant": "那也是Twitter最火的時期。"
+  },
+  {
+    "index": 14,
+    "text": "We actually did an article about the game that came out of our newsroom,",
+    "start": 59.4,
+    "end": 63.742,
+    "zh": "我们新闻编辑室其实写了一篇关于这个游戏的文章，",
+    "zh_hant": "我們新聞編輯室其實寫了一篇關於這個遊戲的文章，"
+  },
+  {
+    "index": 15,
+    "text": "which was published on January 3rd of 2022.",
+    "start": 63.862,
+    "end": 67.494,
+    "zh": "发表于2022年1月3日。",
+    "zh_hant": "發表於2022年1月3日。"
+  },
+  {
+    "index": 16,
+    "text": "The game had about 300,000 users at that point and was definitely going viral.",
+    "start": 67.544,
+    "end": 72.886,
+    "zh": "那时游戏已有约30万用户，而且肯定正在走红。",
+    "zh_hant": "那時遊戲已有約30萬使用者，而且肯定正在走紅。"
+  },
+  {
+    "index": 17,
+    "text": "I read that article that morning, a bunch of people forwarded it to me and said, hey, are you guys looking at Wordle?",
+    "start": 72.846,
+    "end": 79.589,
+    "zh": "那天早上我读了那篇文章，很多人转发给我，说：你们在关注Wordle吗？",
+    "zh_hant": "那天早上我讀了那篇文章，很多人轉發給我，說：你們在關注Wordle嗎？"
+  },
+  {
+    "index": 18,
+    "text": "I got on the phone with Josh,",
+    "start": 79.79,
+    "end": 82.151,
+    "zh": "我给乔什打了电话，",
+    "zh_hant": "我給喬什打了電話，"
+  },
+  {
+    "index": 19,
+    "text": "I think two days later, I had COVID, I was Was really, really sick and in bed.",
+    "start": 82.071,
+    "end": 88.934,
+    "zh": "我觉得是两天后吧，当时我感染了新冠，病得很重，躺在床上。",
+    "zh_hant": "我覺得是兩天後吧，當時我感染了新冠，病得很重，躺在床上。"
+  },
+  {
+    "index": 20,
+    "text": "We knew that we needed to move very quickly,",
+    "start": 89.115,
+    "end": 92.136,
+    "zh": "我们知道必须迅速行动，",
+    "zh_hant": "我們知道必須迅速行動，"
+  },
+  {
+    "index": 21,
+    "text": "and so got to know him as fast as I could, and we just started talking.",
+    "start": 91.936,
+    "end": 96.898,
+    "zh": "所以我尽可能快地了解他，然后我们就开始聊了起来。",
+    "zh_hant": "所以我儘可能快地瞭解他，然後我們就開始聊了起來。"
+  },
+  {
+    "index": 22,
+    "text": "We announced on January 31st to the world that we'd acquired Wordle.",
+    "start": 97.059,
+    "end": 101.881,
+    "zh": "我们在1月31日向全世界宣布收购了Wordle。",
+    "zh_hant": "我們在1月31日向全世界宣佈收購了Wordle。"
+  },
+  {
+    "index": 23,
+    "text": "It was really thrilling.",
+    "start": 101.841,
+    "end": 103.241,
+    "zh": "那真是太令人激动了。",
+    "zh_hant": "那真是太令人激動了。"
+  },
+  {
+    "index": 24,
+    "text": "The Times won't divulge what it paid for Wordle, but it was reported to be in the low seven figures.",
+    "start": 103.662,
+    "end": 109.525,
+    "zh": "《时报》不愿透露为Wordle支付了多少钱，但据报道在七位数低位。",
+    "zh_hant": "《時報》不願透露為Wordle支付了多少錢，但據報道在七位數低位。"
+  },
+  {
+    "index": 25,
+    "text": "And how many new users did Wordle bring to the Times?",
+    "start": 109.465,
+    "end": 113.086,
+    "zh": "那么Wordle给《时报》带来了多少新用户？",
+    "zh_hant": "那麼Wordle給《時報》帶來了多少新使用者？"
+  },
+  {
+    "index": 26,
+    "text": "We never disclosed that number, but we're talking tens of millions.",
+    "start": 113.267,
+    "end": 116.968,
+    "zh": "我们从未公开这个数字，但我们在谈论数千万。",
+    "zh_hant": "我們從未公開這個數字，但我們在談論數千萬。"
+  },
+  {
+    "index": 27,
+    "text": "He was eager to sell the game.",
+    "start": 117.189,
+    "end": 119.8,
+    "zh": "他急切地想卖掉这个游戏。",
+    "zh_hant": "他急切地想賣掉這個遊戲。"
+  },
+  {
+    "index": 28,
+    "text": "It had blown up beyond his wildest expectations, and he had something else he wanted to go do,",
+    "start": 119.4,
+    "end": 124.873,
+    "zh": "它的火爆程度远超他最疯狂的预期，而且他还有其他想去做的事，",
+    "zh_hant": "它的火爆程度遠超他最瘋狂的預期，而且他還有其他想去做的事，"
+  },
+  {
+    "index": 29,
+    "text": "and he didn't want to be spending all day every day looking after Wordle.",
+    "start": 124.573,
+    "end": 129.395,
+    "zh": "他不想整天花时间照看Wordle。",
+    "zh_hant": "他不想整天花時間照看Wordle。"
+  },
+  {
+    "index": 30,
+    "text": "We were really interested in being good stewards of Wordle.",
+    "start": 129.795,
+    "end": 134.938,
+    "zh": "我们非常希望能成为Wordle的好管家。",
+    "zh_hant": "我們非常希望能成為Wordle的好管家。"
+  },
+  {
+    "index": 31,
+    "text": "It already looked and played like a New York Times game, Very clean, very elegant,",
+    "start": 134.838,
+    "end": 139.48,
+    "zh": "它在外观和玩法上已经像一款《纽约时报》的游戏了，非常简洁优雅，",
+    "zh_hant": "它在外觀和玩法上已經像一款《紐約時報》的遊戲了，非常簡潔優雅，"
+  },
+  {
+    "index": 32,
+    "text": "and it didn't need really anything done to it to slot right into our portfolio, which was rare.",
+    "start": 139.6,
+    "end": 146.763,
+    "zh": "而且几乎不需要做任何改动就能直接融入我们的产品线，这很罕见。",
+    "zh_hant": "而且幾乎不需要做任何改動就能直接融入我們的產品線，這很罕見。"
+  },
+  {
+    "index": 33,
+    "text": "And so it was a good fit.",
+    "start": 146.724,
+    "end": 148.524,
+    "zh": "所以它非常适合。",
+    "zh_hant": "所以它非常適合。"
+  },
+  {
+    "index": 34,
+    "text": "It has been such a good fit that Wordle is being developed as a TV show to air on NBC in primetime.",
+    "start": 148.304,
+    "end": 154.947,
+    "zh": "它契合得如此之好，以至于Wordle正被开发成一档在NBC黄金时段播出的电视节目。",
+    "zh_hant": "它契合得如此之好，以至於Wordle正被開發成一檔在NBC黃金時段播出的電視節目。"
+  },
+  {
+    "index": 35,
+    "text": "The Times itself will co-produce.",
+    "start": 154.908,
+    "end": 157.469,
+    "zh": "《时报》也将联合制作。",
+    "zh_hant": "《時報》也將聯合制作。"
+  },
+  {
+    "index": 36,
+    "text": "So what did Wordle do for the Times' bigger games strategy?",
+    "start": 157.269,
+    "end": 161.593,
+    "zh": "那么Wordle对《时报》更大的游戏战略起了什么作用？",
+    "zh_hant": "那麼Wordle對《時報》更大的遊戲戰略起了什麼作用？"
+  },
+  {
+    "index": 37,
+    "text": "Games, even without Wordle, was growing and thriving.",
+    "start": 161.654,
+    "end": 164.598,
+    "zh": "即使没有Wordle，游戏业务也在增长和繁荣。",
+    "zh_hant": "即使沒有Wordle，遊戲業務也在增長和繁榮。"
+  },
+  {
+    "index": 38,
+    "text": "All of it was sort of working, and then we just got this turbo boost that helped accelerate all of our ambitions, and it's been great.",
+    "start": 164.559,
+    "end": 171.669,
+    "zh": "一切基本上都在运转，然后我们得到了这股加速助推，帮助推进了我们所有的雄心，一直都很棒。",
+    "zh_hant": "一切基本上都在運轉，然後我們得到了這股加速助推，幫助推進了我們所有的雄心，一直都很棒。"
+  }
+]

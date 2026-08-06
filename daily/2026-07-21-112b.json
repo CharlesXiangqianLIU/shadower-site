@@ -1,0 +1,938 @@
+[
+  {
+    "index": 0,
+    "text": "Hello, and thanks for downloading the More or Less podcast,",
+    "start": 5.931,
+    "end": 9.352,
+    "zh": "你好，感谢下载More or Less播客，",
+    "zh_hant": "你好，感謝下載More or Less播客，"
+  },
+  {
+    "index": 1,
+    "text": "a programme that looks at the numbers in the news, in life, and the inbox",
+    "start": 9.392,
+    "end": 13.734,
+    "zh": "这是一档审视新闻、生活和收件箱中数字的节目，",
+    "zh_hant": "這是一檔審視新聞、生活和收件箱中數字的節目，"
+  },
+  {
+    "index": 2,
+    "text": "of moreorless at bbc.co.uk. I'm Tim Harford.",
+    "start": 13.384,
+    "end": 18.136,
+    "zh": "邮箱是moreorless@bbc.co.uk。我是蒂姆·哈福德。",
+    "zh_hant": "郵箱是moreorless@bbc.co.uk。我是蒂姆·哈福德。"
+  },
+  {
+    "index": 3,
+    "text": "As sleuths of a statistical persuasion, we are used to doing double-takes as bad stats whiz by.",
+    "start": 19.217,
+    "end": 26.04,
+    "zh": "作为一群有统计思维的侦探，我们已经习惯在糟糕数据飞速掠过时再三确认。",
+    "zh_hant": "作為一群有統計思維的偵探，我們已經習慣在糟糕資料飛速掠過時再三確認。"
+  },
+  {
+    "index": 4,
+    "text": "It is amazing, they're everywhere: on the sides of buses,",
+    "start": 26.12,
+    "end": 30.362,
+    "zh": "令人惊叹的是，它们无处不在：公交车侧面、",
+    "zh_hant": "令人驚歎的是，它們無處不在：公交車側面、"
+  },
+  {
+    "index": 5,
+    "text": "billboards, vans, newspaper articles, government speeches,",
+    "start": 30.242,
+    "end": 34.304,
+    "zh": "广告牌、货车、报纸文章、政府演讲，",
+    "zh_hant": "廣告牌、貨車、報紙文章、政府演講，"
+  },
+  {
+    "index": 6,
+    "text": "and, of course, one of the main culprits, social media.",
+    "start": 34.304,
+    "end": 38.126,
+    "zh": "当然，还有罪魁祸首之一——社交媒体。",
+    "zh_hant": "當然，還有罪魁禍首之一——社交媒體。"
+  },
+  {
+    "index": 7,
+    "text": "One such claim on X made us do a double take so violent that our heads rotated 360 degrees,",
+    "start": 38.627,
+    "end": 46.13,
+    "zh": "X上的一条说法让我们惊愕到几乎转头360度，",
+    "zh_hant": "X上的一條說法讓我們驚愕到幾乎轉頭360度，"
+  },
+  {
+    "index": 8,
+    "text": "like that girl in The Exorcist, or a wise old owl.",
+    "start": 46.33,
+    "end": 50.772,
+    "zh": "就像《驱魔人》里的女孩，或一只睿智的猫头鹰。",
+    "zh_hant": "就像《驅魔人》裡的女孩，或一隻睿智的貓頭鷹。"
+  },
+  {
+    "index": 9,
+    "text": "Anyway, this was the claim.",
+    "start": 51.093,
+    "end": 53.033,
+    "zh": "总之，说法是这样的。",
+    "zh_hant": "總之，說法是這樣的。"
+  },
+  {
+    "index": 10,
+    "text": "The United States has surpassed China and North Korea in deaths from malnutrition.",
+    "start": 53.774,
+    "end": 59.216,
+    "zh": "美国因营养不良导致的死亡人数已超过中国和朝鲜。",
+    "zh_hant": "美國因營養不良導致的死亡人數已超過中國和朝鮮。"
+  },
+  {
+    "index": 11,
+    "text": "Below the claim was a graph from Our World in Data,",
+    "start": 60.497,
+    "end": 63.699,
+    "zh": "在这个说法下面，是一张来自“我们的数据世界”的图表，",
+    "zh_hant": "在這個說法下面，是一張來自“我們的資料世界”的圖表，"
+  },
+  {
+    "index": 12,
+    "text": "which used analysis from the Global Burden of Disease database for their sums.",
+    "start": 63.439,
+    "end": 68.221,
+    "zh": "其数据基于“全球疾病负担”数据库的分析。",
+    "zh_hant": "其資料基於“全球疾病負擔”資料庫的分析。"
+  },
+  {
+    "index": 13,
+    "text": "The data does indeed show that the US records more deaths from malnutrition than China and North Korea.",
+    "start": 68.401,
+    "end": 75.304,
+    "zh": "数据确实显示，美国因营养不良死亡的记录人数高于中国和朝鲜。",
+    "zh_hant": "資料確實顯示，美國因營養不良死亡的記錄人數高於中國和朝鮮。"
+  },
+  {
+    "index": 14,
+    "text": "The rate in the US was 2.8 deaths per 100,000,",
+    "start": 75.525,
+    "end": 79.857,
+    "zh": "美国的死亡率为每10万人2.8例，",
+    "zh_hant": "美國的死亡率為每10萬人2.8例，"
+  },
+  {
+    "index": 15,
+    "text": "compared to just 1.7 deaths per 100,000 for North Korea.",
+    "start": 79.907,
+    "end": 84.869,
+    "zh": "而朝鲜仅为每10万人1.7例。",
+    "zh_hant": "而朝鮮僅為每10萬人1.7例。"
+  },
+  {
+    "index": 16,
+    "text": "From what we know about the two countries, this seems unlikely.",
+    "start": 85.149,
+    "end": 88.971,
+    "zh": "根据我们对这两个国家的了解，这似乎不太可能。",
+    "zh_hant": "根據我們對這兩個國家的瞭解，這似乎不太可能。"
+  },
+  {
+    "index": 17,
+    "text": "So what's going on here?",
+    "start": 89.052,
+    "end": 90.772,
+    "zh": "那么，这里到底发生了什么？",
+    "zh_hant": "那麼，這裡到底發生了什麼？"
+  },
+  {
+    "index": 18,
+    "text": "First things first, we cannot trust the data for North Korea.",
+    "start": 91.713,
+    "end": 95.355,
+    "zh": "首先，我们不能完全相信朝鲜的数据。",
+    "zh_hant": "首先，我們不能完全相信朝鮮的資料。"
+  },
+  {
+    "index": 19,
+    "text": "The Institute for Health Metrics and Evaluation,",
+    "start": 95.375,
+    "end": 98.636,
+    "zh": "健康指标与评估研究所，",
+    "zh_hant": "健康指標與評估研究所，"
+  },
+  {
+    "index": 20,
+    "text": "the IHME, who compile the Global Burden of Disease database,",
+    "start": 98.286,
+    "end": 103.218,
+    "zh": "即IHME，负责编制全球疾病负担数据库，",
+    "zh_hant": "即IHME，負責編制全球疾病負擔資料庫，"
+  },
+  {
+    "index": 21,
+    "text": "told us that they use a systematic synthesis of all available data sources,",
+    "start": 103.159,
+    "end": 108.141,
+    "zh": "他们告诉我们，他们使用所有可用数据来源的系统性综合方法，",
+    "zh_hant": "他們告訴我們，他們使用所有可用資料來源的系統性綜合方法，"
+  },
+  {
+    "index": 22,
+    "text": "including data from UN agencies, WHO mortality data,",
+    "start": 107.961,
+    "end": 112.283,
+    "zh": "包括联合国机构的数据、世界卫生组织的死亡率数据、",
+    "zh_hant": "包括聯合國機構的資料、世界衛生組織的死亡率資料、"
+  },
+  {
+    "index": 23,
+    "text": "household surveys where available, and demographic and nutritional indicators.",
+    "start": 112.183,
+    "end": 117.105,
+    "zh": "可用的家庭调查，以及人口和营养指标。",
+    "zh_hant": "可用的家庭調查，以及人口和營養指標。"
+  },
+  {
+    "index": 24,
+    "text": "The problem is that the UN currently cannot access North Korea,",
+    "start": 116.885,
+    "end": 120.927,
+    "zh": "问题在于，联合国目前无法进入朝鲜，",
+    "zh_hant": "問題在於，聯合國目前無法進入朝鮮，"
+  },
+  {
+    "index": 25,
+    "text": "with the UN's head of human rights in North Korea stating…",
+    "start": 120.967,
+    "end": 124.449,
+    "zh": "联合国驻朝鲜人权负责人表示……",
+    "zh_hant": "聯合國駐朝鮮人權負責人表示……"
+  },
+  {
+    "index": 26,
+    "text": "That means that the humanitarian and development assistance that the United Nations could provide is constrained,",
+    "start": 124.329,
+    "end": 130.332,
+    "zh": "这意味着联合国本可提供的人道主义和发展援助受到限制，",
+    "zh_hant": "這意味著聯合國本可提供的人道主義和發展援助受到限制，"
+  },
+  {
+    "index": 27,
+    "text": "and an independent assessment of the humanitarian situation is not possible.",
+    "start": 130.332,
+    "end": 136.555,
+    "zh": "而且对人道主义状况进行独立评估是不可能的。",
+    "zh_hant": "而且對人道主義狀況進行獨立評估是不可能的。"
+  },
+  {
+    "index": 28,
+    "text": "Despite the lack of access,",
+    "start": 136.876,
+    "end": 138.656,
+    "zh": "尽管缺乏准入，",
+    "zh_hant": "儘管缺乏准入，"
+  },
+  {
+    "index": 29,
+    "text": "the UN reckons that around 40% of the population are malnourished",
+    "start": 138.436,
+    "end": 143.759,
+    "zh": "联合国估计约有40%的人口营养不良，",
+    "zh_hant": "聯合國估計約有40%的人口營養不良，"
+  },
+  {
+    "index": 30,
+    "text": "and 18% of children are stunted due to not getting enough nutrients.",
+    "start": 143.679,
+    "end": 149.401,
+    "zh": "并且18%的儿童因营养不足而发育迟缓。",
+    "zh_hant": "並且18%的兒童因營養不足而發育遲緩。"
+  },
+  {
+    "index": 31,
+    "text": "We know their agricultural capabilities fall short of meeting the population's needs,",
+    "start": 149.642,
+    "end": 154.524,
+    "zh": "我们知道他们的农业能力无法满足人口需求，",
+    "zh_hant": "我們知道他們的農業能力無法滿足人口需求，"
+  },
+  {
+    "index": 32,
+    "text": "and that they don't have access to modern equipment and fertilisers,",
+    "start": 154.584,
+    "end": 158.386,
+    "zh": "而且他们缺乏现代设备和化肥，",
+    "zh_hant": "而且他們缺乏現代裝置和化肥，"
+  },
+  {
+    "index": 33,
+    "text": "and that they've experienced periods of drought and famine.",
+    "start": 158.386,
+    "end": 162.068,
+    "zh": "并且经历过干旱和饥荒时期。",
+    "zh_hant": "並且經歷過乾旱和饑荒時期。"
+  },
+  {
+    "index": 34,
+    "text": "The IHME acknowledged the high level of uncertainty with the North Korean figures,",
+    "start": 162.228,
+    "end": 167.351,
+    "zh": "IHME承认朝鲜数据存在高度不确定性，",
+    "zh_hant": "IHME承認朝鮮資料存在高度不確定性，"
+  },
+  {
+    "index": 35,
+    "text": "and they told us that finding that the US age-standardised death rate exceeds North Korea's estimate",
+    "start": 167.051,
+    "end": 173.194,
+    "zh": "他们告诉我们，发现美国年龄标准化死亡率超过朝鲜估计值，",
+    "zh_hant": "他們告訴我們，發現美國年齡標準化死亡率超過朝鮮估計值，"
+  },
+  {
+    "index": 36,
+    "text": "is best interpreted with appropriate caution.",
+    "start": 173.014,
+    "end": 175.815,
+    "zh": "最好带着适当的谨慎来解读。",
+    "zh_hant": "最好帶著適當的謹慎來解讀。"
+  },
+  {
+    "index": 37,
+    "text": "But the trend for the US is interesting.",
+    "start": 175.775,
+    "end": 178.736,
+    "zh": "但美国的趋势很有意思。",
+    "zh_hant": "但美國的趨勢很有意思。"
+  },
+  {
+    "index": 38,
+    "text": "The estimated death rate from protein energy malnutrition",
+    "start": 178.757,
+    "end": 183.379,
+    "zh": "蛋白质能量营养不良的估计死亡率，",
+    "zh_hant": "蛋白質能量營養不良的估計死亡率，"
+  },
+  {
+    "index": 39,
+    "text": "per 100,000 people is flat or declining in most countries.",
+    "start": 183.029,
+    "end": 188.381,
+    "zh": "每10万人中的比例，在大多数国家持平或下降。",
+    "zh_hant": "每10萬人中的比例，在大多數國家持平或下降。"
+  },
+  {
+    "index": 40,
+    "text": "In the US, the rate seems to have been going up since around 2012.",
+    "start": 188.361,
+    "end": 193.694,
+    "zh": "在美国，这一比率似乎自2012年左右以来一直在上升。",
+    "zh_hant": "在美國，這一比率似乎自2012年左右以來一直在上升。"
+  },
+  {
+    "index": 41,
+    "text": "To find out why, we spoke to Dr. Christina Newport,",
+    "start": 193.744,
+    "end": 197.446,
+    "zh": "为了找出原因，我们采访了克里斯蒂娜·纽波特博士，",
+    "zh_hant": "為了找出原因，我們採訪了克里斯蒂娜·紐波特博士，"
+  },
+  {
+    "index": 42,
+    "text": "lead for palliative care for Penn State Health",
+    "start": 197.406,
+    "end": 200.667,
+    "zh": "宾夕法尼亚州立健康中心的姑息治疗负责人，",
+    "zh_hant": "賓夕法尼亞州立健康中心的姑息治療負責人，"
+  },
+  {
+    "index": 43,
+    "text": "and the chief medical officer for the American Academy of Hospice and Palliative Care Medicine.",
+    "start": 200.627,
+    "end": 206.37,
+    "zh": "同时也是美国临终关怀和姑息治疗医学学会的首席医疗官。",
+    "zh_hant": "同時也是美國臨終關懷和姑息治療醫學學會的首席醫療官。"
+  },
+  {
+    "index": 44,
+    "text": "The actual definition of malnutrition is a state",
+    "start": 206.27,
+    "end": 211.373,
+    "zh": "营养不良的实际定义是一种状态，",
+    "zh_hant": "營養不良的實際定義是一種狀態，"
+  },
+  {
+    "index": 45,
+    "text": "that results from deficiencies or imbalances in a person's intake of energy or nutrients.",
+    "start": 211.193,
+    "end": 217.116,
+    "zh": "源于一个人能量或营养摄入的缺乏或不平衡。",
+    "zh_hant": "源於一個人能量或營養攝入的缺乏或不平衡。"
+  },
+  {
+    "index": 46,
+    "text": "People can and do die of malnutrition, but that's not really what's going on in the US.",
+    "start": 216.976,
+    "end": 222.738,
+    "zh": "人们确实可能死于营养不良，但这不是美国真正的情况。",
+    "zh_hant": "人們確實可能死於營養不良，但這不是美國真正的情況。"
+  },
+  {
+    "index": 47,
+    "text": "The data from the US is gathered by looking at death certificates and seeing if malnutrition appears on them.",
+    "start": 222.799,
+    "end": 229.162,
+    "zh": "美国的数据是通过查看死亡证明，看上面是否有营养不良来收集的。",
+    "zh_hant": "美國的資料是透過檢視死亡證明，看上面是否有營養不良來收集的。"
+  },
+  {
+    "index": 48,
+    "text": "The data that we're actually looking at here actually encompasses",
+    "start": 229.102,
+    "end": 232.363,
+    "zh": "我们在这里看的数据实际上涵盖",
+    "zh_hant": "我們在這裡看的資料實際上涵蓋"
+  },
+  {
+    "index": 49,
+    "text": "a whole list of diagnoses that fall under malnutrition, and that includes",
+    "start": 232.143,
+    "end": 238.266,
+    "zh": "了一系列属于营养不良的诊断，包括",
+    "zh_hant": "了一系列屬於營養不良的診斷，包括"
+  },
+  {
+    "index": 50,
+    "text": "just something as simple as abnormal weight loss.",
+    "start": 238.146,
+    "end": 240.847,
+    "zh": "像异常体重减轻这样简单的情况。",
+    "zh_hant": "像異常體重減輕這樣簡單的情況。"
+  },
+  {
+    "index": 51,
+    "text": "It doesn't always mean that it's an issue of somebody not taking in nutrition or their body not using it correctly.",
+    "start": 240.988,
+    "end": 248.632,
+    "zh": "这并不总是意味着某人没有摄入营养或身体未能正确利用营养的问题。",
+    "zh_hant": "這並不總是意味著某人沒有攝入營養或身體未能正確利用營養的問題。"
+  },
+  {
+    "index": 52,
+    "text": "The people are also generally dying with malnutrition, not of malnutrition.",
+    "start": 248.392,
+    "end": 254.194,
+    "zh": "这些人通常也是伴随营养不良而逝，而非死于营养不良。",
+    "zh_hant": "這些人通常也是伴隨營養不良而逝，而非死於營養不良。"
+  },
+  {
+    "index": 53,
+    "text": "There's a very small number of people for whom Malnutrition is listed as a cause of death.",
+    "start": 254.135,
+    "end": 260.858,
+    "zh": "只有极少数人将营养不良列为死因。",
+    "zh_hant": "只有極少數人將營養不良列為死因。"
+  },
+  {
+    "index": 54,
+    "text": "Who are dying from a primary nutritional problem?",
+    "start": 260.798,
+    "end": 264.76,
+    "zh": "谁死于主要的营养问题？",
+    "zh_hant": "誰死於主要的營養問題？"
+  },
+  {
+    "index": 55,
+    "text": "A very small number.",
+    "start": 264.52,
+    "end": 265.9,
+    "zh": "非常少。",
+    "zh_hant": "非常少。"
+  },
+  {
+    "index": 56,
+    "text": "The majority of the folks that are being captured with these diagnoses are dying from another cause,",
+    "start": 266.141,
+    "end": 272.724,
+    "zh": "大多数被记录为这些诊断的人是死于其他原因，",
+    "zh_hant": "大多數被記錄為這些診斷的人是死於其他原因，"
+  },
+  {
+    "index": 57,
+    "text": "and weight loss is a symptom of that condition.",
+    "start": 272.844,
+    "end": 276.886,
+    "zh": "而体重减轻是那种状况的症状。",
+    "zh_hant": "而體重減輕是那種狀況的症狀。"
+  },
+  {
+    "index": 58,
+    "text": "For example, people suffering from cancer often develop cachexia,",
+    "start": 276.966,
+    "end": 281.948,
+    "zh": "例如，癌症患者常常出现恶病质，",
+    "zh_hant": "例如，癌症患者常常出現惡病質，"
+  },
+  {
+    "index": 59,
+    "text": "a syndrome that affects how the body processes energy and causes rapid loss in weight and muscle.",
+    "start": 282.128,
+    "end": 288.792,
+    "zh": "这是一种影响身体处理能量方式并导致体重和肌肉快速下降的综合征。",
+    "zh_hant": "這是一種影響身體處理能量方式並導致體重和肌肉快速下降的綜合徵。"
+  },
+  {
+    "index": 60,
+    "text": "People with dementia can suffer from loss of appetite, difficulty chewing or swallowing, or simply forgetting to eat.",
+    "start": 288.592,
+    "end": 296.196,
+    "zh": "痴呆患者可能会食欲不振、咀嚼或吞咽困难，或者干脆忘记吃饭。",
+    "zh_hant": "痴呆患者可能會食慾不振、咀嚼或吞嚥困難，或者乾脆忘記吃飯。"
+  },
+  {
+    "index": 61,
+    "text": "The vast majority of people who die while malnourished are over the age of 85,",
+    "start": 296.536,
+    "end": 302.249,
+    "zh": "绝大多数在营养不良状态下死亡的人年龄超过85岁，",
+    "zh_hant": "絕大多數在營養不良狀態下死亡的人年齡超過85歲，"
+  },
+  {
+    "index": 62,
+    "text": "at a rate 60 times higher than that of the general population.",
+    "start": 302.299,
+    "end": 306.341,
+    "zh": "其比例比一般人群高出60倍。",
+    "zh_hant": "其比例比一般人群高出60倍。"
+  },
+  {
+    "index": 63,
+    "text": "So, is there a problem with American octogenarians not being able to afford food?",
+    "start": 306.821,
+    "end": 312.824,
+    "zh": "那么，美国八旬老人是否因负担不起食物而出现问题？",
+    "zh_hant": "那麼，美國八旬老人是否因負擔不起食物而出現問題？"
+  },
+  {
+    "index": 64,
+    "text": "In general, no.",
+    "start": 313.204,
+    "end": 314.605,
+    "zh": "总的来说，不是。",
+    "zh_hant": "總的來說，不是。"
+  },
+  {
+    "index": 65,
+    "text": "We don't have any evidence to say that primary malnutrition is actually on the rise.",
+    "start": 314.745,
+    "end": 320.368,
+    "zh": "我们没有证据表明原发性营养不良实际上在上升。",
+    "zh_hant": "我們沒有證據表明原發性營養不良實際上在上升。"
+  },
+  {
+    "index": 66,
+    "text": "We are just identifying it better and documenting it better than we had in the past.",
+    "start": 320.408,
+    "end": 325.17,
+    "zh": "我们只是比以前更好地识别和记录它。",
+    "zh_hant": "我們只是比以前更好地識別和記錄它。"
+  },
+  {
+    "index": 67,
+    "text": "And we are identifying not just nutritional issues that are a problem on their own,",
+    "start": 325.191,
+    "end": 330.733,
+    "zh": "我们不仅识别本身是问题的营养问题，",
+    "zh_hant": "我們不僅識別本身是問題的營養問題，"
+  },
+  {
+    "index": 68,
+    "text": "But we're identifying weight loss in people for whom it's caused by another disease.",
+    "start": 330.733,
+    "end": 336.096,
+    "zh": "还识别由其他疾病引起的体重减轻。",
+    "zh_hant": "還識別由其他疾病引起的體重減輕。"
+  },
+  {
+    "index": 69,
+    "text": "The reason the numbers have shot up since 2012 is simply that before then,",
+    "start": 336.036,
+    "end": 340.818,
+    "zh": "自2012年以来数字飙升的原因很简单：在此之前，",
+    "zh_hant": "自2012年以來數字飆升的原因很簡單：在此之前，"
+  },
+  {
+    "index": 70,
+    "text": "they weren't recording malnutrition in the same way.",
+    "start": 340.798,
+    "end": 344.019,
+    "zh": "他们没有以同样的方式记录营养不良。",
+    "zh_hant": "他們沒有以同樣的方式記錄營養不良。"
+  },
+  {
+    "index": 71,
+    "text": "In 2012, ASPEN,",
+    "start": 344.38,
+    "end": 346.641,
+    "zh": "2012年，ASPEN，",
+    "zh_hant": "2012年，ASPEN，"
+  },
+  {
+    "index": 72,
+    "text": "the American Society for Parenteral and Enteral Nutrition, started an initiative.",
+    "start": 346.461,
+    "end": 352.504,
+    "zh": "美国肠外和肠内营养学会，发起了一项倡议。",
+    "zh_hant": "美國腸外和腸內營養學會，發起了一項倡議。"
+  },
+  {
+    "index": 73,
+    "text": "That actually led to a whole PR campaign, an educational effort,",
+    "start": 352.464,
+    "end": 357.626,
+    "zh": "这实际上引发了一场公关活动，一项教育工作，",
+    "zh_hant": "這實際上引發了一場公關活動，一項教育工作，"
+  },
+  {
+    "index": 74,
+    "text": "to help people understand the impact of malnutrition and to better document",
+    "start": 357.606,
+    "end": 362.749,
+    "zh": "帮助人们了解营养不良的影响，并更好地记录",
+    "zh_hant": "幫助人們瞭解營養不良的影響，並更好地記錄"
+  },
+  {
+    "index": 75,
+    "text": "when we see that people are losing weight.",
+    "start": 362.809,
+    "end": 365.531,
+    "zh": "当我们看到人们体重下降时的情况。",
+    "zh_hant": "當我們看到人們體重下降時的情況。"
+  },
+  {
+    "index": 76,
+    "text": "It became a tool for regulatory bodies to measure.",
+    "start": 365.471,
+    "end": 369.052,
+    "zh": "它成为监管机构衡量的工具。",
+    "zh_hant": "它成為監管機構衡量的工具。"
+  },
+  {
+    "index": 77,
+    "text": "The quality of care that was being delivered.",
+    "start": 368.702,
+    "end": 370.993,
+    "zh": "衡量所提供护理的质量。",
+    "zh_hant": "衡量所提供護理的質量。"
+  },
+  {
+    "index": 78,
+    "text": "Hospitals started recording symptoms of malnutrition more carefully,",
+    "start": 371.294,
+    "end": 375.295,
+    "zh": "医院开始更仔细地记录营养不良症状，",
+    "zh_hant": "醫院開始更仔細地記錄營養不良症狀，"
+  },
+  {
+    "index": 79,
+    "text": "as malnourishment can have a huge effect on patient outcomes.",
+    "start": 375.056,
+    "end": 379.117,
+    "zh": "因为营养不良对患者结局有巨大影响。",
+    "zh_hant": "因為營養不良對患者結局有巨大影響。"
+  },
+  {
+    "index": 80,
+    "text": "We report on how often people die in our hospitals in this country,",
+    "start": 379.037,
+    "end": 384.52,
+    "zh": "我们报告本国医院中人们死亡的频率，",
+    "zh_hant": "我們報告本國醫院中人們死亡的頻率，"
+  },
+  {
+    "index": 81,
+    "text": "and one of the ways that that gets reported is to take a look",
+    "start": 384.98,
+    "end": 389.803,
+    "zh": "报告方式之一是查看",
+    "zh_hant": "報告方式之一是檢視"
+  },
+  {
+    "index": 82,
+    "text": "at how many people are expected to die of a certain condition,",
+    "start": 389.453,
+    "end": 392.744,
+    "zh": "预计有多少人死于某种疾病，",
+    "zh_hant": "預計有多少人死於某種疾病，"
+  },
+  {
+    "index": 83,
+    "text": "as opposed to how many people actually die in that hospital.",
+    "start": 392.964,
+    "end": 396.386,
+    "zh": "对比实际死于那家医院的人数。",
+    "zh_hant": "對比實際死於那家醫院的人數。"
+  },
+  {
+    "index": 84,
+    "text": "And nutrition is one of the many diagnoses that can be included that can...",
+    "start": 396.946,
+    "end": 403.329,
+    "zh": "营养是可能被纳入并影响",
+    "zh_hant": "營養是可能被納入並影響"
+  },
+  {
+    "index": 85,
+    "text": "Affect how high the expectation is that someone may die from a certain illness,",
+    "start": 402.979,
+    "end": 409.993,
+    "zh": "某人可能死于某种疾病的预期概率的众多诊断之一，",
+    "zh_hant": "某人可能死於某種疾病的預期機率的眾多診斷之一，"
+  },
+  {
+    "index": 86,
+    "text": "so it helps to clarify whether the hospital care affected the likelihood of the person's death,",
+    "start": 410.273,
+    "end": 415.716,
+    "zh": "所以它有助于澄清医院护理是否影响了死亡的可能性，",
+    "zh_hant": "所以它有助於澄清醫院護理是否影響了死亡的可能性，"
+  },
+  {
+    "index": 87,
+    "text": "as people who are malnourished are much more likely to die.",
+    "start": 415.636,
+    "end": 419.078,
+    "zh": "因为营养不良的人更有可能死亡。",
+    "zh_hant": "因為營養不良的人更有可能死亡。"
+  },
+  {
+    "index": 88,
+    "text": "For this reason, malnutrition is also often used by doctors",
+    "start": 419.078,
+    "end": 423.42,
+    "zh": "因此，医生和保险公司也经常使用营养不良",
+    "zh_hant": "因此，醫生和保險公司也經常使用營養不良"
+  },
+  {
+    "index": 89,
+    "text": "and insurance companies as a measure of whether people qualify for hospice care.",
+    "start": 423.12,
+    "end": 428.342,
+    "zh": "作为人们是否有资格接受临终关怀的衡量标准。",
+    "zh_hant": "作為人們是否有資格接受臨終關懷的衡量標準。"
+  },
+  {
+    "index": 90,
+    "text": "If someone lives more than six months, the healthcare clinicians on the hospice team have to explain why they think hospice is still the best way.",
+    "start": 428.202,
+    "end": 435.706,
+    "zh": "如果某人存活超过六个月，临终关怀团队的临床医生必须解释为什么他们认为临终关怀仍是最佳方式。",
+    "zh_hant": "如果某人存活超過六個月，臨終關懷團隊的臨床醫生必須解釋為什麼他們認為臨終關懷仍是最佳方式。"
+  },
+  {
+    "index": 91,
+    "text": "To care for someone.",
+    "start": 435.356,
+    "end": 436.546,
+    "zh": "来照顾某人。",
+    "zh_hant": "來照顧某人。"
+  },
+  {
+    "index": 92,
+    "text": "And so, measurements of nutrition have become an important component of identifying",
+    "start": 436.786,
+    "end": 443.249,
+    "zh": "因此，营养测量已成为识别",
+    "zh_hant": "因此，營養測量已成為識別"
+  },
+  {
+    "index": 93,
+    "text": "whether a person is dying from your condition.",
+    "start": 442.929,
+    "end": 446.011,
+    "zh": "某人是否死于你的疾病的重要部分。",
+    "zh_hant": "某人是否死於你的疾病的重要部分。"
+  },
+  {
+    "index": 94,
+    "text": "So the caregivers and institutions in the US are now logging and tracking people with malnutrition while they're still alive,",
+    "start": 446.152,
+    "end": 453.695,
+    "zh": "因此，美国的护理人员和机构现在在患者在世时就记录和追踪营养不良者，",
+    "zh_hant": "因此，美國的護理人員和機構現在在患者在世時就記錄和追蹤營養不良者，"
+  },
+  {
+    "index": 95,
+    "text": "both to protect themselves as doctors and to help advocate for patients.",
+    "start": 453.775,
+    "end": 458.557,
+    "zh": "既是为了保护自己作为医生，也是为了帮助倡导患者权益。",
+    "zh_hant": "既是為了保護自己作為醫生，也是為了幫助倡導患者權益。"
+  },
+  {
+    "index": 96,
+    "text": "This then has a knock-on effect when they die.",
+    "start": 458.838,
+    "end": 461.679,
+    "zh": "这然后在某人去世时产生了连锁反应。",
+    "zh_hant": "這然後在某人去世時產生了連鎖反應。"
+  },
+  {
+    "index": 97,
+    "text": "Most death certificates are completed by people who are not forensic pathologists.",
+    "start": 461.699,
+    "end": 467.382,
+    "zh": "大多数死亡证明是由非法医病理学家填写的人完成的。",
+    "zh_hant": "大多數死亡證明是由非法醫病理學家填寫的人完成的。"
+  },
+  {
+    "index": 98,
+    "text": "They're not medical examiners.",
+    "start": 467.342,
+    "end": 469.263,
+    "zh": "他们不是法医检查员。",
+    "zh_hant": "他們不是法醫檢查員。"
+  },
+  {
+    "index": 99,
+    "text": "It's really kind of a simple explanation,",
+    "start": 469.263,
+    "end": 471.664,
+    "zh": "这其实是一个简单的解释，",
+    "zh_hant": "這其實是一個簡單的解釋，"
+  },
+  {
+    "index": 100,
+    "text": "because these diagnoses are following people along through their medical documentation,",
+    "start": 471.384,
+    "end": 476.406,
+    "zh": "因为这些诊断跟随人们贯穿他们的医疗文件，",
+    "zh_hant": "因為這些診斷跟隨人們貫穿他們的醫療檔案，"
+  },
+  {
+    "index": 101,
+    "text": "from a hospital, from a nursing home, from a hospice,",
+    "start": 476.056,
+    "end": 480.308,
+    "zh": "从医院、疗养院、临终关怀机构，",
+    "zh_hant": "從醫院、療養院、臨終關懷機構，"
+  },
+  {
+    "index": 102,
+    "text": "it's more likely that when the person who's responsible for filling out the death certificate reviews their chart,",
+    "start": 479.968,
+    "end": 485.511,
+    "zh": "当负责填写死亡证明的人审查他们的病历（原文“chart”疑为“记录”之误）时，",
+    "zh_hant": "當負責填寫死亡證明的人審查他們的病歷（原文“chart”疑為“記錄”之誤）時，"
+  },
+  {
+    "index": 103,
+    "text": "they see a nutritional diagnosis listed in front of them as contributing to the death.",
+    "start": 485.161,
+    "end": 490.934,
+    "zh": "更可能看到一份营养诊断被列为导致死亡的因素。",
+    "zh_hant": "更可能看到一份營養診斷被列為導致死亡的因素。"
+  },
+  {
+    "index": 104,
+    "text": "And so it gets included in the death certificate.",
+    "start": 490.584,
+    "end": 492.835,
+    "zh": "因此它就被包含在死亡证明中。",
+    "zh_hant": "因此它就被包含在死亡證明中。"
+  },
+  {
+    "index": 105,
+    "text": "What we see is that it's less likely to be listed when someone has had an autopsy",
+    "start": 492.915,
+    "end": 497.757,
+    "zh": "我们看到的是，当某人接受过尸检",
+    "zh_hant": "我們看到的是，當某人接受過屍檢"
+  },
+  {
+    "index": 106,
+    "text": "or has had a pathologist complete the death certificate,",
+    "start": 497.957,
+    "end": 501.399,
+    "zh": "或由病理学家完成死亡证明时，它被列出的可能性较小，",
+    "zh_hant": "或由病理學家完成死亡證明時，它被列出的可能性較小，"
+  },
+  {
+    "index": 107,
+    "text": "which tells us that when there is very close",
+    "start": 501.049,
+    "end": 504.62,
+    "zh": "这告诉我们，当对死因进行非常仔细",
+    "zh_hant": "這告訴我們，當對死因進行非常仔細"
+  },
+  {
+    "index": 108,
+    "text": "consideration and really objective measurement of what caused the death, it's less likely for the diagnosis to be used.",
+    "start": 504.27,
+    "end": 511.164,
+    "zh": "和客观的测量时，该诊断被使用的可能性较小。",
+    "zh_hant": "和客觀的測量時，該診斷被使用的可能性較小。"
+  },
+  {
+    "index": 109,
+    "text": "That leads us again to presume that in many of these cases,",
+    "start": 511.024,
+    "end": 515.566,
+    "zh": "这再次引导我们推测，在许多这些案例中，",
+    "zh_hant": "這再次引導我們推測，在許多這些案例中，"
+  },
+  {
+    "index": 110,
+    "text": "the diagnosis is being used because it was measuring a symptom of another condition.",
+    "start": 515.446,
+    "end": 520.048,
+    "zh": "该诊断被使用是因为它测量了另一种状况的症状。",
+    "zh_hant": "該診斷被使用是因為它測量了另一種狀況的症狀。"
+  },
+  {
+    "index": 111,
+    "text": "To conclude, it's very unlikely that the US truly has a higher death toll from malnutrition than North Korea",
+    "start": 520.669,
+    "end": 527.615,
+    "zh": "总之，美国因营养不良导致的死亡人数真正高于朝鲜",
+    "zh_hant": "總之，美國因營養不良導致的死亡人數真正高於朝鮮"
+  },
+  {
+    "index": 112,
+    "text": "and China.",
+    "start": 527.415,
+    "end": 528.416,
+    "zh": "和中国的情况非常不可能。",
+    "zh_hant": "和中國的情況非常不可能。"
+  },
+  {
+    "index": 113,
+    "text": "Our thanks to Christina Newport.",
+    "start": 528.516,
+    "end": 530.558,
+    "zh": "感谢克里斯蒂娜·纽波特的参与。",
+    "zh_hant": "感謝克里斯蒂娜·紐波特的參與。"
+  },
+  {
+    "index": 114,
+    "text": "And that's all we have time for this episode.",
+    "start": 531.159,
+    "end": 533.381,
+    "zh": "这一集的时间到这里就结束了。",
+    "zh_hant": "這一集的時間到這裡就結束了。"
+  },
+  {
+    "index": 115,
+    "text": "Please do keep your questions and comments coming in to moreorless@bbc.co.uk.",
+    "start": 533.301,
+    "end": 539.227,
+    "zh": "请继续将您的问题和评论发送到moreorless@bbc.co.uk。",
+    "zh_hant": "請繼續將您的問題和評論傳送到moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 116,
+    "text": "Until next time, goodbye.",
+    "start": 539.628,
+    "end": 541.97,
+    "zh": "下次再见，拜拜。",
+    "zh_hant": "下次再見，拜拜。"
+  }
+]

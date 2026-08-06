@@ -1,0 +1,1018 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC 声音。",
+    "zh_hant": "BBC 聲音。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 4.912,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello, and thanks for downloading the More or Less podcast.",
+    "start": 5.913,
+    "end": 9.474,
+    "zh": "你好，感谢下载《More or Less》播客。",
+    "zh_hant": "你好，感謝下載《More or Less》播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that helps you take a swing at suspicious numbers,",
+    "start": 9.675,
+    "end": 13.536,
+    "zh": "我们是帮你对可疑数字挥拍应战的节目，",
+    "zh_hant": "我們是幫你對可疑數字揮拍應戰的節目，"
+  },
+  {
+    "index": 4,
+    "text": "challenge data that seems clearly out, and return statistical sanity.",
+    "start": 13.396,
+    "end": 18.759,
+    "zh": "挑战看似明显出界的数据，并恢复统计的理智。",
+    "zh_hant": "挑戰看似明顯出界的資料，並恢復統計的理智。"
+  },
+  {
+    "index": 5,
+    "text": "I'm your umpire, Tim Harford.",
+    "start": 18.939,
+    "end": 21.1,
+    "zh": "我是你的裁判，蒂姆·哈福德。",
+    "zh_hant": "我是你的裁判，蒂姆·哈福德。"
+  },
+  {
+    "index": 6,
+    "text": "Recently, a post did the rounds on Twitter that claimed that if you do this,",
+    "start": 22.381,
+    "end": 26.743,
+    "zh": "最近，推特上有一篇帖子流传，声称如果你这样做，",
+    "zh_hant": "最近，推特上有一篇帖子流傳，聲稱如果你這樣做，"
+  },
+  {
+    "index": 7,
+    "text": "you might live 9.7 years longer.",
+    "start": 30.345,
+    "end": 33.226,
+    "zh": "你可能会多活9.7年。",
+    "zh_hant": "你可能會多活9.7年。"
+  },
+  {
+    "index": 8,
+    "text": "First things first, the claim does come from a peer-reviewed paper by a group of doctors and scientists from the Mayo Clinic.",
+    "start": 33.466,
+    "end": 40.269,
+    "zh": "首先，这个说法确实来自梅奥诊所一群医生和科学家发表的同行评审论文。",
+    "zh_hant": "首先，這個說法確實來自梅奧診所一群醫生和科學家發表的同行評審論文。"
+  },
+  {
+    "index": 9,
+    "text": "The team used data from Denmark to follow a group of people",
+    "start": 40.59,
+    "end": 44.432,
+    "zh": "团队使用丹麦的数据跟踪一组人群，",
+    "zh_hant": "團隊使用丹麥的資料跟蹤一組人群，"
+  },
+  {
+    "index": 10,
+    "text": "and try and work out which sport produced the most gains in years lived.",
+    "start": 44.172,
+    "end": 48.894,
+    "zh": "试图找出哪种运动在延长寿命年数上效果最显著。",
+    "zh_hant": "試圖找出哪種運動在延長壽命年數上效果最顯著。"
+  },
+  {
+    "index": 11,
+    "text": "They looked at eight different sports and found that people could expect to gain 9.7 years of life from playing tennis,",
+    "start": 48.954,
+    "end": 55.94,
+    "zh": "他们研究了八种不同的运动，发现打网球的人可望多活9.7年，",
+    "zh_hant": "他們研究了八種不同的運動，發現打網球的人可望多活9.7年，"
+  },
+  {
+    "index": 12,
+    "text": "6.2 for badminton, 4.7 for soccer, 3.7 for cycling,",
+    "start": 55.54,
+    "end": 61.177,
+    "zh": "羽毛球6.2年，足球4.7年，骑行3.7年，",
+    "zh_hant": "羽毛球6.2年，足球4.7年，騎行3.7年，"
+  },
+  {
+    "index": 13,
+    "text": "3.4 for swimming, 3.2 for Jogging, 3.1 for calisthenics,",
+    "start": 60.777,
+    "end": 67.183,
+    "zh": "游泳3.4年，慢跑3.2年，健身操3.1年，",
+    "zh_hant": "游泳3.4年，慢跑3.2年，健身操3.1年，"
+  },
+  {
+    "index": 14,
+    "text": "and 1.5 for health club activities.",
+    "start": 67.463,
+    "end": 70.985,
+    "zh": "以及健身俱乐部活动1.5年。",
+    "zh_hant": "以及健身俱樂部活動1.5年。"
+  },
+  {
+    "index": 15,
+    "text": "That last one sounds ominous.",
+    "start": 71.065,
+    "end": 73.086,
+    "zh": "最后一项听起来不祥。",
+    "zh_hant": "最後一項聽起來不祥。"
+  },
+  {
+    "index": 16,
+    "text": "So tennis could extend your life five years more than jogging could.",
+    "start": 73.166,
+    "end": 78.589,
+    "zh": "所以网球可能比慢跑多延长你五年寿命。",
+    "zh_hant": "所以網球可能比慢跑多延長你五年壽命。"
+  },
+  {
+    "index": 17,
+    "text": "Or could it?",
+    "start": 78.949,
+    "end": 80.129,
+    "zh": "还是真的可以？",
+    "zh_hant": "還是真的可以？"
+  },
+  {
+    "index": 18,
+    "text": "People on the internet were quick to point",
+    "start": 80.23,
+    "end": 82.731,
+    "zh": "网上的人很快指出，",
+    "zh_hant": "網上的人很快指出，"
+  },
+  {
+    "index": 19,
+    "text": "out that doing this is,",
+    "start": 82.381,
+    "end": 89.114,
+    "zh": "做这件事，",
+    "zh_hant": "做這件事，"
+  },
+  {
+    "index": 20,
+    "text": "in many countries, an expensive and elitist sport.",
+    "start": 88.794,
+    "end": 92.776,
+    "zh": "在许多国家是一项昂贵且精英化的运动。",
+    "zh_hant": "在許多國家是一項昂貴且精英化的運動。"
+  },
+  {
+    "index": 21,
+    "text": "Now, it is a well-established fact that people who are wealthier",
+    "start": 92.836,
+    "end": 97.078,
+    "zh": "现在，一个公认的事实是，更富有的人",
+    "zh_hant": "現在，一個公認的事實是，更富有的人"
+  },
+  {
+    "index": 22,
+    "text": "and have a higher level of education tend to live longer.",
+    "start": 96.728,
+    "end": 100.62,
+    "zh": "和受教育程度更高的人往往寿命更长。",
+    "zh_hant": "和受教育程度更高的人往往壽命更長。"
+  },
+  {
+    "index": 23,
+    "text": "So the commenters argued, are our balls in the wrong court?",
+    "start": 100.74,
+    "end": 105.222,
+    "zh": "所以评论者辩称，我们的球是不是打错了场地？",
+    "zh_hant": "所以評論者辯稱，我們的球是不是打錯了場地？"
+  },
+  {
+    "index": 24,
+    "text": "Is longevity just An artefact of socioeconomic status?",
+    "start": 105.023,
+    "end": 109.064,
+    "zh": "长寿只是社会经济地位的附带结果吗？",
+    "zh_hant": "長壽只是社會經濟地位的附帶結果嗎？"
+  },
+  {
+    "index": 25,
+    "text": "Or is tennis truly responsible for longer lives?",
+    "start": 109.045,
+    "end": 113.627,
+    "zh": "还是网球真的能带来更长的寿命？",
+    "zh_hant": "還是網球真的能帶來更長的壽命？"
+  },
+  {
+    "index": 26,
+    "text": "To answer this, we need to look into the data.",
+    "start": 113.887,
+    "end": 116.288,
+    "zh": "为了回答这个问题，我们需要深入研究数据。",
+    "zh_hant": "為了回答這個問題，我們需要深入研究資料。"
+  },
+  {
+    "index": 27,
+    "text": "So, in the spirit of Wimbledon, we've done just that.",
+    "start": 116.288,
+    "end": 119.95,
+    "zh": "因此，本着温布尔登的精神，我们就这么做了。",
+    "zh_hant": "因此，本著溫布林登的精神，我們就這麼做了。"
+  },
+  {
+    "index": 28,
+    "text": "So, I'm Adam Jacobs.",
+    "start": 121.99,
+    "end": 123.631,
+    "zh": "我是亚当·雅各布斯。",
+    "zh_hant": "我是亞當·雅各布斯。"
+  },
+  {
+    "index": 29,
+    "text": "I'm a medical statistician.",
+    "start": 123.371,
+    "end": 125.192,
+    "zh": "我是一名医学统计学家。",
+    "zh_hant": "我是一名醫學統計學家。"
+  },
+  {
+    "index": 30,
+    "text": "I've been working in clinical trials for about 30 years.",
+    "start": 124.932,
+    "end": 127.973,
+    "zh": "我在临床试验领域工作约30年了。",
+    "zh_hant": "我在臨床試驗領域工作約30年了。"
+  },
+  {
+    "index": 31,
+    "text": "As far as these types of studies go, Adam says the one this claim came from is quite a good one.",
+    "start": 127.953,
+    "end": 134.336,
+    "zh": "就这类研究而言，亚当说这个说法的来源研究是相当不错的一项。",
+    "zh_hant": "就這類研究而言，亞當說這個說法的來源研究是相當不錯的一項。"
+  },
+  {
+    "index": 32,
+    "text": "So, there are several good things about this study.",
+    "start": 134.196,
+    "end": 136.597,
+    "zh": "这项研究有几个优点。",
+    "zh_hant": "這項研究有幾個優點。"
+  },
+  {
+    "index": 33,
+    "text": "See, it's a large study.",
+    "start": 136.498,
+    "end": 138.698,
+    "zh": "看，这是一个大型研究。",
+    "zh_hant": "看，這是一個大型研究。"
+  },
+  {
+    "index": 34,
+    "text": "They had over eight ,000 participants in it,",
+    "start": 138.599,
+    "end": 142.94,
+    "zh": "他们有超过8000名参与者，",
+    "zh_hant": "他們有超過8000名參與者，"
+  },
+  {
+    "index": 35,
+    "text": "and they had a long follow-up time, which was really good.",
+    "start": 142.881,
+    "end": 146.462,
+    "zh": "而且随访时间很长，这非常好。",
+    "zh_hant": "而且隨訪時間很長，這非常好。"
+  },
+  {
+    "index": 36,
+    "text": "They followed people for 25 years, which means that a lot of people are going to die in that time.",
+    "start": 146.112,
+    "end": 151.645,
+    "zh": "他们跟踪了人们25年，这意味着这段时间内很多人会去世。",
+    "zh_hant": "他們跟蹤了人們25年，這意味著這段時間內很多人會去世。"
+  },
+  {
+    "index": 37,
+    "text": "So you get good data on all-cause mortality, which was their primary outcome measure.",
+    "start": 151.525,
+    "end": 157.428,
+    "zh": "所以你能获得关于全因死亡率的良好数据，这是他们的主要结局指标。",
+    "zh_hant": "所以你能獲得關於全因死亡率的良好資料，這是他們的主要結局指標。"
+  },
+  {
+    "index": 38,
+    "text": "And that's a good primary outcome measure because it's unambiguous, and everybody knows it's relevant.",
+    "start": 157.168,
+    "end": 162.751,
+    "zh": "这是一个好的主要结局指标，因为它没有歧义，而且每个人都知道它的相关性。",
+    "zh_hant": "這是一個好的主要結局指標，因為它沒有歧義，而且每個人都知道它的相關性。"
+  },
+  {
+    "index": 39,
+    "text": "But what of the twit's earlier point that tennis",
+    "start": 162.631,
+    "end": 166.653,
+    "zh": "但那位推特用户之前提到网球",
+    "zh_hant": "但那位推特使用者之前提到網球"
+  },
+  {
+    "index": 40,
+    "text": "is often played by people with university degrees and exceptional healthcare who, by the way, Tend to live longer?",
+    "start": 166.303,
+    "end": 173.216,
+    "zh": "常由拥有大学学位和卓越医疗保健的人打，顺便说一句，他们往往更长寿，这该怎么看？",
+    "zh_hant": "常由擁有大學學位和卓越醫療保健的人打，順便說一句，他們往往更長壽，這該怎麼看？"
+  },
+  {
+    "index": 41,
+    "text": "How do we make sure that someone's socioeconomic status isn't clouding things?",
+    "start": 173.456,
+    "end": 178.798,
+    "zh": "我们如何确保某人的社会经济地位不会干扰结果？",
+    "zh_hant": "我們如何確保某人的社會經濟地位不會干擾結果？"
+  },
+  {
+    "index": 42,
+    "text": "Yeah, so that's called confounding.",
+    "start": 178.739,
+    "end": 180.879,
+    "zh": "是的，这叫做混杂。",
+    "zh_hant": "是的，這叫做混雜。"
+  },
+  {
+    "index": 43,
+    "text": "So that may explain some of the association, and it probably does.",
+    "start": 180.84,
+    "end": 185.622,
+    "zh": "这可能部分解释了这种关联，而且很可能确实如此。",
+    "zh_hant": "這可能部分解釋了這種關聯，而且很可能確實如此。"
+  },
+  {
+    "index": 44,
+    "text": "I don't think it's as big a deal as I first thought it was when I saw the paper.",
+    "start": 185.422,
+    "end": 190.784,
+    "zh": "我不认为这像我最初看到论文时想的那么严重。",
+    "zh_hant": "我不認為這像我最初看到論文時想的那麼嚴重。"
+  },
+  {
+    "index": 45,
+    "text": "They do an unadjusted analysis where they do not adjust for socioeconomic status.",
+    "start": 190.705,
+    "end": 196.747,
+    "zh": "他们做了未调整分析，没有对社会经济地位进行调整。",
+    "zh_hant": "他們做了未調整分析，沒有對社會經濟地位進行調整。"
+  },
+  {
+    "index": 46,
+    "text": "They do this through witchcraft and wizardry, aka hazard regression models.",
+    "start": 196.727,
+    "end": 202.15,
+    "zh": "他们通过巫术和魔法，即风险回归模型来实现。",
+    "zh_hant": "他們透過巫術和魔法，即風險迴歸模型來實現。"
+  },
+  {
+    "index": 47,
+    "text": "Well, that's statistical magic, basically.",
+    "start": 202.17,
+    "end": 204.892,
+    "zh": "嗯，那基本就是统计魔法。",
+    "zh_hant": "嗯，那基本就是統計魔法。"
+  },
+  {
+    "index": 48,
+    "text": "What we do is we analyse it in a statistical model.",
+    "start": 204.672,
+    "end": 207.733,
+    "zh": "我们做的是在统计模型中进行分析。",
+    "zh_hant": "我們做的是在統計模型中進行分析。"
+  },
+  {
+    "index": 49,
+    "text": "You can do a statistical model, and this one, the thing is called Cox Proportional Hazards Regression,",
+    "start": 207.833,
+    "end": 213.196,
+    "zh": "你可以建立一个统计模型，这一个叫做Cox比例风险回归，",
+    "zh_hant": "你可以建立一個統計模型，這一個叫做Cox比例風險迴歸，"
+  },
+  {
+    "index": 50,
+    "text": "and that's a very widely used statistical model for analysing survival data.",
+    "start": 213.116,
+    "end": 219.239,
+    "zh": "这是分析生存数据中非常广泛使用的统计模型。",
+    "zh_hant": "這是分析生存資料中非常廣泛使用的統計模型。"
+  },
+  {
+    "index": 51,
+    "text": "And that allows you to just plug these confounding variables into the model,",
+    "start": 219.239,
+    "end": 224.281,
+    "zh": "这允许你把这些混杂变量直接代入模型，",
+    "zh_hant": "這允許你把這些混雜變數直接代入模型，"
+  },
+  {
+    "index": 52,
+    "text": "and what it tells you is what would the effect be if",
+    "start": 224.321,
+    "end": 228.743,
+    "zh": "它告诉你的是，如果",
+    "zh_hant": "它告訴你的是，如果"
+  },
+  {
+    "index": 53,
+    "text": "all the confounding variables were the same between the People who play tennis and people who don't play tennis.",
+    "start": 228.423,
+    "end": 234.686,
+    "zh": "打网球和不打网球的人之间所有混杂变量都相同，那么效果会是什么。",
+    "zh_hant": "打網球和不打網球的人之間所有混雜變數都相同，那麼效果會是什麼。"
+  },
+  {
+    "index": 54,
+    "text": "And in that analysis, they found that the people who played tennis got 10.4 more years of life expectancy",
+    "start": 234.406,
+    "end": 241.83,
+    "zh": "在那项分析中，他们发现打网球的人预期寿命多出10.4年，",
+    "zh_hant": "在那項分析中，他們發現打網球的人預期壽命多出10.4年，"
+  },
+  {
+    "index": 55,
+    "text": "than the people who didn't play tennis.",
+    "start": 241.48,
+    "end": 243.971,
+    "zh": "相比于不打网球的人。",
+    "zh_hant": "相比於不打網球的人。"
+  },
+  {
+    "index": 56,
+    "text": "They then adjusted that for education and income and a couple of other things,",
+    "start": 244.332,
+    "end": 250.214,
+    "zh": "然后他们根据教育、收入和其他一些因素进行了调整，",
+    "zh_hant": "然後他們根據教育、收入和其他一些因素進行了調整，"
+  },
+  {
+    "index": 57,
+    "text": "and that went down to 9.7.",
+    "start": 249.994,
+    "end": 252.446,
+    "zh": "这个数字下降到9.7。",
+    "zh_hant": "這個數字下降到9.7。"
+  },
+  {
+    "index": 58,
+    "text": "Now, the model wasn't perfect.",
+    "start": 252.496,
+    "end": 254.797,
+    "zh": "不过，这个模型并不完美。",
+    "zh_hant": "不過，這個模型並不完美。"
+  },
+  {
+    "index": 59,
+    "text": "They lost almost a third of people from the tennis group.",
+    "start": 254.447,
+    "end": 257.838,
+    "zh": "网球组几乎损失了三分之一的人。",
+    "zh_hant": "網球組幾乎損失了三分之一的人。"
+  },
+  {
+    "index": 60,
+    "text": "We don't really know why this happened, but it's likely to do with insufficient data.",
+    "start": 257.978,
+    "end": 262.22,
+    "zh": "我们不知道为什么会这样，但可能和数据不足有关。",
+    "zh_hant": "我們不知道為什麼會這樣，但可能和資料不足有關。"
+  },
+  {
+    "index": 61,
+    "text": "Still, If you look at the group before and after the attempted flattening of people's education levels,",
+    "start": 262.541,
+    "end": 269.024,
+    "zh": "尽管如此，如果你观察平摊教育水平等尝试前后的组别，",
+    "zh_hant": "儘管如此，如果你觀察平攤教育水平等嘗試前後的組別，"
+  },
+  {
+    "index": 62,
+    "text": "wealth, and so on, the numbers are surprisingly similar.",
+    "start": 268.674,
+    "end": 272.345,
+    "zh": "财富等，数字惊人地相似。",
+    "zh_hant": "財富等，數字驚人地相似。"
+  },
+  {
+    "index": 63,
+    "text": "The group of tennis players without adjustments lived an extra 10.4 years, as opposed to 9.7.",
+    "start": 272.646,
+    "end": 279.819,
+    "zh": "未调整的网球运动员组多活了10.4年，而调整后为9.7。",
+    "zh_hant": "未調整的網球運動員組多活了10.4年，而調整後為9.7。"
+  },
+  {
+    "index": 64,
+    "text": "Not a huge difference.",
+    "start": 279.869,
+    "end": 281.81,
+    "zh": "差异不大。",
+    "zh_hant": "差異不大。"
+  },
+  {
+    "index": 65,
+    "text": "That tells me maybe it's not a massively strong confounding here, which surprised me.",
+    "start": 281.87,
+    "end": 289.294,
+    "zh": "这告诉我，也许这里的混杂并不那么强，这让我感到惊讶。",
+    "zh_hant": "這告訴我，也許這裡的混雜並不那麼強，這讓我感到驚訝。"
+  },
+  {
+    "index": 66,
+    "text": "This could be for two reasons.",
+    "start": 289.554,
+    "end": 291.475,
+    "zh": "这可能有两个原因。",
+    "zh_hant": "這可能有兩個原因。"
+  },
+  {
+    "index": 67,
+    "text": "The first being, it's very difficult to truly adjust for confounders.",
+    "start": 291.295,
+    "end": 295.617,
+    "zh": "第一，要真正调整混杂因素非常困难。",
+    "zh_hant": "第一，要真正調整混雜因素非常困難。"
+  },
+  {
+    "index": 68,
+    "text": "And when I say they've adjusted for education and income,",
+    "start": 295.697,
+    "end": 299.439,
+    "zh": "当我说他们调整了教育和收入时，",
+    "zh_hant": "當我說他們調整了教育和收入時，"
+  },
+  {
+    "index": 69,
+    "text": "They have, and that's a good thing to have done, but they are quite difficult things to adjust for accurately.",
+    "start": 299.639,
+    "end": 305.882,
+    "zh": "他们确实做了，这是好事，但准确调整这些因素相当困难。",
+    "zh_hant": "他們確實做了，這是好事，但準確調整這些因素相當困難。"
+  },
+  {
+    "index": 70,
+    "text": "They tend to come in quite broad categories.",
+    "start": 305.532,
+    "end": 307.903,
+    "zh": "它们往往以相当宽泛的类别出现。",
+    "zh_hant": "它們往往以相當寬泛的類別出現。"
+  },
+  {
+    "index": 71,
+    "text": "So you might have somebody who's got a degree,",
+    "start": 307.553,
+    "end": 311.765,
+    "zh": "所以你可能有一个有学位的人，",
+    "zh_hant": "所以你可能有一個有學位的人，"
+  },
+  {
+    "index": 72,
+    "text": "somebody who's got postgraduate education — might be two of your categories.",
+    "start": 311.925,
+    "end": 316.107,
+    "zh": "有一个受过研究生教育的人——这可能是你的两个类别。",
+    "zh_hant": "有一個受過研究生教育的人——這可能是你的兩個類別。"
+  },
+  {
+    "index": 73,
+    "text": "Well, if you've got a degree,",
+    "start": 315.757,
+    "end": 317.908,
+    "zh": "嗯，如果你有学位，",
+    "zh_hant": "嗯，如果你有學位，"
+  },
+  {
+    "index": 74,
+    "text": "you might have just scraped a third in a Mickey Mouse subject from a not very good university,",
+    "start": 317.588,
+    "end": 325.012,
+    "zh": "你可能在一所不太好的大学里勉强拿了个水专业的三等学位，",
+    "zh_hant": "你可能在一所不太好的大學裡勉強拿了個水專業的三等學位，"
+  },
+  {
+    "index": 75,
+    "text": "or you might have a first class degree in physics from a top university, and those...",
+    "start": 325.112,
+    "end": 331.195,
+    "zh": "或者你可能在顶尖大学获得一等物理学学位，而那些...",
+    "zh_hant": "或者你可能在頂尖大學獲得一等物理學學位，而那些..."
+  },
+  {
+    "index": 76,
+    "text": "And similarly for the income levels, they're divided into quite broad categories.",
+    "start": 330.845,
+    "end": 336.858,
+    "zh": "同样，对于收入水平，它们被划分为相当宽泛的类别。",
+    "zh_hant": "同樣，對於收入水平，它們被劃分為相當寬泛的類別。"
+  },
+  {
+    "index": 77,
+    "text": "You're not really capturing the full range of variation,",
+    "start": 336.718,
+    "end": 339.899,
+    "zh": "你并没有真正捕捉到全部变化范围，",
+    "zh_hant": "你並沒有真正捕捉到全部變化範圍，"
+  },
+  {
+    "index": 78,
+    "text": "but you're certainly capturing some of it, and that's better than nothing.",
+    "start": 339.879,
+    "end": 344.542,
+    "zh": "但你确实捕捉到了一些，这总比没有好。",
+    "zh_hant": "但你確實捕捉到了一些，這總比沒有好。"
+  },
+  {
+    "index": 79,
+    "text": "Better than nothing, but still a relatively blunt tool.",
+    "start": 344.502,
+    "end": 347.883,
+    "zh": "比没有好，但仍然是一个相对粗糙的工具。",
+    "zh_hant": "比沒有好，但仍然是一個相對粗糙的工具。"
+  },
+  {
+    "index": 80,
+    "text": "But when they didn't adjust for confounders, the number was 10.4.",
+    "start": 348.304,
+    "end": 352.736,
+    "zh": "但当他们没有调整混杂因素时，数字是10.4。",
+    "zh_hant": "但當他們沒有調整混雜因素時，數字是10.4。"
+  },
+  {
+    "index": 81,
+    "text": "Not hugely different.",
+    "start": 352.786,
+    "end": 354.647,
+    "zh": "差别并不大。",
+    "zh_hant": "差別並不大。"
+  },
+  {
+    "index": 82,
+    "text": "So, can we say that playing tennis makes you live 9.7 years longer?",
+    "start": 354.627,
+    "end": 359.409,
+    "zh": "那么，我们能说打网球能让你多活9.7年吗？",
+    "zh_hant": "那麼，我們能說打網球能讓你多活9.7年嗎？"
+  },
+  {
+    "index": 83,
+    "text": "No, we cannot say that.",
+    "start": 359.529,
+    "end": 361.29,
+    "zh": "不，我们不能这么说。",
+    "zh_hant": "不，我們不能這麼說。"
+  },
+  {
+    "index": 84,
+    "text": "So, there are a number of reasons why we can't say that.",
+    "start": 361.89,
+    "end": 364.772,
+    "zh": "有很多原因导致我们不能这么说。",
+    "zh_hant": "有很多原因導致我們不能這麼說。"
+  },
+  {
+    "index": 85,
+    "text": "I think the biggest one is the sample size.",
+    "start": 364.592,
+    "end": 368.453,
+    "zh": "我认为最大的原因是样本量。",
+    "zh_hant": "我認為最大的原因是樣本量。"
+  },
+  {
+    "index": 86,
+    "text": "The bigger the sample size, the less likely results are just down to something random or luck.",
+    "start": 368.414,
+    "end": 373.876,
+    "zh": "样本量越大，结果越不太可能仅仅出于随机或运气。",
+    "zh_hant": "樣本量越大，結果越不太可能僅僅出於隨機或運氣。"
+  },
+  {
+    "index": 87,
+    "text": "Larger groups make it easier to spot traceable patterns and have smaller margins of error.",
+    "start": 374.016,
+    "end": 379.339,
+    "zh": "更大的群体更容易发现可追踪的模式，并且有更小的误差范围。",
+    "zh_hant": "更大的群體更容易發現可追蹤的模式，並且有更小的誤差範圍。"
+  },
+  {
+    "index": 88,
+    "text": "Now, I just said we had 8,000 participants plus in the study, but most of those didn't play tennis.",
+    "start": 379.339,
+    "end": 385.622,
+    "zh": "我刚才说研究中有8000多名参与者，但其中大多数不打网球。",
+    "zh_hant": "我剛才說研究中有8000多名參與者，但其中大多數不打網球。"
+  },
+  {
+    "index": 89,
+    "text": "There were only 167 participants who played tennis.",
+    "start": 385.802,
+    "end": 389.884,
+    "zh": "只有167名参与者打网球。",
+    "zh_hant": "只有167名參與者打網球。"
+  },
+  {
+    "index": 90,
+    "text": "And then in their adjusted analysis,",
+    "start": 389.984,
+    "end": 392.866,
+    "zh": "然后在他们调整后的分析中，",
+    "zh_hant": "然後在他們調整後的分析中，"
+  },
+  {
+    "index": 91,
+    "text": "they only had 111 people who played tennis, and only 16 of those died.",
+    "start": 392.516,
+    "end": 399.209,
+    "zh": "只有111人打网球，其中只有16人死亡。",
+    "zh_hant": "只有111人打網球，其中只有16人死亡。"
+  },
+  {
+    "index": 92,
+    "text": "That is not a big number.",
+    "start": 399.329,
+    "end": 401.47,
+    "zh": "这不是一个大数字。",
+    "zh_hant": "這不是一個大數字。"
+  },
+  {
+    "index": 93,
+    "text": "The deaths were also all-cause mortality, so we don't know how they died.",
+    "start": 401.49,
+    "end": 406.253,
+    "zh": "死亡也是全因死亡率，所以我们不知道他们是怎么死的。",
+    "zh_hant": "死亡也是全因死亡率，所以我們不知道他們是怎麼死的。"
+  },
+  {
+    "index": 94,
+    "text": "So we're talking about quite small numbers, so you could get a lot of random variation.",
+    "start": 406.313,
+    "end": 412.015,
+    "zh": "所以我们讨论的是相当小的数字，你可能会有很多随机变异。",
+    "zh_hant": "所以我們討論的是相當小的數字，你可能會有很多隨機變異。"
+  },
+  {
+    "index": 95,
+    "text": "It may just be that they were lucky.",
+    "start": 411.665,
+    "end": 413.736,
+    "zh": "可能只是他们运气好。",
+    "zh_hant": "可能只是他們運氣好。"
+  },
+  {
+    "index": 96,
+    "text": "Now, in that study, the participants who played tennis did well,",
+    "start": 413.496,
+    "end": 418.979,
+    "zh": "在那项研究中，打网球的参与者表现不错，",
+    "zh_hant": "在那項研究中，打網球的參與者表現不錯，"
+  },
+  {
+    "index": 97,
+    "text": "but that doesn't mean to say that They would always do that.",
+    "start": 419.119,
+    "end": 422.921,
+    "zh": "但这并不意味着他们总是会这样。",
+    "zh_hant": "但這並不意味著他們總是會這樣。"
+  },
+  {
+    "index": 98,
+    "text": "They may just have been lucky.",
+    "start": 422.571,
+    "end": 424.121,
+    "zh": "他们可能只是运气好。",
+    "zh_hant": "他們可能只是運氣好。"
+  },
+  {
+    "index": 99,
+    "text": "The people who played tennis also skewed younger, which they did try to account for,",
+    "start": 424.362,
+    "end": 429.464,
+    "zh": "打网球的人也偏向更年轻，他们确实尝试考虑了这一点，",
+    "zh_hant": "打網球的人也偏向更年輕，他們確實嘗試考慮了這一點，"
+  },
+  {
+    "index": 100,
+    "text": "but it's difficult to ignore the full effect.",
+    "start": 429.144,
+    "end": 432.606,
+    "zh": "但很难忽视全部影响。",
+    "zh_hant": "但很難忽視全部影響。"
+  },
+  {
+    "index": 101,
+    "text": "There is another thing going on, one that might explain the difference even more.",
+    "start": 433.306,
+    "end": 438.248,
+    "zh": "还有一个因素，可能更能解释这种差异。",
+    "zh_hant": "還有一個因素，可能更能解釋這種差異。"
+  },
+  {
+    "index": 102,
+    "text": "The study looked at eight different sports.",
+    "start": 438.289,
+    "end": 441.27,
+    "zh": "研究看了八种不同的运动。",
+    "zh_hant": "研究看了八種不同的運動。"
+  },
+  {
+    "index": 103,
+    "text": "They asked people how many sports they did.",
+    "start": 441.491,
+    "end": 443.951,
+    "zh": "他们询问人们做了多少种运动。",
+    "zh_hant": "他們詢問人們做了多少種運動。"
+  },
+  {
+    "index": 104,
+    "text": "The people who were in the tennis category also reported playing other sports.",
+    "start": 444.192,
+    "end": 448.714,
+    "zh": "网球类别中的人也报告做其他运动。",
+    "zh_hant": "網球類別中的人也報告做其他運動。"
+  },
+  {
+    "index": 105,
+    "text": "It may possibly be, and I'm speculating here,",
+    "start": 448.914,
+    "end": 452.476,
+    "zh": "有可能，我在这里猜测，",
+    "zh_hant": "有可能，我在這裡猜測，"
+  },
+  {
+    "index": 106,
+    "text": "that it's having a good mix of sports,",
+    "start": 452.516,
+    "end": 456.177,
+    "zh": "是有一个良好的运动组合，",
+    "zh_hant": "是有一個良好的運動組合，"
+  },
+  {
+    "index": 107,
+    "text": "because this study was done in Denmark, where a lot of people cycle.",
+    "start": 455.827,
+    "end": 460.52,
+    "zh": "因为这项研究是在丹麦进行的，那里很多人骑自行车。",
+    "zh_hant": "因為這項研究是在丹麥進行的，那裡很多人騎腳踏車。"
+  },
+  {
+    "index": 108,
+    "text": "And in fact, something like 80% of the people who played tennis also cycled.",
+    "start": 460.7,
+    "end": 466.342,
+    "zh": "事实上，大约80%打网球的人也骑自行车。",
+    "zh_hant": "事實上，大約80%打網球的人也騎腳踏車。"
+  },
+  {
+    "index": 109,
+    "text": "So perhaps it's the combination of exercise that's important,",
+    "start": 466.503,
+    "end": 470.184,
+    "zh": "所以也许重要的是运动的组合，",
+    "zh_hant": "所以也許重要的是運動的組合，"
+  },
+  {
+    "index": 110,
+    "text": "or the fact that they're generally sportier people that's important.",
+    "start": 470.105,
+    "end": 473.806,
+    "zh": "或者他们总体上更爱运动，这才是重要的。",
+    "zh_hant": "或者他們總體上更愛運動，這才是重要的。"
+  },
+  {
+    "index": 111,
+    "text": "And maybe it's the variety in that kind of exercise that's important,",
+    "start": 473.746,
+    "end": 478.969,
+    "zh": "也许重要的是那种运动的多样性，",
+    "zh_hant": "也許重要的是那種運動的多樣性，"
+  },
+  {
+    "index": 112,
+    "text": "because they're Two very different sports.",
+    "start": 478.619,
+    "end": 481.23,
+    "zh": "因为它们是两种非常不同的运动。",
+    "zh_hant": "因為它們是兩種非常不同的運動。"
+  },
+  {
+    "index": 113,
+    "text": "With cycling, you're generally doing sustained but not hugely intense effort over a period of time,",
+    "start": 480.88,
+    "end": 487.953,
+    "zh": "对于骑行，你通常是在一段时间内进行持续但不太剧烈的运动，",
+    "zh_hant": "對於騎行，你通常是在一段時間內進行持續但不太劇烈的運動，"
+  },
+  {
+    "index": 114,
+    "text": "unless you're in the Tour de France and cycling up Mont Ventoux or something.",
+    "start": 487.603,
+    "end": 491.335,
+    "zh": "除非你在环法自行车赛上骑上旺度山之类的地方。",
+    "zh_hant": "除非你在環法腳踏車賽上騎上旺度山之類的地方。"
+  },
+  {
+    "index": 115,
+    "text": "But for most people, it's sustained moderate activity,",
+    "start": 491.275,
+    "end": 494.757,
+    "zh": "但对大多数人来说，这是持续的中等强度活动，",
+    "zh_hant": "但對大多數人來說，這是持續的中等強度活動，"
+  },
+  {
+    "index": 116,
+    "text": "whereas tennis is quite short bursts of rather intense activity.",
+    "start": 495.137,
+    "end": 499.839,
+    "zh": "而网球是相当短促的剧烈活动爆发。",
+    "zh_hant": "而網球是相當短促的劇烈活動爆發。"
+  },
+  {
+    "index": 117,
+    "text": "So it's a different kind of exercise.",
+    "start": 499.489,
+    "end": 502.781,
+    "zh": "所以这是一种不同类型的运动。",
+    "zh_hant": "所以這是一種不同型別的運動。"
+  },
+  {
+    "index": 118,
+    "text": "And the people who played tennis spent more time doing other sports than tennis.",
+    "start": 502.701,
+    "end": 507.283,
+    "zh": "而且打网球的人花在其他运动上的时间比网球多。",
+    "zh_hant": "而且打網球的人花在其他運動上的時間比網球多。"
+  },
+  {
+    "index": 119,
+    "text": "So, is Adam going to come away from analysing this study keen to put on his whites to extend his life?",
+    "start": 507.263,
+    "end": 514.066,
+    "zh": "那么，亚当在分析完这项研究后，会热衷于穿上白色球衣来延长寿命吗？",
+    "zh_hant": "那麼，亞當在分析完這項研究後，會熱衷於穿上白色球衣來延長壽命嗎？"
+  },
+  {
+    "index": 120,
+    "text": "No, but I might do more cycling.",
+    "start": 514.167,
+    "end": 517.028,
+    "zh": "不，但我可能会多骑自行车。",
+    "zh_hant": "不，但我可能會多騎腳踏車。"
+  },
+  {
+    "index": 121,
+    "text": "Thanks to Adam Jacobs, and also thanks to statistical hawkeyes James Thomas,",
+    "start": 517.368,
+    "end": 522.792,
+    "zh": "感谢亚当·雅各布斯，也感谢统计鹰眼詹姆斯·托马斯、",
+    "zh_hant": "感謝亞當·雅各布斯，也感謝統計鷹眼詹姆斯·托馬斯、"
+  },
+  {
+    "index": 122,
+    "text": "Dylan Neill, and Alison O'Mara-Eves.",
+    "start": 522.452,
+    "end": 525.355,
+    "zh": "迪伦·尼尔和艾莉森·奥马拉-伊夫斯。",
+    "zh_hant": "迪倫·尼爾和艾莉森·奧馬拉-伊夫斯。"
+  },
+  {
+    "index": 123,
+    "text": "New balls, please.",
+    "start": 525.516,
+    "end": 526.796,
+    "zh": "新球，请。",
+    "zh_hant": "新球，請。"
+  },
+  {
+    "index": 124,
+    "text": "And that's all we have time for this week.",
+    "start": 528.579,
+    "end": 530.56,
+    "zh": "这就是我们本周的全部时间。",
+    "zh_hant": "這就是我們本週的全部時間。"
+  },
+  {
+    "index": 125,
+    "text": "But if you see anything you want us to check, please write in to moreorless@bbc.co.uk.",
+    "start": 530.21,
+    "end": 536.827,
+    "zh": "但如果你看到任何想让我们核实的内容，请写信到moreorless@bbc.co.uk。",
+    "zh_hant": "但如果你看到任何想讓我們核實的內容，請寫信到moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 126,
+    "text": "Until next week, goodbye.",
+    "start": 537.188,
+    "end": 539.81,
+    "zh": "下周见，再见。",
+    "zh_hant": "下週見，再見。"
+  }
+]

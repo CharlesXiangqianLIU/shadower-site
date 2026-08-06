@@ -1,0 +1,354 @@
+[
+  {
+    "index": 0,
+    "text": "I thought it was wonderful.",
+    "start": 0.83,
+    "end": 2.211,
+    "zh": "我觉得太棒了。",
+    "zh_hant": "我覺得太棒了。"
+  },
+  {
+    "index": 1,
+    "text": "I thought it was thought provoking, but also totally engaging.",
+    "start": 2.231,
+    "end": 7.734,
+    "zh": "我觉得它发人深省，但又完全引人入胜。",
+    "zh_hant": "我覺得它發人深省，但又完全引人入勝。"
+  },
+  {
+    "index": 2,
+    "text": "It was deep, but accessible.",
+    "start": 7.474,
+    "end": 9.935,
+    "zh": "它很深刻，但也很易懂。",
+    "zh_hant": "它很深刻，但也很易懂。"
+  },
+  {
+    "index": 3,
+    "text": "There’s a lot of different movements, obviously, and a lot of different emotions and a lot of different colors in the music.",
+    "start": 10.075,
+    "end": 16.158,
+    "zh": "显然，音乐中有很多不同的动态、很多不同的情感和很多不同的色彩。",
+    "zh_hant": "顯然，音樂中有很多不同的動態、很多不同的情感和很多不同的色彩。"
+  },
+  {
+    "index": 4,
+    "text": "And you’ll forgive me if I speak about music in a language that isn’t quite the of musicians or composers,",
+    "start": 15.808,
+    "end": 22.441,
+    "zh": "如果我用不太像音乐家或作曲家的语言来谈音乐，请原谅我，",
+    "zh_hant": "如果我用不太像音樂家或作曲家的語言來談音樂，請原諒我，"
+  },
+  {
+    "index": 5,
+    "text": "but I found the music,",
+    "start": 22.091,
+    "end": 24.402,
+    "zh": "但我发现这首音乐，",
+    "zh_hant": "但我發現這首音樂，"
+  },
+  {
+    "index": 6,
+    "text": "spiky and kind of punky at times, but also very delicate.",
+    "start": 24.262,
+    "end": 30.105,
+    "zh": "有时尖锐，带点朋克味，但有时也非常精致。",
+    "zh_hant": "有時尖銳，帶點朋克味，但有時也非常精緻。"
+  },
+  {
+    "index": 7,
+    "text": "I found the piece celebratory, but also mournful.",
+    "start": 29.965,
+    "end": 34.807,
+    "zh": "我觉得这首曲子既充满庆祝感，又带着哀伤。",
+    "zh_hant": "我覺得這首曲子既充滿慶祝感，又帶著哀傷。"
+  },
+  {
+    "index": 8,
+    "text": "I found it confident, but also seeking.",
+    "start": 34.457,
+    "end": 39.529,
+    "zh": "我觉得它既自信，又在探索。",
+    "zh_hant": "我覺得它既自信，又在探索。"
+  },
+  {
+    "index": 9,
+    "text": "And I found I walked out of there with a new appreciation",
+    "start": 39.85,
+    "end": 43.58,
+    "zh": "而且我发现我走出去时带着一种新的欣赏，",
+    "zh_hant": "而且我發現我走出去時帶著一種新的欣賞，"
+  },
+  {
+    "index": 10,
+    "text": "— for Adam Smith, which is not nothing because I had quite a bit of an appreciation for him.",
+    "start": 43.18,
+    "end": 48.374,
+    "zh": "对亚当·斯密的欣赏，这可不是小事，因为我对他已经相当欣赏了。",
+    "zh_hant": "對亞當·斯密的欣賞，這可不是小事，因為我對他已經相當欣賞了。"
+  },
+  {
+    "index": 11,
+    "text": "And a pretty big appreciation for David Lang.",
+    "start": 48.414,
+    "end": 51.076,
+    "zh": "还有对大卫·朗的相当大的欣赏。",
+    "zh_hant": "還有對大衛·朗的相當大的欣賞。"
+  },
+  {
+    "index": 12,
+    "text": "What’s weird, you know — being a young composer, you try to learn things and figure things out and you’re always aware of what you’re trying that you’ve never done before.",
+    "start": 50.896,
+    "end": 58.379,
+    "zh": "奇怪的是——作为一个年轻作曲家，你试图学习东西、弄清楚事情，你总是意识到你在尝试以前从未做过的事。",
+    "zh_hant": "奇怪的是——作為一個年輕作曲家，你試圖學習東西、弄清楚事情，你總是意識到你在嘗試以前從未做過的事。"
+  },
+  {
+    "index": 13,
+    "text": "When you become an old composer,",
+    "start": 58.499,
+    "end": 60.48,
+    "zh": "当你变成一位老作曲家时，",
+    "zh_hant": "當你變成一位老作曲家時，"
+  },
+  {
+    "index": 14,
+    "text": "and I can say that as a senior citizen, you know things instinctively that you’re not really paying attention to any longer.",
+    "start": 60.621,
+    "end": 67.644,
+    "zh": "我可以作为老年人这么说，你会本能地知道那些你不再真正关注的事情。",
+    "zh_hant": "我可以作為老年人這麼說，你會本能地知道那些你不再真正關注的事情。"
+  },
+  {
+    "index": 15,
+    "text": "So these issues of pacing and depth,",
+    "start": 67.964,
+    "end": 71.206,
+    "zh": "所以这些关于节奏和深度的问题，",
+    "zh_hant": "所以這些關於節奏和深度的問題，"
+  },
+  {
+    "index": 16,
+    "text": "there are all sorts of really important things that I don’t think about as intensely as I used to think about them,",
+    "start": 71.086,
+    "end": 77.569,
+    "zh": "有很多非常重要的东西，我不再像以前那样强烈地去思考它们，",
+    "zh_hant": "有很多非常重要的東西，我不再像以前那樣強烈地去思考它們，"
+  },
+  {
+    "index": 17,
+    "text": "I just trust that I will know how they work?",
+    "start": 77.769,
+    "end": 81.471,
+    "zh": "我只是相信我会知道它们该如何运作？",
+    "zh_hant": "我只是相信我會知道它們該如何運作？"
+  },
+  {
+    "index": 18,
+    "text": "And so for me, one of the really fun things was thinking that I was going to have an experience that had a particular shape,",
+    "start": 81.411,
+    "end": 88.515,
+    "zh": "所以对我来说，真正有趣的事情之一是，我原本以为自己会有一段特定形状的经历，",
+    "zh_hant": "所以對我來說，真正有趣的事情之一是，我原本以為自己會有一段特定形狀的經歷，"
+  },
+  {
+    "index": 19,
+    "text": "like this giant, enthusiastic Adam Smith stuff with a full orchestra at the beginning,",
+    "start": 88.355,
+    "end": 93.237,
+    "zh": "就像开头那场有完整管弦乐队的、宏大的、充满热情的亚当·斯密部分，",
+    "zh_hant": "就像開頭那場有完整管絃樂隊的、宏大的、充滿熱情的亞當·斯密部分，"
+  },
+  {
+    "index": 20,
+    "text": "and that gradually as the piece went on,",
+    "start": 93.077,
+    "end": 95.958,
+    "zh": "然后随着曲子逐渐进行，",
+    "zh_hant": "然後隨著曲子逐漸進行，"
+  },
+  {
+    "index": 21,
+    "text": "it would taper down to these more personal American thoughts.",
+    "start": 95.608,
+    "end": 101.001,
+    "zh": "它会逐渐缩减到这些更个人化的美国思绪。",
+    "zh_hant": "它會逐漸縮減到這些更個人化的美國思緒。"
+  },
+  {
+    "index": 22,
+    "text": "And we would get someplace that would be, as you said, optimistic but also kind of really trying to pay attention to what’s going on around us.",
+    "start": 101.041,
+    "end": 108.324,
+    "zh": "我们会达到一个，如你所说，乐观但同时也在真正努力关注周围发生事情的地方。",
+    "zh_hant": "我們會達到一個，如你所說，樂觀但同時也在真正努力關注周圍發生事情的地方。"
+  },
+  {
+    "index": 23,
+    "text": "And I wasn’t really sure that that was going to work.",
+    "start": 108.565,
+    "end": 111.606,
+    "zh": "我并不太确定那会不会奏效。",
+    "zh_hant": "我並不太確定那會不會奏效。"
+  },
+  {
+    "index": 24,
+    "text": "But for me, that’s the thing that I was really satisfied with.",
+    "start": 111.266,
+    "end": 114.267,
+    "zh": "但对我来说，那是我真正感到满意的地方。",
+    "zh_hant": "但對我來說，那是我真正感到滿意的地方。"
+  },
+  {
+    "index": 25,
+    "text": "The shape of the intellectual argument, I was really happy with.",
+    "start": 114.308,
+    "end": 118.009,
+    "zh": "思想论证的结构，我真的很满意。",
+    "zh_hant": "思想論證的結構，我真的很滿意。"
+  },
+  {
+    "index": 26,
+    "text": "I had a lot of fun being at rehearsals, and there were many things that really impressed me.",
+    "start": 118.129,
+    "end": 122.812,
+    "zh": "我在排练时玩得很开心，有很多事情真的让我印象深刻。",
+    "zh_hant": "我在排練時玩得很開心，有很多事情真的讓我印象深刻。"
+  },
+  {
+    "index": 27,
+    "text": "First of all, I’m just blown away by how good the New York Philharmonic is, and their singers.",
+    "start": 122.462,
+    "end": 129.775,
+    "zh": "首先，我对纽约爱乐乐团的优秀程度感到震惊，还有他们的歌手。",
+    "zh_hant": "首先，我對紐約愛樂樂團的優秀程度感到震驚，還有他們的歌手。"
+  },
+  {
+    "index": 28,
+    "text": "When I heard the first choral rehearsal and then the first orchestra rehearsal, it sounded so good,",
+    "start": 129.736,
+    "end": 136.199,
+    "zh": "当我听到第一次合唱排练和第一次管弦乐排练时，听起来太好了，",
+    "zh_hant": "當我聽到第一次合唱排練和第一次管絃樂排練時，聽起來太好了，"
+  },
+  {
+    "index": 29,
+    "text": "I thought, oh, well, everybody must have rehearsed a bunch before already together, but in fact, they haven’t.",
+    "start": 136.039,
+    "end": 141.781,
+    "zh": "我想，哦，好吧，大家肯定之前已经一起排练过很多次了，但实际上，他们没有。",
+    "zh_hant": "我想，哦，好吧，大家肯定之前已經一起排練過很多次了，但實際上，他們沒有。"
+  },
+  {
+    "index": 30,
+    "text": "It does seem like an absolute miracle,",
+    "start": 141.562,
+    "end": 144.583,
+    "zh": "这看起来确实像一个绝对的奇迹，",
+    "zh_hant": "這看起來確實像一個絕對的奇蹟，"
+  },
+  {
+    "index": 31,
+    "text": "that a person like you could sit in your studio in Soho for a bunch of years",
+    "start": 144.963,
+    "end": 150.746,
+    "zh": "像你这样的人可以在苏豪区的工作室里待上几年，",
+    "zh_hant": "像你這樣的人可以在蘇豪區的工作室裡待上幾年，"
+  },
+  {
+    "index": 32,
+    "text": "and write dots on the paper.",
+    "start": 150.396,
+    "end": 152.987,
+    "zh": "然后在纸上写下一些音符。",
+    "zh_hant": "然後在紙上寫下一些音符。"
+  },
+  {
+    "index": 33,
+    "text": "And then one afternoon in March of 2026,",
+    "start": 153.467,
+    "end": 157.419,
+    "zh": "然后在2026年3月的一个下午，",
+    "zh_hant": "然後在2026年3月的一個下午，"
+  },
+  {
+    "index": 34,
+    "text": "you know, 48 vocalists, and then a whole bunch of musicians and a couple of soloists",
+    "start": 157.469,
+    "end": 164.433,
+    "zh": "你知道，48位歌手，然后一大堆乐手和几位独奏家，",
+    "zh_hant": "你知道，48位歌手，然後一大堆樂手和幾位獨奏家，"
+  },
+  {
+    "index": 35,
+    "text": "get together and they turn this two-dimensional thing into — not even three, like six.",
+    "start": 164.614,
+    "end": 170.196,
+    "zh": "聚集在一起，把这个二维的东西变成了——不只是三维，像是六维。",
+    "zh_hant": "聚集在一起，把這個二維的東西變成了——不只是三維，像是六維。"
+  },
+  {
+    "index": 36,
+    "text": "Part of my thrill of watching you get enmeshed in this and watching you getting happier",
+    "start": 170.436,
+    "end": 175.839,
+    "zh": "我看到你沉浸其中，看到你在排练过程中变得越来越开心，",
+    "zh_hant": "我看到你沉浸其中，看到你在排練過程中變得越來越開心，"
+  },
+  {
+    "index": 37,
+    "text": "and happier during the course of rehearsals,",
+    "start": 175.779,
+    "end": 178.76,
+    "zh": "这种兴奋的一部分，",
+    "zh_hant": "這種興奮的一部分，"
+  },
+  {
+    "index": 38,
+    "text": "part of it was about the mystery and the magic of that, honestly.",
+    "start": 178.761,
+    "end": 182.662,
+    "zh": "说实话，部分在于那种神秘和魔幻的感觉。",
+    "zh_hant": "說實話，部分在於那種神秘和魔幻的感覺。"
+  },
+  {
+    "index": 39,
+    "text": "And so when I say it was inspiring and moving —",
+    "start": 182.542,
+    "end": 185.95,
+    "zh": "所以当我说它鼓舞人心、感人至深时——",
+    "zh_hant": "所以當我說它鼓舞人心、感人至深時——"
+  },
+  {
+    "index": 40,
+    "text": "the piece itself was, but I guess I also see the creation of a thing like this representing",
+    "start": 185.964,
+    "end": 192.707,
+    "zh": "作品本身是，但我猜我也看到创造这样的东西代表着",
+    "zh_hant": "作品本身是，但我猜我也看到創造這樣的東西代表著"
+  },
+  {
+    "index": 41,
+    "text": "something really good about humankind, that we’re able to do this.",
+    "start": 192.607,
+    "end": 195.829,
+    "zh": "人类某些美好的东西，我们有能力做到这一点。",
+    "zh_hant": "人類某些美好的東西，我們有能力做到這一點。"
+  },
+  {
+    "index": 42,
+    "text": "I love that you say that because I really think that that’s what you heard during the rehearsal,",
+    "start": 195.849,
+    "end": 202.383,
+    "zh": "我喜欢你这么说，因为我真的认为你在排练中听到的就是这个，",
+    "zh_hant": "我喜歡你這麼說，因為我真的認為你在排練中聽到的就是這個，"
+  },
+  {
+    "index": 43,
+    "text": "was you heard what’s good in people.",
+    "start": 202.033,
+    "end": 204.75,
+    "zh": "你听到的是人性中的善。",
+    "zh_hant": "你聽到的是人性中的善。"
+  }
+]

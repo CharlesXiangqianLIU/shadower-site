@@ -1,0 +1,914 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC 之声。",
+    "zh_hant": "BBC 之聲。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 6.393,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.043,
+    "end": 9.674,
+    "zh": "你好，感谢下载“或多或少”播客。",
+    "zh_hant": "你好，感謝下載“或多或少”播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that looks at the numbers in the news, in life, and in surveys.",
+    "start": 9.755,
+    "end": 14.517,
+    "zh": "我们是一档关注新闻、生活和调查中数字的节目。",
+    "zh_hant": "我們是一檔關注新聞、生活和調查中數字的節目。"
+  },
+  {
+    "index": 4,
+    "text": "Yeah, often they're from surveys.",
+    "start": 14.637,
+    "end": 16.938,
+    "zh": "是的，通常这些数字来自调查。",
+    "zh_hant": "是的，通常這些數字來自調查。"
+  },
+  {
+    "index": 5,
+    "text": "I'm Charlotte MacDonald.",
+    "start": 17.338,
+    "end": 18.719,
+    "zh": "我是夏洛特·麦克唐纳。",
+    "zh_hant": "我是夏洛特·麥克唐納。"
+  },
+  {
+    "index": 6,
+    "text": "Vaccine policy in the US is something of an ideological battleground.",
+    "start": 23.541,
+    "end": 28.343,
+    "zh": "美国的疫苗政策在某种程度上是一片意识形态的战场。",
+    "zh_hant": "美國的疫苗政策在某種程度上是一片意識形態的戰場。"
+  },
+  {
+    "index": 7,
+    "text": "Health Secretary Robert F. Kennedy Jr. is a vaccine sceptic,",
+    "start": 28.424,
+    "end": 32.526,
+    "zh": "卫生部长小罗伯特·F·肯尼迪对疫苗持怀疑态度，",
+    "zh_hant": "衛生部長小羅伯特·F·肯尼迪對疫苗持懷疑態度，"
+  },
+  {
+    "index": 8,
+    "text": "and since taking office, he has attempted to remake US vaccine policy.",
+    "start": 32.726,
+    "end": 37.428,
+    "zh": "自上任以来，他试图重塑美国的疫苗政策。",
+    "zh_hant": "自上任以來，他試圖重塑美國的疫苗政策。"
+  },
+  {
+    "index": 9,
+    "text": "In March, a judge blocked his proposal to cut the number of jabs that are recommended for kids.",
+    "start": 37.768,
+    "end": 43.311,
+    "zh": "三月，一名法官阻止了他削减推荐给儿童接种针次的提案。",
+    "zh_hant": "三月，一名法官阻止了他削減推薦給兒童接種針次的提案。"
+  },
+  {
+    "index": 10,
+    "text": "At the same time, last year saw the worst measles outbreak in the US in decades.",
+    "start": 43.552,
+    "end": 49.354,
+    "zh": "与此同时，去年美国爆发了数十年来最严重的麻疹疫情。",
+    "zh_hant": "與此同時，去年美國爆發了數十年來最嚴重的麻疹疫情。"
+  },
+  {
+    "index": 11,
+    "text": "There were more than 2,000 cases last year and three people died.",
+    "start": 49.415,
+    "end": 53.716,
+    "zh": "去年有超过2000例病例，三人死亡。",
+    "zh_hant": "去年有超過2000例病例，三人死亡。"
+  },
+  {
+    "index": 12,
+    "text": "There have been more than 1,500 cases so far in 2026.",
+    "start": 53.897,
+    "end": 58.929,
+    "zh": "2026年至今已有超过1500例病例。",
+    "zh_hant": "2026年至今已有超過1500例病例。"
+  },
+  {
+    "index": 13,
+    "text": "There's a lot going on, so it's possible the public's views on vaccination are shifting.",
+    "start": 58.979,
+    "end": 64.101,
+    "zh": "事情很多，所以公众对疫苗接种的看法可能正在转变。",
+    "zh_hant": "事情很多，所以公眾對疫苗接種的看法可能正在轉變。"
+  },
+  {
+    "index": 14,
+    "text": "Then, on the 14th of April, a new poll published by online news site Politico added a big claim into the mix.",
+    "start": 64.282,
+    "end": 71.625,
+    "zh": "随后，在4月14日，在线新闻网站Politico发布的一项新民调又加进了一个大胆的说法。",
+    "zh_hant": "隨後，在4月14日，線上新聞網站Politico釋出的一項新民調又加進了一個大膽的說法。"
+  },
+  {
+    "index": 15,
+    "text": "Here's the article's headline:",
+    "start": 71.725,
+    "end": 73.626,
+    "zh": "以下是这篇文章的标题：",
+    "zh_hant": "以下是這篇文章的標題："
+  },
+  {
+    "index": 16,
+    "text": "\"More Americans doubt vaccine safety than trust it, Politico poll finds.\"",
+    "start": 74.007,
+    "end": 79.789,
+    "zh": "“Politico民调发现，更多美国人怀疑疫苗安全性，而非信任它。”",
+    "zh_hant": "“Politico民調發現，更多美國人懷疑疫苗安全性，而非信任它。”"
+  },
+  {
+    "index": 17,
+    "text": "But is that what the survey actually found?",
+    "start": 80.21,
+    "end": 83.131,
+    "zh": "但这是否就是调查实际发现的结果呢？",
+    "zh_hant": "但這是否就是調查實際發現的結果呢？"
+  },
+  {
+    "index": 18,
+    "text": "It's really important that any time you see a poll or a survey data point that is an outlier, that you pause.",
+    "start": 85.473,
+    "end": 92.396,
+    "zh": "非常重要的一点是，每当你看到一个民调或调查数据点很反常时，你应该停下来。",
+    "zh_hant": "非常重要的一點是，每當你看到一個民調或調查資料點很反常時，你應該停下來。"
+  },
+  {
+    "index": 19,
+    "text": "And that's exactly what I did with this.",
+    "start": 92.076,
+    "end": 94.977,
+    "zh": "这正是我对这个数据所做的事。",
+    "zh_hant": "這正是我對這個資料所做的事。"
+  },
+  {
+    "index": 20,
+    "text": "is David Higgins, a paediatrician and public health assistant professor who writes a Substack.",
+    "start": 94.627,
+    "end": 100.54,
+    "zh": "是大卫·希金斯，一位儿科医生和公共卫生助理教授，他运营着一个Substack博客。",
+    "zh_hant": "是大衛·希金斯，一位兒科醫生和公共衛生助理教授，他運營著一個Substack部落格。"
+  },
+  {
+    "index": 21,
+    "text": "Called Community Immunity.",
+    "start": 100.19,
+    "end": 102.761,
+    "zh": "名为“群体免疫”。",
+    "zh_hant": "名為“群體免疫”。"
+  },
+  {
+    "index": 22,
+    "text": "I immediately thought, \"Wow, that seems out of step with other recent surveys and polls.\"",
+    "start": 102.861,
+    "end": 109.904,
+    "zh": "我立刻想：“哇，这似乎与最近的其他调查和民调不一致。”",
+    "zh_hant": "我立刻想：“哇，這似乎與最近的其他調查和民調不一致。”"
+  },
+  {
+    "index": 23,
+    "text": "David's not wrong.",
+    "start": 109.745,
+    "end": 111.105,
+    "zh": "大卫说得没错。",
+    "zh_hant": "大衛說得沒錯。"
+  },
+  {
+    "index": 24,
+    "text": "The idea that more Americans doubt vaccine safety than trust it would represent a sizeable shift in US public opinion.",
+    "start": 111.265,
+    "end": 118.909,
+    "zh": "认为更多美国人怀疑疫苗安全而非信任疫苗，这将意味着美国公众意见的巨大转变。",
+    "zh_hant": "認為更多美國人懷疑疫苗安全而非信任疫苗，這將意味著美國公眾意見的巨大轉變。"
+  },
+  {
+    "index": 25,
+    "text": "For example, a Reuters Ipsos poll in February found that 84% of respondents said",
+    "start": 118.969,
+    "end": 125.272,
+    "zh": "例如，路透社和益普索2月份的一项民调发现，84%的受访者表示",
+    "zh_hant": "例如，路透社和益普索2月份的一項民調發現，84%的受訪者表示"
+  },
+  {
+    "index": 26,
+    "text": "vaccines for diseases like measles, mumps, and rubella are safe for children.",
+    "start": 124.922,
+    "end": 130.155,
+    "zh": "针对麻疹、腮腺炎和风疹等疾病的疫苗对儿童是安全的。",
+    "zh_hant": "針對麻疹、腮腺炎和風疹等疾病的疫苗對兒童是安全的。"
+  },
+  {
+    "index": 27,
+    "text": "A Pew poll from November found",
+    "start": 130.175,
+    "end": 132.916,
+    "zh": "皮尤研究中心11月的一项民调发现",
+    "zh_hant": "皮尤研究中心11月的一項民調發現"
+  },
+  {
+    "index": 28,
+    "text": "that 84% of Americans thought the benefits of the MMR jab outweighed the risks.",
+    "start": 132.566,
+    "end": 138.499,
+    "zh": "84%的美国人认为麻疹、腮腺炎和风疹疫苗的益处大于风险。",
+    "zh_hant": "84%的美國人認為麻疹、腮腺炎和風疹疫苗的益處大於風險。"
+  },
+  {
+    "index": 29,
+    "text": "A Slight fall from 88% in 2023.",
+    "start": 138.439,
+    "end": 141.431,
+    "zh": "比2023年的88%略有下降。",
+    "zh_hant": "比2023年的88%略有下降。"
+  },
+  {
+    "index": 30,
+    "text": "So we can say with confidence that we have not seen",
+    "start": 141.481,
+    "end": 145.322,
+    "zh": "因此，我们可以有把握地说，我们没有看到",
+    "zh_hant": "因此，我們可以有把握地說，我們沒有看到"
+  },
+  {
+    "index": 31,
+    "text": "a drastic decline in confidence in vaccines.",
+    "start": 145.262,
+    "end": 150.345,
+    "zh": "对疫苗信心的急剧下降。",
+    "zh_hant": "對疫苗信心的急劇下降。"
+  },
+  {
+    "index": 32,
+    "text": "We have not fallen off a cliff of vaccine confidence.",
+    "start": 150.245,
+    "end": 154.307,
+    "zh": "我们对疫苗的信心并没有跌落悬崖。",
+    "zh_hant": "我們對疫苗的信心並沒有跌落懸崖。"
+  },
+  {
+    "index": 33,
+    "text": "So what's going on with the Politico poll that found that more Americans doubt vaccine safety than trust it?",
+    "start": 154.387,
+    "end": 160.63,
+    "zh": "那么，这项发现更多美国人怀疑疫苗安全而非信任它的Politico民调到底是怎么回事？",
+    "zh_hant": "那麼，這項發現更多美國人懷疑疫苗安全而非信任它的Politico民調到底是怎麼回事？"
+  },
+  {
+    "index": 34,
+    "text": "That statement comes from a specific question in this poll,",
+    "start": 160.71,
+    "end": 164.372,
+    "zh": "这一结论来自该民调中的一个特定问题，",
+    "zh_hant": "這一結論來自該民調中的一個特定問題，"
+  },
+  {
+    "index": 35,
+    "text": "and this question asked people: which of the following comes closest to your view?",
+    "start": 164.132,
+    "end": 169.875,
+    "zh": "这个问题问人们：以下哪一项最接近你的看法？",
+    "zh_hant": "這個問題問人們：以下哪一項最接近你的看法？"
+  },
+  {
+    "index": 36,
+    "text": "The science on vaccines is clear, and it is damaging to question it.",
+    "start": 169.895,
+    "end": 173.917,
+    "zh": "关于疫苗的科学是明确的，质疑它是有害的。",
+    "zh_hant": "關於疫苗的科學是明確的，質疑它是有害的。"
+  },
+  {
+    "index": 37,
+    "text": "Or the facts on vaccines are still up for debate, and it's damaging to enforce their uptake.",
+    "start": 173.897,
+    "end": 179.78,
+    "zh": "或者关于疫苗的事实仍在争论中，强制推行接种是有害的。",
+    "zh_hant": "或者關於疫苗的事實仍在爭論中，強制推行接種是有害的。"
+  },
+  {
+    "index": 38,
+    "text": "In the Politico poll, 39% of respondents indicated their view was closer to the first statement,",
+    "start": 179.86,
+    "end": 186.043,
+    "zh": "在Politico的民调中，39%的受访者表示自己的看法更接近第一个陈述，",
+    "zh_hant": "在Politico的民調中，39%的受訪者表示自己的看法更接近第一個陳述，"
+  },
+  {
+    "index": 39,
+    "text": "that the science on vaccines is clear and it is damaging to question it.",
+    "start": 186.263,
+    "end": 190.885,
+    "zh": "即关于疫苗的科学是明确的，质疑它是有害的。",
+    "zh_hant": "即關於疫苗的科學是明確的，質疑它是有害的。"
+  },
+  {
+    "index": 40,
+    "text": "46% were closest to the second,",
+    "start": 191.21,
+    "end": 194.147,
+    "zh": "46%的人最接近第二个陈述，",
+    "zh_hant": "46%的人最接近第二個陳述，"
+  },
+  {
+    "index": 41,
+    "text": "the facts on vaccines are still up for debate and it is damaging to enforce their uptake.",
+    "start": 194.287,
+    "end": 199.829,
+    "zh": "即关于疫苗的事实仍在争论中，强制推行接种是有害的。",
+    "zh_hant": "即關於疫苗的事實仍在爭論中，強制推行接種是有害的。"
+  },
+  {
+    "index": 42,
+    "text": "Hence, the headline that more Americans doubt vaccine safety than trust it.",
+    "start": 200.07,
+    "end": 204.732,
+    "zh": "因此产生了“更多美国人怀疑疫苗安全而非信任它”的标题。",
+    "zh_hant": "因此產生了“更多美國人懷疑疫苗安全而非信任它”的標題。"
+  },
+  {
+    "index": 43,
+    "text": "But David is not convinced.",
+    "start": 204.993,
+    "end": 207.654,
+    "zh": "但大卫并不信服。",
+    "zh_hant": "但大衛並不信服。"
+  },
+  {
+    "index": 44,
+    "text": "I read this question, and I thought, this question is very difficult to interpret.",
+    "start": 207.534,
+    "end": 213.456,
+    "zh": "我读了这个问题，心想，这个问题很难解释。",
+    "zh_hant": "我讀了這個問題，心想，這個問題很難解釋。"
+  },
+  {
+    "index": 45,
+    "text": "Now, here's the problem.",
+    "start": 213.337,
+    "end": 214.737,
+    "zh": "现在，问题就在这里。",
+    "zh_hant": "現在，問題就在這裡。"
+  },
+  {
+    "index": 46,
+    "text": "In this question, a survey respondent is not being asked about one thing.",
+    "start": 214.977,
+    "end": 220.42,
+    "zh": "在这个问题中，调查受访者并不是被问到一件事。",
+    "zh_hant": "在這個問題中，調查受訪者並不是被問到一件事。"
+  },
+  {
+    "index": 47,
+    "text": "They are not being asked simply about the safety of vaccines, or their views on vaccines.",
+    "start": 220.24,
+    "end": 225.943,
+    "zh": "他们并不是简单被问到疫苗的安全性，或者他们对疫苗的看法。",
+    "zh_hant": "他們並不是簡單被問到疫苗的安全性，或者他們對疫苗的看法。"
+  },
+  {
+    "index": 48,
+    "text": "They're being asked about four different things.",
+    "start": 225.963,
+    "end": 228.124,
+    "zh": "他们被问到的是四件不同的事情。",
+    "zh_hant": "他們被問到的是四件不同的事情。"
+  },
+  {
+    "index": 49,
+    "text": "One, is the science clear on vaccines?",
+    "start": 228.564,
+    "end": 232.086,
+    "zh": "第一，关于疫苗的科学是否明确？",
+    "zh_hant": "第一，關於疫苗的科學是否明確？"
+  },
+  {
+    "index": 50,
+    "text": "Two, is it damaging to question vaccine science?",
+    "start": 232.226,
+    "end": 236.708,
+    "zh": "第二，质疑疫苗科学是否有害？",
+    "zh_hant": "第二，質疑疫苗科學是否有害？"
+  },
+  {
+    "index": 51,
+    "text": "Three, are the facts on vaccines still up for debate?",
+    "start": 236.908,
+    "end": 240.47,
+    "zh": "第三，关于疫苗的事实是否仍在争论中？",
+    "zh_hant": "第三，關於疫苗的事實是否仍在爭論中？"
+  },
+  {
+    "index": 52,
+    "text": "And four, is it damaging to enforce vaccine uptake?",
+    "start": 240.471,
+    "end": 244.032,
+    "zh": "第四，强制推行疫苗接种是否有害？",
+    "zh_hant": "第四，強制推行疫苗接種是否有害？"
+  },
+  {
+    "index": 53,
+    "text": "So in this one question,",
+    "start": 244.252,
+    "end": 246.513,
+    "zh": "所以在这个单一问题中，",
+    "zh_hant": "所以在這個單一問題中，"
+  },
+  {
+    "index": 54,
+    "text": "there are four different beliefs about vaccines, all bundled into a binary choice.",
+    "start": 246.534,
+    "end": 253.297,
+    "zh": "有四种关于疫苗的不同信念，全部被捆绑进一个二选一的选择中。",
+    "zh_hant": "有四種關於疫苗的不同信念，全部被捆綁進一個二選一的選擇中。"
+  },
+  {
+    "index": 55,
+    "text": "I mean, questions one and three are pretty close, but you get the picture.",
+    "start": 253.757,
+    "end": 258.739,
+    "zh": "我的意思是，问题一和问题三非常接近，但你明白我的意思。",
+    "zh_hant": "我的意思是，問題一和問題三非常接近，但你明白我的意思。"
+  },
+  {
+    "index": 56,
+    "text": "These overlapping questions make it very hard to know exactly which part of the question is driving the answer.",
+    "start": 258.86,
+    "end": 265.843,
+    "zh": "这些重叠的问题使得很难确切知道是哪一部分在驱动答案。",
+    "zh_hant": "這些重疊的問題使得很難確切知道是哪一部分在驅動答案。"
+  },
+  {
+    "index": 57,
+    "text": "I thought, how would I Answer this question?",
+    "start": 265.923,
+    "end": 268.964,
+    "zh": "我想，我会如何回答这个问题？",
+    "zh_hant": "我想，我會如何回答這個問題？"
+  },
+  {
+    "index": 58,
+    "text": "And I had a hard time answering it myself.",
+    "start": 268.904,
+    "end": 271.465,
+    "zh": "我自己回答这个问题都很困难。",
+    "zh_hant": "我自己回答這個問題都很困難。"
+  },
+  {
+    "index": 59,
+    "text": "I believe the science on vaccines is clear, but I don't actually think",
+    "start": 271.506,
+    "end": 276.348,
+    "zh": "我相信关于疫苗的科学是明确的，但我并不认为",
+    "zh_hant": "我相信關於疫苗的科學是明確的，但我並不認為"
+  },
+  {
+    "index": 60,
+    "text": "it's damaging to question or debate the science of vaccines when done in good faith.",
+    "start": 275.998,
+    "end": 282.051,
+    "zh": "在善意的前提下质疑或辩论疫苗科学是有害的。",
+    "zh_hant": "在善意的前提下質疑或辯論疫苗科學是有害的。"
+  },
+  {
+    "index": 61,
+    "text": "In fact, that's a part of good science and good vaccine policymaking.",
+    "start": 282.211,
+    "end": 287.574,
+    "zh": "事实上，这是良好科学和良好疫苗政策制定的一部分。",
+    "zh_hant": "事實上，這是良好科學和良好疫苗政策制定的一部分。"
+  },
+  {
+    "index": 62,
+    "text": "And then the question also talks about whether it's damaging to enforce vaccine uptake.",
+    "start": 287.554,
+    "end": 294.097,
+    "zh": "这个问题还谈到了强制推行疫苗接,种是否有害。",
+    "zh_hant": "這個問題還談到了強制推行疫苗接,種是否有害。"
+  },
+  {
+    "index": 63,
+    "text": "And my first thought",
+    "start": 294.638,
+    "end": 297.219,
+    "zh": "我的第一反应是",
+    "zh_hant": "我的第一反應是"
+  },
+  {
+    "index": 64,
+    "text": "is that if vaccine uptake is enforced in an overly harsh way,",
+    "start": 296.919,
+    "end": 303.682,
+    "zh": "如果疫苗接,种以过于严厉的方式被强制执行，",
+    "zh_hant": "如果疫苗接,種以過於嚴厲的方式被強制執行，"
+  },
+  {
+    "index": 65,
+    "text": "that actually can backfire and decrease uptake.",
+    "start": 303.882,
+    "end": 308.884,
+    "zh": "实际上可能会适得其反，降低接种率。",
+    "zh_hant": "實際上可能會適得其反，降低接種率。"
+  },
+  {
+    "index": 66,
+    "text": "So even though I am a champion for vaccines,",
+    "start": 309.165,
+    "end": 313.467,
+    "zh": "所以即使我是疫苗的倡导者，",
+    "zh_hant": "所以即使我是疫苗的倡導者，"
+  },
+  {
+    "index": 67,
+    "text": "and I recommend vaccines every day to my patients in clinic,",
+    "start": 313.117,
+    "end": 316.928,
+    "zh": "并且我每天都在诊所里向患者推荐疫苗，",
+    "zh_hant": "並且我每天都在診所裡向患者推薦疫苗，"
+  },
+  {
+    "index": 68,
+    "text": "even then, I would be somewhere in the middle of this question.",
+    "start": 317.649,
+    "end": 321.491,
+    "zh": "即使如此，我对这个问题的回答也会站在中间位置。",
+    "zh_hant": "即使如此，我對這個問題的回答也會站在中間位置。"
+  },
+  {
+    "index": 69,
+    "text": "The point here is, the article headline makes a specific claim about vaccine safety.",
+    "start": 321.491,
+    "end": 327.094,
+    "zh": "这里的要点是，文章标题就疫苗安全性提出了一个具体的主张。",
+    "zh_hant": "這裡的要點是，文章標題就疫苗安全性提出了一個具體的主張。"
+  },
+  {
+    "index": 70,
+    "text": "Seemingly on the basis of this question, but it's very hard to know which part of it is driving that response.",
+    "start": 327.334,
+    "end": 333.337,
+    "zh": "表面上似乎基于这个问题，但很难知道其中哪一部分在驱动该回答。",
+    "zh_hant": "表面上似乎基於這個問題，但很難知道其中哪一部分在驅動該回答。"
+  },
+  {
+    "index": 71,
+    "text": "Is it concerns about vaccine safety, or vaccine science,",
+    "start": 333.337,
+    "end": 337.279,
+    "zh": "是对疫苗安全性的担忧，还是疫苗科学，",
+    "zh_hant": "是對疫苗安全性的擔憂，還是疫苗科學，"
+  },
+  {
+    "index": 72,
+    "text": "or the enforcement of vaccine uptake, or personal freedom?",
+    "start": 337.199,
+    "end": 341.541,
+    "zh": "还是疫苗接,种的强制执行，或是个人的自由？",
+    "zh_hant": "還是疫苗接,種的強制執行，或是個人的自由？"
+  },
+  {
+    "index": 73,
+    "text": "One more thing to consider, in some of these questions, it's not clear which vaccines we're talking about.",
+    "start": 342.242,
+    "end": 348.164,
+    "zh": "还有一点需要考虑的是，在这些问题中，并不清楚我们谈论的是哪种疫苗。",
+    "zh_hant": "還有一點需要考慮的是，在這些問題中，並不清楚我們談論的是哪種疫苗。"
+  },
+  {
+    "index": 74,
+    "text": "We've known for several years that the attitudes toward COVID-19 vaccines are very different",
+    "start": 348.064,
+    "end": 353.907,
+    "zh": "多年来我们已经知道，对新冠疫苗的态度与其他一些疫苗非常不同，",
+    "zh_hant": "多年來我們已經知道，對新冠疫苗的態度與其他一些疫苗非常不同，"
+  },
+  {
+    "index": 75,
+    "text": "than some other vaccines, like, say, those for measles.",
+    "start": 353.557,
+    "end": 357.509,
+    "zh": "比如说，对麻疹疫苗的态度。",
+    "zh_hant": "比如說，對麻疹疫苗的態度。"
+  },
+  {
+    "index": 76,
+    "text": "And the challenge is when a person is asked about whether they think vaccines are safe,",
+    "start": 358.029,
+    "end": 364.833,
+    "zh": "挑战在于，当一个人被问到是否认为疫苗安全时，",
+    "zh_hant": "挑戰在於，當一個人被問到是否認為疫苗安全時，"
+  },
+  {
+    "index": 77,
+    "text": "if in their mind they're thinking about the COVID-19 vaccine,",
+    "start": 365.253,
+    "end": 369.875,
+    "zh": "如果他们心中想的是新冠疫苗，",
+    "zh_hant": "如果他們心中想的是新冠疫苗，"
+  },
+  {
+    "index": 78,
+    "text": "they may have very strong views",
+    "start": 369.976,
+    "end": 372.717,
+    "zh": "他们可能会有非常强烈的看法，",
+    "zh_hant": "他們可能會有非常強烈的看法，"
+  },
+  {
+    "index": 79,
+    "text": "and may answer that question very differently than they would for other vaccines.",
+    "start": 372.367,
+    "end": 377.479,
+    "zh": "并且对这个问题的回答方式会与他们针对其他疫苗的回答大相径庭。",
+    "zh_hant": "並且對這個問題的回答方式會與他們針對其他疫苗的回答大相徑庭。"
+  },
+  {
+    "index": 80,
+    "text": "So that makes it difficult sometimes to tell if",
+    "start": 377.8,
+    "end": 383.322,
+    "zh": "这使得有时难以判断，",
+    "zh_hant": "這使得有時難以判斷，"
+  },
+  {
+    "index": 81,
+    "text": "shifting attitudes about vaccines are shifting attitudes toward all vaccines,",
+    "start": 383.522,
+    "end": 390.786,
+    "zh": "疫苗态度的转变是对所有疫苗态度的转变，",
+    "zh_hant": "疫苗態度的轉變是對所有疫苗態度的轉變，"
+  },
+  {
+    "index": 82,
+    "text": "or shifting attitudes toward COVID-19 vaccines",
+    "start": 390.886,
+    "end": 394.988,
+    "zh": "还是对新冠疫苗态度的转变，",
+    "zh_hant": "還是對新冠疫苗態度的轉變，"
+  },
+  {
+    "index": 83,
+    "text": "that are then appearing in the data to show shifting attitudes toward all vaccines.",
+    "start": 395.248,
+    "end": 401.592,
+    "zh": "随后在数据中表现为对所有疫苗态度的转变。",
+    "zh_hant": "隨後在資料中表現為對所有疫苗態度的轉變。"
+  },
+  {
+    "index": 84,
+    "text": "Politico put a link to the full survey data in their article.",
+    "start": 403.613,
+    "end": 407.595,
+    "zh": "Politico在其文章中附上了完整调查数据的链接。",
+    "zh_hant": "Politico在其文章中附上了完整調查資料的連結。"
+  },
+  {
+    "index": 85,
+    "text": "The strange thing is that the survey also asked a question",
+    "start": 407.795,
+    "end": 411.697,
+    "zh": "奇怪的是，该调查还问了一个问题，",
+    "zh_hant": "奇怪的是，該調查還問了一個問題，"
+  },
+  {
+    "index": 86,
+    "text": "which seems to more directly test people's opinions on vaccine safety.",
+    "start": 411.347,
+    "end": 416.279,
+    "zh": "这个问题似乎更直接地测试了人们对疫苗安全性的看法。",
+    "zh_hant": "這個問題似乎更直接地測試了人們對疫苗安全性的看法。"
+  },
+  {
+    "index": 87,
+    "text": "Asked to pick one option,",
+    "start": 416.759,
+    "end": 418.54,
+    "zh": "在要求选择一个选项时，",
+    "zh_hant": "在要求選擇一個選項時，"
+  },
+  {
+    "index": 88,
+    "text": "26% of respondents said vaccine risks are overblown by sceptics",
+    "start": 418.19,
+    "end": 423.282,
+    "zh": "26%的受访者表示，疫苗风险被怀疑论者夸大了，",
+    "zh_hant": "26%的受訪者表示，疫苗風險被懷疑論者誇大了，"
+  },
+  {
+    "index": 89,
+    "text": "and contribute to dangerous vaccine hesitancy, and 37% said",
+    "start": 423.042,
+    "end": 428.105,
+    "zh": "并导致了危险的疫苗犹豫，而37%的人表示",
+    "zh_hant": "並導致了危險的疫苗猶豫，而37%的人表示"
+  },
+  {
+    "index": 90,
+    "text": "vaccine risks are very If",
+    "start": 427.825,
+    "end": 433.647,
+    "zh": "疫苗风险非常",
+    "zh_hant": "疫苗風險非常"
+  },
+  {
+    "index": 91,
+    "text": "you categorise both groups as trusting vaccine safety,",
+    "start": 433.297,
+    "end": 436.969,
+    "zh": "如果你将这两组人都归类为信任疫苗安全，",
+    "zh_hant": "如果你將這兩組人都歸類為信任疫苗安全，"
+  },
+  {
+    "index": 92,
+    "text": "which isn't much of a leap, it puts 63% of Americans in that group, a clear majority.",
+    "start": 437.049,
+    "end": 444.193,
+    "zh": "这并不算太牵强，那么63%的美国人属于这一组，占明显的多数。",
+    "zh_hant": "這並不算太牽強，那麼63%的美國人屬於這一組，佔明顯的多數。"
+  },
+  {
+    "index": 93,
+    "text": "After this, 15% said vaccine risks are not as rare as public health experts claim.",
+    "start": 444.633,
+    "end": 450.576,
+    "zh": "在此之后，15%的人表示疫苗风险并不像公共卫生专家声称的那,样罕见。",
+    "zh_hant": "在此之後，15%的人表示疫苗風險並不像公共衛生專家聲稱的那,樣罕見。"
+  },
+  {
+    "index": 94,
+    "text": "And just 10% of respondents took this option: vaccine risks are significant, and enforcing vaccines is dangerous.",
+    "start": 450.316,
+    "end": 456.879,
+    "zh": "只有10%的受访者选择了这个选项：疫苗风险重大，强制接种疫苗是危险的。",
+    "zh_hant": "只有10%的受訪者選擇了這個選項：疫苗風險重大，強制接種疫苗是危險的。"
+  },
+  {
+    "index": 95,
+    "text": "Before we get too far ahead of ourselves, David isn't sure about this question either.",
+    "start": 456.939,
+    "end": 462.282,
+    "zh": "在我们过度解读之前，大卫对这个问题也不太确定。",
+    "zh_hant": "在我們過度解讀之前，大衛對這個問題也不太確定。"
+  },
+  {
+    "index": 96,
+    "text": "I worry that with that question, they made a similar mistake, right?",
+    "start": 462.202,
+    "end": 465.904,
+    "zh": "我担心的是，他们在这个问题上犯了类似的错误，对吧？",
+    "zh_hant": "我擔心的是，他們在這個問題上犯了類似的錯誤，對吧？"
+  },
+  {
+    "index": 97,
+    "text": "Again, because you're asking about multiple different things.",
+    "start": 465.724,
+    "end": 469.325,
+    "zh": "同样，因为你问的是多个不同的事情。",
+    "zh_hant": "同樣，因為你問的是多個不同的事情。"
+  },
+  {
+    "index": 98,
+    "text": "These questions also have a lot of moving parts.",
+    "start": 469.426,
+    "end": 472.767,
+    "zh": "这些问题也有很多变数。",
+    "zh_hant": "這些問題也有很多變數。"
+  },
+  {
+    "index": 99,
+    "text": "And again, the actual vaccine involved is unclear.",
+    "start": 472.527,
+    "end": 476.269,
+    "zh": "而且，实际涉及的疫苗也是不清楚的。",
+    "zh_hant": "而且，實際涉及的疫苗也是不清楚的。"
+  },
+  {
+    "index": 100,
+    "text": "So it's hard to know what's driving the answers.",
+    "start": 476.289,
+    "end": 478.971,
+    "zh": "所以很难知道是什么在驱动答案。",
+    "zh_hant": "所以很難知道是什麼在驅動答案。"
+  },
+  {
+    "index": 101,
+    "text": "So I hesitate to use this data point to say",
+    "start": 478.911,
+    "end": 483.953,
+    "zh": "因此，我不愿用这个数据点来说",
+    "zh_hant": "因此，我不願用這個資料點來說"
+  },
+  {
+    "index": 102,
+    "text": "that the headline question is inconsistent.",
+    "start": 483.673,
+    "end": 486.694,
+    "zh": "标题中的问题是不一致的。",
+    "zh_hant": "標題中的問題是不一致的。"
+  },
+  {
+    "index": 103,
+    "text": "Although it sure does look like it challenges the interpretation.",
+    "start": 486.895,
+    "end": 493.258,
+    "zh": "尽管它看起来确实像是挑战了那种解读。",
+    "zh_hant": "儘管它看起來確實像是挑戰了那種解讀。"
+  },
+  {
+    "index": 104,
+    "text": "We asked Politico whether they could justify the headline on their article,",
+    "start": 493.418,
+    "end": 497.86,
+    "zh": "我们询问了Politico能否为其文章的标题提供合理解释，",
+    "zh_hant": "我們詢問了Politico能否為其文章的標題提供合理解釋，"
+  },
+  {
+    "index": 105,
+    "text": "and a day later, they changed it.",
+    "start": 498.18,
+    "end": 501.722,
+    "zh": "一天后，他们更改了标题。",
+    "zh_hant": "一天後，他們更改了標題。"
+  },
+  {
+    "index": 106,
+    "text": "now says, \"Many Americans expressed doubt about vaccines, Politico poll finds.\"",
+    "start": 501.372,
+    "end": 507.845,
+    "zh": "现在改为：“Politico民调发现，许多美国人表达了疫苗疑虑。”",
+    "zh_hant": "現在改為：“Politico民調發現，許多美國人表達了疫苗疑慮。”"
+  },
+  {
+    "index": 107,
+    "text": "I don't think anyone can disagree with that.",
+    "start": 508.145,
+    "end": 510.406,
+    "zh": "我想没有人会不同意这一点。",
+    "zh_hant": "我想沒有人會不同意這一點。"
+  },
+  {
+    "index": 108,
+    "text": "They added a note to the article saying the previous headline was an editing error.",
+    "start": 511.007,
+    "end": 515.128,
+    "zh": "他们在文章中加入了一条注释，称之前的标题是编辑错误。",
+    "zh_hant": "他們在文章中加入了一條註釋，稱之前的標題是編輯錯誤。"
+  },
+  {
+    "index": 109,
+    "text": "Let's just hope all the people who saw the headline and posted about it on social media got the memo.",
+    "start": 515.389,
+    "end": 520.893,
+    "zh": "我们只能希望所有看到原标题并在社交媒体上发帖的人看到了这条更正。",
+    "zh_hant": "我們只能希望所有看到原標題並在社交媒體上發帖的人看到了這條更正。"
+  },
+  {
+    "index": 110,
+    "text": "Thanks to Dr David Higgins.",
+    "start": 521.875,
+    "end": 524.157,
+    "zh": "感谢大卫·希金斯博士。",
+    "zh_hant": "感謝大衛·希金斯博士。"
+  },
+  {
+    "index": 111,
+    "text": "Friend of the programme, Mike Wendling, sent us this story.",
+    "start": 524.397,
+    "end": 527.28,
+    "zh": "节目的朋友迈克·温德林把这个故事发给了我们。",
+    "zh_hant": "節目的朋友邁克·溫德林把這個故事發給了我們。"
+  },
+  {
+    "index": 112,
+    "text": "If you've seen a number in the news you think we should take a look at,",
+    "start": 527.22,
+    "end": 530.663,
+    "zh": "如果你在新闻中看到了你认为我们应该关注的一个数字，",
+    "zh_hant": "如果你在新聞中看到了你認為我們應該關注的一個數字，"
+  },
+  {
+    "index": 113,
+    "text": "email moreorless at bbc.co.uk. Until next week, goodbye.",
+    "start": 530.623,
+    "end": 537.93,
+    "zh": "请发邮件到 moreorless@bbc.co.uk。下周见，再见。",
+    "zh_hant": "請發郵件到 moreorless@bbc.co.uk。下週見，再見。"
+  }
+]

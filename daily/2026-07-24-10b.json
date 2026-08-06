@@ -1,0 +1,490 @@
+[
+  {
+    "index": 0,
+    "text": "Have you been surprised by the anti-A.I.",
+    "start": 0.93,
+    "end": 4.472,
+    "zh": "你是不是对毕业典礼上",
+    "zh_hant": "你是不是對畢業典禮上"
+  },
+  {
+    "index": 1,
+    "text": "sentiment on campuses at graduation ceremonies ?",
+    "start": 4.122,
+    "end": 7.27,
+    "zh": "反人工智能的情绪感到意外？",
+    "zh_hant": "反人工智慧的情緒感到意外？"
+  },
+  {
+    "index": 2,
+    "text": "Because I have, honestly.",
+    "start": 6.92,
+    "end": 8.614,
+    "zh": "因为老实说，我是挺意外的。",
+    "zh_hant": "因為老實說，我是挺意外的。"
+  },
+  {
+    "index": 3,
+    "text": "Anyone that brought up A.I. seemed to get either heckled or booed off the stage.",
+    "start": 8.534,
+    "end": 12.616,
+    "zh": "任何提到人工智能的人，似乎都会被起哄或嘘下台。",
+    "zh_hant": "任何提到人工智慧的人，似乎都會被起鬨或噓下臺。"
+  },
+  {
+    "index": 4,
+    "text": "To me, A.I. is a technology and a topic",
+    "start": 12.836,
+    "end": 15.617,
+    "zh": "对我而言，人工智能是一项技术和话题，",
+    "zh_hant": "對我而言，人工智慧是一項技術和話題，"
+  },
+  {
+    "index": 5,
+    "text": "that I would think most college students would think about really hard",
+    "start": 15.267,
+    "end": 20.04,
+    "zh": "我本以为大多数大学生会认真思考，",
+    "zh_hant": "我本以為大多數大學生會認真思考，"
+  },
+  {
+    "index": 6,
+    "text": "and would see potential downsides and a lot of potential upsides and would maybe have that conversation,",
+    "start": 19.69,
+    "end": 25.182,
+    "zh": "会看到潜在弊端和很多潜在好处，也许还会展开讨论，",
+    "zh_hant": "會看到潛在弊端和很多潛在好處，也許還會展開討論，"
+  },
+  {
+    "index": 7,
+    "text": "but it feels very much like the Luddite response from centuries ago.",
+    "start": 24.832,
+    "end": 29.024,
+    "zh": "但现在这感觉很像几个世纪前的勒德分子反应。",
+    "zh_hant": "但現在這感覺很像幾個世紀前的勒德分子反應。"
+  },
+  {
+    "index": 8,
+    "text": "What about you?",
+    "start": 28.674,
+    "end": 29.584,
+    "zh": "你觉得呢？",
+    "zh_hant": "你覺得呢？"
+  },
+  {
+    "index": 9,
+    "text": "Yeah, I don’t know if I agree with that.",
+    "start": 30.205,
+    "end": 31.945,
+    "zh": "嗯，我不太同意你的看法。",
+    "zh_hant": "嗯，我不太同意你的看法。"
+  },
+  {
+    "index": 10,
+    "text": "And I haven’t been surprised because we’ve seen this on our campus.",
+    "start": 31.866,
+    "end": 34.887,
+    "zh": "我一点都不意外，因为我们在自己校园里也见过这种情况。",
+    "zh_hant": "我一點都不意外，因為我們在自己校園裡也見過這種情況。"
+  },
+  {
+    "index": 11,
+    "text": "So Dartmouth actually was, in 1956,",
+    "start": 34.537,
+    "end": 38.159,
+    "zh": "达特茅斯其实在1956年",
+    "zh_hant": "達特茅斯其實在1956年"
+  },
+  {
+    "index": 12,
+    "text": "we had a summer conference where the term and the field, artificial intelligence, were born.",
+    "start": 38.209,
+    "end": 42.971,
+    "zh": "举办过一次暑期会议，那时“人工智能”这个术语和领域诞生了。",
+    "zh_hant": "舉辦過一次暑期會議，那時“人工智慧”這個術語和領域誕生了。"
+  },
+  {
+    "index": 13,
+    "text": "And so we talk about Dartmouth as the birthplace of A.I.",
+    "start": 42.631,
+    "end": 45.833,
+    "zh": "所以我们把达特茅斯称为人工智能的发源地。",
+    "zh_hant": "所以我們把達特茅斯稱為人工智慧的發源地。"
+  },
+  {
+    "index": 14,
+    "text": "And now 70 years later,",
+    "start": 45.993,
+    "end": 48.154,
+    "zh": "而70年后的今天，",
+    "zh_hant": "而70年後的今天，"
+  },
+  {
+    "index": 15,
+    "text": "I believe we have a responsibility to talk about what it means",
+    "start": 48.154,
+    "end": 51.856,
+    "zh": "我认为我们有责任去讨论，在人工智能时代",
+    "zh_hant": "我認為我們有責任去討論，在人工智慧時代"
+  },
+  {
+    "index": 16,
+    "text": "to educate humans in the age of A.I. and so we,",
+    "start": 51.506,
+    "end": 56.358,
+    "zh": "该如何教育人类，所以我们在",
+    "zh_hant": "該如何教育人類，所以我們在"
+  },
+  {
+    "index": 17,
+    "text": "at the beginning of the year, announced a partnership with Anthropic and A.W.S., one of the first institutions to do that.",
+    "start": 56.338,
+    "end": 61.901,
+    "zh": "年初宣布与Anthropic和AWS合作，是首批这么做的机构之一。",
+    "zh_hant": "年初宣佈與Anthropic和AWS合作，是首批這麼做的機構之一。"
+  },
+  {
+    "index": 18,
+    "text": "And I got a lot of pushback then from folks, so I knew that it was there.",
+    "start": 62.181,
+    "end": 66.363,
+    "zh": "当时我受到了很多人的反对，所以我知道这股情绪是存在的。",
+    "zh_hant": "當時我受到了很多人的反對，所以我知道這股情緒是存在的。"
+  },
+  {
+    "index": 19,
+    "text": "I think for young people, from my research,",
+    "start": 66.143,
+    "end": 69.885,
+    "zh": "对于年轻人，根据我的研究，",
+    "zh_hant": "對於年輕人，根據我的研究，"
+  },
+  {
+    "index": 20,
+    "text": "we know that you worry a lot not necessarily when you’re doing the scary thing,",
+    "start": 69.535,
+    "end": 74.287,
+    "zh": "我们知道，你不一定是在做可怕的事情时最焦虑，",
+    "zh_hant": "我們知道，你不一定是在做可怕的事情時最焦慮，"
+  },
+  {
+    "index": 21,
+    "text": "but when that scary thing is out there, the what-ifs.",
+    "start": 73.937,
+    "end": 76.708,
+    "zh": "而是当那件可怕的事悬而未决时，你会想“万一呢”。",
+    "zh_hant": "而是當那件可怕的事懸而未決時，你會想“萬一呢”。"
+  },
+  {
+    "index": 22,
+    "text": "And so, I think it’s okay to be worried and concerned about what’s happening,",
+    "start": 76.428,
+    "end": 82.271,
+    "zh": "所以，我觉得对正在发生的事感到担忧和关切是正常的，",
+    "zh_hant": "所以，我覺得對正在發生的事感到擔憂和關切是正常的，"
+  },
+  {
+    "index": 23,
+    "text": "but at the same time push forward and use it to extend your thinking rather than replace it.",
+    "start": 81.921,
+    "end": 87.174,
+    "zh": "但同时也要向前推进，用它来扩展你的思维，而不是取代它。",
+    "zh_hant": "但同時也要向前推進，用它來擴充套件你的思維，而不是取代它。"
+  },
+  {
+    "index": 24,
+    "text": "But I understand why young people are nervous about A.I., and where it’s going.",
+    "start": 86.824,
+    "end": 92.156,
+    "zh": "但我理解年轻人为什么对人工智能及其走向感到紧张。",
+    "zh_hant": "但我理解年輕人為什麼對人工智慧及其走向感到緊張。"
+  },
+  {
+    "index": 25,
+    "text": "Dartmouth is currently piloting a chatbot of its own, called Evergreen,",
+    "start": 95.558,
+    "end": 99.96,
+    "zh": "达特茅斯目前正在试点自己的聊天机器人，叫Evergreen，",
+    "zh_hant": "達特茅斯目前正在試點自己的聊天機器人，叫Evergreen，"
+  },
+  {
+    "index": 26,
+    "text": "which students will be able to use to address their mental health.",
+    "start": 99.66,
+    "end": 103.282,
+    "zh": "学生可以用它来解决心理健康问题。",
+    "zh_hant": "學生可以用它來解決心理健康問題。"
+  },
+  {
+    "index": 27,
+    "text": "Evergreen grew out of another project, called TheraBot,",
+    "start": 103.682,
+    "end": 107.164,
+    "zh": "Evergreen源于另一个项目，叫TheraBot，",
+    "zh_hant": "Evergreen源於另一個專案，叫TheraBot，"
+  },
+  {
+    "index": 28,
+    "text": "whose lead researcher is a Dartmouth scientist named Nicholas Jacobson .",
+    "start": 106.864,
+    "end": 111.37,
+    "zh": "其首席研究员是达特茅斯的科学家尼古拉斯·雅各布森。",
+    "zh_hant": "其首席研究員是達特茅斯的科學家尼古拉斯·雅各布森。"
+  },
+  {
+    "index": 29,
+    "text": "You’ll hear a lot more about this in an episode we’re producing now, about psychotherapy and technology.",
+    "start": 111.02,
+    "end": 116.648,
+    "zh": "关于这个，你会在我们正在制作的一期关于心理治疗与技术的节目中听到更多。",
+    "zh_hant": "關於這個，你會在我們正在製作的一期關於心理治療與技術的節目中聽到更多。"
+  },
+  {
+    "index": 30,
+    "text": "So the idea is that using hundreds of thousands of hours of clinical data,",
+    "start": 116.849,
+    "end": 123.012,
+    "zh": "所以思路是，利用数十万小时的临床数据，",
+    "zh_hant": "所以思路是，利用數十萬小時的臨床資料，"
+  },
+  {
+    "index": 31,
+    "text": "TheraBot was the first clinical trial to show benefits for an A.I.-powered therapist",
+    "start": 122.952,
+    "end": 128.795,
+    "zh": "TheraBot是首个临床试验，证明人工智能驱动的治疗师",
+    "zh_hant": "TheraBot是首個臨床試驗，證明人工智慧驅動的治療師"
+  },
+  {
+    "index": 32,
+    "text": "in terms of really helping rural folks connect with humans when they needed it .",
+    "start": 128.445,
+    "end": 135.17,
+    "zh": "真的能在人们需要时帮助他们与真人建立联系。",
+    "zh_hant": "真的能在人們需要時幫助他們與真人建立聯絡。"
+  },
+  {
+    "index": 33,
+    "text": "And we’re adapting that technology on campus,",
+    "start": 135.318,
+    "end": 138.279,
+    "zh": "我们正在校园里应用这项技术，",
+    "zh_hant": "我們正在校園裡應用這項技術，"
+  },
+  {
+    "index": 34,
+    "text": "and it’s not to replace the humans — we have lots of humans who support students — but we know that,",
+    "start": 137.929,
+    "end": 145.023,
+    "zh": "这不是为了取代真人——我们有大量工作人员支持学生——但我们知道，",
+    "zh_hant": "這不是為了取代真人——我們有大量工作人員支援學生——但我們知道，"
+  },
+  {
+    "index": 35,
+    "text": "for example, during midterms or finals,",
+    "start": 144.863,
+    "end": 148.104,
+    "zh": "比如在期中或期末考试期间，",
+    "zh_hant": "比如在期中或期末考試期間，"
+  },
+  {
+    "index": 36,
+    "text": "one of the biggest indicators of anxiety or depressive episodes is sleeping during the day and being up all night,",
+    "start": 148.585,
+    "end": 155.688,
+    "zh": "焦虑或抑郁发作的最大指标之一是白天睡觉、整夜不睡，",
+    "zh_hant": "焦慮或抑鬱發作的最大指標之一是白天睡覺、整夜不睡，"
+  },
+  {
+    "index": 37,
+    "text": "or stopping exercise, or not talking to your friends.",
+    "start": 155.348,
+    "end": 158.369,
+    "zh": "或者停止锻炼，或者不和朋友说话。",
+    "zh_hant": "或者停止鍛鍊，或者不和朋友說話。"
+  },
+  {
+    "index": 38,
+    "text": "And having technology that can both sense that and help people get to the places they need,",
+    "start": 158.019,
+    "end": 162.872,
+    "zh": "而拥有既能感知这些、又能帮人们到达所需之处的技术，",
+    "zh_hant": "而擁有既能感知這些、又能幫人們到達所需之處的技術，"
+  },
+  {
+    "index": 39,
+    "text": "we believe can be really helpful to student success.",
+    "start": 162.972,
+    "end": 168.014,
+    "zh": "我们相信真的有助于学生成功。",
+    "zh_hant": "我們相信真的有助於學生成功。"
+  },
+  {
+    "index": 40,
+    "text": "I’ve read some pushback from students,",
+    "start": 168.155,
+    "end": 170.736,
+    "zh": "我读了一些学生的反对意见，",
+    "zh_hant": "我讀了一些學生的反對意見，"
+  },
+  {
+    "index": 41,
+    "text": "one person writing in the student newspaper wondered why you need to build your own model when LLMs already exist .",
+    "start": 170.396,
+    "end": 177.57,
+    "zh": "有一个人在校报上写道，既然LLM已经存在，为什么还要自己建模型。",
+    "zh_hant": "有一個人在校報上寫道，既然LLM已經存在，為什麼還要自己建模型。"
+  },
+  {
+    "index": 42,
+    "text": "Although I’m guessing if you used an existing LLM, they would complain that it wasn’t customized to students or to Dartmouth students.",
+    "start": 177.259,
+    "end": 183.682,
+    "zh": "不过我猜，如果你用现有的LLM，他们又会抱怨说没有针对学生或达特茅斯学生定制。",
+    "zh_hant": "不過我猜，如果你用現有的LLM，他們又會抱怨說沒有針對學生或達特茅斯學生定製。"
+  },
+  {
+    "index": 43,
+    "text": "And someone else objected to the potential big energy consumption costs",
+    "start": 183.762,
+    "end": 189.105,
+    "zh": "还有人反对运行另一个LLM",
+    "zh_hant": "還有人反對執行另一個LLM"
+  },
+  {
+    "index": 44,
+    "text": "of running yet another LLM and, you know,",
+    "start": 188.755,
+    "end": 191.646,
+    "zh": "可能带来的巨大能耗成本，而且，你知道，",
+    "zh_hant": "可能帶來的巨大能耗成本，而且，你知道，"
+  },
+  {
+    "index": 45,
+    "text": "these are kind of the anti-AI arguments you see in a number of places.",
+    "start": 191.296,
+    "end": 194.888,
+    "zh": "这些就是你在很多地方能看到的那种反AI论点。",
+    "zh_hant": "這些就是你在很多地方能看到的那種反AI論點。"
+  },
+  {
+    "index": 46,
+    "text": "But it seems like a pretty robust program you’ve built,",
+    "start": 194.538,
+    "end": 197.789,
+    "zh": "但你建的这个项目看起来相当扎实，",
+    "zh_hant": "但你建的這個專案看起來相當紮實，"
+  },
+  {
+    "index": 47,
+    "text": "and I want to know what effects you’ve seen it having so far on student mental health especially.",
+    "start": 197.439,
+    "end": 201.811,
+    "zh": "我想知道，到目前为止，它对学生的心理健康，尤其是心理健康，产生了什么影响。",
+    "zh_hant": "我想知道，到目前為止，它對學生的心理健康，尤其是心理健康，產生了什麼影響。"
+  },
+  {
+    "index": 48,
+    "text": "We’re still testing it right now.",
+    "start": 202.132,
+    "end": 203.993,
+    "zh": "我们现在还在测试阶段。",
+    "zh_hant": "我們現在還在測試階段。"
+  },
+  {
+    "index": 49,
+    "text": "We have hundreds of students working on it,",
+    "start": 203.643,
+    "end": 206.074,
+    "zh": "有几百名学生参与其中，",
+    "zh_hant": "有幾百名學生參與其中，"
+  },
+  {
+    "index": 50,
+    "text": "actually helping to build the chats and dialogues that the LLMs will use to develop new",
+    "start": 206.094,
+    "end": 212.657,
+    "zh": "实际上是在帮助构建LLM用来生成新的",
+    "zh_hant": "實際上是在幫助構建LLM用來生成新的"
+  },
+  {
+    "index": 51,
+    "text": "responses.",
+    "start": 212.517,
+    "end": 213.817,
+    "zh": "回应所需的聊天和对话内容。",
+    "zh_hant": "回應所需的聊天和對話內容。"
+  },
+  {
+    "index": 52,
+    "text": "I think it’s healthy that some people are skeptical of this technology.",
+    "start": 214.078,
+    "end": 217.939,
+    "zh": "我觉得有些人对此技术持怀疑态度是健康的。",
+    "zh_hant": "我覺得有些人對此技術持懷疑態度是健康的。"
+  },
+  {
+    "index": 53,
+    "text": "I think there is also this concern at first that it was going to replace humans, but it is not.",
+    "start": 218.42,
+    "end": 223.802,
+    "zh": "起初也有种担忧，说它会取代真人，但它不会。",
+    "zh_hant": "起初也有種擔憂，說它會取代真人，但它不會。"
+  },
+  {
+    "index": 54,
+    "text": "I just watched a student demo of it at a presentation a few weeks ago,",
+    "start": 224.043,
+    "end": 229.045,
+    "zh": "几周前，我在一次演示会上刚看了一个学生的展示，",
+    "zh_hant": "幾周前，我在一次演示會上剛看了一個學生的展示，"
+  },
+  {
+    "index": 55,
+    "text": "and the students were so excited about what it could do.",
+    "start": 228.695,
+    "end": 231.646,
+    "zh": "学生们对它所能做的事非常兴奋。",
+    "zh_hant": "學生們對它所能做的事非常興奮。"
+  },
+  {
+    "index": 56,
+    "text": "They were showing me technology where it was helping a student",
+    "start": 231.986,
+    "end": 235.588,
+    "zh": "他们给我展示了这项技术如何帮助学生",
+    "zh_hant": "他們給我展示了這項技術如何幫助學生"
+  },
+  {
+    "index": 57,
+    "text": "pick the right classes during the winter term because they liked to be out in the sun",
+    "start": 235.238,
+    "end": 240.813,
+    "zh": "在冬季学期选对课程，因为那个学生喜欢白天",
+    "zh_hant": "在冬季學期選對課程，因為那個學生喜歡白天"
+  },
+  {
+    "index": 58,
+    "text": "during the day and wanted to be able to get to the skiway certain days for their mental health,",
+    "start": 240.463,
+    "end": 245.199,
+    "zh": "晒太阳，还想在特定日子去滑雪场保持心理健康，",
+    "zh_hant": "曬太陽，還想在特定日子去滑雪場保持心理健康，"
+  },
+  {
+    "index": 59,
+    "text": "but also wanted to take an advanced biology class.",
+    "start": 245.059,
+    "end": 247.963,
+    "zh": "但也想上高级生物课。",
+    "zh_hant": "但也想上高階生物課。"
+  },
+  {
+    "index": 60,
+    "text": "It’s helping augment people’s ability to deal with complex problems.",
+    "start": 247.903,
+    "end": 253.29,
+    "zh": "它正在帮助增强人们应对复杂问题的能力。",
+    "zh_hant": "它正在幫助增強人們應對複雜問題的能力。"
+  }
+]

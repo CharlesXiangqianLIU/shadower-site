@@ -1,0 +1,386 @@
+[
+  {
+    "index": 0,
+    "text": "So I wanted to speak with someone who knows a lot about that:",
+    "start": 0.47,
+    "end": 4.072,
+    "zh": "所以我想和某个对此很了解的人聊聊：",
+    "zh_hant": "所以我想和某個對此很瞭解的人聊聊："
+  },
+  {
+    "index": 1,
+    "text": "The first game I remember playing was with my father.",
+    "start": 4.212,
+    "end": 8.854,
+    "zh": "我记得玩的第一个游戏是和父亲一起玩的。",
+    "zh_hant": "我記得玩的第一個遊戲是和父親一起玩的。"
+  },
+  {
+    "index": 2,
+    "text": "I should say he passed away when I was five.",
+    "start": 9.015,
+    "end": 11.235,
+    "zh": "应该说他在我五岁时去世了。",
+    "zh_hant": "應該說他在我五歲時去世了。"
+  },
+  {
+    "index": 3,
+    "text": "These are some of my earliest childhood memories.",
+    "start": 10.885,
+    "end": 13.176,
+    "zh": "这些是我最早的童年记忆。",
+    "zh_hant": "這些是我最早的童年記憶。"
+  },
+  {
+    "index": 4,
+    "text": "That is Eric Zimmerman .",
+    "start": 13.217,
+    "end": 15.57,
+    "zh": "我是埃里克·齐默尔曼。",
+    "zh_hant": "我是埃裡克·齊默爾曼。"
+  },
+  {
+    "index": 5,
+    "text": "I’m a game designer, and I’m also a professor of game design at the N.Y.U. Game Center .",
+    "start": 15.498,
+    "end": 22.371,
+    "zh": "我是游戏设计师，也是纽约大学游戏中心的游戏设计教授。",
+    "zh_hant": "我是遊戲設計師，也是紐約大學遊戲中心的遊戲設計教授。"
+  },
+  {
+    "index": 6,
+    "text": "That’s in Tisch School of the Arts at New York University in New York City.",
+    "start": 21.971,
+    "end": 25.903,
+    "zh": "那个中心位于纽约大学艺术学院的蒂施艺术学院。",
+    "zh_hant": "那個中心位於紐約大學藝術學院的蒂施藝術學院。"
+  },
+  {
+    "index": 7,
+    "text": "Two games that I remember,",
+    "start": 28.844,
+    "end": 30.405,
+    "zh": "我记得的两个游戏，",
+    "zh_hant": "我記得的兩個遊戲，"
+  },
+  {
+    "index": 8,
+    "text": "one was would play that riddle game",
+    "start": 30.765,
+    "end": 35.367,
+    "zh": "一个是猜谜游戏，",
+    "zh_hant": "一個是猜謎遊戲，"
+  },
+  {
+    "index": 9,
+    "text": "where you can try and figure out what’s going on by asking “yes” or “no” questions.",
+    "start": 35.208,
+    "end": 40.37,
+    "zh": "你可以通过问“是”或“否”的问题来试着弄清楚发生了什么。",
+    "zh_hant": "你可以透過問“是”或“否”的問題來試著弄清楚發生了什麼。"
+  },
+  {
+    "index": 10,
+    "text": "For example, the game of, like, someone walks into an elevator and pushes the button for floor six,",
+    "start": 40.311,
+    "end": 46.794,
+    "zh": "例如，有人走进电梯，按下六楼的按钮，",
+    "zh_hant": "例如，有人走進電梯，按下六樓的按鈕，"
+  },
+  {
+    "index": 11,
+    "text": "then gets out and walks up two floors to their apartment.",
+    "start": 46.934,
+    "end": 50.015,
+    "zh": "然后出来，再走两层楼到自己的公寓。",
+    "zh_hant": "然後出來，再走兩層樓到自己的公寓。"
+  },
+  {
+    "index": 12,
+    "text": "Why?",
+    "start": 49.915,
+    "end": 50.675,
+    "zh": "为什么？",
+    "zh_hant": "為什麼？"
+  },
+  {
+    "index": 13,
+    "text": "Then you can only try and figure out this mystery by asking “yes” or “no” questions.",
+    "start": 50.756,
+    "end": 54.797,
+    "zh": "然后你只能通过问“是”或“否”的问题来试着解开这个谜。",
+    "zh_hant": "然後你只能透過問“是”或“否”的問題來試著解開這個謎。"
+  },
+  {
+    "index": 14,
+    "text": "The answer to this riddle is that the person in the elevator is too short to reach the button for the eighth floor,",
+    "start": 55.058,
+    "end": 60.82,
+    "zh": "这个谜语的答案是，电梯里的人太矮，够不到八楼的按钮，",
+    "zh_hant": "這個謎語的答案是，電梯裡的人太矮，夠不到八樓的按鈕，"
+  },
+  {
+    "index": 15,
+    "text": "so they press the highest one they can reach — six — and walk the rest of the way.",
+    "start": 60.721,
+    "end": 65.683,
+    "zh": "所以他们按下能碰到的最高楼层——六楼——然后走剩下的路。",
+    "zh_hant": "所以他們按下能碰到的最高樓層——六樓——然後走剩下的路。"
+  },
+  {
+    "index": 16,
+    "text": "That was like a logical game of deduction.",
+    "start": 65.783,
+    "end": 67.944,
+    "zh": "那就像一个逻辑推理游戏。",
+    "zh_hant": "那就像一個邏輯推理遊戲。"
+  },
+  {
+    "index": 17,
+    "text": "At the same time, we had games of pure physical play.",
+    "start": 67.724,
+    "end": 70.905,
+    "zh": "同时，我们也有纯体力玩的游戏。",
+    "zh_hant": "同時，我們也有純體力玩的遊戲。"
+  },
+  {
+    "index": 18,
+    "text": "We had a game called Monzo, which was basically wrestling, except you would yell out Monzo!",
+    "start": 70.555,
+    "end": 74.907,
+    "zh": "我们有个游戏叫“蒙佐”，基本就是摔跤，只不过你要大喊“蒙佐！”",
+    "zh_hant": "我們有個遊戲叫“蒙佐”，基本就是摔跤，只不過你要大喊“蒙佐！”"
+  },
+  {
+    "index": 19,
+    "text": "Kick the Can, Ghost in the Graveyard,",
+    "start": 75.208,
+    "end": 81.411,
+    "zh": "还有“踢罐子”“墓园幽灵”",
+    "zh_hant": "還有“踢罐子”“墓園幽靈”"
+  },
+  {
+    "index": 20,
+    "text": "dodgeball, dirt bike races.",
+    "start": 81.231,
+    "end": 83.872,
+    "zh": "躲避球、越野自行车赛。",
+    "zh_hant": "躲避球、越野腳踏車賽。"
+  },
+  {
+    "index": 21,
+    "text": "I made games with neighborhood kids that had to do with spaceships and Star Wars figures.",
+    "start": 83.792,
+    "end": 89.555,
+    "zh": "我和邻居孩子一起做游戏，和宇宙飞船及星球大战人偶有关。",
+    "zh_hant": "我和鄰居孩子一起做遊戲，和宇宙飛船及星球大戰人偶有關。"
+  },
+  {
+    "index": 22,
+    "text": "The first game maybe I made from scratch,",
+    "start": 89.535,
+    "end": 92.036,
+    "zh": "第一个我可能从零开始做的游戏，",
+    "zh_hant": "第一個我可能從零開始做的遊戲，"
+  },
+  {
+    "index": 23,
+    "text": "it was for a project, it might’ve been in 5th grade on the digestive system,",
+    "start": 91.916,
+    "end": 97.739,
+    "zh": "是为了一个项目，大概在五年级，主题是消化系统，",
+    "zh_hant": "是為了一個專案，大概在五年級，主題是消化系統，"
+  },
+  {
+    "index": 24,
+    "text": "I laid down on a piece of poster board, and traced my body.",
+    "start": 97.819,
+    "end": 101.221,
+    "zh": "我躺在一张海报板上，描出自己的身形。",
+    "zh_hant": "我躺在一張海報板上，描出自己的身形。"
+  },
+  {
+    "index": 25,
+    "text": "And we made a little track from — going from my mouth,",
+    "start": 101.141,
+    "end": 104.242,
+    "zh": "然后我们做了一条小轨道——从我的嘴开始，",
+    "zh_hant": "然後我們做了一條小軌道——從我的嘴開始，"
+  },
+  {
+    "index": 26,
+    "text": "winding through my, you know, belly into a stomach and small intestine.",
+    "start": 104.243,
+    "end": 109.365,
+    "zh": "蜿蜒穿过我的肚子，进入胃和小肠。",
+    "zh_hant": "蜿蜒穿過我的肚子，進入胃和小腸。"
+  },
+  {
+    "index": 27,
+    "text": "It was called the Digestive Game.",
+    "start": 109.165,
+    "end": 110.986,
+    "zh": "它叫“消化游戏”。",
+    "zh_hant": "它叫“消化遊戲”。"
+  },
+  {
+    "index": 28,
+    "text": "I don’t think it was very fun.",
+    "start": 110.966,
+    "end": 112.486,
+    "zh": "我觉得它不怎么好玩。",
+    "zh_hant": "我覺得它不怎麼好玩。"
+  },
+  {
+    "index": 29,
+    "text": "You played a food particle.",
+    "start": 112.587,
+    "end": 115.228,
+    "zh": "你扮演一个食物颗粒。",
+    "zh_hant": "你扮演一個食物顆粒。"
+  },
+  {
+    "index": 30,
+    "text": "At the beginning of the game, you picked a card",
+    "start": 114.878,
+    "end": 117.729,
+    "zh": "游戏开始时，你抽一张卡片，",
+    "zh_hant": "遊戲開始時，你抽一張卡片，"
+  },
+  {
+    "index": 31,
+    "text": "and you were a protein, fat, or carbohydrate particle, I guess.",
+    "start": 117.379,
+    "end": 122.672,
+    "zh": "然后你就是一个蛋白质、脂肪或碳水化合物的颗粒，我想。",
+    "zh_hant": "然後你就是一個蛋白質、脂肪或碳水化合物的顆粒，我想。"
+  },
+  {
+    "index": 32,
+    "text": "And then certain things would happen to you on certain spaces.",
+    "start": 122.352,
+    "end": 126.174,
+    "zh": "然后在某些格子上，某些事情会发生在你身上。",
+    "zh_hant": "然後在某些格子上，某些事情會發生在你身上。"
+  },
+  {
+    "index": 33,
+    "text": "And there was a reverse peristalsis space, which made you go back to the start, which was vomiting.",
+    "start": 125.954,
+    "end": 130.956,
+    "zh": "还有一个“逆蠕动”格子，会让你回到起点，那就是呕吐。",
+    "zh_hant": "還有一個“逆蠕動”格子，會讓你回到起點，那就是嘔吐。"
+  },
+  {
+    "index": 34,
+    "text": "You got vomited up.",
+    "start": 130.606,
+    "end": 131.856,
+    "zh": "你被吐了出来。",
+    "zh_hant": "你被吐了出來。"
+  },
+  {
+    "index": 35,
+    "text": "And, of course, the goal was to get pooped out the butt,",
+    "start": 131.616,
+    "end": 134.758,
+    "zh": "当然，目标是从屁股里拉出来，",
+    "zh_hant": "當然，目標是從屁股裡拉出來，"
+  },
+  {
+    "index": 36,
+    "text": "which was a lovely thing for a fifth-grader to be able to talk about with my whole class.",
+    "start": 134.408,
+    "end": 138.92,
+    "zh": "对一个五年级孩子来说，能跟全班聊这个可太棒了。",
+    "zh_hant": "對一個五年級孩子來說，能跟全班聊這個可太棒了。"
+  },
+  {
+    "index": 37,
+    "text": "Can I just start by asking you, like, what you think are either the best games ever, or maybe just your favorite games?",
+    "start": 138.66,
+    "end": 145.383,
+    "zh": "我能先问问你觉得有史以来最好的游戏是什么，或者你最喜欢的游戏吗？",
+    "zh_hant": "我能先問問你覺得有史以來最好的遊戲是什麼，或者你最喜歡的遊戲嗎？"
+  },
+  {
+    "index": 38,
+    "text": "Wow, it’s a hard question to answer because it’s like asking a painter what their favorite color is.",
+    "start": 145.583,
+    "end": 150.505,
+    "zh": "哇，这个问题很难回答，因为就像问画家最喜欢的颜色一样。",
+    "zh_hant": "哇，這個問題很難回答，因為就像問畫家最喜歡的顏色一樣。"
+  },
+  {
+    "index": 39,
+    "text": "The most influential game, I think,",
+    "start": 150.726,
+    "end": 154.267,
+    "zh": "影响最大的游戏，我觉得，",
+    "zh_hant": "影響最大的遊戲，我覺得，"
+  },
+  {
+    "index": 40,
+    "text": "in contemporary game culture is probably Dungeons & Dragons.",
+    "start": 153.917,
+    "end": 157.449,
+    "zh": "在当代游戏文化中，可能是《龙与地下城》。",
+    "zh_hant": "在當代遊戲文化中，可能是《龍與地下城》。"
+  },
+  {
+    "index": 41,
+    "text": "That is such a weird, rich, interesting game that maybe isn’t even a game",
+    "start": 157.589,
+    "end": 162.992,
+    "zh": "那是一个奇怪、丰富、有趣的游戏，也许甚至不算游戏，",
+    "zh_hant": "那是一個奇怪、豐富、有趣的遊戲，也許甚至不算遊戲，"
+  },
+  {
+    "index": 42,
+    "text": "because it’s more like an interactive storytelling engine with a simulation system attached to it.",
+    "start": 162.642,
+    "end": 169.295,
+    "zh": "因为它更像一个带有模拟系统的互动叙事引擎。",
+    "zh_hant": "因為它更像一個帶有模擬系統的互動敘事引擎。"
+  },
+  {
+    "index": 43,
+    "text": "But there are so many concepts in contemporary games — things like player",
+    "start": 169.336,
+    "end": 174.758,
+    "zh": "但当代游戏中有太多概念——比如玩家",
+    "zh_hant": "但當代遊戲中有太多概念——比如玩家"
+  },
+  {
+    "index": 44,
+    "text": "classes and levels and points and experience and, you know, weapons and damage,",
+    "start": 174.408,
+    "end": 179.02,
+    "zh": "职业、等级、点数、经验，还有武器和伤害，",
+    "zh_hant": "職業、等級、點數、經驗，還有武器和傷害，"
+  },
+  {
+    "index": 45,
+    "text": "and things like that that are just shot through all kinds of contemporary video and tabletop games today.",
+    "start": 178.67,
+    "end": 185.444,
+    "zh": "这些东西如今渗透在各种当代视频游戏和桌面游戏中。",
+    "zh_hant": "這些東西如今滲透在各種當代影片遊戲和桌面遊戲中。"
+  },
+  {
+    "index": 46,
+    "text": "But I could also answer it and just say that the last game I played was at a party a few nights ago,",
+    "start": 185.324,
+    "end": 191.967,
+    "zh": "但我也可以换种回答，就说我玩的最后一个游戏是几晚前在一个派对上，",
+    "zh_hant": "但我也可以換種回答，就說我玩的最後一個遊戲是幾晚前在一個派對上，"
+  },
+  {
+    "index": 47,
+    "text": "someone pulled out Flip 7, which is so the opposite of Dungeons & Dragons.",
+    "start": 191.687,
+    "end": 197.27,
+    "zh": "有人拿出了一副“翻转7”，那和《龙与地下城》完全是两个极端。",
+    "zh_hant": "有人拿出了一副“翻轉7”，那和《龍與地下城》完全是兩個極端。"
+  }
+]

@@ -1,0 +1,1138 @@
+[
+  {
+    "index": 0,
+    "text": "Thank you for downloading the More or Less podcast.",
+    "start": 5.911,
+    "end": 8.852,
+    "zh": "感谢您下载More or Less播客。",
+    "zh_hant": "感謝您下載More or Less播客。"
+  },
+  {
+    "index": 1,
+    "text": "We are a weekly guide to the numbers in the news, in life, and in financial crises.",
+    "start": 8.932,
+    "end": 13.734,
+    "zh": "我们是一档每周更新的节目，为您解读新闻、生活以及金融危机中的数字。",
+    "zh_hant": "我們是一檔每週更新的節目，為您解讀新聞、生活以及金融危機中的數字。"
+  },
+  {
+    "index": 2,
+    "text": "Andrew Ross Sorkin is no stranger to them.",
+    "start": 14.895,
+    "end": 17.676,
+    "zh": "安德鲁·罗斯·索金对这类话题并不陌生。",
+    "zh_hant": "安德魯·羅斯·索金對這類話題並不陌生。"
+  },
+  {
+    "index": 3,
+    "text": "He's the author of Too Big to Fail, a behind-the-scenes account of the banking crisis of 2008,",
+    "start": 17.636,
+    "end": 23.389,
+    "zh": "他是《大到不能倒》一书的作者，该书记录了2008年银行业危机的幕后故事，",
+    "zh_hant": "他是《大到不能倒》一書的作者，該書記錄了2008年銀行業危機的幕後故事，"
+  },
+  {
+    "index": 4,
+    "text": "and a financial journalist at both the New York Times and CNBC.",
+    "start": 23.439,
+    "end": 27.161,
+    "zh": "同时他也在《纽约时报》和CNBC担任金融记者。",
+    "zh_hant": "同時他也在《紐約時報》和CNBC擔任金融記者。"
+  },
+  {
+    "index": 5,
+    "text": "His new book looks further back.",
+    "start": 27.561,
+    "end": 30.242,
+    "zh": "他的新书则将目光投向了更久远的过去。",
+    "zh_hant": "他的新書則將目光投向了更久遠的過去。"
+  },
+  {
+    "index": 6,
+    "text": "It's titled \"1929: Inside the Crash.\"",
+    "start": 30.223,
+    "end": 34.545,
+    "zh": "书名是《1929：崩盘内幕》。",
+    "zh_hant": "書名是《1929：崩盤內幕》。"
+  },
+  {
+    "index": 7,
+    "text": "Andrew, welcome to More or Less.",
+    "start": 34.705,
+    "end": 36.426,
+    "zh": "安德鲁，欢迎来到More or Less。",
+    "zh_hant": "安德魯，歡迎來到More or Less。"
+  },
+  {
+    "index": 8,
+    "text": "Thank you for having me.",
+    "start": 36.626,
+    "end": 37.846,
+    "zh": "感谢您的邀请。",
+    "zh_hant": "感謝您的邀請。"
+  },
+  {
+    "index": 9,
+    "text": "Andrew, for those of us who are familiar with the history of finance,",
+    "start": 38.227,
+    "end": 42.869,
+    "zh": "安德鲁，对于我们这些熟悉金融历史的人来说，",
+    "zh_hant": "安德魯，對於我們這些熟悉金融歷史的人來說，"
+  },
+  {
+    "index": 10,
+    "text": "there is no bigger date than 1929.",
+    "start": 42.519,
+    "end": 46.121,
+    "zh": "没有哪个日期比1929年更重要。",
+    "zh_hant": "沒有哪個日期比1929年更重要。"
+  },
+  {
+    "index": 11,
+    "text": "But for people who blessedly have forgotten, what was the Great Wall Street Crash?",
+    "start": 46.171,
+    "end": 51.914,
+    "zh": "但对于那些幸运地忘记的人来说，华尔街大崩盘是什么？",
+    "zh_hant": "但對於那些幸運地忘記的人來說，華爾街大崩盤是什麼？"
+  },
+  {
+    "index": 12,
+    "text": "The Great Wall Street Crash of 1929 was considered the first and most critical crash",
+    "start": 51.934,
+    "end": 57.737,
+    "zh": "1929年的华尔街大崩盘被认为是美国股市第一次也是最严重的一次崩盘。",
+    "zh_hant": "1929年的華爾街大崩盤被認為是美國股市第一次也是最嚴重的一次崩盤。"
+  },
+  {
+    "index": 13,
+    "text": "in the United States stock market.",
+    "start": 57.777,
+    "end": 60.478,
+    "zh": "（这是句子的延续）在美股市场发生的第一次也是最严重的一次崩盘。",
+    "zh_hant": "（這是句子的延續）在美股市場發生的第一次也是最嚴重的一次崩盤。"
+  },
+  {
+    "index": 14,
+    "text": "The 1920s was this remarkable, roaring period.",
+    "start": 60.598,
+    "end": 63.739,
+    "zh": "20世纪20年代是一个非凡的、蓬勃发展的时期。",
+    "zh_hant": "20世紀20年代是一個非凡的、蓬勃發展的時期。"
+  },
+  {
+    "index": 15,
+    "text": "You had automobiles and radio.",
+    "start": 63.389,
+    "end": 65.42,
+    "zh": "汽车和收音机出现了。",
+    "zh_hant": "汽車和收音機出現了。"
+  },
+  {
+    "index": 16,
+    "text": "And all this excitement about new technologies that were going to change the world.",
+    "start": 65.07,
+    "end": 68.902,
+    "zh": "人们对将改变世界的新技术充满兴奋。",
+    "zh_hant": "人們對將改變世界的新技術充滿興奮。"
+  },
+  {
+    "index": 17,
+    "text": "And it was the first time that ordinary people could invest in the stock market.",
+    "start": 68.552,
+    "end": 73.524,
+    "zh": "这也是普通人第一次能够投资股票市场。",
+    "zh_hant": "這也是普通人第一次能夠投資股票市場。"
+  },
+  {
+    "index": 18,
+    "text": "And they watched the market climb and climb and climb and climb.",
+    "start": 73.725,
+    "end": 77.546,
+    "zh": "他们看着股市一路攀升、攀升、攀升、再攀升。",
+    "zh_hant": "他們看著股市一路攀升、攀升、攀升、再攀升。"
+  },
+  {
+    "index": 19,
+    "text": "And in October of 1929, it crashed, and it crashed hard.",
+    "start": 77.196,
+    "end": 82.048,
+    "zh": "然后在1929年10月，它崩盘了，而且是重挫。",
+    "zh_hant": "然後在1929年10月，它崩盤了，而且是重挫。"
+  },
+  {
+    "index": 20,
+    "text": "I wanted to get a sense of just the scale of this crash.",
+    "start": 81.889,
+    "end": 85.551,
+    "zh": "我想了解一下这次崩盘的规模有多大。",
+    "zh_hant": "我想了解一下這次崩盤的規模有多大。"
+  },
+  {
+    "index": 21,
+    "text": "It's called the Great Crash.",
+    "start": 85.201,
+    "end": 87.151,
+    "zh": "它被称为大崩盘。",
+    "zh_hant": "它被稱為大崩盤。"
+  },
+  {
+    "index": 22,
+    "text": "Is it fair to say it's the biggest financial crisis in history?",
+    "start": 87.672,
+    "end": 91.273,
+    "zh": "说它是历史上最大的金融危机，公平吗？",
+    "zh_hant": "說它是歷史上最大的金融危機，公平嗎？"
+  },
+  {
+    "index": 23,
+    "text": "And is there any way of putting a number on any of that?",
+    "start": 90.923,
+    "end": 93.355,
+    "zh": "有没有办法用数字来衡量它呢？",
+    "zh_hant": "有沒有辦法用數字來衡量它呢？"
+  },
+  {
+    "index": 24,
+    "text": "I think if you look over not just 1929,",
+    "start": 93.295,
+    "end": 96.55,
+    "zh": "我认为如果你不只关注1929年，",
+    "zh_hant": "我認為如果你不只關注1929年，"
+  },
+  {
+    "index": 25,
+    "text": "but between 1929 and 1933,",
+    "start": 96.476,
+    "end": 101.729,
+    "zh": "而是看1929年到1933年之间，",
+    "zh_hant": "而是看1929年到1933年之間，"
+  },
+  {
+    "index": 26,
+    "text": "you're looking effectively at something",
+    "start": 101.779,
+    "end": 105.06,
+    "zh": "你实际上面对的是，",
+    "zh_hant": "你實際上面對的是，"
+  },
+  {
+    "index": 27,
+    "text": "on the order of about a 90% fall in the total price of the market.",
+    "start": 104.78,
+    "end": 110.543,
+    "zh": "市场总价值大约下跌了90%的情况。",
+    "zh_hant": "市場總價值大約下跌了90%的情況。"
+  },
+  {
+    "index": 28,
+    "text": "Now, it's worth knowing, in 1929 itself,",
+    "start": 110.193,
+    "end": 115.125,
+    "zh": "值得一提的是，就在1929年本身，",
+    "zh_hant": "值得一提的是，就在1929年本身，"
+  },
+  {
+    "index": 29,
+    "text": "The stock market, oddly enough, despite the fact that we all think about it as this grand crash,",
+    "start": 115.746,
+    "end": 120.788,
+    "zh": "股市，奇怪的是，尽管我们都认为那是一场大崩盘，",
+    "zh_hant": "股市，奇怪的是，儘管我們都認為那是一場大崩盤，"
+  },
+  {
+    "index": 30,
+    "text": "ended the year only down about 17%.",
+    "start": 120.948,
+    "end": 126.382,
+    "zh": "全年结束时仅下跌了约17%。",
+    "zh_hant": "全年結束時僅下跌了約17%。"
+  },
+  {
+    "index": 31,
+    "text": "But between October and November of 1929,",
+    "start": 126.432,
+    "end": 130.944,
+    "zh": "但在1929年10月到11月之间，",
+    "zh_hant": "但在1929年10月到11月之間，"
+  },
+  {
+    "index": 32,
+    "text": "the stock market fell about 50%.",
+    "start": 130.994,
+    "end": 134.646,
+    "zh": "股市下跌了约50%。",
+    "zh_hant": "股市下跌了約50%。"
+  },
+  {
+    "index": 33,
+    "text": "And so if you closed your eyes and just looked at the beginning of the year and the end of the year,",
+    "start": 134.696,
+    "end": 138.997,
+    "zh": "所以如果你闭上眼睛，只看年初和年末的情况，",
+    "zh_hant": "所以如果你閉上眼睛，只看年初和年末的情況，"
+  },
+  {
+    "index": 34,
+    "text": "you would have thought maybe nothing happened, except for the fact that this extraordinary 50% downdraft,",
+    "start": 138.647,
+    "end": 144.66,
+    "zh": "你可能会觉得什么都没发生，除了这次惊人的50%暴跌，",
+    "zh_hant": "你可能會覺得什麼都沒發生，除了這次驚人的50%暴跌，"
+  },
+  {
+    "index": 35,
+    "text": "at a time when most ordinary people were investing in the stock.",
+    "start": 144.58,
+    "end": 148.962,
+    "zh": "而当时大多数普通民众刚开始投资股票。",
+    "zh_hant": "而當時大多數普通民眾剛開始投資股票。"
+  },
+  {
+    "index": 36,
+    "text": "Market for the first time, oftentimes with remarkable amounts of debt, 10 to 1 in some cases.",
+    "start": 148.612,
+    "end": 154.745,
+    "zh": "他们往往借了大量债务，有些甚至是10比1的杠杆。",
+    "zh_hant": "他們往往借了大量債務，有些甚至是10比1的槓桿。"
+  },
+  {
+    "index": 37,
+    "text": "It's worth unpacking that.",
+    "start": 154.465,
+    "end": 155.826,
+    "zh": "这值得好好分析一下。",
+    "zh_hant": "這值得好好分析一下。"
+  },
+  {
+    "index": 38,
+    "text": "So if I've got $100,",
+    "start": 155.566,
+    "end": 157.877,
+    "zh": "所以如果我有100美元，",
+    "zh_hant": "所以如果我有100美元，"
+  },
+  {
+    "index": 39,
+    "text": "but then I borrow $1,000 and I buy $1,000 worth of stock,",
+    "start": 157.927,
+    "end": 163.589,
+    "zh": "但我又借了1000美元，然后买了1000美元的股票，",
+    "zh_hant": "但我又借了1000美元，然後買了1000美元的股票，"
+  },
+  {
+    "index": 40,
+    "text": "and then that falls to $500, I've lost five times more than I ever have.",
+    "start": 163.43,
+    "end": 167.852,
+    "zh": "然后股价跌到500美元，我损失的比我投入的还多五倍。",
+    "zh_hant": "然後股價跌到500美元，我損失的比我投入的還多五倍。"
+  },
+  {
+    "index": 41,
+    "text": "You've got a big, big problem.",
+    "start": 167.502,
+    "end": 169.193,
+    "zh": "那你就麻烦大了。",
+    "zh_hant": "那你就麻煩大了。"
+  },
+  {
+    "index": 42,
+    "text": "And that really explains what I think of as the first domino in a series of dominoes that leads,",
+    "start": 169.473,
+    "end": 176.016,
+    "zh": "这确实解释了我认为的，引发一系列多米诺骨牌效应的第一块骨牌，",
+    "zh_hant": "這確實解釋了我認為的，引發一系列多米諾骨牌效應的第一塊骨牌，"
+  },
+  {
+    "index": 43,
+    "text": "as we just mentioned, by the time you're...",
+    "start": 176.036,
+    "end": 178.097,
+    "zh": "正如我们刚才提到的，到……",
+    "zh_hant": "正如我們剛才提到的，到……"
+  },
+  {
+    "index": 44,
+    "text": "In 1932, 1933, to this 90% drop.",
+    "start": 177.747,
+    "end": 182.599,
+    "zh": "在1932年、1933年，导致了这次90%的跌幅。",
+    "zh_hant": "在1932年、1933年，導致了這次90%的跌幅。"
+  },
+  {
+    "index": 45,
+    "text": "And by the way, you also had 25% unemployment in 1932.",
+    "start": 182.359,
+    "end": 186.491,
+    "zh": "顺便说一句，1932年还有25%的失业率。",
+    "zh_hant": "順便說一句，1932年還有25%的失業率。"
+  },
+  {
+    "index": 46,
+    "text": "One of your jobs, Andrew, is to appear on the TV talking about finance.",
+    "start": 186.541,
+    "end": 191.784,
+    "zh": "安德鲁，你的工作之一就是上电视谈论金融。",
+    "zh_hant": "安德魯，你的工作之一就是上電視談論金融。"
+  },
+  {
+    "index": 47,
+    "text": "And while you're talking, numbers go along the bottom of the screen.",
+    "start": 191.444,
+    "end": 195.626,
+    "zh": "而你在讲话时，屏幕底部会滚动数字。",
+    "zh_hant": "而你在講話時，螢幕底部會滾動數字。"
+  },
+  {
+    "index": 48,
+    "text": "This is the stock market is up, the stock market is down, individual shares up, down, the dollar, crude oil.",
+    "start": 196.446,
+    "end": 202.229,
+    "zh": "比如股市上涨、股市下跌、个股涨跌、美元、原油等等。",
+    "zh_hant": "比如股市上漲、股市下跌、個股漲跌、美元、原油等等。"
+  },
+  {
+    "index": 49,
+    "text": "There's an absolute ubiquitous availability of data.",
+    "start": 202.469,
+    "end": 205.851,
+    "zh": "数据真是无处不在。",
+    "zh_hant": "資料真是無處不在。"
+  },
+  {
+    "index": 50,
+    "text": "So in 1929, there was a ticker tape printing stock prices, but things were quite different.",
+    "start": 206.192,
+    "end": 212.995,
+    "zh": "而在1929年，虽然有股票行情纸带打印股价，但情况大不相同。",
+    "zh_hant": "而在1929年，雖然有股票行情紙帶列印股價，但情況大不相同。"
+  },
+  {
+    "index": 51,
+    "text": "So what was different?",
+    "start": 212.835,
+    "end": 214.115,
+    "zh": "那么有什么区别呢？",
+    "zh_hant": "那麼有什麼區別呢？"
+  },
+  {
+    "index": 52,
+    "text": "And did the lack of data then make it better or worse?",
+    "start": 213.765,
+    "end": 217.417,
+    "zh": "而且当时数据的匮乏让情况变得更好了还是更糟了？",
+    "zh_hant": "而且當時資料的匱乏讓情況變得更好了還是更糟了？"
+  },
+  {
+    "index": 53,
+    "text": "I would argue to you, the lack of data, and more importantly,",
+    "start": 217.717,
+    "end": 221.219,
+    "zh": "我认为，数据的匮乏，更重要的是，",
+    "zh_hant": "我認為，資料的匱乏，更重要的是，"
+  },
+  {
+    "index": 54,
+    "text": "the lack of timely data, was not just a problem.",
+    "start": 220.869,
+    "end": 225.641,
+    "zh": "数据的不及时，不仅仅是个问题。",
+    "zh_hant": "資料的不及時，不僅僅是個問題。"
+  },
+  {
+    "index": 55,
+    "text": "It is actually what, in some cases, you could describe as creating the crisis.",
+    "start": 225.341,
+    "end": 230.884,
+    "zh": "在某些情况下，这实际上可以说是制造了危机。",
+    "zh_hant": "在某些情況下，這實際上可以說是製造了危機。"
+  },
+  {
+    "index": 56,
+    "text": "We don't know what the price is now, because the ticker tape is 15 minutes, hours behind.",
+    "start": 230.764,
+    "end": 236.286,
+    "zh": "我们不知道现在的价格是多少，因为行情纸带滞后了15分钟，甚至几个小时。",
+    "zh_hant": "我們不知道現在的價格是多少，因為行情紙帶滯後了15分鐘，甚至幾個小時。"
+  },
+  {
+    "index": 57,
+    "text": "15 minutes.",
+    "start": 235.92,
+    "end": 237.067,
+    "zh": "15分钟？",
+    "zh_hant": "15分鐘？"
+  },
+  {
+    "index": 58,
+    "text": "We were literally, in some cases, four, five, six hours behind.",
+    "start": 236.717,
+    "end": 241.829,
+    "zh": "实际上，在某些情况下，我们甚至滞后四、五、六个小时。",
+    "zh_hant": "實際上，在某些情況下，我們甚至滯後四、五、六個小時。"
+  },
+  {
+    "index": 59,
+    "text": "When you see those famous black and white pictures of thousands of people during the great crash,",
+    "start": 241.549,
+    "end": 248.613,
+    "zh": "当你看到那些著名的大崩盘期间成千上万人的黑白照片时，",
+    "zh_hant": "當你看到那些著名的大崩盤期間成千上萬人的黑白照片時，"
+  },
+  {
+    "index": 60,
+    "text": "standing around the New York Stock Exchange, you may have seen those pictures over the years.",
+    "start": 248.513,
+    "end": 252.275,
+    "zh": "他们站在纽约证券交易所周围，你可能这些年见过这些照片。",
+    "zh_hant": "他們站在紐約證券交易所周圍，你可能這些年見過這些照片。"
+  },
+  {
+    "index": 61,
+    "text": "If you ever say to yourself, what are they doing?",
+    "start": 252.415,
+    "end": 255.436,
+    "zh": "如果你曾问自己，他们在干什么？",
+    "zh_hant": "如果你曾問自己，他們在幹什麼？"
+  },
+  {
+    "index": 62,
+    "text": "Why are all those people standing in the street?",
+    "start": 255.156,
+    "end": 257.597,
+    "zh": "为什么那些人都站在街上？",
+    "zh_hant": "為什麼那些人都站在街上？"
+  },
+  {
+    "index": 63,
+    "text": "All of those people had come down to Wall Street to physically try to find out what had happened to their money.",
+    "start": 257.838,
+    "end": 264.821,
+    "zh": "所有这些人都来到华尔街，是为了亲自弄清楚他们的钱到底怎么了。",
+    "zh_hant": "所有這些人都來到華爾街，是為了親自弄清楚他們的錢到底怎麼了。"
+  },
+  {
+    "index": 64,
+    "text": "They didn't know.",
+    "start": 264.881,
+    "end": 266.261,
+    "zh": "他们不知道。",
+    "zh_hant": "他們不知道。"
+  },
+  {
+    "index": 65,
+    "text": "What the stock prices were.",
+    "start": 266.022,
+    "end": 268.082,
+    "zh": "股价是多少。",
+    "zh_hant": "股價是多少。"
+  },
+  {
+    "index": 66,
+    "text": "Because if you were at a brokerage house, literally on Fifth Avenue in the 40s, you could have been three hours behind,",
+    "start": 267.732,
+    "end": 274.846,
+    "zh": "因为如果你在经纪行，比如在第五大道40街附近，你可能已经滞后三个小时了，",
+    "zh_hant": "因為如果你在經紀行，比如在第五大道40街附近，你可能已經滯後三個小時了，"
+  },
+  {
+    "index": 67,
+    "text": "and forget about it if you were in Europe or if you were on a boat somewhere.",
+    "start": 274.626,
+    "end": 279.728,
+    "zh": "如果你在欧洲或某艘船上，那就更不用提了。",
+    "zh_hant": "如果你在歐洲或某艘船上，那就更不用提了。"
+  },
+  {
+    "index": 68,
+    "text": "And by the way, people were trading on boats.",
+    "start": 279.378,
+    "end": 281.589,
+    "zh": "顺便说一句，人们还在船上交易呢。",
+    "zh_hant": "順便說一句，人們還在船上交易呢。"
+  },
+  {
+    "index": 69,
+    "text": "You could be two days behind.",
+    "start": 281.369,
+    "end": 283.49,
+    "zh": "你可能滞后两天。",
+    "zh_hant": "你可能滯後兩天。"
+  },
+  {
+    "index": 70,
+    "text": "And so, one of the things that happened was people recognized",
+    "start": 283.14,
+    "end": 286.632,
+    "zh": "因此，发生的一件事情是，人们意识到",
+    "zh_hant": "因此，發生的一件事情是，人們意識到"
+  },
+  {
+    "index": 71,
+    "text": "just how out of date the ticker was and said,",
+    "start": 286.492,
+    "end": 291.574,
+    "zh": "行情纸带是多么过时，于是说，",
+    "zh_hant": "行情紙帶是多麼過時，於是說，"
+  },
+  {
+    "index": 72,
+    "text": "I'm going to sell everything.",
+    "start": 291.254,
+    "end": 293.155,
+    "zh": "我要卖掉一切。",
+    "zh_hant": "我要賣掉一切。"
+  },
+  {
+    "index": 73,
+    "text": "I can't even play.",
+    "start": 293.035,
+    "end": 294.256,
+    "zh": "我甚至没法玩了。",
+    "zh_hant": "我甚至沒法玩了。"
+  },
+  {
+    "index": 74,
+    "text": "In this, is there a way of understanding how vulnerable to a crash you are?",
+    "start": 293.906,
+    "end": 301.159,
+    "zh": "在这种情况下，有没有办法判断你面临多大崩盘风险？",
+    "zh_hant": "在這種情況下，有沒有辦法判斷你面臨多大崩盤風險？"
+  },
+  {
+    "index": 75,
+    "text": "I mean, from the point of view of the historian, you can plot indices, you can plot graphs, but is there any way to tell at the time?",
+    "start": 300.919,
+    "end": 307.542,
+    "zh": "我的意思是，从历史学家的角度来看，你可以绘制指数和图表，但当时有没有办法判断呢？",
+    "zh_hant": "我的意思是，從歷史學家的角度來看，你可以繪製指數和圖表，但當時有沒有辦法判斷呢？"
+  },
+  {
+    "index": 76,
+    "text": "Look, the thing that I always focus on is debt.",
+    "start": 307.983,
+    "end": 312.485,
+    "zh": "听着，我一直关注的是债务。",
+    "zh_hant": "聽著，我一直關注的是債務。"
+  },
+  {
+    "index": 77,
+    "text": "The leverage in the system, to me, is the match that lights the fire.",
+    "start": 312.825,
+    "end": 316.386,
+    "zh": "系统中的杠杆，对我来说，就是点燃大火的火柴。",
+    "zh_hant": "系統中的槓桿，對我來說，就是點燃大火的火柴。"
+  },
+  {
+    "index": 78,
+    "text": "And so the thing that I'm always looking for, whether it's in the moment or afterwards,",
+    "start": 316.036,
+    "end": 320.889,
+    "zh": "所以我总是在寻找的，无论是当下还是事后，",
+    "zh_hant": "所以我總是在尋找的，無論是當下還是事後，"
+  },
+  {
+    "index": 79,
+    "text": "is how much debt is in That system at any given time,",
+    "start": 320.829,
+    "end": 324.671,
+    "zh": "就是系统在任何特定时刻有多少债务，",
+    "zh_hant": "就是系統在任何特定時刻有多少債務，"
+  },
+  {
+    "index": 80,
+    "text": "because that's what oftentimes tips things over and often helps inflate the multiple.",
+    "start": 324.321,
+    "end": 330.094,
+    "zh": "因为这往往是导致崩溃的原因，也常常助推了市盈率的膨胀。",
+    "zh_hant": "因為這往往是導致崩潰的原因，也常常助推了市盈率的膨脹。"
+  },
+  {
+    "index": 81,
+    "text": "So that's actually something else you could look at, in terms of what is the multiple at any given moment.",
+    "start": 329.794,
+    "end": 335.396,
+    "zh": "所以这其实是你可以看的另一个指标，即任何特定时刻的市盈率倍数。",
+    "zh_hant": "所以這其實是你可以看的另一個指標，即任何特定時刻的市盈率倍數。"
+  },
+  {
+    "index": 82,
+    "text": "You could use a price to earnings ratio, or any given metric,",
+    "start": 335.256,
+    "end": 338.558,
+    "zh": "你可以用市盈率，或者任何指标，",
+    "zh_hant": "你可以用市盈率，或者任何指標，"
+  },
+  {
+    "index": 83,
+    "text": "to sort of try to understand what stock is being priced relative to others, and by multiple.",
+    "start": 338.208,
+    "end": 345.201,
+    "zh": "来尝试理解某只股票相对于其他股票以及其倍数的定价情况。",
+    "zh_hant": "來嘗試理解某隻股票相對於其他股票以及其倍數的定價情況。"
+  },
+  {
+    "index": 84,
+    "text": "So a classic one is just to say,",
+    "start": 344.851,
+    "end": 347.302,
+    "zh": "一个经典的例子就是问：",
+    "zh_hant": "一個經典的例子就是問："
+  },
+  {
+    "index": 85,
+    "text": "how expensive is this stock relative to the profits that the company Is making?",
+    "start": 347.643,
+    "end": 353.265,
+    "zh": "这只股票相对于公司赚的利润来说有多贵？",
+    "zh_hant": "這隻股票相對於公司賺的利潤來說有多貴？"
+  },
+  {
+    "index": 86,
+    "text": "So if the company is making a dollar a year and the stock's $10, the multiple's 10.",
+    "start": 352.915,
+    "end": 358.178,
+    "zh": "如果公司每年赚1美元，股票10美元，那么倍数是10。",
+    "zh_hant": "如果公司每年賺1美元，股票10美元，那麼倍數是10。"
+  },
+  {
+    "index": 87,
+    "text": "If the company is making a dollar a year per share and the stock is $100, then the multiple is $100.",
+    "start": 358.228,
+    "end": 365.002,
+    "zh": "如果公司每股每年赚1美元，股票100美元，那么倍数就是100。",
+    "zh_hant": "如果公司每股每年賺1美元，股票100美元，那麼倍數就是100。"
+  },
+  {
+    "index": 88,
+    "text": "And there have been efforts to try to draw these price earnings multiples, or price earnings ratios, over the very long term.",
+    "start": 365.052,
+    "end": 371.975,
+    "zh": "人们已经努力尝试绘制这些长期市盈率倍数或市盈率比率的图表。",
+    "zh_hant": "人們已經努力嘗試繪製這些長期市盈率倍數或市盈率比率的圖表。"
+  },
+  {
+    "index": 89,
+    "text": "I know Robert Shiller, Nobel laureate, so he's done this work.",
+    "start": 371.625,
+    "end": 375.997,
+    "zh": "我知道诺贝尔奖得主罗伯特·席勒做过这项工作。",
+    "zh_hant": "我知道諾貝爾獎得主羅伯特·席勒做過這項工作。"
+  },
+  {
+    "index": 90,
+    "text": "He's a Nobel Prize-winning economist.",
+    "start": 375.647,
+    "end": 378.778,
+    "zh": "他是一位获得诺贝尔奖的经济学家。",
+    "zh_hant": "他是一位獲得諾貝爾獎的經濟學家。"
+  },
+  {
+    "index": 91,
+    "text": "Let's describe some graphs on the radio.",
+    "start": 378.818,
+    "end": 381.119,
+    "zh": "让我们在广播里描述一些图表吧。",
+    "zh_hant": "讓我們在廣播裡描述一些圖表吧。"
+  },
+  {
+    "index": 92,
+    "text": "It's my favorite thing to do.",
+    "start": 380.819,
+    "end": 382.18,
+    "zh": "这是我最喜欢做的事。",
+    "zh_hant": "這是我最喜歡做的事。"
+  },
+  {
+    "index": 93,
+    "text": "Oh, goodness.",
+    "start": 381.83,
+    "end": 382.82,
+    "zh": "天哪。",
+    "zh_hant": "天哪。"
+  },
+  {
+    "index": 94,
+    "text": "I mean, it's like a mountain.",
+    "start": 382.56,
+    "end": 385.081,
+    "zh": "我的意思是，它就像一座山。",
+    "zh_hant": "我的意思是，它就像一座山。"
+  },
+  {
+    "index": 95,
+    "text": "Yeah, you can see the peak.",
+    "start": 385.021,
+    "end": 387.682,
+    "zh": "是的，你可以看到那个顶峰。",
+    "zh_hant": "是的，你可以看到那個頂峰。"
+  },
+  {
+    "index": 96,
+    "text": "You can see if you go back and look at it.",
+    "start": 387.823,
+    "end": 390.644,
+    "zh": "如果你回头去看，就能看到。",
+    "zh_hant": "如果你回頭去看，就能看到。"
+  },
+  {
+    "index": 97,
+    "text": "Now, in the moment, you might not have realized it is the thing.",
+    "start": 390.294,
+    "end": 393.445,
+    "zh": "但在当时，你可能没有意识到那就是顶峰。",
+    "zh_hant": "但在當時，你可能沒有意識到那就是頂峰。"
+  },
+  {
+    "index": 98,
+    "text": "Well, it's gone up.",
+    "start": 393.185,
+    "end": 394.466,
+    "zh": "好吧，它已经涨上去了。",
+    "zh_hant": "好吧，它已經漲上去了。"
+  },
+  {
+    "index": 99,
+    "text": "You just don't know whether it's going to go up any further.",
+    "start": 394.116,
+    "end": 396.106,
+    "zh": "你只是不知道它会不会继续往上涨。",
+    "zh_hant": "你只是不知道它會不會繼續往上漲。"
+  },
+  {
+    "index": 100,
+    "text": "Right.",
+    "start": 396.507,
+    "end": 397.207,
+    "zh": "对。",
+    "zh_hant": "對。"
+  },
+  {
+    "index": 101,
+    "text": "So you don't know if you're at the peak of the mountain,",
+    "start": 396.857,
+    "end": 399.308,
+    "zh": "所以你不知道自己是不是站在山顶上，",
+    "zh_hant": "所以你不知道自己是不是站在山頂上，"
+  },
+  {
+    "index": 102,
+    "text": "or if the mountain is going to continue above the tree line, if you will.",
+    "start": 399.528,
+    "end": 404.311,
+    "zh": "或者说，这座山会不会继续往上升，越过树线。",
+    "zh_hant": "或者說，這座山會不會繼續往上升，越過樹線。"
+  },
+  {
+    "index": 103,
+    "text": "By the way, you can similarly look at mountains in the 1970s.",
+    "start": 404.651,
+    "end": 409.353,
+    "zh": "顺便说一下，你也可以看20世纪70年代的山峰。",
+    "zh_hant": "順便說一下，你也可以看20世紀70年代的山峰。"
+  },
+  {
+    "index": 104,
+    "text": "You can look at mountains in the late 90s.",
+    "start": 409.003,
+    "end": 411.274,
+    "zh": "也可以看90年代末的山峰。",
+    "zh_hant": "也可以看90年代末的山峰。"
+  },
+  {
+    "index": 105,
+    "text": "Actually, I'd like to do that because, of course,",
+    "start": 410.934,
+    "end": 414.516,
+    "zh": "实际上，我很想这么做，因为当然，",
+    "zh_hant": "實際上，我很想這麼做，因為當然，"
+  },
+  {
+    "index": 106,
+    "text": "one of the reasons why 1929 is so interesting, I mean,",
+    "start": 414.166,
+    "end": 417.778,
+    "zh": "1929年之所以如此有趣的一个原因是，我的意思是，",
+    "zh_hant": "1929年之所以如此有趣的一個原因是，我的意思是，"
+  },
+  {
+    "index": 107,
+    "text": "it's a fascinating story the way you tell it, but it's also fascinating because it tells us something about today.",
+    "start": 418.258,
+    "end": 424.281,
+    "zh": "你讲这个故事的方式非常精彩，但它之所以引人入胜，还因为它能告诉我们一些关于今天的事情。",
+    "zh_hant": "你講這個故事的方式非常精彩，但它之所以引人入勝，還因為它能告訴我們一些關於今天的事情。"
+  },
+  {
+    "index": 108,
+    "text": "It Tells us something about other crises.",
+    "start": 424.161,
+    "end": 426.842,
+    "zh": "它告诉我们一些关于其他危机的信息。",
+    "zh_hant": "它告訴我們一些關於其他危機的資訊。"
+  },
+  {
+    "index": 109,
+    "text": "So if you look at that mountain, the price-earnings ratio,",
+    "start": 426.782,
+    "end": 431.104,
+    "zh": "所以如果你看那座山，即市盈率比率，",
+    "zh_hant": "所以如果你看那座山，即市盈率比率，"
+  },
+  {
+    "index": 110,
+    "text": "which is a kind of indicator of, well, how expensive is it for me to buy a slice of profits now?",
+    "start": 430.754,
+    "end": 435.546,
+    "zh": "这是一种指标，表示我现在买一份利润要花多少钱？",
+    "zh_hant": "這是一種指標，表示我現在買一份利潤要花多少錢？"
+  },
+  {
+    "index": 111,
+    "text": "How does the mountain peak in 1929 compare to,",
+    "start": 436.267,
+    "end": 440.829,
+    "zh": "1929年的山峰与1970年代、互联网泡沫、甚至今天相比怎么样？",
+    "zh_hant": "1929年的山峰與1970年代、網際網路泡沫、甚至今天相比怎麼樣？"
+  },
+  {
+    "index": 112,
+    "text": "say, the 1970s, or the dot-com bubble, or even to today?",
+    "start": 440.479,
+    "end": 445.272,
+    "zh": "（这是句子前半句的延续）比如1970年代，或互联网泡沫，甚至今天，是怎么样的？",
+    "zh_hant": "（這是句子前半句的延續）比如1970年代，或網際網路泡沫，甚至今天，是怎麼樣的？"
+  },
+  {
+    "index": 113,
+    "text": "Well, it looks high, but on a relative basis to those peaks,",
+    "start": 445.752,
+    "end": 450.714,
+    "zh": "嗯，它看起来很高，但相对于那些峰值来说，",
+    "zh_hant": "嗯，它看起來很高，但相對於那些峰值來說，"
+  },
+  {
+    "index": 114,
+    "text": "it is a smaller summit, if you will.",
+    "start": 451.095,
+    "end": 454.896,
+    "zh": "它算是一个较小的顶峰，如果你愿意这么说的话。",
+    "zh_hant": "它算是一個較小的頂峰，如果你願意這麼說的話。"
+  },
+  {
+    "index": 115,
+    "text": "But on a relative basis, in that moment, you'll see it.",
+    "start": 454.716,
+    "end": 459.098,
+    "zh": "但相对而言，在那一刻，你会看到它。",
+    "zh_hant": "但相對而言，在那一刻，你會看到它。"
+  },
+  {
+    "index": 116,
+    "text": "Go up, up, up, up, up, up, up.",
+    "start": 458.748,
+    "end": 460.379,
+    "zh": "一路向上、向上、向上、向上、向上、向上、向上。",
+    "zh_hant": "一路向上、向上、向上、向上、向上、向上、向上。"
+  },
+  {
+    "index": 117,
+    "text": "It's really sharp.",
+    "start": 460.519,
+    "end": 461.92,
+    "zh": "非常陡峭。",
+    "zh_hant": "非常陡峭。"
+  },
+  {
+    "index": 118,
+    "text": "You can see the drop off, like a true roller coaster.",
+    "start": 461.68,
+    "end": 465.161,
+    "zh": "你可以看到急转直下的走势，就像真正的过山车一样。",
+    "zh_hant": "你可以看到急轉直下的走勢，就像真正的過山車一樣。"
+  },
+  {
+    "index": 119,
+    "text": "Now I'm mixing my metaphors.",
+    "start": 464.811,
+    "end": 467.062,
+    "zh": "我现在把我的比喻搞混了。",
+    "zh_hant": "我現在把我的比喻搞混了。"
+  },
+  {
+    "index": 120,
+    "text": "Yeah.",
+    "start": 466.712,
+    "end": 467.302,
+    "zh": "是啊。",
+    "zh_hant": "是啊。"
+  },
+  {
+    "index": 121,
+    "text": "So in 1929, this graph peaks.",
+    "start": 467.543,
+    "end": 470.644,
+    "zh": "所以在1929年，这张图达到了顶峰。",
+    "zh_hant": "所以在1929年，這張圖達到了頂峰。"
+  },
+  {
+    "index": 122,
+    "text": "It's a really sharp peak, just above 30.",
+    "start": 470.404,
+    "end": 473.396,
+    "zh": "那是一个非常陡峭的峰值，略高于30。",
+    "zh_hant": "那是一個非常陡峭的峰值，略高於30。"
+  },
+  {
+    "index": 123,
+    "text": "So the share price",
+    "start": 473.446,
+    "end": 476.787,
+    "zh": "也就是说股价",
+    "zh_hant": "也就是說股價"
+  },
+  {
+    "index": 124,
+    "text": "is 30 times the average of profits over the previous 10 years.",
+    "start": 476.787,
+    "end": 481.289,
+    "zh": "是过去10年平均利润的30倍。",
+    "zh_hant": "是過去10年平均利潤的30倍。"
+  },
+  {
+    "index": 125,
+    "text": "Then it falls back, never gets anywhere near that.",
+    "start": 481.389,
+    "end": 484.651,
+    "zh": "然后它回落了，再也没有接近过那个水平。",
+    "zh_hant": "然後它回落了，再也沒有接近過那個水平。"
+  },
+  {
+    "index": 126,
+    "text": "Then in the late 90s, early 2000s, the dot-com mania, it goes even higher.",
+    "start": 485.012,
+    "end": 491.315,
+    "zh": "然后在90年代末、2000年代初，互联网狂热时期，它甚至更高。",
+    "zh_hant": "然後在90年代末、2000年代初，網際網路狂熱時期，它甚至更高。"
+  },
+  {
+    "index": 127,
+    "text": "So it goes above 40.",
+    "start": 490.965,
+    "end": 493.466,
+    "zh": "涨到了40以上。",
+    "zh_hant": "漲到了40以上。"
+  },
+  {
+    "index": 128,
+    "text": "Then it falls back again.",
+    "start": 493.516,
+    "end": 494.876,
+    "zh": "然后再次回落。",
+    "zh_hant": "然後再次回落。"
+  },
+  {
+    "index": 129,
+    "text": "It is now back above 40, for only the second time in history.",
+    "start": 495.417,
+    "end": 500.079,
+    "zh": "现在它又回到了40以上，这在历史上只是第二次。",
+    "zh_hant": "現在它又回到了40以上，這在歷史上只是第二次。"
+  },
+  {
+    "index": 130,
+    "text": "It's even higher than it was at the peak of the 1929 crash.",
+    "start": 499.729,
+    "end": 503.841,
+    "zh": "甚至比1929年崩盘时的峰值还要高。",
+    "zh_hant": "甚至比1929年崩盤時的峰值還要高。"
+  },
+  {
+    "index": 131,
+    "text": "Can we conclude anything from that?",
+    "start": 504.401,
+    "end": 507.082,
+    "zh": "我们能从中得出什么结论吗？",
+    "zh_hant": "我們能從中得出什麼結論嗎？"
+  },
+  {
+    "index": 132,
+    "text": "Absolutely.",
+    "start": 508.163,
+    "end": 509.223,
+    "zh": "当然可以。",
+    "zh_hant": "當然可以。"
+  },
+  {
+    "index": 133,
+    "text": "We can conclude that we are likely, at some point,",
+    "start": 508.943,
+    "end": 513.225,
+    "zh": "我们可以得出结论，我们很可能会在某个时候，",
+    "zh_hant": "我們可以得出結論，我們很可能會在某個時候，"
+  },
+  {
+    "index": 134,
+    "text": "but we don't know when, going to tip over again.",
+    "start": 512.945,
+    "end": 516.687,
+    "zh": "但我们不知道什么时候，再次倒下。",
+    "zh_hant": "但我們不知道什麼時候，再次倒下。"
+  },
+  {
+    "index": 135,
+    "text": "And that is the big existential question for all of us.",
+    "start": 517.347,
+    "end": 522.951,
+    "zh": "这是我们所有人面临的重大存在性问题。",
+    "zh_hant": "這是我們所有人面臨的重大存在性問題。"
+  },
+  {
+    "index": 136,
+    "text": "I've been talking to Andrew Ross Sorkin.",
+    "start": 524.553,
+    "end": 526.354,
+    "zh": "我刚才一直在和安德鲁·罗斯·索金交谈。",
+    "zh_hant": "我剛才一直在和安德魯·羅斯·索金交談。"
+  },
+  {
+    "index": 137,
+    "text": "Thank you, Andrew.",
+    "start": 526.004,
+    "end": 526.895,
+    "zh": "谢谢你，安德鲁。",
+    "zh_hant": "謝謝你，安德魯。"
+  },
+  {
+    "index": 138,
+    "text": "Thank you for having me.",
+    "start": 526.735,
+    "end": 527.936,
+    "zh": "感谢您的邀请。",
+    "zh_hant": "感謝您的邀請。"
+  },
+  {
+    "index": 139,
+    "text": "Andrew's book is 1929, Inside the Crash.",
+    "start": 529.157,
+    "end": 533.321,
+    "zh": "安德鲁的书是《1929：崩盘内幕》。",
+    "zh_hant": "安德魯的書是《1929：崩盤內幕》。"
+  },
+  {
+    "index": 140,
+    "text": "Please keep your questions and comments coming in to moreorless at bbc.co.uk. We'll be back next time.",
+    "start": 533.362,
+    "end": 540.168,
+    "zh": "请把您的问题和评论发送到moreorless@bbc.co.uk。我们下期再见。",
+    "zh_hant": "請把您的問題和評論傳送到moreorless@bbc.co.uk。我們下期再見。"
+  },
+  {
+    "index": 141,
+    "text": "And until then, goodbye.",
+    "start": 539.968,
+    "end": 542.53,
+    "zh": "在那之前，再见。",
+    "zh_hant": "在那之前，再見。"
+  }
+]

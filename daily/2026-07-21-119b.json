@@ -1,0 +1,946 @@
+[
+  {
+    "index": 0,
+    "text": "BBC Sounds.",
+    "start": 1.291,
+    "end": 2.651,
+    "zh": "BBC 声音。",
+    "zh_hant": "BBC 聲音。"
+  },
+  {
+    "index": 1,
+    "text": "Music, radio, podcasts.",
+    "start": 2.471,
+    "end": 4.912,
+    "zh": "音乐、广播、播客。",
+    "zh_hant": "音樂、廣播、播客。"
+  },
+  {
+    "index": 2,
+    "text": "Hello and thanks for downloading the More or Less podcast.",
+    "start": 6.033,
+    "end": 9.894,
+    "zh": "你好，感谢下载“或多或少”播客。",
+    "zh_hant": "你好，感謝下載“或多或少”播客。"
+  },
+  {
+    "index": 3,
+    "text": "We're the programme that looks at the numbers in the news, in life, and in beef.",
+    "start": 10.135,
+    "end": 14.697,
+    "zh": "我们是一档关注新闻、生活以及牛肉中数字的节目。",
+    "zh_hant": "我們是一檔關注新聞、生活以及牛肉中數字的節目。"
+  },
+  {
+    "index": 4,
+    "text": "I'm Charlotte MacDonald.",
+    "start": 15.157,
+    "end": 16.818,
+    "zh": "我是夏洛特·麦克唐纳。",
+    "zh_hant": "我是夏洛特·麥克唐納。"
+  },
+  {
+    "index": 5,
+    "text": "If you spend much time on social media, and we don't necessarily recommend it,",
+    "start": 18.879,
+    "end": 23.421,
+    "zh": "如果你花很多时间在社交媒体上，虽然我们不推荐这样做，",
+    "zh_hant": "如果你花很多時間在社交媒體上，雖然我們不推薦這樣做，"
+  },
+  {
+    "index": 6,
+    "text": "then you've probably come across a strange fascination with water consumption assumption.",
+    "start": 23.521,
+    "end": 29.004,
+    "zh": "那么你可能遇到过一种对水资源消耗假设的奇怪迷恋。",
+    "zh_hant": "那麼你可能遇到過一種對水資源消耗假設的奇怪迷戀。"
+  },
+  {
+    "index": 7,
+    "text": "Mainly, this is people telling you that using AI is terrible for the planet because of how much water it uses.",
+    "start": 28.654,
+    "end": 36.167,
+    "zh": "主要是人们告诉你，使用人工智能对环境非常糟糕，因为它消耗大量水。",
+    "zh_hant": "主要是人們告訴你，使用人工智慧對環境非常糟糕，因為它消耗大量水。"
+  },
+  {
+    "index": 8,
+    "text": "We've already made a couple of programs about the numbers in those arguments,",
+    "start": 36.288,
+    "end": 40.449,
+    "zh": "我们已经制作了几期关于这些争论中数字的节目，",
+    "zh_hant": "我們已經制作了幾期關於這些爭論中數字的節目，"
+  },
+  {
+    "index": 9,
+    "text": "and long story short, they probably aren't saying what you think they're saying.",
+    "start": 40.41,
+    "end": 45.212,
+    "zh": "长话短说，这些数字可能并不是你所理解的意思。",
+    "zh_hant": "長話短說，這些數字可能並不是你所理解的意思。"
+  },
+  {
+    "index": 10,
+    "text": "But on the platforms like X, Blue Sky, and TikTok, an opportunity to keep an argument going is rarely...",
+    "start": 45.413,
+    "end": 52.776,
+    "zh": "但在X、Blue Sky和TikTok等平台上，延续争论的机会很少……",
+    "zh_hant": "但在X、Blue Sky和TikTok等平臺上，延續爭論的機會很少……"
+  },
+  {
+    "index": 11,
+    "text": "And one of the numbers that's been enlisted in that glorious cause",
+    "start": 53.657,
+    "end": 57.478,
+    "zh": "其中一个被用于这一“光荣事业”的数字，",
+    "zh_hant": "其中一個被用於這一“光榮事業”的數字，"
+  },
+  {
+    "index": 12,
+    "text": "concerns the water that's used for a seemingly unrelated pastime,",
+    "start": 57.298,
+    "end": 61.88,
+    "zh": "涉及看似无关的消遣活动所使用的水，",
+    "zh_hant": "涉及看似無關的消遣活動所使用的水，"
+  },
+  {
+    "index": 13,
+    "text": "eating beef.",
+    "start": 62.161,
+    "end": 63.461,
+    "zh": "即吃牛肉。",
+    "zh_hant": "即吃牛肉。"
+  },
+  {
+    "index": 14,
+    "text": "Here's an example from Twitter, or X: \"A kilogram of beef",
+    "start": 63.502,
+    "end": 67.863,
+    "zh": "这是来自Twitter或X的一个例子：“一公斤牛肉",
+    "zh_hant": "這是來自Twitter或X的一個例子：“一公斤牛肉"
+  },
+  {
+    "index": 15,
+    "text": "requires over 15,000 litres of water to produce.",
+    "start": 67.544,
+    "end": 71.645,
+    "zh": "生产需要超过15000升水。",
+    "zh_hant": "生產需要超過15000升水。"
+  },
+  {
+    "index": 16,
+    "text": "A vegan who uses ChatGPT every day is living a more sustainable lifestyle",
+    "start": 71.866,
+    "end": 77.388,
+    "zh": "一个每天使用ChatGPT的纯素食者，其生活方式比",
+    "zh_hant": "一個每天使用ChatGPT的純素食者，其生活方式比"
+  },
+  {
+    "index": 17,
+    "text": "than someone who regularly eats beef while boycotting AI.\"",
+    "start": 77.038,
+    "end": 80.97,
+    "zh": "一个经常吃牛肉却抵制人工智能的人更可持续。”",
+    "zh_hant": "一個經常吃牛肉卻抵制人工智慧的人更可持續。”"
+  },
+  {
+    "index": 18,
+    "text": "Ignoring the AI part, is that true?",
+    "start": 80.751,
+    "end": 83.872,
+    "zh": "忽略人工智能部分，这是真的吗？",
+    "zh_hant": "忽略人工智慧部分，這是真的嗎？"
+  },
+  {
+    "index": 19,
+    "text": "Does it actually take 15,000 litres of water to produce a kilogram of beef?",
+    "start": 84.092,
+    "end": 89.855,
+    "zh": "生产一公斤牛肉真的需要15000升水吗？",
+    "zh_hant": "生產一公斤牛肉真的需要15000升水嗎？"
+  },
+  {
+    "index": 20,
+    "text": "When the number comes in, people see that's easy to just take numbers and talk about.",
+    "start": 91.696,
+    "end": 98.359,
+    "zh": "当数字出现时，人们看到这很容易直接拿来讨论。",
+    "zh_hant": "當數字出現時，人們看到這很容易直接拿來討論。"
+  },
+  {
+    "index": 21,
+    "text": "Beef is so bad, and others are so good.",
+    "start": 98.179,
+    "end": 102.101,
+    "zh": "牛肉太糟糕，而其他东西太好。",
+    "zh_hant": "牛肉太糟糕，而其他東西太好。"
+  },
+  {
+    "index": 22,
+    "text": "But the whole idea of the water footprint is we show the numbers,",
+    "start": 101.751,
+    "end": 106.463,
+    "zh": "但水足迹的整个概念是，我们展示数字，",
+    "zh_hant": "但水足跡的整個概念是，我們展示數字，"
+  },
+  {
+    "index": 23,
+    "text": "but behind the numbers there is the story.",
+    "start": 106.483,
+    "end": 109.024,
+    "zh": "但数字背后有故事。",
+    "zh_hant": "但數字背後有故事。"
+  },
+  {
+    "index": 24,
+    "text": "This is Mesvin Mekinen, an assistant professor at the University of Alabama,",
+    "start": 109.004,
+    "end": 113.346,
+    "zh": "这是阿拉巴马大学助理教授梅斯文·梅基宁，",
+    "zh_hant": "這是阿拉巴馬大學助理教授梅斯文·梅基寧，"
+  },
+  {
+    "index": 25,
+    "text": "and he definitely knows what this 15,000 number means.",
+    "start": 113.387,
+    "end": 117.188,
+    "zh": "他非常清楚这个15000数字的含义。",
+    "zh_hant": "他非常清楚這個15000數字的含義。"
+  },
+  {
+    "index": 26,
+    "text": "It features in scientific papers from the early 2010s that he co-wrote with Arjen Hoekstra,",
+    "start": 117.329,
+    "end": 123.652,
+    "zh": "这个数字出现在2010年代初他与阿简·霍克斯特拉合写的科学论文中，",
+    "zh_hant": "這個數字出現在2010年代初他與阿簡·霍克斯特拉合寫的科學論文中，"
+  },
+  {
+    "index": 27,
+    "text": "a Dutch professor who pioneered the idea of the water footprint.",
+    "start": 123.752,
+    "end": 128.254,
+    "zh": "后者是提出水足迹概念的荷兰教授。",
+    "zh_hant": "後者是提出水足跡概念的荷蘭教授。"
+  },
+  {
+    "index": 28,
+    "text": "The initial motivation was to create awareness",
+    "start": 128.895,
+    "end": 131.956,
+    "zh": "最初动机是提高意识，",
+    "zh_hant": "最初動機是提高意識，"
+  },
+  {
+    "index": 29,
+    "text": "similar to the carbon footprint and the land footprint,",
+    "start": 132.537,
+    "end": 136.798,
+    "zh": "类似于碳足迹和土地足迹，",
+    "zh_hant": "類似於碳足跡和土地足跡，"
+  },
+  {
+    "index": 30,
+    "text": "to create awareness that our water impact is not located only where we live but in far away places also.",
+    "start": 136.599,
+    "end": 144.142,
+    "zh": "让人们意识到我们的水影响不仅发生在居住地，也发生在遥远的地方。",
+    "zh_hant": "讓人們意識到我們的水影響不僅發生在居住地，也發生在遙遠的地方。"
+  },
+  {
+    "index": 31,
+    "text": "The issue is that the water footprint is being used to say that the amount of water beef uses is bad,",
+    "start": 144.222,
+    "end": 151.666,
+    "zh": "问题是，水足迹被用来宣称牛肉消耗的水量是糟糕的，",
+    "zh_hant": "問題是，水足跡被用來宣稱牛肉消耗的水量是糟糕的，"
+  },
+  {
+    "index": 32,
+    "text": "and the story explaining what's Wrong with that goes back to before the water footprint was developed.",
+    "start": 151.986,
+    "end": 157.729,
+    "zh": "而解释其问题所在的故事，可以追溯到水足迹概念被提出之前。",
+    "zh_hant": "而解釋其問題所在的故事，可以追溯到水足跡概念被提出之前。"
+  },
+  {
+    "index": 33,
+    "text": "So I'm Professor Mark Mulligan, and I'm Professor of Physical and Environmental Geography at King's College London.",
+    "start": 158.809,
+    "end": 165.453,
+    "zh": "我是马克·穆利根教授，伦敦国王学院自然与环境地理学教授。",
+    "zh_hant": "我是馬克·穆利根教授，倫敦國王學院自然與環境地理學教授。"
+  },
+  {
+    "index": 34,
+    "text": "So my late colleague at King's College London, Tony Allen,",
+    "start": 165.573,
+    "end": 170.555,
+    "zh": "我已故的伦敦国王学院同事托尼·艾伦，",
+    "zh_hant": "我已故的倫敦國王學院同事託尼·艾倫，"
+  },
+  {
+    "index": 35,
+    "text": "came up with the concept of virtual water in the early 90s.",
+    "start": 170.856,
+    "end": 176.529,
+    "zh": "在90年代初提出了虚拟水的概念。",
+    "zh_hant": "在90年代初提出了虛擬水的概念。"
+  },
+  {
+    "index": 36,
+    "text": "Quick botany lesson: as they grow, plants absorb water from the soil through their roots.",
+    "start": 176.579,
+    "end": 182.401,
+    "zh": "快速植物学课：植物在生长过程中，通过根部从土壤吸收水分。",
+    "zh_hant": "快速植物學課：植物在生長過程中，透過根部從土壤吸收水分。"
+  },
+  {
+    "index": 37,
+    "text": "This is sucked up through the plant to the leaves, where it evaporates.",
+    "start": 182.481,
+    "end": 186.203,
+    "zh": "水分被吸入植物并到达叶片，在那里蒸发。",
+    "zh_hant": "水分被吸入植物併到達葉片，在那裡蒸發。"
+  },
+  {
+    "index": 38,
+    "text": "It's a process called transpiration.",
+    "start": 186.103,
+    "end": 188.624,
+    "zh": "这个过程称为蒸腾作用。",
+    "zh_hant": "這個過程稱為蒸騰作用。"
+  },
+  {
+    "index": 39,
+    "text": "So Tony's concept for virtual water",
+    "start": 188.845,
+    "end": 192.866,
+    "zh": "所以托尼的虚拟水概念是，",
+    "zh_hant": "所以託尼的虛擬水概念是，"
+  },
+  {
+    "index": 40,
+    "text": "is that when a crop grows,",
+    "start": 192.726,
+    "end": 197.569,
+    "zh": "当作物生长时，",
+    "zh_hant": "當作物生長時，"
+  },
+  {
+    "index": 41,
+    "text": "or when an animal like a cow eats a crop",
+    "start": 197.409,
+    "end": 201.771,
+    "zh": "或者当像奶牛这样的动物吃掉",
+    "zh_hant": "或者當像奶牛這樣的動物吃掉"
+  },
+  {
+    "index": 42,
+    "text": "that's growing, they consume, if",
+    "start": 201.421,
+    "end": 205.693,
+    "zh": "生长的作物时，它们消耗了，如果",
+    "zh_hant": "生長的作物時，它們消耗了，如果"
+  },
+  {
+    "index": 43,
+    "text": "you like, all of the water that that crop had to evaporate over its lifetime",
+    "start": 205.343,
+    "end": 210.635,
+    "zh": "可以这么说，该作物生长过程中蒸发的所有水分，",
+    "zh_hant": "可以這麼說，該作物生長過程中蒸發的所有水分，"
+  },
+  {
+    "index": 44,
+    "text": "in order to produce the biomass that is the crop.",
+    "start": 210.285,
+    "end": 214.657,
+    "zh": "以产生作物本身这个生物量。",
+    "zh_hant": "以產生作物本身這個生物量。"
+  },
+  {
+    "index": 45,
+    "text": "This might sound a bit technical, but for the work Tony Allen was doing,",
+    "start": 214.938,
+    "end": 219.34,
+    "zh": "这听起来可能有点技术性，但对于托尼·艾伦的工作来说，",
+    "zh_hant": "這聽起來可能有點技術性，但對於託尼·艾倫的工作來說，"
+  },
+  {
+    "index": 46,
+    "text": "the importance of the water required to grow plants was pretty obvious.",
+    "start": 219.2,
+    "end": 223.522,
+    "zh": "植物生长所需水的重要性显而易见。",
+    "zh_hant": "植物生長所需水的重要性顯而易見。"
+  },
+  {
+    "index": 47,
+    "text": "He developed the concept for dry lands in the Middle East.",
+    "start": 223.542,
+    "end": 228.364,
+    "zh": "他为中东干旱地区开发了这一概念。",
+    "zh_hant": "他為中東乾旱地區開發了這一概念。"
+  },
+  {
+    "index": 48,
+    "text": "In that context, when you're growing a crop, you're usually growing it with irrigation water from groundwater and rivers.",
+    "start": 228.014,
+    "end": 234.807,
+    "zh": "在这种背景下，当种植作物时，通常使用来自地下水和河流的灌溉水。",
+    "zh_hant": "在這種背景下，當種植作物時，通常使用來自地下水和河流的灌溉水。"
+  },
+  {
+    "index": 49,
+    "text": "In very dry places, water is a precious resource.",
+    "start": 234.807,
+    "end": 238.469,
+    "zh": "在非常干旱的地方，水是宝贵资源。",
+    "zh_hant": "在非常乾旱的地方，水是寶貴資源。"
+  },
+  {
+    "index": 50,
+    "text": "The water you use for irrigation is water you can't use for something else, like drinking or sanitation.",
+    "start": 238.469,
+    "end": 245.613,
+    "zh": "用于灌溉的水就无法用于其他用途，如饮用或卫生。",
+    "zh_hant": "用於灌溉的水就無法用於其他用途，如飲用或衛生。"
+  },
+  {
+    "index": 51,
+    "text": "This water has a clear environmental cost.",
+    "start": 245.593,
+    "end": 248.975,
+    "zh": "这种水具有明确的环境成本。",
+    "zh_hant": "這種水具有明確的環境成本。"
+  },
+  {
+    "index": 52,
+    "text": "The idea of virtual water was taken on by Arjen Hoekstra and expanded.",
+    "start": 251.456,
+    "end": 256.598,
+    "zh": "虚拟水的概念被阿简·霍克斯特拉采纳并加以扩展。",
+    "zh_hant": "虛擬水的概念被阿簡·霍克斯特拉採納並加以擴充套件。"
+  },
+  {
+    "index": 53,
+    "text": "He developed a method for figuring out how much water a food crop or animal used,",
+    "start": 256.879,
+    "end": 262.221,
+    "zh": "他开发了一种方法，计算作物或动物使用多少水，",
+    "zh_hant": "他開發了一種方法，計算作物或動物使用多少水，"
+  },
+  {
+    "index": 54,
+    "text": "wherever it was in the world.",
+    "start": 262.261,
+    "end": 264.402,
+    "zh": "无论它们在世界何处。",
+    "zh_hant": "無論它們在世界何處。"
+  },
+  {
+    "index": 55,
+    "text": "But to point out the obvious, not all parts of the world are arid drylands where there's little to no rain.",
+    "start": 264.643,
+    "end": 270.525,
+    "zh": "但显而易见，并非世界所有地区都是降雨稀少或没有降雨的干旱地区。",
+    "zh_hant": "但顯而易見，並非世界所有地區都是降雨稀少或沒有降雨的乾旱地區。"
+  },
+  {
+    "index": 56,
+    "text": "So, for example, if we have a cropland that is growing coffee,",
+    "start": 270.465,
+    "end": 277.389,
+    "zh": "例如，如果有一片农田种咖啡，",
+    "zh_hant": "例如，如果有一片農田種咖啡，"
+  },
+  {
+    "index": 57,
+    "text": "let's say, in Brazil, well, that probably replaced forests that were there before,",
+    "start": 277.489,
+    "end": 284.132,
+    "zh": "假设在巴西，那么这可能取代了原有的森林，",
+    "zh_hant": "假設在巴西，那麼這可能取代了原有的森林，"
+  },
+  {
+    "index": 58,
+    "text": "in that kind of humid, wet environment.",
+    "start": 284.072,
+    "end": 287.474,
+    "zh": "在那种潮湿、湿润的环境中。",
+    "zh_hant": "在那種潮溼、溼潤的環境中。"
+  },
+  {
+    "index": 59,
+    "text": "And indeed, The forest would have consumed, through evaporation, more water than the coffee crop does.",
+    "start": 287.554,
+    "end": 294.277,
+    "zh": "实际上，森林通过蒸发消耗的水比咖啡作物更多。",
+    "zh_hant": "實際上，森林透過蒸發消耗的水比咖啡作物更多。"
+  },
+  {
+    "index": 60,
+    "text": "So in that case, the water footprint of the coffee crop is actually negative.",
+    "start": 294.518,
+    "end": 299.62,
+    "zh": "因此在这种情况下，咖啡作物的水足迹实际上是负的。",
+    "zh_hant": "因此在這種情況下，咖啡作物的水足跡實際上是負的。"
+  },
+  {
+    "index": 61,
+    "text": "Because the forest is gone, you actually have more water than you would have had if the forest was there.",
+    "start": 299.82,
+    "end": 306.563,
+    "zh": "因为森林消失，你拥有的水比森林存在时更多。",
+    "zh_hant": "因為森林消失，你擁有的水比森林存在時更多。"
+  },
+  {
+    "index": 62,
+    "text": "In this case, if you think a higher water footprint is a bad thing,",
+    "start": 306.584,
+    "end": 311.386,
+    "zh": "在这种情况下，如果你认为更高的水足迹是坏事，",
+    "zh_hant": "在這種情況下，如果你認為更高的水足跡是壞事，"
+  },
+  {
+    "index": 63,
+    "text": "Then you'd be saying that chopping down rainforest for coffee plantations is good.",
+    "start": 311.486,
+    "end": 316.148,
+    "zh": "那么你就等于说砍伐雨林种咖啡是好事。",
+    "zh_hant": "那麼你就等於說砍伐雨林種咖啡是好事。"
+  },
+  {
+    "index": 64,
+    "text": "What's more, the water we're talking about falls as rain,",
+    "start": 316.749,
+    "end": 320.331,
+    "zh": "而且，我们讨论的水是降雨，",
+    "zh_hant": "而且，我們討論的水是降雨，"
+  },
+  {
+    "index": 65,
+    "text": "and to put it mildly, rain is not in short supply in a rainforest.",
+    "start": 320.351,
+    "end": 324.192,
+    "zh": "委婉地说，雨林中并不缺少雨水。",
+    "zh_hant": "委婉地說，雨林中並不缺少雨水。"
+  },
+  {
+    "index": 66,
+    "text": "When the concept of water footprint was first developed, it was recognised that not all water is the same.",
+    "start": 324.133,
+    "end": 330.195,
+    "zh": "当水足迹概念首次提出时，已经认识到并非所有水都一样。",
+    "zh_hant": "當水足跡概念首次提出時，已經認識到並非所有水都一樣。"
+  },
+  {
+    "index": 67,
+    "text": "This is Tim Hess, a professor of water and food systems at Cranfield University in the UK.",
+    "start": 329.956,
+    "end": 335.658,
+    "zh": "这是英国克兰菲尔德大学水与食品系统教授蒂姆·赫斯。",
+    "zh_hant": "這是英國克蘭菲爾德大學水與食品系統教授蒂姆·赫斯。"
+  },
+  {
+    "index": 68,
+    "text": "And a differentiation was made between green water that has come from rainfall.",
+    "start": 335.718,
+    "end": 341.061,
+    "zh": "并且区分了来自降雨的绿水。",
+    "zh_hant": "並且區分了來自降雨的綠水。"
+  },
+  {
+    "index": 69,
+    "text": "Differentiated from blue water.",
+    "start": 341.701,
+    "end": 343.842,
+    "zh": "与蓝水区分开来。",
+    "zh_hant": "與藍水區分開來。"
+  },
+  {
+    "index": 70,
+    "text": "That's water in our water resources, whether it's rivers, lakes, whether it's water that is underground in our aquifers.",
+    "start": 343.492,
+    "end": 350.906,
+    "zh": "那是我们水资源中的水，无论是河流、湖泊，还是地下的含水层。",
+    "zh_hant": "那是我們水資源中的水，無論是河流、湖泊，還是地下的含水層。"
+  },
+  {
+    "index": 71,
+    "text": "Green water is rain.",
+    "start": 350.766,
+    "end": 352.766,
+    "zh": "绿水是雨水。",
+    "zh_hant": "綠水是雨水。"
+  },
+  {
+    "index": 72,
+    "text": "Blue water is pumped out of rivers and lakes.",
+    "start": 352.887,
+    "end": 355.668,
+    "zh": "蓝水是从河流和湖泊中抽取的水。",
+    "zh_hant": "藍水是從河流和湖泊中抽取的水。"
+  },
+  {
+    "index": 73,
+    "text": "There's a third category, grey water, which is the water that's needed to dilute any pollution, like fertiliser runoff.",
+    "start": 355.668,
+    "end": 363.032,
+    "zh": "还有第三类，灰水，即稀释污染（如化肥径流）所需的水。",
+    "zh_hant": "還有第三類，灰水，即稀釋汙染（如化肥徑流）所需的水。"
+  },
+  {
+    "index": 74,
+    "text": "Right, back to the beef.",
+    "start": 363.452,
+    "end": 365.173,
+    "zh": "好，回到牛肉。",
+    "zh_hant": "好，回到牛肉。"
+  },
+  {
+    "index": 75,
+    "text": "If we look at beef production, and this 15,000 figure, the majority of the water is associated with producing feed.",
+    "start": 365.313,
+    "end": 372.216,
+    "zh": "如果我们看牛肉生产及这个15000的数字，大部分水与生产饲料有关。",
+    "zh_hant": "如果我們看牛肉生產及這個15000的數字，大部分水與生產飼料有關。"
+  },
+  {
+    "index": 76,
+    "text": "It takes a lot of feed to keep those...",
+    "start": 372.277,
+    "end": 374.498,
+    "zh": "需要大量饲料来维持这些……",
+    "zh_hant": "需要大量飼料來維持這些……"
+  },
+  {
+    "index": 77,
+    "text": "Animals alive for two years before they go into the food system.",
+    "start": 374.148,
+    "end": 377.719,
+    "zh": "动物在进入食品系统前存活两年。",
+    "zh_hant": "動物在進入食品系統前存活兩年。"
+  },
+  {
+    "index": 78,
+    "text": "In the UK, cows mostly stand around in fields eating grass.",
+    "start": 377.819,
+    "end": 382.361,
+    "zh": "在英国，奶牛大多站在田野里吃草。",
+    "zh_hant": "在英國，奶牛大多站在田野裡吃草。"
+  },
+  {
+    "index": 79,
+    "text": "That grass gets its water from rainfall,",
+    "start": 382.542,
+    "end": 384.943,
+    "zh": "草通过降雨获得水分，",
+    "zh_hant": "草透過降雨獲得水分，"
+  },
+  {
+    "index": 80,
+    "text": "so they are just using the rain at the point where the rain falls, and they're only using green water.",
+    "start": 384.593,
+    "end": 390.145,
+    "zh": "所以它们只在降雨处利用雨水，而且只使用绿水。",
+    "zh_hant": "所以它們只在降雨處利用雨水，而且只使用綠水。"
+  },
+  {
+    "index": 81,
+    "text": "But in other countries, we have systems where animals are fed on crops which have been irrigated.",
+    "start": 390.265,
+    "end": 395.868,
+    "zh": "但在其他国家，系统是动物以灌溉作物为食。",
+    "zh_hant": "但在其他國家，系統是動物以灌溉作物為食。"
+  },
+  {
+    "index": 82,
+    "text": "So in that case, we're taking the blue water to grow the crops, like maize, silage, and then feeding those to animals.",
+    "start": 395.908,
+    "end": 403.252,
+    "zh": "在这种情况下，我们用蓝水种植作物，如玉米、青贮饲料，然后喂给动物。",
+    "zh_hant": "在這種情況下，我們用藍水種植作物，如玉米、青貯飼料，然後餵給動物。"
+  },
+  {
+    "index": 83,
+    "text": "The Different methods of farming make a massive difference to the amount of blue water you have to pump out of rivers,",
+    "start": 403.072,
+    "end": 409.295,
+    "zh": "不同的耕作方式对必须从河流、湖泊和含水层中抽取的蓝水量产生巨大影响，",
+    "zh_hant": "不同的耕作方式對必須從河流、湖泊和含水層中抽取的藍水量產生巨大影響，"
+  },
+  {
+    "index": 84,
+    "text": "lakes, and aquifers to produce the cow food.",
+    "start": 409.035,
+    "end": 412.076,
+    "zh": "以生产牛饲料。",
+    "zh_hant": "以生產牛飼料。"
+  },
+  {
+    "index": 85,
+    "text": "So in the UK,",
+    "start": 411.917,
+    "end": 413.417,
+    "zh": "所以在英国，",
+    "zh_hant": "所以在英國，"
+  },
+  {
+    "index": 86,
+    "text": "we have an average for animal production of about 67 litres",
+    "start": 413.697,
+    "end": 418.58,
+    "zh": "动物生产每公斤牛肉的平均蓝水消耗量约为67升。",
+    "zh_hant": "動物生產每公斤牛肉的平均藍水消耗量約為67升。"
+  },
+  {
+    "index": 87,
+    "text": "per kilogram of beef of blue water consumption.",
+    "start": 418.44,
+    "end": 422.041,
+    "zh": "每公斤牛肉的蓝水消耗。",
+    "zh_hant": "每公斤牛肉的藍水消耗。"
+  },
+  {
+    "index": 88,
+    "text": "But there are some figures from the US, from Texas, Oklahoma, and Kansas,",
+    "start": 421.901,
+    "end": 426.323,
+    "zh": "但来自美国得克萨斯州、俄克拉荷马州和堪萨斯州的一些数据，",
+    "zh_hant": "但來自美國得克薩斯州、俄克拉荷馬州和堪薩斯州的一些資料，"
+  },
+  {
+    "index": 89,
+    "text": "ranging from 900 through to almost 8,000.",
+    "start": 426.504,
+    "end": 430.536,
+    "zh": "介于900到几乎8000之间。",
+    "zh_hant": "介於900到幾乎8000之間。"
+  },
+  {
+    "index": 90,
+    "text": "That figure we're looking at,",
+    "start": 430.586,
+    "end": 432.166,
+    "zh": "我们正在看的这个数字，",
+    "zh_hant": "我們正在看的這個數字，"
+  },
+  {
+    "index": 91,
+    "text": "that 15,000 litres of water are needed for each kilogram of Beef",
+    "start": 432.046,
+    "end": 436.168,
+    "zh": "即每公斤牛肉需要15000升水，",
+    "zh_hant": "即每公斤牛肉需要15000升水，"
+  },
+  {
+    "index": 92,
+    "text": "includes all types of farming and all the types of water.",
+    "start": 436.088,
+    "end": 440.231,
+    "zh": "包括所有类型的农业和所有类型的水。",
+    "zh_hant": "包括所有型別的農業和所有型別的水。"
+  },
+  {
+    "index": 93,
+    "text": "It's a weighted average of the water use across all the different beef production systems the researchers analysed.",
+    "start": 440.351,
+    "end": 447.274,
+    "zh": "这是研究人员分析的所有不同牛肉生产系统中用水的加权平均值。",
+    "zh_hant": "這是研究人員分析的所有不同牛肉生產系統中用水的加權平均值。"
+  },
+  {
+    "index": 94,
+    "text": "And 94% of that figure,",
+    "start": 447.694,
+    "end": 450.336,
+    "zh": "该数字的94%，",
+    "zh_hant": "該數字的94%，"
+  },
+  {
+    "index": 95,
+    "text": "more than 14,000 litres of water, is green water.",
+    "start": 450.456,
+    "end": 454.978,
+    "zh": "超过14000升水，是绿水。",
+    "zh_hant": "超過14000升水，是綠水。"
+  },
+  {
+    "index": 96,
+    "text": "It's rain falling on grassland or other crops.",
+    "start": 455.078,
+    "end": 457.839,
+    "zh": "是落在草地或其他作物上的降雨。",
+    "zh_hant": "是落在草地或其他作物上的降雨。"
+  },
+  {
+    "index": 97,
+    "text": "This, says Tim, makes it pretty useless",
+    "start": 458.36,
+    "end": 461.681,
+    "zh": "蒂姆说，这使得这个数字基本无用，",
+    "zh_hant": "蒂姆說，這使得這個數字基本無用，"
+  },
+  {
+    "index": 98,
+    "text": "if you're using the number to think about how good or bad eating beef is for the environment.",
+    "start": 461.331,
+    "end": 466.604,
+    "zh": "如果你用这个数字来思考吃牛肉对环境是好是坏。",
+    "zh_hant": "如果你用這個數字來思考吃牛肉對環境是好是壞。"
+  },
+  {
+    "index": 99,
+    "text": "As with coffee in the rainforest, it's unclear whether it's a good or bad thing.",
+    "start": 466.844,
+    "end": 471.086,
+    "zh": "就像雨林咖啡一样，这是好是坏还不清楚。",
+    "zh_hant": "就像雨林咖啡一樣，這是好是壞還不清楚。"
+  },
+  {
+    "index": 100,
+    "text": "So if we want to make choices about sustainable diets,",
+    "start": 470.926,
+    "end": 474.027,
+    "zh": "所以如果我们想对可持续饮食做出选择，",
+    "zh_hant": "所以如果我們想對可持續飲食做出選擇，"
+  },
+  {
+    "index": 101,
+    "text": "we want to make choices about is this product having more impact on the water environment than that product,",
+    "start": 473.677,
+    "end": 479.49,
+    "zh": "我们要选择这个产品对水环境的影响是否比那个产品更大，",
+    "zh_hant": "我們要選擇這個產品對水環境的影響是否比那個產品更大，"
+  },
+  {
+    "index": 102,
+    "text": "then we shouldn't be including the green water.",
+    "start": 479.691,
+    "end": 482.052,
+    "zh": "那么不应该把绿水包括进去。",
+    "zh_hant": "那麼不應該把綠水包括進去。"
+  },
+  {
+    "index": 103,
+    "text": "That's very misleading.",
+    "start": 481.702,
+    "end": 483.112,
+    "zh": "那会非常误导人。",
+    "zh_hant": "那會非常誤導人。"
+  },
+  {
+    "index": 104,
+    "text": "At the same time, the 15,000 litre claim also averages out the blue water part,",
+    "start": 483.392,
+    "end": 489.155,
+    "zh": "同时，15000升的说法也平均了蓝水部分，",
+    "zh_hant": "同時，15000升的說法也平均了藍水部分，"
+  },
+  {
+    "index": 105,
+    "text": "which, as Tim said earlier, can range from less than 100 litres to many thousands.",
+    "start": 489.315,
+    "end": 494.338,
+    "zh": "正如蒂姆之前所说，蓝水可以从不到100升到数千升不等。",
+    "zh_hant": "正如蒂姆之前所說，藍水可以從不到100升到數千升不等。"
+  },
+  {
+    "index": 106,
+    "text": "The average is about 500 litres,",
+    "start": 494.438,
+    "end": 496.939,
+    "zh": "平均值约为500升，",
+    "zh_hant": "平均值約為500升，"
+  },
+  {
+    "index": 107,
+    "text": "but that hides the bit that potentially matters most in terms of the impact on water supplies.",
+    "start": 496.879,
+    "end": 503.022,
+    "zh": "但这掩盖了可能对水资源供应影响最关键的部分。",
+    "zh_hant": "但這掩蓋了可能對水資源供應影響最關鍵的部分。"
+  },
+  {
+    "index": 108,
+    "text": "All of which means you can't use the global water footprint to say that beef is bad.",
+    "start": 503.382,
+    "end": 508.885,
+    "zh": "所有这些意味着，你不能用全球水足迹来说牛肉不好。",
+    "zh_hant": "所有這些意味著，你不能用全球水足跡來說牛肉不好。"
+  },
+  {
+    "index": 109,
+    "text": "And when Mesfin sees his numbers used like that, it makes him uncomfortable.",
+    "start": 509.345,
+    "end": 513.807,
+    "zh": "当梅斯芬看到自己的数字被这样使用时，他感到不安。",
+    "zh_hant": "當梅斯芬看到自己的數字被這樣使用時，他感到不安。"
+  },
+  {
+    "index": 110,
+    "text": "There is a disappointment of the misuse of numbers.",
+    "start": 513.707,
+    "end": 517.089,
+    "zh": "对数字被滥用的失望。",
+    "zh_hant": "對數字被濫用的失望。"
+  },
+  {
+    "index": 111,
+    "text": "That's clear.",
+    "start": 517.189,
+    "end": 518.249,
+    "zh": "这是明确的。",
+    "zh_hant": "這是明確的。"
+  },
+  {
+    "index": 112,
+    "text": "And the disappointment also goes back to myself.",
+    "start": 518.009,
+    "end": 522.553,
+    "zh": "这种失望也回到我自己身上。",
+    "zh_hant": "這種失望也回到我自己身上。"
+  },
+  {
+    "index": 113,
+    "text": "Did I do my job very well and explain the numbers and the story behind it?",
+    "start": 523.234,
+    "end": 529.038,
+    "zh": "我是否很好地完成了工作，解释了数字及背后的故事？",
+    "zh_hant": "我是否很好地完成了工作，解釋了數字及背後的故事？"
+  },
+  {
+    "index": 114,
+    "text": "That's it for this week.",
+    "start": 529.339,
+    "end": 530.86,
+    "zh": "本周就到这里。",
+    "zh_hant": "本週就到這裡。"
+  },
+  {
+    "index": 115,
+    "text": "Thanks to Mesfin Mekinen, Mark Mulligan, and Tim Hess.",
+    "start": 530.68,
+    "end": 534.622,
+    "zh": "感谢梅斯文·梅基宁、马克·穆利根和蒂姆·赫斯。",
+    "zh_hant": "感謝梅斯文·梅基寧、馬克·穆利根和蒂姆·赫斯。"
+  },
+  {
+    "index": 116,
+    "text": "If you've seen a number you think we should take a look at, email us on moreorless@bbc.co.uk.",
+    "start": 534.643,
+    "end": 541.408,
+    "zh": "如果你看到一个你认为我们应该关注的数字，请发邮件至moreorless@bbc.co.uk。",
+    "zh_hant": "如果你看到一個你認為我們應該關注的數字，請發郵件至moreorless@bbc.co.uk。"
+  },
+  {
+    "index": 117,
+    "text": "Until next time, goodbye.",
+    "start": 541.808,
+    "end": 544.15,
+    "zh": "下次再见，再见。",
+    "zh_hant": "下次再見，再見。"
+  }
+]
