@@ -73,6 +73,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-07-4",
+      "title": "Talking about names",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-08-07-4",
+      "title": "Talking about names",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-06",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
       "date": "2026-08-06",
@@ -840,7 +865,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -851,7 +876,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
