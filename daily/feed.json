@@ -23,6 +23,31 @@
       "origFolderEn": "Talk Show"
     },
     {
+      "id": "2026-08-07-2",
+      "title": "Australian Navy Rescues Rower Crossing Pacific from California",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-07-2",
+      "title": "Australian Navy Rescues Rower Crossing Pacific from California",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-06",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
       "date": "2026-08-06",
@@ -2964,7 +2989,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-26b.json",
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
-      "free": true,
+      "free": false,
       "level": "B1",
       "accent": "american"
     },
