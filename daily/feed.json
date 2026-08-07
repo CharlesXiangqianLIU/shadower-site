@@ -122,6 +122,30 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-07-6",
+      "title": "Dino Skeleton Breaks Record",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.json",
+      "folder": "Lucas Reading",
+      "folderEn": "Lucas Reading",
+      "accent": "british",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-07-6",
+      "title": "Dino Skeleton Breaks Record",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "Lucas Reading",
+      "origFolderEn": "Lucas Reading",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-06",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
       "date": "2026-08-06",
