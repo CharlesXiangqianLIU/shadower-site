@@ -1,6 +1,28 @@
 {
   "lessons": [
     {
+      "id": "2026-08-07",
+      "title": "還好我都看海綿寶寶（沒有比較好）",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-07",
+      "title": "還好我都看海綿寶寶（沒有比較好）",
+      "date": "2026-08-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-08-06",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
       "date": "2026-08-06",
