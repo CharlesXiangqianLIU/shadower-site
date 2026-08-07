@@ -1232,19 +1232,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-07-30",
-      "title": "'Rappaccini’s Daughter' by Nathaniel Hawthorne, Part Two",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-07-30-2",
       "title": "Do you need to declutter your home?",
       "date": "2026-07-30",
@@ -1255,19 +1242,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-07-30-2",
-      "title": "Do you need to declutter your home?",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-07-30-3",
@@ -1282,19 +1256,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-07-30-3",
-      "title": "Talking about moving house",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-07-30-4",
       "title": "How to 'Dish Up' Something Good",
       "date": "2026-07-30",
@@ -1307,19 +1268,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-07-30-4",
-      "title": "How to 'Dish Up' Something Good",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-07-30-5",
       "title": "答应妈妈,千万别生孩子",
       "date": "2026-07-30",
@@ -1328,18 +1276,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-07-30-5",
-      "title": "答应妈妈,千万别生孩子",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-07-30-4b",
