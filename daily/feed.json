@@ -193,6 +193,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-08-7",
+      "title": "What Does It Take to Be a 'Power Couple'?",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-7.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-08-7",
+      "title": "What Does It Take to Be a 'Power Couple'?",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-7.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-07",
       "title": "還好我都看海綿寶寶（沒有比較好）",
       "date": "2026-08-07",
@@ -3151,7 +3176,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-28.json",
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories Advanced",
-      "free": true,
+      "free": false,
       "level": "B2",
       "accent": "american"
     },
