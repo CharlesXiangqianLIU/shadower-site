@@ -1,6 +1,76 @@
 {
   "lessons": [
     {
+      "id": "2026-08-08",
+      "title": "US employers unexpectedly cut 23,000 jobs in July",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-08",
+      "title": "US employers unexpectedly cut 23,000 jobs in July",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-08b",
+      "title": "US employers unexpectedly cut 23,000 jobs in July",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-08-2",
+      "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-08-2",
+      "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-08-2b",
+      "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-07",
       "title": "還好我都看海綿寶寶（沒有比較好）",
       "date": "2026-08-07",
@@ -549,7 +619,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-04",
@@ -559,7 +629,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新",
       "origFolderEn": "US更新",
       "accent": "american"
@@ -697,7 +767,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-04-7",
@@ -707,7 +777,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-7.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新",
       "origFolderEn": "US更新",
       "accent": "american"
@@ -756,7 +826,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-04-7b",
@@ -767,7 +837,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-04-2b",
