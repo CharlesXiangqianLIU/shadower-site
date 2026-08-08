@@ -71,6 +71,41 @@
       "free": true
     },
     {
+      "id": "2026-08-08-3",
+      "title": "Punk music turns 50 in the UK with festival celebration | BBC News",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-08-3",
+      "title": "Punk music turns 50 in the UK with festival celebration | BBC News",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-08-3b",
+      "title": "Punk music turns 50 in the UK with festival celebration | BBC News",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-3b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-07",
       "title": "還好我都看海綿寶寶（沒有比較好）",
       "date": "2026-08-07",
@@ -791,7 +826,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-04-8",
@@ -801,7 +836,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-8.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC",
       "origFolderEn": "BBC",
       "accent": "british"
@@ -848,7 +883,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-04-3b",
