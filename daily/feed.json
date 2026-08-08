@@ -131,6 +131,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-08-4b",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Two",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-08-08-5",
+      "title": "Can climate change affect our mental health?",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-08-5",
+      "title": "Can climate change affect our mental health?",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-07",
       "title": "還好我都看海綿寶寶（沒有比較好）",
       "date": "2026-08-07",
@@ -752,7 +789,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -763,7 +800,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-4.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
@@ -3445,7 +3482,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-27b.json",
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american"
     },
