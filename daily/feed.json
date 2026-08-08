@@ -106,6 +106,31 @@
       "free": true
     },
     {
+      "id": "2026-08-08-4",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Two",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-08-08-4",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Two",
+      "date": "2026-08-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-07",
       "title": "還好我都看海綿寶寶（沒有比較好）",
       "date": "2026-08-07",
@@ -3052,7 +3077,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-25-27.json",
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories Advanced",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "american"
     },
