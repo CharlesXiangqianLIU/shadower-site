@@ -1,0 +1,674 @@
+[
+  {
+    "index": 0,
+    "text": "So here we go again with what could be a plot in a sci-fi thriller, but is reality.",
+    "start": 0.0,
+    "end": 5.272,
+    "zh": "所以，我们又来了，这可能是科幻惊悚片里的情节，但却是现实。",
+    "zh_hant": "所以，我們又來了，這可能是科幻驚悚片裡的情節，但卻是現實。"
+  },
+  {
+    "index": 1,
+    "text": "Researchers in the US have for the first time used artificial intelligence to design new viruses.",
+    "start": 4.922,
+    "end": 11.215,
+    "zh": "美国的研究人员首次使用人工智能设计新病毒。",
+    "zh_hant": "美國的研究人員首次使用人工智慧設計新病毒。"
+  },
+  {
+    "index": 2,
+    "text": "It's been held as a very significant turning point.",
+    "start": 10.865,
+    "end": 13.537,
+    "zh": "这被视为一个非常重要的转折点。",
+    "zh_hant": "這被視為一個非常重要的轉折點。"
+  },
+  {
+    "index": 3,
+    "text": "What could possibly go wrong?",
+    "start": 13.187,
+    "end": 15.237,
+    "zh": "可能出什么问题呢？",
+    "zh_hant": "可能出什麼問題呢？"
+  },
+  {
+    "index": 4,
+    "text": "There's also concern that the technology could create new and yet unheard of bioweapons.",
+    "start": 14.887,
+    "end": 21.821,
+    "zh": "还有人担忧这项技术可能制造出前所未闻的生物武器。",
+    "zh_hant": "還有人擔憂這項技術可能製造出前所未聞的生物武器。"
+  },
+  {
+    "index": 5,
+    "text": "It does sound like something from a sci-fi movie, but this is real.",
+    "start": 26.903,
+    "end": 31.085,
+    "zh": "听起来确实像科幻电影里的东西，但这是真实的。",
+    "zh_hant": "聽起來確實像科幻電影裡的東西，但這是真實的。"
+  },
+  {
+    "index": 6,
+    "text": "A US team have used artificial intelligence to design completely new viruses.",
+    "start": 31.286,
+    "end": 36.988,
+    "zh": "一个美国团队使用人工智能设计了全新的病毒。",
+    "zh_hant": "一個美國團隊使用人工智慧設計了全新的病毒。"
+  },
+  {
+    "index": 7,
+    "text": "Well, coming up, we'll assess what it means, including questions it raises about safety and biosecurity.",
+    "start": 36.638,
+    "end": 43.332,
+    "zh": "接下来，我们将评估它的意义，包括它对安全性和生物安全提出的问题。",
+    "zh_hant": "接下來，我們將評估它的意義，包括它對安全性和生物安全提出的問題。"
+  },
+  {
+    "index": 8,
+    "text": "First, what exactly did the researchers actually do?",
+    "start": 42.982,
+    "end": 47.054,
+    "zh": "首先，研究人员到底做了什么？",
+    "zh_hant": "首先，研究人員到底做了什麼？"
+  },
+  {
+    "index": 9,
+    "text": "AI has been used to design simple structures like antibiotics before.",
+    "start": 47.794,
+    "end": 52.616,
+    "zh": "人工智能之前已被用于设计抗生素等简单结构。",
+    "zh_hant": "人工智慧之前已被用於設計抗生素等簡單結構。"
+  },
+  {
+    "index": 10,
+    "text": "But now, for the first time, AI has designed the entire genetic code,",
+    "start": 52.266,
+    "end": 56.858,
+    "zh": "但现在，人工智能首次设计了完整的遗传密码，",
+    "zh_hant": "但現在，人工智慧首次設計了完整的遺傳密碼，"
+  },
+  {
+    "index": 11,
+    "text": "the whole genome of viruses that aren't found in nature.",
+    "start": 56.679,
+    "end": 60.94,
+    "zh": "即自然界中不存在的病毒的全基因组。",
+    "zh_hant": "即自然界中不存在的病毒的全基因組。"
+  },
+  {
+    "index": 12,
+    "text": "Scientists took these AI designs and attempted to make them in a lab.",
+    "start": 60.66,
+    "end": 65.623,
+    "zh": "科学家们将这些AI设计拿到实验室尝试制造。",
+    "zh_hant": "科學家們將這些AI設計拿到實驗室嘗試製造。"
+  },
+  {
+    "index": 13,
+    "text": "It works a bit like ChatGPT,",
+    "start": 65.483,
+    "end": 67.684,
+    "zh": "它的工作原理有点像ChatGPT，",
+    "zh_hant": "它的工作原理有點像ChatGPT，"
+  },
+  {
+    "index": 14,
+    "text": "but instead of predicting sequences of words, these AI models predict the language of life.",
+    "start": 67.724,
+    "end": 74.287,
+    "zh": "但这些AI模型不是预测词语序列，而是预测生命的语言。",
+    "zh_hant": "但這些AI模型不是預測詞語序列，而是預測生命的語言。"
+  },
+  {
+    "index": 15,
+    "text": "And instead of being trained on books and websites,",
+    "start": 74.007,
+    "end": 77.228,
+    "zh": "它们不是用书籍和网站训练的，",
+    "zh_hant": "它們不是用書籍和網站訓練的，"
+  },
+  {
+    "index": 16,
+    "text": "these AI models were trained on genetic codes from viruses, bacteria, plants and people.",
+    "start": 77.008,
+    "end": 83.772,
+    "zh": "而是用来自病毒、细菌、植物和人类的遗传密码训练的。",
+    "zh_hant": "而是用來自病毒、細菌、植物和人類的遺傳密碼訓練的。"
+  },
+  {
+    "index": 17,
+    "text": "They were then refined to create a type of virus known as a bacterial phage,",
+    "start": 83.532,
+    "end": 88.975,
+    "zh": "随后它们被精炼，以制造一种称为噬菌体的病毒，",
+    "zh_hant": "隨後它們被精煉，以製造一種稱為噬菌體的病毒，"
+  },
+  {
+    "index": 18,
+    "text": "which infect only specific species of bacteria.",
+    "start": 88.625,
+    "end": 92.5,
+    "zh": "这种病毒只感染特定种类的细菌。",
+    "zh_hant": "這種病毒只感染特定種類的細菌。"
+  },
+  {
+    "index": 19,
+    "text": "16 virus designs were a success and were able to kill bacteria in tests.",
+    "start": 92.1,
+    "end": 98.819,
+    "zh": "其中16个病毒设计成功，并在测试中能杀死细菌。",
+    "zh_hant": "其中16個病毒設計成功，並在測試中能殺死細菌。"
+  },
+  {
+    "index": 20,
+    "text": "So that's what the US team managed to do, but how big a deal is it?",
+    "start": 99.46,
+    "end": 103.962,
+    "zh": "所以这就是美国团队做到的，但这有多重要呢？",
+    "zh_hant": "所以這就是美國團隊做到的，但這有多重要呢？"
+  },
+  {
+    "index": 21,
+    "text": "Our health correspondent James Gallagher assesses the significance of the research.",
+    "start": 104.042,
+    "end": 108.924,
+    "zh": "我们的健康记者詹姆斯·加拉格尔评估了这项研究的意义。",
+    "zh_hant": "我們的健康記者詹姆斯·加拉格爾評估了這項研究的意義。"
+  },
+  {
+    "index": 22,
+    "text": "This is a real step up in the power of what AI has been able to do in this kind of field.",
+    "start": 108.865,
+    "end": 113.607,
+    "zh": "这是人工智能在该领域能力的一次真正提升。",
+    "zh_hant": "這是人工智慧在該領域能力的一次真正提升。"
+  },
+  {
+    "index": 23,
+    "text": "So we've already seen generative artificial intelligence tools being used to come up with designs for new antibiotics and for new vaccines,",
+    "start": 113.257,
+    "end": 120.711,
+    "zh": "我们已经看到生成式AI工具用于设计新抗生素和新疫苗，",
+    "zh_hant": "我們已經看到生成式AI工具用於設計新抗生素和新疫苗，"
+  },
+  {
+    "index": 24,
+    "text": "whereas this is looking at the whole genetic code,",
+    "start": 120.361,
+    "end": 123.452,
+    "zh": "而这次是着眼于整个遗传密码，",
+    "zh_hant": "而這次是著眼於整個遺傳密碼，"
+  },
+  {
+    "index": 25,
+    "text": "the entire genome of viruses, generating those in a computer.",
+    "start": 123.102,
+    "end": 127.234,
+    "zh": "病毒的整个基因组，在计算机中生成它们。",
+    "zh_hant": "病毒的整個基因組，在計算機中生成它們。"
+  },
+  {
+    "index": 26,
+    "text": "And the way that was done is that scientists were trying to develop new types of a virus called phage,",
+    "start": 127.274,
+    "end": 133.497,
+    "zh": "实现方式是科学家们试图开发一种叫噬菌体的新型病毒，",
+    "zh_hant": "實現方式是科學家們試圖開發一種叫噬菌體的新型病毒，"
+  },
+  {
+    "index": 27,
+    "text": "and what they do is they infect bacteria.",
+    "start": 133.147,
+    "end": 135.798,
+    "zh": "它们的作用是感染细菌。",
+    "zh_hant": "它們的作用是感染細菌。"
+  },
+  {
+    "index": 28,
+    "text": "So there's no risk, you don't need to be terrified, there's no risk to human beings; they infect bacteria.",
+    "start": 135.448,
+    "end": 141.041,
+    "zh": "所以没有风险，你不需要害怕，对人类没有风险；它们只感染细菌。",
+    "zh_hant": "所以沒有風險，你不需要害怕，對人類沒有風險；它們只感染細菌。"
+  },
+  {
+    "index": 29,
+    "text": "And what they did was they got the AI to generate the genetic code,",
+    "start": 141.001,
+    "end": 145.363,
+    "zh": "他们所做的是让AI生成遗传密码，",
+    "zh_hant": "他們所做的是讓AI生成遺傳密碼，"
+  },
+  {
+    "index": 30,
+    "text": "suggested genetic codes, then the scientists picked 300 that they thought were the most promising, tested those in the laboratory.",
+    "start": 145.143,
+    "end": 151.626,
+    "zh": "提出遗传密码建议，然后科学家挑选了他们认为最有前景的300个，在实验室测试。",
+    "zh_hant": "提出遺傳密碼建議，然後科學家挑選了他們認為最有前景的300個，在實驗室測試。"
+  },
+  {
+    "index": 31,
+    "text": "So they actually then made those viruses.",
+    "start": 151.276,
+    "end": 153.607,
+    "zh": "所以他们真的制造出了那些病毒。",
+    "zh_hant": "所以他們真的製造出了那些病毒。"
+  },
+  {
+    "index": 32,
+    "text": "as designed by the AI, and he found that 16 of those were able to fully function in the laboratory.",
+    "start": 153.257,
+    "end": 159.43,
+    "zh": "按AI设计的，他发现其中16个能在实验室完全运作。",
+    "zh_hant": "按AI設計的，他發現其中16個能在實驗室完全運作。"
+  },
+  {
+    "index": 33,
+    "text": "So they were infecting bacteria, they were replicating inside those bacteria,",
+    "start": 159.08,
+    "end": 163.472,
+    "zh": "它们感染细菌，在细菌内部复制，",
+    "zh_hant": "它們感染細菌，在細菌內部複製，"
+  },
+  {
+    "index": 34,
+    "text": "and that's the first time this has been done.",
+    "start": 163.212,
+    "end": 166.213,
+    "zh": "这是首次做到这一点。",
+    "zh_hant": "這是首次做到這一點。"
+  },
+  {
+    "index": 35,
+    "text": "Well, the breakthrough has been labelled a very significant turning point",
+    "start": 166.914,
+    "end": 170.856,
+    "zh": "嗯，这一突破被称为科学中一个非常重要的转折点，",
+    "zh_hant": "嗯，這一突破被稱為科學中一個非常重要的轉折點，"
+  },
+  {
+    "index": 36,
+    "text": "in science that could unlock a new era for treating disease.",
+    "start": 170.506,
+    "end": 174.638,
+    "zh": "可能开启治疗疾病的新时代。",
+    "zh_hant": "可能開啟治療疾病的新時代。"
+  },
+  {
+    "index": 37,
+    "text": "But experts have also warned AI-designed viruses raise urgent safety and security concerns.",
+    "start": 174.288,
+    "end": 180.901,
+    "zh": "但专家也警告，AI设计的病毒引发紧急的安全和安保问题。",
+    "zh_hant": "但專家也警告，AI設計的病毒引發緊急的安全和安保問題。"
+  },
+  {
+    "index": 38,
+    "text": "Well, let's start with the benefit.",
+    "start": 180.761,
+    "end": 182.642,
+    "zh": "好吧，让我们从好处说起。",
+    "zh_hant": "好吧，讓我們從好處說起。"
+  },
+  {
+    "index": 39,
+    "text": "Here's Dr Simon Clarke, a microbiologist from the University of Reading.",
+    "start": 182.462,
+    "end": 186.964,
+    "zh": "这是雷丁大学的微生物学家西蒙·克拉克博士。",
+    "zh_hant": "這是雷丁大學的微生物學家西蒙·克拉克博士。"
+  },
+  {
+    "index": 40,
+    "text": "Some people have suggested that you could use these types of viruses",
+    "start": 187.244,
+    "end": 191.326,
+    "zh": "有些人建议可以用这些类型的病毒，",
+    "zh_hant": "有些人建議可以用這些型別的病毒，"
+  },
+  {
+    "index": 41,
+    "text": "which attack bacteria to wipe out, to kill bacteria",
+    "start": 190.976,
+    "end": 196.108,
+    "zh": "它们攻击细菌，去消灭、杀死细菌，",
+    "zh_hant": "它們攻擊細菌，去消滅、殺死細菌，"
+  },
+  {
+    "index": 42,
+    "text": "that are causing infections that are resistant to antibiotics.",
+    "start": 195.758,
+    "end": 199.75,
+    "zh": "这些细菌导致对抗生素有抗药性的感染。",
+    "zh_hant": "這些細菌導致對抗生素有抗藥性的感染。"
+  },
+  {
+    "index": 43,
+    "text": "So it's potentially a novel strategy for dealing with antibiotic resistance.",
+    "start": 199.77,
+    "end": 204.953,
+    "zh": "所以这可能是应对抗生素耐药性的一种新策略。",
+    "zh_hant": "所以這可能是應對抗生素耐藥性的一種新策略。"
+  },
+  {
+    "index": 44,
+    "text": "There are all sorts of other problems around that,",
+    "start": 204.603,
+    "end": 207.194,
+    "zh": "但这方面还有其他各种问题，",
+    "zh_hant": "但這方面還有其他各種問題，"
+  },
+  {
+    "index": 45,
+    "text": "one of which is that bacteria become resistant to the viruses as well, not just the antibiotics.",
+    "start": 208.035,
+    "end": 214.678,
+    "zh": "其中之一是细菌也会对病毒产生抗性，不只是对抗生素。",
+    "zh_hant": "其中之一是細菌也會對病毒產生抗性，不只是對抗生素。"
+  },
+  {
+    "index": 46,
+    "text": "So by generating new versions of virus, you can get around that resistance.",
+    "start": 214.598,
+    "end": 221.381,
+    "zh": "所以通过生成新版本的病毒，你可以绕过那种抗性。",
+    "zh_hant": "所以透過生成新版本的病毒，你可以繞過那種抗性。"
+  },
+  {
+    "index": 47,
+    "text": "I have to say, when I read this, I thought, yeah, really, you're actually just hanging.",
+    "start": 221.281,
+    "end": 226.203,
+    "zh": "我得说，当我读到这个时，我想，真的吗，你们实际上是在挂羊头卖狗肉。",
+    "zh_hant": "我得說，當我讀到這個時，我想，真的嗎，你們實際上是在掛羊頭賣狗肉。"
+  },
+  {
+    "index": 48,
+    "text": "This research—this piece of study on that hook.",
+    "start": 226.063,
+    "end": 230.065,
+    "zh": "这项研究——这份研究就像挂在那钩子上的东西。",
+    "zh_hant": "這項研究——這份研究就像掛在那鉤子上的東西。"
+  },
+  {
+    "index": 49,
+    "text": "Really, they've done this, I think, because they could.",
+    "start": 229.905,
+    "end": 233.847,
+    "zh": "真的，他们做这个，我想，是因为他们能做到。",
+    "zh_hant": "真的，他們做這個，我想，是因為他們能做到。"
+  },
+  {
+    "index": 50,
+    "text": "This is an important proof of principle, and as AI gets more capable,",
+    "start": 233.787,
+    "end": 239.49,
+    "zh": "这是一个重要的原理验证，随着AI变得更强大，",
+    "zh_hant": "這是一個重要的原理驗證，隨著AI變得更強大，"
+  },
+  {
+    "index": 51,
+    "text": "you might expect it to be able to tailor",
+    "start": 239.37,
+    "end": 245.193,
+    "zh": "你可能会期望它能定制",
+    "zh_hant": "你可能會期望它能定製"
+  },
+  {
+    "index": 52,
+    "text": "or engineer other forms of life.",
+    "start": 244.843,
+    "end": 247.354,
+    "zh": "或设计其他形式的生命。",
+    "zh_hant": "或設計其他形式的生命。"
+  },
+  {
+    "index": 53,
+    "text": "So what about the risks?",
+    "start": 247.795,
+    "end": 250.035,
+    "zh": "那风险呢？",
+    "zh_hant": "那風險呢？"
+  },
+  {
+    "index": 54,
+    "text": "Well, concerns have already been raised that the same technology could be used maliciously to create new diseases.",
+    "start": 249.996,
+    "end": 256.919,
+    "zh": "嗯，已经有人提出担忧，同样的技术可能被恶意用来制造新疾病。",
+    "zh_hant": "嗯，已經有人提出擔憂，同樣的技術可能被惡意用來製造新疾病。"
+  },
+  {
+    "index": 55,
+    "text": "This study is not a risk to human health, it's important to stress that,",
+    "start": 258.44,
+    "end": 262.261,
+    "zh": "这项研究对人类健康没有风险，强调这点很重要，",
+    "zh_hant": "這項研究對人類健康沒有風險，強調這點很重要，"
+  },
+  {
+    "index": 56,
+    "text": "but it does show that in theory it is possible to generate synthetic forms of life,",
+    "start": 262.182,
+    "end": 268.665,
+    "zh": "但它确实表明理论上可以生成合成的生命形式，",
+    "zh_hant": "但它確實表明理論上可以生成合成的生命形式，"
+  },
+  {
+    "index": 57,
+    "text": "forms of viruses which don't exist in nature",
+    "start": 268.845,
+    "end": 272.366,
+    "zh": "即自然界中不存在的病毒形式，",
+    "zh_hant": "即自然界中不存在的病毒形式，"
+  },
+  {
+    "index": 58,
+    "text": "and therefore that in itself could present a risk to human health.",
+    "start": 272.327,
+    "end": 277.589,
+    "zh": "因此这本身可能对人类健康构成风险。",
+    "zh_hant": "因此這本身可能對人類健康構成風險。"
+  },
+  {
+    "index": 59,
+    "text": "We should say that the AI models that are used here can't do that,",
+    "start": 277.489,
+    "end": 282.772,
+    "zh": "我们应该说，这里使用的AI模型不能做到那样，",
+    "zh_hant": "我們應該說，這裡使用的AI模型不能做到那樣，"
+  },
+  {
+    "index": 60,
+    "text": "but there's nothing to stop somebody coming up with a different AI model that potentially could.",
+    "start": 282.422,
+    "end": 288.175,
+    "zh": "但没有什么阻止别人开发一个可能做到的不同的AI模型。",
+    "zh_hant": "但沒有什麼阻止別人開發一個可能做到的不同的AI模型。"
+  },
+  {
+    "index": 61,
+    "text": "In this country, there are all sorts of protections and regulations",
+    "start": 287.955,
+    "end": 292.957,
+    "zh": "在这个国家，有各种保护和规定",
+    "zh_hant": "在這個國家，有各種保護和規定"
+  },
+  {
+    "index": 62,
+    "text": "for doing studies like this,",
+    "start": 293.598,
+    "end": 295.718,
+    "zh": "来规范此类研究，",
+    "zh_hant": "來規範此類研究，"
+  },
+  {
+    "index": 63,
+    "text": "and there would be in the United States too.",
+    "start": 295.368,
+    "end": 297.779,
+    "zh": "美国也会有。",
+    "zh_hant": "美國也會有。"
+  },
+  {
+    "index": 64,
+    "text": "But of course, if a bad actor was so minded to do something like that,",
+    "start": 297.76,
+    "end": 304.563,
+    "zh": "但当然，如果一个坏分子有意做那样的事，",
+    "zh_hant": "但當然，如果一個壞分子有意做那樣的事，"
+  },
+  {
+    "index": 65,
+    "text": "then they wouldn't really worry themselves about the normal health and safety rules",
+    "start": 304.483,
+    "end": 310.886,
+    "zh": "那他们不会真正担心那些正常的健康和安全规则，",
+    "zh_hant": "那他們不會真正擔心那些正常的健康和安全規則，"
+  },
+  {
+    "index": 66,
+    "text": "that control what people like me do.",
+    "start": 311.627,
+    "end": 314.728,
+    "zh": "这些规则约束着我这样的人。",
+    "zh_hant": "這些規則約束著我這樣的人。"
+  },
+  {
+    "index": 67,
+    "text": "Finally, let's look at the wider impact of artificial intelligence on healthcare.",
+    "start": 315.488,
+    "end": 320.551,
+    "zh": "最后，让我们看看人工智能对医疗保健的更广泛影响。",
+    "zh_hant": "最後，讓我們看看人工智慧對醫療保健的更廣泛影響。"
+  },
+  {
+    "index": 68,
+    "text": "Here again is our health correspondent, James Gallagher.",
+    "start": 320.271,
+    "end": 323.273,
+    "zh": "再次欢迎我们的健康记者詹姆斯·加拉格尔。",
+    "zh_hant": "再次歡迎我們的健康記者詹姆斯·加拉格爾。"
+  },
+  {
+    "index": 69,
+    "text": "The more practical tools are not like this.",
+    "start": 323.453,
+    "end": 327.715,
+    "zh": "更实用的工具不是这样的。",
+    "zh_hant": "更實用的工具不是這樣的。"
+  },
+  {
+    "index": 70,
+    "text": "So this is kind of like the very cutting edge, no one's entirely sure where this technology is going to go.",
+    "start": 327.365,
+    "end": 332.697,
+    "zh": "所以这有点像最前沿的，没人完全确定这项技术会走向何方。",
+    "zh_hant": "所以這有點像最前沿的，沒人完全確定這項技術會走向何方。"
+  },
+  {
+    "index": 71,
+    "text": "The grand vision of this kind of designing biology in a computer",
+    "start": 332.347,
+    "end": 337.279,
+    "zh": "在计算机中设计生物的这种宏大愿景，",
+    "zh_hant": "在計算機中設計生物的這種宏大願景，"
+  },
+  {
+    "index": 72,
+    "text": "that could then be replicated in the real world,",
+    "start": 336.929,
+    "end": 340.161,
+    "zh": "然后可以在现实世界中复制，",
+    "zh_hant": "然後可以在現實世界中複製，"
+  },
+  {
+    "index": 73,
+    "text": "but isn't actually something that naturally exists in nature.",
+    "start": 339.811,
+    "end": 343.843,
+    "zh": "但这实际上并不是自然界中自然存在的东西。",
+    "zh_hant": "但這實際上並不是自然界中自然存在的東西。"
+  },
+  {
+    "index": 74,
+    "text": "That could open up new possibilities for new drug treatments, or these kinds of phage viruses that infect bacteria.",
+    "start": 343.493,
+    "end": 349.565,
+    "zh": "这可能为新的药物治疗或这类感染细菌的噬菌体病毒开辟新可能性。",
+    "zh_hant": "這可能為新的藥物治療或這類感染細菌的噬菌體病毒開闢新可能性。"
+  },
+  {
+    "index": 75,
+    "text": "Maybe those could be used to treat bacterial infections.",
+    "start": 349.215,
+    "end": 352.987,
+    "zh": "也许它们可以用来治疗细菌感染。",
+    "zh_hant": "也許它們可以用來治療細菌感染。"
+  },
+  {
+    "index": 76,
+    "text": "But it's a little bit more mundane in terms of how AI at the moment is being used in most of healthcare.",
+    "start": 352.867,
+    "end": 359.371,
+    "zh": "但在大多数医疗保健中，AI目前的使用方式要平凡得多。",
+    "zh_hant": "但在大多數醫療保健中，AI目前的使用方式要平凡得多。"
+  },
+  {
+    "index": 77,
+    "text": "So it's things like transcribing doctor's notes and providing summaries to make those more time efficient.",
+    "start": 359.021,
+    "end": 364.574,
+    "zh": "比如转录医生的笔记并提供摘要，以提高时间效率。",
+    "zh_hant": "比如轉錄醫生的筆記並提供摘要，以提高時間效率。"
+  },
+  {
+    "index": 78,
+    "text": "There's a lot of work going on at whether artificial intelligence tools can look at lots of scans,",
+    "start": 364.334,
+    "end": 369.977,
+    "zh": "有很多工作在研究AI工具能否查看大量扫描图像，",
+    "zh_hant": "有很多工作在研究AI工具能否檢視大量掃描影象，"
+  },
+  {
+    "index": 79,
+    "text": "say mammograms as part of breast cancer screening,",
+    "start": 369.627,
+    "end": 372.459,
+    "zh": "比如作为乳腺癌筛查一部分的乳房X光照片，",
+    "zh_hant": "比如作為乳腺癌篩查一部分的乳房X光照片，"
+  },
+  {
+    "index": 80,
+    "text": "and see if they can be used to make the whole system more effective and more efficient.",
+    "start": 372.179,
+    "end": 377.202,
+    "zh": "看它们能否让整个系统更有效、更高效。",
+    "zh_hant": "看它們能否讓整個系統更有效、更高效。"
+  },
+  {
+    "index": 81,
+    "text": "So it's a little bit more mundane than the kinds of very cutting edge science",
+    "start": 377.002,
+    "end": 382.565,
+    "zh": "所以比起我们讨论的这项研究中那种前沿科学，",
+    "zh_hant": "所以比起我們討論的這項研究中那種前沿科學，"
+  },
+  {
+    "index": 82,
+    "text": "that we're talking about with this study in terms of where it's being rolled out at the moment.",
+    "start": 382.245,
+    "end": 386.027,
+    "zh": "目前部署的地方要平凡一些。",
+    "zh_hant": "目前部署的地方要平凡一些。"
+  },
+  {
+    "index": 83,
+    "text": "And that's all you need to know about AI-generated viruses.",
+    "start": 386.528,
+    "end": 390.21,
+    "zh": "关于AI生成的病毒，你需要知道的就是这些。",
+    "zh_hant": "關於AI生成的病毒，你需要知道的就是這些。"
+  }
+]
