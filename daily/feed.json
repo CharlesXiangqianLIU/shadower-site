@@ -1357,19 +1357,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-02",
-      "title": "The Enhanced Games",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-02-2",
       "title": "Talking about cities",
       "date": "2026-08-02",
@@ -1380,19 +1367,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-02-2",
-      "title": "Talking about cities",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-02-3",
@@ -1406,19 +1380,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-02-3",
-      "title": "Could AI help us smile more? | BBC News",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-02-4",
       "title": "The Chinese robot army transforming the UK's retail industry | BBC News",
       "date": "2026-08-02",
@@ -1428,19 +1389,6 @@
       "accent": "british",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-02-4",
-      "title": "The Chinese robot army transforming the UK's retail industry | BBC News",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
     },
     {
       "id": "2026-08-02-5",
@@ -1454,19 +1402,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-02-5",
-      "title": "Does your phone eavesdrop on you?",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新",
-      "origFolderEn": "US更新",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-02-6",
       "title": "How are gaming PCs built? | BBC News",
       "date": "2026-08-02",
@@ -1476,19 +1411,6 @@
       "accent": "british",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-02-6",
-      "title": "How are gaming PCs built? | BBC News",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
     },
     {
       "id": "2026-08-02-7",
@@ -1502,19 +1424,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-02-7",
-      "title": "Can tech help us get a good night's sleep? | BBC News",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-02-8",
       "title": "Meet 'the bra professor' | BBC News",
       "date": "2026-08-02",
@@ -1524,19 +1433,6 @@
       "accent": "british",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-02-8",
-      "title": "Meet 'the bra professor' | BBC News",
-      "date": "2026-08-02",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-02-8.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
     },
     {
       "id": "2026-08-02-8b",
@@ -2980,18 +2876,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-65.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-65.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-66",
-      "title": "How can we help wild bees?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-66.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-66.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
