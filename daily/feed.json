@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-10",
+      "title": "How Daylight Saving Time Affects Health",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-10",
+      "title": "How Daylight Saving Time Affects Health",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-09",
       "title": "How important is politeness?",
       "date": "2026-08-09",
@@ -2030,7 +2055,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
