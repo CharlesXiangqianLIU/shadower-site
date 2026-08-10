@@ -76,6 +76,170 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-10-4",
+      "title": "Nature: Otters in California",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-10-4",
+      "title": "Nature: Otters in California",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-10-5",
+      "title": "The bond between dog and duck",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-10-5",
+      "title": "The bond between dog and duck",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-10-5b",
+      "title": "The bond between dog and duck",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-10-6",
+      "title": "Visiting the Iowa 80 Truckstop, the world's largest",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-10-6",
+      "title": "Visiting the Iowa 80 Truckstop, the world's largest",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-10-6b",
+      "title": "Visiting the Iowa 80 Truckstop, the world's largest",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-10-7",
+      "title": "Protecting the Venus fly trap",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-10-7",
+      "title": "Protecting the Venus fly trap",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-10-7b",
+      "title": "Protecting the Venus fly trap",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-10-8",
+      "title": "Rescuing a candlepin bowling alley helps bolster a Maine community",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-10-8",
+      "title": "Rescuing a candlepin bowling alley helps bolster a Maine community",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-10-8b",
+      "title": "Rescuing a candlepin bowling alley helps bolster a Maine community",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-09",
       "title": "How important is politeness?",
       "date": "2026-08-09",
@@ -239,7 +403,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-09-6",
@@ -249,7 +413,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-6.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -274,7 +438,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-09-7",
@@ -284,7 +448,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-7.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -298,7 +462,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-08",
@@ -308,7 +472,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -322,7 +486,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-08-2",
@@ -333,7 +497,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-08-2",
@@ -343,7 +507,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -357,7 +521,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-08-3",
@@ -827,7 +991,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-06-6",
@@ -837,7 +1001,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -851,7 +1015,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-05",
@@ -1045,7 +1209,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-05-6b",

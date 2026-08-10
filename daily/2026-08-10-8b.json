@@ -1,0 +1,994 @@
+[
+  {
+    "index": 0,
+    "text": "This weekend, some among us celebrated National Bowling Day.",
+    "start": 0.89,
+    "end": 4.932,
+    "zh": "这个周末，我们中的一些人庆祝了全国保龄球日。",
+    "zh_hant": "這個週末，我們中的一些人慶祝了全國保齡球日。"
+  },
+  {
+    "index": 1,
+    "text": "Yes, there really is such a thing.",
+    "start": 4.582,
+    "end": 6.773,
+    "zh": "是的，确实有这样的日子。",
+    "zh_hant": "是的，確實有這樣的日子。"
+  },
+  {
+    "index": 2,
+    "text": "Bowling leagues may not be what they were in the 1970s,",
+    "start": 6.833,
+    "end": 10.475,
+    "zh": "保龄球联赛可能不再是1970年代的样子了，",
+    "zh_hant": "保齡球聯賽可能不再是1970年代的樣子了，"
+  },
+  {
+    "index": 3,
+    "text": "but our Lee Cowan found an alley and its young owner, offering people the chance to reconnect.",
+    "start": 10.255,
+    "end": 16.838,
+    "zh": "但我们的Lee Cowan找到了一家保龄球馆和它的年轻老板，为人们提供了重新连接的机会。",
+    "zh_hant": "但我們的Lee Cowan找到了一家保齡球館和它的年輕老闆，為人們提供了重新連線的機會。"
+  },
+  {
+    "index": 4,
+    "text": "Before streaming, smartphones, and social media,",
+    "start": 18.979,
+    "end": 22.301,
+    "zh": "在流媒体、智能手机和社交媒体出现之前，",
+    "zh_hant": "在流媒體、智慧手機和社交媒體出現之前，"
+  },
+  {
+    "index": 5,
+    "text": "bowling leagues used to bring people together.",
+    "start": 23.822,
+    "end": 26.643,
+    "zh": "保龄球联赛曾把人们聚在一起。",
+    "zh_hant": "保齡球聯賽曾把人們聚在一起。"
+  },
+  {
+    "index": 6,
+    "text": "And in New England, It was candle pin bowling.",
+    "start": 26.523,
+    "end": 31.705,
+    "zh": "在新英格兰，玩的是烛台保龄球。",
+    "zh_hant": "在新英格蘭，玩的是燭臺保齡球。"
+  },
+  {
+    "index": 7,
+    "text": "Alley stretched from Massachusetts all the way into Canada's maritime provinces.",
+    "start": 32.506,
+    "end": 37.008,
+    "zh": "球馆从马萨诸塞州一路延伸到加拿大的滨海省份。",
+    "zh_hant": "球館從馬薩諸塞州一路延伸到加拿大的濱海省份。"
+  },
+  {
+    "index": 8,
+    "text": "Still, though, it never really caught on anywhere else.",
+    "start": 37.328,
+    "end": 41.01,
+    "zh": "尽管如此，它从未在其他地方真正流行起来。",
+    "zh_hant": "儘管如此，它從未在其他地方真正流行起來。"
+  },
+  {
+    "index": 9,
+    "text": "Have we all done candle pin bowling before?",
+    "start": 40.89,
+    "end": 43.231,
+    "zh": "我们以前都玩过烛台保龄球吗？",
+    "zh_hant": "我們以前都玩過燭臺保齡球嗎？"
+  },
+  {
+    "index": 10,
+    "text": "But in Ellsworth, Maine, I'll take a seven.",
+    "start": 42.881,
+    "end": 45.572,
+    "zh": "但在缅因州的埃尔斯沃思，我要一个七分。",
+    "zh_hant": "但在緬因州的埃爾斯沃思，我要一個七分。"
+  },
+  {
+    "index": 11,
+    "text": "All righty.",
+    "start": 45.373,
+    "end": 46.373,
+    "zh": "好的。",
+    "zh_hant": "好的。"
+  },
+  {
+    "index": 12,
+    "text": "Autumn Mowry, you guys are all set on lane 11, is fighting to keep the candle pin flame flickering.",
+    "start": 46.273,
+    "end": 53.696,
+    "zh": "Autumn Mowry，你们在11号球道准备好了，正在努力让烛台保龄球的火焰继续燃烧。",
+    "zh_hant": "Autumn Mowry，你們在11號球道準備好了，正在努力讓燭臺保齡球的火焰繼續燃燒。"
+  },
+  {
+    "index": 13,
+    "text": "So what's the difference between candlepin and just regular bowling that most people know about?",
+    "start": 54.897,
+    "end": 60.24,
+    "zh": "那么烛台保龄球和大多数人知道的普通保龄球有什么区别呢？",
+    "zh_hant": "那麼燭臺保齡球和大多數人知道的普通保齡球有什麼區別呢？"
+  },
+  {
+    "index": 14,
+    "text": "Well, this one's better.",
+    "start": 59.89,
+    "end": 61.68,
+    "zh": "嗯，这个更好。",
+    "zh_hant": "嗯，這個更好。"
+  },
+  {
+    "index": 15,
+    "text": "Clearly.",
+    "start": 62.621,
+    "end": 63.521,
+    "zh": "显然。",
+    "zh_hant": "顯然。"
+  },
+  {
+    "index": 16,
+    "text": "In short, it's thinner pins, smaller balls.",
+    "start": 63.742,
+    "end": 66.723,
+    "zh": "简而言之，球瓶更细，球更小。",
+    "zh_hant": "簡而言之，球瓶更細，球更小。"
+  },
+  {
+    "index": 17,
+    "text": "And it's not easy.",
+    "start": 67.243,
+    "end": 69.024,
+    "zh": "而且不容易。",
+    "zh_hant": "而且不容易。"
+  },
+  {
+    "index": 18,
+    "text": "There we go.",
+    "start": 68.824,
+    "end": 69.684,
+    "zh": "这就对了。",
+    "zh_hant": "這就對了。"
+  },
+  {
+    "index": 19,
+    "text": "Yes!",
+    "start": 70.845,
+    "end": 71.725,
+    "zh": "太棒了！",
+    "zh_hant": "太棒了！"
+  },
+  {
+    "index": 20,
+    "text": "Autumn's been coming here since she was six years old.",
+    "start": 73.226,
+    "end": 76.267,
+    "zh": "Autumn从六岁起就来这里了。",
+    "zh_hant": "Autumn從六歲起就來這裡了。"
+  },
+  {
+    "index": 21,
+    "text": "Especially during Maine's winters.",
+    "start": 77.428,
+    "end": 79.769,
+    "zh": "尤其是在缅因州的冬天。",
+    "zh_hant": "尤其是在緬因州的冬天。"
+  },
+  {
+    "index": 22,
+    "text": "Ellsworth doesn't boast a lot to do when the days are long and the snow is deep.",
+    "start": 79.889,
+    "end": 84.612,
+    "zh": "当白天漫长、积雪深厚时，埃尔斯沃思并没有太多可做的事。",
+    "zh_hant": "當白天漫長、積雪深厚時，埃爾斯沃思並沒有太多可做的事。"
+  },
+  {
+    "index": 23,
+    "text": "At 17, she started working at the alley, not in the front.",
+    "start": 86.173,
+    "end": 90.155,
+    "zh": "17岁时，她开始在球馆工作，不是在前台。",
+    "zh_hant": "17歲時，她開始在球館工作，不是在前臺。"
+  },
+  {
+    "index": 24,
+    "text": "Ellsworth Cantoponeli, how can I help you?",
+    "start": 90.455,
+    "end": 92.536,
+    "zh": "埃尔斯沃思烛台保龄球馆，有什么能帮您的？",
+    "zh_hant": "埃爾斯沃思燭臺保齡球館，有什麼能幫您的？"
+  },
+  {
+    "index": 25,
+    "text": "But in the back, where she became fascinated with the old world engineering",
+    "start": 92.996,
+    "end": 98.679,
+    "zh": "而是在后台，她在那里迷上了老式工程学，",
+    "zh_hant": "而是在後臺，她在那裡迷上了老式工程學，"
+  },
+  {
+    "index": 26,
+    "text": "of these pin setting machines.",
+    "start": 98.679,
+    "end": 100.74,
+    "zh": "也就是这些摆瓶机器。",
+    "zh_hant": "也就是這些擺瓶機器。"
+  },
+  {
+    "index": 27,
+    "text": "I remember my first time going back there, and I'm looking up at these machines, and I'm like, wow, this is so cool.",
+    "start": 100.8,
+    "end": 107.463,
+    "zh": "我记得我第一次去那里的时候，抬头看着这些机器，心想，哇，这太酷了。",
+    "zh_hant": "我記得我第一次去那裡的時候，抬頭看著這些機器，心想，哇，這太酷了。"
+  },
+  {
+    "index": 28,
+    "text": "And this ball return I just redid.",
+    "start": 107.484,
+    "end": 109.725,
+    "zh": "这个回球器我刚重新弄过。",
+    "zh_hant": "這個回球器我剛重新弄過。"
+  },
+  {
+    "index": 29,
+    "text": "I saw that one.",
+    "start": 109.565,
+    "end": 110.885,
+    "zh": "我看到了。",
+    "zh_hant": "我看到了。"
+  },
+  {
+    "index": 30,
+    "text": "That looks great.",
+    "start": 110.535,
+    "end": 111.565,
+    "zh": "看起来很棒。",
+    "zh_hant": "看起來很棒。"
+  },
+  {
+    "index": 31,
+    "text": "They are the beating heart of this place, a ballet of gears and conveyors.",
+    "start": 111.306,
+    "end": 116.548,
+    "zh": "它们是这个地方跳动的心脏，是一场齿轮和传送带的芭蕾。",
+    "zh_hant": "它們是這個地方跳動的心臟，是一場齒輪和傳送帶的芭蕾。"
+  },
+  {
+    "index": 32,
+    "text": "It would be the pride of any museum dedicated to analog genius.",
+    "start": 116.528,
+    "end": 120.53,
+    "zh": "这足以成为任何模拟技术博物馆的骄傲。",
+    "zh_hant": "這足以成為任何模擬技術博物館的驕傲。"
+  },
+  {
+    "index": 33,
+    "text": "When something broke, Autumn risked life and limb to fix it.",
+    "start": 121.33,
+    "end": 125.072,
+    "zh": "当东西坏了，Autumn会冒着生命危险去修理。",
+    "zh_hant": "當東西壞了，Autumn會冒著生命危險去修理。"
+  },
+  {
+    "index": 34,
+    "text": "She's gotten smacked in the eye with a ball, broken more than a few fingers,",
+    "start": 124.972,
+    "end": 129.694,
+    "zh": "她的眼睛被球砸过，手指断了不止几根，",
+    "zh_hant": "她的眼睛被球砸過，手指斷了不止幾根，"
+  },
+  {
+    "index": 35,
+    "text": "and the gears snarl her hair every time they get a chance.",
+    "start": 129.835,
+    "end": 133.436,
+    "zh": "齿轮一有机会就会缠住她的头发。",
+    "zh_hant": "齒輪一有機會就會纏住她的頭髮。"
+  },
+  {
+    "index": 36,
+    "text": "And yet, she treats them like employees.",
+    "start": 134.037,
+    "end": 138.439,
+    "zh": "然而，她把它们当员工一样对待。",
+    "zh_hant": "然而，她把它們當員工一樣對待。"
+  },
+  {
+    "index": 37,
+    "text": "You talk to them?",
+    "start": 138.559,
+    "end": 139.639,
+    "zh": "你跟它们说话？",
+    "zh_hant": "你跟它們說話？"
+  },
+  {
+    "index": 38,
+    "text": "I do.",
+    "start": 139.459,
+    "end": 140.159,
+    "zh": "是的。",
+    "zh_hant": "是的。"
+  },
+  {
+    "index": 39,
+    "text": "When I'm having a really good day, I will come back here and go, let's go, we got this.",
+    "start": 140.1,
+    "end": 146.282,
+    "zh": "当我心情特别好的时候，我会回来对它们说，走吧，我们搞定了。",
+    "zh_hant": "當我心情特別好的時候，我會回來對它們說，走吧，我們搞定了。"
+  },
+  {
+    "index": 40,
+    "text": "She came into this family of pins by way of defeat.",
+    "start": 146.323,
+    "end": 149.964,
+    "zh": "她是通过失败进入这个保龄球家庭的。",
+    "zh_hant": "她是透過失敗進入這個保齡球家庭的。"
+  },
+  {
+    "index": 41,
+    "text": "The previous owner let the alley fall into the gutter.",
+    "start": 150.165,
+    "end": 153.026,
+    "zh": "之前的老板让球馆陷入了低谷。",
+    "zh_hant": "之前的老闆讓球館陷入了低谷。"
+  },
+  {
+    "index": 42,
+    "text": "In 2020, it was set to be bulldozed.",
+    "start": 153.126,
+    "end": 156.467,
+    "zh": "2020年，它面临被推土机拆除的命运。",
+    "zh_hant": "2020年，它面臨被推土機拆除的命運。"
+  },
+  {
+    "index": 43,
+    "text": "Until Autumn begged to give her just three months.",
+    "start": 156.368,
+    "end": 160.389,
+    "zh": "直到Autumn恳求给她三个月的时间。",
+    "zh_hant": "直到Autumn懇求給她三個月的時間。"
+  },
+  {
+    "index": 44,
+    "text": "If she couldn't keep the ball rolling, she said, The owner could take the wrecking ball to all of it.",
+    "start": 160.269,
+    "end": 165.352,
+    "zh": "她说，如果她不能让球滚起来，老板可以把它全部砸掉。",
+    "zh_hant": "她說，如果她不能讓球滾起來，老闆可以把它全部砸掉。"
+  },
+  {
+    "index": 45,
+    "text": "She was just 18 at the time.",
+    "start": 165.392,
+    "end": 167.733,
+    "zh": "那时她只有18岁。",
+    "zh_hant": "那時她只有18歲。"
+  },
+  {
+    "index": 46,
+    "text": "The obstacle is this place is thrown at me.",
+    "start": 168.214,
+    "end": 170.635,
+    "zh": "这个地方给我带来的障碍太多了。",
+    "zh_hant": "這個地方給我帶來的障礙太多了。"
+  },
+  {
+    "index": 47,
+    "text": "Sometimes I think it doesn't want me here.",
+    "start": 170.285,
+    "end": 172.416,
+    "zh": "有时我觉得它不欢迎我。",
+    "zh_hant": "有時我覺得它不歡迎我。"
+  },
+  {
+    "index": 48,
+    "text": "Shortly after taking over, a storm fried the alley's wiring.",
+    "start": 172.976,
+    "end": 177.198,
+    "zh": "接手后不久，一场暴风雨烧毁了球馆的线路。",
+    "zh_hant": "接手後不久，一場暴風雨燒燬了球館的線路。"
+  },
+  {
+    "index": 49,
+    "text": "The roof started leaking.",
+    "start": 177.318,
+    "end": 178.839,
+    "zh": "屋顶开始漏水。",
+    "zh_hant": "屋頂開始漏水。"
+  },
+  {
+    "index": 50,
+    "text": "A pipe burst.",
+    "start": 178.489,
+    "end": 179.759,
+    "zh": "一根水管爆了。",
+    "zh_hant": "一根水管爆了。"
+  },
+  {
+    "index": 51,
+    "text": "It was literally raining in here.",
+    "start": 179.459,
+    "end": 182.481,
+    "zh": "这里简直是下起了雨。",
+    "zh_hant": "這裡簡直是下起了雨。"
+  },
+  {
+    "index": 52,
+    "text": "Oh, and then COVID hit.",
+    "start": 182.881,
+    "end": 185.342,
+    "zh": "哦，然后疫情来了。",
+    "zh_hant": "哦，然後疫情來了。"
+  },
+  {
+    "index": 53,
+    "text": "Not to mention that she was working every single day just to keep the lights on.",
+    "start": 185.943,
+    "end": 190.965,
+    "zh": "更不用说，她每天都得工作，只是为了维持灯光。",
+    "zh_hant": "更不用說，她每天都得工作，只是為了維持燈光。"
+  },
+  {
+    "index": 54,
+    "text": "Did you ever think about giving up?",
+    "start": 191.225,
+    "end": 193.106,
+    "zh": "你有没有想过放弃？",
+    "zh_hant": "你有沒有想過放棄？"
+  },
+  {
+    "index": 55,
+    "text": "Throwing in the bowling towel and saying, this is too much.",
+    "start": 193.086,
+    "end": 196.688,
+    "zh": "丢掉保龄球毛巾，说这太难了？",
+    "zh_hant": "丟掉保齡球毛巾，說這太難了？"
+  },
+  {
+    "index": 56,
+    "text": "I would have if it wasn't for mom.",
+    "start": 196.448,
+    "end": 198.228,
+    "zh": "如果没有妈妈，我可能就放弃了。",
+    "zh_hant": "如果沒有媽媽，我可能就放棄了。"
+  },
+  {
+    "index": 57,
+    "text": "She was kind of like the angel during everything.",
+    "start": 198.429,
+    "end": 201.67,
+    "zh": "她在这一切中就像一位天使。",
+    "zh_hant": "她在這一切中就像一位天使。"
+  },
+  {
+    "index": 58,
+    "text": "Because of mom, I didn't give up.",
+    "start": 201.53,
+    "end": 203.971,
+    "zh": "因为有妈妈，我没有放弃。",
+    "zh_hant": "因為有媽媽，我沒有放棄。"
+  },
+  {
+    "index": 59,
+    "text": "Her mom, Amanda, is her best friend.",
+    "start": 204.852,
+    "end": 207.833,
+    "zh": "她的妈妈Amanda是她最好的朋友。",
+    "zh_hant": "她的媽媽Amanda是她最好的朋友。"
+  },
+  {
+    "index": 60,
+    "text": "If she taught her anything, Autumn says, it was to remain positive.",
+    "start": 207.774,
+    "end": 211.515,
+    "zh": "Autumn说，如果她教会了她什么，那就是保持积极。",
+    "zh_hant": "Autumn說，如果她教會了她什麼，那就是保持積極。"
+  },
+  {
+    "index": 61,
+    "text": "Even in the darkest of times, growing up was just really tricky, just walking on eggshells a lot.",
+    "start": 211.495,
+    "end": 218.158,
+    "zh": "即使在最黑暗的时候，成长真的很棘手，经常如履薄冰。",
+    "zh_hant": "即使在最黑暗的時候，成長真的很棘手，經常如履薄冰。"
+  },
+  {
+    "index": 62,
+    "text": "We were feeding off of the environment that was around us,",
+    "start": 217.879,
+    "end": 222.3,
+    "zh": "我们依赖周围的环境生活，",
+    "zh_hant": "我們依賴周圍的環境生活，"
+  },
+  {
+    "index": 63,
+    "text": "and that environment was challenging, both physically and mentally, Autumn says.",
+    "start": 222.441,
+    "end": 227.443,
+    "zh": "Autumn说，那个环境在身体和心理上都充满挑战。",
+    "zh_hant": "Autumn說，那個環境在身體和心理上都充滿挑戰。"
+  },
+  {
+    "index": 64,
+    "text": "She still suffers from anxiety to this day.",
+    "start": 227.543,
+    "end": 230.204,
+    "zh": "直到今天，她仍然受焦虑的困扰。",
+    "zh_hant": "直到今天，她仍然受焦慮的困擾。"
+  },
+  {
+    "index": 65,
+    "text": "But it's in that suffering, she says, she's found a way to help others.",
+    "start": 230.405,
+    "end": 235.247,
+    "zh": "但她说，正是在这种痛苦中，她找到了帮助他人的方法。",
+    "zh_hant": "但她說，正是在這種痛苦中，她找到了幫助他人的方法。"
+  },
+  {
+    "index": 66,
+    "text": "I wanted to become a clinical therapist, and so that was always the goal, was to help people.",
+    "start": 235.147,
+    "end": 241.09,
+    "zh": "我想成为一名临床治疗师，那一直是我的目标，就是帮助别人。",
+    "zh_hant": "我想成為一名臨床治療師，那一直是我的目標，就是幫助別人。"
+  },
+  {
+    "index": 67,
+    "text": "And with this place, I saw a lot of potential.",
+    "start": 241.471,
+    "end": 245.192,
+    "zh": "通过这个地方，我看到了很多潜力。",
+    "zh_hant": "透過這個地方，我看到了很多潛力。"
+  },
+  {
+    "index": 68,
+    "text": "She remembers one day in the bowling alley, she noticed a situation she could tell wasn't quite right.",
+    "start": 245.433,
+    "end": 251.415,
+    "zh": "她记得在保龄球馆的一天，她注意到一个情况，她觉得有些不对劲。",
+    "zh_hant": "她記得在保齡球館的一天，她注意到一個情況，她覺得有些不對勁。"
+  },
+  {
+    "index": 69,
+    "text": "There was a couple sitting over at that furthest booth, and she wouldn't leave the guy's side.",
+    "start": 251.436,
+    "end": 256.718,
+    "zh": "有一对情侣坐在最远的那个卡座，她一直不离开那个男人身边。",
+    "zh_hant": "有一對情侶坐在最遠的那個卡座，她一直不離開那個男人身邊。"
+  },
+  {
+    "index": 70,
+    "text": "And I thought I definitely was catching on to some red flags.",
+    "start": 256.458,
+    "end": 260.78,
+    "zh": "我觉得我肯定发现了一些危险信号。",
+    "zh_hant": "我覺得我肯定發現了一些危險訊號。"
+  },
+  {
+    "index": 71,
+    "text": "When I brought out their food, I brought them out napkins, and I handed her the napkins.",
+    "start": 260.43,
+    "end": 265.502,
+    "zh": "当我端出他们的食物时，我给他们拿了餐巾纸，递给了她。",
+    "zh_hant": "當我端出他們的食物時，我給他們拿了餐巾紙，遞給了她。"
+  },
+  {
+    "index": 72,
+    "text": "And I had wrote on there to do a thumbs up or a thumbs down if she was okay.",
+    "start": 265.152,
+    "end": 269.644,
+    "zh": "我在上面写了，如果她没事，就竖起大拇指或拇指向下。",
+    "zh_hant": "我在上面寫了，如果她沒事，就豎起大拇指或拇指向下。"
+  },
+  {
+    "index": 73,
+    "text": "And she put a thumbs down.",
+    "start": 269.504,
+    "end": 271.325,
+    "zh": "她竖起了拇指向下。",
+    "zh_hant": "她豎起了拇指向下。"
+  },
+  {
+    "index": 74,
+    "text": "She called the police.",
+    "start": 271.645,
+    "end": 273.306,
+    "zh": "她报了警。",
+    "zh_hant": "她報了警。"
+  },
+  {
+    "index": 75,
+    "text": "In the ensuing months, she began opening the alley to those who needed a place to talk.",
+    "start": 273.446,
+    "end": 279.629,
+    "zh": "在接下来的几个月里，她开始向那些需要谈话场所的人开放球馆。",
+    "zh_hant": "在接下來的幾個月裡，她開始向那些需要談話場所的人開放球館。"
+  },
+  {
+    "index": 76,
+    "text": "Just like that, stranger.",
+    "start": 279.769,
+    "end": 281.571,
+    "zh": "就这样，陌生人。",
+    "zh_hant": "就這樣，陌生人。"
+  },
+  {
+    "index": 77,
+    "text": "Domestic violence victims have been able to come here.",
+    "start": 281.391,
+    "end": 285.032,
+    "zh": "家庭暴力受害者可以来这里。",
+    "zh_hant": "家庭暴力受害者可以來這裡。"
+  },
+  {
+    "index": 78,
+    "text": "We've been able to put the tables and chairs all together and do therapy sessions.",
+    "start": 284.682,
+    "end": 288.994,
+    "zh": "我们把桌子和椅子摆在一起，进行心理治疗。",
+    "zh_hant": "我們把桌子和椅子擺在一起，進行心理治療。"
+  },
+  {
+    "index": 79,
+    "text": "All right, go right ahead, kiddos.",
+    "start": 289.155,
+    "end": 291.215,
+    "zh": "好了，来吧，孩子们。",
+    "zh_hant": "好了，來吧，孩子們。"
+  },
+  {
+    "index": 80,
+    "text": "Her outreach to both adults and kids has been noticed.",
+    "start": 290.935,
+    "end": 294.637,
+    "zh": "她对成人和儿童的帮助已经受到了关注。",
+    "zh_hant": "她對成人和兒童的幫助已經受到了關注。"
+  },
+  {
+    "index": 81,
+    "text": "Get your go, oh, so close, high five, high five.",
+    "start": 294.287,
+    "end": 297.278,
+    "zh": "加油，哦，太接近了，击掌，击掌。",
+    "zh_hant": "加油，哦，太接近了，擊掌，擊掌。"
+  },
+  {
+    "index": 82,
+    "text": "Bowler Jen Johnson had stopped coming here altogether.",
+    "start": 297.118,
+    "end": 300.58,
+    "zh": "球手Jen Johnson之前完全不再来这里了。",
+    "zh_hant": "球手Jen Johnson之前完全不再來這裡了。"
+  },
+  {
+    "index": 83,
+    "text": "But she's back now with all of her friends.",
+    "start": 301.841,
+    "end": 305.362,
+    "zh": "但现在她和所有朋友一起回来了。",
+    "zh_hant": "但現在她和所有朋友一起回來了。"
+  },
+  {
+    "index": 84,
+    "text": "For a girl her age to bring this to life again,",
+    "start": 305.282,
+    "end": 310.605,
+    "zh": "对于一个她这个年纪的女孩来说，让这个地方重获新生，",
+    "zh_hant": "對於一個她這個年紀的女孩來說，讓這個地方重獲新生，"
+  },
+  {
+    "index": 85,
+    "text": "to reinvent it, it's a gift for all of us.",
+    "start": 310.255,
+    "end": 314.867,
+    "zh": "重塑它，这对我们所有人来说都是一份礼物。",
+    "zh_hant": "重塑它，這對我們所有人來說都是一份禮物。"
+  },
+  {
+    "index": 86,
+    "text": "That's why we want to give back to her, because she brings people together.",
+    "start": 314.567,
+    "end": 319.229,
+    "zh": "这就是为什么我们想回馈她，因为她把人们聚在一起。",
+    "zh_hant": "這就是為什麼我們想回饋她，因為她把人們聚在一起。"
+  },
+  {
+    "index": 87,
+    "text": "It's been six years now since Autumn first made that three-month offer to keep the alley running.",
+    "start": 319.549,
+    "end": 324.512,
+    "zh": "自从Autumn第一次提出让球馆继续运营的三个月承诺以来，已经六年了。",
+    "zh_hant": "自從Autumn第一次提出讓球館繼續運營的三個月承諾以來，已經六年了。"
+  },
+  {
+    "index": 88,
+    "text": "She's now 24.",
+    "start": 324.632,
+    "end": 326.063,
+    "zh": "她现在24岁。",
+    "zh_hant": "她現在24歲。"
+  },
+  {
+    "index": 89,
+    "text": "making monthly payments to buy the place, along with her business partner, Ryan Lounder.",
+    "start": 326.113,
+    "end": 332.356,
+    "zh": "她和她的商业伙伴Ryan Lounder一起按月付款买下这个地方。",
+    "zh_hant": "她和她的商業夥伴Ryan Lounder一起按月付款買下這個地方。"
+  },
+  {
+    "index": 90,
+    "text": "There we go.",
+    "start": 332.956,
+    "end": 334.157,
+    "zh": "这就对了。",
+    "zh_hant": "這就對了。"
+  },
+  {
+    "index": 91,
+    "text": "He's also the pizza chef, the fry cook, and...",
+    "start": 333.807,
+    "end": 340.54,
+    "zh": "他也是披萨厨师、炸锅师傅，还有……",
+    "zh_hant": "他也是披薩廚師、炸鍋師傅，還有……"
+  },
+  {
+    "index": 92,
+    "text": "Hey, thank you guys.",
+    "start": 340.28,
+    "end": 341.42,
+    "zh": "嘿，谢谢你们。",
+    "zh_hant": "嘿，謝謝你們。"
+  },
+  {
+    "index": 93,
+    "text": "He owns the game shop next door.",
+    "start": 341.321,
+    "end": 343.541,
+    "zh": "他拥有隔壁的游戏店。",
+    "zh_hant": "他擁有隔壁的遊戲店。"
+  },
+  {
+    "index": 94,
+    "text": "He's also Autumn's fiance.",
+    "start": 344.242,
+    "end": 346.983,
+    "zh": "他也是Autumn的未婚夫。",
+    "zh_hant": "他也是Autumn的未婚夫。"
+  },
+  {
+    "index": 95,
+    "text": "They plan to hold their wedding reception right here in the alley next year.",
+    "start": 347.143,
+    "end": 352.326,
+    "zh": "他们计划明年在球馆里举办婚礼招待会。",
+    "zh_hant": "他們計劃明年在球館裡舉辦婚禮招待會。"
+  },
+  {
+    "index": 96,
+    "text": "Could you do this without each other?",
+    "start": 352.546,
+    "end": 355.267,
+    "zh": "没有对方你们能撑得下去吗？",
+    "zh_hant": "沒有對方你們能撐得下去嗎？"
+  },
+  {
+    "index": 97,
+    "text": "No.",
+    "start": 355.488,
+    "end": 356.088,
+    "zh": "不能。",
+    "zh_hant": "不能。"
+  },
+  {
+    "index": 98,
+    "text": "Unlike some couples, they don't argue about money.",
+    "start": 359.65,
+    "end": 362.831,
+    "zh": "不像有些情侣，他们不为钱争吵。",
+    "zh_hant": "不像有些情侶，他們不為錢爭吵。"
+  },
+  {
+    "index": 99,
+    "text": "They have a GoFundMe, but they haven't really told anybody about it.",
+    "start": 362.872,
+    "end": 367.614,
+    "zh": "他们有一个GoFundMe，但他们并没有真正告诉任何人。",
+    "zh_hant": "他們有一個GoFundMe，但他們並沒有真正告訴任何人。"
+  },
+  {
+    "index": 100,
+    "text": "Instead, what little profit they do bring in, they've turned around for the community in food drives and pancake breakfasts.",
+    "start": 367.774,
+    "end": 375.077,
+    "zh": "相反，他们赚到的那点微薄利润，都用于社区活动，比如食品募捐和煎饼早餐。",
+    "zh_hant": "相反，他們賺到的那點微薄利潤，都用於社群活動，比如食品募捐和煎餅早餐。"
+  },
+  {
+    "index": 101,
+    "text": "Can you guys afford to do that?",
+    "start": 374.978,
+    "end": 376.858,
+    "zh": "你们负担得起吗？",
+    "zh_hant": "你們負擔得起嗎？"
+  },
+  {
+    "index": 102,
+    "text": "Really?",
+    "start": 377.259,
+    "end": 377.999,
+    "zh": "真的？",
+    "zh_hant": "真的？"
+  },
+  {
+    "index": 103,
+    "text": "Probably not.",
+    "start": 377.679,
+    "end": 378.879,
+    "zh": "可能不行。",
+    "zh_hant": "可能不行。"
+  },
+  {
+    "index": 104,
+    "text": "And should we?",
+    "start": 379.0,
+    "end": 380.0,
+    "zh": "而且我们应该这样做吗？",
+    "zh_hant": "而且我們應該這樣做嗎？"
+  },
+  {
+    "index": 105,
+    "text": "Also probably not.",
+    "start": 379.78,
+    "end": 381.22,
+    "zh": "也可能不应该。",
+    "zh_hant": "也可能不應該。"
+  },
+  {
+    "index": 106,
+    "text": "Could we upgrade the machines more?",
+    "start": 380.87,
+    "end": 383.221,
+    "zh": "我们能更多地升级这些机器吗？",
+    "zh_hant": "我們能更多地升級這些機器嗎？"
+  },
+  {
+    "index": 107,
+    "text": "Yes, but we're not the only people in need of stuff.",
+    "start": 382.871,
+    "end": 385.703,
+    "zh": "能，但我们不是唯一需要东西的人。",
+    "zh_hant": "能，但我們不是唯一需要東西的人。"
+  },
+  {
+    "index": 108,
+    "text": "The old machines still test her patience.",
+    "start": 387.284,
+    "end": 390.405,
+    "zh": "旧机器仍然考验着她的耐心。",
+    "zh_hant": "舊機器仍然考驗著她的耐心。"
+  },
+  {
+    "index": 109,
+    "text": "But they're her babies.",
+    "start": 390.505,
+    "end": 392.526,
+    "zh": "但它们是她的宝贝。",
+    "zh_hant": "但它們是她的寶貝。"
+  },
+  {
+    "index": 110,
+    "text": "Along with their young son, Jackson.",
+    "start": 394.147,
+    "end": 397.088,
+    "zh": "还有他们年幼的儿子Jackson。",
+    "zh_hant": "還有他們年幼的兒子Jackson。"
+  },
+  {
+    "index": 111,
+    "text": "He can barely walk, but already gets the spirit of the sport.",
+    "start": 397.849,
+    "end": 401.931,
+    "zh": "他刚会走路，但已经懂了这项运动的精神。",
+    "zh_hant": "他剛會走路，但已經懂了這項運動的精神。"
+  },
+  {
+    "index": 112,
+    "text": "Oh no, it's gonna get you!",
+    "start": 401.651,
+    "end": 403.312,
+    "zh": "哦不，它会抓住你的！",
+    "zh_hant": "哦不，它會抓住你的！"
+  },
+  {
+    "index": 113,
+    "text": "I have joked with a lot of people that he's either gonna love bowling or hate it.",
+    "start": 403.672,
+    "end": 408.274,
+    "zh": "我跟很多人开过玩笑，说他要么会爱上保龄球，要么会讨厌它。",
+    "zh_hant": "我跟很多人開過玩笑，說他要麼會愛上保齡球，要麼會討厭它。"
+  },
+  {
+    "index": 114,
+    "text": "Bowling a 300, a perfect candle pin game, is almost impossible.",
+    "start": 409.615,
+    "end": 415.298,
+    "zh": "打出300分，一场完美的烛台保龄球赛，几乎是不可能的。",
+    "zh_hant": "打出300分，一場完美的燭臺保齡球賽，幾乎是不可能的。"
+  },
+  {
+    "index": 115,
+    "text": "As far as we can tell, no one has ever done it.",
+    "start": 415.158,
+    "end": 418.319,
+    "zh": "据我们所知，从来没有人做到过。",
+    "zh_hant": "據我們所知，從來沒有人做到過。"
+  },
+  {
+    "index": 116,
+    "text": "But Autumn Mowry has nevertheless found this a perfect place to remind herself and others that real connections,",
+    "start": 420.52,
+    "end": 427.724,
+    "zh": "但Autumn Mowry还是在这里找到了一个完美的地方，来提醒自己和他人，真正的联系，",
+    "zh_hant": "但Autumn Mowry還是在這裡找到了一個完美的地方，來提醒自己和他人，真正的聯絡，"
+  },
+  {
+    "index": 117,
+    "text": "while maybe never perfect, do in fact matter.",
+    "start": 427.604,
+    "end": 432.546,
+    "zh": "虽然可能永远不会完美，但确实很重要。",
+    "zh_hant": "雖然可能永遠不會完美，但確實很重要。"
+  },
+  {
+    "index": 118,
+    "text": "For so long I've been searching who I am,",
+    "start": 432.806,
+    "end": 436.028,
+    "zh": "很久以来，我一直在寻找我是谁，",
+    "zh_hant": "很久以來，我一直在尋找我是誰，"
+  },
+  {
+    "index": 119,
+    "text": "and I feel like that place really did save me and helped me find that.",
+    "start": 436.748,
+    "end": 442.213,
+    "zh": "我觉得那个地方真的拯救了我，帮我找到了答案。",
+    "zh_hant": "我覺得那個地方真的拯救了我，幫我找到了答案。"
+  },
+  {
+    "index": 120,
+    "text": "I feel like it really just brought out who Autumn really is, if that makes any sense.",
+    "start": 442.233,
+    "end": 448.739,
+    "zh": "我觉得它真的展现了Autumn真实的样子，如果这能说得通的话。",
+    "zh_hant": "我覺得它真的展現了Autumn真實的樣子，如果這能說得通的話。"
+  },
+  {
+    "index": 121,
+    "text": "And it just feels good.",
+    "start": 449.6,
+    "end": 450.961,
+    "zh": "而且感觉很好。",
+    "zh_hant": "而且感覺很好。"
+  },
+  {
+    "index": 122,
+    "text": "I'm happy, and me being happy is also making others around me happy,",
+    "start": 450.742,
+    "end": 457.087,
+    "zh": "我很开心，我的开心也让周围的人开心，",
+    "zh_hant": "我很開心，我的開心也讓周圍的人開心，"
+  },
+  {
+    "index": 123,
+    "text": "so it works out.",
+    "start": 456.908,
+    "end": 459.31,
+    "zh": "所以一切都顺理成章了。",
+    "zh_hant": "所以一切都順理成章了。"
+  }
+]
