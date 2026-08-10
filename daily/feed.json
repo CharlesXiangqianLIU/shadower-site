@@ -26,6 +26,31 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-10-2",
+      "title": "What's your favourite kind of noodle?",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-10-2",
+      "title": "What's your favourite kind of noodle?",
+      "date": "2026-08-10",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-09",
       "title": "How important is politeness?",
       "date": "2026-08-09",
@@ -825,7 +850,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -836,7 +861,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
