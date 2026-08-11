@@ -147,6 +147,41 @@
       "origFolderEn": "Talk Show"
     },
     {
+      "id": "2026-08-11-6",
+      "title": "Europe awaits first total solar eclipse since 1999 | BBC News",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-11-6",
+      "title": "Europe awaits first total solar eclipse since 1999 | BBC News",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-11-6b",
+      "title": "Europe awaits first total solar eclipse since 1999 | BBC News",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-10",
       "title": "How Daylight Saving Time Affects Health",
       "date": "2026-08-10",
@@ -995,7 +1030,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-06-5",
@@ -1005,7 +1040,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC·进阶版",
       "origFolderEn": "BBC·进阶版",
       "accent": "british"
@@ -1019,7 +1054,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-06-6",
