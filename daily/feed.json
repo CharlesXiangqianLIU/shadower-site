@@ -113,6 +113,18 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-11-4b",
+      "title": "‘Kitchen-Table’ Is a Type of Politics",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-4b.json",
+      "folder": "VOA Words and Their Stories",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
       "id": "2026-08-10",
       "title": "How Daylight Saving Time Affects Health",
       "date": "2026-08-10",
@@ -186,65 +198,6 @@
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
-    },
-    {
-      "id": "2026-08-10-4",
-      "title": "Nature: Otters in California",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.json",
-      "folder": "US更新·进阶版",
-      "accent": "american",
-      "level": "C1",
-      "free": true
-    },
-    {
-      "id": "wu-2026-08-10-4",
-      "title": "Nature: Otters in California",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
-      "id": "2026-08-10-5",
-      "title": "The bond between dog and duck",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.json",
-      "folder": "US更新·进阶版",
-      "accent": "american",
-      "level": "C1",
-      "free": true
-    },
-    {
-      "id": "wu-2026-08-10-5",
-      "title": "The bond between dog and duck",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
-      "id": "2026-08-10-5b",
-      "title": "The bond between dog and duck",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-5b.json",
-      "folder": "US更新",
-      "accent": "american",
-      "level": "C1",
-      "free": true
     },
     {
       "id": "2026-08-10-6",
@@ -540,30 +493,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "2026-08-09-7",
-      "title": "Nature: Otters in California",
-      "date": "2026-08-09",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-7.json",
-      "folder": "US更新·进阶版",
-      "accent": "american",
-      "level": "C1",
-      "free": false
-    },
-    {
-      "id": "wu-2026-08-09-7",
-      "title": "Nature: Otters in California",
-      "date": "2026-08-09",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-08",
@@ -911,30 +840,6 @@
       "free": true,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
-      "id": "2026-08-07-5",
-      "title": "Drifting Science Station Sets",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-5.json",
-      "folder": "Lucas Reading",
-      "folderEn": "Lucas Reading",
-      "accent": "british",
-      "free": true
-    },
-    {
-      "id": "wu-2026-08-07-5",
-      "title": "Drifting Science Station Sets",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "Lucas Reading",
-      "origFolderEn": "Lucas Reading",
       "accent": "british"
     },
     {
@@ -2239,7 +2144,7 @@
       "folder": "VOA Words and Their Stories",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
