@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-11",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part One",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-08-11",
+      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part One",
+      "date": "2026-08-11",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-10",
       "title": "How Daylight Saving Time Affects Health",
       "date": "2026-08-10",
@@ -2057,7 +2082,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories Advanced",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
