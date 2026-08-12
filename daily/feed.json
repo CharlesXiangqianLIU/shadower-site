@@ -76,6 +76,76 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-12-4",
+      "title": "One of NYC's oldest homes welcomes you in the heart of Queens",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-12-4",
+      "title": "One of NYC's oldest homes welcomes you in the heart of Queens",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-12-4b",
+      "title": "One of NYC's oldest homes welcomes you in the heart of Queens",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-4b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-12-5",
+      "title": "David Crowley wins the Democratic primary for Wisconsin governor",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-12-5",
+      "title": "David Crowley wins the Democratic primary for Wisconsin governor",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-12-5b",
+      "title": "David Crowley wins the Democratic primary for Wisconsin governor",
+      "date": "2026-08-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-12-5b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-11",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part One",
       "date": "2026-08-11",
@@ -600,7 +670,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-09-6",
@@ -610,7 +680,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-6.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -624,7 +694,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-08",
@@ -635,7 +705,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-08",
@@ -645,7 +715,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -659,7 +729,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-08-2",
