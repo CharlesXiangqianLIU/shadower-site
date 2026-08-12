@@ -1330,19 +1330,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-04",
-      "title": "What will happen during August 2026 solar eclipse",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新",
-      "origFolderEn": "US更新",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-04-2",
       "title": "This satellite can see inside forests | BBC News",
       "date": "2026-08-04",
@@ -1352,19 +1339,6 @@
       "accent": "british",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-04-2",
-      "title": "This satellite can see inside forests | BBC News",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
     },
     {
       "id": "2026-08-04-3",
@@ -1379,19 +1353,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-04-3",
-      "title": "Rappaccini’s Daughter by Nathaniel Hawthorne, Part One",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-04-4",
       "title": "Are plant-based substitutes healthier than meat?",
       "date": "2026-08-04",
@@ -1402,19 +1363,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-04-4",
-      "title": "Are plant-based substitutes healthier than meat?",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-04-5",
@@ -1429,19 +1377,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-04-5",
-      "title": "Talking about hot weather",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-04-6",
       "title": "The Importance of Being ‘Dialed In’",
       "date": "2026-08-04",
@@ -1452,19 +1387,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-04-6",
-      "title": "The Importance of Being ‘Dialed In’",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-04-7",
@@ -1478,19 +1400,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-04-7",
-      "title": "Julius Sturgis: America’s First Commercial Pretzel Bakery",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新",
-      "origFolderEn": "US更新",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-04-8",
       "title": "Are some schools taking discipline too far? | BBC News",
       "date": "2026-08-04",
@@ -1500,19 +1409,6 @@
       "accent": "british",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-04-8",
-      "title": "Are some schools taking discipline too far? | BBC News",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-8.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-8.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC",
-      "origFolderEn": "BBC",
-      "accent": "british"
     },
     {
       "id": "2026-08-04-8b",
@@ -3126,18 +3022,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-63.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-63.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-64",
-      "title": "Are you flourishing?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-64.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-64.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
