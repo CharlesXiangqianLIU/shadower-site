@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-14",
+      "title": "Mary Kay: A Leader in the Beauty Product Industry",
+      "date": "2026-08-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-14",
+      "title": "Mary Kay: A Leader in the Beauty Product Industry",
+      "date": "2026-08-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-13",
       "title": "'The Blue Hotel,' by Stephen Crane, Part Four",
       "date": "2026-08-13",
@@ -1718,7 +1743,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
