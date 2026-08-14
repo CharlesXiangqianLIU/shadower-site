@@ -51,6 +51,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-14-3",
+      "title": "Talking about sunshine",
+      "date": "2026-08-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-08-14-3",
+      "title": "Talking about sunshine",
+      "date": "2026-08-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-13",
       "title": "'The Blue Hotel,' by Stephen Crane, Part Four",
       "date": "2026-08-13",
@@ -830,7 +855,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -841,7 +866,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-09-3.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
