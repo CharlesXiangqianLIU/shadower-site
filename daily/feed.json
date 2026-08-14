@@ -1286,19 +1286,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-06",
-      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-06b",
       "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part Three",
       "date": "2026-08-06",
@@ -1347,19 +1334,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-06-4",
-      "title": "Don't Miss a Thing With 'Eagle Eyes'",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-06-4b",
       "title": "Don't Miss a Thing With 'Eagle Eyes'",
       "date": "2026-08-06",
@@ -1383,19 +1357,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-06-5",
-      "title": "This is why young people are leaving Cornwall | BBC News",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC·进阶版",
-      "origFolderEn": "BBC·进阶版",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-06-5b",
       "title": "This is why young people are leaving Cornwall | BBC News",
       "date": "2026-08-06",
@@ -1416,19 +1377,6 @@
       "accent": "american",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-06-6",
-      "title": "Scientists test vaccines to intercept brewing colon cancer before it takes root",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-06-6b",
@@ -3257,18 +3205,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-61.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-61.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-62",
-      "title": "What's your favourite snack?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-62.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-62.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
