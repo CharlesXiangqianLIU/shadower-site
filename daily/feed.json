@@ -1238,18 +1238,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-07",
-      "title": "還好我都看海綿寶寶（沒有比較好）",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
-    },
-    {
       "id": "2026-08-07-2",
       "title": "Australian Navy Rescues Rower Crossing Pacific from California",
       "date": "2026-08-07",
@@ -1260,19 +1248,6 @@
       "accent": "american",
       "free": true,
       "level": "B1"
-    },
-    {
-      "id": "wu-2026-08-07-2",
-      "title": "Australian Navy Rescues Rower Crossing Pacific from California",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
     },
     {
       "id": "2026-08-07-3",
@@ -1287,19 +1262,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-07-3",
-      "title": "How do climate scientists make predictions?",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-07-4",
       "title": "Talking about names",
       "date": "2026-08-07",
@@ -1312,19 +1274,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-07-4",
-      "title": "Talking about names",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-07-6",
       "title": "Dino Skeleton Breaks Record",
       "date": "2026-08-07",
@@ -1334,19 +1283,6 @@
       "folderEn": "Lucas Reading",
       "accent": "british",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-07-6",
-      "title": "Dino Skeleton Breaks Record",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "Lucas Reading",
-      "origFolderEn": "Lucas Reading",
-      "accent": "british"
     },
     {
       "id": "2026-08-06",
@@ -3268,18 +3204,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-60.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-60.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-61",
-      "title": "What's it like to be a twin?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-61.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-61.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
