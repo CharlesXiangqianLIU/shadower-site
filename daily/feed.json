@@ -1,6 +1,30 @@
 {
   "lessons": [
     {
+      "id": "2026-08-16",
+      "title": "Estimating Lives Saved and Lost",
+      "date": "2026-08-16",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.json",
+      "folder": "BBC Radio 4·进阶版",
+      "folderEn": "BBC Radio 4",
+      "accent": "british",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-16",
+      "title": "Estimating Lives Saved and Lost",
+      "date": "2026-08-16",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Radio 4·进阶版",
+      "origFolderEn": "BBC Radio 4",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-15",
       "title": "'The Blue Hotel,' by Stephen Crane, Part Three",
       "date": "2026-08-15",
@@ -7546,7 +7570,7 @@
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-113.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-113.json",
       "folder": "BBC Radio 4·进阶版",
-      "free": true,
+      "free": false,
       "level": "C1",
       "accent": "british",
       "durations": [
