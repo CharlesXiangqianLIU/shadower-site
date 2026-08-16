@@ -1,0 +1,322 @@
+[
+  {
+    "index": 0,
+    "text": "And that brings us to the Lancet study.",
+    "start": 0.09,
+    "end": 2.171,
+    "zh": "这就引出了《柳叶刀》的那项研究。",
+    "zh_hant": "這就引出了《柳葉刀》的那項研究。"
+  },
+  {
+    "index": 1,
+    "text": "which estimated that more than 14 million additional deaths could occur by 2030 if the cuts continued.",
+    "start": 2.111,
+    "end": 8.814,
+    "zh": "该研究估计，如果削减持续下去，到2030年可能还会出现超过1400万例额外死亡。",
+    "zh_hant": "該研究估計，如果削減持續下去，到2030年可能還會出現超過1400萬例額外死亡。"
+  },
+  {
+    "index": 2,
+    "text": "They basically looked at several decades of data across more than 100 countries",
+    "start": 8.574,
+    "end": 15.918,
+    "zh": "他们基本上查看了100多个国家几十年的数据",
+    "zh_hant": "他們基本上檢視了100多個國家幾十年的資料"
+  },
+  {
+    "index": 3,
+    "text": "and looked at the relationship of how much US aid was delivered per person",
+    "start": 15.898,
+    "end": 22.661,
+    "zh": "并研究了美国人均援助的交付量",
+    "zh_hant": "並研究了美國人均援助的交付量"
+  },
+  {
+    "index": 4,
+    "text": "and what happened to health outcomes in that country.",
+    "start": 23.061,
+    "end": 26.383,
+    "zh": "与该国健康结果之间的关系。",
+    "zh_hant": "與該國健康結果之間的關係。"
+  },
+  {
+    "index": 5,
+    "text": "Did deaths go up or down?",
+    "start": 26.103,
+    "end": 27.724,
+    "zh": "死亡人数是上升了还是下降了？",
+    "zh_hant": "死亡人數是上升了還是下降了？"
+  },
+  {
+    "index": 6,
+    "text": "By what diseases and what age groups?",
+    "start": 27.374,
+    "end": 29.805,
+    "zh": "涉及哪些疾病和年龄组？",
+    "zh_hant": "涉及哪些疾病和年齡組？"
+  },
+  {
+    "index": 7,
+    "text": "So they tried to look at this relationship between delivery of USAID and what happened to health outcomes.",
+    "start": 29.455,
+    "end": 35.147,
+    "zh": "所以他们试图考察美国国际开发署（USAID）的交付与健康结果之间的关系。",
+    "zh_hant": "所以他們試圖考察美國國際開發署（USAID）的交付與健康結果之間的關係。"
+  },
+  {
+    "index": 8,
+    "text": "But here's the problem.",
+    "start": 34.987,
+    "end": 36.208,
+    "zh": "但问题在于。",
+    "zh_hant": "但問題在於。"
+  },
+  {
+    "index": 9,
+    "text": "During those two decades, lots of other things were changing too.",
+    "start": 36.288,
+    "end": 39.649,
+    "zh": "在那二十年里，很多其他事情也在发生变化。",
+    "zh_hant": "在那二十年裡，很多其他事情也在發生變化。"
+  },
+  {
+    "index": 10,
+    "text": "Incomes rose, economies changed, education became more accessible, and all of those things can improve health.",
+    "start": 39.57,
+    "end": 45.953,
+    "zh": "收入增加、经济转型、教育更普及，所有这些都能改善健康。",
+    "zh_hant": "收入增加、經濟轉型、教育更普及，所有這些都能改善健康。"
+  },
+  {
+    "index": 11,
+    "text": "So how do you disentangle which improvements were actually caused by USAID?",
+    "start": 45.953,
+    "end": 51.196,
+    "zh": "那么你如何厘清哪些改善真正是由USAID造成的呢？",
+    "zh_hant": "那麼你如何釐清哪些改善真正是由USAID造成的呢？"
+  },
+  {
+    "index": 12,
+    "text": "They tried to isolate USAID and health outcomes.",
+    "start": 52.296,
+    "end": 56.838,
+    "zh": "他们试图孤立出USAID与健康结果的关联。",
+    "zh_hant": "他們試圖孤立出USAID與健康結果的關聯。"
+  },
+  {
+    "index": 13,
+    "text": "I think it's just very, very hard to really properly control for all of that, but that's what they did.",
+    "start": 56.859,
+    "end": 62.361,
+    "zh": "我认为要真正恰当地控制所有这些因素非常非常困难，但他们就是这么做的。",
+    "zh_hant": "我認為要真正恰當地控制所有這些因素非常非常困難，但他們就是這麼做的。"
+  },
+  {
+    "index": 14,
+    "text": "And then they basically found this relationship.",
+    "start": 62.461,
+    "end": 64.662,
+    "zh": "然后他们基本上发现了这种关系。",
+    "zh_hant": "然後他們基本上發現了這種關係。"
+  },
+  {
+    "index": 15,
+    "text": "And this relationship said the more USAID per person a country was given, the better their health outcomes.",
+    "start": 64.312,
+    "end": 71.626,
+    "zh": "这种关系表明，一个国家获得的人均USAID援助越多，其健康结果就越好。",
+    "zh_hant": "這種關係表明，一個國家獲得的人均USAID援助越多，其健康結果就越好。"
+  },
+  {
+    "index": 16,
+    "text": "And they basically measured how strong that relationship was for different diseases and then said,",
+    "start": 71.276,
+    "end": 76.828,
+    "zh": "他们基本上衡量了这种关系对不同疾病的强度，然后说，",
+    "zh_hant": "他們基本上衡量了這種關係對不同疾病的強度，然後說，"
+  },
+  {
+    "index": 17,
+    "text": "if we project that into the future, taking Taking away that aid,",
+    "start": 76.478,
+    "end": 80.35,
+    "zh": "如果我们把这种关系投射到未来，去掉那部分援助，",
+    "zh_hant": "如果我們把這種關係投射到未來，去掉那部分援助，"
+  },
+  {
+    "index": 18,
+    "text": "you would then expect perhaps the opposite effect on health outcomes with the lack of that aid.",
+    "start": 80.191,
+    "end": 86.253,
+    "zh": "那么你就可能会预期，由于缺乏援助，健康结果会出现相反的效果。",
+    "zh_hant": "那麼你就可能會預期，由於缺乏援助，健康結果會出現相反的效果。"
+  },
+  {
+    "index": 19,
+    "text": "But there are a few issues, and one of them is the poor or unreliable data that we mentioned earlier.",
+    "start": 86.294,
+    "end": 92.957,
+    "zh": "但有几个问题，其中之一就是我们之前提到的数据质量差或不可靠。",
+    "zh_hant": "但有幾個問題，其中之一就是我們之前提到的資料質量差或不可靠。"
+  },
+  {
+    "index": 20,
+    "text": "There are reasons why USAID might be delivered in a particular setting.",
+    "start": 95.638,
+    "end": 100.84,
+    "zh": "USAID在某些特定环境下被交付是有原因的。",
+    "zh_hant": "USAID在某些特定環境下被交付是有原因的。"
+  },
+  {
+    "index": 21,
+    "text": "Maybe there is a particular crisis there.",
+    "start": 100.52,
+    "end": 103.162,
+    "zh": "也许那里正发生特定危机。",
+    "zh_hant": "也許那裡正發生特定危機。"
+  },
+  {
+    "index": 22,
+    "text": "There are decisions about where aid goes, maybe based on where they think an economy can do the most good with that money, right?",
+    "start": 103.162,
+    "end": 109.845,
+    "zh": "关于援助去向的决策，可能基于他们认为哪些经济体用这笔钱能发挥最大效益，对吧？",
+    "zh_hant": "關於援助去向的決策，可能基於他們認為哪些經濟體用這筆錢能發揮最大效益，對吧？"
+  },
+  {
+    "index": 23,
+    "text": "Where there's health infrastructure so that these programs can be delivered.",
+    "start": 109.495,
+    "end": 113.727,
+    "zh": "或者哪里有健康基础设施，使这些项目能够得以实施。",
+    "zh_hant": "或者哪裡有健康基礎設施，使這些專案能夠得以實施。"
+  },
+  {
+    "index": 24,
+    "text": "So there are other compounding reasons that make that relationship quite complicated.",
+    "start": 113.377,
+    "end": 118.849,
+    "zh": "所以还有其他叠加因素使这种关系变得相当复杂。",
+    "zh_hant": "所以還有其他疊加因素使這種關係變得相當複雜。"
+  },
+  {
+    "index": 25,
+    "text": "These projections also assume that once the American funding is gone, nothing will step into the gap left behind.",
+    "start": 119.03,
+    "end": 125.733,
+    "zh": "这些预测还假设，一旦美国资金消失，不会有任何东西填补留下的空白。",
+    "zh_hant": "這些預測還假設，一旦美國資金消失，不會有任何東西填補留下的空白。"
+  },
+  {
+    "index": 26,
+    "text": "And I just don't think that's realistic.",
+    "start": 125.513,
+    "end": 128.214,
+    "zh": "我只是觉得这不现实。",
+    "zh_hant": "我只是覺得這不現實。"
+  },
+  {
+    "index": 27,
+    "text": "But just as the Lancet figure might never come to pass,",
+    "start": 128.034,
+    "end": 130.896,
+    "zh": "但正如《柳叶刀》的数字可能永远不会实现一样，",
+    "zh_hant": "但正如《柳葉刀》的數字可能永遠不會實現一樣，"
+  },
+  {
+    "index": 28,
+    "text": "Elon Musk's assertion that no one has died is extremely unlikely to be true.",
+    "start": 130.776,
+    "end": 135.838,
+    "zh": "埃隆·马斯克声称没有人死亡的说法也极不可能成立。",
+    "zh_hant": "埃隆·馬斯克聲稱沒有人死亡的說法也極不可能成立。"
+  },
+  {
+    "index": 29,
+    "text": "Already, journalists are reporting deaths that appear to be linked to agencies",
+    "start": 135.918,
+    "end": 140.0,
+    "zh": "已经有记者在报道与那些机构相关的死亡事件",
+    "zh_hant": "已經有記者在報道與那些機構相關的死亡事件"
+  },
+  {
+    "index": 30,
+    "text": "running out of funds for things like mosquito nets or petrol for ambulances.",
+    "start": 139.65,
+    "end": 143.782,
+    "zh": "因为资金耗尽，用于蚊帐或救护车汽油等物品的资金不足。",
+    "zh_hant": "因為資金耗盡，用於蚊帳或救護車汽油等物品的資金不足。"
+  },
+  {
+    "index": 31,
+    "text": "It's this knock-on chain of events during the confusion that makes it impossible to say that no one has died or will die.",
+    "start": 143.782,
+    "end": 151.006,
+    "zh": "正是这种混乱期间连锁发生的事件，让人无法断言没有人已经或将死亡。",
+    "zh_hant": "正是這種混亂期間連鎖發生的事件，讓人無法斷言沒有人已經或將死亡。"
+  },
+  {
+    "index": 32,
+    "text": "I think there have been deaths from cuts in US aid.",
+    "start": 150.906,
+    "end": 154.607,
+    "zh": "我认为美国援助的削减已经造成了死亡。",
+    "zh_hant": "我認為美國援助的削減已經造成了死亡。"
+  },
+  {
+    "index": 33,
+    "text": "These programs have delivered genuinely life-saving interventions.",
+    "start": 154.728,
+    "end": 160.09,
+    "zh": "这些项目确实提供了挽救生命的干预措施。",
+    "zh_hant": "這些專案確實提供了挽救生命的干預措施。"
+  },
+  {
+    "index": 34,
+    "text": "We know that there has been a significant decline in delivery of HIV treatments.",
+    "start": 160.351,
+    "end": 166.435,
+    "zh": "我们知道艾滋病治疗的交付量大幅下降。",
+    "zh_hant": "我們知道艾滋病治療的交付量大幅下降。"
+  },
+  {
+    "index": 35,
+    "text": "There has been significant decline in the number of vaccines delivered.",
+    "start": 166.085,
+    "end": 169.877,
+    "zh": "疫苗交付数量也显著减少。",
+    "zh_hant": "疫苗交付數量也顯著減少。"
+  },
+  {
+    "index": 36,
+    "text": "These all save lives.",
+    "start": 169.818,
+    "end": 171.679,
+    "zh": "这些都拯救生命。",
+    "zh_hant": "這些都拯救生命。"
+  },
+  {
+    "index": 37,
+    "text": "It's very hard for us to quantify, especially with data gaps that are there, exactly how many.",
+    "start": 171.519,
+    "end": 177.483,
+    "zh": "我们很难量化，尤其是考虑到现有的数据缺口，确切有多少",
+    "zh_hant": "我們很難量化，尤其是考慮到現有的資料缺口，確切有多少"
+  },
+  {
+    "index": 38,
+    "text": "lives have been lost as a result of these cuts, but I definitely do not think the answer is zero.",
+    "start": 177.133,
+    "end": 183.387,
+    "zh": "生命因这些削减而丧失，但我绝对不认为答案是零。",
+    "zh_hant": "生命因這些削減而喪失，但我絕對不認為答案是零。"
+  },
+  {
+    "index": 39,
+    "text": "Thanks to Dr. Hannah Ritchie, and that is all we have time for this week.",
+    "start": 183.468,
+    "end": 186.97,
+    "zh": "感谢汉娜·里奇博士，我们本周的时间就到这里。",
+    "zh_hant": "感謝漢娜·裡奇博士，我們本週的時間就到這裡。"
+  }
+]
