@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-17",
+      "title": "Pearl S. Buck: The First American Woman to Win a Nobel Prize in Literature",
+      "date": "2026-08-17",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-17",
+      "title": "Pearl S. Buck: The First American Woman to Win a Nobel Prize in Literature",
+      "date": "2026-08-17",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-16",
       "title": "Estimating Lives Saved and Lost",
       "date": "2026-08-16",
@@ -1551,7 +1576,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
