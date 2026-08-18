@@ -1077,19 +1077,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-10",
-      "title": "How Daylight Saving Time Affects Health",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-10-2",
       "title": "What's your favourite kind of noodle?",
       "date": "2026-08-10",
@@ -1100,19 +1087,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-10-2",
-      "title": "What's your favourite kind of noodle?",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-10-3",
@@ -1127,19 +1101,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-10-3",
-      "title": "Talking about fruit",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-10-6",
       "title": "Visiting the Iowa 80 Truckstop, the world's largest",
       "date": "2026-08-10",
@@ -1149,19 +1110,6 @@
       "accent": "american",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-10-6",
-      "title": "Visiting the Iowa 80 Truckstop, the world's largest",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-10-6b",
@@ -1186,19 +1134,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-10-7",
-      "title": "Protecting the Venus fly trap",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-10-7b",
       "title": "Protecting the Venus fly trap",
       "date": "2026-08-10",
@@ -1219,19 +1154,6 @@
       "accent": "american",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "wu-2026-08-10-8",
-      "title": "Rescuing a candlepin bowling alley helps bolster a Maine community",
-      "date": "2026-08-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-10-8.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-10-8b",
@@ -3445,18 +3367,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-57.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-57.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-58",
-      "title": "Would you like a robot companion?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-58.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-58.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
