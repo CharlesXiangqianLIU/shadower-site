@@ -896,19 +896,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-11",
-      "title": "'The Fall of the House of Usher,' by Edgar Allan Poe, Part One",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-11-2",
       "title": "Foods that go crunch",
       "date": "2026-08-11",
@@ -919,19 +906,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-11-2",
-      "title": "Foods that go crunch",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-11b",
@@ -958,19 +932,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-11-3",
-      "title": "Talking about the dentist",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-11-4",
       "title": "‘Kitchen-Table’ Is a Type of Politics",
       "date": "2026-08-11",
@@ -981,19 +942,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-11-4",
-      "title": "‘Kitchen-Table’ Is a Type of Politics",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-11-4b",
@@ -1018,18 +966,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-11-5",
-      "title": "Sofia每次都讓我笑死",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
-    },
-    {
       "id": "2026-08-11-6",
       "title": "Europe awaits first total solar eclipse since 1999 | BBC News",
       "date": "2026-08-11",
@@ -1039,19 +975,6 @@
       "accent": "british",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-11-6",
-      "title": "Europe awaits first total solar eclipse since 1999 | BBC News",
-      "date": "2026-08-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-11-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC·进阶版",
-      "origFolderEn": "BBC·进阶版",
-      "accent": "british"
     },
     {
       "id": "2026-08-11-6b",
