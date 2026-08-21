@@ -1,0 +1,338 @@
+[
+  {
+    "index": 0,
+    "text": "The day is here!",
+    "start": 0.15,
+    "end": 1.731,
+    "zh": "这一天来了！",
+    "zh_hant": "這一天來了！"
+  },
+  {
+    "index": 1,
+    "text": "GCSE results are out in England, Wales and Northern Ireland.",
+    "start": 1.771,
+    "end": 5.653,
+    "zh": "GCSE成绩在英格兰、威尔士和北爱尔兰公布了。",
+    "zh_hant": "GCSE成績在英格蘭、威爾士和北愛爾蘭公佈了。"
+  },
+  {
+    "index": 2,
+    "text": "If you didn't get the results you expected, whether they were higher or lower,",
+    "start": 5.773,
+    "end": 9.855,
+    "zh": "如果你得到的成绩不如预期，无论是更高还是更低，",
+    "zh_hant": "如果你得到的成績不如預期，無論是更高還是更低，"
+  },
+  {
+    "index": 3,
+    "text": "this video will have everything you need to know about what you can go on to do next.",
+    "start": 9.775,
+    "end": 14.457,
+    "zh": "这个视频将涵盖你需要知道的所有关于接下来可以做什么的内容。",
+    "zh_hant": "這個影片將涵蓋你需要知道的所有關於接下來可以做什麼的內容。"
+  },
+  {
+    "index": 4,
+    "text": "Use the chapter heads below to skip to what matters to you.",
+    "start": 14.577,
+    "end": 17.719,
+    "zh": "使用下方的章节标题跳到你关心的部分。",
+    "zh_hant": "使用下方的章節標題跳到你關心的部分。"
+  },
+  {
+    "index": 5,
+    "text": "You might want to get your GCSE paper remarked.",
+    "start": 19.8,
+    "end": 22.761,
+    "zh": "你可能想让GCSE试卷被重新评分。",
+    "zh_hant": "你可能想讓GCSE試卷被重新評分。"
+  },
+  {
+    "index": 6,
+    "text": "Let your teachers know because they're the ones who arrange this directly with the exam board.",
+    "start": 22.701,
+    "end": 27.403,
+    "zh": "告诉你的老师，因为他们是直接与考试委员会安排这件事的人。",
+    "zh_hant": "告訴你的老師，因為他們是直接與考試委員會安排這件事的人。"
+  },
+  {
+    "index": 7,
+    "text": "A remark means the exam board checks your exam paper again to see if there were any marking mistakes.",
+    "start": 27.544,
+    "end": 32.646,
+    "zh": "重新评分意味着考试委员会再次检查你的试卷，看是否有评分错误。",
+    "zh_hant": "重新評分意味著考試委員會再次檢查你的試卷，看是否有評分錯誤。"
+  },
+  {
+    "index": 8,
+    "text": "It can lead to a change in your overall grade, but it's important to know your grade could go up or down.",
+    "start": 32.726,
+    "end": 39.489,
+    "zh": "这可能会导致你的总成绩发生变化，但重要的是要知道成绩可能上升也可能下降。",
+    "zh_hant": "這可能會導致你的總成績發生變化，但重要的是要知道成績可能上升也可能下降。"
+  },
+  {
+    "index": 9,
+    "text": "If you still think there's an issue after the remark, you can appeal.",
+    "start": 39.71,
+    "end": 43.132,
+    "zh": "如果重新评分后你仍然觉得有问题，你可以提出申诉。",
+    "zh_hant": "如果重新評分後你仍然覺得有問題，你可以提出申訴。"
+  },
+  {
+    "index": 10,
+    "text": "Oh, and one more thing, if your grade doesn't change, you might have to pay a fee.",
+    "start": 43.372,
+    "end": 47.814,
+    "zh": "哦，还有一件事，如果你的成绩没有变化，你可能需要支付费用。",
+    "zh_hant": "哦，還有一件事，如果你的成績沒有變化，你可能需要支付費用。"
+  },
+  {
+    "index": 11,
+    "text": "Check that with your teachers first.",
+    "start": 47.614,
+    "end": 49.515,
+    "zh": "先和你的老师确认一下这件事。",
+    "zh_hant": "先和你的老師確認一下這件事。"
+  },
+  {
+    "index": 12,
+    "text": "Lots of students choose to resit their exams every year,",
+    "start": 51.396,
+    "end": 54.837,
+    "zh": "每年都有很多学生选择重考，",
+    "zh_hant": "每年都有很多學生選擇重考，"
+  },
+  {
+    "index": 13,
+    "text": "so if you're not happy with your grades, it's definitely an option to consider.",
+    "start": 54.818,
+    "end": 58.599,
+    "zh": "所以如果你对自己的成绩不满意，这绝对是一个可以考虑的选项。",
+    "zh_hant": "所以如果你對自己的成績不滿意，這絕對是一個可以考慮的選項。"
+  },
+  {
+    "index": 14,
+    "text": "You can usually retake any GCSE subject.",
+    "start": 58.74,
+    "end": 61.881,
+    "zh": "你通常可以重考任何GCSE科目。",
+    "zh_hant": "你通常可以重考任何GCSE科目。"
+  },
+  {
+    "index": 15,
+    "text": "Resits for English and Maths happen in the autumn, but for most other subjects, you'll need to wait until the following year.",
+    "start": 61.941,
+    "end": 68.104,
+    "zh": "英语和数学的重考在秋季进行，但大多数其他科目需要等到下一年。",
+    "zh_hant": "英語和數學的重考在秋季進行，但大多數其他科目需要等到下一年。"
+  },
+  {
+    "index": 16,
+    "text": "If you're thinking about resitting, the first thing to do is speak to your school or college.",
+    "start": 68.444,
+    "end": 72.766,
+    "zh": "如果你考虑重考，第一步是和你的学校或学院谈谈。",
+    "zh_hant": "如果你考慮重考，第一步是和你的學校或學院談談。"
+  },
+  {
+    "index": 17,
+    "text": "They'll be able to explain your options and whether there are any costs involved.",
+    "start": 72.767,
+    "end": 77.068,
+    "zh": "他们会解释你的选项以及是否有任何相关费用。",
+    "zh_hant": "他們會解釋你的選項以及是否有任何相關費用。"
+  },
+  {
+    "index": 18,
+    "text": "In some cases, resits can be free, but it depends on the subject, your grades, and where you study.",
+    "start": 77.249,
+    "end": 83.532,
+    "zh": "在某些情况下，重考可能是免费的，但这取决于科目、你的成绩和你学习的地点。",
+    "zh_hant": "在某些情況下，重考可能是免費的，但這取決於科目、你的成績和你學習的地點。"
+  },
+  {
+    "index": 19,
+    "text": "If you're in England and you don't get a grade 4 in English or Maths,",
+    "start": 83.672,
+    "end": 87.494,
+    "zh": "如果你在英格兰，英语或数学没有达到4级，",
+    "zh_hant": "如果你在英格蘭，英語或數學沒有達到4級，"
+  },
+  {
+    "index": 20,
+    "text": "you'll need to continue studying those subjects alongside your next course.",
+    "start": 87.314,
+    "end": 91.436,
+    "zh": "你需要在下一个课程中继续学习这些科目。",
+    "zh_hant": "你需要在下一個課程中繼續學習這些科目。"
+  },
+  {
+    "index": 21,
+    "text": "You don't have to resit the exam, but your school or college will generally enter you when they think you're ready.",
+    "start": 91.496,
+    "end": 97.559,
+    "zh": "你不必重考，但你的学校或学院通常会在他们认为你准备好时为你报名。",
+    "zh_hant": "你不必重考，但你的學校或學院通常會在他們認為你準備好時為你報名。"
+  },
+  {
+    "index": 22,
+    "text": "A-levels are a popular choice, especially if you're thinking about going to university, but they aren't the only next step after Year 11.",
+    "start": 99.4,
+    "end": 106.493,
+    "zh": "A-level是一个受欢迎的选择，特别是如果你考虑上大学，但它们并不是11年级后唯一的下一步。",
+    "zh_hant": "A-level是一個受歡迎的選擇，特別是如果你考慮上大學，但它們並不是11年級後唯一的下一步。"
+  },
+  {
+    "index": 23,
+    "text": "If you're in England, you can do a T-level, which is made up of 80% classroom learning and 20% work placement.",
+    "start": 106.543,
+    "end": 113.126,
+    "zh": "如果你在英格兰，你可以选择T-level，它由80%的课堂学习和20%的工作实习组成。",
+    "zh_hant": "如果你在英格蘭，你可以選擇T-level，它由80%的課堂學習和20%的工作實習組成。"
+  },
+  {
+    "index": 24,
+    "text": "There are more than 20 T Level subjects to choose from, including accounting.",
+    "start": 113.127,
+    "end": 117.248,
+    "zh": "有超过20个T-level科目可以选择，包括会计。",
+    "zh_hant": "有超過20個T-level科目可以選擇，包括會計。"
+  },
+  {
+    "index": 25,
+    "text": "craft and design, engineering and media production.",
+    "start": 117.089,
+    "end": 120.551,
+    "zh": "工艺与设计、工程和媒体制作。",
+    "zh_hant": "工藝與設計、工程和媒體制作。"
+  },
+  {
+    "index": 26,
+    "text": "There are other types of vocational technical qualifications too, like BTECs and Cambridge Technicals.",
+    "start": 120.491,
+    "end": 125.993,
+    "zh": "还有其他类型的职业技术资格，比如BTEC和Cambridge Technicals。",
+    "zh_hant": "還有其他型別的職業技術資格，比如BTEC和Cambridge Technicals。"
+  },
+  {
+    "index": 27,
+    "text": "And you can apply for apprenticeships, where you can study alongside working, and you'll earn a wage.",
+    "start": 126.154,
+    "end": 131.256,
+    "zh": "你也可以申请学徒制，边工作边学习，还能赚取工资。",
+    "zh_hant": "你也可以申請學徒制，邊工作邊學習，還能賺取工資。"
+  },
+  {
+    "index": 28,
+    "text": "You can also find a job straight after school.",
+    "start": 131.016,
+    "end": 133.677,
+    "zh": "你也可以毕业后直接找工作。",
+    "zh_hant": "你也可以畢業後直接找工作。"
+  },
+  {
+    "index": 29,
+    "text": "If you live in England, you'll also need to do some form of part-time study or training until you're 18.",
+    "start": 133.757,
+    "end": 141.651,
+    "zh": "如果你住在英格兰，你还需要在18岁之前进行某种形式的兼职学习或培训。",
+    "zh_hant": "如果你住在英格蘭，你還需要在18歲之前進行某種形式的兼職學習或培訓。"
+  },
+  {
+    "index": 30,
+    "text": "GCSE results do matter when you're applying to university.",
+    "start": 141.701,
+    "end": 145.483,
+    "zh": "申请大学时，GCSE成绩确实很重要。",
+    "zh_hant": "申請大學時，GCSE成績確實很重要。"
+  },
+  {
+    "index": 31,
+    "text": "Both your grades and the subjects you choose can make a difference.",
+    "start": 145.483,
+    "end": 149.085,
+    "zh": "你的成绩和选择的科目都会产生影响。",
+    "zh_hant": "你的成績和選擇的科目都會產生影響。"
+  },
+  {
+    "index": 32,
+    "text": "Exactly what's needed depends on the course you want to study.",
+    "start": 149.165,
+    "end": 152.486,
+    "zh": "具体需要什么取决于你想学习的课程。",
+    "zh_hant": "具體需要什麼取決於你想學習的課程。"
+  },
+  {
+    "index": 33,
+    "text": "Unis should set out on their website which GCSEs are needed for different courses.",
+    "start": 152.787,
+    "end": 157.349,
+    "zh": "大学应该在其网站上列明不同课程所需的GCSE科目。",
+    "zh_hant": "大學應該在其網站上列明不同課程所需的GCSE科目。"
+  },
+  {
+    "index": 34,
+    "text": "Some subjects, like medicine, might have stricter requirements than others,",
+    "start": 157.449,
+    "end": 161.431,
+    "zh": "有些科目，比如医学，可能有比其他科目更严格的要求，",
+    "zh_hant": "有些科目，比如醫學，可能有比其他科目更嚴格的要求，"
+  },
+  {
+    "index": 35,
+    "text": "but there are likely to be some basic minimums wherever and whatever you want to study.",
+    "start": 161.412,
+    "end": 166.495,
+    "zh": "但无论你在哪里学、学什么，都可能有基本的最低要求。",
+    "zh_hant": "但無論你在哪裡學、學什麼，都可能有基本的最低要求。"
+  },
+  {
+    "index": 36,
+    "text": "Your GCSE results might be even better than you expected.",
+    "start": 168.116,
+    "end": 171.638,
+    "zh": "你的GCSE成绩可能比你预期的还要好。",
+    "zh_hant": "你的GCSE成績可能比你預期的還要好。"
+  },
+  {
+    "index": 37,
+    "text": "Congrats!",
+    "start": 171.318,
+    "end": 172.399,
+    "zh": "恭喜！",
+    "zh_hant": "恭喜！"
+  },
+  {
+    "index": 38,
+    "text": "It could mean you're able to study a different course you weren't sure you'd get the grades for, or go to a different college or sixth form.",
+    "start": 172.399,
+    "end": 178.983,
+    "zh": "这可能意味着你能够学习一个你原本不确定自己成绩够不够的课程，或者去不同的学院或高中。",
+    "zh_hant": "這可能意味著你能夠學習一個你原本不確定自己成績夠不夠的課程，或者去不同的學院或高中。"
+  },
+  {
+    "index": 39,
+    "text": "If that's you, the best thing to do is speak to your school or college.",
+    "start": 179.024,
+    "end": 182.586,
+    "zh": "如果这说的是你，最好的做法是和你现在的学校或学院谈谈。",
+    "zh_hant": "如果這說的是你，最好的做法是和你現在的學校或學院談談。"
+  },
+  {
+    "index": 40,
+    "text": "And if you think you might want to study somewhere else, speak to them too.",
+    "start": 182.526,
+    "end": 186.148,
+    "zh": "如果你觉得可能想转去别处学习，也和他们谈谈。",
+    "zh_hant": "如果你覺得可能想轉去別處學習，也和他們談談。"
+  },
+  {
+    "index": 41,
+    "text": "It's completely fine to change your mind.",
+    "start": 186.189,
+    "end": 188.53,
+    "zh": "改变主意完全没问题。",
+    "zh_hant": "改變主意完全沒問題。"
+  }
+]
