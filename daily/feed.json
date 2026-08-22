@@ -802,19 +802,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-14",
-      "title": "Mary Kay: A Leader in the Beauty Product Industry",
-      "date": "2026-08-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-14-2",
       "title": "Who does the housework?",
       "date": "2026-08-14",
@@ -827,19 +814,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-14-2",
-      "title": "Who does the housework?",
-      "date": "2026-08-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-14-3",
       "title": "Talking about sunshine",
       "date": "2026-08-14",
@@ -850,19 +824,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-14-3",
-      "title": "Talking about sunshine",
-      "date": "2026-08-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-14-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-13",
@@ -3430,18 +3391,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-54.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-54.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-55",
-      "title": "What makes a good citizen?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-55.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-55.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
