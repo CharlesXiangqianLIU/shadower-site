@@ -63,6 +63,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-22-3",
+      "title": "Talking about rain",
+      "date": "2026-08-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-08-22-3",
+      "title": "Talking about rain",
+      "date": "2026-08-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-21",
       "title": "Total Lunar Eclipse to Turn Moon Red",
       "date": "2026-08-21",
@@ -701,7 +726,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -712,7 +737,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-4.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
