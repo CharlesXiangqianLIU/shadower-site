@@ -113,6 +113,40 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-22-4b",
+      "title": "'Kicking Off' a New Year",
+      "date": "2026-08-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-4b.json",
+      "folder": "VOA Words and Their Stories",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "2026-08-22-5",
+      "title": "她來主持我的葬禮我原地復活",
+      "date": "2026-08-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-22-5",
+      "title": "她來主持我的葬禮我原地復活",
+      "date": "2026-08-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-08-21",
       "title": "Total Lunar Eclipse to Turn Moon Red",
       "date": "2026-08-21",
@@ -1724,7 +1758,7 @@
       "folder": "VOA Words and Their Stories",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
