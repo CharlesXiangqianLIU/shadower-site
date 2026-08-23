@@ -814,19 +814,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-15",
-      "title": "'The Blue Hotel,' by Stephen Crane, Part Three",
-      "date": "2026-08-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-15-2",
       "title": "Can cows prevent wildfires?",
       "date": "2026-08-15",
@@ -837,19 +824,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-15-2",
-      "title": "Can cows prevent wildfires?",
-      "date": "2026-08-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-15b",
@@ -876,19 +850,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-15-3",
-      "title": "Talking about being grumpy",
-      "date": "2026-08-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-15-4",
       "title": "Knee Jerk and Gut Reactions: When We Are Not in Control",
       "date": "2026-08-15",
@@ -901,19 +862,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-15-4",
-      "title": "Knee Jerk and Gut Reactions: When We Are Not in Control",
-      "date": "2026-08-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-15-5",
       "title": "這段經典真的太好笑了",
       "date": "2026-08-15",
@@ -922,18 +870,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-15-5",
-      "title": "這段經典真的太好笑了",
-      "date": "2026-08-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-15-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-08-14",
@@ -3525,18 +3461,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-53.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-53.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-54",
-      "title": "Are we too fixated on protein?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-54.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-54.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -21231,30 +21155,6 @@
         1.55,
         1.251,
         0.516
-      ]
-    },
-    {
-      "id": "2026-07-19",
-      "title": "Emily Blunt at the Restaurant",
-      "date": "2026-07-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-19.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-19.json",
-      "folder": "脱口秀",
-      "folderEn": "Talk Show",
-      "free": true,
-      "durations": [
-        2.49,
-        2.28,
-        2.42,
-        1.141,
-        4.981,
-        2.66,
-        2.84,
-        1.661,
-        3.22,
-        3.721,
-        3.84,
-        2.501
       ]
     },
     {
