@@ -754,19 +754,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-16",
-      "title": "Estimating Lives Saved and Lost",
-      "date": "2026-08-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Radio 4·进阶版",
-      "origFolderEn": "BBC Radio 4",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-16-2",
       "title": "The Lancet Study and Musk's Claim Examined",
       "date": "2026-08-16",
@@ -776,19 +763,6 @@
       "folderEn": "BBC Radio 4",
       "accent": "british",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-16-2",
-      "title": "The Lancet Study and Musk's Claim Examined",
-      "date": "2026-08-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Radio 4·进阶版",
-      "origFolderEn": "BBC Radio 4",
-      "accent": "british"
     },
     {
       "id": "2026-08-16-2b",
@@ -814,19 +788,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-16-3",
-      "title": "How climate change affects animal migration",
-      "date": "2026-08-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-16-4",
       "title": "Talking about books",
       "date": "2026-08-16",
@@ -837,19 +798,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-16-4",
-      "title": "Talking about books",
-      "date": "2026-08-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-16-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-15",
@@ -3499,18 +3447,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-52.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-52.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-53",
-      "title": "Did a civilisation exist on Earth before humans?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-53.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-53.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
