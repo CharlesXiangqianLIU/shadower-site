@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-24",
+      "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
+      "date": "2026-08-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-24",
+      "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
+      "date": "2026-08-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-23",
       "title": "Healthy meals on a budget",
       "date": "2026-08-23",
@@ -996,7 +1021,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
