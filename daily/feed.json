@@ -217,6 +217,76 @@
       "free": true
     },
     {
+      "id": "2026-08-25-8",
+      "title": "Would you trust an AI trolley with your weekly shop? | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-25-8",
+      "title": "Would you trust an AI trolley with your weekly shop? | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-25-8b",
+      "title": "Would you trust an AI trolley with your weekly shop? | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-25-9",
+      "title": "One in 10 people in Britain ‘anxious’ over accent in workplaces, according to poll | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-25-9",
+      "title": "One in 10 people in Britain ‘anxious’ over accent in workplaces, according to poll | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-25-9b",
+      "title": "One in 10 people in Britain ‘anxious’ over accent in workplaces, according to poll | BBC News",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-24",
       "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
       "date": "2026-08-24",
@@ -1391,7 +1461,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-11-6b",
@@ -1527,7 +1597,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-09-2b",
@@ -1538,7 +1608,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-09-3",
@@ -1572,7 +1642,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-09-5",
