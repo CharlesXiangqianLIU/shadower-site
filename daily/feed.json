@@ -147,6 +147,76 @@
       "origFolderEn": "Talk Show"
     },
     {
+      "id": "2026-08-25-6",
+      "title": "Teen's non-profit partners with Texans quarterback for Back-to-School event",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-25-6",
+      "title": "Teen's non-profit partners with Texans quarterback for Back-to-School event",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-25-6b",
+      "title": "Teen's non-profit partners with Texans quarterback for Back-to-School event",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-25-7",
+      "title": "The world inches toward catastrophic climate events",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-25-7",
+      "title": "The world inches toward catastrophic climate events",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-25-7b",
+      "title": "The world inches toward catastrophic climate events",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-24",
       "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
       "date": "2026-08-24",
@@ -859,7 +929,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-17-7b",
@@ -870,7 +940,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-16",
@@ -1162,7 +1232,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-12-4b",
@@ -1173,7 +1243,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-12-5",
