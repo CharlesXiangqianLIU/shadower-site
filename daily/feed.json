@@ -26,6 +26,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-25b",
+      "title": "'The Celebrated Jumping Frog of Calaveras County,' by Mark Twain",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-08-25-2",
+      "title": "The country that measures happiness",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-25-2",
+      "title": "The country that measures happiness",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-08-24",
       "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
       "date": "2026-08-24",
@@ -452,7 +489,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -463,7 +500,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
@@ -1142,7 +1179,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
