@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-25",
+      "title": "'The Celebrated Jumping Frog of Calaveras County,' by Mark Twain",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-08-25",
+      "title": "'The Celebrated Jumping Frog of Calaveras County,' by Mark Twain",
+      "date": "2026-08-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-24",
       "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
       "date": "2026-08-24",
@@ -1093,7 +1118,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
