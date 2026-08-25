@@ -615,19 +615,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-17",
-      "title": "Pearl S. Buck: The First American Woman to Win a Nobel Prize in Literature",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-17-2",
       "title": "Can AI solve crime?",
       "date": "2026-08-17",
@@ -638,19 +625,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-17-2",
-      "title": "Can AI solve crime?",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-17-3",
@@ -665,19 +639,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-17-3",
-      "title": "Talking about water",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-17-4",
       "title": "Bedbugs can cause people to lose sleep and blood. Here's what to do about them",
       "date": "2026-08-17",
@@ -687,19 +648,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-17-4",
-      "title": "Bedbugs can cause people to lose sleep and blood. Here's what to do about them",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-17-4b",
@@ -724,19 +672,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-17-5",
-      "title": "Wheelchair pickleball player swings his paddle with a purpose",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-17-5b",
       "title": "Wheelchair pickleball player swings his paddle with a purpose",
       "date": "2026-08-17",
@@ -759,19 +694,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-17-6",
-      "title": "Obesity drugs show early promise against the hormonal disorder PMOS",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-17-6b",
       "title": "Obesity drugs show early promise against the hormonal disorder PMOS",
       "date": "2026-08-17",
@@ -792,19 +714,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-17-7",
-      "title": "Lisa Kudrow reflects on filming ‘Friends’ and ‘The Comeback’ at Warner Bros.",
-      "date": "2026-08-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-17-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-17-7b",
@@ -3510,18 +3419,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-51.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-51.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-52",
-      "title": "Is breakfast the most important meal of the day?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-52.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-52.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
