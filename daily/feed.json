@@ -88,6 +88,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-27-4",
+      "title": "Expressions That ‘Stop You Cold’",
+      "date": "2026-08-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-08-27-4",
+      "title": "Expressions That ‘Stop You Cold’",
+      "date": "2026-08-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-26",
       "title": "France Sets New Record in Hunt for Nuclear Fusion",
       "date": "2026-08-26",
@@ -1355,7 +1380,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
