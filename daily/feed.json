@@ -901,19 +901,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-19",
-      "title": "Rise in ADHD Cases Raises Questions",
-      "date": "2026-08-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-19-2",
       "title": "Learning multiple languages",
       "date": "2026-08-19",
@@ -926,19 +913,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-19-2",
-      "title": "Learning multiple languages",
-      "date": "2026-08-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-19-3",
       "title": "Talking about weekends",
       "date": "2026-08-19",
@@ -949,19 +923,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-19-3",
-      "title": "Talking about weekends",
-      "date": "2026-08-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-19-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-17",
@@ -3756,18 +3717,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-49.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-49.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-50",
-      "title": "How important is play?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-50.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-50.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
