@@ -96,6 +96,41 @@
       "accent": "american"
     },
     {
+      "id": "2026-08-28-4",
+      "title": "The medieval mystery of Greenland's vanished Vikings | BBC Global",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-28-4",
+      "title": "The medieval mystery of Greenland's vanished Vikings | BBC Global",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-28-4b",
+      "title": "The medieval mystery of Greenland's vanished Vikings | BBC Global",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-4b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-27",
       "title": "'The Gift of the Magi,' by O. Henry",
       "date": "2026-08-27",
@@ -1559,7 +1594,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-12-6b",
@@ -1570,7 +1605,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-12-7",
