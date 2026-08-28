@@ -36,6 +36,66 @@
       "free": true
     },
     {
+      "id": "2026-08-28-2",
+      "title": "Gamescom 2026: What to expect from the world's biggest gaming expo | BBC News",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2.json",
+      "folder": "BBC·进阶版",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-28-2",
+      "title": "Gamescom 2026: What to expect from the world's biggest gaming expo | BBC News",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC·进阶版",
+      "origFolderEn": "BBC·进阶版",
+      "accent": "british"
+    },
+    {
+      "id": "2026-08-28-2b",
+      "title": "Gamescom 2026: What to expect from the world's biggest gaming expo | BBC News",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-2b.json",
+      "folder": "BBC",
+      "accent": "british",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-28-3",
+      "title": "New Flowering Plants for Gardeners to Try",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-3.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-08-28-3",
+      "title": "New Flowering Plants for Gardeners to Try",
+      "date": "2026-08-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-28-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-27",
       "title": "'The Gift of the Magi,' by O. Henry",
       "date": "2026-08-27",
@@ -1050,7 +1110,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
@@ -1521,7 +1581,7 @@
       "folder": "BBC·进阶版",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-11",
@@ -1625,7 +1685,7 @@
       "folder": "BBC",
       "accent": "british",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-10",
