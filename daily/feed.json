@@ -901,19 +901,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-20",
-      "title": "'The Blue Hotel,' by Stephen Crane, Part Two",
-      "date": "2026-08-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-20b",
       "title": "'The Blue Hotel,' by Stephen Crane, Part Two",
       "date": "2026-08-20",
@@ -938,19 +925,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-20-2",
-      "title": "Are we getting more allergic to things?",
-      "date": "2026-08-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-20-3",
       "title": "Talking about chocolate",
       "date": "2026-08-20",
@@ -963,19 +937,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-20-3",
-      "title": "Talking about chocolate",
-      "date": "2026-08-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-20-4",
       "title": "The Story of Jack Frost",
       "date": "2026-08-20",
@@ -986,19 +947,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-20-4",
-      "title": "The Story of Jack Frost",
-      "date": "2026-08-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-20-4b",
@@ -1021,18 +969,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-20-5",
-      "title": "巨石强森一杯酒把艾米莉爸爸给喝趴了 😆",
-      "date": "2026-08-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-20-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-08-19",
@@ -3851,18 +3787,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-48.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-48.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-49",
-      "title": "Do you have good dining etiquette?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-49.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-49.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -7575,41 +7499,6 @@
         2.0,
         1.14,
         1.601
-      ]
-    },
-    {
-      "id": "2026-07-21-106",
-      "title": "六岁说话像四十六岁",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-106.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-106.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        3.631,
-        3.881,
-        2.501,
-        2.14,
-        1.08,
-        1.321,
-        2.36,
-        1.16,
-        1.101,
-        1.18,
-        1.14,
-        1.1,
-        4.741,
-        0.72,
-        2.04,
-        0.82,
-        2.38,
-        1.38,
-        1.86,
-        0.94,
-        1.741,
-        2.66,
-        1.301
       ]
     },
     {
