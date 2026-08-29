@@ -971,19 +971,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-21",
-      "title": "Total Lunar Eclipse to Turn Moon Red",
-      "date": "2026-08-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-21-2",
       "title": "Sharing the road with driverless cars",
       "date": "2026-08-21",
@@ -994,19 +981,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-21-2",
-      "title": "Sharing the road with driverless cars",
-      "date": "2026-08-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-08-21-3",
@@ -1021,19 +995,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-21-3",
-      "title": "Talking about coffee",
-      "date": "2026-08-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-21-4",
       "title": "You got your GCSE results - now what? | BBC News",
       "date": "2026-08-21",
@@ -1043,19 +1004,6 @@
       "accent": "british",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-21-4",
-      "title": "You got your GCSE results - now what? | BBC News",
-      "date": "2026-08-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-21-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC·进阶版",
-      "origFolderEn": "BBC·进阶版",
-      "accent": "british"
     },
     {
       "id": "2026-08-21-4b",
@@ -3955,18 +3903,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-47.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-47.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-48",
-      "title": "What’s your favourite flavour of crisp?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-48.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-48.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
