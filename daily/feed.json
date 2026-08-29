@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-08-29",
+      "title": "Chicken Little",
+      "date": "2026-08-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-29.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-08-29",
+      "title": "Chicken Little",
+      "date": "2026-08-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-29.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-29.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-28",
       "title": "El Ninos are getting stronger because of climate change, study says",
       "date": "2026-08-28",
@@ -1324,7 +1349,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
