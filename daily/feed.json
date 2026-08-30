@@ -51,6 +51,111 @@
       "accent": "british"
     },
     {
+      "id": "2026-08-30-3",
+      "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-30-3",
+      "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-30-3b",
+      "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-30-4",
+      "title": "'We'll come stronger out of this,' says Iceland's PM as referendum poll on EU accession talks opens",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-30-4",
+      "title": "'We'll come stronger out of this,' says Iceland's PM as referendum poll on EU accession talks opens",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-30-4b",
+      "title": "'We'll come stronger out of this,' says Iceland's PM as referendum poll on EU accession talks opens",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-08-30-5",
+      "title": "Car group showcases custom rides to inspire the next generation",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-08-30-5",
+      "title": "Car group showcases custom rides to inspire the next generation",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-08-30-5b",
+      "title": "Car group showcases custom rides to inspire the next generation",
+      "date": "2026-08-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-08-29",
       "title": "Chicken Little",
       "date": "2026-08-29",
@@ -787,7 +892,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "wu-2026-08-25-7",
@@ -797,7 +902,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "US更新·进阶版",
       "origFolderEn": "US更新·进阶版",
       "accent": "american"
@@ -811,7 +916,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-25-8",
@@ -1311,7 +1416,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-17-4b",
@@ -1322,7 +1427,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-17-5",
@@ -1333,7 +1438,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-17-5b",
@@ -1344,7 +1449,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-17-6",
