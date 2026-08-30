@@ -971,19 +971,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-22",
-      "title": "'The Blue Hotel,' by Stephen Crane, Part One",
-      "date": "2026-08-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-22b",
       "title": "'The Blue Hotel,' by Stephen Crane, Part One",
       "date": "2026-08-22",
@@ -1008,19 +995,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-22-2",
-      "title": "Can we boost the immune system?",
-      "date": "2026-08-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-22-3",
       "title": "Talking about rain",
       "date": "2026-08-22",
@@ -1033,19 +1007,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-22-3",
-      "title": "Talking about rain",
-      "date": "2026-08-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-22-4",
       "title": "'Kicking Off' a New Year",
       "date": "2026-08-22",
@@ -1056,19 +1017,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-22-4",
-      "title": "'Kicking Off' a New Year",
-      "date": "2026-08-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-22-4b",
@@ -1091,18 +1039,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-22-5",
-      "title": "她來主持我的葬禮我原地復活",
-      "date": "2026-08-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-22-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-08-21",
@@ -4037,18 +3973,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-45.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-45.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-47",
-      "title": "How are horses helping to heal humans?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-47.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-47.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -7735,32 +7659,6 @@
         3.541,
         3.12,
         0.84
-      ]
-    },
-    {
-      "id": "2026-07-21-105",
-      "title": "基努车祸现场竟还被要签名",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-105.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-105.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        5.031,
-        4.341,
-        5.641,
-        10.042,
-        5.081,
-        4.741,
-        3.601,
-        4.641,
-        3.601,
-        1.26,
-        3.181,
-        2.0,
-        1.14,
-        1.601
       ]
     },
     {
