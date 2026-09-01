@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-01",
+      "title": "How the Animals Lost Their Tails by Carl Sandburg",
+      "date": "2026-09-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-09-01",
+      "title": "How the Animals Lost Their Tails by Carl Sandburg",
+      "date": "2026-09-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-31",
       "title": "Becoming a musician",
       "date": "2026-08-31",
@@ -1272,7 +1297,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
