@@ -1076,19 +1076,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-24",
-      "title": "Visitors Laugh Away Troubles at the HaHaHouse Museum",
-      "date": "2026-08-24",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-24-2",
       "title": "Should we eat less rice?",
       "date": "2026-08-24",
@@ -1101,19 +1088,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-24-2",
-      "title": "Should we eat less rice?",
-      "date": "2026-08-24",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-24-3",
       "title": "Talking about birthdays",
       "date": "2026-08-24",
@@ -1124,19 +1098,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-24-3",
-      "title": "Talking about birthdays",
-      "date": "2026-08-24",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-23",
@@ -4153,18 +4114,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-43.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-43.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-44",
-      "title": "What English phrases really mean",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-44.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-44.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
