@@ -26,6 +26,31 @@
       "accent": "american"
     },
     {
+      "id": "2026-09-01-2",
+      "title": "'Show Your Hand', other Card Idioms",
+      "date": "2026-09-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-01-2",
+      "title": "'Show Your Hand', other Card Idioms",
+      "date": "2026-09-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-08-31",
       "title": "Becoming a musician",
       "date": "2026-08-31",
@@ -1345,7 +1370,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
