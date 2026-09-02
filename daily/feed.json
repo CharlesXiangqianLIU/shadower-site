@@ -135,6 +135,18 @@
       "level": "B2"
     },
     {
+      "id": "2026-09-01b",
+      "title": "How the Animals Lost Their Tails by Carl Sandburg",
+      "date": "2026-09-01",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
       "id": "2026-08-31",
       "title": "Becoming a musician",
       "date": "2026-08-31",
@@ -924,19 +936,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-25",
-      "title": "'The Celebrated Jumping Frog of Calaveras County,' by Mark Twain",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-25b",
       "title": "'The Celebrated Jumping Frog of Calaveras County,' by Mark Twain",
       "date": "2026-08-25",
@@ -961,19 +960,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-25-2",
-      "title": "The country that measures happiness",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-25-3",
       "title": "Talking about having kids",
       "date": "2026-08-25",
@@ -986,19 +972,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-25-3",
-      "title": "Talking about having kids",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-25-4",
       "title": "Expressions for New Year's Resolution",
       "date": "2026-08-25",
@@ -1009,19 +982,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-25-4",
-      "title": "Expressions for New Year's Resolution",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-25-4b",
@@ -1046,18 +1006,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-25-5",
-      "title": "艾米莉模仿克里斯托弗诺兰",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
-    },
-    {
       "id": "2026-08-25-6",
       "title": "Teen's non-profit partners with Texans quarterback for Back-to-School event",
       "date": "2026-08-25",
@@ -1067,19 +1015,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-25-6",
-      "title": "Teen's non-profit partners with Texans quarterback for Back-to-School event",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-25-6b",
@@ -1104,19 +1039,6 @@
       "free": false
     },
     {
-      "id": "wu-2026-08-25-7",
-      "title": "The world inches toward catastrophic climate events",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-25-7b",
       "title": "The world inches toward catastrophic climate events",
       "date": "2026-08-25",
@@ -1139,19 +1061,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-25-8",
-      "title": "Would you trust an AI trolley with your weekly shop? | BBC News",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-8.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC·进阶版",
-      "origFolderEn": "BBC·进阶版",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-25-8b",
       "title": "Would you trust an AI trolley with your weekly shop? | BBC News",
       "date": "2026-08-25",
@@ -1172,19 +1081,6 @@
       "accent": "british",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-25-9",
-      "title": "One in 10 people in Britain ‘anxious’ over accent in workplaces, according to poll | BBC News",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-9.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC·进阶版",
-      "origFolderEn": "BBC·进阶版",
-      "accent": "british"
     },
     {
       "id": "2026-08-25-9b",
@@ -1418,7 +1314,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -4236,18 +4132,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-42.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-42.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-43",
-      "title": "Scared to speak English?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-43.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-43.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -7898,42 +7782,6 @@
         1.44,
         0.68,
         5.281
-      ]
-    },
-    {
-      "id": "2026-07-21-104",
-      "title": "错过星巴克却投中谷歌",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-104.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-104.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        4.691,
-        1.78,
-        2.06,
-        2.5,
-        7.601,
-        2.92,
-        3.681,
-        1.66,
-        3.441,
-        2.58,
-        1.38,
-        4.561,
-        2.56,
-        4.18,
-        3.601,
-        1.68,
-        1.38,
-        0.92,
-        2.64,
-        1.66,
-        5.86,
-        3.541,
-        3.12,
-        0.84
       ]
     },
     {
