@@ -886,19 +886,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-26",
-      "title": "France Sets New Record in Hunt for Nuclear Fusion",
-      "date": "2026-08-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-26-2",
       "title": "A vaccine for cancer",
       "date": "2026-08-26",
@@ -911,19 +898,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-26-2",
-      "title": "A vaccine for cancer",
-      "date": "2026-08-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-26-3",
       "title": "Talking about extreme sports",
       "date": "2026-08-26",
@@ -934,19 +908,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-26-3",
-      "title": "Talking about extreme sports",
-      "date": "2026-08-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-26-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-25",
