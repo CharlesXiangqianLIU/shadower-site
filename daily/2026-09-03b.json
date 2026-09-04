@@ -1,0 +1,1386 @@
+[
+  {
+    "index": 0,
+    "text": "Our story today is called \"The Cask of Amontillado.\"",
+    "start": 0.19,
+    "end": 5.473,
+    "zh": "我们今天的故事叫做《一桶阿蒙蒂亚度酒》。",
+    "zh_hant": "我們今天的故事叫做《一桶阿蒙蒂亞度酒》。"
+  },
+  {
+    "index": 1,
+    "text": "It was written by Edgar Allan Poe.",
+    "start": 6.233,
+    "end": 9.375,
+    "zh": "它是由埃德加·爱伦·坡写的。",
+    "zh_hant": "它是由埃德加·愛倫·坡寫的。"
+  },
+  {
+    "index": 2,
+    "text": "Here is Larry West with the story.",
+    "start": 10.355,
+    "end": 13.4,
+    "zh": "拉里·韦斯特为您讲述这个故事。",
+    "zh_hant": "拉里·韋斯特為您講述這個故事。"
+  },
+  {
+    "index": 3,
+    "text": "Storyteller:",
+    "start": 13.0,
+    "end": 14.35,
+    "zh": "讲故事的人：",
+    "zh_hant": "講故事的人："
+  },
+  {
+    "index": 4,
+    "text": "Fortunato and I both were members of very old and important Italian families.",
+    "start": 21.681,
+    "end": 29.205,
+    "zh": "福尔图纳托和我都是非常古老而重要的意大利家族的成员。",
+    "zh_hant": "福爾圖納託和我都是非常古老而重要的義大利家族的成員。"
+  },
+  {
+    "index": 5,
+    "text": "We used to play together when we were children.",
+    "start": 29.825,
+    "end": 32.987,
+    "zh": "我们小时候常常一起玩耍。",
+    "zh_hant": "我們小時候常常一起玩耍。"
+  },
+  {
+    "index": 6,
+    "text": "Fortunato was bigger, richer and more handsome than I was.",
+    "start": 33.607,
+    "end": 39.35,
+    "zh": "福尔图纳托比我高大、比我富有、也比我英俊。",
+    "zh_hant": "福爾圖納託比我高大、比我富有、也比我英俊。"
+  },
+  {
+    "index": 7,
+    "text": "And he enjoyed making me look like a fool.",
+    "start": 40.091,
+    "end": 44.813,
+    "zh": "他喜欢让我出丑。",
+    "zh_hant": "他喜歡讓我出醜。"
+  },
+  {
+    "index": 8,
+    "text": "He hurt my feelings a thousand times during the years of my childhood.",
+    "start": 45.673,
+    "end": 51.956,
+    "zh": "在我童年的岁月里，他无数次伤害了我的感情。",
+    "zh_hant": "在我童年的歲月裡，他無數次傷害了我的感情。"
+  },
+  {
+    "index": 9,
+    "text": "I never showed my anger, however.",
+    "start": 53.057,
+    "end": 55.958,
+    "zh": "然而，我从不显露我的愤怒。",
+    "zh_hant": "然而，我從不顯露我的憤怒。"
+  },
+  {
+    "index": 10,
+    "text": "So, he thought we were good friends.",
+    "start": 56.439,
+    "end": 59.2,
+    "zh": "所以，他以为我们是好朋友。",
+    "zh_hant": "所以，他以為我們是好朋友。"
+  },
+  {
+    "index": 11,
+    "text": "But I promised myself that one day I would punish",
+    "start": 60.08,
+    "end": 65.683,
+    "zh": "但我向自己发誓，总有一天我会惩罚",
+    "zh_hant": "但我向自己發誓，總有一天我會懲罰"
+  },
+  {
+    "index": 12,
+    "text": "Fortunato for his insults to me.",
+    "start": 65.483,
+    "end": 68.524,
+    "zh": "福尔图纳托对我的侮辱。",
+    "zh_hant": "福爾圖納託對我的侮辱。"
+  },
+  {
+    "index": 13,
+    "text": "Many years passed.",
+    "start": 69.965,
+    "end": 71.906,
+    "zh": "许多年过去了。",
+    "zh_hant": "許多年過去了。"
+  },
+  {
+    "index": 14,
+    "text": "Fortunato married a rich and beautiful woman who gave him sons.",
+    "start": 72.386,
+    "end": 77.849,
+    "zh": "福尔图纳托娶了一个富有而美丽的女人，她给他生了儿子。",
+    "zh_hant": "福爾圖納託娶了一個富有而美麗的女人，她給他生了兒子。"
+  },
+  {
+    "index": 15,
+    "text": "Deep in my heart I hated him,",
+    "start": 78.61,
+    "end": 81.611,
+    "zh": "在我内心深处，我恨他，",
+    "zh_hant": "在我內心深處，我恨他，"
+  },
+  {
+    "index": 16,
+    "text": "but I never said or did anything that showed him how I really felt.",
+    "start": 82.232,
+    "end": 88.175,
+    "zh": "但我从不说或做任何事让他看出我的真实感受。",
+    "zh_hant": "但我從不說或做任何事讓他看出我的真實感受。"
+  },
+  {
+    "index": 17,
+    "text": "When I smiled at him, he thought it was because we were friends.",
+    "start": 89.375,
+    "end": 94.958,
+    "zh": "当我对他微笑时，他以为那是因为我们是朋友。",
+    "zh_hant": "當我對他微笑時，他以為那是因為我們是朋友。"
+  },
+  {
+    "index": 18,
+    "text": "He did not know it was the thought of his death that made me smile.",
+    "start": 95.658,
+    "end": 101.821,
+    "zh": "他不知道，让我微笑的是想到他的死亡。",
+    "zh_hant": "他不知道，讓我微笑的是想到他的死亡。"
+  },
+  {
+    "index": 19,
+    "text": "Everyone in our town respected Fortunato.",
+    "start": 102.562,
+    "end": 105.903,
+    "zh": "我们镇上的每个人都尊敬福尔图纳托。",
+    "zh_hant": "我們鎮上的每個人都尊敬福爾圖納託。"
+  },
+  {
+    "index": 20,
+    "text": "Some men were afraid of him because he was so rich and powerful.",
+    "start": 106.424,
+    "end": 111.426,
+    "zh": "有些人怕他，因为他那么富有和有权势。",
+    "zh_hant": "有些人怕他，因為他那麼富有和有權勢。"
+  },
+  {
+    "index": 21,
+    "text": "He had a weak spot, however.",
+    "start": 112.307,
+    "end": 115.528,
+    "zh": "不过，他有一个弱点。",
+    "zh_hant": "不過，他有一個弱點。"
+  },
+  {
+    "index": 22,
+    "text": "He thought he was an excellent judge of wine.",
+    "start": 116.289,
+    "end": 120.351,
+    "zh": "他认为自己是一位品酒大师。",
+    "zh_hant": "他認為自己是一位品酒大師。"
+  },
+  {
+    "index": 23,
+    "text": "I also was an expert on wine.",
+    "start": 121.312,
+    "end": 124.253,
+    "zh": "我也是葡萄酒方面的专家。",
+    "zh_hant": "我也是葡萄酒方面的專家。"
+  },
+  {
+    "index": 24,
+    "text": "I spent a lot of money buying rare and costly wines.",
+    "start": 125.114,
+    "end": 130.416,
+    "zh": "我花了很多钱购买稀有和昂贵的葡萄酒。",
+    "zh_hant": "我花了很多錢購買稀有和昂貴的葡萄酒。"
+  },
+  {
+    "index": 25,
+    "text": "I stored the wines in the dark rooms under my family's palace.",
+    "start": 131.137,
+    "end": 136.439,
+    "zh": "我把酒储存在我家族宫殿下面的黑暗房间里。",
+    "zh_hant": "我把酒儲存在我家族宮殿下面的黑暗房間裡。"
+  },
+  {
+    "index": 26,
+    "text": "Our palace was one of the oldest buildings in the town.",
+    "start": 137.54,
+    "end": 141.381,
+    "zh": "我们的宫殿是镇上最古老的建筑之一。",
+    "zh_hant": "我們的宮殿是鎮上最古老的建築之一。"
+  },
+  {
+    "index": 27,
+    "text": "The Montresor family had lived in it for hundreds of years.",
+    "start": 141.842,
+    "end": 146.024,
+    "zh": "蒙特雷索家族已经在里面住了几百年。",
+    "zh_hant": "蒙特雷索家族已經在裡面住了幾百年。"
+  },
+  {
+    "index": 28,
+    "text": "We had buried our dead in the rooms under the palace.",
+    "start": 146.324,
+    "end": 150.326,
+    "zh": "我们把死者埋葬在宫殿下面的房间里。",
+    "zh_hant": "我們把死者埋葬在宮殿下面的房間裡。"
+  },
+  {
+    "index": 29,
+    "text": "These tombs were quiet, dark places that no one but myself ever visited.",
+    "start": 150.906,
+    "end": 158.35,
+    "zh": "这些坟墓是安静、黑暗的地方，除了我之外没人去过。",
+    "zh_hant": "這些墳墓是安靜、黑暗的地方，除了我之外沒人去過。"
+  },
+  {
+    "index": 30,
+    "text": "Late one evening during carnival season, I happened to meet Fortunato on the street.",
+    "start": 159.251,
+    "end": 165.694,
+    "zh": "狂欢节期间的一个深夜，我碰巧在街上遇到了福尔图纳托。",
+    "zh_hant": "狂歡節期間的一個深夜，我碰巧在街上遇到了福爾圖納託。"
+  },
+  {
+    "index": 31,
+    "text": "He was going home alone from a party.",
+    "start": 166.434,
+    "end": 169.936,
+    "zh": "他正独自从一个聚会回家。",
+    "zh_hant": "他正獨自從一個聚會回家。"
+  },
+  {
+    "index": 32,
+    "text": "Fortunato was beautiful in his silk suit",
+    "start": 171.136,
+    "end": 174.438,
+    "zh": "福尔图纳托穿着他的丝绸套装，很漂亮，",
+    "zh_hant": "福爾圖納託穿著他的絲綢套裝，很漂亮，"
+  },
+  {
+    "index": 33,
+    "text": "made of many colors: yellow, green, purple and red.",
+    "start": 174.498,
+    "end": 179.44,
+    "zh": "由多种颜色制成：黄色、绿色、紫色和红色。",
+    "zh_hant": "由多種顏色製成：黃色、綠色、紫色和紅色。"
+  },
+  {
+    "index": 34,
+    "text": "On his head he wore an orange cap, covered with little silver bells.",
+    "start": 180.021,
+    "end": 185.683,
+    "zh": "他头上戴着一顶橙色的帽子，上面挂满了小银铃。",
+    "zh_hant": "他頭上戴著一頂橙色的帽子，上面掛滿了小銀鈴。"
+  },
+  {
+    "index": 35,
+    "text": "I could see he had been drinking too much wine.",
+    "start": 186.764,
+    "end": 190.126,
+    "zh": "我看得出他喝了很多酒。",
+    "zh_hant": "我看得出他喝了很多酒。"
+  },
+  {
+    "index": 36,
+    "text": "He threw his arms around me.",
+    "start": 190.466,
+    "end": 192.427,
+    "zh": "他张开双臂拥抱了我。",
+    "zh_hant": "他張開雙臂擁抱了我。"
+  },
+  {
+    "index": 37,
+    "text": "He said he was glad to see me.",
+    "start": 192.527,
+    "end": 194.608,
+    "zh": "他说他见到我很高兴。",
+    "zh_hant": "他說他見到我很高興。"
+  },
+  {
+    "index": 38,
+    "text": "I said I was glad to see him, too because I had a little problem.",
+    "start": 195.429,
+    "end": 202.532,
+    "zh": "我说我也很高兴见到他，因为我有个小问题。",
+    "zh_hant": "我說我也很高興見到他，因為我有個小問題。"
+  },
+  {
+    "index": 39,
+    "text": "\"What is it?\"",
+    "start": 203.653,
+    "end": 204.753,
+    "zh": "“什么事？”",
+    "zh_hant": "“什麼事？”"
+  },
+  {
+    "index": 40,
+    "text": "he asked, putting his large hand on my shoulder.",
+    "start": 204.653,
+    "end": 207.994,
+    "zh": "他问道，把大手放在我的肩膀上。",
+    "zh_hant": "他問道，把大手放在我的肩膀上。"
+  },
+  {
+    "index": 41,
+    "text": "\"My dear Fortunato,\" I said, \"I'm afraid I have been very stupid.",
+    "start": 208.895,
+    "end": 215.658,
+    "zh": "“亲爱的福尔图纳托，”我说，“恐怕我一直很愚蠢。",
+    "zh_hant": "“親愛的福爾圖納託，”我說，“恐怕我一直很愚蠢。"
+  },
+  {
+    "index": 42,
+    "text": "The man who sells me wine said",
+    "start": 216.439,
+    "end": 220.02,
+    "zh": "卖酒给我的人说",
+    "zh_hant": "賣酒給我的人說"
+  },
+  {
+    "index": 43,
+    "text": "he had a rare barrel of Amontillado wine.",
+    "start": 219.67,
+    "end": 224.242,
+    "zh": "他有一桶稀有的阿蒙蒂亚度酒。",
+    "zh_hant": "他有一桶稀有的阿蒙蒂亞度酒。"
+  },
+  {
+    "index": 44,
+    "text": "I believed him and I bought it from him.",
+    "start": 224.983,
+    "end": 227.684,
+    "zh": "我相信了他，并从他那里买了。",
+    "zh_hant": "我相信了他，並從他那裡買了。"
+  },
+  {
+    "index": 45,
+    "text": "But now, I am not so sure that the wine is really Amontillado.\"",
+    "start": 228.305,
+    "end": 234.387,
+    "zh": "但现在，我不太确定这酒真的是阿蒙蒂亚度酒。”",
+    "zh_hant": "但現在，我不太確定這酒真的是阿蒙蒂亞度酒。”"
+  },
+  {
+    "index": 46,
+    "text": "\"What!\"",
+    "start": 235.048,
+    "end": 235.988,
+    "zh": "“什么！”",
+    "zh_hant": "“什麼！”"
+  },
+  {
+    "index": 47,
+    "text": "he said, \"A cask of Amontillado at this time of year.",
+    "start": 235.788,
+    "end": 242.232,
+    "zh": "他说，“一年中的这个时候有一桶阿蒙蒂亚度酒。",
+    "zh_hant": "他說，“一年中的這個時候有一桶阿蒙蒂亞度酒。"
+  },
+  {
+    "index": 48,
+    "text": "An entire barrel?",
+    "start": 242.412,
+    "end": 244.173,
+    "zh": "一整桶？",
+    "zh_hant": "一整桶？"
+  },
+  {
+    "index": 49,
+    "text": "Impossible!\"",
+    "start": 244.693,
+    "end": 246.194,
+    "zh": "不可能！”",
+    "zh_hant": "不可能！”"
+  },
+  {
+    "index": 50,
+    "text": "\"Yes, I was very stupid.",
+    "start": 247.254,
+    "end": 249.815,
+    "zh": "“是的，我太愚蠢了。",
+    "zh_hant": "“是的，我太愚蠢了。"
+  },
+  {
+    "index": 51,
+    "text": "I paid the wine man the full price he wanted without asking you to taste the wine first.",
+    "start": 250.176,
+    "end": 256.759,
+    "zh": "我没有先请你尝酒，就付了卖酒人他要的全价。",
+    "zh_hant": "我沒有先請你嘗酒，就付了賣酒人他要的全價。"
+  },
+  {
+    "index": 52,
+    "text": "But I couldn't find you and I was afraid he would sell the cask of Amontillado to someone else.",
+    "start": 257.479,
+    "end": 265.043,
+    "zh": "但我找不到你，我怕他会把阿蒙蒂亚度酒卖给别人。",
+    "zh_hant": "但我找不到你，我怕他會把阿蒙蒂亞度酒賣給別人。"
+  },
+  {
+    "index": 53,
+    "text": "So I bought it.\"",
+    "start": 265.143,
+    "end": 267.324,
+    "zh": "所以我买了。”",
+    "zh_hant": "所以我買了。”"
+  },
+  {
+    "index": 54,
+    "text": "\"A cask of Amontillado!\"",
+    "start": 268.245,
+    "end": 271.746,
+    "zh": "“一桶阿蒙蒂亚度酒！”",
+    "zh_hant": "“一桶阿蒙蒂亞度酒！”"
+  },
+  {
+    "index": 55,
+    "text": "Fortunato repeated.",
+    "start": 271.947,
+    "end": 273.467,
+    "zh": "福尔图纳托重复道。",
+    "zh_hant": "福爾圖納託重複道。"
+  },
+  {
+    "index": 56,
+    "text": "\"Where is it?\"",
+    "start": 274.188,
+    "end": 275.308,
+    "zh": "“在哪里？”",
+    "zh_hant": "“在哪裡？”"
+  },
+  {
+    "index": 57,
+    "text": "I pretended I didn't hear his question.",
+    "start": 276.349,
+    "end": 279.09,
+    "zh": "我假装没听到他的问题。",
+    "zh_hant": "我假裝沒聽到他的問題。"
+  },
+  {
+    "index": 58,
+    "text": "Instead I told him I was going to visit our friend Lucresi.",
+    "start": 279.47,
+    "end": 285.453,
+    "zh": "相反，我告诉他我要去拜访我们的朋友卢克雷西。",
+    "zh_hant": "相反，我告訴他我要去拜訪我們的朋友盧克雷西。"
+  },
+  {
+    "index": 59,
+    "text": "\"He will be able to tell me if the wine is really Amontillado,\" I said.",
+    "start": 286.314,
+    "end": 291.596,
+    "zh": "“他能告诉我这酒是不是真的阿蒙蒂亚度酒，”我说。",
+    "zh_hant": "“他能告訴我這酒是不是真的阿蒙蒂亞度酒，”我說。"
+  },
+  {
+    "index": 60,
+    "text": "Fortunato laughed in my face.",
+    "start": 292.337,
+    "end": 294.718,
+    "zh": "福尔图纳托当面嘲笑我。",
+    "zh_hant": "福爾圖納託當面嘲笑我。"
+  },
+  {
+    "index": 61,
+    "text": "\"Lucresi cannot tell Amontillado from vinegar.\"",
+    "start": 294.658,
+    "end": 299.1,
+    "zh": "“卢克雷西分不清阿蒙蒂亚度酒和醋。”",
+    "zh_hant": "“盧克雷西分不清阿蒙蒂亞度酒和醋。”"
+  },
+  {
+    "index": 62,
+    "text": "I smiled to myself and said \"But some people say that he is as good a judge of wine as you are.\"",
+    "start": 300.061,
+    "end": 307.744,
+    "zh": "我暗自微笑，说：“但有人说他和你一样是品酒高手。”",
+    "zh_hant": "我暗自微笑，說：“但有人說他和你一樣是品酒高手。”"
+  },
+  {
+    "index": 63,
+    "text": "Fortunato grabbed my arm.",
+    "start": 308.865,
+    "end": 311.346,
+    "zh": "福尔图纳托抓住我的胳膊。",
+    "zh_hant": "福爾圖納託抓住我的胳膊。"
+  },
+  {
+    "index": 64,
+    "text": "\"Take me to it,\" he said.",
+    "start": 312.046,
+    "end": 313.947,
+    "zh": "“带我去，”他说。",
+    "zh_hant": "“帶我去，”他說。"
+  },
+  {
+    "index": 65,
+    "text": "\"I'll taste the Amontillado for you.\"",
+    "start": 314.648,
+    "end": 317.289,
+    "zh": "“我来替你尝尝阿蒙蒂亚度酒。”",
+    "zh_hant": "“我來替你嚐嚐阿蒙蒂亞度酒。”"
+  },
+  {
+    "index": 66,
+    "text": "\"But my friend,\" I protested, \"it is late.",
+    "start": 318.43,
+    "end": 322.292,
+    "zh": "“可是我的朋友，”我抗议道，“现在很晚了。",
+    "zh_hant": "“可是我的朋友，”我抗議道，“現在很晚了。"
+  },
+  {
+    "index": 67,
+    "text": "The wine is in my wine cellar, underneath the palace.",
+    "start": 322.412,
+    "end": 326.974,
+    "zh": "酒在我的酒窖里，在宫殿下面。",
+    "zh_hant": "酒在我的酒窖裡，在宮殿下面。"
+  },
+  {
+    "index": 68,
+    "text": "Those rooms are very damp and cold and the walls drip with water.\"",
+    "start": 327.475,
+    "end": 333.497,
+    "zh": "那些房间又湿又冷，墙壁上滴着水。”",
+    "zh_hant": "那些房間又溼又冷，牆壁上滴著水。”"
+  },
+  {
+    "index": 69,
+    "text": "\"I don't care,\" he said.",
+    "start": 334.278,
+    "end": 336.058,
+    "zh": "“我不在乎，”他说。",
+    "zh_hant": "“我不在乎，”他說。"
+  },
+  {
+    "index": 70,
+    "text": "\"I am the only person who can tell you if your wine man has cheated you.",
+    "start": 336.719,
+    "end": 342.021,
+    "zh": "“我是唯一能告诉你卖酒人是否骗了你的人。",
+    "zh_hant": "“我是唯一能告訴你賣酒人是否騙了你的人。"
+  },
+  {
+    "index": 71,
+    "text": "Lucresi cannot!\"",
+    "start": 342.202,
+    "end": 344.202,
+    "zh": "卢克雷西不行！”",
+    "zh_hant": "盧克雷西不行！”"
+  },
+  {
+    "index": 72,
+    "text": "Fortunato turned, and still holding me by the arm, pulled me down the street to my home.",
+    "start": 344.883,
+    "end": 352.086,
+    "zh": "福尔图纳托转过身，仍然抓着我的胳膊，把我拉下街，带到我家。",
+    "zh_hant": "福爾圖納託轉過身，仍然抓著我的胳膊，把我拉下街，帶到我家。"
+  },
+  {
+    "index": 73,
+    "text": "The building was empty.",
+    "start": 353.087,
+    "end": 354.628,
+    "zh": "大楼是空的。",
+    "zh_hant": "大樓是空的。"
+  },
+  {
+    "index": 74,
+    "text": "My servants were enjoying carnival.",
+    "start": 354.908,
+    "end": 357.569,
+    "zh": "我的仆人们正在狂欢。",
+    "zh_hant": "我的僕人們正在狂歡。"
+  },
+  {
+    "index": 75,
+    "text": "I knew they would be gone all night.",
+    "start": 358.33,
+    "end": 361.391,
+    "zh": "我知道他们会整夜不在。",
+    "zh_hant": "我知道他們會整夜不在。"
+  },
+  {
+    "index": 76,
+    "text": "I took two large candles, lit them and gave one to Fortunato.",
+    "start": 362.632,
+    "end": 368.395,
+    "zh": "我拿了两根大蜡烛，点亮了它们，给了福尔图纳托一根。",
+    "zh_hant": "我拿了兩根大蜡燭，點亮了它們，給了福爾圖納託一根。"
+  },
+  {
+    "index": 77,
+    "text": "I started down the dark, twisting stairway with Fortunato close behind me.",
+    "start": 369.516,
+    "end": 376.699,
+    "zh": "我开始走下黑暗扭曲的楼梯，福尔图纳托紧跟在我后面。",
+    "zh_hant": "我開始走下黑暗扭曲的樓梯，福爾圖納託緊跟在我後面。"
+  },
+  {
+    "index": 78,
+    "text": "At the bottom of the stairs, the damp air wrapped itself around our bodies.",
+    "start": 377.86,
+    "end": 383.802,
+    "zh": "在楼梯底部，潮湿的空气包裹着我们的身体。",
+    "zh_hant": "在樓梯底部，潮溼的空氣包裹著我們的身體。"
+  },
+  {
+    "index": 79,
+    "text": "\"Where are we?\"",
+    "start": 384.983,
+    "end": 386.224,
+    "zh": "“我们在哪里？”",
+    "zh_hant": "“我們在哪裡？”"
+  },
+  {
+    "index": 80,
+    "text": "Fortunato asked.",
+    "start": 386.504,
+    "end": 388.044,
+    "zh": "福尔图纳托问。",
+    "zh_hant": "福爾圖納託問。"
+  },
+  {
+    "index": 81,
+    "text": "\"I thought you said the cask of Amontillado was in your wine cellar.\"",
+    "start": 388.805,
+    "end": 394.348,
+    "zh": "“我以为你说阿蒙蒂亚度酒在你的酒窖里。”",
+    "zh_hant": "“我以為你說阿蒙蒂亞度酒在你的酒窖裡。”"
+  },
+  {
+    "index": 82,
+    "text": "\"It is,\" I said.",
+    "start": 395.268,
+    "end": 397.009,
+    "zh": "“是的，”我说。",
+    "zh_hant": "“是的，”我說。"
+  },
+  {
+    "index": 83,
+    "text": "\"The wine cellar is just beyond these tombs where the dead of my family are kept.",
+    "start": 397.429,
+    "end": 403.733,
+    "zh": "“酒窖就在这些存放我家族死者的坟墓后面。",
+    "zh_hant": "“酒窖就在這些存放我家族死者的墳墓後面。"
+  },
+  {
+    "index": 84,
+    "text": "Surely, you are not afraid of walking through the tombs.",
+    "start": 404.713,
+    "end": 409.996,
+    "zh": "当然，你不会害怕穿过坟墓吧。”",
+    "zh_hant": "當然，你不會害怕穿過墳墓吧。”"
+  },
+  {
+    "index": 85,
+    "text": "He turned and looked into my eyes.",
+    "start": 410.916,
+    "end": 413.537,
+    "zh": "他转过身，看着我的眼睛。",
+    "zh_hant": "他轉過身，看著我的眼睛。"
+  },
+  {
+    "index": 86,
+    "text": "\"Tombs?\"",
+    "start": 413.858,
+    "end": 414.998,
+    "zh": "“坟墓？”",
+    "zh_hant": "“墳墓？”"
+  },
+  {
+    "index": 87,
+    "text": "he said.",
+    "start": 414.898,
+    "end": 415.798,
+    "zh": "他说。",
+    "zh_hant": "他說。"
+  },
+  {
+    "index": 88,
+    "text": "He began to cough.",
+    "start": 416.399,
+    "end": 417.879,
+    "zh": "他开始咳嗽。",
+    "zh_hant": "他開始咳嗽。"
+  },
+  {
+    "index": 89,
+    "text": "The silver bells on his cap jingled.",
+    "start": 418.4,
+    "end": 421.541,
+    "zh": "他帽子上的银铃叮当作响。",
+    "zh_hant": "他帽子上的銀鈴叮噹作響。"
+  },
+  {
+    "index": 90,
+    "text": "\"My poor friend,\" I said, \"how long have you had that cough?\"",
+    "start": 422.742,
+    "end": 427.764,
+    "zh": "“我可怜的朋友，”我说，“你咳嗽多久了？”",
+    "zh_hant": "“我可憐的朋友，”我說，“你咳嗽多久了？”"
+  },
+  {
+    "index": 91,
+    "text": "\"It's nothing,\" he said, but he couldn't stop coughing.",
+    "start": 428.205,
+    "end": 432.867,
+    "zh": "“没什么，”他说，但他无法停止咳嗽。",
+    "zh_hant": "“沒什麼，”他說，但他無法停止咳嗽。"
+  },
+  {
+    "index": 92,
+    "text": "\"Come,\" I said firmly, \"we will go back upstairs.",
+    "start": 433.707,
+    "end": 438.049,
+    "zh": "“来吧，”我坚定地说，“我们回楼上去。",
+    "zh_hant": "“來吧，”我堅定地說，“我們回樓上去。"
+  },
+  {
+    "index": 93,
+    "text": "Your health is important.You are rich, respected, admired, and loved.",
+    "start": 438.37,
+    "end": 444.813,
+    "zh": "你的健康很重要。你富有、受尊敬、受钦佩、被爱戴。",
+    "zh_hant": "你的健康很重要。你富有、受尊敬、受欽佩、被愛戴。"
+  },
+  {
+    "index": 94,
+    "text": "You have a wife and children.",
+    "start": 445.074,
+    "end": 447.154,
+    "zh": "你有妻子和孩子。",
+    "zh_hant": "你有妻子和孩子。"
+  },
+  {
+    "index": 95,
+    "text": "Many people would miss you if you died.",
+    "start": 447.695,
+    "end": 450.776,
+    "zh": "如果你死了，很多人会想念你。",
+    "zh_hant": "如果你死了，很多人會想念你。"
+  },
+  {
+    "index": 96,
+    "text": "We will go back before you get seriously ill.",
+    "start": 451.036,
+    "end": 454.338,
+    "zh": "趁你还没病重，我们回去。",
+    "zh_hant": "趁你還沒病重，我們回去。"
+  },
+  {
+    "index": 97,
+    "text": "I can go to Lucresi for help with the wine.\"",
+    "start": 454.818,
+    "end": 457.9,
+    "zh": "我可以去找卢克雷西帮忙处理酒。”",
+    "zh_hant": "我可以去找盧克雷西幫忙處理酒。”"
+  },
+  {
+    "index": 98,
+    "text": "\"No!\"",
+    "start": 458.2,
+    "end": 458.8,
+    "zh": "“不！”",
+    "zh_hant": "“不！”"
+  },
+  {
+    "index": 99,
+    "text": "he cried.",
+    "start": 458.78,
+    "end": 459.82,
+    "zh": "他喊道。",
+    "zh_hant": "他喊道。"
+  },
+  {
+    "index": 100,
+    "text": "\"This cough is nothing.",
+    "start": 459.701,
+    "end": 461.922,
+    "zh": "“这咳嗽没什么。",
+    "zh_hant": "“這咳嗽沒什麼。"
+  },
+  {
+    "index": 101,
+    "text": "It will not kill me.",
+    "start": 461.942,
+    "end": 463.402,
+    "zh": "它不会要我的命。",
+    "zh_hant": "它不會要我的命。"
+  },
+  {
+    "index": 102,
+    "text": "I won't die from a cough.\"",
+    "start": 463.483,
+    "end": 467.464,
+    "zh": "我不会因为咳嗽而死。”",
+    "zh_hant": "我不會因為咳嗽而死。”"
+  },
+  {
+    "index": 103,
+    "text": "\"That is true,\" I said, \"but you must be careful.\"",
+    "start": 467.114,
+    "end": 471.186,
+    "zh": "“那当然，”我说，“但你必须小心。”",
+    "zh_hant": "“那當然，”我說，“但你必須小心。”"
+  },
+  {
+    "index": 104,
+    "text": "He took my arm and we began to walk through the cold, dark rooms.",
+    "start": 472.027,
+    "end": 476.949,
+    "zh": "他抓住我的胳膊，我们开始穿过寒冷黑暗的房间。",
+    "zh_hant": "他抓住我的胳膊，我們開始穿過寒冷黑暗的房間。"
+  },
+  {
+    "index": 105,
+    "text": "We went deeper and deeper into the cellar.",
+    "start": 477.589,
+    "end": 480.431,
+    "zh": "我们越来越深入地窖。",
+    "zh_hant": "我們越來越深入地窖。"
+  },
+  {
+    "index": 106,
+    "text": "Finally, we arrived in a small room.",
+    "start": 481.372,
+    "end": 485.293,
+    "zh": "最后，我们到达了一个小房间。",
+    "zh_hant": "最後，我們到達了一個小房間。"
+  },
+  {
+    "index": 107,
+    "text": "Bones were pushed high against one wall.",
+    "start": 485.914,
+    "end": 489.155,
+    "zh": "骨头堆在一边墙上，堆得很高。",
+    "zh_hant": "骨頭堆在一邊牆上，堆得很高。"
+  },
+  {
+    "index": 108,
+    "text": "A doorway in another wall opened to an even smaller room,",
+    "start": 489.936,
+    "end": 495.038,
+    "zh": "另一面墙上有一个门道，通向一个更小的房间，",
+    "zh_hant": "另一面牆上有一個門道，通向一個更小的房間，"
+  },
+  {
+    "index": 109,
+    "text": "about one meter wide and two meters high.",
+    "start": 495.419,
+    "end": 499.781,
+    "zh": "大约一米宽，两米高。",
+    "zh_hant": "大約一米寬，兩米高。"
+  },
+  {
+    "index": 110,
+    "text": "Its walls were solid rock.",
+    "start": 500.621,
+    "end": 503.522,
+    "zh": "它的墙壁是坚固的岩石。",
+    "zh_hant": "它的牆壁是堅固的岩石。"
+  },
+  {
+    "index": 111,
+    "text": "\"Here we are,\" I said.",
+    "start": 504.523,
+    "end": 506.284,
+    "zh": "“我们到了，”我说。",
+    "zh_hant": "“我們到了，”我說。"
+  },
+  {
+    "index": 112,
+    "text": "\"I hid the cask of Amontillado in there.\"",
+    "start": 506.864,
+    "end": 509.985,
+    "zh": "“我把阿蒙蒂亚度酒藏在那里。”",
+    "zh_hant": "“我把阿蒙蒂亞度酒藏在那裡。”"
+  },
+  {
+    "index": 113,
+    "text": "I pointed to the smaller room.",
+    "start": 510.546,
+    "end": 512.747,
+    "zh": "我指着那个小房间。",
+    "zh_hant": "我指著那個小房間。"
+  },
+  {
+    "index": 114,
+    "text": "Fortunato lifted his candle and stepped into the tiny room.",
+    "start": 513.828,
+    "end": 518.85,
+    "zh": "福尔图纳托举起蜡烛，走进了那个极小的房间。",
+    "zh_hant": "福爾圖納託舉起蠟燭，走進了那個極小的房間。"
+  },
+  {
+    "index": 115,
+    "text": "I immediately followed him.",
+    "start": 519.651,
+    "end": 521.451,
+    "zh": "我立刻跟在他后面。",
+    "zh_hant": "我立刻跟在他後面。"
+  },
+  {
+    "index": 116,
+    "text": "He stood stupidly staring at two iron handcuffs",
+    "start": 522.452,
+    "end": 528.015,
+    "zh": "他傻傻地站着，盯着两个铁手铐",
+    "zh_hant": "他傻傻地站著，盯著兩個鐵手銬"
+  },
+  {
+    "index": 117,
+    "text": "chained to a wall of the tiny room.",
+    "start": 528.215,
+    "end": 530.956,
+    "zh": "链在小房间的墙上。",
+    "zh_hant": "鏈在小房間的牆上。"
+  },
+  {
+    "index": 118,
+    "text": "I grabbed his arms and locked them into the metal handcuffs.",
+    "start": 532.057,
+    "end": 536.699,
+    "zh": "我抓住他的胳膊，把它们锁进金属手铐里。",
+    "zh_hant": "我抓住他的胳膊，把它們鎖進金屬手銬裡。"
+  },
+  {
+    "index": 119,
+    "text": "It took only a moment.",
+    "start": 537.079,
+    "end": 539.1,
+    "zh": "只用了一会儿。",
+    "zh_hant": "只用了一會兒。"
+  },
+  {
+    "index": 120,
+    "text": "He was too surprised to fight me.",
+    "start": 539.2,
+    "end": 541.741,
+    "zh": "他太惊讶了，来不及反抗我。",
+    "zh_hant": "他太驚訝了，來不及反抗我。"
+  },
+  {
+    "index": 121,
+    "text": "I stepped outside the small room.",
+    "start": 542.902,
+    "end": 545.243,
+    "zh": "我走出小房间。",
+    "zh_hant": "我走出小房間。"
+  },
+  {
+    "index": 122,
+    "text": "\"Where is the Amontillado?\"",
+    "start": 546.324,
+    "end": 548.184,
+    "zh": "“阿蒙蒂亚度酒在哪里？”",
+    "zh_hant": "“阿蒙蒂亞度酒在哪裡？”"
+  },
+  {
+    "index": 123,
+    "text": "he cried.",
+    "start": 548.105,
+    "end": 549.185,
+    "zh": "他喊道。",
+    "zh_hant": "他喊道。"
+  },
+  {
+    "index": 124,
+    "text": "\"Ah yes,\" I said, \"the cask of Amontillado.\"",
+    "start": 550.086,
+    "end": 555.988,
+    "zh": "“哦，是的，”我说，“那桶阿蒙蒂亚度酒。”",
+    "zh_hant": "“哦，是的，”我說，“那桶阿蒙蒂亞度酒。”"
+  },
+  {
+    "index": 125,
+    "text": "I leaned over and began pushing aside the pile of bones against the wall.",
+    "start": 557.689,
+    "end": 563.412,
+    "zh": "我弯下腰，开始推开墙边的骨头堆。",
+    "zh_hant": "我彎下腰，開始推開牆邊的骨頭堆。"
+  },
+  {
+    "index": 126,
+    "text": "Under the bones was a basket of stone blocks,",
+    "start": 564.033,
+    "end": 568.835,
+    "zh": "骨头下面是一篮石头块，",
+    "zh_hant": "骨頭下面是一籃石頭塊，"
+  },
+  {
+    "index": 127,
+    "text": "some cement and a small shovel.",
+    "start": 569.316,
+    "end": 572.937,
+    "zh": "一些水泥和一把小铲子。",
+    "zh_hant": "一些水泥和一把小鏟子。"
+  },
+  {
+    "index": 128,
+    "text": "I had hidden the materials there earlier.",
+    "start": 573.918,
+    "end": 576.319,
+    "zh": "我早些时候把这些材料藏在那里。",
+    "zh_hant": "我早些時候把這些材料藏在那裡。"
+  },
+  {
+    "index": 129,
+    "text": "I began to fill the doorway of the tiny room with stones and cement.",
+    "start": 577.359,
+    "end": 583.662,
+    "zh": "我开始用石头和水泥填满小房间的门道。",
+    "zh_hant": "我開始用石頭和水泥填滿小房間的門道。"
+  },
+  {
+    "index": 130,
+    "text": "By the time I laid the first row of stones Fortunato was no longer drunk.",
+    "start": 584.743,
+    "end": 591.306,
+    "zh": "当我砌第一排石头时，福尔图纳托已经不再醉了。",
+    "zh_hant": "當我砌第一排石頭時，福爾圖納託已經不再醉了。"
+  },
+  {
+    "index": 131,
+    "text": "I heard him moaning inside the tiny room for ten minutes.",
+    "start": 592.207,
+    "end": 596.369,
+    "zh": "我听到他在小房间里呻吟了十分钟。",
+    "zh_hant": "我聽到他在小房間裡呻吟了十分鐘。"
+  },
+  {
+    "index": 132,
+    "text": "Then there was a long silence.",
+    "start": 597.169,
+    "end": 600.191,
+    "zh": "然后是一段长长的沉默。",
+    "zh_hant": "然後是一段長長的沉默。"
+  },
+  {
+    "index": 133,
+    "text": "I finished the second and third rows of stone blocks.",
+    "start": 601.172,
+    "end": 604.953,
+    "zh": "我完成了第二排和第三排石头块。",
+    "zh_hant": "我完成了第二排和第三排石頭塊。"
+  },
+  {
+    "index": 134,
+    "text": "As I began the fourth row,",
+    "start": 605.774,
+    "end": 607.835,
+    "zh": "当我开始砌第四排时，",
+    "zh_hant": "當我開始砌第四排時，"
+  },
+  {
+    "index": 135,
+    "text": "I heard Fortunato begin to shake the chains that held him to the wall.",
+    "start": 608.375,
+    "end": 613.517,
+    "zh": "我听到福尔图纳托开始摇晃把他锁在墙上的铁链。",
+    "zh_hant": "我聽到福爾圖納託開始搖晃把他鎖在牆上的鐵鏈。"
+  },
+  {
+    "index": 136,
+    "text": "He was trying to pull them out of the granite wall.",
+    "start": 614.078,
+    "end": 617.599,
+    "zh": "他正试图把它们从花岗岩墙中拉出来。",
+    "zh_hant": "他正試圖把它們從花崗岩牆中拉出來。"
+  },
+  {
+    "index": 137,
+    "text": "I smiled to myself and stopped working so that I could better enjoy listening to the noise.",
+    "start": 618.44,
+    "end": 625.463,
+    "zh": "我暗自微笑，停下来工作，以便更好地享受听那声音。",
+    "zh_hant": "我暗自微笑，停下來工作，以便更好地享受聽那聲音。"
+  },
+  {
+    "index": 138,
+    "text": "After a few minutes, he stopped.",
+    "start": 626.564,
+    "end": 629.025,
+    "zh": "几分钟后，他停了下来。",
+    "zh_hant": "幾分鐘後，他停了下來。"
+  },
+  {
+    "index": 139,
+    "text": "I finished the fifth, the sixth and the seventh rows of stones.",
+    "start": 630.046,
+    "end": 634.748,
+    "zh": "我完成了第五、第六和第七排石头。",
+    "zh_hant": "我完成了第五、第六和第七排石頭。"
+  },
+  {
+    "index": 140,
+    "text": "The wall I was building in the doorway was now almost up to my shoulders.",
+    "start": 635.308,
+    "end": 641.271,
+    "zh": "我在门道里砌的墙现在几乎到了我的肩膀。",
+    "zh_hant": "我在門道里砌的牆現在幾乎到了我的肩膀。"
+  },
+  {
+    "index": 141,
+    "text": "Suddenly, loud screams burst from the throat of the chained man.",
+    "start": 642.212,
+    "end": 646.714,
+    "zh": "突然，被锁住的男人喉咙里发出响亮的尖叫声。",
+    "zh_hant": "突然，被鎖住的男人喉嚨裡發出響亮的尖叫聲。"
+  },
+  {
+    "index": 142,
+    "text": "For a moment I worried.",
+    "start": 647.295,
+    "end": 649.496,
+    "zh": "有一会儿我担心了。",
+    "zh_hant": "有一會兒我擔心了。"
+  },
+  {
+    "index": 143,
+    "text": "What if someone heard him?",
+    "start": 650.296,
+    "end": 652.477,
+    "zh": "如果有人听到他怎么办？",
+    "zh_hant": "如果有人聽到他怎麼辦？"
+  },
+  {
+    "index": 144,
+    "text": "Then I placed my hand on the solid rock of the walls and felt safe.",
+    "start": 653.698,
+    "end": 659.661,
+    "zh": "然后我把手放在坚固的岩石墙上，感到安全。",
+    "zh_hant": "然後我把手放在堅固的岩石牆上，感到安全。"
+  },
+  {
+    "index": 145,
+    "text": "I looked into the tiny room, where he was still screaming.",
+    "start": 660.861,
+    "end": 665.143,
+    "zh": "我望向小房间，他还在尖叫。",
+    "zh_hant": "我望向小房間，他還在尖叫。"
+  },
+  {
+    "index": 146,
+    "text": "And I began to scream, too.",
+    "start": 665.284,
+    "end": 667.624,
+    "zh": "我也开始尖叫。",
+    "zh_hant": "我也開始尖叫。"
+  },
+  {
+    "index": 147,
+    "text": "My screams grew louder than his and he stopped.",
+    "start": 667.965,
+    "end": 672.967,
+    "zh": "我的尖叫声比他的更大，他停了下来。",
+    "zh_hant": "我的尖叫聲比他的更大，他停了下來。"
+  },
+  {
+    "index": 148,
+    "text": "It was now almost midnight.",
+    "start": 674.588,
+    "end": 676.729,
+    "zh": "现在差不多是午夜了。",
+    "zh_hant": "現在差不多是午夜了。"
+  },
+  {
+    "index": 149,
+    "text": "I finished the eighth, the ninth and the tenth rows.",
+    "start": 678.31,
+    "end": 682.692,
+    "zh": "我完成了第八、第九和第十排。",
+    "zh_hant": "我完成了第八、第九和第十排。"
+  },
+  {
+    "index": 150,
+    "text": "All that was left was a stone for the last hole in the wall.",
+    "start": 683.573,
+    "end": 689.536,
+    "zh": "剩下的只是墙最后一个洞的一块石头。",
+    "zh_hant": "剩下的只是牆最後一個洞的一塊石頭。"
+  },
+  {
+    "index": 151,
+    "text": "I was about to push it in when I heard a low laugh from behind the stones.",
+    "start": 690.977,
+    "end": 697.26,
+    "zh": "我正要推它进去时，听到石头后面传来低沉的笑声。",
+    "zh_hant": "我正要推它進去時，聽到石頭後面傳來低沉的笑聲。"
+  },
+  {
+    "index": 152,
+    "text": "The laugh made the hair on my head stand up.",
+    "start": 698.26,
+    "end": 701.722,
+    "zh": "笑声让我头上的头发都竖了起来。",
+    "zh_hant": "笑聲讓我頭上的頭髮都豎了起來。"
+  },
+  {
+    "index": 153,
+    "text": "Then Fortunato spoke, in a sad voice that no longer sounded like him.",
+    "start": 702.362,
+    "end": 709.486,
+    "zh": "然后福尔图纳托说话，声音悲伤，不再像他本人。",
+    "zh_hant": "然後福爾圖納託說話，聲音悲傷，不再像他本人。"
+  },
+  {
+    "index": 154,
+    "text": "He said, \"Well, you have played a good joke on me.",
+    "start": 710.647,
+    "end": 716.609,
+    "zh": "他说：“好吧，你对我开了一个好玩笑。",
+    "zh_hant": "他說：“好吧，你對我開了一個好玩笑。"
+  },
+  {
+    "index": 155,
+    "text": "We will laugh about it soon over a glass of that Amontillado.",
+    "start": 717.55,
+    "end": 722.732,
+    "zh": "我们很快就会喝一杯那阿蒙蒂亚度酒来笑谈这件事。",
+    "zh_hant": "我們很快就會喝一杯那阿蒙蒂亞度酒來笑談這件事。"
+  },
+  {
+    "index": 156,
+    "text": "But isn't it getting late.",
+    "start": 723.933,
+    "end": 726.174,
+    "zh": "但天色是不是已经很晚了。",
+    "zh_hant": "但天色是不是已經很晚了。"
+  },
+  {
+    "index": 157,
+    "text": "My wife and my friends will be waiting for us.",
+    "start": 726.194,
+    "end": 729.516,
+    "zh": "我的妻子和朋友们会在等我们。",
+    "zh_hant": "我的妻子和朋友們會在等我們。"
+  },
+  {
+    "index": 158,
+    "text": "Let us go.\"",
+    "start": 729.416,
+    "end": 730.356,
+    "zh": "我们走吧。”",
+    "zh_hant": "我們走吧。”"
+  },
+  {
+    "index": 159,
+    "text": "\"Yes,\" I replied, \"let us go.\"",
+    "start": 731.357,
+    "end": 734.838,
+    "zh": "“是的，”我回答，“我们走吧。”",
+    "zh_hant": "“是的，”我回答，“我們走吧。”"
+  },
+  {
+    "index": 160,
+    "text": "I waited for him to say something else.",
+    "start": 736.399,
+    "end": 739.281,
+    "zh": "我等他再说些什么。",
+    "zh_hant": "我等他再說些什麼。"
+  },
+  {
+    "index": 161,
+    "text": "I heard only my own breathing.",
+    "start": 740.461,
+    "end": 743.102,
+    "zh": "我只听到自己的呼吸声。",
+    "zh_hant": "我只聽到自己的呼吸聲。"
+  },
+  {
+    "index": 162,
+    "text": "\"Fortunato!\"",
+    "start": 744.623,
+    "end": 745.684,
+    "zh": "“福尔图纳托！”",
+    "zh_hant": "“福爾圖納託！”"
+  },
+  {
+    "index": 163,
+    "text": "I called.",
+    "start": 745.864,
+    "end": 746.784,
+    "zh": "我喊道。",
+    "zh_hant": "我喊道。"
+  },
+  {
+    "index": 164,
+    "text": "No answer.",
+    "start": 747.465,
+    "end": 748.605,
+    "zh": "没有回答。",
+    "zh_hant": "沒有回答。"
+  },
+  {
+    "index": 165,
+    "text": "I called again.",
+    "start": 749.486,
+    "end": 750.706,
+    "zh": "我又喊了一声。",
+    "zh_hant": "我又喊了一聲。"
+  },
+  {
+    "index": 166,
+    "text": "\"Fortunato!\"",
+    "start": 751.507,
+    "end": 752.527,
+    "zh": "“福尔图纳托！”",
+    "zh_hant": "“福爾圖納託！”"
+  },
+  {
+    "index": 167,
+    "text": "Still no answer.",
+    "start": 754.028,
+    "end": 755.629,
+    "zh": "仍然没有回答。",
+    "zh_hant": "仍然沒有回答。"
+  },
+  {
+    "index": 168,
+    "text": "I hurried to put the last stone into the wall and put the cement around it.",
+    "start": 757.01,
+    "end": 763.134,
+    "zh": "我赶紧把最后一块石头放回墙上，并在周围抹上水泥。",
+    "zh_hant": "我趕緊把最後一塊石頭放回牆上，並在周圍抹上水泥。"
+  },
+  {
+    "index": 169,
+    "text": "Then I pushed the pile of bones in front of the new wall I had built.",
+    "start": 763.614,
+    "end": 769.838,
+    "zh": "然后我把骨头堆推到我砌的新墙前面。",
+    "zh_hant": "然後我把骨頭堆推到我砌的新牆前面。"
+  },
+  {
+    "index": 170,
+    "text": "That was fifty years ago.",
+    "start": 771.58,
+    "end": 775.162,
+    "zh": "那是五十年前的事了。",
+    "zh_hant": "那是五十年前的事了。"
+  },
+  {
+    "index": 171,
+    "text": "For half a century now, no one has touched those bones.",
+    "start": 776.683,
+    "end": 782.987,
+    "zh": "半个世纪以来，没有人碰过那些骨头。",
+    "zh_hant": "半個世紀以來，沒有人碰過那些骨頭。"
+  },
+  {
+    "index": 172,
+    "text": "\"May he rest in peace!\"",
+    "start": 784.448,
+    "end": 787.07,
+    "zh": "“愿他安息！”",
+    "zh_hant": "“願他安息！”"
+  }
+]

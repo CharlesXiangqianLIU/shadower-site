@@ -886,19 +886,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-08-27",
-      "title": "'The Gift of the Magi,' by O. Henry",
-      "date": "2026-08-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-27b",
       "title": "'The Gift of the Magi,' by O. Henry",
       "date": "2026-08-27",
@@ -923,19 +910,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-27-2",
-      "title": "Young women on social media",
-      "date": "2026-08-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-27-3",
       "title": "Talking about speaking languages",
       "date": "2026-08-27",
@@ -948,19 +922,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-27-3",
-      "title": "Talking about speaking languages",
-      "date": "2026-08-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-27-4",
       "title": "Expressions That ‘Stop You Cold’",
       "date": "2026-08-27",
@@ -971,19 +932,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-08-27-4",
-      "title": "Expressions That ‘Stop You Cold’",
-      "date": "2026-08-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-08-27-4b",
@@ -1006,18 +954,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-27-5",
-      "title": "可以兩個各來一份嗎😋😋",
-      "date": "2026-08-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-27-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-08-26",
@@ -4252,18 +4188,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-41.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-41.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-42",
-      "title": "Why are billionaires building bunkers?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-42.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-42.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -7884,36 +7808,6 @@
         6.302,
         6.702,
         2.12
-      ]
-    },
-    {
-      "id": "2026-07-21-103",
-      "title": "安妮海瑟薇甜点界的预言者！",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-103.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-103.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        2.151,
-        2.44,
-        3.641,
-        1.3,
-        0.52,
-        0.8,
-        1.04,
-        1.921,
-        3.221,
-        2.12,
-        4.901,
-        2.221,
-        3.921,
-        4.461,
-        4.141,
-        1.44,
-        0.68,
-        5.281
       ]
     },
     {
