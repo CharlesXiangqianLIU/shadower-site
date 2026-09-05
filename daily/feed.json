@@ -26,6 +26,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-09-05b",
+      "title": "'Two Thanksgiving Day Gentlemen,' by O. Henry",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-09-05-2",
+      "title": "Climate change and extreme weather",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-05-2",
+      "title": "Climate change and extreme weather",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-09-04",
       "title": "Senegal Starts Introducing English in Preschools",
       "date": "2026-09-04",
@@ -668,7 +705,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -679,7 +716,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-29-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
@@ -1009,7 +1046,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
