@@ -88,6 +88,28 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-05-4",
+      "title": "寶包😭😭😭",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-4.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-09-05-4",
+      "title": "寶包😭😭😭",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-09-04",
       "title": "Senegal Starts Introducing English in Preschools",
       "date": "2026-09-04",
