@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-05",
+      "title": "'Two Thanksgiving Day Gentlemen,' by O. Henry",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-09-05",
+      "title": "'Two Thanksgiving Day Gentlemen,' by O. Henry",
+      "date": "2026-09-05",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-05.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-04",
       "title": "Senegal Starts Introducing English in Preschools",
       "date": "2026-09-04",
@@ -972,7 +997,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
