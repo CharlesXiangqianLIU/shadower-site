@@ -26,6 +26,41 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-06-2",
+      "title": "The quest for the best burger",
+      "date": "2026-09-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-09-06-2",
+      "title": "The quest for the best burger",
+      "date": "2026-09-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-09-06-2b",
+      "title": "The quest for the best burger",
+      "date": "2026-09-06",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-09-05",
       "title": "'Two Thanksgiving Day Gentlemen,' by O. Henry",
       "date": "2026-09-05",
@@ -1124,7 +1159,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-25-6b",
@@ -1135,7 +1170,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-25-7",
