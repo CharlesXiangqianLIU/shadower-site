@@ -624,19 +624,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-30",
-      "title": "Why smells make us feel at home",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-30-2",
       "title": "Talking about drinks",
       "date": "2026-08-30",
@@ -649,19 +636,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-08-30-2",
-      "title": "Talking about drinks",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-30-3",
       "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
       "date": "2026-08-30",
@@ -671,19 +645,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-30-3",
-      "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-30-3b",
@@ -708,19 +669,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-08-30-4",
-      "title": "'We'll come stronger out of this,' says Iceland's PM as referendum poll on EU accession talks opens",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-30-4b",
       "title": "'We'll come stronger out of this,' says Iceland's PM as referendum poll on EU accession talks opens",
       "date": "2026-08-30",
@@ -741,19 +689,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-08-30-5",
-      "title": "Car group showcases custom rides to inspire the next generation",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-08-30-5b",
@@ -4241,18 +4176,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-39.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-39.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-40",
-      "title": "Artistic swimming",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-40.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-40.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
