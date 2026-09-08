@@ -76,6 +76,76 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-08-4",
+      "title": "What is postpartum psychosis?",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-09-08-4",
+      "title": "What is postpartum psychosis?",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-09-08-4b",
+      "title": "What is postpartum psychosis?",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "2026-09-08-5",
+      "title": "Train Operator Taneisha Moody credits the women of SEPTA for their leadership and mentorship",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.json",
+      "folder": "US更新·进阶版",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
+      "id": "wu-2026-09-08-5",
+      "title": "Train Operator Taneisha Moody credits the women of SEPTA for their leadership and mentorship",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "US更新·进阶版",
+      "origFolderEn": "US更新·进阶版",
+      "accent": "american"
+    },
+    {
+      "id": "2026-09-08-5b",
+      "title": "Train Operator Taneisha Moody credits the women of SEPTA for their leadership and mentorship",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5b.json",
+      "folder": "US更新",
+      "accent": "american",
+      "level": "C1",
+      "free": true
+    },
+    {
       "id": "2026-09-07",
       "title": "How to Reduce Risks of Bad Air Quality",
       "date": "2026-09-07",
@@ -799,7 +869,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-30-5b",
@@ -810,7 +880,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-29",
@@ -903,7 +973,7 @@
       "folder": "US更新·进阶版",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-28b",
@@ -914,7 +984,7 @@
       "folder": "US更新",
       "accent": "american",
       "level": "C1",
-      "free": true
+      "free": false
     },
     {
       "id": "2026-08-28-2",
