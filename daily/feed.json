@@ -624,19 +624,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-08-31",
-      "title": "Becoming a musician",
-      "date": "2026-08-31",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-08-31-2",
       "title": "Study Shows How Earth’s Orbit Affects Ice Ages",
       "date": "2026-08-31",
@@ -649,19 +636,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-08-31-2",
-      "title": "Study Shows How Earth’s Orbit Affects Ice Ages",
-      "date": "2026-08-31",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-08-31-3",
       "title": "Talking about colours",
       "date": "2026-08-31",
@@ -672,19 +646,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-08-31-3",
-      "title": "Talking about colours",
-      "date": "2026-08-31",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-31-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-08-30",
@@ -4239,18 +4200,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-38.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-38.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-39",
-      "title": "Dreaming of being a chef",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-39.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-39.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
