@@ -146,6 +146,31 @@
       "free": true
     },
     {
+      "id": "2026-09-08-6",
+      "title": "What Does It Mean to ‘Hit Pay Dirt'?",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-08-6",
+      "title": "What Does It Mean to ‘Hit Pay Dirt'?",
+      "date": "2026-09-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-07",
       "title": "How to Reduce Risks of Bad Air Quality",
       "date": "2026-09-07",
@@ -1241,7 +1266,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
