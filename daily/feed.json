@@ -682,19 +682,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-01",
-      "title": "How the Animals Lost Their Tails by Carl Sandburg",
-      "date": "2026-09-01",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-01-2",
       "title": "'Show Your Hand', other Card Idioms",
       "date": "2026-09-01",
@@ -705,19 +692,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-01-2",
-      "title": "'Show Your Hand', other Card Idioms",
-      "date": "2026-09-01",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-01-3",
@@ -732,19 +706,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-01-3",
-      "title": "How the world learned to love fast food",
-      "date": "2026-09-01",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-01-4",
       "title": "Talking about New Year's resolutions",
       "date": "2026-09-01",
@@ -757,19 +718,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-01-4",
-      "title": "Talking about New Year's resolutions",
-      "date": "2026-09-01",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-01-5",
       "title": "要奪瘋",
       "date": "2026-09-01",
@@ -778,18 +726,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-01-5",
-      "title": "要奪瘋",
-      "date": "2026-09-01",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-01-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-01-2b",
@@ -4399,18 +4335,6 @@
       "level": "B2"
     },
     {
-      "id": "2026-07-26-38",
-      "title": "The power of pepper",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-38.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-38.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
       "id": "2026-07-26-71",
       "title": "Drifting Science Station Sets",
       "date": "2026-07-26",
@@ -7984,27 +7908,6 @@
         0.96,
         2.08,
         3.961
-      ]
-    },
-    {
-      "id": "2026-07-21-101",
-      "title": "小男孩认出她却想不起名字",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-101.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-101.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        4.071,
-        5.401,
-        3.12,
-        0.86,
-        1.96,
-        3.281,
-        6.922,
-        3.721,
-        1.02
       ]
     },
     {
