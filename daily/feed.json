@@ -732,19 +732,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-03",
-      "title": "The Cask of Amontillado",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-03b",
       "title": "The Cask of Amontillado",
       "date": "2026-09-03",
@@ -769,19 +756,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-03-2",
-      "title": "Which country has the best schools?",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-03-3",
       "title": "Talking about your year",
       "date": "2026-09-03",
@@ -794,19 +768,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-03-3",
-      "title": "Talking about your year",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-03-4",
       "title": "What Does ‘Like Gangbusters’ Mean?",
       "date": "2026-09-03",
@@ -817,19 +778,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-03-4",
-      "title": "What Does ‘Like Gangbusters’ Mean?",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-03-4b",
@@ -852,18 +800,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-03-5",
-      "title": "英国人说\"Quite Good\" 美国人却听反了",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-02",
@@ -4303,18 +4239,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-18",
-      "title": "Talking about the office",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-18.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-18.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4500,18 +4424,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-35.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-35.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-36",
-      "title": "Should we pay more for chocolate?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-36.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-36.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -8045,53 +7957,6 @@
         0.84,
         1.761,
         2.3
-      ]
-    },
-    {
-      "id": "2026-07-21-100",
-      "title": "春节为什么说“恭喜发财”？",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-100.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-100.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        2.23,
-        1.401,
-        3.18,
-        0.66,
-        1.741,
-        1.5,
-        1.38,
-        1.86,
-        1.101,
-        1.24,
-        1.14,
-        1.28,
-        1.48,
-        5.921,
-        2.981,
-        1.26,
-        0.98,
-        2.32,
-        3.2,
-        1.44,
-        3.056,
-        9.502,
-        8.481,
-        6.782,
-        2.72,
-        2.26,
-        1.301,
-        5.22,
-        2.001,
-        1.16,
-        2.301,
-        2.02,
-        0.96,
-        2.08,
-        3.961
       ]
     },
     {

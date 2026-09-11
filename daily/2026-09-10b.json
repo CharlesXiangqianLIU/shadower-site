@@ -1,0 +1,1458 @@
+[
+  {
+    "index": 0,
+    "text": "Today we present the short story \"The Tell-Tale Heart\" by Edgar Allan Poe.",
+    "start": 1.351,
+    "end": 8.194,
+    "zh": "今天我们为大家带来埃德加·爱伦·坡的短篇小说《泄密的心》。",
+    "zh_hant": "今天我們為大家帶來埃德加·愛倫·坡的短篇小說《洩密的心》。"
+  },
+  {
+    "index": 1,
+    "text": "Here is Shep O'Neal with the story.",
+    "start": 8.574,
+    "end": 11.155,
+    "zh": "由谢普·奥尼尔为您讲述这个故事。",
+    "zh_hant": "由謝普·奧尼爾為您講述這個故事。"
+  },
+  {
+    "index": 2,
+    "text": "True!",
+    "start": 12.556,
+    "end": 13.356,
+    "zh": "没错！",
+    "zh_hant": "沒錯！"
+  },
+  {
+    "index": 3,
+    "text": "Nervous -- very, very nervous I had been and am!",
+    "start": 13.477,
+    "end": 17.919,
+    "zh": "我过去一直神经紧张——非常非常紧张，现在也是！",
+    "zh_hant": "我過去一直神經緊張——非常非常緊張，現在也是！"
+  },
+  {
+    "index": 4,
+    "text": "But why will you say that I am mad?",
+    "start": 18.739,
+    "end": 21.66,
+    "zh": "可你凭什么说我是疯子？",
+    "zh_hant": "可你憑什麼說我是瘋子？"
+  },
+  {
+    "index": 5,
+    "text": "The disease had sharpened my senses -- not destroyed them.",
+    "start": 22.201,
+    "end": 26.963,
+    "zh": "这病反而使我的感官变得敏锐——而不是毁掉它们。",
+    "zh_hant": "這病反而使我的感官變得敏銳——而不是毀掉它們。"
+  },
+  {
+    "index": 6,
+    "text": "Above all was the sense of hearing.",
+    "start": 28.104,
+    "end": 32.026,
+    "zh": "其中尤其以听觉最为敏锐。",
+    "zh_hant": "其中尤其以聽覺最為敏銳。"
+  },
+  {
+    "index": 7,
+    "text": "I heard all things in the heaven and in the earth.",
+    "start": 32.586,
+    "end": 37.188,
+    "zh": "天上地下的一切声音，我都听得见。",
+    "zh_hant": "天上地下的一切聲音，我都聽得見。"
+  },
+  {
+    "index": 8,
+    "text": "I heard many things in the underworld.",
+    "start": 37.969,
+    "end": 40.61,
+    "zh": "阴间里的许多声音，我也听得见。",
+    "zh_hant": "陰間裡的許多聲音，我也聽得見。"
+  },
+  {
+    "index": 9,
+    "text": "How, then, am I mad?",
+    "start": 40.99,
+    "end": 43.411,
+    "zh": "那么，我怎么会是疯子呢？",
+    "zh_hant": "那麼，我怎麼會是瘋子呢？"
+  },
+  {
+    "index": 10,
+    "text": "Observe how healthily -- how calmly I can tell you the whole story.",
+    "start": 43.892,
+    "end": 50.095,
+    "zh": "看看我有多么健康——多么镇定地给你讲完整个故事吧。",
+    "zh_hant": "看看我有多麼健康——多麼鎮定地給你講完整個故事吧。"
+  },
+  {
+    "index": 11,
+    "text": "It is impossible to say how first the idea entered my brain.",
+    "start": 51.536,
+    "end": 56.398,
+    "zh": "这个念头最初是怎么钻进我脑子里的，实在说不清。",
+    "zh_hant": "這個念頭最初是怎麼鑽進我腦子裡的，實在說不清。"
+  },
+  {
+    "index": 12,
+    "text": "I loved the old man.",
+    "start": 56.898,
+    "end": 58.759,
+    "zh": "我爱那老头。",
+    "zh_hant": "我愛那老頭。"
+  },
+  {
+    "index": 13,
+    "text": "He had never wronged me.",
+    "start": 59.059,
+    "end": 60.82,
+    "zh": "他从没亏待过我。",
+    "zh_hant": "他從沒虧待過我。"
+  },
+  {
+    "index": 14,
+    "text": "He had never given me insult.",
+    "start": 60.88,
+    "end": 63.281,
+    "zh": "他从没侮辱过我。",
+    "zh_hant": "他從沒侮辱過我。"
+  },
+  {
+    "index": 15,
+    "text": "For his gold I had no desire.",
+    "start": 63.201,
+    "end": 67.163,
+    "zh": "他的金子，我一点也不想要。",
+    "zh_hant": "他的金子，我一點也不想要。"
+  },
+  {
+    "index": 16,
+    "text": "I think it was his eye!",
+    "start": 69.344,
+    "end": 72.166,
+    "zh": "我想是他的眼睛！",
+    "zh_hant": "我想是他的眼睛！"
+  },
+  {
+    "index": 17,
+    "text": "Yes, it was this!",
+    "start": 72.666,
+    "end": 74.006,
+    "zh": "对，就是它！",
+    "zh_hant": "對，就是它！"
+  },
+  {
+    "index": 18,
+    "text": "He had the eye of a bird, a vulture --",
+    "start": 74.647,
+    "end": 78.81,
+    "zh": "他长着一只鸟的眼睛，一只秃鹫的眼睛——",
+    "zh_hant": "他長著一隻鳥的眼睛，一隻禿鷲的眼睛——"
+  },
+  {
+    "index": 19,
+    "text": "a pale blue eye, with a film over it.",
+    "start": 79.189,
+    "end": 83.051,
+    "zh": "一只淡蓝色的眼睛，上面蒙着一层膜。",
+    "zh_hant": "一隻淡藍色的眼睛，上面蒙著一層膜。"
+  },
+  {
+    "index": 20,
+    "text": "Whenever it fell on me, my blood ran cold;",
+    "start": 83.632,
+    "end": 88.114,
+    "zh": "每当它落到我身上，我的血就变凉了；",
+    "zh_hant": "每當它落到我身上，我的血就變涼了；"
+  },
+  {
+    "index": 21,
+    "text": "and so -- very slowly -- I made up my mind",
+    "start": 88.094,
+    "end": 93.897,
+    "zh": "于是——非常缓慢地——我下定了决心，",
+    "zh_hant": "於是——非常緩慢地——我下定了決心，"
+  },
+  {
+    "index": 22,
+    "text": "to take the life of the old man,",
+    "start": 93.547,
+    "end": 96.398,
+    "zh": "要了结那老头的性命，",
+    "zh_hant": "要了結那老頭的性命，"
+  },
+  {
+    "index": 23,
+    "text": "and free myself of the eye forever.",
+    "start": 96.048,
+    "end": 99.66,
+    "zh": "永远摆脱那只眼睛。",
+    "zh_hant": "永遠擺脫那隻眼睛。"
+  },
+  {
+    "index": 24,
+    "text": "Now this is the point.",
+    "start": 101.201,
+    "end": 102.741,
+    "zh": "问题就在这里。",
+    "zh_hant": "問題就在這裡。"
+  },
+  {
+    "index": 25,
+    "text": "You think that I am mad.",
+    "start": 103.482,
+    "end": 105.983,
+    "zh": "你以为我疯了。",
+    "zh_hant": "你以為我瘋了。"
+  },
+  {
+    "index": 26,
+    "text": "Madmen know nothing.",
+    "start": 106.943,
+    "end": 109.104,
+    "zh": "疯子什么也不懂。",
+    "zh_hant": "瘋子什麼也不懂。"
+  },
+  {
+    "index": 27,
+    "text": "But you should have seen me.",
+    "start": 110.325,
+    "end": 112.346,
+    "zh": "可你该看看我。",
+    "zh_hant": "可你該看看我。"
+  },
+  {
+    "index": 28,
+    "text": "You should have seen how wisely and carefully I went to work!",
+    "start": 112.706,
+    "end": 118.449,
+    "zh": "你该看看我干得多么聪明、多么小心！",
+    "zh_hant": "你該看看我幹得多麼聰明、多麼小心！"
+  },
+  {
+    "index": 29,
+    "text": "I was never kinder to the old man than during the whole week before I killed him.",
+    "start": 119.65,
+    "end": 126.133,
+    "zh": "我杀他之前的那整整一周，是对他最好的一周。",
+    "zh_hant": "我殺他之前的那整整一週，是對他最好的一週。"
+  },
+  {
+    "index": 30,
+    "text": "And every night, late at night,",
+    "start": 126.914,
+    "end": 130.595,
+    "zh": "每天晚上，夜深人静时，",
+    "zh_hant": "每天晚上，夜深人靜時，"
+  },
+  {
+    "index": 31,
+    "text": "I turned the lock of his door and opened it – oh,",
+    "start": 131.336,
+    "end": 136.438,
+    "zh": "我转动他门上的锁，把门打开——哦，",
+    "zh_hant": "我轉動他門上的鎖，把門開啟——哦，"
+  },
+  {
+    "index": 32,
+    "text": "so gently!",
+    "start": 136.838,
+    "end": 139.159,
+    "zh": "那么轻！",
+    "zh_hant": "那麼輕！"
+  },
+  {
+    "index": 33,
+    "text": "And then, when I had made an opening big enough for my head,",
+    "start": 140.24,
+    "end": 145.242,
+    "zh": "然后，等我把门缝开得够我探进脑袋时，",
+    "zh_hant": "然後，等我把門縫開得夠我探進腦袋時，"
+  },
+  {
+    "index": 34,
+    "text": "I put in a dark lantern,",
+    "start": 145.623,
+    "end": 148.104,
+    "zh": "我塞进一盏遮光灯，",
+    "zh_hant": "我塞進一盞遮光燈，"
+  },
+  {
+    "index": 35,
+    "text": "all closed that no light shone out, and then I stuck in my head.",
+    "start": 148.344,
+    "end": 155.207,
+    "zh": "灯关得严严的，透不出一点光，然后我把头伸进去。",
+    "zh_hant": "燈關得嚴嚴的，透不出一點光，然後我把頭伸進去。"
+  },
+  {
+    "index": 36,
+    "text": "I moved it slowly, very slowly,",
+    "start": 156.748,
+    "end": 160.61,
+    "zh": "我慢慢地移动它，非常慢，",
+    "zh_hant": "我慢慢地移動它，非常慢，"
+  },
+  {
+    "index": 37,
+    "text": "so that I might not interfere with the old man's sleep.",
+    "start": 161.311,
+    "end": 164.912,
+    "zh": "以免打扰老头的睡眠。",
+    "zh_hant": "以免打擾老頭的睡眠。"
+  },
+  {
+    "index": 38,
+    "text": "And then, when my head was well in the room,",
+    "start": 165.693,
+    "end": 169.254,
+    "zh": "然后，等我的头完全探进屋里，",
+    "zh_hant": "然後，等我的頭完全探進屋裡，"
+  },
+  {
+    "index": 39,
+    "text": "I undid the lantern just so much that a single thin",
+    "start": 169.375,
+    "end": 175.237,
+    "zh": "我稍稍打开灯罩，只让一条细细的",
+    "zh_hant": "我稍稍開啟燈罩，只讓一條細細的"
+  },
+  {
+    "index": 40,
+    "text": "ray of light fell",
+    "start": 175.177,
+    "end": 177.438,
+    "zh": "光线落下，",
+    "zh_hant": "光線落下，"
+  },
+  {
+    "index": 41,
+    "text": "upon the vulture eye.",
+    "start": 177.098,
+    "end": 180.42,
+    "zh": "照在那只秃鹫眼上。",
+    "zh_hant": "照在那隻禿鷲眼上。"
+  },
+  {
+    "index": 42,
+    "text": "And this I did for seven long nights -- but I found the eye always closed;",
+    "start": 181.841,
+    "end": 189.124,
+    "zh": "这样一连干了七个漫长的夜晚——可我发现那只眼睛总是闭着的；",
+    "zh_hant": "這樣一連幹了七個漫長的夜晚——可我發現那隻眼睛總是閉著的；"
+  },
+  {
+    "index": 43,
+    "text": "and so it was impossible to do the work;",
+    "start": 189.324,
+    "end": 192.466,
+    "zh": "所以没法动手；",
+    "zh_hant": "所以沒法動手；"
+  },
+  {
+    "index": 44,
+    "text": "for it was not the old man who was a problem for me, but his Evil Eye.",
+    "start": 192.326,
+    "end": 198.669,
+    "zh": "因为碍事的不是老头本人，而是他那只看邪眼。",
+    "zh_hant": "因為礙事的不是老頭本人，而是他那隻看邪眼。"
+  },
+  {
+    "index": 45,
+    "text": "On the eighth night, I was more than usually careful in opening the door.",
+    "start": 200.01,
+    "end": 205.533,
+    "zh": "第八天晚上，我开门时比平时更加小心。",
+    "zh_hant": "第八天晚上，我開門時比平時更加小心。"
+  },
+  {
+    "index": 46,
+    "text": "I had my head in and was about to open the lantern,",
+    "start": 206.013,
+    "end": 210.335,
+    "zh": "我把头探进去，正要打开灯罩，",
+    "zh_hant": "我把頭探進去，正要開啟燈罩，"
+  },
+  {
+    "index": 47,
+    "text": "when my finger slid on a piece of metal and made a noise.",
+    "start": 210.375,
+    "end": 215.277,
+    "zh": "手指却滑到一块金属上，发出了声响。",
+    "zh_hant": "手指卻滑到一塊金屬上，發出了聲響。"
+  },
+  {
+    "index": 48,
+    "text": "The old man sat up in bed, crying out \"Who's there?\"",
+    "start": 216.358,
+    "end": 220.48,
+    "zh": "老头从床上坐起来，喊道：“谁在那儿？”",
+    "zh_hant": "老頭從床上坐起來，喊道：“誰在那兒？”"
+  },
+  {
+    "index": 49,
+    "text": "I kept still and said nothing.",
+    "start": 222.141,
+    "end": 224.502,
+    "zh": "我一动不动，一声不吭。",
+    "zh_hant": "我一動不動，一聲不吭。"
+  },
+  {
+    "index": 50,
+    "text": "I did not move a muscle for a whole hour.",
+    "start": 224.722,
+    "end": 227.203,
+    "zh": "整整一个小时，我连一块肌肉都没动。",
+    "zh_hant": "整整一個小時，我連一塊肌肉都沒動。"
+  },
+  {
+    "index": 51,
+    "text": "During that time, I did not hear him lie down.",
+    "start": 227.624,
+    "end": 231.446,
+    "zh": "那段时间里，我没听见他躺下。",
+    "zh_hant": "那段時間裡，我沒聽見他躺下。"
+  },
+  {
+    "index": 52,
+    "text": "He was still sitting up in the bed listening -- just as I have done,",
+    "start": 231.346,
+    "end": 237.248,
+    "zh": "他还坐在床上听着——就像我做过的那样，",
+    "zh_hant": "他還坐在床上聽著——就像我做過的那樣，"
+  },
+  {
+    "index": 53,
+    "text": "night after night.",
+    "start": 237.349,
+    "end": 240.15,
+    "zh": "一夜又一夜。",
+    "zh_hant": "一夜又一夜。"
+  },
+  {
+    "index": 54,
+    "text": "Then I heard a noise, and I knew it was the sound of human terror.",
+    "start": 241.651,
+    "end": 247.974,
+    "zh": "接着我听到一个声音，我知道那是人恐惧时发出的声音。",
+    "zh_hant": "接著我聽到一個聲音，我知道那是人恐懼時發出的聲音。"
+  },
+  {
+    "index": 55,
+    "text": "It was the low sound that arises from the bottom of the soul.",
+    "start": 248.074,
+    "end": 252.756,
+    "zh": "那是从灵魂深处升起的一种低沉的声音。",
+    "zh_hant": "那是從靈魂深處升起的一種低沉的聲音。"
+  },
+  {
+    "index": 56,
+    "text": "I knew the sound well.",
+    "start": 252.996,
+    "end": 255.677,
+    "zh": "这声音我很熟悉。",
+    "zh_hant": "這聲音我很熟悉。"
+  },
+  {
+    "index": 57,
+    "text": "Many a night, late at night, when all the world slept,",
+    "start": 256.858,
+    "end": 260.92,
+    "zh": "多少个深夜，当全世界都睡着了，",
+    "zh_hant": "多少個深夜，當全世界都睡著了，"
+  },
+  {
+    "index": 58,
+    "text": "it has welled up from deep within my own chest.",
+    "start": 261.04,
+    "end": 264.442,
+    "zh": "它从我自己的胸膛深处涌起。",
+    "zh_hant": "它從我自己的胸膛深處湧起。"
+  },
+  {
+    "index": 59,
+    "text": "I say I knew it well.",
+    "start": 264.402,
+    "end": 266.122,
+    "zh": "我说过，这声音我很熟悉。",
+    "zh_hant": "我說過，這聲音我很熟悉。"
+  },
+  {
+    "index": 60,
+    "text": "I knew what the old man felt, and felt sorry for him, although I laughed to myself.",
+    "start": 266.443,
+    "end": 272.886,
+    "zh": "我明白老头的感受，也为他难过，尽管我暗自好笑。",
+    "zh_hant": "我明白老頭的感受，也為他難過，儘管我暗自好笑。"
+  },
+  {
+    "index": 61,
+    "text": "I knew that he had been lying awake ever since the first noise, when he had turned in the bed.",
+    "start": 273.126,
+    "end": 279.229,
+    "zh": "我知道，自从他第一次在床上翻身发出响声之后，他就一直醒着躺着。",
+    "zh_hant": "我知道，自從他第一次在床上翻身發出響聲之後，他就一直醒著躺著。"
+  },
+  {
+    "index": 62,
+    "text": "His fears had been ever since growing upon him.",
+    "start": 279.109,
+    "end": 282.991,
+    "zh": "他的恐惧一直在不断加深。",
+    "zh_hant": "他的恐懼一直在不斷加深。"
+  },
+  {
+    "index": 63,
+    "text": "When I had waited a long time,",
+    "start": 283.752,
+    "end": 286.373,
+    "zh": "我等了很久，",
+    "zh_hant": "我等了很久，"
+  },
+  {
+    "index": 64,
+    "text": "without hearing him lie down, I decided to open a little -- a very,",
+    "start": 287.173,
+    "end": 294.297,
+    "zh": "没听见他躺下，于是我决定把灯罩打开一点——非常",
+    "zh_hant": "沒聽見他躺下，於是我決定把燈罩開啟一點——非常"
+  },
+  {
+    "index": 65,
+    "text": "very little -- crack in the lantern.",
+    "start": 294.397,
+    "end": 298.219,
+    "zh": "非常小的一条缝。",
+    "zh_hant": "非常小的一條縫。"
+  },
+  {
+    "index": 66,
+    "text": "So I opened it.",
+    "start": 298.719,
+    "end": 300.14,
+    "zh": "于是我把它打开了。",
+    "zh_hant": "於是我把它開啟了。"
+  },
+  {
+    "index": 67,
+    "text": "You cannot imagine how carefully, carefully.",
+    "start": 300.68,
+    "end": 304.662,
+    "zh": "你想象不到我有多小心，多小心。",
+    "zh_hant": "你想象不到我有多小心，多小心。"
+  },
+  {
+    "index": 68,
+    "text": "Finally, a single ray of light shot from out and fell full upon the vulture eye.",
+    "start": 305.482,
+    "end": 312.686,
+    "zh": "终于，一道细细的光线射出来，正好落在那只秃鹫眼上。",
+    "zh_hant": "終於，一道細細的光線射出來，正好落在那隻禿鷲眼上。"
+  },
+  {
+    "index": 69,
+    "text": "It was open -- wide, wide open -- and I grew angry as I looked at it.",
+    "start": 313.546,
+    "end": 319.689,
+    "zh": "它睁着——睁得大大的——我看着它，怒火中烧。",
+    "zh_hant": "它睜著——睜得大大的——我看著它，怒火中燒。"
+  },
+  {
+    "index": 70,
+    "text": "I saw it clearly -- all a dull blue, with a horrible veil over it that chilled my bones;",
+    "start": 319.529,
+    "end": 326.673,
+    "zh": "我看得清清楚楚——一片暗蓝色，上面蒙着一层可怕的膜，让我骨头都凉了；",
+    "zh_hant": "我看得清清楚楚——一片暗藍色，上面蒙著一層可怕的膜，讓我骨頭都涼了；"
+  },
+  {
+    "index": 71,
+    "text": "but I could see nothing else of the old man's face or person.",
+    "start": 326.793,
+    "end": 331.936,
+    "zh": "但老头的脸和身体，我什么也看不见。",
+    "zh_hant": "但老頭的臉和身體，我什麼也看不見。"
+  },
+  {
+    "index": 72,
+    "text": "For I had directed the light exactly upon the damned spot.",
+    "start": 332.096,
+    "end": 338.519,
+    "zh": "因为我把光准确地对准了那个该死的地方。",
+    "zh_hant": "因為我把光準確地對準了那個該死的地方。"
+  },
+  {
+    "index": 73,
+    "text": "And have I not told you that what you mistake for madness is but a kind of over-sensitivity?",
+    "start": 340.46,
+    "end": 347.043,
+    "zh": "我不是跟你说过吗，你误以为的疯狂，其实只是一种过度敏感？",
+    "zh_hant": "我不是跟你說過嗎，你誤以為的瘋狂，其實只是一種過度敏感？"
+  },
+  {
+    "index": 74,
+    "text": "Now, there came to my ears a low, dull, quick sound,",
+    "start": 348.364,
+    "end": 354.527,
+    "zh": "这时，我耳朵里传来一个低沉、发闷、急促的声音，",
+    "zh_hant": "這時，我耳朵裡傳來一個低沉、發悶、急促的聲音，"
+  },
+  {
+    "index": 75,
+    "text": "such as a watch makes when inside a piece of cotton.",
+    "start": 354.527,
+    "end": 357.868,
+    "zh": "就像怀表裹在棉花里发出的声音。",
+    "zh_hant": "就像懷錶裹在棉花裡發出的聲音。"
+  },
+  {
+    "index": 76,
+    "text": "I knew that sound well, too.",
+    "start": 358.309,
+    "end": 360.59,
+    "zh": "这声音我也很熟悉。",
+    "zh_hant": "這聲音我也很熟悉。"
+  },
+  {
+    "index": 77,
+    "text": "It was the beating of the old man's heart.",
+    "start": 360.59,
+    "end": 363.212,
+    "zh": "那是老头的心跳。",
+    "zh_hant": "那是老頭的心跳。"
+  },
+  {
+    "index": 78,
+    "text": "It increased my anger.",
+    "start": 363.092,
+    "end": 365.613,
+    "zh": "它让我更加愤怒。",
+    "zh_hant": "它讓我更加憤怒。"
+  },
+  {
+    "index": 79,
+    "text": "But even yet I kept still.",
+    "start": 365.913,
+    "end": 368.334,
+    "zh": "但我仍然一动不动。",
+    "zh_hant": "但我仍然一動不動。"
+  },
+  {
+    "index": 80,
+    "text": "I hardly breathed.",
+    "start": 368.815,
+    "end": 371.095,
+    "zh": "我几乎不敢呼吸。",
+    "zh_hant": "我幾乎不敢呼吸。"
+  },
+  {
+    "index": 81,
+    "text": "I held the lantern motionless.",
+    "start": 371.216,
+    "end": 374.277,
+    "zh": "我举着灯一动不动。",
+    "zh_hant": "我舉著燈一動不動。"
+  },
+  {
+    "index": 82,
+    "text": "I attempted to keep the ray of light upon the eye.",
+    "start": 374.497,
+    "end": 377.919,
+    "zh": "我尽量让那道光停在眼睛上。",
+    "zh_hant": "我儘量讓那道光停在眼睛上。"
+  },
+  {
+    "index": 83,
+    "text": "But the beating of the heart increased.",
+    "start": 378.279,
+    "end": 381.36,
+    "zh": "可那心跳越来越响。",
+    "zh_hant": "可那心跳越來越響。"
+  },
+  {
+    "index": 84,
+    "text": "It grew quicker and quicker, and louder and louder every second.",
+    "start": 381.381,
+    "end": 387.023,
+    "zh": "它一秒比一秒更快、更响。",
+    "zh_hant": "它一秒比一秒更快、更響。"
+  },
+  {
+    "index": 85,
+    "text": "The old man's terror must have been extreme!",
+    "start": 386.803,
+    "end": 390.205,
+    "zh": "老头的恐惧一定到了极点！",
+    "zh_hant": "老頭的恐懼一定到了極點！"
+  },
+  {
+    "index": 86,
+    "text": "The beating grew louder, I say, louder every moment!",
+    "start": 390.005,
+    "end": 393.767,
+    "zh": "我说，那心跳越来越响，每时每刻都在变响！",
+    "zh_hant": "我說，那心跳越來越響，每時每刻都在變響！"
+  },
+  {
+    "index": 87,
+    "text": "And now at the dead hour of the night, in the horrible silence of that old house,",
+    "start": 394.047,
+    "end": 400.39,
+    "zh": "此刻正是夜深人静的时分，在那座老屋可怕的寂静中，",
+    "zh_hant": "此刻正是夜深人靜的時分，在那座老屋可怕的寂靜中，"
+  },
+  {
+    "index": 88,
+    "text": "so strange a noise as this excited me to uncontrollable terror.",
+    "start": 400.21,
+    "end": 405.353,
+    "zh": "这样奇怪的声音把我逼到了无法控制的恐惧之中。",
+    "zh_hant": "這樣奇怪的聲音把我逼到了無法控制的恐懼之中。"
+  },
+  {
+    "index": 89,
+    "text": "Yet, for some minutes longer I stood still.",
+    "start": 405.313,
+    "end": 408.294,
+    "zh": "但我还是又站了好几分钟。",
+    "zh_hant": "但我還是又站了好幾分鐘。"
+  },
+  {
+    "index": 90,
+    "text": "But the beating grew louder, louder!",
+    "start": 408.474,
+    "end": 411.196,
+    "zh": "可那心跳越来越响，越来越响！",
+    "zh_hant": "可那心跳越來越響，越來越響！"
+  },
+  {
+    "index": 91,
+    "text": "I thought the heart must burst.",
+    "start": 411.156,
+    "end": 413.257,
+    "zh": "我想那心脏一定要炸开了。",
+    "zh_hant": "我想那心臟一定要炸開了。"
+  },
+  {
+    "index": 92,
+    "text": "And now a new fear seized me -- the sound would be heard by a neighbor!",
+    "start": 413.377,
+    "end": 418.839,
+    "zh": "这时一种新的恐惧攫住了我——邻居会听见这声音！",
+    "zh_hant": "這時一種新的恐懼攫住了我——鄰居會聽見這聲音！"
+  },
+  {
+    "index": 93,
+    "text": "The old man's hour had come!",
+    "start": 419.46,
+    "end": 422.041,
+    "zh": "老头的时辰到了！",
+    "zh_hant": "老頭的時辰到了！"
+  },
+  {
+    "index": 94,
+    "text": "With a loud shout, I threw open the lantern and burst into the room.",
+    "start": 422.661,
+    "end": 427.644,
+    "zh": "我大喊一声，猛地推开灯罩，冲进屋里。",
+    "zh_hant": "我大喊一聲，猛地推開燈罩，衝進屋裡。"
+  },
+  {
+    "index": 95,
+    "text": "He cried once -- once only.",
+    "start": 427.624,
+    "end": 430.805,
+    "zh": "他叫了一声——只叫了一声。",
+    "zh_hant": "他叫了一聲——只叫了一聲。"
+  },
+  {
+    "index": 96,
+    "text": "Without delay, I forced him to the floor, and pulled the heavy bed over him.",
+    "start": 431.046,
+    "end": 436.168,
+    "zh": "我毫不迟疑，把他按倒在地，拉过沉重的床压在他身上。",
+    "zh_hant": "我毫不遲疑，把他按倒在地，拉過沉重的床壓在他身上。"
+  },
+  {
+    "index": 97,
+    "text": "I then smiled, to find the action so far done.",
+    "start": 436.328,
+    "end": 443.032,
+    "zh": "然后我笑了，因为事情已经办成。",
+    "zh_hant": "然後我笑了，因為事情已經辦成。"
+  },
+  {
+    "index": 98,
+    "text": "But, for many minutes, the heart beat on with a quiet sound.",
+    "start": 444.693,
+    "end": 451.076,
+    "zh": "可是，那心跳又轻轻地响了好几分钟。",
+    "zh_hant": "可是，那心跳又輕輕地響了好幾分鐘。"
+  },
+  {
+    "index": 99,
+    "text": "This, however, did not concern me; it would not be heard through the wall.",
+    "start": 451.636,
+    "end": 457.219,
+    "zh": "不过，这我并不担心；隔着墙是听不见的。",
+    "zh_hant": "不過，這我並不擔心；隔著牆是聽不見的。"
+  },
+  {
+    "index": 100,
+    "text": "At length, it stopped.",
+    "start": 457.839,
+    "end": 460.64,
+    "zh": "终于，它停了。",
+    "zh_hant": "終於，它停了。"
+  },
+  {
+    "index": 101,
+    "text": "The old man was dead.",
+    "start": 461.101,
+    "end": 463.081,
+    "zh": "老头死了。",
+    "zh_hant": "老頭死了。"
+  },
+  {
+    "index": 102,
+    "text": "I removed the bed and examined the body.",
+    "start": 465.363,
+    "end": 470.025,
+    "zh": "我移开床，检查了尸体。",
+    "zh_hant": "我移開床，檢查了屍體。"
+  },
+  {
+    "index": 103,
+    "text": "I placed my hand over his heart and held it there many minutes.",
+    "start": 470.605,
+    "end": 475.027,
+    "zh": "我把手放在他心口上，按了好几分钟。",
+    "zh_hant": "我把手放在他心口上，按了好幾分鐘。"
+  },
+  {
+    "index": 104,
+    "text": "There was no movement.",
+    "start": 474.968,
+    "end": 476.688,
+    "zh": "没有动静。",
+    "zh_hant": "沒有動靜。"
+  },
+  {
+    "index": 105,
+    "text": "He was stone dead.",
+    "start": 476.648,
+    "end": 478.489,
+    "zh": "他彻底死了。",
+    "zh_hant": "他徹底死了。"
+  },
+  {
+    "index": 106,
+    "text": "His eye would trouble me no more.",
+    "start": 479.47,
+    "end": 482.632,
+    "zh": "他的眼睛再也折磨不了我了。",
+    "zh_hant": "他的眼睛再也折磨不了我了。"
+  },
+  {
+    "index": 107,
+    "text": "If still you think me mad,",
+    "start": 492.497,
+    "end": 494.938,
+    "zh": "如果你还认为我疯了，",
+    "zh_hant": "如果你還認為我瘋了，"
+  },
+  {
+    "index": 108,
+    "text": "you will think so no longer when I describe the wise steps I took for hiding the body.",
+    "start": 495.558,
+    "end": 501.581,
+    "zh": "等我说完我藏尸时采取的种种高明手段，你就不会这么想了。",
+    "zh_hant": "等我說完我藏屍時採取的種種高明手段，你就不會這麼想了。"
+  },
+  {
+    "index": 109,
+    "text": "I worked quickly, but in silence.",
+    "start": 502.361,
+    "end": 505.323,
+    "zh": "我干得很快，但悄无声息。",
+    "zh_hant": "我乾得很快，但悄無聲息。"
+  },
+  {
+    "index": 110,
+    "text": "First of all, I took apart the body.",
+    "start": 505.443,
+    "end": 508.244,
+    "zh": "首先，我把尸体肢解了。",
+    "zh_hant": "首先，我把屍體肢解了。"
+  },
+  {
+    "index": 111,
+    "text": "I cut off the head and the arms and the legs.",
+    "start": 508.584,
+    "end": 512.806,
+    "zh": "我砍下头、胳膊和腿。",
+    "zh_hant": "我砍下頭、胳膊和腿。"
+  },
+  {
+    "index": 112,
+    "text": "I then took up three pieces of wood from the flooring, and placed his body parts under the room.",
+    "start": 513.527,
+    "end": 520.05,
+    "zh": "然后我从地板上撬起三块木板，把尸块放在房间下面。",
+    "zh_hant": "然後我從地板上撬起三塊木板，把屍塊放在房間下面。"
+  },
+  {
+    "index": 113,
+    "text": "I then replaced the wooden boards so well that no human eye --",
+    "start": 520.691,
+    "end": 526.35,
+    "zh": "接着我把木板装回去，装得那么好，任何人的眼睛——",
+    "zh_hant": "接著我把木板裝回去，裝得那麼好，任何人的眼睛——"
+  },
+  {
+    "index": 114,
+    "text": "not even his -- could have seen anything wrong.",
+    "start": 526.714,
+    "end": 532.016,
+    "zh": "连他的眼睛——都看不出任何破绽。",
+    "zh_hant": "連他的眼睛——都看不出任何破綻。"
+  },
+  {
+    "index": 115,
+    "text": "There was nothing to wash out -- no mark of any kind -- no blood whatever.",
+    "start": 533.597,
+    "end": 539.28,
+    "zh": "没有什么要洗掉的——没有任何痕迹——一点血也没有。",
+    "zh_hant": "沒有什麼要洗掉的——沒有任何痕跡——一點血也沒有。"
+  },
+  {
+    "index": 116,
+    "text": "I had been too smart for that.",
+    "start": 539.56,
+    "end": 541.421,
+    "zh": "我太精明了，不会留下那种东西。",
+    "zh_hant": "我太精明瞭，不會留下那種東西。"
+  },
+  {
+    "index": 117,
+    "text": "A tub had caught all -- ha!",
+    "start": 541.361,
+    "end": 545.583,
+    "zh": "一个盆接住了一切——哈！",
+    "zh_hant": "一個盆接住了一切——哈！"
+  },
+  {
+    "index": 118,
+    "text": "When I had made an end of these labors, it was four o'clock in the morning.",
+    "start": 545.233,
+    "end": 549.505,
+    "zh": "等我干完这些活儿，已经是凌晨四点了。",
+    "zh_hant": "等我幹完這些活兒，已經是凌晨四點了。"
+  },
+  {
+    "index": 119,
+    "text": "As a clock sounded the hour, there came a noise at the street door.",
+    "start": 549.565,
+    "end": 554.207,
+    "zh": "钟敲响整点时，临街的大门传来了敲门声。",
+    "zh_hant": "鐘敲響整點時，臨街的大門傳來了敲門聲。"
+  },
+  {
+    "index": 120,
+    "text": "I went down to open it with a light heart -- for what had I now to fear?",
+    "start": 554.788,
+    "end": 559.57,
+    "zh": "我心情轻松地下楼开门——如今我还有什么好怕的？",
+    "zh_hant": "我心情輕鬆地下樓開門——如今我還有什麼好怕的？"
+  },
+  {
+    "index": 121,
+    "text": "There entered three men, who said they were officers of the police.",
+    "start": 560.15,
+    "end": 565.073,
+    "zh": "进来了三个人，自称是警察局的警官。",
+    "zh_hant": "進來了三個人，自稱是警察局的警官。"
+  },
+  {
+    "index": 122,
+    "text": "A cry had been heard by a neighbor during the night;",
+    "start": 565.533,
+    "end": 568.814,
+    "zh": "夜里有个邻居听到了一声喊叫；",
+    "zh_hant": "夜裡有個鄰居聽到了一聲喊叫；"
+  },
+  {
+    "index": 123,
+    "text": "suspicion of a crime had been aroused;",
+    "start": 568.795,
+    "end": 572.316,
+    "zh": "引起了犯罪的嫌疑；",
+    "zh_hant": "引起了犯罪的嫌疑；"
+  },
+  {
+    "index": 124,
+    "text": "information had been given at the police office,",
+    "start": 572.256,
+    "end": 575.578,
+    "zh": "有人向警察局报了案，",
+    "zh_hant": "有人向警察局報了案，"
+  },
+  {
+    "index": 125,
+    "text": "and the officers had been sent to search the building.",
+    "start": 575.478,
+    "end": 579.22,
+    "zh": "警官们被派来搜查这栋房子。",
+    "zh_hant": "警官們被派來搜查這棟房子。"
+  },
+  {
+    "index": 126,
+    "text": "I smiled -- for what had I to fear?",
+    "start": 580.5,
+    "end": 584.602,
+    "zh": "我笑了——我有什么好怕的？",
+    "zh_hant": "我笑了——我有什麼好怕的？"
+  },
+  {
+    "index": 127,
+    "text": "The cry, I said, was my own in a dream.",
+    "start": 585.323,
+    "end": 589.285,
+    "zh": "我说，那声喊叫是我在梦里发出的。",
+    "zh_hant": "我說，那聲喊叫是我在夢裡發出的。"
+  },
+  {
+    "index": 128,
+    "text": "The old man, I said, was not in the country.",
+    "start": 589.665,
+    "end": 593.447,
+    "zh": "我说，老头到乡下去了。",
+    "zh_hant": "我說，老頭到鄉下去了。"
+  },
+  {
+    "index": 129,
+    "text": "I took my visitors all over the house.",
+    "start": 594.407,
+    "end": 597.489,
+    "zh": "我带着来客把整栋房子看了个遍。",
+    "zh_hant": "我帶著來客把整棟房子看了個遍。"
+  },
+  {
+    "index": 130,
+    "text": "I told them to search -- search well.",
+    "start": 597.329,
+    "end": 600.03,
+    "zh": "我叫他们搜——好好搜。",
+    "zh_hant": "我叫他們搜——好好搜。"
+  },
+  {
+    "index": 131,
+    "text": "I led them, at length, to his room.",
+    "start": 600.01,
+    "end": 603.752,
+    "zh": "最后，我把他们领到他的房间。",
+    "zh_hant": "最後，我把他們領到他的房間。"
+  },
+  {
+    "index": 132,
+    "text": "I brought chairs there, and told them to rest.",
+    "start": 604.293,
+    "end": 608.634,
+    "zh": "我搬来椅子，请他们歇歇。",
+    "zh_hant": "我搬來椅子，請他們歇歇。"
+  },
+  {
+    "index": 133,
+    "text": "I placed my own seat upon the very place under which lay the body of the victim.",
+    "start": 609.175,
+    "end": 614.497,
+    "zh": "我把自己的椅子放在那个正下方躺着受害者的地方。",
+    "zh_hant": "我把自己的椅子放在那個正下方躺著受害者的地方。"
+  },
+  {
+    "index": 134,
+    "text": "The officers were satisfied.",
+    "start": 615.978,
+    "end": 618.699,
+    "zh": "警官们很满意。",
+    "zh_hant": "警官們很滿意。"
+  },
+  {
+    "index": 135,
+    "text": "I was completely at ease.",
+    "start": 619.44,
+    "end": 621.701,
+    "zh": "我完全泰然自若。",
+    "zh_hant": "我完全泰然自若。"
+  },
+  {
+    "index": 136,
+    "text": "They sat, and while I answered happily, they talked of common things.",
+    "start": 621.941,
+    "end": 628.284,
+    "zh": "他们坐着，我愉快地回答着，他们则聊着家常。",
+    "zh_hant": "他們坐著，我愉快地回答著，他們則聊著家常。"
+  },
+  {
+    "index": 137,
+    "text": "But, after a while, I felt myself getting weak and wished them gone.",
+    "start": 629.145,
+    "end": 633.667,
+    "zh": "可是过了一会儿，我感到自己越来越虚弱，只盼他们快走。",
+    "zh_hant": "可是過了一會兒，我感到自己越來越虛弱，只盼他們快走。"
+  },
+  {
+    "index": 138,
+    "text": "My head hurt, and I had a ringing in my ears; but still they sat and talked.",
+    "start": 633.567,
+    "end": 639.129,
+    "zh": "我头疼，耳朵里还有嗡嗡声；可他们还是坐着聊。",
+    "zh_hant": "我頭疼，耳朵裡還有嗡嗡聲；可他們還是坐著聊。"
+  },
+  {
+    "index": 139,
+    "text": "The ringing became more severe.",
+    "start": 639.13,
+    "end": 641.391,
+    "zh": "那嗡鸣声越来越严重。",
+    "zh_hant": "那嗡鳴聲越來越嚴重。"
+  },
+  {
+    "index": 140,
+    "text": "I talked more freely to do away with the feeling.",
+    "start": 641.391,
+    "end": 644.773,
+    "zh": "我说得更多，想驱散这种感觉。",
+    "zh_hant": "我說得更多，想驅散這種感覺。"
+  },
+  {
+    "index": 141,
+    "text": "But it continued until, at length, I found that the noise was not within my ears.",
+    "start": 644.553,
+    "end": 649.595,
+    "zh": "可它持续不断，最后我发现那声音并不在我耳朵里。",
+    "zh_hant": "可它持續不斷，最後我發現那聲音並不在我耳朵裡。"
+  },
+  {
+    "index": 142,
+    "text": "I talked more and with a heightened voice.",
+    "start": 649.575,
+    "end": 652.536,
+    "zh": "我说得更多，声音也更高了。",
+    "zh_hant": "我說得更多，聲音也更高了。"
+  },
+  {
+    "index": 143,
+    "text": "Yet the sound increased -- and what could I do?",
+    "start": 652.417,
+    "end": 655.778,
+    "zh": "可那声音却越来越大——我该怎么办？",
+    "zh_hant": "可那聲音卻越來越大——我該怎麼辦？"
+  },
+  {
+    "index": 144,
+    "text": "It was a low, dull, quick sound like a watch makes when inside a piece of cotton.",
+    "start": 655.898,
+    "end": 661.781,
+    "zh": "那是一个低沉、发闷、急促的声音，就像怀表裹在棉花里发出的声音。",
+    "zh_hant": "那是一個低沉、發悶、急促的聲音，就像懷錶裹在棉花裡發出的聲音。"
+  },
+  {
+    "index": 145,
+    "text": "I had trouble breathing -- and yet the officers heard it not.",
+    "start": 661.981,
+    "end": 665.623,
+    "zh": "我呼吸困难——可警官们却没听见。",
+    "zh_hant": "我呼吸困難——可警官們卻沒聽見。"
+  },
+  {
+    "index": 146,
+    "text": "I talked more quickly -- more loudly; but the noise increased.",
+    "start": 665.603,
+    "end": 669.645,
+    "zh": "我说得更快——更响；可那声音却更大了。",
+    "zh_hant": "我說得更快——更響；可那聲音卻更大了。"
+  },
+  {
+    "index": 147,
+    "text": "I stood up and argued about silly things, in a high voice and with violent hand movements.",
+    "start": 669.445,
+    "end": 675.568,
+    "zh": "我站起来，高声争论着无聊的事，双手还剧烈地比划着。",
+    "zh_hant": "我站起來，高聲爭論著無聊的事，雙手還劇烈地比劃著。"
+  },
+  {
+    "index": 148,
+    "text": "But the noise kept increasing.",
+    "start": 675.288,
+    "end": 678.069,
+    "zh": "可那声音不断变大。",
+    "zh_hant": "可那聲音不斷變大。"
+  },
+  {
+    "index": 149,
+    "text": "Why would they not be gone?",
+    "start": 678.369,
+    "end": 680.831,
+    "zh": "他们为什么还不走？",
+    "zh_hant": "他們為什麼還不走？"
+  },
+  {
+    "index": 150,
+    "text": "I walked across the floor with heavy steps,",
+    "start": 681.011,
+    "end": 684.893,
+    "zh": "我迈着沉重的步子在地板上来回走，",
+    "zh_hant": "我邁著沉重的步子在地板上來回走，"
+  },
+  {
+    "index": 151,
+    "text": "as if excited to anger by the observations of the men -- but the noise increased.",
+    "start": 684.543,
+    "end": 690.536,
+    "zh": "仿佛被他们的议论激怒了一般——可那声音却更大了。",
+    "zh_hant": "彷彿被他們的議論激怒了一般——可那聲音卻更大了。"
+  },
+  {
+    "index": 152,
+    "text": "What could I do?",
+    "start": 690.296,
+    "end": 691.756,
+    "zh": "我该怎么办？",
+    "zh_hant": "我該怎麼辦？"
+  },
+  {
+    "index": 153,
+    "text": "I swung my chair and moved it upon the floor,",
+    "start": 691.916,
+    "end": 695.538,
+    "zh": "我挥动椅子，在地板上挪来挪去，",
+    "zh_hant": "我揮動椅子，在地板上挪來挪去，"
+  },
+  {
+    "index": 154,
+    "text": "but the noise continually increased.",
+    "start": 695.478,
+    "end": 699.08,
+    "zh": "可那声音却不停地变大。",
+    "zh_hant": "可那聲音卻不停地變大。"
+  },
+  {
+    "index": 155,
+    "text": "It grew louder -- louder -- louder!",
+    "start": 698.84,
+    "end": 702.902,
+    "zh": "它越来越响——越来越响——越来越响！",
+    "zh_hant": "它越來越響——越來越響——越來越響！"
+  },
+  {
+    "index": 156,
+    "text": "And still the men talked pleasantly, and smiled.",
+    "start": 702.982,
+    "end": 707.964,
+    "zh": "可那些人依旧愉快地聊着，笑着。",
+    "zh_hant": "可那些人依舊愉快地聊著，笑著。"
+  },
+  {
+    "index": 157,
+    "text": "Was it possible they heard not?",
+    "start": 709.345,
+    "end": 711.646,
+    "zh": "难道他们没听见？",
+    "zh_hant": "難道他們沒聽見？"
+  },
+  {
+    "index": 158,
+    "text": "No, no!",
+    "start": 711.806,
+    "end": 712.806,
+    "zh": "不，不！",
+    "zh_hant": "不，不！"
+  },
+  {
+    "index": 159,
+    "text": "They heard!",
+    "start": 712.487,
+    "end": 713.507,
+    "zh": "他们听见了！",
+    "zh_hant": "他們聽見了！"
+  },
+  {
+    "index": 160,
+    "text": "They suspected!",
+    "start": 713.267,
+    "end": 714.807,
+    "zh": "他们起疑了！",
+    "zh_hant": "他們起疑了！"
+  },
+  {
+    "index": 161,
+    "text": "They knew!",
+    "start": 714.568,
+    "end": 715.608,
+    "zh": "他们知道了！",
+    "zh_hant": "他們知道了！"
+  },
+  {
+    "index": 162,
+    "text": "They were making a joke of my horror!",
+    "start": 715.588,
+    "end": 718.069,
+    "zh": "他们在拿我的恐惧开玩笑！",
+    "zh_hant": "他們在拿我的恐懼開玩笑！"
+  },
+  {
+    "index": 163,
+    "text": "This I thought, and this I think.",
+    "start": 718.089,
+    "end": 721.371,
+    "zh": "我当时这么想，现在也这么想。",
+    "zh_hant": "我當時這麼想，現在也這麼想。"
+  },
+  {
+    "index": 164,
+    "text": "But anything was better than this pain!",
+    "start": 721.371,
+    "end": 724.891,
+    "zh": "但什么都比这种痛苦好！",
+    "zh_hant": "但什麼都比這種痛苦好！"
+  },
+  {
+    "index": 165,
+    "text": "I could bear those smiles no longer!",
+    "start": 725.472,
+    "end": 728.072,
+    "zh": "我再也受不了那些笑容了！",
+    "zh_hant": "我再也受不了那些笑容了！"
+  },
+  {
+    "index": 166,
+    "text": "I felt that I must scream or die!",
+    "start": 728.252,
+    "end": 731.273,
+    "zh": "我觉得我必须尖叫，否则就会死！",
+    "zh_hant": "我覺得我必須尖叫，否則就會死！"
+  },
+  {
+    "index": 167,
+    "text": "And now -- again!",
+    "start": 731.353,
+    "end": 733.093,
+    "zh": "现在——又来了！",
+    "zh_hant": "現在——又來了！"
+  },
+  {
+    "index": 168,
+    "text": "Louder!",
+    "start": 732.953,
+    "end": 734.954,
+    "zh": "更响了！",
+    "zh_hant": "更響了！"
+  },
+  {
+    "index": 169,
+    "text": "\"Villains!\"",
+    "start": 736.794,
+    "end": 737.834,
+    "zh": "“恶棍！”",
+    "zh_hant": "“惡棍！”"
+  },
+  {
+    "index": 170,
+    "text": "I cried, \"Pretend no more!",
+    "start": 737.494,
+    "end": 739.995,
+    "zh": "我喊道，“别再装了！",
+    "zh_hant": "我喊道，“別再裝了！"
+  },
+  {
+    "index": 171,
+    "text": "I admit the deed!",
+    "start": 740.055,
+    "end": 741.635,
+    "zh": "我认罪！",
+    "zh_hant": "我認罪！"
+  },
+  {
+    "index": 172,
+    "text": "Tear up the floor boards!",
+    "start": 741.415,
+    "end": 743.395,
+    "zh": "把地板撬开！",
+    "zh_hant": "把地板撬開！"
+  },
+  {
+    "index": 173,
+    "text": "Here, here!",
+    "start": 743.045,
+    "end": 744.296,
+    "zh": "这儿，这儿！",
+    "zh_hant": "這兒，這兒！"
+  },
+  {
+    "index": 174,
+    "text": "It is the beating of his hideous heart!\"",
+    "start": 744.036,
+    "end": 747.636,
+    "zh": "是他那颗可怕的心在跳！”",
+    "zh_hant": "是他那顆可怕的心在跳！”"
+  },
+  {
+    "index": 175,
+    "text": "You have heard the story",
+    "start": 747.286,
+    "end": 748.496,
+    "zh": "你已经听完了这个故事，",
+    "zh_hant": "你已經聽完了這個故事，"
+  },
+  {
+    "index": 176,
+    "text": "\"The Tell-Tale Heart\" by Edgar Allan Poe.",
+    "start": 758.53,
+    "end": 762.53,
+    "zh": "埃德加·爱伦·坡的《泄密的心》。",
+    "zh_hant": "埃德加·愛倫·坡的《洩密的心》。"
+  },
+  {
+    "index": 177,
+    "text": "Your storyteller was Shep O'Neal.",
+    "start": 762.18,
+    "end": 765.03,
+    "zh": "为你讲述故事的是谢普·奥尼尔。",
+    "zh_hant": "為你講述故事的是謝普·奧尼爾。"
+  },
+  {
+    "index": 178,
+    "text": "This story was adapted by Shelley Gollust.",
+    "start": 764.68,
+    "end": 768.53,
+    "zh": "这个故事由谢莉·戈勒斯特改编。",
+    "zh_hant": "這個故事由謝莉·戈勒斯特改編。"
+  },
+  {
+    "index": 179,
+    "text": "It was produced by Lawan Davis.",
+    "start": 768.18,
+    "end": 771.53,
+    "zh": "由拉万·戴维斯制作。",
+    "zh_hant": "由拉萬·戴維斯製作。"
+  },
+  {
+    "index": 180,
+    "text": "This lesson plan, based on the CALLA Approach,",
+    "start": 771.18,
+    "end": 775.53,
+    "zh": "这份基于CALLA教学法的教案，",
+    "zh_hant": "這份基於CALLA教學法的教案，"
+  },
+  {
+    "index": 181,
+    "text": "teaches the strategy, classify, to help students understand the story.",
+    "start": 775.18,
+    "end": 780.53,
+    "zh": "教授“分类”这一学习策略，帮助学生理解这个故事。",
+    "zh_hant": "教授“分類”這一學習策略，幫助學生理解這個故事。"
+  }
+]
