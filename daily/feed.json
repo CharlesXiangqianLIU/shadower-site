@@ -26,6 +26,31 @@
       "accent": "american"
     },
     {
+      "id": "2026-09-12-2",
+      "title": "Can you trust ancestry DNA kits?",
+      "date": "2026-09-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-12-2",
+      "title": "Can you trust ancestry DNA kits?",
+      "date": "2026-09-12",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-09-11",
       "title": "What is the Super Bowl?",
       "date": "2026-09-11",
@@ -559,7 +584,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -570,7 +595,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
