@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-13",
+      "title": "How babies learn to talk",
+      "date": "2026-09-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-13",
+      "title": "How babies learn to talk",
+      "date": "2026-09-13",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-09-12",
       "title": "'The Boy on Graves-End Road,' by Caty Weaver",
       "date": "2026-09-12",
@@ -464,7 +489,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -475,7 +500,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
