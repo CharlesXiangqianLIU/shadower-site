@@ -772,19 +772,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-06",
-      "title": "Eating 50-year-old stew",
-      "date": "2026-09-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-06-2",
       "title": "The quest for the best burger",
       "date": "2026-09-06",
@@ -794,19 +781,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-06-2",
-      "title": "The quest for the best burger",
-      "date": "2026-09-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-09-06-2b",
@@ -4385,18 +4359,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-15",
-      "title": "Talking about public transport",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-15.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-15.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4546,18 +4508,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-32.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-32.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-33",
-      "title": "The future of food",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-33.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-33.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
