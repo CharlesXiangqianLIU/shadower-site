@@ -772,19 +772,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-07",
-      "title": "How to Reduce Risks of Bad Air Quality",
-      "date": "2026-09-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-07-2",
       "title": "Are you drinking enough water?",
       "date": "2026-09-07",
@@ -797,19 +784,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-07-2",
-      "title": "Are you drinking enough water?",
-      "date": "2026-09-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-07-3",
       "title": "Talking about dinner",
       "date": "2026-09-07",
@@ -820,19 +794,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-07-3",
-      "title": "Talking about dinner",
-      "date": "2026-09-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-07-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-06",
@@ -4422,18 +4383,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-14",
-      "title": "Talking about mistakes",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-14.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-14.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4571,18 +4520,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-31.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-31.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-32",
-      "title": "Love the food you hate",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-32.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-32.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
