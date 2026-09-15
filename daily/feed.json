@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-15",
+      "title": "'The Legend of Sleepy Hollow,' by Washington Irving",
+      "date": "2026-09-15",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-15.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-15.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-09-15",
+      "title": "'The Legend of Sleepy Hollow,' by Washington Irving",
+      "date": "2026-09-15",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-15.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-15.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-14",
       "title": "WHO Launches New Cancer Drug Plan for Children",
       "date": "2026-09-14",
@@ -920,7 +945,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
