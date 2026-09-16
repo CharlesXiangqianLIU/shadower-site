@@ -714,19 +714,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-08",
-      "title": "The Purloined Letter by Edgar Allan Poe",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-08-2",
       "title": "Embarrassed to go to the doctor?",
       "date": "2026-09-08",
@@ -737,19 +724,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-08-2",
-      "title": "Embarrassed to go to the doctor?",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-09-08-3",
@@ -764,19 +738,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-08-3",
-      "title": "Talking about winter",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-08-4",
       "title": "What is postpartum psychosis?",
       "date": "2026-09-08",
@@ -786,19 +747,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-08-4",
-      "title": "What is postpartum psychosis?",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-09-08-4b",
@@ -821,19 +769,6 @@
       "accent": "american",
       "level": "C1",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-08-5",
-      "title": "Train Operator Taneisha Moody credits the women of SEPTA for their leadership and mentorship",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "US更新·进阶版",
-      "origFolderEn": "US更新·进阶版",
-      "accent": "american"
     },
     {
       "id": "2026-09-08-5b",
@@ -859,19 +794,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-08-6",
-      "title": "What Does It Mean to ‘Hit Pay Dirt'?",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-6.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-08-6b",
       "title": "What Does It Mean to ‘Hit Pay Dirt'?",
       "date": "2026-09-08",
@@ -892,18 +814,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-08-7",
-      "title": "安德鲁加菲尔德笑到失控",
-      "date": "2026-09-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-7.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-08-7.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-07",
@@ -4517,18 +4427,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-13",
-      "title": "Talking about confidence",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-13.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-13.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4654,18 +4552,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-30.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-30.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-31",
-      "title": "Why are we all so stressed?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-31.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-31.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -8127,43 +8013,6 @@
         3.882,
         3.642,
         5.924
-      ]
-    },
-    {
-      "id": "2026-07-21-98",
-      "title": "这句法语太诡异了吧",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-98.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-98.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        3.271,
-        3.021,
-        4.201,
-        0.8,
-        5.202,
-        3.501,
-        2.821,
-        1.54,
-        0.68,
-        1.14,
-        3.861,
-        2.021,
-        1.14,
-        0.98,
-        0.88,
-        0.84,
-        1.04,
-        1.241,
-        1.86,
-        1.281,
-        2.28,
-        1.821,
-        1.04,
-        1.44,
-        0.58
       ]
     },
     {
