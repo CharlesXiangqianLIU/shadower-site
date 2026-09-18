@@ -568,19 +568,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-10",
-      "title": "'The Tell-Tale Heart' by Edgar Allan Poe",
-      "date": "2026-09-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-10b",
       "title": "'The Tell-Tale Heart' by Edgar Allan Poe",
       "date": "2026-09-10",
@@ -605,19 +592,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-10-2",
-      "title": "Making 'mum friends'",
-      "date": "2026-09-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-10-3",
       "title": "Talking about bad habits",
       "date": "2026-09-10",
@@ -630,19 +604,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-10-3",
-      "title": "Talking about bad habits",
-      "date": "2026-09-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-10-4",
       "title": "Have You Ever Felt the ‘Long Arm of the Law?’",
       "date": "2026-09-10",
@@ -653,19 +614,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-10-4",
-      "title": "Have You Ever Felt the ‘Long Arm of the Law?’",
-      "date": "2026-09-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-10-4b",
@@ -690,18 +638,6 @@
       "free": true
     },
     {
-      "id": "wu-2026-09-10-5",
-      "title": "這真的是我看過最尷尬的頒獎典禮",
-      "date": "2026-09-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-10-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
-    },
-    {
       "id": "2026-09-09",
       "title": "A Short History of Spacecraft Landings on the Moon",
       "date": "2026-09-09",
@@ -712,19 +648,6 @@
       "accent": "american",
       "free": true,
       "level": "B1"
-    },
-    {
-      "id": "wu-2026-09-09",
-      "title": "A Short History of Spacecraft Landings on the Moon",
-      "date": "2026-09-09",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
     },
     {
       "id": "2026-09-09-2",
@@ -739,19 +662,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-09-2",
-      "title": "Call centres: Are you talking to AI?",
-      "date": "2026-09-09",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-09-3",
       "title": "Talking about watching sports",
       "date": "2026-09-09",
@@ -762,19 +672,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-09-3",
-      "title": "Talking about watching sports",
-      "date": "2026-09-09",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-09-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-08",
@@ -4490,18 +4387,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-12",
-      "title": "Talking about housemates",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-12.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-12.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4615,18 +4500,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-29.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-29.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-30",
-      "title": "Should we eat ultra-processed food?",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-30.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-30.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
