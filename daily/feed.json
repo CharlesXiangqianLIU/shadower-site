@@ -493,19 +493,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-11",
-      "title": "What is the Super Bowl?",
-      "date": "2026-09-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-11-2",
       "title": "Can apps teach you a language?",
       "date": "2026-09-11",
@@ -518,19 +505,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-11-2",
-      "title": "Can apps teach you a language?",
-      "date": "2026-09-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-11-3",
       "title": "Talking about naps",
       "date": "2026-09-11",
@@ -541,19 +515,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-11-3",
-      "title": "Talking about naps",
-      "date": "2026-09-11",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-11-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-10",
