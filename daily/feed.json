@@ -505,19 +505,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-12",
-      "title": "'The Boy on Graves-End Road,' by Caty Weaver",
-      "date": "2026-09-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-12-2",
       "title": "Can you trust ancestry DNA kits?",
       "date": "2026-09-12",
@@ -528,19 +515,6 @@
       "accent": "british",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-12-2",
-      "title": "Can you trust ancestry DNA kits?",
-      "date": "2026-09-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-09-12-3",
@@ -555,19 +529,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-12-3",
-      "title": "Talking about desserts",
-      "date": "2026-09-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-12-4",
       "title": "For When You Do Something Wrong: Mea Culpa",
       "date": "2026-09-12",
@@ -578,19 +539,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-12-4",
-      "title": "For When You Do Something Wrong: Mea Culpa",
-      "date": "2026-09-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-12-4b",
@@ -613,18 +561,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-12-5",
-      "title": "麻将竟藏着人生哲学啊",
-      "date": "2026-09-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-12-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-11",
@@ -4482,18 +4418,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-11",
-      "title": "Talking about creativity",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-11.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-11.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4595,18 +4519,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-29",
-      "title": "Searching for life on another planet",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-29.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-29.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
@@ -8048,26 +7960,6 @@
         4.103,
         4.262,
         1.321
-      ]
-    },
-    {
-      "id": "2026-07-21-97",
-      "title": "和白人女生交往像奖品？",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-97.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-97.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        9.656,
-        5.423,
-        4.363,
-        2.762,
-        3.922,
-        3.882,
-        3.642,
-        5.924
       ]
     },
     {
