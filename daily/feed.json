@@ -51,6 +51,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-21-3",
+      "title": "Talking about driving",
+      "date": "2026-09-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-09-21-3",
+      "title": "Talking about driving",
+      "date": "2026-09-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-09-20",
       "title": "Why you need a good night's sleep",
       "date": "2026-09-20",
@@ -538,7 +563,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
