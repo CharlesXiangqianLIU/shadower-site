@@ -480,19 +480,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-13",
-      "title": "How babies learn to talk",
-      "date": "2026-09-13",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-13-2",
       "title": "Talking about breakfast",
       "date": "2026-09-13",
@@ -503,19 +490,6 @@
       "accent": "british",
       "free": true,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-13-2",
-      "title": "Talking about breakfast",
-      "date": "2026-09-13",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-12",
@@ -4532,18 +4506,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-27.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-27.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-28",
-      "title": "How reading shapes your brain",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-28.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
