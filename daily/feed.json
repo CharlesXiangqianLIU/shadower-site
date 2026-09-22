@@ -63,6 +63,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-22-3",
+      "title": "When in Rome …",
+      "date": "2026-09-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-22-3",
+      "title": "When in Rome …",
+      "date": "2026-09-22",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-21",
       "title": "What is the Best Kind of Yoga for Beginners?",
       "date": "2026-09-21",
@@ -902,7 +927,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
