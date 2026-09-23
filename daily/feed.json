@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-23",
+      "title": "Yellowstone: The World’s First National Park",
+      "date": "2026-09-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-09-23",
+      "title": "Yellowstone: The World’s First National Park",
+      "date": "2026-09-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-22",
       "title": "'Transients in Arcadia' by O. Henry",
       "date": "2026-09-22",
@@ -781,7 +806,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
