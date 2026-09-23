@@ -1,0 +1,1338 @@
+[
+  {
+    "index": 0,
+    "text": "We present the short story \"Transients in Arcadia,\" by O. Henry.",
+    "start": 0.0,
+    "end": 2.791,
+    "zh": "我们为大家带来短篇小说《阿卡迪亚的过客》，作者是欧·亨利。",
+    "zh_hant": "我們為大家帶來短篇小說《阿卡迪亞的過客》，作者是歐·亨利。"
+  },
+  {
+    "index": 1,
+    "text": "The story was originally adapted and recorded by the U.S. Department of State.",
+    "start": 2.441,
+    "end": 7.594,
+    "zh": "这个故事最初由美国国务院改编并录制。",
+    "zh_hant": "這個故事最初由美國國務院改編並錄製。"
+  },
+  {
+    "index": 2,
+    "text": "There is a certain hotel on Broadway that is very pleasant in the summer.",
+    "start": 7.244,
+    "end": 12.056,
+    "zh": "百老汇大街上有一家旅馆，夏天住在那里非常惬意。",
+    "zh_hant": "百老匯大街上有一家旅館，夏天住在那裡非常愜意。"
+  },
+  {
+    "index": 3,
+    "text": "Not many people have heard about it.",
+    "start": 12.896,
+    "end": 15.117,
+    "zh": "听说过它的人并不多。",
+    "zh_hant": "聽說過它的人並不多。"
+  },
+  {
+    "index": 4,
+    "text": "It is wide and cool.",
+    "start": 15.698,
+    "end": 17.999,
+    "zh": "它宽敞而凉爽。",
+    "zh_hant": "它寬敞而涼爽。"
+  },
+  {
+    "index": 5,
+    "text": "Its rooms have walls of dark wood.",
+    "start": 18.499,
+    "end": 21.741,
+    "zh": "房间的墙壁是深色木头的。",
+    "zh_hant": "房間的牆壁是深色木頭的。"
+  },
+  {
+    "index": 6,
+    "text": "There are green trees around it, and soft winds.",
+    "start": 22.601,
+    "end": 25.983,
+    "zh": "周围有绿树环绕，还有微风拂面。",
+    "zh_hant": "周圍有綠樹環繞，還有微風拂面。"
+  },
+  {
+    "index": 7,
+    "text": "It has all the pleasures of mountain living, and none of the pains.",
+    "start": 27.023,
+    "end": 32.086,
+    "zh": "它拥有山居生活的一切乐趣，却没有丝毫辛苦。",
+    "zh_hant": "它擁有山居生活的一切樂趣，卻沒有絲毫辛苦。"
+  },
+  {
+    "index": 8,
+    "text": "You will eat better fish there than you could catch for yourself in streams in the hills.",
+    "start": 33.026,
+    "end": 38.189,
+    "zh": "在那里吃到的鱼，比你自己在山间溪流里钓到的还要好。",
+    "zh_hant": "在那裡吃到的魚，比你自己在山間溪流裡釣到的還要好。"
+  },
+  {
+    "index": 9,
+    "text": "You will have better meat than a hunter brings home from the forest.",
+    "start": 39.169,
+    "end": 42.731,
+    "zh": "在那里吃到的肉，比猎人从森林里带回家的还要好。",
+    "zh_hant": "在那裡吃到的肉，比獵人從森林裡帶回家的還要好。"
+  },
+  {
+    "index": 10,
+    "text": "A few have discovered this cool spot in the hot summer of New York.",
+    "start": 44.132,
+    "end": 48.294,
+    "zh": "在纽约炎热的夏天里，有少数人发现了这个凉爽的地方。",
+    "zh_hant": "在紐約炎熱的夏天裡，有少數人發現了這個涼爽的地方。"
+  },
+  {
+    "index": 11,
+    "text": "You will see these few guests, eating dinner in the hotel restaurant.",
+    "start": 49.335,
+    "end": 53.477,
+    "zh": "你会看到这少数几位客人，在旅馆餐厅里用餐。",
+    "zh_hant": "你會看到這少數幾位客人，在旅館餐廳裡用餐。"
+  },
+  {
+    "index": 12,
+    "text": "They are happy to be there, and happy to know that they are very few.",
+    "start": 53.837,
+    "end": 59.54,
+    "zh": "他们很高兴能待在这里，也很高兴知道自己人数很少。",
+    "zh_hant": "他們很高興能待在這裡，也很高興知道自己人數很少。"
+  },
+  {
+    "index": 13,
+    "text": "They feel especially wise because they have found this delightful place.",
+    "start": 60.46,
+    "end": 66.603,
+    "zh": "他们觉得自己格外明智，因为他们找到了这个令人愉悦的地方。",
+    "zh_hant": "他們覺得自己格外明智，因為他們找到了這個令人愉悅的地方。"
+  },
+  {
+    "index": 14,
+    "text": "More waiters than necessary are always near.",
+    "start": 67.484,
+    "end": 70.925,
+    "zh": "身边总是围着比需要的还多的服务员。",
+    "zh_hant": "身邊總是圍著比需要的還多的服務員。"
+  },
+  {
+    "index": 15,
+    "text": "They bring what is wanted before anyone asks for it.",
+    "start": 71.446,
+    "end": 74.727,
+    "zh": "还没等人开口，他们就把想要的东西送来了。",
+    "zh_hant": "還沒等人開口，他們就把想要的東西送來了。"
+  },
+  {
+    "index": 16,
+    "text": "The pleasing distant noise of Broadway sounds like running water in a forest.",
+    "start": 75.668,
+    "end": 81.311,
+    "zh": "百老汇远处传来的悦耳喧闹声，听起来像森林里的流水声。",
+    "zh_hant": "百老匯遠處傳來的悅耳喧鬧聲，聽起來像森林裡的流水聲。"
+  },
+  {
+    "index": 17,
+    "text": "At every strange footstep, the guests turn quickly and look.",
+    "start": 82.412,
+    "end": 87.034,
+    "zh": "每当有陌生的脚步声响起，客人们都会迅速转头张望。",
+    "zh_hant": "每當有陌生的腳步聲響起，客人們都會迅速轉頭張望。"
+  },
+  {
+    "index": 18,
+    "text": "They are afraid that the restless pleasure-seekers will find their hotel and destroy its pleasant quiet.",
+    "start": 87.754,
+    "end": 95.238,
+    "zh": "他们担心那些不安分的寻欢作乐者会发现他们的旅馆，破坏这里的宁静。",
+    "zh_hant": "他們擔心那些不安分的尋歡作樂者會發現他們的旅館，破壞這裡的寧靜。"
+  },
+  {
+    "index": 19,
+    "text": "And so these few live during the hot season.",
+    "start": 96.259,
+    "end": 99.76,
+    "zh": "这少数几个人就这样度过炎热的季节。",
+    "zh_hant": "這少數幾個人就這樣度過炎熱的季節。"
+  },
+  {
+    "index": 20,
+    "text": "They enjoy the delights of mountain and seashore.",
+    "start": 100.18,
+    "end": 103.342,
+    "zh": "他们享受着山间和海滨的乐趣。",
+    "zh_hant": "他們享受著山間和海濱的樂趣。"
+  },
+  {
+    "index": 21,
+    "text": "All is brought to them in their Broadway hotel.",
+    "start": 103.722,
+    "end": 106.723,
+    "zh": "一切都被送到他们位于百老汇的旅馆里。",
+    "zh_hant": "一切都被送到他們位於百老匯的旅館裡。"
+  },
+  {
+    "index": 22,
+    "text": "This summer a lady came to the hotel giving this name: “Madame Héloise D’Arcy Beaumont.”",
+    "start": 107.964,
+    "end": 115.248,
+    "zh": "这年夏天，一位女士来到旅馆，报上这样的名字：“埃洛伊丝·达西·博蒙特夫人。”",
+    "zh_hant": "這年夏天，一位女士來到旅館，報上這樣的名字：“埃洛伊絲·達西·博蒙特夫人。”"
+  },
+  {
+    "index": 23,
+    "text": "The name was like a name in the story of a great romance.",
+    "start": 116.328,
+    "end": 120.571,
+    "zh": "这个名字就像一段伟大爱情故事里的名字。",
+    "zh_hant": "這個名字就像一段偉大愛情故事裡的名字。"
+  },
+  {
+    "index": 24,
+    "text": "And Madame Beaumont was the kind of lady the Hotel Lotus loved.",
+    "start": 121.271,
+    "end": 125.793,
+    "zh": "而博蒙特夫人正是莲花旅馆喜爱的那种女士。",
+    "zh_hant": "而博蒙特夫人正是蓮花旅館喜愛的那種女士。"
+  },
+  {
+    "index": 25,
+    "text": "She was beautiful and her manner was very fine.",
+    "start": 126.494,
+    "end": 130.616,
+    "zh": "她美丽动人，举止优雅。",
+    "zh_hant": "她美麗動人，舉止優雅。"
+  },
+  {
+    "index": 26,
+    "text": "Everyone wished to serve her.",
+    "start": 131.256,
+    "end": 133.177,
+    "zh": "人人都愿意为她效劳。",
+    "zh_hant": "人人都願意為她效勞。"
+  },
+  {
+    "index": 27,
+    "text": "The other guests believed that as a guest she was perfection.",
+    "start": 133.597,
+    "end": 139.28,
+    "zh": "其他客人都认为，作为客人她堪称完美。",
+    "zh_hant": "其他客人都認為，作為客人她堪稱完美。"
+  },
+  {
+    "index": 28,
+    "text": "This perfect guest did not often leave the hotel.",
+    "start": 140.121,
+    "end": 143.542,
+    "zh": "这位完美的客人并不常离开旅馆。",
+    "zh_hant": "這位完美的客人並不常離開旅館。"
+  },
+  {
+    "index": 29,
+    "text": "In this, she was like the other guests of the Hotel Lotus.",
+    "start": 144.443,
+    "end": 148.725,
+    "zh": "在这一点上，她和其他莲花旅馆的客人一样。",
+    "zh_hant": "在這一點上，她和其他蓮花旅館的客人一樣。"
+  },
+  {
+    "index": 30,
+    "text": "To enjoy that hotel, one needed to forget the city.",
+    "start": 149.305,
+    "end": 153.447,
+    "zh": "要享受这家旅馆，一个人需要忘记这座城市。",
+    "zh_hant": "要享受這家旅館，一個人需要忘記這座城市。"
+  },
+  {
+    "index": 31,
+    "text": "New York might have been miles away.",
+    "start": 153.887,
+    "end": 156.468,
+    "zh": "纽约仿佛远在几英里之外。",
+    "zh_hant": "紐約彷彿遠在幾英里之外。"
+  },
+  {
+    "index": 32,
+    "text": "At night sometimes one might go out.",
+    "start": 157.329,
+    "end": 160.091,
+    "zh": "夜里有时可以出去走走。",
+    "zh_hant": "夜裡有時可以出去走走。"
+  },
+  {
+    "index": 33,
+    "text": "But during the hot day one remained in the cool shade of the Lotus.",
+    "start": 160.291,
+    "end": 165.953,
+    "zh": "但在炎热的白天，人们都待在莲花旅馆凉爽的荫蔽里。",
+    "zh_hant": "但在炎熱的白天，人們都待在蓮花旅館涼爽的廕庇裡。"
+  },
+  {
+    "index": 34,
+    "text": "Madame was alone in the Hotel Lotus.",
+    "start": 167.835,
+    "end": 170.376,
+    "zh": "夫人独自一人待在莲花旅馆。",
+    "zh_hant": "夫人獨自一人待在蓮花旅館。"
+  },
+  {
+    "index": 35,
+    "text": "She was alone as a queen is alone, because of her high position.",
+    "start": 170.576,
+    "end": 175.418,
+    "zh": "她孤独得像个女王，因为她的地位太高。",
+    "zh_hant": "她孤獨得像個女王，因為她的地位太高。"
+  },
+  {
+    "index": 36,
+    "text": "She rose from bed late in the morning.",
+    "start": 176.039,
+    "end": 178.6,
+    "zh": "她早上很晚才起床。",
+    "zh_hant": "她早上很晚才起床。"
+  },
+  {
+    "index": 37,
+    "text": "She was then a sweet, soft person who seemed to shine quietly.",
+    "start": 178.92,
+    "end": 183.482,
+    "zh": "那时的她甜美温柔，仿佛静静地散发着光芒。",
+    "zh_hant": "那時的她甜美溫柔，彷彿靜靜地散發著光芒。"
+  },
+  {
+    "index": 38,
+    "text": "But at dinner she was different.",
+    "start": 184.963,
+    "end": 187.244,
+    "zh": "但到了晚餐时，她就判若两人。",
+    "zh_hant": "但到了晚餐時，她就判若兩人。"
+  },
+  {
+    "index": 39,
+    "text": "She would wear a beautiful dress.",
+    "start": 187.965,
+    "end": 190.526,
+    "zh": "她会穿上一件美丽的裙子。",
+    "zh_hant": "她會穿上一件美麗的裙子。"
+  },
+  {
+    "index": 40,
+    "text": "I cannot find words fine enough to tell about it.",
+    "start": 191.186,
+    "end": 194.568,
+    "zh": "我找不到足够美好的词句来形容它。",
+    "zh_hant": "我找不到足夠美好的詞句來形容它。"
+  },
+  {
+    "index": 41,
+    "text": "Always there were red flowers at her shoulder.",
+    "start": 195.408,
+    "end": 198.89,
+    "zh": "她的肩头总是缀着红花。",
+    "zh_hant": "她的肩頭總是綴著紅花。"
+  },
+  {
+    "index": 42,
+    "text": "When the head waiter saw a dress like this, he met it at the door.",
+    "start": 199.49,
+    "end": 203.692,
+    "zh": "当领班服务员看到这样一件裙子时，他会到门口迎接。",
+    "zh_hant": "當領班服務員看到這樣一件裙子時，他會到門口迎接。"
+  },
+  {
+    "index": 43,
+    "text": "You thought of Paris when you saw it, and of the theater and of old romances.",
+    "start": 204.453,
+    "end": 211.696,
+    "zh": "看到它，你会想到巴黎，想到剧院，想到古老的爱情故事。",
+    "zh_hant": "看到它，你會想到巴黎，想到劇院，想到古老的愛情故事。"
+  },
+  {
+    "index": 44,
+    "text": "A story about Madame Beaumont was told among the guests in the Hotel Lotus.",
+    "start": 213.537,
+    "end": 218.179,
+    "zh": "莲花旅馆的客人中间流传着一个关于博蒙特夫人的故事。",
+    "zh_hant": "蓮花旅館的客人中間流傳著一個關於博蒙特夫人的故事。"
+  },
+  {
+    "index": 45,
+    "text": "It was said that she was a woman who had traveled all over the world.",
+    "start": 218.66,
+    "end": 223.122,
+    "zh": "据说她是一位走遍全世界的女人。",
+    "zh_hant": "據說她是一位走遍全世界的女人。"
+  },
+  {
+    "index": 46,
+    "text": "It was said that she knew the most important people everywhere.",
+    "start": 223.702,
+    "end": 228.004,
+    "zh": "据说她认识各地最重要的人物。",
+    "zh_hant": "據說她認識各地最重要的人物。"
+  },
+  {
+    "index": 47,
+    "text": "It was said that in her white hands she held the future of certain nations.",
+    "start": 228.665,
+    "end": 234.687,
+    "zh": "据说某些国家的未来就掌握在她这双白皙的手里。",
+    "zh_hant": "據說某些國家的未來就掌握在她這雙白皙的手裡。"
+  },
+  {
+    "index": 48,
+    "text": "It was no surprise, they said, that such a lady should choose the Hotel Lotus.",
+    "start": 235.408,
+    "end": 240.531,
+    "zh": "他们说，这样一位女士会选择莲花旅馆，并不令人意外。",
+    "zh_hant": "他們說，這樣一位女士會選擇蓮花旅館，並不令人意外。"
+  },
+  {
+    "index": 49,
+    "text": "It was the most desirable and the most restful place in America during the heat of summer.",
+    "start": 241.291,
+    "end": 246.974,
+    "zh": "在盛夏时节，这里是全美国最令人向往、最宁静宜人的地方。",
+    "zh_hant": "在盛夏時節，這裡是全美國最令人嚮往、最寧靜宜人的地方。"
+  },
+  {
+    "index": 50,
+    "text": "On the third day of Madame Beaumont’s stay in the hotel, a young man entered as a guest.",
+    "start": 248.155,
+    "end": 254.818,
+    "zh": "博蒙特夫人住进旅馆的第三天，一位年轻人以客人的身份走了进来。",
+    "zh_hant": "博蒙特夫人住進旅館的第三天，一位年輕人以客人的身份走了進來。"
+  },
+  {
+    "index": 51,
+    "text": "His clothes were quiet but good.",
+    "start": 255.318,
+    "end": 257.799,
+    "zh": "他的衣服朴素却考究。",
+    "zh_hant": "他的衣服樸素卻考究。"
+  },
+  {
+    "index": 52,
+    "text": "His face was pleasant.",
+    "start": 258.02,
+    "end": 259.66,
+    "zh": "他的面容和善。",
+    "zh_hant": "他的面容和善。"
+  },
+  {
+    "index": 53,
+    "text": "His expression was that of a man who had traveled and could understand the world.",
+    "start": 259.84,
+    "end": 264.302,
+    "zh": "他的神情表明他是一个走南闯北、通晓世事的人。",
+    "zh_hant": "他的神情表明他是一個走南闖北、通曉世事的人。"
+  },
+  {
+    "index": 54,
+    "text": "He said that he would remain three or four days.",
+    "start": 264.723,
+    "end": 268.184,
+    "zh": "他说他要住三四天。",
+    "zh_hant": "他說他要住三四天。"
+  },
+  {
+    "index": 55,
+    "text": "He asked about the sailing of certain ships.",
+    "start": 268.745,
+    "end": 271.466,
+    "zh": "他打听了几艘船的航期。",
+    "zh_hant": "他打聽了幾艘船的航期。"
+  },
+  {
+    "index": 56,
+    "text": "He seemed to like this hotel the best of all he had known.",
+    "start": 271.906,
+    "end": 275.768,
+    "zh": "在他所知道的旅馆中，他似乎最喜欢这一家。",
+    "zh_hant": "在他所知道的旅館中，他似乎最喜歡這一家。"
+  },
+  {
+    "index": 57,
+    "text": "The young man put his name on the list of hotel guests: Harold Farrington.",
+    "start": 276.929,
+    "end": 282.612,
+    "zh": "这位年轻人在旅馆客人名单上写下了自己的名字：哈罗德·法林顿。",
+    "zh_hant": "這位年輕人在旅館客人名單上寫下了自己的名字：哈羅德·法林頓。"
+  },
+  {
+    "index": 58,
+    "text": "It was a name with a fine sound.",
+    "start": 283.072,
+    "end": 285.914,
+    "zh": "这名字听起来很气派。",
+    "zh_hant": "這名字聽起來很氣派。"
+  },
+  {
+    "index": 59,
+    "text": "And the young man belonged perfectly in the quiet life of the Lotus.",
+    "start": 286.334,
+    "end": 290.476,
+    "zh": "而这位年轻人完全融入了莲花旅馆的宁静生活。",
+    "zh_hant": "而這位年輕人完全融入了蓮花旅館的寧靜生活。"
+  },
+  {
+    "index": 60,
+    "text": "In one day he became like all the other guests.",
+    "start": 291.396,
+    "end": 295.438,
+    "zh": "一天之内，他就变得和其他所有客人一样了。",
+    "zh_hant": "一天之內，他就變得和其他所有客人一樣了。"
+  },
+  {
+    "index": 61,
+    "text": "Like them he had his table and his waiter.",
+    "start": 295.839,
+    "end": 299.44,
+    "zh": "和他们一样，他有了自己的桌子和服务员。",
+    "zh_hant": "和他們一樣，他有了自己的桌子和服務員。"
+  },
+  {
+    "index": 62,
+    "text": "He also had the same fear that the wrong people might suddenly discover",
+    "start": 300.021,
+    "end": 306.003,
+    "zh": "他也同样担心那些不该来的人会突然发现",
+    "zh_hant": "他也同樣擔心那些不該來的人會突然發現"
+  },
+  {
+    "index": 63,
+    "text": "this hotel and destroy its peace.",
+    "start": 305.653,
+    "end": 309.025,
+    "zh": "这家旅馆，破坏它的宁静。",
+    "zh_hant": "這家旅館，破壞它的寧靜。"
+  },
+  {
+    "index": 64,
+    "text": "After dinner on the next day, Madame Beaumont dropped something as she passed Harold Farrington’s table.",
+    "start": 310.106,
+    "end": 317.169,
+    "zh": "第二天晚饭后，博蒙特夫人经过哈罗德·法林顿的桌子时掉了一样东西。",
+    "zh_hant": "第二天晚飯後，博蒙特夫人經過哈羅德·法林頓的桌子時掉了一樣東西。"
+  },
+  {
+    "index": 65,
+    "text": "He picked it up and, following her, returned it.",
+    "start": 317.549,
+    "end": 320.511,
+    "zh": "他捡了起来，跟上去还给了她。",
+    "zh_hant": "他撿了起來，跟上去還給了她。"
+  },
+  {
+    "index": 66,
+    "text": "He spoke only a few quiet words as he did this, and she was pleased by his good manners.",
+    "start": 320.931,
+    "end": 326.654,
+    "zh": "他这样做时只轻声说了几句话，而她很喜欢他的礼貌。",
+    "zh_hant": "他這樣做時只輕聲說了幾句話，而她很喜歡他的禮貌。"
+  },
+  {
+    "index": 67,
+    "text": "She knew that he was a gentleman.",
+    "start": 327.195,
+    "end": 330.016,
+    "zh": "她知道他是一位绅士。",
+    "zh_hant": "她知道他是一位紳士。"
+  },
+  {
+    "index": 68,
+    "text": "Guests of the Lotus seemed to understand each other very easily.",
+    "start": 331.617,
+    "end": 335.658,
+    "zh": "莲花旅馆的客人似乎很容易就能彼此理解。",
+    "zh_hant": "蓮花旅館的客人似乎很容易就能彼此理解。"
+  },
+  {
+    "index": 69,
+    "text": "Perhaps it was the result of having discovered this Broadway hotel.",
+    "start": 336.219,
+    "end": 340.241,
+    "zh": "也许这是因为他们都发现了这家百老汇的旅馆。",
+    "zh_hant": "也許這是因為他們都發現了這家百老匯的旅館。"
+  },
+  {
+    "index": 70,
+    "text": "Guests felt sure that only especially fine people would enjoy the cool delights of the Lotus.",
+    "start": 340.941,
+    "end": 347.924,
+    "zh": "客人们确信，只有特别出色的人才会欣赏莲花旅馆清凉的乐趣。",
+    "zh_hant": "客人們確信，只有特別出色的人才會欣賞蓮花旅館清涼的樂趣。"
+  },
+  {
+    "index": 71,
+    "text": "Now, very quickly, a sudden friendship grew between Farrington and Madame Beaumont.",
+    "start": 349.085,
+    "end": 354.408,
+    "zh": "于是，法林顿和博蒙特夫人之间很快便产生了一段突如其来的友谊。",
+    "zh_hant": "於是，法林頓和博蒙特夫人之間很快便產生了一段突如其來的友誼。"
+  },
+  {
+    "index": 72,
+    "text": "They stood and talked for a few moments.",
+    "start": 354.908,
+    "end": 357.389,
+    "zh": "他们站着交谈了一会儿。",
+    "zh_hant": "他們站著交談了一會兒。"
+  },
+  {
+    "index": 73,
+    "text": "“I have seen too much of the usual summer hotels,”",
+    "start": 357.87,
+    "end": 361.331,
+    "zh": "“那些寻常的避暑旅馆，我见得实在太多了，”",
+    "zh_hant": "“那些尋常的避暑旅館，我見得實在太多了，”"
+  },
+  {
+    "index": 74,
+    "text": "said Madame Beaumont, with a small but sweet smile.",
+    "start": 361.312,
+    "end": 365.594,
+    "zh": "博蒙特夫人说着，露出一丝小小的、甜美的微笑。",
+    "zh_hant": "博蒙特夫人說著，露出一絲小小的、甜美的微笑。"
+  },
+  {
+    "index": 75,
+    "text": "“Why go to the mountains or the seashore?",
+    "start": 366.074,
+    "end": 368.935,
+    "zh": "“何必去山里或海边呢？",
+    "zh_hant": "“何必去山裡或海邊呢？"
+  },
+  {
+    "index": 76,
+    "text": "We cannot escape noise and dust there.",
+    "start": 369.356,
+    "end": 372.037,
+    "zh": "在那里我们躲不开喧闹和尘土。",
+    "zh_hant": "在那裡我們躲不開喧鬧和塵土。"
+  },
+  {
+    "index": 77,
+    "text": "The people who make noise and dust follow us there.”",
+    "start": 372.497,
+    "end": 376.739,
+    "zh": "那些制造喧闹和尘土的人会跟着我们到那里去。”",
+    "zh_hant": "那些製造喧鬧和塵土的人會跟著我們到那裡去。”"
+  },
+  {
+    "index": 78,
+    "text": "“Even on the ocean,” said Farrington, sadly, “those same people are all around us.",
+    "start": 377.039,
+    "end": 383.943,
+    "zh": "“就连在海上，”法林顿难过地说，“那些人也还是围在我们身边。",
+    "zh_hant": "“就連在海上，”法林頓難過地說，“那些人也還是圍在我們身邊。"
+  },
+  {
+    "index": 79,
+    "text": "What shall we do when they discover the Lotus?”",
+    "start": 384.123,
+    "end": 387.124,
+    "zh": "等他们发现了莲花旅馆，我们该怎么办呢？”",
+    "zh_hant": "等他們發現了蓮花旅館，我們該怎麼辦呢？”"
+  },
+  {
+    "index": 80,
+    "text": "“I hope they don’t discover the Lotus this week,” said Madame.",
+    "start": 387.705,
+    "end": 392.347,
+    "zh": "“我希望他们这周别发现莲花旅馆，”夫人说。",
+    "zh_hant": "“我希望他們這周別發現蓮花旅館，”夫人說。"
+  },
+  {
+    "index": 81,
+    "text": "“I only know one other place I like as well.",
+    "start": 392.607,
+    "end": 395.248,
+    "zh": "“我只知道另一个同样让我喜欢的地方。",
+    "zh_hant": "“我只知道另一個同樣讓我喜歡的地方。"
+  },
+  {
+    "index": 82,
+    "text": "It is the beautiful home of a prince in the mountains in Europe.”",
+    "start": 395.428,
+    "end": 399.371,
+    "zh": "那是欧洲山中一位王子的美丽宅邸。”",
+    "zh_hant": "那是歐洲山中一位王子的美麗宅邸。”"
+  },
+  {
+    "index": 83,
+    "text": "“The best people,” said Farrington,",
+    "start": 400.131,
+    "end": 402.532,
+    "zh": "“最上等的人，”法林顿说，",
+    "zh_hant": "“最上等的人，”法林頓說，"
+  },
+  {
+    "index": 84,
+    "text": "“are seeking for the quiet places, like this one, where they can escape the crowds.”",
+    "start": 402.773,
+    "end": 408.015,
+    "zh": "“都在寻找像这样的清静之地，好躲开人群。”",
+    "zh_hant": "“都在尋找像這樣的清靜之地，好躲開人群。”"
+  },
+  {
+    "index": 85,
+    "text": "“I promise myself three more days of this delightful rest,” said Madame Beaumont.",
+    "start": 408.755,
+    "end": 413.778,
+    "zh": "“我给自己留了三天这样愉快的休憩，”博蒙特夫人说。",
+    "zh_hant": "“我給自己留了三天這樣愉快的休憩，”博蒙特夫人說。"
+  },
+  {
+    "index": 86,
+    "text": "“The next day my ship sails.”",
+    "start": 413.738,
+    "end": 416.559,
+    "zh": "“后天我的船就要开了。”",
+    "zh_hant": "“後天我的船就要開了。”"
+  },
+  {
+    "index": 87,
+    "text": "Harold Farrington’s eyes showed that he was sorry.",
+    "start": 416.879,
+    "end": 420.661,
+    "zh": "哈罗德·法林顿的眼神流露出惋惜。",
+    "zh_hant": "哈羅德·法林頓的眼神流露出惋惜。"
+  },
+  {
+    "index": 88,
+    "text": "“I too must leave then,” he said.",
+    "start": 421.342,
+    "end": 423.843,
+    "zh": "“那我也得走了，”他说。",
+    "zh_hant": "“那我也得走了，”他說。"
+  },
+  {
+    "index": 89,
+    "text": "“But I am not sailing for Europe.”",
+    "start": 423.903,
+    "end": 426.184,
+    "zh": "“不过我不是乘船去欧洲。”",
+    "zh_hant": "“不過我不是乘船去歐洲。”"
+  },
+  {
+    "index": 90,
+    "text": "“We cannot stay here forever, though it is so delightful,” said Madame Beaumont.",
+    "start": 426.444,
+    "end": 432.327,
+    "zh": "“尽管这里这么惬意，我们也不能永远待下去，”博蒙特夫人说。",
+    "zh_hant": "“儘管這裡這麼愜意，我們也不能永遠待下去，”博蒙特夫人說。"
+  },
+  {
+    "index": 91,
+    "text": "“I like it better than my usual life, which is too full of people.",
+    "start": 432.707,
+    "end": 437.349,
+    "zh": "“比起我平常的生活，我更喜欢这里，那里的人太多了。",
+    "zh_hant": "“比起我平常的生活，我更喜歡這裡，那裡的人太多了。"
+  },
+  {
+    "index": 92,
+    "text": "I shall never forget my week in the Hotel Lotus.”",
+    "start": 437.89,
+    "end": 441.652,
+    "zh": "我永远不会忘记在莲花旅馆度过的这一周。”",
+    "zh_hant": "我永遠不會忘記在蓮花旅館度過的這一週。”"
+  },
+  {
+    "index": 93,
+    "text": "“Nor shall I,” said Farrington in a low voice.",
+    "start": 441.912,
+    "end": 445.554,
+    "zh": "“我也不会忘，”法林顿低声说。",
+    "zh_hant": "“我也不會忘，”法林頓低聲說。"
+  },
+  {
+    "index": 94,
+    "text": "“And I shall never like the ship that carries you away.”",
+    "start": 445.854,
+    "end": 450.656,
+    "zh": "“我也永远不会喜欢那艘把你带走的船。”",
+    "zh_hant": "“我也永遠不會喜歡那艘把你帶走的船。”"
+  },
+  {
+    "index": 95,
+    "text": "On their last evening the two sat together at a little table.",
+    "start": 452.097,
+    "end": 456.699,
+    "zh": "最后一个晚上，两人一起坐在一张小桌旁。",
+    "zh_hant": "最後一個晚上，兩人一起坐在一張小桌旁。"
+  },
+  {
+    "index": 96,
+    "text": "A waiter brought them something cool to eat.",
+    "start": 457.2,
+    "end": 459.861,
+    "zh": "服务员给他们端来了清凉的食物。",
+    "zh_hant": "服務員給他們端來了清涼的食物。"
+  },
+  {
+    "index": 97,
+    "text": "Madame Beaumont was wearing the same beautiful dress.",
+    "start": 460.461,
+    "end": 464.123,
+    "zh": "博蒙特夫人穿着那件同样的美丽裙子。",
+    "zh_hant": "博蒙特夫人穿著那件同樣的美麗裙子。"
+  },
+  {
+    "index": 98,
+    "text": "She seemed thoughtful.",
+    "start": 465.124,
+    "end": 467.424,
+    "zh": "她看上去若有所思。",
+    "zh_hant": "她看上去若有所思。"
+  },
+  {
+    "index": 99,
+    "text": "When she had finished eating, she took out a dollar.",
+    "start": 468.285,
+    "end": 472.647,
+    "zh": "吃完之后，她掏出一美元。",
+    "zh_hant": "吃完之後，她掏出一美元。"
+  },
+  {
+    "index": 100,
+    "text": "“Mr.",
+    "start": 473.268,
+    "end": 474.088,
+    "zh": "“法林顿",
+    "zh_hant": "“法林頓"
+  },
+  {
+    "index": 101,
+    "text": "Farrington,” she said, with the smile that everyone in the Lotus loved, “I want to tell you something.",
+    "start": 473.738,
+    "end": 480.691,
+    "zh": "先生，”她说着，露出莲花旅馆人人都喜爱的那种微笑，“我想告诉你一件事。",
+    "zh_hant": "先生，”她說著，露出蓮花旅館人人都喜愛的那種微笑，“我想告訴你一件事。"
+  },
+  {
+    "index": 102,
+    "text": "I’m going to leave early tomorrow morning because I must go back to work.",
+    "start": 481.612,
+    "end": 486.954,
+    "zh": "我明天一早就要走了，因为我必须回去工作。",
+    "zh_hant": "我明天一早就要走了，因為我必須回去工作。"
+  },
+  {
+    "index": 103,
+    "text": "I work selling women’s clothes at Casey’s shop.",
+    "start": 487.635,
+    "end": 491.376,
+    "zh": "我在凯西的店里卖女装。",
+    "zh_hant": "我在凱西的店裡賣女裝。"
+  },
+  {
+    "index": 104,
+    "text": "That dollar is all the money I have.",
+    "start": 492.017,
+    "end": 494.498,
+    "zh": "这一美元是我全部的钱了。",
+    "zh_hant": "這一美元是我全部的錢了。"
+  },
+  {
+    "index": 105,
+    "text": "I won’t have any more until I get paid at the end of the week.",
+    "start": 495.179,
+    "end": 498.18,
+    "zh": "到周末发工资之前，我不会再有别的钱了。",
+    "zh_hant": "到週末發工資之前，我不會再有別的錢了。"
+  },
+  {
+    "index": 106,
+    "text": "You’re a real gentleman and you’ve been good to me.",
+    "start": 498.92,
+    "end": 501.822,
+    "zh": "你是个真正的绅士，一直对我很好。",
+    "zh_hant": "你是個真正的紳士，一直對我很好。"
+  },
+  {
+    "index": 107,
+    "text": "I wanted to tell you before I went.",
+    "start": 502.802,
+    "end": 504.903,
+    "zh": "我想在走之前告诉你。",
+    "zh_hant": "我想在走之前告訴你。"
+  },
+  {
+    "index": 108,
+    "text": "“For a year I’ve been planning to come here.",
+    "start": 505.384,
+    "end": 507.765,
+    "zh": "“我筹划了一整年，就为了来这里。",
+    "zh_hant": "“我籌劃了一整年，就為了來這裡。"
+  },
+  {
+    "index": 109,
+    "text": "Each week I put aside a little of my pay, so that I would have enough money.",
+    "start": 508.025,
+    "end": 512.467,
+    "zh": "每个星期我都从工资里存下一点，好攒够钱。",
+    "zh_hant": "每個星期我都從工資裡存下一點，好攢夠錢。"
+  },
+  {
+    "index": 110,
+    "text": "I wanted to live one week like a rich lady.",
+    "start": 513.067,
+    "end": 515.969,
+    "zh": "我想像一个有钱太太那样过上一周。",
+    "zh_hant": "我想像一個有錢太太那樣過上一週。"
+  },
+  {
+    "index": 111,
+    "text": "I wanted to get up in the morning when I wished.",
+    "start": 516.029,
+    "end": 518.26,
+    "zh": "我想早上想什么时候起就什么时候起。",
+    "zh_hant": "我想早上想什麼時候起就什麼時候起。"
+  },
+  {
+    "index": 112,
+    "text": "I wanted to be served by waiters.",
+    "start": 517.86,
+    "end": 520.751,
+    "zh": "我想让服务员伺候我。",
+    "zh_hant": "我想讓服務員伺候我。"
+  },
+  {
+    "index": 113,
+    "text": "I wanted to have the best of everything.",
+    "start": 521.052,
+    "end": 523.513,
+    "zh": "我想享受最好的一切。",
+    "zh_hant": "我想享受最好的一切。"
+  },
+  {
+    "index": 114,
+    "text": "Now I’ve done it, and I’ve been happier than I ever was before.",
+    "start": 524.233,
+    "end": 528.555,
+    "zh": "现在我做到了，我比以前任何时候都快乐。",
+    "zh_hant": "現在我做到了，我比以前任何時候都快樂。"
+  },
+  {
+    "index": 115,
+    "text": "And now I’m going back to work.",
+    "start": 529.316,
+    "end": 532.257,
+    "zh": "而现在我要回去工作了。",
+    "zh_hant": "而現在我要回去工作了。"
+  },
+  {
+    "index": 116,
+    "text": "“I—I wanted to tell you about it, Mr. Farrington, because I—I thought you liked me,",
+    "start": 533.818,
+    "end": 539.361,
+    "zh": "“我——我想把这事告诉你，法林顿先生，因为我——我以为你喜欢我，",
+    "zh_hant": "“我——我想把這事告訴你，法林頓先生，因為我——我以為你喜歡我，"
+  },
+  {
+    "index": 117,
+    "text": "and I—I liked you.",
+    "start": 539.281,
+    "end": 542.122,
+    "zh": "而我——我也喜欢你。",
+    "zh_hant": "而我——我也喜歡你。"
+  },
+  {
+    "index": 118,
+    "text": "This week I’ve told you many things that weren’t true.",
+    "start": 543.043,
+    "end": 546.124,
+    "zh": "这一周我对你说了很多不真实的事。",
+    "zh_hant": "這一週我對你說了很多不真實的事。"
+  },
+  {
+    "index": 119,
+    "text": "I told you things I’ve read about.",
+    "start": 546.744,
+    "end": 549.465,
+    "zh": "我跟你讲的是我读到过的事情。",
+    "zh_hant": "我跟你講的是我讀到過的事情。"
+  },
+  {
+    "index": 120,
+    "text": "They never happened to me.",
+    "start": 550.246,
+    "end": 551.827,
+    "zh": "那些事从没发生在我身上。",
+    "zh_hant": "那些事從沒發生在我身上。"
+  },
+  {
+    "index": 121,
+    "text": "I’ve been living in a story.",
+    "start": 552.467,
+    "end": 554.228,
+    "zh": "我一直活在一个故事里。",
+    "zh_hant": "我一直活在一個故事裡。"
+  },
+  {
+    "index": 122,
+    "text": "It wasn’t real.",
+    "start": 554.428,
+    "end": 555.668,
+    "zh": "那不是真的。",
+    "zh_hant": "那不是真的。"
+  },
+  {
+    "index": 123,
+    "text": "I wanted you to think I was a great lady.",
+    "start": 556.649,
+    "end": 559.451,
+    "zh": "我想让你以为我是一位了不起的夫人。",
+    "zh_hant": "我想讓你以為我是一位了不起的夫人。"
+  },
+  {
+    "index": 124,
+    "text": "“This dress I’m wearing—it’s the only pretty dress I own.",
+    "start": 560.412,
+    "end": 564.613,
+    "zh": "“我身上穿的这条裙子——是我唯一一件漂亮裙子。",
+    "zh_hant": "“我身上穿的這條裙子——是我唯一一件漂亮裙子。"
+  },
+  {
+    "index": 125,
+    "text": "I haven’t paid for it yet.",
+    "start": 565.214,
+    "end": 566.835,
+    "zh": "我还没付清钱。",
+    "zh_hant": "我還沒付清錢。"
+  },
+  {
+    "index": 126,
+    "text": "I’m paying for it a little at a time.",
+    "start": 567.275,
+    "end": 569.516,
+    "zh": "我是一次付一点。",
+    "zh_hant": "我是一次付一點。"
+  },
+  {
+    "index": 127,
+    "text": "“The price was seventy-five dollars.",
+    "start": 569.876,
+    "end": 572.037,
+    "zh": "“价钱是七十五美元。",
+    "zh_hant": "“價錢是七十五美元。"
+  },
+  {
+    "index": 128,
+    "text": "It was made for me at O’Dowd and Levinsky’s shop.",
+    "start": 572.538,
+    "end": 575.339,
+    "zh": "是在奥多德和莱文斯基的店里为我定做的。",
+    "zh_hant": "是在奧多德和萊文斯基的店裡為我定做的。"
+  },
+  {
+    "index": 129,
+    "text": "I paid ten dollars first, and now I have to pay a dollar a week until it’s all paid.",
+    "start": 575.799,
+    "end": 581.062,
+    "zh": "我先付了十美元，现在每周得付一美元，直到付清为止。",
+    "zh_hant": "我先付了十美元，現在每週得付一美元，直到付清為止。"
+  },
+  {
+    "index": 130,
+    "text": "“And that’s all I have to say,",
+    "start": 581.922,
+    "end": 584.503,
+    "zh": "“我要说的就是这些，",
+    "zh_hant": "“我要說的就是這些，"
+  },
+  {
+    "index": 131,
+    "text": "Mr. Farrington, except that my name is Mamie Siviter, and not Madame Beaumont.",
+    "start": 584.153,
+    "end": 591.187,
+    "zh": "法林顿先生，只是我叫玛米·西维特，不是博蒙特夫人。",
+    "zh_hant": "法林頓先生，只是我叫瑪米·西維特，不是博蒙特夫人。"
+  },
+  {
+    "index": 132,
+    "text": "Thank you for listening to me.",
+    "start": 591.927,
+    "end": 593.548,
+    "zh": "谢谢你听我说完。",
+    "zh_hant": "謝謝你聽我說完。"
+  },
+  {
+    "index": 133,
+    "text": "This dollar is the dollar I’m going to pay for my dress tomorrow.",
+    "start": 594.048,
+    "end": 597.55,
+    "zh": "这一美元就是我明天要付裙子钱的那一美元。",
+    "zh_hant": "這一美元就是我明天要付裙子錢的那一美元。"
+  },
+  {
+    "index": 134,
+    "text": "And now I’ll go up to my room.”",
+    "start": 598.471,
+    "end": 601.892,
+    "zh": "现在我要回房间去了。”",
+    "zh_hant": "現在我要回房間去了。”"
+  },
+  {
+    "index": 135,
+    "text": "As Harold Farrington listened, his face had not changed.",
+    "start": 603.073,
+    "end": 607.755,
+    "zh": "哈罗德·法林顿听着，脸色始终没有变。",
+    "zh_hant": "哈羅德·法林頓聽著，臉色始終沒有變。"
+  },
+  {
+    "index": 136,
+    "text": "When she had finished, he took out a small book and began to write in it.",
+    "start": 608.455,
+    "end": 613.538,
+    "zh": "等她说完，他掏出一个小本子，在上面写了起来。",
+    "zh_hant": "等她說完，他掏出一個小本子，在上面寫了起來。"
+  },
+  {
+    "index": 137,
+    "text": "Then he pulled out the small page with his writing on it, and gave it to her.",
+    "start": 614.158,
+    "end": 619.521,
+    "zh": "然后他撕下写有字迹的那小页纸，递给她。",
+    "zh_hant": "然後他撕下寫有字跡的那小頁紙，遞給她。"
+  },
+  {
+    "index": 138,
+    "text": "And he took the dollar from her hand.",
+    "start": 619.981,
+    "end": 622.282,
+    "zh": "并从她手里拿过了那一美元。",
+    "zh_hant": "並從她手裡拿過了那一美元。"
+  },
+  {
+    "index": 139,
+    "text": "“I go to work too, tomorrow morning,” he said.",
+    "start": 623.043,
+    "end": 626.784,
+    "zh": "“我明天早上也去上班，”他说。",
+    "zh_hant": "“我明天早上也去上班，”他說。"
+  },
+  {
+    "index": 140,
+    "text": "“And I decided to begin now.",
+    "start": 627.305,
+    "end": 629.565,
+    "zh": "“我决定现在就开始。",
+    "zh_hant": "“我決定現在就開始。"
+  },
+  {
+    "index": 141,
+    "text": "That paper says you’ve paid your dollar for this week.",
+    "start": 629.986,
+    "end": 633.007,
+    "zh": "这张纸上写着，你已经付清了这一周的美元。",
+    "zh_hant": "這張紙上寫著，你已經付清了這一週的美元。"
+  },
+  {
+    "index": 142,
+    "text": "I’ve been working for O’Dowd and Levinsky for three years.",
+    "start": 633.648,
+    "end": 636.949,
+    "zh": "我已经为奥多德和莱文斯基干了三年。",
+    "zh_hant": "我已經為奧多德和萊文斯基幹了三年。"
+  },
+  {
+    "index": 143,
+    "text": "Strange, isn’t it?",
+    "start": 637.309,
+    "end": 638.55,
+    "zh": "奇怪吧，是不是？",
+    "zh_hant": "奇怪吧，是不是？"
+  },
+  {
+    "index": 144,
+    "text": "We both had the same idea.",
+    "start": 638.771,
+    "end": 640.711,
+    "zh": "我们俩想到一块儿去了。",
+    "zh_hant": "我們倆想到一塊兒去了。"
+  },
+  {
+    "index": 145,
+    "text": "I always wanted to stay at a good hotel.",
+    "start": 641.512,
+    "end": 644.293,
+    "zh": "我一直想住一家好旅馆。",
+    "zh_hant": "我一直想住一家好旅館。"
+  },
+  {
+    "index": 146,
+    "text": "I get twenty dollars a week.",
+    "start": 644.994,
+    "end": 646.874,
+    "zh": "我一周挣二十美元。",
+    "zh_hant": "我一週掙二十美元。"
+  },
+  {
+    "index": 147,
+    "text": "Like you, I put aside a little money at a time, until I had enough.",
+    "start": 647.075,
+    "end": 651.016,
+    "zh": "和你一样，我一次存一点钱，直到攒够。",
+    "zh_hant": "和你一樣，我一次存一點錢，直到攢夠。"
+  },
+  {
+    "index": 148,
+    "text": "Listen, Mamie.",
+    "start": 652.437,
+    "end": 653.618,
+    "zh": "听着，玛米。",
+    "zh_hant": "聽著，瑪米。"
+  },
+  {
+    "index": 149,
+    "text": "Will you go to the pleasure park on Coney Island with me on pay day?”",
+    "start": 654.278,
+    "end": 657.68,
+    "zh": "发工资那天，你愿意和我一起去科尼岛的游乐场吗？”",
+    "zh_hant": "發工資那天，你願意和我一起去科尼島的遊樂場嗎？”"
+  },
+  {
+    "index": 150,
+    "text": "The girl who had been Madame Héloise D’Arcy Beaumont smiled.",
+    "start": 658.34,
+    "end": 662.902,
+    "zh": "那个曾是埃洛伊丝·达西·博蒙特夫人的姑娘笑了。",
+    "zh_hant": "那個曾是埃洛伊絲·達西·博蒙特夫人的姑娘笑了。"
+  },
+  {
+    "index": 151,
+    "text": "“I’d love to go, Mr. Farrington.",
+    "start": 663.463,
+    "end": 665.504,
+    "zh": "“我很愿意去，法林顿先生。",
+    "zh_hant": "“我很願意去，法林頓先生。"
+  },
+  {
+    "index": 152,
+    "text": "Coney will be all right, although we did live here with rich people for a week.”",
+    "start": 665.764,
+    "end": 671.026,
+    "zh": "科尼岛挺好的，尽管我们在这儿和有钱人一起住了一周。”",
+    "zh_hant": "科尼島挺好的，儘管我們在這兒和有錢人一起住了一週。”"
+  },
+  {
+    "index": 153,
+    "text": "They could hear the night noises of the hot city.",
+    "start": 672.687,
+    "end": 675.629,
+    "zh": "他们能听到这座炎热城市的夜晚喧闹。",
+    "zh_hant": "他們能聽到這座炎熱城市的夜晚喧鬧。"
+  },
+  {
+    "index": 154,
+    "text": "Inside the Hotel Lotus it was cool.",
+    "start": 676.269,
+    "end": 679.631,
+    "zh": "莲花旅馆里面很凉爽。",
+    "zh_hant": "蓮花旅館裡面很涼爽。"
+  },
+  {
+    "index": 155,
+    "text": "The waiter stood near, ready to get anything they asked for.",
+    "start": 679.931,
+    "end": 683.533,
+    "zh": "服务员站在近旁，随时准备拿来他们要的任何东西。",
+    "zh_hant": "服務員站在近旁，隨時準備拿來他們要的任何東西。"
+  },
+  {
+    "index": 156,
+    "text": "Madame Beaumont started up to her room for the last time.",
+    "start": 684.554,
+    "end": 688.335,
+    "zh": "博蒙特夫人最后一次起身回自己的房间。",
+    "zh_hant": "博蒙特夫人最後一次起身回自己的房間。"
+  },
+  {
+    "index": 157,
+    "text": "And he said, “Forget that ‘Harold Farrington,’ will you?",
+    "start": 689.816,
+    "end": 693.978,
+    "zh": "他说：“忘掉那个‘哈罗德·法林顿’，好吗？",
+    "zh_hant": "他說：“忘掉那個‘哈羅德·法林頓’，好嗎？"
+  },
+  {
+    "index": 158,
+    "text": "McManus is the name—James McManus.",
+    "start": 694.299,
+    "end": 697.9,
+    "zh": "我叫麦克马纳斯——詹姆斯·麦克马纳斯。",
+    "zh_hant": "我叫麥克馬納斯——詹姆斯·麥克馬納斯。"
+  },
+  {
+    "index": 159,
+    "text": "Some call me Jimmy.”",
+    "start": 698.281,
+    "end": 699.581,
+    "zh": "有人叫我吉米。”",
+    "zh_hant": "有人叫我吉米。”"
+  },
+  {
+    "index": 160,
+    "text": "“Good night, Jimmy,” said Madame.",
+    "start": 700.302,
+    "end": 701.642,
+    "zh": "“晚安，吉米，”夫人说。",
+    "zh_hant": "“晚安，吉米，”夫人說。"
+  },
+  {
+    "index": 161,
+    "text": "Now it's your turn to use the words in this story.",
+    "start": 701.292,
+    "end": 702.883,
+    "zh": "现在轮到你用这个故事里的词语了。",
+    "zh_hant": "現在輪到你用這個故事裡的詞語了。"
+  },
+  {
+    "index": 162,
+    "text": "Have you ever lied to people about who you are or where you are from?",
+    "start": 702.533,
+    "end": 707.445,
+    "zh": "你是否曾经向别人谎报过自己的身份或来历？",
+    "zh_hant": "你是否曾經向別人謊報過自己的身份或來歷？"
+  },
+  {
+    "index": 163,
+    "text": "Do you dream of living",
+    "start": 707.095,
+    "end": 707.885,
+    "zh": "你是否梦想过过一种",
+    "zh_hant": "你是否夢想過過一種"
+  },
+  {
+    "index": 164,
+    "text": "a different life?",
+    "start": 717.69,
+    "end": 719.69,
+    "zh": "不一样的生活？",
+    "zh_hant": "不一樣的生活？"
+  },
+  {
+    "index": 165,
+    "text": "Let us know in the comments section or on our Facebook page.",
+    "start": 719.34,
+    "end": 725.69,
+    "zh": "请在评论区或我们的脸书主页上告诉我们。",
+    "zh_hant": "請在評論區或我們的臉書主頁上告訴我們。"
+  },
+  {
+    "index": 166,
+    "text": "Download activities to help you understand this story here.",
+    "start": 725.34,
+    "end": 730.19,
+    "zh": "在这里下载帮助理解这个故事的活动练习。",
+    "zh_hant": "在這裡下載幫助理解這個故事的活動練習。"
+  }
+]
