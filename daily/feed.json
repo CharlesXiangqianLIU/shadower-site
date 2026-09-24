@@ -455,19 +455,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-16",
-      "title": "New Fruits and Vegetables for Gardeners to Try",
-      "date": "2026-09-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-16-2",
       "title": "Having acne",
       "date": "2026-09-16",
@@ -480,19 +467,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-16-2",
-      "title": "Having acne",
-      "date": "2026-09-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-16-3",
       "title": "Talking about relaxing",
       "date": "2026-09-16",
@@ -503,19 +477,6 @@
       "accent": "british",
       "free": true,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-16-3",
-      "title": "Talking about relaxing",
-      "date": "2026-09-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-15",
@@ -4549,18 +4510,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-07-26-8",
-      "title": "Don't worry! Learn the language you need to talk about your worries",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-8.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-8.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-07-26-20",
       "title": "Finding and eating wild food",
       "date": "2026-07-26",
@@ -4626,18 +4575,6 @@
       "date": "2026-07-26",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-25.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-25.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-26-26",
-      "title": "The power of poetry",
-      "date": "2026-07-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-26-26.json",
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
