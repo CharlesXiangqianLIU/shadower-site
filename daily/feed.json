@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-09-25",
+      "title": "Experts Provide Tips for Avoiding Computer-linked Vision Trouble",
+      "date": "2026-09-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-09-25",
+      "title": "Experts Provide Tips for Avoiding Computer-linked Vision Trouble",
+      "date": "2026-09-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-24",
       "title": "A Municipal Report by O. Henry",
       "date": "2026-09-24",
@@ -845,7 +870,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
