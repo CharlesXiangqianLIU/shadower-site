@@ -701,19 +701,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-20",
-      "title": "Why you need a good night's sleep",
-      "date": "2026-09-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-20.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-20.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-19",
       "title": "'Mammon and the Archer' by O. Henry",
       "date": "2026-09-19",
@@ -4431,30 +4418,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-07-29-2",
-      "title": "What is the manosphere?",
-      "date": "2026-07-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-29-3",
-      "title": "Talking about phone habits",
-      "date": "2026-07-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-29-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-07-29-4",
