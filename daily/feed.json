@@ -701,19 +701,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-21",
-      "title": "What is the Best Kind of Yoga for Beginners?",
-      "date": "2026-09-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-21-2",
       "title": "Divorce: Why does it happen?",
       "date": "2026-09-21",
@@ -726,19 +713,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-21-2",
-      "title": "Divorce: Why does it happen?",
-      "date": "2026-09-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-21-3",
       "title": "Talking about driving",
       "date": "2026-09-21",
@@ -749,19 +723,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-21-3",
-      "title": "Talking about driving",
-      "date": "2026-09-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-20",
@@ -4423,30 +4384,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-07-30-2",
-      "title": "Do you need to declutter your home?",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-07-30-3",
-      "title": "Talking about moving house",
-      "date": "2026-07-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-30-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-07-30-4",
