@@ -76,6 +76,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-29-4",
+      "title": "How to Use 'Swimming' to Deal with Life's Situations",
+      "date": "2026-09-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-09-29-4",
+      "title": "How to Use 'Swimming' to Deal with Life's Situations",
+      "date": "2026-09-29",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-28",
       "title": "Private Lander Carrying NASA Experiments Lands on the Moon",
       "date": "2026-09-28",
@@ -986,7 +1011,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
