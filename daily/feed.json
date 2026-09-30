@@ -26,6 +26,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-09-30-2",
+      "title": "Using Real Trees to Bring Nature Indoors",
+      "date": "2026-09-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.json",
+      "folder": "VOA Intermediate",
+      "folderEn": "VOA Intermediate",
+      "accent": "american",
+      "free": true,
+      "level": "B1"
+    },
+    {
+      "id": "wu-2026-09-30-2",
+      "title": "Using Real Trees to Bring Nature Indoors",
+      "date": "2026-09-30",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Intermediate",
+      "origFolderEn": "VOA Intermediate",
+      "accent": "american"
+    },
+    {
       "id": "2026-09-29",
       "title": "'The Bride Comes to Yellow Sky' by Stephen Crane, Part One",
       "date": "2026-09-29",
@@ -935,7 +960,7 @@
       "folder": "VOA Intermediate",
       "folderEn": "VOA Intermediate",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B1"
     },
     {
