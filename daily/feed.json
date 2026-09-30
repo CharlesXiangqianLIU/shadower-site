@@ -714,19 +714,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-22",
-      "title": "'Transients in Arcadia' by O. Henry",
-      "date": "2026-09-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-22b",
       "title": "'Transients in Arcadia' by O. Henry",
       "date": "2026-09-22",
@@ -751,19 +738,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-22-2",
-      "title": "Talking about snacks",
-      "date": "2026-09-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-22-3",
       "title": "When in Rome …",
       "date": "2026-09-22",
@@ -774,19 +748,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-22-3",
-      "title": "When in Rome …",
-      "date": "2026-09-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-22-3b",
@@ -809,18 +770,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-22-4",
-      "title": "我真的不懂她",
-      "date": "2026-09-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-21",
@@ -8115,31 +8064,6 @@
         3.681,
         1.9,
         4.921
-      ]
-    },
-    {
-      "id": "2026-07-21-93",
-      "title": "石头姐戴着假发还非要昭告天下😂 也没谁了",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-93.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-93.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        1.831,
-        1.16,
-        4.862,
-        1.84,
-        0.68,
-        3.921,
-        4.181,
-        3.402,
-        1.22,
-        7.824,
-        3.128,
-        9.584,
-        1.52
       ]
     },
     {
