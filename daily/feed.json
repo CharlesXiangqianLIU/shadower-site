@@ -689,19 +689,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-23",
-      "title": "Yellowstone: The World’s First National Park",
-      "date": "2026-09-23",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-23-2",
       "title": "Tech that refuses to die",
       "date": "2026-09-23",
@@ -714,19 +701,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-23-2",
-      "title": "Tech that refuses to die",
-      "date": "2026-09-23",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-23-3",
       "title": "Talking about fears",
       "date": "2026-09-23",
@@ -737,19 +711,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-23-3",
-      "title": "Talking about fears",
-      "date": "2026-09-23",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-22",
