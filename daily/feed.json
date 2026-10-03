@@ -689,19 +689,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-25",
-      "title": "Experts Provide Tips for Avoiding Computer-linked Vision Trouble",
-      "date": "2026-09-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-25-2",
       "title": "Why do we itch?",
       "date": "2026-09-25",
@@ -714,19 +701,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-25-2",
-      "title": "Why do we itch?",
-      "date": "2026-09-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-25-3",
       "title": "Talking about happiness",
       "date": "2026-09-25",
@@ -737,19 +711,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-25-3",
-      "title": "Talking about happiness",
-      "date": "2026-09-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-24",
@@ -4245,30 +4206,6 @@
       "accent": "american",
       "free": false,
       "level": "B2"
-    },
-    {
-      "id": "2026-08-03-2",
-      "title": "How do you say sorry?",
-      "date": "2026-08-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-03-3",
-      "title": "Talking about hates",
-      "date": "2026-08-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-03-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-03b",
