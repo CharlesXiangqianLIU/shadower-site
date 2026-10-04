@@ -689,19 +689,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-26",
-      "title": "'The Bride Comes to Yellow Sky' by Stephen Crane, Part Two",
-      "date": "2026-09-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-26b",
       "title": "'The Bride Comes to Yellow Sky' by Stephen Crane, Part Two",
       "date": "2026-09-26",
@@ -726,19 +713,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-26-2",
-      "title": "What decides our taste?",
-      "date": "2026-09-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-26-3",
       "title": "Talking about autumn",
       "date": "2026-09-26",
@@ -751,19 +725,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-26-3",
-      "title": "Talking about autumn",
-      "date": "2026-09-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-26-4",
       "title": "Keep Your Nose to the Grindstone",
       "date": "2026-09-26",
@@ -774,19 +735,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-26-4",
-      "title": "Keep Your Nose to the Grindstone",
-      "date": "2026-09-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-26-4b",
@@ -809,18 +757,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-26-5",
-      "title": "這就是有明星媽咪的感覺嗎😍",
-      "date": "2026-09-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-26-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-25",
@@ -4226,30 +4162,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-08-04-4",
-      "title": "Are plant-based substitutes healthier than meat?",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-4.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-04-5",
-      "title": "Talking about hot weather",
-      "date": "2026-08-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-04-5.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-04-6",
@@ -8215,32 +8127,6 @@
         2.681,
         1.1,
         0.72
-      ]
-    },
-    {
-      "id": "2026-07-21-91",
-      "title": "她的DNA结果太离谱",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-91.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-91.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        1.911,
-        1.16,
-        2.401,
-        0.66,
-        5.143,
-        3.322,
-        1.32,
-        3.702,
-        2.381,
-        1.201,
-        1.581,
-        1.021,
-        1.521,
-        0.66
       ]
     },
     {
