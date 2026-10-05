@@ -639,19 +639,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-27",
-      "title": "Learning a new food culture",
-      "date": "2026-09-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-27-2",
       "title": "Talking about days out",
       "date": "2026-09-27",
@@ -662,19 +649,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-27-2",
-      "title": "Talking about days out",
-      "date": "2026-09-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-26",
@@ -3992,42 +3966,6 @@
       "accent": "american",
       "level": "C1",
       "free": false
-    },
-    {
-      "id": "2026-08-05-2",
-      "title": "How do babies communicate?",
-      "date": "2026-08-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-05-3",
-      "title": "Talking about old friends",
-      "date": "2026-08-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
-      "id": "2026-08-05-4",
-      "title": "Children in warzones",
-      "date": "2026-08-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-05-4.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
     },
     {
       "id": "2026-08-05-5",
