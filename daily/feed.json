@@ -564,19 +564,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-09-28",
-      "title": "Private Lander Carrying NASA Experiments Lands on the Moon",
-      "date": "2026-09-28",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-28-2",
       "title": "Saving water in the driest place on Earth",
       "date": "2026-09-28",
@@ -589,19 +576,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-09-28-2",
-      "title": "Saving water in the driest place on Earth",
-      "date": "2026-09-28",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-28-3",
       "title": "Talking about childhood",
       "date": "2026-09-28",
@@ -612,19 +586,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-09-28-3",
-      "title": "Talking about childhood",
-      "date": "2026-09-28",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-09-27",
@@ -3874,30 +3835,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-08-06-2",
-      "title": "Weight loss drugs",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-06-3",
-      "title": "Talking about the beach",
-      "date": "2026-08-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-06-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-06-4",
