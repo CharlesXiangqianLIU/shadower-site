@@ -430,19 +430,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-09-29",
-      "title": "'The Bride Comes to Yellow Sky' by Stephen Crane, Part One",
-      "date": "2026-09-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-09-29-2",
       "title": "Keeping kids off smartphones",
       "date": "2026-09-29",
@@ -453,19 +440,6 @@
       "accent": "british",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-29-2",
-      "title": "Keeping kids off smartphones",
-      "date": "2026-09-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
     },
     {
       "id": "2026-09-29-3",
@@ -480,19 +454,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-29-3",
-      "title": "Talking about gifts",
-      "date": "2026-09-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-29-4",
       "title": "How to Use 'Swimming' to Deal with Life's Situations",
       "date": "2026-09-29",
@@ -503,19 +464,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-09-29-4",
-      "title": "How to Use 'Swimming' to Deal with Life's Situations",
-      "date": "2026-09-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-09-29-4b",
@@ -538,18 +486,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-09-29-5",
-      "title": "詹妮弗·劳伦斯的射箭水平：对方得站着别动",
-      "date": "2026-09-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-29-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-09-28",
@@ -3776,30 +3712,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-08-07-3",
-      "title": "How do climate scientists make predictions?",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-3.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-07-4",
-      "title": "Talking about names",
-      "date": "2026-08-07",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-07-4.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-07-6",
