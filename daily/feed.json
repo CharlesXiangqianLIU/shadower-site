@@ -380,19 +380,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-09-30",
-      "title": "Talking about teachers",
-      "date": "2026-09-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-09-30-2",
       "title": "Using Real Trees to Bring Nature Indoors",
       "date": "2026-09-30",
@@ -403,19 +390,6 @@
       "accent": "american",
       "free": true,
       "level": "B1"
-    },
-    {
-      "id": "wu-2026-09-30-2",
-      "title": "Using Real Trees to Bring Nature Indoors",
-      "date": "2026-09-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-30-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
     },
     {
       "id": "2026-09-29",
@@ -3632,30 +3606,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-08-08-5",
-      "title": "Can climate change affect our mental health?",
-      "date": "2026-08-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-5.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-08-6",
-      "title": "Talking about spicy food",
-      "date": "2026-08-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-6.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-08-6.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-08-7",
