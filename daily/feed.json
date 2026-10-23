@@ -123,6 +123,43 @@
       "accent": "british"
     },
     {
+      "id": "2026-10-23-2b",
+      "title": "An Eye for an Eye",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2b.json",
+      "folder": "VOA Words and Their Stories",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "2026-10-23-6",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Three",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-10-23-6",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Three",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-10-03",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Four",
       "date": "2026-10-03",
@@ -603,7 +640,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -663,7 +700,7 @@
       "folder": "VOA Words and Their Stories",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
