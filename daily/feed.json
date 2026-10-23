@@ -23,6 +23,31 @@
       "origFolderEn": "Talk Show"
     },
     {
+      "id": "2026-10-23-2",
+      "title": "An Eye for an Eye",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2.json",
+      "folder": "VOA Words and Their Stories·进阶版",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-10-23-2",
+      "title": "An Eye for an Eye",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA Words and Their Stories·进阶版",
+      "origFolderEn": "VOA Words and Their Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-10-03",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Four",
       "date": "2026-10-03",
@@ -551,7 +576,7 @@
       "folder": "VOA Words and Their Stories·进阶版",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
