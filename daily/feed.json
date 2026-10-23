@@ -98,6 +98,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-10-23-5",
+      "title": "Talking about job interviews",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-5.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-10-23-5",
+      "title": "Talking about job interviews",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-03",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Four",
       "date": "2026-10-03",
@@ -354,7 +379,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
