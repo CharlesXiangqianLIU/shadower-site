@@ -1,6 +1,28 @@
 {
   "lessons": [
     {
+      "id": "2026-10-23",
+      "title": "雖然超怪但我會想要😍😍Rebecca 就是個pookie🥹🥹",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-10-23",
+      "title": "雖然超怪但我會想要😍😍Rebecca 就是個pookie🥹🥹",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-10-03",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Four",
       "date": "2026-10-03",
