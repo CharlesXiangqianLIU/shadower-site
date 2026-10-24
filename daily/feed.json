@@ -160,6 +160,18 @@
       "accent": "american"
     },
     {
+      "id": "2026-10-23-6b",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Three",
+      "date": "2026-10-23",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-23-6b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
       "id": "2026-10-03",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Four",
       "date": "2026-10-03",
@@ -770,7 +782,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
@@ -2402,30 +2414,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-08-24-2",
-      "title": "Should we eat less rice?",
-      "date": "2026-08-24",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-24-3",
-      "title": "Talking about birthdays",
-      "date": "2026-08-24",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-24-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-08-22",
@@ -7482,44 +7470,6 @@
         0.601,
         1.861,
         3.882
-      ]
-    },
-    {
-      "id": "2026-07-21-90",
-      "title": "亲戚突然全来找我要票",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-90.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-90.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        2.751,
-        2.4,
-        4.121,
-        7.202,
-        2.981,
-        4.301,
-        1.82,
-        2.161,
-        2.02,
-        2.281,
-        1.88,
-        3.421,
-        1.16,
-        0.681,
-        5.801,
-        2.781,
-        1.12,
-        1.56,
-        2.541,
-        2.52,
-        2.521,
-        3.241,
-        1.7,
-        2.681,
-        1.1,
-        0.72
       ]
     },
     {
