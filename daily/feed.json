@@ -26,6 +26,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-10-24b",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Two",
+      "date": "2026-10-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-10-24-2",
+      "title": "Why do people buy gold?",
+      "date": "2026-10-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-10-24-2",
+      "title": "Why do people buy gold?",
+      "date": "2026-10-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-23",
       "title": "雖然超怪但我會想要😍😍Rebecca 就是個pookie🥹🥹",
       "date": "2026-10-23",
@@ -441,7 +478,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -689,7 +726,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
