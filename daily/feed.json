@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-10-24",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Two",
+      "date": "2026-10-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24.json",
+      "folder": "VOA American Stories·进阶版",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "wu-2026-10-24",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Two",
+      "date": "2026-10-24",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-24.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "VOA American Stories·进阶版",
+      "origFolderEn": "VOA American Stories",
+      "accent": "american"
+    },
+    {
       "id": "2026-10-23",
       "title": "雖然超怪但我會想要😍😍Rebecca 就是個pookie🥹🥹",
       "date": "2026-10-23",
@@ -534,7 +559,7 @@
       "folder": "VOA American Stories·进阶版",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
