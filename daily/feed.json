@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-10-25",
+      "title": "Are people drinking less alcohol?",
+      "date": "2026-10-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-10-25",
+      "title": "Are people drinking less alcohol?",
+      "date": "2026-10-25",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-24",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allen Poe, Part Two",
       "date": "2026-10-24",
@@ -468,7 +493,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
