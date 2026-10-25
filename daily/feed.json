@@ -2404,30 +2404,6 @@
       "level": "C1"
     },
     {
-      "id": "2026-08-25-2",
-      "title": "The country that measures happiness",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-25-3",
-      "title": "Talking about having kids",
-      "date": "2026-08-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-25-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-08-25-4",
       "title": "Expressions for New Year's Resolution",
       "date": "2026-08-25",
@@ -7589,33 +7565,6 @@
         1.12,
         1.821,
         1.32
-      ]
-    },
-    {
-      "id": "2026-07-21-89",
-      "title": "美国人拍吻戏太夸张",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-89.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-89.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        7.755,
-        0.84,
-        6.404,
-        4.603,
-        1.221,
-        1.981,
-        3.261,
-        1.2,
-        3.783,
-        0.98,
-        2.241,
-        0.72,
-        0.601,
-        1.861,
-        3.882
       ]
     },
     {
