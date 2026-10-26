@@ -26,6 +26,31 @@
       "accent": "american"
     },
     {
+      "id": "2026-10-26-2",
+      "title": "Why we love dumplings",
+      "date": "2026-10-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-10-26-2",
+      "title": "Why we love dumplings",
+      "date": "2026-10-26",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-25",
       "title": "Are people drinking less alcohol?",
       "date": "2026-10-25",
@@ -495,7 +520,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
