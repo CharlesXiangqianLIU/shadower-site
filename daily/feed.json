@@ -26,6 +26,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-10-27b",
+      "title": "'The Murders in the Rue Morgue,' by Edgar Allan Poe, Part One",
+      "date": "2026-10-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-10-27-2",
+      "title": "Kids and climate change",
+      "date": "2026-10-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-10-27-2",
+      "title": "Kids and climate change",
+      "date": "2026-10-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-26",
       "title": "New Discovery Could Explain What Gives Mars its Red Color",
       "date": "2026-10-26",
@@ -500,7 +537,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -842,7 +879,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
