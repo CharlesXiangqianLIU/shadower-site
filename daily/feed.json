@@ -63,6 +63,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-10-27-3",
+      "title": "Talking about relationships",
+      "date": "2026-10-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-10-27-3",
+      "title": "Talking about relationships",
+      "date": "2026-10-27",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-10-26",
       "title": "New Discovery Could Explain What Gives Mars its Red Color",
       "date": "2026-10-26",
@@ -549,7 +574,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
