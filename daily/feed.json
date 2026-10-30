@@ -2480,30 +2480,6 @@
       "level": "A2"
     },
     {
-      "id": "2026-08-30",
-      "title": "Why smells make us feel at home",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-08-30-2",
-      "title": "Talking about drinks",
-      "date": "2026-08-30",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-08-30-2.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
       "id": "2026-08-30-3",
       "title": "'Philly Pigeon Tours' puts spotlight on city's feathered friends",
       "date": "2026-08-30",
@@ -7886,34 +7862,6 @@
         1.961,
         1.901,
         2.201
-      ]
-    },
-    {
-      "id": "2026-07-21-87",
-      "title": "见总统穿西装结果成笑话",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-87.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-87.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        4.473,
-        1.74,
-        2.041,
-        1.141,
-        1.28,
-        2.962,
-        4.022,
-        1.981,
-        3.362,
-        2.902,
-        1.94,
-        1.32,
-        1.401,
-        7.965,
-        1.22,
-        0.62
       ]
     },
     {
