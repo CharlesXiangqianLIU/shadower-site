@@ -714,19 +714,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-10-25",
-      "title": "Are people drinking less alcohol?",
-      "date": "2026-10-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-25-2",
       "title": "Talking about the cinema",
       "date": "2026-10-25",
@@ -737,19 +724,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-10-25-2",
-      "title": "Talking about the cinema",
-      "date": "2026-10-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-25-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-10-24",
