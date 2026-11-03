@@ -714,19 +714,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-10-26",
-      "title": "New Discovery Could Explain What Gives Mars its Red Color",
-      "date": "2026-10-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-10-26-2",
       "title": "Why we love dumplings",
       "date": "2026-10-26",
@@ -739,19 +726,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-10-26-2",
-      "title": "Why we love dumplings",
-      "date": "2026-10-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-26-3",
       "title": "Talking about money",
       "date": "2026-10-26",
@@ -762,19 +736,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-10-26-3",
-      "title": "Talking about money",
-      "date": "2026-10-26",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-26-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-10-25",
@@ -2457,30 +2418,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-09-03-2",
-      "title": "Which country has the best schools?",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-03-3",
-      "title": "Talking about your year",
-      "date": "2026-09-03",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-03-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-03-4",
