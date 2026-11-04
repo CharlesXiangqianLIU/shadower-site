@@ -677,19 +677,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-10-27",
-      "title": "'The Murders in the Rue Morgue,' by Edgar Allan Poe, Part One",
-      "date": "2026-10-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-10-27b",
       "title": "'The Murders in the Rue Morgue,' by Edgar Allan Poe, Part One",
       "date": "2026-10-27",
@@ -714,19 +701,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-10-27-2",
-      "title": "Kids and climate change",
-      "date": "2026-10-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-27-3",
       "title": "Talking about relationships",
       "date": "2026-10-27",
@@ -739,19 +713,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-10-27-3",
-      "title": "Talking about relationships",
-      "date": "2026-10-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-27-4",
       "title": "Sometimes Help Is Just 'A Phone Call Away'",
       "date": "2026-10-27",
@@ -762,19 +723,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-10-27-4",
-      "title": "Sometimes Help Is Just 'A Phone Call Away'",
-      "date": "2026-10-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-10-27-4b",
@@ -797,18 +745,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-10-27-5",
-      "title": "她賣什麼我都買😀",
-      "date": "2026-10-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-27-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-10-26",
@@ -2491,18 +2427,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-04-2",
-      "title": "Talking about laughing",
-      "date": "2026-09-04",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-04-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-04-2.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-03",
@@ -7984,26 +7908,6 @@
         2.021,
         1.6,
         0.58
-      ]
-    },
-    {
-      "id": "2026-07-21-85",
-      "title": "男生分手像航班延误",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-85.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-85.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        3.502,
-        3.762,
-        5.143,
-        2.602,
-        1.981,
-        5.224,
-        1.36,
-        2.842
       ]
     },
     {
