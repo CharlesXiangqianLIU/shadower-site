@@ -677,19 +677,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-10-29",
-      "title": "'Benito Cereno,' by Herman Melville, Part Three",
-      "date": "2026-10-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-10-29b",
       "title": "'Benito Cereno,' by Herman Melville, Part Three",
       "date": "2026-10-29",
@@ -714,19 +701,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-10-29-2",
-      "title": "The science of falling in love",
-      "date": "2026-10-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-29-3",
       "title": "Talking about wishes",
       "date": "2026-10-29",
@@ -739,19 +713,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-10-29-3",
-      "title": "Talking about wishes",
-      "date": "2026-10-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-10-29-4",
       "title": "One Person's Trash Is Another Person's Treasure",
       "date": "2026-10-29",
@@ -762,19 +723,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-10-29-4",
-      "title": "One Person's Trash Is Another Person's Treasure",
-      "date": "2026-10-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-10-29-4b",
@@ -797,18 +745,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-10-29-5",
-      "title": "她把美国夸奖听成嫌弃",
-      "date": "2026-10-29",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-10-29-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-10-28",
@@ -2505,18 +2441,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "2026-09-06",
-      "title": "Eating 50-year-old stew",
-      "date": "2026-09-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-06.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
     },
     {
       "id": "2026-09-06-2",
@@ -8038,34 +7962,6 @@
         3.101,
         2.82,
         6.882
-      ]
-    },
-    {
-      "id": "2026-07-21-84",
-      "title": "她让siri放歌,结果打给本人",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-84.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-84.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        5.561,
-        4.981,
-        6.201,
-        1.401,
-        1.22,
-        1.22,
-        9.002,
-        2.801,
-        1.36,
-        7.821,
-        7.582,
-        4.381,
-        3.32,
-        2.021,
-        1.6,
-        0.58
       ]
     },
     {
