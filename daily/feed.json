@@ -113,6 +113,40 @@
       "accent": "american"
     },
     {
+      "id": "2026-11-07-4b",
+      "title": "What Gives You 'Food for Thought'?",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-4.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-4b.json",
+      "folder": "VOA Words and Their Stories",
+      "folderEn": "VOA Words and Their Stories",
+      "accent": "american",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "2026-11-07-5",
+      "title": "刘玉玲太凶没人敢追？",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-5.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-11-07-5",
+      "title": "刘玉玲太凶没人敢追？",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-5.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-5.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-11-06",
       "title": "What Is Art Deco and Why Is It Popular Again?",
       "date": "2026-11-06",
@@ -1221,7 +1255,7 @@
       "folder": "VOA Words and Their Stories",
       "folderEn": "VOA Words and Their Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
