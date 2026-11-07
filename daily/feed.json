@@ -26,6 +26,43 @@
       "accent": "american"
     },
     {
+      "id": "2026-11-07b",
+      "title": "'The Caliph, Cupid and the Clock,' by O. Henry",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07b.json",
+      "folder": "VOA American Stories",
+      "folderEn": "VOA American Stories",
+      "accent": "american",
+      "free": true,
+      "level": "C1"
+    },
+    {
+      "id": "2026-11-07-2",
+      "title": "How names can tell painful stories",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-2.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-11-07-2",
+      "title": "How names can tell painful stories",
+      "date": "2026-11-07",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-07-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-11-06",
       "title": "What Is Art Deco and Why Is It Popular Again?",
       "date": "2026-11-06",
@@ -464,7 +501,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -475,7 +512,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-02-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
@@ -864,7 +901,7 @@
       "folder": "VOA American Stories",
       "folderEn": "VOA American Stories",
       "accent": "american",
-      "free": true,
+      "free": false,
       "level": "C1"
     },
     {
