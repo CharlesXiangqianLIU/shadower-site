@@ -1,6 +1,31 @@
 {
   "lessons": [
     {
+      "id": "2026-11-08",
+      "title": "E-rickshaws driving away pollution",
+      "date": "2026-11-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.json",
+      "folder": "BBC Learning English",
+      "folderEn": "BBC Learning English",
+      "accent": "british",
+      "free": true,
+      "level": "B2"
+    },
+    {
+      "id": "wu-2026-11-08",
+      "title": "E-rickshaws driving away pollution",
+      "date": "2026-11-08",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Learning English",
+      "origFolderEn": "BBC Learning English",
+      "accent": "british"
+    },
+    {
       "id": "2026-11-07",
       "title": "'The Caliph, Cupid and the Clock,' by O. Henry",
       "date": "2026-11-07",
@@ -488,7 +513,7 @@
       "folder": "BBC Learning English",
       "folderEn": "BBC Learning English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "B2"
     },
     {
@@ -499,7 +524,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-03-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Learning English",
       "origFolderEn": "BBC Learning English",
       "accent": "british"
