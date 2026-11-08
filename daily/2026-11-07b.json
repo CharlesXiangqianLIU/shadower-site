@@ -1,0 +1,1826 @@
+[
+  {
+    "index": 0,
+    "text": "We present the short story \"The Caliph, Cupid and the Clock\" by O. Henry.",
+    "start": 0.0,
+    "end": 5.152,
+    "zh": "我们为您呈现短篇小说《哈里发、丘比特与时钟》，作者欧·亨利。",
+    "zh_hant": "我們為您呈現短篇小說《哈里發、丘位元與時鐘》，作者歐·亨利。"
+  },
+  {
+    "index": 1,
+    "text": "The story was originally adapted and recorded by the U.S. Department of State.",
+    "start": 4.802,
+    "end": 7.694,
+    "zh": "本故事最初由美国国务院改编并录制。",
+    "zh_hant": "本故事最初由美國國務院改編並錄製。"
+  },
+  {
+    "index": 2,
+    "text": "Prince Michael of Valleluna sat in the park on the seat he liked best.",
+    "start": 7.344,
+    "end": 11.976,
+    "zh": "瓦莱卢纳的迈克尔王子坐在公园里他最喜欢的那张椅子上。",
+    "zh_hant": "瓦萊盧納的邁克爾王子坐在公園裡他最喜歡的那張椅子上。"
+  },
+  {
+    "index": 3,
+    "text": "In the coolness of the night, he felt full of life.",
+    "start": 12.676,
+    "end": 16.258,
+    "zh": "夜晚凉爽，他感到充满活力。",
+    "zh_hant": "夜晚涼爽，他感到充滿活力。"
+  },
+  {
+    "index": 4,
+    "text": "The other seats were not filled.",
+    "start": 16.958,
+    "end": 18.979,
+    "zh": "别的座位都没人坐。",
+    "zh_hant": "別的座位都沒人坐。"
+  },
+  {
+    "index": 5,
+    "text": "Cool weather sends most people home.",
+    "start": 19.28,
+    "end": 21.881,
+    "zh": "凉爽的天气让大多数人都回家了。",
+    "zh_hant": "涼爽的天氣讓大多數人都回家了。"
+  },
+  {
+    "index": 6,
+    "text": "The moon was rising over the houses on the east side of the park.",
+    "start": 23.062,
+    "end": 27.724,
+    "zh": "月亮从公园东侧的房屋上方升起。",
+    "zh_hant": "月亮從公園東側的房屋上方升起。"
+  },
+  {
+    "index": 7,
+    "text": "Children laughed and played.",
+    "start": 28.264,
+    "end": 30.505,
+    "zh": "孩子们笑着玩耍。",
+    "zh_hant": "孩子們笑著玩耍。"
+  },
+  {
+    "index": 8,
+    "text": "Music came softly from one of the nearer streets.",
+    "start": 30.965,
+    "end": 34.387,
+    "zh": "音乐从较近的一条街上轻轻飘来。",
+    "zh_hant": "音樂從較近的一條街上輕輕飄來。"
+  },
+  {
+    "index": 9,
+    "text": "Around the little park, cabs rolled by.",
+    "start": 34.807,
+    "end": 38.209,
+    "zh": "小公园四周，马车驶过。",
+    "zh_hant": "小公園四周，馬車駛過。"
+  },
+  {
+    "index": 10,
+    "text": "The trains that traveled high above the street rushed past.",
+    "start": 38.449,
+    "end": 43.072,
+    "zh": "高架列车从街道上方疾驰而过。",
+    "zh_hant": "高架列車從街道上方疾馳而過。"
+  },
+  {
+    "index": 11,
+    "text": "These cabs and trains, with their wild noises, seemed like animals outside the park.",
+    "start": 43.472,
+    "end": 50.555,
+    "zh": "这些马车和列车伴随着喧闹的声响，像是公园外的野兽。",
+    "zh_hant": "這些馬車和列車伴隨著喧鬧的聲響，像是公園外的野獸。"
+  },
+  {
+    "index": 12,
+    "text": "But they could not enter.",
+    "start": 50.776,
+    "end": 52.376,
+    "zh": "但它们无法进入。",
+    "zh_hant": "但它們無法進入。"
+  },
+  {
+    "index": 13,
+    "text": "The park was safe and quiet.",
+    "start": 52.717,
+    "end": 56.478,
+    "zh": "公园里安全又安静。",
+    "zh_hant": "公園裡安全又安靜。"
+  },
+  {
+    "index": 14,
+    "text": "And above the trees was the great, round, shining face of a lighted clock",
+    "start": 57.239,
+    "end": 64.262,
+    "zh": "而在树梢之上，是一座高大老建筑上那盏明亮的时钟巨大而圆润的脸庞，",
+    "zh_hant": "而在樹梢之上，是一座高大老建築上那盞明亮的時鐘巨大而圓潤的臉龐，"
+  },
+  {
+    "index": 15,
+    "text": "in a tall old building.",
+    "start": 63.912,
+    "end": 66.203,
+    "zh": "在树梢之上。",
+    "zh_hant": "在樹梢之上。"
+  },
+  {
+    "index": 16,
+    "text": "Prince Michael’s shoes were old and broken.",
+    "start": 67.504,
+    "end": 70.785,
+    "zh": "迈克尔王子的鞋子又旧又破。",
+    "zh_hant": "邁克爾王子的鞋子又舊又破。"
+  },
+  {
+    "index": 17,
+    "text": "No shoemaker could ever make them like new again.",
+    "start": 70.926,
+    "end": 74.387,
+    "zh": "再好的鞋匠也没法把它们修得像新的一样。",
+    "zh_hant": "再好的鞋匠也沒法把它們修得像新的一樣。"
+  },
+  {
+    "index": 18,
+    "text": "His clothes were very torn.",
+    "start": 75.088,
+    "end": 77.308,
+    "zh": "他的衣服破得很厉害。",
+    "zh_hant": "他的衣服破得很厲害。"
+  },
+  {
+    "index": 19,
+    "text": "The hair of his face had been growing for two weeks.",
+    "start": 77.909,
+    "end": 81.311,
+    "zh": "他脸上的胡子已经长了两周。",
+    "zh_hant": "他臉上的鬍子已經長了兩週。"
+  },
+  {
+    "index": 20,
+    "text": "It was all colors—gray and brown and red and green-yellow.",
+    "start": 81.591,
+    "end": 87.574,
+    "zh": "各种颜色都有——灰的、棕的、红的，还有黄绿色的。",
+    "zh_hant": "各種顏色都有——灰的、棕的、紅的，還有黃綠色的。"
+  },
+  {
+    "index": 21,
+    "text": "His hat was older and more torn than his shoes and his other clothes.",
+    "start": 88.435,
+    "end": 93.157,
+    "zh": "他的帽子比鞋子和衣服更旧、更破。",
+    "zh_hant": "他的帽子比鞋子和衣服更舊、更破。"
+  },
+  {
+    "index": 22,
+    "text": "Prince Michael sat on the seat he liked best, and he smiled.",
+    "start": 93.717,
+    "end": 99.92,
+    "zh": "迈克尔王子坐在他最喜欢的座位上，微笑着。",
+    "zh_hant": "邁克爾王子坐在他最喜歡的座位上，微笑著。"
+  },
+  {
+    "index": 23,
+    "text": "It was a happy thought to him that he had enough money",
+    "start": 100.661,
+    "end": 105.063,
+    "zh": "他愉快地想着，自己有足够的钱，",
+    "zh_hant": "他愉快地想著，自己有足夠的錢，"
+  },
+  {
+    "index": 24,
+    "text": "to buy every house he could see near the park, if he wished.",
+    "start": 104.713,
+    "end": 108.825,
+    "zh": "只要愿意，就能买下公园附近看得见的每一栋房子。",
+    "zh_hant": "只要願意，就能買下公園附近看得見的每一棟房子。"
+  },
+  {
+    "index": 25,
+    "text": "He had as much gold as any rich man in this proud city of New York.",
+    "start": 109.645,
+    "end": 115.068,
+    "zh": "在这座骄傲的纽约城里，他的黄金和任何富人一样多。",
+    "zh_hant": "在這座驕傲的紐約城裡，他的黃金和任何富人一樣多。"
+  },
+  {
+    "index": 26,
+    "text": "He had as many jewels, and houses, and land.",
+    "start": 115.628,
+    "end": 119.23,
+    "zh": "他也有同样多的珠宝、房屋和土地。",
+    "zh_hant": "他也有同樣多的珠寶、房屋和土地。"
+  },
+  {
+    "index": 27,
+    "text": "He could have sat at table with kings and queens.",
+    "start": 119.67,
+    "end": 123.832,
+    "zh": "他本可以与国王和王后同席而坐。",
+    "zh_hant": "他本可以與國王和王后同席而坐。"
+  },
+  {
+    "index": 28,
+    "text": "All the best things in the world could be his—art, pleasure, beautiful women, honor.",
+    "start": 124.353,
+    "end": 131.476,
+    "zh": "世上一切最好的东西都可以属于他——艺术、享乐、美人、荣誉。",
+    "zh_hant": "世上一切最好的東西都可以屬於他——藝術、享樂、美人、榮譽。"
+  },
+  {
+    "index": 29,
+    "text": "All the sweeter things in life were waiting for Prince Michael of Valleluna whenever he might choose to take them.",
+    "start": 132.537,
+    "end": 139.68,
+    "zh": "生命中一切更甜美的事物，都在等着瓦莱卢纳的迈克尔王子随时去取。",
+    "zh_hant": "生命中一切更甜美的事物，都在等著瓦萊盧納的邁克爾王子隨時去取。"
+  },
+  {
+    "index": 30,
+    "text": "But instead he was choosing to sit",
+    "start": 140.521,
+    "end": 144.222,
+    "zh": "但他却选择穿着破衣烂衫，",
+    "zh_hant": "但他卻選擇穿著破衣爛衫，"
+  },
+  {
+    "index": 31,
+    "text": "in torn clothes on a seat in a park.",
+    "start": 144.042,
+    "end": 148.484,
+    "zh": "坐在公园的一张椅子上。",
+    "zh_hant": "坐在公園的一張椅子上。"
+  },
+  {
+    "index": 32,
+    "text": "For he had tasted of the fruit the tree of life.",
+    "start": 149.285,
+    "end": 152.286,
+    "zh": "因为他品尝过生命之树的果实。",
+    "zh_hant": "因為他品嚐過生命之樹的果實。"
+  },
+  {
+    "index": 33,
+    "text": "He had not liked the taste.",
+    "start": 152.526,
+    "end": 154.547,
+    "zh": "他不喜欢那滋味。",
+    "zh_hant": "他不喜歡那滋味。"
+  },
+  {
+    "index": 34,
+    "text": "Here, in this park, he felt near to the beating heart of the world.",
+    "start": 155.388,
+    "end": 160.711,
+    "zh": "在这里，在这座公园里，他感到贴近世界跳动的心脏。",
+    "zh_hant": "在這裡，在這座公園裡，他感到貼近世界跳動的心臟。"
+  },
+  {
+    "index": 35,
+    "text": "He hoped it would help him to forget that taste.",
+    "start": 161.251,
+    "end": 164.432,
+    "zh": "他希望这能帮他忘掉那滋味。",
+    "zh_hant": "他希望這能幫他忘掉那滋味。"
+  },
+  {
+    "index": 36,
+    "text": "These thoughts moved like a dream through the mind of Prince Michael.",
+    "start": 165.993,
+    "end": 170.255,
+    "zh": "这些念头像梦一样在迈克尔王子心中流转。",
+    "zh_hant": "這些念頭像夢一樣在邁克爾王子心中流轉。"
+  },
+  {
+    "index": 37,
+    "text": "There was a smile across his face with its many-colored hair.",
+    "start": 171.036,
+    "end": 176.819,
+    "zh": "他那张长满五颜六色胡须的脸上挂着微笑。",
+    "zh_hant": "他那張長滿五顏六色鬍鬚的臉上掛著微笑。"
+  },
+  {
+    "index": 38,
+    "text": "Sitting like this, in torn clothes, he loved to study other men.",
+    "start": 177.779,
+    "end": 183.002,
+    "zh": "就这样穿着破衣烂衫坐着，他喜欢观察别人。",
+    "zh_hant": "就這樣穿著破衣爛衫坐著，他喜歡觀察別人。"
+  },
+  {
+    "index": 39,
+    "text": "He loved to do good things for others.",
+    "start": 183.642,
+    "end": 186.683,
+    "zh": "他喜欢为他人做好事。",
+    "zh_hant": "他喜歡為他人做好事。"
+  },
+  {
+    "index": 40,
+    "text": "Giving was more pleasant to him than owning all his riches.",
+    "start": 187.344,
+    "end": 191.546,
+    "zh": "给予对他来说，比拥有全部财富更令人愉快。",
+    "zh_hant": "給予對他來說，比擁有全部財富更令人愉快。"
+  },
+  {
+    "index": 41,
+    "text": "It was his chief pleasure to help people who were in trouble.",
+    "start": 192.126,
+    "end": 197.449,
+    "zh": "帮助陷入困境的人是他最大的乐趣。",
+    "zh_hant": "幫助陷入困境的人是他最大的樂趣。"
+  },
+  {
+    "index": 42,
+    "text": "He liked to give to people who needed help.",
+    "start": 198.369,
+    "end": 201.151,
+    "zh": "他喜欢帮助那些需要帮助的人。",
+    "zh_hant": "他喜歡幫助那些需要幫助的人。"
+  },
+  {
+    "index": 43,
+    "text": "He liked to surprise them with princely gifts.",
+    "start": 201.611,
+    "end": 205.113,
+    "zh": "他喜欢用王子般的礼物给他们惊喜。",
+    "zh_hant": "他喜歡用王子般的禮物給他們驚喜。"
+  },
+  {
+    "index": 44,
+    "text": "But he always gave wisely, after careful thought.",
+    "start": 205.733,
+    "end": 211.656,
+    "zh": "但他总是三思之后才明智地施予。",
+    "zh_hant": "但他總是三思之後才明智地施予。"
+  },
+  {
+    "index": 45,
+    "text": "And now, as he looked at the shining face of the great clock,",
+    "start": 212.537,
+    "end": 217.719,
+    "zh": "此刻，当他望着那座大钟闪亮的脸庞，",
+    "zh_hant": "此刻，當他望著那座大鐘閃亮的臉龐，"
+  },
+  {
+    "index": 46,
+    "text": "his smile changed.",
+    "start": 218.4,
+    "end": 220.48,
+    "zh": "他的笑容变了。",
+    "zh_hant": "他的笑容變了。"
+  },
+  {
+    "index": 47,
+    "text": "The Prince always thought big thoughts.",
+    "start": 220.921,
+    "end": 223.982,
+    "zh": "王子总是胸怀大志。",
+    "zh_hant": "王子總是胸懷大志。"
+  },
+  {
+    "index": 48,
+    "text": "When he thought of time, he always felt a touch of sadness.",
+    "start": 224.383,
+    "end": 229.265,
+    "zh": "一想到时间，他总感到一丝悲伤。",
+    "zh_hant": "一想到時間，他總感到一絲悲傷。"
+  },
+  {
+    "index": 49,
+    "text": "Time controlled the world.",
+    "start": 229.905,
+    "end": 232.206,
+    "zh": "时间控制着世界。",
+    "zh_hant": "時間控制著世界。"
+  },
+  {
+    "index": 50,
+    "text": "People had to do what time commanded.",
+    "start": 232.667,
+    "end": 236.048,
+    "zh": "人们必须服从时间的命令。",
+    "zh_hant": "人們必須服從時間的命令。"
+  },
+  {
+    "index": 51,
+    "text": "Their comings and goings were always controlled by a clock.",
+    "start": 236.408,
+    "end": 241.791,
+    "zh": "他们的来去总是被时钟所控制。",
+    "zh_hant": "他們的來去總是被時鐘所控制。"
+  },
+  {
+    "index": 52,
+    "text": "They were always in a hurry, and always afraid, because of time.",
+    "start": 242.572,
+    "end": 247.854,
+    "zh": "因为时间，他们总是匆匆忙忙，总是心怀恐惧。",
+    "zh_hant": "因為時間，他們總是匆匆忙忙，總是心懷恐懼。"
+  },
+  {
+    "index": 53,
+    "text": "It made him sad.",
+    "start": 248.475,
+    "end": 250.095,
+    "zh": "这让他难过。",
+    "zh_hant": "這讓他難過。"
+  },
+  {
+    "index": 54,
+    "text": "After a little while, a young man in evening clothes came and sat upon a seat near the Prince.",
+    "start": 251.316,
+    "end": 258.26,
+    "zh": "过了一会儿，一个穿晚礼服的年轻人过来，坐在王子旁边的座位上。",
+    "zh_hant": "過了一會兒，一個穿晚禮服的年輕人過來，坐在王子旁邊的座位上。"
+  },
+  {
+    "index": 55,
+    "text": "For half an hour he sat there nervously.",
+    "start": 259.02,
+    "end": 262.081,
+    "zh": "他在那里紧张地坐了半个小时。",
+    "zh_hant": "他在那裡緊張地坐了半個小時。"
+  },
+  {
+    "index": 56,
+    "text": "Then he began to watch the face of the lighted clock above the trees.",
+    "start": 262.982,
+    "end": 268.525,
+    "zh": "然后他开始注视树梢上方那盏明亮的钟面。",
+    "zh_hant": "然後他開始注視樹梢上方那盞明亮的鐘面。"
+  },
+  {
+    "index": 57,
+    "text": "The Prince could see that the young man had a trouble.",
+    "start": 269.325,
+    "end": 272.867,
+    "zh": "王子看得出这个年轻人有心事。",
+    "zh_hant": "王子看得出這個年輕人有心事。"
+  },
+  {
+    "index": 58,
+    "text": "He could also see that somehow the clock was part of the trouble.",
+    "start": 273.147,
+    "end": 279.07,
+    "zh": "他也看得出，那口钟不知怎的正是烦恼的一部分。",
+    "zh_hant": "他也看得出，那口鐘不知怎的正是煩惱的一部分。"
+  },
+  {
+    "index": 59,
+    "text": "The Prince rose and went to the young man’s seat.",
+    "start": 280.051,
+    "end": 283.932,
+    "zh": "王子起身走到年轻人的座位旁。",
+    "zh_hant": "王子起身走到年輕人的座位旁。"
+  },
+  {
+    "index": 60,
+    "text": "“I am a stranger, and I shouldn’t speak to you,” he said.",
+    "start": 284.813,
+    "end": 288.895,
+    "zh": "“我是个陌生人，本不该跟你说话，”他说。",
+    "zh_hant": "“我是個陌生人，本不該跟你說話，”他說。"
+  },
+  {
+    "index": 61,
+    "text": "“But I can see that you are troubled.",
+    "start": 289.195,
+    "end": 292.136,
+    "zh": "“但我看得出你有心事。",
+    "zh_hant": "“但我看得出你有心事。"
+  },
+  {
+    "index": 62,
+    "text": "I am Prince Michael of Valleluna.",
+    "start": 292.997,
+    "end": 295.538,
+    "zh": "我是瓦莱卢纳的迈克尔王子。",
+    "zh_hant": "我是瓦萊盧納的邁克爾王子。"
+  },
+  {
+    "index": 63,
+    "text": "I do not want people to know who I am.",
+    "start": 296.238,
+    "end": 299.68,
+    "zh": "我不想让人知道我是谁。",
+    "zh_hant": "我不想讓人知道我是誰。"
+  },
+  {
+    "index": 64,
+    "text": "That is why I wear these torn clothes.",
+    "start": 300.32,
+    "end": 303.642,
+    "zh": "这就是我穿这身破衣服的原因。",
+    "zh_hant": "這就是我穿這身破衣服的原因。"
+  },
+  {
+    "index": 65,
+    "text": "It is a small pleasure of mine to help those who need help.",
+    "start": 304.342,
+    "end": 308.824,
+    "zh": "帮助需要帮助的人，是我的一点小乐趣。",
+    "zh_hant": "幫助需要幫助的人，是我的一點小樂趣。"
+  },
+  {
+    "index": 66,
+    "text": "First I must feel sure they are worth helping.",
+    "start": 309.165,
+    "end": 312.746,
+    "zh": "首先我必须确信他们值得帮助。",
+    "zh_hant": "首先我必須確信他們值得幫助。"
+  },
+  {
+    "index": 67,
+    "text": "I think you are.",
+    "start": 313.187,
+    "end": 314.647,
+    "zh": "我认为你值得。",
+    "zh_hant": "我認為你值得。"
+  },
+  {
+    "index": 68,
+    "text": "And perhaps your trouble may be ended if you and I together decide what to do about it.”",
+    "start": 315.488,
+    "end": 322.331,
+    "zh": "也许你和我一起商量该怎么办，你的烦恼就能了结。”",
+    "zh_hant": "也許你和我一起商量該怎麼辦，你的煩惱就能了結。”"
+  },
+  {
+    "index": 69,
+    "text": "The young man looked up brightly at the Prince.",
+    "start": 322.872,
+    "end": 325.773,
+    "zh": "年轻人高兴地抬头看着王子。",
+    "zh_hant": "年輕人高興地抬頭看著王子。"
+  },
+  {
+    "index": 70,
+    "text": "Brightly, but he was still troubled.",
+    "start": 325.893,
+    "end": 329.875,
+    "zh": "虽然高兴，但他仍心事重重。",
+    "zh_hant": "雖然高興，但他仍心事重重。"
+  },
+  {
+    "index": 71,
+    "text": "He laughed, then, but still the look of trouble remained.",
+    "start": 330.176,
+    "end": 334.958,
+    "zh": "他笑了，但烦恼的神情依旧。",
+    "zh_hant": "他笑了，但煩惱的神情依舊。"
+  },
+  {
+    "index": 72,
+    "text": "But he accepted this chance to talk to someone.",
+    "start": 335.278,
+    "end": 339.14,
+    "zh": "不过他接受了这个与人交谈的机会。",
+    "zh_hant": "不過他接受了這個與人交談的機會。"
+  },
+  {
+    "index": 73,
+    "text": "“I’m glad to meet you, Prince,” he said pleasantly.",
+    "start": 339.38,
+    "end": 343.042,
+    "zh": "“很高兴见到您，王子，”他愉快地说。",
+    "zh_hant": "“很高興見到您，王子，”他愉快地說。"
+  },
+  {
+    "index": 74,
+    "text": "“Yes, I can see you don’t want to be known.",
+    "start": 343.262,
+    "end": 345.843,
+    "zh": "“是的，我看得出您不想被人认出。",
+    "zh_hant": "“是的，我看得出您不想被人認出。"
+  },
+  {
+    "index": 75,
+    "text": "That’s easy to see.",
+    "start": 345.763,
+    "end": 347.384,
+    "zh": "这很明显。",
+    "zh_hant": "這很明顯。"
+  },
+  {
+    "index": 76,
+    "text": "Thanks for your offer to help.",
+    "start": 347.764,
+    "end": 349.545,
+    "zh": "谢谢您愿意帮忙。",
+    "zh_hant": "謝謝您願意幫忙。"
+  },
+  {
+    "index": 77,
+    "text": "But I don’t see what you can do.",
+    "start": 349.195,
+    "end": 352.506,
+    "zh": "但我看不出您能做什么。",
+    "zh_hant": "但我看不出您能做什麼。"
+  },
+  {
+    "index": 78,
+    "text": "It’s my own problem.",
+    "start": 353.067,
+    "end": 354.647,
+    "zh": "这是我自己的问题。",
+    "zh_hant": "這是我自己的問題。"
+  },
+  {
+    "index": 79,
+    "text": "But thanks.”",
+    "start": 354.527,
+    "end": 355.608,
+    "zh": "但还是谢谢您。”",
+    "zh_hant": "但還是謝謝您。”"
+  },
+  {
+    "index": 80,
+    "text": "Prince Michael sat down at the young man’s side.",
+    "start": 356.408,
+    "end": 360.07,
+    "zh": "迈克尔王子在年轻人身边坐下。",
+    "zh_hant": "邁克爾王子在年輕人身邊坐下。"
+  },
+  {
+    "index": 81,
+    "text": "People often said no to him, but they always said it pleasantly.",
+    "start": 360.151,
+    "end": 365.393,
+    "zh": "人们常常拒绝他，但总是拒绝得很客气。",
+    "zh_hant": "人們常常拒絕他，但總是拒絕得很客氣。"
+  },
+  {
+    "index": 82,
+    "text": "“Clocks,” said the Prince, “are tied to the feet of all men and women.",
+    "start": 365.873,
+    "end": 371.896,
+    "zh": "“时钟，”王子说，“绑在所有男女的脚上。",
+    "zh_hant": "“時鐘，”王子說，“綁在所有男女的腳上。"
+  },
+  {
+    "index": 83,
+    "text": "I have seen you watching that clock.",
+    "start": 372.437,
+    "end": 375.038,
+    "zh": "我看见你一直在看那口钟。",
+    "zh_hant": "我看見你一直在看那口鐘。"
+  },
+  {
+    "index": 84,
+    "text": "That face commands us to act, whether or not we wish to act.",
+    "start": 375.318,
+    "end": 380.561,
+    "zh": "那张脸命令我们行动，不管我们愿不愿意。",
+    "zh_hant": "那張臉命令我們行動，不管我們願不願意。"
+  },
+  {
+    "index": 85,
+    "text": "Let me tell you not to trust the numbers on that face.",
+    "start": 381.001,
+    "end": 385.263,
+    "zh": "让我告诉你，别相信那张脸上的数字。",
+    "zh_hant": "讓我告訴你，別相信那張臉上的數字。"
+  },
+  {
+    "index": 86,
+    "text": "They will destroy you if they can.",
+    "start": 385.603,
+    "end": 388.164,
+    "zh": "只要它们能，就会毁了你。",
+    "zh_hant": "只要它們能，就會毀了你。"
+  },
+  {
+    "index": 87,
+    "text": "Stop looking at that clock.",
+    "start": 388.525,
+    "end": 390.485,
+    "zh": "别再盯着那口钟了。",
+    "zh_hant": "別再盯著那口鐘了。"
+  },
+  {
+    "index": 88,
+    "text": "What does it know about living men and women?”",
+    "start": 390.626,
+    "end": 393.647,
+    "zh": "它对活生生的男女又了解什么呢？”",
+    "zh_hant": "它對活生生的男女又瞭解什麼呢？”"
+  },
+  {
+    "index": 89,
+    "text": "“I usually don’t look at that clock,” said the young man.",
+    "start": 394.488,
+    "end": 397.609,
+    "zh": "“我平时不看那口钟，”年轻人说。",
+    "zh_hant": "“我平時不看那口鐘，”年輕人說。"
+  },
+  {
+    "index": 90,
+    "text": "“I carry a watch, except when I wear evening clothes.”",
+    "start": 397.909,
+    "end": 402.752,
+    "zh": "“我带着怀表，只是穿晚礼服的时候不带。”",
+    "zh_hant": "“我帶著懷錶，只是穿晚禮服的時候不帶。”"
+  },
+  {
+    "index": 91,
+    "text": "“I know men and women as I know the trees and the flowers,” said the Prince, warmly and proudly.",
+    "start": 403.593,
+    "end": 410.476,
+    "zh": "“我了解男女，就像我了解树木和花草一样，”王子热情而自豪地说。",
+    "zh_hant": "“我瞭解男女，就像我瞭解樹木和花草一樣，”王子熱情而自豪地說。"
+  },
+  {
+    "index": 92,
+    "text": "“I have studied many years.",
+    "start": 411.276,
+    "end": 413.657,
+    "zh": "“我研究了很多年。",
+    "zh_hant": "“我研究了很多年。"
+  },
+  {
+    "index": 93,
+    "text": "And I am very rich.",
+    "start": 413.878,
+    "end": 415.558,
+    "zh": "而且我非常富有。",
+    "zh_hant": "而且我非常富有。"
+  },
+  {
+    "index": 94,
+    "text": "There are few troubles that I cannot help.",
+    "start": 416.119,
+    "end": 419.04,
+    "zh": "没有多少烦恼是我帮不上忙的。",
+    "zh_hant": "沒有多少煩惱是我幫不上忙的。"
+  },
+  {
+    "index": 95,
+    "text": "I have read what is in your face.",
+    "start": 419.6,
+    "end": 421.821,
+    "zh": "我已经从你脸上读出了你的心事。",
+    "zh_hant": "我已經從你臉上讀出了你的心事。"
+  },
+  {
+    "index": 96,
+    "text": "I have found honor and goodness there, and trouble.",
+    "start": 422.182,
+    "end": 426.203,
+    "zh": "我在那里看到了荣誉和善良，还有烦恼。",
+    "zh_hant": "我在那裡看到了榮譽和善良，還有煩惱。"
+  },
+  {
+    "index": 97,
+    "text": "Please accept my help.",
+    "start": 426.844,
+    "end": 428.665,
+    "zh": "请接受我的帮助。",
+    "zh_hant": "請接受我的幫助。"
+  },
+  {
+    "index": 98,
+    "text": "I can see that you are wise.",
+    "start": 429.205,
+    "end": 431.666,
+    "zh": "我看得出你很聪明。",
+    "zh_hant": "我看得出你很聰明。"
+  },
+  {
+    "index": 99,
+    "text": "Show how wise you are.",
+    "start": 431.846,
+    "end": 433.907,
+    "zh": "拿出你的聪明来吧。",
+    "zh_hant": "拿出你的聰明來吧。"
+  },
+  {
+    "index": 100,
+    "text": "Do not judge me by my torn clothes.",
+    "start": 433.557,
+    "end": 436.628,
+    "zh": "别凭我这身破衣服来评判我。",
+    "zh_hant": "別憑我這身破衣服來評判我。"
+  },
+  {
+    "index": 101,
+    "text": "I am sure I can help you.”",
+    "start": 437.209,
+    "end": 439.49,
+    "zh": "我相信我能帮你。”",
+    "zh_hant": "我相信我能幫你。”"
+  },
+  {
+    "index": 102,
+    "text": "The young man looked at the clock again, and his face grew darker.",
+    "start": 440.231,
+    "end": 446.353,
+    "zh": "年轻人又看了看钟，脸色变得更加阴沉。",
+    "zh_hant": "年輕人又看了看鐘，臉色變得更加陰沉。"
+  },
+  {
+    "index": 103,
+    "text": "Then he looked at a house beside the park.",
+    "start": 447.214,
+    "end": 450.335,
+    "zh": "然后他望向公园旁的一栋房子。",
+    "zh_hant": "然後他望向公園旁的一棟房子。"
+  },
+  {
+    "index": 104,
+    "text": "Lights could be seen in many rooms.",
+    "start": 450.776,
+    "end": 453.657,
+    "zh": "许多房间里都亮着灯。",
+    "zh_hant": "許多房間裡都亮著燈。"
+  },
+  {
+    "index": 105,
+    "text": "“Ten minutes before nine!”",
+    "start": 456.158,
+    "end": 460.38,
+    "zh": "“差十分钟九点！”",
+    "zh_hant": "“差十分鐘九點！”"
+  },
+  {
+    "index": 106,
+    "text": "said the young man.",
+    "start": 460.861,
+    "end": 462.261,
+    "zh": "年轻人说。",
+    "zh_hant": "年輕人說。"
+  },
+  {
+    "index": 107,
+    "text": "He raised his hands and then let them fall, as if hope had gone.",
+    "start": 463.002,
+    "end": 467.284,
+    "zh": "他举起双手，又垂了下来，仿佛希望已经破灭。",
+    "zh_hant": "他舉起雙手，又垂了下來，彷彿希望已經破滅。"
+  },
+  {
+    "index": 108,
+    "text": "He stood up and took a quick step or two away.",
+    "start": 467.804,
+    "end": 471.506,
+    "zh": "他站起身，快步走开了一两步。",
+    "zh_hant": "他站起身，快步走開了一兩步。"
+  },
+  {
+    "index": 109,
+    "text": "“Remain!”",
+    "start": 472.706,
+    "end": 473.807,
+    "zh": "“站住！”",
+    "zh_hant": "“站住！”"
+  },
+  {
+    "index": 110,
+    "text": "commanded Prince Michael.",
+    "start": 473.727,
+    "end": 475.648,
+    "zh": "迈克尔王子命令道。",
+    "zh_hant": "邁克爾王子命令道。"
+  },
+  {
+    "index": 111,
+    "text": "His voice was so powerful that the young man turned quickly.",
+    "start": 475.928,
+    "end": 481.091,
+    "zh": "他的声音如此有力，年轻人立刻转过身来。",
+    "zh_hant": "他的聲音如此有力，年輕人立刻轉過身來。"
+  },
+  {
+    "index": 112,
+    "text": "He laughed a little.",
+    "start": 481.771,
+    "end": 483.232,
+    "zh": "他轻轻笑了笑。",
+    "zh_hant": "他輕輕笑了笑。"
+  },
+  {
+    "index": 113,
+    "text": "“I’ll wait ten minutes and then I’ll go,” he said in a low voice, as if only to himself.",
+    "start": 483.972,
+    "end": 490.755,
+    "zh": "“我等十分钟，然后就走，”他低声说，仿佛只是在自言自语。",
+    "zh_hant": "“我等十分鐘，然後就走，”他低聲說，彷彿只是在自言自語。"
+  },
+  {
+    "index": 114,
+    "text": "Then to the Prince he said, “I’ll join you.",
+    "start": 490.936,
+    "end": 494.177,
+    "zh": "然后他对王子说：“我加入你。",
+    "zh_hant": "然後他對王子說：“我加入你。"
+  },
+  {
+    "index": 115,
+    "text": "We’ll destroy all the clocks.",
+    "start": 494.838,
+    "end": 496.898,
+    "zh": "我们要毁掉所有的钟。",
+    "zh_hant": "我們要毀掉所有的鐘。"
+  },
+  {
+    "index": 116,
+    "text": "And women, too.”",
+    "start": 496.959,
+    "end": 498.239,
+    "zh": "还有女人。”",
+    "zh_hant": "還有女人。”"
+  },
+  {
+    "index": 117,
+    "text": "“Sit down,” said the Prince softly.",
+    "start": 498.72,
+    "end": 501.781,
+    "zh": "“坐下吧，”王子轻声说。",
+    "zh_hant": "“坐下吧，”王子輕聲說。"
+  },
+  {
+    "index": 118,
+    "text": "“I do not accept that.",
+    "start": 502.521,
+    "end": 504.242,
+    "zh": "“我不赞成这一点。",
+    "zh_hant": "“我不贊成這一點。"
+  },
+  {
+    "index": 119,
+    "text": "I do not include women.",
+    "start": 504.743,
+    "end": 506.583,
+    "zh": "我不把女人算在内。",
+    "zh_hant": "我不把女人算在內。"
+  },
+  {
+    "index": 120,
+    "text": "Women are enemies of clocks.",
+    "start": 506.343,
+    "end": 508.844,
+    "zh": "女人是时钟的敌人。",
+    "zh_hant": "女人是時鐘的敵人。"
+  },
+  {
+    "index": 121,
+    "text": "They are born that way.",
+    "start": 509.125,
+    "end": 510.785,
+    "zh": "她们天生如此。",
+    "zh_hant": "她們天生如此。"
+  },
+  {
+    "index": 122,
+    "text": "Therefore they are friends of those who wish to destroy clocks.",
+    "start": 510.435,
+    "end": 514.487,
+    "zh": "因此她们是想毁掉时钟之人的朋友。",
+    "zh_hant": "因此她們是想毀掉時鐘之人的朋友。"
+  },
+  {
+    "index": 123,
+    "text": "If you can trust me, tell me your story.”",
+    "start": 514.968,
+    "end": 518.249,
+    "zh": "如果你能信任我，就讲讲你的故事吧。”",
+    "zh_hant": "如果你能信任我，就講講你的故事吧。”"
+  },
+  {
+    "index": 124,
+    "text": "The young man sat down again and laughed loudly.",
+    "start": 518.689,
+    "end": 522.251,
+    "zh": "年轻人又坐下来，放声大笑。",
+    "zh_hant": "年輕人又坐下來，放聲大笑。"
+  },
+  {
+    "index": 125,
+    "text": "“Prince, I will,” he said.",
+    "start": 525.592,
+    "end": 527.552,
+    "zh": "“王子，我会讲的，”他说。",
+    "zh_hant": "“王子，我會講的，”他說。"
+  },
+  {
+    "index": 126,
+    "text": "He did not believe that Prince Michael was really a prince.",
+    "start": 527.652,
+    "end": 531.313,
+    "zh": "他并不相信迈克尔王子真是位王子。",
+    "zh_hant": "他並不相信邁克爾王子真是位王子。"
+  },
+  {
+    "index": 127,
+    "text": "His manner of speaking proved that.",
+    "start": 531.613,
+    "end": 534.154,
+    "zh": "他说话的态度就证明了这一点。",
+    "zh_hant": "他說話的態度就證明了這一點。"
+  },
+  {
+    "index": 128,
+    "text": "“Do you see that house, Prince?",
+    "start": 534.794,
+    "end": 537.134,
+    "zh": "“您看见那栋房子了吗，王子？",
+    "zh_hant": "“您看見那棟房子了嗎，王子？"
+  },
+  {
+    "index": 129,
+    "text": "That house with lights in three windows on the third floor?",
+    "start": 537.635,
+    "end": 541.395,
+    "zh": "就是三楼三扇窗户亮着灯的那栋？",
+    "zh_hant": "就是三樓三扇窗戶亮著燈的那棟？"
+  },
+  {
+    "index": 130,
+    "text": "At six tonight I was in that house with the young lady I am going to—was going to marry.",
+    "start": 541.956,
+    "end": 549.217,
+    "zh": "今晚六点，我在那栋房子里，和我将要——本来要娶的那位小姐在一起。",
+    "zh_hant": "今晚六點，我在那棟房子裡，和我將要——本來要娶的那位小姐在一起。"
+  },
+  {
+    "index": 131,
+    "text": "I’d been doing wrong, my dear Prince, and she heard about it.",
+    "start": 550.718,
+    "end": 555.039,
+    "zh": "我做了错事，亲爱的王子，她听说了。",
+    "zh_hant": "我做了錯事，親愛的王子，她聽說了。"
+  },
+  {
+    "index": 132,
+    "text": "I was sorry.",
+    "start": 555.819,
+    "end": 556.999,
+    "zh": "我很后悔。",
+    "zh_hant": "我很後悔。"
+  },
+  {
+    "index": 133,
+    "text": "I wanted her to forget it.",
+    "start": 557.419,
+    "end": 559.1,
+    "zh": "我想让她忘掉这件事。",
+    "zh_hant": "我想讓她忘掉這件事。"
+  },
+  {
+    "index": 134,
+    "text": "We are always asking women to forget things like that, aren’t we, Prince?",
+    "start": 559.42,
+    "end": 562.88,
+    "zh": "我们总是请求女人忘掉这种事，对吧，王子？",
+    "zh_hant": "我們總是請求女人忘掉這種事，對吧，王子？"
+  },
+  {
+    "index": 135,
+    "text": "“ ‘I want time to think,’ she said.",
+    "start": 562.48,
+    "end": 565.942,
+    "zh": "“‘我需要时间想想，’她说。",
+    "zh_hant": "“‘我需要時間想想，’她說。"
+  },
+  {
+    "index": 136,
+    "text": "‘I will either forget it forever, or never see your face again.",
+    "start": 566.542,
+    "end": 571.243,
+    "zh": "‘我要么永远忘掉这件事，要么再也不见你。",
+    "zh_hant": "‘我要麼永遠忘掉這件事，要麼再也不見你。"
+  },
+  {
+    "index": 137,
+    "text": "At half-past eight,’ she said, ‘watch the middle window on the third floor of this house.",
+    "start": 571.883,
+    "end": 577.665,
+    "zh": "八点半，’她说，‘看这栋房子三楼中间那扇窗户。",
+    "zh_hant": "八點半，’她說，‘看這棟房子三樓中間那扇窗戶。"
+  },
+  {
+    "index": 138,
+    "text": "If I decide to forget, I will hang out a long white cloth.",
+    "start": 578.065,
+    "end": 583.186,
+    "zh": "如果我决定忘掉，我就挂出一块长长的白布。",
+    "zh_hant": "如果我決定忘掉，我就掛出一塊長長的白布。"
+  },
+  {
+    "index": 139,
+    "text": "You will know then that everything is as it was before.",
+    "start": 583.526,
+    "end": 587.947,
+    "zh": "到时你就知道一切还和从前一样。",
+    "zh_hant": "到時你就知道一切還和從前一樣。"
+  },
+  {
+    "index": 140,
+    "text": "And you may come to me.",
+    "start": 588.308,
+    "end": 589.908,
+    "zh": "你就可以来找我。",
+    "zh_hant": "你就可以來找我。"
+  },
+  {
+    "index": 141,
+    "text": "If you see nothing hanging from the window,",
+    "start": 590.628,
+    "end": 593.149,
+    "zh": "如果你看到窗上什么都没挂，",
+    "zh_hant": "如果你看到窗上什麼都沒掛，"
+  },
+  {
+    "index": 142,
+    "text": "you will know that everything between us is finished forever.’",
+    "start": 593.409,
+    "end": 598.55,
+    "zh": "你就知道我们之间一切都永远结束了。’",
+    "zh_hant": "你就知道我們之間一切都永遠結束了。’"
+  },
+  {
+    "index": 143,
+    "text": "“That,” said the young man, “is why I have been watching that clock.",
+    "start": 598.83,
+    "end": 604.093,
+    "zh": "“这就是，”年轻人说，“我一直盯着那口钟的原因。",
+    "zh_hant": "“這就是，”年輕人說，“我一直盯著那口鐘的原因。"
+  },
+  {
+    "index": 144,
+    "text": "The time was passed twenty-three minutes ago.",
+    "start": 604.373,
+    "end": 606.914,
+    "zh": "时间已经过了二十三分钟。",
+    "zh_hant": "時間已經過了二十三分鐘。"
+  },
+  {
+    "index": 145,
+    "text": "Do you see why I am a little troubled, my torn Prince?”",
+    "start": 607.114,
+    "end": 610.896,
+    "zh": "您明白我为什么有点心烦了吧，我衣衫褴褛的王子？”",
+    "zh_hant": "您明白我為什麼有點心煩了吧，我衣衫襤褸的王子？”"
+  },
+  {
+    "index": 146,
+    "text": "“Let me tell you again,” said Prince Michael in his soft voice,",
+    "start": 611.777,
+    "end": 617.139,
+    "zh": "“让我再告诉你一遍，”迈克尔王子用他那柔和的声音说，",
+    "zh_hant": "“讓我再告訴你一遍，”邁克爾王子用他那柔和的聲音說，"
+  },
+  {
+    "index": 147,
+    "text": "“that women are the born enemies of clocks.",
+    "start": 617.159,
+    "end": 621.141,
+    "zh": "“女人是天生的时钟之敌。",
+    "zh_hant": "“女人是天生的時鐘之敵。"
+  },
+  {
+    "index": 148,
+    "text": "Clocks are bad, women are good.",
+    "start": 621.641,
+    "end": 625.603,
+    "zh": "时钟是坏的，女人是好的。",
+    "zh_hant": "時鐘是壞的，女人是好的。"
+  },
+  {
+    "index": 149,
+    "text": "The white cloth may yet appear.”",
+    "start": 626.064,
+    "end": 628.464,
+    "zh": "那块白布也许还会出现。”",
+    "zh_hant": "那塊白布也許還會出現。”"
+  },
+  {
+    "index": 150,
+    "text": "“Never!”",
+    "start": 629.565,
+    "end": 630.465,
+    "zh": "“绝不会！”",
+    "zh_hant": "“絕不會！”"
+  },
+  {
+    "index": 151,
+    "text": "said the young man, hopelessly.",
+    "start": 630.566,
+    "end": 632.546,
+    "zh": "年轻人绝望地说。",
+    "zh_hant": "年輕人絕望地說。"
+  },
+  {
+    "index": 152,
+    "text": "“You don’t know Marian.",
+    "start": 632.927,
+    "end": 634.427,
+    "zh": "“您不了解玛丽安。",
+    "zh_hant": "“您不瞭解瑪麗安。"
+  },
+  {
+    "index": 153,
+    "text": "She is always on time, to the minute.",
+    "start": 634.968,
+    "end": 638.789,
+    "zh": "她总是准时，一分不差。",
+    "zh_hant": "她總是準時，一分不差。"
+  },
+  {
+    "index": 154,
+    "text": "That was the first thing I liked about her.",
+    "start": 638.439,
+    "end": 640.491,
+    "zh": "这是我最初喜欢她的地方。",
+    "zh_hant": "這是我最初喜歡她的地方。"
+  },
+  {
+    "index": 155,
+    "text": "At 8:31, I should have known that everything was finished.",
+    "start": 640.791,
+    "end": 645.273,
+    "zh": "八点三十一分的时候，我就该知道一切都完了。",
+    "zh_hant": "八點三十一分的時候，我就該知道一切都完了。"
+  },
+  {
+    "index": 156,
+    "text": "I’m going to go West.",
+    "start": 646.214,
+    "end": 647.634,
+    "zh": "我要去西部。",
+    "zh_hant": "我要去西部。"
+  },
+  {
+    "index": 157,
+    "text": "I’ll get on the train tonight.",
+    "start": 647.635,
+    "end": 649.355,
+    "zh": "我今晚就上火车。",
+    "zh_hant": "我今晚就上火車。"
+  },
+  {
+    "index": 158,
+    "text": "I’ll find some way to forget her.",
+    "start": 649.776,
+    "end": 651.796,
+    "zh": "我会想办法忘掉她。",
+    "zh_hant": "我會想辦法忘掉她。"
+  },
+  {
+    "index": 159,
+    "text": "Good night—Prince.”",
+    "start": 652.577,
+    "end": 654.958,
+    "zh": "晚安——王子。”",
+    "zh_hant": "晚安——王子。”"
+  },
+  {
+    "index": 160,
+    "text": "Prince Michael smiled his gentle, understanding smile.",
+    "start": 655.619,
+    "end": 660.0,
+    "zh": "迈克尔王子露出温和、善解人意的微笑。",
+    "zh_hant": "邁克爾王子露出溫和、善解人意的微笑。"
+  },
+  {
+    "index": 161,
+    "text": "He caught the other’s arm.",
+    "start": 660.701,
+    "end": 662.442,
+    "zh": "他抓住了对方的胳膊。",
+    "zh_hant": "他抓住了對方的胳膊。"
+  },
+  {
+    "index": 162,
+    "text": "The bright light in the Prince’s eyes was softening.",
+    "start": 662.902,
+    "end": 666.644,
+    "zh": "王子眼中明亮的光芒变得柔和。",
+    "zh_hant": "王子眼中明亮的光芒變得柔和。"
+  },
+  {
+    "index": 163,
+    "text": "It was dream-like, clouded.",
+    "start": 667.464,
+    "end": 670.746,
+    "zh": "如梦一般，朦胧起来。",
+    "zh_hant": "如夢一般，朦朧起來。"
+  },
+  {
+    "index": 164,
+    "text": "“Wait,” he said, “till the clock tells the hour.",
+    "start": 671.266,
+    "end": 675.188,
+    "zh": "“等等，”他说，“等到钟报时。",
+    "zh_hant": "“等等，”他說，“等到鍾報時。"
+  },
+  {
+    "index": 165,
+    "text": "I have riches and power and I am wiser than most men.",
+    "start": 675.528,
+    "end": 678.91,
+    "zh": "我有财富和权力，也比大多数人更聪明。",
+    "zh_hant": "我有財富和權力，也比大多數人更聰明。"
+  },
+  {
+    "index": 166,
+    "text": "But when I hear the clock tell the hour, I am afraid.",
+    "start": 679.311,
+    "end": 682.812,
+    "zh": "但当我听到钟声报时，我就害怕。",
+    "zh_hant": "但當我聽到鐘聲報時，我就害怕。"
+  },
+  {
+    "index": 167,
+    "text": "Stay with me till then.",
+    "start": 683.493,
+    "end": 685.173,
+    "zh": "陪我等到那时吧。",
+    "zh_hant": "陪我等到那時吧。"
+  },
+  {
+    "index": 168,
+    "text": "This woman shall be yours.",
+    "start": 685.814,
+    "end": 688.095,
+    "zh": "这个女人会是你的。",
+    "zh_hant": "這個女人會是你的。"
+  },
+  {
+    "index": 169,
+    "text": "You have the promise of the Prince of Valleluna.",
+    "start": 688.215,
+    "end": 691.476,
+    "zh": "这是瓦莱卢纳王子的承诺。",
+    "zh_hant": "這是瓦萊盧納王子的承諾。"
+  },
+  {
+    "index": 170,
+    "text": "On the day you are married I will give you $100,000 and a great house beside the Hudson River.",
+    "start": 691.757,
+    "end": 698.82,
+    "zh": "你结婚那天，我会给你十万美元，还有哈德逊河畔的一栋大房子。",
+    "zh_hant": "你結婚那天，我會給你十萬美元，還有哈德遜河畔的一棟大房子。"
+  },
+  {
+    "index": 171,
+    "text": "But there must be no clocks in that house.",
+    "start": 699.32,
+    "end": 702.202,
+    "zh": "但那栋房子里不能有时钟。",
+    "zh_hant": "但那棟房子裡不能有時鐘。"
+  },
+  {
+    "index": 172,
+    "text": "Do you agree to that?”",
+    "start": 702.542,
+    "end": 704.143,
+    "zh": "你同意吗？”",
+    "zh_hant": "你同意嗎？”"
+  },
+  {
+    "index": 173,
+    "text": "“Sure,” said the young man.",
+    "start": 704.543,
+    "end": 706.764,
+    "zh": "“当然，”年轻人说。",
+    "zh_hant": "“當然，”年輕人說。"
+  },
+  {
+    "index": 174,
+    "text": "“I don’t like clocks.”",
+    "start": 707.064,
+    "end": 708.605,
+    "zh": "“我不喜欢时钟。”",
+    "zh_hant": "“我不喜歡時鐘。”"
+  },
+  {
+    "index": 175,
+    "text": "He looked again at the clock above the trees.",
+    "start": 708.885,
+    "end": 711.806,
+    "zh": "他又看了看树梢上方的那口钟。",
+    "zh_hant": "他又看了看樹梢上方的那口鐘。"
+  },
+  {
+    "index": 176,
+    "text": "It was three minutes before nine.",
+    "start": 712.467,
+    "end": 715.568,
+    "zh": "差三分钟九点。",
+    "zh_hant": "差三分鐘九點。"
+  },
+  {
+    "index": 177,
+    "text": "“I think,” said Prince Michael, “that I will sleep a little.",
+    "start": 716.449,
+    "end": 720.851,
+    "zh": "“我想，”迈克尔王子说，“我要睡一会儿。",
+    "zh_hant": "“我想，”邁克爾王子說，“我要睡一會兒。"
+  },
+  {
+    "index": 178,
+    "text": "It has been a long day.”",
+    "start": 721.492,
+    "end": 725.213,
+    "zh": "今天真是漫长的一天。”",
+    "zh_hant": "今天真是漫長的一天。”"
+  },
+  {
+    "index": 179,
+    "text": "He lay down on the seat, as if he had often done it before.",
+    "start": 726.154,
+    "end": 731.136,
+    "zh": "他在座位上躺下，仿佛以前常这么做。",
+    "zh_hant": "他在座位上躺下，彷彿以前常這麼做。"
+  },
+  {
+    "index": 180,
+    "text": "“You’ll find me on this park on any evening when the weather is good,” said the Prince.",
+    "start": 731.477,
+    "end": 737.9,
+    "zh": "“天气好的傍晚，你都能在这个公园找到我，”王子说。",
+    "zh_hant": "“天氣好的傍晚，你都能在這個公園找到我，”王子說。"
+  },
+  {
+    "index": 181,
+    "text": "“Come to me when you know the day you’ll be married.",
+    "start": 738.58,
+    "end": 741.701,
+    "zh": "等你定下婚期，就来找我。",
+    "zh_hant": "等你定下婚期，就來找我。"
+  },
+  {
+    "index": 182,
+    "text": "I’ll give you the money.”",
+    "start": 742.282,
+    "end": 743.682,
+    "zh": "我会给你钱。”",
+    "zh_hant": "我會給你錢。”"
+  },
+  {
+    "index": 183,
+    "text": "“Thanks, Prince,” said the young man.",
+    "start": 744.043,
+    "end": 746.804,
+    "zh": "“谢谢，王子，”年轻人说。",
+    "zh_hant": "“謝謝，王子，”年輕人說。"
+  },
+  {
+    "index": 184,
+    "text": "“That day isn’t going to come.",
+    "start": 747.044,
+    "end": 748.985,
+    "zh": "“那一天不会来的。",
+    "zh_hant": "“那一天不會來的。"
+  },
+  {
+    "index": 185,
+    "text": "But thanks.”",
+    "start": 749.225,
+    "end": 750.386,
+    "zh": "但还是谢谢您。”",
+    "zh_hant": "但還是謝謝您。”"
+  },
+  {
+    "index": 186,
+    "text": "Prince Michael fell into a deep sleep.",
+    "start": 751.326,
+    "end": 754.948,
+    "zh": "迈克尔王子沉沉睡去。",
+    "zh_hant": "邁克爾王子沉沉睡去。"
+  },
+  {
+    "index": 187,
+    "text": "His hat rolled on the ground.",
+    "start": 755.528,
+    "end": 757.809,
+    "zh": "他的帽子滚落到地上。",
+    "zh_hant": "他的帽子滾落到地上。"
+  },
+  {
+    "index": 188,
+    "text": "The young man lifted it, placed it over the Prince’s face,",
+    "start": 758.35,
+    "end": 762.812,
+    "zh": "年轻人把帽子捡起来，盖在王子脸上，",
+    "zh_hant": "年輕人把帽子撿起來，蓋在王子臉上，"
+  },
+  {
+    "index": 189,
+    "text": "and moved one of the Prince’s legs into an easier position.",
+    "start": 763.093,
+    "end": 767.074,
+    "zh": "又把王子的一条腿挪到更舒服的位置。",
+    "zh_hant": "又把王子的一條腿挪到更舒服的位置。"
+  },
+  {
+    "index": 190,
+    "text": "“Poor fellow!”",
+    "start": 767.875,
+    "end": 768.955,
+    "zh": "“可怜的人！”",
+    "zh_hant": "“可憐的人！”"
+  },
+  {
+    "index": 191,
+    "text": "he said.",
+    "start": 769.056,
+    "end": 769.996,
+    "zh": "他说。",
+    "zh_hant": "他說。"
+  },
+  {
+    "index": 192,
+    "text": "He pulled the torn coat together over the Prince’s body.",
+    "start": 770.856,
+    "end": 774.438,
+    "zh": "他把破外套拉拢，盖在王子身上。",
+    "zh_hant": "他把破外套拉攏，蓋在王子身上。"
+  },
+  {
+    "index": 193,
+    "text": "It was nine.",
+    "start": 775.259,
+    "end": 776.699,
+    "zh": "九点了。",
+    "zh_hant": "九點了。"
+  },
+  {
+    "index": 194,
+    "text": "Loud and surprising came the voice of the clock, telling the hour.",
+    "start": 777.5,
+    "end": 782.462,
+    "zh": "洪亮而惊人的钟声响起，报告时辰。",
+    "zh_hant": "洪亮而驚人的鐘聲響起，報告時辰。"
+  },
+  {
+    "index": 195,
+    "text": "The young man took a deep breath, and turned for one more look at the house.",
+    "start": 783.223,
+    "end": 789.966,
+    "zh": "年轻人深吸一口气，转身又看了一眼那栋房子。",
+    "zh_hant": "年輕人深吸一口氣，轉身又看了一眼那棟房子。"
+  },
+  {
+    "index": 196,
+    "text": "And he gave a shout of joy.",
+    "start": 791.087,
+    "end": 794.068,
+    "zh": "他发出一声喜悦的呼喊。",
+    "zh_hant": "他發出一聲喜悅的呼喊。"
+  },
+  {
+    "index": 197,
+    "text": "From the middle window on the third floor, a snow-white wonderful cloth was hanging.",
+    "start": 794.628,
+    "end": 801.332,
+    "zh": "三楼中间的窗户上，挂着一块雪白美妙的布。",
+    "zh_hant": "三樓中間的窗戶上，掛著一塊雪白美妙的布。"
+  },
+  {
+    "index": 198,
+    "text": "Through the park a man came, hurrying home.",
+    "start": 801.932,
+    "end": 804.874,
+    "zh": "一个男人穿过公园，匆匆赶回家。",
+    "zh_hant": "一個男人穿過公園，匆匆趕回家。"
+  },
+  {
+    "index": 199,
+    "text": "“Will you tell me the time, please?”",
+    "start": 804.834,
+    "end": 807.155,
+    "zh": "“请问几点了？”",
+    "zh_hant": "“請問幾點了？”"
+  },
+  {
+    "index": 200,
+    "text": "asked the young man.",
+    "start": 806.935,
+    "end": 808.255,
+    "zh": "年轻人问道。",
+    "zh_hant": "年輕人問道。"
+  },
+  {
+    "index": 201,
+    "text": "The other man took out his watch.",
+    "start": 808.636,
+    "end": 810.716,
+    "zh": "那人掏出怀表。",
+    "zh_hant": "那人掏出懷錶。"
+  },
+  {
+    "index": 202,
+    "text": "“Twenty-nine and a half minutes after eight.”",
+    "start": 811.057,
+    "end": 814.018,
+    "zh": "“八点二十九分半。”",
+    "zh_hant": "“八點二十九分半。”"
+  },
+  {
+    "index": 203,
+    "text": "And then he looked up at the clock.",
+    "start": 814.158,
+    "end": 816.619,
+    "zh": "然后他抬头看了看那口钟。",
+    "zh_hant": "然後他抬頭看了看那口鐘。"
+  },
+  {
+    "index": 204,
+    "text": "“But that clock is wrong!”",
+    "start": 816.78,
+    "end": 818.64,
+    "zh": "“可那口钟错了！”",
+    "zh_hant": "“可那口鐘錯了！”"
+  },
+  {
+    "index": 205,
+    "text": "the man said.",
+    "start": 818.46,
+    "end": 819.621,
+    "zh": "那人说。",
+    "zh_hant": "那人說。"
+  },
+  {
+    "index": 206,
+    "text": "“The first time in ten years!",
+    "start": 819.821,
+    "end": 822.042,
+    "zh": "“十年来头一回！",
+    "zh_hant": "“十年來頭一回！"
+  },
+  {
+    "index": 207,
+    "text": "My watch is always—” But he was talking to no one.",
+    "start": 821.692,
+    "end": 825.123,
+    "zh": "我的表总是——”可他已经在跟空气说话了。",
+    "zh_hant": "我的表總是——”可他已經在跟空氣說話了。"
+  },
+  {
+    "index": 208,
+    "text": "He turned and saw the young man running toward the house with three lighted windows on the third floor.",
+    "start": 825.344,
+    "end": 831.046,
+    "zh": "他转过身，看见年轻人正朝那栋三楼有三扇亮窗的房子跑去。",
+    "zh_hant": "他轉過身，看見年輕人正朝那棟三樓有三扇亮窗的房子跑去。"
+  },
+  {
+    "index": 209,
+    "text": "And in the morning two cops walked through the park.",
+    "start": 831.907,
+    "end": 835.348,
+    "zh": "早晨，两个警察穿过公园。",
+    "zh_hant": "早晨，兩個警察穿過公園。"
+  },
+  {
+    "index": 210,
+    "text": "There was only one person to be seen—a man,",
+    "start": 835.889,
+    "end": 840.011,
+    "zh": "只看见一个人——一个男人，",
+    "zh_hant": "只看見一個人——一個男人，"
+  },
+  {
+    "index": 211,
+    "text": "asleep on a long park seat.",
+    "start": 839.992,
+    "end": 843.473,
+    "zh": "在一张长椅上睡着了。",
+    "zh_hant": "在一張長椅上睡著了。"
+  },
+  {
+    "index": 212,
+    "text": "They stopped to look at him.",
+    "start": 844.634,
+    "end": 846.355,
+    "zh": "他们停下来看他。",
+    "zh_hant": "他們停下來看他。"
+  },
+  {
+    "index": 213,
+    "text": "“It’s Michael the Dreamer,” said one.",
+    "start": 846.836,
+    "end": 849.417,
+    "zh": "“是做梦的迈克尔，”一个说。",
+    "zh_hant": "“是做夢的邁克爾，”一個說。"
+  },
+  {
+    "index": 214,
+    "text": "“He has been sleeping like this in the park for twenty years.",
+    "start": 849.437,
+    "end": 852.819,
+    "zh": "“他这样在公园里睡了二十年。",
+    "zh_hant": "“他這樣在公園裡睡了二十年。"
+  },
+  {
+    "index": 215,
+    "text": "He won’t live much longer, I guess.”",
+    "start": 853.239,
+    "end": 855.4,
+    "zh": "我猜他活不了多久了。”",
+    "zh_hant": "我猜他活不了多久了。”"
+  },
+  {
+    "index": 216,
+    "text": "The other cop looked at something in the sleeper’s hand.",
+    "start": 855.621,
+    "end": 858.982,
+    "zh": "另一个警察看着睡着的人手里的东西。",
+    "zh_hant": "另一個警察看著睡著的人手裡的東西。"
+  },
+  {
+    "index": 217,
+    "text": "“Look at this,” he said.",
+    "start": 859.043,
+    "end": 861.084,
+    "zh": "“看这个，”他说。",
+    "zh_hant": "“看這個，”他說。"
+  },
+  {
+    "index": 218,
+    "text": "“Fifty dollars.",
+    "start": 861.384,
+    "end": 862.805,
+    "zh": "“五十美元。",
+    "zh_hant": "“五十美元。"
+  },
+  {
+    "index": 219,
+    "text": "I wish I could have a dream like that.”",
+    "start": 862.965,
+    "end": 865.186,
+    "zh": "但愿我也能做这样的梦。”",
+    "zh_hant": "但願我也能做這樣的夢。”"
+  },
+  {
+    "index": 220,
+    "text": "And then they gave Prince Michael of Valleluna a hard shake,",
+    "start": 865.427,
+    "end": 869.569,
+    "zh": "然后他们狠狠地摇了摇瓦莱卢纳的迈克尔王子，",
+    "zh_hant": "然後他們狠狠地搖了搖瓦萊盧納的邁克爾王子，"
+  },
+  {
+    "index": 221,
+    "text": "and brought him out of his dreams and into real life.",
+    "start": 869.809,
+    "end": 875.612,
+    "zh": "把他从梦中唤醒，回到现实生活。",
+    "zh_hant": "把他從夢中喚醒，回到現實生活。"
+  },
+  {
+    "index": 222,
+    "text": "Download activities to help you understand this story ​here.",
+    "start": 875.262,
+    "end": 879.83,
+    "zh": "在此下载练习活动，帮助你理解这个故事。",
+    "zh_hant": "在此下載練習活動，幫助你理解這個故事。"
+  },
+  {
+    "index": 223,
+    "text": "Now it's your turn to use the words in this story.",
+    "start": 879.48,
+    "end": 885.33,
+    "zh": "现在轮到你来运用这个故事中的词语了。",
+    "zh_hant": "現在輪到你來運用這個故事中的詞語了。"
+  },
+  {
+    "index": 224,
+    "text": "Do you feel that you are often in a hurry?",
+    "start": 884.98,
+    "end": 890.33,
+    "zh": "你觉得你经常匆匆忙忙吗？",
+    "zh_hant": "你覺得你經常匆匆忙忙嗎？"
+  },
+  {
+    "index": 225,
+    "text": "How often do you stop to enjoy the world around you?",
+    "start": 889.98,
+    "end": 895.83,
+    "zh": "你多久会停下来享受周围的世界？",
+    "zh_hant": "你多久會停下來享受周圍的世界？"
+  },
+  {
+    "index": 226,
+    "text": "Let us know in the comments section or on our Facebook page.",
+    "start": 895.48,
+    "end": 901.83,
+    "zh": "请在评论区或我们的Facebook页面上告诉我们。",
+    "zh_hant": "請在評論區或我們的Facebook頁面上告訴我們。"
+  },
+  {
+    "index": 227,
+    "text": "Download activities to use with this story below.",
+    "start": 901.48,
+    "end": 905.83,
+    "zh": "在下方下载配合本故事的练习活动。",
+    "zh_hant": "在下方下載配合本故事的練習活動。"
+  }
+]
