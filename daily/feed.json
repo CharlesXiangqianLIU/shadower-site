@@ -627,19 +627,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-11-05",
-      "title": "'Pecos Bill,' An American Folk Tale",
-      "date": "2026-11-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-11-05b",
       "title": "'Pecos Bill,' An American Folk Tale",
       "date": "2026-11-05",
@@ -664,19 +651,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-05-2",
-      "title": "Building a better world with wood?",
-      "date": "2026-11-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-05-3",
       "title": "Talking about TV shows",
       "date": "2026-11-05",
@@ -689,19 +663,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-05-3",
-      "title": "Talking about TV shows",
-      "date": "2026-11-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-05-4",
       "title": "Be Careful What You 'Bank On'",
       "date": "2026-11-05",
@@ -712,19 +673,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-11-05-4",
-      "title": "Be Careful What You 'Bank On'",
-      "date": "2026-11-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-11-05-4b",
@@ -747,18 +695,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-05-5",
-      "title": "遺傳到Emily的基因會不可愛嗎🥰😍",
-      "date": "2026-11-05",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-05-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-04",
@@ -2394,30 +2330,6 @@
       "date": "2026-09-14",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-3.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
-      "id": "2026-09-13",
-      "title": "How babies learn to talk",
-      "date": "2026-09-13",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-13-2",
-      "title": "Talking about breakfast",
-      "date": "2026-09-13",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-13-2.json",
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
@@ -8061,32 +7973,6 @@
         2.52,
         1.08,
         2.18
-      ]
-    },
-    {
-      "id": "2026-07-21-81",
-      "title": "亚裔为何更爱同族恋爱",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-81.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-81.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        6.712,
-        1.861,
-        1.52,
-        2.741,
-        0.88,
-        0.8,
-        4.762,
-        1.12,
-        1.66,
-        2.161,
-        4.881,
-        0.7,
-        9.703,
-        1.64
       ]
     },
     {
