@@ -577,19 +577,6 @@
       "level": "B1"
     },
     {
-      "id": "wu-2026-11-06",
-      "title": "What Is Art Deco and Why Is It Popular Again?",
-      "date": "2026-11-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Intermediate",
-      "origFolderEn": "VOA Intermediate",
-      "accent": "american"
-    },
-    {
       "id": "2026-11-06-2",
       "title": "Could vaccines cure cancer?",
       "date": "2026-11-06",
@@ -602,19 +589,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-06-2",
-      "title": "Could vaccines cure cancer?",
-      "date": "2026-11-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-06-3",
       "title": "Talking about future plans",
       "date": "2026-11-06",
@@ -625,19 +599,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-11-06-3",
-      "title": "Talking about future plans",
-      "date": "2026-11-06",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-06-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-11-05",
@@ -2336,30 +2297,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-14-2",
-      "title": "The secrets to a healthy old age",
-      "date": "2026-09-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-14-3",
-      "title": "Talking about Halloween",
-      "date": "2026-09-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-14-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-12",
