@@ -51,6 +51,28 @@
       "accent": "british"
     },
     {
+      "id": "2026-11-14-3",
+      "title": "各位想被媽咪親的學會了嗎😍",
+      "date": "2026-11-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-11-14-3",
+      "title": "各位想被媽咪親的學會了嗎😍",
+      "date": "2026-11-14",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-11-13",
       "title": "Talking about fashion",
       "date": "2026-11-13",
