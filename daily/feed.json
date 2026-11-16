@@ -503,19 +503,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-08",
-      "title": "E-rickshaws driving away pollution",
-      "date": "2026-11-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-08-2",
       "title": "Talking about health",
       "date": "2026-11-08",
@@ -526,19 +513,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-11-08-2",
-      "title": "Talking about health",
-      "date": "2026-11-08",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-08-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-11-07",
@@ -2237,30 +2211,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-16-2",
-      "title": "Having acne",
-      "date": "2026-09-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-16-3",
-      "title": "Talking about relaxing",
-      "date": "2026-09-16",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-16-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-15",
