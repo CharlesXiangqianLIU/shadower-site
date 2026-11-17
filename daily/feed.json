@@ -51,6 +51,28 @@
       "accent": "british"
     },
     {
+      "id": "2026-11-17-3",
+      "title": "米莉,你也太实诚了吧😂",
+      "date": "2026-11-17",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-11-17-3",
+      "title": "米莉,你也太实诚了吧😂",
+      "date": "2026-11-17",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-11-16",
       "title": "Eating for two",
       "date": "2026-11-16",
