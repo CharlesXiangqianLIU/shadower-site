@@ -404,19 +404,6 @@
       "level": "C1"
     },
     {
-      "id": "wu-2026-11-10",
-      "title": "'The Ransom of Red Chief,' by O. Henry",
-      "date": "2026-11-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA American Stories·进阶版",
-      "origFolderEn": "VOA American Stories",
-      "accent": "american"
-    },
-    {
       "id": "2026-11-10b",
       "title": "'The Ransom of Red Chief,' by O. Henry",
       "date": "2026-11-10",
@@ -441,19 +428,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-10-2",
-      "title": "How bubble tea got its bubbles",
-      "date": "2026-11-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-10-3",
       "title": "Talking about technology",
       "date": "2026-11-10",
@@ -466,19 +440,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-10-3",
-      "title": "Talking about technology",
-      "date": "2026-11-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-10-4",
       "title": "Partners in Crime",
       "date": "2026-11-10",
@@ -489,19 +450,6 @@
       "accent": "american",
       "free": true,
       "level": "B2"
-    },
-    {
-      "id": "wu-2026-11-10-4",
-      "title": "Partners in Crime",
-      "date": "2026-11-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-4.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-4.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "VOA Words and Their Stories·进阶版",
-      "origFolderEn": "VOA Words and Their Stories",
-      "accent": "american"
     },
     {
       "id": "2026-11-10-4b",
@@ -524,18 +472,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-10-5",
-      "title": "這長大想起來應該會後悔吧 同學的媽媽是凱特布蘭琪欸😍",
-      "date": "2026-11-10",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-5.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-10-5.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-09",
@@ -7948,29 +7884,6 @@
         0.94,
         1.74,
         1.761
-      ]
-    },
-    {
-      "id": "2026-07-21-79",
-      "title": "康纳挑战李小龙的一英寸拳",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-79.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-79.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        2.261,
-        2.76,
-        2.48,
-        2.681,
-        1.64,
-        0.74,
-        3.481,
-        0.7,
-        6.141,
-        2.201,
-        0.58
       ]
     },
     {
