@@ -26,6 +26,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-11-20-2",
+      "title": "Talking about yourself",
+      "date": "2026-11-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-20-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-20-2.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-11-20-2",
+      "title": "Talking about yourself",
+      "date": "2026-11-20",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-20-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-20-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-11-19",
       "title": "Why everyone loves the underdog",
       "date": "2026-11-19",
@@ -303,7 +328,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -314,7 +339,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-15-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
