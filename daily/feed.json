@@ -404,19 +404,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-12",
-      "title": "Bitter food, better health?",
-      "date": "2026-11-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-12-2",
       "title": "Talking about music",
       "date": "2026-11-12",
@@ -429,19 +416,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-12-2",
-      "title": "Talking about music",
-      "date": "2026-11-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-12-3",
       "title": "婚礼将近她却想剃光头了",
       "date": "2026-11-12",
@@ -450,18 +424,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-12-3",
-      "title": "婚礼将近她却想剃光头了",
-      "date": "2026-11-12",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-12-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-11",
@@ -2220,18 +2182,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "2026-09-20",
-      "title": "Why you need a good night's sleep",
-      "date": "2026-09-20",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-20.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-20.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
     },
     {
       "id": "2026-09-19",
@@ -7931,31 +7881,6 @@
         1.54,
         2.641,
         1.641
-      ]
-    },
-    {
-      "id": "2026-07-21-78",
-      "title": "亚洲人进门都要拖鞋😂",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-78.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-78.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        3.762,
-        1.32,
-        2.661,
-        1.461,
-        0.66,
-        0.701,
-        2.381,
-        4.582,
-        3.221,
-        5.422,
-        0.94,
-        1.74,
-        1.761
       ]
     },
     {
