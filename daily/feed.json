@@ -429,19 +429,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-13",
-      "title": "Talking about fashion",
-      "date": "2026-11-13",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-13.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-13.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-12",
       "title": "Bitter food, better health?",
       "date": "2026-11-12",
@@ -2208,30 +2195,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-21-2",
-      "title": "Divorce: Why does it happen?",
-      "date": "2026-09-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-21-3",
-      "title": "Talking about driving",
-      "date": "2026-09-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-21-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-19",
