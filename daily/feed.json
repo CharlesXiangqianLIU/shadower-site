@@ -26,6 +26,28 @@
       "accent": "british"
     },
     {
+      "id": "2026-11-21-2",
+      "title": "蕾哈娜:传说中的酒杯大盗",
+      "date": "2026-11-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-21-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-21-2.json",
+      "folder": "脱口秀",
+      "folderEn": "Talk Show",
+      "free": true
+    },
+    {
+      "id": "wu-2026-11-21-2",
+      "title": "蕾哈娜:传说中的酒杯大盗",
+      "date": "2026-11-21",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-21-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-21-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "脱口秀",
+      "origFolderEn": "Talk Show"
+    },
+    {
       "id": "2026-11-20",
       "title": "Are microplastics harming us?",
       "date": "2026-11-20",
