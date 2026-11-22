@@ -404,19 +404,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-14",
-      "title": "Learning from different generations",
-      "date": "2026-11-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-14-2",
       "title": "Talking about the countryside",
       "date": "2026-11-14",
@@ -429,19 +416,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-14-2",
-      "title": "Talking about the countryside",
-      "date": "2026-11-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-14-3",
       "title": "各位想被媽咪親的學會了嗎😍",
       "date": "2026-11-14",
@@ -450,18 +424,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-14-3",
-      "title": "各位想被媽咪親的學會了嗎😍",
-      "date": "2026-11-14",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-14-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-13",
@@ -2184,18 +2146,6 @@
       "accent": "american",
       "free": false,
       "level": "C1"
-    },
-    {
-      "id": "2026-09-22-2",
-      "title": "Talking about snacks",
-      "date": "2026-09-22",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-22-2.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-22-3",
@@ -7914,33 +7864,6 @@
         2.2,
         5.061,
         2.481
-      ]
-    },
-    {
-      "id": "2026-07-21-77",
-      "title": "即兴假韩语骗过导演😂",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-77.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-77.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        2.961,
-        5.843,
-        3.182,
-        1.5,
-        3.601,
-        7.484,
-        1.921,
-        4.562,
-        2.401,
-        1.441,
-        2.661,
-        1.76,
-        1.54,
-        2.641,
-        1.641
       ]
     },
     {
