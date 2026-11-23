@@ -404,19 +404,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-15",
-      "title": "Talking at the table",
-      "date": "2026-11-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-15.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-15.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-15-2",
       "title": "Talking about restaurants",
       "date": "2026-11-15",
@@ -427,19 +414,6 @@
       "accent": "british",
       "free": false,
       "level": "A2"
-    },
-    {
-      "id": "wu-2026-11-15-2",
-      "title": "Talking about restaurants",
-      "date": "2026-11-15",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-15-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-15-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
     },
     {
       "id": "2026-11-14",
@@ -2148,30 +2122,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-23-2",
-      "title": "Tech that refuses to die",
-      "date": "2026-09-23",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-23-3",
-      "title": "Talking about fears",
-      "date": "2026-09-23",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-23-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-22",
