@@ -404,19 +404,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-17",
-      "title": "Dancing for the brain",
-      "date": "2026-11-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-17-2",
       "title": "Talking about family jobs",
       "date": "2026-11-17",
@@ -429,19 +416,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-17-2",
-      "title": "Talking about family jobs",
-      "date": "2026-11-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-17-3",
       "title": "米莉,你也太实诚了吧😂",
       "date": "2026-11-17",
@@ -450,18 +424,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-17-3",
-      "title": "米莉,你也太实诚了吧😂",
-      "date": "2026-11-17",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-17-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-16",
@@ -2100,30 +2062,6 @@
       "accent": "american",
       "free": false,
       "level": "B1"
-    },
-    {
-      "id": "2026-09-25-2",
-      "title": "Why do we itch?",
-      "date": "2026-09-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-2.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-25-3",
-      "title": "Talking about happiness",
-      "date": "2026-09-25",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-25-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
     },
     {
       "id": "2026-09-24",
@@ -7908,34 +7846,6 @@
         1.34,
         3.721,
         5.202
-      ]
-    },
-    {
-      "id": "2026-07-21-76",
-      "title": "跨文化玩笑真敢播🤣",
-      "date": "2026-07-21",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-76.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-07-21-76.json",
-      "folder": "脱口秀",
-      "free": true,
-      "folderEn": "Talk Show",
-      "durations": [
-        3.111,
-        2.0,
-        4.821,
-        5.961,
-        9.963,
-        1.64,
-        3.041,
-        1.9,
-        1.64,
-        2.2,
-        1.74,
-        1.48,
-        10.503,
-        2.2,
-        5.061,
-        2.481
       ]
     },
     {
