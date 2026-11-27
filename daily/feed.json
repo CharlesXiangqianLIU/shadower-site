@@ -382,19 +382,6 @@
       "level": "B2"
     },
     {
-      "id": "wu-2026-11-19",
-      "title": "Why everyone loves the underdog",
-      "date": "2026-11-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Learning English",
-      "origFolderEn": "BBC Learning English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-19-2",
       "title": "Talking about the weather",
       "date": "2026-11-19",
@@ -407,19 +394,6 @@
       "level": "A2"
     },
     {
-      "id": "wu-2026-11-19-2",
-      "title": "Talking about the weather",
-      "date": "2026-11-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19-2.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": false,
-      "origFolder": "BBC Real Easy English",
-      "origFolderEn": "BBC Real Easy English",
-      "accent": "british"
-    },
-    {
       "id": "2026-11-19-3",
       "title": "嫌吻戏口水太多她找老公",
       "date": "2026-11-19",
@@ -428,18 +402,6 @@
       "folder": "脱口秀",
       "folderEn": "Talk Show",
       "free": true
-    },
-    {
-      "id": "wu-2026-11-19-3",
-      "title": "嫌吻戏口水太多她找老公",
-      "date": "2026-11-19",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19-3.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-19-3.json",
-      "folder": "每周更新",
-      "folderEn": "Weekly Update",
-      "free": true,
-      "origFolder": "脱口秀",
-      "origFolderEn": "Talk Show"
     },
     {
       "id": "2026-11-18",
@@ -2013,30 +1975,6 @@
       "date": "2026-09-28",
       "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-3.m4a",
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-28-3.json",
-      "folder": "BBC Real Easy English",
-      "folderEn": "BBC Real Easy English",
-      "accent": "british",
-      "free": false,
-      "level": "A2"
-    },
-    {
-      "id": "2026-09-27",
-      "title": "Learning a new food culture",
-      "date": "2026-09-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27.json",
-      "folder": "BBC Learning English",
-      "folderEn": "BBC Learning English",
-      "accent": "british",
-      "free": false,
-      "level": "B2"
-    },
-    {
-      "id": "2026-09-27-2",
-      "title": "Talking about days out",
-      "date": "2026-09-27",
-      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27-2.m4a",
-      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-09-27-2.json",
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
