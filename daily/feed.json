@@ -26,6 +26,31 @@
       "accent": "british"
     },
     {
+      "id": "2026-11-28-2",
+      "title": "Talking about films",
+      "date": "2026-11-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-28-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-28-2.json",
+      "folder": "BBC Real Easy English",
+      "folderEn": "BBC Real Easy English",
+      "accent": "british",
+      "free": true,
+      "level": "A2"
+    },
+    {
+      "id": "wu-2026-11-28-2",
+      "title": "Talking about films",
+      "date": "2026-11-28",
+      "audio": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-28-2.m4a",
+      "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-28-2.json",
+      "folder": "每周更新",
+      "folderEn": "Weekly Update",
+      "free": true,
+      "origFolder": "BBC Real Easy English",
+      "origFolderEn": "BBC Real Easy English",
+      "accent": "british"
+    },
+    {
       "id": "2026-11-27",
       "title": "Is Gen Z getting less intelligent?",
       "date": "2026-11-27",
@@ -281,7 +306,7 @@
       "folder": "BBC Real Easy English",
       "folderEn": "BBC Real Easy English",
       "accent": "british",
-      "free": true,
+      "free": false,
       "level": "A2"
     },
     {
@@ -292,7 +317,7 @@
       "sentences_url": "https://charlesxiangqianliu.github.io/shadower-site/daily/2026-11-23-2.json",
       "folder": "每周更新",
       "folderEn": "Weekly Update",
-      "free": true,
+      "free": false,
       "origFolder": "BBC Real Easy English",
       "origFolderEn": "BBC Real Easy English",
       "accent": "british"
